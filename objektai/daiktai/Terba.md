@@ -63,19 +63,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-195300"></a>
-- t-001
-  teiginys: "Piemens terboje laikomas maistas, kiaušiniai ir kitos įdėtos gėrybės."
-  atnaujinta: "2026-07-24 11:45"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177667
-    - c-177673
-
 <a id="claim-t-195301"></a>
-- t-002
+- t-001
   teiginys: "Terba minima kaip fizinis nešimo daiktas vėžiams parnešti."
   atnaujinta: "2026-07-12 01:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -85,7 +74,7 @@ Nenurodyta
     - c-177671
 
 <a id="claim-t-195302"></a>
-- t-003
+- t-002
   teiginys: "ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais."
   atnaujinta: "2026-07-12 01:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -124,12 +113,10 @@ Nenurodyta
   citata_rodoma: "Piemuo, suvalgęs be duonos ir be druskos kiaušinį, apsičiaupstė ir, atsigręžęs į mane pasakė: „Jau kiaušinis man nerūpės ir terboje nekrutės“."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-177668
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -183,7 +170,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-177671
   autorius: "M. Katkus"
@@ -203,7 +190,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-177672
   autorius: "M. Katkus"
@@ -238,12 +225,10 @@ Nenurodyta
   citata_rodoma: "Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir atveža valgyti pusryčių ir pietų ąsočiuose ir terbose."
   statusas: verified
   atnaujinta: "2026-07-12 01:46"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-177674
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

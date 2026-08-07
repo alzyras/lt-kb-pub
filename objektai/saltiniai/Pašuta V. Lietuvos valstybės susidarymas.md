@@ -82,7 +82,8 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
 - id: c-61554
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 200."
   citata_originali: |
     Daug netikėlių šiose kautynėse buvo mirtinai sužeista, daug jų
     krito nukautų. Sužeidė ir dvylika mūsų brolių bei trisdešimt karių, o broliui Hartmanui iš
@@ -103,7 +104,8 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
 - id: c-179007
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
   citata_originali: |
     Šitai išvydę, pilėnai, pasičiupę
     ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
@@ -119,7 +121,8 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
 - id: c-179008
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
   citata_originali: |
     Dar labiau susirūpino
     broliai, kai, priėję antrąjį postovį, ir ten neberado nei duonos, nei kitų paliktų daiktų;

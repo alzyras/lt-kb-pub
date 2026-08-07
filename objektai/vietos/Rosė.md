@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d27da43b1682e1a5cd6367e8"
+canonical_name: "Rosė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rosė"]
+sameAs: []
+canonical_biography: "Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė vardą gavusia iš lietuvių genties tautų. Narbutas Rosę aprašė kaip upę, tekančią per tankiai gyvenamas, gražias ir derlingas Volkovysko apskrities apylinkes."
+place_authority: true
+historical_names: []
 ---
 # Rosė
 
@@ -76,7 +85,8 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
 - id: c-171857
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Galbūt neįsižeis slavų seno­
     vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
@@ -103,7 +113,8 @@ Narbutas Rosės (Ross) upę, įtekančią į Dneprą dešiniajame krante, laikė
 - id: c-175515
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
   citata_originali: |
     Il­
     gai nedelsdami, jie perėjo smėlėtas Nemuno pakrantes,

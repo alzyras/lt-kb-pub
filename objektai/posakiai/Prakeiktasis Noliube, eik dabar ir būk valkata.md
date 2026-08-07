@@ -71,18 +71,26 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
 <a id="claim-t-89603"></a>
 - t-003
   teiginys: "Po Vargulio įspėjimo Noliubas pabėgo į Ziokos valsčių, o vėliau, nukamuotas antpuolių, nulenkė galvą prieš tikėjimą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Noliubas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prakeiktasis Noliube, eik dabar ir būk valkata: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Noliubas: mention_match, person, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prakeiktasis Noliube, eik dabar ir būk valkata\" parinktas kaip owner_note_path. Targetas \"Noliubas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-85542
+    - c-85544
 
 ## Citatos
 
 - id: c-85542
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 119-120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119-120."
   citata_originali: |
     Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
                             pirmiausia — prieš Kvedenavos valsčių
@@ -108,12 +116,12 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
 
 - id: c-85544
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
     nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie
@@ -129,3 +137,4 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-003

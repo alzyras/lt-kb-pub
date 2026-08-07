@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-194412ea8cc7f0aa2c2dc340"
+canonical_name: "Vladimiras Algirdaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladimiras Algirdaitis"]
+sameAs: []
+canonical_biography: "Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaikščiui Teodorui laidavus, Andrius buvo paleistas."
 ---
 # Vladimiras Algirdaitis
 
@@ -103,7 +110,8 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
 - id: c-166269
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 319."
   citata_originali: |
     Kaip bėglys, prie jo pri­
     sijungė ir trečias Gedimino anūkas, buvęs Podolės kunigaikštis
@@ -125,7 +133,8 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 177."
   citata_originali: |
     Priežastis — nereikia manyt, ją buvus svarbiausią —
     atgavimas Skirgailai Kijevo, kuris jam pagal sutartį buvo paža­
@@ -145,7 +154,8 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 301."
   citata_originali: |
     Bet Vytautas su jais nedarė ilgų ce­
     remonijų. Pritariamas Jogailos, jis pirmiausia atėmė valdomą

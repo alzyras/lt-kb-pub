@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-032eb9f5e51ef9d9336ab520"
+canonical_name: "Raudonoji Rusia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Raudonoji Rusia"]
+sameAs: []
+canonical_biography: "Kaip lenkų daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip Lietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš Lietuvos vėliau nuvyko ir pats Jogaila."
+place_authority: true
+historical_names: []
 ---
 # Raudonoji Rusia
 
@@ -51,7 +60,8 @@ Kaip lenkų daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, ta
 - id: c-34021
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 295."
   citata_originali: |
     Tuo metu,
     kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai

@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7f7995dbbc0d149d41f065b"
+canonical_name: "Bonifacas VIII (arkivyskupas, XIII–XIV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bonifacas VIII","Bonifacas VIII (arkivyskupas, XIII–XIV a.)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol. Dusburgietis teigia, kad apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą 1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos karalių (Ptol. Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus."
 ---
 # Bonifacas VIII (arkivyskupas, XIII–XIV a.)
 
@@ -59,7 +66,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 <a id="claim-t-59901"></a>
 - t-002
   teiginys: "Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu."
-  atnaujinta: "2026-07-24 15:56"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -118,7 +125,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 <a id="claim-t-194476"></a>
 - t-006
   teiginys: "Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -159,7 +166,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60532
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
   citata_originali: |
     95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
 
@@ -179,7 +187,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
   citata_originali: |
     Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
     suėję į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
@@ -202,7 +211,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 242-243"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 242-243."
   citata_originali: |
     83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
 
@@ -223,7 +233,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60535
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241."
   citata_originali: |
     „Ir dievas matė visa, ką buvo padaręs, ir buvo labai gera”, ir nebuvo
     nieko tokio, ko padaręs neapkęstų. Jis nepakenčia tik niekingos nuodėmės, jis tik ją
@@ -245,7 +256,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 244."
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
 

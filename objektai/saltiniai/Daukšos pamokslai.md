@@ -49,9 +49,9 @@ Daukša pamokslus, visam metui išgul dęs, išspaudė metuose 1599.
 ## Citatos
 
 - id: c-184799
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 117"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 117."
   citata_originali: |
     Nedaug tepasigirs ir krikščionys ateinančioms
     kartoms savo išminčia ir dorybe, kurie, tapę jau nuo

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b3ea9d713032fd198d0ae294"
+canonical_name: "Česchonis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Česchonis"]
+sameAs: []
+canonical_biography: "dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių namą ir iš kitos to paties Česchonio namo pusės keliu palei tvorą ir Šv."
 ---
 # Česchonis
 
@@ -51,7 +58,8 @@ dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių
 - id: c-83875
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 128."
   citata_originali: |
     Quam quidem partem ci­
     vitatis quadam semita quae a Castro

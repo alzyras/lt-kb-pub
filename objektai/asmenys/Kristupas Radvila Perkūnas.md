@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-afb6507d75cfe35b323d4337"
+canonical_name: "Kristupas Radvila Perkūnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristupas Radvila Perkūnas"]
+sameAs: []
+canonical_biography: "Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju vadu buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis, kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas Perkūnu. Kristupas I Radvila Perkūnas, Mikalojaus R. Mikalojus Rudasis, paskui — jo sūnus Kristupas Perkūnas († 1603 m.), po jo — jo sūnus Jonušas (rokošininkas — † 1620 m.), vėliau—kitas sūnus Kristupas († 1640 m.) ir pagaliau — šio sūnus Jonušas, — tas pats, kurs 1655 m. padarė sutartį su Švedais."
 ---
 # Kristupas Radvila Perkūnas
 
@@ -131,7 +138,8 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 - id: c-42093
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 98."
   citata_originali: |
     maistą ir amuniciją. Birželio 2-3 d. LDK di-
     dysis etmonas Kristupas Radvila Perkūnas
@@ -152,7 +160,8 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 - id: c-42094
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 98."
   citata_originali: |
     prie Ūlos, kuriame Lietuvos kariuomenė
     sutriuškino Rusijos kariuomenę. Jo ka-
@@ -176,7 +185,8 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 - id: c-76187
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 352"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 352."
   citata_originali: |
     Lietuvoje protestantų židinys buvo galingieji biržiečiai
     Radvilos. Karalius negalėjo jų visiškai nustumti, nes jie buvo
@@ -204,7 +214,8 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 - id: c-76189
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 300."
   citata_originali: |
     Magnusas net buvo karūnuotas
     Livonijos karalium. Caro ir Magnuso kariuomenė tuomet ėmė
@@ -227,7 +238,8 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 - id: c-76190
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     “14, 4iki 6 tūkstančių raitelių. Tačiau tai
 
@@ -252,9 +264,9 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     - t-002
 
 - id: c-184883
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 321"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 321."
   citata_originali: |
     Apskritai
     didžiųjų Lietuvos miestų Vilniaus ir Kauno liuteronų bendruomenės, būdamos in-

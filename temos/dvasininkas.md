@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 93
+tema_objektu_skaicius: 94
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 93.
+Objektų skaičius: 94.
 
 ## Kaip naudoti
 
@@ -119,5 +119,6 @@ Objektų skaičius: 93.
 - [Petras d’Ailli](../objektai/autoriai/Petras%20d%E2%80%99Ailli)
 - [St. Yla](../objektai/autoriai/St.%20Yla)
 - [Stanislovas Rapagelionis](../objektai/autoriai/Stanislovas%20Rapagelionis)
+- [Stanislovas Čerskis](../objektai/autoriai/Stanislovas%20%C4%8Cerskis)
 - [Viklifas](../objektai/autoriai/Viklifas)
 - [Šercas](../objektai/autoriai/%C5%A0ercas)

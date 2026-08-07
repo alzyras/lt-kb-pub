@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dddfbd63fcadeb21f2e0b90c"
+canonical_name: "Helvigas iš Goldbacho"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Helvigas iš Goldbacho"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411. Dusburgietis teigia, kad tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus ir juos išsivarė į nelaisvę. Dusburgietis teigia, kad apie brolį Helvigą, Prūsijos žemės magistrą (1300 metai) Brolis Helvigas iš Goldbacho iš Tiuringijos, penkioliktas Prūsijos žemės magistras, vadovavo vienus metus; vėliau, atsisakęs pareigų, grįžo į Vokietiją, kur mirė ir palaidotas."
 ---
 # Helvigas iš Goldbacho
 
@@ -74,7 +81,7 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 <a id="claim-t-60024"></a>
 - t-003
   teiginys: "Pagudėnai ginkluoti užpuolė Kristburgo komtūrą Helvigą iš Goldbacho, Elbingo komtūrą ir jų padėjėjus bei išsivarė juos į nelaisvę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -116,7 +123,8 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 - id: c-60654
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
   citata_originali: |
     Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti
     dėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne
@@ -138,7 +146,8 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 - id: c-60655
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 159."
   citata_originali: |
     Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių
     apygardų nusiaubimą ir Klemento pilies sugriovimą
@@ -164,7 +173,8 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 - id: c-60656
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     Apie brolį Helvigą, Prūsijos žemės magistrą (1300 metai)
 

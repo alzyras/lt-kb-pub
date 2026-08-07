@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-172609
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 181."
   citata_originali: |
     Kaip auką jiems atnešdavo prabangiausių valgių. Jeigu tik
     tie dievaičiai ketindavo apsigyventi kieno nors namuose, jie

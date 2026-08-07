@@ -84,7 +84,8 @@ Nenurodyta
 - id: c-02229
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 400."
   citata_originali: |
     Yra likę žinių apie vieną vienuolį, kuris kasdien palaidodavęs
     po keletą dešimčių lavonų. Vieną kartą, jam vežant laidoti 60—70
@@ -102,7 +103,8 @@ Nenurodyta
 - id: c-02230
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 400."
   citata_originali: |
     Nebūdavo galima jų spėti nė laidoti.
     Laidojo daugiausia Š v. Roko vienuoliai eremitai, kurių

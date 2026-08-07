@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c96f1446e2e5e0d7a1c1cda9"
+canonical_name: "Petras Malachovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Petras Malachovskis"]
+sameAs: []
+canonical_biography: "Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą. Teodoro Narbuto pastaboje Petras Malachovskis siejamas su 1780 m. Lucke išleistu bajorų pavardžių ir herbų rinkiniu."
 ---
 # Petras Malachovskis
 
@@ -85,7 +92,8 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
 - id: c-174498
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 510"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
   citata_originali: |
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį
     LTI leidimą (PEĮ. L. 273). T. Narbutas turėjo omenyje Černigovo

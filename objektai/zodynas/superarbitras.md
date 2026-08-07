@@ -52,7 +52,8 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 148."
   citata_originali: |
     Žemaitija buvo atiduota Vytautui ir Jogailai ir tai tik iki gyvos
     jų galvos; Lenkija dar gavo iš Ordino už išpirktuosius belais­

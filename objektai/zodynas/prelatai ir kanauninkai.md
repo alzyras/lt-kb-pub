@@ -57,7 +57,8 @@ Rygos miesto tarė­ jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323 
 - id: c-82523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127."
   citata_originali: |
     Lenkų didžponiams patarus, pir­
     muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­

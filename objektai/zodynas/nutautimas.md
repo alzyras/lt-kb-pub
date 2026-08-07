@@ -71,7 +71,8 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
 - id: c-94127
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 681"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 681."
   citata_originali: |
     duodama daugiausia agitacinės medžiagos, o kartais ir literatūros
     dalykų.
@@ -94,7 +95,8 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
 - id: c-94129
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 683"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 683."
   citata_originali: |
     Bet visos didžiosios
     Europos tautos jau seniai pradėjo tvarkyti savo emigraciją: jos

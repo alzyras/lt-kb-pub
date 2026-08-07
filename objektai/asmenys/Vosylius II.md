@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eed55912d8c8e6df1b04abdb"
+canonical_name: "Vosylius II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vosylius II"]
+sameAs: []
+canonical_biography: "Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnamečiu savo sūnumi Vosylių II ir, pildydama savo mirusio vyro valią, prašė paimti sūnų savo globon, paliekant jam jo valstybę^2 ). Į iškilmes buvo pa­ kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­ to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­ nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug mažesnių chanų. Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė."
 ---
 # Vosylius II
 
@@ -80,7 +87,8 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 298."
   citata_originali: |
     Tuo pat metu jis praplėtė savo valdžią Okos
     aukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,
@@ -102,7 +110,8 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 246."
   citata_originali: |
     tėj, kuri turėjo dekoruoti „šviesiausius, tikruosius, garbinguo­
     sius ir laisvuosius“ Lietuvos karalius^1 ). Į iškilmes buvo pa­

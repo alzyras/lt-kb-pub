@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a172539bc83d58fe539987b"
+canonical_name: "Mindaugas Tamošaitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lietuvos edukologijos universiteto lektorius dr. Mindaugas Tamošaitis","Mindaugas Tamošaitis","Tamošaitis M."]
+sameAs: []
+canonical_biography: "Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autorių. Redaktoriaus žodyje jam priskiriami V ir VI skyriai, apibendrinantys laikotarpį nuo 1940 m. okupacijų iki 2004 m.; bibliografijoje jis siejamas su „Lietuvos Seimo istorija: XX–XXI a. pradžia“."
 ---
 # Mindaugas Tamošaitis
 
@@ -62,7 +69,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
 <a id="claim-t-26720"></a>
 - t-002
   teiginys: "Bibliografijoje Tamošaitis M. kartu su Blažyte-Baužiene D. ir Truska L. siejamas su veikalu „Lietuvos Seimo istorija: XX–XXI a. pradžia“."
-  atnaujinta: "2026-07-19 19:01"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -93,7 +100,8 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
 - id: c-154574
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 10-11"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 10-11."
   citata_originali: |
     Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
     reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
@@ -137,7 +145,8 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
 - id: c-154575
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Vil-
     nius, 2005.
@@ -153,7 +162,8 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
 - id: c-154576
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 4-5"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 4-5."
   citata_originali: |
     Redakcinė kolegija:
     Prof. dr. Raimundas Lopata – pirmininkas

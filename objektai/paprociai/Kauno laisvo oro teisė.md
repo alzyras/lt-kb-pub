@@ -63,9 +63,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-185379
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 171"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 171."
   citata_originali: |
     Dešimt metų kaip riba, po kurios Kaune gyvenantis kieno nors valdinys
     tampa laisvas, dar minima keliose bylose. 1545 m. vaitas Stanislovas Stanas, remda-

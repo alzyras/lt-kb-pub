@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-069187bf2b6101a46f35cb83"
+canonical_name: "Jokimas Rozencveigas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokimas Rozencveigas"]
+sameAs: []
+canonical_biography: "Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasakojant apie didžiulį kimbrų epochos potvynį, arba vietinį tvaną. Iš to išplaukia, kad buvo pastebėta Rozencveigo ar klaidin gai į egzempliorius, buvusius po ranka Hartknochui ir Pretorijui, o gal ir Strijkovskiui, įrašyta data, tikriausiai prieš skaičių 190 pridėtas vienas vienetas."
 ---
 # Jokimas Rozencveigas
 
@@ -54,7 +61,8 @@ Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasako
 - id: c-174165
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     Strijkovskis neabejotinai taiso šios vietos prieštaravimus
     ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo

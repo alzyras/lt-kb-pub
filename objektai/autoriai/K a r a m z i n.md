@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ec8789ed5b3c4eb11758a5c7"
+canonical_name: "K a r a m z i n"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K a r a m z i n"]
+sameAs: []
+canonical_biography: "Išgirdę tą, gudai vokyčiams tuojau karę apskelbė ir tuojau su 12 000 karėjų ku- 1 K a r a m z i n , Istor."
 ---
 # K a r a m z i n
 
@@ -41,9 +48,9 @@ Išgirdę tą, gudai vokyčiams tuojau karę apskelbė ir tuojau su 12 000 karė
 ## Citatos
 
 - id: c-184777
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 231"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 231."
   citata_originali: |
     Išgirdę tą, gudai vokyčiams
     tuojau karę apskelbė ir tuojau su 12 000 karėjų ku-

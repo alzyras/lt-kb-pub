@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a740868470de9616887ecec1"
+canonical_name: "V. Bičiūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Bičiūnas"]
+sameAs: []
+canonical_biography: "Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentarai."
 ---
 # V. Bičiūnas
 
@@ -72,7 +79,8 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 318."
   citata_originali: |
     Labai reikšmingą priedą prie „Likimo kelių” sudaro V. Bičiūno
     pastabos ir komentarai. Be jų daugeliui nebūtų aiškios nei paties au­
@@ -91,7 +99,8 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 318."
   citata_originali: |
     8. Vinco Krėvės Raštai VIII t. Misterijos „LIKIMO KELIAIS” II da­
     lis, su priedu — V. Bičiūno tos misterijos pastabos ir komentarai. Abiejų

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1db0a45edba9b82bf37635a6"
+canonical_name: "Juozas Tumas-Vaižgantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozas Tumas-Vaižgantas"]
+sameAs: []
+canonical_biography: "Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jaunas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, tolerancijos ir geranoriškumo įsikūnijimas. Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V."
 ---
 # Juozas Tumas-Vaižgantas
 
@@ -41,7 +48,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 <a id="claim-t-63766"></a>
 - t-001
   teiginys: "Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -71,7 +78,8 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 - id: c-64708
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 119."
   citata_originali: |
     Ta pati redakci-
     ja leido ir kaimiečiams skirtą laikraštį „Ūkininkas“.
@@ -94,7 +102,8 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 - id: c-64709
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 168."
   citata_originali: |
     Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
     žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius po-

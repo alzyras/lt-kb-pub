@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-17897b949cb32bfeca3978dc"
+canonical_name: "Vilhelmas fon Helfelšteinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vilhelmas fon Helfelšteinas"]
+sameAs: []
+canonical_biography: "1402 m. viduryje kryžiuočiai, vedami didžiojo komtūro Vilhelmo fon Helfelšteino, plaukdami Nemunu, Nerimi, patraukė į Vilnių."
 ---
 # Vilhelmas fon Helfelšteinas
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-42303
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 57."
   citata_originali: |
     1402 m. viduryje kryžiuočiai, vedami didžiojo komtūro Vilhelmo fon Helfelšteino, plaukdami Nemunu, Nerimi,
     patraukė į Vilnių. Savo pasirengimu žygis buvo vienas iš didžiausių. Nepavykus paimti Vilniaus pilių, kryžiuočiai, pakeliui naikindami viską, patraukė į Medinin-

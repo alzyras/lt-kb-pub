@@ -38,7 +38,8 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
 - id: c-22520
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 190."
   citata_originali: |
     Taip birželio 17-ąją at-
     sirado gudriai sumanyta savotiška pereinamojo laikotarpio marionetinė
@@ -57,7 +58,8 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
 - id: c-22521
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 191."
   citata_originali: |
     gandai privertė įtikinėti gyventojus, kad žemės nuosavybė nebus liečiama
     ir kad „Lietuvos kariuomenė pasilieka ir toliau. Prireikus ji gins Lietuvos

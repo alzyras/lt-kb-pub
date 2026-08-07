@@ -47,14 +47,22 @@ Nenurodyta
 <a id="claim-t-185879"></a>
 - t-001
   teiginys: "Po pergalės Ostrogiškis stovykloje surengė kareiviškas pamaldas, padėkojo Dievui ir išsiuntė karaliui 380 žymiausių belaisvių bajorų."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Maskvėnai: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekste Maskva susieta su maskvėnais kaip jų politinė-kultūrinė priklausomybė per formuluotę apie maskvėnų karo vadą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Maskva priklausė Maskvėnai (0.70)"
   pagrindžia:
-    - c-169241
+    - c-169240
 
 <a id="claim-t-185880"></a>
 - t-002
@@ -81,7 +89,8 @@ Nenurodyta
 - id: c-169240
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 631"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 631."
   citata_originali: |
     Į nelaisvę pakliuvo
     maskvėnų karo vadas Čeliadninas ir dešimt kitų žy­
@@ -96,14 +105,17 @@ Nenurodyta
   citata_rodoma: "Į nelaisvę pakliuvo\nmaskvėnų karo vadas Čeliadninas ir dešimt kitų žy­\nmių didikų, daug dūmos narių ir du tūkstančiai bajo­\nrų. Surengęs stovykloje kareiviškas pamaldas ir pa­\ndėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis\nsuskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo­\nniasdešimt žymiausių bajorų, išsiuntė juos karaliui su\nlaišku apie pergalę. Kunigaikštis Vasilijus, gavęs ži­\nnią apie pralaimėjimą, paliko prie Smolensko savo ka­\nriuomenę ir persigandęs pabėgo į Maskvą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-169241
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 632-633"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 632-633."
   citata_originali: |
     Ost­
     rogiškis, sugrįžęs į Vilnių, iš visos širdies padėkojo
@@ -129,5 +141,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

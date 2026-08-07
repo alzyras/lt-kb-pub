@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-59705"></a>
 - t-001
   teiginys: "Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Kaimas: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -65,13 +65,15 @@ Nenurodyta
   semantiniai_rysiai: "Martynas iš Golino užėmė Kaimas (0.84); Martynas iš Golino surengė žygį į Sūduva (0.82)"
   pagrindžia:
     - c-60337
+    - c-167366
 
 ## Citatos
 
 - id: c-60337
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Tas
     Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas
@@ -96,7 +98,8 @@ Nenurodyta
 - id: c-167366
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
   citata_originali: |
     Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
     krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],
@@ -109,7 +112,8 @@ Nenurodyta
   citata_rodoma: "Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai\nkrikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],\nvadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas\nMartynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas\nar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,\nnekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių\nramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o\nkiti išbėgiojo palikę visus turimus ginklus bei visą maistą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

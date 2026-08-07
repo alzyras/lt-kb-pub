@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-25f2deb23ab874780f0eee3b"
+canonical_name: "Natangija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Natangija"]
+sameAs: []
+canonical_biography: "Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo būti atmatuotas nuo Lemptenburgo Lipzos ir Natangijos link. Kitų Natangijos įtvirtintų vie tų pavadinimai neišliko. Ateinantį metą, gieždamas ant kryžėjų apmau dą, kamendotas Kartinos Dovydas, įpuolęs su 800 rimtos joties į Natangiją ir jos kraštą baisiai baisesniai nuteriojęs, daug gyventojų iškirto, daug į vergus išvarė, kurį grįžtantį namon kryžėjai apnikę didumą grobio."
+place_authority: true
+historical_names: []
 ---
 # Natangija
 
@@ -86,7 +95,8 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
 - id: c-175568
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 348."
   citata_originali: |
     Be to, vienuoliai riteriai tu­
     rėjo tą žemę padalyti perpus, o piliečiai privalėjo pasi­
@@ -116,7 +126,8 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
 - id: c-175569
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 360"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 360."
   citata_originali: |
     vos, kur buvo pastatytas Kroicburgas; šis pavadinimas li­
     gi šiol išliko Didžiosios ir Mažosios Saldavos kaimų pa­
@@ -135,9 +146,9 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
     - t-002
 
 - id: c-184437
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 528"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 528."
   citata_originali: |
     Nevyko marčelgai nė
     trečiasis žygis, kursai norėjo į pilį Gondingeną įsi­

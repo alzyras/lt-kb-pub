@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-139a10f044c89ab296f5e6f7"
+canonical_name: "Anoniminis „Lietuvių mitologijos“ recenzentas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Anoniminis „Lietuvių mitologijos“ recenzentas"]
+sameAs: []
+canonical_biography: "Leidinio įvade anoniminė 1835 m. recenzija vadinama bene reikšmingiausia ir ypač didelės, 25 puslapių, apimties recenzija."
 ---
 # Anoniminis „Lietuvių mitologijos“ recenzentas
 
@@ -64,7 +71,8 @@ Leidinio įvade anoniminė 1835 m. recenzija vadinama bene reikšmingiausia ir y
 - id: c-173192
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 55."
   citata_originali: |
     Pirmoji buvo anoni­
     miška, o antroji priklausė Juozapo Ignoto Kraševskio

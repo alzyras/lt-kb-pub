@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a24723c16be0c6df9c8a4945"
+canonical_name: "Pajūris"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pajūris"]
+sameAs: []
+canonical_biography: "Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėja jį buvus Raseinių apskrityje prie Jūros upės."
+place_authority: true
+historical_names: []
 ---
 # Pajūris
 
@@ -54,7 +63,8 @@ Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėj
 - id: c-171927
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 208."
   citata_originali: |
     Rageziowan
     Kęsgailų giminės fetišas.

@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2fa9212e5c0782955807894b"
+canonical_name: "Treiderės upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Treiderės upė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas. Dusburgietis teigia, kad 551 Dab. Gauja, upė Latvijoje. Naujojo Malūno pilį."
+place_authority: true
+historical_names: []
 ---
 # Treiderės upė
 
@@ -137,7 +146,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 - id: c-59277
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Apie Rygos miestiečių kivirčus su Teutonų ordino broliais Livonijoje
     1297 viešpaties metais kilo begaliniai Rygos miestiečių ir Teutonų ordino brolių
@@ -163,7 +173,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 - id: c-168525
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 175."
   citata_originali: |
     Po to nugalėtojai, paleisti pasiplėšti grobio,
     nusiaubė visas apylinkes, naikindami ugnimi ir kala­
@@ -187,7 +198,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 - id: c-178888
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 175."
   citata_originali: |
     Kadangi iš užpakalio buvo jūra,
     vienoje pusėje trukdė Treiderės upė, o kitoje pusėje

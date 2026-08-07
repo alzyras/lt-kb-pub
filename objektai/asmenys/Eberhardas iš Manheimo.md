@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-075d0a9e968f0d2e1152368a"
+canonical_name: "Eberhardas iš Manheimo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eberhardas iš Manheimo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė) Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė."
 ---
 # Eberhardas iš Manheimo
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 - id: c-60902
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
   citata_originali: |
     16. Apie Rygos miesto sugriovimą
 

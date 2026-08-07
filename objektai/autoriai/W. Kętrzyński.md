@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ed20c91496517eb68d5a9ff4"
+canonical_name: "W. Kętrzyński"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["W. Kętrzyński"]
+sameAs: []
+canonical_biography: "Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127. Kętrzyński : O dokumentach Mendoga, króla litewskiego, RAU, 25, 1907, 180-222 p. ; Najdawniejsza stolica litewska, KH, 21, 1907, 604-611 p. (su žemė!.)."
 ---
 # W. Kętrzyński
 
@@ -59,7 +66,8 @@ Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127. Kętrzyńs
 - id: c-33196
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 89."
   citata_originali: |
     J. Latkowskis buvo pirmasis, kuris bandė nustatyti
     Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus

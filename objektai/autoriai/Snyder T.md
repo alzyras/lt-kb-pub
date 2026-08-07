@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ed45582b629b4f62cd41117f"
+canonical_name: "Snyder T"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Snyder T"]
+sameAs: []
+canonical_biography: "Snyder T."
 ---
 # Snyder T
 
@@ -61,7 +68,8 @@ Snyder T.
 - id: c-20715
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Snyder T. Tautų rekonstrukcija. Lietuva, Lenkija, Ukraina, Baltarusija 1569–
     1999. Vilnius, 2003.

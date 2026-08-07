@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-61d55b67adb880f9b7e90191"
+canonical_name: "Kroicburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kroicburgas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118). Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258. Dusburgietis teigia, kad 255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab."
+place_authority: true
+historical_names: []
 ---
 # Kroicburgas
 
@@ -79,7 +88,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 <a id="claim-t-90733"></a>
 - t-003
   teiginys: "Kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors šis įvykis aprašomas po vėlesnių pilių statybos epizodų."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lochštetė: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -94,7 +103,6 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   temporalinis_llm_pakomentavimas: "Pirminis teiginys fragmentiškas ir su OCR triukšmu; citata pagrindžia chronologijos pastabą."
   pagrindžia:
     - c-86512
-    - c-86514
 
 <a id="claim-t-90734"></a>
 - t-004
@@ -119,7 +127,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 <a id="claim-t-90735"></a>
 - t-005
   teiginys: "Petro Dusburgiečio kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors aprašomas po vėlesnių įvykių."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dusburgas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -133,17 +141,23 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus chronologijos netikslumo pastabą."
   pagrindžia:
-    - c-86512
     - c-86514
 
 <a id="claim-t-90736"></a>
 - t-006
   teiginys: "Prūsai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bartenšteinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kroicburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bartenšteinas: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kroicburgas\" parinktas kaip owner_note_path. Targetas \"Bartenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-86511
+    - c-86513
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -208,7 +222,8 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 - id: c-86509
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab. Slavskoje)  į
     pietus nuo Frišingo (dab. Prochladnaja) upės, į rytus nuo Baigos. Aukštas piliakalnis su
@@ -226,7 +241,8 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 - id: c-86510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     Apie Kroicburgo pilies sugriovimą
 
@@ -246,7 +262,8 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 - id: c-86511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
     nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė
@@ -264,12 +281,12 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-006
 
 - id: c-86512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     138), o jau po to aprašoma, kaip broliai pasitraukė
     iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118). Kartais chronologijos
@@ -282,12 +299,12 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-005
 
 - id: c-86513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
     ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis
@@ -296,14 +313,17 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   citata_rodoma: "Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė\nir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis\nstipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl\napsuptieji negalėjo nei įeiti, nei išeiti iš pilies."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-86514
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     , o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
     iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
@@ -314,7 +334,6 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-005
 
 ## Ryšiai

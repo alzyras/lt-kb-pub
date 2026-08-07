@@ -122,7 +122,8 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
 - id: c-154429
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 249-250"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 249-250."
   citata_originali: |
     Pagrindinis šalies įstatymas garantuo-
     ja prigimtines žmogaus ir piliečio teises ir laisves, piliečiai, priklausantys
@@ -152,7 +153,8 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
 - id: c-154431
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     O čia dar po kie-
     toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
@@ -173,7 +175,8 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
 - id: c-154433
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 148."
   citata_originali: |
     Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-
     se, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos:
@@ -197,7 +200,8 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
 - id: c-154434
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 148."
   citata_originali: |
     Katalikiškame krašte tai nebuvo sensacija, nes tikinčios moterys balsa-
     vo už kunigų partiją, be to, Katalikų bažnyčia, dvasininkai ėjo su aiškiais
@@ -218,7 +222,8 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
 - id: c-166552
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
     valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-

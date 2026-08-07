@@ -52,7 +52,8 @@ Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ dž
 - id: c-82585
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 149-150"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 149-150."
   citata_originali: |
     133
 

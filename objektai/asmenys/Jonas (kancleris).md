@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e5c92b4d6f2f29343beaca2"
+canonical_name: "Jonas (kancleris)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas (kancleris)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui Vilhelmui, Dirsovijos grafams — vyresniajam ir."
 ---
 # Jonas (kancleris)
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - id: c-60974
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 46."
   citata_originali: |
     savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
     pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-81b947dad6892c39487304c8"
+canonical_name: "Šv. Dvasios gatvė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Dvasios gatvė"]
+sameAs: []
+canonical_biography: "Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv."
+place_authority: true
+historical_names: []
 ---
 # Šv. Dvasios gatvė
 
@@ -50,7 +59,8 @@ Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.
 - id: c-82258
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 406"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 406."
   citata_originali: |
     Taip pat minėti prie­
     glaudos namai privalo turėti du įėjimus, tai yra, vieną iš tos

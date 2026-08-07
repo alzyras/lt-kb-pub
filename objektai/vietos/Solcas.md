@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-353023f67e6bbbca68d8bc49"
+canonical_name: "Solcas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Solcas"]
+sameAs: []
+canonical_biography: "Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio vestuves, būdamas Liubline, išleidau lie­ tuviškoms monetoms 7 flor., 4 grašius, 2 liet."
+place_authority: true
+historical_names: []
 ---
 # Solcas
 
@@ -50,7 +59,8 @@ Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio
 - id: c-82217
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 457"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 457."
   citata_originali: |
     Brastoje nuo 17 paskolintų liet. grašių palūkanos už dvi
     savaites - 16 liet. grašių.

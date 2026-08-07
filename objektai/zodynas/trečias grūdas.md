@@ -60,7 +60,8 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
 - id: c-82598
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 282-283"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 282-283."
   citata_originali: |
     40), matyti,
     266

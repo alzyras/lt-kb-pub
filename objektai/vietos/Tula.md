@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d59942b5480f0f975d96f68"
+canonical_name: "Tula"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tula"]
+sameAs: []
+canonical_biography: "Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė."
+place_authority: true
+historical_names: []
 ---
 # Tula
 
@@ -55,7 +64,8 @@ media_all_json: |-
 - id: c-176013
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 156."
   citata_originali: |
     Be to, jis pats pasidarė
     savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu

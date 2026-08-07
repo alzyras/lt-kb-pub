@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5972a8bd5ac9e4b53ddb4d58"
+canonical_name: "Waddyngas Luca Vaddingo"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Waddyngas Luca Vaddingo"]
+sameAs: []
+canonical_biography: "Šios 19 Waddyngas, Mažesniųjų brolių ordino istorijos autorius, ir jo komen­ tatorius Antoni Melissanius de Macro pasakoja, kad dar 1333 metais (prieš Gedimino mirtį) Pet­ ras Goštautas, būdamas Podolės vai­ vada, iš Rusios ir Podolės atkvietęs į Vilnių. Bet dėl painiavos, kurios pilna Waddyngo pasakojime, ir dėl to, kad jo remtasi nežinia kokiais šaltiniais, negalima lengvai patikėti ir tuo Goštauto vys­ kupavimu, ir tokiu dideliu nukan­ kintų pranciškonų skaičiumi."
 ---
 # Waddyngas Luca Vaddingo
 
@@ -61,7 +68,7 @@ media_all_json: |-
 <a id="claim-t-88050"></a>
 - t-002
   teiginys: "Balińskis Waddyngo pasakojimą laikė painiu ir nepatikimu dėl neaiškių šaltinių."
-  atnaujinta: "2026-07-19 19:43"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
@@ -72,7 +79,8 @@ media_all_json: |-
 - id: c-84028
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 44."
   citata_originali: |
     Šios
     19
@@ -103,7 +111,8 @@ media_all_json: |-
 - id: c-84029
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 44."
   citata_originali: |
     To­
     liau rašoma, jog, remiantis Baroni-

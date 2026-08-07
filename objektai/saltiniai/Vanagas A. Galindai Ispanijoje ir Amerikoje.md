@@ -58,7 +58,8 @@ Dusburgietis teigia, kad vanagas A.
 - id: c-61973
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 275."
   citata_originali: |
     Vanagas A. Galindai Ispanijoje ir Amerikoje.— MG, 1965, Nr. 11, p. 38—39.
   citata_rodoma: "Vanagas A. Galindai Ispanijoje ir Amerikoje.— MG, 1965, Nr. 11, p. 38—39."

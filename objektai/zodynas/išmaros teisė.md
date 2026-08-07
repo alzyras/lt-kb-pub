@@ -53,9 +53,9 @@ Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo
 ## Citatos
 
 - id: c-185108
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 190"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 190."
   citata_originali: |
     Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Sere-
     džiaus palikimo, kurio dalis buvusi užrašyta parapinei bažnyčiai. Remdamasis šia aplin-
@@ -74,9 +74,9 @@ Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo
     - t-001
 
 - id: c-185109
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 310"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 310."
   citata_originali: |
     Kitas būdas, kuriuo Kauno miestiečių nekilnojamasis turtas atitekdavo valdovui,
     buvo vadinamoji išmaros teisė (ius caducum). Išmariniu turtu laikytas turtas, likęs po

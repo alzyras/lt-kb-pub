@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15578742816436e65bdf0471"
+canonical_name: "Ambotė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ambotė"]
+sameAs: []
+canonical_biography: "Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę^58."
+place_authority: true
+historical_names: []
 ---
 # Ambotė
 
@@ -58,7 +67,8 @@ Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 124
 - id: c-33788
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 171."
   citata_originali: |
     Tik vakarų Europoje
     galingi ir nepriklausomi kunigaikščiai gaudavo karaliaus titulą^57.

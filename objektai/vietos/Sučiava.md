@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2144a7c69b617367a82fe662"
+canonical_name: "Sučiava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sučiava"]
+sameAs: []
+canonical_biography: "Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nesėkmingos apgulties."
+place_authority: true
+historical_names: []
 ---
 # Sučiava
 

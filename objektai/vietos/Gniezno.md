@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c3aa7edab811f66631f08341"
+canonical_name: "Gniezno"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gniezno"]
+sameAs: []
+canonical_biography: "Jis tai atliko per lenkų Gniezno arkivyskupą."
+place_authority: true
+historical_names: []
 ---
 # Gniezno
 
@@ -61,7 +70,8 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 126."
   citata_originali: |
     Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos
     ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­

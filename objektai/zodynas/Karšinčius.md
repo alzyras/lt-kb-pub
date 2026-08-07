@@ -61,7 +61,8 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 - id: c-09634
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 258"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 258."
   citata_originali: |
     Nes jei vyresnieji sūnai buvo išrėdyti^1118 iš namų viršiau minavotu pragumu, tad mažasis sunūs paliko butoje tėvų karšinčium ir veldėjo tėviškę ir visą palikimą; jam reikėjo seseris išrėdyti^1119 su tokia pasoga^1120 , kokią tėvas mirdamas buvo joms padėjęs, jei nebuvo padėta, mažasis brolis turėjo iš trečiosios dalies savo tėviškės išrėdyti.
   citata_rodoma: "Nes jei vyresnieji sūnai buvo išrėdyti^1118 iš namų viršiau minavotu pragumu, tad mažasis sunūs paliko butoje tėvų karšinčium ir veldėjo tėviškę ir visą palikimą; jam reikėjo seseris išrėdyti^1119 su tokia pasoga^1120 , kokią tėvas mirdamas buvo joms padėjęs, jei nebuvo padėta, mažasis brolis turėjo iš trečiosios dalies savo tėviškės išrėdyti."
@@ -76,7 +77,8 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 - id: c-09635
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 259"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 259."
   citata_originali: |
     Jei tėvai bevaikiai buvo, tad priėmė sau karšinčių, kurs, įstojęs į sūnaus vietą, į karę turėjo traukti už tėvą, nuo ko ir karšinčium vadinos, priimti vardą savo geradėjų ir juos nukaršinti padoriai, kaip pridera sūnui savo tėvus, kuriems mirus, visa paveldėjo, it būt jų sūnus buvęs.
   citata_rodoma: "Jei tėvai bevaikiai buvo, tad priėmė sau karšinčių, kurs, įstojęs į sūnaus vietą, į karę turėjo traukti už tėvą, nuo ko ir karšinčium vadinos, priimti vardą savo geradėjų ir juos nukaršinti padoriai, kaip pridera sūnui savo tėvus, kuriems mirus, visa paveldėjo, it būt jų sūnus buvęs."

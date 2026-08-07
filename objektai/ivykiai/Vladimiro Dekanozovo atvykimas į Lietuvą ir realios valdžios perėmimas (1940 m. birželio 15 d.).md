@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-20554"></a>
 - t-001
   teiginys: "1940 m. birželio 15 d. pavakare iš Maskvos į Lietuvą atvykusiam sovietų emisarui Vladimirui Dekanozovui atiteko reali aukščiausioji valdžia."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1940 m."
@@ -107,7 +107,8 @@ Nenurodyta
 - id: c-23278
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 190."
   citata_originali: |
     Lietuvos sovietizacija
     1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-
@@ -128,7 +129,8 @@ Nenurodyta
 - id: c-23279
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 190."
   citata_originali: |
     Petrovu“, bet jis,
     kaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus
@@ -148,7 +150,8 @@ Nenurodyta
 - id: c-166674
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 190."
   citata_originali: |
     Nuo šiol trijulės likimas
     taps nepaprastai panašus. Reali aukščiausioji valdžia atiteko ne šalyje li-

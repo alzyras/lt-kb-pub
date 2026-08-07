@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4e01aa5140293f6cf6d2a974"
+canonical_name: "Stanislovas Ostrorogas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Ostrorogas"]
+sameAs: []
+canonical_biography: "Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kaip Lenkijos pasiuntinys."
 ---
 # Stanislovas Ostrorogas
 
@@ -53,7 +60,8 @@ Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kai
 - id: c-169618
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 510"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 510."
   citata_originali: |
     Gavo jie tik tokį atsakymą, kad
     lenkai nieku būdu neatsisakysią atsilyginti lietuvių luo­

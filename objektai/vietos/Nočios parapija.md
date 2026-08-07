@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b643ea2b962c718df677a901"
+canonical_name: "Nočios parapija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nočios parapija"]
+sameAs: []
+canonical_biography: "Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ragutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau nurodytu moterų žynių pavadinimu."
+place_authority: true
+historical_names: []
 ---
 # Nočios parapija
 
@@ -47,7 +56,8 @@ Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ragutieniszfd) bajorkai
 - id: c-177164
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 301."
   citata_originali: |
     Ragelienė (Ragutienie)
     Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­

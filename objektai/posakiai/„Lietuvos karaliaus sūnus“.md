@@ -96,7 +96,8 @@ Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus s
 - id: c-177409
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 224."
   citata_originali: |
     Vytenio kovos su ordinu ir jo sąjunga su Ryga**
     Pukuveras, apie kurį galima aiškiai pasakyti, kad jis (o gal

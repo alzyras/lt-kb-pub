@@ -73,22 +73,30 @@ Nenurodyta
 <a id="claim-t-62497"></a>
 - t-002
   teiginys: "1246 m. buvo sudarytos paliaubos tarp Ordino ir Sventopelko."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Sventopelkas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Sventopelkas: mention_match, person, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)\" parinktas kaip owner_note_path. Targetas \"Sventopelkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1246 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, faktinis ir tiesiogiai paremtas pastabos citata."
   pagrindžia:
-    - c-63166
+    - c-63167
 
 ## Citatos
 
 - id: c-63166
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 97."
   citata_originali: |
     Apie taikos atkūrimą tarp Sventopelko ir brolių
     Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis
@@ -110,19 +118,20 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-63167
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
   citata_originali: |
     295   Paliaubos tarp Ordino  ir Sventopelko sudarytos 1246 m. (Ewald  A., Die
     Eroberung..., 2, p. 205).
   citata_rodoma: "295   Paliaubos tarp Ordino  ir Sventopelko sudarytos 1246 m. (Ewald  A., Die\nEroberung..., 2, p. 205)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1899ba6833af32b6b3785c18"
+canonical_name: "Kerim Berdis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kerim Berdis"]
+sameAs: []
+canonical_biography: "Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo pasiekti taikiai. Kerim Berdis sutelkė stiprią kariuomenę, mūšyje išsklaidė Tochtamyšo dalinius ir nužudė brolį. Kerim Berdis, padrąsintas ankstesnės pergalės, ryžtingai su kariuomene užpuolė brolį netoli Volgos."
 ---
 # Kerim Berdis
 
@@ -70,7 +77,8 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
 - id: c-169413
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Užvolgio skitai,
     netekę mirusio chano Saladi-
@@ -97,7 +105,8 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
 - id: c-169414
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Kerim Berdis,
     galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
@@ -125,7 +134,8 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
 - id: c-169415
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     2uvus Tochtamyšui, tre­
     čias brolis Jerim Berdis, neišgąsdintas brolio likimo ir

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83f1788f856a454fb06ceeba"
+canonical_name: "Lanzanija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lanzanija"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno, ir Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono valdžią."
+place_authority: true
+historical_names: []
 ---
 # Lanzanija
 
@@ -57,7 +66,8 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 - id: c-59396
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno,  ir
     Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono

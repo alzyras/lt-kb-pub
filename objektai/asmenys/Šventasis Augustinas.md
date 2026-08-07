@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1c3d3fa0c384a502001613bb"
+canonical_name: "Šventasis Augustinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šventasis Augustinas"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Šventasis Augustinas kryžiaus ženklą siejo su egiptiečių amžinojo gyvenimo vaizdavimu."
 ---
 # Šventasis Augustinas
 
@@ -54,7 +61,8 @@ Narbutas rašė, kad Šventasis Augustinas kryžiaus ženklą siejo su egiptieč
 - id: c-173004
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 380."
   citata_originali: |
     Ypač pastarasis, pasakodamas, kaip Teodo­
     sijus sugriovė Serapio šventyklą Aleksandrijoje, sako: „Tie, ku­

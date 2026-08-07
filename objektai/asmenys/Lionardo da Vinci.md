@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a8b820b310ad84cca1dafc16"
+canonical_name: "Lionardo da Vinci"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lionardo da Vinci"]
+sameAs: []
+canonical_biography: "Vorobjovo aiškinimu, Lionardo da Vinci moterų paveikslų šypsena paliko pėdsaką vėlesnių Milano dailininkų atmintyje."
 ---
 # Lionardo da Vinci
 

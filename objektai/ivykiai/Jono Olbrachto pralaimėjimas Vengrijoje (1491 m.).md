@@ -85,7 +85,8 @@ Nenurodyta
 - id: c-168938
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 535"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 535."
   citata_originali: |
     Sužinojęs apie šiuos
     M a s k v o s galia auga,
@@ -115,7 +116,8 @@ Nenurodyta
 - id: c-168939
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 535"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 535."
   citata_originali: |
     Be to, jis puikiai atsi­
     minė, kaip atsitiko kitam jo broliui, Kazimierui, kurį
@@ -143,7 +145,8 @@ Nenurodyta
 - id: c-178566
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 535"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 535."
   citata_originali: |
     Jonas nepritarė jų troškimui, nes gerai žinojo,
     kad seime buvo ginčų ir skirtingų nuomonių, mat dau­

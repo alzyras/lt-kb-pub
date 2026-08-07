@@ -91,7 +91,8 @@ Nenurodyta
 - id: c-28683
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 182."
   citata_originali: |
     Specialiu raštu panaikindamas Rygos arkivyskupo jurisdikciją
     Lietuvai, Inocentas IV Mindaugui pranešė apie Lietuvos vyskupijos
@@ -110,7 +111,8 @@ Nenurodyta
 - id: c-28684
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 181."
   citata_originali: |
     Mindaugas vėl kreipėsi į Inocentą
     IV, kuris, «karaliaus karštų troškimų sužadintas», 1254.VI.24 d.

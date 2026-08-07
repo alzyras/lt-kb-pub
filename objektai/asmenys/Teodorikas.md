@@ -23,6 +23,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8dbfe5160edbc6934fec427e"
+canonical_name: "Teodorikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teodorikas"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip sumanus, godus ir valdžios bei turtų troškęs žmogus. Narbutas pasakoja, kad Zenonas slapta susitarė su Teodoriku ir leido ostrogotams grobti Romą bei Italiją. Teodoriko žygyje į Italiją dalyvavo gotų karaliaus pakviesti kariai su šeimomis bei manta ir įvairūs kolonistai."
 ---
 # Teodorikas
 
@@ -188,7 +195,8 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
 - id: c-174112
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 318."
   citata_originali: |
     322
     Tuo metu ostrogotus1 2 valdė Teodorikas, ne tik retų
@@ -210,7 +218,8 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
 - id: c-174113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
   citata_originali: |
     Galop jis slapta susitarė su Teodo-
     riku, pasikliaudamas pažadais, o gal vildamasis sukelti
@@ -243,7 +252,8 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
 - id: c-174115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
   citata_originali: |
     Tik žinoma tai, kad Teodorikas paža­
     dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam
@@ -268,7 +278,8 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
 - id: c-178792
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 53."
   citata_originali: |
     Dvyliktaisiais
     viešpatavimo metais, laimėjęs keletą mūšių, sumušė
@@ -296,9 +307,9 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
     - t-004
 
 - id: c-184387
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 219"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 219."
   citata_originali: |
     Albertu ir
     pasiėmė krikštytis.
@@ -317,9 +328,9 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
     - t-007
 
 - id: c-184388
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 232"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 232."
   citata_originali: |
     Kalavijonys, nujautę kelią, kuriuo lietuviai grįž­
     ti ketėjo per Daugavą, tykojo jų giriose tris nedė-

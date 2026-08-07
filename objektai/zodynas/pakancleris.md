@@ -38,44 +38,91 @@ Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, 
 
 ## Teiginiai
 
-<a id="claim-t-70262"></a>
+<a id="claim-t-200635"></a>
 - t-001
   teiginys: "Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, jei jie būtų nukreipti prieš Vytautą."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "pakancleris: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pakancleris\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-183969
-    - c-184012
+    - c-186194
 
-<a id="claim-t-200568"></a>
+<a id="claim-t-203074"></a>
 - t-002
-  teiginys: "Lenkų karūnos pakancleriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami jo patarimo ir paramos."
-  atnaujinta: "2026-07-19 16:46"
+  teiginys: "Lenkų karūnos pakancleriai svarbiausiais karūnos reikalais kreipdavosi į Vytautą patarimo ir dažniausiai paramos."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "pakancleris: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pakancleris\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-183969
+
+<a id="claim-t-203234"></a>
+- t-003
+  teiginys: "Vienas pakancleris atvirai pripažino, kad nevykdytų net savo tėvo įsakymų, jei jie būtų nukreipti prieš Vytautą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
     - c-184012
 
 ## Citatos
 
 - id: c-183969
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  puslapiai: "PDF 219"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 219."
+  citata_originali: |
+    Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­
+    davo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­
+    grindinių reikalų, kai ėjo klausimas apie karalijos santvarką,
+    apie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi
+    nuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­
+    vygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.
+    Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to
+    meto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­
+    davosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­
+    tarimo, dažniausiai jo paramos. Dėl jo energingos paramos
+    Mozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­
+    rūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui
+    Vyt. dėkingas už Poznaniaus mitrą.
+  citata_rodoma: "Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­\ndavo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­\ngrindinių reikalų, kai ėjo klausimas apie karalijos santvarką,\napie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi\nnuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­\nvygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.\nIš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to\nmeto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­\ndavosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­\ntarimo, dažniausiai jo paramos. Dėl jo energingos paramos\nMozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­\nrūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui\nVyt. dėkingas už Poznaniaus mitrą."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-184012
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  puslapiai: "PDF 219"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 219."
+  citata_originali: |
+    Sis pastarasis, kaip karū­
+    nos kanceliarijos globėjas, tose knygose mums pasirodo, kaip
+    nuoširdus Vytauto valios pildytojas, įvairiausiuose jo reika­
+    luose^3 '). Vienas pakancleris atvirai pripažįsta, kad jis ir sa­
+    vo tėvo įsakymų nepildytų, jei jie būtų nukreipti prieš Vytau­
+    tą^4 ). Toks buvo didelis prie Vytauto prisirišimas.
+  citata_rodoma: "Sis pastarasis, kaip karū­\nnos kanceliarijos globėjas, tose knygose mums pasirodo, kaip\nnuoširdus Vytauto valios pildytojas, įvairiausiuose jo reika­\nluose^3 '). Vienas pakancleris atvirai pripažįsta, kad jis ir sa­\nvo tėvo įsakymų nepildytų, jei jie būtų nukreipti prieš Vytau­\ntą^4 ). Toks buvo didelis prie Vytauto prisirišimas."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-186194
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
@@ -93,35 +140,17 @@ Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, 
     tarimo, dažniausiai jo paramos. Dėl jo energingos paramos
     Mozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­
     rūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui
-    Vyt. dėkingas už Poznaniaus mitrą.
-  citata_rodoma: "Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­\ndavo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­\ngrindinių reikalų, kai ėjo klausimas apie karalijos santvarką,\napie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi\nnuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­\nvygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.\nIš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to\nmeto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­\ndavosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­\ntarimo, dažniausiai jo paramos. Dėl jo energingos paramos\nMozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­\nrūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui\nVyt. dėkingas už Poznaniaus mitrą."
-  statusas: verified
-  atnaujinta: "2026-07-14 08:29"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
-
-- id: c-184012
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
-  citata_originali: |
-    Sis pastarasis, kaip karū­
+    Vyt. dėkingas už Poznaniaus mitrą. Sis pastarasis, kaip karū­
     nos kanceliarijos globėjas, tose knygose mums pasirodo, kaip
     nuoširdus Vytauto valios pildytojas, įvairiausiuose jo reika­
     luose^3 '). Vienas pakancleris atvirai pripažįsta, kad jis ir sa­
     vo tėvo įsakymų nepildytų, jei jie būtų nukreipti prieš Vytau­
-    tą^4 ). Toks buvo didelis prie Vytauto prisirišimas.
-  citata_rodoma: "Sis pastarasis, kaip karū­\nnos kanceliarijos globėjas, tose knygose mums pasirodo, kaip\nnuoširdus Vytauto valios pildytojas, įvairiausiuose jo reika­\nluose^3 '). Vienas pakancleris atvirai pripažįsta, kad jis ir sa­\nvo tėvo įsakymų nepildytų, jei jie būtų nukreipti prieš Vytau­\ntą^4 ). Toks buvo didelis prie Vytauto prisirišimas."
+    tą^4 ).
+  citata_rodoma: "Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­\ndavo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­\ngrindinių reikalų, kai ėjo klausimas apie karalijos santvarką,\napie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi\nnuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­\nvygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.\nIš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to\nmeto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­\ndavosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­\ntarimo, dažniausiai jo paramos. Dėl jo energingos paramos\nMozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­\nrūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui\nVyt. dėkingas už Poznaniaus mitrą. Sis pastarasis, kaip karū­\nnos kanceliarijos globėjas, tose knygose mums pasirodo, kaip\nnuoširdus Vytauto valios pildytojas, įvairiausiuose jo reika­\nluose^3 '). Vienas pakancleris atvirai pripažįsta, kad jis ir sa­\nvo tėvo įsakymų nepildytų, jei jie būtų nukreipti prieš Vytau­\ntą^4 )."
   statusas: verified
-  atnaujinta: "2026-07-14 08:29"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

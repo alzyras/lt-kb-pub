@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-76d73a0a5ea633bad37cc15c"
+canonical_name: "Stanislovas Lesniovolskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Lesniovolskis"]
+sameAs: []
+canonical_biography: "Susirgęs Zebžidovskis perdavė pareigas Stanislovui Lesniovolskiui ir patarė žvalgyti pakrantę bei sekti priešą."
 ---
 # Stanislovas Lesniovolskis
 
@@ -53,7 +60,8 @@ Susirgęs Zebžidovskis perdavė pareigas Stanislovui Lesniovolskiui ir patarė 
 - id: c-169441
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 716"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 716."
   citata_originali: |
     Z ebžidovskis pro Polocką
     atžygiavo į Jezeriščę, q pask u i į N evelį. S taig a ten su­

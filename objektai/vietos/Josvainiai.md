@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-72f9dcdb9ccef0e40e683587"
+canonical_name: "Josvainiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Josvainiai","Josvai­niais"]
+sameAs: []
+canonical_biography: "Josvainiai minimi kaip vieta prie Šušvės ir Nevėžio santakos."
+place_authority: true
+historical_names: []
 ---
 # Josvainiai
 

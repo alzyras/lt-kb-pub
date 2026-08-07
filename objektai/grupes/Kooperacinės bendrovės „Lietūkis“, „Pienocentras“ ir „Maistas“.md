@@ -39,7 +39,8 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
 - id: c-65734
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 163."
   citata_originali: |
     Naujieji 160 000 ūkininkų vykdė melioraciją, pavertė dirbama žeme
     tūkstančius hektarų ganyklų, krūmų ir miškų, pasėlių plotai padidėjo
@@ -61,7 +62,8 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
 - id: c-65735
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 165."
   citata_originali: |
     Žemės ūkio
     ir pramonės augimas buvo nepakankamas greitam pragyvenimo lygio

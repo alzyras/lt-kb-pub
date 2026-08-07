@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-83148
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 167."
   citata_originali: |
     Valakijos kunigaikščiai jo globos sie­
     kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
@@ -123,7 +124,8 @@ Nenurodyta
 - id: c-83149
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 167-168"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 167-168."
   citata_originali: |
     IV Į1O. Foe- [Amžinosios vienybės ir santarvės
     dus perpetuae pacis unionis et concor- taikos sutartis tarp Lenkijos karaliaus

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd03d876e43207c31c8da54a"
+canonical_name: "Heinmanas, vardu Kindas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Heinmanas, vardu Kindas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus."
 ---
 # Heinmanas, vardu Kindas
 
@@ -71,7 +78,8 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
 - id: c-60936
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Kai čia laivai
     įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai

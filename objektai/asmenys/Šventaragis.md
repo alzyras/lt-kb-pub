@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-36c40a07332378c95a85c35a"
+canonical_name: "Šventaragis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šventaragis"]
+sameAs: []
+canonical_biography: "Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms."
 ---
 # Šventaragis
 
@@ -180,7 +187,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - id: c-83877
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 34-35"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 34-35."
   citata_originali: |
     Franciszkanów Litew­
     skich. Wilno 1740 in 8vo, skyr. I. Esą
@@ -215,7 +223,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - id: c-171542
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
   citata_originali: |
     Tas rūmas turėjo apvalų bokš­
     tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­
@@ -244,7 +253,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - id: c-171543
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 403."
   citata_originali: |
     Bet mažų
     mažiausiai nelaikysime šito keistu dalyku, jeigu apmąstysime
@@ -268,7 +278,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - id: c-176645
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 56."
   citata_originali: |
     ## Puslapis 55
 
@@ -292,7 +303,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - id: c-178823
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 122."
   citata_originali: |
     Vėliau, kai suaugo, iš Rimgaudo jis buvo
     gavęs valdyti Žemaitiją. Būdamas toje vietoje, jis tik
@@ -313,9 +325,9 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - t-005
 
 - id: c-184401
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 103"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 103."
   citata_originali: |
     Vilniaus žinyčia yra dar aiškesniai aprašyta.
     Šventaragis, didysis Lietuvos kunigaikštis, gražiame
@@ -336,9 +348,9 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - t-006
 
 - id: c-184402
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 104"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 104."
   citata_originali: |
     Kas metą Naujų metų dieną į sieną tos
     bonės įmūravojo plytą, kuri skaitlių metų rodė. Pa­

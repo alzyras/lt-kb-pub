@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e24268c0866e60239fbd3149"
+canonical_name: "Jurgis Chodkevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Chodkevičius"]
+sameAs: []
+canonical_biography: "Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą Timofejevą Mstislavliškį."
 ---
 # Jurgis Chodkevičius
 
@@ -62,7 +69,8 @@ Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą 
 - id: c-83721
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 312."
   citata_originali: |
     Parašai: Vice-
     Cancellarius Leo Sapieha, Stanislaus

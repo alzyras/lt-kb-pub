@@ -63,7 +63,8 @@ Narbutas 1258 m. Gerardo Hircbergo sutartį pateikia kaip Vitlandijos buvimo tar
 - id: c-174621
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 350."
   citata_originali: |
     Tačiau, jos forma ir plotas, lai­
     kui bėgant, galėjo labai pakisti.

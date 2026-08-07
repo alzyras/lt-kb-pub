@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1ef7bab2260af90fe5083005"
+canonical_name: "Ovidijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ovidijus"]
+sameAs: []
+canonical_biography: "Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir Dunojaus prie Juodosios jūros. Narbutas Ovidijų priskyrė autoriams, kalbėjusiems apie vandens lygio kritimą ir pateikusiems jo įrodymų. Maždaug tuo metu, kai Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir Dunojaus prie Juodosios jūros."
 ---
 # Ovidijus
 
@@ -113,7 +120,8 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
 - id: c-174186
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
   citata_originali: |
     Iš tų senovės istorikų pateiktų žinių pa­
     aiškėja, ta tiesa, jog jotvingiai buvo sarmatą* kilmės
@@ -135,7 +143,8 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
 - id: c-174187
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
@@ -166,7 +175,8 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
 - id: c-179339
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
   citata_originali: |
     Maždaug tuo metu, kai
     Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir

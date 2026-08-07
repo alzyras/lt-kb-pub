@@ -131,7 +131,8 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
 - id: c-24004
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 79."
   citata_originali: |
     Jonų bažnyčia
     iš J. K. Vilčinskio „Vilniaus albumo“. Dail.  Ph. Benoist, A. Bayot, 1850 m.
@@ -146,7 +147,8 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
 - id: c-24005
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 90."
   citata_originali: |
     Ginti Gegužės trečiosios kons-
     titucijos stos ir pats L. Gucevičius, T. Kosciuškos sukilimo metu tapęs
@@ -166,7 +168,8 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
 - id: c-24007
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 107."
   citata_originali: |
     Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ or-
     ganizacijos sukilimui rengti. „Raudonieji“ – prodemokratiškai nusiteikęs
@@ -187,7 +190,8 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
 - id: c-25075
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 112."
   citata_originali: |
     Ne-
     gana to, 1858 m. M.  Valančius,
@@ -210,7 +214,8 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
 - id: c-73285
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 107."
   citata_originali: |
     Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija,
     Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras

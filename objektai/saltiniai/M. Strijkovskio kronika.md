@@ -25,16 +25,16 @@ amziai:
 media_total_count: '1'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AChronicle_Stryjkowski.jpg'
-media_primary_directness: 'direct'
+media_primary_directness: 'contextual'
 media_primary_relation_type: 'edition_image_of'
 media_primary_json: |-
-  {"mediaId":"m-40ecdaa35840263110b4faee","title":"Chronicle Stryjkowski.jpg","caption":"1582 m. Motiejaus Strijkovskio kronikos titulinis puslapis","originalTitle":"Chronicle Stryjkowski.jpg","creator":"M. Stryjkowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.mb.vu.lt/unesco/knygos/knygos/istorija/strik/anglu/eastrik1.htm [ dead link ]","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":254,"height":380,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AChronicle_Stryjkowski.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"saltinis","label":"saltinis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Chronicles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish publications from Königsberg","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/saltiniai/M. Strijkovskio kronika.md","title":"M. Strijkovskio kronika","itemType":"saltinis","relationType":"edition_image_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:42:37.509919+03:00","reviewedAt":"2026-07-11T11:43:12.087242+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senos spausdintos knygos titulinis puslapis su dideliu raudonu antraštės žodžiu „Kronika“, ilgu lenkišku pavadinimu ir apačioje nurodyta data romėniškais skaitmenimis.","metadataEvidence":"Kandidato pavadinimas „Chronicle Stryjkowski.jpg“, aprašas „Title page of Chronicle... by M. Stryjkowski“, kūrėjas M. Stryjkowski ir data 1582 sutampa su target M. Strijkovskio kronika ir jos 1582 m. kontekstu.","confidenceLevel":"high","relationType":"edition_image_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai ne bendrinė iliustracija, o konkretaus M. Stryjkowskio kronikos leidinio titulinis puslapis, todėl ryšys su target yra aiškus ir tiesioginis.","isPrimary":1}
+  {"mediaId":"m-40ecdaa35840263110b4faee","title":"Chronicle Stryjkowski.jpg","caption":"M. Strijkovskio kronikos 1582 m. leidimo antraštinis puslapis","originalTitle":"Chronicle Stryjkowski.jpg","creator":"M. Stryjkowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.mb.vu.lt/unesco/knygos/knygos/istorija/strik/anglu/eastrik1.htm [ dead link ]","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":254,"height":380,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AChronicle_Stryjkowski.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"saltinis","label":"saltinis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Chronicles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish publications from Königsberg","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/saltiniai/M. Strijkovskio kronika.md","title":"M. Strijkovskio kronika","itemType":"saltinis","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T11:42:37.509919+03:00","reviewedAt":"2026-07-31T05:55:56.467636+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas senovinis spausdintos kronikos antraštinis puslapis su dideliu raudonu gotikiniu pavadinimu ir tankiu tekstu.","metadataEvidence":"Kandidato pavadinimas „Chronicle Stryjkowski.jpg“, aprašas nurodo M. Stryjkowskio kronikos antraštinį puslapį, autorius M. Stryjkowski, data 1582 m.; tai sutampa su targetu.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas aiškiai dokumentuoja konkretaus M. Strijkovskio kronikos 1582 m. leidimo antraštinį puslapį.","isPrimary":0}
 media_direct_json: |-
-  [{"mediaId":"m-40ecdaa35840263110b4faee","title":"Chronicle Stryjkowski.jpg","caption":"1582 m. Motiejaus Strijkovskio kronikos titulinis puslapis","originalTitle":"Chronicle Stryjkowski.jpg","creator":"M. Stryjkowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.mb.vu.lt/unesco/knygos/knygos/istorija/strik/anglu/eastrik1.htm [ dead link ]","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":254,"height":380,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AChronicle_Stryjkowski.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"saltinis","label":"saltinis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Chronicles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish publications from Königsberg","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/saltiniai/M. Strijkovskio kronika.md","title":"M. Strijkovskio kronika","itemType":"saltinis","relationType":"edition_image_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:42:37.509919+03:00","reviewedAt":"2026-07-11T11:43:12.087242+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senos spausdintos knygos titulinis puslapis su dideliu raudonu antraštės žodžiu „Kronika“, ilgu lenkišku pavadinimu ir apačioje nurodyta data romėniškais skaitmenimis.","metadataEvidence":"Kandidato pavadinimas „Chronicle Stryjkowski.jpg“, aprašas „Title page of Chronicle... by M. Stryjkowski“, kūrėjas M. Stryjkowski ir data 1582 sutampa su target M. Strijkovskio kronika ir jos 1582 m. kontekstu.","confidenceLevel":"high","relationType":"edition_image_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai ne bendrinė iliustracija, o konkretaus M. Stryjkowskio kronikos leidinio titulinis puslapis, todėl ryšys su target yra aiškus ir tiesioginis.","isPrimary":1}]
-media_contextual_json: |-
   []
+media_contextual_json: |-
+  [{"mediaId":"m-40ecdaa35840263110b4faee","title":"Chronicle Stryjkowski.jpg","caption":"M. Strijkovskio kronikos 1582 m. leidimo antraštinis puslapis","originalTitle":"Chronicle Stryjkowski.jpg","creator":"M. Stryjkowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.mb.vu.lt/unesco/knygos/knygos/istorija/strik/anglu/eastrik1.htm [ dead link ]","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":254,"height":380,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AChronicle_Stryjkowski.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"saltinis","label":"saltinis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Chronicles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish publications from Königsberg","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/saltiniai/M. Strijkovskio kronika.md","title":"M. Strijkovskio kronika","itemType":"saltinis","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T11:42:37.509919+03:00","reviewedAt":"2026-07-31T05:55:56.467636+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas senovinis spausdintos kronikos antraštinis puslapis su dideliu raudonu gotikiniu pavadinimu ir tankiu tekstu.","metadataEvidence":"Kandidato pavadinimas „Chronicle Stryjkowski.jpg“, aprašas nurodo M. Stryjkowskio kronikos antraštinį puslapį, autorius M. Stryjkowski, data 1582 m.; tai sutampa su targetu.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas aiškiai dokumentuoja konkretaus M. Strijkovskio kronikos 1582 m. leidimo antraštinį puslapį.","isPrimary":0}]
 media_all_json: |-
-  [{"mediaId":"m-40ecdaa35840263110b4faee","title":"Chronicle Stryjkowski.jpg","caption":"1582 m. Motiejaus Strijkovskio kronikos titulinis puslapis","originalTitle":"Chronicle Stryjkowski.jpg","creator":"M. Stryjkowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.mb.vu.lt/unesco/knygos/knygos/istorija/strik/anglu/eastrik1.htm [ dead link ]","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":254,"height":380,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AChronicle_Stryjkowski.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"saltinis","label":"saltinis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Chronicles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish publications from Königsberg","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/saltiniai/M. Strijkovskio kronika.md","title":"M. Strijkovskio kronika","itemType":"saltinis","relationType":"edition_image_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:42:37.509919+03:00","reviewedAt":"2026-07-11T11:43:12.087242+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senos spausdintos knygos titulinis puslapis su dideliu raudonu antraštės žodžiu „Kronika“, ilgu lenkišku pavadinimu ir apačioje nurodyta data romėniškais skaitmenimis.","metadataEvidence":"Kandidato pavadinimas „Chronicle Stryjkowski.jpg“, aprašas „Title page of Chronicle... by M. Stryjkowski“, kūrėjas M. Stryjkowski ir data 1582 sutampa su target M. Strijkovskio kronika ir jos 1582 m. kontekstu.","confidenceLevel":"high","relationType":"edition_image_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai ne bendrinė iliustracija, o konkretaus M. Stryjkowskio kronikos leidinio titulinis puslapis, todėl ryšys su target yra aiškus ir tiesioginis.","isPrimary":1}]
+  [{"mediaId":"m-40ecdaa35840263110b4faee","title":"Chronicle Stryjkowski.jpg","caption":"M. Strijkovskio kronikos 1582 m. leidimo antraštinis puslapis","originalTitle":"Chronicle Stryjkowski.jpg","creator":"M. Stryjkowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.mb.vu.lt/unesco/knygos/knygos/istorija/strik/anglu/eastrik1.htm [ dead link ]","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":254,"height":380,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AChronicle_Stryjkowski.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Chronicle_Stryjkowski.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"saltinis","label":"saltinis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Chronicles","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Königsberg in the 16th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish publications from Königsberg","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/saltiniai/M. Strijkovskio kronika.md","title":"M. Strijkovskio kronika","itemType":"saltinis","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T11:42:37.509919+03:00","reviewedAt":"2026-07-31T05:55:56.467636+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas senovinis spausdintos kronikos antraštinis puslapis su dideliu raudonu gotikiniu pavadinimu ir tankiu tekstu.","metadataEvidence":"Kandidato pavadinimas „Chronicle Stryjkowski.jpg“, aprašas nurodo M. Stryjkowskio kronikos antraštinį puslapį, autorius M. Stryjkowski, data 1582 m.; tai sutampa su targetu.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas aiškiai dokumentuoja konkretaus M. Strijkovskio kronikos 1582 m. leidimo antraštinį puslapį.","isPrimary":0}]
 ---
 # M. Strijkovskio kronika
 
@@ -435,7 +435,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 <a id="claim-t-188496"></a>
 - t-023
   teiginys: "Narbutas remiasi Strijkovskiu teigdamas, kad medinis milžino išvaizdos Kukovaičio stabas stovėjo ant kalno prie Deltuvos."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -450,7 +450,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171386
-    - c-179146
 
 <a id="claim-t-188497"></a>
 - t-024
@@ -514,15 +513,22 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 <a id="claim-t-190829"></a>
 - t-027
   teiginys: "Teodoras Narbutas rašo, kad Strijkovskis savo kronikoje rėmėsi istoriniais šaltiniais, kuriais patvirtino aptariamą pasakojimą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kimbrai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Strijkovskio kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kimbrai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Strijkovskio kronika\" parinktas kaip owner_note_path. Targetas \"Kimbrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
-    - c-173709
+    - c-173711
 
 <a id="claim-t-190830"></a>
 - t-028
@@ -685,7 +691,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-55249
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 51."
   citata_originali: |
     Strijkovskis, 1.465, o juo sekda­
     mas ir K o j e 1  a v i č i u s, p. 361,
@@ -718,7 +725,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-55250
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 51."
   citata_originali: |
     Jogailai pristigo pajėgų gintis taip staiga užkluptam,
     tad miestas ir pilys bemat buvo Kęstučio užimtos, turtai ir
@@ -752,7 +760,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-55251
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 65."
   citata_originali: |
     I  KNYGA
     Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
@@ -787,7 +796,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-55252
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 65."
   citata_originali: |
     Anot jų, Gediminas,
     po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
@@ -824,7 +834,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-55253
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 137."
   citata_originali: |
     Stryjkowski,ed. Królewiec, 1.487
     tą susirėmimą ir mūšį prie Vižūnų
@@ -851,7 +862,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-157329
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 68."
   citata_originali: |
     Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-
     tavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai,
@@ -872,7 +884,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-157330
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64-65"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64-65."
   citata_originali: |
     Chron. prus. p. 400.
     48
@@ -898,7 +911,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-157335
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 51."
   citata_originali: |
     Strijkovskis ir Koje-
     1  a v i č i u s supainiojo Andrių, Al­
@@ -926,7 +940,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-157336
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 35."
   citata_originali: |
     Netoli jo, ties Belgorodu, į
     pietvakarius nuo Kijevo („už šešių mylių“),
@@ -948,7 +963,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-157337
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 47."
   citata_originali: |
     24
     Kojalowicz, Pars I, p. 351. S t ryj­
@@ -971,7 +987,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-157339
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 143."
   citata_originali: |
     Il KNYGA
     po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
@@ -1018,7 +1035,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-157343
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 65-66"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 65-66."
   citata_originali: |
     h i
     XI Knyga, sk. 4,1. 396. Hist. Lit. Pars. I. lib. VII, p. 262.'
@@ -1041,7 +1059,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-157344
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 34."
   citata_originali: |
     7
     Šventaragio vardo kilmę aiškina
@@ -1062,7 +1081,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-157345
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 133."
   citata_originali: |
     E., p. 54 ap. F o i g t a s,
     V, 534. Strijkovskis ir Koj e-
@@ -1089,7 +1109,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-171381
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
   citata_originali: |
     Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
     rųjų reiškia storulį, perkeltine prasme - turčių. Iš čia Pilwitos,
@@ -1105,7 +1126,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-171382
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Au­
     kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
@@ -1126,7 +1148,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-171383
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
   citata_originali: |
     Kitaip juos vadindavo piktukais nuo Piktas', netoli
     Vilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose
@@ -1145,7 +1168,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-171384
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
   citata_originali: |
     Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
     pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­
@@ -1165,7 +1189,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-171385
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
   citata_originali: |
     Gyvatė (Giwojte)
     Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
@@ -1186,7 +1211,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-171386
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     Lietuviams buvo žinomas dievinamų asmenų stabų staty­
     mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
@@ -1204,7 +1230,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-171387
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 431"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
   citata_originali: |
     Jau ir šiaip žinome, ir anksčiau sakėme, kad
     kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
@@ -1232,7 +1259,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-173709
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
   citata_originali: |
     Baigtos istorijos negalime rasti1;
     kronikos ir istorijos žinių rinkiniai, pasirodę vos nuo­
@@ -1257,12 +1285,12 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_saltinis: ai
   pagrindzia:
     - t-025
-    - t-027
 
 - id: c-173710
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Latvių, arba
     Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
@@ -1285,7 +1313,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-173711
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
   citata_originali: |
     Tam nereikia įrodymų,
     nes tai liudija minėtų kraštų istorijos. Mūsų kronikinin­
@@ -1299,14 +1328,17 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   citata_rodoma: "Tam nereikia įrodymų,\nnes tai liudija minėtų kraštų istorijos. Mūsų kronikinin­\nkas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­\ntiniais, kuriuos jis naudojo1. Paskui Hartknochas**, rem­\ndamasis vertais pasitikėjimo prūsų kronikų rašytojais,\nypač Kasparu Dankvertu, puikiai išmanantis prūsų isto­\nriją, darbštus istorinės tiesos tyrinėtojas ir atradėjas, vi­\nsiškai įsitikinęs tvirtina, kad kimbrų gyventa žemėje, kur\nvėliau įsikūrė prūsai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-027
+
 - id: c-173712
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     Strijkovskis neabejotinai taiso šios vietos prieštaravimus
     ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
@@ -1334,7 +1366,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-173713
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     Tačiau esama sunku­
     mų nustatant datą, kada tai galėjo įvykti: kalbėdamas
@@ -1363,7 +1396,8 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - id: c-179146
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
     tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
@@ -1381,5 +1415,4 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
     - t-031

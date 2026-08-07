@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-170040
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 206."
   citata_originali: |
     Mindaugas buvo nužudytas 1263 m. rudcn|. Nužudymo vieta
     nežinoma. Pagal tradiciją, užfiksuotą XVI a., tai įvyko Agluonoje,

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eb32f3317edd1e47c43849ca"
+canonical_name: "Liucijus Apulėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liucijus Apulėjus"]
+sameAs: []
+canonical_biography: "Liucijus Apulėjus savo „Auksiniame asile“ paliko mums šiokį tokį tų senovės paslapčių aprašymą."
 ---
 # Liucijus Apulėjus
 
@@ -47,7 +54,8 @@ Liucijus Apulėjus savo „Auksiniame asile“ paliko mums šiokį tokį tų sen
 - id: c-177231
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 197."
   citata_originali: |
     Reikėjo numirti dėl aistrų, liau­
     dies prietarų ir blogų papročių, perimtų iš sugedusios pasau­

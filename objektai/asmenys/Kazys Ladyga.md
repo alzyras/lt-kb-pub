@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-438b93e0e64bd5519fd4b62a"
+canonical_name: "Kazys Ladyga"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazys Ladyga"]
+sameAs: []
+canonical_biography: "Paveiksle pavaizduoti Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai, ginkluoti Mosin-Nagant šautuvais ## Puslapis 195 Kazys Ladyga (1893-1941) 1914 m. baigė Vilniaus karo mokyklą, dalyvavo Pirmajame pasauliniame kare, buvo du kartus sužeistas. Ladyga neturėjo vieningos nuomonės dėl priemonių, kurių reikėtų imtis."
 ---
 # Kazys Ladyga
 
@@ -64,7 +71,8 @@ Paveiksle pavaizduoti Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,
 - id: c-42078
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 194-195"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 194-195."
   citata_originali: |
     Paveiksle pavaizduoti
     Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,

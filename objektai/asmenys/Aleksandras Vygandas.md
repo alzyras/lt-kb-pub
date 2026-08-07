@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5d2f76e8ccc3125c086d51a2"
+canonical_name: "Aleksandras Vygandas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Vygandas"]
+sameAs: []
+canonical_biography: "Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas, bet jis staiga mirė, todėl galutinai buvo apsistota ties Vytautu."
 ---
 # Aleksandras Vygandas
 
@@ -89,7 +96,8 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
 - id: c-169389
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 323."
   citata_originali: |
     Šios įgulos nepaprastai kenkė aplinkiniam
     kraštui: nesutikdamos pasipriešinimo, jos pridarydavo
@@ -119,7 +127,8 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
 - id: c-178671
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 323."
   citata_originali: |
     Šitokia padėtis paskatino Kernavės ku­
     nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten

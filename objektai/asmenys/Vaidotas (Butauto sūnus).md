@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-27aafc96bbbaf2391b9da066"
+canonical_name: "Vaidotas (Butauto sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Butauto sūnus Vaidotas","Vaidotas","Vaidotas (Butauto sūnus)"]
+sameAs: []
+canonical_biography: "Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kęstučio globos į Prūsus ir iš ten patraukęs toliau į Vakarus."
 ---
 # Vaidotas (Butauto sūnus)
 
@@ -79,7 +86,8 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 24."
   citata_originali: |
     Nuvykęs Vakarų Europon buvo Romos cieso­
     riaus Karolio IV pakeltas imperijos kunigaikščiu ir gyveno jo dvare (1369

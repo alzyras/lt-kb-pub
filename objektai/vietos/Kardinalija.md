@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-157ff3b2e2e3967fa251fa99"
+canonical_name: "Kardinalija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kardinalija"]
+sameAs: []
+canonical_biography: "Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi­ sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus. Maždaug tuo metu vienas didžiausių Vil­ niaus namų, iki tol vadintas Kardinalija, statytas kunigaikš­ čio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis, iškilo tarp senų mūrinių namų ir medinių dvarų70. O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios Kunigaikštystės rūmų maršalka, tapo savininku namų, vadintų Filipovo namais, susidedančių iš keleto medinių, moliu aplipdytų, pastatų, užimančių dabartinį Kardinalijos sparną nuo."
+place_authority: true
+historical_names: []
 ---
 # Kardinalija
 
@@ -107,7 +116,8 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
 - id: c-81913
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     ## Puslapis 314
 
@@ -130,7 +140,8 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
 - id: c-81914
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Jono bažnyčią, visą mū­
     rinį. O Jurgio brolis, kunigaikštis Mi­
@@ -160,7 +171,8 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
 - id: c-81915
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 27."
   citata_originali: |
     Įgudęs lietuvių istorijos žinovas Ig­
     nacas Onacevičius su retai sutinkamu palankumu atidavė man
@@ -187,7 +199,8 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
 - id: c-81916
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Kardinolas Radvila
     dalyje, vadinamoje Goštautų mūru,

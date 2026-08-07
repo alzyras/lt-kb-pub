@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-219e7fad3425583fa3b9becd"
+canonical_name: "Kotryna"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kotryna"]
+sameAs: []
+canonical_biography: "Kotryna (Katarzyna), Teofilio Dunino Rajeckio duktė, buvo J. L. Oziębłowskio žmona; jos pirmasis vyras Samuelis Komorowskis šaltinyje apibūdinamas kaip garsus karvedys XVII a. vidurio karų metu."
 ---
 # Kotryna
 
@@ -62,9 +69,10 @@ Kotryna (Katarzyna), Teofilio Dunino Rajeckio duktė, buvo J. L. Oziębłowskio 
 ## Citatos
 
 - id: c-185745
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 8"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 8."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 8."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

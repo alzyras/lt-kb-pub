@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-30c3024b7318e58663bc0c6e"
+canonical_name: "Medvėgalis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Medvėgalis"]
+sameAs: []
+canonical_biography: "(^234) II skyrius: valstybės iškilimas Wigando kronikoje pažymi, jog esą daug Medvėgalio srities kil­ mingųjų (« multi pagani maiores ») derėjosi su magistru : «jie visi jam paklustų, jeigu juos apsaugotų nuo karaliaus pykčio ir jėgos, kadangi kitaip jie. Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį)."
+place_authority: true
+historical_names: []
 ---
 # Medvėgalis
 
@@ -71,11 +80,18 @@ media_all_json: |-
 <a id="claim-t-98615"></a>
 - t-003
   teiginys: "Grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius po Ordino brolių vėliava."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> vėliava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Medvėgalis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "vėliava: mention_match, thing, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medvėgalis\" parinktas kaip owner_note_path. Targetas \"vėliava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-92843
+    - c-92845
 
 <a id="claim-t-98616"></a>
 - t-004
@@ -132,7 +148,8 @@ media_all_json: |-
 - id: c-92841
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 242."
   citata_originali: |
     Šis žygis, kuriame buvo daug svečių iš
     visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
@@ -153,7 +170,8 @@ media_all_json: |-
 - id: c-92842
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 241."
   citata_originali: |
     Pirmasis į tą laišką dėmesį
     atkreipė Paszkiewicz : PaJM, 283 p. 3. išn.**
@@ -180,7 +198,8 @@ media_all_json: |-
 - id: c-92843
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 253-254"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 253-254."
   citata_originali: |
     Apie Medvėgalio pilėnus
 
@@ -205,13 +224,13 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
     - t-007
 
 - id: c-92844
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     575 D.— anre castrum Medewagam, Jer.— von Medewagiln. Medvėgalio pilis buvo
     centrinėje Žemaitijoje,  į šiaurės vakarus nuo Kaltinėnų, Medvėgalio kalno papėdėje.
@@ -230,7 +249,8 @@ media_all_json: |-
 - id: c-92845
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais
 
@@ -244,10 +264,11 @@ media_all_json: |-
   citata_rodoma: "Apie Medininkų valsčiaus apiplėšimą 1316 metais\n\n  Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių\niš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš\nElnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,\nį Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į\nnelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai\ndėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į\nriterius."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Apgulė Medvėgalį: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]

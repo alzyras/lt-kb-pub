@@ -53,7 +53,8 @@ Autorinė sentencija apie deramos pagarbos rašytojui vertę, įterpta į Baltij
 - id: c-175011
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 372."
   citata_originali: |
     Padarę tokias prielaidas, galbūt sugebėsime suderin­
     ti iš pirmo žvilgsnio priešingas, bet iš esmės patikrintas

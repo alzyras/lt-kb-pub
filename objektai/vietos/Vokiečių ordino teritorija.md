@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f5f107cd921d1b6f7d846a4c"
+canonical_name: "Vokiečių ordino teritorija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vokiečių ordino teritorija"]
+sameAs: []
+canonical_biography: "O dabar įsiveržiama į Vokiečių ordino teritoriją ir žygiuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su visomis Ordino pajėgomis."
+place_authority: true
+historical_names: []
 ---
 # Vokiečių ordino teritorija
 
@@ -50,7 +59,8 @@ O dabar įsiveržiama į Vokiečių ordino teritoriją ir žygiuojama tiesiai li
 - id: c-18371
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 46."
   citata_originali: |
     Vytautas apgavo Ordino vadus – davė žemaičiams įsaky-
     mą nuolat puldinėti jo pilis, taip dangstant jungtinės Lenkijos ir Lietu-

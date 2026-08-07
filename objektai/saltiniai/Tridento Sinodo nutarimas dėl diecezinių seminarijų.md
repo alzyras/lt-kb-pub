@@ -65,7 +65,8 @@ media_all_json: |-
 - id: c-84320
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 442-443"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 442-443."
   citata_originali: |
     Quod quidem praedium cum kominikus, villis,
     426
@@ -92,7 +93,8 @@ media_all_json: |-
 - id: c-84321
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 445-446"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 445-446."
   citata_originali: |
     išrūpintų beneficijų būtų paskirta teisėta dova­
     na ir fundacija. Pripažįstame šios Dievo apvaizdai padedant

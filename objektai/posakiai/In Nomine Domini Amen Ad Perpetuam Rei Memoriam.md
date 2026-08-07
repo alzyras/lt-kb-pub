@@ -43,7 +43,8 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
 - id: c-82837
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 256-257"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 256-257."
   citata_originali: |
     Quum Nobis Exposuisset Venerabilis Valentinus
     a Pilzno Vilnensis, et Luceoriensis Canonicus Ecclesiae in

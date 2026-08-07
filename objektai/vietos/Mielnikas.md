@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1ba4e9a297857c85d31e1a35"
+canonical_name: "Mielnikas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mielnikas"]
+sameAs: []
+canonical_biography: "1384 m. vasarą jis buvo gavęs dalį tėvo valdų, būtent, Gardiną, Lietuvos Brastą ir Palenkę su Drohičinu ir Mielniku^8."
+place_authority: true
+historical_names: []
 ---
 # Mielnikas
 
@@ -84,7 +93,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 290."
   citata_originali: |
     Su pagoniškąja Lietuva pirmąsias nuolatinio karo paliau­
     bas Ordinas padarė 1379 m. Labai įdomios ir viduramžiui
@@ -107,7 +117,8 @@ media_all_json: |-
 - id: c-68215
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 309."
   citata_originali: |
     1384 m. vasarą jis buvo gavęs dalį tėvo valdų, būtent, Gardiną,
     Lietuvos Brastą ir Palenkę su Drohičinu ir Mielniku^8. O mirus

@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e48a6fe6f78a44d5a26323f3"
+canonical_name: "Marijampolė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Marijampolė"]
+sameAs: []
+canonical_biography: "Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui, — per Vilnių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių rinkti naujų jėgų."
+place_authority: true
+historical_names: []
 ---
 # Marijampolė
 
@@ -101,7 +110,8 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - id: c-32216
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 75."
   citata_originali: |
     Zūricho universitetą užbaigė rūpestingai parašy­
     dama vokiškai disertaciją apie Lietuvos bajorijos privilegijas iki
@@ -125,7 +135,8 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - id: c-68136
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 65."
   citata_originali: |
     (^70) **J. Totoraitis :** **_Die Litauer unter dem König Mindowe bis zum Jahre
     1263,_** **Freiburg (Schweiz) 1905. Paties autoriaus sulietuvinta:** **_Mindaugas,
@@ -144,7 +155,8 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - id: c-68137
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 461"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 461."
   citata_originali: |
     Be to, netrukus žuvo ir visa Napoleono galybė. Tuojau
     po unijos atnaujinimo iškilmių jis išžygiavo iš Vilniaus į

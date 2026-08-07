@@ -41,9 +41,9 @@ Ant tos šventės turėjo gaspadoriąi savo šeimyną nuvaišinti ir susibarusie
 ## Citatos
 
 - id: c-184612
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 108"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 108."
   citata_originali: |
     Ant tos
     šventės turėjo gaspadoriąi savo šeimyną nuvaišinti

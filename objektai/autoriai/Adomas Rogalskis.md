@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-04b1ebc5e56d5dd8e05c3988"
+canonical_name: "Adomas Rogalskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Adomas Rogalskis"]
+sameAs: []
+canonical_biography: "Adomo Rogalskio vertimas iš lotynų kalbos 1823 m. buvo išspausdintas Vilniaus periodiniame leidinyje „Dziennik Wileński“."
 ---
 # Adomas Rogalskis
 
@@ -65,7 +72,8 @@ Adomo Rogalskio vertimas iš lotynų kalbos 1823 m. buvo išspausdintas Vilniaus
 - id: c-173295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 502"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 502."
   citata_originali: |
     Istorikas naudojosi ir lenkišku vertimu, dar
     1823 metais išspausdintu Vilniaus periodikoje (Mi­

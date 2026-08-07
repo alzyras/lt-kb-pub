@@ -29,12 +29,21 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1c994befd9e596c18159b431"
+canonical_name: "Slonimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Slonimas"]
+sameAs: []
+canonical_biography: "8 ## Puslapis 25 ĮVADAS denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų; Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino 1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu su Nogajaus mongolais."
+place_authority: true
+historical_names: []
 ---
 # Slonimas
 
 ## Santrauka
 
-Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mongolams, puolusiems Lietuvą. 1760 m. rudenį Slonime mirė Lietuvos Didžiosios Kunigaikštystės pakancleris Mykolas Antanas Sapiega.
+8 ## Puslapis 25 ĮVADAS denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų; Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino 1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu su Nogajaus mongolais.
 
 ## Teiginiai
 
@@ -60,20 +69,20 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
 <a id="claim-t-200703"></a>
 - t-002
   teiginys: "1760 m. rudenį Slonime mirė Lietuvos Didžiosios Kunigaikštystės pakancleris Mykolas Antanas Sapiega."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "mire -> Slonimas: 0.97"
+  ryšio_patikimumas: "mire -> Slonimas: 0.99"
   ryšio_patikimumo_lygis: "aukstas"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
   ryšio_sprendimo_taisykle: "llm_validated_relation"
   ryšio_subjekto_parinkimas: "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760): llm_allowed_candidate, person"
   ryšio_targeto_parinkimas: "Slonimas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Mykolo Antano Sapiegos mirties vietą Slonime."
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Mykolas Antanas Sapiega mirė Slonime."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
-  semantiniai_rysiai: "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760) mirė Slonimas (0.97)"
+  semantiniai_rysiai: "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760) mirė Slonimas (0.99)"
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-184049
@@ -83,7 +92,8 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
 - id: c-82084
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24-25"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24-25."
   citata_originali: |
     T. 1, p. 554.
     8
@@ -113,7 +123,7 @@ Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mon
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 11."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 11:39"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-002
 

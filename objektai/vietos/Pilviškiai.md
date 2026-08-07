@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a042a589cc5ad75e0e16cdb"
+canonical_name: "Pilviškiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pilviškiai"]
+sameAs: []
+canonical_biography: "Pilviškių vis. Pilviškių vls."
+place_authority: true
+historical_names: []
 ---
 # Pilviškiai
 
@@ -77,7 +86,8 @@ Pilviškių vis. Pilviškių vls.
 - id: c-43742
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     X GULBINIŠKIŲ KAUTYNĖS
 
@@ -95,7 +105,8 @@ Pilviškių vis. Pilviškių vls.
 - id: c-45275
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     X. ŽIŪRŲ-GUDELIŲ KAUTYNĖS
 

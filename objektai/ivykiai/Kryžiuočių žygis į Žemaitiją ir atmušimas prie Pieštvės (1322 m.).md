@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-63673
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
   citata_originali: |
     Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų iš
     Vokietijos, Čekijos ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,

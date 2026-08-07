@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9c9228c2b8246791572e34cb"
+canonical_name: "Dobryniaus"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dobryniaus"]
+sameAs: []
+canonical_biography: "1300 jie vėl pasirodė Dobry­ niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes, o 1307 buvo įsiveržę į Kališo sritį^5."
+place_authority: true
+historical_names: []
 ---
 # Dobryniaus
 
@@ -62,7 +71,8 @@ media_all_json: |-
 - id: c-33828
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 224."
   citata_originali: |
     1296 lietuviai įsiveržė į
     Sandomieriaus ir Kujavijos žemes. 1300 jie vėl pasirodė Dobry­

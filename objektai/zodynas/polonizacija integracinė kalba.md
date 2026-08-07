@@ -84,7 +84,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - id: c-24937
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 74."
   citata_originali: |
     Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta. Gyveni-
     mas reikalavo vis daugiau lietuviškų žodžių, bet, užuot juos kūrus, buvo
@@ -104,7 +105,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - id: c-24938
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 75."
   citata_originali: |
     Seime jai suteikiamas oficialios raštinių kalbos
     statusas vietoje anksčiau vartotos rusėnų raštų kalbos. Taigi lenkų kalba
@@ -122,7 +124,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - id: c-24939
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 155."
   citata_originali: |
     „Bolševizaciją“ papildė kaltinimai polonizaci-
     ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti

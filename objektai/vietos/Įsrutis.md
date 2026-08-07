@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fb4317c1b737b0ea772d7672"
+canonical_name: "Įsrutis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Įsrutis"]
+sameAs: []
+canonical_biography: "kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų."
+place_authority: true
+historical_names: []
 ---
 # Įsrutis
 
@@ -85,7 +94,8 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 - id: c-166285
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 261."
   citata_originali: |
     Išsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais
     terminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedi­
@@ -107,7 +117,8 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 - id: c-167203
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 40."
   citata_originali: |
     Vasarą su gausiais svetimšalių būriais
     ir savais kariais maršalas žygiavo Gardino

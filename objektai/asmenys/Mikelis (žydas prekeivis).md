@@ -39,6 +39,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bdbdba119f38890759e5fd6c"
+canonical_name: "Mikelis (žydas prekeivis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikelis","Mikelis (žydas prekeivis)"]
+sameAs: []
+canonical_biography: "Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, turėjęs šeimą ir po aplinkinius kaimus nešiojęs silkes bei buiką."
 ---
 # Mikelis (žydas prekeivis)
 

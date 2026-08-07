@@ -59,9 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-185314
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 333"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 333."
   citata_originali: |
     Buvo pateikta sąlyga: liutero-
     nų bažnyčia neturinti būti išoriškai panaši į maldos namus. O jau 1640 m. Vladislo-

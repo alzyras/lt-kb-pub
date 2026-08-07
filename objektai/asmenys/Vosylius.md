@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-04d2a7bb2a309509cb3a311b"
+canonical_name: "Vosylius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vosylius"]
+sameAs: []
+canonical_biography: "Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija. Vosylius jau buvo tapęs kunigaikščiu ir norėjo vesti savo sužadėtinę, Vytauto dukterį Sofiją."
 ---
 # Vosylius
 
@@ -95,7 +102,8 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 246."
   citata_originali: |
     tėj, kuri turėjo dekoruoti „šviesiausius, tikruosius, garbinguo­
     sius ir laisvuosius“ Lietuvos karalius^1 ). Į iškilmes buvo pa­
@@ -119,7 +127,8 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 298."
   citata_originali: |
     Tuo pat metu jis praplėtė savo valdžią Okos
     aukštupio kunigaikštėlių tarpe. Čia jam pasidavė Liubutsko,

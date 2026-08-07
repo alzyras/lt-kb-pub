@@ -59,7 +59,8 @@ p. 234, Dainų ir eilėraščių rinkinys „Kovos keliu žengiant“ 1949 m. Le
 - id: c-45000
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 272."
   citata_originali: |
     p. 234, „Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) Prisikėlimo apygardos partizanų leidinys, GAM.
     p. 234, Dainų ir eilėraščių rinkinys „Kovos keliu žengiant“ 1949 m. Leidinį leido Prisikėlimo

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b75935e71bd2c03850688898"
+canonical_name: "Gervėčiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gervėčiai"]
+sameAs: []
+canonical_biography: "Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai."
+place_authority: true
+historical_names: []
 ---
 # Gervėčiai
 
@@ -53,7 +62,8 @@ Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai.
 - id: c-168647
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 129."
   citata_originali: |
     S e n i lie tu v ių  p r ie ta ­
     rai,

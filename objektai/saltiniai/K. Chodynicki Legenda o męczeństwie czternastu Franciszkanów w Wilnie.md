@@ -58,7 +58,8 @@ Chodynicki : Legenda o męczeństwie czternastu Franciszkanów w Wilnie , AW, IV
 - id: c-33599
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 265."
   citata_originali: |
     Matyti, jis buvo įsitikinęs, jog jam priėmus
     Romos ar Bizantijos krikštą, pagonys lietuviai, kurie Algirdo

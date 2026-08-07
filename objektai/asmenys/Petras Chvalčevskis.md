@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c11a0ac45befa34fbb82db1"
+canonical_name: "Petras Chvalčevskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Chvalčevskis"]
+sameAs: []
+canonical_biography: "Kaip atrodo, Barborai Radvilaitei gyvai esant ir po jos mirties 1551 m. Kauno seniūniją tvarkė valdovo pilių ir dvarų priežiūras Petras Chvalčevskis."
 ---
 # Petras Chvalčevskis
 
@@ -49,9 +56,9 @@ Kaip atrodo, Barborai Radvilaitei gyvai esant ir po jos mirties 1551 m. Kauno se
 ## Citatos
 
 - id: c-185542
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 163"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 163."
   citata_originali: |
     Kauno pavieto valdymas buvo komplikuotas. Kaip atrodo, Barborai Ra-
     dvilaitei gyvai esant ir po jos mirties 1551 m. Kauno seniūniją tvarkė valdovo pilių

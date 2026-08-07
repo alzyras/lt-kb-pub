@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-044afb897ee3ef3d6a8d9801"
+canonical_name: "Gervelionys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gervelionys"]
+sameAs: []
+canonical_biography: "Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas, apačioje siekęs penkias uolektis."
+place_authority: true
+historical_names: []
 ---
 # Gervelionys
 
@@ -46,7 +55,8 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
 - id: c-171837
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 242."
   citata_originali: |
     Tikriausiai tai davė dingstį laikyti blindę šventa ir ma­
     nyti, kad ji galinti turėti įtakos vaisingumui.

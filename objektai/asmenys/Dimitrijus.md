@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9b87d2793f3492368f69ea62"
+canonical_name: "Dimitrijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dimitrijus"]
+sameAs: []
+canonical_biography: "Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė temniką Mamajų ir, pasak autoriaus, atsikratė totorių jungo. Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas. Lietuvos metraščio pasakojime Kijevo didysis kunigaikštis Dimitrijus po Batu antpuolio užėmė Drucko žemę, pastatydino Drucko miestą ir pasivadino Drucko didžiuoju kunigaikščiu."
 ---
 # Dimitrijus
 
@@ -112,7 +119,8 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
 - id: c-169466
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 221."
   citata_originali: |
     Mask­
     vos kunigaikštis Dimitrijus Šemiaka sumušė tuo metu
@@ -142,7 +150,8 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
 - id: c-169467
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
   citata_originali: |
     Dimitrijus sumokėsiąs ka­
     reiviams algą, o vadui — karo išlaidas. Abiejų tautų
@@ -174,7 +183,8 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
 - id: c-176530
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 43."
   citata_originali: |
     Bevaldant Mantvilai, iškilo chanas Batu2 ; ir užpuo­
     lė jis Rusų žemę, ir visą Rusų žemę užkariavo3 , ir daug

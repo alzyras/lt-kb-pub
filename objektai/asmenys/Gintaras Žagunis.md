@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-45fd62da4c5fc97ae4549d42"
+canonical_name: "Gintaras Žagunis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gintaras Žagunis"]
+sameAs: []
+canonical_biography: "1991 m. gegužės 19 d. Šalčininkų rajone, Krakūnų pasienio poste žuvo pirmasis Lietuvos pasienietis Gintaras Žagunis."
 ---
 # Gintaras Žagunis
 
@@ -55,7 +62,8 @@ media_all_json: |-
 - id: c-176467
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 265."
   citata_originali: |
     Siekdama tarptau-
     tinio pripažinimo atsikūrusi Lietuvos valstybė

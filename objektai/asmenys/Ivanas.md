@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-749931e9b7866175620342e3"
+canonical_name: "Ivanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas"]
+sameAs: []
+canonical_biography: "Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir gruodžio pabaigoje apsupo jos sostinę bei abi pilis. Ivanas su džiaugsmu priėmė Augusto atsiųstus belaisvius Michailą Ivanovičių ir Ivaną Selechovskį."
 ---
 # Ivanas
 
@@ -74,7 +81,8 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
 - id: c-169323
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 718"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 718."
   citata_originali: |
     M at, išsiuntęs A u g u stu i laišką, p arag in o jį ta i­
     k y tis ir pareiškė, jog, tro k šd am as taikos, m ielai įvyk-
@@ -108,7 +116,8 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
 - id: c-178714
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 684"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 684."
   citata_originali: |
     Paleidęs seimą, karalius Augustas pasiuntė kartu
     su savo tarpininku Povilu Ostrovickiu Maskvos didžia­

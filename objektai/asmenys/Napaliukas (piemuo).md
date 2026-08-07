@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-36f59703334f192fc340b07f"
+canonical_name: "Napaliukas (piemuo)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Napaliukas","Napaliukas (piemuo)"]
+sameAs: []
+canonical_biography: "Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs pinti vyžą, valdęs rimbą ir be Baltro pagalbos sunkiau susidorodavęs su darbu."
 ---
 # Napaliukas (piemuo)
 

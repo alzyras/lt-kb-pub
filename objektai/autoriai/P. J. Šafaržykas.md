@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c881027e07acd05608696047"
+canonical_name: "P. J. Šafaržykas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. J. Šafaržykas"]
+sameAs: []
+canonical_biography: "P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo bestseleriu ir buvo išverstos beveik į visas slavų kalbas. P. J. Šafaržykas įžvelgia paslėptą prūsų, o ne vokiečių-burgundų (kaip kad buvo manyta iki tol) vardą."
 ---
 # P. J. Šafaržykas
 
@@ -75,7 +82,8 @@ P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo b
 - id: c-179269
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 262."
   citata_originali: |
     Šio nepaprastai mokslingo tyrinėtojo (nelaimei, pernelyg
     dainai besiremiančio nuojauta, — dėl to jo išvados dažnai klaidin­

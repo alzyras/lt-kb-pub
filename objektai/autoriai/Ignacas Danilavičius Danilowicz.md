@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b1c1f83344e5f0d861646df3"
+canonical_name: "Ignacas Danilavičius Danilowicz"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ignacas Danilavičius Danilowicz"]
+sameAs: []
+canonical_biography: "Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui Malevskiui už gausius išrašus iš Lietuvos Metrikos. Tai buvęs Vilniaus Universiteto profeso­ rius, o dabar Kijeve vadovaujantis Teisės katedrai, Ignacas Dani­ la vičius, kuriam Lietuvos istorija ir teisės mokslas jau tiek skolin­ gi, mielai perleidęs man svarbius savo užrašus apie mažiau žinomas Vilniaus. 36 Kazimiero Jogailaičio Statutas, seniau­ sių XV amžiaus Lietuvos nutarčių paminklas, surastas ir išspausdintas Charkovo Imperatoriškojo universi­ teto profesoriaus Ignaco Dani­ la v i č i a u s rūpesčiu Vilniuje pas Marcinovskį, 1826 metais, in 8vo."
 ---
 # Ignacas Danilavičius Danilowicz
 
@@ -75,7 +82,8 @@ Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pa
 - id: c-83960
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 27."
   citata_originali: |
     Tačiau jaučiu malonią pareigą prisipažinti sa­
     vo skaitytojams, kam iš mokslo vyrų, rėmusių mane užsibrėžus
@@ -98,7 +106,8 @@ Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pa
 - id: c-83961
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 10."
   citata_originali: |
     Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi. Kita vertus, pirmoje

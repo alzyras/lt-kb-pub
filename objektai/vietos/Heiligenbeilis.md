@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0376603c3891a46218f03f0c"
+canonical_name: "Heiligenbeilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Heiligenbeilis"]
+sameAs: []
+canonical_biography: "Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas."
+place_authority: true
+historical_names: []
 ---
 # Heiligenbeilis
 
@@ -55,7 +64,8 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
 - id: c-171892
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 268."
   citata_originali: |
     Įėjimas -  tai priekiniai vartai, į dešinę
     nuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,

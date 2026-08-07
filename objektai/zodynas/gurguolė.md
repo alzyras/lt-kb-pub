@@ -271,7 +271,8 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - id: c-104822
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 56."
   citata_originali: |
     O Vytauto
     pusėje kovęsis caras Tochtamišas, „vos tai
@@ -297,7 +298,8 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - id: c-104823
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
   citata_originali: |
     Tuo metu, kai šitai dėjosi, Sventopelkas
     sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
@@ -322,7 +324,8 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - id: c-104824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 132-133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 132-133."
   citata_originali: |
     116
 
@@ -358,7 +361,8 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - id: c-167974
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 130."
   citata_originali: |
     Nusiaubę Kulmo kraš­
     tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa­
@@ -396,7 +400,8 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - id: c-167976
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 178."
   citata_originali: |
     Greitosiomis sutelktas len­
     kų būrys pasivijo besitrau-
@@ -438,7 +443,8 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - id: c-167977
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 251."
   citata_originali: |
     Kovos lauke krito tūkstan­
     tis lietuvių, tačiau ir kryžiuočiai neteko (neskaičiuo­
@@ -472,7 +478,8 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - id: c-176103
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 154."
   citata_originali: |
     Antra vertus, stovykla, pilna grobio,
     L enkai rengiasi p u lti
@@ -510,7 +517,8 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - id: c-178651
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
   citata_originali: |
     Todėl, sužinojęs, jog skitai
     dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug­

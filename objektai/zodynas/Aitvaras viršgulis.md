@@ -32,7 +32,7 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
 <a id="claim-t-189110"></a>
 - t-001
   teiginys: "Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kuris užgula miegančias moteris."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -110,7 +110,8 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
 - id: c-171998
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
   citata_originali: |
     Šie sakė, kad aukštieji dievai užsiundę tas
     piktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.
@@ -132,7 +133,8 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
 - id: c-171999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
   citata_originali: |
     Tą vardą duodavo taip pat fau­
     nams ir satyrams dėl jų gašlumo. Tamsybės laikais demonog-
@@ -156,7 +158,8 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
 - id: c-172000
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
   citata_originali: |
     F. Noelis mitologijos žodyne, straipsnyje „Incubus“, sako:
     „Tai piktosios dvasios, apie kurias manyta, kad ateina uždu­

@@ -31,7 +31,8 @@ Narbutas Puciatus aiškina kaip Zefyrą ir Zefyriukus, o pavadinimą kildina iš
 - id: c-172386
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
   citata_originali: |
     176
 

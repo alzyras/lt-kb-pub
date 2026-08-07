@@ -42,7 +42,8 @@ p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atmint
 - id: c-75982
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
   citata_originali: |
     p. 222, „MŪŠIO DALYVIO ATSIMINIMAI“, LGGRT centras, „Gyvosios atminties programa“.
     p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atminties programa“.

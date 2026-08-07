@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f4452c8f23c8c062454d7809"
+canonical_name: "Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)"]
+sameAs: []
+canonical_biography: "Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą."
 ---
 # Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)
 
@@ -53,7 +60,8 @@ Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laida
 - id: c-169534
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 340."
   citata_originali: |
     Po to, kai visas Se-
     verskas vėl kaip kadaise atsi-

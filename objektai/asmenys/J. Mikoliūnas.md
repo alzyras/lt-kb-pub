@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2e577a84e9a173b1e0423cb0"
+canonical_name: "J. Mikoliūnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Mikoliūnas"]
+sameAs: []
+canonical_biography: "Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaurės rytų turėjo per Nabutiškius pulti šiaurinį Petraičių kaimo pakraštį ir veržtis toliau į Šėtą."
 ---
 # J. Mikoliūnas
 
@@ -67,7 +74,8 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
 - id: c-44360
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 173."
   citata_originali: |
     Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
     Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su
@@ -94,7 +102,8 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
 - id: c-44361
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 175."
   citata_originali: |
     K. Dragunevičiaus vadovaujama
     vidurinioji vora privalėjo pulti bolševi-

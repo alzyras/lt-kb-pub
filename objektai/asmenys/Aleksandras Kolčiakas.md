@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-64face4a144da66e8c959686"
+canonical_name: "Aleksandras Kolčiakas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Kolčiakas"]
+sameAs: []
+canonical_biography: "Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. vasarą, rudenį sumušta ir keista Pavelo Bermonto-Avalovo (Pavel Bermondt-Avalov) vadovaujama rusų ir vokiečių kariuomenė (bermontininkai), formaliai pavaldi rusų baltųjų generolui."
 ---
 # Aleksandras Kolčiakas
 
@@ -40,7 +47,8 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
 - id: c-21562
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 139."
   citata_originali: |
     Sa-
     vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4dbe55a21fe629f0658d6825"
+canonical_name: "Ringėlas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ringėlas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai, todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus."
 ---
 # Ringėlas
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
 - id: c-61057
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių
     ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.
@@ -72,7 +80,8 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
 - id: c-167507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė
     tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar

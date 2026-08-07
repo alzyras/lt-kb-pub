@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d062fd5b01610aa9d2e56c49"
+canonical_name: "Paširvintis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Paširvintis"]
+sameAs: []
+canonical_biography: "Tuomet lietuviai, tiltu perėję Širvintos upę, atakavo prie Paširvinčio dvaro įsikūrusį lenkų artilerijos būrį. Būriui vadovavęs karininkas buvo nušautas, likę artileristai išsibėgiojo."
+place_authority: true
+historical_names: []
 ---
 # Paširvintis
 
@@ -51,7 +60,8 @@ Tuomet lietuviai, tiltu perėję Širvintos upę, atakavo prie Paširvinčio dva
 - id: c-45269
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 209."
   citata_originali: |
     Į nelaisvę pateko
     brigados ir Gardino pulko

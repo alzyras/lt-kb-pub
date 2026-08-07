@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb5bca3b546c48ce4eda0152"
+canonical_name: "Mederaba"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mederaba"]
+sameAs: []
+canonical_biography: "1291 buvo pulta, Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315 ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta pilis «Mederaba»^23. 62 Mcenskas 313 Medeinė, dievybė 144 Mederaba, pilis 216 Medingėnai 306 Medininkai, Mednikai, ir pilis 219, 226, 273, 289, 329, 377 Medininkai (Žemaičių) 353 ; Medi­ ninkų vyskupija 344, 351-353, 357, 358, 376 ; vysk."
+place_authority: true
+historical_names: []
 ---
 # Mederaba
 
@@ -61,7 +70,8 @@ media_all_json: |-
 - id: c-33945
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 223."
   citata_originali: |
     Nors pradiniai jų smūgiai atrodė energingi, bet per dešimt­
     metį apčiuopiamų laimėjimų nebuvo pasiekta. 1291 buvo pulta,

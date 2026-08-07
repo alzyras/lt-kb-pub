@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6ebbfb54be0cae573678ddaf"
+canonical_name: "R. Krumbholtz"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["R. Krumbholtz"]
+sameAs: []
+canonical_biography: "Krumbholtz : KrSO, 121 sqq."
 ---
 # R. Krumbholtz
 
@@ -61,7 +68,8 @@ Krumbholtz : KrSO, 121 sqq.
 - id: c-94022
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 334."
   citata_originali: |
     (^7) **SRP, III, 224 p.**
     (^8) **SRP, III, 226, 228 p. —- Apie visus įvykius po 1398 taikos žr. R.

@@ -103,7 +103,8 @@ Nenurodyta
 - id: c-172750
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
   citata_originali: |
     Klajojanti, kenkianti vėlė arba vaiduoklis latviškai vadina­
     mas Kehms, žemaitiškai - kernas (Kernas); apie juos visur dau­
@@ -123,7 +124,8 @@ Nenurodyta
 - id: c-172751
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
   citata_originali: |
     Sis paprotys žmonėse tebegy­
     vuoja iki šiol, nepaisant tiekos politinių ir religinių permainų.
@@ -143,7 +145,8 @@ Nenurodyta
 - id: c-172752
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
   citata_originali: |
     Nuostabus dalykas, kaip tos rau­
     dotojos sugeba išreikšti didžiausią liūdesį, bet stebėtoją labiau­

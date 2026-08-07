@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c4cd19418e6992b8812cd3da"
+canonical_name: "Dombrovskis arba Dubrovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dombrovskis arba Dubrovskis"]
+sameAs: []
+canonical_biography: "Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą trumpo išrašo iš kažkokios senos kronikos; XIV am žiuje rašytos slavų kalba Dombrovskio ar Dubrovskio; pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas."
 ---
 # Dombrovskis arba Dubrovskis
 
@@ -68,7 +75,8 @@ Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą
 - id: c-177308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 383."
   citata_originali: |
     Kai
     pažadėdavau didžiausią apdovanojimą tam, kuris atneš­

@@ -62,7 +62,8 @@ Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėju
 - id: c-44754
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 150."
   citata_originali: |
     Vėliau Vilnių nuo rusų puolimo gynė
     gen. mjr. Jono Mejeno divizija, kurią sudarė

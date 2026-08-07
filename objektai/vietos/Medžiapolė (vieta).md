@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-040fbf2ae309c1bdfe6aae43"
+canonical_name: "Medžiapolė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Medžiapolė","Medžiapolė (vieta)"]
+sameAs: []
+canonical_biography: "Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkrikštijo ir bažnyčią jiems įkūrė."
+place_authority: true
+historical_names: []
 ---
 # Medžiapolė (vieta)
 
@@ -46,9 +55,9 @@ Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkr
 ## Citatos
 
 - id: c-184507
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 200"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 200."
   citata_originali: |
     To dėjęsis, Alobramdas kunigas nuėjo į Tu-
     raidą latvių mokyti ir krikštyti, kurį kraštą paskaidė

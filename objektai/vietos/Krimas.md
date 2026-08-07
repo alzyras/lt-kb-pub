@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3ae448735ea13cb11461cb09"
+canonical_name: "Krimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krimas"]
+sameAs: []
+canonical_biography: "Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo chanatas (Perekopu vadinosi jų sostinės pilis). Sudaręs sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis ragino chaną pulti Lietuvą."
+place_authority: true
+historical_names: []
 ---
 # Krimas
 
@@ -56,7 +65,8 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 - id: c-67885
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 198."
   citata_originali: |
     Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
     rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
@@ -76,7 +86,8 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 - id: c-166425
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 198."
   citata_originali: |
     Nuo jo laikų pra-
     sidėjo Lietuvos nepasisekimai ir traukimasis atgal nuo Maskvos.
@@ -96,7 +107,8 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 - id: c-175937
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 200."
   citata_originali: |
     Kazimieras bandė užtarti pabėgusį Tverės
     kunigaikštį, tačiau Jonas III vienų žodžių neklausė. Sudaręs

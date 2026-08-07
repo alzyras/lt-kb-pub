@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-82455f75fb7f2010ab82fa18"
+canonical_name: "Vytautas Bulvičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["objektai/asmenys/Vytautas Bulvičius","Vytautas Bulvičius"]
+sameAs: []
+canonical_biography: "Padariniai Tarpukario Lietuvos generalinio štabo majoras Vytautas Bulvičius savo knygoje „Karinis valstybės rengimas“ rašė: „Pirmutinė karo diena ar ta diena, kada nustojama nepriklausomybės neišdrįstant pradėti karo, dažniausiai yra svarbesnė visos tautos."
 ---
 # Vytautas Bulvičius
 
@@ -55,7 +62,8 @@ Padariniai Tarpukario Lietuvos generalinio štabo majoras Vytautas Bulvičius sa
 - id: c-64413
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 264."
   citata_originali: |
     Padariniai
 

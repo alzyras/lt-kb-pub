@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3a8179037502e0df6db80833"
+canonical_name: "Rudolfas, vadinamas Bodemeru"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rudolfas, vadinamas Bodemeru"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta, Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei, taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė į Bartenšteino pilį ir."
 ---
 # Rudolfas, vadinamas Bodemeru
 
@@ -65,7 +72,8 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - id: c-85913
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Apie tai sužinojęs,
     magistras be galo sunerimo (jis mat būgštavo, kad gali rastis naujų pavojų jam pačiam

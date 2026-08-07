@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43bd6481dd79c7341822c162"
+canonical_name: "J. Jac. Grasserum"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Jac. Grasserum"]
+sameAs: []
+canonical_biography: "J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14."
 ---
 # J. Jac. Grasserum
 
@@ -43,7 +50,8 @@ J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14.
 - id: c-84044
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 159."
   citata_originali: |
     Žr. retą jo kūrinėlį: Mi­
     kalonis Lituani, de M oribus Tartarorum,

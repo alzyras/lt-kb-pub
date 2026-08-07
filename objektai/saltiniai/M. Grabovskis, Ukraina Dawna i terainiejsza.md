@@ -74,7 +74,8 @@ M. Grabovskio „Ukraina Dawna i terainiejsza“ pirmasis tomas Teodoro Narbuto 
 - id: c-174675
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 385."
   citata_originali: |
     Kurše, Infliantuose ir
     Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­

@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7c3e46a5e575183284f33c09"
+canonical_name: "Samija (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Samija","Samija (vieta)"]
+sameAs: []
+canonical_biography: "Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Šalaujus ir Nadraujus, antras ėjo nuo Klaipėdos kopomis tarp jūros ir marės, arba Klaipėdos atsiautos. Taip belėbaujanit Algirdui su viena dalia ka riaunos Padaugavy, su antra dalia kariaunos Kęstu tis lygia dalia rūstą dieną, kryžėjų mistrui kariau jant su lenkais ir pamariais, Parusny darė: kaipogi, įpuolęs į Samiją, nuo rindos neskiedės ir su meldžionimis."
+place_authority: true
+historical_names: []
 ---
 # Samija (vieta)
 
@@ -58,9 +67,9 @@ Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Š
 ## Citatos
 
 - id: c-184477
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 354"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 354."
   citata_originali: |
     Visų pavoj ausiu daiktu buvo dėl nukariavimo
     Sami jos pažinės ir gentysta samionų su kitais že­
@@ -88,9 +97,9 @@ Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Š
     - t-001
 
 - id: c-184478
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 588"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 588."
   citata_originali: |
     Sųgriejęs neapseikimą grobį su daugybe
     imtinių, mistrui pačiam, kaip sakiau, ezelionų saloj

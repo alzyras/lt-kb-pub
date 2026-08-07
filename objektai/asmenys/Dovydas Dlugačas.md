@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4a20a137a814724a52372139"
+canonical_name: "Dovydas Dlugačas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dovydas Dlugačas"]
+sameAs: []
+canonical_biography: "Dancigiečiai patys muitų nerinko, jie buvo pavedę tai Dovydui Šmerlevičiui, Izaokui Brodavkai ir Dovydui Dlugačui."
 ---
 # Dovydas Dlugačas
 
@@ -49,9 +56,9 @@ Dancigiečiai patys muitų nerinko, jie buvo pavedę tai Dovydui Šmerlevičiui,
 ## Citatos
 
 - id: c-185508
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 219"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 219."
   citata_originali: |
     Tikriausiai 1562 m.
     Žygimantas Augustas užstatė Kauno muitinę Dancigui už 44 000 kapų grašių. Dan-

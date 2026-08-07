@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2d6d384cd5485baea6c3934"
+canonical_name: "Tulos anglių baseinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tulos anglių baseinas"]
+sameAs: []
+canonical_biography: "1945 m. sovietai jj suėmė ir išsiuntė +» katorgos darbų į Tulos anglių baseino kasyklą."
+place_authority: true
+historical_names: []
 ---
 # Tulos anglių baseinas
 
@@ -59,7 +68,8 @@ media_all_json: |-
 - id: c-45370
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 238."
   citata_originali: |
     Įstojo į Vietinę rinktinę, po jos išformavimo dirbo
     mokytoju. 1945 m. sovietai jj suėmė ir išsiuntė

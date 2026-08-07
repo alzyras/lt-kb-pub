@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3ddf9ced0204f708b9430c35"
+canonical_name: "Izidoras"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Izidoras"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygumose matė ąžuolą, žmonių laikytą šventu. Izidoras lošė tuo metu, kai atlėkė bitė su pranešimu; užuot paklausęs paslaugios pasiuntinės, jis vos neužmušė jos už įkyrų zvimbimą paausy."
 ---
 # Izidoras
 
@@ -46,7 +53,8 @@ Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygu
 - id: c-173312
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 233."
   citata_originali: |
     Tačiau tas Rekas buvo aistrin­
     gas lošėjas; nutiko taip, kad jis lošė tuo metu, kai atlėkė bitė

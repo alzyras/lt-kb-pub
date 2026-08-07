@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6901b225c9e2d8c0016d6c8c"
+canonical_name: "Kamilas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kamilas"]
+sameAs: []
+canonical_biography: "Narbutas Kamilo amžių sieja su pasakojimu, kad Junonai skirtos žąsys pažadino romėnus galams kopiant į Kapitolijų."
 ---
 # Kamilas
 
@@ -53,7 +60,8 @@ Narbutas Kamilo amžių sieja su pasakojimu, kad Junonai skirtos žąsys pažadi
 - id: c-173053
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 146."
   citata_originali: |
     Lenkai savo mitologijoje turėjo tą pačią dievybę, vadintą
     Budzisz, kurios ženklas buvo žąsis - paukštis. Jį Antikos žmo­

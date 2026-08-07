@@ -50,7 +50,8 @@ media_all_json: |-
 - id: c-02336
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 656"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 656."
   citata_originali: |
     Ir
     vis dėlto jie gana ilgai veikė bendrai: kartu važinėjo po lietuviškas

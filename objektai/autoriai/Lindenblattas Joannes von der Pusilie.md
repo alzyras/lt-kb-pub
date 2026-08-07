@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-49a9a3b64f74f2824805d6f2"
+canonical_name: "Lindenblattas Joannes von der Pusilie"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lindenblattas Joannes von der Pusilie"]
+sameAs: []
+canonical_biography: "33 Lindenblatt Jahrbücher etc., p. 76, kryžiuočių persikėlimą per Viliją nu­ rodo buvus per Šv. Mergelės Marijos bažnyčios Smėlynėje ir pran­ ciškonų vienuolyno, tačiau, viena, išvydę atkakliai gintis pa­ siruošusias tvirtoves, antra, numanydami, jog bus neįma- 43 Lindenblatto kronikoje yra - Boparthen, pagal panašų skambėji­ mą, regis, tarsi būtų. 45 Lindenblatto kronikos leidėjai Visevaldės pilį vadina Vižemais."
 ---
 # Lindenblattas Joannes von der Pusilie
 
@@ -82,7 +89,8 @@ media_all_json: |-
 - id: c-84006
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 148."
   citata_originali: |
     45
     Lindenblatto kronikos leidėjai
@@ -100,7 +108,8 @@ media_all_json: |-
 - id: c-84007
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 142."
   citata_originali: |
     33
     Lindenblatt Jahrbücher etc., p. 76,
@@ -119,7 +128,8 @@ media_all_json: |-
 - id: c-84008
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 148."
   citata_originali: |
     Olesnickis,
     užbėgdamas kryžiuočiams už akių, buvo priverstas paau­

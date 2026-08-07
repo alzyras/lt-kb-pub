@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-82061f34028862fc24fe32d1"
+canonical_name: "Sanas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sanas"]
+sameAs: []
+canonical_biography: "Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe. Sanas apibūdinamas kaip į Vislą iš dešinės įtekanti upė."
+place_authority: true
+historical_names: []
 ---
 # Sanas
 
@@ -88,7 +97,8 @@ Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe. Sanas apibūdi
 - id: c-170354
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 232."
   citata_originali: |
     Lenkų šaltiniuose (žr. past. 4) kalbama apie lietuvių persi­
     kėlimą ne per Vistą, o per Sano upę, kuri (teka j Vislą iš dešinės,

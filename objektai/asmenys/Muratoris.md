@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8d121243136e3da160aefc25"
+canonical_name: "Muratoris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Muratoris"]
+sameAs: []
+canonical_biography: "Muratoris išsaugojo apaštališkajam sostui skirtą donaciją, kurią sudarė lenkų kunigaikštis, pasivadinęs Misica."
 ---
 # Muratoris
 
@@ -54,7 +61,8 @@ Muratoris išsaugojo apaštališkajam sostui skirtą donaciją, kurią sudarė l
 - id: c-174327
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 216."
   citata_originali: |
     222
     Tai paminėję, pereikime prie rašytinių liudijimų, ku­

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7f9a43c8ba0e2f8bac0fae3"
+canonical_name: "Petras iš Kurozvenkų"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras iš Kurozvenkų"]
+sameAs: []
+canonical_biography: "Narbutas Petrą iš Kurozvenkų vaizduoja kaip senų pinigų supirkinėtoją Lietuvoje, dėl perkūnų perkalimo pramintą Perkūnu iš Kurozvenkų."
 ---
 # Petras iš Kurozvenkų
 
@@ -61,7 +68,8 @@ Narbutas Petrą iš Kurozvenkų vaizduoja kaip senų pinigų supirkinėtoją Lie
 - id: c-172993
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 247."
   citata_originali: |
     Tasai Petras buvo
     nepaprastai apsukrus ir visoje Lietuvoje supirkinėjo senus pi­

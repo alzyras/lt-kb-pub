@@ -59,7 +59,8 @@ Kadangi anie tolimi nuo rytų Europos autoriai beveik visai nieko nepasako apie 
 - id: c-34156
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 111."
   citata_originali: |
     Pagaliau An­
     glijos karaliaus Alfredo Didžiojo jūrininkas Wulfstanas buvo pasku­

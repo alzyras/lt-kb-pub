@@ -32,15 +32,22 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
 <a id="claim-t-189484"></a>
 - t-001
   teiginys: "Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus triznos apeigų papročius."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šiaurės slavai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šiaurės slavai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172373
+    - c-172372
 
 <a id="claim-t-189485"></a>
 - t-002
@@ -80,7 +87,8 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
 - id: c-172372
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
   citata_originali: |
     Lietuvoje gyveno garsi
     Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
@@ -92,14 +100,17 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   citata_rodoma: "Lietuvoje gyveno garsi\nTriznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-\ngardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos\napeigų paprotį, kiekviena tauta kitonišką.\nŽmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­\nlėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai\nkuriose vietose žmonos apverkdavo vyrus prie pačių kapų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-172373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 436"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 436."
   citata_originali: |
     Tuo tarpu apsiribosime pasa­
     kydami štai ką.
@@ -117,13 +128,13 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-177004
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 435"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
   citata_originali: |
     Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
     biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų

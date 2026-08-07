@@ -58,7 +58,8 @@ Dusburgietis teigia, kad stepinš P.
 - id: c-61930
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Stepinš P. Durbės kauja.— Rīga, 1967.
   citata_rodoma: "Stepinš P. Durbės kauja.— Rīga, 1967."

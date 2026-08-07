@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-64bf4ff8162fa5ea949da17e"
+canonical_name: "Kapitolinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kapitolinas"]
+sameAs: []
+canonical_biography: "Naruševičius, Narbuto teigimu, rašydamas apie jotvingius rėmėsi Kapitolinu ir vadino juos Cestobochy."
 ---
 # Kapitolinas
 
@@ -54,7 +61,8 @@ Naruševičius, Narbuto teigimu, rašydamas apie jotvingius rėmėsi Kapitolinu 
 - id: c-174531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 111."
   citata_originali: |
     Gal todėl,
     kad jotvingiai laikėsi lietuvių, kurie garbino nesuskai­

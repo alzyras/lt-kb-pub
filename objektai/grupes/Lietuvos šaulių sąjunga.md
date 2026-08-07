@@ -74,7 +74,7 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 <a id="claim-t-74807"></a>
 - t-003
   teiginys: "1940 m. liepos 6 d. buvo patvirtintas Lietuvos politinių partijų ir šaulių vadovybės operatyvinės likvidacijos planas."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1940 m."
@@ -143,7 +143,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 - id: c-72811
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 183."
   citata_originali: |
     Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų
     nedetalizavo. O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
@@ -161,7 +162,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 - id: c-72812
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 183."
   citata_originali: |
     Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir
     sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS
@@ -183,7 +185,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 - id: c-72813
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 146."
   citata_originali: |
     Rugsėjį Himansas dar pataisė planą lietuvių
     naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-
@@ -205,7 +208,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 - id: c-72814
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 191."
   citata_originali: |
     Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
     muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
@@ -224,7 +228,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 - id: c-72815
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 193."
   citata_originali: |
     Net didžiausi SSRS simpatikai
     prikando liežuvius – bolševizmą galima pažinti tik jame pagyvenus.
@@ -246,7 +251,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 - id: c-166556
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 146."
   citata_originali: |
     Dabar abi derybų šalys stengėsi, kad susitarimas neį-
     vyktų, tik kad ne jos liktų dėl to kaltos.

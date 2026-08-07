@@ -32,7 +32,8 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
 - id: c-24950
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 201."
   citata_originali: |
     Dėl nacių rasinės genocidinės politikos Lietuva liko be šimtmečiais gy-
     venusios spalvingiausios savo etninės dalies – žydų. Niekuo nekaltų žydų

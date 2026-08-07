@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-59cb4e01de4555c2438e286b"
+canonical_name: "Divonis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Divonis"]
+sameAs: []
+canonical_biography: "Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs ligą, kuri vasarą pražudė kitus jo bendrakeleivius. 1, p. 32) vadina jį Divones, o 623 puslapyje — kitaip, t. Divonis, jeigu nėra graikiškas žodis Dionysios, Dionys, — tai yra tikrai lietuviškas žodis, išverstas iš lotyniško Theodorus, arba Theodotus; Teodoras Augusto laikais buvo išsiųstas į Siau rės kraštus, iki pat Baltijos jūros, kad atliktų geografinius tyrimus."
 ---
 # Divonis
 
@@ -114,7 +121,8 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
 - id: c-174021
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 169."
   citata_originali: |
     Vyrai turi po tris žmonas, bendrauja su jo­
     mis kada ir kur nori nesigėdydami pašalinių, nes tokiuose
@@ -142,7 +150,8 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
 - id: c-179307
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 169."
   citata_originali: |
     Hartknochas
     jį vadina Divanes, in genetivo: Divanis. Foigtas (t. 1, p. 32) vadina jį
@@ -161,7 +170,8 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
 - id: c-179308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 169."
   citata_originali: |
     Gruna'u (mano rankraštyje II traktato I skyrius) vieną kartą jį įvar­
     dija Dymoynis, o kitą kartą — Dymoniys, kitur Dybonis, o dar kitur
@@ -183,9 +193,9 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
     - t-003
 
 - id: c-184330
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 386"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 386."
   citata_originali: |
     Ant didesnės laimos perkrikštų, pasitiko tarp jų
     sumanančių karvedžių ir gudrių vyrų, kurie mo­
@@ -210,9 +220,9 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
     - t-004
 
 - id: c-184331
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 418"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 418."
   citata_originali: |
     Divonis palikinąs tyrus grobį, gyvolius ir im­
     tinius su didesne dalia savo kariaunos pirma pa­

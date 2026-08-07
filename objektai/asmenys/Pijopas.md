@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a3814ee0209c41bfb19d7182"
+canonical_name: "Pijopas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pijopas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs visą savo kariuomenę, apsiautė Baigos pilį ir, būdamas viršininkas, įsigeidė pats kaip karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau."
 ---
 # Pijopas
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvyk
 - id: c-61041
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
   citata_originali: |
     20. Apie Baigos pilies apgulą
 

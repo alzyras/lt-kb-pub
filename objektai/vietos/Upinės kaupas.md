@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c1b1c784c72fd3f44b87c902"
+canonical_name: "Upinės kaupas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Upinės kaupas"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant Upinės kaupo buvo pastatyta koplyčia. Prie upelio, dešinėje vieš kelio pusėje, ant nedidelės žemės sankasos, kurią sakė buvus deivės Upinės, kadaise to upelio globėjos, altoriumi, stovi me dinė koplytėlė su Nukryžiuotoju."
+place_authority: true
+historical_names: []
 ---
 # Upinės kaupas
 
@@ -73,7 +82,8 @@ Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant 
 - id: c-171859
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
   citata_originali: |
     Senė, vadinama Upine, tomis apei­
     gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
@@ -91,7 +101,8 @@ Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant 
 - id: c-177152
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
   citata_originali: |
     Tenai pūva tokia daugybė drobės gabalė­
     lių, kad mažiau prietaringame krašte drąsiai būtų galima ap­

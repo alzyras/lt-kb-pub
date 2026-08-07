@@ -73,15 +73,22 @@ Nenurodyta
 <a id="claim-t-192019"></a>
 - t-002
   teiginys: "1856 m. Teofilio Gliuksbergo spaustuvėje buvo išleista dalis medžiagos, turėjusios papildyti antrąjį LTI leidimą, ir taip pasirodė „Mažesnieji istoriniai raštai“."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   temporaliniai_duomenys: "įvykio data: 1856 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys jau aiškiai sieja 1856 m. leidybą su „Mažesniaisiais istoriniais raštais“. Jame neperžengiama citatos informacija."
   pagrindžia:
-    - c-174900
+    - c-174899
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -118,7 +125,8 @@ Nenurodyta
 - id: c-174899
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 459"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 459."
   citata_originali: |
     Šeštojo dešimtmečio viduryje T. Narbutui (o galbūt kam
     nors iš jo bičiulių) kilo mintis kai ką iš to, kas buvo su­
@@ -139,11 +147,13 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
 
 - id: c-174900
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 459"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 459."
   citata_originali: |
     Be to, tuo metu T. Narbutas jau turėjo karčią pa­
     tirtį, įgyvendindamas Lietuvos istorijos šaltinių publika­
@@ -162,8 +172,7 @@ Nenurodyta
   citata_rodoma: "Taip gimė „Mažesnieji is­\ntoriniai raštai“, kurių pratarmėje (beje, datuotoje 1852\nmetais) istorikas rašė; „Pildant mano paskelbtos „Lietu­\nvių tautos istorijos“ puslapius naujais pastebėjimais, kri­\ntiškai vertinant įvairius trūkumus bei klaidas, galbūt net\nturint vilties, jog pasirodys antrasis leidimas, ir anks­\nčiau, ir dabar pasitaikė dalykų, kuriuos vertėtų atminti ir\nišsaugoti nuo pražūties, arba tokių smulkmenų, kurių\nvisų nebūtų įmanoma sutalpinti į „Istoriją“, — visa tai ir\nspausdinu šiame rinkinyje“1."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

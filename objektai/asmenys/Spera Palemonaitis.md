@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d356386a9a579b34d640e7ad"
+canonical_name: "Spera Palemonaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Spera Palemonaitis"]
+sameAs: []
+canonical_biography: "Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūnumi, buvo galingas žmogus ir kaldino auksinius medalius."
 ---
 # Spera Palemonaitis
 
@@ -54,7 +61,8 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
 - id: c-173001
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     219
 

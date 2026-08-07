@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2bc0a100c1e8b267b6d1571b"
+canonical_name: "Vakarų Bugas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vakarų Bugas"]
+sameAs: []
+canonical_biography: "Horodlė šiame gabale lokalizuojama prie Vakarų Bugo. Vakarų Bugas naudojamas kaip Horodlės vietos orientyras."
+place_authority: true
+historical_names: []
 ---
 # Vakarų Bugas
 

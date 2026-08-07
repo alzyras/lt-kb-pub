@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bb0b522b40c9afd42d674c16"
+canonical_name: "Mogiliavo pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mogiliavo pilis"]
+sameAs: []
+canonical_biography: "366 ## Puslapis 383 IV KNYGA vadintųsi, nuo seno prie minėtos Mogiliavo pilies kokiu nors būdu dabar esančiais ir priklausančiais bei ateityje kokios nors žmogiškos veiklos ar proto dėka galinčiais atsirasti ir didėti į plotį, ilgį ir aplinkui, žiūrint, kaip."
+place_authority: true
+historical_names: []
 ---
 # Mogiliavo pilis
 
@@ -51,7 +60,8 @@ media_all_json: |-
 - id: c-82068
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 382-383"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 382-383."
   citata_originali: |
     Secretarii nostri, qui praesentia habuit
     in commissis.

@@ -98,7 +98,8 @@ Nenurodyta
 - id: c-83182
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 129-130"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 129-130."
   citata_originali: |
     479: „Dabar, kaip ma­
     tome, sunyko ir sugriuvo, tiktai prie

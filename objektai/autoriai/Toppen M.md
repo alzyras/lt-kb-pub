@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7c096ffc9ffe6fb0cc812f30"
+canonical_name: "Toppen M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Toppen M"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad toppen M. Dusburgietis teigia, kad toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858."
 ---
 # Toppen M
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad toppen M. Dusburgietis teigia, kad toeppen M. Historisc
 - id: c-61432
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 275."
   citata_originali: |
     Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.
     Schütz.—Berlin, 1853.

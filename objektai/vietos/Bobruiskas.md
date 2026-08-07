@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c2bdf506480bcb589488afb"
+canonical_name: "Bobruiskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bobruiskas"]
+sameAs: []
+canonical_biography: "Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr."
+place_authority: true
+historical_names: []
 ---
 # Bobruiskas
 
@@ -50,7 +59,8 @@ Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fu
 - id: c-02611
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     Tuo
     būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono

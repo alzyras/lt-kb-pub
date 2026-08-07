@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c917a6e62992bf32d6232125"
+canonical_name: "Mikalojus (Gniezno arkivyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus (Gniezno arkivyskupas)"]
+sameAs: []
+canonical_biography: "Jono, Gniezno arkivysk."
 ---
 # Mikalojus (Gniezno arkivyskupas)
 
@@ -63,7 +70,8 @@ Jono, Gniezno arkivysk.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 126."
   citata_originali: |
     Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos
     ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­

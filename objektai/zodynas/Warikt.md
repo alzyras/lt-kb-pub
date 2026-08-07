@@ -104,7 +104,8 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
 - id: c-175067
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 264."
   citata_originali: |
     Pavadinimą galbūt davė gentys,
     kurios buvo vadinamos varinais; lietuvių kalba tai reiš­

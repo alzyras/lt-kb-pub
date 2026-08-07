@@ -59,7 +59,8 @@ Be to, rengė astronomo Mikalojaus Ko­ perniko raštus, dalyvavo leidžiant sen
 - id: c-84432
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     1841 m. jis tapo vienu iš enciklopedinio
     pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir

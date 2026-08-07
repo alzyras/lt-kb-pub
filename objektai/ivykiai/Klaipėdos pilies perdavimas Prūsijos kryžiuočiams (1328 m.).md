@@ -72,7 +72,8 @@ Nenurodyta
 - id: c-01905
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 614"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 614."
   citata_originali: |
     Ordino ekspan-
     sija buvo sulaikyta dar Vytenio Gedimino laikais: jo siena nu-

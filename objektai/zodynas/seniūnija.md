@@ -55,7 +55,8 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
 - id: c-166374
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 277"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 277."
   citata_originali: |
     Jiems vietos paprastai būdavo dovanos,
 

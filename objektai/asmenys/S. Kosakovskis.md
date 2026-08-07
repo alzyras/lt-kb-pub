@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b78ea73fa931940530c6a8f0"
+canonical_name: "S. Kosakovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["S. Kosakovskis"]
+sameAs: []
+canonical_biography: "Kosakovskis."
 ---
 # S. Kosakovskis
 
@@ -60,7 +67,8 @@ Kosakovskis.
 - id: c-44499
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 151-152"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 151-152."
   citata_originali: |
     1794 m. balandis-liepa KOVOS DĖL VILNIAUS 149
 

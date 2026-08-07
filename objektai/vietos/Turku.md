@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b9b580256b7719cb0871ed2"
+canonical_name: "Turku"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Turku","Turku miesto","Turku suomių liciejų"]
+sameAs: []
+canonical_biography: "Turku šiame šaltinyje minimas kaip miestas prie Augusto Roberto Niemio gimimo vietos ir jo mokymosi vieta."
+place_authority: true
+historical_names: []
 ---
 # Turku
 

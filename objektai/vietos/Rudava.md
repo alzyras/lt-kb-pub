@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ef9c53ac4c2a108d637a9563"
+canonical_name: "Rudava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rudava"]
+sameAs: []
+canonical_biography: "Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus). 324 Rudaičiai 77, 105 Rudamina 76, 112 Rudava, prie Karaliaučiaus 149, 253, 259 Rude Gerhardas 226 Rūdninkai 162 Ruginienė, žr."
+place_authority: true
+historical_names: []
 ---
 # Rudava
 
@@ -112,7 +121,8 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 27."
   citata_originali: |
     Kai jų žval­
     gai pranešė lietuvių planus, antpuoliui atremti buvo sumobili­
@@ -132,7 +142,8 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
 - id: c-68581
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 260."
   citata_originali: |
     Drauge buvo ir Algirdas su savo būriais. Nuterioję
     Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­
@@ -149,7 +160,8 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
 - id: c-68582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105-106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105-106."
   citata_originali: |
     Kitą dieną patraukė  į Rudavos valsčių ir ten
     pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų,

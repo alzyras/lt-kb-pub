@@ -86,7 +86,7 @@ Nenurodyta
 <a id="claim-t-89370"></a>
 - t-003
   teiginys: "Liudvikas iš Libencelės pas magistrą atvedė Kantigirdą ir 1600 abiejų lyčių sūduvių, kuriuos nelaisvėje atvertė į Kristaus tikėjimą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 20:36"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Sūduva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -105,7 +105,8 @@ Nenurodyta
 - id: c-85320
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Sitai padaręs,
     magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava,
@@ -127,7 +128,8 @@ Nenurodyta
 - id: c-85321
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;
     kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su
@@ -149,7 +151,8 @@ Nenurodyta
 - id: c-85322
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
     mą

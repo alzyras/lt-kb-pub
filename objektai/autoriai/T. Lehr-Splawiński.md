@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b3a645ca2e6b72605a29ad65"
+canonical_name: "T. Lehr-Splawiński"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["T. Lehr-Splawiński"]
+sameAs: []
+canonical_biography: "Lehr-Splawiński, T."
 ---
 # T. Lehr-Splawiński
 
@@ -60,7 +67,8 @@ Lehr-Splawiński, T.
 - id: c-33159
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 130."
   citata_originali: |
     : _Jaćwingome w
     języku,_ ABaSl, I, 1964, 217-225 p. — Kuraszkiewicz, W. : _Domnie­

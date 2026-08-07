@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-85ac270c16bd705649c3b67d"
+canonical_name: "J. Chabanier"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Chabanier"]
+sameAs: []
+canonical_biography: "Chabanier : Les Tatars Lithuaniens."
 ---
 # J. Chabanier
 
@@ -60,7 +67,8 @@ Chabanier : Les Tatars Lithuaniens.
 - id: c-32957
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 321."
   citata_originali: |
     Zajączkowski, AW,
     t. 13, 1938, 303-306p.) ; J.** Chabanier **:** **_Les Tatars Lithuaniens. Aperęus hi-

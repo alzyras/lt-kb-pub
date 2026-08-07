@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab4f3bab8611277aba5676e6"
+canonical_name: "Buda"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Buda"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo sektos narių padaugėjo Indijoje ir Vidurinėje Azijoje. Teodoras Narbutas Budą aiškino kaip senovinį mitinį indų mitologijos vardą, iš kurio kildino budinų genties pavadinimą."
 ---
 # Buda
 
@@ -84,7 +91,8 @@ Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo s
 - id: c-174141
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 68."
   citata_originali: |
     Kai kurie iš šių panašumų buvo
     nurodyti, o daug kitų palikta, kad patys skaitytojai ga­
@@ -109,7 +117,8 @@ Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo s
 - id: c-174142
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 69."
   citata_originali: |
     Taigi labiausiai ti­
     kėtinos tos išvados, kurios sutampa su senovės tyrinė­

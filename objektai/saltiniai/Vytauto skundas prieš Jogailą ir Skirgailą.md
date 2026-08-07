@@ -26,10 +26,10 @@ Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų ti
 
 ## Teiginiai
 
-<a id="claim-t-199240"></a>
+<a id="claim-t-203102"></a>
 - t-001
-  teiginys: "Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė jimo."
-  atnaujinta: "2026-07-12 23:02"
+  teiginys: "Lietuvos metraštis perteikia kalbančiojo teiginį, kad jis prieš savo norą viešai pareiškė priėmęs rusų tikėjimą, nors slapta laikėsi anksčiau priimto krikščionių tikėjimo."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -58,7 +58,7 @@ Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų ti
     tikėjimo.
   citata_rodoma: "Tačiau jie vertė ir \nmane priimti rusų tikėjimų, kad pasidaryčiau visų žmo­\nnių nekenčiamas4 . Ir aš prieš savo norą, jų valią vyk­\ndydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­\nkiau tai viešai žmonėms, o sykiu slaptai laikiausi savo \ntikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­\njimo. Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir \nKrokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau \nsavo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių \ntikėjimo."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

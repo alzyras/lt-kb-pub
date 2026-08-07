@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-58e4d4b49a97581e5626a7c1"
+canonical_name: "Dubysos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dubysos upė"]
+sameAs: []
+canonical_biography: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir ja iki Aukokalnio, buvusio ties dabartine Betygala. Vytautas, norėdamas geriau juose įsigalėti ir atstatyti Ordino nualintą kraštą, liepė atnaujin­ ti Dubysos ir Nemuno krantuose pilis ir atstatyti sudegintą Ve­ liuoną, kuri vėliau buvo mėgiamiausia Vytauto ir Ordino pa­ sitarimų vieta po Kauno arba Trakų."
+place_authority: true
+historical_names: []
 ---
 # Dubysos upė
 
@@ -71,7 +80,8 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 124."
   citata_originali: |
     Tačiau Vytautas dar dvejus metus už­
     truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
@@ -93,7 +103,8 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 147."
   citata_originali: |
     taip pat atsikvėpė po ilgų kovų dėl laisvės, nes po Žalgirio
     karo buvo prijungti prie Lietuvos. Vytautas, norėdamas geriau

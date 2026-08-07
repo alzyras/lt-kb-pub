@@ -58,22 +58,15 @@ Nenurodyta
 <a id="claim-t-62908"></a>
 - t-001
   teiginys: "Didžiajam magistrui Verneriui kronikos reikėjo Ordino priekaištams atremti ir vidaus reformai įgyvendinti."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1312 m.; įvykio data: 1314 m.; įvykio data: 1324 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata pagrindžia aiškesnį sakinį apie Vernerio tikslą."
   pagrindžia:
-    - c-63772
+    - c-63773
 
 <a id="claim-t-62909"></a>
 - t-002
@@ -135,7 +128,8 @@ Nenurodyta
 - id: c-63772
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     Apkaltintas erezija Tamplierių
     ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
@@ -156,14 +150,14 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
     - t-003
 
 - id: c-63773
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
     didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
@@ -175,7 +169,8 @@ Nenurodyta
   citata_rodoma: "Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,\ndidžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne\ntik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,\nKryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą\nprieš Lietuvą.\n  Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų\nfeodalinių riterių žygių prieš musulmoniškąjį pasaulį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

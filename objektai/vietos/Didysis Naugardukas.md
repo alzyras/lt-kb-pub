@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a247a47cd6d2391dcc57472"
+canonical_name: "Didysis Naugardukas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Didysis Naugardukas"]
+sameAs: []
+canonical_biography: "Įvade nurodoma, kad Bychovco kronikoje iškeliamas Vytauto pranašumas prieš Vasilijų, Pskovą ir Didįjį Naugarduką."
+place_authority: true
+historical_names: []
 ---
 # Didysis Naugardukas
 
@@ -71,7 +80,8 @@ media_all_json: |-
 - id: c-170287
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 22."
   citata_originali: |
     Kalbant apie LDK santykius su Rusų valstybe, labai
     iškeliamas Vytauto pranašumas savo žento Vasilijaus,

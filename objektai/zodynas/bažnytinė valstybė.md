@@ -61,7 +61,8 @@ Kai popiežiaus Honorijaus III atsiustasis legatas Vilhelmas de Mo­ dena sėkmi
 - id: c-34142
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 173."
   citata_originali: |
     Kad tos kautynės (jų skai­
     čiai, kaip paprastai pas Eiliuotinės kronikos autorių, yra perdėti)

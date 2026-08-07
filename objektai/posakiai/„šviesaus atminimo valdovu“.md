@@ -59,7 +59,8 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
 - id: c-75181
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 31."
   citata_originali: |
     Kartais teigia-
     ma, kad Mindaugas atsimetė ir nuo krikščionybės. Tačiau praėjus keletui

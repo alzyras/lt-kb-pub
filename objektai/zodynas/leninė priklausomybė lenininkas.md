@@ -54,7 +54,8 @@ Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lie
 - id: c-176016
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 351."
   citata_originali: |
     Nemuno žiotys buvo Prūsų kunigaikščio
     valdomos. Kadangi jis buvo Lenkijos karaliaus lenininkas, tai

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-65e9575da4b01f5b326e188b"
+canonical_name: "Ekdahl, S"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ekdahl, S"]
+sameAs: []
+canonical_biography: "Ekdahl, S.: Die Flucht der Litauer in der Schlacht bei Tannenberg, ZfO, 12, 1, 1963."
 ---
 # Ekdahl, S
 
@@ -57,7 +64,8 @@ Ekdahl, S.: Die Flucht der Litauer in der Schlacht bei Tannenberg, ZfO, 12, 1, 1
 - id: c-55065
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 350."
   citata_originali: |
     1930. — Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius paver­
     gėjus 1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p.—Ekdahl, S.:

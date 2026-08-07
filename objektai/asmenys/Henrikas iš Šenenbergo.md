@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-edf379b8121e6aa8b8426a29"
+canonical_name: "Henrikas iš Šenenbergo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas iš Šenenbergo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo komtūras, ir."
 ---
 # Henrikas iš Šenenbergo
 
@@ -52,7 +59,8 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
 - id: c-60949
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
   citata_originali: |
     Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti
     dėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne

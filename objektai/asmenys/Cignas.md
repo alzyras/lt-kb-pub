@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7b37d552db81e38df237cd72"
+canonical_name: "Cignas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Cignas"]
+sameAs: []
+canonical_biography: "Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielvarto virto gulbinu prie Eridano ežero."
 ---
 # Cignas
 
@@ -55,7 +62,8 @@ Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielva
 - id: c-174264
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 152."
   citata_originali: |
     154
 

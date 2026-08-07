@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7384584f9e9b7dcd78996cc9"
+canonical_name: "Stegutas Zebrovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stegutas Zebrovičius"]
+sameAs: []
+canonical_biography: "1227 m. jotvingių antpuoliuose iki Voluinės Vladimiro buvo suimtas jotvingių vadas Stegutas Zebrovičius."
 ---
 # Stegutas Zebrovičius
 
@@ -65,7 +72,8 @@ media_all_json: |-
 - id: c-174202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
   citata_originali: |
     Taip vadų rankose buvo su­
     kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­

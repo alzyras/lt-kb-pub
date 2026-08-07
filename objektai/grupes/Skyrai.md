@@ -50,7 +50,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - id: c-82805
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 29-30"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 29-30."
   citata_originali: |
     Abi šios gentys, artėdamos viena prie kitos, stūmė iš
     13

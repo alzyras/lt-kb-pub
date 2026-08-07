@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-feaa87ae8adbcd4ab2ee8d09"
+canonical_name: "Andziulytė-Ruginienė, M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Andziulytė-Ruginienė, M"]
+sameAs: []
+canonical_biography: "Andziulytė-Ruginienė, M."
 ---
 # Andziulytė-Ruginienė, M
 
@@ -62,7 +69,8 @@ Andziulytė-Ruginienė, M.
 - id: c-29205
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 359."
   citata_originali: |
     Andziulytė-Ruginienė, M. : _Žemaičių christianizacijos pradžia,_
     atsp. iš Athenaeum, VII, Kaunas 1937. — BeGeDO, t. 2. — Bełch,

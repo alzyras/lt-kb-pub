@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a31c0916f2c6dd286316f8ab"
+canonical_name: "Lengvenis Algirdaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lengvenis Algirdaitis"]
+sameAs: []
+canonical_biography: "Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis."
 ---
 # Lengvenis Algirdaitis
 
@@ -66,7 +73,8 @@ Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
 - id: c-30248
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 327."
   citata_originali: |
     Paaukojęs valstybės
     interesus vakarinių sienų pusėje (Žemaičių užrašymas), didžiojo

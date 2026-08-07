@@ -60,7 +60,8 @@ Forstreuter, K.
 - id: c-33602
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 369."
   citata_originali: |
     (^362) III skyrius: valstybės suklestėjimas
     BeGeDO, t. 3, dalis 1. —Dundulis, B. : _Lietuvos sąjunga su husi­

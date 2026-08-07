@@ -74,7 +74,8 @@ Nenurodyta
 - id: c-174977
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 477"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 477."
   citata_originali: |
     pastraipos
     tęsinys/
@@ -93,7 +94,8 @@ Nenurodyta
 - id: c-174978
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 478"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 478."
   citata_originali: |
     „Senovės lietuviai, būdami pagonys, garbino dangaus kūnus, kaip
     ir kitas žemės dievybes, iš kitokios minties atsiradusias, ir kurias

@@ -20,18 +20,19 @@ tags:
   - ordinas
 amziai:
   - 'XIII'
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '1'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AMedieval_Baltic_Tribes_12_century.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'map_of'
+media_primary_json: |-
+  {"mediaId":"m-8b2cf3af7c84903b1632d561","title":"Medieval Baltic Tribes 12 century.jpg","caption":"Baltų genčių žemėlapis, kuriame pažymėta Varmijos (Warmia) sritis.","originalTitle":"Medieval Baltic Tribes 12 century.jpg","creator":"Marcin Engel, Cezary Sobczak","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"\"Jaćwingowie. Zapomniani wojownicy / Yatvings. The forgoten warriors\" , Warsaw 2015","dateDisplay":"1200","dateStart":null,"dateEnd":null,"width":1710,"height":1732,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMedieval_Baltic_Tribes_12_century.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"gentis","label":"gentis","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Aukštaitija","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Baltic peoples","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Bartia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Courland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Prussians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Powiśle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Yotvingia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltic Tribes in 1200","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltics in the 13th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing the 1220s","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Natangia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pogesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pomesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Prussian Crusade","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sasna","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"State of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Yatvings. The Forgotten Warriors exhibition","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Varmiai.md","title":"Varmiai","itemType":"grupe","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-31T04:50:00.002062+03:00","reviewedAt":"2026-07-31T05:02:51.511212+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis Baltijos genčių žemėlapis; jame aiškiai įrašyta WARMIA ir pavaizduotos aplinkinės baltų gentys.","metadataEvidence":"Pavadinimas ir aprašas nurodo XII a. Baltijos genčių žemėlapį; vizualiai matoma WARMIA žyma.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis-kartografinis varmių teritorijos ir gentinės aplinkos atvaizdas.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-8b2cf3af7c84903b1632d561","title":"Medieval Baltic Tribes 12 century.jpg","caption":"Baltų genčių žemėlapis, kuriame pažymėta Varmijos (Warmia) sritis.","originalTitle":"Medieval Baltic Tribes 12 century.jpg","creator":"Marcin Engel, Cezary Sobczak","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"\"Jaćwingowie. Zapomniani wojownicy / Yatvings. The forgoten warriors\" , Warsaw 2015","dateDisplay":"1200","dateStart":null,"dateEnd":null,"width":1710,"height":1732,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMedieval_Baltic_Tribes_12_century.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"gentis","label":"gentis","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Aukštaitija","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Baltic peoples","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Bartia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Courland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Prussians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Powiśle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Yotvingia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltic Tribes in 1200","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltics in the 13th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing the 1220s","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Natangia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pogesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pomesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Prussian Crusade","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sasna","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"State of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Yatvings. The Forgotten Warriors exhibition","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Varmiai.md","title":"Varmiai","itemType":"grupe","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-31T04:50:00.002062+03:00","reviewedAt":"2026-07-31T05:02:51.511212+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis Baltijos genčių žemėlapis; jame aiškiai įrašyta WARMIA ir pavaizduotos aplinkinės baltų gentys.","metadataEvidence":"Pavadinimas ir aprašas nurodo XII a. Baltijos genčių žemėlapį; vizualiai matoma WARMIA žyma.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis-kartografinis varmių teritorijos ir gentinės aplinkos atvaizdas.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  []
+  [{"mediaId":"m-8b2cf3af7c84903b1632d561","title":"Medieval Baltic Tribes 12 century.jpg","caption":"Baltų genčių žemėlapis, kuriame pažymėta Varmijos (Warmia) sritis.","originalTitle":"Medieval Baltic Tribes 12 century.jpg","creator":"Marcin Engel, Cezary Sobczak","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"\"Jaćwingowie. Zapomniani wojownicy / Yatvings. The forgoten warriors\" , Warsaw 2015","dateDisplay":"1200","dateStart":null,"dateEnd":null,"width":1710,"height":1732,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMedieval_Baltic_Tribes_12_century.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"gentis","label":"gentis","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Aukštaitija","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Baltic peoples","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Bartia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Courland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Prussians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Powiśle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Yotvingia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltic Tribes in 1200","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltics in the 13th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing the 1220s","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Natangia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pogesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pomesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Prussian Crusade","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sasna","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"State of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Yatvings. The Forgotten Warriors exhibition","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Varmiai.md","title":"Varmiai","itemType":"grupe","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-31T04:50:00.002062+03:00","reviewedAt":"2026-07-31T05:02:51.511212+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis Baltijos genčių žemėlapis; jame aiškiai įrašyta WARMIA ir pavaizduotos aplinkinės baltų gentys.","metadataEvidence":"Pavadinimas ir aprašas nurodo XII a. Baltijos genčių žemėlapį; vizualiai matoma WARMIA žyma.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis-kartografinis varmių teritorijos ir gentinės aplinkos atvaizdas.","isPrimary":1}]
 ---
 # Varmiai
 
@@ -79,7 +80,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 <a id="claim-t-78537"></a>
 - t-003
   teiginys: "Glapas, varmių vadas, turėjo mėgstamą valdinį Steinavą, kurį daug kartų buvo gelbėjęs iš mirtino pavojaus."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -264,7 +265,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75804
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
 
@@ -284,7 +286,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75805
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 58-59"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58-59."
   citata_originali: |
     194 D. — Warmia, Jer.— Ermin; plg.  pr. warmayan ‘raudonas’. Varmės vardas
     greičiausiai yra upėvardinės kilmės, plg. deš. Ventos intaką Varmė (Būga K. 3, 114).
@@ -305,7 +308,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75806
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
   citata_originali: |
     Trečia — Pagudė193,
     kurioje [gyveno] pagudėnai. Ketvirta — Varmė194, kurioje [gyveno] varmiai. Penkta —
@@ -322,7 +326,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75807
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
     1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
@@ -346,7 +351,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75808
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
     netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
@@ -369,7 +375,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75809
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
   citata_originali: |
     Apie daugybės pagudėnų išžudymą
     Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
@@ -389,7 +396,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75810
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
 
@@ -416,7 +424,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75811
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Ordino pajėgos
     1260 m. Klaipėdoje prieš Lietuvą buvo
@@ -445,7 +454,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75812
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
   citata_originali: |
     Šis, paklausęs patarimo, susikvietė daug brolių bei
     ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
@@ -463,7 +473,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75813
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
   citata_originali: |
     20. Apie Baigos pilies apgulą
 
@@ -489,7 +500,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75814
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
   citata_originali: |
     Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
     kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
@@ -507,7 +519,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75815
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Įvyko šitaip todėl, kad pats Kristus,
     kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
@@ -530,9 +543,9 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - t-012
 
 - id: c-184279
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 70"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 70."
   citata_originali: |
     Ketvirtajam sūnui teko kraštas tarp upių Ska­
     ros, Boiko ir Kurteno, kursai įkūręs tenai pilį Stain-

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42731baa2bcecef4fe86769c"
+canonical_name: "Petras d''Ailli"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras d''Ailli","Petras d'Ailli"]
+sameAs: []
+canonical_biography: "Narbutas spėja, kad 1418 metų rankraštis apie agapijonus Rusijoje ir Lietuvoje galėjo būti vienas iš neišspausdintų Petro d'Ailli veikalų."
 ---
 # Petras d'Ailli
 
@@ -64,7 +71,8 @@ Narbutas spėja, kad 1418 metų rankraštis apie agapijonus Rusijoje ir Lietuvoj
 - id: c-173080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
   citata_originali: |
     16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
     mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum

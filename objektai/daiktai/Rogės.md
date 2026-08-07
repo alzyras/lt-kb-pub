@@ -113,7 +113,8 @@ Nenurodyta
 - id: c-10279
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 79"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 79."
   citata_originali: |
     Žiemos laiku, kaip sakiau, važiavo važiuose, taip vadinamose rogėse, nuo žodžio važiuoti, šunį įkinkę dėl to, jog šuo per visų didžiausias tankmes galėjo
         perlįsti, o grįžtant namus atsekti; jei ką vežė, tad rogėse ir šlajose.
@@ -129,7 +130,8 @@ Nenurodyta
 - id: c-170030
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 151-152"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 151-152."
   citata_originali: |
     Ir kai ka­
     ralius Olbrachtas su visa kariuomene jau buvo Buko­

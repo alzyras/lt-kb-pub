@@ -43,7 +43,7 @@ media_all_json: |-
 <a id="claim-t-13517"></a>
 - t-001
   teiginys: "„Descriptive Ethnology“ minima kaip britų mokslininko Robert Gordon Latham veikalas."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -52,7 +52,7 @@ media_all_json: |-
 <a id="claim-t-13518"></a>
 - t-002
   teiginys: "Leidinyje prie „Descriptive Ethnology“ pateikta lietuviška pavadinimo forma „Aprašomoji etnologija“."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -61,7 +61,7 @@ media_all_json: |-
 <a id="claim-t-23394"></a>
 - t-003
   teiginys: "Robertas Gordonas Lathamas „Descriptive Ethnology“ teigė, kad sanskritas yra artimesnis lietuvių kalbai nei bet kuriai kitai kalbai."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -72,7 +72,8 @@ media_all_json: |-
 - id: c-73222
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 11-12"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 11-12."
   citata_originali: |
     Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams
     istorinis pasakojimas pasirodys vienodai priimtinas bei darnus, primin-
@@ -110,7 +111,8 @@ media_all_json: |-
 - id: c-73223
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 12."
   citata_originali: |
     Į v a d a s
     LIETUVA –

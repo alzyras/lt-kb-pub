@@ -32,11 +32,18 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
 <a id="claim-t-59136"></a>
 - t-001
   teiginys: "Broliai nusprendė negrįžti namo tuščiomis rankomis, įsiveržė į Aukaimio pilies apylinkes ir jas nuniokojo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukaimis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "nedera tuščiomis rankomis grįžti namo: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Aukaimis: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"nedera tuščiomis rankomis grįžti namo\" parinktas kaip owner_note_path. Targetas \"Aukaimis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-167422
+    - c-59768
 
 <a id="claim-t-184037"></a>
 - t-002
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
 - id: c-59768
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Po to broliai,
     pasitraukę su kariuomene, kurį laiką ilsėjosi vienoje vietoje; ilgokai ten taręsi, galop visi
@@ -72,14 +80,17 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
   citata_rodoma: "Po to broliai,\npasitraukę su kariuomene, kurį laiką ilsėjosi vienoje vietoje; ilgokai ten taręsi, galop visi\nnusprendė, kad, šiaip ar taip, nedera tuščiomis rankomis grįžti namo. Todėl, įsibrovę\nį Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami. Paėmę  į nelaisvę ir\nišžudę daug žmonių, patraukė su dideliu grobiu atgal."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-167422
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Apie Aukaimio valsčiaus nusiaubimą
 
@@ -99,5 +110,4 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

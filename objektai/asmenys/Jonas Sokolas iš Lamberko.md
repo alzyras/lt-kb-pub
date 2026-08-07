@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2d48dd60b3e5157955f4c583"
+canonical_name: "Jonas Sokolas iš Lamberko"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Sokolas iš Lamberko"]
+sameAs: []
+canonical_biography: "Jonas Sokolas iš Lamberko, vadintas Sokolu Čeku, vadovavo čekų ir moraviečių algininkų daliniui Žalgirio mūšyje."
 ---
 # Jonas Sokolas iš Lamberko
 

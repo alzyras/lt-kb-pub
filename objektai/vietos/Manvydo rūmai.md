@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a5a702855492de2e88a4287"
+canonical_name: "Manvydo rūmai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Manvydo rūmai"]
+sameAs: []
+canonical_biography: "Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus. Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pataurininkis ir rykūnės (ozzerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos užvertė visas jo brangenybes."
+place_authority: true
+historical_names: []
 ---
 # Manvydo rūmai
 
@@ -74,7 +83,8 @@ media_all_json: |-
 - id: c-82066
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156."
   citata_originali: |
     Kitais metais jis buvo išvaduotas dviejų jam palan­
     kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
@@ -94,7 +104,8 @@ media_all_json: |-
 - id: c-82067
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 181."
   citata_originali: |
     - Praneša man vėliau, kad įvyko griū­
     tis kalno, ant kurio stovi Aukštutinė pilis, dėl „Spieki"

@@ -94,7 +94,8 @@ Nenurodyta
 - id: c-172538
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 254."
   citata_originali: |
     Originalas buvo Vilniuje ir
     tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*.
@@ -114,7 +115,8 @@ Nenurodyta
 - id: c-177010
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 104."
   citata_originali: |
     Taip pat kronikos liudija, jog šio dievo stabas, spirale susi­
     raitęs žaltys, stovėjęs Romovės šventykloje, į kairę nuo Perkū­

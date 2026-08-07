@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0867a4da1985492c5421b8d0"
+canonical_name: "Steponas Šukys-Mauzeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Steponas Šukys-Mauzeris"]
+sameAs: []
+canonical_biography: "Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino bunkerio viršų."
 ---
 # Steponas Šukys-Mauzeris
 
@@ -44,7 +51,8 @@ Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino 
 - id: c-44524
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 247."
   citata_originali: |
     Partizanai, buvę
     šiame bunkeryje, girdėjo visą praėjusią dieną

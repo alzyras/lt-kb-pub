@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b44676e1816760ca1cb6944e"
+canonical_name: "Klausigaila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Klausigaila"]
+sameAs: []
+canonical_biography: "Klausigaila buvo vienas iš penkių vadovų, kurie turėjo Kęstutaičio vardu paremti Žemaičių sukilimą."
 ---
 # Klausigaila
 
@@ -63,7 +70,8 @@ Klausigaila buvo vienas iš penkių vadovų, kurie turėjo Kęstutaičio vardu p
 - id: c-28935
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 342."
   citata_originali: |
     Įdomu tai, kad Raseinių
     bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­

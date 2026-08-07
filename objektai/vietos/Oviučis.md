@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1420b62af0a9a68e980e64b7"
+canonical_name: "Oviučis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Oviučis"]
+sameAs: []
+canonical_biography: "Oviučį, Lietuvos metraščio pasakojimu, tą patį pavasarį kartu su Žitomiru paėmė didžiuoju kunigaikščiu vadinamas Vytautas."
+place_authority: true
+historical_names: []
 ---
 # Oviučis
 
@@ -54,7 +63,8 @@ Oviučį, Lietuvos metraščio pasakojimu, tą patį pavasarį kartu su Žitomir
 - id: c-170574
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 95."
   citata_originali: |
     O kunigaikštis
     Vladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­

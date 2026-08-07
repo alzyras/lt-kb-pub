@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ef80d8e3bffbb9cd9f0dd72c"
+canonical_name: "Nočia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nočia"]
+sameAs: []
+canonical_biography: "], liepia karališkajam dvariškiui Tukanovskiui išnagrinėti karalienės valdinių padarytus nuostolius Polocko vaivadienei Onai Hlekavičienei jos valdoje Nočioje ties Kłecku (Iš Radvilų archyvo) BONA, DIEVO MALONE LENKIJOS KARALIENĖ, DIDŽIOJI LIETUVOS, RUSIOS."
+place_authority: true
+historical_names: []
 ---
 # Nočia
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-171919
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 379."
   citata_originali: |
     Vilniuje, kaip spėjama, kunigaikščių pe­
     lenai turi būti pakasti Pilies kalne iš saulėtekio pusės, ir jei jie

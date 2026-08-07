@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-029fde856df02543d5d17300"
+canonical_name: "Andrius (Druško kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius (Druško kunigaikštis)"]
+sameAs: []
+canonical_biography: "3-oji privilegija rašyta Trakuose, datuota 1411 m., kuria di­ dysis kunigaikštis Vytautas, atsi­ liepdamas į vyskupo Mikalojaus ir Vilniaus kapitulos pareiškimus mainais už dvasininkijos Vechatnicos kaimą Volkovisko paviete, esantį kapitulai netinkamoje."
 ---
 # Andrius (Druško kunigaikštis)
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-83601
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 164."
   citata_originali: |
     Aktuota ir
     duota antrą gavėnios sekmadienį

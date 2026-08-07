@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92d950245a2aefb3839ce4d4"
+canonical_name: "Aleksejus Michailovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksejus Michailovičius"]
+sameAs: []
+canonical_biography: "Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu."
 ---
 # Aleksejus Michailovičius
 
@@ -78,7 +85,8 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
 - id: c-76041
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 126."
   citata_originali: |
     1655 m.
 

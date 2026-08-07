@@ -50,7 +50,8 @@ Tai vadinamoji šventoji namų ugnelė, arba gabija.
 - id: c-03234
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 49."
   citata_originali: |
     Tai vadinamoji
     šventoji namų ugnelė, arba gabija. Dėl to ugnies kulto dar ir

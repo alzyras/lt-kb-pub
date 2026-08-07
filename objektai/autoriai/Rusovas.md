@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-52f850ad8862cce79f196351"
+canonical_name: "Rusovas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Rusovas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Rusovas latvių jaunimui priskyrė deivės Dahklos garbinimą kaip laisvės ir vyriškumo globėjos."
 ---
 # Rusovas
 
@@ -62,7 +69,8 @@ Narbutas rašo, kad Rusovas latvių jaunimui priskyrė deivės Dahklos garbinim�
 - id: c-173335
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     Nuženk iš dangaus, pasigailėk)
     Mielai atidaviau savo laikrodį bajorui, kuris man tą daine­

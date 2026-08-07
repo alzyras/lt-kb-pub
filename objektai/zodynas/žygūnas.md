@@ -208,7 +208,8 @@ media_all_json: |-
 - id: c-168692
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 114."
   citata_originali: |
     Taigi visuotiniame
     susirinkime kunigaikščiu buvo išrinktas Vaišvilkas.
@@ -239,7 +240,8 @@ media_all_json: |-
 - id: c-168693
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 370."
   citata_originali: |
     Užgrobę visus grūdus,
     J ie su daro k elia s pro-
@@ -268,7 +270,8 @@ media_all_json: |-
 - id: c-168694
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 422"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 422."
   citata_originali: |
     Tačiau ligai išgy­
     dyti jau nebeužteko gydytojo, reikėjo veiksmingesnių
@@ -293,7 +296,8 @@ media_all_json: |-
 - id: c-168696
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 557"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 557."
   citata_originali: |
     Iš tikrųjų
     Ivanas troško išplėsti savo valdas, išdidžiai svajoda­
@@ -324,7 +328,8 @@ media_all_json: |-
 - id: c-168697
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 624"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 624."
   citata_originali: |
     Štai todėl ir kreipėsi į jį,
     prisiekdamas visais šventaisiais prijungti prie jo tė­

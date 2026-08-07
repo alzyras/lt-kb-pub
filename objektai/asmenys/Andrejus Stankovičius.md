@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-25bbe9b9712b7ae121c1c8a9"
+canonical_name: "Andrejus Stankovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrejus Stankovičius"]
+sameAs: []
+canonical_biography: "Świadkowie: Miszko Wezgałowicz Namiestnik Wileński i Woskowniczy Hospodarski, Pan Zanko Iwanowicz Horodniczy Wileński i Pan Andrej Stankowicz."
 ---
 # Andrejus Stankovičius
 
@@ -31,7 +38,8 @@ media_all_json: |-
 - id: c-83599
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 286."
   citata_originali: |
     Šio namo padėtis dokumen­
     te taip apibūdinta: Kotory leżał w

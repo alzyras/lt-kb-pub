@@ -55,21 +55,29 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
 <a id="claim-t-61009"></a>
 - t-002
   teiginys: "P. K. Tacito „Rinktiniai raštai“ išleisti Vilniuje 1972 m."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tacitas P. K. Rinktiniai raštai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tacitas P. K. Rinktiniai raštai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1972 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį leidimo faktą."
   pagrindžia:
-    - c-61640
+    - c-61641
 
 ## Citatos
 
 - id: c-61640
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
   citata_originali: |
     Apie penktąją atskalūnybę ir apie bausmę už ją
 
@@ -87,18 +95,19 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-61641
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Tacitas P. K. Rinktiniai raštai.—V., 1972.
   citata_rodoma: "Tacitas P. K. Rinktiniai raštai.—V., 1972."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

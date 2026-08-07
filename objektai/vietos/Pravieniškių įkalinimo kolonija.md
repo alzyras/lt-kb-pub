@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5cf018cdaca086be6406784e"
+canonical_name: "Pravieniškių įkalinimo kolonija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pravieniškių įkalinimo kolonija"]
+sameAs: []
+canonical_biography: "Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš tai ypač žiauriai nukankinus), mažesnio masto – keliose kitose apskrityse, o iš viso nužudyta apie 700 asmenų. 1941 m. birželio 26 d. sovietų nužudyti Pravieniškių lagerio kaliniai ir prižiūrėtojai."
+place_authority: true
+historical_names: []
 ---
 # Pravieniškių įkalinimo kolonija
 
@@ -79,7 +88,8 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 - id: c-74638
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 195."
   citata_originali: |
     giausia tai spontaniškas atsakas į sovietų politiką Lietuvoje, iš dalies jis
     ruoštas – antisovietinio sukilimo idėją Vokietijos ir SSRS karo pradžioje
@@ -102,7 +112,8 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 - id: c-74640
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 194."
   citata_originali: |
     1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui,
     Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos po-
@@ -123,7 +134,8 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 - id: c-167014
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 194."
   citata_originali: |
     Kurių nespėjo, elemen-
     tariai nužudė. Masinės kalinių žudynės surengtos Pravieniškių įkalinimo

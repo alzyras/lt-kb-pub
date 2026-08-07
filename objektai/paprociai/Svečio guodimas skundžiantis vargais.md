@@ -49,7 +49,8 @@ Nenurodyta
 - id: c-09964
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 117"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 117."
   citata_originali: |
     Šiandien nabagai nuvargę, žudomi vis nori dar žmonysta^501 pasielgti, tankiai išmintingam
         svečiui, į jų namus įėjusiam, neturėdami kuo jo pamylėti, pradeda verkti ir jam guostis

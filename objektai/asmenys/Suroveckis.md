@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d8992ebe70bce654e8ce7075"
+canonical_name: "Suroveckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Suroveckis"]
+sameAs: []
+canonical_biography: "Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai užėmė budinų kraštus dešiniajame Vyslos krante. Teodoro Narbuto vertinimu, Suroveckis gerai aiškino, kad venedų srityse buvo seniausios slavų gyvenamosios vietos."
 ---
 # Suroveckis
 

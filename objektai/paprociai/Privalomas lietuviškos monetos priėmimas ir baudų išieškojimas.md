@@ -144,7 +144,8 @@ Nenurodyta
 - id: c-83162
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 461-462"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 461-462."
   citata_originali: |
     —  369-
     (Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)

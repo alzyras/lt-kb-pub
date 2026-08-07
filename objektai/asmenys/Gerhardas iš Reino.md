@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a20cd9b7fe565794986e3ce0"
+canonical_name: "Gerhardas iš Reino"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gerhardas iš Reino"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir variniais, naktį pasiuntė daug pėstininkų į Balgos lauką, o pats anksti rytą su raiteliais užgrobė brolių gyvulius ir užmušė tris juos saugojusius vyrus, brolis Gerhardas iš Reino ir nemaža kitų brolių bei."
 ---
 # Gerhardas iš Reino
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
 - id: c-167455
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     Apie kelių prūsų žūtį
     Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo tokia narsa ir drąsa,

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8de3e45ef972ac9b28e901eb"
+canonical_name: "Povilas (Vilniaus vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Povilas (Vilniaus vyskupas)"]
+sameAs: []
+canonical_biography: "Vilniaus vyskupui Povilui gyvam esant, Viklifo pasekėjas gavo leidimą kalbėti apie tikėjimą Šv. Onos bažnyčioje."
 ---
 # Povilas (Vilniaus vyskupas)
 
@@ -53,7 +60,8 @@ Vilniaus vyskupui Povilui gyvam esant, Viklifo pasekėjas gavo leidimą kalbėti
 - id: c-169373
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 693"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 693."
   citata_originali: |
     Nauji tikybiniai įsitikinimai laisvai plito po didikų
     bei bajorų dvarus, nuolatos pripilamų taurių kurstomi,

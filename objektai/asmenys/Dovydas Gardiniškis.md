@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4cfe0b41be78f81c460723fe"
+canonical_name: "Dovydas Gardiniškis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dovydas Gardiniškis"]
+sameAs: []
+canonical_biography: "Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio žmona buvusi taip pat Gediminaite."
 ---
 # Dovydas Gardiniškis
 
@@ -61,7 +68,8 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
 - id: c-32718
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 246."
   citata_originali: |
     1333 m. už busimo
     Maskvos didžiojo kunigaikščio Simeono (Jono Kalitos sūnaus) ište­

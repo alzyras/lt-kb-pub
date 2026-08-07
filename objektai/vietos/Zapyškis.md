@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-802a6406cd8efc24ee0f4c91"
+canonical_name: "Zapyškis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zapyškis"]
+sameAs: []
+canonical_biography: "pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač Vilniuje, gotika pradėjo plisti gyvenamųjų namų statyboje, pasiekė provinciją (Kėdainiai, Zapyškis), įsivyravo net stačiatikių sakralinių pastatų architektūroje."
+place_authority: true
+historical_names: []
 ---
 # Zapyškis
 
@@ -72,7 +81,8 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
 - id: c-24613
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 55."
   citata_originali: |
     Vytautas
     perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
@@ -95,7 +105,8 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
 - id: c-171763
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
   citata_originali: |
     Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
     tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­

@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-727aa710c70ab2da844ccb3a"
+canonical_name: "Sarmatija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sarmatija"]
+sameAs: []
+canonical_biography: "Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios žemės kartais atrodydavo kaip salos, o kartais kaip žemynas. Narbutas svarstė, kad Melos laikais priešais Sarmatiją plytėjusios žemės galėjo būti užliejamos ir kartais laikomos salomis."
+place_authority: true
+historical_names: []
 ---
 # Sarmatija
 
@@ -94,7 +103,8 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
 - id: c-175563
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 173."
   citata_originali: |
     Po to
     tas pats geografas vardija tos pačios jūros, kurią vadina
@@ -117,7 +127,8 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
 - id: c-175564
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 337"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 337."
   citata_originali: |
     Palyginus vienus įrodymus su kitais, atrodo, jog
     gintaringą prūsų pakrantę kažkada išties sudarė salos.

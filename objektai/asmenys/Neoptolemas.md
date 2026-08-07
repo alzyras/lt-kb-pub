@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f45f9cab861eb90b125cbdde"
+canonical_name: "Neoptolemas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Neoptolemas"]
+sameAs: []
+canonical_biography: "Pasak Teodoro Narbuto perteikiamo pasakojimo, Neoptolemas pirmasis steigė pastovias graikų gyvenvietes prie Dnestro ir Dnepro žiočių."
 ---
 # Neoptolemas
 
@@ -53,7 +60,8 @@ Pasak Teodoro Narbuto perteikiamo pasakojimo, Neoptolemas pirmasis steigė pasto
 - id: c-174330
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
   citata_originali: |
     33
     Jau labai senais laikais graikai užmezgė santykius su

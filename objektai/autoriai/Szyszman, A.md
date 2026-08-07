@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5ef51d13059180ef210a48ee"
+canonical_name: "Szyszman, A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Szyszman, A"]
+sameAs: []
+canonical_biography: "35, 317- 324 p. — Szyszman, A."
 ---
 # Szyszman, A
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-33157
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 331"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 331."
   citata_originali: |
     Die Mongolen in Russland 1223-1502,_
     Leipzig 1943. — Sužiedėlis, S. : _Žygimantas Kęstutaitis,_ LE, t. 35, 317-

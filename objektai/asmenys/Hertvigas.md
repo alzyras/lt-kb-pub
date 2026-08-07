@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-99a803314af1605f89453172"
+canonical_name: "Hertvigas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hertvigas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur stovi Baigos pilis, supa pelkės, ten net vasaros metu tegalima pakliūti tiltu, prieš kurį ant vienos kalvos broliai pastatė pilį, vardu Šnikenbergas251, įkurdinę joje daug brolių ir vieną kilmingą vyrą Hertvigą."
 ---
 # Hertvigas
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 - id: c-60960
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     24. Apie Šnikenbergo pilies pastatymą
 

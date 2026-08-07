@@ -136,7 +136,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 <a id="claim-t-74766"></a>
 - t-006
   teiginys: "Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1944-1953; įvykio data: 1953 m."
@@ -161,7 +161,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - id: c-22631
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 20."
   citata_originali: |
     Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
     1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi. Tačiau pergyvenusi
@@ -182,7 +183,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - id: c-22634
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 210."
   citata_originali: |
     Pagalbos iš užsienio tikėtis nebuvo
     įmanoma, jie kovėsi vienų vieni. 1944–1946 m. susidarė dideli, net iki
@@ -202,7 +204,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - id: c-22635
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 211."
   citata_originali: |
     Partizanai
     trukdė okupacinės valdžios rinkimus, apšaudydavo balsavimo būstines,
@@ -225,7 +228,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - id: c-22636
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 211."
   citata_originali: |
     Pereita prie įprasto
     partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir
@@ -251,7 +255,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - id: c-22637
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 214."
   citata_originali: |
     Visuotinį šio karo mastą rodo okupantų baudžiamųjų ak-
     cijų duomenys: 1944–1953 m. MGB organai sunaikino 2 353 partizanų
@@ -272,7 +277,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - id: c-72777
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 209-210"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 209-210."
   citata_originali: |
     Tačiau prieš tai vyko kruvina kova.
     Karas po karo – ginkluota rezistencija
@@ -298,7 +304,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - id: c-166549
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 211."
   citata_originali: |
     Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-
     mus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-
@@ -320,7 +327,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - id: c-176235
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 210."
   citata_originali: |
     Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo
     ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą

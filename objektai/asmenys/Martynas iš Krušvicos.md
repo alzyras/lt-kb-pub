@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e249c50ff15952b0c9ba254f"
+canonical_name: "Martynas iš Krušvicos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Martynas iš Krušvicos"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad juos išvydę, lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino."
 ---
 # Martynas iš Krušvicos
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad juos išvydę, lenkai išsigandę visi išlakstė, išs
 - id: c-61016
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
   citata_originali: |
     Šitai išvydęs, valdovas Henrikas iš Lichtenšteino
     staiga užgriuvo priešus ir sugrąžino į pirmykštę vietą atimtą grobį. Apie tai sužinojęs,

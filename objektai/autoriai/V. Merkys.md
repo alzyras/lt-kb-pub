@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-972f7570dd1c4a2169460374"
+canonical_name: "V. Merkys"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Merkys"]
+sameAs: []
+canonical_biography: "Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A."
 ---
 # V. Merkys
 
@@ -80,7 +87,8 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
 - id: c-33175
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     2, 1972). S. Matulaitytė rašo apie astro­
     nomijos mokslo įvedimą Vilniaus universitete XVIII a. (AkMD,
@@ -102,7 +110,8 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
 - id: c-171374
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 38."
   citata_originali: |
     21 Daukantas S. Raštai / Tekstą parengė B. Vanagienė. Sudarė,
     įvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-

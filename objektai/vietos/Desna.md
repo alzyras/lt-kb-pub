@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dcf5ba988719ea249aba2747"
+canonical_name: "Desna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Desna"]
+sameAs: []
+canonical_biography: "Čia jis užėmė visas Dniepro ir Desnos upyno kunigaikštystes — Brianską, Trubčevską, Naugardą Sieverską, ir kt."
+place_authority: true
+historical_names: []
 ---
 # Desna
 
@@ -174,7 +183,8 @@ media_all_json: |-
 - id: c-02645
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 107."
   citata_originali: |
     Pats Smolenskas išgyveno nepriklauso-
     mas dar iki Vytauto. Bet užtat daug geriau Algirdui sekėsi į
@@ -194,7 +204,8 @@ media_all_json: |-
 - id: c-175406
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
   citata_originali: |
     Tad šis kraštas turėtų
     būti Rogačiovo apylinkėse ir aukščiau. Buvo atkakliai
@@ -214,7 +225,8 @@ media_all_json: |-
 - id: c-175409
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
   citata_originali: |
     Tų įdubų juos­
     tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­

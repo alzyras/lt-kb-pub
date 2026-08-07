@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7da522581c3536b25e148c0d"
+canonical_name: "Ign. Kraszewskio"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ign. Kraszewskio"]
+sameAs: []
+canonical_biography: "Kraszewskio apysaka «Kunigas »."
 ---
 # Ign. Kraszewskio
 
@@ -50,7 +57,8 @@ Kraszewskio apysaka «Kunigas ».
 - id: c-29243
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 243."
   citata_originali: |
     XIX
     amž. tautinio atgimimo laikotarpyje lietuviams stiprų įspūdį darė

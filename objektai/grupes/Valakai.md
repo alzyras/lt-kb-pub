@@ -52,7 +52,8 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 - id: c-10129
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 322"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 322."
   citata_originali: |
     Noris pradžioj 15 amžiaus namų ermyderiai ir svetimos karės trukino lietuvius ir žemaičius nuo
         prekybos, vienok Zigmantui Kęstutaičiui paėmus ūkę valdyti ir patvirtinus sandaras su mozūrais,
@@ -66,7 +67,8 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 - id: c-10130
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 330"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 330."
   citata_originali: |
     laiku kėlės karės su žuvėdais, maskoliais, turkais ir valakais, namuose taip pat tarp pačių netaikos
         sukilo; ant galo jezavitai^1493 sušyžino^1494 visus atskalūnus, norėdami juos į katalikus atversti.
@@ -80,7 +82,8 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 82."
   citata_originali: |
     Salzbachą su keliais tūkstančiais kariuomenės;
     prisijungė prie Vytauto su savo pulkais ir Tochtamyšas. Tuo
@@ -100,7 +103,8 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 82."
   citata_originali: |
     Ordinas atsiuntė savo komtūrą
     Marquardą v. Salzbachą su keliais tūkstančiais kariuomenės;

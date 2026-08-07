@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5ff3d08d15f5e11eb31f7a86"
+canonical_name: "P. Nieborowski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. Nieborowski"]
+sameAs: []
+canonical_biography: "Nieborowski, P."
 ---
 # P. Nieborowski
 
@@ -60,7 +67,8 @@ Nieborowski, P.
 - id: c-33093
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 360"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 360."
   citata_originali: |
     VII + 117 p.). — Krasauskas,
     R. : Medininkų diecezijos įsteigimus ir aprūpinimas, LE, t. 18, 93-95 p.

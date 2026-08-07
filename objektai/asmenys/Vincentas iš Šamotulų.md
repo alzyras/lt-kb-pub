@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-90a2256363f85071c40fe306"
+canonical_name: "Vincentas iš Šamotulų"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vincentas iš Šamotulų"]
+sameAs: []
+canonical_biography: "Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą. Vincentas iš Šamotulų su visa kariuomene patraukė į Lenkiją."
 ---
 # Vincentas iš Šamotulų
 
@@ -86,7 +93,8 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
 - id: c-169449
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 443"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 443."
   citata_originali: |
     Neti­
     kėtai užpuolęs Podolę, jis netruko ją sugrąžinti Boles­
@@ -110,7 +118,8 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
 - id: c-169450
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 443"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 443."
   citata_originali: |
     Štai todėl
     Šamotulskis ir patraukė su visa kariuomene į Lenkiją.

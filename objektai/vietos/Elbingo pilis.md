@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e8cbd21cdfee0e18ee470bcb"
+canonical_name: "Elbingo pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Elbingo pilis","Elbingo pilis (pilis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelto prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo ruožtu į Prūsijos kraštą, į."
+place_authority: true
+historical_names: []
 ---
 # Elbingo pilis (pilis)
 
@@ -51,7 +60,8 @@ Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelt
 - id: c-59393
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Jį didžiai vertino ir popiežius, ir imperatorius, nekalbant apie kitus kunigaikščius bei
     didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo

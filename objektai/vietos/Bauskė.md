@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3b09ae5c7b5cde418ef82bb4"
+canonical_name: "Bauskė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bauskė"]
+sameAs: []
+canonical_biography: "Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų suvežė svarbiausias vertybes į dominikonų vienuolyną, kuriame ir pernakvojo, o ryte, paskleidę gandą, kad vyksta į Drują bei Bychovo tvirtovę, iš tikrųjų suskubo trauktis į Kuršą - į."
+place_authority: true
+historical_names: []
 ---
 # Bauskė
 
@@ -84,7 +93,8 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 - id: c-79575
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 140."
   citata_originali: |
     Šios Sapiegų kariuomenės
     dalies gynyba neleido respubliko-
@@ -112,7 +122,8 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 - id: c-168291
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 701-702"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 701-702."
   citata_originali: |
     Seimo darbe dalyvavo ir ordino magistras Ket-
     leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus
@@ -148,7 +159,8 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 - id: c-176846
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 330-331"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 330-331."
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau
     žaibus,

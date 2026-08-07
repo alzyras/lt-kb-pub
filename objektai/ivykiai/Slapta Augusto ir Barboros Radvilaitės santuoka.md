@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-168898
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 672-673"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 672-673."
   citata_originali: |
     Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai
     ją palaidojęs Vilniaus katedros koplyčioje, kur ilsėjosi
@@ -141,7 +142,8 @@ Nenurodyta
 - id: c-168899
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 673"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 673."
   citata_originali: |
     Mat
     tie apsilankymai iš tiesų rodėsi šiek tiek lengvapėdiš­

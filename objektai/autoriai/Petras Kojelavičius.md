@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-77e3b41079b4598545435c60"
+canonical_name: "Petras Kojelavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Petras Kojelavičius"]
+sameAs: []
+canonical_biography: "Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotekoje, kuriame trumpos panegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­ čiaus, jėzuito2. Petro Wiiuk Koja- łowicz, Societatis Jesu, in alma Uni­ versitate Vilnensi eiusdem Societatis tunc Eloquentiae deinde Logices ordi­ nario professore. t.; antra, kad nuo 1417 m. iki 1453 m., tai yra 36 metus, kiek jam Kojelavičius ir kiti istori­ jas rašę buvo davę, būtų buvęs per ilgas tarpsnis vyskupu išbūti."
 ---
 # Petras Kojelavičius
 
@@ -109,7 +116,8 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
 - id: c-83992
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 207."
   citata_originali: |
     Ant­
     spaude turėjo Stumbro ženklą.
@@ -141,7 +149,8 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
 - id: c-83993
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 206."
   citata_originali: |
     2
     Elogia Episcoporum Vilnensium,
@@ -163,7 +172,8 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
 - id: c-83994
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 206."
   citata_originali: |
     Tad nu­
     rodysime tuos Vilniaus diecezijos ganytojus, kurių vardai jo­
@@ -186,7 +196,8 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
 - id: c-83995
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 207."
   citata_originali: |
     Turbūt todėl 1427 m. šventinant Šv. Jono bažnyčią Vilniaus
     vyskupo dar nebuvo. Tą mūsų spėjimą patvirtina tai, jog vys­

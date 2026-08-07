@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-071ff86c7ea5b2ec73cffd15"
+canonical_name: "P. W. Koppebs"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. W. Koppebs"]
+sameAs: []
+canonical_biography: "Koppebs."
 ---
 # P. W. Koppebs
 
@@ -52,7 +59,8 @@ Koppebs.
 - id: c-33097
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 154."
   citata_originali: |
     Juan Lasicki’s Samogitian Gods,_ Studi Bal-
     tici, IX, 1952, 65-106 p. (kritiškas išaiškinimas «dievais » laikytų žo­

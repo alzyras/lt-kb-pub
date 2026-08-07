@@ -55,7 +55,8 @@ Teodoro Narbuto manymu, mechotėnai gyveno rytinėje Mituvos apskrities dalyje i
 - id: c-175758
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
   citata_originali: |
     Žiloje seno­
     vėje šis uostas galėjo būti šalies sostinė, iš kurios ir buvo

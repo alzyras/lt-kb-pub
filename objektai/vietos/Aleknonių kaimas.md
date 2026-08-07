@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b8b0ab5a5510f2df58e953f7"
+canonical_name: "Aleknonių kaimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aleknonių kaimas"]
+sameAs: []
+canonical_biography: "Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė ežeru."
+place_authority: true
+historical_names: []
 ---
 # Aleknonių kaimas
 
@@ -51,7 +60,8 @@ Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkinink
 - id: c-167161
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 230."
   citata_originali: |
     Šis ginklas buvo vienas
     mėgstamiausių tarp partizanų ir buvo jų pramintas „dešimtuku“ (pagal šovinių dėtuvės talpą)

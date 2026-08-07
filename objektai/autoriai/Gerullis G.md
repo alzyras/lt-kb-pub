@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6b4a1c97058b3370efd5a9b5"
+canonical_name: "Gerullis G"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gerullis G"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad (Gerullis G., Zur Sprache.., p. 48; Būga К., 2, p. 100—101; 3, p. 140—141), Skuomantai (kaimas prie Rokiškio, su tarminiu senesnio o virtimu uo)."
 ---
 # Gerullis G
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad (Gerullis G., Zur Sprache.., p. 48; Būga К., 2, p. 10
 - id: c-61336
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
   citata_originali: |
     442 D.— Scumandus, Jer.— Skomant; jotvingių Skomant(a)s arba Skomand(a)
     s. Asmenvardis giminingas vietovardžiams Skomantai, Klaipėdos rj. (Gerullis G., Zur

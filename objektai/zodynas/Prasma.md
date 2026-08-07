@@ -41,7 +41,8 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
 - id: c-09591
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 127"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 127."
   citata_originali: |
     lovius, raugtines, kipius^575 , geldas, muldas, taip pat ir kitą būtos padargą sau tiekė: plėškes^576 , apnasrius^577 , brizgilus, strungus^578 , tinklus, krytis, kampus^579 , venterius, riužius, kinkymus, pavalkus, kamantus, ienas, – trumpai sakant, visa, ko vien butai reikiant, vis sau patys savo prasma dirbo. Perkaršęs bočius lazdos sau nepirko, su ievine, savo liekne išpjauta, krūpštinėjo.
   citata_rodoma: "lovius, raugtines, kipius^575 , geldas, muldas, taip pat ir kitą būtos padargą sau tiekė: plėškes^576 , apnasrius^577 , brizgilus, strungus^578 , tinklus, krytis, kampus^579 , venterius, riužius, kinkymus, pavalkus, kamantus, ienas, – trumpai sakant, visa, ko vien butai reikiant, vis sau patys savo prasma dirbo. Perkaršęs bočius lazdos sau nepirko, su ievine, savo liekne išpjauta, krūpštinėjo."
@@ -54,7 +55,8 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
 - id: c-09592
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 121"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 121."
   citata_originali: |
     Nuo ryto, pusryčioti^521 eidami, visi prausės ir, abrūsu didžiai ilgu šluostydamies, meldės, kaip anie sakė, už skendinius^522 , paskui galvas šukavo su šepečiais, savo prasma^523 dirbtais.
   citata_rodoma: "Nuo ryto, pusryčioti^521 eidami, visi prausės ir, abrūsu didžiai ilgu šluostydamies, meldės, kaip anie sakė, už skendinius^522 , paskui galvas šukavo su šepečiais, savo prasma^523 dirbtais."

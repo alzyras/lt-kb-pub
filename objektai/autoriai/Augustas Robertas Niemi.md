@@ -43,6 +43,13 @@ media_all_json: |-
 tags:
   - mokslininkas
   - autorius
+entity_id: "ent-dd0aec2ba70ac3eacdec7590"
+canonical_name: "Augustas Robertas Niemi"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. R. Niemi","Augustas Robertas Niemi","Niemi","prof. Niemi"]
+sameAs: []
+canonical_biography: "Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas, gimęs 1869 m. liepos 25 d. vakarų Suomijoje. Jam priskiriama apie 70 folkloro veikalų ir studijų, o tarp 1911-1913 m. darbų išskiriami lietuvių ir latvių tematikos tyrimai bei leidiniai, susiję su kun. A. Sabaliausku ir Tautosakos komisija."
 ---
 # Augustas Robertas Niemi
 

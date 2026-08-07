@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   [{"mediaId":"m-aba1e581521f32068d05a0bd","title":"Frederick Augustus III | Frederick Augustus III","caption":"Augusto III portretas su karališkuoju herbu ir įrašu apie išrinkimą Lenkijos karaliumi bei Saksonijos elektorių.","originalTitle":"Frederick Augustus III | Frederick Augustus III","creator":"J. F. Stein | Jan Caspar Philips","provider":"europeana","providerLabel":"Catholic University of Leuven","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9980787480101488","sourceUrl":"https://lib.is/IE4877207/stream?quality=LOW","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE4877207%2Fstream%3Fquality%3DLOW&type=IMAGE","displayUrl":"https://lib.is/IE4877207/stream?quality=LOW","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Radierung (Druckgrafik)","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stich (Gravur)","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"aguafuertes","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"engravings (prints)","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"etchings (prints)","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"etsen (prenten)","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"grabados","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"gravuras (estampas)","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"gravure","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"gravures","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"gravures à l'eau forte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"água-forte","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Augustas III.md","title":"Augustas III","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T19:58:49.344334+03:00","reviewedAt":"2026-07-18T19:59:04.772978+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVIII a. portretinis atvaizdas: vyras su šarvais, apačioje – karališkasis herbas. Aplink portretą ir apačioje įrašyta, kad jis yra Lenkijos karalius ir Saksonijos elektorius, išrinktas 1733 m. ir karūnuotas 1734 m.","metadataEvidence":"Kandidato pavadinime nurodyta „Frederick Augustus III / Augustus III“, o aprašyme pateiktas įrašas „King of Poland, Elector of Saxony“ bei Augusto III vardas.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja target – Augustą III, Fryderyką Augustą II, Lenkijos karalių ir Saksonijos elektorių.","isPrimary":1}]
+entity_id: "ent-4c855b0da28b2e61c0fe62fc"
+canonical_name: "Augustas III"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Augustas III"]
+sameAs: []
+canonical_biography: "Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas bajorijos panoro grąžinti ištremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija. Augustas III, 1733—1763 m. d. Lietuvos kunigaikštis, Lenkų karalius ir Saksų elektorius."
 ---
 # Augustas III
 
@@ -110,7 +117,8 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
 - id: c-78716
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196-197"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196-197."
   citata_originali: |
     Taigi:
     180
@@ -141,7 +149,8 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
 - id: c-78718
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 416"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 416."
   citata_originali: |
     **Kandidatai.** Augustui **III** mirus, kandidatų į sostą atsirado
     nemaža. Pirmiausia tai buvo jo vyresnysis sūnus, kuris betgi
@@ -160,7 +169,8 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
 - id: c-78719
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 142."
   citata_originali: |
     Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar
     jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos
@@ -180,7 +190,8 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
 - id: c-78720
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 404"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 404."
   citata_originali: |
     Augustui **II** mirus, daugumas bajorijos panoro grąžinti iš-
     tremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.

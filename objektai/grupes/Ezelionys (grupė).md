@@ -46,9 +46,9 @@ Išgirdę taip pat ezelionys žemaičius taip laimin gai kariaujant išsižadėj
 ## Citatos
 
 - id: c-184596
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 381"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 381."
   citata_originali: |
     Po tos mūšos kuržemiai atėjo į abažą žemaičių,
     stovintį ties Sintele, arba Santekle, pilė, pagalbos

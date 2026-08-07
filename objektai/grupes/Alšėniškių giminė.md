@@ -54,7 +54,8 @@ Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Ole
 - id: c-170709
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 323."
   citata_originali: |
     5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
     puchovo

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fec92721dace91c102088f6c"
+canonical_name: "Česlovas Milošas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Česlovas Milošas"]
+sameAs: []
+canonical_biography: "lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz)."
 ---
 # Česlovas Milošas
 
@@ -50,7 +57,8 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 - id: c-22088
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 15."
   citata_originali: |
     tuvių kalba. Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
     tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu

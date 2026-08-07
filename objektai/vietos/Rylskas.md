@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ecb0884a4438a800fa812d86"
+canonical_name: "Rylskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rylskas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Rylskas
 

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d6ec794aa3a25469e7c93779"
+canonical_name: "Biartmaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Biartmaras"]
+sameAs: []
+canonical_biography: "Biartmaras Teodoro Narbuto pasakojime buvo Flamoro įpėdinis, paveldėjęs garsų miestą prie Nemuno žiočių ir galia nenusileidęs karaliams."
 ---
 # Biartmaras
 
@@ -53,7 +60,8 @@ Biartmaras Teodoro Narbuto pasakojime buvo Flamoro įpėdinis, paveldėjęs gars
 - id: c-174258
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Bet, atsižvelgiant į tai, ką jau ne sykį anks­
     čiau kalbėjome apie Aldesko upę ir apie tą miestą (§ 155),

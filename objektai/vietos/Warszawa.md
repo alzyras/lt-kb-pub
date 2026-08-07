@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15fdf7d769de20b7c2c8eeca"
+canonical_name: "Warszawa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Warszawa"]
+sameAs: []
+canonical_biography: "Stowko о bogach Litewskich // Biblioteka Warszawska."
+place_authority: true
+historical_names: []
 ---
 # Warszawa
 
@@ -52,7 +61,8 @@ Stowko о bogach Litewskich // Biblioteka Warszawska.
 - id: c-171819
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 38."
   citata_originali: |
     25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-
     zawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195.

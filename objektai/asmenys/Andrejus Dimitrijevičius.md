@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-accfcc2865be45a99b31b12d"
+canonical_name: "Andrejus Dimitrijevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrejus Dimitrijevičius"]
+sameAs: []
+canonical_biography: "Per Smolensko maištą smolenskiečiai Smolensko vaivados vieton pasisodino Dorohobužo kunigaikštį Andrejų Dimitrijevičių."
 ---
 # Andrejus Dimitrijevičius
 
@@ -66,7 +73,8 @@ Per Smolensko maištą smolenskiečiai Smolensko vaivados vieton pasisodino Doro
 - id: c-176740
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 127."
   citata_originali: |
     Ir tą pačią naktį Andrius su žmona, o su juo
     Smolensko bajorai išvyko iš miesto.

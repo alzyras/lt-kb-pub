@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8df0d56b9d94600bc3bd1c98"
+canonical_name: "Danielius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Danielius"]
+sameAs: []
+canonical_biography: "Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį). Danielius tuojau pasiuntė Vykintą į Livonijos ordiną, siūlydamas jam sąjungą."
 ---
 # Danielius
 
@@ -188,7 +195,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - id: c-169462
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 118."
   citata_originali: |
     Tad, sušaukęs ka-
     L en kai sė k m in g a i už-
@@ -212,7 +220,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - id: c-174042
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
   citata_originali: |
     Tuo tarpu Stegutas tikriausiai žu­
     vo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­
@@ -237,7 +246,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - id: c-174043
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
   citata_originali: |
     Būgas jau tuomet buvo Mazovijos ir rusų
     žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­
@@ -259,7 +269,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - id: c-178928
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 50."
   citata_originali: |
     Tautvilos išpažinties klausė Rygos vyskupas22 ir
     [katedros] klebonas; gailėjosi jo, žinodami, kad jeigu
@@ -283,7 +294,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - id: c-179305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
   citata_originali: |
     Vakarop atvyko pasiuntiniai, vadovaujami tokio Ne-
     biasto, kuris visos jotvingių tautos vardu prašė Danie­
@@ -302,7 +314,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - id: c-179306
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Tarp jų du
     apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir
@@ -320,9 +333,9 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - t-005
 
 - id: c-184325
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 200"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 200."
   citata_originali: |
     Kunigą
     Aleksandrą nusiuntė į Medžiapolę, kursai visus te­
@@ -340,9 +353,9 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - t-006
 
 - id: c-184326
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 200"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 200."
   citata_originali: |
     Vienu žodžiu sa­
     kant, kur vien pasivaidino kunigai, ten visi klausė
@@ -360,9 +373,9 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - t-007
 
 - id: c-184327
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 208"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 208."
   citata_originali: |
     Albertui
     apipasakoti, kursai vėl nusiuntė kunigą juos Dievo

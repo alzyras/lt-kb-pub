@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d06e3a00bbc64762e004a206"
+canonical_name: "Jaroslavas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jaroslavas"]
+sameAs: []
+canonical_biography: "Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai XI a."
 ---
 # Jaroslavas
 
@@ -154,7 +161,8 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 - id: c-21716
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 26."
   citata_originali: |
     Deja, 1009  m.
     šv. Brunono Bonifacijaus misija ir Lietuvos atradimas liko istorijos fra-
@@ -172,7 +180,8 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 - id: c-173765
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
   citata_originali: |
     Tačiau Tidemanas rašo, kad
     jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
@@ -193,7 +202,8 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 - id: c-173766
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 171."
   citata_originali: |
     Ten juos
     pažino Divonis; juos valdė kažkoks Mazovijos slavų ka­
@@ -216,7 +226,8 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 - id: c-179326
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
   citata_originali: |
     Tačiau jis negalėjo įkurti jokių kolonijų
     krašte, esančiame prie Rosės, nes ten gyveno pečenegai
@@ -238,9 +249,9 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
     - t-003
 
 - id: c-184348
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 59"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 59."
   citata_originali: |
     Tuo tarpu radimičiai, apkyrėjus donį bemokėti
     Vladimirui, patrakę, kuriuos vienok jis sudraudęs

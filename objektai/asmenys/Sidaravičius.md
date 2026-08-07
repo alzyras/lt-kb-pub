@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c0b4f5c6a33ed83072822f15"
+canonical_name: "Sidaravičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sidaravičius"]
+sameAs: []
+canonical_biography: "Prie kulkosvaidžio pritvirtintas užrašas: „Kulkosvydis, iš kurio šaudydamas žuvo karužas Sidaravičius."
 ---
 # Sidaravičius
 
@@ -58,7 +65,8 @@ Prie kulkosvaidžio pritvirtintas užrašas: „Kulkosvydis, iš kurio šaudydam
 - id: c-41613
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 189."
   citata_originali: |
     Prie kulkosvaidžio pritvirtintas užrašas:
     „Kulkosvydis, iš kurio šaudydamas

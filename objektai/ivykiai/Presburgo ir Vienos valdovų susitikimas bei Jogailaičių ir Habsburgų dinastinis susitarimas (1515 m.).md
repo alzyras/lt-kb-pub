@@ -104,7 +104,8 @@ Nenurodyta
 - id: c-176174
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 634"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 634."
   citata_originali: |
     Penki tūkstančiai raitijos palydėjo karalius
     ligi miesto, o kiti raiteliai bei pėstininkai liko saugoti
@@ -125,7 +126,8 @@ Nenurodyta
 - id: c-178594
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 632-633"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 632-633."
   citata_originali: |
     Konstantinui laimėjus
     kovą, pradėjo atvirai remti karalių ir netrukus patrau­

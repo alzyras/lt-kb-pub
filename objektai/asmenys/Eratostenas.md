@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-34fcd1dfea7c4158681f8b1c"
+canonical_name: "Eratostenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eratostenas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų."
 ---
 # Eratostenas
 
@@ -80,7 +87,8 @@ Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie
 - id: c-174831
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo

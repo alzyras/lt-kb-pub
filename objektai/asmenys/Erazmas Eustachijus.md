@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8d00c7aef3e311f62dfefc53"
+canonical_name: "Erazmas Eustachijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Erazmas Eustachijus"]
+sameAs: []
+canonical_biography: "Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių Kauno klebonui, jau velioniui Erazmui Eustachijui, ir l3 kapų grašių pragyvenimui pilyje laikomiems 3 rusams, matyt, Livonijos karo belaisviams. Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdovinių Kauno muitininkų, pasitelkę kitą muitininką Ivaną Kuncevičių, skundė Kauno vaitą Jokūbą Šuką ir suolininkus, kad jie nepranešę valdovo komisarams surašė išmaros teise valdovui. Tai liudija 1537 m. Kauno klebono Erazmo Eustachijaus Kauno pilininkui Andriui Lactorui išduotas kvitas apie pinigų gavimą."
 ---
 # Erazmas Eustachijus
 
@@ -74,9 +81,9 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
 ## Citatos
 
 - id: c-185419
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 165"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 165."
   citata_originali: |
     Palygindami nurodysime, kad šiai kaimenei
     buvo sušerti 427 vežimai šieno, o dvaro galvijams tik 15. Tarp kitų seniūno pareiginių
@@ -93,9 +100,9 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
     - t-001
 
 - id: c-185420
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 190"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 190."
   citata_originali: |
     1543 m. Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Sere-
     džiaus palikimo, kurio dalis buvusi užrašyta parapinei bažnyčiai. Remdamasis šia aplin-
@@ -112,9 +119,9 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
     - t-002
 
 - id: c-185421
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 318"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 318."
   citata_originali: |
     Kaip ir anksčiau, pagal valdovų fundacijas Kauno klebonas kasmet iš Kauno
     seniūno gaudavo 4 kapas grašių. Tai liudija 1537 m. Kauno klebono Erazmo Eusta-

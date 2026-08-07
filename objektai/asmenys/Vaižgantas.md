@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-038c7f624f01973082e0ae66"
+canonical_name: "Vaižgantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaižgantas"]
+sameAs: []
+canonical_biography: "Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V."
 ---
 # Vaižgantas
 
@@ -50,7 +57,8 @@ Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Mai
 - id: c-75384
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 168."
   citata_originali: |
     Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
     žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius po-

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c52ac06e4534a694180d6154"
+canonical_name: "Horacijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Horacijus"]
+sameAs: []
+canonical_biography: "Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose vietoje įprasto Horacijaus."
 ---
 # Horacijus
 
@@ -62,7 +69,8 @@ Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į a
 - id: c-25969
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 81."
   citata_originali: |
     Jėzuitiškojo Vilniaus universi-
     teto reiškiniai darė poveikį visai Europai – tai pasakytina apie teologijos,

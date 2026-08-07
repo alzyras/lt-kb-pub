@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0d5abed83202c1e2e9a3f2b1"
+canonical_name: "Šventaragio slėnys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventaragio slėnys"]
+sameAs: []
+canonical_biography: "Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv."
+place_authority: true
+historical_names: []
 ---
 # Šventaragio slėnys
 
@@ -50,7 +59,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 - id: c-93921
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 412."
   citata_originali: |
     97, 101, 106, 148
     Šušvė 127, 332

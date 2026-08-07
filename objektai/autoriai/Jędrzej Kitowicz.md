@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ac90948e3f3b6fff3a45702"
+canonical_name: "Jędrzej Kitowicz"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jędrzej Kitowicz"]
+sameAs: []
+canonical_biography: "Bibliografijoje Jędrzej Kitowicz nurodytas kaip veikalo „Opis obyczajów za panowania Augusta III“ autorius."
 ---
 # Jędrzej Kitowicz
 
@@ -40,7 +47,7 @@ Bibliografijoje Jędrzej Kitowicz nurodytas kaip veikalo „Opis obyczajów za p
 <a id="claim-t-200745"></a>
 - t-001
   teiginys: "Jędrzejus Kitowiczius aprašė gėrimą iš vienos taurės ar stiklinėlės, kai geriama vienas po kito ir nesibjaurima į taurę krintančiais lašais."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -66,6 +73,6 @@ Bibliografijoje Jędrzej Kitowicz nurodytas kaip veikalo „Opis obyczajów za p
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 14."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-001

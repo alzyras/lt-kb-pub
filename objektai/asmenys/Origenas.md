@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c75012b3d15ba547d8728a2c"
+canonical_name: "Origenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Origenas"]
+sameAs: []
+canonical_biography: "Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie amžinas bausmes po mirties ir paslapčių žynius."
 ---
 # Origenas
 

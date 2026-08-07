@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b6ba19af8cb9844ade907a22"
+canonical_name: "Norikas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Norikas"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudegino Juvavą prie Saurus upės. Narbuto pasakojime 486 m. Norike likusius sąjungininkus engė rugių karalius Febanas. Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją."
+place_authority: true
+historical_names: []
 ---
 # Norikas
 
@@ -140,7 +149,8 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
 - id: c-175597
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 318."
   citata_originali: |
     Nors šio valdovo valdžia buvo skirta vidinei tvarkai
     Italijoje įvesti ir išorinei taikai išsaugoti, tačiau ne kar­
@@ -166,7 +176,8 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
 - id: c-175598
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319."
   citata_originali: |
     Norike likusius jo sąjungininkus per­
     nelyg engė rugių karalius Febanas. Jis, engiamųjų pa­
@@ -184,7 +195,8 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
 - id: c-175599
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319."
   citata_originali: |
     Nuolatiniai skundai ir ap­
     maudas lėmė žygį Odoakro brolio Onulfo, kuris, vado­

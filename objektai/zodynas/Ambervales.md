@@ -54,7 +54,8 @@ Narbutas Ambervales apibūdina kaip romėnų laukų apvalymo arba pašventinimo 
 - id: c-172161
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 347."
   citata_originali: |
     Bet kol stabmeldystė tebebuvo
     savo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo

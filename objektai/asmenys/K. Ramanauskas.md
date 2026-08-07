@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-19143997dfe234ca6df903e1"
+canonical_name: "K. Ramanauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["K. Ramanauskas"]
+sameAs: []
+canonical_biography: "Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link, mjr."
 ---
 # K. Ramanauskas
 
@@ -53,7 +60,8 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
 - id: c-44401
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 202."
   citata_originali: |
     grupė (8-asis pulkas, 2-ojo pulko batalionas
     ir 6-ojo pulko batalionas, 9-oji baterija ir

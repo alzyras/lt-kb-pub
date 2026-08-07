@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1feedff9221d9a35cf803a4e"
+canonical_name: "Teodoras Karijotaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teodoras Karijotaitis"]
+sameAs: []
+canonical_biography: "Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patraukė prieš Vytautą ir susidūrė su juo prie Braclavo. Teodoras Karijotaitis, Vytauto smarkiai persekiojamas, po karių pabėgimo vargais negalais paspruko į Kamenecą. Kunigaikštis Teodoras Karijotaitis su šeima buvo išgabentas į Vilnių, kai pilis perduota ir Podolė vėl prijungta prie Lietuvos."
 ---
 # Teodoras Karijotaitis
 
@@ -206,7 +213,8 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
 - id: c-169344
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 343."
   citata_originali: |
     Tegu iš
     svetimųjų nelaimių mokosi išminties tie, kurie savo
@@ -231,7 +239,8 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
 - id: c-169345
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 343."
   citata_originali: |
     Kariams pasileidus bėgti, Teodoras, Vytauto
     smarkiai persekiojamas, vargais negalais paspruko į
@@ -249,7 +258,8 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
 - id: c-169346
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 344."
   citata_originali: |
     Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
     pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
@@ -279,7 +289,8 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
 - id: c-176617
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 72."
   citata_originali: |
     Ketvirtas jų brolis, kunigaikštis Teodoras Karijo-
     taitis, Lietuvoje valdė Naugarduką. Kunigaikštis Teodo­
@@ -297,7 +308,8 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
 - id: c-178790
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 228-229"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 228-229."
   citata_originali: |
     Neilgai
     trukus po to sugrįžęs į Podolę, jis čia ir mirė. Kai mirė

@@ -64,7 +64,8 @@ Nenurodyta
 - id: c-67208
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 168."
   citata_originali: |
     Ypač
     skirtingai ji ėmė plėtotis Lietuvoj, kai nuo XIV amžiaus pa-

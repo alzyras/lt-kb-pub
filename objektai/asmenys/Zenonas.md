@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-08b5b24b723d5fee8ca42962"
+canonical_name: "Zenonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zenonas"]
+sameAs: []
+canonical_biography: "Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet neįstengė."
 ---
 # Zenonas
 
@@ -124,7 +131,8 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 153."
   citata_originali: |
     Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­
     diną, kurio magistru buvo išrinktas jam palankus Povilas
@@ -146,7 +154,8 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
 - id: c-173883
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
   citata_originali: |
     Rytų imperatorius, silpstant jo galiai, blaškėsi pavy­
     dėdamas, sudarinėjo su Odoakru sutartis ir vėl pažeidi­

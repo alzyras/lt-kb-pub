@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-238fa10980a8553689aced61"
+canonical_name: "Girolamo Lippomano"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Girolamo Lippomano"]
+sameAs: []
+canonical_biography: "Žinoma, šie, bent jau žuvusių skaičiai, yra gerokai pamažinti, tačiau galima LAUKO STOVYKLA Ištrauka iš Venecijos pasiuntinio Girolamo Lippomano (1575 m.) Lenkijos ir Lietuvos kariuomenių stovyklos aprašymo."
 ---
 # Girolamo Lippomano
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-44607
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 91."
   citata_originali: |
     Tik viename pranešime apie
     mūšį su nuostaba rašoma: „Visų keisčiau-

@@ -51,7 +51,8 @@ media_all_json: |-
 - id: c-33773
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 306"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 306."
   citata_originali: |
     — Jablonskis, K. : Die offizielle Urkundensprache
     des litauischen Grossfürstentums als kulturgeschichtliche Quelle , CPHB,

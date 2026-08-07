@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a7a9cb83964b90013f786ca3"
+canonical_name: "Tulčinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tulčinas"]
+sameAs: []
+canonical_biography: "Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine, Branickis Balstogėje."
+place_authority: true
+historical_names: []
 ---
 # Tulčinas
 
@@ -51,7 +60,8 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 - id: c-03037
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 408"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 408."
   citata_originali: |
     Čia buvo kuriami visi poli-
     tiniai planai, iš čia ėjo derybos su užsieniu, čia lankydavosi arba

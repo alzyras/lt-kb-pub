@@ -50,7 +50,8 @@ Vikingai naudojo visas didžiąsias upes rytų Pabaltijo, kuris kartą yra pavad
 - id: c-33710
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 121."
   citata_originali: |
     Šalia žinomojo Nevos-Ladogos-Volchovo-Ilmenio-Lovatės-
     Dniepro kelio, pradžioje (VIII amž.) svarbų vaidmenį buvo įgijusi

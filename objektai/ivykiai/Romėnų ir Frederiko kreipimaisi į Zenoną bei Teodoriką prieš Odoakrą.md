@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-173955
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 319-320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319-320."
   citata_originali: |
     Visa tai lėmė,
     jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis

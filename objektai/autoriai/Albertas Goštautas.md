@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0b232bd450309da865b6778c"
+canonical_name: "Albertas Goštautas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Albertas Goštautas"]
+sameAs: []
+canonical_biography: "A. Goštauto memoriale aprašoma jo veikla M. Glinskio maišto 1508 m. laikotarpiu ir XVI a. pirmojo ketvirčio politiniai įvykiai."
 ---
 # Albertas Goštautas
 
@@ -65,7 +72,8 @@ A. Goštauto memoriale aprašoma jo veikla M. Glinskio maišto 1508 m. laikotarp
 - id: c-176760
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 33."
   citata_originali: |
     O Bychovco kronikoje iš
     to paties šaltinio įterpti Mindaugo ir jo sūnaus Vaiš­

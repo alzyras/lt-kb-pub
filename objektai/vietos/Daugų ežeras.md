@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5579c5380a921391c2c7c285"
+canonical_name: "Daugų ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Daugų ežeras"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Daugų ežeras Trakų apskrityje garsėjo daugeliu padavimų apie šventais laikytus ežerus."
+place_authority: true
+historical_names: []
 ---
 # Daugų ežeras
 
@@ -55,7 +64,8 @@ Narbutas rašo, kad Daugų ežeras Trakų apskrityje garsėjo daugeliu padavimų
 - id: c-171874
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 231."
   citata_originali: |
     4. Trakų apskrityje šventumas buvo pripažįstamas ne vie­
     nam ežerui. Ypač Daugų ežeras, vienas iš giliausių Lietuvoje

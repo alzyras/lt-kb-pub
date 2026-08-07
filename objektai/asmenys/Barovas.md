@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e280a5a0eca583137c5b05a"
+canonical_name: "Barovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Barovas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad keliautojas Barovas, lydėjęs anglų pasiuntinį Makartnį, Marko Polo žinias apie Kiniją siejo su jėzuitų aprašymais."
 ---
 # Barovas
 
@@ -53,7 +60,8 @@ Narbutas rašo, kad keliautojas Barovas, lydėjęs anglų pasiuntinį Makartnį,
 - id: c-174256
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Spėjama, kad šališkas jo aiškin­
     tojas Strabonas daug ką jam priskyrė svetimo. Dažnai

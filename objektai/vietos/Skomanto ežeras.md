@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d9a4cf28d9bf26e549c95b1"
+canonical_name: "Skomanto ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Skomanto ežeras"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad zioka Skomackas Skomantai Skomanto ež."
+place_authority: true
+historical_names: []
 ---
 # Skomanto ežeras
 
@@ -51,7 +60,8 @@ Dusburgietis teigia, kad zioka Skomackas Skomantai Skomanto ež.
 - id: c-59358
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
   citata_originali: |
     Skokiai žr. Zioka
     Skomackas

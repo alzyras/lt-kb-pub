@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f0ae49c3c532ac521cfe6ca2"
+canonical_name: "Henrikas (Vroclavo kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas (Vroclavo kunigaikštis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­ lio, ir Henriko, Vroclavo kunigaikščio, žūtį Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė į Vengriją ir Lenkiją, kur mūšyje nukovė Kolomaną, Vengrijos."
 ---
 # Henrikas (Vroclavo kunigaikštis)
 
@@ -87,7 +94,8 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
 - id: c-60763
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
                                   lio, ir Henriko, Vroclavo kunigaikščio, žūtį

@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-83263
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 197."
   citata_originali: |
     Spaustuvės lėšas sudaro pajamos, gautos už parduotas
     joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ea48035af34df7247b3e0c76"
+canonical_name: "Albinas (Vilniaus sufraganas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albinas (Vilniaus sufraganas)"]
+sameAs: []
+canonical_biography: "Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuitams."
 ---
 # Albinas (Vilniaus sufraganas)
 
@@ -50,7 +57,8 @@ Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuit
 - id: c-83590
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 301."
   citata_originali: |
     Dar nupirko du sklypus
     priešais savo rūmus ir patvirtino nemažas fundacijas toles­

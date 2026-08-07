@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-69d66d2cc9ecc0a08554bd8d"
+canonical_name: "Jonas Potockis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jonas Potockis"]
+sameAs: []
+canonical_biography: "Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Potockio ir Suroveckio raštais. Narbutas turėjo omenyje Jono Potockio 1797 m. kelionės į Astrachanę aprašymą, publikuotą „Dziennik Wilenski“ 1828 m. Grafas Jonas Potockis tokį garbinimą pastebėjo pas kalmukus, o Narbutas jį laikė ne tokiu ryškiu kaip senovės lietuvių papročiuose."
 ---
 # Jonas Potockis
 
@@ -106,15 +113,22 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
 <a id="claim-t-190735"></a>
 - t-004
   teiginys: "Narbutas turėjo omenyje straipsnį „Podrož Hrabiego Jana Potockiego do Astrachanu i okolic przyleglych, w roku 1797“, paskelbtą „Dziennik Wilenski“."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Astrachanas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Potockis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Astrachanas: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Potockis\" parinktas kaip owner_note_path. Targetas \"Astrachanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173616
+    - c-173617
 
 ## Reikšmingi paminėjimai
 - c-005
@@ -144,7 +158,8 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
 - id: c-173209
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 250."
   citata_originali: |
     Apie tai byloja ir pats žibintas -
     aiškus šviesos atributas**.
@@ -163,7 +178,8 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
 - id: c-173211
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 483"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 483."
   citata_originali: |
     Šį kartą istorikas turėjo omenyje straipsnį: Podrož
     Hrabiego Jana Potockiego do Astrachanu i okolic
@@ -180,7 +196,8 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
 - id: c-173616
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
   citata_originali: |
     Grafas Jonas Potockis tokį garbinimą
     pastebėjo ir pas kalmukus (jie turėtų būti mongolų palikuonys),
@@ -199,12 +216,12 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
 
 - id: c-173617
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
   citata_originali: |
     Sį kartą istorikas turėjo omenyje
     straipsnį: Podrož Hrabiego Jana Potockiego do Astrachanu i okolic
@@ -213,7 +230,8 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   citata_rodoma: "Sį kartą istorikas turėjo omenyje\nstraipsnį: Podrož Hrabiego Jana Potockiego do Astrachanu i okolic\nprzyleglych, w roku 1797 //Dziennik Wilenski. 1828. T. V. S. 222—\n240; 284—304."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

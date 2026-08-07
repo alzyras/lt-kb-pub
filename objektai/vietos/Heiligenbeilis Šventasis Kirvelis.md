@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ad2d271c2e513f7e8109a8a1"
+canonical_name: "Heiligenbeilis Šventasis Kirvelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Heiligenbeilis Šventasis Kirvelis"]
+sameAs: []
+canonical_biography: "Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prūsuose vieta, kur degė nuolat kurstoma ugnis. Narbutas rašo, kad Šventamiestyje, vėlesniame Heiligenbeilyje, augo žiemą ir vasarą žalias nepaprasto storumo ąžuolas. Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas."
+place_authority: true
+historical_names: []
 ---
 # Heiligenbeilis Šventasis Kirvelis
 
@@ -73,22 +82,31 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
 <a id="claim-t-188920"></a>
 - t-003
   teiginys: "Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Heiligenbeilis: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Šventasis ąžuolas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Heiligenbeilis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad šventasis ąžuolas augo šventyklos aptvare Heiligenbeilyje."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Šventasis ąžuolas priklausė Heiligenbeilis (0.82)"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171808
+    - c-171809
 
 ## Citatos
 
 - id: c-171807
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 224."
   citata_originali: |
     Skaityk straipsnius „Vaidilutės“,
     „Birutė“.
@@ -107,7 +125,8 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
 - id: c-171808
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
   citata_originali: |
     Vis dėlto galimas
     daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
@@ -127,12 +146,12 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
 
 - id: c-171809
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 268."
   citata_originali: |
     Įėjimas -  tai priekiniai vartai, į dešinę
     nuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,
@@ -144,7 +163,8 @@ Narbutas Šventamiestį, vėlesnį Heiligenbeilį, vadina Kurko šventovės Prū
   citata_rodoma: "Įėjimas -  tai priekiniai vartai, į dešinę\nnuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,\narba svečių namas (šios šventyklos ir viso miesto piešinį žiū­\nrėk VII lentelėje).\nKita šventykla buvo Heiligenbeilyje, paskirta dievui Kur­\nklį i, kurios aptvare taip pat augo šventasis ąžuolas. Kroniki-\n7141-asis puslapis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

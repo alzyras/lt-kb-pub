@@ -81,16 +81,22 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 <a id="claim-t-188174"></a>
 - t-003
   teiginys: "Narbutas aiškino, kad egiptiečiai prie iš chaldėjų perimto dangaus kūnų garbinimo pridėjo nemirtingais laikytų asmenų dievinimą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Chaldėjai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Egiptiečiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Chaldėjai: mention_match, group, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Egiptiečiai\" parinktas kaip owner_note_path. Targetas \"Chaldėjai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171072
-    - c-176963
+    - c-171068
 
 <a id="claim-t-188175"></a>
 - t-004
@@ -211,7 +217,8 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 - id: c-10063
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 43"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 43."
   citata_originali: |
     Lietuvos tauta, gyvendama pietinėj įšleitėj tarp upių Isterio, arba Dunojaus, Tyrulės ir Niperio
         visu šiaurės Uksiniu pamariu, noris įvairiais vardais vadinama, vienok buvo didžiai garsi gilioj
@@ -229,7 +236,8 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 - id: c-171067
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
   citata_originali: |
     Tokia pat dvasia gyveno dau­
     gybė senųjų Azijos tautų.
@@ -256,7 +264,8 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 - id: c-171068
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
   citata_originali: |
     Egiptiečiai, giliai nugrimz­
     dę į gamtos pažinimą, arba į pasaulio fizinį kintamumą, prie
@@ -274,14 +283,17 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   citata_rodoma: "Egiptiečiai, giliai nugrimz­\ndę į gamtos pažinimą, arba į pasaulio fizinį kintamumą, prie\ndangaus kūnų garbinimo, tuoj pat perimto iš chaldėjų, pridė­\njo asmenų, laikytų nemirtingais, dievinimą. Pagaliau dėl dau-\nAntilucretius. - L. 9. - V. 897.\n83\n\n## Puslapis 83\n\ngybės savo žynių smulkmeniškiausių svarstymų jie ėmė laikyti\ndievybėmis menkiausius daiktus -  net taip, kad tie išminčiai\nįsakė vargšams žmonėms keliaklupsčiauti prieš žvėris, paukš­\nčius, šliužus, augalus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-171069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 107."
   citata_originali: |
     Čia tik pažymėsime, kad visose tautose, kuriose žinomas Plu­
     tonas, jis apvesdinamas su pagrobtos į pragarą deivės dukteri­
@@ -299,7 +311,8 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 - id: c-171070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 113."
   citata_originali: |
     Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
     susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
@@ -319,7 +332,8 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 - id: c-171072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
   citata_originali: |
     Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
@@ -335,13 +349,13 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-006
 
 - id: c-171073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 264."
   citata_originali: |
     Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
     to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
@@ -368,7 +382,8 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 - id: c-176963
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -381,5 +396,4 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-008

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92aee0747f27c1ccf429580a"
+canonical_name: "Jonas Jablonskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Jablonskis"]
+sameAs: []
+canonical_biography: "Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika."
 ---
 # Jonas Jablonskis
 
@@ -63,7 +70,8 @@ Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavi
 - id: c-26673
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 126-127"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 126-127."
   citata_originali: |
     Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
     1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad

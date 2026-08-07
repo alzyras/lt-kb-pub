@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47b2f5832a289b53f3359822"
+canonical_name: "W. Caland"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["W. Caland"]
+sameAs: []
+canonical_biography: "Caland, W."
 ---
 # W. Caland
 
@@ -53,7 +60,8 @@ Caland, W.
 - id: c-33190
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 153."
   citata_originali: |
     — (”) _Die
     Slaven,_ Religionsgeschichtliches Lesebuch, III, Tübingen 1926 (vokiškai

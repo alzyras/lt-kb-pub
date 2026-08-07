@@ -61,9 +61,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184698
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 271"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 271."
   citata_originali: |
     Tą išgirdęs, mistras Volkvinas, pa­
     likęs Eželio saloj kuresarus, turėjo grįžti apent į

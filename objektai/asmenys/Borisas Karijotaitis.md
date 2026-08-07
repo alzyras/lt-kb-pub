@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c04b15d13ef8bf15ae1ff2d4"
+canonical_name: "Borisas Karijotaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Borisas Karijotaitis"]
+sameAs: []
+canonical_biography: "Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas ir Konstantinas."
 ---
 # Borisas Karijotaitis
 
@@ -71,7 +78,8 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 - id: c-28897
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 290."
   citata_originali: |
     Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai,
     Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas
@@ -90,7 +98,8 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 - id: c-167741
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 290."
   citata_originali: |
     Lenkija jam atrodė taip pat naudingas sąjun­
     gininkas prieš kryžiuočius.

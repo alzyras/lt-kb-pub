@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-588ff96aef99bf02e4474227"
+canonical_name: "Dobrogostas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dobrogostas"]
+sameAs: []
+canonical_biography: "Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­ pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos kunigaikščio Algirdo. Dobrogostą įgaliojo sutvarkyti bažnyti­ nius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją pavedant ją Gniezno arkivyskupo valdžiai^1 )."
 ---
 # Dobrogostas
 
@@ -130,7 +137,8 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 - id: c-78741
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127."
   citata_originali: |
     O keturi naujai įvesti prelatų ir aštuoni kanauninkų
     titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­
@@ -157,7 +165,8 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 - id: c-78742
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 133."
   citata_originali: |
     Ne­
     paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­
@@ -182,7 +191,8 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 119."
   citata_originali: |
     8). Joje popiežius Urbonas VI išgyrė apsikrikštiju­
     sius lietuvius, o vysk. Dobrogostą įgaliojo sutvarkyti bažnyti­
@@ -203,7 +213,8 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 119."
   citata_originali: |
     Tuo reikalu pas popiežių buvo
     siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­

@@ -111,7 +111,8 @@ Nenurodyta
 - id: c-63718
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais
 

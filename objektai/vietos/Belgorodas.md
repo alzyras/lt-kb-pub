@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-021867aa4f3dcb5d481c5e61"
+canonical_name: "Belgorodas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Belgorodas"]
+sameAs: []
+canonical_biography: "Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui."
+place_authority: true
+historical_names: []
 ---
 # Belgorodas
 
@@ -77,7 +86,8 @@ Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė
 - id: c-168640
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Visi luo­
     mai, išėję iš miesto, sveikino

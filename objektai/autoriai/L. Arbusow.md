@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-66cb8f0015610d93262de5aa"
+canonical_name: "L. Arbusow"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["L. Arbusow"]
+sameAs: []
+canonical_biography: "Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos); Th."
 ---
 # L. Arbusow
 
@@ -62,7 +69,8 @@ Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos);
 - id: c-30664
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 236."
   citata_originali: |
     (^8) **SRP, I, 155 p.**
     (^9) **L. Arbusow :** **_Römischer Arbeitsbericht_** **(Acta Universitatis Latviensis)

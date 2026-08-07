@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d40e7c47673ad420df7916ab"
+canonical_name: "Mikalojus Maskoževskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Maskoževskis"]
+sameAs: []
+canonical_biography: "Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­ niūnas“, kaip jį vadina Dlugošas; juo buvo Mikalojus Masko­ ževskis, pasiųstas į Lietuvą 1389 m. ir savo pareigas ėjęs vienus metus."
 ---
 # Mikalojus Maskoževskis
 
@@ -63,7 +70,8 @@ Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­ niūnas“, k
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 169."
   citata_originali: |
     Kaip žinoma, net jo nuosavioj srity, ro­
     dos, buvo pilių su Jogailos lenkų įgulomis, gynusiomis tas pilis.

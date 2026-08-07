@@ -57,7 +57,8 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
 - id: c-34134
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 322."
   citata_originali: |
     Atsigabenęs iš žygio daug
     totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos

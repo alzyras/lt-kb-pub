@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9fd4e37d6dc1c89fe9ac7092"
+canonical_name: "Vilniaus katedros bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus katedros bažnyčia"]
+sameAs: []
+canonical_biography: "Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo. O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus katedros bažnyčia
 
@@ -66,7 +75,8 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
 - id: c-82093
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 397."
   citata_originali: |
     Savo ir minėto miesto vardu [ta­
     rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos
@@ -105,7 +115,8 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
 - id: c-82094
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 395."
   citata_originali: |
     Šiuo raštu skelbiame visiems, kam da­
     bar ar ateityje kokiu nors būdu derės tai žinoti. Kad mus

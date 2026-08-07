@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a2a370e5ec2ecc9b927b9cf"
+canonical_name: "Schmalstieg W. R"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Schmalstieg W. R"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad schmalstieg W."
 ---
 # Schmalstieg W. R
 
@@ -53,7 +60,8 @@ Dusburgietis teigia, kad schmalstieg W.
 - id: c-61417
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     9, S. 8—11.
     Schmalstieg W. R. An Old Prussian Grammar: The Phonology and Morphology of the

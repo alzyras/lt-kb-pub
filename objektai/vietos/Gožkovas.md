@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f74bdf2df47c855a41e699d6"
+canonical_name: "Gožkovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gožkovas"]
+sameAs: []
+canonical_biography: "Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus iš Gožkovo, nuo Akademijos perkėlimo į Kroku­ vą Kazimiero laikais, buvo trečiasis jos rektorius ir taip pat trečiasis nuo Vilniaus katedros įsteigimo Lietuvos vvskupas\"."
+place_authority: true
+historical_names: []
 ---
 # Gožkovas
 
@@ -50,7 +59,8 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
 - id: c-82166
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 207-208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 207-208."
   citata_originali: |
     Kojelavičius ir Nar a movs-
     k i s klysta tą vyskupą Mikalojų va­

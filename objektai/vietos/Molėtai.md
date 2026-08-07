@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-933b5be300d22f1ddaf9cc16"
+canonical_name: "Molėtai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Molėtai"]
+sameAs: []
+canonical_biography: "I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno."
+place_authority: true
+historical_names: []
 ---
 # Molėtai
 
@@ -52,7 +61,8 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
 - id: c-82004
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127-128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127-128."
   citata_originali: |
     X, p. 112.
     I1l

@@ -93,7 +93,8 @@ Nenurodyta
 - id: c-83012
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 152-153"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 152-153."
   citata_originali: |
     Pastarasis, turėda-
     51
@@ -151,7 +152,8 @@ Nenurodyta
 - id: c-83013
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 152."
   citata_originali: |
     Visa tai vyko žiemos pabaigo­
     je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c52276d4693cc4e986319153"
+canonical_name: "Tartarija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tartarija"]
+sameAs: []
+canonical_biography: "Narbutas perpasakoja legendinę kelionę, kurioje keliautojai perėjo plačius Tartarijos kraštus ir per Roksolaniją pateko į Livoniją."
+place_authority: true
+historical_names: []
 ---
 # Tartarija
 
@@ -54,7 +63,8 @@ Narbutas perpasakoja legendinę kelionę, kurioje keliautojai perėjo plačius T
 - id: c-175672
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
   citata_originali: |
     Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
     gyventi žmonės septintojo dangaus- rato pabaigoje, — čia

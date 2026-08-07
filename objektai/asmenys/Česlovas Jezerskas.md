@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2fb1c5d1f6b79bfb2ed11c51"
+canonical_name: "Česlovas Jezerskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Česlovas Jezerskas"]
+sameAs: []
+canonical_biography: "Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas TELEVIZIJOS LAIDA oa AT Profsąjungų tarybų rūmų (dabar - 111 Seimo rūmai) apsaugos grupės vadas, vėliau SKAT štabo. p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM."
 ---
 # Česlovas Jezerskas
 
@@ -80,7 +87,8 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
 - id: c-42359
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 
@@ -96,7 +104,8 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
 - id: c-76306
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 256."
   citata_originali: |
     sausio įvykių ir rugpjūčio pučo metu
 

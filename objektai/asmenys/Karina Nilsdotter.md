@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2c4926fcf85568cf4772c2b4"
+canonical_name: "Karina Nilsdotter"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karina Nilsdotter"]
+sameAs: []
+canonical_biography: "ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllenhielm, 1574-1650 m.) Švedijos karaliaus Karolio 1x ir Karinos Nilsdotter nesantuokinis sūnus."
 ---
 # Karina Nilsdotter
 
@@ -62,7 +69,8 @@ ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllen
 - id: c-44407
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 99."
   citata_originali: |
     £ sae.
     ee Kuoknesės pilis

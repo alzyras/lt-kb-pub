@@ -57,7 +57,8 @@ LieP = Lietuvos Pilys, red. J.
 - id: c-33624
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 18."
   citata_originali: |
     LePS = Lewicki A. : Powstanie Świdrygicłly (atsp. iš RAU, Serie 2,
     t. 4). Krokuva 1892.

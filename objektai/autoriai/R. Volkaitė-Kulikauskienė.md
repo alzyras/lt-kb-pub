@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-781608034ef6aa398f0dc59f"
+canonical_name: "R. Volkaitė-Kulikauskienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["R. Volkaitė-Kulikauskienė"]
+sameAs: []
+canonical_biography: "Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasinės visuomenės susidarymas Lietuvoje {Remiantis archeologinių kasinėjimų duomenimis ) (VUMD, t. R. Volkaitė-Kulikauskienė tyrinėjo ankstyvojo feodalizmo laikotarpio kovos kirvius (AkMD, t. Kulikauskienė (Volkaitė), R."
 ---
 # R. Volkaitė-Kulikauskienė
 
@@ -80,7 +87,8 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
 - id: c-91702
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 83."
   citata_originali: |
     (^76) ĮVADAS
     pins^95. R. Volkaitė - Kulikauskienė, parašiusi _Lietuviai
@@ -102,7 +110,8 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
 - id: c-91703
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 119."
   citata_originali: |
     2, 1972, 143-160 p. — Kulikauskienė
         (Volkaitė), R. : _Lietuvos archeologiniai paminklai ir jų tyrinėjimai,_

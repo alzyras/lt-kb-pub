@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2fa3ad69652b22e7e2581cb6"
+canonical_name: "Engelbertas I"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Engelbertas I"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene."
 ---
 # Engelbertas I
 
@@ -78,7 +85,8 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
 - id: c-60742
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
     kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
@@ -106,7 +114,8 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
 - id: c-167445
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Todėl jie nuolankiai ir gailiai kėlė
     akis į dangų, su ašaromis šaukdamiesi viešpaties pagalbos, ir viešpats jų išklausė.

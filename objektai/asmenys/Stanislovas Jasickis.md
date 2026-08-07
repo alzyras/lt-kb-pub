@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-752b1bdb114a710d2598ff6f"
+canonical_name: "Stanislovas Jasickis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Jasickis"]
+sameAs: []
+canonical_biography: "Stanislovas Jasickis, vaistininkas, kuriam pabo­ do mokėti po 140 auksinų, už 5 000 lenk."
 ---
 # Stanislovas Jasickis
 
@@ -57,7 +64,8 @@ Stanislovas Jasickis, vaistininkas, kuriam pabo­ do mokėti po 140 auksinų, u�
 - id: c-83837
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 198."
   citata_originali: |
     Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti­
     nei atidavė, taip pat onus [mokesčius] pavedė vaistininkui

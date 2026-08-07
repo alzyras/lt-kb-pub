@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d6c3298a0a950956216838ee"
+canonical_name: "Vincentas Kadlubekas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vincentas Kadlubekas"]
+sameAs: []
+canonical_biography: "Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyniškuoju variantu ir vertimu į lenkų kalbą. Teodoro Narbuto cituotas Vincentas Kadlubekas aprašė Maslavo karą su Lenkijos karaliumi Kazimieru, kurio kariuomenėje kovojo jotvingiai, mozūrai ir prūsai. Išnašoje teigiama, kad Teodoras Narbutas tikriausiai naudojo lotynišką Vincento Kadlubeko kronikos variantą ir jos vertimą į lenkų kalbą."
 ---
 # Vincentas Kadlubekas
 
@@ -101,7 +108,8 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
 - id: c-173227
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 508"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 508."
   citata_originali: |
     P. 387* - T. Narbutas tikriausiai naudojo tiek lotyniškąjį len­
     kų vyskupo Vincento Kadlubeko (apie 1150-1223)
@@ -120,7 +128,8 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
 - id: c-173699
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 115."
   citata_originali: |
     Lais­
     vų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­
@@ -143,7 +152,8 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
 - id: c-173700
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 506"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 506."
   citata_originali: |
     172 /P.
     312,

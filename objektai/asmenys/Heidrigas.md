@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88cb5f6189c063f3aaedc760"
+canonical_name: "Heidrigas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Heidrigas"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gavo Vindliandiją, arba Vitlandą; įvykiai siejami su III a."
 ---
 # Heidrigas
 
@@ -54,7 +61,8 @@ Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gav
 - id: c-174291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
   citata_originali: |
     Norvegas Heidrigas
     vedė šią reto grožio moterį ir gavo 'kraičio Vindliandiją,

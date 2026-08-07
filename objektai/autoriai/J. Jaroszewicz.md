@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-23493a937fb3e6fb33f6aada"
+canonical_name: "J. Jaroszewicz"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Jaroszewicz"]
+sameAs: []
+canonical_biography: "Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;."
 ---
 # J. Jaroszewicz
 
@@ -76,7 +83,8 @@ Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
 - id: c-32967
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 146."
   citata_originali: |
     —Ivinskis,
     Z. : _Geschichte des Bauernstandes in Litauen_ , Historische Studien, Heft
@@ -100,7 +108,8 @@ Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
 - id: c-32968
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 142."
   citata_originali: |
     Ankštiniai
     augalai (žirniai, pupos, vikiai) yra žymiai vėlybesni, ir jų kultūros

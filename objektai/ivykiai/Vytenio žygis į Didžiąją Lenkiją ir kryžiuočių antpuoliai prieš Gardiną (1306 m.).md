@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-168876
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 182."
   citata_originali: |
     Magistras Konradas, gavęs ži­
     nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy­
@@ -111,7 +112,8 @@ Nenurodyta
 - id: c-178610
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 182."
   citata_originali: |
     Tad nebesitikė­
     dami galėsią apgulti pilį, nes to pradėti neleido audra,

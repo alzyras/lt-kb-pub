@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e58bf1f6ffc6d100c6d200f0"
+canonical_name: "Raudonasis tvenkinys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Raudonasis tvenkinys"]
+sameAs: []
+canonical_biography: "Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl sankasos, kirtusios Lanės upę ir jos slėnį. Raudonasis tvenkinys buvo Lanės upės praplatėjimas ties Klecku, į vakarus nuo miestelio. Paskui Lietuvos kariuomenė pasidarė abipus Raudonojo tvenkinio užtvankos du perėjimus per upę."
+place_authority: true
+historical_names: []
 ---
 # Raudonasis tvenkinys
 
@@ -96,7 +105,8 @@ Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl s
 - id: c-170343
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
   citata_originali: |
     Paskui Lietuvos kariuomenė
     pasidarė abipus Raudonojo tvenkinio užtvankos du

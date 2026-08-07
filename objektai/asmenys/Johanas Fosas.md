@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-de3fca8867338ccc2a63fc46"
+canonical_name: "Johanas Fosas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Johanas Fosas"]
+sameAs: []
+canonical_biography: "Johanas Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis. Pasak Narbuto, Johanas Fosas neigė Pitėjo lankymąsi Baltijos jūroje ir Austraviją tapatino su fryzų sala Amelandu. Johanas Fosas keliavęs du kartus: pirmą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
 ---
 # Johanas Fosas
 
@@ -103,7 +110,8 @@ Johanas Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės ž
 - id: c-174163
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Graikai, ypač
     masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
@@ -128,7 +136,8 @@ Johanas Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės ž
 - id: c-174164
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Kiek čia nepatikimumo!2
     Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­

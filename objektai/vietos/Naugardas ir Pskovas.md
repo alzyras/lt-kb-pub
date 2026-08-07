@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e78d45cca29e8326a46adebf"
+canonical_name: "Naugardas ir Pskovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naugardas ir Pskovas"]
+sameAs: []
+canonical_biography: "Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­ mo, kad aplankytumėte Naugardą, Pskovą; visa tai jums leidome dėl busimosios naudos."
+place_authority: true
+historical_names: []
 ---
 # Naugardas ir Pskovas
 
@@ -51,7 +60,8 @@ Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­ mo, kad aplanky
 - id: c-82283
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 73-74"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 73-74."
   citata_originali: |
     Kadangi visos karalystės, iš kurių vieną mes valdome,
     yra pavaldžios dangaus karaliui Jėzui Kristui tokiu būdu,

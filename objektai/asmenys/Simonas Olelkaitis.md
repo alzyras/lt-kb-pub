@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9a1f9d7bc71373d17bff6dca"
+canonical_name: "Simonas Olelkaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Simonas Olelkaitis"]
+sameAs: []
+canonical_biography: "Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkaitį Lietuvos vietininku. Dalis Lietuvos didikų atvirai siūlė Simoną Olelkaitį valdovu."
 ---
 # Simonas Olelkaitis
 
@@ -139,7 +146,8 @@ Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkai
 - id: c-169437
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 509"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 509."
   citata_originali: |
     Kas be ko, jie visi neišpasakytai trokštą, kad
     karalius asmeniškai juos valdytų, tačiau jie to nesitiki,
@@ -171,7 +179,8 @@ Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkai
 - id: c-169438
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 538-539"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 538-539."
   citata_originali: |
     Nė vienas nesiūlė atidėti šio
     reikalo bendram su lenkais seimui, o kad dėl to nebūtų

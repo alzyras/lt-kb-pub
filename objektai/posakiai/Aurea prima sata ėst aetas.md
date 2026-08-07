@@ -53,7 +53,8 @@ Narbutas posakį „aurea prima sata ėst aetas“ pateikia kaip senovės filoso
 - id: c-172461
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 81."
   citata_originali: |
     Tačiau tiesa visuomet išliko atmintyje. Senovės isto­
     rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai,

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b24fa7904b8477a092635168"
+canonical_name: "Andrius iš Vasilevo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius iš Vasilevo"]
+sameAs: []
+canonical_biography: "Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­ no, lenkas, Aro ženklo herbo, pirmasis Vilniaus vyskupas, iškeltas į tas pareigas 1387 m., mirė 1399 m."
 ---
 # Andrius iš Vasilevo
 
@@ -62,7 +69,8 @@ Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­ no, lenkas, Aro 
 - id: c-83602
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 206."
   citata_originali: |
     Kitas žinomas platus istorinis veikalas, taip
     pat jėzuito Naramovskio3.

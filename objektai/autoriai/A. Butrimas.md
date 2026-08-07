@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7d35e6d452c790b1ec9f9a80"
+canonical_name: "A. Butrimas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Butrimas"]
+sameAs: []
+canonical_biography: "Butrimas ir kiti."
 ---
 # A. Butrimas
 
@@ -61,7 +68,8 @@ Butrimas ir kiti.
 - id: c-22106
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Chicago, 2010; Lietuva
     1009–2009. Sud. A. Butrimas ir kiti. Vilnius, 2009; Lietuva žemėlapiuose.

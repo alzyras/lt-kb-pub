@@ -56,7 +56,8 @@ media_all_json: |-
 - id: c-94042
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 379."
   citata_originali: |
     Witold und Polen in den Jahren 1427-1430_** **, AM, t. 30,
     1893.**
@@ -72,9 +73,9 @@ media_all_json: |-
     - t-001
 
 - id: c-184300
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 5"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 5."
   citata_originali: |
     Si publikacija buvo itin
     svarbi, nes įrodė, kad Lietuva tikrai turėjo savo met­

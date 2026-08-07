@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fdaa5e7a9a50626fcfd91e64"
+canonical_name: "Varmijos vyskupystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varmijos vyskupystė"]
+sameAs: []
+canonical_biography: "Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę. Jėzuitų į Lenkiją atkvietė garsus katalikybės gynėjas Varmijos vyskupas St."
+place_authority: true
+historical_names: []
 ---
 # Varmijos vyskupystė
 
@@ -83,7 +92,8 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 - id: c-03067
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 268."
   citata_originali: |
     Jėzuitų į Lenkiją
     atkvietė garsus katali-
@@ -110,7 +120,8 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 - id: c-03068
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 197."
   citata_originali: |
     1466 m. Torne buvo pasirašyta taika, kuria ordinas
     pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija

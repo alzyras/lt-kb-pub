@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-62688"></a>
 - t-001
   teiginys: "Per badą Kristburgo broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Kristburgas: 0.85"
@@ -67,6 +67,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63436
+    - c-63438
 
 <a id="claim-t-62689"></a>
 - t-002
@@ -138,7 +139,8 @@ Nenurodyta
 - id: c-63436
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     Ilgainiui pilyje vėl kilo toks baisus badas,
     kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie
@@ -161,7 +163,8 @@ Nenurodyta
 - id: c-63437
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
     Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
@@ -186,7 +189,8 @@ Nenurodyta
 - id: c-63438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Šitai sužinoję, prūsai
     įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
@@ -203,4 +207,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-004

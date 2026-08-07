@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d049e98b95562e0dde8b3450"
+canonical_name: "Ceklis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ceklis"]
+sameAs: []
+canonical_biography: "Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žemaičių plote, atiteko Livonijos ordinui. Dar platesnėje Ceklio srityje, kurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė plotą nuo Ventos aukštupio per Minijos ir Jūros upių takoskyrą iki Veiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių ir vakarinėje dalyje Šiaulių."
+place_authority: true
+historical_names: []
 ---
 # Ceklis
 
@@ -114,7 +123,8 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
 - id: c-31985
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 187."
   citata_originali: |
     Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių,
     esančių Žemaičių plote, atiteko Livonijos ordinui. Dalybų dokumen­
@@ -137,7 +147,8 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
 - id: c-33813
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 187."
   citata_originali: |
     Dar platesnėje Ceklio srityje,
     kurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė
@@ -158,7 +169,8 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
 - id: c-167752
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 187."
   citata_originali: |
     Dar legatas Vil­
     helmas Modenietis buvo nustatęs, jog Kuršas esąs Prūsų žemės tąsa.

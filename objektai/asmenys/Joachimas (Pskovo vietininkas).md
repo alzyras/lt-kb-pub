@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-13fe17f82938dfea32e3ac32"
+canonical_name: "Joachimas (Pskovo vietininkas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Joachimas (Pskovo vietininkas)"]
+sameAs: []
+canonical_biography: "Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1."
 ---
 # Joachimas (Pskovo vietininkas)
 
@@ -61,7 +68,8 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
 - id: c-83685
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 230."
   citata_originali: |
     Palenkdamas rusų bojari-
     10

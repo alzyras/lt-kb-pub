@@ -28,19 +28,26 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3ef59efded2c3d17c30bd582"
+canonical_name: "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. A. Sapiega","Mykolas Antanas Sapiega","Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)"]
+sameAs: []
+canonical_biography: "Mykolas Antanas Sapiega buvo LDK pakancleris. Mykolas Antanas Sapiega Gimė 1711 m. ir mirė 1760 m. quote_type: supports_existing_claim 1755 m. Mykolas Antanas Sapiega pasiliko po Tribunolo dėl miesto bylos su žydais."
 ---
 # Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)
 
 ## Santrauka
 
-1755 m. Mykolas Antanas Sapiega pasiliko po Tribunolo dėl miesto bylos su žydais. 1755 m. Mykolas Antanas Sapiega pasiliko po Tribunolo dėl miesto bylos su žydais. Mykolas Antanas Sapiega Gimė 1711 m. ir mirė 1760 m.
+Mykolas Antanas Sapiega buvo LDK pakancleris. Mykolas Antanas Sapiega Gimė 1711 m. ir mirė 1760 m. quote_type: supports_existing_claim 1755 m. Mykolas Antanas Sapiega pasiliko po Tribunolo dėl miesto bylos su žydais.
 
 ## Teiginiai
 
 <a id="claim-t-200677"></a>
 - t-001
-  teiginys: "1755 m. Mykolas Antanas Sapiega pasiliko po Tribunolo dėl miesto bylos su žydais."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "1755 m. Jonas Dominykas Lopacinskis rašė, kad Mykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Antanas Tovianskis (tribunolo vicemaršalo siekęs bajoras, XVIII a.): 0.85"
@@ -53,14 +60,15 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1755 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir sutampa su citatoje pateikta informacija apie Mykolą Antaną Sapiegą."
+  temporalinis_llm_pakomentavimas: "Atkurta citatoje esanti atribucija, nes šaltinis pateikia Jono Dominyko Lopacinskio teiginį, o ne patvirtintą neutralų faktą."
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183908
 
 <a id="claim-t-200679"></a>
 - t-002
   teiginys: "Mykolas Antanas Sapiega Gimė 1711 m. ir mirė 1760 m."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Antanas Tovianskis (tribunolo vicemaršalo siekęs bajoras, XVIII a.): 0.85"
@@ -77,7 +85,7 @@ media_all_json: |-
 <a id="claim-t-200680"></a>
 - t-003
   teiginys: "Mykolas Antanas Sapiega buvo LDK pakancleris."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Antanas Tovianskis (tribunolo vicemaršalo siekęs bajoras, XVIII a.): 0.85"
@@ -94,7 +102,7 @@ media_all_json: |-
 <a id="claim-t-200681"></a>
 - t-004
   teiginys: "1755 m. laiške Jonas Dominykas Lopacinskis teigė, kad LDK pakancleris Mykolas Antanas Sapiega pasiliks po Tribunolo dėl miesto bylos su žydais."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Antanas Tovianskis (tribunolo vicemaršalo siekęs bajoras, XVIII a.): 0.85"
@@ -107,8 +115,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1755 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Techninis fragmentas pakeistas citata paremtu faktiniu sakiniu. Palikta laiško atribucija, nes citata perteikia Lopacinskio pranešimą."
-  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir aiškiai nurodo Mykolo Antano Sapiegos veiksmą bei 1755 m. laiško kontekstą. Naujų faktų ar papildomos atribucijos nereikėjo."
   pagrindžia:
     - c-183908
 
@@ -126,10 +133,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- t-004
-    - t-003
-    - t-005
-    - t-006
+- t-002
+    - t-004
     - t-001
 
 ## Citatos
@@ -141,7 +146,7 @@ media_all_json: |-
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 12:33"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
     - t-002
@@ -150,3 +155,4 @@ media_all_json: |-
 
 ## Ryšiai
 - Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760) mirė [[objektai/vietos/Slonimas]]
+- Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760) buvo palaidotas [[objektai/vietos/Bereza]]

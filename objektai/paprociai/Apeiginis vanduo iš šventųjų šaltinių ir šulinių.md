@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-170999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 279."
   citata_originali: |
     Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
     šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame

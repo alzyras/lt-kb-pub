@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-62074087859a96ae6e80ea5c"
+canonical_name: "Mykolas Balinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Balinskis"]
+sameAs: []
+canonical_biography: "Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įskaitant anoniminius tekstus. Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus. Mykolas Balinskis visiškai nuneigti negalėjo."
 ---
 # Mykolas Balinskis
 
@@ -162,7 +169,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - id: c-172958
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 58."
   citata_originali: |
     Straipsnių, beje, ir anonimiškų, autorystė buvo išaiškinta-jie
     priskiriami istoriko, publicisto Mykolo Balinskio plunksnai.
@@ -180,7 +188,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - id: c-176831
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 5."
   citata_originali: |
     Lenkų ir lietuvių istoriografijoje M. Balinskio asmenybė yra
     neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga,
@@ -205,7 +214,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - id: c-176832
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 6."
   citata_originali: |
     Vis
     dėlto romantinės istorijos sukurtų temų jis visiškai nuneigti ne­
@@ -225,7 +235,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - id: c-176833
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 6."
   citata_originali: |
     M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
     li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
@@ -246,7 +257,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - id: c-176834
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 6."
   citata_originali: |
     Sūnaus brendimo ir mokslo metai praėjo Vil­
     niuje. Baigęs gimnaziją, 1812 m. rugsėjo 22 d. jis įstojo į Vilniaus
@@ -267,7 +279,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - id: c-176835
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     Neturėdamas pakankamai pragy­
     venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą. Šie vie­
@@ -290,7 +303,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - id: c-176836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 12."
   citata_originali: |
     1848 m. M. Balinskis sugrįžta į Lietuvą ir apsigyvena savo
     Jašiūnų dvare. Sugrįžimą pagreitino nelaimės šeimoje: sūnaus
@@ -308,7 +322,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - id: c-176837
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 15."
   citata_originali: |
     Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
     Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas. Po sukilimo
@@ -327,7 +342,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - id: c-179336
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 450"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 450."
   citata_originali: |
     Straipsnių, beje, ir anonimiškų, autorystė buvo
     išaiškinta — jie priskiriami istoriko, publicisto Mykolo

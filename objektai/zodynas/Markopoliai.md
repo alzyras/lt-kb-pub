@@ -55,7 +55,8 @@ Markopolius Narbutas apibūdina kaip požemio dievaičius, kuriuos ypač garbino
 - id: c-172196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
   citata_originali: |
     Markopoliai (Markopole)
     Požemio dievaičiai, kuriuos ypač garbino didikai ir bajo­

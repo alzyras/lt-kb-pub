@@ -74,7 +74,8 @@ Nenurodyta
 - id: c-63669
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
   citata_originali: |
     sugriovė, o aplinkines žemes nuniokojo, degindamas ir plėšdamas visa, kas pakliuvo;
     priešais minėtojo miesto pilį jis pastatė palapines ir ten pernakvojo, o kitą dieną jis bei

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9955b972d0e7fdc79bede4d3"
+canonical_name: "Inachas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Inachas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Inachas, kaip ir Kadmas, pas graikus įvedė jau susiklosčiusias slaptas apeigas."
 ---
 # Inachas
 
@@ -53,7 +60,8 @@ Narbutas rašo, kad Inachas, kaip ir Kadmas, pas graikus įvedė jau susiklosči
 - id: c-173041
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 196."
   citata_originali: |
     Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
     tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,

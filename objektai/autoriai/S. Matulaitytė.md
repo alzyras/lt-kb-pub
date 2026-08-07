@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-025e9e6368c153b9c74bf900"
+canonical_name: "S. Matulaitytė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["S. Matulaitytė"]
+sameAs: []
+canonical_biography: "Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete XVIII a."
 ---
 # S. Matulaitytė
 
@@ -58,7 +65,8 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
 - id: c-33133
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     A. Šidlauskas
     atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje

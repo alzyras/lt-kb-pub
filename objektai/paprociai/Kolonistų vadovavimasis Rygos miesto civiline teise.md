@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-83223
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 41."
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
     lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­

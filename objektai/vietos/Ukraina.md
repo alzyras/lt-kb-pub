@@ -23,18 +23,28 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '1'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu/page1-1280px-Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AWac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu'
+media_primary_directness: 'contextual'
+media_primary_relation_type: 'edition_image_of'
+media_primary_json: |-
+  {"mediaId":"m-e0c442126b9e778ebde3f3a7","title":"Wacław Lipiński, Szlachta na Ukrainie (1909).djvu","caption":"Wacławo Lipińskio knygos „Szlachta na Ukrainie“ (1909) antraštinis puslapis.","originalTitle":"Wacław Lipiński, Szlachta na Ukrainie (1909).djvu","creator":"Vyacheslav Lypynsky","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file is available from the « Chtyvo » project website ( chtyvo.org.ua ). This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing for more information.","dateDisplay":"1909","dateStart":null,"dateEnd":null,"width":1499,"height":2402,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu/page1-1280px-Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu/page1-1280px-Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"bibliografija","label":"bibliografija","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Books by Vyacheslav Lypynsky","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books from chtyvo.org.ua","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"DjVu files in Polish","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Ukraina.md","title":"Ukraina","itemType":"vieta","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-17T16:29:11.592750+03:00","reviewedAt":"2026-07-25T20:26:34.891813+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas knygos antraštinis puslapis su pavadinimu „Szlachta na Ukrainie“, autoriumi Wacławu Lipińskiu ir 1909 m. leidimo duomenimis.","metadataEvidence":"Wikimedia Commons metaduomenys nurodo leidinį „Wacław Lipiński, Szlachta na Ukrainie (1909)“; pavadinime tiesiogiai minima Ukraina.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas nėra pačios Ukrainos atvaizdas, tačiau aiškiai dokumentuoja konkretų istorinį leidinį apie Ukrainą.","isPrimary":0}
 media_direct_json: |-
   []
 media_contextual_json: |-
-  []
+  [{"mediaId":"m-e0c442126b9e778ebde3f3a7","title":"Wacław Lipiński, Szlachta na Ukrainie (1909).djvu","caption":"Wacławo Lipińskio knygos „Szlachta na Ukrainie“ (1909) antraštinis puslapis.","originalTitle":"Wacław Lipiński, Szlachta na Ukrainie (1909).djvu","creator":"Vyacheslav Lypynsky","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file is available from the « Chtyvo » project website ( chtyvo.org.ua ). This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing for more information.","dateDisplay":"1909","dateStart":null,"dateEnd":null,"width":1499,"height":2402,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu/page1-1280px-Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu/page1-1280px-Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"bibliografija","label":"bibliografija","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Books by Vyacheslav Lypynsky","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books from chtyvo.org.ua","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"DjVu files in Polish","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Ukraina.md","title":"Ukraina","itemType":"vieta","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-17T16:29:11.592750+03:00","reviewedAt":"2026-07-25T20:26:34.891813+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas knygos antraštinis puslapis su pavadinimu „Szlachta na Ukrainie“, autoriumi Wacławu Lipińskiu ir 1909 m. leidimo duomenimis.","metadataEvidence":"Wikimedia Commons metaduomenys nurodo leidinį „Wacław Lipiński, Szlachta na Ukrainie (1909)“; pavadinime tiesiogiai minima Ukraina.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas nėra pačios Ukrainos atvaizdas, tačiau aiškiai dokumentuoja konkretų istorinį leidinį apie Ukrainą.","isPrimary":0}]
 media_all_json: |-
-  []
+  [{"mediaId":"m-e0c442126b9e778ebde3f3a7","title":"Wacław Lipiński, Szlachta na Ukrainie (1909).djvu","caption":"Wacławo Lipińskio knygos „Szlachta na Ukrainie“ (1909) antraštinis puslapis.","originalTitle":"Wacław Lipiński, Szlachta na Ukrainie (1909).djvu","creator":"Vyacheslav Lypynsky","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file is available from the « Chtyvo » project website ( chtyvo.org.ua ). This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing for more information.","dateDisplay":"1909","dateStart":null,"dateEnd":null,"width":1499,"height":2402,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu/page1-1280px-Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu/page1-1280px-Wac%C5%82aw_Lipi%C5%84ski%2C_Szlachta_na_Ukrainie_%281909%29.djvu.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"bibliografija","label":"bibliografija","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Books by Vyacheslav Lypynsky","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books from chtyvo.org.ua","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"DjVu files in Polish","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Ukraina.md","title":"Ukraina","itemType":"vieta","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-17T16:29:11.592750+03:00","reviewedAt":"2026-07-25T20:26:34.891813+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas knygos antraštinis puslapis su pavadinimu „Szlachta na Ukrainie“, autoriumi Wacławu Lipińskiu ir 1909 m. leidimo duomenimis.","metadataEvidence":"Wikimedia Commons metaduomenys nurodo leidinį „Wacław Lipiński, Szlachta na Ukrainie (1909)“; pavadinime tiesiogiai minima Ukraina.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas nėra pačios Ukrainos atvaizdas, tačiau aiškiai dokumentuoja konkretų istorinį leidinį apie Ukrainą.","isPrimary":0}]
+entity_id: "ent-6d545fdf8de01ade1c898c40"
+canonical_name: "Ukraina"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ukraina"]
+sameAs: []
+canonical_biography: "Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas ir didžiausias kazokų priešas."
+place_authority: true
+historical_names: []
 ---
 # Ukraina
 
@@ -186,7 +196,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - id: c-43938
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 114."
   citata_originali: |
     Lengvieji
     raitininkai, tokie kaip kazokai ar vidutiniai (pe-
@@ -215,7 +226,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - id: c-112014
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 236-237"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 236-237."
   citata_originali: |
     220
 
@@ -244,7 +256,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - id: c-112015
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 304."
   citata_originali: |
     Išliko nemaža
     įrodymų, kaip Batoras globojo Vilniaus pirklius, kurie iš­
@@ -269,7 +282,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - id: c-112017
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 294."
   citata_originali: |
     Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
     lų, gaminta bombos ir kiti karo reikmenys. Apsirūpinus ar­
@@ -293,7 +307,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - id: c-112022
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112."
   citata_originali: |
     1595 m. Ukrainoje,
     vadovaudamas kuopai, pasižymėjo malšindamas ka-
@@ -311,7 +326,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - id: c-168529
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 30."
   citata_originali: |
     Iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio­
     navo Ukrainos prijungimą prie Lenkijos, pripažino ka­
@@ -338,7 +354,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - id: c-175976
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 372."
   citata_originali: |
     Čia jie turėjo milžiniškų dvarų.
     Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias

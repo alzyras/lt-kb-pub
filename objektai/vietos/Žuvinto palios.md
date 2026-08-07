@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-473f8e00fc768e51b42fc45c"
+canonical_name: "Žuvinto palios"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žuvinto palios"]
+sameAs: []
+canonical_biography: "Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko būriai. Žuvinto ežeras ir Palios buvo apsupti šarvuočių."
+place_authority: true
+historical_names: []
 ---
 # Žuvinto palios
 
@@ -94,7 +103,8 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
 - id: c-44127
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 229."
   citata_originali: |
     Partizanų pajėgos
 
@@ -118,7 +128,8 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
 - id: c-45488
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 229-230"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 229-230."
   citata_originali: |
     1945 m. rugpjūčio mėnesio pačioje pra-
     džioje Palias puolė NKVD užnugario ap-
@@ -161,7 +172,8 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
 - id: c-167206
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 228."
   citata_originali: |
     Kiti parti-
     zanai iš apsupties pasitraukė. Dalis jų rado

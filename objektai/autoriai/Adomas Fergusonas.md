@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ededd40e8a530d1ccaa8db74"
+canonical_name: "Adomas Fergusonas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Adomas Fergusonas","Adomo Fergusono"]
+sameAs: []
+canonical_biography: "Adomas Fergusonas leidinio įvade minimas tarp žymiausių XVIII-XIX a. Europos istorikų, kurių darbus vertė Vilniaus universiteto auklėtiniai."
 ---
 # Adomas Fergusonas
 
@@ -71,7 +78,8 @@ Nenurodyta
 - id: c-170734
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     Vilniuje buvo rengiamas spaudai XVI a. kroniki­
     ninko Motiejaus Strijkovskio veikalas. Vilniaus universiteto

@@ -72,7 +72,8 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
 - id: c-44820
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 229."
   citata_originali: |
     Žuvinto-Palių partizanų persekiojimas
     tęsėsi toliau. 1945 m. birželio 25 d. į pa-
@@ -97,7 +98,8 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
 - id: c-176402
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 229."
   citata_originali: |
     Partizanų pajėgos
 

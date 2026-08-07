@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a89eae834294d34bd9b6d9f9"
+canonical_name: "Fridrichas (Rygos arkivyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["arkivyskupas Fridrichas","fratris Priderki","Fridrichas","Fridrichas (Rygos arkivyskupas)","Rygos arkivyskupas Fridrichas"]
+sameAs: []
+canonical_biography: "Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimino ir Vytenio santykiais su Ryga, minoritų kvietimu ir ginču su Kryžiuočių ordinu. Pasakojime pateikiamos ir jam nepalankios versijos apie Gedimino vardu parengtus laiškus bei popiežiaus rūmų veikimą."
 ---
 # Fridrichas (Rygos arkivyskupas)
 
@@ -186,7 +193,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 <a id="claim-t-89711"></a>
 - t-008
   teiginys: "Rygos arkivyskupą Fridrichą Ordino broliai klastingai išmetė iš bažnyčios."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
@@ -263,7 +270,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - id: c-55507
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 83."
   citata_originali: |
     Tas valdovas po pergalingų žygių, tikriausiai todėl, kad
     kryžiuočiai tolydžio artinosi, nuo Rytų atsigręžė į Vakarus
@@ -288,7 +296,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - id: c-55508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 83."
   citata_originali: |
     334.
     b
@@ -332,7 +341,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - id: c-55509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 87."
   citata_originali: |
     Viename jų, skirtame popiežiui ir kardinolams, Gediminas
     prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta
@@ -362,7 +372,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - id: c-55510
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 100."
   citata_originali: |
     Item predecessor noster Rex Viten misit litteras suas
     domino legato Francisco et domino Archiepiscopo Frederico,
@@ -383,7 +394,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - id: c-55511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 104."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
@@ -412,7 +424,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - id: c-55512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 94."
   citata_originali: |
     Arkivyskupui nieko kita neliko, tik tvirtai laikytis savojo
     plano. Popiežių, regis, pergudravo, įrodydamas jam, kokie
@@ -435,7 +448,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - id: c-55513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 108."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     baptisma et fidem libenter cum suis susciperent, sed fratres nollet
@@ -464,7 +478,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - id: c-85642
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
   citata_originali: |
     356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
     čionių 1324 metais
@@ -492,7 +507,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - id: c-85645
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 101."
   citata_originali: |
     Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
     daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­
@@ -522,7 +538,8 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - id: c-85646
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 83."
   citata_originali: |
     Kol vokiečių kariau­
     na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių

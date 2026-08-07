@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5e6c1cefffcf2de52455b4a6"
+canonical_name: "Elžbieta (Vengrijos karalienė)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Elžbieta (Vengrijos karalienė)"]
+sameAs: []
+canonical_biography: "Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­ kos sėkmingos, didysis magistras Konradas Ciolneris Rotenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų rugpjūtį ties Kaunu. Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta."
 ---
 # Elžbieta (Vengrijos karalienė)
 
@@ -72,7 +79,8 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 - id: c-83474
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 56-57"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 56-57."
   citata_originali: |
     40
 
@@ -100,7 +108,8 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 - id: c-176825
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127."
   citata_originali: |
     Iškilmingai,
     dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,

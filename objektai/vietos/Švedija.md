@@ -43,6 +43,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-21d2584b2c1978aa90b81ebb"
+canonical_name: "Švedija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Švedija"]
+sameAs: []
+canonical_biography: "Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras. Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija. Tėvui mirus, 1593 m. jis nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei, Sudermanlandijos kunigaikščiui Karoliui."
+place_authority: true
+historical_names: []
 ---
 # Švedija
 
@@ -327,21 +336,21 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 <a id="claim-t-188879"></a>
 - t-016
   teiginys: "Narbutas rašė, kad Švedijoje vyriausiasis žynys ir teisėjas dėl savo pareigų laikė save aukščiausiuoju karaliumi."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Gotlandas: 0.62"
+  ryšio_patikimumas: "susije_su -> Švedai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gotlandas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ekspansija iš Gotlando rodo švedų judėjimo kilmę, bet santykis „keliavo_i“ tik apytikriai perteikia kryptį."
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švedija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Švedai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedija\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-177155
+    - c-171768
 
 <a id="claim-t-193260"></a>
 - t-017
@@ -372,7 +381,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 <a id="claim-t-194759"></a>
 - t-019
   teiginys: "Istorinės savimonės ištakų ieškant: Teodoras Narbu tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto rijos studijos."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -380,14 +389,15 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171765
+    - c-177155
 
 ## Citatos
 
 - id: c-112473
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 191."
   citata_originali: |
     Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė
     Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės pos-
@@ -412,7 +422,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-112474
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 86."
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     86
@@ -430,7 +441,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-112475
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     Būdamas arčiausiai karo židinio, Stepono Batoro laikais
     Vilnius virto pagrindine kariuomenių susibūrimo vieta; la­
@@ -458,7 +470,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-112476
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     La­
     biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-
@@ -480,7 +493,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-112477
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 87-88"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 87-88."
   citata_originali: |
     1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
     Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
@@ -506,7 +520,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-112480
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 114."
   citata_originali: |
     Archeolo­
     giniai duomens parodo apie 650 m. prasidedančią didelę švedų
@@ -525,7 +540,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-112482
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 85-86"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 85-86."
   citata_originali: |
     Tačiau Švedija ėmė
     siekti viešpatauti Baltijos jūroje (dominium maris Baltici). Dėl to įsilieps-
@@ -545,7 +561,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-112484
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 350."
   citata_originali: |
     Daugelis brangeny-
     bių buvo išvežta į Maskvą ir į Švediją. Rusai iš Vilniaus į
@@ -565,7 +582,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-112485
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 63-64"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 63-64."
   citata_originali: |
     Antra vertus,
     tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
@@ -596,7 +614,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-168577
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 695"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 695."
   citata_originali: |
     Neilgai trukus ten nu­
     vyko su panašia užduotimi Žemaitijos vyskupas, tačiau
@@ -619,7 +638,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-171765
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     T. Nar­
     butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
@@ -633,12 +653,12 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-014
-    - t-019
 
 - id: c-171767
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 417"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 417."
   citata_originali: |
     416
 
@@ -664,7 +684,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-171768
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 417"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 417."
   citata_originali: |
     Kaip tik
     Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
@@ -673,14 +694,17 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   citata_rodoma: "Kaip tik\nŠvedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­\njas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­\nraliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
 - id: c-175992
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 302."
   citata_originali: |
     **Maskvos susilpnėjimas.** Šitomis paliaubomis pasibaigė
     ilgai traukęsi karai su Maskva dėl Livonijos. Livonija nuo
@@ -697,7 +721,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-176326
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 86."
   citata_originali: |
     Kova dėl Livonijos daugiausia buvo suin-
     teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
@@ -715,7 +740,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - id: c-177155
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 52."
   citata_originali: |
     Taip pat skaityki­
     te: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­
@@ -729,7 +755,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-019
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Karolis IX]]

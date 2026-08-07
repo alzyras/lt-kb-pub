@@ -1,0 +1,64 @@
+---
+tipas: ivykis
+pavadinimas: 'Žemės teismo knygų perkėlimas į Baltarusiją'
+saltiniai:
+  - 'Lituanistika-50918-Zemes-teismo-knygos'
+datos:
+  - '1951 m.'
+  - '1964 m.'
+date_start: '1951'
+date_end: '1964'
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Žemės teismo knygų perkėlimas į Baltarusiją
+
+## Santrauka
+
+Po II Pasaulinio karo pabaigos 1951 m. žemės teismo knygos buvo pervežtos į Baltarusiją.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Po II Pasaulinio karo pabaigos 1951 m. žemės teismo knygos buvo pervežtos į Baltarusiją.'
+  šaltinis: Lituanistika-50918-Zemes-teismo-knygos
+  citata_originali: |
+    o išlikusios rankraštinės tų pavietų žemės teis­
+    mų knygos po II Pasaulinio karo pabaigos, XX a. 6-ame dešimtmetyje, 1951 m. pervežtos
+    į Baltarusiją, dauguma į Minską, kitos - į Gardiną (vėliau, 1964 m., Gardino, Slanimo
+    pavieto knygos irgi pervežtos į Minską, todėl dabar visas jų kompleksas yra Baltarusius
+    NIA).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Santrauka
+
+Po II Pasaulinio karo pabaigos 1951 m. žemės teismo knygos buvo pervežtos į Baltarusiją.

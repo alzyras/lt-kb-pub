@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88056bc95c556c3731cabd5d"
+canonical_name: "Kosman М"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kosman М"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kartais tvirtinama, kad žynių luomo apskritai nėra buvę (Kosman М., Drogi zaniku..., р."
 ---
 # Kosman М
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad kartais tvirtinama, kad žynių luomo apskritai nėra b
 - id: c-61363
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
   citata_originali: |
     A. Mežinskio nuomone, krivis — tikrinis paskutinio Nadruvos žynio vardas (Мержинский
     А. Ф., О надровском жреце..., с. 246—259). Tokiai nuomonei kartais pritariama (Ivinskis

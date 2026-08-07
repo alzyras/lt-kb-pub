@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e7c1b6f785ce3cb1203b844c"
+canonical_name: "Rusios žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rusios žemė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Dusburgietis teigia, kad nemunas — taip pat upė, prasidedanti Rusios valdose, o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo187."
+place_authority: true
+historical_names: []
 ---
 # Rusios žemė
 
@@ -108,7 +117,8 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
 - id: c-59260
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Nemunas — taip pat upė, prasidedanti Rusios valdose,
     o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
@@ -126,7 +136,8 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
 - id: c-59261
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Prūsijos žemės aprašymas
 

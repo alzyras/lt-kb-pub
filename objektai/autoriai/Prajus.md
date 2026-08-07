@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-912c0138e55bdb01a076a8d5"
+canonical_name: "Prajus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Prajus"]
+sameAs: []
+canonical_biography: "Narbutas Prajui priskiria pasakojimą apie hunus, paremtą Ptolemėjo raštuose nubraižytu žemėlapiu."
 ---
 # Prajus
 
@@ -46,7 +53,8 @@ Narbutas Prajui priskiria pasakojimą apie hunus, paremtą Ptolemėjo raštuose 
 - id: c-174472
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Tai pasakoja Amia-
     nas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­

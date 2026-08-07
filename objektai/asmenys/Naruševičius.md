@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7703c23640da29e4c6efd961"
+canonical_name: "Naruševičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Naruševičius"]
+sameAs: []
+canonical_biography: "Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Germanijos į Sarmatiją, tiltu kėlėsi per Vyslos žemupį. Naruševičius tapatino Ptolemėjo chunus su graikų-skitų gentimi Geniui, kuri, anot jo, buvo atsikėlusi iš Chijo salos. Narbutas Naruševičiaus nuomonę, kad jotvingiai nuo Tisos atėjo tiesiai į Polesę, laikė labai panašia į tiesą."
 ---
 # Naruševičius
 
@@ -117,7 +124,8 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
 - id: c-174072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
   citata_originali: |
     70
     161 metai. Gotų žygis su Filimeru. 161 krikščioniško­
@@ -137,7 +145,8 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
 - id: c-174073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Prajus** vėlgi kalba apie tą patį, žiūrė­
     damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
@@ -159,7 +168,8 @@ Pasak Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru, eidami iš Ge
 - id: c-179182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 381."
   citata_originali: |
     Apskritimo ženklą, virš kurio styro kryžius, indai vadina
     Kuri; jis priklauso^ prie dievo Višnaus paslapčių, išreiškia tei­

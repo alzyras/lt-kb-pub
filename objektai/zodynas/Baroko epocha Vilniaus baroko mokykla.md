@@ -32,7 +32,8 @@ buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis a
 - id: c-24659
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 63."
   citata_originali: |
     Jame randame šiuolaikinės artilerijos
     ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-

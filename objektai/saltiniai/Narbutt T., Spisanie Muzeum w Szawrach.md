@@ -70,7 +70,8 @@ Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos eg
 - id: c-174586
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
   citata_originali: |
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
     leidimą (PEĮ. L. 133). Dievo Kovo stabą T. Narbutas ypač vertino

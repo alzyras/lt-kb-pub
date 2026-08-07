@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-46f607751de8b3cc44d40fe6"
+canonical_name: "Deltuvos kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Deltuvos kalnas"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo medinis milžino išvaizdos Kukovaičio stabas. Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors Plikasis kalnas."
+place_authority: true
+historical_names: []
 ---
 # Deltuvos kalnas
 
@@ -46,7 +55,8 @@ Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo me
 - id: c-171875
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
     tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors

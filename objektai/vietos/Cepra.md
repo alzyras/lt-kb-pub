@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-74ce448a1d6be0e1ed1ed68b"
+canonical_name: "Cepra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Cepra"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Cepra
 

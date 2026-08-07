@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-34e0032d47a5405e054cd243"
+canonical_name: "Petras d’Ailli"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Petras d’Ailli"]
+sameAs: []
+canonical_biography: "Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspausdintu kardinolo Petro d’Ailli veikalu. Narbutas vyskupo Petro rankraštyje aptiko teiginį, kad vanduo buvo garbinamas Atropos vardu ir laikytas kilniu elementu. Petras d’Ailli klausia savo motiną, tai yra Saulę, kokiame vandenyje ji galėtų išskalbti ąžuolo kraujo dėmes iš savo drabužių."
 ---
 # Petras d’Ailli
 
@@ -89,7 +96,8 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
 - id: c-173223
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
   citata_originali: |
     16 Eminentissimi Petri Episcopi Camaracensis, cardinali De Ma-
     mchcis Agapianis in Russia et Lithuania, eorumque doctrinae cum
@@ -109,7 +117,8 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
 - id: c-173224
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
   citata_originali: |
     Kiti dar randa dievą Patrimpą (Potrimp) - val­
     dantį tik upes, tačiau mokančiam kalbą Potrimpos ir At timpos
@@ -127,7 +136,8 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
 - id: c-179136
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 189."
   citata_originali: |
     Trejus metus Aušrinė gedėjo rinkdama išsi­
     barsčiusius savo vainikėlio lapelius, kurie spėjo nuvysti. Pa­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-523dbc5883ec5f1a50466d41"
+canonical_name: "Perekopo sąsmauka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Perekopo sąsmauka"]
+sameAs: []
+canonical_biography: "Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „gerai užrakinamus Krymo vartus“ - įtvirtintą Perekopo sąsmauką - totoriai turėjo sunkiai pasiekiamą lizdą, iš kurio, savo ruožtu, galėdavo nesunkiai leistis į tolimus žygius."
+place_authority: true
+historical_names: []
 ---
 # Perekopo sąsmauka
 
@@ -71,7 +80,8 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
 - id: c-167184
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Totorių kariuomenė
 

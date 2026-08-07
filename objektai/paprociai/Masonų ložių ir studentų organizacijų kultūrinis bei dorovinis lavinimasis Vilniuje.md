@@ -60,7 +60,7 @@ Nenurodyta
 <a id="claim-t-193044"></a>
 - t-001
   teiginys: "Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -69,18 +69,16 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-175814
-    - c-175816
 
 <a id="claim-t-193045"></a>
 - t-002
   teiginys: "Universitete veikė studentų organizacijos, kurios rūpinosi kultūriniu ir doroviniu tobulėjimu bei ištikimybe tiesai, laisvei ir Tėvynei."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-175814
-    - c-175816
 
 <a id="claim-t-193046"></a>
 - t-003
@@ -137,7 +135,8 @@ Nenurodyta
 - id: c-170777
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
   citata_originali: |
     Masonų organizacijose kampainis simboli­
     zavo sąžine, akacijos šakelė - nemirtingumą, skriestuvas - aukš­
@@ -161,7 +160,8 @@ Nenurodyta
 - id: c-175814
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     Po
     1812 m. Lietuvoje labai išpopulia-
@@ -186,7 +186,8 @@ Nenurodyta
 - id: c-175815
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 105."
   citata_originali: |
     Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą,
     neskatinančią paklusnumo valdžiai. Caro administracija ėmėsi tyrimo,
@@ -205,7 +206,8 @@ Nenurodyta
 - id: c-175816
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     Po
     1812 m. Lietuvoje labai išpopulia-
@@ -220,9 +222,7 @@ Nenurodyta
   citata_rodoma: "Po\n1812 m. Lietuvoje labai išpopulia-\nrėjo masonų judėjimas. Masonų\nložėms priklausė diduma bent\nkiek intelektualesnės publikos.\nGarsiausioji ložė vadinosi „Uolusis\nlietuvis“ („Gorliwy Litwin“). Uni-\nversitete veikė nemažai studentų\norganizacijų, besirūpinusių kul-\ntūriniu ir doroviniu tobulėjimu, ištikimybe tiesai, laisvei ir Tėvynei."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002

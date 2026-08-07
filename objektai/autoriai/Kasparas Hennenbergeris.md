@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ed6238b81d087bdcb97f8bf7"
+canonical_name: "Kasparas Hennenbergeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kasparas Hennenbergeris"]
+sameAs: []
+canonical_biography: "Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų vienaakių žmonių prie Šventainės upės. Narbutas rašo, kad Hennenbergeris XVI a. pabaigoje minėjo prie Rusnės, Sakininkų kaime, augusią didžiulę liepą. Kasparas Hennenbergeris žinojo daug liaudies padavimų ir burtininkų, arba lietuvių bardų, dainų."
 ---
 # Kasparas Hennenbergeris
 
@@ -108,7 +115,8 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
 - id: c-173188
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
   citata_originali: |
     Prūsuose, neminint kitų, yra Šventainės (Szwentejne),
     upė, įtekanti į Peise (Pissa) ties Baičių (Bajcze) kaimu; seniau
@@ -131,7 +139,8 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
 - id: c-173189
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 239."
   citata_originali: |
     LIEPA, Liepas. Pas senovės prūsus ji priklausė šventųjų
     medžių kategorijai. Henenbergeris tikina, kad dar jo laikais,
@@ -150,7 +159,8 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
 - id: c-179121
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 95."
   citata_originali: |
     Stenderis (latvių kalbos gramatikos autorius) straipsnyje
     apie tos tautos mitologiją aiškina mitologinių terminų kilmę
@@ -174,7 +184,8 @@ Narbutas perteikia Hennenbergerio liudijimą, kad apie 1584 m. jis matė senų v
 - id: c-179122
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 106."
   citata_originali: |
     Tačiau vėlesniais laikais tas žynių piktnaudžiavimas, ma-
     lyt, nebegaliojo, nes reikalas baigdavosi dosniu užmokesčiu

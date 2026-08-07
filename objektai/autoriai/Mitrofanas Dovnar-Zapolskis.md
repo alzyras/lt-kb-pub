@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-39c0378dc4cdda793c916b09"
+canonical_name: "Mitrofanas Dovnar-Zapolskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mitrofanas Dovnar-Zapolskis"]
+sameAs: []
+canonical_biography: "Štai rusų istorikas Mitrofanas Dovnar-Zapolskis (1867-1934) 1901 m. Kijeve paskelbtoje didžiulėje studijoje TocyJapcm8eHHoe X03Hikm80 BellUKOZO KHHJlCeCm8a JI um08CKOZO npu JIzelllloHax (Lietuvos Didžiosios Kunigaikštystės valstybinis ūkis valdant."
 ---
 # Mitrofanas Dovnar-Zapolskis
 
@@ -51,9 +58,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185576
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 16."
   citata_originali: |
     Kauno praeitimi buvo domimasi tyrinėjant kitas Lietuvos istorijos sritis, ypač jei Kau-
     nas tose srityse paliko pastebimų pėdsakų. Štai rusų istorikas Mitrofanas Dovnar-Za-

@@ -50,7 +50,8 @@ Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam
 - id: c-82569
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 405"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 405."
   citata_originali: |
     O kad toks tilto muitas, mūsų aukščiau nu­
     statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms

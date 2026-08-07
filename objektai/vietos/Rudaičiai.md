@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-16b01bd99194f668e3fda7b9"
+canonical_name: "Rudaičiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rudaičiai"]
+sameAs: []
+canonical_biography: "Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M."
+place_authority: true
+historical_names: []
 ---
 # Rudaičiai
 
@@ -56,7 +65,8 @@ Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.
 - id: c-34027
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 84."
   citata_originali: |
     liūnų ir Sargėnų kapinynus^101 , ir apie L _ietuvos X-XV a. kapinynų
     keramiką,_ (AkMD, t. 19, 1965, 41-57 p.). Iš Rudaičių ir Veliuonos

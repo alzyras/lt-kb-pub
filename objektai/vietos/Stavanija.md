@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a7f0f663eb7d07e0ca26841"
+canonical_name: "Stavanija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Stavanija"]
+sameAs: []
+canonical_biography: "Narbutas aiškino Stavanijos pavadinimą iš posakio Isz-Tawas arba Isz-Tabas, reiškiančio kilimą iš tėvo. Tomis pačiomis kalbomis posakis Isz-Tawas arba IszTabas reiškia kilusį iš tėvo, tad Isztamany, ištavanai, ar ba sutrumpintai stavanai, stabanai, reiškė gentį, kilusią tiesiogiai iš gimtinės lizdo; tikrieji lietuviai, arba seno vės Stavanijos gyventojai ligi."
+place_authority: true
+historical_names: []
 ---
 # Stavanija
 
@@ -65,7 +74,8 @@ Narbutas aiškino Stavanijos pavadinimą iš posakio Isz-Tawas arba Isz-Tabas, r
 - id: c-175575
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 274."
   citata_originali: |
     Mes siekiame nurodyti tikrą, o ne liaudišką
     pavadinimo šaltinį: lietuvių kalboje yra žodis tėvas: Ta­

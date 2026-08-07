@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d95cc40c5330b34dcd3083f1"
+canonical_name: "Aleksandra (Jogailos sesuo)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandra (Jogailos sesuo)"]
+sameAs: []
+canonical_biography: "Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­ gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną."
 ---
 # Aleksandra (Jogailos sesuo)
 
@@ -51,7 +58,8 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
 - id: c-83593
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131."
   citata_originali: |
     Čia, krašto reikalus
     įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­

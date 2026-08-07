@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9bd6a44ff036ef0466b11f33"
+canonical_name: "Kauno priemiesčiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno priemiesčiai"]
+sameAs: []
+canonical_biography: "Tik Kauno priemiesčių gyventojai buvo liepiami pastočių mokestį mokėti."
+place_authority: true
+historical_names: []
 ---
 # Kauno priemiesčiai
 
@@ -41,9 +50,9 @@ Tik Kauno priemiesčių gyventojai buvo liepiami pastočių mokestį mokėti.
 ## Citatos
 
 - id: c-185080
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 312"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 312."
   citata_originali: |
     Kauniečiai prašė juos nuo pastočių mokesčio atleisti, ir valdovas sutiko tai padaryti.
     Tik Kauno priemiesčių gyventojai buvo liepiami pastočių mokestį mokėti.

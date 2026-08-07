@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0449a09aeb220f88b9c45cb7"
+canonical_name: "Jurgis Šaulys"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Šaulys"]
+sameAs: []
+canonical_biography: "Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus."
 ---
 # Jurgis Šaulys
 
@@ -41,7 +48,8 @@ media_all_json: |-
 - id: c-21792
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Reali valdžia Tarybai nebuvo suteikta, tad ji ėmėsi sunkaus
     vaidmens – tarpininkės tarp lietuvių tautos ir Oberosto, stengdamasi pa-

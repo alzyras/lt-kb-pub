@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83c3b5afcbb66cf5aab5af74"
+canonical_name: "Vasilijus Čartoriskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vasilijus Čartoriskis"]
+sameAs: []
+canonical_biography: "Antra: Pinsko kunigaikš­ tis nebuvo joks Narimantas, bet Va­ silijus Čertoriskis (Čartoriskis) - Karigailos sūnus, Algirdo vaikaitis."
 ---
 # Vasilijus Čartoriskis
 
@@ -51,7 +58,8 @@ Antra: Pinsko kunigaikš­ tis nebuvo joks Narimantas, bet Va­ silijus Čertori
 - id: c-83858
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 143."
   citata_originali: |
     Sofijski Wremien-
     nik, p. 382. Antra: Pinsko kunigaikš­

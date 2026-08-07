@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b1d3e9346021a87c1cea0ff6"
+canonical_name: "Gotfridas Hohenlohė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gotfridas Hohenlohė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis Gotfridas Hohenlohė, Teutonų ordino didysis magistras, pasiuntęs Livonijos žemės broliams į pagalbą brolį Bertoldą Briuhaveną, Karaliaučiaus komtūrą, su daugybe brolių ir ginklanešių. Dusburgietis teigia, kad apie brolio Gotfrido, didžiojo magistro, atvykimą, apie tai, kaip jis atsisa­ kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno 1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją atvyko į Livoniją, palikęs. Dusburgietis teigia, kad apie brolį Gotfridą iš Hohenlohės, Teutonų namų ordino didįjį magistrą 1297 viešpaties metais brolis Gotfridas iš Hohenlohės buvo išrinktas Teutonų namų ordino didžiuoju magistru ir vadovavo 13 metų."
 ---
 # Gotfridas Hohenlohė
 
@@ -129,7 +136,8 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 - id: c-60651
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195."
   citata_originali: |
     283 (276). Apie brolio Gotfrido, didžiojo magistro, atvykimą,   apie tai, kaip jis atsisa­
     kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
@@ -151,7 +159,8 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 - id: c-60652
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 243."
   citata_originali: |
     Apie brolį Gotfridą iš Hohenlohės, Teutonų namų ordino didįjį magistrą
 
@@ -174,7 +183,8 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 - id: c-60653
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     1298 viešpaties
     metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur
@@ -201,7 +211,8 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 - id: c-179024
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Moteris, tiek kartų ir taip
     smarkiai bauginama siaubingų bildesių, daugel sykių gąsdinama stebuklingų balsų,

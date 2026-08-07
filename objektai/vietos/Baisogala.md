@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2d6b7fc82a4064fa73f4183b"
+canonical_name: "Baisogala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Baisogala"]
+sameAs: []
+canonical_biography: "sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d. įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas bunkeryje tarp Radviliškio ir Baisogalos."
+place_authority: true
+historical_names: []
 ---
 # Baisogala
 
@@ -82,7 +91,8 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
 - id: c-114631
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 211-212"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 211-212."
   citata_originali: |
     1948 m. lapkritį–1953 m. gegužę pagaliau sukurtos centralizuo-
     tos struktūros, tačiau jos greitai sunaikintos. Po daugelio nesėkmingų
@@ -114,7 +124,8 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
 - id: c-114632
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 212."
   citata_originali: |
     bandymų 1949 m. vasario 2–22 d.
     įvyko pirmasis ir paskutinis visos

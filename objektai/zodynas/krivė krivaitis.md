@@ -57,7 +57,8 @@ Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio K
 - id: c-168748
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 59."
   citata_originali: |
     Plaukdami prieš srovę į krašto gilumą, prie Dubysos
     žiočių, patogioje vietoje, pakrantėmis išsidriekusioje

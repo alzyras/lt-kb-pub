@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ffac3b4b377902f71159befe"
+canonical_name: "Gaidys"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gaidys"]
+sameAs: []
+canonical_biography: "Gaidys ir Viesulas turėjo tik pistalietus. [...].Gaidys apsiginklavo automatu, paimtu iš nukautojo Kruglovo."
 ---
 # Gaidys
 
@@ -50,7 +57,8 @@ Gaidys ir Viesulas turėjo tik pistalietus. [...].Gaidys apsiginklavo automatu, 
 - id: c-41916
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     Partizanai pasiruošė ginklus. Gaidys ir Viesulas turėjo tik pistalietus. Gi atsargusis Tig-
     ras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulkosvaidžiu. Jis buvo vienintelė

@@ -82,7 +82,8 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 - id: c-82445
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 397-398"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 397-398."
   citata_originali: |
     O prelatai ir kanauninkai
     savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė,
@@ -135,7 +136,8 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 - id: c-82446
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 399."
   citata_originali: |
     Taigi mes, pamatę [abiejų] pusių
     raštus ir privilegijas, juos kruopščiai apsvarstę, pasitarę su
@@ -163,7 +165,8 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 - id: c-82447
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 395-396"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 395-396."
   citata_originali: |
     Kad mus
     pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos

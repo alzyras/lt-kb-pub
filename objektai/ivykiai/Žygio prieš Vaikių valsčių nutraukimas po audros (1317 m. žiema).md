@@ -88,7 +88,8 @@ Nenurodyta
 - id: c-63850
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212-213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212-213."
   citata_originali: |
     Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
                                     kariuomenę

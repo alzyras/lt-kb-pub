@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-55de25fa922475b67ebe2575"
+canonical_name: "Šalčininkai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šalčininkai"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u."
+place_authority: true
+historical_names: []
 ---
 # Šalčininkai
 
@@ -59,7 +68,8 @@ Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u.
 - id: c-81627
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 52."
   citata_originali: |
     Gavęs pa­
     vedimą, nuvyko į Prūsiją ir, remdamasis sandėrio su Ordinu

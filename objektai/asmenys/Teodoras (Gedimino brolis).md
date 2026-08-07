@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47e7db9f8b9aa0c5b60aef7b"
+canonical_name: "Teodoras (Gedimino brolis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teodoras (Gedimino brolis)"]
+sameAs: []
+canonical_biography: "Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva."
 ---
 # Teodoras (Gedimino brolis)
 
@@ -58,7 +65,8 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
 - id: c-32805
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 248."
   citata_originali: |
     Visos Rusi­
     jos metropolito, graiko Teognosto kanceliarijos užrašai parodo, jog

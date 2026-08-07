@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-50d059d75c184757378e2189"
+canonical_name: "Kajetanas Niezabitowskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kajetanas Niezabitowskis"]
+sameAs: []
+canonical_biography: "Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Poškos rinkinyje, paskelbtą „Dziennik Wilenski“ 1823 m."
 ---
 # Kajetanas Niezabitowskis
 
@@ -65,7 +72,8 @@ Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Po
 - id: c-174231
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 505"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 505."
   citata_originali: |
     T. Narbutas turėjo omenyje straipsnj:
     Krotki spis niektorych starožytnych zabytkow, znajdujących się w

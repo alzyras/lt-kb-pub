@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bfaf0bf1d2070ddf123a2be3"
+canonical_name: "Klaipėda Memelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Klaipėda Memelis"]
+sameAs: []
+canonical_biography: "Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse, jas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­ ką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių, sudegino visą miestą ir. Gregorii iidem Lytvini civitatem Memelam ar­ m ata manu intraverunt hostiliter et eam cum suburbiis suis preter solum cast­ rum muro circumdatum, in quo fratres ejusdem ordinis morantur, ceperunt, cremaverunt et penitus destruxerunt, multos ibidem occidentes."
+place_authority: true
+historical_names: []
 ---
 # Klaipėda Memelis
 
@@ -53,7 +62,8 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
 - id: c-82126
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 84."
   citata_originali: |
     Tačiau greitai užėjo tokie baisūs šalčiai, kad ne tik
     Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o jūra 15 my­

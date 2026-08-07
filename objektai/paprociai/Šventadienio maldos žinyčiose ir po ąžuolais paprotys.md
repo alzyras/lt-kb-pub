@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184738
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 78"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 78."
   citata_originali: |
     Iš medės pargrįžę ne miegpūdavo, bet vieni vir­
     ves* suko, kiti tinklus mezgė, kiti lunkus mižojo, vy­

@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b491cacc81c3d32856435230"
+canonical_name: "Vilniaus turgus"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus turgus"]
+sameAs: []
+canonical_biography: "Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­ vystę61."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus turgus
 
@@ -63,7 +72,8 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
 - id: c-82293
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     Iš šio miesto 1579
     metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų

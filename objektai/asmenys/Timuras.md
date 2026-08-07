@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1c4413fe78c32d0a7c96c13d"
+canonical_name: "Timuras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Timuras"]
+sameAs: []
+canonical_biography: "Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro globojamas, vėliau (1391) buvo jo sumuštas. Timuras tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo vado Edigos dalinių."
 ---
 # Timuras
 
@@ -77,7 +84,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - id: c-32811
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 324"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 324."
   citata_originali: |
     Esą Vytautas reikalavęs chaną
     jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
@@ -96,7 +104,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - id: c-32812
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 321."
   citata_originali: |
     Tam įdomios progos davė kilę nesutikimai pačioje Aukso
     ordoje. Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo

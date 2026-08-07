@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-82636a3def19cc96a918e5ea"
+canonical_name: "Melchioras Giedraitis (vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Melchioras Giedraitis","Melchioras Giedraitis (vyskupas)"]
+sameAs: []
+canonical_biography: "Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje dalis kaimiečių, pasak Narbuto, laikėsi senosios pagoniškos religijos. Narbutas aiškina, kad Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus dėl kaimiečių religinės padėties savo diecezijoje."
 ---
 # Melchioras Giedraitis (vyskupas)
 
@@ -77,7 +84,8 @@ media_all_json: |-
 - id: c-173066
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 371"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
   citata_originali: |
     Taip jų mokslas rado mora­
     linę atramą. Po ketverto metų Žemaičių vyskupas Melchioras

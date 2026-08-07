@@ -67,7 +67,8 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
 - id: c-82821
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 70-71"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 70-71."
   citata_originali: |
     —  Malignantes contra boc scriptum et
     sigillum sunt detractores veritatis, dyaboli cultores, fidei de­
@@ -102,7 +103,8 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
 - id: c-82822
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 79."
   citata_originali: |
     Būkite sveiki.
     3) Gediminas, dieviškąja apvaizda lietuvių ir rusų kara­

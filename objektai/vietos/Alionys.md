@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-79e924413107c88bab60bcdb"
+canonical_name: "Alionys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alionys"]
+sameAs: []
+canonical_biography: "7-asis pulkas turėjo pulti Širvintas ir užimti liniją: Alionys-Puoriai-Ramaškonys-Šešuolėlių dvaras."
+place_authority: true
+historical_names: []
 ---
 # Alionys
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-45020
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 209."
   citata_originali: |
     7-asis pulkas turėjo pulti Širvintas ir
     užimti liniją: Alionys-Puoriai-Ramaš-

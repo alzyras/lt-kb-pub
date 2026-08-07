@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-744a4cde07056cf9759e4982"
+canonical_name: "Sirija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sirija"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms suartėti su totoriais — mongolais. Dusburgietis teigia, kad ši kronika, kaip ir atitinkami popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios vienodos, kad šios tautos turėjusios bendrą priešą71.."
+place_authority: true
+historical_names: []
 ---
 # Sirija
 
@@ -123,7 +132,8 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
 - id: c-87095
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
     (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai
@@ -148,7 +158,8 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
 - id: c-171724
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 185."
   citata_originali: |
     24
     Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-

@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3891cc97dc7cada2fceed30e"
+canonical_name: "Kernavos kunigaikštija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kernavos kunigaikštija"]
+sameAs: []
+canonical_biography: "Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža."
+place_authority: true
+historical_names: []
 ---
 # Kernavos kunigaikštija
 
@@ -50,7 +59,8 @@ Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyv
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 172."
   citata_originali: |
     gailos brolis, Aleksandras Vyguntas, Kernavos kun., katalikas,
     kas Skirgailai, kaip schizmatikui, nepatiko. Vyguntas, būdamas

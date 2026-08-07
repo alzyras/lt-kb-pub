@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-60b447ff7b6d3cfe63a63b1d"
+canonical_name: "M. Tumler"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Tumler"]
+sameAs: []
+canonical_biography: "TuDO = Tumler, M."
 ---
 # M. Tumler
 
@@ -60,7 +67,8 @@ TuDO = Tumler, M.
 - id: c-33065
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 22."
   citata_originali: |
     Rekonstrukcija M. D. Priselkova, Maskva
     1950.

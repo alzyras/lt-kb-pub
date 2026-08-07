@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87ba12e5e25ee65011c26655"
+canonical_name: "Amalas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Amalas"]
+sameAs: []
+canonical_biography: "Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria gotų genčių lygos pradžią."
 ---
 # Amalas
 
@@ -55,7 +62,8 @@ Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria got
 - id: c-174246
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 87."
   citata_originali: |
     89
 

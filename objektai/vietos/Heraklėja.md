@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5357e85ccf841cf8cd98761b"
+canonical_name: "Heraklėja"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Heraklėja"]
+sameAs: []
+canonical_biography: "Heraklėja Narbuto pasakojime minima tarp graikų prekyviečių, kurios po ankstyvų gyvenviečių prie Dnestro ir Dnepro žiočių vėliau tapo turtingos."
+place_authority: true
+historical_names: []
 ---
 # Heraklėja
 
@@ -54,7 +63,8 @@ Heraklėja Narbuto pasakojime minima tarp graikų prekyviečių, kurios po ankst
 - id: c-175643
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
   citata_originali: |
     33
     Jau labai senais laikais graikai užmezgė santykius su

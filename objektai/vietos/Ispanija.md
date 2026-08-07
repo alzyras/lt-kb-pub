@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-091b1c357d9c1658240d9187"
+canonical_name: "Ispanija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ispanija"]
+sameAs: []
+canonical_biography: "O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispanijai? Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra, žygio Ispanija nekartojo. Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas."
+place_authority: true
+historical_names: []
 ---
 # Ispanija
 
@@ -65,7 +74,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 <a id="claim-t-90459"></a>
 - t-002
   teiginys: "Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1588 m."
@@ -183,7 +192,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 - id: c-24141
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     Po didžiųjų geografinių atradimų ir turkų ekspansijos
     Viduržemio jūra prarado ekonominę svarbą. O kas nutiko didžiųjų ge-
@@ -203,7 +213,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 - id: c-24142
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     Viena priežasčių, dėl kurių Ispanija
     ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų
@@ -223,7 +234,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 - id: c-24143
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,
     žygio Ispanija nekartojo.
@@ -245,7 +257,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 - id: c-86293
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238."
   citata_originali: |
     Apie tai, kaip saracėnai nusiaubė Ispaniją
 
@@ -263,7 +276,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 - id: c-86294
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     20. Apie Maljorkos ir Menorkos salų užėmimą
 
@@ -281,7 +295,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 - id: c-86295
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     24. Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga
 

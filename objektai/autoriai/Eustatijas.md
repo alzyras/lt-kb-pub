@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-35abc29b42b2ebfd4285424d"
+canonical_name: "Eustatijas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Eustatijas"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Eustatijas, kaip ir Steponas bei senovės scholastai, vartojo formą „’Iv8ixvję“."
 ---
 # Eustatijas
 
@@ -53,7 +60,8 @@ Narbutas nurodo, kad Eustatijas, kaip ir Steponas bei senovės scholastai, varto
 - id: c-174477
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 394"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 394."
   citata_originali: |
     Si pataisa prieštarauja visiems rankraščiams (Co-
     dices)i1, be to, yra tik paprasta prielaida, anot Veselnigo,

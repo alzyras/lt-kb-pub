@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6d7f8839f0d64590e3b484a7"
+canonical_name: "Povilas Lukšys"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Povilas Lukšys"]
+sameAs: []
+canonical_biography: "Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie Kėdainių, kur žuvo pirmas fronto kareivis Povilas Lukšys (1919 m. vasario 7—9 d.)."
 ---
 # Povilas Lukšys
 
@@ -101,7 +108,8 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
 - id: c-42192
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 174."
   citata_originali: |
     miestą, raudonarmiečiai nusprendė apeiti
     kimą keliu Kėdainiai-Kaunas ir nutraukti
@@ -131,7 +139,8 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
 - id: c-42194
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 174."
   citata_originali: |
     Tačiau kitą akimirką į žval-
     gus pasipylė ugnis iš Taučiūnų dvaro. Žuvo
@@ -149,7 +158,8 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
 - id: c-51455
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 174."
   citata_originali: |
     Prieš vakarą į pagalbą lietu-
     viams atvyko vokiečių batalionas, gink-

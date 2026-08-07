@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d652a3a85a91faec067f188"
+canonical_name: "Lovičius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lovičius"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Lovičius
 

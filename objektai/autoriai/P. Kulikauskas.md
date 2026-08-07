@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-498014f7ca47c2f2d13c1cf4"
+canonical_name: "P. Kulikauskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. Kulikauskas"]
+sameAs: []
+canonical_biography: "Kulikauskas, pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD, t. Kulikauskas, P."
 ---
 # P. Kulikauskas
 
@@ -58,7 +65,8 @@ Kulikauskas, pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD, 
 - id: c-33092
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 112."
   citata_originali: |
     1956. — (”) _Žalvario amžius ir Ankstyvasis
     geležies amžius,_ LE, t. 15, 274-282 p. — Jablonskytė-Rimantienė, R. :

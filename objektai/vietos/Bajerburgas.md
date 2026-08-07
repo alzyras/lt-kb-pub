@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-500cb7130c1449e78c5d8ef1"
+canonical_name: "Bajerburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bajerburgas"]
+sameAs: []
+canonical_biography: "Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr."
+place_authority: true
+historical_names: []
 ---
 # Bajerburgas
 
@@ -164,7 +173,8 @@ media_all_json: |-
 - id: c-31957
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 243."
   citata_originali: |
     Bet atvykimas Bavarijos kunigaikš­
     čio Henriko, artimo imperatoriaus Liudviko Bavariečio giminai­
@@ -187,7 +197,8 @@ media_all_json: |-
 - id: c-31958
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 285."
   citata_originali: |
     Nuo 1384.VII.9 d. vykdydamas savo plačiai išgar­
     sintą «išdavystę» _(Verrat),_ Vytautas, vikriai užsimaskavęs, sude­
@@ -206,7 +217,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 31."
   citata_originali: |
     1380 metų vasario mėn. jis jau vienas
     pats padarė su Livonijos magistru Vilhelmu von Vrymersheimu
@@ -227,7 +239,8 @@ media_all_json: |-
 - id: c-171559
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     Kaip tik ten buvo minima Velionos šventykla. XIV am­
     žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
@@ -247,7 +260,8 @@ media_all_json: |-
 - id: c-175918
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 88."
   citata_originali: |
     Vakaruose siena su kry-
     žiuočiais jau buvo nusistojusi. Visas Nemuno žemupys jau Vy-

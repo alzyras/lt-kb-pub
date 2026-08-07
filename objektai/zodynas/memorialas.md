@@ -79,7 +79,8 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
 - id: c-03316
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 458"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 458."
   citata_originali: |
     lyginti su kitų Rusijos sričių mokesčiais. Patsai Oginskis dėl to
     pasidarė populiariu bajorijos vadu. Jis pats tuo tarpu pradėjo
@@ -100,7 +101,8 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
 - id: c-166359
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 459"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 459."
   citata_originali: |
     Per pasikalbėjimus jis pareikšdavo jam daugybę
     komplimentų, bet vengdavo pažadų. Pagaliau Oginskis, pasitaręs

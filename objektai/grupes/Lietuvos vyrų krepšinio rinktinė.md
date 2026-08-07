@@ -104,7 +104,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - id: c-72808
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 176-177"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 176-177."
   citata_originali: |
     O sava valstybė,
     atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių,
@@ -128,7 +129,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - id: c-72809
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 254."
   citata_originali: |
     Barselonos olimpinėse žaidynėse iško-
     vojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-
@@ -147,7 +149,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - id: c-166554
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 175."
   citata_originali: |
     Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lie-
     tuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m.
@@ -167,7 +170,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - id: c-166555
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 254."
   citata_originali: |
     Žygdarbį padarė krep-
     šininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-868b2fc713adc52dd93382b3"
+canonical_name: "Kulikovo laukas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kulikovo laukas"]
+sameAs: []
+canonical_biography: "Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rūpesčiais dalinęsis, kovojęs su juo dar kartu prieš totorius, kur Kulikovo lauke (1380 metų rugsėjo 8-ą) prie perga­ lės daugiausia prisidėjęs, dalyvavo mūšiuose, - Skirgaila užsibuvo."
+place_authority: true
+historical_names: []
 ---
 # Kulikovo laukas
 
@@ -59,7 +68,8 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
 - id: c-82180
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50-51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50-51."
   citata_originali: |
     Tasai Andrius, Jogailai pavaldaus
     Polocko kunigaikštis, Algirdo sū­

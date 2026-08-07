@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-44662
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 270."
   citata_originali: |
     P. 90, 1579 m. Niurnberge išleisto leidinio, skirto nušviesti tais pačiais metais Lietuvos
     pasiektą pergalę prieš maskvėnus atsiimant Polocko miestą, fragmentas (piešinys), MCZ

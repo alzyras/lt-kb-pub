@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8cf87d25dfc3a04f816b2481"
+canonical_name: "Šveicarija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šveicarija"]
+sameAs: []
+canonical_biography: "Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Šveicarijoje. Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar. Šveicarijos komitetai darbavosi ligi karo pabaigos."
+place_authority: true
+historical_names: []
 ---
 # Šveicarija
 
@@ -91,7 +100,8 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 - id: c-154264
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 554"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 554."
   citata_originali: |
     Lietuvių amerikiečių delegatai vėliau
     prisidėjo prie Lietuvos delegacijos Paryžiuje bendrai ginti Lie-
@@ -112,7 +122,8 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 - id: c-154266
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 554"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 554."
   citata_originali: |
     Šita konferencija tegvildeno propagandos organizacijos
     klausimus ir protestavo prieš vokiečių okupacijos žiaurumus
@@ -134,7 +145,8 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 - id: c-175993
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 555"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 555."
   citata_originali: |
     Konfe-
     rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-

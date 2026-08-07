@@ -139,7 +139,8 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 - id: c-55911
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 203."
   citata_originali: |
     Il KNYGA
     1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą
@@ -168,7 +169,8 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 - id: c-55912
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 204."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     Valerijono bursai perleido, nuo kurios studentų dėlei kas­
@@ -194,7 +196,8 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 - id: c-78324
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 203-204"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 203-204."
   citata_originali: |
     1756. Akademijos Rektorius t. Juraha taip pat prie kole­
     gijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,
@@ -224,7 +227,8 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 - id: c-78325
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 202-203"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 202-203."
   citata_originali: |
     Insuper 750 auksinų sumą užrašė,
     prie kurios prisidėjo Vilniaus kanauninkai Marcelis Sucho-

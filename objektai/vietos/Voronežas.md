@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a102cd33b29ae293bd7a7dbb"
+canonical_name: "Voronežas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Voronežas"]
+sameAs: []
+canonical_biography: "menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose)."
+place_authority: true
+historical_names: []
 ---
 # Voronežas
 
@@ -59,7 +68,8 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
 - id: c-164861
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 548"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 548."
   citata_originali: |
     ##### 2. Lietuvių tremtiniai Rusijoje
 

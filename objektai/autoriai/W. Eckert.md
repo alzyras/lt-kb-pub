@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1350ddca98d9ab12c302aa87"
+canonical_name: "W. Eckert"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["W. Eckert"]
+sameAs: []
+canonical_biography: "Eckert, W."
 ---
 # W. Eckert
 
@@ -40,7 +47,8 @@ Eckert, W.
 - id: c-33192
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 134."
   citata_originali: |
     — (”) _Lietuvių įsikūrimas šių dienų Lietuvoje_ , ten pat, II, 1924,
     1-27 p. — _Šis tas iš lietuvių ir indoeuropiečių senovės_ , ten pat, II, 98-

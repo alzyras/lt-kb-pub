@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2ea9e68f00f2358f1f6d809"
+canonical_name: "Vokiečių gatvė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vokiečių gatvė"]
+sameAs: []
+canonical_biography: "Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas miestui atiduo­ tas, o iki tol turgaus centre stovėjusios mėsinės, nemalo­ niais kvapais teršusios orą, perkeltos prie Vokiečių gat­ vės, kur ir dabar tebėra6. Dominikonai tiktai sergėjo, kad pats miestas į jų vienuolyną vieną kanalą nukreiptų ir kad nedraustų nutiesti vamzdžių į Vilniaus pilininko Jono Hozijaus namus, esančius Vokiečių gatvėje, nes jam suteikta tokia teisė."
+place_authority: true
+historical_names: []
 ---
 # Vokiečių gatvė
 
@@ -67,7 +76,8 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
 - id: c-82102
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 277-278"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 277-278."
   citata_originali: |
     261
 
@@ -94,7 +104,8 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
 - id: c-82103
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 280"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 280."
   citata_originali: |
     už
     šimtą kapų lietuviškų grašių ir de­

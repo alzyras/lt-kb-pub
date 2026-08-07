@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a79523111d41a131c23eb7d5"
+canonical_name: "K. Žukas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Žukas"]
+sameAs: []
+canonical_biography: "(^85) K. Žukas : Prof. K. Jablonskio bibliografija , Bibliotekininkystės ir bibliografijos klausimai, IV t., 1965, 155-206 p."
 ---
 # K. Žukas
 
@@ -59,7 +66,8 @@ media_all_json: |-
 - id: c-33002
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 69."
   citata_originali: |
     (^84) **Z. Ivinskis :** **_Prel. Pr. Penkauskas_** **, LASD, 1961, IV t., 264-267 p.**
     (^85) **K. Žukas :** **_Prof. K. Jablonskio bibliografija_** **, Bibliotekininkystės ir

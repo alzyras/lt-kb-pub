@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-01d0c1ae56e95df4d6905793"
+canonical_name: "Drevanta"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Drevanta"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama kaip teritorija tarp Osos šiaurėje, Vyslos vakaruose ir Drėvantos (dab. Drvencos) pietryčiuose (PUB, 1, 1, Nr. 41, p. 30; Nr. 75, p. 55). Dusburgietis teigia, kad pietryčiuose nuo lenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Dusburgietis teigia, kad šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių vyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš 553 D."
+place_authority: true
+historical_names: []
 ---
 # Drevanta
 
@@ -88,7 +97,8 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
 - id: c-59062
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
   citata_originali: |
     Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo
     lenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca). Upės vardas baltiškas
@@ -106,7 +116,8 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
 - id: c-168305
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 178."
   citata_originali: |
     Iš L iv o n ijo s lie tu v ia i
     Taigi šeši tūkstančiai karių,

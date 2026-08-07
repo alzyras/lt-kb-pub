@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2976be1e461e55b35ef08cf3"
+canonical_name: "J. Gerullis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Gerullis"]
+sameAs: []
+canonical_biography: "Gerullis, J.: Zur Sprache der Sudauer-Jätwinger, Festschrift für Ad. Bezzenberger, Göttingen 1921, 44-51p."
 ---
 # J. Gerullis
 
@@ -53,7 +60,8 @@ Gerullis, J.: Zur Sprache der Sudauer-Jätwinger, Festschrift für Ad. Bezzenber
 - id: c-32963
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 129."
   citata_originali: |
     — Essen, V.: _Die länd­
     lichen Siedlungen in Litauen,_ SBRiga, 1934. — Gerullis, J.: _Zur Sprache

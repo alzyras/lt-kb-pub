@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-77313d9bd111c562b68a5b5c"
+canonical_name: "Šventoji ties Smalininkais"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventoji ties Smalininkais"]
+sameAs: []
+canonical_biography: "Šventoji (Swięta) ties Smalininkais minima kaip upė, įtekanti į Nemuną žemiau Jurbarko prie Prūsijos sienos."
+place_authority: true
+historical_names: []
 ---
 # Šventoji ties Smalininkais
 

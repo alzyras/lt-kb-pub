@@ -61,7 +61,8 @@ media_all_json: |-
 - id: c-33605
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 350."
   citata_originali: |
     11-19 p. — Gókski, K. : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,
     nr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.

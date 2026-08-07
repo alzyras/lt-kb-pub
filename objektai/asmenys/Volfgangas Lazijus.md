@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ea2a0aeb9d55d7fab7d6e7c"
+canonical_name: "Volfgangas Lazijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Volfgangas Lazijus"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos užrašą, kurį vėliau iš Lazijaus perrašė Čemberlenas. Kojelavičius remiasi Volfgango Lazijaus teiginiu, kad prūsai, lietuviai, žemaičiai, latviai, jotvingiai, polovcai ir pečenegai senovėje vadinti herulais."
 ---
 # Volfgangas Lazijus
 
@@ -103,7 +110,8 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
 - id: c-174215
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 514-515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 514-515."
   citata_originali: |
     Ma­
     tydamas, jog ta tauta meldžiasi kažkokia nesuprantama jiems kal­
@@ -125,7 +133,8 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
 - id: c-178808
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 42."
   citata_originali: |
     Kadan­
     gi šios labai gausios tautos, palikusios savo senąsias

@@ -146,7 +146,8 @@ Nenurodyta
 - id: c-174925
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 505"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 505."
   citata_originali: |
     „Akmeniniai kirviai randami laukuose ir prie senų sody­
     bų,
@@ -166,7 +167,8 @@ Nenurodyta
 - id: c-174926
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 106."
   citata_originali: |
     Apie 2000-1800 m. pr. Kr. indoeuropiečiai plačiai išsiskleidė ir
     kituose Europos plotuose, pasiekdami Nemuno baseiną. Palei Bal­

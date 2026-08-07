@@ -59,7 +59,8 @@ Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mika
 - id: c-75434
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 60."
   citata_originali: |
     Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas for-
     mavosi iškeliant Vytautą ir jo laikus. Jau pirmoji Lietuvos poema, tikras

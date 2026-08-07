@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-463021a995871680cd2b2967"
+canonical_name: "Astikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Astikas"]
+sameAs: []
+canonical_biography: "Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais."
 ---
 # Astikas
 
@@ -54,7 +61,8 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
 - id: c-169543
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 466"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
   citata_originali: |
     Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
     gimine ir sąjungą su lenkais. Manvydas susitarė su

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dc1808250d395e6653e40a25"
+canonical_name: "Deziderijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Deziderijus"]
+sameAs: []
+canonical_biography: "Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas."
 ---
 # Deziderijus
 
@@ -57,7 +64,8 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
 - id: c-169556
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 55."
   citata_originali: |
     Vis dėlto po popiežiaus Stepono mirties lango­
     bardai, nebijodami galų, sugrįžo prie senųjų polinkių.

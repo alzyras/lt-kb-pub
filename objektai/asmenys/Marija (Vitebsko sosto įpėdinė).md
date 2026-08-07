@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1bd282d469150d8c677395a2"
+canonical_name: "Marija (Vitebsko sosto įpėdinė)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Marija (Vitebsko sosto įpėdinė)"]
+sameAs: []
+canonical_biography: "Algirdui vedant vienintelę Vitebsko kunigaikščio sosto įpėdinę, dukterį Mariją, Vitebskas pateko Gedimino valstybės valdžion, nes, uošviui mirus, Algirdas tapo paveldėtoju^2."
 ---
 # Marija (Vitebsko sosto įpėdinė)
 
@@ -61,7 +68,8 @@ Algirdui vedant vienintelę Vitebsko kunigaikščio sosto įpėdinę, dukterį M
 - id: c-32788
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 246."
   citata_originali: |
     Politiškai
     dar reikšmingesnės buvo sūnų vedybos. Algirdui vedant vienintelę

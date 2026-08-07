@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3147b9f46cf8bb2afe3aea6b"
+canonical_name: "Rusdorfas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rusdorfas"]
+sameAs: []
+canonical_biography: "1435 m. gruodžio 31 d. sudaryta Bresto (Kujavy) taika tarp Lenkijos karaliaus Vladislovo Jogailaičio, Lietuvos didžiojo kunigaikščio Žygimanto Kęstutaičio ir Vokiečių-kryžiuočių ordino didžiojo magistro Rusdorfo, atstovaujančio Ordino žemėms Prūsijoje."
 ---
 # Rusdorfas
 
@@ -83,7 +90,8 @@ media_all_json: |-
 - id: c-105139
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 71."
   citata_originali: |
     1435 m. gruodžio 31 d. sudaryta Bresto
     (Kujavy) taika tarp Lenkijos karaliaus
@@ -107,7 +115,8 @@ media_all_json: |-
 - id: c-105140
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 174."
   citata_originali: |
     Pa­
     galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-

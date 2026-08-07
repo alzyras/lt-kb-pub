@@ -54,7 +54,8 @@ Narbutas Gardaitį (Gardoeldius) apibūdina kaip vėjų, audrų ir jūros potvyn
 - id: c-172110
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 105."
   citata_originali: |
     Žiūrėk IV lentelės 41-ąjį piešinį ir vėlia­
     vos aprašymą straipsnyje „Herbai“.

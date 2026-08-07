@@ -43,7 +43,8 @@ Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurta
 - id: c-44728
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 258."
   citata_originali: |
     Radijo stotys gautos iš Dariaus ir Girėno
     skraidymo klubo. Nešiojamosios radijo

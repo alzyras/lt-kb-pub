@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-646a919180eb0c355bc56a4d"
+canonical_name: "Viesulas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Viesulas"]
+sameAs: []
+canonical_biography: "Gaidys ir Viesulas turėjo tik pistalietus."
 ---
 # Viesulas
 
@@ -50,7 +57,8 @@ Gaidys ir Viesulas turėjo tik pistalietus.
 - id: c-41470
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     Partizanai pasiruošė ginklus. Gaidys ir Viesulas turėjo tik pistalietus. Gi atsargusis Tig-
     ras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulkosvaidžiu. Jis buvo vienintelė

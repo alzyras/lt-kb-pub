@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-87564
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95."
   citata_originali: |
     54 (53) Apie vieną stebuklą
     Tuo metu pasimirė kelyje, grįždamas į savo tėvynę, vienas kryžininkas iš Meiseno,

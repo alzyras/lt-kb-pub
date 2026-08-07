@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2b93f033664478d0e5f6e003"
+canonical_name: "Godzislavas Baško"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Godzislavas Baško"]
+sameAs: []
+canonical_biography: "Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - lavo Baško (vert."
 ---
 # Godzislavas Baško
 
@@ -60,7 +67,8 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
 - id: c-84069
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 205."
   citata_originali: |
     ## Puslapis 205
 

@@ -73,9 +73,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184711
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 77"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 77."
   citata_originali: |
     Aus­
     tės daugiaus vyžomis, ne naginėmis, vasarvidžiu trū-
@@ -96,9 +96,9 @@ Nenurodyta
     - t-001
 
 - id: c-184712
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 77"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 77."
   citata_originali: |
     Toksai apdaras taip joms priderėjo, jog jaunuo­
     menė gulbiais jas vadino. Nė viena taip didžiai

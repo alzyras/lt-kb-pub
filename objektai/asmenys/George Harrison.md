@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5be72f537f939c725cabbae9"
+canonical_name: "George Harrison"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["George Harrison"]
+sameAs: []
+canonical_biography: "O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison ir Paul McCartney, Keith Richards ir Ronnie Wood, David Gilmour ir Bruce Springsteen?"
 ---
 # George Harrison
 
@@ -49,7 +56,8 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 - id: c-21680
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 266."
   citata_originali: |
     nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
     Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.

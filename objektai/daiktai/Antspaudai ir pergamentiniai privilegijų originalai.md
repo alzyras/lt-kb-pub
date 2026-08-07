@@ -93,7 +93,8 @@ Nenurodyta
 - id: c-83024
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 164."
   citata_originali: |
     2-ąja yra ap­
     rūpinama Vilniaus katedros klebo­
@@ -135,7 +136,8 @@ Nenurodyta
 - id: c-83025
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 165."
   citata_originali: |
     Unia v-a
     Litewska z Koroną. Szuflada I. A. 1413.

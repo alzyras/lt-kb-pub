@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f80e8c651dd6b667589839d0"
+canonical_name: "Ivanas Hornostajus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas Hornostajus"]
+sameAs: []
+canonical_biography: "Maras Kauną ištiko 1531 m. Kaip sakoma 1532 m. Žygimanto Senojo rašte žemės iždininkui Ivanui Hornostajui, praeitais metais miestas nukentėjo dėl maro, nemažai žmonių išmirė, todėl miestiečiai prašė atleisti nuo naujų muitų."
 ---
 # Ivanas Hornostajus
 
@@ -50,9 +57,9 @@ Maras Kauną ištiko 1531 m. Kaip sakoma 1532 m. Žygimanto Senojo rašte žemė
 ## Citatos
 
 - id: c-185468
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 173"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 173."
   citata_originali: |
     Maras Kauną ištiko 1531 m. Kaip sakoma 1532 m. Žygimanto Senojo rašte že-
     mės iždininkui Ivanui Hornostajui, praeitais metais miestas nukentėjo dėl maro,

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1f57d6325750d69dd7c71997"
+canonical_name: "Proitas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Proitas"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis graikų dievų padavimais, Proito laikus sieja su pranašautoju Melampu, gyvenusiu dar iki Trojos karo."
 ---
 # Proitas
 
@@ -61,7 +68,8 @@ Narbutas, remdamasis graikų dievų padavimais, Proito laikus sieja su pranašau
 - id: c-173087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
   citata_originali: |
     Priklausomai nuo gėrimo pagaminimo būdo
     dievas įgydavo Bubilo arba Ragučio vardą, kaip tai pastebima

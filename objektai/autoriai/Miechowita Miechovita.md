@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c3e73c6cf121a17527d1172b"
+canonical_name: "Miechowita Miechovita"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Miechowita Miechovita"]
+sameAs: []
+canonical_biography: "Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui. M. Miechovitos Lenkijos kronika turėjo tekstinių sutapimų su Bychovco kronika."
 ---
 # Miechowita Miechovita
 
@@ -73,7 +80,8 @@ Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Vale
 - id: c-84013
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135."
   citata_originali: |
     Dabartinis
     iš tiesų visiškai skiriasi nuo pirmes-
@@ -116,7 +124,8 @@ Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Vale
 - id: c-178917
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 35."
   citata_originali: |
     Be to, kai kurie M. Miechovitos Lenkijos
     kronikos ir Bychovco kronikos tekstų sutapimai, apra-

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fe63ac8ec822b5462e484f7b"
+canonical_name: "Šventasis Kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventasis Kalnas"]
+sameAs: []
+canonical_biography: "Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo Grigorijaus palaimintas."
+place_authority: true
+historical_names: []
 ---
 # Šventasis Kalnas
 
@@ -73,7 +82,8 @@ Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo 
 - id: c-170632
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 53."
   citata_originali: |
     Tuokart Vaišvilkas ir pakrikštijo Levo sūnų Jurijų.
     Paskiau leidosi kelionėn į Poionos6  vienuolyną pas

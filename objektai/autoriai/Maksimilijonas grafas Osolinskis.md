@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-24bee8d45475a7b946c279bc"
+canonical_name: "Maksimilijonas grafas Osolinskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Maksimilijonas grafas Osolinskis"]
+sameAs: []
+canonical_biography: "Tų budinu kolonijų išsidėstymo vietas deramai nusta tė šiuolaikiniai senovės tyrinėtojai, kurie nagrinėjo He rodoto geografiją ir vietoje susipažino su įvairiomis geo 1 Lelewel, Rzut oka na dawnosc Narodow Litew."
 ---
 # Maksimilijonas grafas Osolinskis
 
@@ -46,7 +53,8 @@ Tų budinu kolonijų išsidėstymo vietas deramai nusta tė šiuolaikiniai senov
 - id: c-177281
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 72."
   citata_originali: |
     58
     Tų budinu kolonijų išsidėstymo vietas deramai nusta­

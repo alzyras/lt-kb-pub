@@ -61,7 +61,8 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 299."
   citata_originali: |
     Buvo laikai, kad jo būklė būdavo labai kritiška. Iš karto atsi­
     rasdavo net keli „saarai“ (pav. 1427 mt. pradžioje jų buvo dar

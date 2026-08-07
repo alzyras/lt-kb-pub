@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c0be8997d8ca29a1b0d5d571"
+canonical_name: "Liudvikas (Sicilijos karaliaus Roberto brolis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas (Sicilijos karaliaus Roberto brolis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą 1317 viešpaties metais Jonas, popiežius, kanonizavo šventą Liudviką, Sicilijos karaliaus Roberto brolį iš mažesniųjų brolių ordino, ir liepė švęsti jo gimimą penktą dieną po žolinės (Mart."
 ---
 # Liudvikas (Sicilijos karaliaus Roberto brolis)
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brol
 - id: c-61009
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249."
   citata_originali: |
     119. Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą
 

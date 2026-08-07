@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-01968
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 557"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 557."
   citata_originali: |
     Kairioji dalis atsisakė dėtis
     prie kompromiso ir išstojo iš Tarybos. Bet ir likusioji Tarybos

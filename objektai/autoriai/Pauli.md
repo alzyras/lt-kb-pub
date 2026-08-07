@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-660c64fbbc970d1caf987469"
+canonical_name: "Pauli"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Pauli"]
+sameAs: []
+canonical_biography: "Nors Pauli savo Prūsijos valsty­ bės istorijoje, T."
 ---
 # Pauli
 
@@ -50,7 +57,8 @@ Nors Pauli savo Prūsijos valsty­ bės istorijoje, T.
 - id: c-84057
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 95."
   citata_originali: |
     XI, c. 7; iš ten
     buvo perimta vėlesnių kronikininkų,

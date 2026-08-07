@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b588b4adc0ad06aef304c5e0"
+canonical_name: "J. Voigt"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Voigt"]
+sameAs: []
+canonical_biography: "Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);."
 ---
 # J. Voigt
 
@@ -77,7 +84,8 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
 - id: c-30597
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 96."
   citata_originali: |
     Iš senesniųjų isto­
     rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­

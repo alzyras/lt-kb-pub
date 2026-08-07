@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43e4f1546fc652e41e2233bd"
+canonical_name: "Rimberto, Rimbertas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Rimberto, Rimbertas"]
+sameAs: []
+canonical_biography: "Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos karinius santykius įdomią prošvaistę duoda apie 875 m. Rimberto parašytas gyvenimas šiaurės apaštalo šv. Kuršiai (Cori), kurių vardą Rimbertas pirmasis pamini, esą anksčiau priklausę švedų valdžiai. Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi savo penkiose srityse būti nepriklausomi."
 ---
 # Rimberto, Rimbertas
 
@@ -95,7 +102,8 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
 - id: c-30842
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 122."
   citata_originali: |
     Kai « barzdoti vyrai» iš užjūrio puldinėjo
     Baltijos pajūrį, į tuos karinius santykius įdomią prošvaistę duoda
@@ -112,7 +120,8 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
 - id: c-33124
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 122."
   citata_originali: |
     Tai patvirtina ir Hervararsaga
     (apie 675 m.), teigianti, jog Kuršą buvo užvaldęs švedų karalius
@@ -133,7 +142,8 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
 - id: c-33125
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 122."
   citata_originali: |
     Ansgaro, kuris misijų reikalu buvo sustojęs ir Kurše.
     Kuršiai (Cori), kurių vardą Rimbertas pirmasis pamini, esą

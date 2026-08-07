@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-68db4d6f7911d50cfe9b4b34"
+canonical_name: "Svyro stovykla"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Svyro stovykla"]
+sameAs: []
+canonical_biography: "Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejykla beveik ka­ raliaus akyse liejo grėsmingus pabūklus pagal geriausius pavyzdžius, kai skaitlingi rinktinės kariuomenės būriai Vil­ niaus gatvėmis traukė į stovyklą Svyre, šis didysis."
+place_authority: true
+historical_names: []
 ---
 # Svyro stovykla
 
@@ -61,7 +70,8 @@ Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejyk
 - id: c-82220
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 304-305"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 304-305."
   citata_originali: |
     Smig-
     288

@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-177197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
   citata_originali: |
     Buvo ir lietuvių valdo­
     vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-

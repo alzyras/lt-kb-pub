@@ -92,7 +92,8 @@ Nenurodyta
 - id: c-82907
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 55-56"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 55-56."
   citata_originali: |
     Didysis magistras į Vilnių išsiuntė
     komtūrus: iš Elbliongo, Baigos, Brandenburgo ir Kristbur-
@@ -141,7 +142,8 @@ Nenurodyta
 - id: c-82908
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 56."
   citata_originali: |
     Su trigubai di­
     desniu įniršiu, nešini šv. Jurgio vėliava puolė į mūšį Ordino

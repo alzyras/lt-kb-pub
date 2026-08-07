@@ -23,6 +23,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-019f8b5b77f8e1735bd3ae47"
+canonical_name: "Jokūbas Mackavičius Šukas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokūbas Mackavičius Šukas"]
+sameAs: []
+canonical_biography: "Aleksandras Pečiūga (Alexander Piotrowicz Pieczuga) 1645-1655 m. Motiejus Gorskis (Matthias Gorski) Ankstyviausioje iš išlikusiųjų 1534 m. Žygimanto Senojo privilegijoje Kauno tarė jui Jokūbui Šukui teigiama, kad šis po Kauno miesto vaito Jurgio Ravos (Rabės)."
 ---
 # Jokūbas Mackavičius Šukas
 
@@ -47,9 +54,9 @@ Aleksandras Pečiūga (Alexander Piotrowicz Pieczuga) 1645-1655 m. Motiejus Gors
 ## Citatos
 
 - id: c-185422
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 285"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 285."
   citata_originali: |
     Aleksandras Pečiūga (Alexander Piotrowicz Pieczuga)
     1645-1655 m. Motiejus Gorskis (Matthias Gorski)

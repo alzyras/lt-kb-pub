@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a3a8702d7d738ad8199ba745"
+canonical_name: "Karamzin"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Karamzin"]
+sameAs: []
+canonical_biography: "84 Kryžiuočių Slaptajame Archyve, Karaliaučiuje, yra Vy­ tauto laiškų, rašytų magistrui Rusdorfui (pasak Karamzino, V, p. 145) derybų dėl Lietuvos karūnos Vytau­ tui dingstimi, kur viename iš jų, da­ tuotame 1430 m. rugpjūčio mėn., didžiajam magistrui praneša."
 ---
 # Karamzin
 
@@ -63,7 +70,8 @@ media_all_json: |-
 - id: c-84050
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 174."
   citata_originali: |
     84
     Kryžiuočių Slaptajame

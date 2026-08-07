@@ -53,7 +53,8 @@ Teodoro Narbuto aiškinime Plinijus Panotii vadino pasakojimo apie ilgaausius ž
 - id: c-174592
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 174."
   citata_originali: |
     O gal pasitaikė
     iš toto regėti žmogų su didele kailine kepure ilgomis au­

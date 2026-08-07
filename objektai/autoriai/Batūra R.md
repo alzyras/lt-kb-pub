@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d9d65c477dc8555e380e3124"
+canonical_name: "Batūra R"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Batūra R"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad batūra R datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153). Dusburgietis teigia, kad 191—192; Batūra R., Karinė..., р."
 ---
 # Batūra R
 
@@ -79,7 +86,8 @@ Dusburgietis teigia, kad batūra R datuojamas ir 1263 m.) organizavo Mindaugas, 
 - id: c-87581
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
   citata_originali: |
     Minėtieji Numa ir
       520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos
@@ -99,7 +107,8 @@ Dusburgietis teigia, kad batūra R datuojamas ir 1263 m.) organizavo Mindaugas, 
 - id: c-87582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
   citata_originali: |
     Apie daugy­
                                   bės krikščionių žūtį

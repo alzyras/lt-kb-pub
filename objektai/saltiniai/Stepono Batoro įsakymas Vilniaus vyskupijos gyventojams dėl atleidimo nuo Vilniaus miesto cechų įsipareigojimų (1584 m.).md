@@ -72,7 +72,8 @@ Jurgis Radvila, Vilniaus vyskupas, Olykos kunigaikštis, savo ranka. Šiuo rašt
 - id: c-157347
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 455-456"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 455-456."
   citata_originali: |
     Šio dalyko patvirtinimui mū­
     sų antspaudas rašto apačioje yra įspaustas. Duota Gardine
@@ -99,7 +100,8 @@ Jurgis Radvila, Vilniaus vyskupas, Olykos kunigaikštis, savo ranka. Šiuo rašt
 - id: c-176816
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 449-450"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 449-450."
   citata_originali: |
     Jurgis Radvila, Vilniaus vyskupas, Olykos kunigaikštis,
     savo ranka.

@@ -78,7 +78,7 @@ Nenurodyta
 <a id="claim-t-71777"></a>
 - t-002
   teiginys: "1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1579 m."
@@ -110,7 +110,8 @@ Nenurodyta
 - id: c-23272
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 78."
   citata_originali: |
     Tačiau Steponas
     Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus uni-
@@ -131,7 +132,8 @@ Nenurodyta
 - id: c-23273
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 80."
   citata_originali: |
     Vilniaus akademijos atidarymo privileginį raštą. 1579 m. spalio 29 d.
     popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
@@ -147,7 +149,8 @@ Nenurodyta
 - id: c-23274
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 81."
   citata_originali: |
     Vilniaus universite-
     to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
@@ -172,7 +175,8 @@ Nenurodyta
 - id: c-166672
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzui-
     tais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą. Barokinė

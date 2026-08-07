@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7275c6377532f3107066a6c8"
+canonical_name: "Baltramiejus Ciešinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Baltramiejus Ciešinskis"]
+sameAs: []
+canonical_biography: "Ciešinskis buvo tapęs Vilniaus vyskupijos kapitulos kanauninku, jis daug laiko praleisdavo Vilniuje."
 ---
 # Baltramiejus Ciešinskis
 
@@ -50,9 +57,9 @@ Ciešinskis buvo tapęs Vilniaus vyskupijos kapitulos kanauninku, jis daug laiko
 ## Citatos
 
 - id: c-185439
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 325"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 325."
   citata_originali: |
     B. Ciešinskis buvo tapęs Vilniaus vyskupijos kapitulos kanauninku, jis daug laiko
     praleisdavo Vilniuje. 1609 m. jis tapo Vilniaus universiteto laisvųjų menų ir filosofi-

@@ -110,7 +110,8 @@ Nenurodyta
 - id: c-63579
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
   citata_originali: |
     Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
     1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe

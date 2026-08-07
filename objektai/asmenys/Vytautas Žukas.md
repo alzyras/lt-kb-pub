@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-60caa97b3fdc36b3f840167b"
+canonical_name: "Vytautas Žukas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vytautas Žukas"]
+sameAs: []
+canonical_biography: "Vytautas Žukas pasakoja apie AT gynybos principus. Vytautas Žukas buvo numatyta kelių žiedų gynyba."
 ---
 # Vytautas Žukas
 
@@ -52,7 +59,8 @@ Vytautas Žukas pasakoja apie AT gynybos principus. Vytautas Žukas buvo numatyt
 - id: c-44574
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 264."
   citata_originali: |
     Tūkstančių žmonių (!)
 

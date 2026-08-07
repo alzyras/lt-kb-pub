@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7fded0bea03d5ea58af70ba2"
+canonical_name: "V. Grigas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Grigas"]
+sameAs: []
+canonical_biography: "Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos)."
 ---
 # V. Grigas
 
@@ -50,7 +57,8 @@ Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos).
 - id: c-77394
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 181."
   citata_originali: |
     Panevėžio rinktinei priklausė Panevėžio
     atskirasis batalionas (6 kuopos ir rai-

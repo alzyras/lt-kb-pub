@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f44817165c954b13bc5fc3b8"
+canonical_name: "Vikintas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vikintas"]
+sameAs: []
+canonical_biography: "Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­ das, o Vitebske jų dėdė, motinos brolis, Vikintas."
 ---
 # Vikintas
 
@@ -60,7 +67,8 @@ Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 17."
   citata_originali: |
     Tuo pat metu
     Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno

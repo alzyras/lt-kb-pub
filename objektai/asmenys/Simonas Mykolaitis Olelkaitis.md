@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ca414ad108de0e916acf426"
+canonical_name: "Simonas Mykolaitis Olelkaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Simonas Mykolaitis Olelkaitis"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Simonas Mykolaitis Olelkaitis
 

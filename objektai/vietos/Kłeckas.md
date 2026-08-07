@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c71bedeb763c1d38463c6110"
+canonical_name: "Kłeckas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kłeckas"]
+sameAs: []
+canonical_biography: "Be to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­ čių fundacijos: Vilniaus vaivada ir LDK kancleris Mikalojus Radvila, Aleksandro laikais, apie 1514 metus, ties Kłecku prieš totorius pasiektai pergalei atminti savo žemėje už miesto ant kalnelio."
+place_authority: true
+historical_names: []
 ---
 # Kłeckas
 
@@ -58,7 +67,8 @@ Be to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­ čių funda
 - id: c-82280
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 280-282"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 280-282."
   citata_originali: |
     Po šios
     džiugios naujienos buvo įvairiausiai

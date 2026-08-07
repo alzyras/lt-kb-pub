@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-48d4ae8850562ba817f41150"
+canonical_name: "Safaržykas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Safaržykas"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais ir jų skirtumus aiškino germanų bei finų valdžia. Narbutas nurodė, kad Safaržykas minėjo Vienoje saugotą auksinę taurę kaip jazigų egzistavimo prieš Kristų pėdsaką. Narbutas pažymėjo, kad Safaržykas slavų senienų tyrinėjimuose žemdirbius skitus laikė skitų nukariautais slavais."
 ---
 # Safaržykas
 
@@ -130,7 +137,8 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
 - id: c-174437
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 76."
   citata_originali: |
     Galbūt todėl, kad ir bu-
     dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
@@ -157,7 +165,8 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
 - id: c-174438
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
   citata_originali: |
     Pirmiesiems priklausė jazigai, susimai­
     šę su nukariautais slavais, o antriesiems — aukštesnioji
@@ -179,7 +188,8 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
 - id: c-174439
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
   citata_originali: |
     Tai turėjo įvykti anks­
     čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­
@@ -202,7 +212,8 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
 - id: c-179276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
   citata_originali: |
     Tai turėjo įvykti anks­
     čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­

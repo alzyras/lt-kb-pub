@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-375d6aefe2a203fc02769c08"
+canonical_name: "Goštauto sodas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Goštauto sodas"]
+sameAs: []
+canonical_biography: "Goštauto sodas."
+place_authority: true
+historical_names: []
 ---
 # Goštauto sodas
 
@@ -45,7 +54,8 @@ Goštauto sodas.
 - id: c-176876
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 217."
   citata_originali: |
     9. Goštauto sodas.
     10. Dominikonų ordino namas.

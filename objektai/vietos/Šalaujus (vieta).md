@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e08df3da12b59314192257c"
+canonical_name: "Šalaujus (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šalaujus","Šalaujus (vieta)"]
+sameAs: []
+canonical_biography: "Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Šalaujus ir Nadraujus, antras ėjo nuo Klaipėdos kopomis tarp jūros ir marės, arba Klaipėdos atsiautos."
+place_authority: true
+historical_names: []
 ---
 # Šalaujus (vieta)
 
@@ -46,9 +55,9 @@ Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Š
 ## Citatos
 
 - id: c-184530
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 354"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 354."
   citata_originali: |
     Visų pavoj ausiu daiktu buvo dėl nukariavimo
     Sami jos pažinės ir gentysta samionų su kitais že­

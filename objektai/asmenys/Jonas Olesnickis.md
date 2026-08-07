@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ea7879fab2f48ac068bf4f5a"
+canonical_name: "Jonas Olesnickis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Olesnickis"]
+sameAs: []
+canonical_biography: "Po jo 1390 m. tą vietą užėmė Jonas Olesnickis."
 ---
 # Jonas Olesnickis
 
@@ -230,7 +237,8 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 169."
   citata_originali: |
     Nors Skirgaila ir turėjo krašte vyriausią valdžią, bet karinę tu­
     rėjo dalintis su Maskoževskiu. Po jo 1390 m. tą vietą užėmė
@@ -247,7 +255,8 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-78905
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 148-149"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 148-149."
   citata_originali: |
     —  •  —
     132
@@ -277,7 +286,8 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-78906
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 145."
   citata_originali: |
     Pamažu ėmė telktis išsisklaidę
     gyventojai ir statytis namus ant degėsių. Tačiau Moskožev-
@@ -301,7 +311,8 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-78907
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 150."
   citata_originali: |
     Tasai kunigaikštis, toks pat
     narsus, kaip ir apsukrus, skubinai išvyksta iš Marienburgo, ir
@@ -326,7 +337,8 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-78908
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 149."
   citata_originali: |
     Šitą supratęs Olesnickis surengia drąsų išpuo­
     lį ir su visa įgula netikėtai užgriūna vokiečius, suduoda jiems
@@ -348,7 +360,8 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-78910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 148."
   citata_originali: |
     Iš tiesų ketu­
     rių mylių nuo Vilniaus spinduliu visos gyvenvietės, kaip an­
@@ -373,7 +386,8 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - id: c-168101
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 320."
   citata_originali: |
     Mergelės Marijos bažnyčią, plačioje aikštėje.
     Olesnickis, gerai žinodamas, kad pirmieji karo žingsniai

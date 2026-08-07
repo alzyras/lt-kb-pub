@@ -59,7 +59,8 @@ Jame krašto atstovai vienbalsiai priėmė Šilutės deklaraciją, kuria buvo nu
 - id: c-77408
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 215."
   citata_originali: |
     Sukilimo vadui
     Jonui Budriui-

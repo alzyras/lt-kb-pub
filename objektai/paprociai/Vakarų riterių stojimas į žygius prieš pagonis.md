@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-83207
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135."
   citata_originali: |
     Kai rug­
     pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­

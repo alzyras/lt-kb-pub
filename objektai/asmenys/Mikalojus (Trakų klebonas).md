@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-da5d577a412ff8e7caac6c4f"
+canonical_name: "Mikalojus (Trakų klebonas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus (Trakų klebonas)"]
+sameAs: []
+canonical_biography: "Mikalojus (Trakų klebonas) buvo nepa­ geidaujamas Vytauto, Apaštališkajam Sostui į Vilniaus vys­ kupus siūlančio Trakų koleginės bažnyčios kleboną Mikalojų."
 ---
 # Mikalojus (Trakų klebonas)
 
@@ -63,7 +70,8 @@ Mikalojus (Trakų klebonas) buvo nepa­ geidaujamas Vytauto, Apaštališkajam So
 - id: c-83896
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 207."
   citata_originali: |
     Mikalojus Gožkovskis, lenkas, šv. teologijos daktaras, kry­
     žiaus ženklo antspaudą dėdavęs, buvo vyskupu nuo 1408 m.

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-213a81fc3f28a96d2e21487f"
+canonical_name: "Henrikas iš Lichtenšteino"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas iš Lichtenšteino"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­ jos [vyrų] Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą ir kai įsakė kitiems jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės. Dusburgietis teigia, kad šitai išvydęs, valdovas Henrikas iš Lichtenšteino staiga užgriuvo priešus ir sugrąžino į pirmykštę vietą atimtą grobį. Dusburgietis teigia, kad apie įvairias Sventopelko derybas ir sutartis Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš Lichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė: „Esu pasirengęs paisyti teisingumo ir."
 ---
 # Henrikas iš Lichtenšteino
 
@@ -94,7 +101,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 <a id="claim-t-184081"></a>
 - t-004
   teiginys: "Henrikas iš Lichtenšteino užgriuvo Sventopelko karius ir susigrąžino jų atimtą grobį."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -106,14 +113,13 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 <a id="claim-t-197095"></a>
 - t-005
   teiginys: "Kai abi kariuomenės išsirikiavo mūšiui, valdovas Henrikas sugrįžo atgal ir, išvydęs priešus, pasakė broliams: „Delsti pavojinga, todėl pulkime juos!“ Jie įnirtingai užpuolė priešus, ir prasidėjo baisios kautynės; Sventopelko kariuomenė prarado mūšio lauke."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60658
     - c-167466
 
 ## Reikšmingi paminėjimai
@@ -144,7 +150,8 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - id: c-60657
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 99."
   citata_originali: |
     Apie įvairias Sventopelko derybas ir sutartis
 
@@ -171,7 +178,8 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - id: c-60658
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
   citata_originali: |
     Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
     koks bailys pamatęs daugybę nukautųjų. Šitai išvydęs, valdovas Henrikas iš Lichtenšteino
@@ -186,12 +194,12 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   pagrindzia:
     - t-003
     - t-004
-    - t-005
 
 - id: c-60659
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
   citata_originali: |
     Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
     jos [vyrų]
@@ -215,7 +223,8 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - id: c-167466
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
   citata_originali: |
     Kai abi
     kariuomenės išsirikiavo mūšiui, valdovas Henrikas sugrįžo atgal ir, išvydęs priešus,

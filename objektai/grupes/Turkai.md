@@ -40,7 +40,7 @@ media_all_json: |-
 <a id="claim-t-185420"></a>
 - t-001
   teiginys: "1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,7 +48,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168781
-    - c-168782
 
 <a id="claim-t-185421"></a>
 - t-002
@@ -159,7 +158,8 @@ media_all_json: |-
 - id: c-168781
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 414"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 414."
   citata_originali: |
     Štai todėl vienaip kalbėjo im­
     peratorius su Jogaila, kitaip
@@ -193,7 +193,8 @@ media_all_json: |-
 - id: c-168782
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 414"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 414."
   citata_originali: |
     Jogaila, aptaręs su senatu ir
     Vytautu šiuos pasiūlymus, atsakė: jeigu visi krikščio­
@@ -217,6 +218,5 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
     - t-003

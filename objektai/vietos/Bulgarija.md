@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9677f19781db6d8b9f55f7f4"
+canonical_name: "Bulgarija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bulgarija"]
+sameAs: []
+canonical_biography: "st.) ir lenkė Rumuniją, Bulgariją."
+place_authority: true
+historical_names: []
 ---
 # Bulgarija
 
@@ -75,7 +84,8 @@ st.) ir lenkė Rumuniją, Bulgariją.
 - id: c-49120
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 122."
   citata_originali: |
     Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis
     kylančios revoliucijos bangos visoje Rusijoje, išleido manifestą, kuriame
@@ -96,7 +106,8 @@ st.) ir lenkė Rumuniją, Bulgariją.
 - id: c-49121
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 122-123"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 122-123."
   citata_originali: |
     Su-
     manymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J. Basanavi-

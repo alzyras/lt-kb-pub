@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bcaece3986ace0b7ad4e705d"
+canonical_name: "Transilvanija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Transilvanija"]
+sameAs: []
+canonical_biography: "Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O S I S T O R I J A 66 Steponui Batorui (valdė 1576–1586 m.) pasiektos lemiamos pergalės Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusamžiui (1609–1611 m.."
+place_authority: true
+historical_names: []
 ---
 # Transilvanija
 
@@ -63,7 +72,8 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
 - id: c-26550
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 65-66"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 65-66."
   citata_originali: |
     Liublino unijos nauda pasireiškė jau ne-
     trukus. Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui

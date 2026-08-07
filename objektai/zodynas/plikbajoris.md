@@ -87,7 +87,8 @@ media_all_json: |-
 - id: c-71102
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 413"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 413."
   citata_originali: |
     Todėl didikai stengėsi patraukti į savo
     pusę daugumą bajorijos. O ją patraukti tebuvo galima tik protek-
@@ -108,7 +109,8 @@ media_all_json: |-
 - id: c-71104
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 413"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 413."
   citata_originali: |
     Todėl jie va-
     žiuodavo triukšmingai garbindami juos vežantį didiką. Atvežti
@@ -129,7 +131,8 @@ media_all_json: |-
 - id: c-166369
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 413"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 413."
   citata_originali: |
     O ją patraukti tebuvo galima tik protek-
     cijomis ir nuolatinėmis puotomis savo dvaruose. Į seimelius tam
@@ -150,7 +153,8 @@ media_all_json: |-
 - id: c-175906
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 414"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 414."
   citata_originali: |
     Jiems tekdavo laukti kito seimelio ir tikėtis savo poną apginti.
     Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų.

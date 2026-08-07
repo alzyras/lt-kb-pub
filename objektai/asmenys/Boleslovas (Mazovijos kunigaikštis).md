@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4fdf59f7c029dcaa98b69172"
+canonical_name: "Boleslovas (Mazovijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslovas (Mazovijos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas man nesuprantamais sumetimais sudarė kuriam laikui tarp krikščionių ir netikėlių paliaubas, jų metu lenkai, nesitikėdami jokių pavojų, ramiai sau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį. Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­ na Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis, ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą, ne."
 ---
 # Boleslovas (Mazovijos kunigaikštis)
 
@@ -139,7 +146,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 - id: c-85618
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
                                        na
@@ -158,7 +166,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 - id: c-85619
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­
     nių nužudymą bei paėmimą į nelaisvę
@@ -190,7 +199,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 - id: c-168040
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 170."
   citata_originali: |
     Pats
     magistras, žiemai einant į pabaigą, nusiaubė Gaižuvos
@@ -222,7 +232,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 - id: c-168042
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 483"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 483."
   citata_originali: |
     Todėl, pasiuntę naujų pasiuntinių, dar
     kartą paklausė Kazimierą, koks jo paskutinis žodis:

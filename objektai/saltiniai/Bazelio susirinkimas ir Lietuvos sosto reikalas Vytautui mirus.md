@@ -60,7 +60,8 @@ Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos s
 - id: c-33538
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 69."
   citata_originali: |
     Bažnyčios istorijos, kurią jis skaitė Teologijos-Filosofijos fakulteto
     Teologijos skyriuje po Aleknos mirties (1930), visą laiką iki to

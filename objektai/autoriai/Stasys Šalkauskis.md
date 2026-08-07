@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-59b7ef26f582047bbd7434a6"
+canonical_name: "Stasys Šalkauskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Stasys Šalkauskis"]
+sameAs: []
+canonical_biography: "(^4) PRATARMĖ Šitame ryšyje verta paminėti, kad prof. Stasys Šalkauskis ir visą lietuvių tautos pašaukimą sprendė išeidamas iš to fakto, kad lietuviai gyvena ant ribos dviejų pasaulių, būtent, slavų ir germanų (« Sur les confins de deux mondes », Genève 1919)."
 ---
 # Stasys Šalkauskis
 
@@ -43,7 +50,7 @@ media_all_json: |-
 <a id="claim-t-81965"></a>
 - t-001
   teiginys: "Stasio Šalkauskio „Raštų“ IX tomas buvo nurodytas tarp spaudai rengiamų leidinių."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
@@ -107,7 +114,8 @@ media_all_json: |-
 - id: c-78482
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 494-495"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 494-495."
   citata_originali: |
     Mykolas Balinskis
     VILNIAUS MIESTO ISTORIJA
@@ -153,7 +161,8 @@ media_all_json: |-
 - id: c-78483
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 495-496"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 495-496."
   citata_originali: |
     Antologija. I knyga
     Teodoras Narbutas
@@ -201,7 +210,8 @@ media_all_json: |-
 - id: c-78485
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 11."
   citata_originali: |
     (^4) PRATARMĖ
     Šitame ryšyje verta paminėti, kad prof. Stasys Šalkauskis ir

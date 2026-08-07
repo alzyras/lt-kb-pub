@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b40914ac66fcb829e1b0f718"
+canonical_name: "Juozas Pajaujis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozas Pajaujis"]
+sameAs: []
+canonical_biography: "Atsitokėjusi kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą, tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį susibūrusios grupės perversmo planas, suėmus J."
 ---
 # Juozas Pajaujis
 
@@ -61,7 +68,8 @@ Atsitokėjusi kairioji opozicija dar pabandė perversmininkų stiliumi grąžint
 - id: c-21775
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 157."
   citata_originali: |
     A. Smetona ir A. Voldemaras
     atvirai pabrėždavo stiprių prezi-

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-667c81c722cf8b564d0c7ec7"
+canonical_name: "A. Džiuvė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Džiuvė"]
+sameAs: []
+canonical_biography: "Džiuvė su 3 kuopa žvalgė SudeikiųTalaikių-Kušneriūnų rajoną."
 ---
 # A. Džiuvė
 
@@ -50,7 +57,8 @@ Džiuvė su 3 kuopa žvalgė SudeikiųTalaikių-Kušneriūnų rajoną.
 - id: c-41499
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 186."
   citata_originali: |
     Birželio 1 d. Zechau, Musteikio ko-
     lonos kariai vykdė žvalgybą. Karin.

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-48b9dc5a6930b1822c5cc861"
+canonical_name: "Starobelsko apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Starobelsko apskritis"]
+sameAs: []
+canonical_biography: "Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai buvo įsikūrę greta į rytus, Dono ir Doneco tarpupyje."
+place_authority: true
+historical_names: []
 ---
 # Starobelsko apskritis
 
@@ -55,7 +64,8 @@ Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai b
 - id: c-175625
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
   citata_originali: |
     Naujausių ir tiksliau­
     sių šios graikų istoriko geografijos paaiškinimų pateikė

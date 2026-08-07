@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ab4141ff80a1ba6005aee31"
+canonical_name: "Agatemeras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Agatemeras"]
+sameAs: []
+canonical_biography: "Narbutas Agatemerą pateikia kaip senovės graikų rašytojų pavyzdį, maniusių, kad žemė yra apvali, o jos viduryje buvo Graikija."
 ---
 # Agatemeras
 
@@ -54,7 +61,8 @@ Narbutas Agatemerą pateikia kaip senovės graikų rašytojų pavyzdį, maniusi�
 - id: c-175356
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
   citata_originali: |
     Senovės graikų rašytojai, pavyzdžiui, Agatemeras2,
     manė esant žemę apvalią, o jos viduryje buvus Graikiją.

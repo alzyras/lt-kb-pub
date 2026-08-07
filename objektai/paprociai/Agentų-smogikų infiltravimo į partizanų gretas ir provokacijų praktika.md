@@ -92,31 +92,13 @@ Nenurodyta
   pagrindžia:
     - c-12365
 
-<a id="claim-t-67037"></a>
-- t-003
-  teiginys: "Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija."
-  atnaujinta: "2026-07-23 22:42"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Agentai-smogikai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Agentai-smogikai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika\" parinktas kaip owner_note_path. Targetas \"Agentai-smogikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1940-1950; įvykio data: 1950 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-12363
-    - c-12364
-
 ## Citatos
 
 - id: c-12363
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 244."
   citata_originali: |
     MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galu-
     tinai sunaikinant ginkluotą rezistenciją Lietuvoje. Agentų smo-
@@ -139,12 +121,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
 
 - id: c-12364
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 245."
   citata_originali: |
     KGB kontržvalgybos sąvokų žodyne pateikiamas agentų-smogikų apibrėžimas.
     „Agentas-smogikas - valstybės saugumo organų agentas, kovinėmis priemonėmis vyk-
@@ -165,16 +147,15 @@ Nenurodyta
     jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-12365
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 247."
   citata_originali: |
     Šimonių girios operacija gerai atspindi
     apie 1948 m. susidariusią tendenciją. So-

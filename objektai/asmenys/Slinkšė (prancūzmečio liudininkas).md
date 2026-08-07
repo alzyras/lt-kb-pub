@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8705e6be618ea79c504b6e8a"
+canonical_name: "Slinkšė (prancūzmečio liudininkas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Slinkšė","Slinkšė (prancūzmečio liudininkas)"]
+sameAs: []
+canonical_biography: "Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „strujus“, kurį aplinkiniai laiko geriausiu prancūzmečio liudininku, nes tuo metu jis jau buvo vedęs vyras, perkopęs trisdešimt metų."
 ---
 # Slinkšė (prancūzmečio liudininkas)
 

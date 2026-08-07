@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-90dde457a6ec7c839e2487cc"
+canonical_name: "Užupis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Užupis"]
+sameAs: []
+canonical_biography: "Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau daliai pavyko prasiveržti ir užimti Paupį bei Užupį, pastarasis buvo padegtas."
+place_authority: true
+historical_names: []
 ---
 # Užupis
 
@@ -149,7 +158,8 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
 - id: c-81102
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 372-373"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 372-373."
   citata_originali: |
     Teodoras Sku­
     minas, LDK iždininkas.
@@ -178,7 +188,8 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
 - id: c-81104
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 373."
   citata_originali: |
     PATS ALEKSANDRAS,
     DIEVO MALONE DIDYSIS LIETUVOS,
@@ -201,7 +212,8 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
 - id: c-81105
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 201."
   citata_originali: |
     Nuo mūrinių pastatų iš gyventojų - 200 auks.
     Nuo sklypų Užupyje - 168 auks.
@@ -218,7 +230,8 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
 - id: c-81106
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 152."
   citata_originali: |
     Gen. ltn. B. Knorringas, norėdamas ap-
     eiti lietuvių įtvirtinimus, pasiuntė kelis
@@ -244,7 +257,8 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
 - id: c-171735
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 149."
   citata_originali: |
     Niech twoja Neris (a) i bogam oznami,
     Pod ktorych wladzą są morskie zamęty,

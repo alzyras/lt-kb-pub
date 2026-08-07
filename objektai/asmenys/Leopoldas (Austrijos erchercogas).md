@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cf7e21d2bf3fc33b5edd70e6"
+canonical_name: "Leopoldas (Austrijos erchercogas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Leopoldas (Austrijos erchercogas)"]
+sameAs: []
+canonical_biography: "Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbietos vestuvių puotoje."
 ---
 # Leopoldas (Austrijos erchercogas)
 
@@ -53,7 +60,8 @@ Leopoldas, Austrijos erchercogas, dalyvavo Sanoke vykusioje Jogailos ir Elžbiet
 - id: c-169594
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 393"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 393."
   citata_originali: |
     Karalius, padrąsintas Vytauto tylėjimo, nu­
     mojo ranka į visokius nemalonumus, kurių ši santuoka

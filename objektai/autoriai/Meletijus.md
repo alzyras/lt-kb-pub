@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1ecaf775df81494cfb751443"
+canonical_name: "Meletijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Meletijus"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros. Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais. Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že mės viešpačiu."
 ---
 # Meletijus
 
@@ -106,7 +113,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
 - id: c-173221
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
   citata_originali: |
     -  Frankfurt und Leip­
     zig, 1684*.
@@ -129,7 +137,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
 - id: c-173222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
   citata_originali: |
     Daugeliu požiūrių
     šios žynės buvo Antikos bakchančių pamėgdžiojimas.
@@ -150,7 +159,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
 - id: c-177065
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 92."
   citata_originali: |
     Per­
     sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš
@@ -175,7 +185,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus vieno dievo vardą pateikė kaip Ant
 - id: c-179130
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 92."
   citata_originali: |
     Žmogus, vadovaudamasis įgim­
     tu jausmu, pajutęs dievą savo širdyje, protu ieškojo jo aplin­

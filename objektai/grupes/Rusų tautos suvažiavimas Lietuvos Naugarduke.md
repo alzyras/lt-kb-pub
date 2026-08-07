@@ -31,7 +31,7 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
 <a id="claim-t-185446"></a>
 - t-001
   teiginys: "Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad būtų stabdomos plintančios bažnytinės naujovės."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,7 +70,8 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
 - id: c-168807
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 390"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 390."
   citata_originali: |
     Šios siuntos,
     upėmis pavandeniui nuplukdytos į Juodąją jūrą, iš Cha-
@@ -98,7 +99,8 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
 - id: c-168808
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 390"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 390."
   citata_originali: |
     Nuo seno įpratę
     teikti šventuosius sakramentus pagal graikų papročius,
@@ -125,7 +127,8 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
 - id: c-178541
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 390"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 390."
   citata_originali: |
     Po karo suiručių susilau-
     V y ta u la s p u ola schiz-

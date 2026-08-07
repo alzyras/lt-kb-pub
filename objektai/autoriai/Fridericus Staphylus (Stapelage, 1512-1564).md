@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cf5ae08fb1cda3c3dc0fb848"
+canonical_name: "Fridericus Staphylus (Stapelage, 1512-1564)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Fridericus Staphylus","Fridericus Staphylus (Stapelage, 1512-1564)"]
+sameAs: []
+canonical_biography: "Kaune giminaičių namuose užaugęs Fridericus Staphylus (Stapelage, 1512-1564) čia išmoko lietuviškai."
 ---
 # Fridericus Staphylus (Stapelage, 1512-1564)
 
@@ -54,9 +61,9 @@ Kaune giminaičių namuose užaugęs Fridericus Staphylus (Stapelage, 1512-1564)
 ## Citatos
 
 - id: c-185573
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 355"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 355."
   citata_originali: |
     Kaune giminaičių namuose užaugęs Fridericus Staphylus (Stapelage, 1512-1564)
     čia išmoko lietuviškai. Universitetines studijas jis pradėjo 1529 m. Krokuvoje, 1541 m.

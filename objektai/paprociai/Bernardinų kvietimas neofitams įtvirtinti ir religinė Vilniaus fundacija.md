@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-83242
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 241-242"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 241-242."
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
     tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­

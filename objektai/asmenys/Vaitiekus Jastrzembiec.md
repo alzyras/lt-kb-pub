@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-23b01767baaf488cd824a901"
+canonical_name: "Vaitiekus Jastrzembiec"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaitiekus Jastrzembiec"]
+sameAs: []
+canonical_biography: "Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­ trzembiec, buvo aiškiai jo reikalams atsidavęs^3 )."
 ---
 # Vaitiekus Jastrzembiec
 
@@ -70,7 +77,8 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 197."
   citata_originali: |
     Kaip tik tuo laiku
     Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos
@@ -93,7 +101,8 @@ Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 197."
   citata_originali: |
     Net
     nuostabu, kad lenką bajorai ne tik sutiko su nusileidimais Ordi­

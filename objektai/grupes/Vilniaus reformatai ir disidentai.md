@@ -93,7 +93,8 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 - id: c-82728
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 309."
   citata_originali: |
     Jėzuitų apsigyvenimas Vil­
     niuje jau Stepono Batoro laikais pakirto protestantų įtaką
@@ -116,7 +117,8 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 - id: c-82729
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 310."
   citata_originali: |
     Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto
     uolumo ir darbštumo žmogus, turėjo atremti priešininkus.
@@ -142,7 +144,8 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 - id: c-82730
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 310."
   citata_originali: |
     Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujuši-
     no protus65. Šis vyskupo žingsnis 1581 metais padrąsino

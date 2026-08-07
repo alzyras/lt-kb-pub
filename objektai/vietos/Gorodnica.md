@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-65819ce7d6b0d9cf3c1f4397"
+canonical_name: "Gorodnica"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gorodnica"]
+sameAs: []
+canonical_biography: "Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir buvo čia pastatęs net 2 pramonės priemiesčius, iš kurių ypač buvo garsi Gorodnica."
+place_authority: true
+historical_names: []
 ---
 # Gorodnica
 
@@ -75,7 +84,8 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
 - id: c-46499
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 442"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 442."
   citata_originali: |
     Taip antai,
     Šiauliuose buvo įsteigta

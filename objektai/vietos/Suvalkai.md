@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e89a2899bd9dcb05c7038514"
+canonical_name: "Suvalkai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Suvalkai"]
+sameAs: []
+canonical_biography: "Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose."
+place_authority: true
+historical_names: []
 ---
 # Suvalkai
 
@@ -102,7 +111,8 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 - id: c-43888
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 129."
   citata_originali: |
     Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-
     vių pajėgų. Pasinaudodami tuo švedai ir brandendburgiečiai, surinkę papildomas pajėgas, pasivijo lietuvius ties Pilypavu (netoli Suvalkų) ir juos sumušė.
@@ -117,7 +127,8 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 - id: c-166479
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 499"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 499."
   citata_originali: |
     Ją lankė daugiausia lietuviai (tuo tarpu
     Panevėžio seminariją lankė beveik vieni rusai, dažniausiai dar
@@ -135,7 +146,8 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 - id: c-167030
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 131."
   citata_originali: |
     Tai nebuvo
     monolitinės stovyklos, nes rasdavosi įvairių tranzitinių grupelių ir iš kitų

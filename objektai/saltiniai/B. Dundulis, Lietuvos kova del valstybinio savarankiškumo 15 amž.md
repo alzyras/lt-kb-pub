@@ -59,7 +59,8 @@ Dundulis, B.
 - id: c-33532
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 382"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 382."
   citata_originali: |
     Peterburg 1891. —Dundulis, B. : _Lietuvos kova del valstybinio sava­
     rankiškumo 15 amž._ , Vilnius 1968. — Ekdahl, S. : _Der Krieg zwischen

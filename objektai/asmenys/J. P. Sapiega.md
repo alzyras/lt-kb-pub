@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8c375e8307af3db89e5b7f73"
+canonical_name: "J. P. Sapiega"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. P. Sapiega"]
+sameAs: []
+canonical_biography: "Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Švedijos kariuomenės smūgį ir sužlugdyti Karolio Ix planą apeiti Lietuvos kariuomenę."
 ---
 # J. P. Sapiega
 
@@ -82,7 +89,8 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 - id: c-41961
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 107."
   citata_originali: |
     @ J.P. Sapiegos ir T. Dambravos raiteliai su-
     sikauna su atakuojančia švedų kavalerija
@@ -99,7 +107,8 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 - id: c-54903
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 140."
   citata_originali: |
     Užnugaryje buvę Sapiegas rėmę
     bajorų pašauktiniai pasitraukė iš
@@ -122,7 +131,8 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 - id: c-54904
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 108."
   citata_originali: |
     Tuomet didžiojo etmono dėmesys buvo
     nukreiptas į lietuvių dešinįjį sparną. Ar su-

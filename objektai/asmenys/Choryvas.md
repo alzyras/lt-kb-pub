@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-956eeb015f1ff7ca9dce16a8"
+canonical_name: "Choryvas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Choryvas"]
+sameAs: []
+canonical_biography: "Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja su Kijevo įkūrimu arba atnaujinimu. Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko ir Choryvo miestų atnaujinimo epocha."
 ---
 # Choryvas
 
@@ -65,7 +72,8 @@ Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja
 - id: c-174143
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 379."
   citata_originali: |
     Iš tiesų truputį vėliau jie iške­
     liavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­

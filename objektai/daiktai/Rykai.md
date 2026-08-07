@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-83097
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 39-40"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 39-40."
   citata_originali: |
     Iš Rusios,
     Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-41859335e8d414c2c476b1cd"
+canonical_name: "Širvinta"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Širvinta"]
+sameAs: []
+canonical_biography: "Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo Šešupėn."
+place_authority: true
+historical_names: []
 ---
 # Širvinta
 
@@ -83,7 +92,8 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 - id: c-81628
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 259."
   citata_originali: |
     Tada jie, tai atlikę, kaip reikėjo, rūpestingai ir kruopščiai,
     visa, ką iš prisiekusių liudininkų apie šios bažnyčios įkūri­
@@ -114,7 +124,8 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 - id: c-81629
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Iš čia ji tęsėsi vėl per dykrą tiesiai
     į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius

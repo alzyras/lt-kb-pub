@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2aa24fd88c1eb4a5fdc209fb"
+canonical_name: "Nagutinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nagutinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro įsakytas, sutelkė visą savo kariuomenę ir įsiveržė į Sūduvos žemės valsčių, vardu Pakima495; smarkiai jį nusiaubęs, nudeginęs. Dusburgietis teigia, kad 496 D. — stagni [...] Nogoihin, Jer.— Newotin; dab. Negocino (j. Niegocin, buv. Lówentinsee) ežeras (Kamiński A."
+place_authority: true
+historical_names: []
 ---
 # Nagutinas
 
@@ -50,7 +59,8 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - id: c-59234
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
   citata_originali: |
     Apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą
 

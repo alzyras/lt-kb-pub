@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-289eec8ae7d81adcd61312bd"
+canonical_name: "Jokūbas Babičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokūbas Babičius"]
+sameAs: []
+canonical_biography: "1525 metais Vilniuje jau veikė spaustu­ vė, kurioje Jokūbas Babičius spausdino slaviškas knygas27."
 ---
 # Jokūbas Babičius
 
@@ -64,7 +71,8 @@ media_all_json: |-
 - id: c-83686
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 286-287"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 286-287."
   citata_originali: |
     270
 

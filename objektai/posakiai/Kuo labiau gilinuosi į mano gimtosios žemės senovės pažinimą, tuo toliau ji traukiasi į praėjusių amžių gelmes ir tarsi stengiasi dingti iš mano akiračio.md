@@ -88,7 +88,8 @@ Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę r
 - id: c-175009
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 281."
   citata_originali: |
     Pro langą mano namuko, kur rašau šias eilutes, kasdien žvelgiu į prie Rodūnės stūksantį pylimą, esantį tiesiai vos per mylią, sudarantį didingą tolimos tvirtovės vaizdą; įsižiūrėdamas į šį retą praeities paminklą, kasdien jaučiu savo širdyje gimstančius jausmus, skatinančius ją ištirti, ir kasdien matau neįveikiamas kliūtis šiam sumanymui įgyvendinti. Kuo labiau gilinuosi į mano gimtosios žemės senovės pažinimą, tuo toliau ji traukiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš mano akiračio.
   citata_rodoma: "Pro langą mano namuko, kur rašau šias eilutes, kasdien žvelgiu į prie Rodūnės stūksantį pylimą, esantį tiesiai vos per mylią, sudarantį didingą tolimos tvirtovės vaizdą; įsižiūrėdamas į šį retą praeities paminklą, kasdien jaučiu savo širdyje gimstančius jausmus, skatinančius ją ištirti, ir kasdien matau neįveikiamas kliūtis šiam sumanymui įgyvendinti. Kuo labiau gilinuosi į mano gimtosios žemės senovės pažinimą, tuo toliau ji traukiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš mano akiračio."

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b914874c9befbeb6b676e60a"
+canonical_name: "Medininkų pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Medininkų pilis","Medininkų pilis (pilis)"]
+sameAs: []
+canonical_biography: "Medininkų pilis šiame šaltinyje minima kaip mūrais sustiprinta Vytauto laikais."
+place_authority: true
+historical_names: []
 ---
 # Medininkų pilis (pilis)
 
@@ -155,7 +164,8 @@ Nenurodyta
 - id: c-05669
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 384"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 384."
   citata_originali: |
     Berods, Vytauto laikais buvo dar
     mūrais sustiprinta Medininkų pilis. Jo valdymo pradžioje turėjo
@@ -172,7 +182,8 @@ Nenurodyta
 - id: c-101739
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32."
   citata_originali: |
     Lietuva tuo metu jau
     turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
@@ -193,7 +204,8 @@ Nenurodyta
 - id: c-101740
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 243."
   citata_originali: |
     39
     Šventasis Kazimieras, kurio mirtis,
@@ -218,7 +230,8 @@ Nenurodyta
 - id: c-101741
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 243."
   citata_originali: |
     Prabėgus
     aštuoneriems metams, pats karalius Kazimieras, būdamas
@@ -245,7 +258,8 @@ Nenurodyta
 - id: c-101742
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 243."
   citata_originali: |
     Medininkų pilį, šiandien priklausan­
     čią ponui Apolinarui Grabovskiui,

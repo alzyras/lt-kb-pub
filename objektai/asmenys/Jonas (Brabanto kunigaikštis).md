@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8c1bebeebf3cbef4c6e49536"
+canonical_name: "Jonas (Brabanto kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas (Brabanto kunigaikštis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto kunigaikštis, nugalėjo Zigfridą iš Runkelės, Kelno arkivyskupą; neskaitant paprastų karių, abi šalys neteko nukautaisiais 1300."
 ---
 # Jonas (Brabanto kunigaikštis)
 
@@ -58,7 +65,8 @@ Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo met
 - id: c-60972
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     76. Apie mūšį netoli Kelno, prie Vurungeno kaimo
 

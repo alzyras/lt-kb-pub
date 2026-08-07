@@ -88,9 +88,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184541
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 390"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 390."
   citata_originali: |
     Įėję meldžionys į Natangiją, ką sutikdami, tą te-
     riojo ir degino ir toj vietoj, kur šiandien vietovė
@@ -109,9 +109,9 @@ media_all_json: |-
     - t-001
 
 - id: c-184542
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 501"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 501."
   citata_originali: |
     Kai-
     pogi stipri kariauna lietuvių, kaip buvo skelbiama,
@@ -134,9 +134,9 @@ media_all_json: |-
     - t-002
 
 - id: c-184543
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 508"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 508."
   citata_originali: |
     Tuo tarpu artinos kryžėjai su stipria kariau­
     na, ir alvienas dyko lietuviams atmonyti. Kryžėjai,
@@ -155,9 +155,9 @@ media_all_json: |-
     - t-003
 
 - id: c-184544
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 511"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 511."
   citata_originali: |
     Nujau­
     tęs tą, Vytenis steigė, jog ne vien kryžėjus nuo pi­

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0745400e131d9fbf1fdb4619"
+canonical_name: "Belzas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Belzas"]
+sameAs: []
+canonical_biography: "Petras Miškovskis nuo 1499.V. buvo Belzo vaivada."
+place_authority: true
+historical_names: []
 ---
 # Belzas
 

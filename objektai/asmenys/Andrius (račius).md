@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a40590f3ee66a889707aea84"
+canonical_name: "Andrius (račius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius (račius)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje 1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo pilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami."
 ---
 # Andrius (račius)
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo 
 - id: c-60868
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 250."
   citata_originali: |
     123. Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje
 

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9b09fda7d64f8a66f8711441"
+canonical_name: "Trobius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Trobius"]
+sameAs: []
+canonical_biography: "Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis bus pavaldus Lietuvos didžiajam kunigaikščiui. Mirus Romuntui, Žemaitijos kunigaikščiui Trobiui buvo pavesta valdyti Lietuvą. Kojelavičius rašo, kad Trobius per trumpą viešpatavimą nieko daugiau nespėjo nuveikti, gal dėl senatvės ar ankstyvos mirties."
 ---
 # Trobius
 
@@ -32,14 +39,21 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
 <a id="claim-t-186082"></a>
 - t-001
   teiginys: "Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis bus pavaldus Lietuvos didžiajam kunigaikščiui."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trobius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trobius\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-169444
+    - c-169443
 
 <a id="claim-t-186083"></a>
 - t-002
@@ -105,7 +119,8 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
 - id: c-169443
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
   citata_originali: |
     Netrukus po to Lietuvoje baigė dienas ir Ger­
     mantas. Sukvietus Kernavėje didikų sueigą, Germanto
@@ -122,14 +137,17 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
   citata_rodoma: "Netrukus po to Lietuvoje baigė dienas ir Ger­\nmantas. Sukvietus Kernavėje didikų sueigą, Germanto\nvyresnysis sūnus Giliginas buvo paskelbtas Lietuvos\nvaldovu, jo broliui Trobiui\npatikėta Žemaitija su ta są­\nlyga, kad jis bus pavaldus\nLietuvos didžiajam kunigaik­\nščiui. Rūmų maršalas, para­\nginęs vieną bei kitą siekti ir\nkaro, ir taikos metu tokios pat santarvės bei šlovės,\nkokią paveldėjo iš protėvių, įteikė Giliginui kalaviją\nbei lazdą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-169444
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 133."
   citata_originali: |
     Karas prasi­
     dėjo dėl Daugpilio pilies, ku-
@@ -157,13 +175,13 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-169445
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 134."
   citata_originali: |
     Viešpatavimo metu jis nieko daugiau nėra padaręs —
     gal dėl to, kad mėgo ramybę ir buvo pasenęs, o gal

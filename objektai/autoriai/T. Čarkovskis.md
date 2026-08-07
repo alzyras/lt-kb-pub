@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7d8bc818297a3e625b219b7"
+canonical_name: "T. Čarkovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["objektai/asmenys/T. Čarkovskis","T. Čarkovskis"]
+sameAs: []
+canonical_biography: "Čarkovskio (T."
 ---
 # T. Čarkovskis
 
@@ -64,7 +71,8 @@ media_all_json: |-
 - id: c-64355
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 122."
   citata_originali: |
     1902 m. kun.
     Adomas Jakštas-Dambrauskas išleido lenkiškai knygelę, kurioje išdėstė

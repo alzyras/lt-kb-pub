@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ea3f9dac627243d1b2bccc7f"
+canonical_name: "Vcl. Biržiška"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vcl. Biržiška"]
+sameAs: []
+canonical_biography: "Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, kurio pirmasis tomas išleistas 1953 m. Čikagoje."
 ---
 # Vcl. Biržiška
 
@@ -62,7 +69,8 @@ Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, k
 - id: c-94023
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 250-251"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 250-251."
   citata_originali: |
     (^12) **LUB, VI, 140. Plg. J. Adamus :** **_O tytule panującego,_** **KH, 1930,
     313-314 p.**

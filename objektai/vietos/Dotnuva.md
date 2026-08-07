@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5bf57c8b26505bb6c02638d"
+canonical_name: "Dotnuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dotnuva"]
+sameAs: []
+canonical_biography: "Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios specialistus žemės ūkiui."
+place_authority: true
+historical_names: []
 ---
 # Dotnuva
 
@@ -77,7 +86,8 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
 - id: c-24110
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 171."
   citata_originali: |
     Lietuvoje ėjo 150 periodinių leidinių
     lietuvių, rusų kalbomis bendru 930 000 egz. tiražu. 1938 m. šalyje vei-

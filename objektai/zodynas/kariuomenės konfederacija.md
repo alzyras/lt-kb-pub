@@ -43,7 +43,8 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
 - id: c-69252
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 287."
   citata_originali: |
     Kai nemokėdavo algos, jie paprastai visi atsisakydavo
     klausyti savo vadų, išsirinkdavo savus viršininkus ir tol plėši-

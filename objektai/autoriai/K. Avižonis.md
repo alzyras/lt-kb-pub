@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d2ac07a43b924667a5eb3545"
+canonical_name: "K. Avižonis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Avižonis"]
+sameAs: []
+canonical_biography: "Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyvenime Vazų lai­ kais, Kaunas 1940, naujai perspausdinta Romoje 1975. Avižonis: Chronicles, EnL, I, 519-523 p. (^2) JučM, 102; R."
 ---
 # K. Avižonis
 
@@ -41,7 +48,7 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
 <a id="claim-t-30721"></a>
 - t-001
   teiginys: "K. Avižonis parašė Lietuvių enciklopedijos straipsnį „Vladimiras“."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -70,7 +77,8 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
 - id: c-30613
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 71."
   citata_originali: |
     Po studijų Lietuvos universitete, 1932 m. parašęs Berlyne diser­
     taciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą
@@ -95,7 +103,8 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
 - id: c-32987
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 33."
   citata_originali: |
     (^2) **Pvz., H. Paszkiewicz, J. Latkowski, H. Lowmiański.**
     (^3) **Žr. žemiau skyrių « Lietuvos karalius Mindaugas ir jo palikimas ».**

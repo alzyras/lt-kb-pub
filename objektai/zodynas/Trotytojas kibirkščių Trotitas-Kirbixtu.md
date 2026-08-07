@@ -47,7 +47,8 @@ Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargau
 - id: c-172223
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 163."
   citata_originali: |
     Trotytojas kibirkščių (Trotitas-Kirbixtu)
     Pasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-59498bee31dc15285ddd6892"
+canonical_name: "Jonas iš Endorfo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas iš Endorfo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio 18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo paties nedorybių, nužudė brolį Vernerį, didįjį magistrą."
 ---
 # Jonas iš Endorfo
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
 - id: c-60977
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
   citata_originali: |
     20. Apie didžiojo magistro mirtį
 

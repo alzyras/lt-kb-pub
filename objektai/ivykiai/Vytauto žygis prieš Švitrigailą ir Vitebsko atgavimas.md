@@ -98,7 +98,8 @@ Nenurodyta
 - id: c-169027
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
   citata_originali: |
     Vytautui ir pačiam rūpėjo šis karas, nes troško, kad
     Baltarusijos žemės būtų pa-
@@ -133,7 +134,8 @@ Nenurodyta
 - id: c-169028
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
   citata_originali: |
     Greitai užpuolęs ir užėmęs Oršą, jis patraukė
     į Drucką. Drucko kunigaikščiai, pirmųjų Rusios valdo­

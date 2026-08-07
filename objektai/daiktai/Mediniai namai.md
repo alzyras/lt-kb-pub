@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-83093
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 32."
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­
     paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-

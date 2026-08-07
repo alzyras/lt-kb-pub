@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fa99a20a6ad67b166e8ae6b8"
+canonical_name: "E. Griškūnaitė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["E. Griškūnaitė"]
+sameAs: []
+canonical_biography: "Griškūnaitė 121 , P."
 ---
 # E. Griškūnaitė
 
@@ -61,7 +68,8 @@ Griškūnaitė 121 , P.
 - id: c-32914
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 87."
   citata_originali: |
     Apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje
     pasirodė keletas kolektyvinių veikalų 1964 ir 1965 m.; apie jį rašė

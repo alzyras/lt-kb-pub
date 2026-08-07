@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-30513056068f55d910337840"
+canonical_name: "Jonas Gečas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Gečas"]
+sameAs: []
+canonical_biography: "Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas su padalinių vadais. p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM."
 ---
 # Jonas Gečas
 
@@ -76,7 +83,8 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
 - id: c-42015
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 
@@ -92,7 +100,8 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
 - id: c-44380
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 256."
   citata_originali: |
     Sausio 13 d. AT priėmė nutarimą su-
     daryti Laikinąją gynybos vadovybę:

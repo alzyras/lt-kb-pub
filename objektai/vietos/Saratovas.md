@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e3b583799f3b27d554dede8"
+canonical_name: "Saratovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Saratovas"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto fetišais."
+place_authority: true
+historical_names: []
 ---
 # Saratovas
 

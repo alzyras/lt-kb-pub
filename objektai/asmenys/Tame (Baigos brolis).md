@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c48b4df835db1143dd40f6be"
+canonical_name: "Tame (Baigos brolis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tame (Baigos brolis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpaties metais brolis Tame, kilęs iš Meiseno, penkiasdešimt šeštus metus gyveno Baigoje, tiek pat metų išbuvęs Teutonų ordine, o per 30 metų iki savo mirties nė karto neišėjęs už šios pilies sienų."
 ---
 # Tame (Baigos brolis)
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
 - id: c-61076
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 215."
   citata_originali: |
     Apie Baigos brolį Tamę ir jo gyvenimą
     1321 viešpaties metais brolis Tame, kilęs iš Meiseno, penkiasdešimt šeštus metus

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1ab74d3679cdd0045b392c98"
+canonical_name: "Andreika"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andreika"]
+sameAs: []
+canonical_biography: "Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes iš tos dienos į kitą^5 )."
 ---
 # Andreika
 
@@ -44,7 +51,8 @@ Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes i�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 245."
   citata_originali: |
     Kitame laiške tą pačią datą vėl nurodo^3 ). Vytau­
     tas kviesdamas į tas iškilmes Ordiną, taip pat mini tą dieną^4 ). Jogailos

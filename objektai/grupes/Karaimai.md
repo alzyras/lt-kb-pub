@@ -153,7 +153,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 - id: c-22441
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 40."
   citata_originali: |
     Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė be-
     raštės visuomenės savimonė. Didieji kunigaikščiai, reikšdami teritorines
@@ -173,7 +174,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 - id: c-22442
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 71."
   citata_originali: |
     Aišku,
     šios mažumos į LDK persikėlė iš Lenkijos ir galbūt iš Vengrijos, todėl
@@ -195,7 +197,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 - id: c-22443
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 72."
   citata_originali: |
     Žygimanto Augusto privilegija, sulyginusi visų
     krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos
@@ -214,7 +217,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 - id: c-31094
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 322."
   citata_originali: |
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
     tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
@@ -230,7 +234,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 - id: c-110243
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 163."
   citata_originali: |
     Jakob Levi, iš Vilniaus, 1427
     m. rašė hebrajiškas knygas ir turėjo
@@ -261,7 +266,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 - id: c-110245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 163."
   citata_originali: |
     Bet Vytauto privilegija negalio­
     jo žydų kitai sektai, vadinamai ka­
@@ -297,7 +303,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 - id: c-166524
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 40."
   citata_originali: |
     Didieji kunigaikščiai, reikšdami teritorines
     pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-

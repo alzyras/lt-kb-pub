@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f9c22b79dcb4caa63b4f43ae"
+canonical_name: "Albrechtas Radvila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albrechtas Radvila"]
+sameAs: []
+canonical_biography: "Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kurioje ilgai buvo lai­ komos pamaldos, ir pats kurį laiką gyveno, todėl jam duotas Kardinali­ jos vardas."
 ---
 # Albrechtas Radvila
 
@@ -77,7 +84,8 @@ Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kur
 - id: c-83592
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Kardinolas Radvila
     dalyje, vadinamoje Goštautų mūru,
@@ -101,9 +109,9 @@ Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kur
     - t-001
 
 - id: c-184857
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 119"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 119."
   citata_originali: |
     Kryžiaus medinė koplyčia buvusi greitai
     pastatyta, mat 1515 m. Kauno magistratas, kuriam Nabienė suteikė patronavimo ir

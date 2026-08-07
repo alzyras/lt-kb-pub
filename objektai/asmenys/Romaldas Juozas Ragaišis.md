@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d7ab30adc65a400cda8fb3c6"
+canonical_name: "Romaldas Juozas Ragaišis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Romaldas Juozas Ragaišis"]
+sameAs: []
+canonical_biography: "Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, kai kurie jų – Romaldas Juozas Ragaišis ir A."
 ---
 # Romaldas Juozas Ragaišis
 
@@ -61,7 +68,8 @@ Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, k
 - id: c-21950
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),
     kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir

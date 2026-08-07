@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-33da267c17ac073a7816a906"
+canonical_name: "Laurinavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Laurinavičius"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad vietinių tyrinėjimų faktus apie jėzuitų perstatytą mūrą pateikė Kauno mokyklos profesorius ir prefektas Laurinavičius. Laurinavičius visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
 ---
 # Laurinavičius
 
@@ -66,7 +73,8 @@ Narbutas nurodo, kad vietinių tyrinėjimų faktus apie jėzuitų perstatytą m�
 - id: c-173061
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 269."
   citata_originali: |
     Tai ir buvo toji šventykla, vėliau paversta svirnu,
     tai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­
@@ -92,7 +100,8 @@ Narbutas nurodo, kad vietinių tyrinėjimų faktus apie jėzuitų perstatytą m�
 - id: c-179177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
   citata_originali: |
     Perrašau jį ištisai, ka­
     dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo

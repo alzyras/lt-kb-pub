@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-83251
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 246."
   citata_originali: |
     Ją sutiko pats Aleksandras per pusę mylios nuo
     miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos

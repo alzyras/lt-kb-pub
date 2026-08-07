@@ -36,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo lietuviškais grašiais. Nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį. Nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarė vieną rublį.
+Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos grašiai — tikros monetos, kurių 60 sudarydavo vieną rublį (rublis —^1 / 2 svaro gryno sidabro). Viename Jogailos ir Vytauto dokumen­ te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­ dabriniais pinigais; matyt, grašiais arba denariukais.
 
 ## Teiginiai
 
@@ -97,11 +97,18 @@ Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo li
 <a id="claim-t-202348"></a>
 - t-004
   teiginys: "Vyresnysis brolis Albertas Kojalavičius savo reikmėms gavo 467 auksinus, o Brigitos Kojalavičienės laidotuvės kainavo 69 auksinus ir 20 grašių."
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kojalavičius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "grašis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kojalavičius: mention_match, person, gap=109"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"grašis\" parinktas kaip owner_note_path. Targetas \"Kojalavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
   vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
@@ -113,7 +120,8 @@ Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo li
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 262."
   citata_originali: |
     Viename Jogailos ir Vytauto dokumen­
     te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­
@@ -135,7 +143,8 @@ Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo li
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 261."
   citata_originali: |
     Taip
     pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­
@@ -156,7 +165,8 @@ Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo li
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 261."
   citata_originali: |
     Jogailos ir Vytauto rūmuose bu­
     vo kartais mokama rubliais, patekusiais iš slavų kraštų; bet tai
@@ -174,11 +184,12 @@ Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo li
     - t-003
 
 - id: c-185695
+  autorius: "Zigmantas Kiaupa"
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 5"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:24"
   pagrindzia:
     - t-004

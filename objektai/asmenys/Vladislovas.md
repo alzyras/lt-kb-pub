@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-78685d711541b2664b566a9d"
+canonical_name: "Vladislovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladislovas"]
+sameAs: []
+canonical_biography: "Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenorėjo paklusti karalystės didžiajam etmonui Stanislovui Liubomirskiui, tik karalaičiui Vladislovui įkalbėjus LDK kariuomenė sutiko jam laikinai paklusti."
 ---
 # Vladislovas
 
@@ -149,7 +156,8 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - id: c-44570
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 118."
   citata_originali: |
     Visi įsa-
     kymai vis dar tebebuvo duodami jo vardu,
@@ -184,7 +192,8 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - id: c-168216
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 210-211"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 210-211."
   citata_originali: |
     Dvidešimt keturis tūkstančius lenkų be­
     laisvių dovanojo nelyginant kraitį. Lenkai ėmė naujas
@@ -219,7 +228,8 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - id: c-168217
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 213."
   citata_originali: |
     Mat Lenkija, kuri visaip
     iki šiol stengėsi išsaugoti taiką, ėmė rengtis karui su
@@ -251,9 +261,9 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     - t-003
 
 - id: c-184397
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 161"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 161."
   citata_originali: |
     Yra raštuose randama, jog tą metą Vsevolodas,
     kunigaikštis Naugardo, kariavęs su lietuviais ir ana- 1135

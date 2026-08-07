@@ -54,7 +54,8 @@ Narbutas posakį „tas jau biją winnam Likis“ pateikia kaip latvių valstie�
 - id: c-172475
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 91."
   citata_originali: |
     Latviai taip pat kalba apie tą dievą, vadindami jį Liktens,
     likimu. „Kadangi senovės latvių savita filosofija, todėl likimas

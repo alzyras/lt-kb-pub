@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-babd7837dcdf2a8480f4636e"
+canonical_name: "Albrechtas (Rudolfo sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albrechtas (Rudolfo sūnus)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių Tuo metu Rudolfas, Romos karalius, nukovė kare Otokarą, Čekijos karalių, atidavė Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi, o savo dukterį atidavė."
 ---
 # Albrechtas (Rudolfo sūnus)
 
@@ -46,7 +53,8 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
 - id: c-60863
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Galop valdovas, ilgokai rūstinamas,
     pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš. Prancūzijos

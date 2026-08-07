@@ -2,10 +2,12 @@
 tipas: vieta
 pavadinimas: 'Žitomiras'
 saltiniai:
+  - 'Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1394 m.'
+  - '1505 m.'
   - '2026 m.'
 date_start: '1394'
 date_end: '2026'
@@ -30,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3ccc78ecc57ed53fe598b2d3"
+canonical_name: "Žitomiras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žitomiras"]
+sameAs: []
+canonical_biography: "98 Žisdra, upė 124 Žitomiras 312 Živinbudas 133, 161, 162 Žygimantas Augustas 4, 31, 35, 44, 48, 87, 199, 320 Žygimantas Kaributas 381 Žygimantas Senasis 39, 264, 320 Žygimantas, Vytauto brolis 278, 305, 308, 318, 324, 365, 381 Žywa Woda, Suvalkų aps."
+place_authority: true
+historical_names: []
 ---
 # Žitomiras
 
@@ -71,13 +82,36 @@ media_all_json: |-
   pagrindžia:
     - c-176873
 
+<a id="claim-t-202523"></a>
+- t-003
+  teiginys: "1505 m. Romanovo kaimas kasmet tiekdavo Žitomiro vietininkui 40 kibirų medaus ir 12 lapių kailių."
+  atnaujinta: "2026-07-26 19:27"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žitomiras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žitomiras\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
+  temporaliniai_duomenys: "įvykio data: 1505 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Romanovo kaimo prievolę Žitomiro vietininkui ir tiksliai perteikia šaltinio duomenis. Nieko papildomai nepridėta."
+  pagrindžia:
+    - c-185882
+
 ## Citatos
 
 - id: c-166257
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 69."
   citata_originali: |
     Šį kartą susirėmimų buvo išvengta: viskas pasibaigė
     Vytauto pagrasinimu. Tik 1394 metais jis puolė Vladimiro že­
@@ -95,7 +129,8 @@ media_all_json: |-
 - id: c-176873
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 330-331"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 330-331."
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau
     žaibus,
@@ -128,6 +163,17 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-185882
+  autorius: "Marija Matušakaitė"
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)"
+  puslapiai: "p. 59 (PDF 2)"
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 19:20"
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Užėmė Žitomirą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

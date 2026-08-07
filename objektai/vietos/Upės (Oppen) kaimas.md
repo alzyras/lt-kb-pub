@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d8d9ab08b5bc0f5caea5346"
+canonical_name: "Upės (Oppen) kaimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Upės (Oppen) kaimas"]
+sameAs: []
+canonical_biography: "Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė šventyklos liekanoms."
+place_authority: true
+historical_names: []
 ---
 # Upės (Oppen) kaimas
 
@@ -54,7 +63,8 @@ Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė š
 - id: c-171963
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
   citata_originali: |
     Ten, kur stovėjo Senoji Torunė, kaip spėja Hartknochas,
     taip pat buvusi šventykla.

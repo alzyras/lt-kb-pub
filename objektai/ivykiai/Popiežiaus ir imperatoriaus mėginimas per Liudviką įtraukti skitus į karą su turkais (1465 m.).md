@@ -50,14 +50,21 @@ Nenurodyta
 <a id="claim-t-185531"></a>
 - t-001
   teiginys: "Žiemos pabaigoje į Lietuvą pas karalių atvyko popiežiaus pasiuntinys Liudvikas, Antiochijos patriarchas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=2"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-178593
+    - c-168892
 
 <a id="claim-t-185533"></a>
 - t-002
@@ -126,7 +133,8 @@ Nenurodyta
 - id: c-168892
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 512"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 512."
   citata_originali: |
     Iš ten karalius nuvyko į Lietuvą
     ir likusius žiemos mėnesius praleido Kaune, nes Vil­
@@ -143,14 +151,17 @@ Nenurodyta
   citata_rodoma: "Iš ten karalius nuvyko į Lietuvą\nir likusius žiemos mėnesius praleido Kaune, nes Vil­\nniuje ir Gardine siautė maras.\nŽiemos pabaigoje atvyko Lietuvon pas karalių Liud­\nvikas, Antiochijos\npatriar­\nchas, popiežiaus pasiuntinys.\nRytų imperijos gyventojai,\npavergti turkų, maldavo Va­\nkarų šalis, o ypač popiežių\nbei imperatorių padėti be-\nžlungančiai krikščionybei."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-168894
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 513"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 513."
   citata_originali: |
     Reikėjo skubėti, kol Mech-
     medas, turkų valdovas, neužkariavo kaimyninių kraštų
@@ -172,7 +183,8 @@ Nenurodyta
 - id: c-178593
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 512-513"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 512-513."
   citata_originali: |
     Kadangi menkame miestelyje nebuvo nei tinkamų būs­
     tų gyventi, nei deramos menės bendriems posėdžiams,
@@ -193,5 +205,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003

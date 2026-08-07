@@ -77,7 +77,8 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
 - id: c-02443
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 263."
   citata_originali: |
     Vienas iš žymiau-
     siųjų tokių lenkų publicistų buvo Ožechovskis. Lietuvos didikai,
@@ -98,7 +99,8 @@ Lietuvos didikai, vadovaujami M. Ten jie įrodinėja Ožechovskio tvirtinimų ne
 - id: c-02444
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 263."
   citata_originali: |
     Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų
     raštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-

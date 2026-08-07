@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-626688d5b780ebae3faecce3"
+canonical_name: "Zilija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zilija"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­ dvikas antrą kartą pakliuvo į nelaisvę Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule. Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro upių; Zilijos valsčius tuo metu greičiausiai buvo į šiaurę nuo Bebro—Elko santakos, jis galėjo aprėpti ir Raigardo (Rajgród) apylinkes, eiti link Augustavo (Kamiński A."
+place_authority: true
+historical_names: []
 ---
 # Zilija
 
@@ -51,7 +60,8 @@ Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir 
 - id: c-59290
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 167-168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167-168."
   citata_originali: |
     Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­
                             dvikas antrą kartą pakliuvo į nelaisvę

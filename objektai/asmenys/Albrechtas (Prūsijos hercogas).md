@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a64e3d378ea8f52b08f71c62"
+canonical_name: "Albrechtas (Prūsijos hercogas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albrechtas (Prūsijos hercogas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad nuorašo viršelyje yra Karaliaučiaus bibliotekos įkūrėjo Prūsijos hercogo Albrechto (mirusio 1568 m.) herbas, rodąs tuometinį jo šeimininką."
 ---
 # Albrechtas (Prūsijos hercogas)
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad nuorašo viršelyje yra Karaliaučiaus bibliotekos įk�
 - id: c-60862
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Karaliaučiaus karališkos bibliotekos tekstas, kaip pažymėta jo antraštiniame puslapyje,
     1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P. Speratui priklausiusios

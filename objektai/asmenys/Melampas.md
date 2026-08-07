@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-86405d8eaefd3e2bc14e6686"
+canonical_name: "Melampas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Melampas"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis graikų dievų padavimais, Melampą vadina pranašautoju, apie 1380 m. pr. Kr. pirmuoju Graikijoje įvedusiu Bakcho garbinimą."
 ---
 # Melampas
 
@@ -64,7 +71,8 @@ Narbutas, remdamasis graikų dievų padavimais, Melampą vadina pranašautoju, a
 - id: c-173065
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
   citata_originali: |
     Priklausomai nuo gėrimo pagaminimo būdo
     dievas įgydavo Bubilo arba Ragučio vardą, kaip tai pastebima

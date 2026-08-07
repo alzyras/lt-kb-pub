@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0c9340dc1d707d3c1329ab67"
+canonical_name: "Strėvos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Strėvos upė"]
+sameAs: []
+canonical_biography: "Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje."
+place_authority: true
+historical_names: []
 ---
 # Strėvos upė
 
@@ -76,7 +85,8 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
 - id: c-45346
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     Niokotos galbūt plačiosios
     Semeliškių, Aukštadvario, artimesnės Trakų
@@ -103,7 +113,8 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
 - id: c-45347
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti
     buvo pašaukti rusai iš Vladimiro, iš Brastos, iš Vitebsko, iš Smolensko ir Polocko, ir t. t.

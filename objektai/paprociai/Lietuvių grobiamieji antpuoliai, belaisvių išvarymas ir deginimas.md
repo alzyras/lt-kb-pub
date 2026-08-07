@@ -72,7 +72,8 @@ Nenurodyta
 - id: c-83276
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 85-86"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 85-86."
   citata_originali: |
     Tokios
     didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-

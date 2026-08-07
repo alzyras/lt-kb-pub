@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9fe9942b322640bffee2ae05"
+canonical_name: "Karolis Stanislovas Radvila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis Stanislovas Radvila"]
+sameAs: []
+canonical_biography: "Jai vadovauti buvo pakviestas iš šalies 1764 m. išvarytas buvęs respublikonas Karolis Stanislovas Radvila (Ponas Mielasis)."
 ---
 # Karolis Stanislovas Radvila
 
@@ -61,7 +68,8 @@ Jai vadovauti buvo pakviestas iš šalies 1764 m. išvarytas buvęs respublikona
 - id: c-44417
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 143."
   citata_originali: |
     jų priešininkus Vilniaus-Radomo bajorų
     konfederaciją (1767-1768 m.). Jai vado-

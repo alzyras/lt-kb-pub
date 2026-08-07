@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-62669
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
   citata_originali: |
     Dar kartų apie tą patį
     Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,

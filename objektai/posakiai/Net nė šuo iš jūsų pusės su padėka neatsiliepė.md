@@ -86,7 +86,8 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 - id: c-55777
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 75."
   citata_originali: |
     I  KNYGA
     Dabar jūs pamatėte ir savo ausimis diena iš dienos girdi­
@@ -107,7 +108,8 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 - id: c-78632
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 74-75"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 74-75."
   citata_originali: |
     Intrent et exe­
     ant secunJum, placitum omni turbatione procul mota quoJ

@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-527a87e38044b9ceeff45726"
+canonical_name: "Anzelmas (vyskupas, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Anzelmas","Anzelmas (vyskupas, XIII a.)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną. Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus."
 ---
 # Anzelmas (vyskupas, XIII a.)
 
@@ -108,7 +115,8 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 - id: c-60717
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     140 (135). Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
     lies bei miesto paėmimą
@@ -130,7 +138,8 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 - id: c-171403
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
   citata_originali: |
     Varmijos vyskupų biografas Trete-
     ris sako: „Toje vietoje, kur yra Heiligenbeilis, augo milžiniš­
@@ -155,7 +164,8 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 - id: c-177306
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
   citata_originali: |
     Viena­
     me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1. P. 289),
@@ -170,9 +180,9 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
     - t-003
 
 - id: c-184319
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 388"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 388."
   citata_originali: |
     Todėl, — sako jis, — ant garbės
     Dievo skubinkitės skatinti krikščionis".

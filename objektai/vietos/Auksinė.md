@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8331ff201d8376f94b584164"
+canonical_name: "Auksinė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Auksinė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K. Dusburgietis teigia, kad minėti faktai sietų apylinkes prie Auksinės su pagonišku kultu."
+place_authority: true
+historical_names: []
 ---
 # Auksinė
 
@@ -75,7 +84,8 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 - id: c-59149
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
   citata_originali: |
     XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.
     Henenbergerio žemėlapyje  ir M. Pretorijaus raštuose — Augste) žemupyje žymima
@@ -95,7 +105,8 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 - id: c-59150
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
   citata_originali: |
     Minėti faktai sietų apylinkes prie Auksinės su pagonišku kultu. Tai rodytų ir Auksinės
     deš. intakas Juodkapis (į pietryčius nuo aptariamo regiono), Sernupė (šiaurės rytuose,

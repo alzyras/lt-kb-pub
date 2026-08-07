@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6fac77cd5ac64cff99a6fa37"
+canonical_name: "Georgas (liet. Jurgis) Zauerveinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Georgas (liet. Jurgis) Zauerveinas"]
+sameAs: []
+canonical_biography: "Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, poliglotas Georgas (liet."
 ---
 # Georgas (liet. Jurgis) Zauerveinas
 
@@ -61,7 +68,8 @@ Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, poliglotas
 - id: c-22130
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 121."
   citata_originali: |
     jas, atspindėjusias socialistines ir krikščionių demokratų idėjas (pirmasis
     vietos lietuviškas laikraštis JAV išėjo 1879 m.), plėtojosi meno saviveikla,

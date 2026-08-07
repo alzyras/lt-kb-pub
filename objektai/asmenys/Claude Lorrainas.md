@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-182c935035a2f06c4269ea39"
+canonical_name: "Claude Lorrainas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Claude Lorrainas"]
+sameAs: []
+canonical_biography: "Mikalojus Vorobjovas Claude Lorrainą mini tarp meistrų, kurių spalvų ir šviesų poveikyje formavosi Antakalnio bažnyčios skulptorių optika."
 ---
 # Claude Lorrainas
 

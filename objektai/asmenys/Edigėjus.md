@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e52bc78ab9be1b11a3e4a4c"
+canonical_name: "Edigėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Edigėjus"]
+sameAs: []
+canonical_biography: "Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. pabaigą Pirmiausia stojo į mūšį su savo jėga „didysis Ordos kunigaikštis“ Edigėjus ir susidūrė su Vytautu, „Totoriai ir Lietuva“ šaudė arbaletais ir patrankėlėmis, tačiau lygiame lauke „patrankos ir patrankėlės neveiksmingos buvo“, bet „Lietuva stipriai."
 ---
 # Edigėjus
 
@@ -66,7 +73,8 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
 - id: c-44323
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 56."
   citata_originali: |
     Europa apie XIV a. pabaigą
 
@@ -91,7 +99,8 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
 - id: c-44324
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Edigėjus ir padrą-
     sino chaną, derybos iš

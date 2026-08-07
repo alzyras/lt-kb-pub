@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-33d6ffabfa008f5896bb9125"
+canonical_name: "Durbė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Durbė"]
+sameAs: []
+canonical_biography: "Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija."
+place_authority: true
+historical_names: []
 ---
 # Durbė
 
@@ -138,7 +147,8 @@ media_all_json: |-
 - id: c-24114
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 31."
   citata_originali: |
     Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
     veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
@@ -159,7 +169,8 @@ media_all_json: |-
 - id: c-43424
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 10."
   citata_originali: |
     Visus valstybės kūrimus lydėjo kovos ir mūšiai. Mindaugo ir
     vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių or-
@@ -179,7 +190,8 @@ media_all_json: |-
 - id: c-43425
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Iš Dobės (šiaurėje),
     Klaipėdos (vakaruose) ir Georgenburgo
@@ -209,7 +221,8 @@ media_all_json: |-
 - id: c-43426
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Lietuvių pajėgos
 
@@ -238,9 +251,9 @@ media_all_json: |-
     - t-004
 
 - id: c-184407
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 379"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 379."
   citata_originali: |
     Tuo tarpu atėjo žinia į abažą mel-
     džionims dar tebtimpsant, jog 4000 rinktinių že­

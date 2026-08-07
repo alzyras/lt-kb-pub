@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-60325
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
   citata_originali: |
     Apie vieno sūduvio atsivertimą ir nuostabų įvykį
     Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir

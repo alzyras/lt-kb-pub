@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2cf0f4c6ae78a3d7da30642"
+canonical_name: "Dabaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dabaras"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo giminaitį, vardu Dabaras, o visus jo žmones išžudė."
 ---
 # Dabaras
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo 
 - id: c-60891
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     Ten jie narsiai užpuolė Divaną ir nukovė vieną
     jo giminaitį, vardu Dabaras, o visus jo žmones išžudė. Vis dėlto Divanas su nedideliu

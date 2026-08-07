@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c281e294d63371746ff01051"
+canonical_name: "B. Kolyška"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["B. Kolyška"]
+sameAs: []
+canonical_biography: "Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau to neleido vyriausiasis vadas Z."
 ---
 # B. Kolyška
 
@@ -99,7 +106,8 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
 - id: c-41858
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     160
 
@@ -125,7 +133,8 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
 - id: c-44299
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     Netrukus iš K. Maleckio žvalgy-
     binio padalinio atėjo pranešimas apie
@@ -149,7 +158,8 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
 - id: c-44300
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     Merlino pėstininkus. Bijodami
     apsupimo ir miškingoje vietovėje negalė-
@@ -170,7 +180,8 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
 - id: c-44301
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 164."
   citata_originali: |
     Oficialiai pa-
     teikiami Rusijos kariuomenės nuos-

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-71367a2ca3fbe7f253ac062c"
+canonical_name: "St. Smolka"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["St. Smolka"]
+sameAs: []
+canonical_biography: "Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smolka, St."
 ---
 # St. Smolka
 
@@ -96,7 +103,8 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
 - id: c-55079
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 286."
   citata_originali: |
     — Prochaska, A. : _Upadek Kiejstuta_ , KH, t. 23, 1909, 493-
     506 p. — Semkowicz, Wb.: _Hanul, namiestnik wileński i jego ród_ , AW,
@@ -116,7 +124,8 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
 - id: c-55080
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 280"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 280."
   citata_originali: |
     Jeigu anksčiau stambesni vidaus nesutikimai
     (pvz., po Mindaugo ir Gedimino mirties) buvo sutvarkomi be jokio

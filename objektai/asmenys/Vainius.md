@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a4c9a4774bc1728853e9f982"
+canonical_name: "Vainius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vainius"]
+sameAs: []
+canonical_biography: "Pasak Narbuto, Vainius gimė 1296 metais kaip Lietuvos didžiojo kunigaikščio Vytenio sūnus iš antrosios žmonos."
 ---
 # Vainius
 
@@ -63,7 +70,8 @@ Pasak Narbuto, Vainius gimė 1296 metais kaip Lietuvos didžiojo kunigaikščio 
 - id: c-173099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
   citata_originali: |
     214
 

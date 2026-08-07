@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fa2ae819462546fd8fc3aa46"
+canonical_name: "Rimantas Viedrynaitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Rimantas Viedrynaitis"]
+sameAs: []
+canonical_biography: "Atskirai reikia paminėti Rimanto Viedrynaičio sudarytą leidinį Kaunas."
 ---
 # Rimantas Viedrynaitis
 
@@ -49,9 +56,9 @@ Atskirai reikia paminėti Rimanto Viedrynaičio sudarytą leidinį Kaunas.
 ## Citatos
 
 - id: c-185564
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 22"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 22."
   citata_originali: |
     Atskirai reikia paminėti Rimanto Viedrynaičio sudarytą leidinį Kaunas. Istorija,
     praeitis, dabartis (Kaunas, 2006), kuriame svarbiausi XIV-XVIII a. Kauno istorijos

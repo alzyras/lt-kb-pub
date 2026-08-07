@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae76c84a59da8e41b0b62b43"
+canonical_name: "Ulriko Hozijaus tiltas per Viliją"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ulriko Hozijaus tiltas per Viliją"]
+sameAs: []
+canonical_biography: "Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­ dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų. ) Žy­ gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­ niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą jo tėviško rūpinimosi tauta. Ulrikas uoliai įvykdė karaliaus pavedimus; per upę stojo išmūrytas tiltas ir špitolės sienos jau buvo gerokai pakilusios, bet vis dėlto po Ulriko mirties statybą užbaigė jo sūnus Jonas."
+place_authority: true
+historical_names: []
 ---
 # Ulriko Hozijaus tiltas per Viliją
 
@@ -90,7 +99,8 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 - id: c-82133
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA // TOMAS
     dėlto, atrodo, kad Goštautas nežinia kodėl šia karaliaus pri­
@@ -116,7 +126,8 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 - id: c-82134
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284."
   citata_originali: |
     Dvasios bažnyčios pastatyti vie­
     šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
@@ -138,7 +149,8 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 - id: c-176854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 283."
   citata_originali: |
     O po kele­
     lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir

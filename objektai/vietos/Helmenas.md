@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-00ccbf605027bf3fd3afed74"
+canonical_name: "Helmenas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Helmenas"]
+sameAs: []
+canonical_biography: "Li vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Helmenas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas, Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diunamundė, Ryga, Šmetenė."
+place_authority: true
+historical_names: []
 ---
 # Helmenas
 
@@ -46,7 +55,8 @@ Li vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburgas,
 - id: c-176880
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 330-331"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 330-331."
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau
     žaibus,

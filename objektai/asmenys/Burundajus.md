@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f8eaddd88d9f3c512a725f00"
+canonical_name: "Burundajus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Burundajus"]
+sameAs: []
+canonical_biography: "žiemą Lietuva atrėmė didžiulį Aukso ordos totorių, vadovaujamų Burundajaus, bei jiems jau pavaldžios Haličo-Voluinės Rusios antpuolį."
 ---
 # Burundajus
 
@@ -82,7 +89,8 @@ media_all_json: |-
 - id: c-76057
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 27."
   citata_originali: |
     Padėtis buvo įtempta ir
     Lietuvos pietryčiuose. 1258-1259 m. žiemą

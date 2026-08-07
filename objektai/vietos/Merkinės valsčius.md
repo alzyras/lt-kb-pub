@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-98cda3851eaa31381b12e27d"
+canonical_name: "Merkinės valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Merkinės valsčius"]
+sameAs: []
+canonical_biography: "Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valstiečių maišto nuslopinimas minimas kaip atpildo Rimvydui pagrindas."
+place_authority: true
+historical_names: []
 ---
 # Merkinės valsčius
 

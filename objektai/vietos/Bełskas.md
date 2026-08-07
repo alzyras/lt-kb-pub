@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1397807d3af8dd10cc318dfd"
+canonical_name: "Bełskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bełskas"]
+sameAs: []
+canonical_biography: "Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­ rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­ mus, atskiru liepos 7 d.. Ir taip pat pateikė visuotiniame Bełsko seime tūkstantis penki šimtai šešiasdešimt ketvirtaisiais metais priimtą nutarimą, kuriame sakoma, kad Romos tikėjimo bažnyčioms teisės, pri­ vilegijos ir visos laisvės yra nuo seno duotos ir patvirtintos, - • — 437 ##."
+place_authority: true
+historical_names: []
 ---
 # Bełskas
 
@@ -59,7 +68,8 @@ Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąj
 - id: c-81987
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 297."
   citata_originali: |
     IV KNYGA
     Vilnius ir pasinaudojo savo prerogatyva abiejų tautų Unijos

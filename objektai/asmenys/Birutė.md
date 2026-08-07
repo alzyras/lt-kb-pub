@@ -37,6 +37,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   [{"mediaId":"m-34c5236d231bd6dadf922380","title":"Vytautas the Great statue 03937.JPG","caption":"Birutės medinė skulptūra su mažuoju Vytautu Vilniuje.","originalTitle":"Vytautas the Great statue 03937.JPG","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Self-photographed","dateDisplay":"2007","dateStart":null,"dateEnd":null,"width":1944,"height":2592,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVytautas_the_Great_statue_03937.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vytautas_the_Great_statue_03937.JPG/1920px-Vytautas_the_Great_statue_03937.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Vytautas_the_Great_statue_03937.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"šeima","label":"šeima","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Birutė","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments and memorials to Vytautas the Great","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Monuments in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Sony DSC-W55","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Birutė.md","title":"Birutė","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T18:21:01.131577+03:00","reviewedAt":"2026-07-18T18:21:18.088674+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma medinė moters figūra su vaikais, atitinkanti Birutės su mažuoju Vytautu skulptūrą.","metadataEvidence":"Wikimedia Commons aprašyme konkrečiai nurodyta, kad tai Birutės, Kęstučio žmonos, skulptūra su mažuoju Vytautu; pateiktas pavadinimas, autorius ir vieta Vilniuje.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą – Birutę – kaip skulptūrą.","isPrimary":1}]
+entity_id: "ent-da2cfb82b3f38f410f9e03e6"
+canonical_name: "Birutė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Birutė","Birutės"]
+sameAs: []
+canonical_biography: "Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris. Birutė iš jų bus išmokęs skaityti ir rašyti. Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę."
 ---
 # Birutė
 
@@ -416,7 +423,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 24."
   citata_originali: |
     Kęstutis, matyt, buvo buvęs du kartu
     vedęs. Pirmoji Kęstučio žmona mums nežinoma, ir turėjo būti
@@ -434,7 +442,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 26."
   citata_originali: |
     Bet iš ki­
     tos pusės, Vytautui teko gyventi ne vien pagoniško tikėjimo pa­
@@ -464,7 +473,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 24."
   citata_originali: |
     Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias
     šios dinastijos atstovas, kaip galingas ir labai didelis ąžuolas,
@@ -486,7 +496,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
 - id: c-160331
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 25."
   citata_originali: |
     Visų pirma atsirado
     herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad
@@ -511,7 +522,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
 - id: c-160333
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
   citata_originali: |
     Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,
     kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.
@@ -529,7 +541,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
 - id: c-160334
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 54."
   citata_originali: |
     Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
     ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
@@ -570,7 +583,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
 - id: c-168036
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 251."
   citata_originali: |
     Užėmęs kovos lau­
     ką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­
@@ -599,7 +613,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
 - id: c-168037
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268."
   citata_originali: |
     Tuo būdu
     užėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni­
@@ -627,7 +642,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
 - id: c-171404
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Duomenų apie tai mums
     paliko Strijkovskis.
@@ -653,7 +669,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
 - id: c-171405
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Žemaičių ir Trakų kuni­
     gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
@@ -676,7 +693,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
 - id: c-171406
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Si kunigaikštie­
     nė, būdama gyva, garsėjo savo kilniaširdiškumu. Žuvus vyrui
@@ -696,7 +714,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
 - id: c-171407
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
     viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
@@ -718,7 +737,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
 - id: c-171408
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
   citata_originali: |
     Pastebėję po nakties avį
     nuplikusia dėmėmis nugara, be vilnos, tarytum būtų ji iškirpta
@@ -740,7 +760,8 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
 - id: c-179162
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Lietuvos ir Prūsijos archeologų surinkti duomenys patiks­
     lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Prauri-

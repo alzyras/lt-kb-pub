@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88a868fe998149e13d2166c2"
+canonical_name: "Juozapas Ozemblovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozapas Ozemblovskis"]
+sameAs: []
+canonical_biography: "Litografas Juozapas Ozemblovskis padarė piešinį monetos, kuri vietoj pažadėto radinio buvo nusiųsta T. Narbutui."
 ---
 # Juozapas Ozemblovskis
 
@@ -46,7 +53,8 @@ Litografas Juozapas Ozemblovskis padarė piešinį monetos, kuri vietoj pažadė
 - id: c-173048
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 494"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 494."
   citata_originali: |
     Šis peterburgiš-
     kio literato prašymu monetą turėjęs perduoti

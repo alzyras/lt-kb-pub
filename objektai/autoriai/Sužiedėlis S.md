@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ce8f9603af50cf706e18417"
+canonical_name: "Sužiedėlis S"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Sužiedėlis S"]
+sameAs: []
+canonical_biography: "Dieckmann Ch., Sužiedėlis S."
 ---
 # Sužiedėlis S
 
@@ -63,7 +70,8 @@ Dieckmann Ch., Sužiedėlis S.
 - id: c-26704
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Dieckmann Ch., Sužiedėlis S. Lietuvos žydų persekiojimas ir masinės žu-
     dynės 1941 m. vasarą ir rudenį / The Persecution and Mass Murder of Lithuanian

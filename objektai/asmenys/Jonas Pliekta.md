@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d6c801c425cead377749b109"
+canonical_name: "Jonas Pliekta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Pliekta"]
+sameAs: []
+canonical_biography: "Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vienerius metus, nėra jokių žinių4."
 ---
 # Jonas Pliekta
 
@@ -62,7 +69,8 @@ Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vi
 - id: c-83709
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 206."
   citata_originali: |
     1. Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­
     no, lenkas, Aro ženklo herbo, pirmasis Vilniaus vyskupas,

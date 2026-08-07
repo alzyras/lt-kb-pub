@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-84ef630a8c131f6bbaaf7e16"
+canonical_name: "Rumšiškės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rumšiškės"]
+sameAs: []
+canonical_biography: "Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos meno ir kraštotyros draugijos, legalizuoti etnografiniai tyrimai, leista kurti folkloro ansamblius."
+place_authority: true
+historical_names: []
 ---
 # Rumšiškės
 
@@ -52,7 +61,8 @@ Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos 
 - id: c-24439
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
   citata_originali: |
     Nusižengusieji buvo kaltinami „buržuaziniu naciona-
     lizmu“, neigiama Vakarų kultūros įtaka.
@@ -73,7 +83,8 @@ Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos 
 - id: c-167020
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
   citata_originali: |
     Atšilimo laikotarpiu ideologizuotą Lietuvos kultūrą bandyta susieti su
     kultūros tradicija ir Lietuvos kultūros pagrindu. Tam įsteigtas Liaudies

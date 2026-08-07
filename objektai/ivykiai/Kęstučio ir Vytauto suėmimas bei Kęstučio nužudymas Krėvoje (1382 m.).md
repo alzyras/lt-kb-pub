@@ -91,7 +91,8 @@ Nenurodyta
 - id: c-82874
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53-54"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53-54."
   citata_originali: |
     Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­
     gaila, esą pasirengęs taikytis. Sūnėnų tvirtas laidavimo žo­
@@ -152,7 +153,8 @@ Nenurodyta
 - id: c-82875
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53-54"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53-54."
   citata_originali: |
     37
 

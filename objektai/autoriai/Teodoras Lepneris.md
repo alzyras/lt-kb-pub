@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aacdeee9597d8052bdd2862c"
+canonical_name: "Teodoras Lepneris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Teodoras Lepneris"]
+sameAs: []
+canonical_biography: "Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakciją — Bychovco kroniką, kuria Daukantas pasinaudoti nebespės."
 ---
 # Teodoras Lepneris
 
@@ -41,9 +48,9 @@ Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakcij
 ## Citatos
 
 - id: c-184782
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 5"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 5."
   citata_originali: |
     Netrukus Teodoras Narbutas paskelbs ir
     vėlyvąją Lietuvos metraščio redakciją — Bychovco

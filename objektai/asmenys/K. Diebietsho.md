@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e945f3994033c2c9ff2259f9"
+canonical_name: "K. Diebietsho"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["K. Diebietsho"]
+sameAs: []
+canonical_biography: "Diebietsho korpusas."
 ---
 # K. Diebietsho
 
@@ -63,7 +70,8 @@ Diebietsho korpusas.
 - id: c-44398
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 192."
   citata_originali: |
     Jiems buvo
     mokama gera alga, pergalės atveju žadama duoti žemės

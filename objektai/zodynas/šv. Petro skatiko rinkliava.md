@@ -51,7 +51,8 @@ Petro skatiko rinkliavų, arba su Rygos arki­ vyskupu, turint omenyje senus jo 
 - id: c-82622
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 93-94"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 93-94."
   citata_originali: |
     3 baigiamas
     tokiais žodžiais: Cupientes igitur, ut

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-227fc268a045d5b9c9c89573"
+canonical_name: "Bertoldas Briuhavenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bertoldas Briuhavenas"]
+sameAs: []
+canonical_biography: "Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas. Bertoldas Briuhavenas puolė Medrabą, ją užėmė ir, pasak Kojelavičiaus, išvadavo ten kalintus krikščionis. Bertoldas Briuhavenas, Karaliaučiaus komtūras, Livonijoje su Prūsijos kryžiuočių daliniu nugalėjo apgulties išsekintus lietuvius."
 ---
 # Bertoldas Briuhavenas
 
@@ -32,7 +39,7 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
 <a id="claim-t-186098"></a>
 - t-001
   teiginys: "Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -72,7 +79,8 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
 - id: c-169459
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 164."
   citata_originali: |
     Bertoldas negalėjo
     leisti, kad iš jo atimamas toks patogus kelias, todėl,
@@ -112,7 +120,8 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
 - id: c-178679
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 176."
   citata_originali: |
     Toje stovykloje kartu su ry-
     giečiais buvo keturi tūkstančiai karių, kurie ryžtingai

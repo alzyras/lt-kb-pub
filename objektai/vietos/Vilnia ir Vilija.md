@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5481cd6e6145d4b09c20dd63"
+canonical_name: "Vilnia ir Vilija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilnia ir Vilija"]
+sameAs: []
+canonical_biography: "Fluminibus quoque circa illud flu­ entibus, Villia et Vilna, ex ejusdem du­ cis nomine, indidere nomina [Kur gar­ sus miestas Vilnius, kuris ir šiandien genties sostinė yra, nuo kunigaikščio Viliaus vardo, su kuriuo [jie] ir Italiją paliko, ir į kitus kraštus."
+place_authority: true
+historical_names: []
 ---
 # Vilnia ir Vilija
 
@@ -52,7 +61,8 @@ Fluminibus quoque circa illud flu­ entibus, Villia et Vilna, ex ejusdem du­ ci
 - id: c-82233
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 62."
   citata_originali: |
     Ibi primum oppidum Vilna, quod et in
     hanc dietn caput genti est ex nomine Villi

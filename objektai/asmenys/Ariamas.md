@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-baae4ce530ab11c0023d7591"
+canonical_name: "Ariamas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ariamas"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja, kad Rytų valdovo įsakymu Kapadokijos valdytojas Ariamas su 30 galerų puolė skitus iš jūros."
 ---
 # Ariamas
 
@@ -53,7 +60,8 @@ Narbutas pasakoja, kad Rytų valdovo įsakymu Kapadokijos valdytojas Ariamas su 
 - id: c-174251
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     Bet persų pasiuntiniai buvo išsiųsti atgal
     su panieka; į prašymą karalaitės rankos atsakyta nei­

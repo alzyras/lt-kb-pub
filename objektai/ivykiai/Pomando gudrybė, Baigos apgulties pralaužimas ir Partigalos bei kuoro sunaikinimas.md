@@ -84,7 +84,8 @@ Nenurodyta
 - id: c-60029
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     Apie netikėlių išžudymą ir Partigalos pilies bei kuoro sunaikinimą
 
@@ -113,7 +114,8 @@ Nenurodyta
 - id: c-60030
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     Sitai padarę, kunigaikštis bei broliai su savo
     kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami

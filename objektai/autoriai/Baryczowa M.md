@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1eecf66fbd945549d0c17d40"
+canonical_name: "Baryczowa M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Baryczowa M"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad baryczowa M."
 ---
 # Baryczowa M
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad baryczowa M.
 - id: c-61306
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     75 Pasakodamas apie Vytenį, jis tvirtina rašąs kaip Petras Dusburgietis, senas Prūsų
     istorijos rašytojas, bet iš tolesnio teksto matyti, kad apie Dusburgietį jis bus girdėjęs per

@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-83105
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 294."
   citata_originali: |
     Tačiau daugiausia įtakos amatininkų gerovei ir tobulėji­
     mui turėjo didžiosios ginklų liejyklos įkūrimas prie Vilniaus

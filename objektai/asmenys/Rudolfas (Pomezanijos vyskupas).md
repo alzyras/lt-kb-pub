@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d67c3416101280aaa03b4194"
+canonical_name: "Rudolfas (Pomezanijos vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rudolfas (Pomezanijos vyskupas)"]
+sameAs: []
+canonical_biography: "Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­ kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo miręs), kartu su savo diecezijos klebonais Elblionge bemat surengė pasitarimą ir."
 ---
 # Rudolfas (Pomezanijos vyskupas)
 
@@ -53,7 +60,8 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 - id: c-83826
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 91."
   citata_originali: |
     I  KNYGA
     čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­

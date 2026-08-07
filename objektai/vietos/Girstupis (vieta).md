@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8e2804f4787e12bdba7896ba"
+canonical_name: "Girstupis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Girstupis","Girstupis (vieta)"]
+sameAs: []
+canonical_biography: "1463 m. Kazimieras Jogailaitis, tvirtindamas ir praplėsdamas pirmtakų privilegijas Kauno miestui, užrašė, kad Laukus, taip pat mūsų ir pievas, Skavais vadinamas, į ilgį nuo miesto iki upelio ar upokšnio Girstupio, o į plotį nuo Nemuno upės net iki kalvos. Kryžiaus bažnyčios ir raižinyje nematomo Girstupio, spietėsi keli vieno aukšto namai."
+place_authority: true
+historical_names: []
 ---
 # Girstupis (vieta)
 
@@ -64,9 +73,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185057
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 137"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 137."
   citata_originali: |
     1463 m. Kazimieras
     Jogailaitis, tvirtindamas ir praplėsdamas pirmtakų privilegijas Kauno miestui, už-
@@ -85,9 +94,9 @@ media_all_json: |-
     - t-001
 
 - id: c-185058
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 385"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 385."
   citata_originali: |
     Virš kai kurių iš jlĮ
     pavaizduoti iškilę frontonai, laiptuoti ar lygiakraščiai.

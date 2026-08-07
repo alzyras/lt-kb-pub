@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-658c70f6ec96cb1b21813f3a"
+canonical_name: "Sulikovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Sulikovskis"]
+sameAs: []
+canonical_biography: "Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papročiu, Bekešo pa­ laikai buvę palaidoti po apvaliu bokštu."
 ---
 # Sulikovskis
 
@@ -50,7 +57,8 @@ Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papro
 - id: c-84078
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 309."
   citata_originali: |
     Tačiau amžininkas rašytojas
     Sulikovskis  pasakoja tiktai,

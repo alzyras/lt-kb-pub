@@ -107,7 +107,8 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 - id: c-55780
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 106."
   citata_originali: |
     Taigi čia turime aiškų paties Gedimino prisipažinimą, kad
     niekados jokių laiškų nei popiežiui, nei Vokietijos mies­
@@ -132,7 +133,8 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 - id: c-55781
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 112."
   citata_originali: |
     Kiti laiškų netikrumo įrodymai glūdi tiek jų turinyje, tiek
     posakiuose; ir viena, ir antra visai nebūdingi žmogui, dar

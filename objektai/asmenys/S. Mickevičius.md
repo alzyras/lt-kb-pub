@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b0415bf1646f586d1087788d"
+canonical_name: "S. Mickevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["S. Mickevičius"]
+sameAs: []
+canonical_biography: "Mickevičius."
 ---
 # S. Mickevičius
 
@@ -50,7 +57,8 @@ Mickevičius.
 - id: c-44502
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 176."
   citata_originali: |
     Bolševikų pajėgos
     7-ajam „lietuviška-

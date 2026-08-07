@@ -63,7 +63,8 @@ Nenurodyta
 - id: c-10269
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 73"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 73."
   citata_originali: |
     Ašmasis trobesys buvo vadinamas pirčia; pačioj pirty buvo krosnis, pusėj sienų buvo plautai,
         nuo žodžio plauti, suolai, ant kurių voliodamies su lapuotomis beržinėmis vantomis pėrės,

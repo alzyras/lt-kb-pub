@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0533e78d89d056ba443b5b4a"
+canonical_name: "Valteris R. Hesas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Valteris R. Hesas"]
+sameAs: []
+canonical_biography: "Dauguma kaltinamųjų sakė, kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gaudavo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems davė nacių vadai Valteris R."
 ---
 # Valteris R. Hesas
 
@@ -32,7 +39,8 @@ Dauguma kaltinamųjų sakė, kad žavisi nacizmu, Klaipėdą laiko Vokietijos da
 - id: c-22049
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 180."
   citata_originali: |
     Dauguma kaltinamųjų sakė,
     kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-

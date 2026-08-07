@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fbdf4ab557bd5d8535dbdf77"
+canonical_name: "Gajus Mesijus Kvintas Decijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gajus Mesijus Kvintas Decijus"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai kariavo su romėnais ir buvo germanų sąjungininkai."
 ---
 # Gajus Mesijus Kvintas Decijus
 
@@ -84,7 +91,8 @@ Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai 
 - id: c-174282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
   citata_originali: |
     Juk buvo kariaujama su skandina­
     vais, gentys įvairiais būdais patirdavo tų užjūrio kai­

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-efdc0fff3dd9f714c0a221a8"
+canonical_name: "Vingrių upokšnis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vingrių upokšnis"]
+sameAs: []
+canonical_biography: "Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją. Iš priešingos, vakarų, pusės atitekėjęs Vingrių upokšnis vi­ siškai greta Vilnios žiočių įtekėjo į Vi­ liją."
+place_authority: true
+historical_names: []
 ---
 # Vingrių upokšnis
 
@@ -67,7 +76,8 @@ Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestu
 - id: c-82243
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 124."
   citata_originali: |
     4
     Vilnia, arba Vilnelė, anuomet, atite­
@@ -95,7 +105,8 @@ Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestu
 - id: c-82244
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 124."
   citata_originali: |
     Šalimais jo apvalus bokštas, iš plytų
     ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai

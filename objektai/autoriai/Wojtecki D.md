@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e73a06c101c9e2d0eb7902d2"
+canonical_name: "Wojtecki D"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Wojtecki D"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad l., Die Eroberung..., 3, p. 3; Wojtecki D., Studien..., p. 147) ir 1253—1254 m. žiema, tiksliau— 1254 m. pradžia (Powierski J., Dobra..., p. 62—64)."
 ---
 # Wojtecki D
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad l., Die Eroberung..., 3, p. 3; Wojtecki D., Studien...,
 - id: c-61451
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
   citata_originali: |
     314 Sembos puolimas datuojamas dvejopai: 1252—1253 m. žiema (Ewald A. L., Die
     Eroberung..., 3, p. 3; Wojtecki D., Studien..., p. 147) ir 1253—1254 m. žiema, tiksliau—

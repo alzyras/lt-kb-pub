@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e61560da01ac031ad880731"
+canonical_name: "Snorro Sturleson"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Snorro Sturleson"]
+sameAs: []
+canonical_biography: "Įdedame čia trumpą žinutę apie tą Snorro ir jo darbus."
 ---
 # Snorro Sturleson
 
@@ -51,7 +58,8 @@ media_all_json: |-
 - id: c-176908
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 66."
   citata_originali: |
     Įdedame čia trumpą žinutę apie tą
     Snorro ir jo darbus. Snorro S t u r-

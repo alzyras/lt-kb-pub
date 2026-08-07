@@ -59,7 +59,8 @@ Vartojamos formos: `veldėme`.
 - id: c-09623
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 244"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 244."
   citata_originali: |
     Pirma žemė, arba gruntas, visuomenis buvo, ir, kurs kame buvo pragyvenęs, girios vidury namą sau pastrūnijęs, dirvas apsukui praplėšęs ir pievas praskynęs, tas tokį savo gyvenimą ir gruntą, tam gyvenimui priderantį, turėjo už savo veldėmę^1033 ir galėjo kaip tinkamas dovanoti kaip kokį daiktą, kurį būt savo nuopelnu įgijęs.
   citata_rodoma: "Pirma žemė, arba gruntas, visuomenis buvo, ir, kurs kame buvo pragyvenęs, girios vidury namą sau pastrūnijęs, dirvas apsukui praplėšęs ir pievas praskynęs, tas tokį savo gyvenimą ir gruntą, tam gyvenimui priderantį, turėjo už savo veldėmę^1033 ir galėjo kaip tinkamas dovanoti kaip kokį daiktą, kurį būt savo nuopelnu įgijęs."
@@ -74,7 +75,8 @@ Vartojamos formos: `veldėme`.
 - id: c-09624
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 244"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 244."
   citata_originali: |
     Dar Zigmantas III DLK, Augustu vadinamas, metuose 1557 savo valsčionų^1034 įstatymuose sako: „Lig šiol dar negal iš galvos lietuviams to iškulti, kurie vis taria^1035 , jog žemė esanti jų veldėme, kurios niekas nuo jų negalįs atimti neigi niekam dovanoti kaipo jų pelną.“
   citata_rodoma: "Dar Zigmantas III DLK, Augustu vadinamas, metuose 1557 savo valsčionų^1034 įstatymuose sako: „Lig šiol dar negal iš galvos lietuviams to iškulti, kurie vis taria^1035 , jog žemė esanti jų veldėme, kurios niekas nuo jų negalįs atimti neigi niekam dovanoti kaipo jų pelną.“"

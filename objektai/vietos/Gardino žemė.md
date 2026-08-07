@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6332b8b986d53fdf20470430"
+canonical_name: "Gardino žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gardino žemė"]
+sameAs: []
+canonical_biography: "Gardino žemė su artimiausiomis pilimis buvo pradinis laimikis."
+place_authority: true
+historical_names: []
 ---
 # Gardino žemė
 
@@ -52,7 +61,8 @@ Gardino žemė su artimiausiomis pilimis buvo pradinis laimikis.
 - id: c-33845
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 171."
   citata_originali: |
     Naudodamiesi artimųjų Rusios žemių susilpnėjimu, dar
     keliasdešimt metų prieš totorių pasirodymą, lietuviai buvo pradėję

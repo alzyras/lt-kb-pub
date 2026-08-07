@@ -73,9 +73,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184707
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 532"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 532."
   citata_originali: |
     Taip apdrąsinąs karėjus, Gediminas liepė ženg­
     ti toliaus, vienok saugodamos, idant neprieteliai
@@ -99,9 +99,9 @@ Nenurodyta
     - t-001
 
 - id: c-184708
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 576"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 576."
   citata_originali: |
     Bet įgulė, jutusi ateinant sau pa­
     galbon marčelgą Dusenerį, paliaubas sulaužė: kai­

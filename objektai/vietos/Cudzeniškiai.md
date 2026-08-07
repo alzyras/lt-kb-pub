@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac12df92ff0060e8b7ee8ff4"
+canonical_name: "Cudzeniškiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Cudzeniškiai"]
+sameAs: []
+canonical_biography: "Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p."
+place_authority: true
+historical_names: []
 ---
 # Cudzeniškiai
 
@@ -59,7 +68,8 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 - id: c-82042
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156."
   citata_originali: |
     O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
     Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis

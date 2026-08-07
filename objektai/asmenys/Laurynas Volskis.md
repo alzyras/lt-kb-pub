@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ee5dd07912c72d31ecbdeba"
+canonical_name: "Laurynas Volskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Laurynas Volskis"]
+sameAs: []
+canonical_biography: "Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninkai Marcelis Suchodolskis - 500 auksinų, Stanislovas Goreckis - 2500 auksinų, Laurynas Volskis - 250 auksinų, ir susidarė 4 000 suma."
 ---
 # Laurynas Volskis
 
@@ -58,7 +65,8 @@ Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninka
 - id: c-83421
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 202-203"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 202-203."
   citata_originali: |
     Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
     das už fundatoriaus sielą. Insuper 750 auksinų sumą užrašė,

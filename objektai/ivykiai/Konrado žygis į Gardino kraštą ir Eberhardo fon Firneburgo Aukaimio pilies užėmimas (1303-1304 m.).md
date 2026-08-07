@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-169077
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 180."
   citata_originali: |
     Trumpą atokvėpį vis dėlto nutraukė nauji ant­
     puoliai iš Prūsijos. Grafas Verneris fon Hoinbergas ir

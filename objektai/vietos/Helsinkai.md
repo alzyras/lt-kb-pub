@@ -29,6 +29,15 @@ media_all_json: |-
 tags:
   - vieta
   - miestas
+entity_id: "ent-c7d496b2324820e296e74082"
+canonical_name: "Helsinkai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Helsinkai","Helsinkuose","Helsinkų universitetą"]
+sameAs: []
+canonical_biography: "Helsinkai šiame šaltinyje minimi kaip Augusto Roberto Niemio studijų miestas ir vieta, kur buvo pastatytas Lonnroto paminklas."
+place_authority: true
+historical_names: []
 ---
 # Helsinkai
 

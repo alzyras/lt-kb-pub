@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a3cf2c8b5949fce2de3b818c"
+canonical_name: "Kiščina (Vitebsko vaivadienė)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kiščina (Vitebsko vaivadienė)"]
+sameAs: []
+canonical_biography: "Kiščina (Vitebsko vaivadienė) privalanti gerb­ ti."
 ---
 # Kiščina (Vitebsko vaivadienė)
 
@@ -59,7 +66,8 @@ Kiščina (Vitebsko vaivadienė) privalanti gerb­ ti.
 - id: c-83735
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 279."
   citata_originali: |
     Žr. Miesto archyve: Žygimanto Seno­
     jo privilegija, datuota Rūdninkuose,

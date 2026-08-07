@@ -94,7 +94,8 @@ Nenurodyta
 - id: c-174957
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 205."
   citata_originali: |
     Bū­
     tent ten į Sulos upę įteka upė Romna, prie jos žiočių

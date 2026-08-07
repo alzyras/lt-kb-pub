@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-83270
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 141."
   citata_originali: |
     Tas šaunus karys, išvaręs iš tvir­
     tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­

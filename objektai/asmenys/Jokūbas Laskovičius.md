@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-841c050603abc5476fdcd8ac"
+canonical_name: "Jokūbas Laskovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokūbas Laskovičius"]
+sameAs: []
+canonical_biography: "Lasickis nurodė, kad Žemaičių kunigaikštystės valdininkas Jokūbas Laskovičius jam pasakojo apie Žemaičiuose garbintus kitus dievus."
 ---
 # Jokūbas Laskovičius
 
@@ -54,7 +61,8 @@ Lasickis nurodė, kad Žemaičių kunigaikštystės valdininkas Jokūbas Laskovi
 - id: c-172985
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 344."
   citata_originali: |
     Matėme aukojimų aprašyme, kad
     aukų paplotėliai buvo kepami mėtant juos per ugnį - tai buvo

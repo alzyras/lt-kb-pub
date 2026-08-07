@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6262e20db22ba6961145436c"
+canonical_name: "Marija (Algirdo žmona)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Marija (Algirdo žmona)"]
+sameAs: []
+canonical_biography: "26 ## Puslapis 43 I KNYGA krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­ ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte Marija, sekdamas Gedimino politika, leido, be skirtumo, iš Romos atsiųstiems vienuoliams Vilniuje skelbti. Marija (Algirdo žmona) buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­ bėje, pasakyta, kad tai yra senos lais­ vės, senolio Algirdo ir jo įpėdinių suteiktos Vilniui, atnaujinimas."
 ---
 # Marija (Algirdo žmona)
 
@@ -76,7 +83,8 @@ media_all_json: |-
 - id: c-83524
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 42-43"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42-43."
   citata_originali: |
     Žr. V\lre- tis buvęs Kęstudo karių suduptas.
     26
@@ -102,7 +110,8 @@ media_all_json: |-
 - id: c-83525
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 48-49"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48-49."
   citata_originali: |
     Bemaž tuo metu Vilniuje gerokai
     25

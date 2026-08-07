@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2510e6709806f74af2c7eb69"
+canonical_name: "Adamas Ign. Naramowski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Adamas Ign. Naramowski","Adamum Ign. Naramowski","Naramovskis","Naramowski"]
+sameAs: []
+canonical_biography: "Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies rerum Sarmaticarum“. Balińskio pasakojime jis taip pat minimas kaip platus istorinis veikalas, naudotas Vilniaus vyskupų istorijai."
 ---
 # Adamas Ign. Naramowski
 
@@ -76,7 +83,8 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
 - id: c-55538
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 206."
   citata_originali: |
     Facies rerum Sarmaticarum in facie
     Regni Poloniae, Magnique Ducatus Li-
@@ -95,7 +103,8 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
 - id: c-55539
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 206."
   citata_originali: |
     Tad nu­
     rodysime tuos Vilniaus diecezijos ganytojus, kurių vardai jo­

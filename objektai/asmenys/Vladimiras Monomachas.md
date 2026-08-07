@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bc8fbd967416db4134c1f97d"
+canonical_name: "Vladimiras Monomachas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladimiras Monomachas"]
+sameAs: []
+canonical_biography: "Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš poloviečius prie Sutenio."
 ---
 # Vladimiras Monomachas
 
@@ -57,7 +64,8 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
 - id: c-177318
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 107."
   citata_originali: |
     Ne sy­
     kį jie buvo smarkiai sutriuškinti, tačiau nebuvo taip pa­

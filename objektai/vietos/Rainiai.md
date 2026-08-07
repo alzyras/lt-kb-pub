@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-38f600ba43b1136039089184"
+canonical_name: "Rainiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rainiai"]
+sameAs: []
+canonical_biography: "Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš tai ypač žiauriai nukankinus), mažesnio masto – keliose kitose apskrityse, o iš viso nužudyta apie 700 asmenų."
+place_authority: true
+historical_names: []
 ---
 # Rainiai
 
@@ -38,7 +47,7 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 <a id="claim-t-21756"></a>
 - t-001
   teiginys: "Prie Rainių buvo surengtos masinės kalinių žudynės, per kurias nužudyti 76 prieš tai ypač žiauriai nukankinti asmenys."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1941 m."
@@ -74,7 +83,8 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 - id: c-24435
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 194."
   citata_originali: |
     1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui,
     Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos po-
@@ -93,7 +103,8 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 - id: c-167016
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 194."
   citata_originali: |
     Kurių nespėjo, elemen-
     tariai nužudė. Masinės kalinių žudynės surengtos Pravieniškių įkalinimo

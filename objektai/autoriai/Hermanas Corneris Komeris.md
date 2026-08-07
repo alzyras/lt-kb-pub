@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-667588ed3ab7b42b918c2383"
+canonical_name: "Hermanas Corneris Komeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hermanas Corneris Komeris"]
+sameAs: []
+canonical_biography: "Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t."
 ---
 # Hermanas Corneris Komeris
 
@@ -50,7 +57,8 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.
 - id: c-84040
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53."
   citata_originali: |
     Wilna, 1. 177.
     33

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4630cabf2a2c246b9aad223e"
+canonical_name: "Palangos pajūris"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Palangos pajūris"]
+sameAs: []
+canonical_biography: "Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno gubernijos kaimai."
+place_authority: true
+historical_names: []
 ---
 # Palangos pajūris
 
@@ -59,7 +68,8 @@ Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos so
 - id: c-02890
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 592"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 592."
   citata_originali: |
     kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
     čia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-

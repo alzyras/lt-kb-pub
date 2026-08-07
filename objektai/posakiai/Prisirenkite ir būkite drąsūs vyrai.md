@@ -70,7 +70,8 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
 - id: c-59702
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
                                       kovų
@@ -96,7 +97,8 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
 - id: c-179020
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų
     širdis, nebijokite, nesitraukite ir nepabūkite jųjų, nes viešpats, jūsų dievas, yra jūsų

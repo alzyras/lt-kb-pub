@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-87633
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 127"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 127."
   citata_originali: |
     Vokiečiams užgulus jūrines jų
         pilis, beje: Klaipėdos, Liepojos, Lielupio ir Daugavos, kad nebgalėjo patys su svečia šalia per jūrą

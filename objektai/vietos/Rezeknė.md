@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f75e34ac5c15d3845d3dd744"
+canonical_name: "Rezeknė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rezeknė"]
+sameAs: []
+canonical_biography: "Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylinkėmis. 1618 m. Rezeknės, Daugpilio ir kitose Livonijos apylinkėse buvo rasti 418 neapkrikštyti suaugę asmenys."
+place_authority: true
+historical_names: []
 ---
 # Rezeknė
 
@@ -83,7 +92,8 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
 - id: c-168661
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 701-702"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 701-702."
   citata_originali: |
     Seimo darbe dalyvavo ir ordino magistras Ket-
     leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus
@@ -119,7 +129,8 @@ Livonijos riterių ordinas sutartimi atidavė Lietuvai Rezeknės pilį su apylin
 - id: c-171713
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 371"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
   citata_originali: |
     Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
     lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­

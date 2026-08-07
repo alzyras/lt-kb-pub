@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-83068
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 68."
   citata_originali: |
     To dvaro lankose iki šiol dunkso pilkapis, arba
     lietuvių sumuštų kryžiuočių kapavietė, prie Sudervėlės upe­

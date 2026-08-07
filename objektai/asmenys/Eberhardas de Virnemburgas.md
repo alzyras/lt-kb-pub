@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7bf65a079a03022abc55cf45"
+canonical_name: "Eberhardas de Virnemburgas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eberhardas de Virnemburgas"]
+sameAs: []
+canonical_biography: "Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip brolis Eberhardas de Virnemburgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­ provise intravit territorium Lettoviae, dictum Pograuden [neti­ kėtai įsiveržė į Lietuvos."
 ---
 # Eberhardas de Virnemburgas
 
@@ -62,7 +69,8 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
 - id: c-83635
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 63."
   citata_originali: |
     Tačiau atkreipus dėmesį į tai, ką Dus-
     burgas, aprašomų įvykių amžininkas, todėl labiausiai ver­

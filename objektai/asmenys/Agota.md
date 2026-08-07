@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c62e2908ef87108d9c41f89"
+canonical_name: "Agota (kunigaikščio žmona, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Agota","Agota (kunigaikščio žmona, XIII a.)"]
+sameAs: []
+canonical_biography: "Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino broliais ir pritarianti žemių atidavimui Ordinui."
 ---
 # Agota (kunigaikščio žmona, XIII a.)
 
@@ -100,7 +107,8 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
 - id: c-57665
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45-46."
   citata_originali: |
     Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
     kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
@@ -131,7 +139,8 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
 - id: c-57666
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Minėtieji broliai, valdovės
     Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo į kovą,
@@ -151,7 +160,8 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
 - id: c-57667
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
     prūsų kariuomenė ir ją nuniokojo gaisrais ir grobstymais. Minėtieji broliai, valdovės

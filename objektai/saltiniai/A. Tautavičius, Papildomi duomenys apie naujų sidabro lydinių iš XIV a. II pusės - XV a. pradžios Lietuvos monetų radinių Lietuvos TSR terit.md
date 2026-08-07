@@ -62,7 +62,8 @@ Tautavičius, A.
 - id: c-33520
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 385."
   citata_originali: |
     : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje,_
     Athenaeum, nr. 1, 1931, 1-36 p. — Prochaska, A. : _Dzieje Witolda w.

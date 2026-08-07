@@ -63,7 +63,8 @@ Dusburgietis teigia, kad strikowski M.
 - id: c-61933
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
   citata_rodoma: "Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582."

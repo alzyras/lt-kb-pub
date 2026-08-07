@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9f09819c386524457fc02d2d"
+canonical_name: "Ulrikas Hozijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ulrikas Hozijus"]
+sameAs: []
+canonical_biography: "Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­ tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52. Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos. Tas pats Ulrikas visą laiką iki pat mirties buvo Vil­ niaus monetų kalyklos prižiūrėtojas."
 ---
 # Ulrikas Hozijus
 
@@ -191,7 +198,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - id: c-83341
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 401-402"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 401-402."
   citata_originali: |
     Duota Vilniuje, liepos dvidešimt šeštąją, tūkstantis penki
     šimtai trisdešimt trečiaisiais Viešpaties metais. Dalyvaujant
@@ -231,7 +239,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - id: c-83342
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284."
   citata_originali: |
     Ho-
     zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
@@ -252,7 +261,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - id: c-83343
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­
     matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­
@@ -275,7 +285,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - id: c-83344
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 403-404"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 403-404."
   citata_originali: |
     Dominyko ordino brolių pa­
     mokslininkų vienuolyno, esančio prie Šv. Dvasios bažnyčios,
@@ -305,7 +316,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - id: c-83345
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 282-283"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 282-283."
   citata_originali: |
     40), matyti,
     266
@@ -334,7 +346,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - id: c-83346
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 283-284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 283-284."
   citata_originali: |
     Vis
     kad po 1533 metų gaisro, nuo ugnies
@@ -402,7 +415,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - id: c-83347
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 402-403"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 402-403."
   citata_originali: |
     Šiuo raštu
     skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar
@@ -450,9 +464,9 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - t-003
 
 - id: c-184893
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 215"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 215."
   citata_originali: |
     Vis dėlto Kauno svečių teisė ir ypač jos sudedamoji dalis - sankrovos teisė nuo-
     lat buvo pažeidžiama, Prūsų ir kitų Lietuvos miestų pirkliai stengėsi apeiti Kauną.

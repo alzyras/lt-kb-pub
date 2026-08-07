@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4cf5aa919c110e856f2f11cf"
+canonical_name: "Dobeslavas Skoračevskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dobeslavas Skoračevskis"]
+sameAs: []
+canonical_biography: "Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, atvykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju."
 ---
 # Dobeslavas Skoračevskis
 
@@ -51,7 +58,8 @@ Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, a
 - id: c-77382
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 59."
   citata_originali: |
     Raitelio
     pėdas saugo metaliniai antbačiai —

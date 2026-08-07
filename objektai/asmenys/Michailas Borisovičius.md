@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ddbeb5a2a30c081c11f11dc2"
+canonical_name: "Michailas Borisovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Michailas Borisovičius"]
+sameAs: []
+canonical_biography: "Leidinio pastaba Michailą Borisovičių vadina paskutiniu savarankišku Tverės didžiuoju kunigaikščiu nuo 1461 m. ir nurodo jo 1483 m. sutartį su LDK."
 ---
 # Michailas Borisovičius
 
@@ -72,7 +79,8 @@ Leidinio pastaba Michailą Borisovičių vadina paskutiniu savarankišku Tverės
 - id: c-176753
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 303."
   citata_originali: |
     ”  Michailas Borisovičius (1453 — apie 1505 m.) — paskutinis sa­
     varankiškas T verės didysis kunigaikštis (nuo 1461 m.) 1483 m. bu­

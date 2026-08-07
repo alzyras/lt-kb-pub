@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-af995f3eb81eefebcce4929e"
+canonical_name: "Gedimino pilis Castrum Gedemini"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gedimino pilis Castrum Gedemini"]
+sameAs: []
+canonical_biography: "Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki Gedimino laikų. Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1. Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­ želio Il dieną, švintant, Ragainės komtūras Tomas Aldenburgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį ir plėnimis."
+place_authority: true
+historical_names: []
 ---
 # Gedimino pilis Castrum Gedemini
 
@@ -116,7 +125,8 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
 - id: c-81872
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     Šitai vyko viešpataujant Lie­
     tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
@@ -136,7 +146,8 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
 - id: c-81873
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­
     chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
@@ -162,7 +173,8 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
 - id: c-81874
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     Jeigu mes net tarsime, kad ta pilis Vilniuje
     gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
@@ -188,7 +200,8 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
 - id: c-81875
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 63."
   citata_originali: |
     Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­
     du gyvavęs dar iki Gedimino laikų. Hartknochas Dusbur-

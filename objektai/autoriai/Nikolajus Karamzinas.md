@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43f578d799316acdf9db6337"
+canonical_name: "Nikolajus Karamzinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Nikolajus Karamzinas"]
+sameAs: []
+canonical_biography: "Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams ir pagal juos suskirstė „Lietuvių tautos istorijos“ turinį. Narbutas rašo, kad Nikolajus Karamzinas Perkūno vardą kildino iš indų kalbos žodžio „Penui“, reiškiančio didelį. Karamzinas, Narbuto perteikimu, rašė apie vitbionų sostinę Witsby prie Dauguvos, siejamą su Vitebsku."
 ---
 # Nikolajus Karamzinas
 
@@ -223,7 +230,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 - id: c-173190
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
   citata_originali: |
     LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
     dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai
@@ -242,7 +250,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 - id: c-173191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 93."
   citata_originali: |
     Trumpiau aiškinant žodžio Perkūnas kilmę iš lotynų
     kalbos, galima teigti, kad jis galėjo būti kilęs iš žodžio percute­
@@ -261,7 +270,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 - id: c-173652
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     Toliausiai į pietryčius gyveno
     stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
@@ -283,7 +293,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 - id: c-173653
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     Dešiniojoje Dnep-
     1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas
@@ -301,7 +312,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 - id: c-173654
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 108."
   citata_originali: |
     102
     Poloviečiai-lietuviai. Esama įvairių tyrimų, prielaidų
@@ -322,7 +334,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 - id: c-174780
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 215."
   citata_originali: |
     Manydami, kad mūsų skaity­
     tojai prisimena anksčiau šia tema sakytus dalykus (§55),
@@ -347,7 +360,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 - id: c-177282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
   citata_originali: |
     Tad jei laimin­
     gas atsitiktinumas leido užklydusiems su gotais į Rytus
@@ -363,7 +377,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 - id: c-179266
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Be to, tvirto­
     vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
@@ -386,7 +401,8 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
 - id: c-179267
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 111."
   citata_originali: |
     Plinijus teigia, kad jazigai gyveno prie Tisos
     upės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria

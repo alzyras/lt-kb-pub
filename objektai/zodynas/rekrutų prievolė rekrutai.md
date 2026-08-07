@@ -60,7 +60,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 <a id="claim-t-104194"></a>
 - t-002
   teiginys: "Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama)."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -69,7 +69,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 <a id="claim-t-104195"></a>
 - t-003
   teiginys: "1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino pradėti dar neparengtą sukilimą."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1863 m."
@@ -81,7 +81,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 <a id="claim-t-104196"></a>
 - t-004
   teiginys: "1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino „raudonuosius“ pradėti dar neparengtą sukilimą."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1863 m."
@@ -115,7 +115,8 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 - id: c-24960
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 108."
   citata_originali: |
     „Baltieji“ vylėsi, kad, kilus sukilimui, Rusiją paspaus didžio-
     sios Vakarų valstybės – Krymo karo nugalėtojos.
@@ -133,7 +134,8 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 - id: c-97152
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 101."
   citata_originali: |
     Pastaroji oficialiai vadinta
     Lenkijos karalyste ir formaliu politiniu administraciniu požiūriu nebu-
@@ -152,7 +154,8 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 - id: c-97154
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 105."
   citata_originali: |
     Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
     sosto ir perduodąs suverenitetą tautai. Tai reiškė Lenkijos karalystės ne-
@@ -173,7 +176,8 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 - id: c-166856
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 101."
   citata_originali: |
     Nors didžiosios etninės
     Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios

@@ -63,7 +63,8 @@ Dusburgietis teigia, kad toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M.
 - id: c-61955
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     — Gotha, 1858.
     Toruń dawny i dzisiejszy: Zarys dziejów/Pod red. M. Bisköpa.— Warszawa—Poznań—

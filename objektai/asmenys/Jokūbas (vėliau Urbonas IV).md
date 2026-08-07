@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-71e0308b43eea5b82e6f67e2"
+canonical_name: "Jokūbas (vėliau Urbonas IV)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokūbas (vėliau Urbonas IV)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau priešinęsis broliams ir iki savo gyvenimo pabaigos ištikimai laikėsi sutarties, kurią tarp jo ir brolių buvo sudaręs Jokūbas, Liuticho [Liežo] arkidiakonas, vėliau tapęs popiežiumi Urbonu IV."
 ---
 # Jokūbas (vėliau Urbonas IV)
 
@@ -85,7 +92,8 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
 - id: c-60969
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102-103"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102-103."
   citata_originali: |
     Tuo pat metu ir dėl
     tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
@@ -115,7 +123,8 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
 - id: c-171437
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 242."
   citata_originali: |
     Žino­
     ma, kad frygų garbintos dievų motinos stabas buvo netašytas

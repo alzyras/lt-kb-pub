@@ -58,7 +58,8 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
 - id: c-44839
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 141."
   citata_originali: |
     Priėmusi nutarimą respubli-
     konų kariuomenė nužygiavo į Vilnių, kur

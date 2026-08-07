@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8596268fde48b25ff93a4018"
+canonical_name: "Portugalija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Portugalija"]
+sameAs: []
+canonical_biography: "Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portugalijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais iš to einančiais padariniais."
+place_authority: true
+historical_names: []
 ---
 # Portugalija
 
@@ -75,7 +84,8 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 - id: c-24403
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     Per trejus–ketverius metus į JAV pasisekė atvykti
     visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
@@ -95,7 +105,8 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 - id: c-49626
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     O kas nutiko didžiųjų ge-
     ografinių atradimų pionierėms Portugalijai ir Ispanijai? Juk pastarajai ir

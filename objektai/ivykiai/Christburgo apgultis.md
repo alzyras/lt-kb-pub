@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184629
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 418"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 418."
   citata_originali: |
     Panokę jį ties upe Gurbe miegantį
     be sargties, antpuolę staiga išmušė mažne lig pas-

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-001b7c54764fe4d62d3d98ba"
+canonical_name: "Ambraziejus Beinartas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ambraziejus Beinartas"]
+sameAs: []
+canonical_biography: "Tačiau, matyt, ilgainiui vietų jose ėmė trūkti, nes 1605 m. Vilniaus kanauninkas Ambraziejus Beinartas, kilęs iš bajorų giminės, susijusios su Kauno miestu, suteikė fundaciją dar vienai špitolei."
 ---
 # Ambraziejus Beinartas
 
@@ -49,9 +56,9 @@ Tačiau, matyt, ilgainiui vietų jose ėmė trūkti, nes 1605 m. Vilniaus kanaun
 ## Citatos
 
 - id: c-185482
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 298"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 298."
   citata_originali: |
     Šios dvi špitolės kurį laiką tenki no miesto poreikius. Tačiau, matyt, ilgainiui vietų
     jose ėmė trūkti, nes 1605 m. Vilniaus kanauninkas Ambraziejus Beinartas, kilęs iš

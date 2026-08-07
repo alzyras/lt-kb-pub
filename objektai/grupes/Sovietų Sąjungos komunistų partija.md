@@ -76,7 +76,8 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
 - id: c-72879
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 222."
   citata_originali: |
     Lietuvos teritorijos), gynybinis karinis kompleksas
     reikalavo kvalifikuotos darbo jėgos. Ją ruošė totaliai kontroliuojama švieti-
@@ -96,7 +97,8 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
 - id: c-72880
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 239."
   citata_originali: |
     Komunistų partijos veiklai didelę įtaką turėjo 1989 m.
     gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc.

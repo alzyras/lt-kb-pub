@@ -56,7 +56,8 @@ Towarszystwo szubrawców w Wilnie.
 - id: c-84462
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 16."
   citata_originali: |
     3 Bieliński J. Towarszystwo szubrawców w Wilnie. Wilno, 1910, s. 45-46.
   statusas: verified

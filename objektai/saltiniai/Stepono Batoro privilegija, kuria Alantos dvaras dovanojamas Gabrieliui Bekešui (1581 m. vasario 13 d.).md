@@ -58,7 +58,8 @@ Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// T
 - id: c-84187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 435-436"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 435-436."
   citata_originali: |
     Vyskupas Valerijonas savo ranka
     419

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae0619185f989b49f5fdcc2a"
+canonical_name: "Fr. Mager"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Fr. Mager"]
+sameAs: []
+canonical_biography: "Mager veikalas^16 °, o apie I pasaulinį karą W."
 ---
 # Fr. Mager
 
@@ -49,7 +56,8 @@ Mager veikalas^16 °, o apie I pasaulinį karą W.
 - id: c-32928
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 97."
   citata_originali: |
     Serijoje « Ostmittel­
     europa in Vergangenheit und Gegenwart» pasirodė Lietuvos isto­

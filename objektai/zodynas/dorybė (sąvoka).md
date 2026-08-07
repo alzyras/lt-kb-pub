@@ -46,9 +46,9 @@ Dorybė ir nedorybė, liuosybė ir vergybė — tai gėrio ir blogio supriešini
 ## Citatos
 
 - id: c-184565
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 11"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 11."
   citata_originali: |
     Be­
     je, kaip pastebėjo Vytautas Kavolis, laisvė šiam

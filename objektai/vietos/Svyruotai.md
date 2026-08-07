@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cdc5a7d7a5638b786398e869"
+canonical_name: "Svyruotai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Svyruotai"]
+sameAs: []
+canonical_biography: "Aleksandras Jurjevičius Lietuvoje turėjo Svyruotus."
+place_authority: true
+historical_names: []
 ---
 # Svyruotai
 
@@ -51,7 +60,8 @@ Aleksandras Jurjevičius Lietuvoje turėjo Svyruotus.
 - id: c-170367
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 311."
   citata_originali: |
     “  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus
     vyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede-

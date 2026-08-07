@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e4c587aff2823923ed7438e"
+canonical_name: "Svisdeta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Svisdeta"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas."
 ---
 # Svisdeta
 
@@ -100,7 +107,8 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 - id: c-167518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 159."
   citata_originali: |
     Kai šitai vyko, ir vyrai, ir moterys paskutiniais
     žodžiais keikė vieną sembą, vardu Bansas, Pabečių valsčiaus kamerarijų, tvirtindami,
@@ -119,7 +127,8 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 - id: c-168200
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 124."
   citata_originali: |
     Tiesą sakant,
     tą pasitraukimą su visa manta ir vaikais į Lietuvą, kur

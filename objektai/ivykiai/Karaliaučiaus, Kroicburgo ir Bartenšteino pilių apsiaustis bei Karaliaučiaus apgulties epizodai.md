@@ -76,7 +76,7 @@ Nenurodyta
 <a id="claim-t-59178"></a>
 - t-002
   teiginys: "Karaliaučiaus pilies gynėjai puolimo metu išardė ir sunaikino tiltą bei kuorus, kuriais naudojosi apgulėjai."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "dalyvavo_musyje -> Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -88,7 +88,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Kryžiuočių ordinas dalyvavo mūšyje Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai (0.62)"
   pagrindžia:
-    - c-59809
     - c-59813
 
 <a id="claim-t-59179"></a>
@@ -210,7 +209,7 @@ Nenurodyta
 <a id="claim-t-196947"></a>
 - t-010
   teiginys: "Dar apie tą patį bei apie nuostabų įvykį, kurio priežastimi buvęs arbaletas Vargu ar kas galėtų išsamiai apsakyti, kaip išradingai ir sumaniai sembai bei kiti prūsai puldinėjo Karaliaučiaus pilį, kokių aukų patyrė abi kariaujančios šalys nukautaisiais ar."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -261,7 +260,8 @@ Nenurodyta
 - id: c-59809
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
     Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas
@@ -284,13 +284,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-003
 
 - id: c-59810
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Apie laimėtą mūšį, kuriame Julicho ir Markos grafai nukovė tris tūkstančius
     sembų
@@ -314,7 +314,8 @@ Nenurodyta
 - id: c-59811
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
 
@@ -333,7 +334,8 @@ Nenurodyta
 - id: c-59812
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 121-122"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121-122."
   citata_originali: |
     Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­
                                          lojaus kalvoje
@@ -360,7 +362,8 @@ Nenurodyta
 - id: c-59813
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121."
   citata_originali: |
     Galop aukštybių dievas atėjo jiems  į pagalbą, o kad
     šitaip buvo, neverta nė abejoti, nes žmonėms vargu ar būtų užtekę jėgų taip grumtis
@@ -380,7 +383,8 @@ Nenurodyta
 - id: c-59814
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
   citata_originali: |
     Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,
     kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas
@@ -401,7 +405,8 @@ Nenurodyta
 - id: c-167312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo
     miestą, kur 12 prūsų įkaitų, kuriuos su savimi buvo atsivedę, išlupo akis, o juos sugrąžino
@@ -427,7 +432,8 @@ Nenurodyta
 - id: c-167313
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     Viešpats tą vietą buvo pasirinkęs savo vardui garbinti ir šlovinti373, todėl, bausdamas juos
     už piktus sumanymus bei klastingas užmačias, niekais vertė viską, ko šie griebdavosi.

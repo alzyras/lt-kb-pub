@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7d802157d441a889a802edd3"
+canonical_name: "Drevenca"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Drevenca"]
+sameAs: []
+canonical_biography: "Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutarta pasitraukti kiek atgal, paskui ei­ ti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos upę ir, nors tolimesniu keliu, pasiekti Marienburgą."
+place_authority: true
+historical_names: []
 ---
 # Drevenca
 
@@ -103,7 +112,8 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 101."
   citata_originali: |
     Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
     niku. Čia pastebėjo, kad perėjimas per tą upę jau kryžiuočių
@@ -120,7 +130,8 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
 - id: c-79663
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 86."
   citata_originali: |
     Ištisi kaimai visoje kunigaikš­
     tystėje, dešimtys bažnyčių buvo apiplėšta ir sudeginta: pa­
@@ -144,7 +155,8 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 101."
   citata_originali: |
     Toji pati taryba turėjo išspręsti ir tolimesnį kariuome­
     nių žygiavimą. Buvo nutarta pasitraukti kiek atgal, paskui ei­
@@ -163,7 +175,8 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 101."
   citata_originali: |
     Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie
     vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės

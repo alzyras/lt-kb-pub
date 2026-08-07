@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-60315
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 258."
   citata_originali: |
     Kodėl nepasikliovei jo gerumu? Kodėl nelyginant patrakėlis Judas tą pačią dieną valgei
     jo valgymą bei gėrei jo gėrimą, o po to praliejai jo kūno kraują, pervėręs jį durklu? Tave

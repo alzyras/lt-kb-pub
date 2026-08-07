@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ccf37ef6da1344042912a912"
+canonical_name: "Mykolas Kazimieras Pacas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Kazimieras Pacas"]
+sameAs: []
+canonical_biography: "Mykolas Kazimieras Pacas, Lietuvos Didžiosios Kunigaikštystės etmonas ir Vilniaus vaivada, pastatė Šv. Petro ir Povilo bažnyčią Antakalnyje."
 ---
 # Mykolas Kazimieras Pacas
 

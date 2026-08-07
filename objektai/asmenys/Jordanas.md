@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f221f3a3d7fc1af59c1d690a"
+canonical_name: "Jordanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jordanas"]
+sameAs: []
+canonical_biography: "Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šiaurės tautų lopšį. Jordanas, Narbuto vadinamas gotų rašytoju, aprašė gotų pergales prieš kaimynus, ypač ulmerugius, II krikščioniškosios eros amžiaus pradžioje. Jordanas, Narbuto perteikimu, teigė, kad spaliai gyveno dabartinėje Mazovijoje."
 ---
 # Jordanas
 
@@ -125,15 +132,22 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 <a id="claim-t-191084"></a>
 - t-005
   teiginys: "Narbutas Jordano požiūrį pasitelkė svarstydamas, kad venedams priklausė ne viena jo veikalui reikšminga gentis."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Venedai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jordanas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Venedai: mention_match, group, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jordanas\" parinktas kaip owner_note_path. Targetas \"Venedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173965
+    - c-173966
 
 <a id="claim-t-191085"></a>
 - t-006
@@ -233,7 +247,8 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173961
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
   citata_originali: |
     O iš čia didelė tauta ėmė lietis į
     visus kraštus; iš eilės Europos vakarai, šiaurė, rytai bei
@@ -258,7 +273,8 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173963
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 84."
   citata_originali: |
     Atvykusių iš Skandinavijos gotų galia toly­
     džio vis didėjo, iš gimtosios žemės kėlėsi vis nauji gy­
@@ -283,7 +299,8 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173964
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
   citata_originali: |
     Apie šią tautą senovės ty­
     rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
@@ -306,7 +323,8 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173965
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
   citata_originali: |
     Apie estus nėra žinių nuo Tacito
     laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
@@ -326,12 +344,12 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-005
 
 - id: c-173966
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 99."
   citata_originali: |
     Kaip slavai atsirado ‘šiose lygumose arba kaip
     ir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.
@@ -348,14 +366,17 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
   citata_rodoma: "Kaip slavai atsirado ‘šiose lygumose arba kaip\nir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.\nPasakysime tiktai tiek, kad venedams priklausė ne viena\ngentis, labai dominanti mūsų veikalą, o panagrinėję pa­\nties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,\ndar labiau sustiprinsime šią nuomonę. Galėjo būti, kad\nvenedų slavams ikikrikščioniškosios eros amžiais ar kiek\nvėliau priklausė kuri nors Baltijos jūros pakrantė tarp\nVyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš\nrytų slenkančių genčių; jų pėdsakas išliko Vindavos upės\npavadinime; be to, Vinidų, Vinidarių pavardę dera lai­\nkyti lietuviškos kilmės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-173967
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 253."
   citata_originali: |
     Pirmiausia šią žinią randame Jordano
     darbuose1, kai šis autorius pasakoja apie karaliaus Fili­
@@ -381,7 +402,8 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173968
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 253."
   citata_originali: |
     Pagaliau ir ¡pats Naruševičius, žinojęs
     tuos pačius ir, ko gero, dar ir kitus mums nežinomus įro­
@@ -406,7 +428,8 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-173969
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
   citata_originali: |
     281
     Latvijos dalys. Agazirai, Agazziry. Senovės tyrinėto­
@@ -425,7 +448,8 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
 - id: c-174836
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 64."
   citata_originali: |
     Šias ir kitas mus mažiau
     dominančias smulkmenas teigia Klaudianas*, Prokopi-

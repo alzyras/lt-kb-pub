@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-65070d4a391290b6f06f4c7a"
+canonical_name: "Gaudencijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gaudencijus"]
+sameAs: []
+canonical_biography: "Arkivyskupas Gaudencijus, šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bičiulis, rašė 997-1006 metais."
 ---
 # Gaudencijus
 
@@ -62,7 +69,8 @@ Arkivyskupas Gaudencijus, šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bi
 - id: c-174488
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 259."
   citata_originali: |
     248
 

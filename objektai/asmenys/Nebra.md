@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dc073b3c85dec1353b59a852"
+canonical_name: "Nebra"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nebra"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Nebrą, atėmė iš jo ietį ir smarkiai sužeidė."
 ---
 # Nebra
 
@@ -55,7 +62,8 @@ Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Neb
 - id: c-174329
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
   citata_originali: |
     Tuo tarpu Stegutas tikriausiai žu­
     vo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­

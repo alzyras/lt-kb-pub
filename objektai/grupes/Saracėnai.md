@@ -60,7 +60,7 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 <a id="claim-t-63211"></a>
 - t-002
   teiginys: "Ferdinando nugalėtas Granados saracėnų karalius ilgai mokėjo Kastilijos karaliui po 1000 aukso marobortinų per dieną."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -68,7 +68,7 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti duoklės trukmę ir dydį."
   pagrindžia:
-    - c-64213
+    - c-64214
 
 <a id="claim-t-184583"></a>
 - t-003
@@ -97,7 +97,8 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 - id: c-64213
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 226."
   citata_originali: |
     Apie tai, kaip Ispanijoje buvo užmušta daugybė totorių
 
@@ -113,12 +114,12 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-64214
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
 
@@ -130,14 +131,17 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   citata_rodoma: "23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių\n\n  Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių,\n  596 1241 m. įvykiai.\n\nkuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.\n21,33)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-167944
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 414"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 414."
   citata_originali: |
     Štai todėl vienaip kalbėjo im­
     peratorius su Jogaila, kitaip

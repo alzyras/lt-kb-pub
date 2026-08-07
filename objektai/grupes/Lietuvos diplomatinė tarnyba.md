@@ -102,7 +102,8 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
 - id: c-22596
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     Tačiau norėdamas gauti JAV vizą turėjo įsipareigoti
     nevykdyti politinės veiklos, tad apsiribojo ryšiais su JAV lietuviais ir Lietu-
@@ -122,7 +123,8 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
 - id: c-22597
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 226."
   citata_originali: |
     Lietuvos oku-
     pacijos. Blėstant viltims Vakarų padedamiems greitai atkurti nepriklauso-
@@ -142,7 +144,8 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
 - id: c-166541
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     Tad
     lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi

@@ -50,7 +50,8 @@ Pavėluota šios Ordino tvirtovės apsiaustis nedavė rezultatų.
 - id: c-40546
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 67."
   citata_originali: |
     Sąjungininkai užtruko pergalės vietoje ir
     nepasinaudojo proga greitai užimti Or-

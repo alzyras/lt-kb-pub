@@ -61,7 +61,8 @@ media_all_json: |-
 - id: c-82608
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 294-295"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 294-295."
   citata_originali: |
     1552 metais miesto valdžia kartu su piliečiais sudarė Wiel-
     kierzą* [ Wilkirz, Willkühren], arba teismo proceso būdą pagal

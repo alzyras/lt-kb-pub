@@ -50,7 +50,8 @@ Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido 
 - id: c-72132
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 663"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 663."
   citata_originali: |
     Tai buvo visokios naivios isto-
     rijos, plėšikų nuotykiai, sapnininkai ir t.t. Rimtesnių ir tikrai

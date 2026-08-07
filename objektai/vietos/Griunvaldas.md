@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-af8d458fd973eb692d9d124b"
+canonical_name: "Griunvaldas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Griunvaldas"]
+sameAs: []
+canonical_biography: "Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo."
+place_authority: true
+historical_names: []
 ---
 # Griunvaldas
 
@@ -118,7 +127,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 - id: c-64433
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 17-18"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 17-18."
   citata_originali: |
     Lietuvos mūšiai 15
 
@@ -143,7 +153,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 - id: c-175928
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 141."
   citata_originali: |
     Bet sąjungininkų planas buvo kitoks. Mūšis įvyko ordino
     žemėje, tarp Tanenbergo ir Griunvaldo.
@@ -160,7 +171,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 - id: c-176327
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 75."
   citata_originali: |
     Bendras vidaus politinis
     gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
@@ -180,7 +192,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 - id: c-176420
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 269."
   citata_originali: |
     NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS
 
@@ -197,7 +210,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 102."
   citata_originali: |
     Čia
     karalius įsitaisė palapinę pamaldoms. Ir kai karalius ėjo mels­

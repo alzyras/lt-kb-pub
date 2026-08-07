@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf4bd9c0872e9198bc8fa91c"
+canonical_name: "Kauno bernardinų vienuolynas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno bernardinų vienuolynas"]
+sameAs: []
+canonical_biography: "Štai 1483 m. Strasburge išleisto Johano Herolto knygoje Sermones discipuli de tempore et de sanetis yra įrašyta, kad ją Kauno bernardinų vienuolynui parūpino XV-XVI a."
+place_authority: true
+historical_names: []
 ---
 # Kauno bernardinų vienuolynas
 
@@ -47,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185050
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 354"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 354."
   citata_originali: |
     Štai 1483 m. Strasburge išleisto Johano Herolto knygoje Ser-
     mones discipuli de tempore et de sanetis yra įrašyta, kad ją Kauno bernardinų vienuolynui

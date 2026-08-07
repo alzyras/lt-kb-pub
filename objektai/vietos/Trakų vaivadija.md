@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f0026a219558b133a2b99d1f"
+canonical_name: "Trakų vaivadija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trakų vaivadija"]
+sameAs: []
+canonical_biography: "Krašto padalinimas į pavietus ir vaivadijas."
+place_authority: true
+historical_names: []
 ---
 # Trakų vaivadija
 
@@ -65,7 +74,8 @@ Krašto padalinimas į pavietus ir vaivadijas.
 - id: c-32477
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 134."
   citata_originali: |
     Todėl pats
     Vytautas 1420 m. imperatoriui Zigmantni įrodinėjo, jog Žemaičiai

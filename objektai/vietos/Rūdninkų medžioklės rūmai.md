@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-386a7d69d24b27775b0f0d22"
+canonical_name: "Rūdninkų medžioklės rūmai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rūdninkų medžioklės rūmai"]
+sameAs: []
+canonical_biography: "Čia buvo vadinamieji medžioklės rūmai, skirti apsistoti patiems karaliams."
+place_authority: true
+historical_names: []
 ---
 # Rūdninkų medžioklės rūmai
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-82010
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 271."
   citata_originali: |
     Vis dėlto esama vieno gana nemažo
     iš plytų ir akmens sumūryto pastato pamatų griuvėsių. Čia

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5036ba57d726e58576f48ffb"
+canonical_name: "M. Šapoka"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Šapoka"]
+sameAs: []
+canonical_biography: "Šapoka, Vilnius, 2009;."
 ---
 # M. Šapoka
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-22162
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Vilnius, 1976; Millennium of Lithuania:
     Millennium Lithuaniae. Ed. M. Šapoka, Vilnius, 2009; H. Olszewski.

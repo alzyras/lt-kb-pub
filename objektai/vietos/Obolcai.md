@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e26d0f2191742ea9f084edd8"
+canonical_name: "Obolcai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Obolcai"]
+sameAs: []
+canonical_biography: "Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15."
+place_authority: true
+historical_names: []
 ---
 # Obolcai
 
@@ -58,7 +67,8 @@ Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje,
 - id: c-168654
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 559"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 559."
   citata_originali: |
     Atvestas pas Ivaną, Konstan­
     tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­

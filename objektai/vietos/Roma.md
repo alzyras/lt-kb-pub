@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-40287173c563b3379b94a353"
+canonical_name: "Roma"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Roma"]
+sameAs: []
+canonical_biography: "Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis buvo priverstas pasišalinti į Ro- mą. Roma: ją sustiprinti, čekai sukilo, ir jis buvo priverstas pasišalinti į Ro- mą. Roma: pociejus su Terleckiu, 1595 m. nuvykę į Romą ir gavę popie- žiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos pravoslavų vardu padarė bažnytinę uniją."
+place_authority: true
+historical_names: []
 ---
 # Roma
 
@@ -67,7 +76,8 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 - id: c-164107
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 316."
   citata_originali: |
     Di-
     džiausi jos šalininkai buvo Vladimiro vyskupas Hipatas Po-
@@ -89,7 +99,8 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 228."
   citata_originali: |
     Neapsirikta ir šį kartą.
     Ypatingai sekė jo užsimojimus Romos kurija, teisingai iš

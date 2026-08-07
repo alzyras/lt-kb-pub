@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1da09d9c7c52a0d2455c892f"
+canonical_name: "Juozas Tumas (Vaižgantas)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Juozas Tumas (Vaižgantas)"]
+sameAs: []
+canonical_biography: "Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jaunas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, tolerancijos ir geranoriškumo įsikūnijimas. Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V."
 ---
 # Juozas Tumas (Vaižgantas)
 
@@ -41,7 +48,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 <a id="claim-t-19413"></a>
 - t-001
   teiginys: "Juozas Tumas (Vaižgantas) buvo 1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: po 1896 m.; įvykio data: 1896 m."
@@ -77,7 +84,8 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 - id: c-22147
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 119."
   citata_originali: |
     Ta pati redakci-
     ja leido ir kaimiečiams skirtą laikraštį „Ūkininkas“.
@@ -97,7 +105,8 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 - id: c-22148
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 168."
   citata_originali: |
     Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
     žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius po-
@@ -122,7 +131,8 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 - id: c-166735
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 119."
   citata_originali: |
     Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-
     si rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos,

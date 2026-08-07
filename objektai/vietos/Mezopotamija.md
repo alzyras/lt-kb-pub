@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-69fcf791d2a4d586fcef631b"
+canonical_name: "Mezopotamija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mezopotamija"]
+sameAs: []
+canonical_biography: "Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausiais nuotykiais ir pavojais po Arabiją, Afriką, Mezopotamiją."
+place_authority: true
+historical_names: []
 ---
 # Mezopotamija
 
@@ -47,7 +56,8 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 317."
   citata_originali: |
     Labai vaizdžiai ir gyvai ap­
     rašyta vieno keliautojo kelionės su įvairiausiais nuotykiais ir pavojais

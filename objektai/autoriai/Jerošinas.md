@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a33359d5e303e921f9f9af10"
+canonical_name: "Jerošinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jerošinas"]
+sameAs: []
+canonical_biography: "Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jerošinas, garantuoti, kad niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­ jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir popiežiui, ir kad, tikėdamas savo. Panašių pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­ žių Joną ir privertė jį pasiųsti du legatus į Livoniją.\" Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­ tams bei popiežiui."
 ---
 # Jerošinas
 
@@ -89,7 +96,8 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 - id: c-84025
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 107."
   citata_originali: |
     Porina mums tą pasaką apie Maskvos didįjį kunigaikštį
     Simonas Grunau,  linkęs meluoti rašytojas, o jau L u -
@@ -117,7 +125,8 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 - id: c-84026
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 107."
   citata_originali: |
     Išorinį įrodymą randame pasakytą pirmiausia J e r o -
     š i n o, p. 349: „Tuo metu Rygos gyventojai ir jų arkivysku­
@@ -145,7 +154,8 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 - id: c-171298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 412."
   citata_originali: |
     Aiškiai matyti, kad
     jam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­

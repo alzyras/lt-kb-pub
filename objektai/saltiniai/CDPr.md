@@ -49,7 +49,8 @@ media_all_json: |-
 - id: c-33546
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 278."
   citata_originali: |
     Plg. SRP,
     II, 712 (« Dis ist Witoldes sache wedir Jagaln und Skargaln »).**

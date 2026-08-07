@@ -54,7 +54,8 @@ Narbutas rašo, kad Selonės apskrityje gyveno šeloniečių, arba Selonczycy, t
 - id: c-175763
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
   citata_originali: |
     Iš tikrųjų lai buvo žemgalių gentys. Selonės
     apskrity gyveno šeloniečių, Selonczycy, tauta — taip pat

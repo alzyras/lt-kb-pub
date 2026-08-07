@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ec80a9d78ece1263c1b9f1d2"
+canonical_name: "Čestakavas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Čestakavas","Čestakavo"]
+sameAs: []
+canonical_biography: "Čestakavas pateikiamas kaip šventa vieta, iš kurios parnešamas palaiminimas."
+place_authority: true
+historical_names: []
 ---
 # Čestakavas
 

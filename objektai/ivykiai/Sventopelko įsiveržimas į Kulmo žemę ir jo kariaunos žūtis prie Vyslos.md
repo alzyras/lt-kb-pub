@@ -65,7 +65,7 @@ Nenurodyta
 <a id="claim-t-194425"></a>
 - t-002
   teiginys: "Jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o visa kita pavertė pelenais bei degėsiais."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -112,7 +112,8 @@ Nenurodyta
 - id: c-67014
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
   citata_originali: |
     Susirūpinę broliai manė, kad, dar kartą susikovę su šia kariuomene
     ir pralaimėję mūšį, turėsią visai palikti Prūsijos žemę be vilties ją atgauti ir, suprantama,
@@ -138,7 +139,8 @@ Nenurodyta
 - id: c-67015
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
   citata_originali: |
     Ir viešpaties
     dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su

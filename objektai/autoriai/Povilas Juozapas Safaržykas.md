@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-067329a81b6db53e18938e04"
+canonical_name: "Povilas Juozapas Safaržykas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Povilas Juozapas Safaržykas"]
+sameAs: []
+canonical_biography: "Povilo Juozapo Safaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo plačiai verstu veikalu, išverstu beveik į visas slavų kalbas."
 ---
 # Povilas Juozapas Safaržykas
 

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b8c564c525d739630e7b52a8"
+canonical_name: "Jonas Potockis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Potockis"]
+sameAs: []
+canonical_biography: "Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Potockio ir Suroveckio raštais. Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus."
 ---
 # Jonas Potockis
 
@@ -85,7 +92,8 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
 - id: c-172953
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 250."
   citata_originali: |
     Apie tai byloja ir pats žibintas -
     aiškus šviesos atributas**.

@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-af5c7bd9741cd99cce99accd"
+canonical_name: "Meinhardas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Meinhardas"]
+sameAs: []
+canonical_biography: "Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo paskirtas ir pirmuoju Livonijos vyskupu (apie 1180 m.)."
 ---
 # Meinhardas
 
@@ -141,7 +148,8 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 - id: c-169428
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 161."
   citata_originali: |
     Už žalą, padarytą per šį niokojamą iš­
     puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
@@ -166,7 +174,8 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 - id: c-169429
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 164."
   citata_originali: |
     Vėliau su didesne kariauna,
     kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­
@@ -201,7 +210,8 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 - id: c-169430
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 166."
   citata_originali: |
     Vytenis, neturėdamas pa­
     kankamai jėgų priešui at-
@@ -246,9 +256,9 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     - t-005
 
 - id: c-184363
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 171"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 171."
   citata_originali: |
     Idant vokyčiai tokį savo ketė­
     jimą uždengtų, nuo pradžios taip elgės.

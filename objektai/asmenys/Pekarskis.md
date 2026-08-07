@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba85d05247f3c85cff7866ad"
+canonical_name: "Pekarskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pekarskis"]
+sameAs: []
+canonical_biography: "Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užstatą sidabrui Jo Karališkosios Didenybės reikalams nuo žydo Brastoje ėmė po 56 lenkiškus grašius."
 ---
 # Pekarskis
 
@@ -49,7 +56,8 @@ Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užs
 - id: c-83799
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 456"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 456."
   citata_originali: |
     Man buvo ati­
     duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už

@@ -61,7 +61,8 @@ media_all_json: |-
 - id: c-33688
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 369."
   citata_originali: |
     15,
     Bad Godesberg 1969. — Srokowski, St. : _Granica Prus Wschodnich, jej

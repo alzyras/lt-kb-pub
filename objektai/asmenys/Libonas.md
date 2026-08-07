@@ -18,6 +18,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1557f71e14f1512edd4e04f6"
+canonical_name: "Libonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Libonas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Libonas
 

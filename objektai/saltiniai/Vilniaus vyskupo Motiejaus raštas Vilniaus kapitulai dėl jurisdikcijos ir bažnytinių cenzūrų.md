@@ -49,7 +49,8 @@ Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitul
 - id: c-84474
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 396-397"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 396-397."
   citata_originali: |
     sit erecta, similibusque iuribus et
     380

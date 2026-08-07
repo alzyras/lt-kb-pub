@@ -48,7 +48,7 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
 <a id="claim-t-59170"></a>
 - t-002
   teiginys: "Pagudėnai grasino krikščionims, kad šie bus išžudyti ir sunaikinti, jei neatiduos pilies ir nepasiduos."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -91,7 +91,8 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
 - id: c-59801
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     Galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų
     gyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi
@@ -108,7 +109,8 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
 - id: c-59802
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti
     krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.

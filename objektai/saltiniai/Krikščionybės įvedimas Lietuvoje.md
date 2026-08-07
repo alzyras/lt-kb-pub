@@ -59,7 +59,8 @@ media_all_json: |-
 - id: c-33611
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 300."
   citata_originali: |
     — _(”)Jadwyga d’Anjou,_
     LE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,

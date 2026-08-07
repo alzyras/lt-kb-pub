@@ -32,7 +32,8 @@ Urbšį pasirašyti savitarpio pagalbos sutartį, sutartį dėl Vilniaus ir Viln
 - id: c-23955
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 184."
   citata_originali: |
     Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
     pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-

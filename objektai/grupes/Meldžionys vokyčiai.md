@@ -41,9 +41,9 @@ Meldžionys vokyčiai, nuveikę, kaip minavojau, padaugavionis, norėjo dar tole
 ## Citatos
 
 - id: c-184601
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 207"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 207."
   citata_originali: |
     Jau buvo Kolomanas Mstislavą nuveikiąs, bet
     tuo tarpu lietuviai, antpuolę Kolomaną iš užpakalio,

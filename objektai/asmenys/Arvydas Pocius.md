@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5029a70331351c011d047107"
+canonical_name: "Arvydas Pocius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Arvydas Pocius"]
+sameAs: []
+canonical_biography: "Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais UŽDUOTIS AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu, Lietuvos kariuomenės vadu, pasakoja apie AT gynybą. Pocius 1991 m. rugpjūčio pučo metu, ginkluotas pistoletu-kulkosvaidžiu PPS iš VRM, Lietuvos banko inkasatorių, parduotuvės „Medžioklė. Pocius 1991 m. rugpjūčio pučo metu, ginkluotas pistoletukulkosvaidžiu PPS, KAM."
 ---
 # Arvydas Pocius
 
@@ -78,7 +85,8 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
 - id: c-44292
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     p. 254, Butelio su padegamuoju skysčiu demonstracinė versija, VDKM, Artūro Užgalio nuotr.
     p. 255, AT gynėjas A. Pocius 1991 m. rugpjūčio pučo metu, ginkluotas pistoletu-
@@ -95,7 +103,8 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
 - id: c-44293
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 257."
   citata_originali: |
     ir rinktis nustatytoje vietoje.“
 
@@ -119,7 +128,8 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
 - id: c-167119
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 257."
   citata_originali: |
     Ginklai
     ir sprogmenys - gyventojų sunešti, gauti

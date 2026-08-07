@@ -483,7 +483,7 @@ Objektų skaičius: 508.
 - [Žygimantas Augustas (arkivyskupas, XVI a.)](../objektai/asmenys/%C5%BDygimantas%20Augustas)
 - [Žygimantas Kaributaitis](../objektai/asmenys/%C5%BDygimantas%20Kaributaitis)
 - [Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)](../objektai/asmenys/%C5%BDygimantas%20K%C4%99stutaitis)
-- [Žygimantas Senasis](../objektai/asmenys/%C5%BDygimantas%20Senasis)
+- [Žygimantas Senasis (Lenkijos karalius, XVI a.)](../objektai/asmenys/%C5%BDygimantas%20Senasis)
 
 ### Autoriai
 - [A. Brückner](../objektai/autoriai/A.%20Br%C3%BCckner)

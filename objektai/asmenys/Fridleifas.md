@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7c8f12d637814879f86990a0"
+canonical_name: "Fridleifas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridleifas"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir, rusnėnų karaliuko padedamas, susigrąžino Danijos sostą."
 ---
 # Fridleifas
 
@@ -54,7 +61,8 @@ Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir,
 - id: c-174150
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
   citata_originali: |
     Visi Šie įvykiai siejami su III amžiumi.
     235

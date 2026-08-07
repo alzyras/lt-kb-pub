@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ba74a34f70169f91c926f31"
+canonical_name: "Upytės pavietas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Upytės pavietas"]
+sameAs: []
+canonical_biography: "1434 m. rugpjūčio pabaigoje vienas Livonijos kryžiuočių dalinys buvo įsibrovęs į Upytės pavietą."
+place_authority: true
+historical_names: []
 ---
 # Upytės pavietas
 
@@ -52,9 +61,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185015
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 158"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 158."
   citata_originali: |
     Kauno pavietas padidėjo, kai į jį buvo įjungtas kaimyninės Darsūniškio, Birštono,
     Punios, Stakliškių vėliavos. Pavieto ribos buvo taip nusakytos: iš vienos pusės Nevė­

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e237edc40f0ab93d1b4ee39d"
+canonical_name: "Atmesti paminėjimai"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Atmesti paminėjimai"]
+sameAs: []
+canonical_biography: "Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikščio titulą. Atmesti paminėjimai pats neturėjo nė vieno didesnio laivo. Atmesti paminėjimai laikė šias pilis apsuptas ištisas dvidešimt dienų."
 ---
 # Atmesti paminėjimai
 
@@ -277,7 +284,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176193
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 155."
   citata_originali: |
     Tame mūšyje žuvo keli tūkstančiai lie­
     tuvių, nemaža jų krito bėgant, visą grobį lenkai atsi­
@@ -307,7 +315,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176194
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 162."
   citata_originali: |
     Vėliau,
     sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-
@@ -348,7 +357,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176196
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 214."
   citata_originali: |
     Tuo tarpu Gedimi­
     nas, norėdamas padėti apsuptai Veliuonai, su didelėmis
@@ -377,7 +387,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176198
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 333-334"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 333-334."
   citata_originali: |
     Nusiaubęs dideliuose
     plotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš
@@ -403,7 +414,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176201
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 392"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 392."
   citata_originali: |
     S k ita i n io k o ja R usią
     Tuo metu sugrįžo iš baž­
@@ -433,7 +445,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176203
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 591"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 591."
   citata_originali: |
     Vis dėlto apdairus valdovas
     sugebėjo neparodyti savo įtarinėjimų ir, sulaukęs para­
@@ -465,7 +478,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176204
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 594-595"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 594-595."
   citata_originali: |
     Tvarkydamas savo pairusius reikalus,
     pirmiausia kreipėsi pagalbos Vengrijoje į karalių Vla­
@@ -488,7 +502,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176208
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 758"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 758."
   citata_originali: |
     Lietuvos
     Didžiosios Kunigaikštystės gyventojus jis skirstė į lietuvius ir rusus,
@@ -512,7 +527,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-178634
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 390-391"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 390-391."
   citata_originali: |
     Kadangi
     šias negeras naujoves vykdė ne paprasti žmonės, o žy­

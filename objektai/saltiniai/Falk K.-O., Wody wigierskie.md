@@ -50,7 +50,8 @@ Dusburgietis teigia, kad tai rodo Vygrių krašto vietovardžiai (Falk K.-O., Wo
 - id: c-61703
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
   citata_originali: |
     Jotvingių dalis turėjo gyventi ir toliau sunkiai
     prieinamuose Sūduvos kampeliuose. Tai rodo Vygrių krašto vietovardžiai (Falk K.-O.,

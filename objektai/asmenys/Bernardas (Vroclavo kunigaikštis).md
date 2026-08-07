@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-17ac401ddd080bc29f265ec6"
+canonical_name: "Bernardas (Vroclavo kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bernardas (Vroclavo kunigaikštis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas, Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho ir iš Vildenbergo pirmagimiai sūnūs, valdovas iš Lichtenbergo ir Plichto su savo broliu iš."
 ---
 # Bernardas (Vroclavo kunigaikštis)
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad 1322 viešpaties metais atvyko į Prūsijos žemę garb
 - id: c-60881
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
   citata_originali: |
     1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
     Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho ir iš

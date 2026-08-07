@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e436f05a26fb0f16eec36523"
+canonical_name: "Juozas Lukša-Daumantas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Juozas Lukša-Daumantas"]
+sameAs: []
+canonical_biography: "STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinusius kolaborantus. PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravusį Lietuvos gyventojų požiūrį į partizanus ir jų veiklos vaisius. Maksimaliai išvystyti sėkmę puolimo metu partizanams sutrukdė menka daugelio puolimo dalyvių patirtis tokio pobūdžio operacijose ir labai silpna koordinacija ŠAUDYMAS PER DURIS Juozas Daumantas savo prisiminimuose pasakoja apie Tauro apygardos partizanų."
 ---
 # Juozas Lukša-Daumantas
 
@@ -96,7 +103,8 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
 - id: c-42422
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     Maksimaliai išvystyti sėkmę puolimo metu
     partizanams sutrukdė menka daugelio
@@ -120,7 +128,8 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
 - id: c-44612
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 222."
   citata_originali: |
     STRIBAI
 
@@ -146,7 +155,8 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
 - id: c-167087
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 222."
   citata_originali: |
     Įamžintos ir „Kauno“ bei „Margio“
     bunkerių vietos Labanoro girioje.

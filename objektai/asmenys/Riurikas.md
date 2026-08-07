@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-17ddc1b1f025625b76161fca"
+canonical_name: "Riurikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Riurikas"]
+sameAs: []
+canonical_biography: "Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje\", yra kaip tik tas, kuris, viena vertus, atbloškė Riuriką ir jo variagus į Rusiją, kita ver­ tus, galbūt tariamąjį Palemoną su draugais - į Lietuvą."
 ---
 # Riurikas
 
@@ -85,7 +92,8 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
 - id: c-83824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 32."
   citata_originali: |
     Nors ir patogio­
     je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių
@@ -115,9 +123,9 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
     - t-001
 
 - id: c-184376
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 51"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 51."
   citata_originali: |
     Nes paskesniai karšda-
     mas Gostomyslas, rėdytojas Didžiojo Naugardo, ta­

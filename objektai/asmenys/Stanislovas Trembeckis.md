@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-52b41e70800d97bb6dc8f3d0"
+canonical_name: "Stanislovas Trembeckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Trembeckis"]
+sameAs: []
+canonical_biography: "Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo Trembeckio pasakėčia „Balandėliai“."
 ---
 # Stanislovas Trembeckis
 
@@ -65,7 +72,8 @@ Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo 
 - id: c-174198
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 216."
   citata_originali: |
     218
 

@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5070ff5a08a09b04d6211791"
+canonical_name: "Raimundas Lopata"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lopata R.","Prof. dr. Raimundas Lopata","Raimundas Lopata","Raimundą Lopatą"]
+sameAs: []
+canonical_biography: "Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas tarp istorijos politikos problemas tiriančių mokslininkų; bibliografijoje Lopata R. siejamas su veikalu apie Lietuvos valstybingumo raidą 1914–1918 metais."
 ---
 # Raimundas Lopata
 
@@ -60,7 +67,8 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
 - id: c-16800
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Ams-
     terdam–New York, 2010.
@@ -77,7 +85,8 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
 - id: c-65427
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 10."
   citata_originali: |
     Tai iš-
     skirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį,

@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a1e1cfceaf0969b06b2a24b6"
+canonical_name: "Kiaupa Z"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kiaupa Z"]
+sameAs: []
+canonical_biography: "Kiaupa Z., Kiaupienė J., Kuncevičius A."
 ---
 # Kiaupa Z
 
@@ -54,7 +61,8 @@ Kiaupa Z., Kiaupienė J., Kuncevičius A.
 - id: c-75388
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Kiaupa Z., Kiaupienė J., Kuncevičius A. The history of Lithuania before
     1795 / [translated by Irena Zujienė ... [et al.]. Vilnius, 2000.

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8453144f99e0d8c7763f0cff"
+canonical_name: "Zborovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zborovskis"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Zborovskis
 

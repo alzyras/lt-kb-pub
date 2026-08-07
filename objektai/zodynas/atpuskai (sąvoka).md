@@ -46,9 +46,9 @@ Lygia dalia Alber tas nuo popiežiaus išlūgojo tuos pačius atpuskus ir tą pa
 ## Citatos
 
 - id: c-184553
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 183"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 183."
   citata_originali: |
     Bet
     pagal nuomonę tų amžių krikščionys turėjo netikė­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-858200df91385073b3540871"
+canonical_name: "Dregeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dregeris"]
+sameAs: []
+canonical_biography: "Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitlandsorte perleistos Ordinui tvirtovei statyti. Dregerio skelbta sutartis mini tvirtoves, kurių vietas, pasak Teodoro Narbuto, sunku atrasti dėl blogai išrašytų pavadinimų."
 ---
 # Dregeris
 
@@ -67,7 +74,8 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
 - id: c-174519
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 349."
   citata_originali: |
     Aiškiausiai apie tai kalba
     Sambijos vyskupo Henriko sutartis, paminėta Dregerio*
@@ -87,7 +95,8 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
 - id: c-174520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 354."
   citata_originali: |
     Beje, šiandien nelengva atrasti
     visas tvirtoves, kurias mini Dregerio skelbta sutartis (Nr.

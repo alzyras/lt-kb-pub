@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-211a4e62799a409cfcbf5f21"
+canonical_name: "T. Dalevskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["T. Dalevskis"]
+sameAs: []
+canonical_biography: "Dalevskiui, K."
 ---
 # T. Dalevskis
 
@@ -60,7 +67,8 @@ Dalevskiui, K.
 - id: c-44526
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 165."
   citata_originali: |
     Egzekucijos buvo įvykdytos B. Kolyškai,
     Z. Sierakauskui, T. Dalevskiui, K. Kalinaus-

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eb7971c1aec145992427c822"
+canonical_name: "Friderikas Aleksandras fon Humboltas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Friderikas Aleksandras fon Humboltas"]
+sameAs: []
+canonical_biography: "Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių aprašymu apie 1799–1804 m. keliones į Naujojo žemyno lygiadienio sritis."
 ---
 # Friderikas Aleksandras fon Humboltas
 
@@ -67,7 +74,8 @@ Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių apraš
 - id: c-173273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 489"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 489."
   citata_originali: |
     Tik­
     riausiai T. Narbutas šią informaeiją paėmė iš ke­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8ec794bcc2d4a7c87200b5a6"
+canonical_name: "Kaniūkai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kaniūkai"]
+sameAs: []
+canonical_biography: "Kolona pro Kaniūkų bei Pakalnių kaimus turėjo veržtis Utenos kryptimi."
+place_authority: true
+historical_names: []
 ---
 # Kaniūkai
 
@@ -50,7 +59,8 @@ Kolona pro Kaniūkų bei Pakalnių kaimus turėjo veržtis Utenos kryptimi.
 - id: c-45124
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 185."
   citata_originali: |
     Šiai kolonai vadovavo pats Ladyga.
     Kolona pro Kaniūkų bei Pakalnių kai-

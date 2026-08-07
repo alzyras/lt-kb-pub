@@ -38,6 +38,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d553e23bd5296dfac26370b"
+canonical_name: "Karolis Šidlauskas (samdinys)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karaliukas","Karolis Šidlauskas","Karolis Šidlauskas (samdinys)"]
+sameAs: []
+canonical_biography: "Karolis Šidlauskas aprašomas kaip nedidelio ūgio samdinys, drauge tarnavęs su pasakotoju ir dėl pravardės vadintas Karaliuku."
 ---
 # Karolis Šidlauskas (samdinys)
 

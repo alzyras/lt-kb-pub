@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e0cc329d0b2bf689c6f53320"
+canonical_name: "Meškuičiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Meškuičiai"]
+sameAs: []
+canonical_biography: "Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 22 dieną Panevėžio batalionas išmušė bermontininkus iš Meškuičių, Vilniaus batalionas iš Pašiaušės ir iš Padubysio."
+place_authority: true
+historical_names: []
 ---
 # Meškuičiai
 
@@ -51,7 +60,8 @@ Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 2
 - id: c-40428
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 196."
   citata_originali: |
     Užvirė jami bermontininkai
     ypač atkaklios kautynės,

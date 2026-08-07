@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3d6faecc8d5216c236162263"
+canonical_name: "Sliepšiškio kaimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sliepšiškio kaimas"]
+sameAs: []
+canonical_biography: "Beveik tuo pat metu buvo puolamas ir Alberto Žilio-Kęstučio būrio bunkeris Šimonių girioje netoli Sliepšiškio k."
+place_authority: true
+historical_names: []
 ---
 # Sliepšiškio kaimas
 
@@ -50,7 +59,8 @@ Beveik tuo pat metu buvo puolamas ir Alberto Žilio-Kęstučio būrio bunkeris �
 - id: c-45330
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 247."
   citata_originali: |
     Beveik tuo pat metu buvo puolamas
     ir Alberto Žilio-Kęstučio būrio bunke-

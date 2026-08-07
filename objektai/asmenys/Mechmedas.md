@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-31ad8d870057ff61bb1f8cea"
+canonical_name: "Mechmedas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mechmedas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Mechmedas
 

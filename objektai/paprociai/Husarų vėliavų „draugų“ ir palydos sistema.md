@@ -92,7 +92,7 @@ Nenurodyta
 <a id="claim-t-71801"></a>
 - t-003
   teiginys: "Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -135,7 +135,8 @@ Nenurodyta
 - id: c-12385
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 100."
   citata_originali: |
     Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė
     200 raitelių. Įprasta vėliava - 100-150 raitelių. Husarų vėliavos pa-
@@ -166,7 +167,8 @@ Nenurodyta
 - id: c-43157
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 100."
   citata_originali: |
     „Draugas“ atsivesdavo ir tarnus, kurie į rikiuotę
     nestodavo, o užsiimdavo ūkine veikla, saugodavo
@@ -205,7 +207,8 @@ Nenurodyta
 - id: c-43158
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 100."
   citata_originali: |
     Dažniausiai šio periodo Lenkijos husarai vaiz-
     duojami su sparnais, pritvirtintais prie nugaros ar
@@ -227,7 +230,8 @@ Nenurodyta
 - id: c-43159
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 100."
   citata_originali: |
     _ palydos poreikius.
     „Draugų“ palydos buvo vieninteliai viene-

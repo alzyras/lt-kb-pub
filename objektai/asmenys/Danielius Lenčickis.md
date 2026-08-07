@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a54008a801cbddf9e8cc947"
+canonical_name: "Danielius Lenčickis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Danielius Lenčickis"]
+sameAs: []
+canonical_biography: "Šis vyskupo žingsnis 1581 metais padrąsino viešosios rimties drumstėjus atvirai užpulti reformatų mal­ dos namus ir jų spaustuvę, buvusią Danieliaus Lenčickio žinioje."
 ---
 # Danielius Lenčickis
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-83627
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 310."
   citata_originali: |
     Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujuši-
     no protus65. Šis vyskupo žingsnis 1581 metais padrąsino

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c5516ebdc0943eb0248282e"
+canonical_name: "Erazmas Roterdamietis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Erazmas Roterdamietis"]
+sameAs: []
+canonical_biography: "O iš didelių buvusi viena vokiška kronika, vieno iškiliausių Renesanso laikų intelektualų Erazmo Roterdamiečio (1469-1536) Adagia ir senovės skaitinių rinkinys Cornucopiae."
 ---
 # Erazmas Roterdamietis
 
@@ -51,9 +58,9 @@ O iš didelių buvusi viena vokiška kronika, vieno iškiliausių Renesanso laik
 ## Citatos
 
 - id: c-185558
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 349"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 349."
   citata_originali: |
     Neįvardytos liko tik 35 nedidelės rankraštinės ir spausdintinės knygos. O iš didelių
     buvusi viena vokiška kronika, vieno iškiliausių Renesanso laikų intelektualų Erazmo

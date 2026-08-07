@@ -54,7 +54,8 @@ Teodoras Narbutas neatmetė autoriaus nuomonės, kad litalarai buvo lietuvių-al
 - id: c-175757
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
   citata_originali: |
     Taip pat
     mes neneigsime šio autoriaus nuomonės, kad buvusi lie-

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ce06752b88ce0911c348ca1d"
+canonical_name: "Traupeinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Traupeinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­ medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę. Dusburgietis teigia, kad prūsiškas vardas — Traupeins, plg. Dusburgietis teigia, kad toruń) Totoriai, totoriai-mongolai Transilvanija Traupeinas (Tranpere, Traupeien; vėliau Troopen, dab."
+place_authority: true
+historical_names: []
 ---
 # Traupeinas
 
@@ -78,7 +87,8 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 - id: c-59113
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
          medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
@@ -102,7 +112,8 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 - id: c-59114
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 319-320"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 319-320."
   citata_originali: |
     Toruń)
     Totoriai, totoriai-mongolai

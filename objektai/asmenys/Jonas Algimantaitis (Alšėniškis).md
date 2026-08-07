@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba934d61b560b019db1617f4"
+canonical_name: "Jonas Algimantaitis (Alšėniškis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Algimantaitis (Alšėniškis)"]
+sameAs: []
+canonical_biography: "Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vietininku Kijeve. Kojelavičius pasakoja, kad Jonas Algimantaitis neilgai džiaugėsi naujomis valdomis, nes jo džiaugsmą nutraukė kito žmogaus nedorumas."
 ---
 # Jonas Algimantaitis (Alšėniškis)
 
@@ -66,7 +73,8 @@ Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vieti
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 301."
   citata_originali: |
     Taip
     pav., mirus Kijevą valdžiusiam Skirgailai, jis savo vietininku
@@ -83,7 +91,8 @@ Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vieti
 - id: c-178729
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 342."
   citata_originali: |
     Vis dėlto neil­
     gai jis džiaugėsi naujomis

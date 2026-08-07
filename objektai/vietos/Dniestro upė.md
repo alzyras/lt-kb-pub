@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0fbc4c7889de18be3d80d108"
+canonical_name: "Dniestro upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dniestro upė"]
+sameAs: []
+canonical_biography: "Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. sudarytą taiką buvo atkurta siena tarp Abiejų Tautų Respublikos ir Turkijos, ėjusi palei Dniestro upę."
+place_authority: true
+historical_names: []
 ---
 # Dniestro upė
 
@@ -54,7 +63,8 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
 - id: c-176447
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 119."
   citata_originali: |
     apsaugota nuo Turkijos kariuomenės įsi-
     veržimo. Po nepasisekusių kovų Turkija

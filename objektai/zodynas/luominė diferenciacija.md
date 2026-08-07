@@ -53,7 +53,8 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
 - id: c-28498
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 157."
   citata_originali: |
     _Socialiniu_ atžvilgiu ši epocha yra charakterizuojama išryškė­
     jusią luomine diferenciacija. Šalia stambiųjų didikų bei kunigaikš­

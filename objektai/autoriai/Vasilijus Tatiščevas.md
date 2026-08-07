@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a949c06f731626ecf20f280a"
+canonical_name: "Vasilijus Tatiščevas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vasilijus Tatiščevas"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto vertinimu, Vasilijus Tatiščevas Giurgevo ieškojo kairiajame Dnepro krante, bet klaidingai jį siejo su pilaite prie Osteros žiočių. Teodoras Narbutas rašė, kad Vasilijus Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“. Jei jo prielaida teisinga, o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo, tokiu atveju labiau dera jų pavadinimą kildinti iš bend ro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš kažkokio sarmatų žodžio Krirsae, šaltinis."
 ---
 # Vasilijus Tatiščevas
 
@@ -86,7 +93,8 @@ Teodoro Narbuto vertinimu, Vasilijus Tatiščevas Giurgevo ieškojo kairiajame D
 - id: c-174483
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Be to, tvirto­
     vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
@@ -109,7 +117,8 @@ Teodoro Narbuto vertinimu, Vasilijus Tatiščevas Giurgevo ieškojo kairiajame D
 - id: c-174484
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Jei jo prielaida teisinga,
     o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,

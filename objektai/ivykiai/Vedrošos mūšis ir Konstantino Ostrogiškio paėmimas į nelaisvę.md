@@ -119,7 +119,8 @@ Nenurodyta
 - id: c-168900
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 558"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 558."
   citata_originali: |
     Šiek tiek pažygiavus, žvalgai pra­
     nešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie­
@@ -143,7 +144,8 @@ Nenurodyta
 - id: c-168902
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 560"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
   citata_originali: |
     Išvengė nelaisvės ar
     mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va­
@@ -169,7 +171,8 @@ Nenurodyta
 - id: c-178602
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 559"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 559."
   citata_originali: |
     Štai todėl ir pamanė,
     jog maskvėnai įprastu būdu dedasi esą stipresni nei iš

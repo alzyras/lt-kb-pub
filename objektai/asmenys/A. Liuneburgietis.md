@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2df97d581da84debe93834fc"
+canonical_name: "A. Liuneburgietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Liuneburgietis"]
+sameAs: []
+canonical_biography: "Liuneburgietis."
 ---
 # A. Liuneburgietis
 
@@ -50,7 +57,8 @@ Liuneburgietis.
 - id: c-41500
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 107."
   citata_originali: |
     (0 Sumaištis švedų pėstininkų rikiuotėje pa-
     deda V. Vainai juos išblaškyti centre. Žūva

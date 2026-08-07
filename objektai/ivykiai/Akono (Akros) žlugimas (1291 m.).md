@@ -74,7 +74,8 @@ Nenurodyta
 - id: c-60275
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
     feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos

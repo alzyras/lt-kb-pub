@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2e30aa3ad0bb5482a0a17582"
+canonical_name: "Zelionogradskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zelionogradskas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad baiga) Vurungenas Zalca Zalfeldas Zangershauzenas Zelionogradskas (buv."
+place_authority: true
+historical_names: []
 ---
 # Zelionogradskas
 
@@ -50,7 +59,8 @@ Dusburgietis teigia, kad baiga) Vurungenas Zalca Zalfeldas Zangershauzenas Zelio
 - id: c-59383
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 322."
   citata_originali: |
     Vištytis, miestelis
     Vitchendorfas, k. Saksonijoje

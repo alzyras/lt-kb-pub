@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-33441
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 70."
   citata_originali: |
     Nuo Vytauto D. jubiliejinių metų (1930) Lietuvos istorijos
     dirvonuose ėmė pasirodyti vad. «jaunųjų istorikų būrelis », pirmieji
@@ -118,7 +119,8 @@ Nenurodyta
 - id: c-33442
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 71."
   citata_originali: |
     Labiausiai jie buvo apčiuopiami herojiškose kovose su vokie­
     čių ordinu. Tad Gediminaičių Lietuva, kaip rodė reikšmingos

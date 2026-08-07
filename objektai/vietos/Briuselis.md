@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-441466123d299ca47c7d0a77"
+canonical_name: "Briuselis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Briuselis"]
+sameAs: []
+canonical_biography: "Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d."
+place_authority: true
+historical_names: []
 ---
 # Briuselis
 
@@ -62,7 +71,8 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
 - id: c-154979
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 261-262"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 261-262."
   citata_originali: |
     Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir
     užsienio reikalų ministras Antanas Valionis pasirašo stojimo į

@@ -147,8 +147,8 @@ Nenurodyta
 
 <a id="claim-t-200707"></a>
 - t-006
-  teiginys: "Viljamas Pochliobkinas 1387 m. Lietuvos krikštą siejo su Genujos pasiuntinių Jogailai ir Vytautui demonstruotu distiliuotu alkoholiu, bet Laužikas pažymi, kad to nepatvirtina nepriklausomi šaltiniai."
-  atnaujinta: "2026-07-14 18:18"
+  teiginys: "Pasak Viljamo Pochliobkino, 1387 m. Lietuvos krikšto proga Genujos pasiuntiniai Jogailai ir Vytautui demonstravo distiliuotą alkoholį kaip vaistą, tačiau šis teiginys nepriklausomais šaltiniais nepatvirtintas."
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -163,8 +163,8 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
   temporaliniai_duomenys: "įvykio data: 1387 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pochliobkino teiginys paliktas su atribucija ir pridėta Laužiko abejonė dėl patvirtinimo. Neformuluota kaip neutralus įvykio faktas."
-  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
+  temporalinis_llm_pakomentavimas: "Išlaikyta Viljamo Pochliobkino atribucija ir pridėta šaltinyje nurodyta svarbi pastaba, kad teiginys nepriklausomai nepatvirtintas."
+  vertinimo_atnaujinta: "2026-07-26T17:35:53Z"
   pagrindžia:
     - c-184052
 
@@ -173,7 +173,8 @@ Nenurodyta
 - id: c-169726
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 42-43"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 42-43."
   citata_originali: |
     Savaip transformuota artimo meilės idėja atsispindi
     senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsa-
@@ -199,7 +200,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 120."
   citata_originali: |
     Daugiau Jogaila Lie­
     tuvoje bažnyčių ir nestatęs; tai atliko Vytautas ir Lietuvos
@@ -222,7 +224,8 @@ Nenurodyta
 - id: c-169729
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 17."
   citata_originali: |
     Vis dėlto tai liko istorinis epi-
     zodas, nors pagoniška valstybė pamažu
@@ -249,6 +252,6 @@ Nenurodyta
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:35"
   pagrindzia:
     - t-006

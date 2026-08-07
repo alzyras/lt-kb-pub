@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-67150
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 286."
   citata_originali: |
     Kadangi seimo iširimas dažnai grėsdavo vals-
     tybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti

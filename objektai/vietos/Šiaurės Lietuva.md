@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87e22e91b991fd34e5425fbd"
+canonical_name: "Šiaurės Lietuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šiaurės Lietuva"]
+sameAs: []
+canonical_biography: "“LIETUVOS asies Mūšio priešistorė Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas - bermontininkai. Bermontininkų rankose atsidūrė Šiaurės Lietuva, palaipsniui judėdami į pietus bermontininkai pasiekė net Raseinius."
+place_authority: true
+historical_names: []
 ---
 # Šiaurės Lietuva
 
@@ -84,7 +93,8 @@ media_all_json: |-
 - id: c-77298
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 194."
   citata_originali: |
     “LIETUVOS
 
@@ -113,7 +123,8 @@ media_all_json: |-
 - id: c-77300
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 194."
   citata_originali: |
     Lietuvos
     kariuomenės

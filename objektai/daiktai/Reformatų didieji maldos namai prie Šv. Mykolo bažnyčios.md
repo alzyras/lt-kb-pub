@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-83071
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 299-300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 299-300."
   citata_originali: |
     5 pasakoja, kad
     „kapitula, gavusi žinių apie kažko­

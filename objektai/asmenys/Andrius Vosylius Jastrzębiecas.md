@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e44987c42d4c9d2131030089"
+canonical_name: "Andrius Vosylius Jastrzębiecas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Vosylius Jastrzębiecas"]
+sameAs: []
+canonical_biography: "Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosylius, didelis skaičius dvasininkų ir daug lietuvių bei lenkų didikų. Andrius Vosylius Jas­ trzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­ vo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams nebuvo svetimas žmogus."
 ---
 # Andrius Vosylius Jastrzębiecas
 
@@ -80,7 +87,8 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 119."
   citata_originali: |
     Pirmosios katedros tėra iš­
     likęs didžiojo altoriaus kryžius^2 ).
@@ -104,7 +112,8 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 117."
   citata_originali: |
     1387 m. pradžioje Jogaila ir Vytautas D. atvyko į Vilnių
     pradėti lietuvių tautos krikštijimo darbo. Kartu su jais atvyko

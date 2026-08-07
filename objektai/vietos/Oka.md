@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f1c579b01bab886cc977a289"
+canonical_name: "Oka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Oka"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Oka
 

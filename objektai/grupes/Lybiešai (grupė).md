@@ -46,9 +46,9 @@ Nes jog tenai buvo išsidanginę nuo neatmenamų laikų į patį pajūrį tarp t
 ## Citatos
 
 - id: c-184600
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 130"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 130."
   citata_originali: |
     Žemgaliais vadinos žemaičių saulėtekinis galas,
     tai yra gyvenančių paventy ir padaugavy. Nes jog

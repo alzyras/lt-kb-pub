@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2da3fedd88ff212c7f8e6774"
+canonical_name: "Nikolajus Arsenjevas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nikolajus Arsenjevas"]
+sameAs: []
+canonical_biography: "Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas majoras Nikolajus Arsenjevas. Arsenjevo butas, saugomas 12 muškietininkų."
 ---
 # Nikolajus Arsenjevas
 
@@ -68,7 +75,8 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
 - id: c-42170
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 151."
   citata_originali: |
     Kpt. A. Nelepcos vadovaujama maždaug
     30 karių grupė puolė Pacų rūmus, kuriuose
@@ -90,7 +98,8 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
 - id: c-44478
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 151."
   citata_originali: |
     Rusijos pajėgų vadovybė
     Rusijos pajėgų, nukreiptų prieš

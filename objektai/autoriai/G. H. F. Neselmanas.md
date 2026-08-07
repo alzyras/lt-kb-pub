@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ad36062dd25abe80ffef4b51"
+canonical_name: "G. H. F. Neselmanas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["G. H. F. Neselmanas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...; Endzelīns J. Senprūšu valoda; Būga K. Rinktiniai raštai, t. 1, 3; Mikalauskaitė E. Priešreformacinių...,.p. 102—106; Matusevičiūtė I. Kiek naujos medžiagos..., p. 10—18. Dusburgietis teigia, kad nesselmann G. H. F. Die Sprache der alten Preussen an ihren Überresten.—Berlin, 1845."
 ---
 # G. H. F. Neselmanas
 
@@ -97,7 +104,8 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
 - id: c-61183
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...;
     Endzelīns  J. Senprūšu valoda; Būga K. Rinktiniai raštai,  t. 1, 3; Mikalauskaitė E.
@@ -119,7 +127,8 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
 - id: c-61184
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     Nesselmann G. H. F. Thesaurus linguae prussicae.— Berlin, 1873.
   statusas: verified
@@ -133,7 +142,8 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
 - id: c-61185
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     Nesselmann G. H. F. Die Sprache der alten Preussen an ihren Überresten.—Berlin,
     1845.

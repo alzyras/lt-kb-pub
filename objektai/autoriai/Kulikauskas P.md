@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e5dc8e775b45509674794b2"
+canonical_name: "Kulikauskas P"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kulikauskas P"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kapinynų, kai kurių piliakalnių tyrimas rodo, kad Užnemunė, ypač jos šiaurė, nebuvo negyvenamas kraštas (Kulikauskas P., Užnemunės..., p. 97—98)."
 ---
 # Kulikauskas P
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad kapinynų, kai kurių piliakalnių tyrimas rodo, kad U�
 - id: c-61367
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
   citata_originali: |
     Kapinynų, kai kurių piliakalnių tyrimas
     rodo, kad Užnemunė, ypač jos šiaurė, nebuvo negyvenamas kraštas (Kulikauskas P.,

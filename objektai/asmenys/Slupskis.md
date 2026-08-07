@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-64d82ca82d425572b730aae5"
+canonical_name: "Slupskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Slupskis"]
+sameAs: []
+canonical_biography: "Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius."
 ---
 # Slupskis
 
@@ -49,7 +56,8 @@ Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.
 - id: c-83832
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 457"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 457."
   citata_originali: |
     20 grašių. Slups-
     kis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­

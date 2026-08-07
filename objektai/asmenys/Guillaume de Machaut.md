@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f421a7a013df2da18e5938f6"
+canonical_name: "Guillaume de Machaut"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Guillaume de Machaut"]
+sameAs: []
+canonical_biography: "Šis žygis, kuriame buvo daug svečių iš visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m. rašytame veikale « Confort d’Ami » (« Draugo parama »)."
 ---
 # Guillaume de Machaut
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-32733
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 242."
   citata_originali: |
     Iš kitų puolimų yra išskirtinas 1329
     pradžioje pirmasis Čekijos karaliaus Jono Liuksemburgiečio žygis

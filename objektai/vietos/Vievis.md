@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2742e2f12007f80d3a30bcf6"
+canonical_name: "Vievis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vievis"]
+sameAs: []
+canonical_biography: "Prie Vievio jie net karo veiksmais sulaikė mūsų žygiavimą ir sudegino Vakos tiltą."
+place_authority: true
+historical_names: []
 ---
 # Vievis
 
@@ -46,7 +55,8 @@ Prie Vievio jie net karo veiksmais sulaikė mūsų žygiavimą ir sudegino Vakos
 - id: c-176011
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 573"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 573."
   citata_originali: |
     Tačiau paliaubų pasiūlymo So-
     vietų Rusija nepriėmė, ir karas tęsėsi lenkų nenaudai. Liepos

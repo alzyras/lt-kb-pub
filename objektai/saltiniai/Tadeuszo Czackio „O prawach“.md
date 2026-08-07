@@ -53,7 +53,8 @@ Narbutas išnašoje nurodo, kad aptariamas dalykas plačiai išdėstytas Čackio
 - id: c-173369
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 355"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 355."
   citata_originali: |
     10 Šis dalykas plačiai išdėstytas Čackio veikale (O prawach. -  T. I. -
     S. 61-62. - Nota nr. 331).

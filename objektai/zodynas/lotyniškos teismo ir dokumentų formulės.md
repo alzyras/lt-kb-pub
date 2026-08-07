@@ -50,7 +50,8 @@ media_all_json: |-
 - id: c-82460
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 254-256"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 254-256."
   citata_originali: |
     238
 

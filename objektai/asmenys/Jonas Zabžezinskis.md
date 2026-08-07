@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7c2d91e36e8bd1327271b668"
+canonical_name: "Jonas Zabžezinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Zabžezinskis"]
+sameAs: []
+canonical_biography: "Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas Laskis. Jono ir Vysku­ pų gatvės kampe, dovanojimo aktu, padarytame Trakų vaivados Jono Zabžezinskio Vilniaus vyskupui Jo­ nui iš Lietuvos kunigaikščių, 1533 metų spalio 26 dieną (Archiwum Ka­ pitulų MSS), yra užsimenama apie tą didelį gaisrą."
 ---
 # Jonas Zabžezinskis
 
@@ -77,7 +84,8 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
 - id: c-83398
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 279."
   citata_originali: |
     Ko j a ł o w i c z, II, p. 391. Mūrinio
     namo, stovinčio Šv. Jono ir Vysku­
@@ -100,7 +108,8 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
 - id: c-83399
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 250."
   citata_originali: |
     Kilo didelis pavojus karaliaus
     saugumui, tad Aleksandras, ponų patarimu, kariuomenei

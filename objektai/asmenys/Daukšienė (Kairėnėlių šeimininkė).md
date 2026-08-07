@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-523f4ebec7aa0f38b2558b09"
+canonical_name: "Daukšienė (Kairėnėlių šeimininkė)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Daukšienė","Daukšienė (Kairėnėlių šeimininkė)"]
+sameAs: []
+canonical_biography: "Daukšienė vestuvių pasakojime pristatoma kaip Kairėnėlių šeimininkė, su duona ir rūgštimi pasitinkanti jaunuosius."
 ---
 # Daukšienė (Kairėnėlių šeimininkė)
 

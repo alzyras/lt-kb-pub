@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-49d5d3fd47bb307bbc27b713"
+canonical_name: "Justinas Marcinkevičius"
+entity_roles: ["author","person"]
+entity_view_role: "person"
+entity_aliases: ["Justinas Marcinkevičius"]
+sameAs: []
+canonical_biography: "Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių visuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia apie LPS iniciatyvinę grupę žaibiškai pasklido po."
 ---
 # Justinas Marcinkevičius
 
@@ -46,7 +53,8 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
 - id: c-176366
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 235."
   citata_originali: |
     Steigiant LPS apdairiai sutarta ne-
     rinkti iniciatyvinės grupės vadovo –

@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-169184
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 245."
   citata_originali: |
     Pilies įgulą sudarė trys tūkstančiai rink­
     tinių karių, apie kurių graudžią mirtį degančios pilies

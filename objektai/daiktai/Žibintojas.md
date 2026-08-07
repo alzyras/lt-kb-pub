@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-10317
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 69-70"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 69-70."
   citata_originali: |
     Po ta skyle trobos asloj buvo apvalus ir slesnas^225 akmuo, ant trinkos ąžuolo padėtas, kurį išaušus į
         trobos kertę galėjo paristi ar laukan išnešti. Norėdami vakaroti, padėjo tą akmenį, vadinamą

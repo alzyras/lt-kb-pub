@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-243ea85bb20d16c39582771d"
+canonical_name: "Dorpatas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dorpatas"]
+sameAs: []
+canonical_biography: "Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje. Vytauto laikų Dorpatas buvo vienas iš prekybos centrų netoli Lietuvos."
+place_authority: true
+historical_names: []
 ---
 # Dorpatas
 
@@ -77,7 +86,8 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 267."
   citata_originali: |
     Ordinas ragino Hanzą prisidėti ir
     prie 1422 m. karo. Bet ši atsisakė eiti prieš Vytautą, nes, ma­
@@ -101,7 +111,8 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 263."
   citata_originali: |
     Tad Vytautas čia labiau pareida­
     vo ir nuo geografinės valstybės būklės ir nuo politinių bei kul­

@@ -60,7 +60,8 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
 - id: c-84293
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 205."
   citata_originali: |
     ## Puslapis 205
 

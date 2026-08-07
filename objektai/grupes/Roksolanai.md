@@ -117,7 +117,8 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
 - id: c-175710
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 62."
   citata_originali: |
     Dėl tokio alanų galybės
     padidėjimo; ir jų išplitimo pradėta plytinčią į šiaurę nuo
@@ -141,7 +142,8 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
 - id: c-175711
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 66."
   citata_originali: |
     Tai, kad tie asai, arba osetinai, priklauso tai
     pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė
@@ -165,7 +167,8 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
 - id: c-175712
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 67."
   citata_originali: |
     Tyrinėtojas pamatė, jog Rhox ir Arhox, ki­
     taip Ross ir Arass, yra du skirtingi pavadinimai, reiškian­
@@ -194,7 +197,8 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
 - id: c-175713
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
   citata_originali: |
     Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
     gyventi žmonės septintojo dangaus- rato pabaigoje, — čia

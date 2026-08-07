@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7eada71c2feda5a4ed80a129"
+canonical_name: "Stasys Raštikis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stasys Raštikis"]
+sameAs: []
+canonical_biography: "Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konflikto 1940 m. balandį atleido jį iš pareigų. Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuomenės vadas gen. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimybes, pasisakė už trijų šalių karinę sąjungą, tačiau A."
 ---
 # Stasys Raštikis
 
@@ -205,7 +212,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 - id: c-21998
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 166."
   citata_originali: |
     Tačiau krikščionių demokratų blokas, Katalikų veikimo
     centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
@@ -228,7 +236,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 - id: c-21999
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 177."
   citata_originali: |
     Be to, Kaunas sunerimo, kad
     Vokietija darosi vis agresyvesnė. Todėl 1934 m. pradėti megzti neoficialūs
@@ -248,7 +257,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 - id: c-22000
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 178."
   citata_originali: |
     1935 m. balandį
     S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuria-
@@ -271,7 +281,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 - id: c-22001
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 178."
   citata_originali: |
     Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
     santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
@@ -291,7 +302,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 - id: c-22002
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 183."
   citata_originali: |
     Neutralumo politika ir
     Molotovo–Ribentropo paktas
@@ -318,7 +330,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 - id: c-22003
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 187."
   citata_originali: |
     Krikščionys demokratai ir liaudininkai, prieš tai su-
     sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
@@ -340,7 +353,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 - id: c-22004
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 187."
   citata_originali: |
     Tačiau ministro pirmininko
     Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-
@@ -360,7 +374,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 - id: c-95146
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 187."
   citata_originali: |
     A. Smetonos siūlymą priešintis ginklu palaikė
     vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.

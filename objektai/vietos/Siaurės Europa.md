@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1817c13600e6636f68df12c3"
+canonical_name: "Siaurės Europa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Siaurės Europa"]
+sameAs: []
+canonical_biography: "Narbutas Siaurės Europos praeities miglotumą siejo su vėlyvu rašto pažinimu, karais, sumaištimis, gaisrais ir religijų kaita."
+place_authority: true
+historical_names: []
 ---
 # Siaurės Europa
 
@@ -54,7 +63,8 @@ Narbutas Siaurės Europos praeities miglotumą siejo su vėlyvu rašto pažinimu
 - id: c-175688
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 28."
   citata_originali: |
     O ir tas, kuris susipažino su priešistorinės seno­
     vės epochomis, apiplėštomis įvairių senienų epochomis,

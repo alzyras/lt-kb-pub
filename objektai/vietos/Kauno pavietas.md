@@ -26,8 +26,21 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fe0e8b7bf1eb2e2afabb5d02"
+canonical_name: "Kauno pavietas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno pavietas"]
+sameAs: []
+canonical_biography: "Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m. Zigmantas Vaza rašė Kauno miesto savivaldos pareigūnams gavęs Kauno pavieto bajorų pranešimą dėl to, kad neprižiūrint tvarkos mieste ir jo teisių kilo rugių, kitokių grūdų ir maisto kainos Kaune. Kauno miesto taryba prisidengė senatimi, ir Zigmantas Vaza pripažino juos teisiais."
+place_authority: true
+historical_names: []
 ---
 # Kauno pavietas
+
+## Santrauka
+
+Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m. Zigmantas Vaza rašė Kauno miesto savivaldos pareigūnams gavęs Kauno pavieto bajorų pranešimą dėl to, kad neprižiūrint tvarkos mieste ir jo teisių kilo rugių, kitokių grūdų ir maisto kainos Kaune. Kauno miesto taryba prisidengė senatimi, ir Zigmantas Vaza pripažino juos teisiais.
 
 ## Santrauka
 
@@ -83,12 +96,32 @@ Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m
   pagrindžia:
     - c-185044
 
+<a id="claim-t-202997"></a>
+- t-005
+  teiginys: "Nedidelės Vijūkų žemės valdos, skurdi ginkluotė, antspaudų nenaudojimas ir pareigų pavieto bajoriškosiose savivaldos institucijose neturėjimas leidžia Vijūkus laikyti smulkiais Kauno pavieto bajorais."
+  atnaujinta: "2026-07-26 21:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kauno pavietas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=94"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno pavietas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-26T18:22:38Z"
+  pagrindžia:
+    - c-185960
+
 ## Citatos
 
 - id: c-185041
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 108"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 108."
   citata_originali: |
     XV a. Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. Kaip
     atrodo, jis buvo išsidėstęs abiejuose Nemuno krantuose.
@@ -101,9 +134,9 @@ Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m
     - t-001
 
 - id: c-185042
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 216"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 216."
   citata_originali: |
     Net jei miestiečiai nesirūpindavo svečių pirklių priežiūra, jiems tekdavo išgirsti
     griežtą valdovo žodį, primenantį jų teises ir pareigas. 1631 m. Zigmantas Vaza rašė
@@ -119,9 +152,9 @@ Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m
     - t-002
 
 - id: c-185043
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 314"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 314."
   citata_originali: |
     Kauno miesto taryba prisidengė senati-
     mi, ir Zigmantas Vaza pripažino juos teisiais.
@@ -136,9 +169,9 @@ Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m
     - t-003
 
 - id: c-185044
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 314"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 314."
   citata_originali: |
     Sudėtinga buvo kita byla dėl gėralų mokesčio. 1633 m. Kauno miestas skundėsi
     Vladislovui Vazai, kad Kauno pavieto gėralų mokesčio rinkikas Martynas Čechavi­
@@ -152,3 +185,14 @@ Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-185960
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
+  puslapiai: "PDF 6"
+  indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 21:24"
+  pagrindzia:
+    - t-005

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0b55c8293d35c2566c7528c5"
+canonical_name: "Antanas Merkys"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Merkys"]
+sameAs: []
+canonical_biography: "LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Antano Merkio vyriausybę. Merkį. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti."
 ---
 # Antanas Merkys
 
@@ -107,7 +114,8 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 - id: c-154635
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 183."
   citata_originali: |
     deleguotas ministras turėjo vykdyti jo užduotis. LVLS ir LKDP neparei-
     kalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du
@@ -126,7 +134,8 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 - id: c-154637
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 187."
   citata_originali: |
     Jokiais paaiškinimais netikėta, be to, reikalauta atleisti „provokacijų“ kalti-
     ninkus – vidaus reikalų ministrą gen. Kazį Skučą ir Saugumo departamen-
@@ -146,7 +155,8 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 - id: c-154638
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 186."
   citata_originali: |
     Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
     neleido netgi apklausti neva pagrobtų, bet atsiradusių „aukų“. Tai rodė,
@@ -164,7 +174,8 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 - id: c-154639
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 187."
   citata_originali: |
     Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
     ar priešintis okupacijai, ar priimti ultimatumą. Ginkluoto pasipriešinimo
@@ -185,7 +196,8 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 - id: c-154640
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 186."
   citata_originali: |
     Tai rodė,
     jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti

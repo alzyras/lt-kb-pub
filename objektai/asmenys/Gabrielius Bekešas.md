@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0dcc823243c6ab07b44afbcc"
+canonical_name: "Gabrielius Bekešas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gabrielio Bekešo Skornato","Gabrielis Bekešas","Gabrielis Bekešas Skornatas","Gabrielius Bekešas"]
+sameAs: []
+canonical_biography: "Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas už karinius nuopelnus valdovui, Karalystei ir Lietuvos Didžiajai Kunigaikštystei. Privilegijoje jam suteikiamas Alantos dvaras su priklausiniais, paveldėjimo teisėmis, ūkinės plėtros galimybėmis ir karinės tarnybos pareiga."
 ---
 # Gabrielius Bekešas
 
@@ -194,7 +201,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - id: c-55515
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 436-437"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 436-437."
   citata_originali: |
     Kaip ir
     tame neseniai vykusiame kare prieš Maskvos kunigaikštį
@@ -227,7 +235,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - id: c-55516
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 437"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 437."
   citata_originali: |
     IV KNYGA
     kartu kovėsi, norėdamas parodyti pavyzdį. Taip pat ir vė­
@@ -271,7 +280,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - id: c-55517
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 438"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 438."
   citata_originali: |
     O tuo laiku verti geradarybės ir naudingi tar­
     nai kiekvienoje gerai tvarkomoje valstybėje būna remiami
@@ -317,7 +327,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - id: c-55518
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 439"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 439."
   citata_originali: |
     Ir bus leista minėtam po­
     nui Gabrieliui Bekešui ir po jo abiejų lyčių vaikams ir vi­
@@ -351,7 +362,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - id: c-78789
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 439"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 439."
   citata_originali: |
     Tai, kas tuose rejestruose išvardinta: bajorų,
     kelio miestiečių bei tiaglinių ir tėvoniškių žmonių, jie visi
@@ -382,7 +394,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - id: c-78790
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308-309"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308-309."
   citata_originali: |
     61
     Yra padavimas, kad karalius Stepo­
@@ -410,7 +423,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - id: c-78791
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 436"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 436."
   citata_originali: |
     (Kopija iš originalo, esančio Radvilų archyve)
     Steponas, Dievo Malone Lenkijos karalius, Didysis Lie­

@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-82889
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42."
   citata_originali: |
     Kivirčai tarp brolių da­
     vė pradžią slaptoms, bet sumaniai parengtoms sutartims

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ec64bce975007cd01090092"
+canonical_name: "Martiniškiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Martiniškiai"]
+sameAs: []
+canonical_biography: "Lenkų artilerija trikdė lietuvių veiksmus, tačiau netrukus 6-oji lietuvių baterija išvedė iš rikiuotės Martiniškių dvare išsidėsčiusią lenkų bateriją."
+place_authority: true
+historical_names: []
 ---
 # Martiniškiai
 
@@ -51,7 +60,8 @@ Lenkų artilerija trikdė lietuvių veiksmus, tačiau netrukus 6-oji lietuvių b
 - id: c-45203
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 210."
   citata_originali: |
     Prieš lietuvius
     lenkai iš rezervo vieną paskui kitą metė

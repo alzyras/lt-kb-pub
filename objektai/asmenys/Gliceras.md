@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7a65d2f6765a8e4b7b7f9d93"
+canonical_name: "Gliceras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gliceras"]
+sameAs: []
+canonical_biography: "Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki Romulo Momilijaus Augustulo iškėlimo 475 metais. Narbutas rašo, kad Nepas nuvertė Glicerą ir paskyrė jį Salemos vyskupu, o vėliau Dalmatijoje Nepą nužudė Glicero atsiųsti žmonės."
 ---
 # Gliceras
 
@@ -74,7 +81,8 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
 - id: c-174153
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Imperatoriaus
     sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
@@ -96,7 +104,8 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
 - id: c-174832
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
   citata_originali: |
     Tačiau, nepaisant viso to,
     Odoakras gavo tai, ko geidė, nors italai nelabai buvo

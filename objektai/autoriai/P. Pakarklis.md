@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e1003afec961b98e0fb28d3d"
+canonical_name: "P. Pakarklis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. Pakarklis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą buv. Dusburgietis teigia, kad tautiniai santykiai..., p. 24—27; Pakarklis P. Dusburgietis teigia, kad 5 Pakarklis P."
 ---
 # P. Pakarklis
 
@@ -109,7 +116,8 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
 - id: c-91690
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     P. Pakarklis plėtojo
     mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą
@@ -128,7 +136,8 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
 - id: c-91692
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 84."
   citata_originali: |
     — Žr. LE, t. 36, 384-385 p.**
     (^103) **Tuo tarpu apie grublėtąją keramiką Lietuvoje rašė Y. Daugudis
@@ -157,7 +166,8 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
 - id: c-91694
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     5  Pakarklis P. Kryžiuočių..., p. 15—23.
   statusas: verified

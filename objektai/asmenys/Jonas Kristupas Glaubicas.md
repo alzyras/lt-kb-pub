@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-61d0b3836767847225c0d46f"
+canonical_name: "Jonas Kristupas Glaubicas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. K. Glaubicas","J. K. Glaubico","Johann Christoph Glaubitz","Jonas Kristupas Glaubicas","Jonas Kristupas Glaubicas (architektas)"]
+sameAs: []
+canonical_biography: "Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos architektas ir šios mokyklos stilistikos formuotojas, kūręs daugiakonfesiame Vilniuje."
 ---
 # Jonas Kristupas Glaubicas
 
@@ -95,7 +102,7 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 <a id="claim-t-23204"></a>
 - t-004
   teiginys: "J. K. Glaubico 1737–1767 m. kūrybos laikotarpis įvardijamas kaip vienas ryškiausių senosios Lietuvos civilizacijos reiškinių."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1737-1767; įvykio data: 1767 m."
@@ -106,7 +113,7 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 <a id="claim-t-23205"></a>
 - t-005
   teiginys: "Jonas Kristupas Glaubicas laikomas pagrindiniu originalios Vilniaus baroko mokyklos architektu."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1737-1767; įvykio data: 1767 m."
@@ -118,7 +125,7 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 <a id="claim-t-23206"></a>
 - t-006
   teiginys: "Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo – Vilniaus baroko mokyklą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1737-1767; įvykio data: 1767 m."
@@ -150,7 +157,8 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 - id: c-21740
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 63."
   citata_originali: |
     Jame randame šiuolaikinės artilerijos
     ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
@@ -174,7 +182,8 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 - id: c-21742
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 83."
   citata_originali: |
     Bažnyčios su dviem grakščiais, skirtingai
     dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-
@@ -193,7 +202,8 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 - id: c-25097
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 82-83"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 82-83."
   citata_originali: |
     Pirmojoje XVIII a. pusėje susiformavo savita Vil-
     niaus mokykla, kurios stilistikos formuotojas, produktyviausias XVIII a. ar-
@@ -216,7 +226,8 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 - id: c-25413
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 83."
   citata_originali: |
     Ryškiausias ypatumas – ypač aukšti ir
     liekni pagrindinio fasado bokštai. Bažnyčios su dviem grakščiais, skirtingai

@@ -75,7 +75,8 @@ media_all_json: |-
 - id: c-32618
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 142."
   citata_originali: |
     Lydimas apaugdavo žole ganyklai ir krūmais, o naujas
     lydimas buvo daromas kitoje miško ar pamiškės vietoje. Šitaip
@@ -93,7 +94,8 @@ media_all_json: |-
 - id: c-167725
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 142."
   citata_originali: |
     Šitaip
     atsirado dvilaukė sistema. Kadangi nulaisintas lydimas ilgai turėjo

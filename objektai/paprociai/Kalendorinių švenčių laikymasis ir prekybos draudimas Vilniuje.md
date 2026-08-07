@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-83250
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 311-312"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 311-312."
   citata_originali: |
     Lygiai taip pat įžvalgiai karalius užkirto kelią
     jau pradėjusiems Vilniuje reikštis piktnaudžiavimams ir

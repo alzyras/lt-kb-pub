@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1ca74dae9063bc78a75d2a7a"
+canonical_name: "Stirė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Stirė"]
+sameAs: []
+canonical_biography: "Prie Stirės įvyko Švitrigailos pajėgoms nesékmingas mūšis."
+place_authority: true
+historical_names: []
 ---
 # Stirė
 
@@ -50,7 +59,8 @@ Prie Stirės įvyko Švitrigailos pajėgoms nesékmingas mūšis.
 - id: c-45345
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     Jogailos kariuomenė pro Vladimirą lie-
     pos pabaigoje artėjo prie Lucko. Prie Stirės

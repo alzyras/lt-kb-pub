@@ -63,7 +63,8 @@ Dusburgietis teigia, kad laikinąja, būtent tol skaistykloje kentėti, kol tas 
 - id: c-59556
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 95-96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95-96."
   citata_originali: |
     Tas atsakė buvęs vienus metus maldininku Prūsijos žemėje, o grįždamas miręs ir čia
     palaidotas, be to, dėl vieno lauko, kurį, gyvas būdamas, neteisiai buvęs nuo kaimyno

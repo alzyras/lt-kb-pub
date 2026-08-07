@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f580d3a110096593baf15a60"
+canonical_name: "Belskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Belskis"]
+sameAs: []
+canonical_biography: "Narbutas Belskio nuomonę apie Ledą, Ladą, Lėlį ir Polėlį laikė klaidinga ir siejo ją su vardų panašumu. Belskis globojo ne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus dirbinius."
 ---
 # Belskis
 
@@ -66,7 +73,8 @@ Narbutas Belskio nuomonę apie Ledą, Ladą, Lėlį ir Polėlį laikė klaidinga
 - id: c-172968
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
   citata_originali: |
     Šie
     mitai jokiu būdu netaikomi Ledos dvyniams Kastorui ir Poliuk-
@@ -90,7 +98,8 @@ Narbutas Belskio nuomonę apie Ledą, Ladą, Lėlį ir Polėlį laikė klaidinga
 - id: c-179161
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 138."
   citata_originali: |
     Tai buvo Linų Izidė, to augalo vertės atradėja; ji globojo
     ne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus

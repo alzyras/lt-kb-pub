@@ -87,7 +87,8 @@ Nenurodyta
 - id: c-83197
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 259-260"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 259-260."
   citata_originali: |
     Tai­
     gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­
@@ -123,7 +124,8 @@ Nenurodyta
 - id: c-83198
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 259-260"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 259-260."
   citata_originali: |
     Pirmiausia norime, kad minėta
     Pabaisko parapija turėtų buvusias ribas, kurios eina nuo

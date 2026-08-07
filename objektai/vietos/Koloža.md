@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5f7b2d074b9f211f3a067b0d"
+canonical_name: "Koloža"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Koloža"]
+sameAs: []
+canonical_biography: "Komentare teigiama, kad 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą. Koloža šiame gabale minima LDK ir Pskovo karo kontekste."
+place_authority: true
+historical_names: []
 ---
 # Koloža
 
@@ -39,7 +48,7 @@ Komentare teigiama, kad 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos 
 <a id="claim-t-199320"></a>
 - t-001
   teiginys: "Koloža minima XV a. pirmosios pusės LDK ir Pskovo karo kontekste."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Perrašyta į pilnesnį faktinį sakinį be migloto „šiame gabale“."
@@ -48,14 +57,14 @@ Komentare teigiama, kad 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Perrašyta į pilnesnį faktinį sakinį be migloto „šiame gabale“."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-181883
 
 <a id="claim-t-199321"></a>
 - t-002
   teiginys: "1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Komentaro atribucija nereikalinga paprastam faktui."
@@ -65,7 +74,7 @@ Komentare teigiama, kad 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Komentaro atribucija nereikalinga paprastam faktui."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181883
 
@@ -86,7 +95,7 @@ Komentare teigiama, kad 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos 
     Rževų ir Polocku (V1I.30—VII1.2).
   citata_rodoma: "‘ 1428 m. žygio karo veiksmai buvo sustabdyti, liepos 28 d. \nnaugardiečiams paprašius taikos.\ns XV a. pirm ojoje pusėje Pskovo bajorų respublika kariavo su \nLDK du kartus — 1406 ir 1426 m. 1406 m. Ldk Vytautas paėmė pri­\nklausant) Pskovu! Koložos miestų ir dvi dienas buvo apgulus Vo- \nronačų, o pskoviečiai puolė Lietuvos miestus Velikije Lūki (11,28), \nRževų ir Polocku (V1I.30—VII1.2)."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-62980
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
   citata_originali: |
     Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais
     Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į

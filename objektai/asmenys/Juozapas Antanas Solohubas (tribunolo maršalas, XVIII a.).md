@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e3716a5bfed0e6f1852f9438"
+canonical_name: "Juozapas Antanas Solohubas (tribunolo maršalas, XVIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozapas Antanas Solohubas","Juozapas Antanas Solohubas (tribunolo maršalas, XVIII a.)","Juozapą Antaną Solohubą","Józef Antoni Sołłohub"]
+sameAs: []
+canonical_biography: "Juozapas Antanas Solohubas buvo tribunolo maršalas."
 ---
 # Juozapas Antanas Solohubas (tribunolo maršalas, XVIII a.)
 
@@ -31,7 +38,7 @@ Juozapas Antanas Solohubas buvo tribunolo maršalas.
 <a id="claim-t-200492"></a>
 - t-001
   teiginys: "Juozapas Antanas Solohubas buvo tribunolo maršalas."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Antanas Solohubas (LDK artilerijos generolas, XVIII a.): 0.85"
@@ -54,6 +61,6 @@ Juozapas Antanas Solohubas buvo tribunolo maršalas.
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 03:26"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001

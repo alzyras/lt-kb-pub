@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9497f02be07b4fb75fd64e5"
+canonical_name: "Kuoknesė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kuoknesė"]
+sameAs: []
+canonical_biography: "Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis. Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė. Paėmė beveik visus laivus, kuriais Dauguvos upe švedai atplukdė 96 KUOKNESĖS MŪŠIS 1601 m. birželio 23 d. L Arialentibas (Souk snjam Lirhuanis (rus (areli Duos SadSijimunds Tereu Pisa S See Regs ac newfie Kuoknesés mūšis 1601 m. XVIII a."
+place_authority: true
+historical_names: []
 ---
 # Kuoknesė
 
@@ -163,7 +172,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - id: c-76495
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 98."
   citata_originali: |
     Mūšio išvakarėse
 
@@ -186,7 +196,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - id: c-76498
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112."
   citata_originali: |
     Maža to,
 
@@ -214,7 +225,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - id: c-76499
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112."
   citata_originali: |
     1608 m. rudenį numalšinus rokošą Len-
     kijos karalystėje, Jonas Karolis Chodke-
@@ -238,7 +250,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - id: c-167176
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 98."
   citata_originali: |
     Ge-
     gužės 28 d. Lietuvos kariuomenė šį dalinį
@@ -264,9 +277,9 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - t-005
 
 - id: c-184427
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 201"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 201."
   citata_originali: |
     Tuo atėjus pirmasis darbas tų mel­
     džionų buvo, iki nepradėjus kariauti, mūrus Rygos

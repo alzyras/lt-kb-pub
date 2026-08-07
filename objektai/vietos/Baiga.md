@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d11abda9b651aa667b28f564"
+canonical_name: "Baiga"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Baiga"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti saviškius (III, 26). Dusburgietis teigia, kad po to ima pasakoti apie atskirų pilių bei miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas, Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174). Dusburgietis teigia, kad minimi čia 7 Ragainės komtūrai (1289—1324 m. laikotarpiu; Bertoldas iš Austrijos, Ernekė, Konradas, Folčas, Verneris, Fridrichas iš Libencelės, Ditrichas bei 1 vicekomtūras (III, 235, 239, 251, 297, 317, 332, 351, 300), 4 Karaliaučiaus komtūrai (Albertas iš."
+place_authority: true
+historical_names: []
 ---
 # Baiga
 
@@ -92,7 +101,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 <a id="claim-t-90293"></a>
 - t-004
   teiginys: "Pastačius Baigos pilį, sembai pasiuntė vieną vyresnįjį į Baigą ištirti brolių gyvenimo."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Baiga: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -105,7 +114,6 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   semantiniai_rysiai: "Sembai siuntė į Baiga (0.93)"
   pagrindžia:
     - c-86158
-    - c-86164
 
 <a id="claim-t-90294"></a>
 - t-005
@@ -404,7 +412,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86156
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
   citata_originali: |
     20. Apie Baigos pilies apgulą
 
@@ -430,7 +439,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86157
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Susitaikius Čekijos karalius
     nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
@@ -450,7 +460,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86158
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
   citata_originali: |
     Apie karo su sembais rezultatų atspėjimą
 
@@ -474,7 +485,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86160
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
   citata_originali: |
     Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
     apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
@@ -490,7 +502,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86161
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     Apie Baigos brolių vienuolišką gyvenimą
 
@@ -513,7 +526,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86162
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     Paskui jie patraukė prieš Baigą ir pagrobė brolių arklius bei gyvulius, ir šitai
     buvo ne vieną, bet keletą kartų.
@@ -534,7 +548,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86163
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
   citata_originali: |
     Apie Baigos pilį
 
@@ -562,7 +577,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86164
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     Apie kelių prūsų žūtį
     Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo tokia narsa ir drąsa,
@@ -579,13 +595,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
     - t-017
 
 - id: c-86165
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti
     saviškius (III, 26). Dievo apvaizda patvarkė, kad prūsai išdavė broliams Vėluvos pilį
@@ -602,7 +618,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86166
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 79-80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79-80."
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
 
@@ -636,7 +653,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86167
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
   citata_originali: |
     Kronikininkas, rašydamas apie antrąjį prūsų sukilimą, Ordino brolių veiklos pagrindine
     vieta laiko Karaliaučių (III, 95, 100—113). Po to ima pasakoti apie atskirų pilių bei
@@ -657,7 +675,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86168
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
   citata_originali: |
     Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė
     Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams.
@@ -676,7 +695,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-86169
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
     Žinių Dusburgiečiui teikė visų pirma Ordino broliai. Kronikos dalyje, aprašančioje karus
     prieš Lietuvą, išvardijama apie 70 brolių, tuo tarpu visose kitose dalyse —žymiai mažiau.
@@ -699,7 +719,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - id: c-167529
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
   citata_originali: |
     Todėl po to, kai, įkvėpti dievo be
     kurio nieko gera negali įvykti, pamedėnai ir pagudėnai pasidavė tikėjimui ir broliams,

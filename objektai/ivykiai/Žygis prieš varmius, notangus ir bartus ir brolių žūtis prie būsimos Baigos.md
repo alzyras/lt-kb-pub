@@ -92,7 +92,8 @@ Nenurodyta
 - id: c-67091
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
   citata_originali: |
     243  Apie kovas su varmiais, notangais ir sembais kalba 1238. VI.11 dokumentas
     (CDW, 1, Nr. 2). Skyrelyje aprašytas Varmės puolimas įvyko 1238 m. vasarą.
@@ -107,7 +108,8 @@ Nenurodyta
 - id: c-67092
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
   citata_originali: |
     Apie brolių karą su varmiais, bartais ir notangais ir apie daugybės brolių ir krikščio­
                                            nių žūtį

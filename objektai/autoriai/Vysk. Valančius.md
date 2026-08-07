@@ -23,6 +23,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-787fc7761677c027d2ba8b1c"
+canonical_name: "Vysk. Valančius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vysk. Valančius","vyskupo Valančiaus"]
+sameAs: []
+canonical_biography: "Valančiaus, VAIKŲ KNYGELĖ."
 ---
 # Vysk. Valančius
 
@@ -64,7 +71,8 @@ Valančiaus, VAIKŲ KNYGELĖ.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 318."
   citata_originali: |
     6. Vysk. Valančiaus, VAIKŲ KNYGELĖ. L. Kuodžio redaguota, su
     dailininko K. Šimonio spalvotomis ir grafiškomis iliustracijomis ir spalvo­

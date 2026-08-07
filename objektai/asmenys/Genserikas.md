@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e627326cf8fdca21bb8324a"
+canonical_name: "Genserikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Genserikas"]
+sameAs: []
+canonical_biography: "Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakras užmezgė draugiškus santykius ir tam tikromis sąlygomis gavo Siciliją."
 ---
 # Genserikas
 
@@ -79,7 +86,8 @@ Narbutas Genseriką vadina galingu Afrikos vandalų karaliumi, su kuriuo Odoakra
 - id: c-174152
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
   citata_originali: |
     Tuo
     metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą

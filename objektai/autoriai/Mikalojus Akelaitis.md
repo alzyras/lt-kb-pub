@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-74d2d8131e834dacb96e7f50"
+canonical_name: "Mikalojus Akelaitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mikalojus Akelaitis","objektai/asmenys/Mikalojus Akelaitis"]
+sameAs: []
+canonical_biography: "1859 m. lietuvių švietėjas Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad „Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“"
 ---
 # Mikalojus Akelaitis
 
@@ -65,7 +72,8 @@ media_all_json: |-
 - id: c-154572
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 9."
   citata_originali: |
     Jas įsi-
     mindami, savaime tapsite gyvais Lietuvos istorijos liudininkais ir sergėto-

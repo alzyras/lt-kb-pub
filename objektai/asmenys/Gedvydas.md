@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f3364cc09ac6352bc83135c6"
+canonical_name: "Gedvydas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gedvydas"]
+sameAs: []
+canonical_biography: "Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas."
 ---
 # Gedvydas
 
@@ -61,7 +68,8 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
 - id: c-44334
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 27."
   citata_originali: |
     Haličo-
     Voluinės didysis kunigaikštis su Mindaugu derasi jau kaip su visos Lietuvos valdovu. Stiprindamas centrinę valdžią

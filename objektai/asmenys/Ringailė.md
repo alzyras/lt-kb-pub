@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-63449a31db4767fbcc0d985a"
+canonical_name: "Ringailė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ringailė"]
+sameAs: []
+canonical_biography: "Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas Vytautą, vedė jo seserį Ringailę, tai ordinas jo neįtarė, ir tuo būdu buvo slapta susitarta. Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų."
 ---
 # Ringailė
 
@@ -72,7 +79,8 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 - id: c-88851
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 129."
   citata_originali: |
     100 psl.). Ordinas, kartą jau apgautas,
     pareikalavo, kad Vytautas laiduotų sutartį, įkeisdamas savo arti-
@@ -91,7 +99,8 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 25."
   citata_originali: |
     1392 m. Ringailę vedė Ritesverderyje
     kitas Mozūrijos kunigaikštis Henrikas. Ji gavo krikšte

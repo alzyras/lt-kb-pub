@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f9437f26acfe0d84b879afc3"
+canonical_name: "Mykolas Juškevičius Kulvietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Juškevičius Kulvietis"]
+sameAs: []
+canonical_biography: "O jau 1541 m. Žygimantas Senasis paskyrė Kauno pavieto žemės teisėjus Mykolą Juškevičių Kulvietį ir Vainą Pacevičių."
 ---
 # Mykolas Juškevičius Kulvietis
 
@@ -49,9 +56,9 @@ O jau 1541 m. Žygimantas Senasis paskyrė Kauno pavieto žemės teisėjus Mykol
 ## Citatos
 
 - id: c-185540
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 157"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 157."
   citata_originali: |
     Nėra žinoma, kas tą teisėją skyrė, kokia buvo jo kompetencija. O jau
     1541 m. Žygimantas Senasis paskyrė Kauno pavieto žemės teisėjus Mykolą Juškevičių

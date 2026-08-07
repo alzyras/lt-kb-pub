@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-71c8b15d56cda0a026e31109"
+canonical_name: "Viktorijos upelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Viktorijos upelis"]
+sameAs: []
+canonical_biography: "Žygimantas, no­ rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­ torija ir toje vietoje pastatė parapijos bažnyčią22. Žemė derlinga, Viktorijos upelis, nors mažas, bet vertas gražaus vardo."
+place_authority: true
+historical_names: []
 ---
 # Viktorijos upelis
 
@@ -66,7 +75,8 @@ media_all_json: |-
 - id: c-82091
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 236."
   citata_originali: |
     Praėjusiais metais aplankę Pabaiską,
     įsitikinome, kad žmonėse dar gyvi
@@ -96,7 +106,8 @@ media_all_json: |-
 - id: c-82092
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 236."
   citata_originali: |
     Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
     gaikščiu Jurgiu, išvengė sutriuškinimo21. Žygimantas, no­

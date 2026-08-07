@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9dcb20e7f08312436f07924"
+canonical_name: "Mantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mantas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai sutriuškino kryžiuočius mūšio lauke."
 ---
 # Mantas
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-61111
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Štai Didžiojo prūsų sukilimo
     metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė

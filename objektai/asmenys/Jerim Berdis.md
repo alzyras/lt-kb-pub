@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f4bab5e32e01664cc0facc0a"
+canonical_name: "Jerim Berdis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jerim Berdis"]
+sameAs: []
+canonical_biography: "Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, o Kojelavičius šį veiksmą aiškino garbės troškimu."
 ---
 # Jerim Berdis
 
@@ -47,7 +54,8 @@ media_all_json: |-
 - id: c-169407
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     Kerim Berdis, sutelkęs stiprią kariuome­
     nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo

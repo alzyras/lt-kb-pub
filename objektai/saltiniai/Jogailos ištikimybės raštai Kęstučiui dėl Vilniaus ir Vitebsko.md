@@ -60,7 +60,8 @@ Jogailos ištikimybės raštuose Kęstučiui kunigaikštis Jogaila vaizduojamas 
 - id: c-176779
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 176."
   citata_originali: |
     Ir kiek dar vis mano draugų buvo li­
     kę, iš tų visų kunigaikštis Jogaila atėmė jų tėviškes.

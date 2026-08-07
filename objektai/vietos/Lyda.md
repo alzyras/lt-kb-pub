@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d40d33839b3c10ae930cfc6f"
+canonical_name: "Lyda"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lyda"]
+sameAs: []
+canonical_biography: "Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys."
+place_authority: true
+historical_names: []
 ---
 # Lyda
 
@@ -52,7 +61,8 @@ Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema a
 - id: c-75102
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32."
   citata_originali: |
     Lietuva tuo metu jau
     turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro

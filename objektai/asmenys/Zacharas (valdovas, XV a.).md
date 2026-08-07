@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5f2cb0b9d5f4e7f9d72bd816"
+canonical_name: "Zacharas (valdovas, XV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zacharas","Zacharas (valdovas, XV a.)"]
+sameAs: []
+canonical_biography: "1480-1484 m. Kazimieras Jogailaitis ne kartą rašė Dancigui, kad leistų parduoti svetimiems pirkliams grūdus, kuriuos gabena Kauno miestietis Zacharas (Zachariam civem nostrum Cownensem), dar vadinamas valdovo pirkliu (mercatorem nostrum de Cowno,factorem."
 ---
 # Zacharas (valdovas, XV a.)
 
@@ -55,9 +62,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185457
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 76"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 76."
   citata_originali: |
     Kazimieras skundėsi, kad Danci-
     gas nenori leisti parduoti jo grūdų kitų kraštų pirkliams, ir reikalavo užtikrinti jų parda-

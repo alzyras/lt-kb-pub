@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1fb260c2a8e2171ddd377cd0"
+canonical_name: "Skomanto kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Skomanto kalnas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p."
+place_authority: true
+historical_names: []
 ---
 # Skomanto kalnas
 
@@ -44,7 +53,8 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
 - id: c-59359
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
   citata_originali: |
     Skokiai žr. Zioka
     Skomackas

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab8292033f3f94aea3d68774"
+canonical_name: "Florijonas Zebžidovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Florijonas Zebžidovskis"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Florijonas Zebžidovskis
 

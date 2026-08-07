@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-00b4f3b0d7fd5b7dcb469650"
+canonical_name: "Bielsko"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bielsko"]
+sameAs: []
+canonical_biography: "Zabiela, liepos 16 d. išžygiavęs į Lietuvos Brastą iš stovyklos prie Bielsko, turėjo 4 bataliono dydžio pėstininkų pulkus (LDK 2-ąjį, 6-ąjį, 7-ąjį, 8-ąjį | péstininky regimentus)."
+place_authority: true
+historical_names: []
 ---
 # Bielsko
 
@@ -50,7 +59,8 @@ Zabiela, liepos 16 d. išžygiavęs į Lietuvos Brastą iš stovyklos prie Biels
 - id: c-45040
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 145."
   citata_originali: |
     uniforma
 

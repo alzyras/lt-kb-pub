@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-172509
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 454"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 454."
   citata_originali: |
     Paskui aptiko šventąjį mišką; kuris jo medis buvo didesnis, tas
     buvo laikomas labiau garbintinas. Čia Jeronimas ilgai mokė
@@ -108,7 +109,8 @@ Nenurodyta
 - id: c-172510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 454"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 454."
   citata_originali: |
     Pasistūmėta iki miško vidurio; ten kurį laiką niekas nedrį­
     so paliesti seniausio ir už visus medžius labiau garbinamo me­

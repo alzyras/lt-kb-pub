@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-63532
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
   citata_originali: |
     131 (126). Apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą
 
@@ -107,7 +108,8 @@ Nenurodyta
 - id: c-63533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
   citata_originali: |
     Kai
     traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta
@@ -129,7 +131,8 @@ Nenurodyta
 - id: c-63534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
   citata_originali: |
     Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto
     ir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje

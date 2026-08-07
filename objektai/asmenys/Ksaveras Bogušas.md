@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b766f616c1a93dd91c159de5"
+canonical_name: "Ksaveras Bogušas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ksaveras Bogušas"]
+sameAs: []
+canonical_biography: "Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagaubiu. Ksaveras Bogušas išvertė Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių fragmentą, perteikdamas originalo eilių metrą. Narbutas rašė, kad pirmą kartą paėmęs Ksavero Bogušo studiją atkreipė dėmesį į jo išverstas Ovidijaus eilutes."
 ---
 # Ksaveras Bogušas
 
@@ -73,15 +80,22 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 <a id="claim-t-190914"></a>
 - t-003
   teiginys: "Teodoro Narbuto pasakojime Ksaveras Bogušas Etiko „Kosmografija“ grindė išsamius įrodymus apie estus."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Estai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ksaveras Bogušas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Estai: mention_match, group, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ksaveras Bogušas\" parinktas kaip owner_note_path. Targetas \"Estai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-173799
+    - c-173796
 
 <a id="claim-t-190915"></a>
 - t-004
@@ -209,7 +223,8 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-172884
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 449."
   citata_originali: |
     Bandymas kurti gryna lietuvių kalba:
     Ovidijaus „Metamorfozių“ fragmentas (II knygos 1-30 ei­
@@ -230,7 +245,8 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-172885
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 449."
   citata_originali: |
     Čia ir skambumas, ilgumas, ir tas kerintis
     kalbos grožis, kurio nesugebėtų pamėgdžioti jokia iš dabar gy­
@@ -250,7 +266,8 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-173796
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
   citata_originali: |
     Daug kartų autoriai, kurie ra­
     šė apie šias šalis ir tautas, nesigilindami į konkrečius pa­
@@ -267,14 +284,17 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   citata_rodoma: "Daug kartų autoriai, kurie ra­\nšė apie šias šalis ir tautas, nesigilindami į konkrečius pa­\nvadinimus arba nemokėdami jų išreikšti, vienu „estų“ ir\n„Estijos“ terminu vadindavo visiškai skirtingas gentis\n91\n\n## Puslapis 89\n\nir kraštus. Taigi ir lietuvių gentys, gyvenusios šiose že­\nmėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-\nšas pateikė išsamių įrodymų, paremtų Etiko „Kosmogra­\nfija“1, tačiau privalome plačiau aprašyti estus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-173797
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
   citata_originali: |
     95
     Pastabos. Mūsų mokslininkas, lietuvių istorijos tyri­
@@ -295,7 +315,8 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-173798
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 109."
   citata_originali: |
     Tai geriausiai ir paaiškina, ir įtikina, jog tie
     Belgorodo totoriai buvo mūsų neseniai aprašytų polovie-
@@ -316,7 +337,8 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
 - id: c-173799
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 194."
   citata_originali: |
     Smalsus tyrinėtojas ras tam dar išsamiau iš­
     nagrinėtų įrodymų ir pavyzdžių Hartknocho darbuose3.
@@ -334,13 +356,13 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-006
 
 - id: c-173800
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 198."
   citata_originali: |
     Tuo­
     met šis mokytas vyras gal būtų apsiribojęs savo pirmu

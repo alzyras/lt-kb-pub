@@ -177,7 +177,8 @@ Nenurodyta
 - id: c-174934
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Šių dalinių kovinė vertė buvo
     menkesnė, bet ir jie sugebėdavo pasireikšti
@@ -199,7 +200,8 @@ Nenurodyta
 - id: c-174935
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Pagrindiniai tokios kariuome-
     nės ginklai buvo ietys ir kalavijai. Artilerija
@@ -223,7 +225,8 @@ Nenurodyta
 - id: c-174936
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Jis pasileido zovada tarp priešo gretų, paleido iš rankų ietį ir vos nebuvo nukautas.
   citata_rodoma: "Jis pasileido zovada tarp priešo gretų, paleido iš rankų ietį ir vos nebuvo nukautas."
@@ -238,7 +241,8 @@ Nenurodyta
 - id: c-174937
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui.
   citata_rodoma: "Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui."
@@ -253,7 +257,8 @@ Nenurodyta
 - id: c-175289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Kitą dieną priešams buvo atsiųsta pagalba —
     prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš

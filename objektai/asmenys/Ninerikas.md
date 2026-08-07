@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-13437b11bc91c5e7a9796790"
+canonical_name: "Ninerikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ninerikas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui. Dusburgietis teigia, kad ninerikas tikrai norėjęs juos išduoti, pakorė ties miesto vartais jį patį, jo sūnų ir vieną jo tarną."
 ---
 # Ninerikas
 
@@ -60,7 +67,8 @@ Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš 
 - id: c-167501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
   citata_originali: |
     Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
                                 būtent: Eimsutis ir dar viena

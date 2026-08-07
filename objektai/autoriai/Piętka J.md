@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5f203e7ffdd95b20228f8288"
+canonical_name: "Piętka J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Piętka J"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad dobra ostrowickogolubskie..., p. 39; Piętka J."
 ---
 # Piętka J
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad dobra ostrowickogolubskie..., p. 39; Piętka J.
 - id: c-61401
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
   citata_originali: |
     178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
     a. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir

@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-54fdb40cd0e248fe5f6f82b2"
+canonical_name: "Kaunakiemis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kaunakiemis","Kaunakiemis (vieta)"]
+sameAs: []
+canonical_biography: "Kryžiaus bažnyčią telkėsi nedidelė gyvenvietė tarsi Kauno priemiesčio užuomazga, taip pat kažkur netoli buvo Kaunakiemio kaimas."
+place_authority: true
+historical_names: []
 ---
 # Kaunakiemis (vieta)
 
@@ -46,9 +55,9 @@ Kryžiaus bažnyčią telkėsi nedidelė gyvenvietė tarsi Kauno priemiesčio u�
 ## Citatos
 
 - id: c-185059
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 380"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 380."
   citata_originali: |
     Rytinėje Skavų
     dalyje tebeplytėjo miesto pievos ir ganyklos, namų čia gal net nebuvo. Tik aplink

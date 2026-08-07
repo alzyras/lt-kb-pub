@@ -32,7 +32,7 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 <a id="claim-t-22258"></a>
 - t-001
   teiginys: "Į proletarinį internacionalizmą orientuotos radikalių kairiųjų organizacijos Lietuvoje veikė nelegaliai ir krašte buvo neįtakingos."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -56,7 +56,8 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 - id: c-24947
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 124."
   citata_originali: |
     Tikėtasi, kad anksčiau ar vėliau gali
     susidaryti sąlygos konkrečiai politinei kovai dėl tos vizijos realizavimo, o
@@ -81,7 +82,8 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 - id: c-176285
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 124."
   citata_originali: |
     Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
     loginės pakraipos politinių grupuočių (neretai pasivadinusių partijomis),

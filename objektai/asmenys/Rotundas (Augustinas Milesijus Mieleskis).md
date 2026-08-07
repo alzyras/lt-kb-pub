@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-78ad803347edf502fe3ca061"
+canonical_name: "Rotundas (Augustinas Milesijus Mieleskis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rotundas (Augustinas Milesijus Mieleskis)"]
+sameAs: []
+canonical_biography: "Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augustinas Milesijus (Mieleskis), Vil­ niaus vaitas. Augustas Rotundas Milesijus arba Mielickis, kaip jį vadina Igna­ cas Potockis, buvo kilęs iš bajorų, nes kur tik miesto aktuose sutikau jo pa­ vardę, visur buvo pridėta Nobilis [bajoras]. Iš liudininkų paminė­ ti: Petrus Skarga Condonator, Augus­ tinus Rotundus Mieleski, juris Utriusque Doctor, Secretarius Regius, Capitaneus in Stokliszki, Civitatis Re­ giae Vilnensis Advocatus [Petras Skar­ ga, pamokslininkas, Augustinas Ro­ tundas Mieleskis."
 ---
 # Rotundas (Augustinas Milesijus Mieleskis)
 
@@ -99,7 +106,8 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
 - id: c-83434
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 307."
   citata_originali: |
     Christi
     1579 [Vilniuje, mūsų vyskupo dva­
@@ -132,7 +140,8 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
 - id: c-83435
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 297."
   citata_originali: |
     Anuo metu Vilnius galėjo drąsiai ir sumaniai atremti mies­
     to teisių priešininkus, nes buvo globojamas išsilavinusio ka­
@@ -156,7 +165,8 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
 - id: c-83436
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 298."
   citata_originali: |
     T. III,
     1.196. Augustas Rotundas Milesijus

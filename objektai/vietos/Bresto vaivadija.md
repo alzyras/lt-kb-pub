@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-641e34f50f6496417e7c4a5a"
+canonical_name: "Bresto vaivadija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bresto vaivadija"]
+sameAs: []
+canonical_biography: "Oginskis telkė respublikonų pajėgas Žemaitijoje, Višnioveckiai organizavo bajoriją LDK pietuose - Bresto vaivadijoje, pasitelkę ir savo šalininkus, tarnus bei rekrūtus iš savo dvarų Lenkijoje - Voluinėje."
+place_authority: true
+historical_names: []
 ---
 # Bresto vaivadija
 
@@ -60,7 +69,8 @@ Oginskis telkė respublikonų pajėgas Žemaitijoje, Višnioveckiai organizavo b
 - id: c-45045
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 139."
   citata_originali: |
     1700 m. į respublikonų judėjimą
     aktyviai įsijungė broliai Jonušas ir Myko-

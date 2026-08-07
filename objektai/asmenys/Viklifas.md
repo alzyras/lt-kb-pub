@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-208157a2f58f045b56fe6c57"
+canonical_name: "Viklifas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Viklifas"]
+sameAs: []
+canonical_biography: "Narbutas Viklifo raštus sieja su Jeronimu, kuris apie 1405 m. grįždamas į tėvynę juos parsinešė."
 ---
 # Viklifas
 
@@ -65,7 +72,8 @@ Narbutas Viklifo raštus sieja su Jeronimu, kuris apie 1405 m. grįždamas į t�
 - id: c-173102
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 399."
   citata_originali: |
     Tie­
     sa, aukštasis dvasininkas gėdingai nužudė lordą, bet įpūtė po

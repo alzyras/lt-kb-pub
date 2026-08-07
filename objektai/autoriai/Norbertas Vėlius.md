@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3309f4043957820eeac8539d"
+canonical_name: "Norbertas Vėlius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["N. Vėlius","Norbertas Vėlius","objektai/autoriai/Vėlius N","Vėlius N."]
+sameAs: []
+canonical_biography: "Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straipsnio autorius šiame „Lietuvių tautos istorijos“ leidime. Sutrumpinta forma „Vėlius N.“ kituose šaltiniuose vartojama bibliografinėse nuorodose į jo darbus apie baltų mitologiją."
 ---
 # Norbertas Vėlius
 
@@ -118,7 +125,8 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - id: c-170750
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 4."
   citata_originali: |
     Wilno, naktadem i drukiem
     A. Marcinowskicgo, 1835.
@@ -150,7 +158,8 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - id: c-171065
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     202 D. prophetissa — tai burtininkė, žynė, padedanti žmonėms; gydanti žmones
     ar galvijus, spėjanti ateitį ir pan. J. Bretkūno ir M. Daukšos postilėse (1591 ir 1599)
@@ -169,7 +178,8 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - id: c-176939
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
   citata_originali: |
     Legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų
     gimine (Vėlius N., Senovės baltų..., p. 226—229), ši tradicija, atrodo, išliko ir vėliau,

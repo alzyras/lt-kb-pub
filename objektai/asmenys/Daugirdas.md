@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43fd65ad5655b7d32190df10"
+canonical_name: "Daugirdas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Daugirdas"]
+sameAs: []
+canonical_biography: "Mirus Vilniaus vaivadai Daugirdui, jo įpėdiniu buvo paskirtas Jonas Goštautas."
 ---
 # Daugirdas
 
@@ -53,7 +60,8 @@ Mirus Vilniaus vaivadai Daugirdui, jo įpėdiniu buvo paskirtas Jonas Goštautas
 - id: c-169464
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 479"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 479."
   citata_originali: |
     Tiems, kurių ištikimybę bei narsumą patyrė per
     ankstesnius karus, suteikė visokiausių pareigybių, no­

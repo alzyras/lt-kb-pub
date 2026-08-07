@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ca3dc94ff8f91b4271b21fda"
+canonical_name: "Žygimantas Kaributaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Žygimantas Kaributaitis"]
+sameAs: []
+canonical_biography: "Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis."
 ---
 # Žygimantas Kaributaitis
 
@@ -102,7 +109,8 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 - id: c-105255
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 167."
   citata_originali: |
     Vytauto
     didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios
@@ -127,7 +135,8 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 - id: c-105256
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 58."
   citata_originali: |
     Vytauto pavaduotojais Lietuvos ka-
     riuomenėje buvo Vilniaus seniūnas
@@ -152,7 +161,8 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 - id: c-167160
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 58."
   citata_originali: |
     Anot metraštininko, ji buvo drausminga ir
     gerai ginkluota.
@@ -178,7 +188,8 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 - id: c-168275
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 373."
   citata_originali: |
     Kadangi karalius
     labiau troško taikos nei karo, kryžiuočiai, pasirodžius

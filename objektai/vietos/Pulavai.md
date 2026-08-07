@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-73180e27811ec39e30455fd5"
+canonical_name: "Pulavai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pulavai"]
+sameAs: []
+canonical_biography: "Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine, Branickis Balstogėje."
+place_authority: true
+historical_names: []
 ---
 # Pulavai
 
@@ -71,7 +80,8 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 - id: c-02950
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 408"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 408."
   citata_originali: |
     Čia buvo kuriami visi poli-
     tiniai planai, iš čia ėjo derybos su užsieniu, čia lankydavosi arba
@@ -91,7 +101,8 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 - id: c-171706
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 409"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 409."
   citata_originali: |
     MITOLOGIJOS PABAIGA. 13
     13

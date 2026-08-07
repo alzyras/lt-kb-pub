@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6505b2c4b07eff746932ad4e"
+canonical_name: "Karolis Moravskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis Moravskis"]
+sameAs: []
+canonical_biography: "Prieš priemiesčius stovėjo 2-asis regimentas, vadovaujamas Karolio Moravskio ir 8-asis, vadovaujamas šefo Severino Ževuckio bei Juozapo Bielako priešakinės sargybos pulkas su 1-osios tautinės kavalerijos brigada, vadovaujama Mykolo Sulistrovskio."
 ---
 # Karolis Moravskis
 
@@ -50,7 +57,8 @@ Prieš priemiesčius stovėjo 2-asis regimentas, vadovaujamas Karolio Moravskio 
 - id: c-44416
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 148."
   citata_originali: |
     Prieš priemiesčius stovėjo 2-asis regi-
     mentas, vadovaujamas Karolio Moravskio

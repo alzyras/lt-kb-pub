@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2f2df83fbe472f7edd4cd0d9"
+canonical_name: "Barbora Juškienė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Barbora Juškienė"]
+sameAs: []
+canonical_biography: "1525 m. Kauno miestietė Barbora Juškienė, burmistro Jurgio Juškaus Smietankos našlė, testamentu užrašė Kauno parapinės bažnyčios Švč."
 ---
 # Barbora Juškienė
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185427
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 117"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 117."
   citata_originali: |
     1525 m. Kauno miestietė Barbora Juškienė, burmistro Jurgio Juškaus Smietankos
     našlė, testamentu užrašė Kauno parapinės bažnyčios Švč. Trejybės altoriui Šatijų pa-

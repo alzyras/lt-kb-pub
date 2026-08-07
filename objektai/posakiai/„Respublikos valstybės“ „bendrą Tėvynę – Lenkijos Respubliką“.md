@@ -116,7 +116,8 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
 - id: c-166897
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 91."
   citata_originali: |
     Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstaty-
     mas. Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Konstitucijoje
@@ -137,7 +138,8 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
 - id: c-166898
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 92."
   citata_originali: |
     1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
     kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio

@@ -51,7 +51,8 @@ Z korespondencji Joachima Lelewela z Michałem Ba­ lińskim. Wilno, 1939 (odbit
 - id: c-176915
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 16."
   citata_originali: |
     4 Jasiulianiec K. Z korespondencji Joachima Lelewela z Michałem Ba­
     lińskim. Wilno, 1939 (odbitka), s. 245.

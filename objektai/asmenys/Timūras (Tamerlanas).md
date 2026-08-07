@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-07276a98f9f2ed1987ce9488"
+canonical_name: "Timūras (Tamerlanas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Timūras (Tamerlanas)"]
+sameAs: []
+canonical_biography: "pradžioje pralaimėjimai įsiveržusio Timūro (Tamerlano) mongolų kariuomenei S | (su kuria teko susidurti ir Vytauto kariuomenei prie “| Vorsklos)."
 ---
 # Timūras (Tamerlanas)
 
@@ -62,7 +69,8 @@ pradžioje pralaimėjimai įsiveržusio Timūro (Tamerlano) mongolų kariuomenei
 - id: c-44538
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 56."
   citata_originali: |
     1371 m. turkai įsiveržė į
     Makedoniją, 1389 m. nugalėjo serbus ir bosnius Kosovo

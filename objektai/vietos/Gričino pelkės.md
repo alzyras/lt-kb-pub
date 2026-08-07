@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-959fa8115f0b258a03dbee86"
+canonical_name: "Gričino pelkės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gričino pelkės"]
+sameAs: []
+canonical_biography: "Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko."
+place_authority: true
+historical_names: []
 ---
 # Gričino pelkės
 

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-52c07cd6e682c46b7d72161c"
+canonical_name: "Krasnyj Gorod"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krasnyj Gorod"]
+sameAs: []
+canonical_biography: "Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinamas su Krasnogorodskoje."
+place_authority: true
+historical_names: []
 ---
 # Krasnyj Gorod
 
@@ -67,22 +76,30 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
 <a id="claim-t-187587"></a>
 - t-003
   teiginys: "Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Krasnyj Gorod: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krasnyj Gorod: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas paėmė Krasnyj Gorod."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
-    - c-170304
+    - c-170534
 
 ## Citatos
 
 - id: c-170304
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 254."
   citata_originali: |
     7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
     karus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­
@@ -96,12 +113,12 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   pagrindzia:
     - t-001
     - t-002
-    - t-003
 
 - id: c-170534
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 104-105"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 104-105."
   citata_originali: |
     Didysis kunigaikštis Vytautas, sutelkęs visas savo
     pajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis
@@ -125,7 +142,8 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   citata_rodoma: "Didysis kunigaikštis Vytautas, sutelkęs visas savo \npajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis \nmėnesius prie Porchovo miesto3  ir, nepaėmęs miesto, \nnuėjo per Naugardo ir Pskovo žemę niokodamas, de­\ngindamas ir imdamas nelaisvėn * .\nSekančiais metais didysis kunigaikštis Vytautas išsi­\nrengė prieš Pskovo miestą5  ir paėmė Pskovo miestus \nVeližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami, \nkad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­\nnius pas didįjį kunigaikštį Vytautą, kad jis būtų jų \nvaldovu, žadėjo jo klausyti ir kasmet mokėti jam duok­\nlę bei įsileisti jo vietininką, ir didysis kunigaikštis\n(07\n\n## Puslapis 103\n\npasodino pas juos vietininku Pinsko kunigaikštį Juri­\njų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­\nžygiavo prieš Naugardą."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

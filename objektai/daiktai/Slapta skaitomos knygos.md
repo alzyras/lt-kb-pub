@@ -30,7 +30,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1754 m. Jonas Dominykas Lopacinskis su humoru rašė, kad Antanas Mykolas Pacas knygas skaitė pasislėpęs tamsiuose požemiuose. 1754 m. Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų.
+1754 m. Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų ir skaitė jas pasislėpęs tamsiuose požemiuose.
 
 ## Pavadinimai šaltiniuose
 
@@ -56,8 +56,8 @@ Nenurodyta
 
 <a id="claim-t-200671"></a>
 - t-001
-  teiginys: "1754 m. Jonas Dominykas Lopacinskis su humoru rašė, kad Antanas Mykolas Pacas knygas skaitė pasislėpęs tamsiuose požemiuose."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "1754 m. Jonas Dominykas Lopacinskis humoristiškai rašė, kad LDK raštininkas Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gautas įvairias knygas slapta skaitė tamsiuose požemiuose."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Jonas Dominykas Lopacinskis: 0.83"
@@ -65,20 +65,20 @@ Nenurodyta
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Slapta skaitomos knygos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jonas Dominykas Lopacinskis: mention_match, author, gap=70"
+  ryšio_targeto_parinkimas: "Jonas Dominykas Lopacinskis: mention_match, author, gap=133"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slapta skaitomos knygos\" parinktas kaip owner_note_path. Targetas \"Jonas Dominykas Lopacinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1754 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Humoristinė hiperbolė palikta su Lopacinskio atribucija. Nepridėta, kad tai buvo pažodžiui įvykęs faktas."
-  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
+  temporalinis_llm_pakomentavimas: "Patikslinti asmuo, laikas, knygų gavimo aplinkybės ir slapto skaitymo veiksmas. Humoristinė požemių scena palikta su aiškia autoriaus atribucija."
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
   pagrindžia:
     - c-184004
 
 <a id="claim-t-200672"></a>
 - t-002
-  teiginys: "1754 m. Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "1754 m. Tribunolo metu LDK raštininkas Antanas Mykolas Pacas iš Varšuvos gavo daug įvairių knygų, kurias, kaip humoristiškai rašė Jonas Dominykas Lopacinskis, skaitė slapta."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Mykolas Pacas: 0.83"
@@ -86,12 +86,13 @@ Nenurodyta
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Slapta skaitomos knygos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Mykolas Pacas: mention_match, person, gap=59"
+  ryšio_targeto_parinkimas: "Mykolas Pacas: mention_match, person, gap=44"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slapta skaitomos knygos\" parinktas kaip owner_note_path. Targetas \"Mykolas Pacas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1754 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Antano Mykolo Paco gautas knygas. Citata tiesiogiai nurodo metus, asmenį ir aplinkybes."
+  temporalinis_llm_pakomentavimas: "Sujungtas knygų gavimo ir slapto skaitymo faktas, aiškiai įvardijant subjektą. Humoristinis vertinimas paliktas su šaltinio autoriaus atribucija."
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
   pagrindžia:
     - c-184004
 
@@ -104,7 +105,7 @@ Nenurodyta
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 12."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 10:29"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
     - t-002

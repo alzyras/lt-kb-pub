@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b18f726b3413a3dcf357b68e"
+canonical_name: "Tadas Volianskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tadas Volianskis"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siejo jį su Jupiterio-Graustinio ypatybe. Narbutas mini, kad Tadas Volianskis priekaištavo dėl Prilvico statulėlės su užrašu „Szwaixtix“ tapatinimo su Lietuvos Apolonu. Narbutas rašo, kad Tadas Volianskis Santvaro atvaizde matė galvą su ragais, iš užpakalio panašiais į erelį su nagais."
 ---
 # Tadas Volianskis
 
@@ -91,15 +98,22 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 <a id="claim-t-189988"></a>
 - t-004
   teiginys: "Tadas Volianskis atsiuntė Narbutui Lietuvoje rastos monetos piešinį ir manė ją priklausant lietuviškiems paminklams."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tadas Volianskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Volianskis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172869
+    - c-172871
 
 <a id="claim-t-189990"></a>
 - t-005
@@ -190,7 +204,7 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 <a id="claim-t-190981"></a>
 - t-009
   teiginys: "Tadas Volianskis figūroje įžvelgė galvą su ragais, kurie iš užpakalio jam buvo panašūs į erelį su nagais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -389,7 +403,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 - id: c-172868
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 246."
   citata_originali: |
     Žaibo strėlė spindi kartu su keletu kitų
     griaustinio akmenų. Ten esantį užrašą ponas Volianskis skaito Icaip
@@ -409,7 +424,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 - id: c-172869
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
   citata_originali: |
     29 Prilvico statulėlių rinkinyje, remiantis Maso (Masch) ir Vogeno
     (Wogen) informacija, dievukas, turintis užrašą „Szwaixtix“, neatitinka
@@ -424,12 +440,12 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
 
 - id: c-172870
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 251."
   citata_originali: |
     Kiti skaitė
     „ Sotwar“, rusiškai „ Sotworytel“, ir net nemanė jį esant pagonišką simbo­
@@ -448,7 +464,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 - id: c-172871
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 254."
   citata_originali: |
     Panašios monetos piešinį man atsiuntė ponas Tadas Volianskis.
     Ji buvo rasta Lietuvoje ir, jo nuomone, priklauso lietuviškiems
@@ -456,14 +473,17 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
   citata_rodoma: "Panašios monetos piešinį man atsiuntė ponas Tadas Volianskis.\nJi buvo rasta Lietuvoje ir, jo nuomone, priklauso lietuviškiems\npaminklams. Si moneta yra senesnė už mūsų turimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-172873
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Tačiau nežinome, iš kokio šaltinio yra
     tas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio
@@ -483,7 +503,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 - id: c-172874
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 406"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 406."
   citata_originali: |
     IV lentelė, 32-asis piešinys. Lygiakraščiame šešiakampyje
     apskritimas, kuriame pavaizduotas kažkoks trišakis augalas;
@@ -506,7 +527,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 - id: c-173861
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 470"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 470."
   citata_originali: |
     Tekstas, kuriuo T. Narbutas papildė paragrafą, rengdamas
     antrąjį LTI leidimą (PEĮ. — L. 55). Šios dainos vertimą į lenkų
@@ -526,7 +548,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 - id: c-173862
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 487"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 487."
   citata_originali: |
     92
     92 /Ten pat/
@@ -555,7 +578,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 - id: c-173863
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 488"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
   citata_originali: |
     O tai yra toks pat užrašas kaip
     ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO
@@ -574,7 +598,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 - id: c-173864
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 488"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
   citata_originali: |
     Moneta labai plona, labai apgadinta ir išliko
     lik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių (perpiešti
@@ -594,7 +619,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 - id: c-173865
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 508"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 508."
   citata_originali: |
     Ten kitaip pa­
     vaizduotos figūros, ypač rankų pozicijos. Be to, pas Henenbergerj
@@ -615,7 +641,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 - id: c-173866
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 508"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 508."
   citata_originali: |
     Tačiau nežinome, iš kokio šaltinio yra tas piešinys. Mūsų
     piešinio užrašas runomis reiškia Vaidevučio vardą (pono Volian­
@@ -634,7 +661,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 - id: c-179191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 407"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
   citata_originali: |
     Antrame
     skyde - bėgantis lokys, nugręžtas į dešiniąją skydo pusę; tai
@@ -656,7 +684,8 @@ Narbutas nurodo, kad Tadas Volianskis užrašą skaitė kaip „Jessa“ ir siej
 - id: c-179354
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 470"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 470."
   citata_originali: |
     Šios dainos vertimą į lenkų
     kalbą istorikas gavo iš savo korespondento archeologo, kolekcio­

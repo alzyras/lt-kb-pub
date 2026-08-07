@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3abfc56bde73556d18ef8f3d"
+canonical_name: "Smotryč"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Smotryč"]
+sameAs: []
+canonical_biography: "Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smotryčą, Bakotą ir kt.), užvesti ūkinį gyvenimą."
+place_authority: true
+historical_names: []
 ---
 # Smotryč
 
@@ -52,7 +61,8 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
 - id: c-34040
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 269."
   citata_originali: |
     Šalia kitų,
     kurių vardai apytikriai tenustatomi, rodos, Karijoto sūnus buvo ir

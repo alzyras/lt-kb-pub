@@ -50,7 +50,8 @@ Net pirkliai negalėjo jaustis saugūs dėl jo nežaboto gobšumo, ir Vilnius ė
 - id: c-82813
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 237."
   citata_originali: |
     Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypa­
     tingu jo neapykantos taikiniu, išžudyti juos visus aliai vie­

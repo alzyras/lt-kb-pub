@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9129c70462fff1cea80b5fb1"
+canonical_name: "Balnininkai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Balnininkai"]
+sameAs: []
+canonical_biography: "Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų link."
+place_authority: true
+historical_names: []
 ---
 # Balnininkai
 
@@ -51,7 +60,8 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 - id: c-40148
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 210."
   citata_originali: |
     Puolimas buvo staigus ir stiprus. Lenkų
     pajėgos priartėjo prie Videniškio,

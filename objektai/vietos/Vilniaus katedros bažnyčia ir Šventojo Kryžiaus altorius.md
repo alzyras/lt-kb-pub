@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-acb078f99d3b8b932d046c7c"
+canonical_name: "Vilniaus katedros bažnyčia ir Šventojo Kryžiaus altorius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus katedros bažnyčia ir Šventojo Kryžiaus altorius"]
+sameAs: []
+canonical_biography: "-- • 418 ## Puslapis 435 IV KNYGA norime, kad po mūsų mirties keturis kartus per metus į mū­ sų katedros bažnyčią prie šventojo Kryžiaus altoriaus, esan­ čio ties šventovės viduriu, kur ir bus mūsų kūnas palaido­ tas, vieną tik to metų ketvirčio dieną."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus katedros bažnyčia ir Šventojo Kryžiaus altorius
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-82292
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 434-435"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 434-435."
   citata_originali: |
     Val erianus Episcopus Vilnen. manu propria.
     -- •

@@ -74,7 +74,8 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 - id: c-84310
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     Neturėdamas pakankamai pragy­
     venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą. Šie vie­
@@ -96,7 +97,8 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 - id: c-84311
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     M. Balinskis pa­
     liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­

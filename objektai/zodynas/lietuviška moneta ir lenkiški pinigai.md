@@ -95,7 +95,8 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 - id: c-82455
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 461"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 461."
   citata_originali: |
     Fol. —  369-
     (Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)
@@ -132,7 +133,8 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 - id: c-82456
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 455-456"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 455-456."
   citata_originali: |
     Duota Gardine
     artimiausią penktadienį prieš Sekmines, tūkstantis penki
@@ -163,7 +165,8 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 - id: c-82457
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 459"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 459."
   citata_originali: |
     In Anno 1572 ad Diem 17 Aprilis
     [1572 metais iki balandžio 17 dienos]

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-37cc42c3d8a6ffa43ce36cb6"
+canonical_name: "Chšonstovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Chšonstovskis"]
+sameAs: []
+canonical_biography: "Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veikalas)."
 ---
 # Chšonstovskis
 
@@ -57,7 +64,8 @@ Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veik
 - id: c-84068
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 312-313"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 312-313."
   citata_originali: |
     69
     Perlas paimtas iš pranašo Habukuko ir

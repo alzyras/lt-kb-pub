@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a975712fe68f217f2b1e1526"
+canonical_name: "Albrechtas (Prūsijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albrechtas (Prūsijos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfiurstui, Albrechtui, Prūsijos ku­ nigaikščiui, visiems trims, norime, kad būtų duota po du gerus žirgus, prašydamas jų didenybių kaip savo giminai­ čių, kad giminiškos meilės ženklan."
 ---
 # Albrechtas (Prūsijos kunigaikštis)
 
@@ -50,7 +57,8 @@ Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfi
 - id: c-83591
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 363."
   citata_originali: |
     Taipgi norime, kad jos didenybei karalai­
     tei Onai būtų leista paimti prieš žirgų padalijimą du eidi­

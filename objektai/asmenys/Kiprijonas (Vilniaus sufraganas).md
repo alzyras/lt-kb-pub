@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7766d99baf307510a14090c1"
+canonical_name: "Kiprijonas (Vilniaus sufraganas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kiprijonas (Vilniaus sufraganas)"]
+sameAs: []
+canonical_biography: "Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­ tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­ lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių, tarė: „Tai ne tas kelias, Maloningasis."
 ---
 # Kiprijonas (Vilniaus sufraganas)
 
@@ -51,7 +58,8 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 - id: c-83733
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 300."
   citata_originali: |
     Vilniuje tarpusavio atšiaurumas netgi
     viešai pasireiškė dėl tokios priežasties: kartą karalius su ne­

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-feb640d5bb49ff87c060d85e"
+canonical_name: "Kajetana Niezabitowskiego"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kajetana Niezabitowskiego"]
+sameAs: []
+canonical_biography: "Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Niezabitowskio straipsnį apie Dionizo Poškos rinkinį."
 ---
 # Kajetana Niezabitowskiego
 
@@ -57,7 +64,8 @@ Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Ni
 - id: c-173316
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 506"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 506."
   citata_originali: |
     T. Nar­
     butas turėjo omenyje straipsnį: Krotki spis

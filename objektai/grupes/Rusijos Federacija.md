@@ -111,7 +111,8 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
 - id: c-100535
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 257."
   citata_originali: |
     1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės
     sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-
@@ -132,7 +133,8 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
 - id: c-100537
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 257."
   citata_originali: |
     Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa,
     nors yra pasmerkusi Sovietų Sąjungos įvykdytą agresiją prieš tris Baltijos
@@ -150,7 +152,8 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
 - id: c-166565
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 256."
   citata_originali: |
     Draugiški valstybių vadovų santykiai leido
     parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.

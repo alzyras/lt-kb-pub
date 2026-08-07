@@ -37,6 +37,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c1562764430ae0e01e9bb29"
+canonical_name: "Europa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Europa"]
+sameAs: []
+canonical_biography: "Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Iš Prancūzijos ta pati srovė paplito po visą Europą."
+place_authority: true
+historical_names: []
 ---
 # Europa
 
@@ -258,7 +267,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-24120
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 412."
   citata_originali: |
     Iš Prancūzijos ta pati srovė paplito po visą Europą. Ja užsi-
     krėtė Europos valdovai. Jie palaikė ryšius su išgarsėjusiais litera-
@@ -277,7 +287,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 226."
   citata_originali: |
     Vytautui tada daug
     labiau nekaip karūna rūpėjo pabaigt mūšio lauke nuolatinius
@@ -298,7 +309,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-101244
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 495-496"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 495-496."
   citata_originali: |
     Antologija. I knyga
     Teodoras Narbutas
@@ -349,7 +361,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-101247
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 411"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 411."
   citata_originali: |
     Energingasis Petras I Didysis
     (1682—1725 m.) griežtomis priemonėmis pakirto jos rytietiškos san-
@@ -370,7 +383,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-101248
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 254."
   citata_originali: |
     Valstybė aukštosioms mokykloms užtikrino autonomi-
     ją, apimančią akademinę, administracinę, ūkio ir finansinę veiklą, grin-
@@ -390,7 +404,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-171577
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
   citata_originali: |
     Visa tai,
     sulydyta su įgimtais europiečių privalumais, sukūrė tautą, ver­
@@ -416,7 +431,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-175429
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 35."
   citata_originali: |
     Mums žinomos nuomonės tų senovės ty­
     rinėtojų, kurie kildina dievų ir žmonių giminę iš Siaurės,
@@ -442,7 +458,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-176306
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 262."
   citata_originali: |
     Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietu-
     va akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtė-

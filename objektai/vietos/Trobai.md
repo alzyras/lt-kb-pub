@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2e41c63f99c19c015fe77153"
+canonical_name: "Trobai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trobai"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Trobai
 

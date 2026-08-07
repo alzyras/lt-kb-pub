@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1ba2ce5fcd762d5339c9ce15"
+canonical_name: "Depingas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Depingas"]
+sameAs: []
+canonical_biography: "Narbutas kritikuoja Depingą, kad šis be pagrįstų įrodymų Gotijai priskyrė ir Pavyslę."
 ---
 # Depingas
 
@@ -53,7 +60,8 @@ Narbutas kritikuoja Depingą, kad šis be pagrįstų įrodymų Gotijai priskyrė
 - id: c-174267
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 248."
   citata_originali: |
     Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios
     pakrantės ligi Dauguvos žemupio. Tokios nuomonės yra

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f32ee12f987cefa8d51bab62"
+canonical_name: "Simeonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Simeonas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog nedorėliai nepagarbiai elgiasi šventose vietose, jog godotinas vyras Simeonas, miesto patriarchas, kartu su savo valdiniais nelyginant niekingas vergas, puolęs į visišką neviltį, kenčia begalinę priespaudą."
 ---
 # Simeonas
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog n
 - id: c-61064
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Galop valdovas, ilgokai rūstinamas,
     pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš. Prancūzijos

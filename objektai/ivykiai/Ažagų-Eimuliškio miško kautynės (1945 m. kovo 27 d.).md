@@ -139,7 +139,7 @@ Nenurodyta
 <a id="claim-t-78612"></a>
 - t-006
   teiginys: "Ažagų-Eimuliškio miško kautynėse žuvo apie 76–80 partizanų."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -152,7 +152,8 @@ Nenurodyta
 - id: c-11833
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 224."
   citata_originali: |
     Pirmiausia buvo pulta viena vietinių vyrų,
     daugiausia iš Dragonių k. stovykla, o pasi-
@@ -175,7 +176,8 @@ Nenurodyta
 - id: c-75836
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 224."
   citata_originali: |
     Persekiojami
     partizanai pasitraukė į Ažagų-Eimuliškio
@@ -194,7 +196,8 @@ Nenurodyta
 - id: c-75837
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 224."
   citata_originali: |
     Tai vienoje, tai kitoje miško vietoje
     vyko atkaklios kautynės. Dienos pabaigoje,
@@ -216,7 +219,8 @@ Nenurodyta
 - id: c-75838
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 224."
   citata_originali: |
     Mūšis
     1945 m. kovo pradžioje NKVD divizija puolė
@@ -237,7 +241,8 @@ Nenurodyta
 - id: c-75839
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 224."
   citata_originali: |
     Mūsiškius paliko miške.“
 
@@ -260,7 +265,8 @@ Nenurodyta
 - id: c-75840
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 224."
   citata_originali: |
     Dienos pabaigoje,
     pasinaudoję tamsa dalis partizanų Jokubavo

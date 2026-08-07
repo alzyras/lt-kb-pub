@@ -57,7 +57,8 @@ Lowmiański, Uwagi o genezie państwa Litewskiego, Przegląd Historyczny, 1961, 
 - id: c-33570
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 161."
   citata_originali: |
     SSSR. Institut Istorii, Maskva 1959, 38-42. H. Lowmiański, Uwagi o genezie
     państwa Litewskiego, Przegląd Historyczny, 1961, 1 nr., 127-140.

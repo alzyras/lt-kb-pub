@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-616cbe90c2b80110abd74cdb"
+canonical_name: "J. Aukštuolaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Aukštuolaitis"]
+sameAs: []
+canonical_biography: "Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuomenė ir birželį baltgudžių pulkas buvo išformuotas); Tauragėje - besikuriantis Žemaičių batalionas, vadovaujamas avantiūristo J. Aukštuolaičio, kuris netrukus buvo išformuotas."
 ---
 # J. Aukštuolaitis
 
@@ -60,7 +67,8 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
 - id: c-44356
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 172."
   citata_originali: |
     Nesklandumai
     rijos baterija (100 savanorių, 2 patrankos), 1 proc. lietuvių), telkė rezervus, Pirmojo pavyzdžio Raudonosios armijos pajė-

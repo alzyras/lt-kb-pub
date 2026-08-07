@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-49a2b83ba4e80f4131f7727e"
+canonical_name: "A. Becenbergeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Becenbergeris","Bezzenberger A."]
+sameAs: []
+canonical_biography: "A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nagrinėjęs lietuvių ir prūsų kalbinę ribą. Išnašose jis tiesiogiai siejamas su darbais „Die littauisch-preussische Grenze...“ ir „Dber die Verbreitung...“."
 ---
 # A. Becenbergeris
 
@@ -72,7 +79,8 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
 - id: c-57434
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
   citata_originali: |
     Apskritai jotvingių kalba (ar
 
@@ -90,7 +98,8 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
 - id: c-57435
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     A. Becenbergeris nustatė, kad
     vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos

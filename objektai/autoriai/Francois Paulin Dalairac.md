@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-61c921d485ef810b3c16e2b7"
+canonical_name: "Francois Paulin Dalairac"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Francois Paulin Dalairac","objektai/asmenys/Francois Paulin Dalairac"]
+sameAs: []
+canonical_biography: "Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją sudaro du trečdaliai, tai yra 24 000 raitelių."
 ---
 # Francois Paulin Dalairac
 
@@ -54,7 +61,8 @@ Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją su
 - id: c-165071
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 124."
   citata_originali: |
     „Karūnos, kaip ir Lietuvos, kariuomenė yra padalyta į dvi dalis: vieną sudaro vien ka-
     valerija ir šalies vyrai, išskirstyti į laisvas ir ordonanso vėliavas, panašias į Prancūzijos

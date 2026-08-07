@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8bd39e8a79967649c380e618"
+canonical_name: "Venceslavas (Mazovijos ir Plocko kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Venceslavas (Mazovijos ir Plocko kunigaikštis)"]
+sameAs: []
+canonical_biography: "Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, Mazovijos kunigaikštis]0."
 ---
 # Venceslavas (Mazovijos ir Plocko kunigaikštis)
 
@@ -63,7 +70,8 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
 - id: c-83859
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 114."
   citata_originali: |
     Ne tik prieštaringi tokie jų santykiai, bet tas, kuris tuos laiš­
     kus rašė, klydo įsivaizduodamas Gedimino mąstyseną Ma­

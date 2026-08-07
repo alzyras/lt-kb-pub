@@ -44,7 +44,8 @@ sulatvinimas: ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sula
 - id: c-69380
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 682"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 682."
   citata_originali: |
     Tačiau darbą trukdo ne tik pašaliniai veiksniai, bet ir nesan-
     taika pačių lietuvių tarpe. Trūksta ir lietuviškų mokyklų; tad,

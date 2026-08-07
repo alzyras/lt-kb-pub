@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6f03a904231ebaa4e239dbc8"
+canonical_name: "Hanulas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hanulas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Hanulas
 

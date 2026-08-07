@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a88bb73bd70ee13e77749f7b"
+canonical_name: "Airiogala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Airiogala"]
+sameAs: []
+canonical_biography: "Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias parapijines bažnyčias: Viduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­ žiuose, Airiogaloje, Veliuonoje. Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras, atsiliepė Airiogaloje, Kra­ žiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas Žemaičių vietas. Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje."
+place_authority: true
+historical_names: []
 ---
 # Airiogala
 
@@ -92,7 +101,8 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 130."
   citata_originali: |
     Prie jų prisidėjo taip pat ir uolesni seno
     lietuvių tikėjimo garbintojai, kurie buvo priešingi įvedamam ka­
@@ -114,7 +124,8 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 140."
   citata_originali: |
     Trakuose,
     Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
@@ -140,7 +151,8 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 128."
   citata_originali: |
     Ordinu, jis pats darbavosi Žemaitijoje, stiprindamas ten
     katalikų tikėjimą. Kaip jau matėme, 1416 metais Vytautas

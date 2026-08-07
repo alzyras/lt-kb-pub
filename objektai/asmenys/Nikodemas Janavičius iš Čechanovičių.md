@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c88731ba8d64c0827c05ff9e"
+canonical_name: "Nikodemas Janavičius iš Čechanovičių"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nikodemas Janavičius iš Čechanovičių"]
+sameAs: []
+canonical_biography: "Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui ir stalininkui Nikodemui Janavičiui iš Čechanovičių, Lietu­ vos Didžiosios Kunigaikštystės arklidininkui Mikalojui Andriuševičiui ir."
 ---
 # Nikodemas Janavičius iš Čechanovičių
 
@@ -51,7 +58,8 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 - id: c-83785
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 267."
   citata_originali: |
     Jonui, Polocko............................Stanislovui Jonui Da Vai­
     nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui

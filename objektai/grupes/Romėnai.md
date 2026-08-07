@@ -155,15 +155,22 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 <a id="claim-t-188329"></a>
 - t-007
   teiginys: "Narbutas lietuvių antspaudų naudojimą vietoj parašų lygino su romėnų praktika."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Antspaudai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romėnai\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171218
+    - c-171222
 
 <a id="claim-t-192452"></a>
 - t-008
@@ -319,7 +326,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-46394
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 32."
   citata_originali: |
     Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus
     galo romėnų rašytojas Tacitas savo veikale „Germania".
@@ -339,7 +347,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-171217
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 200."
   citata_originali: |
     Apie fetišizmą
     Visos stabmeldžių tautos turėjo įvairiais vardais vadina­
@@ -362,7 +371,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-171218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -376,12 +386,12 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-007
 
 - id: c-171219
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 205."
   citata_originali: |
     Pasak Plutarcho, pas atėniečius prijaukinti žal­
     čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
@@ -401,7 +411,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-171220
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 216."
   citata_originali: |
     Senovės germanai nehervalai turėjo du dievaičius Alcius,
     amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
@@ -418,7 +429,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-171221
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
   citata_originali: |
     Palemonas (Palemon)
     Didvyris, vardas, Lietuvos pajūrio šalies valdovas, atkilęs
@@ -441,7 +453,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-171222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Užrašas virš akmenų galvų -  runomis'*.
     Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra
@@ -453,14 +466,17 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   citata_rodoma: "Užrašas virš akmenų galvų -  runomis'*.\nLietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra\nviduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­\nni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­\ntoj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­\n9\nNeseckis (Herbarz Polski."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-175246
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 172."
   citata_originali: |
     Kai kartaginietis
     pamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­
@@ -486,7 +502,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-177260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 147."
   citata_originali: |
     149
 
@@ -514,7 +531,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 - id: c-179226
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 163."
   citata_originali: |
     Būdavo aptinkamos didelių upių žiotys, būdavo
     keliaujama jomis aukštyn, bet visa tai nesuteikdavo pa­

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b66363997a43cace17cc4dd9"
+canonical_name: "Vakarų Prūsija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vakarų Prūsija"]
+sameAs: []
+canonical_biography: "Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną ## Puslapis 79 Nuo 1466 m. ry Vakarų Prūsija ir Varmė buvo prijungtos tiesiogiai prie Lenkijos."
+place_authority: true
+historical_names: []
 ---
 # Vakarų Prūsija
 
@@ -62,7 +71,8 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
 - id: c-45390
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78-79"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78-79."
   citata_originali: |
     mas Vilniaus gyventojų prašymą, 1503 m. Gardine išleista privilegija nurodė statyti
 

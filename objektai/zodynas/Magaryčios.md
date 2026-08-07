@@ -56,10 +56,11 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
 <a id="claim-t-195617"></a>
 - t-001
   teiginys: "Magaryčios šiame šaltinyje geriamos kaip atskiras gėrimo veiksmas."
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-178020
 

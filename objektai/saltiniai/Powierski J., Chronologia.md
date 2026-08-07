@@ -53,7 +53,8 @@ Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyt
 - id: c-61881
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
   citata_originali: |
     Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281
     m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.

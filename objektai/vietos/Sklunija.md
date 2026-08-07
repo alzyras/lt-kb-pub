@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f81662d1caaabfc20733bbe3"
+canonical_name: "Sklunija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sklunija"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami, jie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius, subėgusius į kaimą, kitados vadinamą Kalija, o dabar —."
+place_authority: true
+historical_names: []
 ---
 # Sklunija
 
@@ -60,7 +69,8 @@ Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas nar
 - id: c-59357
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118-119"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118-119."
   citata_originali: |
     Todėl maldininkai pasiruošė
     kovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami,

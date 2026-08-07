@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a1c9799a169fd3a13add0682"
+canonical_name: "Sožos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sožos upė"]
+sameAs: []
+canonical_biography: "S. Podobaila išsirinko vietą tarp Dniepro ir Sožos žiočių, apsuptą nepraeinamų pelkių, o tose vietose, kur buvo įmanoma pereiti, išrausė griovius ir supylė pylimus. Lojevo miestas, esantis kitoje (dešinėje) upės pusėje, buvo sudegintas, kad priešui nebūtų kur."
+place_authority: true
+historical_names: []
 ---
 # Sožos upė
 
@@ -51,7 +60,8 @@ S. Podobaila išsirinko vietą tarp Dniepro ir Sožos žiočių, apsuptą neprae
 - id: c-43878
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 123."
   citata_originali: |
     S. Podobaila išsirinko vietą tarp
     Dniepro ir Sožos žiočių, apsuptą nepra-

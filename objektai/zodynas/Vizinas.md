@@ -65,7 +65,8 @@ Vartojamas kaip vardo „Vizinas“ aiškinimas ir kaip liaudiškas, dialektinis
 - id: c-175062
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
   citata_originali: |
     Čia dera prisiminti ir įžymaus Siaurės kraštų kariūno,
     Olandijos karaliaus Jarmeriko žygius. Jis jau seniau, dar

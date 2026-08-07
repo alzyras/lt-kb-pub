@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d87df029b23f2e7867fb3973"
+canonical_name: "Bazilijonų vienuolyno vartai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bazilijonų vienuolyno vartai"]
+sameAs: []
+canonical_biography: "Mikalojus Vorobjovas Bazilijonų vienuolyno vartus vertino kaip vėlyvojo baroko aspiracijų kraštutinį pavidalą."
+place_authority: true
+historical_names: []
 ---
 # Bazilijonų vienuolyno vartai
 

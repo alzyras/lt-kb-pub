@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-62982
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     Apie Lunenburgo pilies ir dviejų miestų pastatymą
 

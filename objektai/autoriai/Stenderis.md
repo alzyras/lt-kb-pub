@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c52c301c9fa401f9d78dac08"
+canonical_name: "Stenderis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Stenderis"]
+sameAs: []
+canonical_biography: "Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės. Teodoras Narbutas, remdamasis Stenderio latvių gramatika, kėlė galimą vieno Odoakro vado vardo kildinimą iš latvių kalbos. Odoakras, tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo 1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti, kelti triukšmą (Stender."
 ---
 # Stenderis
 
@@ -110,7 +117,8 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 - id: c-173336
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 292"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 292."
   citata_originali: |
     Žyniai vilkėdavo įpras­
     tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
@@ -134,7 +142,8 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 - id: c-173674
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
   citata_originali: |
     Odoakras,
     tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo

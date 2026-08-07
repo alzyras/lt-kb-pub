@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d5d15aa8ed4f36f1d95d09ee"
+canonical_name: "Pilies kalnas Vilniuje (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pilies kalnas Vilniuje","Pilies kalnas Vilniuje (pilis)"]
+sameAs: []
+canonical_biography: "Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies kalne iš saulėtekio pusės."
+place_authority: true
+historical_names: []
 ---
 # Pilies kalnas Vilniuje (pilis)
 
@@ -54,7 +63,8 @@ Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies 
 - id: c-171933
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 379."
   citata_originali: |
     Pagaliau panašių atradimų retumas mūsų krašte verčia
     daryti išvadą, kad mirusiųjų kūnai būdavo deginami retai ar­

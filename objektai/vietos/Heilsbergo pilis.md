@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3195630f019bd7d3ea686e64"
+canonical_name: "Heilsbergo pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Heilsbergo pilis"]
+sameAs: []
+canonical_biography: "Paskui sukos kryžėjai su visa savo kariau na Heilsbergo pilėn, kurioje dar pagezonys didžiai kantriai turėjos, bet įsilaužę ir tenai įgulę jau iš kirto, jau apvergė ir taip visą Parusnį nudrevėjo."
+place_authority: true
+historical_names: []
 ---
 # Heilsbergo pilis
 
@@ -41,9 +50,9 @@ Paskui sukos kryžėjai su visa savo kariau na Heilsbergo pilėn, kurioje dar pa
 ## Citatos
 
 - id: c-184515
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 437"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 437."
   citata_originali: |
     Taip keliomis dienomis žydintį kraštą į tyrą
     pavertė. Paskui sukos kryžėjai su visa savo kariau­

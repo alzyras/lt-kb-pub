@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dc1fad4efd66f7695d98396f"
+canonical_name: "Mikalojus Dzerško"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Dzerško"]
+sameAs: []
+canonical_biography: "Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų menų magistras, buvo vyskupu nuo 1453 m. iki 1462 m. Ant­ spaude turėjo Stumbro ženklą."
 ---
 # Mikalojus Dzerško
 
@@ -62,7 +69,8 @@ Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų menų magistras, b
 - id: c-83763
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 207."
   citata_originali: |
     7. Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų
     menų magistras, buvo vyskupu nuo 1453 m. iki 1462 m. Ant­

@@ -36,6 +36,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6dc6d02b52714fdabfbbba0f"
+canonical_name: "Kernavė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kernavė"]
+sameAs: []
+canonical_biography: "kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę."
+place_authority: true
+historical_names: []
 ---
 # Kernavė
 
@@ -193,14 +202,21 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 <a id="claim-t-184982"></a>
 - t-010
   teiginys: "Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168345
+    - c-168343
 
 <a id="claim-t-184984"></a>
 - t-011
@@ -442,7 +458,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-32122
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 162."
   citata_originali: |
     Specialiai tuo klausimu užsiėmė atskiruose straipsniuose
     eilė istorijos tyrinėtojų ir jos mėgėjų^16. Yra paaiškėję, kad pradinė
@@ -462,7 +479,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-157744
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 134."
   citata_originali: |
     Tų karingų vienuolių viršininkas, greitas
     pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
@@ -490,7 +508,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-157747
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 251."
   citata_originali: |
     Gediminas stiprino Lietuvą, statydamas joje naujų pilių, tapu­
     sių administracijos centrais. XVI amž. plačioji Lietuvos metraščio
@@ -510,7 +529,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-157748
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 405"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 405."
   citata_originali: |
     O kad toks tilto muitas, mūsų aukščiau nu­
     statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms
@@ -550,7 +570,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-157750
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 13."
   citata_originali: |
     Tačiau lietuviškai kalbantys žmonės nebūtinai save vadino
     lietuviais, o savo žemę – Lietuva. Iki šiol labiausiai paplitusi versija buvo
@@ -570,7 +591,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 73."
   citata_originali: |
     O
     Vytautas, pasislėpęs miškuose, naikino atsiskyrusius Ordino
@@ -590,7 +612,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-157754
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 124."
   citata_originali: |
     Iš Žemutinės pilies vakarinių var­
     tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­
@@ -612,7 +635,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-157755
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 251."
   citata_originali: |
     (^244) II skyrius: valstybės iškilimas
     gaikštijos gyventojams, kai religinis priklausomumas politikoje
@@ -635,7 +659,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-168343
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 63."
   citata_originali: |
     Todėl, norėdamas su­
     rišti priešui rankas, įkūrė pirmą nausėdiją ant upės
@@ -656,14 +681,17 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   citata_rodoma: "Todėl, norėdamas su­\nrišti priešui rankas, įkūrė pirmą nausėdiją ant upės\nkranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos\n64\n\n## Puslapis 63\n\npadėtis, ir įgula: įkūrė Kernavę, kadainykštę Lietuvos\nsostinę. Ši vietovė po šiai dienai išsaugojo vardą, gau­\ndėj o dirbti pakrantėje laukus, rusai, su įtarimu žiūrėję\nį naujuosius kaimynus, ėmėsi smurto ir ginklo. Šie\nveiksmai priminė veikiau atkarų plėšikavimą nei gar­\nbingą karą: nuolatiniais antpuoliais buvo siaubiami\nnaujakuriai;\nKernius bei Gimbutas dėjosi nematą\nskriaudų, tačiau paslapčiomis ryžosi pulti Rusią."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 - id: c-168345
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 323."
   citata_originali: |
     Šios įgulos nepaprastai kenkė aplinkiniam
     kraštui: nesutikdamos pasipriešinimo, jos pridarydavo
@@ -687,13 +715,13 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
     - t-011
 
 - id: c-171609
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 150."
   citata_originali: |
     Te tavo Neris (a) apreiškia ir dievams,
     Kurių valdžioje jūrų gelmės,
@@ -721,7 +749,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-171610
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Nereikia tapatinti Medziojnos
     su Medžiojma, kurią laikėme medžiotojų deive, vadinama
@@ -748,7 +777,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-171611
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
   citata_originali: |
     To­
     kie yra praamžių padavimai. XIII amžiuje, vyriausiesiems žy­
@@ -768,7 +798,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-171612
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 269."
   citata_originali: |
     Taip pat ir žemesnės kate­
     gorijos žyniai įsirengdavo laikinus arba pastovius aukurus miš­
@@ -789,7 +820,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-178845
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 139."
   citata_originali: |
     Šitaip sutvarkęs vals­
     tybės reikalus ir perkėlęs kunigaikštystės sostinę iš
@@ -821,7 +853,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-178846
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202-203"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202-203."
   citata_originali: |
     Mat, kol
     G e d im in a s n u g a lė tų ­
@@ -859,9 +892,9 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     - t-017
 
 - id: c-184414
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 106"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 106."
   citata_originali: |
     Taip pat akmenys,
     ant kurių apieras javų ar žuvių dievams degino,
@@ -880,9 +913,9 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     - t-018
 
 - id: c-184415
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 578"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 578."
   citata_originali: |
     Bet Gediminas ne vien baisiomis karėmis nepriete­
     lius savo giminės draudė, nes ir pačia ūke rūpinos

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-468b3ea59ed1de5b3382a05c"
+canonical_name: "Germantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Germantas"]
+sameAs: []
+canonical_biography: "Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėjo pirmasis įkurdinti vaidilą. Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus. Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms."
 ---
 # Germantas
 
@@ -215,7 +222,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 - id: c-83404
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 66-67"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 66-67."
   citata_originali: |
     50
 
@@ -245,7 +253,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 - id: c-83405
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 34-35"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 34-35."
   citata_originali: |
     Franciszkanów Litew­
     skich. Wilno 1740 in 8vo, skyr. I. Esą
@@ -280,7 +289,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 - id: c-83406
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 66."
   citata_originali: |
     Netgi kai kuriuose Jogailos au­
     tentiškuose dokumentuose, rašytuose prieš jo krikštą ir iki
@@ -307,7 +317,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 - id: c-168064
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 126."
   citata_originali: |
     Kadangi buvo stengiamasi tramdyti
     savo norus ir nerodyti sumanymų, šitai įvyko veikiau
@@ -329,7 +340,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 - id: c-168065
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 127."
   citata_originali: |
     Vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo
     seneliui širdį, jog jis paprašė Germantą, jam mirus,
@@ -359,7 +371,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 - id: c-168066
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 128."
   citata_originali: |
     Valstybėje tada bu-
     ir k ry žiu o č ia is, k a ra s
@@ -387,7 +400,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 - id: c-168067
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
   citata_originali: |
     Tokio pat likimo susilaukė jo įpėdinis Andrius fon
     Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
@@ -411,7 +425,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 - id: c-178702
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 129."
   citata_originali: |
     Grįžęs iš to žy­
     gio, jis ėmėsi taikiai tvarkytis ir kurdinti šalyje nau­
@@ -433,7 +448,8 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
 - id: c-178703
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
   citata_originali: |
     Sukvietus Kernavėje didikų sueigą, Germanto
     vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos

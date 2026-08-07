@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a55a3cb0bc5bb5281a32557"
+canonical_name: "Roksolanija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Roksolanija"]
+sameAs: []
+canonical_biography: "Narbutas pasakojo, kad keliautojai perėjo slavų Roksolanijos valstybę ir per venedų bei alanų žemes pateko į Livoniją."
+place_authority: true
+historical_names: []
 ---
 # Roksolanija
 
@@ -55,7 +64,8 @@ Narbutas pasakojo, kad keliautojai perėjo slavų Roksolanijos valstybę ir per 
 - id: c-175666
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
   citata_originali: |
     Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
     gyventi žmonės septintojo dangaus- rato pabaigoje, — čia

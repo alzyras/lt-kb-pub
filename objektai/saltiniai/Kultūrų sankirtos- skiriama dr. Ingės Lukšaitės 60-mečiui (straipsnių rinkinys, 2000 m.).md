@@ -1,6 +1,6 @@
 ---
 tipas: saltinis
-pavadinimas: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui"
+pavadinimas: 'Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui'
 saltinio_tipas: leidinys
 sukurta: ''
 atnaujinta: ''
@@ -21,4 +21,4 @@ media_all_json: |-
 
 ## Šaltinio dalys
 
-- Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)
+- XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius

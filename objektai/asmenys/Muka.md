@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8fa8b26939520800c66745a1"
+canonical_name: "Muka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Muka"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais metais ir tuo pat laiku vienas Varmės vyskupystės vyras, vardu Muka, su 19 plėšikautojų patraukė link Lietuvos, aptiko dykrose 45 lietuvių raitelius, sumaniai juos apsupo ir visus nukovė. Dusburgietis teigia, kad dar apie tą patį Kitą kartą tas pats Muka patraukė su būriu plėšikautojų prieš netikėlius ir, atvykęs į dykras, išvydo daugybę Lietuvos raitelių; pabūgęs tokios gausybės bei galybės, numetė į šalį valgį bei gėrimą ir visa kita, kas galėjo trukdyti, ir su savo."
 ---
 # Muka
 
@@ -40,14 +47,21 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
 <a id="claim-t-60177"></a>
 - t-001
   teiginys: "1324 m. Varmės vyskupystės vyras Muka su 19 plėšikautojų dykrose apsupo ir nukovė 45 lietuvių raitelius."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Muka: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai aprašo Mukos smurtinį veiksmą prieš lietuvių raitelius."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1324 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
-    - c-60809
+    - c-60810
 
 <a id="claim-t-60178"></a>
 - t-002
@@ -99,7 +113,8 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
 - id: c-60809
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 220."
   citata_originali: |
     Dar apie tą patį
     Kitą kartą tas pats Muka patraukė su būriu plėšikautojų prieš netikėlius ir, atvykęs į
@@ -114,13 +129,13 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-60810
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
   citata_originali: |
     Apie 45 lietuvių žūtį 1324 metais
 
@@ -135,7 +150,8 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
   citata_rodoma: "Apie 45 lietuvių žūtį 1324 metais\n\n   Tais pačiais metais ir tuo pat laiku vienas Varmės vyskupystės vyras, vardu Muka,\nsu 19 plėšikautojų patraukė link Lietuvos, aptiko dykrose 45 lietuvių raitelius, sumaniai\njuos apsupo ir visus nukovė.\n\n\n\n\n                        353 (346)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

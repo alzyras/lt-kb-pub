@@ -58,7 +58,8 @@ Dusburgietis teigia, kad powierski J.
 - id: c-61873
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Powierski J. Krytyka koncepcji o decydującym znaczeniu ekspansji z zewnątrz dla
     opóźnienia rozwoju politycznego Prusów.—ABS, Wrocław—Warszawa—Kraków—Gdańsk,

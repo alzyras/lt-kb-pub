@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-79fb1cd2cea2633b691a731e"
+canonical_name: "Vilhelmas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vilhelmas"]
+sameAs: []
+canonical_biography: "Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti, buvo sulaikyta ir budriai saugoma. Jadvygos sužadėtinis Vilhelmas taip pat rūpinosi skubiai tapti Jadvygos vyru, taigi ir Lenkijos karalium."
 ---
 # Vilhelmas
 
@@ -114,7 +121,8 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 163."
   citata_originali: |
     Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
     kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi
@@ -137,9 +145,9 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
     - t-002
 
 - id: c-184394
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 249"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 249."
   citata_originali: |
     Tuo pačiu laiku sukilo kerštai kalavijonų su Al­
     bertu, v. Rygos, kurie niekaip negalėjo taikiai žemę
@@ -162,9 +170,9 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
     - t-003
 
 - id: c-184395
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 313"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 313."
   citata_originali: |
     Tuojau v. Vilhelmas pradėjo gorinti Sviatopelką
     iškeikimu, liepdamas jam liautis nuo naikinimo ti­
@@ -178,9 +186,9 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
     - t-004
 
 - id: c-184396
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 371"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 371."
   citata_originali: |
     Vienok gi-
     lesniai į Žemaičių kraštą nebdrįso beeiti, krūpau­

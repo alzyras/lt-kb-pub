@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-169071
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 11."
   citata_originali: |
     Bajorų
     luomui pripažintos lengvatos negali būti teikiamos

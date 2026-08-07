@@ -50,7 +50,8 @@ Algirdas priekaištauja Konstantinopolio patriarchui: »[...] pagal Tavo palaimi
 - id: c-40872
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 49."
   citata_originali: |
     Algirdas priekaištauja Konstantinopolio patriarchui:
 

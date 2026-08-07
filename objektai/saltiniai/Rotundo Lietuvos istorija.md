@@ -59,7 +59,8 @@ XVI ## Puslapis 17 MYKOLAS B A L I N S K I S niaus MIESTO ISTORIJA Haec omnia, q
 - id: c-84451
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 16-17"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 16-17."
   citata_originali: |
     13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
     p. 128.

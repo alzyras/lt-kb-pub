@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3bc17b4195a7bd621d7a8184"
+canonical_name: "Stasys Šilingas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["objektai/asmenys/Stasys Šilingas","Stasys Šilingas"]
+sameAs: []
+canonical_biography: "Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelbta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, esančias apie Nemuną – Didžiąją ir Mažąją (Rytų. Šilingas) drauge su ministrų kabinetu sudarė vykdomąją valdžią."
 ---
 # Stasys Šilingas
 
@@ -64,7 +71,8 @@ Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gin
 - id: c-64353
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 130."
   citata_originali: |
     KOVA DĖL NEPRIKLAUSOMYBĖS
     Lietuvos planai: nuo autonomijos

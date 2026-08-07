@@ -53,7 +53,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - id: c-168762
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 328"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 328."
   citata_originali: |
     Alek­
     sandras Vytautas su žmona

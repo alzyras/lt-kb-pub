@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a6fe572510782162ebea6e25"
+canonical_name: "Antoni Melissanius de Macro"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Antoni Melissanius de Macro"]
+sameAs: []
+canonical_biography: "Šios 19 Waddyngas, Mažesniųjų brolių ordino istorijos autorius, ir jo komen­ tatorius Antoni Melissanius de Macro pasakoja, kad dar 1333 metais (prieš Gedimino mirtį) Pet­ ras Goštautas, būdamas Podolės vai­ vada, iš Rusios ir Podolės atkvietęs į Vilnių."
 ---
 # Antoni Melissanius de Macro
 
@@ -63,7 +70,8 @@ media_all_json: |-
 - id: c-84032
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 44."
   citata_originali: |
     Šios
     19

@@ -87,7 +87,8 @@ Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 86."
   citata_originali: |
     Vytautas, aptvarkęs šiek tiek santykius su Lenkija ir su­
     stiprinęs savo padėtį viduje, vėl ėmė nesutikti su Ordinu. Tam
@@ -111,7 +112,8 @@ Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė 
 - id: c-178659
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 733"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 733."
   citata_originali: |
     T uo ta rp u L ietuvą užgriu-
     1566 metai

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a76ea849947c9e48b5db63d5"
+canonical_name: "Brunonas iš Kverfurto"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Brunonas iš Kverfurto"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš tos pačios giminės kaip ir Brunonas iŠ Kverfurfo (mir."
 ---
 # Brunonas iš Kverfurto
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš to
 - id: c-60888
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 73."
   citata_originali: |
     224  Burggrafas Burchardas iš Magdeburgo, kilęs iš tos pačios giminės kaip ir Brunonas
     iŠ Kverfurfo (mir. 1009), vienas pirmųjų misionierių, veikusių prūsų žemėse.

@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-60311
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
   citata_originali: |
     Kai jo šventenybė Jeruzalės patriarchas
     Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir

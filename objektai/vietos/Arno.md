@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5b512555f2e724b6077a3ae7"
+canonical_name: "Arno"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Arno"]
+sameAs: []
+canonical_biography: "Narbuto aprašyme pelazgai buvo pasklidę nuo Po ir Arno upių žiočių iki Dnepro ir Dono."
+place_authority: true
+historical_names: []
 ---
 # Arno
 
@@ -55,7 +64,8 @@ Narbuto aprašyme pelazgai buvo pasklidę nuo Po ir Arno upių žiočių iki Dne
 - id: c-175632
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
   citata_originali: |
     Būtent dėl šių priežasčių įvairios
     pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­

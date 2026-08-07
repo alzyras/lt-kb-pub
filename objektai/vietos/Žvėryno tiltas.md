@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-126386efd962eca60a3f27a0"
+canonical_name: "Žvėryno tiltas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žvėryno tiltas"]
+sameAs: []
+canonical_biography: "Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje, dalis kovotojų išsidėstė ant Nacionalinės M. , saugomas ATAS (Aukščiausiosios Tarybos Apsaligos skyriaus) pareigūnų prieigose Žvėryno tiltas užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais, Goštauto gatvė ties Žvėryno tiltu blokuota sunkiąja technika."
+place_authority: true
+historical_names: []
 ---
 # Žvėryno tiltas
 
@@ -79,7 +88,8 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 - id: c-45489
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 262."
   citata_originali: |
     Aukščiausiosios Tarybos pirmininkas ir
     šalies vadovas Vytautas Lansbergis 1991 m.
@@ -107,7 +117,8 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 - id: c-45490
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 257."
   citata_originali: |
     Pirmomis sausio įvykių dienomis tik
     mažesnioji gynėjų dalis turėjo aiškesnę uz-

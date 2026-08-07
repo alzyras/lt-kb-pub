@@ -70,7 +70,8 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
 - id: c-22569
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 249."
   citata_originali: |
     Konstitucijos preambulėje glaustai įtvirtinti pagrindiniai principai – atvi-
     ra, teisinga, darni pilietinė visuomenė ir teisinė valstybė, puoselėjanti
@@ -96,7 +97,8 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
 - id: c-72787
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 249."
   citata_originali: |
     Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir
     jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės

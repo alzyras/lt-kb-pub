@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6565965b92e29ff15474c97d"
+canonical_name: "Mykolas (Švitrigailos sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas (Švitrigailos sūnus)"]
+sameAs: []
+canonical_biography: "1452 metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­ venimas buvo sudrumstęs pusę Europos, vienus papiktin­ damas, kitiems keldamas gailestį, užbaigė savo klajokliškas dienas Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vil­ niaus katedroje."
 ---
 # Mykolas (Švitrigailos sūnus)
 
@@ -59,7 +66,8 @@ media_all_json: |-
 - id: c-83777
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 243."
   citata_originali: |
     1452
     metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­

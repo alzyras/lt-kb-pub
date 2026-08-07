@@ -56,7 +56,8 @@ Jie yra griežtai atsiriboję ir pasmerkę vad. «buržuazinę » istoriografij�
 - id: c-32639
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 10."
   citata_originali: |
     Tad ir šį kartą, statant Lietuvos istorijos «rūmą», reikėjo
     uoliai naudotis kitų jau pagamintomis «plytomis ». Prie atskirų

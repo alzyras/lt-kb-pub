@@ -41,7 +41,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 <a id="claim-t-89583"></a>
 - t-001
   teiginys: "Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1196 m."
@@ -114,7 +114,8 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 - id: c-85524
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
   citata_originali: |
     Kadangi parašyta: „Dvasia teikia gyvybę, o kūnas nieko neduoda“, todėl buvo reikalingi
     šiam namui septyni kitoniški šulai — dvasiniai, kurių trimis, būtent: klusnumu, neturtu ir
@@ -137,7 +138,8 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 - id: c-85526
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
   citata_originali: |
     Štai šis popiežius Celestinas
     III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
@@ -170,7 +172,8 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 - id: c-85527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
   citata_originali: |
     Štai šis popiežius Celestinas
     III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
@@ -198,7 +201,8 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 - id: c-179017
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
   citata_originali: |
     Nors šie žodžiai pasakyti Saliamono, kuris dievo sūnų vadina „tėvo išmintimi“ kaip
     ir tas apaštalas, taręs (1 Kor 1,24): „Bet pašauktiesiems — tiek žydams, tiek graikams

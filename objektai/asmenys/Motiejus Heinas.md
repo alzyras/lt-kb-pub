@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1abe67130fe18b792e1bf2cb"
+canonical_name: "Motiejus Heinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus Heinas"]
+sameAs: []
+canonical_biography: "Štai 1561 m. Kauno vaitas Motiejus Heinas skundė prekiją Motiejų Janusavičių, kad šis savo samdinį sukaustęs grandinėmis ir padaręs tai nesikreipdamas į vaito teismą."
 ---
 # Motiejus Heinas
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185411
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 188"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 188."
   citata_originali: |
     Jei samdytojas sugalvodavo savavališkai bausti samdinį, toks elgesys galėjo su-
     laukti aukščiausių miesto savivaldos pareigūnų dėmesio. Štai 1561 m. Kauno vaitas

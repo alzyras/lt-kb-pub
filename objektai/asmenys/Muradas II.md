@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83c80a0d909c64f0b5a33e77"
+canonical_name: "Muradas II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Muradas II"]
+sameAs: []
+canonical_biography: "Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų."
 ---
 # Muradas II
 
@@ -61,7 +68,8 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 160."
   citata_originali: |
     Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­
     gerį ir Konstantinopolio ciesorių Manuelį, už kurio sūnaus Jono

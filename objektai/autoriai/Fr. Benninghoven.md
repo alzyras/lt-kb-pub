@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c24030a4c9f942b8d5bd8a4f"
+canonical_name: "Fr. Benninghoven"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Fr. Benninghoven"]
+sameAs: []
+canonical_biography: "Benninghoven davė studiją apie kalavijuočių ordiną (BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr."
 ---
 # Fr. Benninghoven
 
@@ -50,7 +57,8 @@ Benninghoven davė studiją apie kalavijuočių ordiną (BeOSch); Lietuvos žila
 - id: c-32927
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 97."
   citata_originali: |
     Serijoje « Ostmittel­
     europa in Vergangenheit und Gegenwart» pasirodė Lietuvos isto­

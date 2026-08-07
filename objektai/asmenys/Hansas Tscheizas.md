@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9691be0b6c542e195aef5d16"
+canonical_name: "Hansas Tscheizas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hansas Tscheizas"]
+sameAs: []
+canonical_biography: "Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui ir jo svainiui Mikalojui Sachsei, taip pat savo dvariškiams, su reikalais vykstantiems į Sileziją."
 ---
 # Hansas Tscheizas
 
@@ -50,7 +57,8 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
 - id: c-83662
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 229."
   citata_originali: |
     Švit­
     rigailos dvaro maršalka buvo Mzu-

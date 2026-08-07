@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83684ad7f063cb62b98e000e"
+canonical_name: "Drahočynas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Drahočynas"]
+sameAs: []
+canonical_biography: "Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje. Kraštutinės jos ribos buvo Pa­ langa ir Dniepro žiotys, Mozūrijos siena (ties Drahočynu) ir Pronskas. Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko, Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių Ordino."
+place_authority: true
+historical_names: []
 ---
 # Drahočynas
 
@@ -94,7 +103,8 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 290."
   citata_originali: |
     Su pagoniškąja Lietuva pirmąsias nuolatinio karo paliau­
     bas Ordinas padarė 1379 m. Labai įdomios ir viduramžiui
@@ -118,7 +128,8 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 161."
   citata_originali: |
     vietoje. Ji apėmė visą aukštutinę ir vidurinę Dauguvą, Nemuno,
     pietų Būgo, Dniepro ir aukštutinės Okos upynus, kas sudarė apie
@@ -138,7 +149,8 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 140."
   citata_originali: |
     Pane­
     lės paveikslas, žmonių laikomas stebuklingu), Sen. Trakuose,

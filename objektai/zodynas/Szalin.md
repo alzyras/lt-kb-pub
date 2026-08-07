@@ -107,7 +107,8 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
 - id: c-175073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
   citata_originali: |
     Pavadinimas kilęs iš lietuviško
     žodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­

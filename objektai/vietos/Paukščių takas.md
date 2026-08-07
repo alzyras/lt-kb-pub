@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-38a8f6901eb78fa63450f6ff"
+canonical_name: "Paukščių takas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Paukščių takas"]
+sameAs: []
+canonical_biography: "Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, šiauriniame Paukščių tako gale."
+place_authority: true
+historical_names: []
 ---
 # Paukščių takas
 
@@ -54,7 +63,8 @@ Narbuto rekonstrukcijoje senovės lietuviai rojų įsivaizdavo dievų namuose, �
 - id: c-171929
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 391."
   citata_originali: |
     Betgi apie ją neturime smulkesnių žinių nei
     nežinome, kokią ją senovės lietuviai įsivaizdavo. Lieka tik

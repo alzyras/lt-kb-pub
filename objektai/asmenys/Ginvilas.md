@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ea661a113e72f58d87457db2"
+canonical_name: "Ginvilas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ginvilas"]
+sameAs: []
+canonical_biography: "Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke."
 ---
 # Ginvilas
 
@@ -54,7 +61,8 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - id: c-169472
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 82."
   citata_originali: |
     Miestas
     turėjo pasiduoti, priimti vienu metu ir taiką, ir vergo­

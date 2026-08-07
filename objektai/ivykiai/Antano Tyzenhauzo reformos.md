@@ -73,7 +73,7 @@ Nenurodyta
 <a id="claim-t-66450"></a>
 - t-002
   teiginys: "Antano Tyzenhauzo reformos 1767 m. kartais laikomos vienu Apšvietos epochos pradžios ženklų."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m."
@@ -87,7 +87,8 @@ Nenurodyta
 - id: c-66680
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 68."
   citata_originali: |
     Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
     XVIII a. pabaigoje. Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
@@ -106,7 +107,8 @@ Nenurodyta
 - id: c-166604
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 88-89"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 88-89."
   citata_originali: |
     Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
     po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos

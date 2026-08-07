@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c59e3708a99b0b87c0c1ebfa"
+canonical_name: "K. Heinl"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Heinl"]
+sameAs: []
+canonical_biography: "(^2) ) Heinl, 15, Proch., D. ep. V., 187, 188 nr.; Heinl 167—9. (^1) ) Heinl 160 psl. (^2) ) Žerb: - Lab."
 ---
 # K. Heinl
 
@@ -44,7 +51,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 312."
   citata_originali: |
     Valdžią Vytautui buvo lemta įgauti tik per sunkią kovą.
     Ir teisingai pastebi K. Heinl: „Nei vienam jo pirmtakūnų tą pa­

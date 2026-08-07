@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e539cfff39efd46a5cb31dd7"
+canonical_name: "Albertas Devaltauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas Devaltauskas"]
+sameAs: []
+canonical_biography: "Pirmasis Kauno pakamaris Albertas Devaltauskas (Deltuviškis) šias teisėjo pareigas ėjo 1566-1581 m. Jo įpėdiniai buvo: 1581-1599 m."
 ---
 # Albertas Devaltauskas
 
@@ -50,9 +57,9 @@ Pirmasis Kauno pakamaris Albertas Devaltauskas (Deltuviškis) šias teisėjo par
 ## Citatos
 
 - id: c-185502
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 159"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 159."
   citata_originali: |
     Greitai atsirado vadinamasis pakamario teismas, kurio kompetencijai buvo priski-
     riamos bylos dėl žemės valdų ribų. Pirmasis Kauno pakamaris Albertas Devaltauskas

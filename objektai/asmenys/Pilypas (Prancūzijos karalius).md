@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e44a4420d0b1c2c151d5c2d2"
+canonical_name: "Pilypas (Prancūzijos karalius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pilypas (Prancūzijos karalius)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus."
 ---
 # Pilypas (Prancūzijos karalius)
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos kar
 - id: c-61044
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 244."
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
 

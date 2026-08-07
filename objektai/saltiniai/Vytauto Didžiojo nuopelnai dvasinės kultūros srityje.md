@@ -58,7 +58,8 @@ media_all_json: |-
 - id: c-33748
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 300."
   citata_originali: |
     — Pasz­
     kiewicz, H. : _O genezie i wartości Krewa_ , Warszawa, 1938. — Penkaus-

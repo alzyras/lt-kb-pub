@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9707755fbe7e1021d8a5ae2b"
+canonical_name: "Saremos sala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Saremos sala"]
+sameAs: []
+canonical_biography: "Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais, Danija užvaldė Saremos salą."
+place_authority: true
+historical_names: []
 ---
 # Saremos sala
 
@@ -62,7 +71,8 @@ Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos kon
 - id: c-40447
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 89."
   citata_originali: |
     Suomijos įlanka, „ 5
 

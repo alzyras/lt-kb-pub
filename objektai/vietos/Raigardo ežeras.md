@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-08a256143c45f3e63886b810"
+canonical_name: "Raigardo ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Raigardo ežeras"]
+sameAs: []
+canonical_biography: "Šiauriau ji kilo stačiai per tyrus į pu­ siau dalinamą Raigardo ežerą."
+place_authority: true
+historical_names: []
 ---
 # Raigardo ežeras
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-34020
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų
     Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau

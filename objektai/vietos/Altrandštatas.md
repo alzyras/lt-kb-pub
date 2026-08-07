@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a300cbbfe1cb7fef48c87f93"
+canonical_name: "Altrandštatas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Altrandštatas"]
+sameAs: []
+canonical_biography: "Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.)."
+place_authority: true
+historical_names: []
 ---
 # Altrandštatas
 
@@ -59,7 +68,8 @@ Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu
 - id: c-02571
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 395."
   citata_originali: |
     Karolis XII
     staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos

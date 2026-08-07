@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-21af3ae199d5509188727962"
+canonical_name: "Daujotas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Daujotas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad 1813 m. Lokaičių palivarko nuomotojas Daujotas jam pasakojo gavęs varinį žiedą iš Lokaičiuose rastų daiktų."
 ---
 # Daujotas
 
@@ -65,7 +72,8 @@ Narbutas rašo, kad 1813 m. Lokaičių palivarko nuomotojas Daujotas jam pasakoj
 - id: c-173024
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
   citata_originali: |
     1809 metais Marijampolės apskrityje, netoli nuo kairiojo
     Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6c216ea2b58db33cbbd21a6a"
+canonical_name: "Nerčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nerčia"]
+sameAs: []
+canonical_biography: "Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas."
+place_authority: true
+historical_names: []
 ---
 # Nerčia
 
@@ -54,7 +63,8 @@ Narbutas Nerčią apibūdina kaip Rytų Sibiro upę, prie kurios yra Nerčinsko 
 - id: c-171917
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 426"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 426."
   citata_originali: |
     Rei­
     kia turėti tvirtą ir atskirą vertinimo skalę kiekvienam amžiui

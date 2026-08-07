@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-67166
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 374"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 374."
   citata_originali: |
     Lietuvai vado-
     vaujantieji Pacai stovėjo

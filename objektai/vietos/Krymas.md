@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-03b7207f0d12889bab68cc5b"
+canonical_name: "Krymas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krymas"]
+sameAs: []
+canonical_biography: "Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, bet paskui jis buvo sumuštas ir išvytas Timur Kotlogo (1395 mt.). Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo totorius."
+place_authority: true
+historical_names: []
 ---
 # Krymas
 
@@ -84,7 +93,8 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 299."
   citata_originali: |
     1427 mt. pradžioje jų buvo dar
     5), bet 1427 met. gale Vytauto palaikomasis Machmetas įsiga­
@@ -103,7 +113,8 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 - id: c-168355
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 511"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 511."
   citata_originali: |
     Karalius Ka-
     K afos g y v e n to ja i ieš-

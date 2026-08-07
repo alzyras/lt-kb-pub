@@ -51,7 +51,8 @@ p. dalys, turinčios apsaugoti divizijos vadovybe ir sustiprinti kitus pulkus.
 - id: c-42615
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 211."
   citata_originali: |
     B | Ukmergę atvyksta 8-ojo pest. p. dalys, turinčios apsaugoti divizijos va-
 

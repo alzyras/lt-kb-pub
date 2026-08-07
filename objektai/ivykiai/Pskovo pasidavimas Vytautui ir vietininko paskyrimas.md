@@ -137,7 +137,8 @@ Nenurodyta
 - id: c-169891
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 104-105"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 104-105."
   citata_originali: |
     Sekančiais metais didysis kunigaikštis Vytautas išsi­
     rengė prieš Pskovo miestą5  ir paėmė Pskovo miestus

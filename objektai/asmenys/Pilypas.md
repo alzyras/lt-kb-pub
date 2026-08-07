@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0abfc586fa8d7774db47173f"
+canonical_name: "Pilypas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pilypas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė."
 ---
 # Pilypas
 
@@ -124,7 +131,8 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - id: c-61042
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
   citata_originali: |
     1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
     iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei
@@ -147,7 +155,8 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - id: c-173831
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 58."
   citata_originali: |
     Jiems giminin­
     gi trakai taip pat IV amžiuje prieš Kristaus giminių
@@ -175,9 +184,9 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
     - t-002
 
 - id: c-184372
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 183"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 183."
   citata_originali: |
     Pats tuo tarpu nukeliavo pas danus, nuo
     kurių viešpaties ir arkivyskupo Lundo suičias do-

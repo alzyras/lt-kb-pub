@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1750 m. nesumokėtos skolos byla prieš Mykolą Kazimierą Sapiegą buvo keliama Vilniaus pilies teisme.
+XVIII a. vidurio Vilniuje nesumokėtos skolos byla galėjo būti keliama pilies teisme. 1750 m. ši praktika pasireiškė tuo, kad Mstislavlio vaivados tarnas ten pateikė kaltinimą Mykolui Kazimierui Sapiegai dėl nesumokėtos skolos.
 
 ## Laikotarpis ir datos
 
@@ -65,26 +65,28 @@ Nenurodyta
 
 <a id="claim-t-200621"></a>
 - t-001
-  teiginys: "1750 m. nesumokėtos skolos byla prieš Mykolą Kazimierą Sapiegą buvo keliama Vilniaus pilies teisme."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "1750 m. neįvardytas Mstislavlio vaivados tarnas Vilniaus pilies teismui pateikė kaltinimą dėl nesumokėtos skolos prieš Mykolą Kazimierą Sapiegą."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "gap::customs"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumas: "susije_su -> Mstislavlis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Mstislavlis: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme\" parinktas kaip owner_note_path. Targetas \"Mstislavlis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1750 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citatos informacija apie kaltinimą dėl nesumokėtos skolos. Tarnas ir jo vertinimas sąmoningai neįtraukti."
+  temporalinis_llm_pakomentavimas: "Įvardytas citatoje nurodytas, tačiau neidentifikuotas kaltinimo pateikėjas ir konkretus teisinis veiksmas. Nepakartota šaltinio spėlionė dėl galimos vaivados tapatybės."
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
   pagrindžia:
     - c-184006
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: '1750 m. neįvardytas Mstislavlio vaivados tarnas Vilniaus pilies teismui pateikė kaltinimą dėl nesumokėtos skolos prieš Mykolą Kazimierą Sapiegą.'
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
   citata_originali: |
     J. D. Lopacinskis
@@ -107,6 +109,6 @@ Nenurodyta
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 07:43"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001

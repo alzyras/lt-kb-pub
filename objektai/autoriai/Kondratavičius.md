@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f1a11b92b8330291253b6835"
+canonical_name: "Kondratavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kondratavičius"]
+sameAs: []
+canonical_biography: "Čia ypač pasižymėjo universiteto auklėtiniai Mickevičius, Kraševskis, Kondratavičius ir daugelis kitų."
 ---
 # Kondratavičius
 
@@ -50,7 +57,8 @@ media_all_json: |-
 - id: c-01320
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 468"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 468."
   citata_originali: |
     Universitetui sukėlus susidomėjimą Lietuvos senove, iš-
     kilo gausi lenkų romantiškoji literatūra, kuri beveik visas temas

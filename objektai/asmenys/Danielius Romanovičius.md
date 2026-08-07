@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-febacf20682511ee886ed56e"
+canonical_name: "Danielius Romanovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Danielius Romanovičius"]
+sameAs: []
+canonical_biography: "6 Danielius Romaoovičius (1201— 1264) — Haličo ir Volynės (vakarų Ukraina) didysis kunigaikštis, Tautvilos svainis. Vasilka Romanovičius buvo Haličo-Volynės didžiojo kunigaikščio Danieliaus Romanovičiaus brolis ir politinis bendradarbis."
 ---
 # Danielius Romanovičius
 
@@ -99,7 +106,8 @@ media_all_json: |-
 - id: c-176719
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 202."
   citata_originali: |
     Užimta buvo visa
     Lietuvos žemė ir nesuskaičiuojami jų  turtai".

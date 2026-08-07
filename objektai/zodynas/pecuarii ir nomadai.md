@@ -176,7 +176,8 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
 - id: c-175032
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
   citata_originali: |
     Bet tarp Hipakyrio ir Pantikapo, Pripetės, arba ant abiejų Dnep-
     ro krantų, t. y. tarp Baturino ir Mozyrio, gyveno skitai
@@ -200,7 +201,8 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
 - id: c-175033
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Čia tik priminsime, jog skitai daugiau-
     sia buvo tokie patys nomadai, išstumti iš Azijos į plačias

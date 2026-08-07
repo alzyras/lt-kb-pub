@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-11f5a7adf51f4a00523577f8"
+canonical_name: "Petras Šiukšta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Šiukšta"]
+sameAs: []
+canonical_biography: "1589 m. Zigmantas Vaza paskyrė Stanislovą Dziatkovskį Kauno pavieto stalininku, o Petrą Šiukštą - pastalininkiu."
 ---
 # Petras Šiukšta
 
@@ -51,9 +58,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185544
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 160"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 160."
   citata_originali: |
     Valdant Zigmantui Vazai (1588-1632), Vladislovui Vazai (1633-1648) ir Jonui Ka-
     zimierui (1648-1668), Lietuvos pavietų, tarp jų ir Kauno pavieto, pareigūnlĮ sąrašas pa-

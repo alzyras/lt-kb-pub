@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-048de4b029039f89e1269060"
+canonical_name: "Ditrichas iš Altenburgo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas iš Altenburgo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos žemės kronikoje“ nemaža detalių pakeista arba pridėta79. Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku. Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą 1324 metais Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras, ir 44 broliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies papilį, sudegino jį ir išžudė visus."
 ---
 # Ditrichas iš Altenburgo
 
@@ -98,14 +105,22 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 <a id="claim-t-59952"></a>
 - t-004
   teiginys: "1324 m. gegužės 22 d. Ditrichas iš Altenburgo, Ragainės komtūras, su broliais ir kariais užpuolė Gedimino pilies papilį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Gediminas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ditrichas iš Altenburgo: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Gedimino pilies papilio užpuolimą, bet kandidatuose nėra pačios pilies ar papilio, todėl objektas siejamas su Gediminu atsargiai."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ditrichas iš Altenburgo puolė Gediminas (0.72)"
   temporaliniai_duomenys: "įvykio data: 1324 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, datuotas ir paremtas citatos duomenimis."
   pagrindžia:
-    - c-60584
+    - c-60582
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -168,7 +183,8 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 - id: c-60581
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Darbą Mikalojus baigė
     jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos
@@ -185,7 +201,8 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 - id: c-60582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
   citata_originali: |
     Apie Gedimino pilies papilio sudeginimą 1324 metais
 
@@ -197,14 +214,17 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   citata_rodoma: "Apie Gedimino pilies papilio sudeginimą 1324 metais\n\n  Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras,  ir 44\nbroliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies\npapilį, sudegino jį ir išžudė visus žmones, kuriuos jame surado, išskyrus tuos, kuriems\npavyko pasprukti  į pilį. Broliai neteko trijų Notangos vyrų, kritusių kovoje, ir dviejų,\nkuriuos paėmė į nelaisvę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-60583
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     Apie Lunenburgo pilies ir dviejų miestų pastatymą
 
@@ -226,7 +246,8 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 - id: c-60584
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
     329 (322). Apie Bisenės pilies sudeginimą 1316 metais
     Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
@@ -242,7 +263,6 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
 
 ## Ryšiai
 - Ditrichas iš Altenburgo pastatė [[objektai/vietos/Lunenburgas]]

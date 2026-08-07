@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3a6f2636c3700c0f4a2b9812"
+canonical_name: "Cirinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Cirinas"]
+sameAs: []
+canonical_biography: "LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei."
+place_authority: true
+historical_names: []
 ---
 # Cirinas
 
@@ -74,7 +83,8 @@ LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.
 - id: c-170284
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 334-335"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 334-335."
   citata_originali: |
     1 3 Cirinas — BTSR kaimas (prie Servečio upės, už 5 km ( pietus
     nuo Ostašino). LDK kariuom enė žygiavo i Klecką, palikdama Ciriną

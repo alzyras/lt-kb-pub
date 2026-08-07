@@ -36,6 +36,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b98a25b394109fbde2849f1"
+canonical_name: "Talinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Talinas"]
+sameAs: []
+canonical_biography: "Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos (Eželio) vyskupystę."
+place_authority: true
+historical_names: []
 ---
 # Talinas
 
@@ -143,7 +152,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - id: c-124185
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 112-113"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112-113."
   citata_originali: |
     Norėdamas užklupti priešą nepasiruošusį,
     jis prie Salacgryvos (Salismiinde) žygiavo
@@ -172,7 +182,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - id: c-124186
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 238-239"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 238-239."
   citata_originali: |
     Jau tų
     metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai
@@ -203,7 +214,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - id: c-124187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 22."
   citata_originali: |
     Bremeno pirkliai 1158 m.
     atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezgė preky­
@@ -224,7 +236,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - id: c-124188
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 217-218"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 217-218."
   citata_originali: |
     – atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į
     naujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas
@@ -249,7 +262,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - id: c-124189
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 234."
   citata_originali: |
     Paskutinis Gedimino laiškas (1325.VI.2)
     yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir

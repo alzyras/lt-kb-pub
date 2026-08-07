@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a94d350d59da3fdd955b6805"
+canonical_name: "Jonas Gornostajus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Gornostajus"]
+sameAs: []
+canonical_biography: "Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą. Lietuvos raštininkas Jonas Gornostajus karaliaus vardu atsakė į prašymus dėl valachų pasiuntinių ir Severino Norvedo. Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką."
 ---
 # Jonas Gornostajus
 
@@ -92,7 +99,8 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
 - id: c-169408
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 647-648"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 647-648."
   citata_originali: |
     Vasilijus pri­
     mygtinai reikalavo, kad ka­
@@ -123,7 +131,8 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
 - id: c-169409
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 656"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 656."
   citata_originali: |
     Be to, paprašė atsilyginti už skriaudas, pada­
     rytas Severino Norvedo, ir leisti laisvai keliauti per
@@ -145,7 +154,8 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
 - id: c-169410
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 665"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 665."
   citata_originali: |
     Panašiai laiške Jurgiui Radvilai rašė Ivanas Ovčina,
     be kita ko, maldaudamas, kad karalius įsakytų Gleba­

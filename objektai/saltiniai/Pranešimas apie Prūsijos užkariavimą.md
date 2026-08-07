@@ -58,7 +58,8 @@ Dusburgietis teigia, kad „Pranešimo apie Prūsijos užkariavimą“, priedo p
 - id: c-61632
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
   citata_originali: |
     „Pranešimo apie Prūsijos užkariavimą“, priedo prie Naujesniosios didžiųjų magistrų
     kronikos, XVI a. nuorašas aptiktas Ordino archyve Vienoje. Leidėjai jį priskyrė Hermanui
@@ -74,7 +75,8 @@ Dusburgietis teigia, kad „Pranešimo apie Prūsijos užkariavimą“, priedo p
 - id: c-61633
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
   citata_originali: |
     Henriko iš Hohenlohės „Pranešimas...“ —
     svarbiausias Dusburgiečio kronikos II dalies bei III dalies pradžios šaltinis (iki 60 ar net 67

@@ -114,7 +114,8 @@ Nenurodyta
 - id: c-85399
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     Apie Baigos brolių vienuolišką gyvenimą
 
@@ -137,7 +138,8 @@ Nenurodyta
 - id: c-85402
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     Niekad arba beveik niekad netruko čia
     maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar

@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5e69d4283c49973e64addd5"
+canonical_name: "Cartovica (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Cartovica","Cartovica (vieta)"]
+sameAs: []
+canonical_biography: "Tame širdgile marčelga, zokano, nujautęs pilė j Cartovicos silpną įgulę tesant, sutarė ją antpulti, vil damos, jog Sviatopelkas, norėdamas gnti pilį, atsiskies nuo lietuvių ir ištrauks iš Kulmijos. Sviatopelkas, gailėdamos savo pilės, bet užvis didesniai savo šventenybės, per daug užsirūstino ir ketėjo pilę Cartovicą kaip įmanąs vėl atimti."
+place_authority: true
+historical_names: []
 ---
 # Cartovica (vieta)
 
@@ -58,9 +67,9 @@ Tame širdgile marčelga, zokano, nujautęs pilė j Cartovicos silpną įgulę t
 ## Citatos
 
 - id: c-184482
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 314"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 314."
   citata_originali: |
     Tame širdgile marčelga, zokano, nujautęs pilė j Car-
     tovicos silpną įgulę tesant, sutarė ją antpulti, vil­
@@ -81,9 +90,9 @@ Tame širdgile marčelga, zokano, nujautęs pilė j Cartovicos silpną įgulę t
     - t-001
 
 - id: c-184483
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 314"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 314."
   citata_originali: |
     Barboros, sidabru aptaisytą,
     į Kulmiją parvirdė.

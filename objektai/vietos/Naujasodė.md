@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5c4e1f0de899d7208db9bcc"
+canonical_name: "Naujasodė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujasodė"]
+sameAs: []
+canonical_biography: "Puolimą pradėjo I brigada, jos svarbiausias uždavinys buvo pralaužti bolševikų gynybą gerai įtvirtintoje Galminių-BružųNaujasodės linijoje."
+place_authority: true
+historical_names: []
 ---
 # Naujasodė
 
@@ -50,7 +59,8 @@ Puolimą pradėjo I brigada, jos svarbiausias uždavinys buvo pralaužti bolšev
 - id: c-45238
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 190."
   citata_originali: |
     jant vyriausiajam Lietuvos kariuome-
     nės vadui generolui Silvestrui Žukauskui,

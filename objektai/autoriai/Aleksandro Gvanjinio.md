@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d027a223a50ab58cc19f2b7"
+canonical_name: "Aleksandro Gvanjinio"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Aleksandro Gvanjinio"]
+sameAs: []
+canonical_biography: "įvykęs Kijevo nusiaubimas, kurio metu į totorių nelaisvę pakliuvo aukščiausias vietinės Iliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais. Gvanjinio knygoje konkrečiai nenurodoma, koks mūšis vaizduojamas, tačiau labiausiai tikėtina, kad čia vaizduojamas 1512 m. Lopušnos mūšis, kuriame jungtinė lietuvių ir lenkų kariuomenė sumušė įsiveržusias Krymo totorių pajėgas."
 ---
 # Aleksandro Gvanjinio
 
@@ -82,7 +89,8 @@ media_all_json: |-
 - id: c-42386
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 77."
   citata_originali: |
     Paplitusi nuomonė, jog čia vaizduojamas lietuvių mūšis prieš Krymo totorius prie Klecko 1506 m. A. Gvanjinio
     knygoje konkrečiai nenurodoma, koks mūšis vaizduojamas, tačiau labiausiai tikėtina, kad čia vaizduojamas
@@ -99,7 +107,8 @@ media_all_json: |-
 - id: c-75921
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 77."
   citata_originali: |
     1480 m. sąjunga tarp Maskvos ir Krymo
     tapo politine realybe, o LDK žemės tapo

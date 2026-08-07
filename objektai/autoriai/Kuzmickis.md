@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b0f2ad1ddaf56eb6df042da"
+canonical_name: "Kuzmickis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kuzmickis"]
+sameAs: []
+canonical_biography: "Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai."
 ---
 # Kuzmickis
 
@@ -44,7 +51,8 @@ Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 320."
   citata_originali: |
     Šiame numeryje yra įdėtas paskutinis prof. Jablonskio — Ry­
     giškių Jono straipsnis. Be to, įdėta prof. Brenderio, prof. Putino-

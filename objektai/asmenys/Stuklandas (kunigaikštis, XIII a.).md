@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3650b62d85a69435f26963f9"
+canonical_name: "Stuklandas (kunigaikštis, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stuklandas","Stuklandas (kunigaikštis, XIII a.)"]
+sameAs: []
+canonical_biography: "Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešti vyskupui Kulmo, liepda mas jam Mintautą apkarūnavoti Lietuvos karalium. Pargrįžus siuntiniams iš Rymo su karūna į Rygą, tuojau mistras Stuklandas pakvietė vyskupą Kulmio Heidenreichą ir. Noris Stuklandas, mistras kalavijonų, bendravos ir bičiuliavos su pačiu Mintautu, karalium Lietuvos, kur sai jį visuomet žmoniškai išvaišinęs ne vien apdo venojo, bet dar toli jį palydėjo, bet jam padėka vojus už vyresnybę, atėjęs antras mistras kalavijonų."
 ---
 # Stuklandas (kunigaikštis, XIII a.)
 
@@ -66,9 +73,9 @@ Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešt
 ## Citatos
 
 - id: c-184749
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 348"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 348."
   citata_originali: |
     Išleisdamas popiežius Lietuvos siuntinius įdavė
     karūną ir raštą parnešti vyskupui Kulmo, liepda­
@@ -98,9 +105,9 @@ Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešt
     - t-001
 
 - id: c-184750
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 361"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 361."
   citata_originali: |
     Taip Otokarui su kryžėjais kariaujant samionis
     ir kitus žemaičius tarp upių Pragaro ir Nemuno,

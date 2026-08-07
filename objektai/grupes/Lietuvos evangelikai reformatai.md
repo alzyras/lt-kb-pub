@@ -84,7 +84,8 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
 - id: c-22602
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 61."
   citata_originali: |
     Lietuvos reformacijos ryškiausia ir įtakin-
     giausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus
@@ -105,7 +106,8 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
 - id: c-176231
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 63-64"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 63-64."
   citata_originali: |
     Pagal liberum veto
     teisę bajoriškojo parlamento – Seimo sprendimai turėjo būti priimami

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8e650b4691f94e5287e19d0f"
+canonical_name: "Boleslovas Didysis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslovas Didysis"]
+sameAs: []
+canonical_biography: "Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­ kų karalių - Boleslovas Didysis, pramintas Narsiuoju."
 ---
 # Boleslovas Didysis
 
@@ -50,7 +57,8 @@ Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik amžiumi vėliau,
 - id: c-83615
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 22."
   citata_originali: |
     Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
     amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­

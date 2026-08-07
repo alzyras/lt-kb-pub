@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cc13462a2bd7f7e03743145e"
+canonical_name: "Jonas Zaberezinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Zaberezinskis"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Jonas Zaberezinskis
 

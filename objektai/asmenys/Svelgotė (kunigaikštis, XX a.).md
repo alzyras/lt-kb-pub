@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cbcb4c7f9066f2775649a425"
+canonical_name: "Svelgotė (kunigaikštis, XX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Svelgotė","Svelgotė (kunigaikštis, XX a.)"]
+sameAs: []
+canonical_biography: "Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugavį lankyti, kaipogi tą pačią žiemą traukiant 2000 jų joties pro Rygą grobio grieti į Igumių žemę, jų karvedys Svelgotė, kunigaikštis Žagarės ir Jel gavos, apsidrąsinęs iki pat Rygos angos atjojo, ku rio."
 ---
 # Svelgotė (kunigaikštis, XX a.)
 
@@ -54,9 +61,9 @@ Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugavį lankyti, kaipogi t�
 ## Citatos
 
 - id: c-184753
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 194"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 194."
   citata_originali: |
     Kaupas, užgodotas nuo popiežiaus Ino­
     cento III ir apdovenotas, dabar parėjęs didžiai rū­

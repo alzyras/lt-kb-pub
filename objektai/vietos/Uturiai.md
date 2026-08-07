@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e73763e94fbece4420a1bdfd"
+canonical_name: "Uturiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Uturiai"]
+sameAs: []
+canonical_biography: "148 Uturiai, prie Betygalos 177 Uzbekas, chanas 183, 241, 242 Užnemunė 61, 78, 95, 96, 105, 108, 254, 326 Užpaliai 118 Užsienio Lietuvių Spaudos Metraštis 17 Vaclovas, Čekijos karalius 336, 356, žr."
+place_authority: true
+historical_names: []
 ---
 # Uturiai
 
@@ -51,7 +60,8 @@ media_all_json: |-
 - id: c-34066
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 414"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 414."
   citata_originali: |
     Tvirbutas, bajoras 368
     Ugra, upė 321, 322

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9174d1a9411e5a941f7b0869"
+canonical_name: "J. Sondeckis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Sondeckis"]
+sameAs: []
+canonical_biography: "Sondeckis išvertė lietuviškai^141."
 ---
 # J. Sondeckis
 
@@ -50,7 +57,8 @@ Sondeckis išvertė lietuviškai^141.
 - id: c-32978
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 94."
   citata_originali: |
     Ypač reikšmingi jo veikalai
     apie Lietuvos valstybės administracinį padalinimą ir apie seimą^140.

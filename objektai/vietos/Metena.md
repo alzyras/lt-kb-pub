@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c49e5049f41890f78faad77c"
+canonical_name: "Metena"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Metena"]
+sameAs: []
+canonical_biography: "Stai­ ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie Nemuno, būtent, Naująjį Gardiną ir Meteną22 23 ."
+place_authority: true
+historical_names: []
 ---
 # Metena
 
@@ -59,7 +68,8 @@ Stai­ ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie N
 - id: c-33952
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 315."
   citata_originali: |
     1392 m. birželio gale, apsimes­
     damas, iš Ritterswerderio patraukė Lietuvon į tariamą žygį. Stai­

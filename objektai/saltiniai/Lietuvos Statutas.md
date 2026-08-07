@@ -90,7 +90,8 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
 - id: c-67345
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 232."
   citata_originali: |
     Vi-
     sas statutas buvo taip sutvarkytas, kad rodė Lietuvą esant vi-
@@ -111,7 +112,8 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
 - id: c-67347
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 232."
   citata_originali: |
     Kai 1522 m. bajorija
     pažadėjo jį išrinkti didžiuoju Lietuvos kunigaikščiu, jo tėvas
@@ -133,7 +135,8 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
 - id: c-67348
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 349."
   citata_originali: |
     Žodžiu, ji visą laiką kovojo,
     kad Lietuva gautų tokią pat reikšmę jungtinėje valstybėje, ko-
@@ -154,7 +157,8 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
 - id: c-67350
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 236."
   citata_originali: |
     valdyme. Visa tai buvo patvirtinta naujai perredaguotoje ant-
     rojoje statuto laidoje.
@@ -173,7 +177,8 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
 - id: c-178646
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 30."
   citata_originali: |
     Iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio­
     navo Ukrainos prijungimą prie Lenkijos, pripažino ka­

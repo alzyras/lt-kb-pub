@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5dc2357fe96488f79a0e2b6e"
+canonical_name: "Johanas Leo"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Johanas Leo"]
+sameAs: []
+canonical_biography: "Betgi Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenenbergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar ba."
 ---
 # Johanas Leo
 
@@ -47,7 +54,8 @@ Betgi Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenenbergeris pirmas
 - id: c-177238
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
   citata_originali: |
     Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
     kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-60c20de23d5379d13065abf7"
+canonical_name: "Bajerburgas Raudonė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bajerburgas Raudonė"]
+sameAs: []
+canonical_biography: "Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško žodžio „raudonas\", mat jos sienos sumūrytos iš raudonų plytų. Pasak Prūsijos metrašti­ ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai 102 ## Puslapis 119 I KNYGA vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs jam pilies užėmimą. Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib."
+place_authority: true
+historical_names: []
 ---
 # Bajerburgas Raudonė
 
@@ -94,7 +103,8 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
 - id: c-81981
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 118-119"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 118-119."
   citata_originali: |
     Pilies kieme kadaise buvo gilus šulinys, gau­
     siai vandens tiekiantis, - dabar visai užkastas, o po centri­
@@ -124,7 +134,8 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
 - id: c-81982
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 119-120"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 119-120."
   citata_originali: |
     Rau­
     donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
@@ -186,7 +197,8 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
 - id: c-81983
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 118."
   citata_originali: |
     Dabar Veliuona priklauso dvari­
     ninkui Mykolui Zaleskiui.

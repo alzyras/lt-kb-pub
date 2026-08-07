@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8c68130d32a17e622c359f47"
+canonical_name: "Sudervė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sudervė","Sudervė (vieta)"]
+sameAs: []
+canonical_biography: "Vilniaus pilies teisme Kauno miestietis ir pirklys Mikalojus Bartkevičius su kitais kauniečiais pirkliais prašė įrašyti į teismo aktų knygas savo pareiškimą dėl Jurui Volmenskiui priklausančio Sudervės dvaro tijūno savivalės."
+place_authority: true
+historical_names: []
 ---
 # Sudervė (vieta)
 
@@ -52,9 +61,9 @@ Vilniaus pilies teisme Kauno miestietis ir pirklys Mikalojus Bartkevičius su ki
 ## Citatos
 
 - id: c-185092
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 223"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 223."
   citata_originali: |
     Vilniaus pilies
     teisme Kauno miestietis ir pirklys Mikalojus Bartkevičius su kitais kauniečiais pir-

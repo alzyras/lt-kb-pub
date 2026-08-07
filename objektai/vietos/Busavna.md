@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-32cde9d3453fb1091b51b530"
+canonical_name: "Busavna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Busavna"]
+sameAs: []
+canonical_biography: "1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o Teodoras Narbutas šį kraštą apibūdino kaip labai nuniokotą."
+place_authority: true
+historical_names: []
 ---
 # Busavna
 
@@ -63,7 +72,8 @@ media_all_json: |-
 - id: c-175638
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     Ne
     viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-84c16f258f380550e5129303"
+canonical_name: "Zivinbudas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zivinbudas"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikštis, vedė Kerniaus dukterį Pajautą."
 ---
 # Zivinbudas
 
@@ -55,7 +62,8 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
 - id: c-173105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     154
 

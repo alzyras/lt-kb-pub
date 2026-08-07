@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-33eeda1278bc94730b663904"
+canonical_name: "Jonas Juškevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jonas Juškevičius"]
+sameAs: []
+canonical_biography: "Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti savo rusiškai parašytą lietuvišką gramatiką, jis gavo pasiūlymą lietuviškąjį tekstą perrašyti rusiškomis raidėmis."
 ---
 # Jonas Juškevičius
 
@@ -61,7 +68,8 @@ Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti sa
 - id: c-01307
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 500"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 500."
   citata_originali: |
     Kaip tik tuo metu rusų slavofilų tarpe buvo kilęs sumany-
     mas, kad visiems slavams reikėtų vartoti rusiškąsias raides.

@@ -25,36 +25,58 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fbfe511ef448270780e695ab"
+canonical_name: "Kazimieras Jonas Sapiega"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras Jonas Sapiega"]
+sameAs: []
+canonical_biography: "1688 m. į Gardino seimą vykęs Mogiliavo vaitas ir suolininkas Kazimierui Jonui Sapiegai padovanojo geresnių lapių kailių ir tris poras lapės pakaklės kailių."
 ---
 # Kazimieras Jonas Sapiega
 
 ## Santrauka
 
-1688 m. į Gardino seimą vykstantis Mogiliavo vaitas ir suolininkas LDK rūmų iždininkui Kazimierui Jonui Sapiegai padovanojo geresnių lapių kailių ir tris poras lapės pakaklės kailių.
+1688 m. į Gardino seimą vykęs Mogiliavo vaitas ir suolininkas Kazimierui Jonui Sapiegai padovanojo geresnių lapių kailių ir tris poras lapės pakaklės kailių.
+
+## Santrauka
+
+1688 m. į Gardino seimą vykęs Mogiliavo vaitas ir suolininkas Kazimierui Jonui Sapiegai padovanojo geresnių lapių kailių ir tris poras lapės pakaklės kailių.
 
 ## Teiginiai
 
 <a id="claim-t-202337"></a>
 - t-001
-  teiginys: "1688 m. į Gardino seimą vykstantis Mogiliavo vaitas ir suolininkas LDK rūmų iždininkui Kazimierui Jonui Sapiegai padovanojo geresnių lapių kailių ir tris poras lapės pakaklės kailių."
-  atnaujinta: "2026-07-19 11:47"
+  teiginys: "1688 m. į Gardino seimą vykęs Mogiliavo vaitas ir suolininkas Kazimierui Jonui Sapiegai padovanojo geresnių lapių kailių ir tris poras lapės pakaklės kailių."
+  atnaujinta: "2026-07-26 19:27"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Bžostovskis (Vilniaus vyskupas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Jonas Sapiega: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Bžostovskis (Vilniaus vyskupas): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jonas Sapiega\" parinktas kaip owner_note_path. Targetas \"Bžostovskis (Vilniaus vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
-  vertinimo_atnaujinta: "2026-07-19T08:47:37Z"
+  temporaliniai_duomenys: "įvykio data: 1688 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta veiksmo aplinkybė ir pašalinta gremėzdiška dalyvio konstrukcija. Išlaikyti Sapiegos pareigos, dovanos, vieta ir data."
+  vertinimo_atnaujinta: "2026-07-26T16:26:36Z"
   pagrindžia:
     - c-185684
 
 ## Citatos
 
 - id: c-185684
-  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
+  autorius: "Marija Matušakaitė"
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)"
   puslapiai: "p. 59 (PDF 2)"
-  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 59 (PDF 2)."
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-19 11:47"
+  atnaujinta: "2026-07-26 19:26"
   pagrindzia:
     - t-001

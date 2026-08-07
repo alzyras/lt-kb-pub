@@ -50,7 +50,8 @@ Patriarchali­ niuose Lietuvos santykiuose iš buvusiųjų vergų būklėje žmo
 - id: c-93926
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 140."
   citata_originali: |
     Į šių padėtį
     paprastai patekdavo iš kaimynų atvedamieji karo belaisvių būriai.

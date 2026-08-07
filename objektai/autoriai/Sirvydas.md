@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-814a5f9496129c63b8c773ab"
+canonical_name: "Sirvydas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Sirvydas"]
+sameAs: []
+canonical_biography: "Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką žodį „nukrypęs“."
 ---
 # Sirvydas
 
@@ -53,7 +60,8 @@ Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką 
 - id: c-173287
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 291"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 291."
   citata_originali: |
     Lietuviai, artimesni prūsams,krzywy\adincLKreiwas -
     iš slavų kalbos, o kiti, kaip antai mano užkampiečiai, turi tam

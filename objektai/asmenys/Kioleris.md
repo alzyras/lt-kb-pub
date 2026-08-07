@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-363e0edc06d30622be8a10de"
+canonical_name: "Kioleris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kioleris"]
+sameAs: []
+canonical_biography: "Kiolerio vadovaujama kolona turėjo pulti bolševikus palei plentą Leliūnai-Utena."
 ---
 # Kioleris
 
@@ -50,7 +57,8 @@ Kiolerio vadovaujama kolona turėjo pulti bolševikus palei plentą Leliūnai-Ut
 - id: c-41571
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 185."
   citata_originali: |
     Viduriniąją koloną sudarė viena saksų
     savanorių kuopa, artilerijos būrys (2 pa-

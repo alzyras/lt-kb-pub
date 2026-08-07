@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7f9ba3c09376af17f3e1b505"
+canonical_name: "Noihauzas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Noihauzas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje, Kuršių nerijoje Brolis Konradas, magistras, išmintingas ir apdairus vyras, suprasdamas, kad, braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos. Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais pačiais metais brolis Fridrichas, vadinamas Hole, brolio Markvardo iš Revelingės 511 D.— Nova domus, castrum novum (III, 303), Jer.— Nûwe huis. Ši Ordino pilis buvusi pastatyta Kuršių nerijos pradžioje prie."
+place_authority: true
+historical_names: []
 ---
 # Noihauzas
 
@@ -72,7 +81,8 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
 - id: c-59236
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
   citata_originali: |
     Apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje,
                                        Kuršių nerijoje

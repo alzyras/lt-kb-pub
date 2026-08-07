@@ -64,7 +64,8 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
 - id: c-59779
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
   citata_originali: |
     Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę
     drauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,
@@ -85,7 +86,8 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
 - id: c-179019
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
   citata_originali: |
     Ir viešpaties
     dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su

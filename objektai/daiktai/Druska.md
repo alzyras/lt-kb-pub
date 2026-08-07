@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-33223
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 303."
   citata_originali: |
     Nuo Vytenio ir
     Gedimino laikų Ryga išsivystė Lietuvai ypatingai svarbiu prekybos

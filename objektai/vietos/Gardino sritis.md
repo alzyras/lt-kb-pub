@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f17aef719aa3abada2c6171"
+canonical_name: "Gardino sritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gardino sritis"]
+sameAs: []
+canonical_biography: "Apie VIII-IX amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų Gardino sritį."
+place_authority: true
+historical_names: []
 ---
 # Gardino sritis
 
@@ -51,7 +60,8 @@ Apie VIII-IX amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų G
 - id: c-28235
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 114."
   citata_originali: |
     Su slavais išryškėjo karo ir prekybiniai santykiai. Apie VIII-IX
     amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų

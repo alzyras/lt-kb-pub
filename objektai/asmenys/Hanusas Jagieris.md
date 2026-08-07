@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09658d9cfcc1315762132f0c"
+canonical_name: "Hanusas Jagieris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hanusas Jagieris"]
+sameAs: []
+canonical_biography: "Kai 1586 m. Kauno tarėjas ir stambus verslovininkas Hanusas Jagieris panoro atsisakyti Kauno miesto tarėjo pareigų dėl didelio užimtumo rūpinantis verslu, jam teko pagalbos kreiptis į Steponą Batorą."
 ---
 # Hanusas Jagieris
 
@@ -49,9 +56,9 @@ Kai 1586 m. Kauno tarėjas ir stambus verslovininkas Hanusas Jagieris panoro ats
 ## Citatos
 
 - id: c-185451
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 280"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 280."
   citata_originali: |
     Pastaroji pastaba rodytų, kad pasitraukimas ar pašalinimas iš mies-
     to savivaldos institucijų pareigystės nebuvo toleruotinas reiškinys.

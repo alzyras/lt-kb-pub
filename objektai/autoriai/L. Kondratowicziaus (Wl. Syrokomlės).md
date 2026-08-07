@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3dbd4f4d8e36925df80fbf5f"
+canonical_name: "L. Kondratowicziaus (Wl. Syrokomlės)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["L. Kondratowicziaus (Wl. Syrokomlės)"]
+sameAs: []
+canonical_biography: "Kondratowicziaus (Wl."
 ---
 # L. Kondratowicziaus (Wl. Syrokomlės)
 
@@ -50,7 +57,8 @@ Kondratowicziaus (Wl.
 - id: c-55076
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 243."
   citata_originali: |
     XIX
     amž. tautinio atgimimo laikotarpyje lietuviams stiprų įspūdį darė

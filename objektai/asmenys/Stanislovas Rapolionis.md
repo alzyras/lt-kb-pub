@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fc7ae6c400c3835b145543fd"
+canonical_name: "Stanislovas Rapolionis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Rapolionis"]
+sameAs: []
+canonical_biography: "Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“."
 ---
 # Stanislovas Rapolionis
 
@@ -62,7 +69,8 @@ Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo
 - id: c-21988
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 61."
   citata_originali: |
     Vilniuje A. Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi
     60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė

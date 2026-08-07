@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a126800e28acab4039654475"
+canonical_name: "Mykolas Velhorskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Velhorskis"]
+sameAs: []
+canonical_biography: "Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. Vietoje Jokūbo Jasinskio Lietuvos sukilėlių vadu paskirtas lenkų generolas Michalas Velhorskis nesugebėjo tinkamai vadovauti."
 ---
 # Mykolas Velhorskis
 
@@ -66,7 +73,8 @@ Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. V
 - id: c-44470
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 155."
   citata_originali: |
     Tačiau
     sukilėlių tikėjimas pergale ėmė blėsti.
@@ -99,7 +107,8 @@ Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. V
 - id: c-44471
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 151."
   citata_originali: |
     Jų spaudžiamas vyriau-
     siasis Lenkijos ir LDK sukilėlių vadas Tadas

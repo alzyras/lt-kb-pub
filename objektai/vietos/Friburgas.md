@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-469bab6ce3a92fb1126b5f63"
+canonical_name: "Friburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Friburgas"]
+sameAs: []
+canonical_biography: "Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas prof. G."
+place_authority: true
+historical_names: []
 ---
 # Friburgas
 
@@ -59,7 +68,8 @@ Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas prof. G.
 - id: c-33838
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 160."
   citata_originali: |
     Ir pačių
     lietuvių studijų bei straipsnių apie Mindaugą ir jo laikų Lietuvą

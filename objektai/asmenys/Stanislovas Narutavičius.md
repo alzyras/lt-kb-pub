@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b0803e9a7cf34a69976768ba"
+canonical_name: "Stanislovas Narutavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Narutavičius"]
+sameAs: []
+canonical_biography: "Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M."
 ---
 # Stanislovas Narutavičius
 
@@ -50,7 +57,8 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
 - id: c-73657
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 131-132"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 131-132."
   citata_originali: |
     Lietuviakalbės Lietuvos
     kūrėjai lenkiškai kalbantiesiems nesiūlė jokių papildomų privilegijų, o tik

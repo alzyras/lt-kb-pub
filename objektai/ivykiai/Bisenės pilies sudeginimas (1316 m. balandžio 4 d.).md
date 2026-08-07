@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-60122
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
     Apie Bisenės pilies sudeginimą 1316 metais
     Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš

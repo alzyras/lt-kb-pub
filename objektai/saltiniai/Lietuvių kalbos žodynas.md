@@ -100,7 +100,8 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 - id: c-67336
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
   citata_originali: |
     Lietuvių kalbos žodynas.— T. 6.— V., 1962.
   statusas: verified
@@ -114,7 +115,8 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 - id: c-67337
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
   citata_originali: |
     206 D.— baculum. Krivės baculum buvo krivūlė — kreiva lazda, krivio (vėliau seniūno)
     valdžios ženklas, lazda žmonėms  į kuopą šaukti (Lietuvių kalbos žodynas, VI, p. 661;
@@ -130,7 +132,8 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 - id: c-166757
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 172."
   citata_originali: |
     Tęstas 1902 m. Kazi-
     miero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai

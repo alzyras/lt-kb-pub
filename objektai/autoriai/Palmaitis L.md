@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1cb2d0ca3af88df3c5c3a1ba"
+canonical_name: "Palmaitis L"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Palmaitis L"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad palmaitis L."
 ---
 # Palmaitis L
 
@@ -59,7 +66,8 @@ Dusburgietis teigia, kad palmaitis L.
 - id: c-63376
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
   citata_originali: |
     Palmaitis L. Prūsų kalbos negimininių įvardžių formų kilmė—Baltistica, 1976, 12 (2),
     p. 156—164.

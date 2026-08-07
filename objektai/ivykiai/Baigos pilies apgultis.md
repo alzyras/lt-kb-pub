@@ -59,9 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184663
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 303"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 303."
   citata_originali: |
     Po nuopuolio kry-
     žėjų ties pilė Baiga, arba Oneda. Jau praėjusį metą

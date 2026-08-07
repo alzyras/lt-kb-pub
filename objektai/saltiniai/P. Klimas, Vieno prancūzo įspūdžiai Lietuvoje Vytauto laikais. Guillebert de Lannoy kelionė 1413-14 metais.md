@@ -61,7 +61,8 @@ Klimas, P.
 - id: c-33685
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 385."
   citata_originali: |
     — (”) _Išskiriamieji ženklai lietuviškoje nu­
     mizmatikoje_ , TaPr, II, 1, 1964, 108-121 p. — Klimas, P. : _Vieno prancūzo

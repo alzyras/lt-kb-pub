@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1690a7f0bd875a12ae18fa6b"
+canonical_name: "Goštautų mūras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Goštautų mūras"]
+sameAs: []
+canonical_biography: "70 Detali Kardinalijos istorija yra tokia: kunigaikštis Jurgis Radvila, dar bū­ damas Vilniaus vyskupijos koadju­ torius, su broliu gavo palikimo mū­ rinį namą, Goštautų vardo, stovintį priešais Šv. Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kurioje ilgai buvo lai­ komos pamaldos, ir pats kurį laiką gyveno, todėl jam duotas Kardinali­ jos vardas."
+place_authority: true
+historical_names: []
 ---
 # Goštautų mūras
 
@@ -71,7 +80,8 @@ media_all_json: |-
 - id: c-82050
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Mes cituojame tik tuos, kuriuos
     matėme patys.
@@ -94,7 +104,8 @@ media_all_json: |-
 - id: c-82051
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Marijos Magdalenos baž­
     nyčios, po dešine ranka Skapo gatvėje

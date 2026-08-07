@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-33415764c278068261d3963f"
+canonical_name: "Naujasis Gardinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujasis Gardinas"]
+sameAs: []
+canonical_biography: "Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­ talpintos kryžiuočių įgulos. Po to skubiai atvyko prie Gardino, jį labai sustiprino ir tuojau atsigrę­ žė prieš Neu-Gardiną ir Meteną."
+place_authority: true
+historical_names: []
 ---
 # Naujasis Gardinas
 
@@ -68,7 +77,8 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 65."
   citata_originali: |
     Po to
     skubiai atvyko prie Gardino, jį labai sustiprino ir tuojau atsigrę­
@@ -87,7 +97,8 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 65."
   citata_originali: |
     Matydamas Vytauto pastangas neinant veltui, Ordinas ma­
     tė reikalą taip pat išplėsti Lietuvos pasienyje akciją. Dar

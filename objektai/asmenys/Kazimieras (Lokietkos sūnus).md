@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e9b0d70704a8e3bf48e58016"
+canonical_name: "Kazimieras (Lokietkos sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras (Lokietkos sūnus)"]
+sameAs: []
+canonical_biography: "1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi 24."
 ---
 # Kazimieras (Lokietkos sūnus)
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-32770
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 239."
   citata_originali: |
     Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
     Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo

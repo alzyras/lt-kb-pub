@@ -36,17 +36,8 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
 
 ## Teiginiai
 
-<a id="claim-t-86424"></a>
-- t-001
-  teiginys: "Vilniaus miestiečiams ir pirkliams buvo nurodyta mokėti muito, čopės ir šoso rinkliavas."
-  atnaujinta: "2026-07-24 14:55"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82404
-
 <a id="claim-t-86425"></a>
-- t-002
+- t-001
   teiginys: "Steponas Batoras laikinai atleido Vilniaus pirklius nuo naujai nustatyto muito mokesčio."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -62,7 +53,7 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
     - c-82404
 
 <a id="claim-t-86426"></a>
-- t-003
+- t-002
   teiginys: "Dėl Vilniaus Batoras pareikalavo, kad vaivada Radvila ragintų mokėti nustatytus muitus ir iš miestiečių išreikalautų Czopowe bei Szosowe mokesčius."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -82,7 +73,8 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
 - id: c-82403
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 345."
   citata_originali: |
     Tačiau Torunės seime, kilus ginčams
     su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­
@@ -110,12 +102,13 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-82404
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 343-344"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 343-344."
   citata_originali: |
     Baltramiejaus šventės, tūkstantis penki šimtai penkiasde­
     šimt devintaisiais Viešpaties metais, o mūsų valdymo tris­
@@ -149,12 +142,12 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-82405
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 345-346"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 345-346."
   citata_originali: |
     329
 

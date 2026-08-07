@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-756c58210bfcee03698eee03"
+canonical_name: "Ivanas Rūstusis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas Rūstusis"]
+sameAs: []
+canonical_biography: "Šios politikos ideologiniu pagrindu tapo nuo Ivano Rūsčiojo laikų žinoma nuostata pretenduoti į LDK žemes, kaip Rusijai neva „istorinio pirmumo“ principu turintį priklausyti paveldą."
 ---
 # Ivanas Rūstusis
 
@@ -69,7 +76,8 @@ media_all_json: |-
 - id: c-166926
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 106."
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     106

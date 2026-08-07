@@ -63,7 +63,7 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 <a id="claim-t-05588"></a>
 - t-001
   teiginys: "Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,7 +80,7 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 <a id="claim-t-05589"></a>
 - t-002
   teiginys: "Pagrindinės kronikos įsakmiai pažymi Mindaugo apostaziją."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -89,13 +89,13 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 <a id="claim-t-05590"></a>
 - t-003
   teiginys: "Apostazija šiame tekste reiškia Mindaugo atkritimą nuo krikščionybės."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1324 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-06406
+    - c-91766
 
 <a id="claim-t-05591"></a>
 - t-004
@@ -150,7 +150,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - id: c-06406
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 163."
   citata_originali: |
     Kly­
     menko, H. Lowmiański ir kt.) 20 * didelė dauguma, o gal ir visi Min­
@@ -172,14 +173,14 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
     - t-004
     - t-006
 
 - id: c-91762
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 199."
   citata_originali: |
     Kokio intereso būtų galėjęs turėti kry­
     žiuočių ordinas klaidingai painformuoti Romą — iš turimų versmių
@@ -200,7 +201,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - id: c-91763
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 199."
   citata_originali: |
     Vykstant deryboms dėl krikšto, Mindaugo santykiai su
     ordinu buvo statomi pavyzdžiu. Psichologiškai gali būti visai supran­
@@ -220,7 +222,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - id: c-91764
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 163."
   citata_originali: |
     Didelės svarbos yra penktoji problema, dėl kurios daug kas sau
     yra laužęs galvą, būtent, ar Mindaugas iš tiesų iki mirties išliko krikš­
@@ -245,7 +248,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - id: c-91766
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 197."
   citata_originali: |
     Šalia Mindaugo «sostinės» vietos, penkių jo dokumentų tikrumo
     mįslės ir kitų neišaiškintų problemų, tai yra pats svarbiausias kontro­
@@ -259,7 +263,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     gana objektyvus^193.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

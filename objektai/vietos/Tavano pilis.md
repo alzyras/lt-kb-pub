@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f269d650ff3fdb45c233c839"
+canonical_name: "Tavano pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tavano pilis"]
+sameAs: []
+canonical_biography: "Lietuvių Tavano pilyje, sto­ vinčioje prie Dniepro, Vytautas įstei­ gė muitinę, vadintą Vytauto pirtimi."
+place_authority: true
+historical_names: []
 ---
 # Tavano pilis
 
@@ -52,7 +61,8 @@ Lietuvių Tavano pilyje, sto­ vinčioje prie Dniepro, Vytautas įstei­ gė mui
 - id: c-82222
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 169."
   citata_originali: |
     79
     Kijevo kunigaikštystė ir Podolė,

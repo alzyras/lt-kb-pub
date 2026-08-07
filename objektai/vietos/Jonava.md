@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1e10839fca6691adefd57ae1"
+canonical_name: "Jonava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jonava"]
+sameAs: []
+canonical_biography: "Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius."
+place_authority: true
+historical_names: []
 ---
 # Jonava
 
@@ -50,7 +59,8 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
 - id: c-02715
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 477"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 477."
   citata_originali: |
     Tačiau puo-
     limas nepasisekė. Netekęs

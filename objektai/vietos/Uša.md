@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-26a80ea1b162c66e0b253998"
+canonical_name: "Uša"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Uša"]
+sameAs: []
+canonical_biography: "Uša yra Nemuno intakas, prie kurio yra Nesvyžius. Uša yra Nemuno intakas, prie kurio yra Nesvyžius."
+place_authority: true
+historical_names: []
 ---
 # Uša
 

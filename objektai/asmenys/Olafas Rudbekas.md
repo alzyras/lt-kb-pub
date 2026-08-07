@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-491e12f276ebad71f49da03f"
+canonical_name: "Olafas Rudbekas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Olafas Rudbekas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Olafą Rudbeką minėjo tarp autorių, dėsčiusių apie Šiaurės tautų lopšį."
 ---
 # Olafas Rudbekas
 
@@ -53,7 +60,8 @@ Teodoras Narbutas Olafą Rudbeką minėjo tarp autorių, dėsčiusių apie Šiau
 - id: c-174332
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
   citata_originali: |
     O iš čia didelė tauta ėmė lietis į
     visus kraštus; iš eilės Europos vakarai, šiaurė, rytai bei

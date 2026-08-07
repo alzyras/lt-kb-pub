@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9f1829f19cb3d7691a979cd5"
+canonical_name: "Ignotas Potockis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ignotas Potockis"]
+sameAs: []
+canonical_biography: "Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, pasisakiusių už priešinimąsi, trys buvo iš Lietuvos: LDK didysis maršalas Ignotas Potockis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios pusės maršalas K."
 ---
 # Ignotas Potockis
 
@@ -32,7 +39,8 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
 - id: c-21690
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 94."
   citata_originali: |
     Septyni ministrai palaikė karalių,
     penki buvo prieš – siūlė priešintis ir toliau derėtis, siekiant kuo palan-

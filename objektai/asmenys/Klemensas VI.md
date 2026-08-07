@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c74508e8770f5071ce9a04b4"
+canonical_name: "Klemensas VI"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Klemensas VI"]
+sameAs: []
+canonical_biography: "Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus į karą prieš lietuvius."
 ---
 # Klemensas VI
 
@@ -53,7 +60,8 @@ Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus 
 - id: c-169588
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 230-231"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 230-231."
   citata_originali: |
     Pats Klemensas
     v a ld o v ų  ž y g is  p rie š

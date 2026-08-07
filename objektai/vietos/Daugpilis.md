@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f1a5bdd6afefcf4e13a031f"
+canonical_name: "Daugpilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Daugpilis"]
+sameAs: []
+canonical_biography: "Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Daugpilį. Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur."
+place_authority: true
+historical_names: []
 ---
 # Daugpilis
 
@@ -137,15 +146,22 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 <a id="claim-t-188678"></a>
 - t-006
   teiginys: "Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Dauguva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Daugpilis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dauguva: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugpilis\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171568
+    - c-171567
 
 <a id="claim-t-188679"></a>
 - t-007
@@ -175,7 +191,8 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - id: c-43377
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Plk. Z. Sierakauskas parengė sukilė-
     lių kovos planą. Buvo numatyta apjungti
@@ -196,7 +213,8 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - id: c-43379
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 193."
   citata_originali: |
     ORiebiniai
 
@@ -214,7 +232,8 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - id: c-165040
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Netrukus nenumatyti įvykiai pri-
     vertė koreguoti planus. Po nepavykusio
@@ -237,7 +256,8 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - id: c-165041
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 11."
   citata_originali: |
     Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
     kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
@@ -263,7 +283,8 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - id: c-168299
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 345."
   citata_originali: |
     Vytautas, ligi šiol laikęs savo kariuomenę
     Rusioje žiemos stovykloje, negalėjo su keliais būriais,
@@ -295,7 +316,8 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - id: c-171567
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
   citata_originali: |
     Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
     sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
@@ -311,14 +333,17 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   citata_rodoma: "Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje\nsugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties\nkalaviju, kurio iš jo neatėmė pagerbdami jo luomą. Tą kalavi­\nją riteriai grąžino kunigaikščio giminėms, tarpininkaujant ru­\nsų kunigaikščiui Visvaldžiui (Vsevolodui), kurio sostinė buvo\nGercikos pilis prie Dauguvos, autoriaus nuomone, dabartinis\nDaugpilis. Tą kalaviją lietuviai paskyrė savajam karo dievui;\nkiek kartų jį turėję su savimi kovodami su livoniečiais, tiek\nkartų nugalėję, nes buvo įsitikinę, kad jų karo dievas padės\nkeršydamas už nužudymą Dangeručio, kuris, kaip jie manė,\nnelaisvėje buvo nužudytas tuo kalaviju."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-171568
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 371"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
   citata_originali: |
     Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­
     lingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­
@@ -335,7 +360,6 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
     - t-007
 
 ## Ryšiai

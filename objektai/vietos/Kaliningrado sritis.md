@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cde446a43438903624ead9f2"
+canonical_name: "Kaliningrado sritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kaliningrado sritis"]
+sameAs: []
+canonical_biography: "Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva. Vokietija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabartinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai. Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruose įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje atiduota 50-čiai metų administruoti SSRS."
+place_authority: true
+historical_names: []
 ---
 # Kaliningrado sritis
 
@@ -131,7 +140,8 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 - id: c-73949
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 239-240"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 239-240."
   citata_originali: |
     Tačiau LKP pertvar-
     kos taktika („žingsnis po žingsnio“) neparuošė valstybės tęstinumą įtvir-
@@ -160,7 +170,8 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 - id: c-73950
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 256."
   citata_originali: |
     Ra-
     tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
@@ -182,7 +193,8 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 - id: c-73952
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 255."
   citata_originali: |
     Tarpukariu Lietuva su Vokietija konfliktavo dėl Klaipėdos krašto, o
     su Lenkija – dėl Vilniaus krašto. XX a. pabaigoje padėtis pasikeitė. Vokie-
@@ -201,7 +213,8 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 - id: c-166989
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 256."
   citata_originali: |
     Savo ruožtu Lietuva nustojo teisės
     reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tau-

@@ -38,7 +38,7 @@ Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąj
 <a id="claim-t-20039"></a>
 - t-001
   teiginys: "1941 m. birželio 28 d. paleidus sukilėlių būrius, iš savanorių prie Kauno karo komendantūros suformuotas TDA batalionas."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1941 m."
@@ -72,7 +72,8 @@ Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąj
 - id: c-22774
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 199."
   citata_originali: |
     Einzatsgrupės terorą organizavo taip, kad atrodytų, jog pirmuosius
     pogromus ir „apsivalymo“ akcijas vykdo vietiniai gyventojai. Talkinin-
@@ -94,7 +95,8 @@ Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąj
 - id: c-166574
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 199."
   citata_originali: |
     Talkinin-
     kų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba ban-

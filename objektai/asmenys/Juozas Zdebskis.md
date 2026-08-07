@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f0e40f4b5082259a1f307723"
+canonical_name: "Juozas Zdebskis (kunigas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozas Zdebskis","Juozas Zdebskis (kunigas)"]
+sameAs: []
+canonical_biography: "1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio žurnalistams pranešė, kad lapkričio 13 dieną Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas (TTGK) (jam dar."
 ---
 # Juozas Zdebskis (kunigas)
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-21790
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 229."
   citata_originali: |
     Tai buvo kone vienintelis leidinys, be pertraukos net 17
     metų (nors ir nereguliariai) leistas Sovietų Sąjungoje. Nors „Kronika“ skirta

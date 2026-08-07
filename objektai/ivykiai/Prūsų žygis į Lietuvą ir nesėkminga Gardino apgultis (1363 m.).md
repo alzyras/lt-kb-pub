@@ -85,7 +85,8 @@ Nenurodyta
 - id: c-169125
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 245."
   citata_originali: |
     Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­
     nos pilis: pirmąją išsigandę gynėjai atidavė be kovos,
@@ -116,7 +117,8 @@ Nenurodyta
 - id: c-178597
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 245-246"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 245-246."
   citata_originali: |
     Neatnešė ato­
     kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs

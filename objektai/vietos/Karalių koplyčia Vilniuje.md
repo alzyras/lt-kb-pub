@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-94de5ec36c4ffb8166298b21"
+canonical_name: "Karalių koplyčia Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karalių koplyčia Vilniuje"]
+sameAs: []
+canonical_biography: "Nepašykštėjo čia ir Žygimantas Augustas, dalydamas gausius savo prieraišumo 30 Ši slapta santuoka įvyko 1547 metų rugsėjo mėnesį Karalių koplyčioje Vilniuje."
+place_authority: true
+historical_names: []
 ---
 # Karalių koplyčia Vilniuje
 
@@ -60,7 +69,8 @@ Nepašykštėjo čia ir Žygimantas Augustas, dalydamas gausius savo prieraišum
 - id: c-82172
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 289."
   citata_originali: |
     Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų
     giminės galybė ir kaupėsi nauji jų turtai, kurių pėdsakai, net

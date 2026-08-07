@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5612ba8ebbf8c06007a23b83"
+canonical_name: "Piltenė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Piltenė"]
+sameAs: []
+canonical_biography: "Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos (Eželio) vyskupystę."
+place_authority: true
+historical_names: []
 ---
 # Piltenė
 
@@ -63,7 +72,8 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 - id: c-47131
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 230."
   citata_originali: |
     Visai Livonijai bu-
     vo pripažinta tikėjimo laisvė (mat, ji buvo protestantiška) ir

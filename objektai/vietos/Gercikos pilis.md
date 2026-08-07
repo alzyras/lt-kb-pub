@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-965473e75ea3d244cf555e21"
+canonical_name: "Gercikos pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gercikos pilis","Gercikos pilis (pilis)"]
+sameAs: []
+canonical_biography: "Narbutas Gercikos pilį prie Dauguvos vadina rusų kunigaikščio Visvaldžio sostine ir sieja ją su dabartiniu Daugpiliu."
+place_authority: true
+historical_names: []
 ---
 # Gercikos pilis (pilis)
 
@@ -55,7 +64,8 @@ Narbutas Gercikos pilį prie Dauguvos vadina rusų kunigaikščio Visvaldžio so
 - id: c-171888
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
   citata_originali: |
     Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
     sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties

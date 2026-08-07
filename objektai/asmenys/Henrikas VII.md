@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a9929c184f14c92554594f1"
+canonical_name: "Henrikas VII"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas VII"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos karaliumi Tais pačiais metais, šventos Kotrynos dieną (lapkričio 25), Vokietijos valdovai elektoriai vieningai išrinko Henriką, Liuksemburgo grafą, Romos karaliumi (Mart. Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metais, per tris karalius sausio 6 dieną, Henriką, Romos karalių, vainikavo prie Milano geležiniu vainiku (Ptol. Dusburgietis teigia, kad apie karaliaus Henriko vainikavimą imperatoriumi Tais metais Henrikas VII, Romos karalius, buvo vainikuotas Romoje, Laterano bažnyčioje, imperatoriumi po 62 metų nuo imperatoriaus Fridricho II mirties (Mart."
 ---
 # Henrikas VII
 
@@ -111,7 +118,8 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
 - id: c-60608
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
   citata_originali: |
     113. Apie Henriko, imperatoriaus, mirtį
 
@@ -130,7 +138,8 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
 - id: c-60609
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247."
   citata_originali: |
     105. Apie Henriko, Liuksemburgo grafo, išrinkimą Romos karaliumi
 
@@ -149,7 +158,8 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
 - id: c-60610
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247."
   citata_originali: |
     107. Apie jo vainikavimą prie Milano
 
@@ -167,7 +177,8 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
 - id: c-60611
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 247-248"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247-248."
   citata_originali: |
     110. Apie karaliaus Henriko vainikavimą imperatoriumi
 

@@ -92,7 +92,8 @@ Nenurodyta
 - id: c-66782
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180-181"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180-181."
   citata_originali: |
     Apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą
 
@@ -120,7 +121,8 @@ Nenurodyta
 - id: c-167311
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180-181"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180-181."
   citata_originali: |
     Pirmajam priklausė į vakarus nuo Gedimino
 

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-050fa8218953672eaf821b6c"
+canonical_name: "Ciprijonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ciprijonas"]
+sameAs: []
+canonical_biography: "Tai buvo bulgaras Ciprijonas, kurį Algirdas per didelius vargus buvo išgavęs Lietuvai, kaip atski­ rą Kijevo metropolitą, bet vėliau, mirus Maskvos metropolitui Pimenui, nusikėlė į Maskvą ir savo valdžioj suvienijo Rusijos ir Lietuvos stačiatikius."
 ---
 # Ciprijonas
 
@@ -52,7 +59,8 @@ Tai buvo bulgaras Ciprijonas, kurį Algirdas per didelius vargus buvo išgavęs 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 133."
   citata_originali: |
     Maskvoje gyveno stačiatikiu metropolitas, kuris tvarkė ir Lie­
     tuvos stačiatikių reikalus. Tai buvo bulgaras Ciprijonas, kurį

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-495c958d07724c191227cdd8"
+canonical_name: "Spytkas iš Melsztyno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Spytkas iš Melsztyno"]
+sameAs: []
+canonical_biography: "Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreikaičiai ir žymusis Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno."
 ---
 # Spytkas iš Melsztyno
 
@@ -51,7 +58,8 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
 - id: c-32801
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 324"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 324."
   citata_originali: |
     Jų tarpe du žinomi Algirdaičiai: 1380 kovoję prieš
     Jogailą Maskvos pusėje, būtent Polocko — Andrius ir Briansko —

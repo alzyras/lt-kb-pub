@@ -59,7 +59,8 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
 - id: c-03475
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 177-178"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 177-178."
   citata_originali: |
     Tie, kurie mokėjo medum ir
     vašku, buvo vadinami bitininkais, kurie mokėjo kiaunių
@@ -80,7 +81,8 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
 - id: c-03476
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 177-178"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 177-178."
   citata_originali: |
     Kiekvienas iš jų mokėjo mo-
     kesčius savo verslo produktais. Tie, kurie mokėjo medum ir

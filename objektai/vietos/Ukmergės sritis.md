@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-95545183c557ded774419dcf"
+canonical_name: "Ukmergės sritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ukmergės sritis"]
+sameAs: []
+canonical_biography: "Narbutas Zivinbudą vadino Dausprungų giminės Ukmergės srities kunigaikščiu, vedusiu Kerniaus dukterį Pajautą."
+place_authority: true
+historical_names: []
 ---
 # Ukmergės sritis
 
@@ -54,7 +63,8 @@ Narbutas Zivinbudą vadino Dausprungų giminės Ukmergės srities kunigaikščiu
 - id: c-171961
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     154
 

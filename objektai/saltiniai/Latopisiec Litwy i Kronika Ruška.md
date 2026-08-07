@@ -125,7 +125,8 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 - id: c-55644
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 43."
   citata_originali: |
     Wremiennik Sofijski, p. 334. Žr.
     Danilovičių: Latopisiec Litwy i
@@ -144,7 +145,8 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 - id: c-55646
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 141."
   citata_originali: |
     Vėliau pa­
     stebėsime Vytautą savo fundacijose
@@ -167,7 +169,8 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 - id: c-78514
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 138."
   citata_originali: |
     Ros. T. V. vert. į lenk. k. p. 137-
     138. Panaši užuomina apie šį Glebą
@@ -186,7 +189,8 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 - id: c-78515
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 137."
   citata_originali: |
     [Iš
     prancūzų reikia išskirti Jeaną Le

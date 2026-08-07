@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6d3d24f96d797c79134f63ce"
+canonical_name: "Nakaimas iš Pagudės"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nakaimas iš Pagudės"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro], vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų."
 ---
 # Nakaimas iš Pagudės
 
@@ -67,7 +74,8 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
 - id: c-61024
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
   citata_originali: |
     Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
     krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],

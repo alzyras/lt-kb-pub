@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba069e35e0f0478dfe70fec8"
+canonical_name: "Christburgas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Christburgas","Christburgas (vieta)"]
+sameAs: []
+canonical_biography: "To dėjęsis, liepė visų pirma me džiagą jai patiekti, paskui, sutraukęs visus meldžionis, ėjo į Pamezoniją, kurie tenai tarp Sirgūnės upies ir Draudžiu ežero ant kalno stiprioj vietoj ir neprieinamoj pilį padirbo, kurią pravardavo taip pat Christburgu ir tenai."
+place_authority: true
+historical_names: []
 ---
 # Christburgas (vieta)
 
@@ -46,9 +55,9 @@ To dėjęsis, liepė visų pirma me džiagą jai patiekti, paskui, sutraukęs vi
 ## Citatos
 
 - id: c-184493
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 336"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 336."
   citata_originali: |
     Tą matydamas, Vida, kryžėjų rėdytojas, užsikėto
     naują pilį įkurti. To dėjęsis, liepė visų pirma me­

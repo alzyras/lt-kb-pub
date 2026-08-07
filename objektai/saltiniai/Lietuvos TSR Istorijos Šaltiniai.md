@@ -117,7 +117,8 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
 - id: c-85474
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
   citata_originali: |
     Kai kurios
     kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96. Pilnas
@@ -135,7 +136,8 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
 - id: c-85476
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
   citata_originali: |
     Lietuvos TSR istorijos šaltiniai.— T. 1.— V., 1955.
   statusas: verified

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7762828bd58222dbd3cbdac5"
+canonical_name: "Senda Berenson-Abbot"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Senda Berenson-Abbot"]
+sameAs: []
+canonical_biography: "Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio motina Senda Berenson-Abbot (Senda Berenson-Abot, g."
 ---
 # Senda Berenson-Abbot
 
@@ -63,7 +70,8 @@ Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė k
 - id: c-75375
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265."
   citata_originali: |
     O beveik
     kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar

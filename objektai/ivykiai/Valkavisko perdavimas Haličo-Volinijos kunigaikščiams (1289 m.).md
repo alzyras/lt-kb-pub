@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-33432
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 222."
   citata_originali: |
     Haličo — Volinijos kunigaikščiai plėtėsi į šiaurę,
     paimdami senas Mindaugines valdas, Slanimo ir kitas pilis. Taikai

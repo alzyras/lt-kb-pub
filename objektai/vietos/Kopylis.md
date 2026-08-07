@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b553d37c2d3989e491951cbe"
+canonical_name: "Kopylis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kopylis"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Kopylis
 

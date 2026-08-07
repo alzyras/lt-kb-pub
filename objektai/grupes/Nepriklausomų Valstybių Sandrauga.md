@@ -61,7 +61,8 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
 - id: c-22688
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 251."
   citata_originali: |
     Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-
     giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos

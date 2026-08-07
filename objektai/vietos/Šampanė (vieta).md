@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cd4de95a528a930b773e9936"
+canonical_name: "Šampanė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šampanė","Šampanė (vieta)"]
+sameAs: []
+canonical_biography: "Šampanas, Rimvydo Laužiko vertinimu, vynui tapus „visuotinai“ paplitusiu gėrimu, tapo didikų ir paprastos bajorijos skiriamuoju ženklu."
+place_authority: true
+historical_names: []
 ---
 # Šampanė (vieta)
 

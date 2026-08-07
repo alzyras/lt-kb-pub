@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6ccc190e2660890bccb6c041"
+canonical_name: "Jurgis Radvila (vyskupas, XVI a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Radvila","Jurgis Radvila (vyskupas, XVI a.)"]
+sameAs: []
+canonical_biography: "Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią. Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti. Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti."
 ---
 # Jurgis Radvila (vyskupas, XVI a.)
 
@@ -324,7 +331,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
 - id: c-42038
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 82."
   citata_originali: |
     Lietuvių pašauktinių ba-
     jorų susirinko ne mažiau kaip 8000 karių.
@@ -350,7 +358,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
 - id: c-96256
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     Narsiojo Kasparo Bekešo atminimas Vilniuje 1580
     metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės,
@@ -378,7 +387,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
 - id: c-96257
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 443"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 443."
   citata_originali: |
     Šven­
     tasis ekumeninis Tridento Sinodas nusprendė, kad norint
@@ -415,7 +425,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
 - id: c-96260
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 85."
   citata_originali: |
     Ketvirtasis mūšio etapas. (XVI a.
     tapyto paveikslo „Oršos mūšis“
@@ -448,7 +459,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
 - id: c-96262
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     70
     Detali Kardinalijos istorija yra tokia:
@@ -476,7 +488,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
 - id: c-96263
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 453"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 453."
   citata_originali: |
     O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­
     rns, Pilypas Glazeris ir Motiejus Porempskis per savo tarpi­
@@ -508,7 +521,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
 - id: c-96264
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 307."
   citata_originali: |
     Neapsiribodamas pavyzdžio verta savo
     labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­
@@ -540,7 +554,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
 - id: c-96267
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 82."
   citata_originali: |
     Lietuvos pajėgos
     Lietuvos kariuomenę sudarė Lietuvos ka-
@@ -564,7 +579,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
 - id: c-96268
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Marijos Magdalenos baž­
     nyčios, po dešine ranka Skapo gatvėje
@@ -590,7 +606,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
 - id: c-96270
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208-210"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208-210."
   citata_originali: |
     192
 
@@ -626,7 +643,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
 - id: c-96272
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     ## Puslapis 314
 
@@ -650,7 +668,8 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
 - id: c-96273
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 305"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 305."
   citata_originali: |
     verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus).
     Juos rėmė ir daug kitų atverstų didikų, o ypač dievobaimingoji

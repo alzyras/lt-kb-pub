@@ -51,7 +51,8 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
 - id: c-82556
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 30."
   citata_originali: |
     Kraštas, ku­
     rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­

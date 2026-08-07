@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-67d1b77c3df658ef87cb1404"
+canonical_name: "Senasis Kristburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Senasis Kristburgas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis. Dusburgietis teigia, kad stary Dzierzgoń) — senas pamedėnų centras."
+place_authority: true
+historical_names: []
 ---
 # Senasis Kristburgas
 
@@ -49,18 +58,27 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 <a id="claim-t-58633"></a>
 - t-002
   teiginys: "Senasis Kristburgas, vėliau vadintas Alt Christburgu, buvo senas pamedėnų centras."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Pamedėnai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Senasis Kristburgas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pamedėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Senasis Kristburgas tiesiogiai apibūdinamas kaip pamedėnų centras."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Senasis Kristburgas priklausė Pamedėnai (0.84)"
   pagrindžia:
-    - c-59265
+    - c-59264
 
 ## Citatos
 
 - id: c-59264
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 99."
   citata_originali: |
     Kirsburgas (vėliau — Alt Christburg, dab. Stary Dzierzgoń) — senas pamedėnų centras.
     Išlikęs piliakalnis (MGP, p. 53, Nr. 15), pylimu įtvirtintas I tūkst. viduryje, kryžiuočių
@@ -68,14 +86,17 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   citata_rodoma: "Kirsburgas (vėliau — Alt Christburg, dab. Stary Dzierzgoń) — senas pamedėnų centras.\nIšlikęs piliakalnis (MGP, p. 53, Nr. 15), pylimu įtvirtintas I tūkst. viduryje, kryžiuočių\nlaikotarpyje pylimas tik paaukštintas (Antoniewicz J., Bałtowie..., p. 44, 51)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-59265
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
   citata_originali: |
     58 (57). Apie vienos pilies užkariavimą ir apie Kristburgo pilį
     Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
@@ -94,4 +115,3 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

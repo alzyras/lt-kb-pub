@@ -115,7 +115,8 @@ Nenurodyta
 - id: c-174908
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 509"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 509."
   citata_originali: |
     Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys lietuviams nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Lenkijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų, Lietuvoje šeimos herbai egzistavo70.
   citata_rodoma: "Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302 metais Gediminas davė Krunevičiui. Sis paprotys lietuviams nebuvo būdingas, bet kai kurios riterių šeimos, priklausančios Lietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti, kad jiems būtų suteikti herbai — taip būdavo Lenkijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų, Lietuvoje šeimos herbai egzistavo70."

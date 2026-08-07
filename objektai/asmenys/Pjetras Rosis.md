@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0f28ab900ed481ca6de92e52"
+canonical_name: "Pjetras Rosis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pjetras Rosis"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad dailininkas Pjetras Rosis, remdamasis rankraščio aprašymu, nupiešė gotiško stiliaus šventyklą. Pjetras Rosis visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
 ---
 # Pjetras Rosis
 
@@ -45,7 +52,8 @@ Narbutas rašo, kad dailininkas Pjetras Rosis, remdamasis rankraščio aprašymu
 - id: c-173082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
   citata_originali: |
     Apie ją pasakojimas, kurį išgirdau Raseinių apskrities Pa­
     švenčio (Poswięta) apylinkėse, yra toks. Perrašau jį ištisai, ka­

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-60dfcea8a93763776ce6b63d"
+canonical_name: "Jacobas Schrenckas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jacobas Schrenckas"]
+sameAs: []
+canonical_biography: "Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“."
 ---
 # Jacobas Schrenckas
 
@@ -60,7 +67,8 @@ Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.
 - id: c-75387
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 62."
   citata_originali: |
     Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje
     struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje

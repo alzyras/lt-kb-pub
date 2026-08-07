@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c227c0a4fa2472444b875f28"
+canonical_name: "Augustinas Rotundas Milesijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Augustinas Rotundas Milesijus"]
+sameAs: []
+canonical_biography: "Augustinas Rotundas Milesijus (Mieleskis), abiejų teisių daktaras, išrinktas iš magistrato narių, tačiau bajoras - 1542 m."
 ---
 # Augustinas Rotundas Milesijus
 
@@ -62,7 +69,8 @@ Augustinas Rotundas Milesijus (Mieleskis), abiejų teisių daktaras, išrinktas 
 - id: c-83885
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 316."
   citata_originali: |
     Mikalojus Prokopavičius - 1511 m.
     4. Laimingasis Liangurga iš Krokuvos, Žygimanto

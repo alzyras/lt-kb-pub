@@ -107,7 +107,8 @@ Nenurodyta
 - id: c-31384
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 365"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 365."
   citata_originali: |
     Bet
     Veliuonoje nieko nebuvo pasiekta, nes ordinas laukė sau naudos
@@ -127,7 +128,8 @@ Nenurodyta
 - id: c-33433
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 365"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 365."
   citata_originali: |
     Tai esančios senos ir tikros
     Žemaičiu sienos^29. Kryžiuočiams laikantis savo, kunigaikštis suti­
@@ -146,7 +148,8 @@ Nenurodyta
 - id: c-167712
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 365"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 365."
   citata_originali: |
     Tai reiškė projektą naujos
     sienos, kuri už dvejų metų buvo priimta prie Melno ežero. Bet

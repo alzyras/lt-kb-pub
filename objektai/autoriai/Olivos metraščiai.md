@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-91369b571fa2d0f992587c19"
+canonical_name: "Olivos metraščiai"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Olivos metraščiai"]
+sameAs: []
+canonical_biography: "Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gediminas pats ar jo karys pilies aptvaro link stūmė ka­ rinę mašiną, į jį pataikė kario Mari­ jano paleistas šūvis iš bombardos, kurios buvo neseniai išrastos Vokie­ tijoje, Lietuvoje."
 ---
 # Olivos metraščiai
 
@@ -50,7 +57,8 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
 - id: c-84056
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 119."
   citata_originali: |
     IX,
     p. 923, nurodo, kad buvo ugninės

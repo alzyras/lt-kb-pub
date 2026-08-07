@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aac0b55cef451e491034df8e"
+canonical_name: "Hartknochas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hartknochas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje. Narbutas nurodo, kad Hartknochas senosios Prūsijos žemėlapyje Romnowe pažymėjo tarp Prūsos ir Bysleidos upių. Narbutas mini Hartknocho spėjimą, kad Senosios Torunės vietoje taip pat buvo šventykla."
 ---
 # Hartknochas
 
@@ -251,7 +258,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 - id: c-172980
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Krikščionims iš smalsumo buvo
     draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
@@ -273,7 +281,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 - id: c-172981
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 265."
   citata_originali: |
     Treteris Jono I, Varmijos
     vyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur
@@ -295,7 +304,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 - id: c-172982
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 268."
   citata_originali: |
     Šventyklos aptvaro vi­
     duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
@@ -316,7 +326,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 - id: c-173742
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
   citata_originali: |
     Mūsų kronikinin­
     kas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­
@@ -338,7 +349,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 - id: c-173743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     Sis ypatingas įvykis, atsitikęs žemėje, kuria
     ypač domisi mūsų veikalas, vertas to, kad jam būtų skir­
@@ -365,7 +377,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 - id: c-173744
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
   citata_originali: |
     Pažvelgę tyrinėtojo žvilgsniu į
     lietuvių senovės paminklus, visur aptinkame pėdsakų ir
@@ -388,7 +401,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 - id: c-173745
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Ten ji šiau­
     rėje ir rytuose ribojosi su Žemaitija ir iš dalies su Lie­
@@ -410,7 +424,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 - id: c-179318
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     O ypač stengė­
     si, kad išliktų atminimas apie tą didžiulį kimbrų epochos
@@ -440,7 +455,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 - id: c-179319
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 196."
   citata_originali: |
     Hartknochas pateikia XV amžiuje gyvenusio prūsų
     kilmės Frydriko Zamilio lotynų kalba parašytos poemos
@@ -468,7 +484,8 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
 - id: c-179320
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 270."
   citata_originali: |
     Anot Hartknocho, sudargų iš­
     ties būta, jų atminimas gyvas šios žemės padavimuose ir

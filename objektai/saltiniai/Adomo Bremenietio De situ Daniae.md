@@ -59,7 +59,8 @@ Narbutas rašo, kad Adomas Bremenietis Sembą siejo su rusais arba Rusios krašt
 - id: c-174648
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 217."
   citata_originali: |
     Kvedliriburgo kronika mini prieš 1009 metus ru­
     sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos

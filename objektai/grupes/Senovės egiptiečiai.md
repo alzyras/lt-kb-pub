@@ -61,7 +61,7 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 <a id="claim-t-189416"></a>
 - t-002
   teiginys: "Narbutas teigė, kad egiptiečiai prie iš chaldėjų perimto dangaus kūnų garbinimo pridėjo nemirtingais laikytų asmenų dievinimą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -95,15 +95,22 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 <a id="claim-t-189418"></a>
 - t-004
   teiginys: "Narbutas rašė, kad egiptiečiai turėjo Kamefius, kuriuos Georgi siejo su japonų dievais Kami ir slavų Tryzna."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senovės egiptiečiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės egiptiečiai\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172304
+    - c-172305
 
 <a id="claim-t-189420"></a>
 - t-005
@@ -168,15 +175,22 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 <a id="claim-t-189423"></a>
 - t-008
   teiginys: "Narbutas rašė, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus, skirtus atskiriems dievams."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senovės egiptiečiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės egiptiečiai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172309
+    - c-172310
 
 <a id="claim-t-189424"></a>
 - t-009
@@ -201,7 +215,7 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 <a id="claim-t-194586"></a>
 - t-010
   teiginys: "Tegu mitologai sako ką nori apie senovės egiptiečių religi ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame, yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -209,8 +223,7 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172302
-    - c-172303
+    - c-176985
 
 <a id="claim-t-197216"></a>
 - t-011
@@ -253,7 +266,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - id: c-172302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
   citata_originali: |
     Tokia pat dvasia gyveno dau­
     gybė senųjų Azijos tautų.
@@ -276,12 +290,12 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-010
 
 - id: c-172303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
   citata_originali: |
     Lietuviai turėjo eiti į daugiadievystę tuo pačiu keliu, nes
     dėl vienodų padarinių galima spėti buvus vienodą priežastį.
@@ -300,13 +314,13 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
     - t-012
 
 - id: c-172304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 107."
   citata_originali: |
     Čia tik pažymėsime, kad visose tautose, kuriose žinomas Plu­
     tonas, jis apvesdinamas su pagrobtos į pragarą deivės dukteri­
@@ -320,12 +334,12 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
 
 - id: c-172305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 113."
   citata_originali: |
     Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
     susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
@@ -336,14 +350,17 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   citata_rodoma: "Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek\nsusiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.\nIndų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo\nKamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­\nsiškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką\nslavų Tryzną."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-172307
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 195."
   citata_originali: |
     Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
     tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,
@@ -368,7 +385,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - id: c-172308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -387,7 +405,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - id: c-172309
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
   citata_originali: |
     Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
@@ -405,12 +424,12 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   pagrindzia:
     - t-002
     - t-007
-    - t-008
 
 - id: c-172310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 242."
   citata_originali: |
     Kunigai, stovėdami ant pa­
     kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
@@ -421,14 +440,17 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   citata_rodoma: "Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-172311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 264."
   citata_originali: |
     Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
     to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
@@ -455,7 +477,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - id: c-176985
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 185."
   citata_originali: |
     Be jo­
     kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
@@ -471,14 +494,17 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   citata_rodoma: "Be jo­\nkios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­\ndžiai Siaurės Europoje buvo samojedai: juk žinome, kad dar\nXVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­\nno, gyveno ši tauta, garbinusi dangaus kūnus .\nTegu mitologai sako ką nori apie senovės egiptiečių religi­\nją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,\nyra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­\nlio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.\nTaip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,\npagrindą ištisai sudaro indų padavimai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 - id: c-179070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
   citata_originali: |
     Senovės Lacijaus gilumoje, tarp plikų kal­
     nų, nesveikiausiame užkampyje, užsimezgė romėnų karalys­
@@ -504,7 +530,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - id: c-179071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 116."
   citata_originali: |
     Mes manome, kad ir mū­
     sų lietuviška Bute priklauso tai pačiai kategorijai. Sutikdami,

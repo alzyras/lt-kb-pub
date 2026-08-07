@@ -61,7 +61,8 @@ Dusburgietis teigia, kad ročka M.
 - id: c-61906
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Ročka M. Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje (XV a. — XVI
     a. pradžia).— Literatūra, V., 1966, 9, p. 55—84.

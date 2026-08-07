@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eed8e622ce0ca3d992184952"
+canonical_name: "Mickevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mickevičius"]
+sameAs: []
+canonical_biography: "Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkančio būrelio tarpe sukeldavo nepaprastą entuziazmą. Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius, kuris tuo tarpu jau buvo mokytoju Kaune, tačiau su studentais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų ir t.t."
 ---
 # Mickevičius
 
@@ -52,7 +59,8 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
 - id: c-06614
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 475"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 475."
   citata_originali: |
     Buvo ištremtas ir patsai filaretų vadas Tomas
     Zanas. Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius,

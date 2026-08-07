@@ -109,7 +109,8 @@ Nenurodyta
 - id: c-63853
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
   citata_originali: |
     Apie karą su pagudėnais ir Elbingo pilies pastatymą
 

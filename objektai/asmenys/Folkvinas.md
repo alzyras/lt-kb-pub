@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c4e268ac793e71e4d756210e"
+canonical_name: "Folkvinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Folkvinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos žemė Tuo laiku brolis Folkvinas, antras Kristaus karių ordino magistras Livonijos žemėje, šešerius metus per garbingus pasiuntinius ragino brolį Hermaną iš Zalcos, Teutonų ordino didįjį magistrą, prijungti."
 ---
 # Folkvinas
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
 - id: c-60908
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Kaip Teutonų namų ordino broliams atiteko Livonijos žemė
 

@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Vidurio Europa'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1618 m.'
@@ -29,12 +30,21 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b0f7b467f2a18e4edb49bd44"
+canonical_name: "Vidurio Europa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vidurio Europa"]
+sameAs: []
+canonical_biography: "Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje. Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams, vadinamiems Vidurio Europa."
+place_authority: true
+historical_names: []
 ---
 # Vidurio Europa
 
 ## Santrauka
 
-Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai. Ši, silpnesnių miestų ir silpnesnio raštingumo poreikio (palyginti su protestantizmu) katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portugalija). Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
+Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje. Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams, vadinamiems Vidurio Europa.
 
 ## Teiginiai
 
@@ -145,12 +155,37 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   pagrindžia:
     - c-175540
 
+## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Teodoras Narbutas Vidurio Europos tautų barbariškumą ir nesvetingumą minėjo kaip kliūtį senovei pažinti Šiaurę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    nepajudinama tarp apsišvietusio pasaulio griuvėsių, kei­
+    čiantis tokiai daugybei kartų, įžiebė naujų amžių filoso­
+    fijos deglą, kuriam buvo lemta savo šviesa išsklaidyti su­
+    temas, užklojusias istorijos akiratį. Nevalia kaltinti tikė­
+    jimo sargų ir mokytojų dėl pažangos istorijos pažinimo
+    stokos: juk dvasininkai paliko mums daugiausia kronikų*.
+    Iš kito atstumo žvelgdami į dalykus, matome, kad būta
+    laikų, ypač lietuvių žemėje, kai tikėjimo ir švietimo deg­
+    las jos gyventojams atrodė tarsi ir žmonių, ir senovės, ir
+    viso, kas gera, naikinimo perkūnas. Ginkluoti krikštyto­
+    jai, turėdami laukines širdis ir atlikdami baisius darbus,
+    užkariaudami tautas, buvo taip pamiršę žmogų, kad kaip
+    ir žiauriausi barbarai, atimdavo gyvybę ir jam už gyvybę
+    brangesnius tautinius paminklus, laisvę ir namų taiką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-24556
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     Katalikybė buvo prielaida Italijos ir Is-
     panijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-
@@ -176,7 +211,8 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 - id: c-24557
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 81."
   citata_originali: |
     Jėzuitiškojo Vilniaus universi-
     teto reiškiniai darė poveikį visai Europai – tai pasakytina apie teologijos,
@@ -201,7 +237,8 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 - id: c-24558
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 89."
   citata_originali: |
     Tuo metu buvo sakoma, kad valstybėje yra trys respublikos: Lenkijos,
     Lietuvos ir Paulavos. Šis posakis rodo, kokią ypatingą reikšmę visuomenė
@@ -220,7 +257,8 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 - id: c-49809
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 89."
   citata_originali: |
     Šis posakis rodo, kokią ypatingą reikšmę visuomenė
     teikė Paulavai. Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
@@ -240,7 +278,8 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 - id: c-167032
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 12-13"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 12-13."
   citata_originali: |
     Lietuva juk ne
     kartą buvo okupuota ir prisijungta Rytų kaimynės.
@@ -268,7 +307,8 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 - id: c-175540
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
   citata_originali: |
     Ant­
     ra vertus, ryšiai su labiau išvystytomis tautomis senovė­

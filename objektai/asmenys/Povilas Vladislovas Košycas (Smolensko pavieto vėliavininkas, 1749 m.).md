@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4d3fe992804b173f1a851c2"
+canonical_name: "Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Paweł Władysław Kaszyc","Paweł Władysław Koszyc","Povilas Vladislovas Kašicas","Povilas Vladislovas Košycas","Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.)"]
+sameAs: []
+canonical_biography: "1749 m. Smolensko pavieto seimelio vėliavininku išrinktas Povilas Vladislovas Košycas."
 ---
 # Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.)
 
@@ -39,7 +46,7 @@ media_all_json: |-
 <a id="claim-t-200479"></a>
 - t-001
   teiginys: "1749 m. Smolensko pavieto seimelio vėliavininku išrinktas Povilas Vladislovas Košycas."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.): 0.83"
@@ -52,7 +59,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1749 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata apie Povilo Vladislovo Košyco išrinkimą vėliavininku."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir predikatą bei tiksliai perteikia šaltinyje nurodytą 1749 m. išrinkimą."
   pagrindžia:
     - c-183849
 
@@ -65,6 +72,6 @@ media_all_json: |-
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 03:26"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001

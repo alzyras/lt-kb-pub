@@ -46,9 +46,9 @@ Saugojo tokias pilės nuo neprietelių patys ūkinykai pakarčiui ir tenai į gi
 ## Citatos
 
 - id: c-184572
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 97"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 97."
   citata_originali: |
     Dirbo jas tarp vers­
     mių ir balų, idant neprieteliai negalėtų prisiartinti.

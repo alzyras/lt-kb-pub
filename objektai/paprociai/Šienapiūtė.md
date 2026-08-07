@@ -63,12 +63,11 @@ Nenurodyta
 <a id="claim-t-195358"></a>
 - t-001
   teiginys: "Per šienapiūtę vyrai savaitei išeina į pievas, ten gyvena ir verda valgį, o mergaitės atveža pusryčius bei pietus."
-  atnaujinta: "2026-07-12 02:18"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177768
     - c-177771
 
 <a id="claim-t-195359"></a>
@@ -84,12 +83,11 @@ Nenurodyta
 <a id="claim-t-195360"></a>
 - t-003
   teiginys: "Šienapiūtėje mergaitės grėbia, džiovina ir krauna šieną, vakare arkliai laikomi prie ugnies, o rytą su šienu siunčiamos namo."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177770
     - c-177773
 
 <a id="claim-t-195361"></a>
@@ -126,12 +124,10 @@ Nenurodyta
   citata_rodoma: "Vyrai išeina į pievas savaitei: ten guli ir kelia, ugnį kūrena, valgyti verdasi, ten krūmai, giria ir pelkės, ten miško oras, miško gyventojai: voverys, balandžiai, geniai."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-177769
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -167,12 +163,10 @@ Nenurodyta
   citata_rodoma: "Mergaitės grėbia, krato, varto, džiovina, daboja ateinantį debesį, į kupečius deda, dainuškas dainuoja."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-177771
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

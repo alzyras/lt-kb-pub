@@ -78,20 +78,8 @@ Nenurodyta
   pagrindžia:
     - c-159295
 
-<a id="claim-t-175143"></a>
-- t-002
-  teiginys: "Vernerio prierašai turėjo būti skaitomi visuose Ordino namuose keturis kartus per metus."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1312 m.; įvykio data: 1314 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia pareigą skaityti prierašus; pašalinta perteklinė formuluotė."
-  pagrindžia:
-    - c-159296
-
 <a id="claim-t-196993"></a>
-- t-003
+- t-002
   teiginys: "Vernerio prierašuose pabrėžiama, jog jie skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -107,7 +95,8 @@ Nenurodyta
 - id: c-159295
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     Apkaltintas erezija Tamplierių
     ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
@@ -129,7 +118,8 @@ Nenurodyta
 - id: c-159296
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     Vernerio prierašuose pabrėžiama, jog jie
     skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
@@ -147,4 +137,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003

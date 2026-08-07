@@ -50,7 +50,8 @@ media_all_json: |-
 - id: c-82823
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 238-239"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 238-239."
   citata_originali: |
     28
     Viename Žygimanto dovanojimų,

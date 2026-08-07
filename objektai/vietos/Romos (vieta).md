@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-939a2294f6fa86024a9a0621"
+canonical_name: "Romos (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Romos","Romos (vieta)"]
+sameAs: []
+canonical_biography: "Šv. Kazimiero bažnyčia, pradėta 1604 m. ir baigta 1615 m., pakartojo Romos pavyzdžio planą ir bendrą kompoziciją."
+place_authority: true
+historical_names: []
 ---
 # Romos (vieta)
 

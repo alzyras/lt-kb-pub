@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-93974
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 282."
   citata_originali: |
     Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį^16 ,
     Skirgailai pasisekė įgulą įtikinti pasiduoti (VII.20). Visas savo

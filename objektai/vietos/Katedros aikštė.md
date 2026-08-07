@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cc911d9eb2dfd6616019105b"
+canonical_name: "Katedros aikštė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Katedros aikštė"]
+sameAs: []
+canonical_biography: "Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovybė per šį mitingą paskelbė reikalavimus legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“) – apie 100 tūkst."
+place_authority: true
+historical_names: []
 ---
 # Katedros aikštė
 
@@ -49,7 +58,8 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
 - id: c-26553
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 235."
   citata_originali: |
     Pirmieji
     tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab. Katedros)

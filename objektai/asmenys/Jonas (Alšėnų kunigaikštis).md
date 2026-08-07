@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5d991e31c1bb14cf0d95a419"
+canonical_name: "Jonas (Alšėnų kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas (Alšėnų kunigaikštis)"]
+sameAs: []
+canonical_biography: "Atsi­ traukdamas Vytautas prarado nemaža saviškių, tarp jų Alšėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­ ko ir keturių kariuomenės ženklų53."
 ---
 # Jonas (Alšėnų kunigaikštis)
 
@@ -51,7 +58,8 @@ Atsi­ traukdamas Vytautas prarado nemaža saviškių, tarp jų Alšėnų kuniga
 - id: c-83689
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 153."
   citata_originali: |
     Vytautas, ne­
     mažomis pajėgomis vedinas, pasitiko juos ties Rudamina,

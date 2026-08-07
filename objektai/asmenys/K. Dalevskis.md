@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-045b0d85d11c042193b33a40"
+canonical_name: "K. Dalevskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["K. Dalevskis"]
+sameAs: []
+canonical_biography: "Dalevskis, nurodydamas, kad rusai vakare iš kautynių vietos taip pat pasitraukė."
 ---
 # K. Dalevskis
 
@@ -50,7 +57,8 @@ Dalevskis, nurodydamas, kad rusai vakare iš kautynių vietos taip pat pasitrauk
 - id: c-44397
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 163."
   citata_originali: |
     tolių“. Tačiau, kai kurių
     sukilėlių nuomone,

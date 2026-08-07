@@ -109,7 +109,8 @@ Nenurodyta
 - id: c-62916
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     Apie Kroicburgo pilies sugriovimą
 

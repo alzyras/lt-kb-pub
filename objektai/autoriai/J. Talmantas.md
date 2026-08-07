@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3622f0bc4e146dab586061ec"
+canonical_name: "J. Talmantas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Talmantas"]
+sameAs: []
+canonical_biography: "Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V."
 ---
 # J. Talmantas
 
@@ -96,7 +103,8 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 318."
   citata_originali: |
     10. Šekspyro VENECIJOS PIRKLYS. J. Talmanto vertimas tiesiog
     iš originalo. Su iliustracijomis ir plačiais teksto paaiškinimais — komen­
@@ -114,7 +122,8 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 320."
   citata_originali: |
     —
     25. „KALBA“ bendrinės kalbos žurnalas I. sąsiuvinis. Redaguotas
@@ -134,7 +143,8 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
 - id: c-65317
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 146."
   citata_originali: |
     Antonevičius, J. (Varšuva) : _Senovės baltų žemdirbystės technikos
     klausimu_ , ILKI, t. 4, 1964, 164-170 p. —Avižonis, K. : _Entstehung und

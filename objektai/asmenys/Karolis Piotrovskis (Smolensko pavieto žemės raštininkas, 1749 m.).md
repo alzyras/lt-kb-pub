@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3d51a3684d6d33dfcbbf23fa"
+canonical_name: "Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karol Piotrowski","Karolis Piotrovskis","Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.)"]
+sameAs: []
+canonical_biography: "1749 m. Smolensko pavieto seimelyje Karolis Piotrovskis ėjo žemės raštininko pareigas."
 ---
 # Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.)
 
@@ -39,7 +46,7 @@ media_all_json: |-
 <a id="claim-t-200482"></a>
 - t-001
   teiginys: "1749 m. Smolensko pavieto seimelyje Karolis Piotrovskis ėjo žemės raštininko pareigas."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.): 0.85"
@@ -65,6 +72,6 @@ media_all_json: |-
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 03:26"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001

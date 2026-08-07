@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b4a82aa86627c93c28fa397b"
+canonical_name: "V. Landsbergis-Žemkalnis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Landsbergis-Žemkalnis"]
+sameAs: []
+canonical_biography: "Landsbergis-Žemkalnis L I E T U V O S I S T O R I J A 174 lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą."
 ---
 # V. Landsbergis-Žemkalnis
 
@@ -61,7 +68,8 @@ Landsbergis-Žemkalnis L I E T U V O S I S T O R I J A 174 lėktuvėliu „Litua
 - id: c-75349
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 173-174"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 173-174."
   citata_originali: |
     Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
     liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu

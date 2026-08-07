@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8eee929923057af2c6ae2b83"
+canonical_name: "Vilniaus vyskupija Vilnius kaip vyskupų centras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus vyskupija Vilnius kaip vyskupų centras"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stipriaisiais gėrimais uždraudė ir likvidavo paprotį."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus vyskupija Vilnius kaip vyskupų centras
 
@@ -59,7 +68,8 @@ Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina dėl piktnaudžiavimo stip
 - id: c-171987
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 311."
   citata_originali: |
     310
 

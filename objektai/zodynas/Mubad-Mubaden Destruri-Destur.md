@@ -54,7 +54,8 @@ Narbutas Krewe-Krewejto titulą lygino su persų vyriausiojo kunigo pavadinimais
 - id: c-172201
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 282."
   citata_originali: |
     Taigi Vai­
     devutis ir Prutenis, įvedęs geresnę civilinę ir religinę tvarką,

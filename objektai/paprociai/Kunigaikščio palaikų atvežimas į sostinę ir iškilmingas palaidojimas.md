@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-83256
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 176."
   citata_originali: |
     Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien
     silpstantį ir būdamas tikras, kad šis jau galutinai atsisakė

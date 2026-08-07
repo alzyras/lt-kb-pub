@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ec1672d57b452fa278989855"
+canonical_name: "E. Doterivas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["E. Doterivas"]
+sameAs: []
+canonical_biography: "Matydami stiprią rusų gynybą, sukilėlių kariuomenės štabo viršininkas pulkininkas E Doterivas ir generolas D."
 ---
 # E. Doterivas
 
@@ -51,7 +58,8 @@ Matydami stiprią rusų gynybą, sukilėlių kariuomenės štabo viršininkas pu
 - id: c-41526
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 157."
   citata_originali: |
     Matydami stiprią rusų gynybą, sukilėlių
     kariuomenės štabo viršininkas pulkininkas

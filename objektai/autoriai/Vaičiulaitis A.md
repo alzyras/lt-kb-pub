@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-664c83447b563be72e5ef8d3"
+canonical_name: "Vaičiulaitis A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vaičiulaitis A"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vaičiulaitis A."
 ---
 # Vaičiulaitis A
 
@@ -52,7 +59,8 @@ Dusburgietis teigia, kad vaičiulaitis A.
 - id: c-61439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 287."
   citata_originali: |
     Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,
     K., 1940, t. 3, p. 315—319.

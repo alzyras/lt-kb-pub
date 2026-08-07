@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2f83dc7f9da67359c6df2d88"
+canonical_name: "Steponas Genseris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Steponas Genseris"]
+sameAs: []
+canonical_biography: "Šiuo raštu skel­ biame visiems ir kiekvienam, kam dera žinoti, kad pas mus ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems senjorams ir visam mūsų Vilniaus miesto auksakalių ce­ chui, buvo pakviestas garsusis Steponas Genseris, auksaka­ lys, tiek. atminties karaliaus Vladislovo duotas ir leistas Vilniaus katedros bažnyčiai ir tuometiniam vysku­ pui, ir minėtą Bełsko suvažiavimo sprendimą savo galioje paliekame ir patį apskųstąjį auksakalį Steponą Genserį ir ki­ tus, priklausančius Vilniaus vyskupijos."
 ---
 # Steponas Genseris
 
@@ -68,7 +75,8 @@ media_all_json: |-
 - id: c-83439
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 451"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 451."
   citata_originali: |
     Transilvanijos kunigaikštis. Šiuo raštu skel­
     biame visiems ir kiekvienam, kam dera žinoti, kad pas mus
@@ -95,7 +103,8 @@ media_all_json: |-
 - id: c-83440
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 455"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 455."
   citata_originali: |
     IV KNYGA
     ir reikalavo (Vodzinskis), kad jų būtų laikomasi. Mes su

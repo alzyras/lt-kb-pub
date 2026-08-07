@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-60cccc3b4248428e653d5cc1"
+canonical_name: "Vinrichas fon Kniprodė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vinrichas fon Kniprodė"]
+sameAs: []
+canonical_biography: "„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Visam žygiui vadovavo pats didysis Ordino magistras Vinrichas fon Kniprodė."
 ---
 # Vinrichas fon Kniprodė
 
@@ -63,7 +70,8 @@ media_all_json: |-
 - id: c-42305
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 44."
   citata_originali: |
     Žygio mastą liudija tai, kad kryžiuočiai sukvietė riterius iš beveik visos Europos - Italijos, Prancūzijos, Anglijos. Apgulties eigoje prie jų prisijungė ir
     Livonijos ordinas. Visam žygiui vadovavo pats didysis Ordino magistras Vinrichas fon Kniprodė. Bendras kryžiuočių kariuomenės skaičius galėjo būti apie

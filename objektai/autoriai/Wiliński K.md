@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-22ee2fdf00668d9af5d11ab5"
+canonical_name: "Wiliński K"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Wiliński K"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad wiliński K."
 ---
 # Wiliński K
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad wiliński K.
 - id: c-61450
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 287."
   citata_originali: |
     Wiliński K. Walki polsko-pruskie w X—XIII w.—Acta universitatis Lodziensis: Folia
     historica, Lódz, 1984.

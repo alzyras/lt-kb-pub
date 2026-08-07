@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-030b485c4c894816f5d6dd3c"
+canonical_name: "Jozefas Frankas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jozefas Frankas"]
+sameAs: []
+canonical_biography: "Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus."
 ---
 # Jozefas Frankas
 
@@ -33,7 +40,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - id: c-21768
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     Visos istorinės Lietuvos žemės visuomeninio ir kultūrinio gyvenimo
     centru tapo Vilniaus universitetas, tapęs iškiliausiu lenkų kultūros centru

@@ -170,7 +170,8 @@ Nenurodyta
 - id: c-04980
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 272."
   citata_originali: |
     Žymiau­
     sia kova dėl įtakos tarp Vilniaus ir Maskvos prasidėjo Tverės ku­
@@ -195,7 +196,8 @@ Nenurodyta
 - id: c-04981
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 272."
   citata_originali: |
     Todėl, prastovėjęs prie Maskvos mūrų «tris dienas ir tris naktis »
     ir nuteriojęs apylinkę, jis grįžo atgal^17. Iki tol niekados lietuviai
@@ -221,7 +223,8 @@ Nenurodyta
 - id: c-11816
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 21."
   citata_originali: |
     Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau-
     sioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą
@@ -243,7 +246,8 @@ Nenurodyta
 - id: c-11817
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 21."
   citata_originali: |
     Tai reiškė, kad Maskva tapo nauju nuo
     Lietuvos nepriklausiusių rusėnų žemių centru. Algirdas suvokė,

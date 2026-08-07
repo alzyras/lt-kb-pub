@@ -61,7 +61,8 @@ media_all_json: |-
 - id: c-76029
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 136."
   citata_originali: |
     Rusija siekė išlaikyti vidinį ATR susiskaldymą, neleisdama susti-
     prėti nė vienai partijai. 1715 m., rusų paskatinta, susidarė prieš

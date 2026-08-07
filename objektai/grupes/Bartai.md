@@ -115,15 +115,23 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-88527"></a>
 - t-005
   teiginys: "1251 m. dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Barta: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bartai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Barta: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai sakoma, kad Bartoje gyveno bartai."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Bartai gyveno Barta (0.96)"
   temporaliniai_duomenys: "gyvenimo laikotarpis: 1251 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-84505
+    - c-84507
 
 <a id="claim-t-88528"></a>
 - t-006
@@ -145,11 +153,20 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-88529"></a>
 - t-007
   teiginys: "Bartų vadas Divanas sutelkė stiprią kariuomenę ir dar kartą apiplėšė Kristburgo bei Marienburgo apylinkes."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kristburgas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Divanas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kristburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Divanas apiplėšė Kristburgo apylinkes."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Divanas puolė Kristburgas (0.86); Divanas puolė Marienburgas (0.86)"
   pagrindžia:
-    - c-84502
+    - c-84508
+    - c-84514
 
 <a id="claim-t-88530"></a>
 - t-008
@@ -190,7 +207,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-88532"></a>
 - t-010
   teiginys: "1263 m. bartų vadas Divanas vijosi iš pilies pasitraukusius brolius ir su trylika vyrų juos užpuolė."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1263 m."
@@ -450,7 +467,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84502
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
          medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
@@ -470,13 +488,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-007
     - t-010
 
 - id: c-84503
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
   citata_originali: |
     165 (160). Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
     Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
@@ -495,7 +513,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
     Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
@@ -510,12 +529,12 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
 
 - id: c-84507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     dokumente — Barta major et minor
 
@@ -530,12 +549,14 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
     - t-006
 
 - id: c-84508
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     144 (139). Apie daugybės prūsų žūtį
 
@@ -546,14 +567,17 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   citata_rodoma: "144 (139). Apie daugybės prūsų žūtį\n\n  Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią\nkariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad\nir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba\npaėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-84509
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Apie maldininkus ir Prūsijos žemei sugrąžintą taiką
     Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos
@@ -576,7 +600,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
   citata_originali: |
     Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
     Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
@@ -597,7 +622,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,
     Plicke Bartin, grôz Bartin unde kleine. 1251 m. dokumente — Barta major et minor
@@ -613,7 +639,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Įvyko šitaip todėl, kad pats Kristus,
     kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
@@ -637,7 +664,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84513
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 115."
   citata_originali: |
     Latviją). Iškilo dar didesnė kilčių diferenciacija.
     Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau
@@ -660,7 +688,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84514
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią
     kariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad
@@ -671,14 +700,17 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   citata_rodoma: "Mūsų jau minėtas Divanas, po senovei ištroškęs krikščionių kraujo, sutelkė stiprią\nkariuomenę ir iš naujo apiplėšė Kristburgo bei Marienburgo apylinkes, manydamas, kad\nir dabar jam taip seksis kaip anksčiau. Mat, tiek brolių bei kitų krikščionių išžudęs arba\npaėmęs  į nelaisvę, manė, jog nebeliko tose žemėse nieko, kas galėtų jam priešintis.\nTodėl išsiuntė į priekį savo kariuomenę su grobiu, o pats nusekė iš paskos su nedideliu\npulkeliu."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-84515
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
     1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
@@ -701,7 +733,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     Mat Bartenšteino pilyje buvo vienas vyras, vardu
     Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų
@@ -721,7 +754,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
     netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
@@ -744,7 +778,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-84521
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
   citata_originali: |
     Kai šitai
     padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga
@@ -766,7 +801,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-167834
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
   citata_originali: |
     Tuo tarpu keletas kitų lietuvių būrių
     niokojo Lenkijos pasienius, grįždami jie pateko į prie­
@@ -790,7 +826,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-175162
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
     kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
@@ -808,9 +845,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-015
 
 - id: c-184264
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 70"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 70."
   citata_originali: |
     Ketvirtajam sūnui teko kraštas tarp upių Ska­
     ros, Boiko ir Kurteno, kursai įkūręs tenai pilį Stain-
@@ -829,9 +866,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-017
 
 - id: c-184265
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 466"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 466."
   citata_originali: |
     Nusigandę lietuviai tomis terionėmis mistro kry-
     žėjų giriose slapstės. Du barčionų vyresniuoju Nu-

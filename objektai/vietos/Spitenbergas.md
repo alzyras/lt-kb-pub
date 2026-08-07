@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-388a4d3839da31a1cc75fef0"
+canonical_name: "Spitenbergas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Spitenbergas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai. Dusburgietis teigia, kad 431 D.— Spittenbergk, Jer.— Spittinberc. Šios mažos kryžiuočių pilies ieškota Osos žemupio deš. krante (Voigt J., Geschichte.., 3, p. 293; VBK); pažymima, kad tikslesnė pilies vieta Pamedėje nenustatoma (Ewald A."
+place_authority: true
+historical_names: []
 ---
 # Spitenbergas
 
@@ -49,7 +58,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
 <a id="claim-t-58643"></a>
 - t-002
   teiginys: "Spitenbergas buvo maža kryžiuočių pilis, kurios tikslesnė vieta Pamedėje nenustatyta."
-  atnaujinta: "2026-07-24 15:56"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.80"
   ryšio_patikimumo_lygis: "aukstas"
@@ -62,7 +71,6 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   semantiniai_rysiai: "Spitenbergas priklausė Kryžiuočių ordinas (0.80); Spitenbergas priklausė Pamedė (0.62)"
   pagrindžia:
     - c-59274
-    - c-59275
 
 <a id="claim-t-194549"></a>
 - t-003
@@ -81,7 +89,8 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
 - id: c-59274
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 141."
   citata_originali: |
     431 D.— Spittenbergk, Jer.— Spittinberc. Šios mažos kryžiuočių pilies ieškota Osos
     žemupio deš. krante (Voigt J., Geschichte.., 3, p. 293; VBK); pažymima, kad tikslesnė
@@ -98,7 +107,8 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
 - id: c-59275
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 141."
   citata_originali: |
     Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis
 
@@ -119,7 +129,6 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
     - t-003
 
 ## Ryšiai

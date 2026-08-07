@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-66831
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 452"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 452."
   citata_originali: |
     Dabar daugiausia veikė iš
     emigracijos grįžę buvusieji re-
@@ -104,7 +105,8 @@ Nenurodyta
 - id: c-66832
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 451"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 451."
   citata_originali: |
     Kariuo-
     menės buvo palikta 5.000 Lietuvoje ir 10.000 Lenkijoje; likusioji
@@ -125,7 +127,8 @@ Nenurodyta
 - id: c-66834
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 452"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 452."
   citata_originali: |
     Veikiai prie
     sukilimo prisidėjo ir miestiečiai, kurie Varšuvoje pakorė keletą

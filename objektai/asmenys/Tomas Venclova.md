@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-00beeca2cd47109ab8c94cf4"
+canonical_name: "Tomas Venclova"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tomas Venclova"]
+sameAs: []
+canonical_biography: "Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti žurnalą „Sintaksis“, teikė informaciją iš. Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė, poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo."
 ---
 # Tomas Venclova
 
@@ -62,7 +69,8 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 - id: c-22028
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 229."
   citata_originali: |
     Disidentinis judėjimas sten-
     gėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų
@@ -86,7 +94,8 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 - id: c-22029
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
     sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-

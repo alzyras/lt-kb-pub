@@ -52,7 +52,8 @@ A. Gvagninio „Sarmatų Europos aprašymas“ aprašo Rytų Europos žemes, tau
 - id: c-169657
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 4."
   citata_originali: |
     A. Gvagninio ir M. Strijkovskio veikalai — tai geogra­
     finiai ir etnografiniai Rytų Europos žemių aprašymai

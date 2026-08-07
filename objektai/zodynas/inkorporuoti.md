@@ -51,7 +51,8 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
 - id: c-82560
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 376-377"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 376-377."
   citata_originali: |
     Item et
     alia bona, seu Curiam dictam Smolniany, cum omnibus ter­

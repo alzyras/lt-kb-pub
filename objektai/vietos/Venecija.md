@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-728d8b63f2308823dd2b13d1"
+canonical_name: "Venecija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Venecija"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas didžiuoju magistru brolis Zigfridas iš Foichtvangeno, kuris ir iškeliavo į Veneciją, į vyriausiąją [Ordino] būstinę."
+place_authority: true
+historical_names: []
 ---
 # Venecija
 
@@ -71,7 +80,8 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 - id: c-167599
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 195-196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195-196."
   citata_originali: |
     Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
              kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno

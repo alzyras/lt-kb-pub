@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-355c168a17e12ebfca94bfd7"
+canonical_name: "Valakija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Valakija"]
+sameAs: []
+canonical_biography: "Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją."
+place_authority: true
+historical_names: []
 ---
 # Valakija
 
@@ -77,7 +86,8 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
 - id: c-106104
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 228."
   citata_originali: |
     Bet tai nė akimirkai nesustab­
     dė tarp Lenkijos ir Lietuvos prasidėjusių vaidų. Galingą są­
@@ -95,7 +105,8 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
 - id: c-106105
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 114."
   citata_originali: |
     Lengvieji
     raitininkai, tokie kaip kazokai ar vidutiniai (pe-

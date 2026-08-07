@@ -102,7 +102,7 @@ Nenurodyta
 <a id="claim-t-186754"></a>
 - t-003
   teiginys: "Redakcinė pastaba nurodo, kad J. Dlugošo pasakojimas apie Suchtą laikomas tautosakinio pobūdžio."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
@@ -110,7 +110,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Interpretacinis vertinimas tinkamai priskirtas redakcinei pastabai."
   pagrindžia:
-    - c-169965
+    - c-169964
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -184,7 +184,8 @@ Nenurodyta
 - id: c-169964
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 290."
   citata_originali: |
     Tačiau J . Dlugošo pasakojimas apie
     Suchtą y ra aiškia) tautosakinio pobūdžio. Todėl patikimesnis L. Ko-
@@ -193,14 +194,17 @@ Nenurodyta
   citata_rodoma: "Tačiau J . Dlugošo pasakojimas apie \nSuchtą y ra aiškia) tautosakinio pobūdžio. Todėl patikimesnis L. Ko- \nllankovskio spėjimas |L  Kolankowski. Dzieje W. Księstwa Litewskie- \ngo, I, p. 240), kad kalbamasis sąmokslas buvo tuoj po 1444 m,"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-169965
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 286."
   citata_originali: |
     Padavimas apie vieną iš septynių sąmokslų prieš Kazimierą,
     kurio pagrindiniu veikėju buvęs Suchta, y ra plačiai užrašytas
@@ -216,4 +220,3 @@ Nenurodyta
   pagrindzia:
     - t-001
     - t-002
-    - t-003

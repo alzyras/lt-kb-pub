@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a0639ac51ab7e90cebed47cd"
+canonical_name: "J. Motiejūnas-Valevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Motiejūnas-Valevičius"]
+sameAs: []
+canonical_biography: "Motiejūnas-Valevičius, ir karin."
 ---
 # J. Motiejūnas-Valevičius
 
@@ -50,7 +57,8 @@ Motiejūnas-Valevičius, ir karin.
 - id: c-41546
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 181."
   citata_originali: |
     Panevėžio rinktinei priklausė Panevėžio
     atskirasis batalionas (6 kuopos ir rai-

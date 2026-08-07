@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92b419ffaa69050b87ca856a"
+canonical_name: "Fridrikas Kruzė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Fridrikas Kruzė"]
+sameAs: []
+canonical_biography: "Ponas Fridrikas Kruzė vykdė kapaviečių kasinėjimus Kurše, Infliantuose ir Estijoje. Kurše, Infliantuose ir Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi čius3."
 ---
 # Fridrikas Kruzė
 
@@ -89,7 +96,8 @@ Ponas Fridrikas Kruzė vykdė kapaviečių kasinėjimus Kurše, Infliantuose ir 
 - id: c-174442
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 385."
   citata_originali: |
     Taip buvo pasakyta apie baltarusių pilkapius. In­
     formaciją apie

@@ -51,7 +51,8 @@ Dusburgietis teigia, kad schmid B.
 - id: c-61919
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg
     i. Pr., 1929, Heft 2, S. 191—200.

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5e261204d001024770d51ef9"
+canonical_name: "V. Pietaris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Pietaris"]
+sameAs: []
+canonical_biography: "Pietaro."
 ---
 # V. Pietaris
 
@@ -44,7 +51,8 @@ Pietaro.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 320."
   citata_originali: |
     26. V. Pietaro. LAPĖS GYVENIMAS IR MIRTIS. (Pagal senų žmo­
     nių pasakas). Iliustravo Meno mokyklos mokiniai prof. Dobužinskiui ko­

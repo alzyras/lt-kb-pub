@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4339b69df4994de656d7ca94"
+canonical_name: "Kristupas II Radvila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristupas II Radvila"]
+sameAs: []
+canonical_biography: "Jo sūnus, taip pat Kristupas II († 1640 m.), buvo iš karto lauko, o vėliau didysis hetmonas; kitas sūnus, Jonušas († 1620 m.), yra žinomas rokošininkas. Mirus Katkevičiui, į hetmono ir Vilniaus vaivados urėdus veržte veržėsi Kristupas II Radvila."
 ---
 # Kristupas II Radvila
 
@@ -62,7 +69,8 @@ Jo sūnus, taip pat Kristupas II († 1640 m.), buvo iš karto lauko, o vėliau 
 - id: c-42091
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 121."
   citata_originali: |
     1633 m. žiemą į pagalbą atskubėjo tuo-
     metinis Lietuvos lauko etmonas Kristupas

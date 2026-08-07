@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e53b901eaaed98a3fd3f8eb0"
+canonical_name: "Bisenė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bisenė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir. Dusburgietis teigia, kad apie Bisenės papilių sudeginimą 1313 metais Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų, abu jos papiliai supleškėjo ugnyje. Dusburgietis teigia, kad apie 80 lietuvių žūtį 1316 metais Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies, turėjo iš čia pasitraukti, o į jų vietą ateiti."
+place_authority: true
+historical_names: []
 ---
 # Bisenė
 
@@ -98,14 +107,21 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 <a id="claim-t-58382"></a>
 - t-004
   teiginys: "1313 m. rudenį Henrikas su broliais ir Sembos bei Notangos vyrais puolė Bisenės pilį, o per kovas sudegė abu jos papiliai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bisenė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bisenė\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1313 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir tiesiogiai paremtas citata."
   pagrindžia:
-    - c-59012
+    - c-59011
 
 <a id="claim-t-196676"></a>
 - t-005
@@ -147,7 +163,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - id: c-59011
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
   citata_originali: |
     Apie Bisenės papilių sudeginimą 1313 metais
 
@@ -162,14 +179,17 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   citata_rodoma: "Apie Bisenės papilių sudeginimą 1313 metais\n\n  Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais\nužpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,\nabu jos papiliai supleškėjo ugnyje.\n\n\n\n\n                320 (313)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-59012
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
   citata_originali: |
     Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
     visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,
@@ -185,12 +205,12 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
 
 - id: c-59013
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
     328 (321). Apie 80 lietuvių žūtį 1316 metais
     Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
@@ -210,7 +230,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - id: c-59014
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
     Apie Bisenės pilies sudeginimą 1316 metais
     Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
@@ -231,7 +252,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - id: c-178834
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
   citata_originali: |
     Pirmoji apsupo Bi-
     senės pilį ir po kovos, trukusios nuo Aušros ligi vi­

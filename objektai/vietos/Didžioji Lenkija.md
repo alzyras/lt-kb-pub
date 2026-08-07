@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8c14bf0b832bbdede8f3b399"
+canonical_name: "Didžioji Lenkija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Didžioji Lenkija"]
+sameAs: []
+canonical_biography: "Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais."
+place_authority: true
+historical_names: []
 ---
 # Didžioji Lenkija
 
@@ -176,7 +185,8 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 - id: c-157680
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 228."
   citata_originali: |
     Galingą są­
     jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos
@@ -194,7 +204,8 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 - id: c-157682
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 282."
   citata_originali: |
     Pagaliau sei-
     mas būdavo baigiamas
@@ -222,7 +233,8 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 - id: c-157684
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 228."
   citata_originali: |
     Netrukus Voluinėje bei Podolėje įsiplieskė karas su
     Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kry­
@@ -243,7 +255,8 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 - id: c-166402
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 282."
   citata_originali: |
     Generaliniai seime-
     liai. Sudarant Liublino
@@ -270,7 +283,8 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 - id: c-168301
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 395."
   citata_originali: |
     397
 

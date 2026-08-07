@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b40b4d50470a036256d6fff0"
+canonical_name: "V. Kudirka"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Kudirka"]
+sameAs: []
+canonical_biography: "Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir demonstracijas įsakus."
 ---
 # V. Kudirka
 
@@ -42,7 +49,7 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
 <a id="claim-t-19486"></a>
 - t-001
   teiginys: "Spalio 6 d. Aukščiausiosios Tarybos Prezidiumas legalizavo V. Kudirkos „Tautišką giesmę“."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -77,7 +84,8 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
 - id: c-22203
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 236."
   citata_originali: |
     Per keletą mėnesių LPS pa-
     siekė akivaizdžių laimėjimų. Spalio 21 dieną LKP CK pirmuoju sekre-
@@ -98,7 +106,8 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
 - id: c-176265
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 119."
   citata_originali: |
     „Aušros“ idėjas toliau plėto-
     jo 1889 m. pradėtas leisti žurnalas
@@ -123,7 +132,8 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
 - id: c-176266
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
     no savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-202bcddd716015d34cdd5d38"
+canonical_name: "Šv. Vincento kyšulys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Vincento kyšulys"]
+sameAs: []
+canonical_biography: "Šv. Vincento kyšulys Narbuto aprašyme buvo jūros kelyje, kuris ėjo pro Heraklio stulpus."
+place_authority: true
+historical_names: []
 ---
 # Šv. Vincento kyšulys
 
@@ -54,7 +63,8 @@ media_all_json: |-
 - id: c-175685
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
   citata_originali: |
     Taip mūsų kraštų prekės lengvai patekdavo arba
     į Tartesą, arba prie Galijos krantų, o per Galiją arkliais

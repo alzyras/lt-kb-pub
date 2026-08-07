@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-33445
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 225."
   citata_originali: |
     Pradinis žygis nepasisekė,
     nes « gynėjai taip smarkiai priešinosi, kad broliai, nieko nepadarę,

@@ -27,19 +27,26 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-34d687651d6cc5237300b260"
+canonical_name: "Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Benediktas Tyzenhauzas","Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)"]
+sameAs: []
+canonical_biography: "Benediktas Tyzenhauzas buvo Ukmergės seniūnas. Benediktas Tyzenhauzas Dažnai lankydavosi pas Antaną Davainį Solohubą arba priimdavo jį pas save."
 ---
 # Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)
 
 ## Santrauka
 
-Benediktas Tyzenhauzas buvo Ukmergės seniūnas. 1754 m. Benediktas Tyzenhauzas lankydavosi pas Antaną Davainį Solohubą, o šis būdavo pas jį Paplaujoje.
+Benediktas Tyzenhauzas buvo Ukmergės seniūnas. Benediktas Tyzenhauzas Dažnai lankydavosi pas Antaną Davainį Solohubą arba priimdavo jį pas save.
 
 ## Teiginiai
 
 <a id="claim-t-200523"></a>
 - t-001
   teiginys: "Benediktas Tyzenhauzas buvo Ukmergės seniūnas."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Ukmergė: 0.85"
@@ -55,8 +62,8 @@ Benediktas Tyzenhauzas buvo Ukmergės seniūnas. 1754 m. Benediktas Tyzenhauzas 
 
 <a id="claim-t-200524"></a>
 - t-002
-  teiginys: "1754 m. Benediktas Tyzenhauzas lankydavosi pas Antaną Davainį Solohubą, o šis būdavo pas jį Paplaujoje."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "1754 m. J. D. Lopacinskis rašė, kad Benediktas Tyzenhauzas lankydavosi pas Antaną Davainį Solohubą, o Antanas Davainis Solohubas nuolat būdavo pas Benediktą Tyzenhauzą Paplaujoje."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.): 0.85"
@@ -69,8 +76,8 @@ Benediktas Tyzenhauzas buvo Ukmergės seniūnas. 1754 m. Benediktas Tyzenhauzas 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1754 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutvarkyta didžiosios raidės klaida ir išskleistas abipusio lankymosi kontekstas. Nepridėta daugiau apie kortavimą ar politinius motyvus."
-  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
+  temporalinis_llm_pakomentavimas: "Neaiškūs įvardžiai pakeisti pilnais asmenų vardais, išlaikant šaltinio atribuciją ir abipusių lankymosi veiksmų kontekstą."
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
   pagrindžia:
     - c-183874
 
@@ -83,7 +90,7 @@ Benediktas Tyzenhauzas buvo Ukmergės seniūnas. 1754 m. Benediktas Tyzenhauzas 
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 03:26"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
     - t-002

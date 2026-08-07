@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a209fd37602ff807ac7756d3"
+canonical_name: "Kasparas Bekešas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kasparas Bekešas"]
+sameAs: []
+canonical_biography: "Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės, pastačius apvalaus bokšto pavidalo paminklą, išlikusį iki [Vyskupo seminarijos fundacija iš vyskupo stalo dvaro, vadinamo Vozgėliškėmis [Vaisgėliškis]. Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papročiu, Bekešo pa­ laikai buvę palaidoti po apvaliu bokštu."
 ---
 # Kasparas Bekešas
 
@@ -80,7 +87,8 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 - id: c-83510
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 309."
   citata_originali: |
     Šis
     dovanojimas išspausdintas knygos
@@ -105,7 +113,8 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 - id: c-83511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308-309"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308-309."
   citata_originali: |
     Narsiojo Kasparo Bekešo atminimas Vilniuje 1580
     metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės,

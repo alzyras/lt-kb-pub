@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3930163a40f5a49e1125e3a4"
+canonical_name: "Valteris, pravarde Goldinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Valteris, pravarde Goldinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubimą 1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias pėdas; jomis nusekė. Dusburgietis teigia, kad pagrobęs brolio Henriko žirgą, tas rusas pasitraukė, tačiau brolis Valteris, sekdamas jam iš žaizdų srūvančio kraujo pėdsakais, surado jį ir nudėjo."
 ---
 # Valteris, pravarde Goldinas
 
@@ -100,7 +107,8 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
 - id: c-60850
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
   citata_originali: |
     266 (259). Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
     1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe
@@ -122,7 +130,8 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
 - id: c-60851
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
   citata_originali: |
     Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
     1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe

@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ecb42a769fb3368d1a3a1e64"
+canonical_name: "Targovica"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Targovica"]
+sameAs: []
+canonical_biography: "Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederacijos aktas, paskelbtas 1792 m. gegužės 14 d."
+place_authority: true
+historical_names: []
 ---
 # Targovica
 
@@ -100,7 +109,8 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
 - id: c-43893
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 47."
   citata_originali: |
     Didžiausia tikimybė, kad Mėlynieji Van-
     denys, tai Siniuchos upė Pietų Ukrainoje,
@@ -123,7 +133,8 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
 - id: c-70435
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 94."
   citata_originali: |
     Lietuvos Didžiosios Kunigaikštijos
     sunaikinimas

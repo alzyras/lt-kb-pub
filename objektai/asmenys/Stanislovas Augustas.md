@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5f2921927c7316c173f95c5c"
+canonical_name: "Stanislovas Augustas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Augustas"]
+sameAs: []
+canonical_biography: "Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­ gusto III ir Stanislovo Augusto."
 ---
 # Stanislovas Augustas
 
@@ -111,7 +118,8 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 - id: c-83836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196-197"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196-197."
   citata_originali: |
     Taigi:
     180
@@ -142,7 +150,8 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 - id: c-177117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
   citata_originali: |
     Dar pastebėjau su­
     daužytų ašarinių liekanų; keleto šukių vidus buvo dengtas tam­

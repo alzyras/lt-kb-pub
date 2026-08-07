@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b70079ed5035ac715274fe2e"
+canonical_name: "Hartnumdas Grumbachas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hartnumdas Grumbachas"]
+sameAs: []
+canonical_biography: "Narbuto apibūdinimu Hartnumdas Grumbachas buvo ūmus, griežtas ir piktas, bet kartu toliaregiškas ir išmintingas žmogus."
 ---
 # Hartnumdas Grumbachas
 

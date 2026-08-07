@@ -104,7 +104,8 @@ Nenurodyta
 - id: c-169020
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 309."
   citata_originali: |
     Pirmiausia Vytautas nutarė klasta užgrobti Vilnių. Tuo
     metu kaip tik pasitaikė tin-
@@ -128,7 +129,8 @@ Nenurodyta
 - id: c-178607
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 309."
   citata_originali: |
     Tuo
     metu kaip tik pasitaikė tin-

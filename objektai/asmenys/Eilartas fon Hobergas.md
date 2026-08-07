@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d36abfd9cbcd3a7aa2edce66"
+canonical_name: "Eilartas fon Hobergas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eilartas fon Hobergas"]
+sameAs: []
+canonical_biography: "Žuvo Livonijos ordino magistras Ernestas fon Racburgas, danų vietininkas Taline Eilartas fon Hobergas, tik kai kam pavyko ištrūkti."
 ---
 # Eilartas fon Hobergas
 
@@ -71,7 +78,8 @@ media_all_json: |-
 - id: c-167125
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 34."
   citata_originali: |
     Ši mašina
     veikia naudojant

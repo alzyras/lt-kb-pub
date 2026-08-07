@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9631a1e8e145de26f6290232"
+canonical_name: "Tyniec"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tyniec"]
+sameAs: []
+canonical_biography: "Lenkijos (Tynieco). 80 Tyniecas 376 Tyszkiewicz J."
+place_authority: true
+historical_names: []
 ---
 # Tyniec
 
@@ -50,7 +59,8 @@ Lenkijos (Tynieco). 80 Tyniecas 376 Tyszkiewicz J.
 - id: c-34064
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 383."
   citata_originali: |
     Camblakas.
     Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­

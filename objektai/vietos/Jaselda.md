@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-272d9715e74c3fabb4760099"
+canonical_name: "Jaselda"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jaselda"]
+sameAs: []
+canonical_biography: "Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių ilgumo kanalas, kuris jungia Ščarą su Jaselda."
+place_authority: true
+historical_names: []
 ---
 # Jaselda
 
@@ -68,7 +77,8 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
 - id: c-168324
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 83."
   citata_originali: |
     Mstisla­
     vas
@@ -106,9 +116,9 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
     - t-001
 
 - id: c-184412
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 233"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 233."
   citata_originali: |
     Tėvūnai, pasi­
     teiravę su Erdvilu kunigaikščiu, išleido jį patį su

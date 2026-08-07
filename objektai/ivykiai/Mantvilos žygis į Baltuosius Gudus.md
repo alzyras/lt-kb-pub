@@ -59,9 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184681
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 167"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 167."
   citata_originali: |
     Lietuviai ir žemaičiai vėl, norėdami atmonyti H98
     Jaroslavui teriones žemgalių, patelkę dar Polocko

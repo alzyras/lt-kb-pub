@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-316b5e3aea0cc3da41fc992c"
+canonical_name: "Jaranda iš Brudzevo (vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jaranda iš Brudzevo","Jaranda iš Brudzevo (vyskupas)"]
+sameAs: []
+canonical_biography: "Krokuvos vaivada Jaranda iš Brudzevo buvo įtrauktas į senato pasiuntinybę, išsiųstą į Lietuvą pas Žygimantą."
 ---
 # Jaranda iš Brudzevo (vyskupas)
 
@@ -54,7 +61,8 @@ Krokuvos vaivada Jaranda iš Brudzevo buvo įtrauktas į senato pasiuntinybę, i
 - id: c-169575
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,

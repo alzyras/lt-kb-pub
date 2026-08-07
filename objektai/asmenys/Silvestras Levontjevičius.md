@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c3f1fcc2b7352cbea2c4821c"
+canonical_name: "Silvestras Levontjevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Silvestras Levontjevičius"]
+sameAs: []
+canonical_biography: "Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą posadniką Sil­ vestrą Levontjevičių ir valdovo vietininką Parfėjų ir už belaisvius davė puspenkto šimto rublių, o si­ dabrą davė per Marijos Užtarėjos dieną (spalio pirmą pagal Grigaliaus."
 ---
 # Silvestras Levontjevičius
 
@@ -51,7 +58,8 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
 - id: c-83907
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 172."
   citata_originali: |
     [Pskoviečiai
     pasiuntė pas didįjį kunigaikštį Jurgį

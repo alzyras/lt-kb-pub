@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fad9179255711987177a65ec"
+canonical_name: "BK autorius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["BK autorius"]
+sameAs: []
+canonical_biography: "1 0 Čia pabaiga pirm ojo originalaus intarpo, kur) BK autorius ¡dėjo | tekstų, jo paimtų iš Lietuvos metraščių PS."
 ---
 # BK autorius
 
@@ -45,7 +52,8 @@ media_all_json: |-
 - id: c-176759
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 223."
   citata_originali: |
     Ten taip pat buvo bažnyčia „sancta M aria in arena".
     1 0  Čia pabaiga pirm ojo originalaus intarpo, kur) BK autorius

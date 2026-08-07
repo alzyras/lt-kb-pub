@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-824d32d0c9a9f7294bc3f564"
+canonical_name: "Styrė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Styrė"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Styrė
 

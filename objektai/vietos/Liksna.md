@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a8b40b216aba24cc60cd1bed"
+canonical_name: "Liksna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liksna"]
+sameAs: []
+canonical_biography: "Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir malonusis magistrė, žinokite, kad buvau pasiun­ tęs iš Liksnos į Lietuvą Petrą viską susižinoti."
+place_authority: true
+historical_names: []
 ---
 # Liksna
 
@@ -72,7 +81,8 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
 - id: c-82002
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 178."
   citata_originali: |
     Dinaburgo komtūras praneša Livonijos magistrui, kad
     Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;
@@ -91,7 +101,8 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
 - id: c-82003
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 180-181"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 180-181."
   citata_originali: |
     164
 

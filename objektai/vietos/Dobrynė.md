@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-77fb6178f804bea580c2d5a7"
+canonical_name: "Dobrynė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dobrynė"]
+sameAs: []
+canonical_biography: "Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atiduos Žemaičius ir Dobrynę. Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko. Dusburgiečio aprašyme Dobrynės kunigaikštystė minima tarp Prūsijos žemę ribojusių teritorijų."
+place_authority: true
+historical_names: []
 ---
 # Dobrynė
 
@@ -175,11 +184,18 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 <a id="claim-t-175294"></a>
 - t-009
   teiginys: "Drevanta skyrė lenkiškąją Dobrynės žemę nuo upių ir ežerų supamo ploto pietryčiuose."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drevanta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dobrynė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Drevanta: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dobrynė\" parinktas kaip owner_note_path. Targetas \"Drevanta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159440
+    - c-159443
 
 <a id="claim-t-184941"></a>
 - t-010
@@ -284,7 +300,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 172."
   citata_originali: |
     Lenkijoj ėjo nuo seniau ginčas
     dėl Dobrynės žemės. Tą žemę Kazimieras III buvo atidavęs
@@ -302,7 +319,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 172."
   citata_originali: |
     gailos brolis, Aleksandras Vyguntas, Kernavos kun., katalikas,
     kas Skirgailai, kaip schizmatikui, nepatiko. Vyguntas, būdamas
@@ -320,7 +338,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-159438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
     jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
@@ -340,7 +359,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-159439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 46."
   citata_originali: |
     170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.
     411).
@@ -356,7 +376,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-159440
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Prūsijos žemės aprašymas
 
@@ -372,12 +393,12 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-009
 
 - id: c-159441
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Kunigaikštis
     ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
@@ -399,7 +420,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 100."
   citata_originali: |
     5 d. vėl atvyko pasiuntiniai teirautis taikos sąlygų.
     Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai
@@ -416,21 +438,25 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-159443
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
   citata_originali: |
     Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo
     lenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca).
   citata_rodoma: "Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo\nlenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
 - id: c-159444
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
     kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
@@ -450,7 +476,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-167535
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Broliai pagydyti protingai
     užbaigė jiems patikėtą reikalą. Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
@@ -468,7 +495,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-168302
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 159."
   citata_originali: |
     Kai po šio smūgio Lietuva šiek tiek atsiga­
     vo, Vytenis, surinkęs visose valdose lėšų, vieną ka­
@@ -504,7 +532,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - id: c-178836
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 196-197"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 196-197."
   citata_originali: |
     Visi kryžiuočiai su vadu Henriku fon Ploc-
     ke, Prūsijos maršalu, buvo šioje tankmėje arba su­

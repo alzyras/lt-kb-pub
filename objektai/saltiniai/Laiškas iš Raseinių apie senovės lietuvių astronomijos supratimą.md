@@ -61,7 +61,8 @@ Narbutas antrajam LTI leidimui skyrių papildė iš Raseinių gauto laiško frag
 - id: c-174673
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 478"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 478."
   citata_originali: |
     1 Laiško,
     gauto

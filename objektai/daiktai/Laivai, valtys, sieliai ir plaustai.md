@@ -160,7 +160,8 @@ Nenurodyta
 - id: c-82969
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 32."
   citata_originali: |
     Man vis dėlto atrodo,
     kad įvykis, aprašytas Petro Olai
@@ -191,7 +192,8 @@ Nenurodyta
 - id: c-82970
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 152."
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
     52
@@ -216,7 +218,8 @@ Nenurodyta
 - id: c-82971
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 84-85"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 84-85."
   citata_originali: |
     Energingas Garteno (Gar­
     dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse,
@@ -279,7 +282,8 @@ Nenurodyta
 - id: c-82972
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 31-32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 31-32."
   citata_originali: |
     Nors jau V amžiaus pabaigoje,
     tuoj po Romos valstybės žlugimo,
@@ -314,7 +318,8 @@ Nenurodyta
 - id: c-82974
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 23-24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 23-24."
   citata_originali: |
     7
 
@@ -341,7 +346,8 @@ Nenurodyta
 - id: c-176791
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 32-33"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 32-33."
   citata_originali: |
     5
     Žodį Vilija, jeigu jo kilmės imtume

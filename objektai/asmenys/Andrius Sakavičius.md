@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c3732ad983bbfcbffe92d3ca"
+canonical_name: "Andrius Sakavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Sakavičius"]
+sameAs: []
+canonical_biography: "Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku."
 ---
 # Andrius Sakavičius
 
@@ -55,7 +62,8 @@ Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininku
 - id: c-169395
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 472"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 472."
   citata_originali: |
     Visuomet kariuomenė sėkmingai
     kariauja, kai valdovas ne tik jai duoda nurodymų, o

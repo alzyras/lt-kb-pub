@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e593391b3f64c51f1cbd1971"
+canonical_name: "Albertas Kojalavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Albertas Kojalavičius"]
+sameAs: []
+canonical_biography: "Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsitikinimą, kad Kaune pranciškonus įkurdinęs Vytautas, atsidėkodamas už išsigelbėjimą nesėkmingame 1399 m. Vorsklos mūšyje su to toriais. Kauno miestiečių sūnūs buvo jau minėti broliai Albertas, Kazimieras ir Petras Kojaiavičiai, žinomi jėzuitų veikėjai, Albertas - didžiausias XVII a."
 ---
 # Albertas Kojalavičius
 
@@ -61,9 +68,9 @@ Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsit
 ## Citatos
 
 - id: c-185556
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 119"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 119."
   citata_originali: |
     Iš Kauno kilęs XVII a. Lietuvos istorikas Al-
     bertas KojaIavičius užrašė savo laikais gyvavusį įsitikinimą, kad Kaune pranciškonus
@@ -78,9 +85,9 @@ Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsit
     - t-001
 
 - id: c-185557
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 356"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 356."
   citata_originali: |
     Virginem olim coluit, describunt.
     Kauno miestiečių sūnūs buvo jau minėti broliai Albertas, Kazimieras ir Petras

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-57dcc80e3069e6704826205e"
+canonical_name: "Stanislavas Caplinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislavas Caplinas"]
+sameAs: []
+canonical_biography: "Lietuvos pajėgos Čekistinę operacijos pusę koordinavo naujai Maskvos paskirtas sssR KGB padalinio Lietuvoje pirmininko pavaduotojas Stanislavas Caplinas."
 ---
 # Stanislavas Caplinas
 
@@ -61,7 +68,8 @@ Lietuvos pajėgos Čekistinę operacijos pusę koordinavo naujai Maskvos paskirt
 - id: c-44514
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 255."
   citata_originali: |
     vadas generolas Valentinas Varenikovas. Lietuvos pajėgos
 

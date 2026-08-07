@@ -51,7 +51,8 @@ Dusburgietis teigia, kad wenskus R.
 - id: c-61996
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Wenskus R. Kleinverbände und Kleinräume bei den Prussen des Samlandes: Die
     Anfänge der Landgemeinde und ihr Wesen. Bd. 2,—Konstanz—Stuttgart, 1964 (Vorträge

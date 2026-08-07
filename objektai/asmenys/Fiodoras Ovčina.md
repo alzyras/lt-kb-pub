@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5e47fb20e263088492b88d8"
+canonical_name: "Fiodoras Ovčina"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fiodoras Ovčina"]
+sameAs: []
+canonical_biography: "Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globėją, kuris klastingomis kalbomis sukurstė karą prieš Lietuvą. Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globėją, kuris klastingomis kalbomis sukurstė karą prieš Lietuvą."
 ---
 # Fiodoras Ovčina
 
@@ -63,7 +70,8 @@ Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globė
 - id: c-169401
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 663"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 663."
   citata_originali: |
     Tiesa, tą karą jie pradėjo nei paskatinti, nei
     įsakyti valdovo, kuris, nė devynerių metų nesulaukęs,

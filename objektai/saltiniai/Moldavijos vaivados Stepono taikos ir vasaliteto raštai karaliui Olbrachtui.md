@@ -91,7 +91,8 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
 - id: c-178920
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 151."
   citata_originali: |
     O kai
     tik maskvėnai išgirdo Briansko pilį sudegus, paskubėjo
@@ -120,7 +121,8 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
 - id: c-178921
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 151-152"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 151-152."
   citata_originali: |
     Sužinoję, kad maskvėnai paėmė Brianską, Možaisko
     kunigaikštis Semionas Ivanovičius bei kunigaikštis Va­

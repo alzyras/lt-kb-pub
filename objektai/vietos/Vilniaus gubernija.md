@@ -32,6 +32,15 @@ media_all_json: |-
 tags:
   - vieta
   - regionas
+entity_id: "ent-1ef0f81ca5fb723292a5ca74"
+canonical_name: "Vilniaus gubernija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus gubernija"]
+sameAs: []
+canonical_biography: "1859 m. iždas buvo apskaičiavęs iš Kauno gubernijos gauti nuo degtinės 948.056 rublius, o tegavo vos 53.146 rublius."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus gubernija
 
@@ -63,7 +72,7 @@ tags:
 <a id="claim-t-126077"></a>
 - t-002
   teiginys: "1840 m. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1840 m."
@@ -165,7 +174,8 @@ tags:
 - id: c-115218
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 131."
   citata_originali: |
     Tai nebuvo
     monolitinės stovyklos, nes rasdavosi įvairių tranzitinių grupelių ir iš kitų
@@ -190,7 +200,8 @@ tags:
 - id: c-115219
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 100."
   citata_originali: |
     Mat baltarusių šnekta pragma-
     tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
@@ -216,7 +227,8 @@ tags:
 - id: c-115220
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 106."
   citata_originali: |
     Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
     valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
@@ -232,7 +244,8 @@ tags:
 - id: c-115221
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
     Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
@@ -257,7 +270,8 @@ tags:
 - id: c-115222
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 142."
   citata_originali: |
     Teritoriniai klausimai taip pat buvo sprendžiami palankiai. Lietuviai pre-
     tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d5a227ecfec6367a482ea7e0"
+canonical_name: "Liudvikas Narbutas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["L. Narbutas","Liudvikas Narbutas","Liudviką"]
+sameAs: []
+canonical_biography: "Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti."
 ---
 # Liudvikas Narbutas
 
@@ -57,7 +64,8 @@ Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su r
 - id: c-170879
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Žuvo apie
 

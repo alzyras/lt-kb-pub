@@ -25,8 +25,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e48ab6ebebdcf7c9c85f71c"
+canonical_name: "Motiejus Stryjkowskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus Stryjkowskis"]
+sameAs: []
+canonical_biography: "Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperatoriui Zigmantui padovanojo brangakmeniais puoštą tauro ragą."
 ---
 # Motiejus Stryjkowskis
+
+## Santrauka
+
+Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperatoriui Zigmantui padovanojo brangakmeniais puoštą tauro ragą.
 
 ## Santrauka
 
@@ -37,7 +48,7 @@ Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperat
 <a id="claim-t-200738"></a>
 - t-001
   teiginys: "Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperatoriui Zigmantui padovanojo brangakmeniais puoštą tauro ragą."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,6 +74,6 @@ Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo Vytautas imperat
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 11."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-001

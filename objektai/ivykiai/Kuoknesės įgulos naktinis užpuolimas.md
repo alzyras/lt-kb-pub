@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184677
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 208"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 208."
   citata_originali: |
     Albertui
     apipasakoti, kursai vėl nusiuntė kunigą juos Dievo

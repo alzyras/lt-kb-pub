@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-952679d55b74ceb0273d6d48"
+canonical_name: "Šv. Dvasios dominikonų bažnyčia Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Dvasios dominikonų bažnyčia Vilniuje"]
+sameAs: []
+canonical_biography: "Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą."
+place_authority: true
+historical_names: []
 ---
 # Šv. Dvasios dominikonų bažnyčia Vilniuje
 
@@ -76,7 +85,8 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 - id: c-82256
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Daugelis jų garsėjo su­
     manumu ir turtais, bet labiausiai buvo žinomas Onka Hrice-
@@ -97,7 +107,8 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 - id: c-82257
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Pa-
     49

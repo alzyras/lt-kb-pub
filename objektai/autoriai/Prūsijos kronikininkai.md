@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab1b5e064c16b07e32dd5452"
+canonical_name: "Prūsijos kronikininkai"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Prūsijos kronikininkai"]
+sameAs: []
+canonical_biography: "Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų. Prūsijos kronikininkai kartojo, kad stabmeldžiai slėpė tam tikras religines apeigas."
 ---
 # Prūsijos kronikininkai
 
@@ -74,7 +81,8 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
 - id: c-173261
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
   citata_originali: |
     Šie dievaičiai atitinka Antikos Paną.
     Prūsijos kronikininkų, besivadovaujančių Olafo Didžiojo
@@ -93,7 +101,8 @@ Prūsijos kronikininkų, besirėmusių Olafo Didžiojo „Istorija“, manymu, l
 - id: c-173262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 198."
   citata_originali: |
     Iš čia slap­
     tos sueigos, slaptos reikšmės dievybės, kurių mūsų mitologas

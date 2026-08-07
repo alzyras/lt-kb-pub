@@ -55,7 +55,8 @@ Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas pan
 - id: c-172402
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
   citata_originali: |
     O
     kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo

@@ -69,7 +69,8 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
 - id: c-69173
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 257."
   citata_originali: |
     Nors Rusija Lietuvai išliko svarbi ekonominė partnerė,
     artimesni santykiai tarp šių valstybių nesusiklostė. Pagrindinė kliūtis –
@@ -90,7 +91,8 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
 - id: c-166848
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 255."
   citata_originali: |
     Kitiems tebemaga iki šiol.
     Atsikūrusiai Lietuvai pirmuosius keturiolika gyvenimo metų reikėjo

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-84c3aa7d09c29f6012738de8"
+canonical_name: "E. Vžesnievskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["E. Vžesnievskis"]
+sameAs: []
+canonical_biography: "Vžesnievskis, S."
 ---
 # E. Vžesnievskis
 
@@ -51,7 +58,8 @@ Vžesnievskis, S.
 - id: c-44322
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     sintus dalgius ir durtuvus. Batalionų vadais
 

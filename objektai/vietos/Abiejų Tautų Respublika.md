@@ -33,8 +33,21 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-01f39c380c1f59663f43d529"
+canonical_name: "Abiejų Tautų Respublika"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Abiejų Tautų Respublika"]
+sameAs: []
+canonical_biography: "Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. sudarytą taiką buvo atkurta siena tarp Abiejų Tautų Respublikos ir Turkijos, ėjusi palei Dniestro upę. XVIII a. Abiejų Tautų Respublikoje bendras gėrimas iš vienos taurės užsieniečių buvo aiškinamas kaip svetingumo ženklas, senas paprotys ar indų stygiaus pasekmė. Šio laikotarpio chronologinės ribos yra 1408-1795 m. Po to, kai 1795 m. Abiejų Tautų Respubliką ar kitaip vadinamą jungtinę Lenkijos ir Lietuvos valstybę sugriovė trys kaimynės - Rusija, Prūsija ir Austrija, Kaunas su didžiąja Lietuvos dalimi pateko į Rusijos."
+place_authority: true
+historical_names: []
 ---
 # Abiejų Tautų Respublika
+
+## Santrauka
+
+Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. sudarytą taiką buvo atkurta siena tarp Abiejų Tautų Respublikos ir Turkijos, ėjusi palei Dniestro upę. XVIII a. Abiejų Tautų Respublikoje bendras gėrimas iš vienos taurės užsieniečių buvo aiškinamas kaip svetingumo ženklas, senas paprotys ar indų stygiaus pasekmė. Šio laikotarpio chronologinės ribos yra 1408-1795 m. Po to, kai 1795 m. Abiejų Tautų Respubliką ar kitaip vadinamą jungtinę Lenkijos ir Lietuvos valstybę sugriovė trys kaimynės - Rusija, Prūsija ir Austrija, Kaunas su didžiąja Lietuvos dalimi pateko į Rusijos.
 
 ## Santrauka
 
@@ -57,18 +70,18 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
 <a id="claim-t-200711"></a>
 - t-002
   teiginys: "XVIII a. Abiejų Tautų Respublikoje bendras gėrimas iš vienos taurės užsieniečių buvo aiškinamas kaip svetingumo ženklas, senas paprotys ar indų stygiaus pasekmė."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumas: "susije_su -> Indai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Indai: mention_match, group, gap=130"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Indai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
   vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
@@ -91,7 +104,8 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
 - id: c-176446
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 119."
   citata_originali: |
     apsaugota nuo Turkijos kariuomenės įsi-
     veržimo. Po nepasisekusių kovų Turkija
@@ -115,14 +129,14 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 16."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-002
 
 - id: c-184928
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 11"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 11."
   citata_originali: |
     Šio laikotarpio chronolo-
     ginės ribos yra 1408-1795 m.

@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-96e191feac24ca6ba976e5d2"
+canonical_name: "Misionierių bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Misionierių bažnyčia"]
+sameAs: []
+canonical_biography: "Misionierių bažnyčia buvo užbaigta dešimt metų vėliau ir plėtojo Šv. Kotrynos bažnyčios išorės architektūrinį tipą."
+place_authority: true
+historical_names: []
 ---
 # Misionierių bažnyčia
 

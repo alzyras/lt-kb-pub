@@ -56,7 +56,8 @@ Nenurodyta
 - id: c-10261
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 288-289"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 288-289."
   citata_originali: |
     paskui sušluostę gruzdinius^1299 numirėlio supylė į molio
         indą, ir lydėtojai, nešdami į kapus, sušuko regintys keliaujantį nabaštiką debesyse ant balto žirgo ir

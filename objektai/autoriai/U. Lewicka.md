@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-79c186e4c2d7adba2b752863"
+canonical_name: "U. Lewicka"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["U. Lewicka"]
+sameAs: []
+canonical_biography: "Lewicka ir J."
 ---
 # U. Lewicka
 
@@ -59,7 +66,8 @@ Lewicka ir J.
 - id: c-33162
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 24."
   citata_originali: |
     1, 1967 ; dal. 2 (Indeksy), Varšuva 1967.**
     **_Bibliografia Regionu Białostockiego,_** **red. U. Lewicka ir J. Pochodowicz,

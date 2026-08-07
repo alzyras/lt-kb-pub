@@ -49,7 +49,8 @@ media_all_json: |-
 - id: c-33595
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 253."
   citata_originali: |
     Ivinskis, Z. : Liubartas Gediminaitis , LE, t. 16, 318-320 p. — Kra­
     sauskas, R. : Manivydas , LE, t. 17, 242 p. — Ljubavskij, M. : Obrazo-

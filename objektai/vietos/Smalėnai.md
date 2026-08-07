@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e20f9df67685d30898281429"
+canonical_name: "Smalėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Smalėnai"]
+sameAs: []
+canonical_biography: "(3-iajai divizijai: Vištyčio ež.- Rūdelė-Smalėnai-Klevai-Dimitravo ež., 2-ajai divizijai: Dimitravo ež. Rugsėjo 22 d. „Gediminas“ susirėmė su lenkų artilerija už Punsko, prie Smalėnų miestelio."
+place_authority: true
+historical_names: []
 ---
 # Smalėnai
 
@@ -51,7 +60,8 @@ media_all_json: |-
 - id: c-45333
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 204."
   citata_originali: |
     Iš Kauno šarvuotas trauki-
     nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su

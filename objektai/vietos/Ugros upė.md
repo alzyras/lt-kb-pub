@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a68f8771116d54798605795f"
+canonical_name: "Ugros upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ugros upė"]
+sameAs: []
+canonical_biography: "Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upės."
+place_authority: true
+historical_names: []
 ---
 # Ugros upė
 
@@ -76,7 +85,8 @@ Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upė
 - id: c-168677
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
   citata_originali: |
     Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­
     jojo visokių netikėtumų, ir lietuvis norėjo laiku iš­

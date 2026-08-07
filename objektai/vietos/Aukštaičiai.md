@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6bfb16515489b4487d920238"
+canonical_name: "Aukštaičiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aukštaičiai"]
+sameAs: []
+canonical_biography: "Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pietinės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų sritys — Minskas, Vitebskas, Polockas."
+place_authority: true
+historical_names: []
 ---
 # Aukštaičiai
 
@@ -46,7 +55,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-175999
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 90."
   citata_originali: |
     Taip būdavo ir vėlesniaisiais laikais; pavyzdžiui,
     kai kurios Gedimino prijungtos sritys paskum buvo vėl laikinai

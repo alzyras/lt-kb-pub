@@ -63,7 +63,8 @@ Nenurodyta
 - id: c-177216
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 266."
   citata_originali: |
     Priešais ąžuolą,
     angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos

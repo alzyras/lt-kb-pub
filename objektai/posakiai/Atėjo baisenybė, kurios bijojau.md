@@ -71,7 +71,8 @@ Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už j
 - id: c-59715
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174."
   citata_originali: |
     227 (222). Apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama
     1286 viešpaties metais brolis Ditrichas, Sembos fogtas, galėjo taip sakyti, kaip
@@ -93,7 +94,8 @@ Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už j
 - id: c-179015
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
   citata_originali: |
     Apie tą patį
     Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs

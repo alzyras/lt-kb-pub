@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-76688615814cb56414997ce5"
+canonical_name: "Odoničius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Odoničius"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaikštis Odoničius bei daug kitų kilmingų bei galingų vyrų, gyvenančių tarp Oderio ir Vyslos upių ir tarp Bebro ir Netos upių, be to, Sventopelkas, Pomeranijos kunigaikštis230, su savo broliu Samboru."
 ---
 # Odoničius
 
@@ -59,7 +66,8 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
 - id: c-61028
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 73-74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 73-74."
   citata_originali: |
     Apie Marienverderio miesto pastatymą
 

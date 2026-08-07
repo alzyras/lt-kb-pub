@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8efd9ba14692451cd29eb112"
+canonical_name: "Pagudė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pagudė"]
+sameAs: []
+canonical_biography: "Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu Drūzo (Elbingo) uostu."
+place_authority: true
+historical_names: []
 ---
 # Pagudė
 
@@ -131,7 +140,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 <a id="claim-t-91228"></a>
 - t-006
   teiginys: "Petro iš Dusburgo kronikoje Pagudė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -292,7 +301,8 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-86946
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
     subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,
@@ -314,7 +324,8 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-86947
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
   citata_originali: |
     Apie karą su pagudėnais ir Elbingo pilies pastatymą
 
@@ -338,7 +349,8 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-86948
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
     bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
@@ -356,7 +368,8 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-86951
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Prūsai ir Lietuva
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
@@ -377,7 +390,8 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-86952
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
   citata_originali: |
     Prūsų žemė į šiaurės rytus nuo
     Pamedės, vakaruose siekė dab. Elbingo apylinkes, o rytuose — Alnos upę. Kartais kaip
@@ -394,7 +408,8 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-86953
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
                apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
@@ -420,7 +435,8 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-86954
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
   citata_originali: |
     Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
     patraukė su šimtine brolių bei maldininkų žygin ir, apiplėšęs Pagudės žemę, pasuko
@@ -443,7 +459,8 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-175482
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
   citata_originali: |
     258
     Pagudė (Pojessania.). Pavadinimą gavo nuo Jesse, ar­
@@ -463,7 +480,8 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - id: c-179051
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
     pasalos, atkirto jiems kelią į miestą. Persekiojami miestiečiai, nestengdami priešintis

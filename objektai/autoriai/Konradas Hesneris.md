@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c511e19d3b80e9191548aaf"
+canonical_name: "Konradas Hesneris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Konradas Hesneris"]
+sameAs: []
+canonical_biography: "Konradas Hesneris Narbuto pastaboje įvardijamas kaip šveicarų gydytojas, gamtininkas ir bibliografas, gyvenęs 1516–1565 m."
 ---
 # Konradas Hesneris
 
@@ -55,7 +62,8 @@ Konradas Hesneris Narbuto pastaboje įvardijamas kaip šveicarų gydytojas, gamt
 - id: c-174533
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 433."
   citata_originali: |
     Ypač žymus jo veikalas-dialogas
     „Geografika“.

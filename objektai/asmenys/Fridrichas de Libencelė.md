@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3aabaf58de7da90c9ecf505a"
+canonical_name: "Fridrichas de Libencelė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas de Libencelė"]
+sameAs: []
+canonical_biography: "387); anot jos, Ragainės komtūras Fridri­ chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė jos užimti, o tik sudegino papilį."
 ---
 # Fridrichas de Libencelė
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-83653
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     Šitai vyko viešpataujant Lie­
     tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina

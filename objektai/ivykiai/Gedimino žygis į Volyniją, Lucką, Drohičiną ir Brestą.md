@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184633
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 531"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 531."
   citata_originali: |
     170.)
     Taip nukariavęs Gediminas Volyniją tuo pačiu

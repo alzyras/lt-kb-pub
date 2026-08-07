@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-70e584d741b0cbdd8d1b32a9"
+canonical_name: "Vroclavas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vroclavas"]
+sameAs: []
+canonical_biography: ": Historia Litwy, Vroclavas-Varšuva-Krokuva 1967. Dą­ browski, Vroclavas-Varšuva-Krokuva (PAN) 1961, 1965. Pus­ broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­ beno savo politinę karjerą pradedąs Zbignievas Olesnickis."
+place_authority: true
+historical_names: []
 ---
 # Vroclavas
 
@@ -129,7 +138,8 @@ media_all_json: |-
 - id: c-81576
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 229."
   citata_originali: |
     Per itin galingas Švitrigailos sąjungas radosi di­
     desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
@@ -151,7 +161,8 @@ media_all_json: |-
 - id: c-81577
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 229."
   citata_originali: |
     Valdant Švitrigailai, Vilniaus miestietis
     Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
@@ -177,7 +188,8 @@ media_all_json: |-
 - id: c-81578
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 362"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 362."
   citata_originali: |
     Per susitikimą Dauguose patyrę
     ištarmę, jiedu esą rėkę ir raudoję, kaip du sužeisti hutai^13. Pus­
@@ -197,7 +209,8 @@ media_all_json: |-
 - id: c-81579
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 229-230"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 229-230."
   citata_originali: |
     Jame pasakoja, kad „pasiunčiau nuo
     savęs maloningąjį poną Konradą,
@@ -235,7 +248,8 @@ media_all_json: |-
 - id: c-81581
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 363."
   citata_originali: |
     Abu valdovai tačiau kratėsi tokio sprendimo. Jogaila tuojau
     apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo

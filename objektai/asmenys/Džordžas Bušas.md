@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c23b7d4c0a746d0c54bed199"
+canonical_name: "Džordžas Bušas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Džordžas Bušas"]
+sameAs: []
+canonical_biography: "Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų sąjunga pasiryžusi ginti savo nares."
 ---
 # Džordžas Bušas
 
@@ -51,7 +58,8 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
 - id: c-26663
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 259."
   citata_originali: |
     Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento
     Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų

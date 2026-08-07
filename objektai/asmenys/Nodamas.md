@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1e8a9c80467faa6458c5b52d"
+canonical_name: "Nodamas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nodamas"]
+sameAs: []
+canonical_biography: "Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais ir atsisėdo Nemuno pakrantėje, siekdamas apgauti brolius. Nodamas pažadėjo įgulos vadui padėti taip, kad kariai galėtų susikauti su priešu ir jį nugalėti. Nodamas, persirengęs moterimi, priviliojo kryžiuočius prie kranto ir sulaikė jų laivą, kol atskubėjo pasalos kariai."
 ---
 # Nodamas
 
@@ -128,7 +135,8 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
 - id: c-61027
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
     išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias
@@ -153,7 +161,8 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
 - id: c-168168
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 162-163"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 162-163."
   citata_originali: |
     Vis dėlto jis sušaukė įgulą ir visus para­
     gino sugalvoti kokią gudrybę, kuri leistų padaryti prie­
@@ -184,7 +193,8 @@ Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais i
 - id: c-168169
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 163."
   citata_originali: |
     Todėl jie priplaukė prie kranto, ketindami tą
     tariamą moterį paimti į laivą, tačiau Nodamas, staiga

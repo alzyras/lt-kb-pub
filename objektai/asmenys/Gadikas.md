@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eabfc40d6fab27aaa2106d11"
+canonical_name: "Gadikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gadikas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šio pakraščio vadą, vardu Gadikas338, nužudė drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su moterimis ir mažais vaikais išsivarė kartu su kitu grobiu."
 ---
 # Gadikas
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad šio pakraščio vadą, vardu Gadikas338, nužudė drau
 - id: c-167451
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 109."
   citata_originali: |
     Apie vienos Notangos dalies nuniokojimą
     Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],

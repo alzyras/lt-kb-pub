@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b1dc8ad0cdce470ae53b0196"
+canonical_name: "Vaitiekus Janavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaitiekus Janavičius"]
+sameAs: []
+canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­ vo ir vyko Melnike pirmadienį prieš Tris Karalius metais nuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­ siam Kristuje tėvui ir ponui Vaitiekui, Dievo malone."
 ---
 # Vaitiekus Janavičius
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-83853
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 215-216"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 215-216."
   citata_originali: |
     Prie liudytojų, tuo metu su mumis buvusių:
     su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba

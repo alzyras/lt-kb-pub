@@ -48,7 +48,8 @@ Nenurodyta
 - id: c-172776
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
   citata_originali: |
     Kaip tik dėl to, artėjant gyvenimo
     pabaigai, užleisdavo ir savo pačių nagus, visai jų nebetrum-

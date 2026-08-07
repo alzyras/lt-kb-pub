@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-174979
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 479"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 479."
   citata_originali: |
     Amerikos indėnai išsaugojo atmintį apie akmenų garbinimą, nes
     jie, kaip sako vienas keliauninkas, savo lopšiu yra, artimesni žmo­

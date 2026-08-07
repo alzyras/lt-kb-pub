@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9e8b094d5a063fc311f3a1bd"
+canonical_name: "Medraba"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Medraba"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link Medrabos pilies534, per kurią. Dusburgietis teigia, kad — castrum Mederabam, Jer.— bure zu Mederabe; Medraba (SZM, p. 223)."
+place_authority: true
+historical_names: []
 ---
 # Medraba
 
@@ -66,7 +75,8 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
 - id: c-59226
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 181."
   citata_originali: |
     534 D. — castrum Mederabam, Jer.— bure zu Mederabe; Medraba (SZM, p. 223). Iš
     piliakalnių išsidėstymo  į vak. nuo Dubysos situacijos, pateiktos kronikoje, atrodo, kad
@@ -85,7 +95,8 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
 - id: c-167570
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180-181"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180-181."
   citata_originali: |
     Pirmajam priklausė į vakarus nuo Gedimino
 

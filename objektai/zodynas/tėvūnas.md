@@ -88,7 +88,8 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 90."
   citata_originali: |
     Valstybės priešaky stovėjo niekuo nevar­
     žomas, monarcho teisėmis, did. kunigaikštis; sritys, su mažo­
@@ -108,7 +109,8 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 - id: c-69407
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 178."
   citata_originali: |
     Todėl nei bajorų nei di-
     džiojo kunigaikščio dvaruose (vadinamuosiuose domenuose)
@@ -130,7 +132,8 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 - id: c-166381
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 178."
   citata_originali: |
     Ypač lengva valstiečių
     būklė buvo didžiojo kunigaikščio dvaruose. Kunigaikščiai valdė

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5879a0460fce511871f8f855"
+canonical_name: "Jonas Černius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Černius"]
+sameAs: []
+canonical_biography: "Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos partijos gavo po dvi ministrų vietas. Černius (dešinėje)."
 ---
 # Jonas Černius
 
@@ -78,7 +85,8 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 - id: c-154756
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 182."
   citata_originali: |
     Lietuvos
     teritorijos ir 5 proc. gyventojų, prarasta trečdalis ekonomikos, o 70 proc.
@@ -99,7 +107,8 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 - id: c-154757
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 184."
   citata_originali: |
     Pastaroji
     sutartis stačiai apstulbino Lietuvos delegaciją, nes buvo kalbama apie gry-

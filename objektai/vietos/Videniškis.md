@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6f514cd6561671e187d798a7"
+canonical_name: "Videniškis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Videniškis"]
+sameAs: []
+canonical_biography: "Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų link. 2-asis pulkas turėjo pulti Giedraičius iš Želvos, jų puolimą turėjo paremti 9-ojo pulko vienas batalionas, puldamas Giedraičių kryptimi iš Videniškio."
+place_authority: true
+historical_names: []
 ---
 # Videniškis
 
@@ -62,7 +71,8 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 - id: c-43978
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 210."
   citata_originali: |
     Puolimas buvo staigus ir stiprus. Lenkų
     pajėgos priartėjo prie Videniškio,
@@ -80,7 +90,8 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 - id: c-45402
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 210."
   citata_originali: |
     Lapkričio 19 d. į Ukmergę at-
     vyko armijos vadas gen. S. Žukauskas,

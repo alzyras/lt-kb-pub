@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e0d147b6452813ca9cda3278"
+canonical_name: "F. Rolandas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["F. Rolandas"]
+sameAs: []
+canonical_biography: "Rolando pajėgas pasukti kairiau, Nėries link."
 ---
 # F. Rolandas
 
@@ -61,7 +68,8 @@ Rolando pajėgas pasukti kairiau, Nėries link.
 - id: c-41905
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 157."
   citata_originali: |
     @ Priešo šaulių ir artilerijos ugnis
     priverčia F. Rolando pajėgas

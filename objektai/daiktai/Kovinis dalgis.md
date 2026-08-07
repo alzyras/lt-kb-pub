@@ -87,7 +87,8 @@ Nenurodyta
 - id: c-40988
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 163."
   citata_originali: |
     Pusė sukilėlių ginkluoti dalgiais, pusė - ietimis. letys yra duriamieji ginklai,
     todėl jos turi būti laikomos horizontaliai ir jas gali naudoti dvi pirmosios eilės. Ištiesinti dalgiai yra kertamieji-pjauna-
@@ -106,7 +107,8 @@ Nenurodyta
 - id: c-40990
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     A. Mackevičius sutelkė kovai 150 dalgiais
     ir šautuvais ginkluotų vyrų. Kovo 27 d. ties

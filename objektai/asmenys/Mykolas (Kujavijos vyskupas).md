@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bbf4483b7574bf44b20f1a76"
+canonical_name: "Mykolas (Kujavijos vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas (Kujavijos vyskupas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui Vilhelmui, Dirsovijos grafams — vyresniajam ir."
 ---
 # Mykolas (Kujavijos vyskupas)
 
@@ -41,7 +48,8 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - id: c-61022
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 46."
   citata_originali: |
     savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
     pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia

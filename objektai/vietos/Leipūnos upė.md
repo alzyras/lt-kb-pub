@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09464f054aa536dda467c10b"
+canonical_name: "Leipūnos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Leipūnos upė"]
+sameAs: []
+canonical_biography: "Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš čia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­ vintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­ lininkų; iš čia — į Palangą, paliekant Ordinui."
+place_authority: true
+historical_names: []
 ---
 # Leipūnos upė
 
@@ -53,7 +62,8 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 154."
   citata_originali: |
     Lenkija gavo Niešavo žemę su
     keliais sodžiais ir viena pilimi, o Lietuva — Žemaitiją ir Sūda­

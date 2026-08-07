@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-07466a8f181028a9db1d4eab"
+canonical_name: "Šventoji tarp Palangos ir Liepojos"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventoji tarp Palangos ir Liepojos"]
+sameAs: []
+canonical_biography: "Tarp Palangos ir Liepojos minima Šventoji (Šwięta) yra upė, įtekanti į jūrą."
+place_authority: true
+historical_names: []
 ---
 # Šventoji tarp Palangos ir Liepojos
 
@@ -54,7 +63,8 @@ Tarp Palangos ir Liepojos minima Šventoji (Šwięta) yra upė, įtekanti į jū
 - id: c-171980
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
   citata_originali: |
     3. Tarp Palangos ir Liepojos yra Šventoji (Šwięta) upė, įte­
     kanti į jūrą. Atrodo, Žemaitijoje šitaip vadinami dar keli ma­

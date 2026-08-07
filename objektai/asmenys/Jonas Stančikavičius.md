@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5ab7e2adea1ff0f17d85e53"
+canonical_name: "Jonas Stančikavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Stančikavičius"]
+sameAs: []
+canonical_biography: "Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai: Jonas Stančikavičius, Stanislovas Milinavičius, Stanislovas Piotrasavičius, Motiejus su broliu Kasparu JanušeVičiai, Aleksandras Baltramiejevičius, našlė Felicija Osčiluvna, Povilas."
 ---
 # Jonas Stančikavičius
 
@@ -50,7 +57,8 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 - id: c-83712
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 262-263"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 262-263."
   citata_originali: |
     —
     Item Omnes Homines Subditos Ecclesiae, Quicunque ab

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-808a979febd943077e531864"
+canonical_name: "Galėnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Galėnas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo romėnų valdose sulaikė puolimą ir sutriuškino herulus."
 ---
 # Galėnas
 
@@ -66,7 +73,8 @@ Narbutas rašo, kad imperatoriaus sūnus Galėnas po 267 m. herulų puolimo rom�
 - id: c-174283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
   citata_originali: |
     290
 

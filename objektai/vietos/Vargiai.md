@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-658343f40467e7bf979ae8fe"
+canonical_name: "Vargiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vargiai"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab."
+place_authority: true
+historical_names: []
 ---
 # Vargiai
 
@@ -44,7 +53,8 @@ Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.
 - id: c-59376
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 320."
   citata_originali: |
     Vaplaukis (Woyploc, Woplaukin, dab. Wopławki)
     Vargiai (Wargen, Wargin; gyvenvietė, dab. Kotelnikovas)

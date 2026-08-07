@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-35f4cd4d6871c4f6fbdbe28e"
+canonical_name: "Seredžius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Seredžius"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas su senos piliavietės liekana vadintas Palemono kalnu. Nuženk iš dangaus, pasigailėk) Mielai atidaviau savo laikrodį bajorui, kuris man tą daine lę užrašė ir tiksliai išvertė į lenkų kalbą Seredžiaus miestelyje 1805 metų liepos 17 dieną."
+place_authority: true
+historical_names: []
 ---
 # Seredžius
 
@@ -73,7 +82,8 @@ Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas 
 - id: c-171828
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
   citata_originali: |
     218
 
@@ -99,7 +109,8 @@ Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas 
 - id: c-177150
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     Mieloji Lietuva,
     Laisvės kely!

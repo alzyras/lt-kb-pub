@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b6c0dd77c74a71e02cc98bea"
+canonical_name: "Gotthardas Friedrichas Stenderis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gotthardas Friedrichas Stenderis"]
+sameAs: []
+canonical_biography: "Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams. Gotthardas Friedrichas Stenderis Narbuto pateikiamas kaip Kuršo pamokslininkas ir latvių gramatikos autorius, rašęs apie latvių kalbos skirtumą nuo estų kalbos. Mongolų karvedžiai skubėjo užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau 1 Stender Gotthard Friedrich."
 ---
 # Gotthardas Friedrichas Stenderis
 
@@ -105,7 +112,8 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
 - id: c-174423
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 256."
   citata_originali: |
     245
 
@@ -131,7 +139,8 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
 - id: c-177273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 110."
   citata_originali: |
     Mongolų karvedžiai skubėjo
     užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­

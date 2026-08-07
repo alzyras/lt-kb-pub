@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bff09debf6dbd15e7f37df40"
+canonical_name: "Kasparas Dankvertas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kasparas Dankvertas"]
+sameAs: []
+canonical_biography: "Hartknochas, Narbuto teigimu, rėmėsi Kasparu Dankvertu tvirtindamas, kad kimbrai gyveno žemėje, kur vėliau įsikūrė prūsai."
 ---
 # Kasparas Dankvertas
 
@@ -55,7 +62,8 @@ Hartknochas, Narbuto teigimu, rėmėsi Kasparu Dankvertu tvirtindamas, kad kimbr
 - id: c-174312
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
   citata_originali: |
     Mūsų kronikinin­
     kas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­

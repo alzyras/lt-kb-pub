@@ -28,6 +28,15 @@ media_all_json: |-
 tags:
   - miestelis
   - vieta
+entity_id: "ent-589be5298d1c01dd9054b12f"
+canonical_name: "Naantalis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naantalio","Naantalis"]
+sameAs: []
+canonical_biography: "Naantalis šiame šaltinyje minimas kaip Augusto Roberto Niemio gimimo apylinkių orientyras."
+place_authority: true
+historical_names: []
 ---
 # Naantalis
 

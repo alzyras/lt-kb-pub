@@ -47,7 +47,8 @@ Varšuvos kunigaikštija kartu su Saksonija įėjo į Napoleono protektorate esa
 - id: c-176036
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 456"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 456."
   citata_originali: |
     Kunigaikščiu buvo paskirtas Saksų
     karalius. Varšuvos kunigaikštija kartu su Saksonija įėjo į Na-

@@ -67,7 +67,8 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 - id: c-23584
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 224."
   citata_originali: |
     Lietuvoje visi laikraščiai imti dubliuoti ir rusų kalba, leista daug rusų
     literatūros kūrinių, vaidinta pjesių, visur pradėta taikyti dvikalbystę. Pra-

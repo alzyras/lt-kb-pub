@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1d7908e454e5cd987ce524d5"
+canonical_name: "A. M. Ammann"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. M. Ammann"]
+sameAs: []
+canonical_biography: "Ammann: Abriß der ost­ slawischen Kirchengeschichte, Wien 1950, 165p. (eit. Ammann : Storia della Chiesa Russa, Roma 1947, 105 p. (^63) CEV, 205 p. Ammann : Stovia dełla Chiesa Russa, Torino 1948, 126 p."
 ---
 # A. M. Ammann
 
@@ -60,7 +67,8 @@ Ammann: Abriß der ost­ slawischen Kirchengeschichte, Wien 1950, 165p. (eit. Am
 - id: c-32877
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 329-330"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 329-330."
   citata_originali: |
     Plačiau MaŠ.**
     (^60) **PSRL, 17, 53 p.**

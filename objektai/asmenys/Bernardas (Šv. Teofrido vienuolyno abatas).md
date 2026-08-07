@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c906d8e4554a0a24c34459f7"
+canonical_name: "Bernardas (Šv. Teofrido vienuolyno abatas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bernardas (Šv. Teofrido vienuolyno abatas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­ čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo."
 ---
 # Bernardas (Šv. Teofrido vienuolyno abatas)
 
@@ -102,7 +109,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - id: c-60882
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
   citata_originali: |
     356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
     čionių 1324 metais
@@ -131,7 +139,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - id: c-168035
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 209."
   citata_originali: |
     Tuo rei­
     kalu jis pasitelkė popiežiaus Jono XXII autoritetą, no­

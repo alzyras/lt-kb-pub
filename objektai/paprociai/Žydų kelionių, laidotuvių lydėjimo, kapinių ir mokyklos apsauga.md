@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-83273
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 212."
   citata_originali: |
     O
     jeigu pinigų neturėtų, už šį poelgį pelnytai turi būti nubaus­

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e7f3d6baab0fd502da230c20"
+canonical_name: "A. Spekke"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Spekke"]
+sameAs: []
+canonical_biography: "SpHL = Spekke, A."
 ---
 # A. Spekke
 
@@ -59,7 +66,8 @@ SpHL = Spekke, A.
 - id: c-32890
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 22."
   citata_originali: |
     SoIEn = Sovetskaja Istoričeskaja Enciklopedija, t. 1-14 (toliau lei­
     džiama), Maskva 1961-1970.

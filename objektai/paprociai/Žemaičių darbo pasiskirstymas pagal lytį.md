@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184739
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 605"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 605."
   citata_originali: |
     Gal sakyti, girios ir medės buvo jų namais ir
     trobomis, kaipogi, išėję į girią medžioti, tris ketu­

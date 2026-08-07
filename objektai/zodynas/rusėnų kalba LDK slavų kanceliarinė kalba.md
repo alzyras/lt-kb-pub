@@ -67,7 +67,8 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
 - id: c-24983
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 57."
   citata_originali: |
     Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
     sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba. Tai lėmė
@@ -86,7 +87,8 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
 - id: c-24984
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 58."
   citata_originali: |
     Šiandien ši Lietuvos Metrikos kalba pavadinama
     net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse

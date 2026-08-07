@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b7f978fd0751045d20f947a"
+canonical_name: "Teodoras (Konstantino Karijotaičio brolis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teodoras (Konstantino Karijotaičio brolis)"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Teodoras (Konstantino Karijotaičio brolis)
 

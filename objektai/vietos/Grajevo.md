@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ce85a68292069f3448984432"
+canonical_name: "Grajevo"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Grajevo"]
+sameAs: []
+canonical_biography: "Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš čia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­ vintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­ lininkų; iš čia — į Palangą, paliekant Ordinui."
+place_authority: true
+historical_names: []
 ---
 # Grajevo
 
@@ -53,7 +62,8 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 154."
   citata_originali: |
     Lenkija gavo Niešavo žemę su
     keliais sodžiais ir viena pilimi, o Lietuva — Žemaitiją ir Sūda­

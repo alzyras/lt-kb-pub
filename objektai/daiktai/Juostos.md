@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-30998
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 113."
   citata_originali: |
     Šie yra masyvus ir gražiai ornamentuoti, mušti sidabro
     plokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų

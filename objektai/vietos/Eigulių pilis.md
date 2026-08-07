@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-57edf5269d9be969a9f51b71"
+canonical_name: "Eigulių pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Eigulių pilis","Eigulių pilis (pilis)"]
+sameAs: []
+canonical_biography: "Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaikinę Kauno apylinkėj ant Neries kranto Eigulių pilį, traukė prie Kęstučio Trakų."
+place_authority: true
+historical_names: []
 ---
 # Eigulių pilis (pilis)
 
@@ -59,7 +68,8 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
 - id: c-33837
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 281."
   citata_originali: |
     Galutinai subrendus vidaus karui, tik ginklas begalėjo surasti
     išeitį iš susidariusios tragiškos būklės. Tuo pat laiku (1382 birželio

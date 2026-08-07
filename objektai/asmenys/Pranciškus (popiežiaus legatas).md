@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7f1efa73dfbfdce4fab6eb70"
+canonical_name: "Pranciškus (popiežiaus legatas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pranciškus (popiežiaus legatas)"]
+sameAs: []
+canonical_biography: "Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti. Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią."
 ---
 # Pranciškus (popiežiaus legatas)
 
@@ -68,7 +75,8 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
 - id: c-83543
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 87."
   citata_originali: |
     Viename jų, skirtame popiežiui ir kardinolams, Gediminas
     prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta
@@ -98,7 +106,8 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
 - id: c-83544
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 101."
   citata_originali: |
     Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
     daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­

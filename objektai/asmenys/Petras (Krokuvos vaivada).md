@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5493335a3fd56ff7d639e8bf"
+canonical_name: "Petras (Krokuvos vaivada)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras (Krokuvos vaivada)"]
+sameAs: []
+canonical_biography: "Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui. Kojelavičiaus pasakojime Petras kelias dienas žygiavo per priešų šalį, niokodamas kelią, bet neleido būriams palaidai plėšikauti."
 ---
 # Petras (Krokuvos vaivada)
 
@@ -55,7 +62,8 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
 - id: c-169516
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 119."
   citata_originali: |
     Šis pralaimėjimas smarkiai palaužė
     Švarno jėgas, vėliau visa Rusia nebedrįsdavo nė paju­
@@ -97,7 +105,8 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
 - id: c-178775
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 118."
   citata_originali: |
     Petras keletą dienų netrukdomas žygia­
     vo per priešų šalį, viską pakeliui su savo pulkais šluo­

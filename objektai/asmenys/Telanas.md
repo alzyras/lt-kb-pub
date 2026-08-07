@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e95845c536a6049f667b63d4"
+canonical_name: "Telanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Telanas"]
+sameAs: []
+canonical_biography: "Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. Telanas savo rankomis nužudė jo rūmuose puotavusį Odoakrą."
 ---
 # Telanas
 
@@ -64,7 +71,8 @@ Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną. 
 - id: c-174359
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
   citata_originali: |
     Tik žinoma tai, kad Teodorikas paža­
     dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam

@@ -74,7 +74,8 @@ Narbutas skyriuje De rebaptisantis hominibus aptarė pakartotinio krikšto, arba
 - id: c-172126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 396."
   citata_originali: |
     Toliau pereina
     prie pakartotinio krikšto temos: De rebaptisantis hominibus
@@ -100,7 +101,8 @@ Narbutas skyriuje De rebaptisantis hominibus aptarė pakartotinio krikšto, arba
 - id: c-172127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 396."
   citata_originali: |
     Rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčio­
     je buvo įvestas labai seniai, dar prieš Kazimierą (Vienuolį),

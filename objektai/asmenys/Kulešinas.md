@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-969c379634f26fdbb0eaef71"
+canonical_name: "Kulešinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kulešinas"]
+sameAs: []
+canonical_biography: "Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­ tuokė didįjį kunigaikštį su Elena, virš jos galvos kunigaikš­ tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­ linę vyno42."
 ---
 # Kulešinas
 
@@ -51,7 +58,8 @@ Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasi
 - id: c-83741
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 246."
   citata_originali: |
     Stanislovo katedrą. Ten Vaitiekus Taboras, Vilniaus
     vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­

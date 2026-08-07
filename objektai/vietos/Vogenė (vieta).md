@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-64ebc329e517c47526ac4ed5"
+canonical_name: "Vogenė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vogenė","Vogenė (vieta)"]
+sameAs: []
+canonical_biography: "Nujautęs tą, valdymieras Pleskavo Ditrichą paleido ir paskui jį savo siuntinius išleido į Rygą taikinti netikėlių su vokyčiais, kuriems ant pasiregėjimo 29 dieną bir želio mėnesio paženklino paupy Vogenės."
+place_authority: true
+historical_names: []
 ---
 # Vogenė (vieta)
 
@@ -46,9 +55,9 @@ Nujautęs tą, valdymieras Pleskavo Ditrichą paleido ir paskui jį savo siuntin
 ## Citatos
 
 - id: c-184504
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 197"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 197."
   citata_originali: |
     Albertas sugrąžino
     meldžionis namon ir pats į Rygą sugrįžo. Nujautęs

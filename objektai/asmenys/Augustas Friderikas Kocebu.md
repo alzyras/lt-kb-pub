@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d17ec7bebf73926939e41070"
+canonical_name: "Augustas Friderikas Kocebu"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Augustas Friderikas Kocebu"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gaubiama sunkiai atskleidžiamų uždangų. Narbutas taiso Kocebu vietovardį Cemptenbece į Lemptenburgą ir pabrėžia, kad šios vietos padėtį sunku tiksliai nustatyti."
 ---
 # Augustas Friderikas Kocebu
 
@@ -96,7 +103,8 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
 - id: c-174056
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
   citata_originali: |
     Lietuvių kalboje jis išliko žodyje
     Stiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų
@@ -122,7 +130,8 @@ Narbutas rašo, kad Kocebu gintarą vadino saulės akmeniu ir gamtos mįsle, gau
 - id: c-174057
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
   citata_originali: |
     Tam, kad naujiems šio pajūrio miesto
     kolonistams būtų garantuotos pastovios valdos, teisėjų

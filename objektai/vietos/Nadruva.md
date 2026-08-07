@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d2dee3adf1a5c1329a2a231a"
+canonical_name: "Nadruva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nadruva"]
+sameAs: []
+canonical_biography: "Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-Vištyčio ruožo, šaltinio komentaruose siejama su Lietuvos valdovo valdomis, o 1274 m. kronikoje paversta Ordino puolimo taikiniu."
+place_authority: true
+historical_names: []
 ---
 # Nadruva
 
@@ -357,7 +366,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74485
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 152."
   citata_originali: |
     Apie karą su skalviais. Apie įvykius prieš šį karą
     Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,
@@ -378,7 +388,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74486
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     33.
     1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo
@@ -397,7 +408,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74487
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 24."
   citata_originali: |
     Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
     Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
@@ -415,7 +427,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74488
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Prūsai ir Lietuva
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
@@ -436,7 +449,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74490
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
     1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
@@ -462,7 +476,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74491
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei
     ankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva
@@ -480,7 +495,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74492
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 24."
   citata_originali: |
     Tai-
     gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
@@ -498,7 +514,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74494
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 60."
   citata_originali: |
     Teritorija — į rytus ir
     pietryčius nuo Sembos, iki Šešupės vidupio ir Vištyčio ežero bei Geldapės upės rytuose ir
@@ -516,7 +533,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-74495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
 
@@ -537,7 +555,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-175470
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 364."
   citata_originali: |
     Pietinėje Sūduvos dalyje buvo daug ežerų ir pelkių,
     o šiaurinėje — neišbrendamų miškų; gausūs gyventojai
@@ -565,7 +584,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-175471
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 365"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 365."
   citata_originali: |
     Padavimas skelbia, jog kažkada čia gyve­
     no Nadruvą valdęs kunigaikštis Kamisviškis; be to, šis
@@ -592,7 +612,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - id: c-179387
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 364."
   citata_originali: |
     Pietinėje Sūduvos dalyje buvo daug ežerų ir pelkių,
     o šiaurinėje — neišbrendamų miškų; gausūs gyventojai

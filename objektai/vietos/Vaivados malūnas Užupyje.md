@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf26b66f8c34b575206f6142"
+canonical_name: "Vaivados malūnas Užupyje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vaivados malūnas Užupyje"]
+sameAs: []
+canonical_biography: "356 ## Puslapis 373 IV KNYGA ALEKSANDRO JOGAILAIČIO DOVANOJIMAS VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE 1493 METAIS (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje) Šis aktas, surašytas gryna. PATS ALEKSANDRAS, DIEVO MALONE DIDYSIS LIETUVOS, RUSIOS, ŽEMAIČIŲ IR KITŲ KUNIGAIKŠTIS Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­ vilai."
+place_authority: true
+historical_names: []
 ---
 # Vaivados malūnas Užupyje
 
@@ -75,7 +84,8 @@ media_all_json: |-
 - id: c-82089
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 373."
   citata_originali: |
     PATS ALEKSANDRAS,
     DIEVO MALONE DIDYSIS LIETUVOS,
@@ -97,7 +107,8 @@ media_all_json: |-
 - id: c-82090
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 372-373"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 372-373."
   citata_originali: |
     Teodoras Sku­
     minas, LDK iždininkas.

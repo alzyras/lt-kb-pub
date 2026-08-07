@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a887c97d5c6118ef2bee8b9"
+canonical_name: "Juozas Daumantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozas Daumantas"]
+sameAs: []
+canonical_biography: "PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravusį Lietuvos gyventojų požiūrį į partizanus ir jų veiklos vaisius. Maksimaliai išvystyti sėkmę puolimo metu partizanams sutrukdė menka daugelio puolimo dalyvių patirtis tokio pobūdžio operacijose ir labai silpna koordinacija ŠAUDYMAS PER DURIS Juozas Daumantas savo prisiminimuose pasakoja apie Tauro apygardos partizanų."
 ---
 # Juozas Daumantas
 
@@ -83,7 +90,8 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
 - id: c-42033
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     Maksimaliai išvystyti sėkmę puolimo metu
     partizanams sutrukdė menka daugelio
@@ -107,7 +115,8 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
 - id: c-167133
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     Puolimo sėkmę nulėmė išnaudotas ne-
     tikėtumo faktorius, Vanagas vėliau įtarė,

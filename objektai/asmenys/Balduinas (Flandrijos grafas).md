@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-22c977b8ced627494e1d1ada"
+canonical_name: "Balduinas (Flandrijos grafas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Balduinas (Flandrijos grafas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten lotynai 57 metus (Ptol."
 ---
 # Balduinas (Flandrijos grafas)
 
@@ -59,7 +66,8 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 - id: c-60876
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
   citata_originali: |
     Apie Konstantinopolio miesto užėmimą
 

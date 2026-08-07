@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-93683de738959f2a2ac5c8f0"
+canonical_name: "Antanas Terleckas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Terleckas"]
+sameAs: []
+canonical_biography: "LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos nepriklausomybę taikiomis priemonėmis. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzikas."
 ---
 # Antanas Terleckas
 
@@ -62,7 +69,8 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
 - id: c-21600
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Skirtingai nei
     katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
@@ -84,7 +92,8 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
 - id: c-21601
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),
     kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir

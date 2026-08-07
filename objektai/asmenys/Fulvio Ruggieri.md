@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dbb95345740428eef0b5d54b"
+canonical_name: "Fulvio Ruggieri"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fulvio Ruggieri"]
+sameAs: []
+canonical_biography: "sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos tapo Lietuvos dalimi Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir Lietuvos kariuomenių struktūrą: „Kiekvienas vaivada tarp savų viršiausias. Iš Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie kazokų ginkluotę bei kariavimo būdą, kuriems už pagalbą Lenkijos-Lietuvos valdovas moka atlygį."
 ---
 # Fulvio Ruggieri
 
@@ -83,7 +90,8 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
 - id: c-76069
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 89."
   citata_originali: |
     1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
     didesnė dalis Livonijos tapo Lietuvos dalimi
@@ -108,7 +116,8 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
 - id: c-76071
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 114."
   citata_originali: |
     Jungtinėje
     kariuomenėje buvo 33180 karių

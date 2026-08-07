@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c8e3b0c0004df3b23d75826e"
+canonical_name: "Vizenburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vizenburgas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258. Dusburgietis teigia, kad 390 D.— Walewona, Jer.— Walewon (GAO, p. 193); Valevona, pilis, lokalizuojama Gubros—Alnos santakoje, Sempopolio piliakalnyje (VBK; HE, p. Dusburgietis teigia, kad neilgai trukus broliai, pristigę maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi juos su daugybe karių, bet nestengė."
+place_authority: true
+historical_names: []
 ---
 # Vizenburgas
 
@@ -90,7 +99,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - id: c-87412
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
   citata_originali: |
     Apie tai, kaip buvo palikta Vizenburgo pilis
     Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
@@ -114,7 +124,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - id: c-167600
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
 

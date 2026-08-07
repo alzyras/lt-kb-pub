@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43d299d31cee1b287a6aa90e"
+canonical_name: "Šercas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Šercas"]
+sameAs: []
+canonical_biography: "Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „legis custos“, „sacerdos“, „ewa“ ir „eu-werd“."
 ---
 # Šercas
 
@@ -47,7 +54,8 @@ Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „l
 - id: c-173346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 412."
   citata_originali: |
     411
 

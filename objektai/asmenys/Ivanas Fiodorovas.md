@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-da7a37f61669d5882a98b554"
+canonical_name: "Ivanas Fiodorovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas Fiodorovas","Ivanas Fiodorovas (spaustuvininkas, XVI a.)","Ivaną Fiodorovą"]
+sameAs: []
+canonical_biography: "Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodkevičiai priglobė Zabluduvo spaustuvėje."
 ---
 # Ivanas Fiodorovas
 
@@ -122,7 +129,8 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
 - id: c-16717
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 58."
   citata_originali: |
     Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
     sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-

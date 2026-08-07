@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-994b77aff92ebfc186764c45"
+canonical_name: "Payslys (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Payslys","Payslys (vieta)"]
+sameAs: []
+canonical_biography: "Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už tarymo tenai naujos bažnyčios ir gelbėjimo ūkės Konrado, kursai su didžiausiu džiaugsmu pasiėmė tokį jo ketėjimą steigti."
+place_authority: true
+historical_names: []
 ---
 # Payslys (vieta)
 
@@ -46,9 +55,9 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
 ## Citatos
 
 - id: c-184489
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 249"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 249."
   citata_originali: |
     Albertas buvo sau įkūręs, kursai kas
     dieną platinos, noris per 20 metų tuointimpos ka­

@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184667
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 314"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 314."
   citata_originali: |
     Tame širdgile marčelga, zokano, nujautęs pilė j Car-
     tovicos silpną įgulę tesant, sutarė ją antpulti, vil­

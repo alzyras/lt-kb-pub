@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c5ecc636adae95ed362fdb5"
+canonical_name: "Muratorijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Muratorijus"]
+sameAs: []
+canonical_biography: "Muratorijaus ištraukos kartu su Tilemano ir kitų autorių tekstais Narbuto nurodytos kaip aptariamos temos pagrindas."
 ---
 # Muratorijus
 
@@ -61,7 +68,8 @@ Muratorijaus ištraukos kartu su Tilemano ir kitų autorių tekstais Narbuto nur
 - id: c-174564
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     1
     Delle Rivoluzioni d’Italia, di Carlo Denina in Venezia. 1784,

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ce5a10797dfd4189ff8fcd2"
+canonical_name: "Stasys Lozoraitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stasys Lozoraitis"]
+sameAs: []
+canonical_biography: "Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo ir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos skyrių, atskleidusį meno, tautodailės, ekonomikos. Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuomenės vadas gen. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos valdžia stengėsi parodyti, kad iš esmės nieko neįvyko."
 ---
 # Stasys Lozoraitis
 
@@ -135,7 +142,8 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 - id: c-21994
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 10."
   citata_originali: |
     archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-
     saulį pasklidusių išeivių veikloje.
@@ -159,7 +167,8 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 - id: c-21995
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 177."
   citata_originali: |
     Todėl 1934 m. pradėti megzti neoficialūs
     Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras
@@ -178,7 +187,8 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 - id: c-21996
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 179."
   citata_originali: |
     Lietuva tai laikė taktiniu atsi-
     traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
@@ -199,7 +209,8 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 - id: c-21997
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 226."
   citata_originali: |
     F. Ruzvelto išleistas įsakymas, kuriuo įšaldy-
     tos JAV bankuose laikytos Baltijos valstybių
@@ -222,7 +233,8 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 - id: c-48907
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 226."
   citata_originali: |
     Šie pinigai suteikė galimybę LDT išlai-
     kyti savo pasiuntinybes ir personalą iki pat

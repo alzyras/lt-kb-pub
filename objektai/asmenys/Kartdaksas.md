@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1ed98fd7bdf01362d5a4c483"
+canonical_name: "Kartdaksas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kartdaksas"]
+sameAs: []
+canonical_biography: "Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo gotų istoriko Jordano senelis."
 ---
 # Kartdaksas
 
@@ -54,7 +61,8 @@ Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo got
 - id: c-174311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 65."
   citata_originali: |
     Taip pat yra įrodymų, jog alanai buvo susi­
     giminiavę su gotais, kuriuos aprašo Jordanas2. Jo apra­

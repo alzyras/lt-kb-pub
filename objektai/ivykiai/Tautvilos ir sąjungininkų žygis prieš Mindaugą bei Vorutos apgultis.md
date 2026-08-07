@@ -83,7 +83,7 @@ Nenurodyta
 <a id="claim-t-187500"></a>
 - t-003
   teiginys: "Lietuvos metraštis pasakoja, kad prie Vorutos Mindaugo kariai su arbaletais išjojo prieš vokiečius, o rusai, polovcai ir jotvingiai vaikėsi po lauką."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "kariavo_pries -> Vokiečiai: 0.78"
@@ -98,7 +98,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170456
-    - c-170457
 
 <a id="claim-t-193859"></a>
 - t-004
@@ -157,7 +156,8 @@ Nenurodyta
 - id: c-170456
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
   citata_originali: |
     (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
     ir jotvingius. O rytojaus metą prieš vokiečius išjojo
@@ -177,7 +177,8 @@ Nenurodyta
 - id: c-170457
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 50."
   citata_originali: |
     Visa tai padarė, kad Lietuva netapo krikščioniška.
     Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
@@ -196,5 +197,4 @@ Nenurodyta
   pagrindzia:
     - t-001
     - t-002
-    - t-003
     - t-004

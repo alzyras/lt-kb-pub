@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-62824"></a>
 - t-001
   teiginys: "Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "uzeme -> Kijevas: 0.94"
@@ -72,13 +72,15 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Sakinys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-63641
+    - c-63642
 
 ## Citatos
 
 - id: c-63641
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
   citata_originali: |
     Apie 1325 m. Gedimino kariuomenė
     nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos. Kijevas ir tuo metu
@@ -96,7 +98,8 @@ Nenurodyta
 - id: c-63642
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
   citata_originali: |
     Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
     m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
@@ -105,7 +108,8 @@ Nenurodyta
   citata_rodoma: "Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324\nm. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę\n(Brestą, Kamenecą, Kobriną, Melniką, Drohičiną). Apie 1325 m. Gedimino kariuomenė\nnužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

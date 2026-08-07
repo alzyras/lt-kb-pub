@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-85d63fb8682e63b56d1a0e02"
+canonical_name: "Osten-Sacken, P. von"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Osten-Sacken, P. von"]
+sameAs: []
+canonical_biography: "Osten-Sacken, P."
 ---
 # Osten-Sacken, P. von
 
@@ -32,7 +39,8 @@ Osten-Sacken, P.
 - id: c-33086
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 331"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 331."
   citata_originali: |
     — Obolenskij,
     M. : _Jarlyk kana Zolotoj Ordy Tochtamyša k pol’skomu korolju Jogaily

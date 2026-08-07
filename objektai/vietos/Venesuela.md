@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-898584970adbb91ce1c7cb53"
+canonical_name: "Venesuela"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Venesuela"]
+sameAs: []
+canonical_biography: "Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų)."
+place_authority: true
+historical_names: []
 ---
 # Venesuela
 
@@ -51,7 +60,8 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
 - id: c-24549
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 175."
   citata_originali: |
     Neprasigy-
     venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į

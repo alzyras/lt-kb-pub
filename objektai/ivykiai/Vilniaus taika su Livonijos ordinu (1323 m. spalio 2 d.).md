@@ -245,7 +245,8 @@ Nenurodyta
 - id: c-04999
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 237."
   citata_originali: |
     Jeigu tuose žodžiuose ir galėjo būti šiek tiek perdėjimo, yra
     tikra, kad Gedimino laiškų išsiuntimo laikotarpyje Lietuvą puldi­
@@ -270,7 +271,8 @@ Nenurodyta
 - id: c-96895
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 238."
   citata_originali: |
     Tuo metu kryžiuo­
     čiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios
@@ -297,7 +299,8 @@ Nenurodyta
 - id: c-96897
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 238."
   citata_originali: |
     Išvykdami iš Livonijos, popiežiaus legatai įsakė
     su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
@@ -318,7 +321,8 @@ Nenurodyta
 - id: c-96898
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
   citata_originali: |
     Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
     sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
@@ -336,7 +340,8 @@ Nenurodyta
 - id: c-96899
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 38."
   citata_originali: |
     VILNIAUS Ml L  STO ISTORIJA / TOMAS
     daugiau galimybių stebėti jų gynybą ir užbėgti už akių jų
@@ -366,7 +371,8 @@ Nenurodyta
 - id: c-96901
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
   citata_originali: |
     Kryžiuočių ordinas visaip stengėsi sužlugdyti minėtąją 1323 m. spalio 2 d. sutartį: jau
     spalio 24 d. Livonijos ordinas raginamas ją nutraukti, po to imtasi žygių, kad nutrauktų

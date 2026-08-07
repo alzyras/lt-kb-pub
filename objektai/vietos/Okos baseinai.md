@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1fc8cd8b6e1dd1b13ce7bbec"
+canonical_name: "Okos baseinai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Okos baseinai"]
+sameAs: []
+canonical_biography: "baltų genčių apgyvendintas arealas driekėsi nuo Vyslos iki Dniepro ir Okos baseinų rytuose."
+place_authority: true
+historical_names: []
 ---
 # Okos baseinai
 
@@ -51,7 +60,8 @@ baltų genčių apgyvendintas arealas driekėsi nuo Vyslos iki Dniepro ir Okos b
 - id: c-24343
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 22."
   citata_originali: |
     Baltų gentys pradėjo formuotis III tūkstantme-
     čio pr. Kr. pabaigoje, kai čia atvykę indoeuropiečiai pajungė ir asimiliavo

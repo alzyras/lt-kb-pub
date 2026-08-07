@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-db08a7073e36b856d3733e33"
+canonical_name: "Stanislovas Skopas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Skopas"]
+sameAs: []
+canonical_biography: "Taip pat dešimtinė nuo visų garbin­ gojo Stanislovo Skopo gėrybių, kurias tik turi minėtos Pa­ baisko parapijos ribose ar natūralaus paveldėjimo teise, kaip po Petro Skopo mirties, ar pagal kokį nors susitikimą pri­ klausančias ...................žemių su. kalbama, kad garbingasis Stanislovas Skopas jėga užėmė ir ten įkūrė dvi karčemas, dominijoje..............................................."
 ---
 # Stanislovas Skopas
 
@@ -49,7 +56,8 @@ Taip pat dešimtinė nuo visų garbin­ gojo Stanislovo Skopo gėrybių, kurias 
 - id: c-83559
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 261."
   citata_originali: |
     Taip pat dešimtinė nuo visų garbin­
     gojo Stanislovo Skopo gėrybių, kurias tik turi minėtos Pa­

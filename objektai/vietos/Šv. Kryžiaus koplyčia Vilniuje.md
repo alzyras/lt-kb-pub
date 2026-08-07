@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3deea321f119b2ee281ebceb"
+canonical_name: "Šv. Kryžiaus koplyčia Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Kryžiaus koplyčia Vilniuje"]
+sameAs: []
+canonical_biography: "Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­ vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­ tydino nedidukę oratoriją, arba koplyčią14."
+place_authority: true
+historical_names: []
 ---
 # Šv. Kryžiaus koplyčia Vilniuje
 
@@ -50,7 +59,8 @@ Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje v
 - id: c-82263
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 282."
   citata_originali: |
     Mikalojaus bažnyčią. O po dvi­
     dešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė,

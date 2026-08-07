@@ -88,7 +88,8 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
 - id: c-59738
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 13."
   citata_originali: |
     Kiek vėliau, jau valdant Gediminui, Lietuvos—Rygos
     sąjunga buvo atnaujinta47.
@@ -111,7 +112,8 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
 - id: c-176942
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
   citata_originali: |
     Gedimino laiškas Dorpato, Eželio vyskupams, Revelio žemės danų vietininkui  ir
     Rygos miesto tarybai)50. Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems

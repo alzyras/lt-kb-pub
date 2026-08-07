@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-83092
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 84-85"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 84-85."
   citata_originali: |
     Energingas Garteno (Gar­
     dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse,

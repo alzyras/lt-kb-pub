@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fb52674f8abd29548b20121b"
+canonical_name: "Danmilė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Danmilė"]
+sameAs: []
+canonical_biography: "Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, Marija - už Boleslovo - Ru­ sios kunigaikščio; o ketvirtoji, bevaikė, - už Rusios didžiojo kuni­ gaikščio Dmitrijaus Michailovičiaus, 1326 metų spalio 15 dieną totorių chano Uzbeko."
 ---
 # Danmilė
 
@@ -59,7 +66,8 @@ Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, 
 - id: c-83628
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 36."
   citata_originali: |
     Gediminas, užsitikrinęs sau-
     dybomis, buvo labai tvirti ir svarbūs.

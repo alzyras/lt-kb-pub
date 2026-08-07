@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92004690aafba56e6fccabd3"
+canonical_name: "Sauslaukė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sauslaukė"]
+sameAs: []
+canonical_biography: "VIII amž. pusėje jie randami Sauslauke (prie Durbės)."
+place_authority: true
+historical_names: []
 ---
 # Sauslaukė
 
@@ -60,7 +69,8 @@ VIII amž. pusėje jie randami Sauslauke (prie Durbės).
 - id: c-28365
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 114."
   citata_originali: |
     Archeolo­
     giniai duomens parodo apie 650 m. prasidedančią didelę švedų

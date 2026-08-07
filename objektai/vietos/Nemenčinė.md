@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a91747bf1196238beba6f67c"
+canonical_name: "Nemenčinė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nemenčinė"]
+sameAs: []
+canonical_biography: "Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš mūsų valdinių per tą pačią upę kitose vietose statyti mažų tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­ žiūrą."
+place_authority: true
+historical_names: []
 ---
 # Nemenčinė
 
@@ -54,7 +63,8 @@ Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam
 - id: c-167250
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 405"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 405."
   citata_originali: |
     O kad toks tilto muitas, mūsų aukščiau nu­
     statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms

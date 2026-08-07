@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-06bcc265a5268350549cf3bf"
+canonical_name: "Pašičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pašičius"]
+sameAs: []
+canonical_biography: "Narbutas Pašičių mini tarp asmenų, kurių antspaudai su žalčiais pateikti IV lentelės 18-ajame piešinyje, ir nurodo 1510 metus."
 ---
 # Pašičius
 
@@ -61,7 +68,8 @@ Narbutas Pašičių mini tarp asmenų, kurių antspaudai su žalčiais pateikti 
 - id: c-173119
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 404"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
   citata_originali: |
     IV
     lentelė, 18-asis piešinys. Astuoni antspaudai su žalčiais;

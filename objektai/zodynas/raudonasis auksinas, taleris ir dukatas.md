@@ -66,7 +66,8 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 - id: c-82471
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 456"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 456."
   citata_originali: |
     Vilniaus universiteto bibliotekoje)
     Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30
@@ -87,7 +88,8 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 - id: c-82472
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 456"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 456."
   citata_originali: |
     Man buvo ati­
     duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už

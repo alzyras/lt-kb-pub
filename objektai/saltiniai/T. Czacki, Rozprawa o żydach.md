@@ -58,7 +58,8 @@ C z a c k i Rozpra­ wa o żydach, p. 107, Vilniuje, Zavadzkio sp., 1807.
 - id: c-84459
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 163."
   citata_originali: |
     Reikšminga pergalė prie Griunvaldo pirmą kar­
     tą pajudino jo tvirtus pamatus. Tačiau nėra likę ženklų, kad

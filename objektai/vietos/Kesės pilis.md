@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-be874d1cd6dffeda523b0ec4"
+canonical_name: "Kesės pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kesės pilis"]
+sameAs: []
+canonical_biography: "md]] - vietasaltinyje: match: normalizedwhitespace - santrauka: Žemaičių kraštas ir jo pajūris buvo vadinami Sambija ir Samland. - pagrindzia: - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą."
+place_authority: true
+historical_names: []
 ---
 # Kesės pilis
 
@@ -45,9 +54,9 @@ md]] - vietasaltinyje: match: normalizedwhitespace - santrauka: Žemaičių kra�
 ## Citatos
 
 - id: c-184518
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 200"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 200."
   citata_originali: |
     Tas patsai Danielius nusisuko į
     Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri­

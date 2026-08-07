@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-169228
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 7."
   citata_originali: |
     K. L. Sapiega, buvusio kanclerio ir Lietuvos Statu­
     to leidėjo sūnus, įvedė Akademijoje bajorams labai

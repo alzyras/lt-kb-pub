@@ -100,7 +100,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - id: c-82764
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 188-189"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 188-189."
   citata_originali: |
     Jono brolijai priklausantiems,
     kurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta­
@@ -129,7 +130,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - id: c-82765
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 189."
   citata_originali: |
     1571 metų gruodžio 22 dieną. Toks parapijinės Šv. Jono
     bažnyčios Apaštališkojo Sosto valia inkorporavimas į Aka­
@@ -146,7 +148,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - id: c-82766
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 189."
   citata_originali: |
     Jono bažnyčios
     užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.

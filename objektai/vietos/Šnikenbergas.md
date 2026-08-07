@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d6e4e25d54212dfd8ac5bf68"
+canonical_name: "Šnikenbergas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šnikenbergas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur stovi Baigos pilis, supa pelkės, ten net vasaros metu tegalima pakliūti tiltu, prieš kurį ant vienos kalvos broliai pastatė pilį, vardu Šnikenbergas251, įkurdinę joje daug brolių ir vieną kilmingą vyrą Hertvigą. Dusburgietis teigia, kad 251 Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir D."
+place_authority: true
+historical_names: []
 ---
 # Šnikenbergas
 
@@ -66,7 +75,8 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 - id: c-59294
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     251  Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir D. III, 23 minimų
     prūsų įtvirtinimų Parteiniuose ir Skrando kalne.
@@ -85,7 +95,8 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 - id: c-59295
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     24. Apie Šnikenbergo pilies pastatymą
 

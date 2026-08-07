@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5d723a6df1424d6057bb40cf"
+canonical_name: "Korčinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Korčinas"]
+sameAs: []
+canonical_biography: "Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą."
+place_authority: true
+historical_names: []
 ---
 # Korčinas
 
@@ -53,7 +62,8 @@ media_all_json: |-
 - id: c-168626
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
   citata_originali: |
     Po to prasidėjo ilgos tarpusavio rietenos, kurias
     nuolat kurstė ir Vytautas, ir

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8ba4313067514e8b969e9d9e"
+canonical_name: "Melchizedekas (kunigas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Melchizedekas","Melchizedekas (kunigas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus metus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai jis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas."
 ---
 # Melchizedekas (kunigas)
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 - id: c-61019
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 38."
   citata_originali: |
     Štai ir senajame
     testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus

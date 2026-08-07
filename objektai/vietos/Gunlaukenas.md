@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7874d1866dbe7f0a06358d7c"
+canonical_name: "Gunlaukenas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gunlaukenas"]
+sameAs: []
+canonical_biography: "Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­ tenburgo ir Gunlaukeno apskričiai."
+place_authority: true
+historical_names: []
 ---
 # Gunlaukenas
 
@@ -51,7 +60,8 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 30."
   citata_originali: |
     Abu ma­
     gistrai (Livonijos ir Prūsų) su didžiaisiais Lietuvos kunigaikš­

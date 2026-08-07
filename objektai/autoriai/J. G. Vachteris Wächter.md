@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b96a2b06f1827291450690f8"
+canonical_name: "J. G. Vachteris Wächter"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. G. Vachteris Wächter"]
+sameAs: []
+canonical_biography: "Vachterio G loss. Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a taip pat Vilniuje sudegė kartu su daugybe javų ir kitų a Hof, area, domus, regia, universus Wächter i, Gloss, germ. Čia aiškiai principis comitatus - praedium cum pastarąja prasme; juk folwark -."
 ---
 # J. G. Vachteris Wächter
 
@@ -32,7 +39,8 @@ Vachterio G loss. Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a t
 - id: c-83989
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 185-186"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 185-186."
   citata_originali: |
     Be to, dar (dėmė Könige) sudegė Vytauto vienuoli­
     ka eržilų, be kitų žirgų ir gyvulių arklidėse, kur būtent užsi­

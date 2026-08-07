@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-53fc66ace48cc35f4b23ff94"
+canonical_name: "K. Kantrimas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Kantrimas"]
+sameAs: []
+canonical_biography: "Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbą lietuviškai."
 ---
 # K. Kantrimas
 
@@ -50,7 +57,8 @@ Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesn
 - id: c-01314
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 467"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 467."
   citata_originali: |
     Projekto autorius buvo universiteto bibliotekininkas K. Kantri-
     mas. Katedros vedėju buvo numatytas raseiniškis mokslintas ba-

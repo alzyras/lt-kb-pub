@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-abd6d4baf49d50dbf0118afb"
+canonical_name: "Verkiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Verkiai"]
+sameAs: []
+canonical_biography: "Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra ir didingi vyskupų rūmai Verkiuose (dabar jų jau nebėra)."
+place_authority: true
+historical_names: []
 ---
 # Verkiai
 
@@ -147,7 +156,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 118."
   citata_originali: |
     Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­
     šė (1387. 11. 17) daug žemių Vilniaus apylinkėse (Malėtus, La­
@@ -165,7 +175,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 - id: c-109854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 405"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 405."
   citata_originali: |
     Nederėtų, be
     to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš
@@ -196,7 +207,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 - id: c-109855
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127-128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127-128."
   citata_originali: |
     X, p. 112.
     I1l
@@ -223,7 +235,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 - id: c-109856
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 137."
   citata_originali: |
     Kad neįsiveltų į neaiškios lemties
     mūšį atvirame lauke, Ordino didysis maršalas su rinktinių
@@ -247,7 +260,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 - id: c-109858
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 137."
   citata_originali: |
     Dalis pralaimėju­
     siųjų kartu su pačiu didžiuoju kunigaikščiu užsidarė Vise­

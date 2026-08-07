@@ -51,7 +51,8 @@ Todėl šiuo raštu įgaliojame visus seniūnus ir mūsų valdinius, kad, iškil
 - id: c-82506
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 419"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 419."
   citata_originali: |
     O jei reikės ar iškils dvejo­
     nių dėl vietos ar asmens, gali šauktis mūsų ir mūsų parei­

@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7029011b23bbf3d76c963b0c"
+canonical_name: "R. Strazdūnaitė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["R. Strazdūnaitė"]
+sameAs: []
+canonical_biography: "Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a."
 ---
 # R. Strazdūnaitė
 
@@ -57,7 +64,8 @@ Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.
 - id: c-33116
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 87."
   citata_originali: |
     (^80) ĮVADAS
     vickis (IstV, t. 7, 1965, 161-165 p.). R. Strazdūnaitė:

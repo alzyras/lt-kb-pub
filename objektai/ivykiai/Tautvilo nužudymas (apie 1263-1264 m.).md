@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-31379
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 204."
   citata_originali: |
     Treniota pirmasis spėjo nužudyti (apie 1263-1264 m.) sosto
     varžovą Tautvilą. Tik šio sūnui pavyko išsigelbėti ir pabėgti į Did.

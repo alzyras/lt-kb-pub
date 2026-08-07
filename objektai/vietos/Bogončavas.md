@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-06449367a83d12c5a1a879c5"
+canonical_name: "Bogončavas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bogončavas"]
+sameAs: []
+canonical_biography: "Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miestų apylinkes Dono ir Doneco tarpupyje."
+place_authority: true
+historical_names: []
 ---
 # Bogončavas
 
@@ -55,7 +64,8 @@ Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miest
 - id: c-175636
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
   citata_originali: |
     Naujausių ir tiksliau­
     sių šios graikų istoriko geografijos paaiškinimų pateikė

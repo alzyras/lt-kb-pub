@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dd013d2e8bbb8e53552a7dea"
+canonical_name: "Marienburgas Zantiras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Marienburgas Zantiras"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėjusi trečia šventykla. Narbutas nurodė, kad Marienburgo vietovė prie Nogato anksčiau vadinosi Zantiras."
+place_authority: true
+historical_names: []
 ---
 # Marienburgas Zantiras
 
@@ -75,7 +84,8 @@ Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėj
 - id: c-171910
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 268."
   citata_originali: |
     Trečia šventykla buvo vietovėje, kur dabar Marienburgas,
     prie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu,
@@ -93,7 +103,8 @@ Narbutas rašė, kad vietoje prie Nogato, kur vėliau buvo Marienburgas, stovėj
 - id: c-171911
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 268."
   citata_originali: |
     Toji vietovė anksčiau vadinosi Zantiras. Šventyklos aptvaro vi­
     duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­

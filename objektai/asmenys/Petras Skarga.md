@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87b9458dd5a8827161c5b5a3"
+canonical_name: "Petras Skarga"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Skarga"]
+sameAs: []
+canonical_biography: "Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu religinės, tautinės bei valstybinės integracijos skelbėju. Petras Skarga pamoksluose valdantiesiems aiškino, kokiomis „ligomis“ serganti Žečpospolita."
 ---
 # Petras Skarga
 
@@ -70,7 +77,8 @@ Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu 
 - id: c-178778
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 8."
   citata_originali: |
     Lietuvos atstovai stojo
     už dviejų valstybių federaciją, o Lenkijos — už vals­
@@ -92,7 +100,8 @@ Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu 
 - id: c-178779
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 16."
   citata_originali: |
     Pamoksluose, sakytuose valdantiesiems, susirenkan-
     tiems į seimus, P. Skarga aiškino, kokiomis ligomis

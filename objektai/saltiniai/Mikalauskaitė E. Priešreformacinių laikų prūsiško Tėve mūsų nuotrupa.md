@@ -51,7 +51,8 @@ Dusburgietis teigia, kad mikalauskaitė E.
 - id: c-61813
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Mikalauskaitė E. Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa.—Archivum
 

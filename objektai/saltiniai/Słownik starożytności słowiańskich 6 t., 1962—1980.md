@@ -62,7 +62,8 @@ Dusburgietis teigia, kad słownik starożytności słowiańskich: 6 t., 1962—1
 - id: c-61939
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Słownik  starożytności  słowiańskich:  6   t.,  1962—1980.—Wrocław—Warszawa—
     Kraków.— T. 1, cz. 2, 1962; t. 4, cz. 1, 1970; t. 4, cz. 2, 1972; t. 5. 1975; t. 6, cz. 2,

@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-65ae2428481da255bb4b8791"
+canonical_name: "Polesė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Polesė"]
+sameAs: []
+canonical_biography: "Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus. Teodoras Narbutas rašo, kad Kazimieras, priėmęs nusižeminusią jotvingių vyresnybę, pavertė Polesę visiems laikams lenkų valdomis. Teodoras Narbutas Polesę po jotvingių iškapojimo vaizduoja kaip plačias kapines ir nykią dykrą, nebekėlusią baimės kaimynams."
+place_authority: true
+historical_names: []
 ---
 # Polesė
 
@@ -95,7 +104,8 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
 - id: c-28435
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 304."
   citata_originali: |
     Senojoje
     Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo
@@ -114,7 +124,8 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
 - id: c-175493
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
   citata_originali: |
     Tačiau jotvingiai
     paniekino nelaisvę ir leidosi visi iškapojami.

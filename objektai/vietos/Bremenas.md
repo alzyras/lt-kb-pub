@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f2d41613901eea2946c0bdeb"
+canonical_name: "Bremenas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bremenas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikščionys, apsiautę Akono miestą153, atėmė jį, dievo malonei laiminant, iš netikėlių, buvo krikščionių kariuomenėje pamaldžių vyrų iš Bremeno ir Liubeko miestų, gailestingų vyrų, kurie, užjausdami šioje. Dusburgietis teigia, kad bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai, kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos kilmingųjų."
+place_authority: true
+historical_names: []
 ---
 # Bremenas
 
@@ -76,7 +85,8 @@ Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikš
 - id: c-59166
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
   citata_originali: |
     Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
     kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti

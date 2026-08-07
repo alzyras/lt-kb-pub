@@ -119,7 +119,8 @@ Nenurodyta
 - id: c-168903
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 272."
   citata_originali: |
     Lais­
     vai prie jo prileidžiama tebuvo žmona Ona, kuri, lais­
@@ -153,7 +154,8 @@ Nenurodyta
 - id: c-168904
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 273."
   citata_originali: |
     Tiesą sakant,
     jam derėjo ne kalbėti užuolankomis, o aiškiai prisi­
@@ -188,7 +190,8 @@ Nenurodyta
 - id: c-178603
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 271-272"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 271-272."
   citata_originali: |
     Nedrįso Jogaila greitosiomis imtis
     prieš jį kokių griežtesnių priemonių ir dėl senos drau­
@@ -225,7 +228,8 @@ Nenurodyta
 - id: c-178604
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 272."
   citata_originali: |
     Žmona
     apie viską pranešė vyrui ir

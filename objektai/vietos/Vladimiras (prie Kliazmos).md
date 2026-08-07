@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6da5868622d6b718c8407895"
+canonical_name: "Vladimiras (prie Kliazmos)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vladimiras (prie Kliazmos)"]
+sameAs: []
+canonical_biography: "Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos perkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko 1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­ tikių plotuose augino rimtą pavojų."
+place_authority: true
+historical_names: []
 ---
 # Vladimiras (prie Kliazmos)
 
@@ -60,7 +69,8 @@ Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos perkėlimas į Vl
 - id: c-34093
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 250."
   citata_originali: |
     Tinkamai nesutvarkytas Lietuvos rytinių žemių bažnytinis
     priklausomumas prie Gedimino įpėdinių sudarė valstybei įvairių

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6093d4616af5d61f9fb1d588"
+canonical_name: "I. Štai"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["I. Štai"]
+sameAs: []
+canonical_biography: "Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis, • - 55 C' ■^la ir toliau cit. pagal Gedimino laiš­ kai, parengė V. Pašuta ir I. Štai."
 ---
 # I. Štai
 
@@ -58,7 +65,8 @@ Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudeg
 - id: c-84042
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 71."
   citata_originali: |
     Todėl prašome, kad jūs paskelbtumėte šį [laišką] žmo­
     nėms miestuose, vietovėse bei kaimuose, kur tik kuriam nors

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8ee588f07b0ec7a000a9f01a"
+canonical_name: "V. Pičeta"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Pičeta"]
+sameAs: []
+canonical_biography: "Pičeta : Agrarnaja reforma Sigizmundą Avgusta v Litovsko-russkom gosudarstve (1917 ; Maskva 1958 tarybinis leidimas)."
 ---
 # V. Pičeta
 
@@ -62,7 +69,8 @@ Pičeta : Agrarnaja reforma Sigizmundą Avgusta v Litovsko-russkom gosudarstve (
 - id: c-30929
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 94."
   citata_originali: |
     — Jo darbą
     tęsė V. Pičeta :** **_Agrarnaja reforma Sigizmundą Avgusta v Litovsko-russkom

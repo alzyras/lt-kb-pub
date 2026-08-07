@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-809f64ff852a694cee812d54"
+canonical_name: "Listas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Listas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai nukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus."
 ---
 # Listas
 
@@ -70,7 +77,8 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
 - id: c-61008
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Kai čia laivai
     įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai

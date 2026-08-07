@@ -53,7 +53,8 @@ Nenurodyta
 - id: c-169287
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 489"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 489."
   citata_originali: |
     Lenkai, at­
     skirai pasitarę, atsakė, kad esanti vienui viena veiks­

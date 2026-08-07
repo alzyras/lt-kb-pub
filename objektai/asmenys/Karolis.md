@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-134c1616125d8932d2e297d8"
+canonical_name: "Karolis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis"]
+sameAs: []
+canonical_biography: "Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatorius, atvyko su moravais į kovą."
 ---
 # Karolis
 
@@ -53,7 +60,8 @@ Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatori
 - id: c-169485
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 231."
   citata_originali: |
     Popiežiaus žodžiai paskatino susiruošti į ko­
     vą ne tik eilinius karius, bet ir pačius valdovus su

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-24c5f6b530cae446742c054c"
+canonical_name: "Detmaro Liubeko"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Detmaro Liubeko"]
+sameAs: []
+canonical_biography: "Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę; to meto žiniomis, tuose."
 ---
 # Detmaro Liubeko
 
@@ -71,7 +78,8 @@ Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai api
 - id: c-41669
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 56."
   citata_originali: |
     Mūšio padariniai
     Visų trijų Vytauto žygių, Vorsklos kauty-
@@ -99,7 +107,8 @@ Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai api
 - id: c-167086
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 56."
   citata_originali: |
     Talkininkų
     kryžiuočių liko tik keletas, tarp jų žuvo

@@ -31,15 +31,22 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
 <a id="claim-t-191689"></a>
 - t-001
   teiginys: "Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, nors jis ją laikė nepakankamai išdėstyta."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Skitija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Herodoto istorija: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Skitija: mention_match, place, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herodoto istorija\" parinktas kaip owner_note_path. Targetas \"Skitija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-174802
+    - c-174571
 
 <a id="claim-t-191690"></a>
 - t-002
@@ -140,7 +147,8 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
 - id: c-174571
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
   citata_originali: |
     34
     Skitijos geografija. Skitų įpročius, papročius ir religi­
@@ -154,14 +162,17 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   citata_rodoma: "34\nSkitijos geografija. Skitų įpročius, papročius ir religi­\nją iš dalies aprašė Herodotas, bet tai nelabai reikalinga\nmūsų dalykui. Įdomesnė atrodo Skitijos geografija, nors\nHerodoto\nistorijoje\nji\nnepakankamai\nišdėstyta."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-174572
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     Taip Darijus buvo
     priverstas greitai pereiti visą Skitiją, persikelti per to­
@@ -184,7 +195,8 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
 - id: c-174573
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 59."
   citata_originali: |
     Manoma, kad šis pavadinimas atsirado ne iš
     itin gausios tautos, turėjusios tokį vardą, tačiau istoriš­
@@ -206,7 +218,8 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
 - id: c-174802
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 392"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 392."
   citata_originali: |
     Persekiojami
     skitai aplenkė aukštupio kraštą ir vėl grįžo į Slkitiją. Kai
@@ -225,6 +238,5 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-004
     - t-005

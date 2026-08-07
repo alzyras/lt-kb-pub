@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d051b7aaebfda3d976cb93f8"
+canonical_name: "Vladislovas Łokietka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladislovas Łokietka"]
+sameAs: []
+canonical_biography: "Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­ žiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­ daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir Vladislovo sūnaus Kazimiero."
 ---
 # Vladislovas Łokietka
 
@@ -62,7 +69,8 @@ Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tink
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 294."
   citata_originali: |
     Žymiausią rolę čia vaidino Pamario žemė,
     kurią kryžiuočiai buvo užgrobę betalkinėdami Vladislovui Lo­

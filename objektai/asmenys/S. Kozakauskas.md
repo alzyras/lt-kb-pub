@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5133fbdcf6b328db556aca74"
+canonical_name: "S. Kozakauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["S. Kozakauskas"]
+sameAs: []
+canonical_biography: "Kozakauskas, D. Kozakauskas ir dar keletas karininkų."
 ---
 # S. Kozakauskas
 
@@ -66,7 +73,8 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
 - id: c-44500
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     sintus dalgius ir durtuvus. Batalionų vadais
 
@@ -89,7 +97,8 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
 - id: c-44501
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 164."
   citata_originali: |
     Oficialiai pa-
     teikiami Rusijos kariuomenės nuos-

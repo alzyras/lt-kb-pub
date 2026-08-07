@@ -50,7 +50,8 @@ Apie tokią moterų «karalystę» kalbėjo ir Adomas Bremenietis, kuris šiaip 
 - id: c-28648
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 126."
   citata_originali: |
     Apie tokią moterų «karalystę» kalbėjo ir Adomas Bremenietis,
     kuris šiaip jau rytinių baltų vardų visai nepaminėjo. Įdomu, kad

@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184649
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 73"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 73."
   citata_originali: |
     Mėklinantis į visą tą pasaką, gal regėti ją sutin­
     kančią daugioj vietoj su pasakomis viršiaus mina-

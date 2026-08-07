@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b5ef4d90303375fc9b04f95"
+canonical_name: "Arkidjakonas Povilas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Arkidjakonas Povilas"]
+sameAs: []
+canonical_biography: "Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris."
 ---
 # Arkidjakonas Povilas
 
@@ -63,7 +70,8 @@ Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijo
 - id: c-173014
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 185."
   citata_originali: |
     24
     Biblioteka dla čtenija. -  1836. -  IV -  S. 86. Ten rašoma, jog ar-

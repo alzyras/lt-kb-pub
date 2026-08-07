@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-50ac9266d4ee6993772b83d6"
+canonical_name: "Frederikas Joachimas Mansfeldas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Frederikas Joachimas Mansfeldas"]
+sameAs: []
+canonical_biography: "Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas, kuris 1608 m. rugpjūčio 1 d. užėmė Daugavgryvos senąją pilį ir pradėjo Rygos miesto blokadą, neleisdamas 4 nei finansinės paramos."
 ---
 # Frederikas Joachimas Mansfeldas
 
@@ -77,7 +84,8 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
 - id: c-41908
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 107."
   citata_originali: |
     © Dambravos raitarai užeina F.J. Mansfeldo
     kavaleristams iš flango ir suduoda stiprų
@@ -93,7 +101,8 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
 - id: c-44329
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112."
   citata_originali: |
     valdovui Zigmantui Vazai kovoti su maiš-
     tininkais. Tuo pasinaudojo Švedijos ka-

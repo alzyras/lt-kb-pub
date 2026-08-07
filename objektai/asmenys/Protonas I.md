@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e8854d7cc8ff77de5cb1540c"
+canonical_name: "Protonas I"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Protonas I"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie rytinių Baltijos pakrančių pulti rusų. Teodoro Narbuto pasakojime Protonas I sudarė sąjungą su Ganduvanu ir vedė jo dukrą, taip užbaigdamas dviejų tautų karus. Teodoro Narbuto teigimu, chronologai nesutarė dėl Protono I valdymo pradžios, bet laikė jį kiek jaunesniu Oktaviano Augusto amžininku."
 ---
 # Protonas I
 
@@ -100,7 +107,8 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
 - id: c-174106
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
   citata_originali: |
     Rusų karvedys, vardu
     Ranonas, žuvo mūšyje, o jo valdų sostinė Rotala perėjo
@@ -123,7 +131,8 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
 - id: c-174107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
   citata_originali: |
     Netrukus antrą kito Rusnės
     pono, vadinamo \Vespats, Viešpačiu1, sostinę užėmė tie
@@ -145,7 +154,8 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
 - id: c-174108
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
   citata_originali: |
     Taip ir baigėsi tą sykį dvie­
     jų tautų tarpusavio karai3. Iš tiesų chronologai nesutaria
@@ -164,9 +174,9 @@ Teodoro Narbuto pasakojime karalius Protonas I su stipriu laivynu nuplaukė prie
     - t-002
 
 - id: c-184374
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 73"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 73."
   citata_originali: |
     Pavėdumas darų tos pasakos randamas yra, no­
     ris ne su visu aiškiai, lenkų raštuose, kurie skelbia,

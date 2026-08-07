@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-67fa4ab304cc6fd9505b7ed7"
+canonical_name: "Jurgis Algimantaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Algimantaitis"]
+sameAs: []
+canonical_biography: "Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus Vladislovo brolį Kazimierą."
 ---
 # Jurgis Algimantaitis
 
@@ -53,7 +60,8 @@ Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus 
 - id: c-169584
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 466"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
   citata_originali: |
     Kiti
     manė, kad karaliaus išrinkimas didžiuoju kunigaikščiu

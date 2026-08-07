@@ -95,7 +95,8 @@ Nenurodyta
 - id: c-60163
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
 

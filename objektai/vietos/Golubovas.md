@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae87d1431137b225a2243324"
+canonical_name: "Golubovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Golubovas"]
+sameAs: []
+canonical_biography: "Karas susmulkėjo į eilę atskirų susirėmimų ir pilių apgulimų, kurių tik viena (Golubovas) tebuvo paimta."
+place_authority: true
+historical_names: []
 ---
 # Golubovas
 
@@ -51,7 +60,8 @@ Karas susmulkėjo į eilę atskirų susirėmimų ir pilių apgulimų, kurių tik
 - id: c-33851
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 365"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 365."
   citata_originali: |
     Pusbroliams ėmus kariauti, ordino būriai silpnai tegalėjo
     priešintis, ir jie užsidarinėjo pilyse.

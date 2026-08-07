@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-65ad6d264a4ae7ddf17c775f"
+canonical_name: "Hapsalas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Hapsalas","Hapsalas (vieta)"]
+sameAs: []
+canonical_biography: "Taip pat patrakę vikionys vyskupą Hermaną su diduomene pilėj Hapsaloj apgulė."
+place_authority: true
+historical_names: []
 ---
 # Hapsalas (vieta)
 
@@ -46,9 +55,9 @@ Taip pat patrakę vikionys vyskupą Hermaną su diduomene pilėj Hapsaloj apgul�
 ## Citatos
 
 - id: c-184513
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 586"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 586."
   citata_originali: |
     Tuojau
     susirinkę 10 000 igumių pakėlė sau karvedį ir danų

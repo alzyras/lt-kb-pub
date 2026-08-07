@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-207b2a9b1d56313be940ca36"
+canonical_name: "Bazilijus Lopacinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bazilijus Lopacinskis"]
+sameAs: []
+canonical_biography: "Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį."
 ---
 # Bazilijus Lopacinskis
 
@@ -64,7 +71,8 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
 - id: c-83610
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I I  TOMAS
     darbo asmeniškai spręsti įvairaus pobūdžio ginčus, o mies­

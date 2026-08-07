@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-edc2ff76fbf589d512952566"
+canonical_name: "Kurtuvėnų dvaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kurtuvėnų dvaras"]
+sameAs: []
+canonical_biography: "1578 m. Skaševskiui reikšmingi aktai buvo liudijami Kurtuvėnų dvare, o apylinkių bajorai sandorius sudarinėjo Kurtuvėnų miestiečių namuose."
+place_authority: true
+historical_names: []
 ---
 # Kurtuvėnų dvaras
 

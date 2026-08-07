@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6575ecc0832399833d7cb79e"
+canonical_name: "D. Kuruta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["D. Kuruta"]
+sameAs: []
+canonical_biography: "Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenantui baronui D. Kuruta prisiminė, kad jis čia vyriausias ir įsakė sukilėlių persekiojimą nutraukti."
 ---
 # D. Kuruta
 
@@ -66,7 +73,8 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
 - id: c-41883
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 159."
   citata_originali: |
     Mūšio padariniai
 
@@ -86,7 +94,8 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
 - id: c-44314
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 156-157"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 156-157."
   citata_originali: |
     Pabūklo vamzdis
 

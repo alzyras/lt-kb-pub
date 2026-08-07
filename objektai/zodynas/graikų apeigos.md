@@ -53,7 +53,8 @@ Ivanas slapta kurstė Simoną, Andrejų ir Vasilijų Šemiačičius, ištikimus 
 - id: c-168766
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 556"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 556."
   citata_originali: |
     Dievobaimingas Aleksandro įstangas sužlugdė klas­
     tingos Ivano pinklės. Jis pra-

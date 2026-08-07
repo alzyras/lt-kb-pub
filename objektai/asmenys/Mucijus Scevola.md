@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-650091a041945b001f8bfe49"
+canonical_name: "Mucijus Scevola"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mucijus Scevola"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Mucijus Scevola
 

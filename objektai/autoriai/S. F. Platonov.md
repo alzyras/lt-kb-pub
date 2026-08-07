@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a0f809c97cb4fdac854ebe79"
+canonical_name: "S. F. Platonov"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["S. F. Platonov"]
+sameAs: []
+canonical_biography: "Platonov, S."
 ---
 # S. F. Platonov
 
@@ -60,7 +67,8 @@ Platonov, S.
 - id: c-33131
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 238."
   citata_originali: |
     1908. — (”) _Pilkalnis na Litwie,_ Studja Staropolskie, księga ku czci
     Aleksandra Brucknera, Kraków 1928, 154-172 p. — Kučinskas, A. :

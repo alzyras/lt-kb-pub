@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-520fad6786b51e043623146a"
+canonical_name: "Richardas Kornval"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Richardas Kornval"]
+sameAs: []
+canonical_biography: "Richardas Kornval, Teutonijos viešpats, daugiaus vardą, ne valdžią, turėdamas, nėmaž zokanu kryžė jų nerūpimos, vienu žodžiu, nei nuo Rymo, nei nuo Teutonijos ūkės begalėjo pagalbos kryžėjai bevil tis."
 ---
 # Richardas Kornval
 
@@ -49,9 +56,9 @@ Richardas Kornval, Teutonijos viešpats, daugiaus vardą, ne valdžią, turėdam
 ## Citatos
 
 - id: c-184772
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 430"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 430."
   citata_originali: |
     Kaipogi Klemensas
     IV popiežius buvo nustipęs 1268, po kurio kardi­

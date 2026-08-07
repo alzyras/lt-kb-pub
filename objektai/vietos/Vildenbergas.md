@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac55585c3ce76ba763d1195d"
+canonical_name: "Vildenbergas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vildenbergas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab."
+place_authority: true
+historical_names: []
 ---
 # Vildenbergas
 
@@ -50,7 +59,8 @@ Dusburgietis teigia, kad vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wi
 - id: c-59380
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 321."
   citata_originali: |
     Vildenbergas
     Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab. Vilbarkas,

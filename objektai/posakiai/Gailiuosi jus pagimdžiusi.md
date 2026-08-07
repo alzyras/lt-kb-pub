@@ -66,7 +66,8 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 - id: c-59724
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
     Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai
@@ -86,7 +87,8 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 - id: c-59725
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
     tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo

@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aca64a5a6d1538ac7271abe2"
+canonical_name: "Aldona Gediminaitė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aldona","Aldona Gediminaitė","Aldona-Ona","Aldonos"]
+sameAs: []
+canonical_biography: "Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ištekėjusi už Kazimiero ir vėliau vadinta Lenkijos karaliene."
 ---
 # Aldona Gediminaitė
 
@@ -210,7 +217,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 - id: c-04825
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 239."
   citata_originali: |
     Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
     Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo
@@ -234,7 +242,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 - id: c-30095
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 239."
   citata_originali: |
     1331 m. neįvykus bendrai numatytam karo žygiui,
     lietuviai apiplėšė savo sąjungininko žemes. Lietuvių ir lenkų ginklo
@@ -254,7 +263,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 - id: c-91795
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 236."
   citata_originali: |
     Lenkijon nutekėjusios dvi jo
     dukterys krikštijosi lotyniškai (1321 m. Elzbieta — už Vaclovo-
@@ -270,7 +280,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 - id: c-91797
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 36."
   citata_originali: |
     Gediminas, užsitikrinęs sau-
     dybomis, buvo labai tvirti ir svarbūs.
@@ -296,7 +307,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 - id: c-91798
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 223."
   citata_originali: |
     Neumark, dab. Nowe Miasto
     Lubawskie (SZCh, p. 87—88) Drevantos aukštupyje.
@@ -315,7 +327,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 294."
   citata_originali: |
     Žymiausią rolę čia vaidino Pamario žemė,
     kurią kryžiuočiai buvo užgrobę betalkinėdami Vladislovui Lo­

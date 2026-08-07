@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ce75b47fe96f8ca06942ac4a"
+canonical_name: "Nogatas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nogatas"]
+sameAs: []
+canonical_biography: "Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo plaukiama Deimena pro Labguvą į Prieglių, juo — pro Karaliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą."
+place_authority: true
+historical_names: []
 ---
 # Nogatas
 
@@ -100,7 +109,8 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - id: c-68312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Todėl dviejų upių santakoje, būtent: Vyslos ir
     Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo
@@ -118,7 +128,8 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - id: c-68313
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 258."
   citata_originali: |
     183 psl.), jis pasi-
     darė svarbiausias Lenkijos žemės produktų eksporto centras.
@@ -138,7 +149,8 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - id: c-68314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 93."
   citata_originali: |
     Todėl broliai,
       283 D.— Nogadi, Jer.— Nogat. Nogatas — Vyslos deltos rytinė atšaka. Seniau Nogato

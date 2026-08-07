@@ -314,7 +314,8 @@ Nenurodyta
 - id: c-05231
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 349."
   citata_originali: |
     Bet (1410.VIII.)
     Livonijos kariuomenė laivais atvyko Sembon.
@@ -329,7 +330,8 @@ Nenurodyta
 - id: c-163178
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 31-32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 31-32."
   citata_originali: |
     Nors jau V amžiaus pabaigoje,
     tuoj po Romos valstybės žlugimo,
@@ -365,7 +367,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 35."
   citata_originali: |
     su Vokiečiu Ordinu. Jis darė 1382 m. sausio mėn. žygius į jo
     žemes, teriodamas Varmijos kraštą; tų metų pavasarį net ar­
@@ -387,7 +390,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 43."
   citata_originali: |
     Galų gale po ilgo delsimo, 1383 metų vasarą turėjo
     įvykti Ordino magistro ir Jogailos susivažiavimas. Gavęs Jogai­
@@ -410,7 +414,8 @@ Nenurodyta
 - id: c-163181
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 227."
   citata_originali: |
     Lietuviai ne kartą puldinėjo Sembą. Pats
     Vytenis 1311 plėšė Sembą ir Natangą, paskui Varmę, bet Woplau­
@@ -432,7 +437,8 @@ Nenurodyta
 - id: c-163183
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 51-52"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 51-52."
   citata_originali: |
     Yra
     žinių, kad senų senovėje aisčiams daug teko kariauti su skandi-
@@ -454,7 +460,8 @@ Nenurodyta
 - id: c-163185
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 230."
   citata_originali: |
     kryžiuočiai, kai, Karaliaučiaus komtūrui vadovaujant, atvyko stipri
     pagalba^34. Su rygiečiais atvykę laivais griauti Neuermühleno pilies,
@@ -471,7 +478,8 @@ Nenurodyta
 - id: c-163186
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 152."
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
     52
@@ -496,7 +504,8 @@ Nenurodyta
 - id: c-163187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 23-24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 23-24."
   citata_originali: |
     7
 
@@ -523,7 +532,8 @@ Nenurodyta
 - id: c-175292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
   citata_originali: |
     Šie, susirinkę labai daug savo valčių, stojo
     į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
@@ -544,7 +554,8 @@ Nenurodyta
 - id: c-176792
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 32-33"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 32-33."
   citata_originali: |
     5
     Žodį Vilija, jeigu jo kilmės imtume
@@ -575,9 +586,9 @@ Nenurodyta
     - t-012
 
 - id: c-184291
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 180"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 180."
   citata_originali: |
     To dėjęsi, piktadėjai teutonų, paskui nuo žemai­
     čių vokyčiais pramanyti, vadinami saksonys, vest-

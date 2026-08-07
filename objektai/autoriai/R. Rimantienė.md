@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a429b32b73de014792489878"
+canonical_name: "R. Rimantienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["R. Rimantienė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad rimantienė."
 ---
 # R. Rimantienė
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad rimantienė.
 - id: c-61405
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
   citata_originali: |
     Lietuvos TSR archeologijos atlasas.— T. 2: Piliakalniai / Redagavo A. Tautavičius. —
     V., 1975; T. 3: I—XIII a. pilkapynai ir senkapiai / Parengė A. Tautavičius; Redagavo R.

@@ -226,7 +226,8 @@ Nenurodyta
 - id: c-170437
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 74."
   citata_originali: |
     O paskui, sudarius susitarimą, ir pats Mask­
     vos didysis kunigaikštis išjojo pas jį, ir matėsi su juo,
@@ -265,7 +266,8 @@ Nenurodyta
 - id: c-170438
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 74."
   citata_originali: |
     Ir tada didysis kuni­
     gaikštis Algirdas tarė Maskvos didžiajam kunigaikš­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0bc8cd34af3a72aad00c23ef"
+canonical_name: "Mechmet Girėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mechmet Girėjus"]
+sameAs: []
+canonical_biography: "Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu."
 ---
 # Mechmet Girėjus
 
@@ -81,7 +88,8 @@ Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir 
 - id: c-169509
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 582"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 582."
   citata_originali: |
     Vaivada Goštautas, pilies seniūnas
     Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai

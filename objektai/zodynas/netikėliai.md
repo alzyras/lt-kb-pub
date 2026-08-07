@@ -96,7 +96,8 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - id: c-69306
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
     Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
     įvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,

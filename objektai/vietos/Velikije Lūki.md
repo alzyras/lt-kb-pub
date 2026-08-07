@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d5258e7aa3c0353bf20d5fb3"
+canonical_name: "Velikije Lūki"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Velikije Lūki"]
+sameAs: []
+canonical_biography: "1406 m. pskoviečiai puolė Velikije Lūkus. Velikije Lūki šiame gabale įvardijami kaip Lietuvos miestai."
+place_authority: true
+historical_names: []
 ---
 # Velikije Lūki
 
@@ -39,7 +48,7 @@ media_all_json: |-
 <a id="claim-t-199952"></a>
 - t-001
   teiginys: "1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką."
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Įtrauktas citatoje esantis miestų apibūdinimas ir pataisyta linksniuotė."
@@ -49,14 +58,14 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Įtrauktas citatoje esantis miestų apibūdinimas ir pataisyta linksniuotė."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182941
 
 <a id="claim-t-199953"></a>
 - t-002
   teiginys: "Velikije Lūki citatos pastaboje įvardijami kaip vienas iš Lietuvos miestų, kuriuos 1406 m. puolė pskoviečiai."
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Perrašyta į išsamų, šaltinio formuluotę atribuuojantį sakinį."
@@ -66,7 +75,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Perrašyta į išsamų, šaltinio formuluotę atribuuojantį sakinį."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182941
 
@@ -87,7 +96,7 @@ media_all_json: |-
     Rževų ir Polocku (V1I.30—VII1.2).
   citata_rodoma: "‘ 1428 m. žygio karo veiksmai buvo sustabdyti, liepos 28 d. \nnaugardiečiams paprašius taikos.\ns XV a. pirm ojoje pusėje Pskovo bajorų respublika kariavo su \nLDK du kartus — 1406 ir 1426 m. 1406 m. Ldk Vytautas paėmė pri­\nklausant) Pskovu! Koložos miestų ir dvi dienas buvo apgulus Vo- \nronačų, o pskoviečiai puolė Lietuvos miestus Velikije Lūki (11,28), \nRževų ir Polocku (V1I.30—VII1.2)."
   statusas: verified
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -81,7 +81,8 @@ media_all_json: |-
 - id: c-104633
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 254-256"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 254-256."
   citata_originali: |
     238
 
@@ -134,7 +135,8 @@ media_all_json: |-
 - id: c-104634
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 307."
   citata_originali: |
     Be to, ji reika-
     lavo, kad didysis kunigaikštis atsisakytų ir nuo apeliacinių

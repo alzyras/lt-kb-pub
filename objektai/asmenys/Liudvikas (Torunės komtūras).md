@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f11acb6b2dbb5ff289b146cd"
+canonical_name: "Liudvikas (Torunės komtūras)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas (Torunės komtūras)"]
+sameAs: []
+canonical_biography: "Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaiką ir žadėdamas pagalbą skatino Švitrigailą nebijoti karo su lenkais. Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos kaip priešams."
 ---
 # Liudvikas (Torunės komtūras)
 
@@ -96,7 +103,8 @@ Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaik
 - id: c-169424
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 438"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 438."
   citata_originali: |
     Išpuikęs ir pasipūtęs, jis įstengė su­
     vokti tik betarpišką grėsmę, nei matydamas, nei paisy­
@@ -123,7 +131,8 @@ Kojelavičiaus pasakojime Torunės komtūras Liudvikas kurstė brolių nesantaik
 - id: c-169426
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 442"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 442."
   citata_originali: |
     Vis dėlto lėmė ne jo, o blaiviau galvojan­
     čių žmonių nuomonė. Valstybės ištarme buvo įsakyta

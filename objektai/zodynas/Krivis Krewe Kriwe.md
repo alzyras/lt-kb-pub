@@ -74,7 +74,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 <a id="claim-t-194685"></a>
 - t-003
   teiginys: "O be to, krivio pavadinimą žinojo beveik vien lietuvių kiltys - tiek, kad kiekviena atskira gentis arba kiekvie na provincija turėjo savo atskirą krivį - net tolimuose kraš- 10 1 Skaityk pabaigoje I priedą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,7 +82,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172085
+    - c-177082
 
 <a id="claim-t-197367"></a>
 - t-004
@@ -101,7 +101,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 - id: c-172085
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 281."
   citata_originali: |
     Čia pakaks pasakyti, kad kiekvienas, susipažinęs su lie­
     tuvių tautos istorija ir mitologija, teiginius, kuriais abejojama
@@ -120,13 +121,13 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-004
 
 - id: c-172086
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 281."
   citata_originali: |
     Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
     jų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­
@@ -150,7 +151,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 - id: c-172088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 283."
   citata_originali: |
     Pretorijus Hartknocho studijų prierašuose aiškina teisin­
     gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
@@ -171,7 +173,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 - id: c-177082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 283."
   citata_originali: |
     Antra
     vertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios
@@ -185,7 +188,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   citata_rodoma: "Antra\nvertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios\ngiminės tautas pasaulietiškos grafo pareigos nebuvo susijusios\nsu žyniavimu . O be to, krivio pavadinimą žinojo beveik vien\nlietuvių kiltys -  tiek, kad kiekviena atskira gentis arba kiekvie­\nna provincija turėjo savo atskirą krivį -  net tolimuose kraš- * 10 1\nSkaityk pabaigoje I priedą.\n10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir\nPruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

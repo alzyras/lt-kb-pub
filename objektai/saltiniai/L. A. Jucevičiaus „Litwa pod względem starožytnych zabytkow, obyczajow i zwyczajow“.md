@@ -53,7 +53,8 @@ Narbutas LTI papildymų medžiagą paėmė iš L. A. Jucevičiaus veikalo „Lie
 - id: c-174672
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 480"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 480."
   citata_originali: |
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį
     LTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­

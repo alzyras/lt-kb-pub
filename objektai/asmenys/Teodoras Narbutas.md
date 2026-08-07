@@ -22,13 +22,20 @@ media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ATeodor_N
 media_primary_directness: 'direct'
 media_primary_relation_type: 'portrait_of'
 media_primary_json: |-
-  {"mediaId":"m-d801a4912b4c38ea2fc7bde6","title":"Teodor Narbutt 1851-1862 (31200201).jpg","caption":"Teodoras Narbutas, XIX a. litografinis portretas.","originalTitle":"Teodor Narbutt 1851-1862 (31200201).jpg","creator":"Maksymilian Fajans","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Library of Poland","dateDisplay":"between 1851 and 1862 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1851-00-00T00:00:00Z/9,P1326,+1862-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":5193,"height":7600,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodor_Narbutt_1851-1862_%2831200201%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"mokslininkas","label":"mokslininkas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw - portraits","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maksymilian Fajans","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Teodor Narbutt","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Teodoras Narbutas.md","title":"Teodoras Narbutas","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:47:14.207502+03:00","reviewedAt":"2026-07-11T02:47:33.182508+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matau litografinį vyro portretą su užrašu „TEODOR NARBUTT“ apačioje ir faksimiliniu parašu dešinėje apačioje.","metadataEvidence":"Kandidato pavadinimas yra „Teodor Narbutt 1851-1862“, aprašyme nurodyta „Tytuł: Teodor Narbutt“, žanras - portretas, kūrėjas Maksymilian Fajans.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Teodorą Narbutą, todėl tai tinkamas tiesioginis istorinis portretas.","isPrimary":1}
+  {"mediaId":"m-d801a4912b4c38ea2fc7bde6","title":"Teodor Narbutt 1851-1862 (31200201).jpg","caption":"Teodoro Narbuto litografinis portretas, 1851–1862 m.","originalTitle":"Teodor Narbutt 1851-1862 (31200201).jpg","creator":"Maksymilian Fajans","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Library of Poland","dateDisplay":"between 1851 and 1862 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1851-00-00T00:00:00Z/9,P1326,+1862-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":5193,"height":7600,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodor_Narbutt_1851-1862_%2831200201%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorikas","label":"istorikas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw - portraits","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maksymilian Fajans","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Teodor Narbutt","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Teodoras Narbutas.md","title":"Teodoras Narbutas","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:47:14.207502+03:00","reviewedAt":"2026-07-31T05:55:39.698950+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XIX a. vyro portretas su užrašu „TEODOR NARBUT.“ ir faksimiline jo parašo reprodukcija.","metadataEvidence":"Kandidato pavadinimas tiksliai nurodo Teodorą Narbutą; apraše pateikta litografija iš M. Fajanso leidinio, autorius Maksymilianas Fajansas, 1851–1862 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tikslus pavadinimas, atitinkantis portretas ir faksimilinis parašas aiškiai įrodo tiesioginį ryšį su target.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-d801a4912b4c38ea2fc7bde6","title":"Teodor Narbutt 1851-1862 (31200201).jpg","caption":"Teodoras Narbutas, XIX a. litografinis portretas.","originalTitle":"Teodor Narbutt 1851-1862 (31200201).jpg","creator":"Maksymilian Fajans","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Library of Poland","dateDisplay":"between 1851 and 1862 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1851-00-00T00:00:00Z/9,P1326,+1862-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":5193,"height":7600,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodor_Narbutt_1851-1862_%2831200201%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"mokslininkas","label":"mokslininkas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw - portraits","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maksymilian Fajans","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Teodor Narbutt","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Teodoras Narbutas.md","title":"Teodoras Narbutas","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:47:14.207502+03:00","reviewedAt":"2026-07-11T02:47:33.182508+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matau litografinį vyro portretą su užrašu „TEODOR NARBUTT“ apačioje ir faksimiliniu parašu dešinėje apačioje.","metadataEvidence":"Kandidato pavadinimas yra „Teodor Narbutt 1851-1862“, aprašyme nurodyta „Tytuł: Teodor Narbutt“, žanras - portretas, kūrėjas Maksymilian Fajans.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Teodorą Narbutą, todėl tai tinkamas tiesioginis istorinis portretas.","isPrimary":1}]
+  [{"mediaId":"m-d801a4912b4c38ea2fc7bde6","title":"Teodor Narbutt 1851-1862 (31200201).jpg","caption":"Teodoro Narbuto litografinis portretas, 1851–1862 m.","originalTitle":"Teodor Narbutt 1851-1862 (31200201).jpg","creator":"Maksymilian Fajans","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Library of Poland","dateDisplay":"between 1851 and 1862 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1851-00-00T00:00:00Z/9,P1326,+1862-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":5193,"height":7600,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodor_Narbutt_1851-1862_%2831200201%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorikas","label":"istorikas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw - portraits","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maksymilian Fajans","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Teodor Narbutt","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Teodoras Narbutas.md","title":"Teodoras Narbutas","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:47:14.207502+03:00","reviewedAt":"2026-07-31T05:55:39.698950+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XIX a. vyro portretas su užrašu „TEODOR NARBUT.“ ir faksimiline jo parašo reprodukcija.","metadataEvidence":"Kandidato pavadinimas tiksliai nurodo Teodorą Narbutą; apraše pateikta litografija iš M. Fajanso leidinio, autorius Maksymilianas Fajansas, 1851–1862 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tikslus pavadinimas, atitinkantis portretas ir faksimilinis parašas aiškiai įrodo tiesioginį ryšį su target.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-d801a4912b4c38ea2fc7bde6","title":"Teodor Narbutt 1851-1862 (31200201).jpg","caption":"Teodoras Narbutas, XIX a. litografinis portretas.","originalTitle":"Teodor Narbutt 1851-1862 (31200201).jpg","creator":"Maksymilian Fajans","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Library of Poland","dateDisplay":"between 1851 and 1862 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1851-00-00T00:00:00Z/9,P1326,+1862-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":5193,"height":7600,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodor_Narbutt_1851-1862_%2831200201%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"mokslininkas","label":"mokslininkas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw - portraits","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maksymilian Fajans","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Teodor Narbutt","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Teodoras Narbutas.md","title":"Teodoras Narbutas","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:47:14.207502+03:00","reviewedAt":"2026-07-11T02:47:33.182508+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matau litografinį vyro portretą su užrašu „TEODOR NARBUTT“ apačioje ir faksimiliniu parašu dešinėje apačioje.","metadataEvidence":"Kandidato pavadinimas yra „Teodor Narbutt 1851-1862“, aprašyme nurodyta „Tytuł: Teodor Narbutt“, žanras - portretas, kūrėjas Maksymilian Fajans.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Teodorą Narbutą, todėl tai tinkamas tiesioginis istorinis portretas.","isPrimary":1}]
+  [{"mediaId":"m-d801a4912b4c38ea2fc7bde6","title":"Teodor Narbutt 1851-1862 (31200201).jpg","caption":"Teodoro Narbuto litografinis portretas, 1851–1862 m.","originalTitle":"Teodor Narbutt 1851-1862 (31200201).jpg","creator":"Maksymilian Fajans","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Library of Poland","dateDisplay":"between 1851 and 1862 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1851-00-00T00:00:00Z/9,P1326,+1862-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":5193,"height":7600,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodor_Narbutt_1851-1862_%2831200201%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorikas","label":"istorikas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files from Polona","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images contributed by the National Library in Warsaw - portraits","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maksymilian Fajans","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Teodor Narbutt","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Teodoras Narbutas.md","title":"Teodoras Narbutas","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:47:14.207502+03:00","reviewedAt":"2026-07-31T05:55:39.698950+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XIX a. vyro portretas su užrašu „TEODOR NARBUT.“ ir faksimiline jo parašo reprodukcija.","metadataEvidence":"Kandidato pavadinimas tiksliai nurodo Teodorą Narbutą; apraše pateikta litografija iš M. Fajanso leidinio, autorius Maksymilianas Fajansas, 1851–1862 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tikslus pavadinimas, atitinkantis portretas ir faksimilinis parašas aiškiai įrodo tiesioginį ryšį su target.","isPrimary":1}]
+entity_id: "ent-3b83bc2b3c1737c85d6d858e"
+canonical_name: "Teodoras Narbutas"
+entity_roles: ["author","person"]
+entity_view_role: "person"
+entity_aliases: ["T. Narbutas","Teodoras Narbutas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos praeities veikalų buvo nedaug. Naujojo šaltinio įvade jis pristatomas kaip Ipolito Klimaševskio sumanymo paskelbti visą Bychovco kronikos tekstą įgyvendintojas, plačiai, nors ir nekritiškai, panaudojęs šią kroniką savo devynių tomų veikale ir nuo 1838 m. rūpinęsis jos išspausdinimu. Lietuvoje populiarus Teodoras Narbutas susilaukė rūsčios Michało Balińskio kritikos."
 ---
 # Teodoras Narbutas
 
@@ -359,7 +366,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 <a id="claim-t-188633"></a>
 - t-017
   teiginys: "Laiške Ignotui Onacevičiui Teodoras Narbutas savo uždaviniu vadino praeities įvykių esmės atskleidimą nuo tautos kilmės iki 1569 m."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -378,8 +385,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171522
-    - c-179196
-    - c-179199
 
 <a id="claim-t-188634"></a>
 - t-018
@@ -556,21 +561,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   pagrindžia:
     - c-173867
 
-<a id="claim-t-190986"></a>
-- t-027
-  teiginys: "Rasa Griškaitė Narbuto lietuvių mitologijos tyrinėjimų paieškas vadino atkaklesnėmis ir tragiškesnėmis, nei galėtų atrodyti jų nepažinus."
-  atnaujinta: "2026-07-24 15:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-179355
-
 <a id="claim-t-190987"></a>
-- t-028
+- t-027
   teiginys: "Rengdamas antrąjį LTI leidimą, Narbutas išnašoje išbraukė žodžius „bene brolio“ apie A. Vijūką-Kojalavičių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -590,7 +582,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-173869
 
 <a id="claim-t-190988"></a>
-- t-029
+- t-028
   teiginys: "Teodoras Narbutas yra dailiau už anuos padarytas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -610,7 +602,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-173870
 
 <a id="claim-t-190989"></a>
-- t-030
+- t-029
   teiginys: "Teodoras Narbutas Dievo Kovo stabą ypač vertino ir laikė jį vienu svarbiausių savo kolekcijos egzempliorių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -630,7 +622,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-173871
 
 <a id="claim-t-197447"></a>
-- t-031
+- t-030
   teiginys: "Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo prancūzų administracijoje."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -642,7 +634,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179194
 
 <a id="claim-t-197448"></a>
-- t-032
+- t-031
   teiginys: "Narbutas elgiasi ir su daugeliu kitų senųjų ra šytinių šaltinių - praplečia jų informaciją, sukonkretina, per teikia ne tik tai, kas juose pasakyta, bet ir tai, kas, jo manymu, galėjo būti pasakyta."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -654,7 +646,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179195
 
 <a id="claim-t-197449"></a>
-- t-033
+- t-032
   teiginys: "Narbutas visą dėmesį sukoncentravo į len kiškojo teksto pataisas."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -666,7 +658,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179196
 
 <a id="claim-t-197450"></a>
-- t-034
+- t-033
   teiginys: "Narbuto idėja, o ir pirmo LTI tomo papildymai „Mažesniuose istorijos raštuose“ sudarė tik nedidelę dalį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -678,7 +670,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179197
 
 <a id="claim-t-197451"></a>
-- t-035
+- t-034
   teiginys: "Teodoras Narbutas buvo tikra istoriko požiūrio į praeities tyrinėjimus deklaracija, jo aspiracijų išraiška) buvo pakoreguota tik įrašant vieną nedidelę papildomą pataisą, tuo tarpu pats knygos tekstas mirgėjo nuo korektyvų."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -690,7 +682,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179198
 
 <a id="claim-t-197452"></a>
-- t-036
+- t-035
   teiginys: "Narbutas rašė: „Tos svarbios religijos primini mas ir pažinimas yra nepaprastai reikalingas istorijos žinioms turtinti - dar daugiau, be tinkamo jos išaiškinimo negali būti pažinta lietuvių žemės praeitis“54."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -702,7 +694,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179199
 
 <a id="claim-t-197453"></a>
-- t-037
+- t-036
   teiginys: "Teodoras Narbutas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -714,7 +706,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179200
 
 <a id="claim-t-197454"></a>
-- t-038
+- t-037
   teiginys: "Teodoras Narbutas globojo ne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus dirbinius."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -726,7 +718,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179201
 
 <a id="claim-t-197455"></a>
-- t-039
+- t-038
   teiginys: "Teodoras Narbutas visiems metams įgydavo gydomosios galios."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -738,7 +730,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179202
 
 <a id="claim-t-197825"></a>
-- t-040
+- t-039
   teiginys: "Per 400 metų nė vienas lietuvis, išskyrus Kojalavičių, Mykolą Lietuvį ir Teodorą Narbutą, nepasirūpino krašto praeitimi."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -750,7 +742,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179355
 
 <a id="claim-t-197826"></a>
-- t-041
+- t-040
   teiginys: "Narbuto darbiniame LTI egzemp lioriuje, visose devyniose dalyse, atsirado daugybė pa taisų, įklijų — visa tai ir turėjo papildyti antrąjį leidimą."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -762,7 +754,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-179356
 
 <a id="claim-t-197827"></a>
-- t-042
+- t-041
   teiginys: "Teodoras Narbutas buvo „nuoširdesnis“, be to, galima įžvelgti mažiau kompromisų."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -774,7 +766,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-173868
 
 <a id="claim-t-197828"></a>
-- t-043
+- t-042
   teiginys: "Teodoras Narbutas yra visiškai tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir prancūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besiremiantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovintis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis priekinėmis letenomis."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -1114,7 +1106,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-169848
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 9-10"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 9-10."
   citata_originali: |
     Baigdamas „Lietuvos istoriją", T. Narbutas nuo
     1838 m. pradėjo rūpintis Bychovco kronikos išspaus-
@@ -1134,7 +1127,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-169849
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 14."
   citata_originali: |
     Tuo metu Lietu­
     voje populiarus T. Narbutas susilaukė rūsčios jo kritikos. „Kas
@@ -1159,7 +1153,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-169850
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 10."
   citata_originali: |
     1846 m. Bychovco kronika išėjo atskiru leidiniu.
     Rankraščio tekstas jame buvo perteiktas be jokių taisymų,
@@ -1178,7 +1173,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-169851
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 10."
   citata_originali: |
     T. Narbutas paliko taip pat pirmą ir vienintelį ži-
     nomą rankraščio paleografinį aprašymą. T. Narbuto
@@ -1196,7 +1192,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-169852
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 5."
   citata_originali: |
     Gimęs Lenkijos-Lie­
     tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
@@ -1222,7 +1219,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-169853
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     Iš
     tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet
@@ -1245,7 +1243,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-169854
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 9."
   citata_originali: |
     Iš tikrųjų T. Narbutas plačiai, nors ir nekritiškai
     panaudojo naująjį šaltinį svarbiausiame savo gyvenimo
@@ -1267,7 +1266,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 5."
   citata_originali: |
     T. Narbutas, kaip ir daugelis to meto žmonių, bodėjosi vie-
     nakryptės veiklos. Jis daug vertė, rašė eilėraščius, domėjosi
@@ -1285,7 +1285,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171512
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     Pirmieji T. Narbuto spausdinti darbai - tai užsienietiškų
     leidinių apžvalgos, eilėraščiai, vertimai Vilniaus laikraščiuo­
@@ -1304,7 +1305,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
   citata_originali: |
     Ant taurės išgraviruota data - „1817 m.“ R. Kli­
     mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
@@ -1327,7 +1329,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171514
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
   citata_originali: |
     T. Narbuto darbštumas ir interesų įvairovė stebina šiuo­
     laikinį žmogų. 1830 m. jis išleido „Čigonų liaudies istorijos
@@ -1346,7 +1349,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171515
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
   citata_originali: |
     T. Narbutas gana aktyviai dalyvavo 1830-1831 m. sukili­
     me. Tiesa, jis nekovojo su ginklu rankose. T. Narbutas buvo
@@ -1364,7 +1368,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171516
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
   citata_originali: |
     LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
     dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai
@@ -1383,7 +1388,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171517
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
   citata_originali: |
     Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai
     vertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo
@@ -1402,7 +1408,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 28."
   citata_originali: |
     Analizuodamas M. Strijkovskio minimą dievą Prokorimą,
     T. Narbutas pakeičia net jo vardą -  vadina Pramžimu (Pram-
@@ -1422,7 +1429,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171521
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 47."
   citata_originali: |
     Sumanymas. „Aš nerašau lietuvių tautos istorijos <...>“ -
     tokia iš pirmo žvilgsnio šokiruojančia deklaracija T. Narbutas
@@ -1439,7 +1447,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171522
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 48."
   citata_originali: |
     Taigi skaitome: „Aš nerašau
     lietuvių tautos istorijos, nes neįstengčiau susidoroti su tokiu
@@ -1462,7 +1471,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171523
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 48."
   citata_originali: |
     T. Narbutas sąmoningai vengė žodžio „istorija“; tarytum ne­
     pretendavo į moksliškumą, suvokdamas save tik kaip apraši­
@@ -1487,7 +1497,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171524
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 55."
   citata_originali: |
     Oficialūs atgarsiai į T. Narbuto „Lietu­
     vių mitologiją“ pasirodė netrukus, t. y. tais pačiais 1835 ir ki­
@@ -1508,7 +1519,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 61."
   citata_originali: |
     Naujos paieškos. T. Narbutas į oficialiąją kritiką beveik nie­
     kuomet neatsakinėjo, galbūt išskyrus tą bene vienintelį kartą,
@@ -1527,7 +1539,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171526
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 64."
   citata_originali: |
     1846 metais jis ra­
     šė S. Daukantui: „O tuo tarpu ant švarių lapų, įsiūtų į mano
@@ -1548,7 +1561,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 75."
   citata_originali: |
     Vietoj pabaigos. Taigi T. Narbuto paieškos lietuvių mito­
     logijos tyrinėjimų srityje buvo atkaklesnės ir tragiškesnės, ne­
@@ -1567,7 +1581,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 497"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 497."
   citata_originali: |
     Die­
     vo Kovo stabą T. Narbutas ypač vertino laikyda­
@@ -1587,7 +1602,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171530
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 507"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 507."
   citata_originali: |
     Kaip byloja šio parengto spaudai ran­
     kraščio pratarmė, Rivijaus kroniką T. Narbutas įsi­
@@ -1611,7 +1627,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 515."
   citata_originali: |
     T. Nar­
     butas apie 1804 metų komisiją sužinojo susipaži­
@@ -1632,7 +1649,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-173867
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 403."
   citata_originali: |
     Siame sakinyje T. Narbutas vartoja terminą
     „dzieje“, o ne „historia“. Apie šių žodžių pras­
@@ -1651,7 +1669,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-173868
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 461"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 461."
   citata_originali: |
     Laikui bėgant ir blėstant vil­
     čiai, jog kada nors pasirodys antrasis leidimas, PE buvo
@@ -1669,12 +1688,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
+    - t-041
 
 - id: c-173869
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 485"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 485."
   citata_originali: |
     86 /Ten
     pat,
@@ -1692,12 +1712,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-027
 
 - id: c-173870
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
   citata_originali: |
     Skulptūros stilius pri­
     mena Prilviėo dievus, nors jis yra dailiau už anuos padarytas.
@@ -1715,12 +1736,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-028
 
 - id: c-173871
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
   citata_originali: |
     Dievo Kovo stabą T. Narbutas ypač vertino
     laikydamas jį vienu svarbiausių savo
@@ -1733,12 +1755,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-029
 
 - id: c-179194
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     Sužeidimas netrukus at­
     siliepė sveikatai - jis apkurto. Napoleono žygio į Rusiją metu
@@ -1754,12 +1777,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-030
 
 - id: c-179195
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 34."
   citata_originali: |
     Vaižgantas
     mums bus maloningas, nes Baniutė, mūsų kaimo gražiausia
@@ -1777,12 +1801,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-031
 
 - id: c-179196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 64."
   citata_originali: |
     Įdomu ir tai, kad mus pa­
     siekęs rusiškasis „Lietuvių mitologijos“ nuorašas yra be lente­
@@ -1800,13 +1825,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-033
+    - t-032
 
 - id: c-179197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 73."
   citata_originali: |
     Taigi 1856 me­
     tais „Mažesniuose istorijos raštuose“ bent iš dalies buvo reali­
@@ -1823,12 +1848,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-033
 
 - id: c-179198
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 74."
   citata_originali: |
     Pratarmė (o ji buvo tikra istoriko
     požiūrio į praeities tyrinėjimus deklaracija, jo aspiracijų išraiš­
@@ -1845,12 +1871,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-034
 
 - id: c-179199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 75."
   citata_originali: |
     Nedvejojant ga­
     lima konstatuoti, kad mitologijai istorikas skyrė ypač daug dė­
@@ -1868,13 +1895,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-036
+    - t-035
 
 - id: c-179200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
   citata_originali: |
     Perrašau jį ištisai, ka­
     dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
@@ -1892,12 +1919,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-036
 
 - id: c-179201
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 138."
   citata_originali: |
     Tai buvo Linų Izidė, to augalo vertės atradėja; ji globojo
     ne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus
@@ -1914,12 +1942,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-037
 
 - id: c-179202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
   citata_originali: |
     Senė, vadinama Upine, tomis apei­
     gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
@@ -1932,12 +1961,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-038
 
 - id: c-179355
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 452"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 452."
   citata_originali: |
     Kortos, romanai, garderobai — tokios yra jų dory­
     bės. Vyrauja tuščias pasididžiavimas senoliais, o protėvių
@@ -1952,13 +1982,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
-    - t-040
+    - t-039
 
 - id: c-179356
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 455."
   citata_originali: |
     Beje, to meto laiškuose istorikas
     vis dažniau akcentavo, jog LTI — tai tik bazė, tik pagrin­
@@ -1975,12 +2005,13 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-040
 
 - id: c-179357
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 490"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 490."
   citata_originali: |
     Plaukų nėra nė pėdsako, tik užpakaly galima pamatyti
     tarytum kokias sruogas; drabužių taip pat jokių. Ir iš tos būty­
@@ -1998,4 +2029,4 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-043
+    - t-042

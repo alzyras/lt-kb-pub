@@ -143,7 +143,8 @@ media_all_json: |-
 - id: c-166206
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 319."
   citata_originali: |
     Raštininkas Mikola
     Panašiai 1524 metais, kaip patvirtina ta pati Lietuvos Met­
@@ -165,7 +166,8 @@ media_all_json: |-
 - id: c-166207
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Vilniaus mo­
     netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis
@@ -188,7 +190,8 @@ media_all_json: |-
 - id: c-166208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 27."
   citata_originali: |
     Įgudęs lietuvių istorijos žinovas Ig­
     nacas Onacevičius su retai sutinkamu palankumu atidavė man
@@ -215,7 +218,8 @@ media_all_json: |-
 - id: c-166766
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 57."
   citata_originali: |
     Lietuvos Metrika – tai Lietuvos didžiojo kunigaikščio raštinėje nuo
     XIV  a. pabaigos iki 1794  m. susidaręs archyvas, apimantis visus LDK
@@ -238,9 +242,9 @@ media_all_json: |-
     - t-004
 
 - id: c-184846
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 26"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 26."
   citata_originali: |
     Iš ne Kauno kilmės rašytinių šaltinių kompleksų XV-XVIII a. Kauno istorijai
     svarbiausia yra Lietuvos Metrika. Tai Lietuvos Didžiosios Kunigaikštystės kanclerių
@@ -254,9 +258,9 @@ media_all_json: |-
     - t-005
 
 - id: c-184847
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 217"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 217."
   citata_originali: |
     1727 m. Kauno miestiečių prašymu ir Augusto II leidimu 1541 m. Žygimanto
     Senojo raštas, 1582 m. Stepono Batoro sprendimas, 1609 ir 1631 m. Zigmanto Vazos

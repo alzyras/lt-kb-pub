@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b20feeccb9a0ee362a55071e"
+canonical_name: "Džordžas Robertsonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Džordžas Robertsonas"]
+sameAs: []
+canonical_biography: "Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos saugumo aplinkoje“ metu Lietuvos Respublikos prezidentas Valdas Adamkus ir NATO Generalinis sekretorius Džordžas Robertsonas 2000 m. gegužės 19 d. L I E T U V O S I S T O R I J A 260."
 ---
 # Džordžas Robertsonas
 
@@ -63,7 +70,8 @@ Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos 
 - id: c-26664
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 259-260"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 259-260."
   citata_originali: |
     Bušas taip pat
     priminė, kad JAV niekada nepripažino Lietuvos okupacijos ir visada

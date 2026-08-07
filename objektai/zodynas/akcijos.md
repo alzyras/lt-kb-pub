@@ -38,7 +38,7 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 <a id="claim-t-70076"></a>
 - t-001
   teiginys: "Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armijos dalinius, ukrainiečių, latvių policijos batalionus."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -87,7 +87,8 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 - id: c-69187
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 200."
   citata_originali: |
     Daugiausia šaudė
     iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD
@@ -108,7 +109,8 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 - id: c-69188
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 200."
   citata_originali: |
     Taip diena po dienos 1941 m. vasarą ir rudenį tikrose skerdynėse su-
     naikinta dauguma – apie 150 000 – Lietuvos žydų. Apie 50 tūkst. žydų
@@ -127,7 +129,8 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 - id: c-166786
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 200."
   citata_originali: |
     Kiekvienoje zonderkomandoje buvo ne mažiau kaip 50–100 narių.
     Kai kuriose žudynėse dalyvavo tik lietuvių pagalbinė policija ir policijos

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b5c3b072a9d1f357acf4654"
+canonical_name: "Pagraudenė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pagraudenė"]
+sameAs: []
+canonical_biography: "Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip brolis Eberhardas de Virnemburgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­ provise intravit territorium Lettoviae, dictum Pograuden [neti­ kėtai įsiveržė į Lietuvos."
+place_authority: true
+historical_names: []
 ---
 # Pagraudenė
 
@@ -60,7 +69,8 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
 - id: c-82077
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 63."
   citata_originali: |
     Tačiau atkreipus dėmesį į tai, ką Dus-
     burgas, aprašomų įvykių amžininkas, todėl labiausiai ver­

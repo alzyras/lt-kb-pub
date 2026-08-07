@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-509f46d675f203920e2b50a0"
+canonical_name: "Rybelis A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Rybelis A"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad rybelis A."
 ---
 # Rybelis A
 
@@ -57,7 +64,8 @@ Dusburgietis teigia, kad rybelis A.
 - id: c-61409
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Rybelis A. Senoji lietuvių pasaulėžiūra.— Lietuvių filosofijos istorijos bruožai, V., 1978,
     p. 18—53.

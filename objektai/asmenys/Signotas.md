@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-22e29ea55f5ccc239c1898de"
+canonical_name: "Signotas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Signotas"]
+sameAs: []
+canonical_biography: "Narbutas signotą (Sigonotta) mini kaip pajūrio žvejų garbinto dievo žynį."
 ---
 # Signotas
 
@@ -54,7 +61,8 @@ Narbutas signotą (Sigonotta) mini kaip pajūrio žvejų garbinto dievo žynį.
 - id: c-173093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 106."
   citata_originali: |
     Pajūrio žvejai nešdavo jam įvairiausių žuvų. Jis turėjo sa­
     vo žynį, vardu signotas (Sigonotta). Skaityk apie jį žemiau,

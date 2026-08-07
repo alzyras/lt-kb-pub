@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-98d32df50f64569b55f4ddc5"
+canonical_name: "R. Šarmaitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["R ŠARMAITIS","R. Šarmaitis"]
+sameAs: []
+canonical_biography: "Šarmaitis, R.: Iš marksistiniųlenininių pozicijų, Komunistas, 1963, nr."
 ---
 # R. Šarmaitis
 
@@ -83,7 +90,8 @@ media_all_json: |-
 - id: c-169800
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 3."
   citata_originali: |
     REDAKCINE KOMISIJA
     K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
@@ -102,7 +110,8 @@ media_all_json: |-
 - id: c-169803
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 49."
   citata_originali: |
     — Sideravičius, K. : _Marksistinė Lietuvos TSR isto­
     rija,_ Tiesa, 1959, m. 137 (VI.12).—Šarmaitis, R.: _Iš marksistinių-

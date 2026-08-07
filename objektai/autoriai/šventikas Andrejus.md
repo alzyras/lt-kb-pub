@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-54814644bd5eaf93a1c07534"
+canonical_name: "šventikas Andrejus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["šventikas Andrejus"]
+sameAs: []
+canonical_biography: "Šventikas Andrejus apie 1560-1563 m. metropolito Makarijaus iniciatyva parašė rusų istorijos ir literatūros paminklą „Степенная книга“."
 ---
 # šventikas Andrejus
 
@@ -66,7 +73,8 @@ media_all_json: |-
 - id: c-173293
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 503"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 503."
   citata_originali: |
     Tai rusų istorijos ir literatūros paminklas (orig.:
     „Степенная книга“). Knygą metropolito Maka­

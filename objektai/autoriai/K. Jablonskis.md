@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-76f59d2fa2b07aef15b2583d"
+canonical_name: "K. Jablonskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Jablonskis"]
+sameAs: []
+canonical_biography: "Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros istorikas Konstantinas Jablonskis. K. Jablonskis išrinko gausius lietuviškus žodžius (299) iš senosios Lietuvos valstybės raštinių kalbos ir išleido vertingą šaltinių ištraukų rinkinį: «Lietuviški žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai» (1941). Jablonskis ištisai sudarė 1 t."
 ---
 # K. Jablonskis
 
@@ -57,7 +64,8 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 - id: c-30629
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 70."
   citata_originali: |
     K. Jablonskis ištisai sudarė 1 t. iš XVI-XVII amžių doku­
     mentų rinkinio « Lietuvos valstiečių ir miestelėnų ginčai su dvarų
@@ -79,7 +87,8 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 - id: c-163197
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 69."
   citata_originali: |
     Ten jis paskelbė beveik pusę
     iki tol nespausdintų XVI amž. dvarų, folvarkų, kaimų, miestelių

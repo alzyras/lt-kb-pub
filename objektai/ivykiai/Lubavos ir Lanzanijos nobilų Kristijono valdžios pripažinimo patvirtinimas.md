@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-60191
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Kristijonui radus bendrą kalbą su prūsų nobiliais, nemaža prūsų priėmė krikštą.
     Stiprindamas savo pozicijas Prūsijoje, Kristijonas stengėsi išvengti pavaldumo lenkų

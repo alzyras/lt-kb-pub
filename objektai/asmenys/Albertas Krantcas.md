@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-01679cfa946a20a4fef4d039"
+canonical_name: "Albertas Krantcas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas Krantcas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Albertas Krantcas neneigė prie Upsalos augusio medžio nuolatinio žaliavimo, bet negalėjo nustatyti jo rūšies."
 ---
 # Albertas Krantcas
 
@@ -55,7 +62,8 @@ Narbutas rašo, kad Albertas Krantcas neneigė prie Upsalos augusio medžio nuol
 - id: c-173011
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
   citata_originali: |
     Tą ypatybę kronikininkai priskiria velnio galy­
     bei, manydami, kad velniai buvo garbinami toje šventykloje

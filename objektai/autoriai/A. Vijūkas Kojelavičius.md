@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b301f339ff264a845c0d27a3"
+canonical_name: "A. Vijūkas Kojelavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Vijūkas Kojelavičius","A. Vijūko-Kojalavičiaus","Albertas Vijūkas-Kojalavičius","Alberto Vijūko-Kojalavičiaus","Amžininko Alberto Vijūko-Kojelavičiaus","Koialowicz","Kojalavičius","objektai/asmenys/A. Vijūkas Kojelavičius","Vijūkas Kojelavičius"]
+sameAs: []
+canonical_biography: "A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Lietuvos istorijos autorius. Šiame leidinyje jis papildomai pasirodo kaip 1651 m. veikalo apie žygius prieš Zaporožės kazokus autorius ir kaip amžininkas, kurio teiginiu remiamasi vertinant Lenkijos kariuomenės elgesį."
 ---
 # A. Vijūkas Kojelavičius
 
@@ -142,7 +149,8 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - id: c-170913
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 122."
   citata_originali: |
     Amžininko Alberto Vijūko-Kojelavi-
     čiaus teigimu, Lenkijos kariuomenė dažnai
@@ -165,7 +173,8 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - id: c-170914
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 123."
   citata_originali: |
     Svetimšalių autoramento „vokiškojo“ tipo pėstinin-
     kas-ietininkas (pikinierius). Svetimšalių autoramento
@@ -188,7 +197,8 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - id: c-170915
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 227."
   citata_originali: |
     Buvo nuveikta
     3
@@ -207,7 +217,8 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - id: c-170916
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 63."
   citata_originali: |
     To­
     liau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti

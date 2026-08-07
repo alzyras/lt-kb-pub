@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a719118add4fb602637cc45"
+canonical_name: "Kotryna (Austrijos kunigaikštytė)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kotryna (Austrijos kunigaikštytė)"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Kotryna (Austrijos kunigaikštytė)
 

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-59fc40ea53c64c171244dca2"
+canonical_name: "Napierski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Napierski"]
+sameAs: []
+canonical_biography: "161 ## Puslapis 178 VILNIAUS MIESTO ISTORIJA II KNYGOS PRIEDAI I šio dokumento ir kito, po jo, nuorašą gavome iš daktaro Napierskio, labai veHingos nuorodos Livonijos dokumentų rinkinyje autoriaus. Napierskis ## Puslapis 184 VILNIAUS MIESTO ISTORIJA / TOMAS II (Plg. Napierskio veikale, aukščiau ne sykį cituotame Index Codicis Hist."
 ---
 # Napierski
 
@@ -90,7 +97,8 @@ media_all_json: |-
 - id: c-83981
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 183-184"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 183-184."
   citata_originali: |
     Dinaburgo komtūras
     (parašas)
@@ -117,7 +125,8 @@ media_all_json: |-
 - id: c-83982
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 177-178"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 177-178."
   citata_originali: |
     161
 
@@ -151,7 +160,8 @@ media_all_json: |-
 - id: c-83983
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 253."
   citata_originali: |
     Napierskio  veikale, aukščiau
     ne sykį cituotame Index Codicis Hist.

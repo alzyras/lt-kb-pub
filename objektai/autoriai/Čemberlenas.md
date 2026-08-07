@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-008cd9a7d02add1ede4142ba"
+canonical_name: "Čemberlenas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Čemberlenas"]
+sameAs: []
+canonical_biography: "Čemberlenas perrašė užrašą iš Volfgango Lazijaus, o iš Čemberleno tas užrašas pateko į Londono „Sylloge“."
 ---
 # Čemberlenas
 
@@ -54,7 +61,8 @@ media_all_json: |-
 - id: c-174546
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 514-515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 514-515."
   citata_originali: |
     Gal būtų pra­
     dingus toji istorija, o kartu su ja ir tas brangus paminklas, jeigu

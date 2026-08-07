@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1f7ac1ab7c27a06eedf4aefb"
+canonical_name: "Ožechovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ožechovskis"]
+sameAs: []
+canonical_biography: "Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) knygutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu\". Vienas iš žymiausiųjų tokių lenkų publicistų buvo Ožechovskis."
 ---
 # Ožechovskis
 
@@ -48,7 +55,8 @@ Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą O
 - id: c-177232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 399."
   citata_originali: |
     Pati bulė kalba apskritai apie rusinus,
     tarytum tas pavadinimas nereikštų graikų ir rusų bažnyčios, o

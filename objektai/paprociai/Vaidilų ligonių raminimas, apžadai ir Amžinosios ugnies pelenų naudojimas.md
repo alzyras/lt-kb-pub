@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-172829
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 295."
   citata_originali: |
     Visi vaidilos buvo dvasios ir kūno gydytojai. „Kai tik kas
     nors susirgdavo, tuojau siųsdavo pas vaidilą. Šis iš pradžių nu­

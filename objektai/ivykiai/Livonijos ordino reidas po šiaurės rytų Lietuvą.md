@@ -84,7 +84,7 @@ Nenurodyta
 <a id="claim-t-186745"></a>
 - t-002
   teiginys: "1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą, o Švitrigaila pasiliko Lukomlyje telkti kariuomenės."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -101,7 +101,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-169959
-    - c-169960
 
 <a id="claim-t-186746"></a>
 - t-003
@@ -150,16 +149,23 @@ Nenurodyta
 <a id="claim-t-186748"></a>
 - t-005
   teiginys: "1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Livonijos ordino reidas po šiaurės rytų Lietuvą: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordino reidas po šiaurės rytų Lietuvą\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   temporaliniai_duomenys: "įvykio data: 1433 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintas nereikalingas redakcinis įvadas."
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
-    - c-169960
+    - c-169959
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -201,7 +207,8 @@ Nenurodyta
 - id: c-169959
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 273."
   citata_originali: |
     Livonijos kariuome­
     nė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­
@@ -216,11 +223,13 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+    - t-005
 
 - id: c-169960
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 269."
   citata_originali: |
     ”  Kalbama apie naujus Švitrigailos veiksmus 1433 m. sausio
     pabaigoje — vasario pradžioje. Nepavykus 1432 m. rudens puoli­
@@ -237,7 +246,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
     - t-003
     - t-004
-    - t-005

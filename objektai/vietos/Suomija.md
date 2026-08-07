@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-969086164fe273bdedcf38b7"
+canonical_name: "Suomija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Suomija"]
+sameAs: []
+canonical_biography: "Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir Estijos) arba tarp jų, Suomijos ir Lenkijos pasiliko be vaisių, kol pagaliau Lietuvos vyriausybei pavyko surasti bendradarbiavimo formą, kuri buvo ir Latvių ir Estų priimta; pati."
+place_authority: true
+historical_names: []
 ---
 # Suomija
 
@@ -79,7 +88,8 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 - id: c-101927
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 186."
   citata_originali: |
     Vokietija kartojo nebeturinti regione
     interesų, Anglija ir Prancūzija kariavo, o sutriuškinus Lenkiją jų įtaka re-
@@ -102,7 +112,8 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 - id: c-101928
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 186."
   citata_originali: |
     SSRS 1940 metų ultimatumas ir
     sovietų okupacija
@@ -122,7 +133,8 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 - id: c-167255
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     La­
     biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3db8c200d394ad9e61a5c1b8"
+canonical_name: "Ambrozijus Doneris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ambrozijus Doneris"]
+sameAs: []
+canonical_biography: "Štai 1543 m. Kauno miesto tarybos ir suolininkų atleidžiamas iš pareigų prašėsi suolininkas Ambrozijus Doneris."
 ---
 # Ambrozijus Doneris
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185464
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 280"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 280."
   citata_originali: |
     Viena kita išimtis pasitaikydavo, bet ji reikalaudavo iš miesto savivaldos pareigūno
     tam tikrų pastangų. Štai 1543 m. Kauno miesto tarybos ir suolininkų atleidžiamas iš

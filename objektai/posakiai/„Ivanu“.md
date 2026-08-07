@@ -77,7 +77,8 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
 - id: c-76027
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
   citata_originali: |
     Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį
     amžininkai pavadino „Ivanu“, nes pirmą kartą Lietuvos istorijoje
@@ -100,7 +101,8 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
 - id: c-76028
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
   citata_originali: |
     Rusija pasižadėjo
     grąžinti pagrobtą turtą, Lietuva atgavo Latgalą, Polocką ir Vitebską.

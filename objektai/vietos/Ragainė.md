@@ -40,6 +40,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cc9410cbe5d5ee9d28ab030f"
+canonical_name: "Ragainė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ragainė"]
+sameAs: []
+canonical_biography: "Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio taško vieta: čia po 1289 m. įsitvirtino Ordino pilis, vietovė dokumentuose perėjo nuo Landeshutės vardo prie Ragainės, o kronikoje ji minima ir kaip krikšto bei karo veiksmų vieta."
+place_authority: true
+historical_names: []
 ---
 # Ragainė
 
@@ -202,14 +211,21 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 <a id="claim-t-169153"></a>
 - t-009
   teiginys: "Draikas buvo nuvestas į Ragainę ir ten su visa šeimyna pakrikštytas."
-  atnaujinta: "2026-07-19 20:03"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragainė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainė\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1409 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata turi neaiškią ankstesnio sakinio pradžią, bet aiškiai remia faktą apie Ragainę ir Draiką."
   pagrindžia:
-    - c-153901
+    - c-153898
 
 <a id="claim-t-169154"></a>
 - t-010
@@ -308,7 +324,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 <a id="claim-t-169159"></a>
 - t-015
   teiginys: "Dusburgiečio kronikoje pasakojama, kad nuo kariuomenės Žemaitijoje atsilikęs kryžiuočių karys pėsčiomis grįžo į Ragainę."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -320,7 +336,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-153890
-    - c-153894
 
 <a id="claim-t-169160"></a>
 - t-016
@@ -341,13 +356,21 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 <a id="claim-t-169161"></a>
 - t-017
   teiginys: "Po Aukaimio užėmimo Draika buvo nuvestas į Ragainę ir čia pakrikštytas su visa šeimyna."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Ragainė: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Draika: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Draika buvo nuvestas į Ragainę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Draika keliavo į Ragainė (0.90)"
   temporaliniai_duomenys: "įvykio data: 1409 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-153901
+    - c-153898
 
 <a id="claim-t-169162"></a>
 - t-018
@@ -693,7 +716,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 32."
   citata_originali: |
     Pav., Ragainės komtūras vienu puolimu išsivedė 100
     žmonių nelaisvėn. Kita kariuomenės dalis paėmė Naujapilį su
@@ -709,7 +733,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153886
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 140."
   citata_originali: |
     Tais pačiais 1409 m. Lietuvoje buvo nederlius. Jogaila, norė-
     damas padėti Lietuvai, siuntė jai javų. Tačiau ordinas Ragainėje
@@ -727,7 +752,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153887
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 211-212"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 211-212."
   citata_originali: |
     Apie Ragainės pilies užpuolimą
 
@@ -750,7 +776,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153888
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
     Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
     100 kelių į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
@@ -771,7 +798,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153889
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
   citata_originali: |
     Apie Ragainės ir Skalvių pilių pastatymą
 
@@ -795,7 +823,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153890
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Dievo ir švenčiausios panelės
     globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
@@ -814,7 +843,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153892
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 323."
   citata_originali: |
     Kijeve jau birželio mėn. prie gausių stalų
     buvo susirinkusi didelė kariuomenė^29. Šalia paties Vytauto būrių
@@ -834,7 +864,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153893
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
   citata_originali: |
     Apskritai įvykiai iki XIII a. paskutiniojo dešimtmečio atpasakojami gana schematiškai
     kaip atskirų teritorijų ar pilių puldinėjimai, suminint kai kuriuos Ordino brolius ir
@@ -857,7 +888,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153894
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
   citata_originali: |
     Apie ilgą vienos pilies apgulą ir vieną nuostabų įvykį
 
@@ -889,12 +921,12 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindzia:
     - t-006
     - t-007
-    - t-015
 
 - id: c-153895
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Ryškūs lietuvių
     tautos siekimai atgauti Ordino užgrobtas vakarinių lietuvių bei prūsų žemes ir XV a.
@@ -914,7 +946,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153896
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 40."
   citata_originali: |
     1361 m. pradžioje, žiemą Ordino mar-
     šalas su draugeliu kilmingų kryžininkų
@@ -941,7 +974,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153897
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     Šitai vyko viešpataujant Lie­
     tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
@@ -961,7 +995,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153898
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
     Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
@@ -973,14 +1008,18 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   citata_rodoma: "Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį\nDraiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.\n\n\n\n\n      281 (274)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+    - t-017
+
 - id: c-153899
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
   citata_originali: |
     Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
     sudeginimą
@@ -1001,7 +1040,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153900
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
     Tyrinėtojai siejo Dusburgietį
     iš pradžių su Ragaine, po to su Karaliaučiumi. Kelta mintis, kad jis rašęs Marienburge,
@@ -1020,7 +1060,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153901
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
   citata_originali: |
     Skalvių pilis Ragainėje buvo, manoma, piliakalnyje, esančiame per 2 km į pietryčius
     nuo dab. miestelio, taip pat nuo XIV—XV a. pradžioje statytos Ordino pilies griuvėsių.
@@ -1038,13 +1079,12 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-009
-    - t-017
 
 - id: c-153904
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
     Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir
@@ -1063,7 +1103,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-153905
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
   citata_originali: |
     236 (229). Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
     jo gyvenimą
@@ -1082,7 +1123,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-168479
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 177."
   citata_originali: |
     Kur kas didesnės sėkmės kitais metais susilaukė šeši
     178
@@ -1112,7 +1154,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-168481
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 246."
   citata_originali: |
     Štai todėl, norėdami
     ir priešą sutramdyti, ir su-
@@ -1148,7 +1191,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-175506
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Ten ji šiau­
     rėje ir rytuose ribojosi su Žemaitija ir iš dalies su Lie­
@@ -1168,7 +1212,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-175507
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Ragainė Hartknocho išleistame Dus-
     burgo veikale klaidingai pavadinta Ramige (p. III. C.
@@ -1186,7 +1231,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - id: c-178878
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 247."
   citata_originali: |
     Kurį laiką Kęstutis laikėsi ramiai, tačiau
     žemėmis. Kryžiuočiai, vedami Sembos fogto, savo ruož­

@@ -51,7 +51,8 @@ Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisv
 - id: c-82600
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 158-159"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 158-159."
   citata_originali: |
     142
 

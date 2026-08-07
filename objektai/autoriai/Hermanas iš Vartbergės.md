@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-58e068226c2fff98315c8ec4"
+canonical_name: "Hermanas iš Vartbergės"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hermanas iš Vartbergės"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo."
 ---
 # Hermanas iš Vartbergės
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ord
 - id: c-63346
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,

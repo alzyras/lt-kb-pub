@@ -45,24 +45,6 @@ Ji nurodoma kaip Bychovco kronikos laiko žymuo pereinant prie kito pasakojimo e
 
 Chronikinė datavimo formulė, rodanti trečią vasarą ar trečius metus įvykių sekoje.
 
-## Teiginiai
-
-<a id="claim-t-199232"></a>
-- t-001
-  teiginys: "Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m."
-  atnaujinta: "2026-07-12 23:02"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Reikia glaudesnės sakinio formos be perteklinio įvado."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kerskorfas|Kerskorfas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Upytė; llm_object: Upytė"
-  temporaliniai_duomenys: "įvykio data: 1434 m.; įvykio data: 1435 m.; įvykio data: apie 1435 m.; įvykio data: 1971 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Reikia glaudesnės sakinio formos be perteklinio įvado."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-181748
-
 ## Citatos
 
 - id: c-181748
@@ -83,8 +65,7 @@ Chronikinė datavimo formulė, rodanti trečią vasarą ar trečius metus įvyki
   citata_rodoma: "D'u- \ngošo (IV. p. 511—5121 žinoma, kad 1434 m. rugplūčio pabaigoje \nvienas Livonijos kryžiuočių dalinys buvo įsibrovęs I Upytės pavie­\ntų. o kiti du — | Žemaitija; Iš pastarųjų vienas buvo sumuštas \nŽemaičių seniūno vadovaujam ų lietuvių. Apie Livonijos magistro \nF. Kerskorfo vadovaujam ų pajėgų susijungimų Brėslaujoje su Švit­\nrigailos pajėgomis papildomų im lų nėra.\n”  „O  trečių vasarų\" — kalbama apie 1435 m\nw Geraslmas — iš Maskvos kilęs LDK stačiatikių veikėjos."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

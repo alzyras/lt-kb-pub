@@ -60,7 +60,8 @@ media_all_json: |-
 - id: c-82798
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 21-22"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 21-22."
   citata_originali: |
     Prie karinės sąjungos, 1241 m.
     Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė

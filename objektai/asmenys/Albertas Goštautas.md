@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bfa4b38646e3fac1642bc3fa"
+canonical_name: "Albertas Goštautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas Goštautas"]
+sameAs: []
+canonical_biography: "Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų."
 ---
 # Albertas Goštautas
 
@@ -58,7 +65,8 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš tautas, Vilniaus vaivada
 - id: c-176821
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 283."
   citata_originali: |
     O po kele­
     lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir

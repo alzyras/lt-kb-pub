@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2425bb957db916adae9c3fb"
+canonical_name: "Solovjovas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Solovjovas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Solovjovą mini kaip aiškinusį, kad priešistorėje buvusios dvi skirtingos tautos istoriniu laiku susiliejo."
 ---
 # Solovjovas
 
@@ -54,7 +61,8 @@ Teodoras Narbutas Solovjovą mini kaip aiškinusį, kad priešistorėje buvusios
 - id: c-174502
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 99."
   citata_originali: |
     Safaržykas teigia, jog priešistoriniais lai­
     kais buvusi viena tauta, kuri, laikui bėgant, susidvejino5.

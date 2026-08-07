@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-25671555699211f48cc85f2a"
+canonical_name: "Zöllneris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zöllneris"]
+sameAs: []
+canonical_biography: "Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunigaikščiu Andriumi Jogailos krikštynų ir vestuvių proga suruošė žygį į Lietuvą."
 ---
 # Zöllneris
 
@@ -52,7 +59,8 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 116."
   citata_originali: |
     Krikštatėviu buvo prašytas Vok. Ordino
     magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko

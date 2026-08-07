@@ -41,6 +41,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2e19c7d750ef2e560085e642"
+canonical_name: "Peterburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Peterburgas"]
+sameAs: []
+canonical_biography: "Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus. Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo. 1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peterburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos valstybingumo likučius ir nubrėžė tikslias sienas."
+place_authority: true
+historical_names: []
 ---
 # Peterburgas
 
@@ -265,7 +274,8 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-24373
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 94."
   citata_originali: |
     Lietuvos Didžiosios Kunigaikštijos
     sunaikinimas
@@ -289,7 +299,8 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-24374
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 97."
   citata_originali: |
     Lapkričio 5 dieną pasidavė Varšuva, kurią
     gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
@@ -310,7 +321,8 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-24375
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 97."
   citata_originali: |
     Užnemunė atiteko Rusijai). Lenkijos ir LDK dalybose dalyvavo ir
     Austrija: pietvakarinis LDK kampas buvo prijungtas prie Austrijos, kuris
@@ -330,7 +342,8 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-24376
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 106."
   citata_originali: |
     1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo ini-
     ciatorių, „Lietuvos laisvamanybės lizdą“. Tiesa, tuomet dviejų šio univer-
@@ -351,7 +364,8 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-24377
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 120."
   citata_originali: |
     Absoliučią tautos daugumą sudarė valstiečiai, apie 26 000 lietuvių
     dirbo pramonės įmonėse ir vertėsi amatais, inteligentijai santykinai
@@ -374,7 +388,8 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-24379
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 123."
   citata_originali: |
     Žiemą Lietuvos kaimas daug kur buvo perėjęs į vietos žmonių rankas.
     Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-
@@ -393,7 +408,8 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-74580
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 120."
   citata_originali: |
     Ekonominio augimo raidą skatino XIX a. viduryje
     pradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių
@@ -414,7 +430,8 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-74581
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 123."
   citata_originali: |
     Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-
     zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
@@ -438,7 +455,8 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-74582
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 106."
   citata_originali: |
     Tiesa, tuomet dviejų šio univer-
     siteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų
@@ -459,7 +477,8 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-74583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Ateities klausimų svarstymas apėmė svarbiausius lietuvių telkinius.
     Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-
@@ -483,7 +502,8 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-171690
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     Jaunuolis nesibaidė vyriau­
     sybinės tarnybos. Kurį laiką jis dėstytojavo Peterburgo kadetų
@@ -501,7 +521,8 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - id: c-175489
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 453."
   citata_originali: |
     Vadinasi, su­
     manymas siekia daug ankstesnius laikus nei „Lietuvių mi­

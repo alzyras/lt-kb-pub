@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fea61b0451d802115dcd0aa6"
+canonical_name: "Kolainių pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kolainių pilis","Kolainių pilis (pilis)"]
+sameAs: []
+canonical_biography: "Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele kariuomene vėl puolė, ir būtent, už Bisenos esančią Kolainių (Co­ layne) pilį."
+place_authority: true
+historical_names: []
 ---
 # Kolainių pilis (pilis)
 
@@ -61,11 +70,18 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
 <a id="claim-t-68235"></a>
 - t-002
   teiginys: "Surminas paliko Kolainių pilį po to, kai Ordino broliai dėl sąmyšio turėjo nutraukti jos apgulą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kolainiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kolainių pilis (pilis): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kolainiai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kolainių pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Kolainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-67875
+    - c-67876
 
 <a id="claim-t-68236"></a>
 - t-003
@@ -166,7 +182,8 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
 - id: c-67875
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
     išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias
@@ -185,13 +202,13 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-004
 
 - id: c-67876
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Kai pradėjo temti,
     penki šimtai brolių raitelių, ėjusių sargybą tarp Lietuvos Žemės bei šios pilies ir pailsusių
@@ -203,14 +220,17 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   citata_rodoma: "Kai pradėjo temti,\npenki šimtai brolių raitelių, ėjusių sargybą tarp Lietuvos Žemės bei šios pilies ir pailsusių\nnuo ilgo budėjimo, patraukė atgal, keldami didelį šurmulį bei triukšmą, ir taip išgąsdino\npaprastus karius, kad šie nudūmė prie laivų, manydami, jog artėja priešai. Broliai nieku\nbūdu jų negalėjo susišaukti, nors ne kartą bandė šitai padaryti. Todėl jie turėjo nutraukti\napgulą. Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad\nateityje nelaukti, kol broliai užpulsią kokią pilį."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-67877
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 219."
   citata_originali: |
     Vykstant kovoms prie
     Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele
@@ -230,7 +250,8 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
 - id: c-67878
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
   citata_originali: |
     Apie brolio Ernekės, Ragainės pilies komtūro, žūtį
       529 D.— Colayne, Jer.— Kalaine. Tiksliau kol kas nelokalizuota Kolainių pilis dažniausiai
@@ -254,7 +275,8 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
 - id: c-67879
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
   citata_originali: |
     243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
     1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
@@ -274,7 +296,8 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
 - id: c-67880
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Apie Kolainių pilies užpuolimą
 
@@ -295,7 +318,8 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
 - id: c-167757
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 219."
   citata_originali: |
     Kadangi Nemunas strateginiu atžvilgiu buvo
     svarbus tolimesnei kovai, ordinas, pasistatęs savo pilis Ragainėje

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5bdc84217fa37aa573e2f9c0"
+canonical_name: "Senvarniai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Senvarniai"]
+sameAs: []
+canonical_biography: "Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje."
+place_authority: true
+historical_names: []
 ---
 # Senvarniai
 
@@ -51,7 +60,8 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 140."
   citata_originali: |
     Trakuose,
     Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­

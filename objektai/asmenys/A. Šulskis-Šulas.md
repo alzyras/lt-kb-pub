@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-20af69d39d7bb9a1126b05c9"
+canonical_name: "A. Šulskis-Šulas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Šulskis-Šulas"]
+sameAs: []
+canonical_biography: "Šulskio-Šulo - pietrytinėje girios dalyje Subačiaus vls."
 ---
 # A. Šulskis-Šulas
 
@@ -50,7 +57,8 @@ media_all_json: |-
 - id: c-44255
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 223."
   citata_originali: |
     S. Girdžiūnui-
     Gegužiui ir kitiems LLA organizato-

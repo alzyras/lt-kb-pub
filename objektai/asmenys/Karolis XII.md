@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-34731cccce3c2dea1529f524"
+canonical_name: "Karolis XII"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis XII"]
+sameAs: []
+canonical_biography: "Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Tada Karolis XII, pasiskelbęs esąs puolamas, su visa savo kariuomene užėmė Žemaitiją, Kauną, Vilnių (1702 m.) ir nužygiavo į Lenkiją, ketindamas Augusto vietoje pastatyti kitą karalių. Švedų karalius Karolis XII, išvijęs ją iš Livonijos, įsiveržė iš pradžių į Lietuvą, o paskui ir į Lenkiją."
 ---
 # Karolis XII
 
@@ -81,7 +88,8 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
 - id: c-42072
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 142."
   citata_originali: |
     1706 m. švedai nužygiavo į
     Saksoniją ir, sumušę Augusto 11 pajėgas, privertė jį
@@ -101,7 +109,8 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
 - id: c-156074
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 142."
   citata_originali: |
     Augus-
     tas II pripažino Prūsijos kunigaikštystės

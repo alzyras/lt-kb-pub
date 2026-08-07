@@ -68,27 +68,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-13459"></a>
-- t-001
-  teiginys: "Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose."
-  atnaujinta: "2026-07-24 15:01"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Partizanų bunkeriai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Partizanų bunkeriai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1944 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie gyvenimą bunkeriuose ir atitinka citatos informaciją."
-  pagrindžia:
-    - c-16407
-
 <a id="claim-t-13460"></a>
-- t-002
+- t-001
   teiginys: "1946 m. birželį–1948 m. lapkritį partizanai sodybose ir prie jų kasė požeminius bunkerius slėptis nuo priešų per šukavimus."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
@@ -108,7 +89,8 @@ Nenurodyta
 - id: c-16407
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 210."
   citata_originali: |
     Partizanų būriai, pradėję kurtis 1944 m. vasaros pabaigoje, greitai di-
     dėjo, susidarė jų rinktinės, apygardos, sritys. Partizanai vilkėjo Lietuvos ka-
@@ -119,16 +101,15 @@ Nenurodyta
   citata_rodoma: "miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-22284
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 211."
   citata_originali: |
     Iš jų gyventojai suži-
     nodavo apie partizanų poziciją kolaborantų atžvilgiu, pasaulio politikos
@@ -146,4 +127,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

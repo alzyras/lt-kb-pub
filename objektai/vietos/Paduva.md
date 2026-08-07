@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8db734548cbb8669ccd08d58"
+canonical_name: "Paduva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Paduva"]
+sameAs: []
+canonical_biography: "Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje."
+place_authority: true
+historical_names: []
 ---
 # Paduva
 
@@ -39,7 +48,8 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
 - id: c-24350
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 58."
   citata_originali: |
     Taigi rusėnai atsiskyrė nuo Rusijos rusų. Tik XVII a. rusėnai
     skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.

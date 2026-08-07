@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-03008cfe500f6fe1aa4955b8"
+canonical_name: "Išganytojo kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Išganytojo kalnas"]
+sameAs: []
+canonical_biography: "Misionierių bažnyčios du bokštai Vorobjovo aprašyme buvo matomi virš Išganytojo kalno."
+place_authority: true
+historical_names: []
 ---
 # Išganytojo kalnas
 

@@ -50,7 +50,8 @@ Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 a
 - id: c-59548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
     21,33).

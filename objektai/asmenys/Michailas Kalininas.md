@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fa57fe61b64dec0733cd19fd"
+canonical_name: "Michailas Kalininas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Michailas Kalininas"]
+sameAs: []
+canonical_biography: "Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus į Paryžių, tos pat dienos vakare 11:45 J."
 ---
 # Michailas Kalininas
 
@@ -61,7 +68,8 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 - id: c-21885
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 187."
   citata_originali: |
     Nuo V. Molotovo rėksmingų kaltinimų
     absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune

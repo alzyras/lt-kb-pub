@@ -50,15 +50,22 @@ Nenurodyta
 <a id="claim-t-185548"></a>
 - t-001
   teiginys: "Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lietuva: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Boleslovas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad Boleslovas užpuolė Lietuvą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
-    - c-168910
+    - c-168909
 
 <a id="claim-t-185549"></a>
 - t-002
@@ -124,7 +131,8 @@ Nenurodyta
 - id: c-168909
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 445"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 445."
   citata_originali: |
     Neilgai trukus, tai yra gruodžio 2 d., Boleslovas
     pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­
@@ -144,14 +152,17 @@ Nenurodyta
   citata_rodoma: "Neilgai trukus, tai yra gruodžio 2 d., Boleslovas\npralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­\ndešimties tūkstančių kariuomene, įrengusia prie Ašme­\nnos stovyklą. Į pagalbą jam\nŽ y g im a n ta s\nsu m u ša\natėjo beveik visa Rusia, ne\nŠ v itrig a ilą\ntik ta, kuri priklausė Lietuvos\ndidžiajam kunigaikščiui, tai\nyra Polocko, Smolensko, Mstislavlio, Seversko, Kijevo,\nVolynės žemės, bet atžygiavo kariuomenė iš Maskvos,\nRiazanės, Tverės, vedama Jaroslavo, Tverės kunigaikš­\nčio Boriso brolio. Pagal slaptą susitarimą Livonija at­\nsiuntė į pagalbą kelis būrius vokiečių."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-168910
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 446"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 446."
   citata_originali: |
     Kai
     pasklido kalbos, jog Jurgis
@@ -182,13 +193,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-178621
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 446"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 446."
   citata_originali: |
     Prasidėjus mūšiui, aukščiau­
     siasis lėmė, kad nugalėjo teisioji šalis. Praradęs mū­

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-52c38137cc5e7e770c2a5d62"
+canonical_name: "Henrikas iš Veidos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas iš Veidos"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos žemės magistras, vadovavo aštuonerius metus296. Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis."
 ---
 # Henrikas iš Veidos
 
@@ -110,7 +117,8 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
 - id: c-60768
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
   citata_originali: |
     Apie vienos pilies užkariavimą ir apie Kristburgo pilį
     Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
@@ -136,7 +144,8 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
 - id: c-60769
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 97."
   citata_originali: |
     1247
     Brolis Henrikas iš Veidos, trečias Prūsijos žemės magistras, vadovavo aštuonerius

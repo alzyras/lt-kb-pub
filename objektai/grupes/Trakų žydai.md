@@ -50,7 +50,8 @@ Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiem
 - id: c-82695
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 210."
   citata_originali: |
     Kad [įsivėlusi] klaida per nerū­
     pestingumą dėl vykstančių reikalų kartais neatneštų kokios

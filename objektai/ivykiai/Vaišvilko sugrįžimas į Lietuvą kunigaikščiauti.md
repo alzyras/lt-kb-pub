@@ -84,7 +84,8 @@ Nenurodyta
 - id: c-169880
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 54."
   citata_originali: |
     Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
     Naugarduką, ten pasiėmė su savimi naugardukiečius ir

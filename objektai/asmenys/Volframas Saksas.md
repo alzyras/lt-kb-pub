@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-efd9dc9f5c6dd8fa38708cff"
+canonical_name: "Volframas Saksas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Volframas Saksas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas jam šios laimės, ėmė regzti visokiausių. Dusburgietis teigia, kad praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo susigėdęs atstojo ir nebedrįso daugiau rodytis. 234 (227)."
 ---
 # Volframas Saksas
 
@@ -47,7 +54,7 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 <a id="claim-t-60223"></a>
 - t-002
   teiginys: "Brolis Volframas Saksas metus priešinosi velnio pagundoms, kol šis nuo jo atstojo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -76,7 +83,8 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 - id: c-60854
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
   citata_originali: |
     233 (226). Apie kito brolio gyvenimą toje pačioje pilyje
     Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus
@@ -99,7 +107,8 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 - id: c-60855
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
   citata_originali: |
     Praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo
     susigėdęs atstojo ir nebedrįso daugiau rodytis.

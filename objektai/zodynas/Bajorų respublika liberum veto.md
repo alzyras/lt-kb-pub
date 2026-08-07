@@ -32,7 +32,7 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
 <a id="claim-t-21975"></a>
 - t-001
   teiginys: "Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės santvarka buvo respublika, o ne monarchija."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -79,7 +79,8 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
 - id: c-24657
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 69."
   citata_originali: |
     Vieninte-
     lis privilegijuotas visuomenės luomas – bajorai, turėję politines teises ir
@@ -99,7 +100,8 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
 - id: c-166794
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 63-64"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 63-64."
   citata_originali: |
     Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenki-
     joje ir Lietuvoje susiformavo originali luominės monarchinės santvar-

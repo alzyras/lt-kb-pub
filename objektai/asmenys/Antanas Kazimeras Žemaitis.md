@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fcfd958b2d2d0a5cbfc895b8"
+canonical_name: "Antanas Kazimeras Žemaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Kazimeras Žemaitis"]
+sameAs: []
+canonical_biography: "Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Kazimeras Žemaitis, g."
 ---
 # Antanas Kazimeras Žemaitis
 
@@ -31,7 +38,8 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
 - id: c-21587
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 266."
   citata_originali: |
     nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
     Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-91ee475a378b6a7399bbdd8c"
+canonical_name: "M. Frankovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. Frankovskis"]
+sameAs: []
+canonical_biography: "Frankovskio vadovaujamus lietuvių įtvirtinimus tarp Naujininkų, šv."
 ---
 # M. Frankovskis
 
@@ -50,7 +57,8 @@ Frankovskio vadovaujamus lietuvių įtvirtinimus tarp Naujininkų, šv.
 - id: c-41582
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 154."
   citata_originali: |
     Gen. mjr. Leontijus Bennigsenas tri-
     mis kavalerijos pulkais, remiamas kazokų

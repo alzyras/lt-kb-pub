@@ -39,26 +39,8 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
 
 ## Teiginiai
 
-<a id="claim-t-125066"></a>
-- t-001
-  teiginys: "Vasario 16 d. Santarvės šalių atstovai po ilgų derybų pripažino Klaipėdos kraštą Lietuvai."
-  atnaujinta: "2026-07-24 15:57"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Klaipėdos konvencija: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Klaipėdos konvencija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-114287
-
 <a id="claim-t-125067"></a>
-- t-002
+- t-001
   teiginys: "1939 m. pradžioje Klaipėdos konvencijos signatarai britai ir prancūzai pranešė negarantuosiantys Klaipėdos status quo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -77,7 +59,7 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
     - c-114287
 
 <a id="claim-t-183702"></a>
-- t-003
+- t-002
   teiginys: "1924 m. Paryžiuje pasirašyta Klaipėdos konvencija oficialiai pavertė Klaipėdos kraštą Lietuvos Respublikos autonomine dalimi."
   atnaujinta: "2026-06-14 10:59"
   sprendimo_priezastis: "auto"
@@ -104,7 +86,8 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
 - id: c-43265
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 215."
   citata_originali: |
     Vasario 16 d. Santarvės šalių atstovai po
     ilgų derybų pripažino Klaipėdos kraštą
@@ -119,12 +102,13 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-114287
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 181."
   citata_originali: |
     Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investici-
     joms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja... 1939 m.
@@ -138,4 +122,3 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-737a520f98328bbadd7711b6"
+canonical_name: "Aldona Bieliūnienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Aldona Bieliūnienė"]
+sameAs: []
+canonical_biography: "Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti."
 ---
 # Aldona Bieliūnienė
 
@@ -86,7 +93,8 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
 - id: c-65249
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Antrasis papildytas leidimas. Vilnius, 2011; Lietuva žemėlapiuose:
     = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė
@@ -103,7 +111,8 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
 - id: c-166730
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Vilnius, 2009; Lietuva žemėlapiuose. Sud.
     A. Bieliūnienė ir kiti. Antrasis papildytas leidimas. Vilnius, 2011; Lietuva žemėlapiuose:
@@ -119,7 +128,8 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
 - id: c-166731
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Vilnius, 2011; Lietuva žemėlapiuose:
     = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė

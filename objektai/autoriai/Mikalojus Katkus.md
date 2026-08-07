@@ -37,6 +37,13 @@ media_all_json: |-
 tags:
   - rašytojas
   - autorius
+entity_id: "ent-5bd5fa46bca03528d40a4587"
+canonical_name: "Mikalojus Katkus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Katkus","Mikalojus Katkus"]
+sameAs: []
+canonical_biography: "Mikalojus Katkus šiame tome pasirašo kaip „Balanos gadynės“ autorius. Kūrinys pristatomas kaip vaizdai iš netolimos praeities, o autoriaus parašas datuotas Ažytėnuose 1927 m. rugsėjo 25 d."
 ---
 # Mikalojus Katkus
 

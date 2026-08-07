@@ -59,7 +59,7 @@ Nenurodyta
 <a id="claim-t-66509"></a>
 - t-001
   teiginys: "Po pergalės broliai ir maldininkai grįžo namo su 1600 priešo žirgų ir kitu grobiu."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1245 m.; įvykio data: 1246 m."
@@ -104,7 +104,8 @@ Nenurodyta
 - id: c-66721
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 97."
   citata_originali: |
     Apie taikos atkūrimą tarp Sventopelko ir brolių
     Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis
@@ -130,7 +131,8 @@ Nenurodyta
 - id: c-66722
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
   citata_originali: |
     Tuo metu, kai šitai dėjosi, Sventopelkas
     sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
@@ -167,7 +169,8 @@ Nenurodyta
 - id: c-66723
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
   citata_originali: |
     Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
     jos [vyrų]

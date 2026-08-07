@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-49ff1b94d958d0cd2581a223"
+canonical_name: "Pranciškonų bažnyčia ir vienuolynas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pranciškonų bažnyčia ir vienuolynas"]
+sameAs: []
+canonical_biography: "Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras."
+place_authority: true
+historical_names: []
 ---
 # Pranciškonų bažnyčia ir vienuolynas
 
@@ -71,7 +80,8 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
 - id: c-82207
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 217."
   citata_originali: |
     11. Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
     12. Šv. Mikalojaus bažnyčia ir kapinės.

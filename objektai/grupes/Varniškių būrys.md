@@ -59,7 +59,8 @@ Paliose veikę Varniškių ir „Muškietininkų“ būrių partizanai.
 - id: c-44866
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 229."
   citata_originali: |
     Paliose veikę Varniškių ir „Muškietininkų“ būrių
 

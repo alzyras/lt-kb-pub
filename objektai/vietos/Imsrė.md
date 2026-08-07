@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-156294852bc218769d3c2ec9"
+canonical_name: "Imsrė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Imsrė"]
+sameAs: []
+canonical_biography: "Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą kartą 1259 m. prie Mituvos ir Imsrės žiočių į Nemuną (Karšuvos srityje) statėsi bendrą pilį Georgenburgą — Jurbarką."
+place_authority: true
+historical_names: []
 ---
 # Imsrė
 
@@ -60,7 +69,8 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 - id: c-33859
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 190."
   citata_originali: |
     Ordinui toliau rūpėjo per nadruvių, sūduvių ir skal­
     vių plotus rasti kelią į šiaurę, t. y. į pietų Žemaičius. Livonijos ir

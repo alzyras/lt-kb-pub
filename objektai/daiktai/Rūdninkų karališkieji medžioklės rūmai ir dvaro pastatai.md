@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-82982
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 271-272"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 271-272."
   citata_originali: |
     Per pusantros mylios nuo Rūdninkų Men-
     dzižečės* link stūksojo nuostabiai gražus šilas, Žgviždos
@@ -111,7 +112,8 @@ Nenurodyta
 - id: c-82983
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 271."
   citata_originali: |
     Vis dėlto esama vieno gana nemažo
     iš plytų ir akmens sumūryto pastato pamatų griuvėsių. Čia

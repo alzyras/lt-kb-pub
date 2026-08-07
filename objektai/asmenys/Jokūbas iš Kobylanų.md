@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a67f7ae273e79b32cc81edc"
+canonical_name: "Jokūbas iš Kobylanų"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokūbas iš Kobylanų"]
+sameAs: []
+canonical_biography: "Žygimanto Kęstutaičio pajėgos Žygimanto „lietuvių pajėgos“ (apie 5000 karių), kažkiek Lietuvos totorių, karaliaus Vladislovo Jogailaičio atsiųstas į pagalbą lenkų dalinys („800 iečių - apie 4000 karių, vadovaujamų Jokūbo iš Kobylanų)."
 ---
 # Jokūbas iš Kobylanų
 
@@ -50,7 +57,8 @@ media_all_json: |-
 - id: c-41552
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Žygimanto Kęstutaičio pajėgos
     Žygimanto „lietuvių pajėgos“ (apie 5000

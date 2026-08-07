@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c92d88d7ca09a3fba7c26cc9"
+canonical_name: "Ditrichas (Kristburgo komtūras)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas (Kristburgo komtūras)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais patraukė su šimtine brolių bei maldininkų žygin ir, apiplėšęs Pagudės žemę, pasuko namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo, pasisuko. Dusburgietis teigia, kad paimtieji į nelaisvę prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.."
 ---
 # Ditrichas (Kristburgo komtūras)
 
@@ -52,7 +59,8 @@ Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416,
 - id: c-60735
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
   citata_originali: |
     Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
     patraukė su šimtine brolių bei maldininkų žygin ir, apiplėšęs Pagudės žemę, pasuko

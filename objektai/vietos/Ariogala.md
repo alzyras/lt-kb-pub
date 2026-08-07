@@ -38,6 +38,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f2126eeca01874f28e145da4"
+canonical_name: "Ariogala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ariogala","Ariogalos"]
+sameAs: []
+canonical_biography: "Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių sodybos ir nuotykių ieškotojai keliami į riterius. 1352 m. vasarį Kniprodė smarkiai teriojo Ariogalos, Gaižuvos ir Raseinių sritis. 1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške."
+place_authority: true
+historical_names: []
 ---
 # Ariogala
 
@@ -357,7 +366,8 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
 - id: c-05710
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 185."
   citata_originali: |
     Už pagalbą bėdoje ir karališkos karūnos išrūpinimą Mindaugas
     turėjo ordinui atsilyginti. Karūnavimo metais jis užrašė Žemaičiuose
@@ -376,7 +386,8 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
 - id: c-05711
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 257."
   citata_originali: |
     Po 1348 m. iš vakarų į Pabaltijį atslinkęs didysis maras («juo­
     doji mirtis»), įprastai guldęs ketvirtadalį gyventojų, bent porai
@@ -396,7 +407,8 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
 - id: c-43321
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 241."
   citata_originali: |
     Kazimieraicio * : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES
     ) Leipalingis Armoniskis e OVolozynas Š 2 = AS ie
@@ -416,7 +428,8 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
 - id: c-163409
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 82."
   citata_originali: |
     Vaikių krašte buvo šventoji giria, ku­
     ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­
@@ -437,7 +450,8 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
 - id: c-163410
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 261."
   citata_originali: |
     (^254) **n** skyrius: valstybės iškilimas
     kus Austrijos hercogui Albrechtui II su 62 riteriais ir 2000 paprastų
@@ -458,7 +472,8 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
 - id: c-163414
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 82."
   citata_originali: |
     Baigusi kruvinus darbus, ginkluota palyda kitą die­
     ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
@@ -478,7 +493,8 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
 - id: c-168282
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 205."
   citata_originali: |
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
     nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
@@ -506,7 +522,8 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
 - id: c-168283
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 245-246"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 245-246."
   citata_originali: |
     Neatnešė ato­
     kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
@@ -544,7 +561,8 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
 - id: c-171554
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
   citata_originali: |
     Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
     tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o
@@ -562,7 +580,8 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
 - id: c-171555
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     O Lietu­
     vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
@@ -584,7 +603,8 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
 - id: c-171556
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Taip atsirado Čekiškės (Czekiszki) pa­
     vadinimas; dabar taip vadinamas miestelis. Plaukdami tolyn,

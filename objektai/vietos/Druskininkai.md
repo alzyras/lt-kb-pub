@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-95a8f5ddacd9602f54fb216a"
+canonical_name: "Druskininkai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Druskininkai"]
+sameAs: []
+canonical_biography: "O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną ir užėjo lietuviams iš kairiojo sparno, — mūsų kariuomenės būklė dar labiau pablogėjo: dalis mūsų kariuomenės buvo visai atkirsta nuo savųjų. 2) Lietuvos siena eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios, toliau vėl Nemunu ligi Beržūnės, o nuo čia."
+place_authority: true
+historical_names: []
 ---
 # Druskininkai
 
@@ -60,7 +69,8 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
 - id: c-154996
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 185."
   citata_originali: |
     Derybas apsunkino tai, jog spalio pradžioje karines bazes pagal pa-
     našias sutartis sovietai jau buvo primetę Estijai ir Latvijai. Lietuviai at-

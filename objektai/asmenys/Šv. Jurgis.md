@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ea4c54e21381eabdd455d420"
+canonical_name: "Šv. Jurgis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šv. Jurgis"]
+sameAs: []
+canonical_biography: "Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietimi smeigiantis drakoną."
 ---
 # Šv. Jurgis
 
@@ -53,7 +60,8 @@ Aprašomo ženklo kitoje pusėje buvo vaizduojamas šv. Jurgis ant žirgo, ietim
 - id: c-174376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 489"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 489."
   citata_originali: |
     Vienoje pusėje — Gediminaičių herbas Stulpai ir kaž­
     kokia neaiški raidė. Kitoje pusėje — šv. Jurgis ant žirgo; jis

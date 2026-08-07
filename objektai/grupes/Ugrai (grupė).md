@@ -46,9 +46,9 @@ Minavojama taip pat yra gudų raštuose, jog Olegui gudais valdant, būk ugrai, 
 ## Citatos
 
 - id: c-184606
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 53"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 53."
   citata_originali: |
     Ant galo savo buveinę iš Naugardo į
     Kijevą perkėlęs* 1.

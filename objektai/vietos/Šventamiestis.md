@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b36877e762321675eb2cbd65"
+canonical_name: "Šventamiestis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventamiestis"]
+sameAs: []
+canonical_biography: "Narbutas Šventamiestį Prūsuose apibūdina kaip didelę Kurko šventovę, kurioje dievo garbei degė nuolat kurstoma ugnis."
+place_authority: true
+historical_names: []
 ---
 # Šventamiestis
 
@@ -54,7 +63,8 @@ Narbutas Šventamiestį Prūsuose apibūdina kaip didelę Kurko šventovę, kuri
 - id: c-171992
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 224."
   citata_originali: |
     Skaityk straipsnius „Vaidilutės“,
     „Birutė“.

@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-63672
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
     ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai

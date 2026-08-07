@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb2864ccacfdf3b9f549c466"
+canonical_name: "Regina Koženiauskienė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Regina Koženiauskienė"]
+sameAs: []
+canonical_biography: "Regina Koženiauskienė vertė šiame leidime pateiktus eiliuotus tekstus."
 ---
 # Regina Koženiauskienė
 

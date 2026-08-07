@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9a09dd1c5dff33e8fa38fecf"
+canonical_name: "Kulautuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kulautuva"]
+sameAs: []
+canonical_biography: "« Sallinwerder ») turėjo būti viena iš Nemuno salų tarp Nevėžio žiočių ir Kulautuvos."
+place_authority: true
+historical_names: []
 ---
 # Kulautuva
 
@@ -79,7 +88,8 @@ media_all_json: |-
 - id: c-43530
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     Siekdamas didelių planų pietryčiuose, va-
     karuose Vytautas turėjo bet kokiu būdu
@@ -105,7 +115,8 @@ media_all_json: |-
 - id: c-67932
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 333"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 333."
   citata_originali: |
     (^4) **LUB, IV, 204-209 p.; CEV, 51-54 p.**
     (^5) **« Salynas » (vok. « Sallinwerder ») turėjo būti viena iš Nemuno salų

@@ -49,7 +49,8 @@ Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio 
 - id: c-82830
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 158."
   citata_originali: |
     Ten, be kita ko, pasakyta: ...habito-
     cfue respectu ad multae devotionis cons­

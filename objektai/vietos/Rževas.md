@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-707b73312609c90eb63b2f0a"
+canonical_name: "Rževas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rževas"]
+sameAs: []
+canonical_biography: "1355 m. jo garnizonai įsikūrė Rževe ir Bialoje. Nuo Lenkijos pakraščio, nuo Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos aukštupių (Rževo)."
+place_authority: true
+historical_names: []
 ---
 # Rževas
 
@@ -82,7 +91,8 @@ media_all_json: |-
 - id: c-32404
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 304."
   citata_originali: |
     Nuo Lenkijos pakraščio, nuo
     Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos
@@ -101,7 +111,8 @@ media_all_json: |-
 - id: c-68610
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 46."
   citata_originali: |
     Lietuvos valstybės dominavimas šiose te-
     Algirdas dar 1356 m. tvirtinosi Volgos ritorijose ir stiprėjanti įtaka rytuose vedė
@@ -119,7 +130,8 @@ media_all_json: |-
 - id: c-167763
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 304."
   citata_originali: |
     Per vieną šimtą metų, prieš Algirdui užmerkiant
     akis, iš, palyginti, dar nedidelės Mindaugo valstybės buvo pasida­

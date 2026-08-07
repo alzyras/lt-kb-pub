@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-630b38a06bfa191c5abaedd3"
+canonical_name: "Salys A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Salys A"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3, p. 115; Salys A. Dusburgietis teigia, kad manoma, kad vardas atėjęs iš Lietuvos (Salys A., Skalva, p. 537), bet Semboje buvusi Ragayne (GAO, p. 137, plg."
 ---
 # Salys A
 
@@ -75,7 +82,8 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
 - id: c-65432
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
   citata_originali: |
     M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
     Pirmoji.., p. 251, 257). Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
@@ -93,7 +101,8 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
 - id: c-65433
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 155."
   citata_originali: |
     asmenvardžio Ramego
     (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie. Ramingė, pr. Ramgesalus,

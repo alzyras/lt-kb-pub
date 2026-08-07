@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-909b068e1813a33ac3f42b1a"
+canonical_name: "Nežinomas Jėzuitų ordino narys"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Nežinomas Jėzuitų ordino narys"]
+sameAs: []
+canonical_biography: "Narbutas mini nežinomo jėzuito sukompiliuotą rankraštinę Bažnyčios istoriją, saugotą privataus dvarininko bibliotekoje."
 ---
 # Nežinomas Jėzuitų ordino narys
 
@@ -54,7 +61,8 @@ Narbutas mini nežinomo jėzuito sukompiliuotą rankraštinę Bažnyčios istori
 - id: c-173280
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 426"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 426."
   citata_originali: |
     Tai pačiai deivei, arba Laimai, priklausė ir Laumės (Lau-
     ma) vardas, nors kai kurie jį skiria ir laiko visiškai priešingu,

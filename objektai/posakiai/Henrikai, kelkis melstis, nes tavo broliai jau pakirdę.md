@@ -37,7 +37,7 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
 <a id="claim-t-59094"></a>
 - t-001
   teiginys: "Dusburgiečio pasakojime balsas kiekvieną naktį ragino Henriką keltis melstis, nes jo broliai jau buvo pakirdę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -60,7 +60,8 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
 - id: c-59726
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 198."
   citata_originali: |
     Tačiau brolių vėliava su savo
     sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis
@@ -85,7 +86,8 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
 - id: c-167413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Kai jis antrą kartą apie tai papasakojo žmonai,
     ši, po senovei spyriodamasi, jam nedavė laisvės stoti į vienuolyną. Po to ji kiekvieną

@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-93e2484d77d01694efc8297e"
+canonical_name: "Tartu"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tartu"]
+sameAs: []
+canonical_biography: "Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsiimtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo įkurtos ir Polocke, ir Rygoje ir Tartuose (Dorpate)."
+place_authority: true
+historical_names: []
 ---
 # Tartu
 
@@ -100,7 +109,8 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
 - id: c-32454
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 234."
   citata_originali: |
     Paskutinis Gedimino laiškas (1325.VI.2)
     yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir
@@ -116,7 +126,8 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
 - id: c-43895
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 89."
   citata_originali: |
     Suomijos įlanka, „ 5
 
@@ -136,7 +147,8 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
 - id: c-77038
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     Jėzuitai tuojau ėmė steigti visam krašte kolegijas. Tuo-
 

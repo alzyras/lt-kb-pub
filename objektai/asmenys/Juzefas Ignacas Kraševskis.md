@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c1fd8dcb5bd78921db6f0597"
+canonical_name: "Juzefas Ignacas Kraševskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juzefas Ignacas Kraševskis"]
+sameAs: []
+canonical_biography: "Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija turi būti kiekvieno piliečio lūpose, ir. Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą „Atheneum“."
 ---
 # Juzefas Ignacas Kraševskis
 
@@ -96,7 +103,8 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
 - id: c-64728
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 106."
   citata_originali: |
     Vilniuje lenkų kalba išeina devyni tomai karo in-
     žinieriaus ir istoriko Teodoro Narbuto „Lietuvių tautos istorijos“, skirtos
@@ -115,7 +123,8 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
 - id: c-173783
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 451"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 451."
   citata_originali: |
     Galima
     spėti, jog būtent ši recenzija
@@ -136,7 +145,8 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
 - id: c-179331
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 9."
   citata_originali: |
     Kaip ga­
     lima prieiti iki jos lopšio?“2.

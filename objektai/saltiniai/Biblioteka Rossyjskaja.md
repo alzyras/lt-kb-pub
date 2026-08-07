@@ -84,7 +84,8 @@ Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištr
 - id: c-174624
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 278."
   citata_originali: |
     Tačiau Nestoras IX amžiuje žinojo šį taip
     vadintą kraštą, jo gyventojus, kuriuos jis priskirdavo prie

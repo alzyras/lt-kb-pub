@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-95948b928e48de1ae77c2f10"
+canonical_name: "Mikalojus Romedanskis (Medininkų vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Romedanskis (Medininkų vyskupas)"]
+sameAs: []
+canonical_biography: "Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus Romedanskio konsekracijos aplinkybių (1427), popiežius naujam vyskupui įsakė savo priesaiką nusiųsti Gniezno arkivyskupui, jau tada įgijusiam metropolito teises į Medininkų vyskupiją."
 ---
 # Mikalojus Romedanskis (Medininkų vyskupas)
 
@@ -63,7 +70,8 @@ Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus Romedanskio konsekrac
 - id: c-32793
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 365"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 365."
   citata_originali: |
     paėmė savo globon ir uždraudė Livonijos ordinui Žemaičius užpul­
     dinėti. Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e0e61ee61e90ca5f9f5efbcd"
+canonical_name: "Benjamin W. Dwight"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Benjamin W. Dwight"]
+sameAs: []
+canonical_biography: "Jeigu tautos vertė, imant visą žmoniją, būtų matuojama kalbos grožiu, tai lietuvių tauta turėtų užimti pirmą vietą tarp Europos tautų“ Benjamin W."
 ---
 # Benjamin W. Dwight
 
@@ -50,7 +57,8 @@ Jeigu tautos vertė, imant visą žmoniją, būtų matuojama kalbos grožiu, tai
 - id: c-75385
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 128."
   citata_originali: |
     IV s k y r i u s
     LIETUVOS VALSTYBĖS

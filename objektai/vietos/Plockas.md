@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b3cd0872c30decb5ed36199b"
+canonical_name: "Plockas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Plockas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui, netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis, Plocku vadinama163. Dusburgietis teigia, kad 163 Panašiai apie Mazovijos nusiaubimą ir Plocko sudeginimą J."
+place_authority: true
+historical_names: []
 ---
 # Plockas
 
@@ -121,7 +130,8 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 - id: c-80598
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 171-172"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 171-172."
   citata_originali: |
     Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
     lenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
@@ -147,7 +157,8 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 - id: c-167576
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
   citata_originali: |
     Apie Lenkijos žemės nuniokojimą
 
@@ -173,7 +184,8 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 - id: c-175490
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
   citata_originali: |
     Tačiau Tidemanas rašo, kad
     jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės

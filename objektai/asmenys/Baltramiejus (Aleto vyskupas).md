@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-098e019a7275b6c69ba88965"
+canonical_name: "Baltramiejus (Aleto vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Baltramiejus (Aleto vyskupas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­ čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo."
 ---
 # Baltramiejus (Aleto vyskupas)
 
@@ -64,7 +71,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - id: c-60877
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
   citata_originali: |
     356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
     čionių 1324 metais

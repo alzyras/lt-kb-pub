@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c296a532418caa00b2180758"
+canonical_name: "Mykolas Zaleskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Zaleskis"]
+sameAs: []
+canonical_biography: "Dabar Veliuona priklauso dvari­ ninkui Mykolui Zaleskiui."
 ---
 # Mykolas Zaleskis
 
@@ -58,7 +65,8 @@ Dabar Veliuona priklauso dvari­ ninkui Mykolui Zaleskiui.
 - id: c-83783
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 118."
   citata_originali: |
     Tokie kalnų pavadinimai,
     pirmtakų duoti, iki šiol išlikę, iš senovės laikų perimta tra­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ddc15faa048bffc6a76dbf63"
+canonical_name: "Gedimino kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gedimino kalnas"]
+sameAs: []
+canonical_biography: "Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž."
+place_authority: true
+historical_names: []
 ---
 # Gedimino kalnas
 
@@ -51,7 +60,8 @@ Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 118."
   citata_originali: |
     Šv. Martyno bažnyčią Jogaila pastatė Aukš.
     Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž. Šv.

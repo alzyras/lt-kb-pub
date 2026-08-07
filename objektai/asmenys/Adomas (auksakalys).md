@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-49141e939c2694dfd29bc3ac"
+canonical_name: "Adomas (auksakalys)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adomas (auksakalys)"]
+sameAs: []
+canonical_biography: "Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 16 May ad diem 18 Aug."
 ---
 # Adomas (auksakalys)
 
@@ -42,7 +49,8 @@ Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 1
 - id: c-83881
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 458"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 458."
   citata_originali: |
     Be to, buvo keturi sidabriniai dubenys, užstatyti pas
     auksakalį Adomą a die 16 May ad diem 18 Aug. [nuo gegu­

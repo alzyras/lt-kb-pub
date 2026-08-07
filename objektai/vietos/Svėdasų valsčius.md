@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e3329d4d24cad1ce0b3e204a"
+canonical_name: "Svėdasų valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Svėdasų valsčius"]
+sameAs: []
+canonical_biography: "Svėdasų valsčiuje, Šimonių girioje."
+place_authority: true
+historical_names: []
 ---
 # Svėdasų valsčius
 
@@ -59,7 +68,8 @@ Svėdasų valsčiuje, Šimonių girioje.
 - id: c-40364
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 245."
   citata_originali: |
     Priešo pajėgos
 

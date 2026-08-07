@@ -106,7 +106,8 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
 - id: c-32641
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 380-381"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 380-381."
   citata_originali: |
     Penkauskas :** **_Vytautas Didysis ir jo Čekijos politika Venceliui
     mirus,_** **atsp. iš Židinio, 1930.**

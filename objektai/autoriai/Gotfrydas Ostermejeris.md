@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1e60acec9ee9e474b2b99c9b"
+canonical_name: "Gotfrydas Ostermejeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gotfrydas Ostermejeris"]
+sameAs: []
+canonical_biography: "Gotfrydas Ostermejeris buvo Karaliaučiaus universiteto profesorius ir veikalo „Mintys apie senuosius Prūsų žemės gyventojus“ autorius. Gotfrydas Ostermejeris reiškė vyrų garbinamą mėnulį, kaip romėnų Men arba Lunus; Mena, arba Luna, - tas pats šviesulys, kurio, kaip deivės, šaukiasi moterys."
 ---
 # Gotfrydas Ostermejeris
 
@@ -76,7 +83,8 @@ Gotfrydas Ostermejeris buvo Karaliaučiaus universiteto profesorius ir veikalo �
 - id: c-174525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 433."
   citata_originali: |
     Stettin, 1748.
     Turimas omenyje Karaliaučiaus universiteto
@@ -96,7 +104,8 @@ Gotfrydas Ostermejeris buvo Karaliaučiaus universiteto profesorius ir veikalo �
 - id: c-179110
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 121."
   citata_originali: |
     Statulėlės išmatavimai nežinomi*.
     Liaudies dainose pastebėtas pavadinimas Menule, taiko­

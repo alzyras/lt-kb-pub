@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d06e4d5a2f56798f0594c9e2"
+canonical_name: "Thunmannas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Thunmannas"]
+sameAs: []
+canonical_biography: "Į Vakarus nuo dešiniojo 1 Thunmann."
 ---
 # Thunmannas
 
@@ -46,7 +53,8 @@ media_all_json: |-
 - id: c-177287
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
   citata_originali: |
     Į Vakarus nuo dešiniojo
     1 Thunmann. Untersuchungen über die Geschichte einiger nor­

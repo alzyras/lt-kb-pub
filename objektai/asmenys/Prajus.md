@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a12b18bb7b93c42e58e710b1"
+canonical_name: "Prajus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Prajus"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolemėjo raštuose nubraižytu žemėlapiu."
 ---
 # Prajus
 
@@ -46,7 +53,8 @@ Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolem
 - id: c-174337
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Tai pasakoja Amia-
     nas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­

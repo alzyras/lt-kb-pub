@@ -108,7 +108,8 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
 - id: c-169667
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 545"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 545."
   citata_originali: |
     su
     i s *
@@ -139,7 +140,8 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
 - id: c-169668
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 545"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 545."
   citata_originali: |
     Si, girdi, rusė, vardu
     Elena, neatneš lietuviams daugiau laimės, nei atnešė

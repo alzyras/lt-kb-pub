@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-74b30a41f055492fb7d8f96d"
+canonical_name: "Abelis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Abelis"]
+sameAs: []
+canonical_biography: "Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužudęs jį dėl karaliaus vietos ir netrukus pats žuvęs."
 ---
 # Abelis
 
@@ -95,7 +102,8 @@ Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužud
 - id: c-57664
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232."
   citata_originali: |
     35. Apie Henriko, Danijos karaliaus, žūtį
 

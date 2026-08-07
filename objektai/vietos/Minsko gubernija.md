@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e62e1ae32f28d5c5f617b20b"
+canonical_name: "Minsko gubernija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Minsko gubernija"]
+sameAs: []
+canonical_biography: "Istorinė Lietuva - tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ - tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą."
+place_authority: true
+historical_names: []
 ---
 # Minsko gubernija
 

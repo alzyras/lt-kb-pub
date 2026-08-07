@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-63447
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 172."
   citata_originali: |
     Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei
     libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis
@@ -96,7 +97,8 @@ Nenurodyta
 - id: c-63448
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 173."
   citata_originali: |
     Tiems, kurie, išsižadėję stabmeldystės, priima Kristaus tikėjimą, broliai teikia štai šias
     malones. Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei

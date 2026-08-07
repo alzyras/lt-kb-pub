@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-68cce8c1976046ebf54c99a3"
+canonical_name: "Albina Neifaltienė-Pušelė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albina Neifaltienė-Pušelė"]
+sameAs: []
+canonical_biography: "Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušelė“. Mūšyje narsiai kovėsi ir junginio vado žmona Albina Neifaltienė-Pušelė, kuri taiklia rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių, tačiau ir pati buvo priešo kulkos pakirsta."
 ---
 # Albina Neifaltienė-Pušelė
 
@@ -46,7 +53,8 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
 - id: c-44260
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 227."
   citata_originali: |
     Mūšyje narsiai kovėsi ir junginio vado
     žmona Albina Neifaltienė-Pušelė, kuri taik-
@@ -68,7 +76,8 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
 - id: c-167112
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 227."
   citata_originali: |
     Panaudojus
     granatas ir sutelktą ugnį partizanams su

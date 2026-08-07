@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e71eeb06d05f58a141e0a964"
+canonical_name: "Konstantinas Ostrogiškis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konstantinas Ostrogiškis"]
+sameAs: []
+canonical_biography: "Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę ir įkurdino bazilijonus. Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje. Aleksandro pasiųstiems lengviesiems daliniams į Smolenską vadovavo Konstantinas Ostrogiškis."
 ---
 # Konstantinas Ostrogiškis
 
@@ -120,14 +127,21 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
 <a id="claim-t-184759"></a>
 - t-005
   teiginys: "Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konstantinas Ostrogiškis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=83"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinas Ostrogiškis\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168118
+    - c-168120
 
 <a id="claim-t-193396"></a>
 - t-006
@@ -169,7 +183,8 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
 - id: c-165127
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 282."
   citata_originali: |
     Beveik tuo
     pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką
@@ -187,7 +202,8 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
 - id: c-166946
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 56."
   citata_originali: |
     Čia gotika tapo
     net ir stačiatikių ar būsimųjų graikų katalikų cerkvių stiliumi.
@@ -208,7 +224,8 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
 - id: c-168116
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 558"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 558."
   citata_originali: |
     Kai Ivanas svarstė su
     pasiuntiniais minėtus dalykus, jo pulkai jau buvo pa­
@@ -239,7 +256,8 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
 - id: c-168118
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 607"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 607."
   citata_originali: |
     Vis dėlto
     vienas kitas slaptai perbėgo į lietuvių stovyklą, be ki­
@@ -261,12 +279,12 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-005
 
 - id: c-168119
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 630"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 630."
   citata_originali: |
     Štai todėl upę ryžtingai įveikė ir lenkų
     samdytinė raitija, vedama Jono Sverčovskio, o po
@@ -291,7 +309,8 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
 - id: c-168120
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 631"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 631."
   citata_originali: |
     Į nelaisvę pakliuvo
     maskvėnų karo vadas Čeliadninas ir dešimt kitų žy­
@@ -306,14 +325,17 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   citata_rodoma: "Į nelaisvę pakliuvo\nmaskvėnų karo vadas Čeliadninas ir dešimt kitų žy­\nmių didikų, daug dūmos narių ir du tūkstančiai bajo­\nrų. Surengęs stovykloje kareiviškas pamaldas ir pa­\ndėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis\nsuskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo­\nniasdešimt žymiausių bajorų, išsiuntė juos karaliui su\nlaišku apie pergalę. Kunigaikštis Vasilijus, gavęs ži­\nnią apie pralaimėjimą, paliko prie Smolensko savo ka­\nriuomenę ir persigandęs pabėgo į Maskvą."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-176120
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 560"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
   citata_originali: |
     Išvengė nelaisvės ar
     mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va­

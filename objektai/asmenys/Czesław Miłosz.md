@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bad030236fa7239da472883c"
+canonical_name: "Czesław Miłosz"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Czesław Miłosz"]
+sameAs: []
+canonical_biography: "lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz). Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laureato, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius."
 ---
 # Czesław Miłosz
 
@@ -78,7 +85,8 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 - id: c-21640
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 15."
   citata_originali: |
     tuvių kalba. Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
     tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu
@@ -98,7 +106,8 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 - id: c-73471
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265-266"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265-266."
   citata_originali: |
     Nobelio premijos laureatu bio-
     chemijos srityje 1982 m. tapo Želvoje gimęs Aaron Klug (Aronas Kliugas,

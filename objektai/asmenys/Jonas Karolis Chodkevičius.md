@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-080ad83e26103fef9f88c3ad"
+canonical_name: "Jonas Karolis Chodkevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Karolis Chodkevičius"]
+sameAs: []
+canonical_biography: "Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje), turinti 3 tūkst."
 ---
 # Jonas Karolis Chodkevičius
 
@@ -56,7 +63,8 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
 - id: c-21738
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 86."
   citata_originali: |
     1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
     Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
@@ -72,9 +80,9 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - id: c-184873
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 152"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 152."
   citata_originali: |
     Sudėtingiau būdavo, kai tekdavo patirti kariuomenės dalinių smurtą. 1608 m. Kau-
     no miesto tarybos posėdyje, dalyvaujant Lietuvos etmono Jono Karolio Chodkevičiaus

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a888b8988e606b5fabaafa0"
+canonical_name: "Charonas iš Lampsako"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Charonas iš Lampsako"]
+sameAs: []
+canonical_biography: "Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagistis) vardu. Charonas iš Lampsako dar vadinamas Szwintestix, Szwaixtiks. Charonas iš Lampsako buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima."
 ---
 # Charonas iš Lampsako
 
@@ -49,27 +56,42 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 <a id="claim-t-190254"></a>
 - t-002
   teiginys: "Charonas iš Lampsako dar vadinamas Szwintestix, Szwaixtiks."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lasickis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Charonas iš Lampsako: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lasickis: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Charonas iš Lampsako\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173146
+    - c-173137
 
 <a id="claim-t-190261"></a>
 - t-003
   teiginys: "Charonas iš Lampsako sukeldavęs tą griausmą, kuris pasigirsta ore trenkus perkūnui."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Japonai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Charonas iš Lampsako: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Japonai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Charonas iš Lampsako\" parinktas kaip owner_note_path. Targetas \"Japonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
+    - c-173144
     - c-179105
 
 <a id="claim-t-190263"></a>
@@ -223,7 +245,7 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 <a id="claim-t-197286"></a>
 - t-016
   teiginys: "Charonas iš Lampsako buvo pripažinta deive."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -279,7 +301,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-173135
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 92."
   citata_originali: |
     Pasak Lasickio, jis buvo žinomas Aukštėjo Visagisčio (Aivc-
     lejas Wissagistis) vardu. Iš šio vardo prasmės pastebime, kad
@@ -298,7 +321,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-173137
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 100."
   citata_originali: |
     Pasak
     kronikininkų, jis dar vadinamas Szwintestix, Szwaixtiks*. Anot
@@ -312,14 +336,17 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   citata_rodoma: "Pasak\nkronikininkų, jis dar vadinamas Szwintestix, Szwaixtiks*. Anot\nKsavero Bogušo, -  Jauczobobis B. Mūsų tyrimais, -  Lėlius (Lė­\ntus). Lasickis pažįstąjį Gabijos (Gabie) vardu ir pateikia tokių\nduomenų apie jį: „Kai vasara Šlapia ir sunku išdžiovinti javus\nlauke, juos džiovina jaujose ir, nusilenkdami deivei Gabijai,\nmaldauja jos šitokiais žodžiais: „Gabija, dievaite, pakelk garą,\nneleisk kibirkščių ! “ (Gabie Diewajte, pakielk garu, nie lajsk kir-\nbvctu)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-173139
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     1414 metais
     kunigaikštis Vytautas, gyvendamas Veliuonos pilyje, administ­
@@ -340,7 +367,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-173144
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 163."
   citata_originali: |
     Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­
     tų gongais.
@@ -351,14 +379,17 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   citata_rodoma: "Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­\ntų gongais.\nVarpelis (WarpeJis)\nAido, sklindančio ore, dievaitis. Lasickis pasakoja, kad, se­\nnovės lietuvių nuomone, jis sukeldavęs tą griausmą, kuris pa­\nsigirsta ore trenkus perkūnui."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-173146
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
   citata_originali: |
     Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­
     nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek
@@ -375,14 +406,14 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-004
     - t-016
 
 - id: c-177042
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 93."
   citata_originali: |
     Vokiška rankraštinė J. E R. kronika, apie kurią papasako­
     sime žemiau, minėdama šio dievo šventyklą Vilniuje, nurodo
@@ -402,7 +433,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-177043
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 107."
   citata_originali: |
     Kriukis (Krugis)
     Kalvių dievas arba kažkokia antikinio Vulkano liekana; jis,
@@ -425,7 +457,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-177045
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 140."
   citata_originali: |
     Atikoje Krono šventė buvo švenčiama Krono garbei he-
     katombajono (Hekatombeon) mėnesį, kurį anksčiau vadino
@@ -448,7 +481,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-177046
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 145."
   citata_originali: |
     Valgina (Walgina)
     Deivė, globojanti naminius gyvulius jų tuklumo bei tinka­
@@ -466,7 +500,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-177047
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 147."
   citata_originali: |
     Austėja (Austheja)
     Deivė, bičių ir bitininkystės globėja. Jos buvo šaukiamasi
@@ -485,7 +520,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-179099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 34."
   citata_originali: |
     Viduryje erd­
     vios trobos arba klojime statydavo kėdutę arba aukštą kilno­
@@ -508,7 +544,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-179100
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
   citata_originali: |
     Straipsnyje „Stabai“ pamatysime tam tikrą to dievo pa­
     veikslą. Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
@@ -527,7 +564,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-179101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 125."
   citata_originali: |
     Nuo kojų iki pusės kūną gaubia tiršti debesys, tarytum
     pati kiltų su jais. Jeigu šis paminklas nėra iš stabmeldystės lai­
@@ -550,7 +588,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-179102
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 141."
   citata_originali: |
     Todėl kaimiečiai, matydami naktį krentantį lyg žvaigždė
     ugninį meteorą, sako: kas nors mirė. Ryškiausios žvaigždės ir
@@ -571,7 +610,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-179103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 146."
   citata_originali: |
     Budintoja (Budintoja)
     Budėjimui prielanki deivė, pratusi reikiamu momentu pa­
@@ -589,7 +629,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-179104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
   citata_originali: |
     Mirė maždaug prieš 1220
     metus. Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa­
@@ -606,7 +647,8 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
 - id: c-179105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 162."
   citata_originali: |
     Varpelis (WarpeJis)
     Aido, sklindančio ore, dievaitis. Lasickis pasakoja, kad, se­

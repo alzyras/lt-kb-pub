@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-144d571f0d20ebd8844ef6a1"
+canonical_name: "Volynija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Volynija"]
+sameAs: []
+canonical_biography: "Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntinius, kad šis grįžtų į Lietuvą, žadėdamas jam sugrąžinti jo tėviškę ir siūlydamas dar pridėti Volyniją su Lucku. Jogaila, norėdamas iš sa­ vo pusės tą blogą įspūdį šiek tiek sušvelninti, atidavė Vytautui Volyniją su Lucko ir Vladimiro kunigaikštijomis. Dvi iš jų Vytauto ir Jogailos buvo įkurtos pačio­ je Lietuvoje — tai Vilniaus ir Žemaičių arba Medininkų vysku­ pijos, kurios apėmė didelius Aukštaitijos, Žemaitijos ir Sūda- 119 vijos plotus; trečią Vytautas įkūrė Volynijoje (Vladimiro) ir ketvirtą."
+place_authority: true
+historical_names: []
 ---
 # Volynija
 
@@ -154,7 +163,8 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 269."
   citata_originali: |
     Kroku­
     vos pirkliams Vytautas (1403) užtikrino visoje savo valstybėje
@@ -180,7 +190,8 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 52."
   citata_originali: |
     Po šito įvykio Vytautas negalėjo nesusimąstyti
     ir nepareikšti savo nepasitenkinimo. Jogaila, norėdamas iš sa­
@@ -203,7 +214,8 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 48."
   citata_originali: |
     Nors ant savo pus­
     brolio jisai geros širdies ir neturėjo, ir pats už jo draugiškumą
@@ -226,7 +238,8 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 257."
   citata_originali: |
     Vytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė
     didelis žemvaldys, paveldėdamas didž. kunigaikščiui priklau­
@@ -245,9 +258,9 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - t-003
 
 - id: c-184467
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 530"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 530."
   citata_originali: |
     Taip nudraudęs Gediminas kryžėjus sukos su
     visa galia ant gudų, kurie seniai jau ermavos ir lie­
@@ -272,9 +285,9 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - t-006
 
 - id: c-184468
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 659"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 659."
   citata_originali: |
     Veltui
     nori šiandien tūli neprieteliai Lietuvos ir Žemaičių

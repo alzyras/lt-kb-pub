@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8e023782b3d5d034e395d3e2"
+canonical_name: "Holmas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Holmas"]
+sameAs: []
+canonical_biography: "1247 metais jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o Narbutas rašo, kad tas kraštas buvo labai nuniokotas."
+place_authority: true
+historical_names: []
 ---
 # Holmas
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-175644
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     Ne
     viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-58f14f4a02731a3605b10233"
+canonical_name: "Ričardas II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ričardas II"]
+sameAs: []
+canonical_biography: "Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu Ričardas II, ir prie Vilniaus bu­ vojo ne kas kitas, tik Henrikas Lan­ kasteris, pirm Derbio grafas, vėliau žinomas kunigaikščio Herfordo var­ du, Jono de Gando, Lankasterio ku­. Po devynerių metų, paveldėjęs pagal tėvą Lankasterio kunigaikščio titulą, nu­ vertė nuo sosto Ričardą ir pats vieš­ patavo, pasivadinęs Henriku IV."
 ---
 # Ričardas II
 
@@ -78,7 +85,8 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
 - id: c-83549
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 136."
   citata_originali: |
     Tas Derbio grafas, būdamas kara­
     liaus priešininkų pusėje, išvyko iš
@@ -102,7 +110,8 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
 - id: c-83550
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 136."
   citata_originali: |
     Strijkovskis apsirinka nurody­
     damas, esą Lankasteris, Anglijos ka­

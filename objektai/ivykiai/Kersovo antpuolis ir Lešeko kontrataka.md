@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-62859
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį
 

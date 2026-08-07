@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-285e4b764191a1c4691723e2"
+canonical_name: "Alkuskų kasykla"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alkuskų kasykla"]
+sameAs: []
+canonical_biography: "Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37."
+place_authority: true
+historical_names: []
 ---
 # Alkuskų kasykla
 
@@ -49,7 +58,8 @@ Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vi
 - id: c-82146
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 294."
   citata_originali: |
     Ten jų reikėjo daugybės ir visokių. Alavas ir varis iš
     Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c49b8ce8235b43aad8351c1f"
+canonical_name: "Fabianas (Varmės vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fabianas (Varmės vyskupas)"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Fabianas (Varmės vyskupas)
 
@@ -64,7 +71,8 @@ Nenurodyta
 - id: c-83645
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 390"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 390."
   citata_originali: |
     ## Puslapis 390
 

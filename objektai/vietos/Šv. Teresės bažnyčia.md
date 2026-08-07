@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b9ed00b386e3de3cd3aa0524"
+canonical_name: "Šv. Teresės bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Teresės bažnyčia"]
+sameAs: []
+canonical_biography: "Kai kurie istorikai Šv. Teresės, arba Aušros Vartų, bažnyčią priskiria Constantino Tencalli, o ją karmelitams XVII a. II ketvirtyje pastatydino Steponas Kristupas Pacas."
+place_authority: true
+historical_names: []
 ---
 # Šv. Teresės bažnyčia
 

@@ -60,7 +60,8 @@ Dusburgietis teigia, kad lites ac res gestae inter Polonos et Ordinemque crucife
 - id: c-61779
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 266-267"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266-267."
   citata_originali: |
     Lites ac res gestae inter Polonos et Ordinemque cruciferorum.— T. 1.— Posnaniae,
 

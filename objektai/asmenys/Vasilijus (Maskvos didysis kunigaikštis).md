@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-30d7d2f27fa3c04ec13a4d27"
+canonical_name: "Vasilijus (Maskvos didysis kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vasilijus (Maskvos didysis kunigaikštis)"]
+sameAs: []
+canonical_biography: "Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigaikštienės su vaikais lankymasis Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą."
 ---
 # Vasilijus (Maskvos didysis kunigaikštis)
 
@@ -51,7 +58,8 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 - id: c-41466
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     Prieš mūšį
 
@@ -78,7 +86,8 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 - id: c-167153
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     Kafos apy-
     linkės buvo pavestos valdyti į Lietuvos

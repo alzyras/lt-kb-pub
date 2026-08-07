@@ -83,7 +83,8 @@ Nenurodyta
 - id: c-09933
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 299"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 299."
   citata_originali: |
     Tuo tarpu paimtuosius neprietelius karėj, užvis vokiečius krikščionis, smarkiai smarkesniai galavo
         žemyn ar sunkiais darbais lig smerčio novijo^1344 : kaipogi, prie girnų prikalę, liepė jiems tuoįtimpos

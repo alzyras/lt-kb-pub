@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f9c79b8fb644d44d6fe2c5d2"
+canonical_name: "Prūsijos vyskupas Kristijonas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Prūsijos vyskupas Kristijonas"]
+sameAs: []
+canonical_biography: "Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas iš dingusios Prūsijos vyskupo Kristijono kronikos."
 ---
 # Prūsijos vyskupas Kristijonas
 
@@ -55,7 +62,8 @@ Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas i
 - id: c-173333
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 464"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 464."
   citata_originali: |
     Vilniaus miesto senovinis herbas
     41 pav. Prūsų tautinė vėliava, vaizduojanti tris dievus - Poklių,

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-48358a2fa57420eddf020806"
+canonical_name: "Boguslavas Bousevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boguslavas Bousevičius"]
+sameAs: []
+canonical_biography: "Apie 1520 m. Boguslavas Bousevičius, Rodūnios vėliavininkas, buvo Bousevičių giminei priklausiusios žemės tėvonis."
 ---
 # Boguslavas Bousevičius
 
@@ -65,7 +72,8 @@ Apie 1520 m. Boguslavas Bousevičius, Rodūnios vėliavininkas, buvo Bouseviči�
 - id: c-173019
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
   citata_originali: |
     Pasak vietos padavimo, tame kape
     palaidotas kažkoks lietuvių didikas, vadas (Wada), vardu Bou-

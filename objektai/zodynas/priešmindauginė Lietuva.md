@@ -63,7 +63,8 @@ Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę š
 - id: c-59551
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
     (t. y. 1209— 1210 m.)22. Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus

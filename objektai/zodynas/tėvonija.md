@@ -52,7 +52,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 <a id="claim-t-22336"></a>
 - t-002
   teiginys: "Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -168,7 +168,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - id: c-25024
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-
     ti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.
@@ -189,7 +190,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - id: c-25025
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 46."
   citata_originali: |
     laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
     naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
@@ -210,7 +212,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - id: c-166875
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės
     taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo
@@ -230,7 +233,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - id: c-166876
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 45-46."
   citata_originali: |
     Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
     išteklius. Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gy-
@@ -257,7 +261,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - id: c-168000
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 346."
   citata_originali: |
     Todėl ėmė tartis su rusų didikais, kokiu būdu galima
     būtų užimti Rusią, iš kur ga-
@@ -284,7 +289,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - id: c-168001
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 557"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 557."
   citata_originali: |
     Juk jis įsakęs Vilniaus vys­
     kupui Vaitiekui Taborui ir
@@ -318,7 +324,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - id: c-170480
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 43."
   citata_originali: |
     4. APIE PALEMONO VAIKAIČIUS KERNIU IR GIMBUTĄ
     IR VOKIEČIU ĮSIGALĖJIMĄ LATVIŲ 2EMEJE

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b64638e6a096cb0a807b761d"
+canonical_name: "Neidenburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Neidenburgas"]
+sameAs: []
+canonical_biography: "Kitame žygyje iš Neidenburgo Kęstutis parsigabeno 800 vyrų, kurie, anot Wigando, labiau troškę mirti negu būti lietuvių nelaisvėje^24."
+place_authority: true
+historical_names: []
 ---
 # Neidenburgas
 
@@ -58,7 +67,8 @@ Kitame žygyje iš Neidenburgo Kęstutis parsigabeno 800 vyrų, kurie, anot Wiga
 - id: c-33968
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 260."
   citata_originali: |
     1376
     m. vasarą Kęstutis, Algirdas ir šio sūnus Skirgaila stipriai nuteriojo

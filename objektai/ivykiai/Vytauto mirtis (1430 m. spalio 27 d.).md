@@ -134,7 +134,8 @@ Nenurodyta
 - id: c-04920
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 381."
   citata_originali: |
     Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa-
     kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
@@ -151,7 +152,8 @@ Nenurodyta
 - id: c-04921
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 381."
   citata_originali: |
     Pagal Dlugošo idilišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo-
     gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.
@@ -167,7 +169,8 @@ Nenurodyta
 - id: c-67071
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 160."
   citata_originali: |
     Mirties priežastį vieni šaltiniai nurodo votį ant pe-
     ties, kiti susitrenkimą. Suvažiavusių į karūnaciją svečių akivaiz-

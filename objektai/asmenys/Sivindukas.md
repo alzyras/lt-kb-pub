@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e134eaaed3c9b798ea5ecad4"
+canonical_name: "Sivindukas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sivindukas"]
+sameAs: []
+canonical_biography: "Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos valdovo dvaro pulko, dalyvavo ir totoriai, vadovaujami murzos Sivinduko, kunigaikščio Madyko sūnaus."
 ---
 # Sivindukas
 
@@ -51,7 +58,8 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
 - id: c-44510
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 82."
   citata_originali: |
     Kai kurių šiuolaikinių istorikų ver-
     tinimu, tai labai padidintas skaičius.

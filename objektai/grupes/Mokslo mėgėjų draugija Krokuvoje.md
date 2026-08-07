@@ -69,7 +69,8 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
 - id: c-01658
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 466"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 466."
   citata_originali: |
     Bet tuo pačiu metu va-
     karų Europoje iš Rugio, o
@@ -98,7 +99,8 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
 - id: c-166313
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 466"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 466."
   citata_originali: |
     Kai Lesingas,
     Herderis ir Goethė parodė

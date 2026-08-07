@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8249ccfc8616abd8689ea9e6"
+canonical_name: "Jarmerikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jarmerikas"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiveržė į slavų kraštą ir sumušė venedų karalių Skalką. Narbuto pasakojime Jarmerikas pavergė slavų kraštą, įsiveržė į Prūsiją, užgrobė Sembą ir Kuršą žiauriai engdamas žmones."
 ---
 # Jarmerikas
 
@@ -76,7 +83,8 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
 - id: c-174066
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
   citata_originali: |
     Tuomet ir danų karalius Helgė kariavo su sla­
     vais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­
@@ -96,7 +104,8 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
 - id: c-174067
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
   citata_originali: |
     Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
     40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­

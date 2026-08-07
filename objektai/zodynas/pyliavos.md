@@ -117,7 +117,8 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
 - id: c-24948
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 211."
   citata_originali: |
     miestelius naikintos vietos įgulos, valsčiaus dokumentai, mobilizacijos
     sąrašai, pyliavų žiniaraščiai, išlaisvinami suimtieji, nušaunami uolūs oku-
@@ -141,7 +142,8 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
 - id: c-24949
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 215."
   citata_originali: |
     dojo samdomąjį darbą, turėjo žemės ūkio mašinų (kuliamųjų, traktorių,
     variklių), malūnų, lentpjūvių, nuomojo kitiems valstiečiams gyvulius ar
@@ -161,7 +163,8 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
 - id: c-95104
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 210-211"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 210-211."
   citata_originali: |
     1944–1946 m. susidarė dideli, net iki
     100 kovotojų partizanų būriai – iš viso apie 30 tūkst. vyrų, kurie kontro-

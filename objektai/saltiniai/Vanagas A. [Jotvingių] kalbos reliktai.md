@@ -51,7 +51,8 @@ Dusburgietis teigia, kad vanagas A.
 - id: c-61970
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 275."
   citata_originali: |
     Vanagas A. [Jotvingių] kalbos reliktai.— MG, 1974, Nr. 2, p. 19—21.
   citata_rodoma: "Vanagas A. [Jotvingių] kalbos reliktai.— MG, 1974, Nr. 2, p. 19—21."

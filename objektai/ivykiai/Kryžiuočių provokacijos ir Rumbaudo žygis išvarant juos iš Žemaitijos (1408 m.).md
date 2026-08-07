@@ -69,7 +69,7 @@ Nenurodyta
 <a id="claim-t-185596"></a>
 - t-002
   teiginys: "Kryžiuočiai Ragainėje užpuolė pagal sutartį gyvenusius lietuvių pirklius, vienus nužudė, o iš kitų atėmė turtą."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -109,7 +109,8 @@ Nenurodyta
 - id: c-168956
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 370."
   citata_originali: |
     Norėdamas palengvinti nuniokotos tėvynės dalią,
     Jogaila įsakė pakrauti visokiais grūdais dvidešimt di­
@@ -136,7 +137,8 @@ Nenurodyta
 - id: c-168957
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 370."
   citata_originali: |
     Užgrobę visus grūdus,
     J ie su daro k elia s pro-
@@ -165,7 +167,8 @@ Nenurodyta
 - id: c-168958
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 370."
   citata_originali: |
     Kai kara­
     lius, pasiuntęs žygūną, parei­

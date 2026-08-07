@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-30be3b4ce51fcf4c301d8448"
+canonical_name: "Palanga"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Palanga"]
+sameAs: []
+canonical_biography: "Šia sutartim Švitrigaila sutiko atiduoti kryžiuočiams Palangą ir trejetą mylių pajūrio ruožo."
+place_authority: true
+historical_names: []
 ---
 # Palanga
 
@@ -163,7 +172,7 @@ media_all_json: |-
 <a id="claim-t-194741"></a>
 - t-008
   teiginys: "Mat ant švento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki tose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau goma mergelių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -171,7 +180,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-175150
+    - c-177137
 
 <a id="claim-t-194742"></a>
 - t-009
@@ -191,7 +200,8 @@ media_all_json: |-
 - id: c-175145
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
   citata_originali: |
     Port morski w litewskiej czystej mowie nazywa się Langas
     mariu, okno morza, otwor, przez ktory možna pušcič się na mor-
@@ -213,7 +223,8 @@ media_all_json: |-
 - id: c-175146
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 109."
   citata_originali: |
     Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
     vietininkus, nebenorėdami daugiau būti vokiečių val­
@@ -237,7 +248,8 @@ media_all_json: |-
 - id: c-175147
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Zigmantą Sierakauską,
 
@@ -259,7 +271,8 @@ media_all_json: |-
 - id: c-175148
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 104."
   citata_originali: |
     Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
     na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
@@ -278,7 +291,8 @@ media_all_json: |-
 - id: c-175149
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 367."
   citata_originali: |
     Teoretiškai
     jos buvo siekusios Žemaičių valdžioje esančių Minijos aukštupių.
@@ -298,7 +312,8 @@ media_all_json: |-
 - id: c-175150
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 225."
   citata_originali: |
     Šias smulkmenas aptarsime vėliau atskiruose straips­
     niuose; dabar kalbėsime apie patį šventosios ugnies garbinimą.
@@ -314,12 +329,12 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-008
 
 - id: c-175151
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 514."
   citata_originali: |
     Tuo tarpu
     miškuose, prikirtę medžių, suvertę juos kaip papuolė į
@@ -344,7 +359,8 @@ media_all_json: |-
 - id: c-177137
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 115."
   citata_originali: |
     Strijkov­
     skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­
@@ -356,14 +372,17 @@ media_all_json: |-
   citata_rodoma: "Strijkov­\nskis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­\nbas, aiškiai mini ją buvus panašia žyne, arba vestale. Mat ant\nšvento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki­\ntose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau­\ngoma mergelių. Jos visuotinai buvo vadinamos vaidilutėmis,\nlietuviškai Wejdalotenie."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-177138
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Duomenų apie tai mums
     paliko Strijkovskis.

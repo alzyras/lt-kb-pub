@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-25e35aac9b9dd2420877d952"
+canonical_name: "Lebedevas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lebedevas"]
+sameAs: []
+canonical_biography: "Pulko vadas Lebedevas, sužinojęs apie Jiezno apsupimą ir pamatęs artėjančius lietuvių husarus, nedelsdamas pasitraukė į Stakliškes."
 ---
 # Lebedevas
 
@@ -50,7 +57,8 @@ Pulko vadas Lebedevas, sužinojęs apie Jiezno apsupimą ir pamatęs artėjanči
 - id: c-41578
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 179."
   citata_originali: |
     sustojus Pikelionyse paaiškėjo, kad iš
     daugiau nei 600 Jiezne buvusių raudo-

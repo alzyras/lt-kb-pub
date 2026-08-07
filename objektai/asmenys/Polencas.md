@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-30e0ab9787e673432b5a97b0"
+canonical_name: "Polencas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Polencas"]
+sameAs: []
+canonical_biography: "Narbutas Polencą mini kaip liuteronų vyskupą, kurio ir Pauliaus Sprito Karaliaučiaus bažnyčios Agenda liudijo Pergrubei skirtas apeigas iki 1530 m."
 ---
 # Polencas
 
@@ -65,7 +72,8 @@ Narbutas Polencą mini kaip liuteronų vyskupą, kurio ir Pauliaus Sprito Karali
 - id: c-173084
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
   citata_originali: |
     Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
     čerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­

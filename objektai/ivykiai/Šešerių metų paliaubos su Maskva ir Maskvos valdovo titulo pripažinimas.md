@@ -120,7 +120,8 @@ Nenurodyta
 - id: c-168905
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 650"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 650."
   citata_originali: |
     Pirmoji pasiuntinybė patraukė į Možaiską
     tik tada, kai gavo žinią, jog karaliaus legatai Smo­
@@ -141,7 +142,8 @@ Nenurodyta
 - id: c-168906
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 651"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 651."
   citata_originali: |
     Sutvarkęs šį reikalą, ka-
     Su m a sk v ė n a is dera-
@@ -177,7 +179,8 @@ Nenurodyta
 - id: c-178614
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 650"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 650."
   citata_originali: |
     Mat,
     kai karalius Žygimantas tris kartus nusiskundė, pasiųs­

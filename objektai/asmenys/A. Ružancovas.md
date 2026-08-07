@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0c537840f0af3d154c1a30a2"
+canonical_name: "A. Ružancovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Ružancovas"]
+sameAs: []
+canonical_biography: "Ružancovo vadovaujama „Jiezno ypatingoji rinktinė“, sudaryta iš 3 kuopų su 4 kulkosvaidžiais (vienas iš kulkosvaidžių buvo įkeltas į Jiezno bažnyčios bokštą)."
 ---
 # A. Ružancovas
 
@@ -50,7 +57,8 @@ Ružancovo vadovaujama „Jiezno ypatingoji rinktinė“, sudaryta iš 3 kuopų 
 - id: c-44250
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 178."
   citata_originali: |
     Vasario 11 d. Jiezne buvusias bolše-
     vikų pajėgas papildė 7-ojo šaulių pulko

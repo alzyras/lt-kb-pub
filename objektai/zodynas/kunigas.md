@@ -77,7 +77,8 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - id: c-34161
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 118."
   citata_originali: |
     Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII
     amž.
@@ -98,7 +99,8 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - id: c-34162
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 118."
   citata_originali: |
     giminės apgyventa ir sutvirtinta kalva, vėliau virto tikra pilimi.
     Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar

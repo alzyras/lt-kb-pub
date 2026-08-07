@@ -61,7 +61,8 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
 - id: c-67369
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 211."
   citata_originali: |
     Lietuvos delegatai karštai rėmė Aleksandro kandida-
     tūrą. Lenkų reikalaujami, jie sutiko pasirašyti naują aktą,
@@ -82,7 +83,8 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
 - id: c-67370
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 239."
   citata_originali: |
     Lenkai šitokiu lietuvių siūlomu projektu pasipiktino. Jie rei-
     kalavo derybų pagrindui 1501 m. Melniko ir 1564 m. Varšuvos re-
@@ -99,7 +101,8 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
 - id: c-67372
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 211."
   citata_originali: |
     Lenkų reikalaujami, jie sutiko pasirašyti naują aktą,
     normuojantį Lietuvos ir Lenkijos santykius; juo turėjo įvykti

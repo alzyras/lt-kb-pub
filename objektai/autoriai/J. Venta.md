@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ced49715d5090030a106b8db"
+canonical_name: "J. Venta"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Venta"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra arba jos 1-oji 1326 m. redakcija (2-oji 1326 m. ir 3-oji 1326—1330 m. redakcijos neišliko), arba neišlikusios 1-osios 1326 m. redakcijos cenzūruotas antrininkas94. Dusburgietis teigia, kad 94 Wenta J. Kronika..., s. 121—132. Dusburgietis teigia, kad wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice oliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132."
 ---
 # J. Venta
 
@@ -57,7 +64,7 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
 <a id="claim-t-62621"></a>
 - t-002
   teiginys: "J. Venta parašė darbą „Kronika“."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -67,7 +74,7 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
 <a id="claim-t-62622"></a>
 - t-003
   teiginys: "J. Venta 1980 m. paskelbė darbą apie Petro Dusburgiečio kroniką ir Oliavos kronikoje pateiktą Vokiečių ordino istoriją."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -82,7 +89,8 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
 - id: c-63349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
   citata_originali: |
     94  Wenta J. Kronika..., s. 121—132.
   citata_rodoma: "94 Wenta J. Kronika..., s. 121—132."
@@ -95,7 +103,8 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
 - id: c-63350
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 276."
   citata_originali: |
     Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice
     oliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132.
@@ -109,7 +118,8 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
 - id: c-63351
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
   citata_originali: |
     Pamario bei Ordino valstybės analistiką, be kitų
     to meto šaltinių analizavo ir Dusburgiečio kroniką91. Polemizuodamas su kai kuriomis M.

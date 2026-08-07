@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1d58d40f433ced2f950b6668"
+canonical_name: "Jonas Nemiravičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Nemiravičius"]
+sameAs: []
+canonical_biography: "Žygimantas pasiuntė Joną Nemiravičių pranešti karaliui, kad Boleslovas išvytas iš Lietuvos."
 ---
 # Jonas Nemiravičius
 
@@ -52,7 +59,8 @@ media_all_json: |-
 - id: c-169577
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 439"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 439."
   citata_originali: |
     Čia šiaip ne taip
     U žim a  R u sią

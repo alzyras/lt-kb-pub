@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ea443f91a4f9940ece7791ea"
+canonical_name: "Cėsiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Cėsiai"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Cėsiai
 

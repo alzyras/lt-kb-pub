@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-97afd3d44c499ccf5b11b91a"
+canonical_name: "Preivosto šilai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Preivosto šilai"]
+sameAs: []
+canonical_biography: "Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko ordino pusėje."
+place_authority: true
+historical_names: []
 ---
 # Preivosto šilai
 
@@ -51,7 +60,8 @@ Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, 
 - id: c-34006
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Šiauriau ji kilo stačiai per tyrus į pu­
     siau dalinamą Raigardo ežerą. Iš čia ji tęsėsi vėl per dykrą tiesiai

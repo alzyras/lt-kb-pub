@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-82f2196bb9128f02e4dc58be"
+canonical_name: "Markburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Markburgas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino didįjį magistrą Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis magistras, mirė liepos 24 dieną, o palaidotas Markburge. Dusburgietis teigia, kad po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge, kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš altorių, o."
+place_authority: true
+historical_names: []
 ---
 # Markburgas
 
@@ -78,7 +87,8 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
 - id: c-59222
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Išgirdęs
     šiuos žodžius, landgrafas taip nudžiugo, kad, puolęs iš džiaugsmo jam į glėbį, atleido
@@ -103,7 +113,8 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
 - id: c-59223
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
   citata_originali: |
     Apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino
                                                   didįjį magistrą

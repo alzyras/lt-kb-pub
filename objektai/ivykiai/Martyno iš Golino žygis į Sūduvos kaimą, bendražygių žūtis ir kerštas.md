@@ -54,12 +54,20 @@ Nenurodyta
 <a id="claim-t-62873"></a>
 - t-001
   teiginys: "Martynas iš Golino su 4 vokiečiais ir 11 prūsų užgrobė Sūduvos kaimą, išžudydamas arba į nelaisvę išsivesdamas žmones."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
+  ryšio_patikimumas: "uzeme -> Sūduva: 0.82"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sūduva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Martynas užgrobė kaimą Sūduvos žemėje; konkretaus kaimo kandidato nėra, todėl ryšys vedamas į Sūduvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Martynas iš Golino užėmė Sūduva (0.82); Vokiečiai užėmė Sūduva (0.78)"
   pagrindžia:
-    - c-63717
+    - c-63716
 
 <a id="claim-t-62874"></a>
 - t-002
@@ -145,7 +153,8 @@ Nenurodyta
 - id: c-63716
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
   citata_originali: |
     Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
     krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],
@@ -162,12 +171,14 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-004
 
 - id: c-63717
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Tas
     Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas
@@ -188,14 +199,14 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
     - t-003
 
 - id: c-178987
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
   citata_originali: |
     Anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs
     Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą,

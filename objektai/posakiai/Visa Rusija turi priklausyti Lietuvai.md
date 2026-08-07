@@ -96,7 +96,8 @@ media_all_json: |-
 - id: c-05503
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 270."
   citata_originali: |
     Bet to paties siekė ir Algirdas, kuris nedvejodamas pas-
     kelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu-
@@ -113,7 +114,8 @@ media_all_json: |-
 - id: c-05504
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 270."
   citata_originali: |
     (^14) **SRP, II, 80 p. (« Omnis Russia ad Letwinos deberet simpliciter
     pertinere »).**

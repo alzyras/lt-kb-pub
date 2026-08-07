@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c974d9bc7a1bd9512810ff3d"
+canonical_name: "Liudvikas (Prancūzijos karalius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas (Prancūzijos karalius)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol. Dusburgietis teigia, kad apie Liudviko, Prancūzijos karaliaus, bei jo sūnaus mirtį ir apie daugybę kryžinin­ kų, patraukusių vaduoti šventosios žemės 1270 viešpaties metų rugpjūčio 25 dieną Liudvikas, Prancūzijos karalius, patraukė su dviem savo sūnumis ir daugybe kunigaikščių į. Dusburgietis teigia, kad apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą 1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos karalių (Ptol."
 ---
 # Liudvikas (Prancūzijos karalius)
 
@@ -95,7 +102,8 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 - id: c-60681
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
   citata_originali: |
     Apie viešpaties erškėčių vainiko perkėlimą
 
@@ -117,7 +125,8 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 - id: c-60682
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 242-243"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 242-243."
   citata_originali: |
     83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
 
@@ -136,7 +145,8 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 - id: c-60683
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 235."
   citata_originali: |
     53. Apie Liudviko, Prancūzijos karaliaus, bei jo sūnaus mirtį ir apie daugybę kryžinin­
                           kų, patraukusių vaduoti šventosios žemės

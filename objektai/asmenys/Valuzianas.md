@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-01193d3013af571c9bfc3dd8"
+canonical_name: "Valuzianas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Valuzianas"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu, vėliau šlovintu kaip jų nugalėtoju. Esama neabejotinų įrodymų, nes, valdant imperatoriui Galui, apie 253 metus jungtiniai finų, galindų ir venedų būriai kariavo su imperatorium Valuzianu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo vino kaip vandalų, finų, galindų ir venedų nugalėto ją."
 ---
 # Valuzianas
 
@@ -93,7 +100,8 @@ Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo s
 - id: c-174364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
   citata_originali: |
     Lietuviai, gyvenę toliau nuo jūros, dalyva­
     vo įvairiuose sarmatų maištuose, būdavo įtraukiami į

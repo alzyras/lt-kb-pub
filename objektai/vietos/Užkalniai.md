@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7805cd00a8355070d8ff5bf1"
+canonical_name: "Užkalniai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Užkalniai"]
+sameAs: []
+canonical_biography: "Juos Užkalnių kaimą ir pietinius Barklainius. Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėlius ir Barklainius."
+place_authority: true
+historical_names: []
 ---
 # Užkalniai
 
@@ -47,7 +56,8 @@ Juos Užkalnių kaimą ir pietinius Barklainius. Viduriniajai vorai po atkaklių
 - id: c-176438
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 182-183"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 182-183."
   citata_originali: |
     Dešinioji kolona ener-
     gingu puolimu užėmė plane numatytus

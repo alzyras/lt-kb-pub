@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d994e5574d86b0e0d1e1c6b2"
+canonical_name: "Šiaurės Amerika Kanada"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šiaurės Amerika Kanada"]
+sameAs: []
+canonical_biography: "Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeigas laikė labai panašiomis į jo aptariamas apeigas."
+place_authority: true
+historical_names: []
 ---
 # Šiaurės Amerika Kanada
 
@@ -55,7 +64,8 @@ Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeiga
 - id: c-171991
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
   citata_originali: |
     Mes gi apie tai nieko negalime pasakyti*.
     362

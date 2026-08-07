@@ -50,7 +50,8 @@ Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponu
 - id: c-82548
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 101."
   citata_originali: |
     Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
     daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­

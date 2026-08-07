@@ -74,7 +74,8 @@ Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo p
 - id: c-172062
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 321."
   citata_originali: |
     Toliau net matysi­
     me, kad jie turėjo nuodėmių išpažinimo dieną.
@@ -99,7 +100,8 @@ Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo p
 - id: c-172063
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
   citata_originali: |
     Lietuviai savo priesaikas duodavo visai panašiai: visi saky­
     davo (tai ir dabar yra kaimiečių paprotys) „dėl Dievo“ (Dali

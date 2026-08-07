@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b3133085e8dafdb7cabd30a"
+canonical_name: "Volfgangas Auksakalys"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Volfgangas Auksakalys"]
+sameAs: []
+canonical_biography: "24 Vilniuje Žygimanto Senojo laikais auksakalių būta daug ir turtingų."
 ---
 # Volfgangas Auksakalys
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-83866
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 286."
   citata_originali: |
     Rašyta Vilniaus mieste, 1507 me­
     tų gegužės 1 dieną].

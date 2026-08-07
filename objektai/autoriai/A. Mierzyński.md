@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-28f7845e98a2b585fefb0a14"
+canonical_name: "A. Mierzyński"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Mierzyński"]
+sameAs: []
+canonical_biography: "Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H."
 ---
 # A. Mierzyński
 
@@ -63,7 +70,8 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
 - id: c-70061
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 154."
   citata_originali: |
     — Mierzyński, A. : _Źródła do mytologii litewskiej,_ I-II, Warsza­
     wa 1892, 1896 (nuo Tacito iki 15-jo amž. šaltinių tekstai su kritiškais
@@ -87,7 +95,8 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
 - id: c-70062
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 267."
   citata_originali: |
     (^7) **A. Mierzyński :** **_Źródła do mytol. lit._** **, II, 78 p.; KH, 1889, 208-209 p.**
     (^8) **Laiško tekstą žr. H. Paszkiewicz :** **_Polityka Ruska Kazimierza Wiel­

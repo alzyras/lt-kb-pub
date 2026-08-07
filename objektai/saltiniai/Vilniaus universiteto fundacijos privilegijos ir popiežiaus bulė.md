@@ -77,7 +77,8 @@ Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją ka
 - id: c-84329
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 306-307"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 306-307."
   citata_originali: |
     290
 
@@ -105,7 +106,8 @@ Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją ka
 - id: c-84330
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 307."
   citata_originali: |
     Protasevičiaus pėdomis sekė ir
     jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­

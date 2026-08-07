@@ -47,7 +47,8 @@ Po kelių mėnesių Ramanauskas-Vanagas buvo pakeltas į Merkio rinktinės vado 
 - id: c-176457
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 233."
   citata_originali: |
     Rugpjūtį jo
     vadovaujama kuopa buvo performuota į Merkinės

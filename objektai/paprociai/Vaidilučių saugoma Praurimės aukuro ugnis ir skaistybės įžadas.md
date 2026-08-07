@@ -109,7 +109,8 @@ Nenurodyta
 - id: c-172826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
     viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
@@ -133,7 +134,8 @@ Nenurodyta
 - id: c-172827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Dabar, kai rašau,
     beveik kaip Strijkovskio laikais, vyksta ant dieviškosios Biru­

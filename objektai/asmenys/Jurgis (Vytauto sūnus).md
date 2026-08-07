@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-79bf9d8f12f8d6b7b896e480"
+canonical_name: "Jurgis (Vytauto sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis (Vytauto sūnus)"]
+sameAs: []
+canonical_biography: "Taigi greitai, 1385 metais, mažamečiai Vy­ tauto sūnūs, Jonas ir Jurgis, buvo Ka­ raliaučiuje nunuodyti!"
 ---
 # Jurgis (Vytauto sūnus)
 
@@ -61,7 +68,8 @@ Taigi greitai, 1385 metais, mažamečiai Vy­ tauto sūnūs, Jonas ir Jurgis, bu
 - id: c-83719
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 57."
   citata_originali: |
     Kokios bu­
     vo šios sutarties pasekmės? Taigi

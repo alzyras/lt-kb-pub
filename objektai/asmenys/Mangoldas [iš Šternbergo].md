@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-937208562cb3ff84f4b9bffd"
+canonical_name: "Mangoldas [iš Šternbergo]"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mangoldas [iš Šternbergo]"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpaties metais Brolis Mangoldas [iš Šternbergo], vienuoliktas Prūsijos magistras, vadovavo dvejus metus. Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir."
 ---
 # Mangoldas [iš Šternbergo]
 
@@ -110,7 +117,8 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
 - id: c-60801
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
   citata_originali: |
     Apie brolį Mangoldą, Prūsijos magistrą 1280 viešpaties metais
 
@@ -131,7 +139,8 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
 - id: c-60802
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
   citata_originali: |
     Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
 

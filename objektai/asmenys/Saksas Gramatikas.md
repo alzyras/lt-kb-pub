@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2f701bf12b68e1b9eeaaa10d"
+canonical_name: "Saksas Gramatikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Saksas Gramatikas"]
+sameAs: []
+canonical_biography: "Narbuto kritikuojamo autoriaus prielaidoje Saksas Gramatikas sąvoka Estiorum terrae apėmė kraštą, kuriame buvusi Rotala."
 ---
 # Saksas Gramatikas
 
@@ -54,7 +61,8 @@ Narbuto kritikuojamo autoriaus prielaidoje Saksas Gramatikas sąvoka Estiorum te
 - id: c-174197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 235."
   citata_originali: |
     Įkarščio ir nuoširdaus noro,
     kaip jam atrodė, pasitarnauti rusų tautai pagautas auto­

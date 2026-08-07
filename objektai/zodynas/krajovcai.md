@@ -51,7 +51,8 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 - id: c-25131
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 124."
   citata_originali: |
     Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
     riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą

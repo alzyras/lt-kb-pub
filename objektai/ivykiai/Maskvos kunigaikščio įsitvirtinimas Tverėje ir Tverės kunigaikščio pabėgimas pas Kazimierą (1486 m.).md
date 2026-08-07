@@ -103,7 +103,8 @@ Nenurodyta
 - id: c-168977
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 531"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 531."
   citata_originali: |
     Kitais metais jie palydėjo seno­
     vės Lietuvos kunigaikščių at-
@@ -132,7 +133,8 @@ Nenurodyta
 - id: c-168978
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 531"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 531."
   citata_originali: |
     Tverė turėjo labai galingas karo
     jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­

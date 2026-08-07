@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-39a2fe04229ee2dfdc14fe17"
+canonical_name: "Leonas Sapiega"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Leonas Sapiega"]
+sameAs: []
+canonical_biography: "Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pralenkusiais Vidurio Europos šalių teisines sistemas, bei jų kūrimo iniciatoriais Albertu Goštautu ar Leonu Sapiega."
 ---
 # Leonas Sapiega
 
@@ -62,7 +69,8 @@ Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pra
 - id: c-157525
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 305"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 305."
   citata_originali: |
     Po Paleckių mirties jų
     sūnūs turėjo privilegijas atiduoti

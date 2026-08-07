@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-244e3716c27b8bd3b69b5c3a"
+canonical_name: "Barkus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Barkus"]
+sameAs: []
+canonical_biography: "APIE TRIS PALEMONO SŪNUS IR APIE LIETUVOS VALSTYBES PRADŽIĄ Ir paskui minėtam kunigaikščiui Palemonui gimė trys sūnūs: vyriausias Barkus ', antras — Kūnas 2 , tre čias— Spera3 ."
 ---
 # Barkus
 
@@ -33,7 +40,8 @@ APIE TRIS PALEMONO SŪNUS IR APIE LIETUVOS VALSTYBES PRADŽIĄ Ir paskui minėta
 - id: c-176522
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 41."
   citata_originali: |
     Neilgai trukus, mirė jo brolis Barkus, kuris gyveno
     Jurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė

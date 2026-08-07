@@ -95,14 +95,21 @@ Nenurodyta
 <a id="claim-t-185498"></a>
 - t-003
   teiginys: "Lietuviai įgulų tarnybas tvarkė taip, kad kariškai lavintųsi jaunimas."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168857
+    - c-168859
 
 <a id="claim-t-185499"></a>
 - t-004
@@ -215,7 +222,8 @@ Nenurodyta
 - id: c-168857
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 184."
   citata_originali: |
     Mat į Prūsiją papildymui at-
     1307 m e la i
@@ -250,13 +258,13 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
     - t-005
 
 - id: c-168858
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 184."
   citata_originali: |
     Mat silpnas le­
     das dar negalėjo atlaikyti besikeliančios per upę ka­
@@ -281,7 +289,8 @@ Nenurodyta
 - id: c-168859
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 185."
   citata_originali: |
     Šitaip tada lietuviai tvarkė įgu­
     lų tarnybas, norėdami, kad kariškai lavintųsi jaunuo­
@@ -298,14 +307,17 @@ Nenurodyta
   citata_rodoma: "Šitaip tada lietuviai tvarkė įgu­\nlų tarnybas, norėdami, kad kariškai lavintųsi jaunuo­\nmenė, kuri šiaip dykinėdama lengvai netenka kovin-\nm\n\n## Puslapis 185\n\ngumo ir drąsumo. Taigi ir buvo nutaikytas laikas, kai\naštuoniasdešimt šeši raiteliai traukė iš Bisenės pilies;\npasinaudoję šia proga, juos ir užpuolė Ragainės kry­\nžiuočiai. Sutelktu būriu užgriuvę iš pasalų nieko nenu-\njaučiančius, beveik visus išžudė."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-168860
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 185."
   citata_originali: |
     Sutelktu būriu užgriuvę iš pasalų nieko nenu-
     jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,

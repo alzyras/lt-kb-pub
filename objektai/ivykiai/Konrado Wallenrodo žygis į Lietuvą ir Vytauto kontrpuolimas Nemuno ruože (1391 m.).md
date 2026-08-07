@@ -74,7 +74,8 @@ Nenurodyta
 - id: c-33407
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 314."
   citata_originali: |
     Naujasis ordino vyriausias magistras Konradas Wallenrodas,
     kuris lenkų ir lietuvių tautose yra ypač išpopuliarėjęs per Adomo

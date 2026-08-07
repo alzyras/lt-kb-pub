@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2a1a2144e1aeaa1d4233b8a3"
+canonical_name: "Maskvos Butyrkų kalėjimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Maskvos Butyrkų kalėjimas"]
+sameAs: []
+canonical_biography: "Žemaitį-Vytautą (1951 m. gruodį patyręs insultą gydėsi požeminiame bunkeryje) ir po pusantrų metų tardymų sušaudė Maskvos Butyrkų kalėjime."
+place_authority: true
+historical_names: []
 ---
 # Maskvos Butyrkų kalėjimas
 
@@ -59,7 +68,8 @@ media_all_json: |-
 - id: c-24294
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 213."
   citata_originali: |
     Represinės instituci-
     jos, slopindamos parti-

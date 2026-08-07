@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c179977aff3ff30b477c09a"
+canonical_name: "Martynas Volodkovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Martynas Volodkovičius"]
+sameAs: []
+canonical_biography: "Martynas Volodkovičius be jokio užmokesčio atgausianti ir pilis, ir žemes."
 ---
 # Martynas Volodkovičius
 
@@ -47,7 +54,8 @@ Martynas Volodkovičius be jokio užmokesčio atgausianti ir pilis, ir žemes.
 - id: c-169427
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 702"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 702."
   citata_originali: |
     Sutelktomis jėgomis
     užbaigus karą ir sutarus taiką, Livonija turėsianti teisę

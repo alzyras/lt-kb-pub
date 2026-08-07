@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-54dc09c910dc1b241843224d"
+canonical_name: "Baranowski T"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Baranowski T"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad prie Didžiojo Selmento ežero (Selmęt Wielki) išliko jotvingių piliakalnis (apskritos formos, skersmuo — apie 60 m.— Baranowski T., Zajączkowski W., Archeologia..., p. 110)."
 ---
 # Baranowski T
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad prie Didžiojo Selmento ežero (Selmęt Wielki) išliko
 - id: c-61305
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 161."
   citata_originali: |
     D. III, 217 irgi rašo apie Kimenavos pilį. Prie Didžiojo Selmento ežero (Selmęt Wielki)
     išliko jotvingių piliakalnis  (apskritos formos, skersmuo — apie 60 m.— Baranowski T.,

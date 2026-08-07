@@ -64,7 +64,8 @@ Dusburgietis teigia, kad monumentą Poloniae historica.—T.
 - id: c-61816
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     Monumentą Poloniae historica.—T. 2, 4, 5.—Lwów, 1872, 1884, 1888 (Warszawa,
     1961).

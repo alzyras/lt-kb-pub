@@ -69,7 +69,8 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
 - id: c-82760
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 56."
   citata_originali: |
     Su trigubai di­
     desniu įniršiu, nešini šv. Jurgio vėliava puolė į mūšį Ordino
@@ -88,7 +89,8 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
 - id: c-176786
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 57."
   citata_originali: |
     Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
     Ordino riterių kirstas pagoniškai Lietuvai. Juk kai per Jogai­

@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14d446cb2394ad120d952546"
+canonical_name: "Didžioji Britanija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Didžioji Britanija"]
+sameAs: []
+canonical_biography: "Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lietuvos užsienio prekybą. Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie 30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją. Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje."
+place_authority: true
+historical_names: []
 ---
 # Didžioji Britanija
 
@@ -128,7 +137,8 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
 - id: c-24104
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 186."
   citata_originali: |
     SSRS 1940 metų ultimatumas ir
     sovietų okupacija
@@ -149,7 +159,8 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
 - id: c-67566
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     1944 m. sausį A. Smetona žuvo Klivlande per gaisrą. Tad
     lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi
@@ -169,7 +180,8 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
 - id: c-166981
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 186."
   citata_originali: |
     Sovietams kariaujant su Suomija Baltijos vals-
     tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
@@ -187,7 +199,8 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
 - id: c-166982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     Baltijos valstybių ir Lenkijos pa-
     bėgėlių bei tremtinių). Per trejus–ketverius metus į JAV pasisekė atvykti
@@ -204,7 +217,8 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
 - id: c-175410
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Graikai, ypač
     masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­

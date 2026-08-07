@@ -57,7 +57,8 @@ Didelį palankumą reikšdami primename ir patariame jums, kad tos sutarties, ka
 - id: c-84233
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 91."
   citata_originali: |
     Didelį palankumą reikšdami primename ir patariame jums,
     kad tos sutarties, kad ir kokios būtų sąlygos prisiimant

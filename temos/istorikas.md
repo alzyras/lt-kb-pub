@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 411
+tema_objektu_skaicius: 412
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 411.
+Objektų skaičius: 412.
 
 ## Kaip naudoti
 
@@ -370,6 +370,7 @@ Objektų skaičius: 411.
 - [St. Smolka](../objektai/autoriai/St.%20Smolka)
 - [St. Zajączkowski](../objektai/autoriai/St.%20Zaj%C4%85czkowski)
 - [Stanislovas Sarnickis](../objektai/autoriai/Stanislovas%20Sarnickis)
+- [Stanislovas Čerskis](../objektai/autoriai/Stanislovas%20%C4%8Cerskis)
 - [Steponas Bizantietis](../objektai/autoriai/Steponas%20Bizantietis)
 - [Steponavičienė J](../objektai/autoriai/Steponavi%C4%8Dien%C4%97%20J)
 - [Strabonas](../objektai/autoriai/Strabonas)

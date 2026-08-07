@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-55331
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 307."
   citata_originali: |
     IV KNYGA
     žvangant ginklams, nesiliaujant kariniams pasitarimams,

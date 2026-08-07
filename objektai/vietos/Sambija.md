@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-27149070965dbce2a1bf6ca8"
+canonical_name: "Sambija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sambija"]
+sameAs: []
+canonical_biography: "Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­ tų vasario mėn."
+place_authority: true
+historical_names: []
 ---
 # Sambija
 
@@ -63,15 +72,23 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
 <a id="claim-t-188830"></a>
 - t-002
   teiginys: "Narbutas nurodo Voigto veikalo puslapius, kuriuose pateikiami įrodymai, kad Romovė buvo Sambijoje."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Sambija: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Romovė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Sambija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai teigia, kad Romovė buvo Sambijoje."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Romovė priklausė Sambija (0.91)"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-177148
+    - c-171719
 
 <a id="claim-t-192752"></a>
 - t-003
@@ -219,7 +236,8 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 27."
   citata_originali: |
     Kai jų žval­
     gai pranešė lietuvių planus, antpuoliui atremti buvo sumobili­
@@ -239,7 +257,8 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
 - id: c-171719
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 417"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 417."
   citata_originali: |
     „Taip pat šiaurėje
     2
@@ -249,14 +268,17 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   citata_rodoma: "„Taip pat šiaurėje\n2\nVoigt. Geschichte Preussens. -  B. I. -  S. 617-637. Apima straips­\nni, kuriame įrodinėjamas tos kronikos buvimas. Ten pat (p. 641-649)\nįrodymai, kad Romovė buvo Sambijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-175522
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Visų pirma čia Vitlandija minima atski­
     rai greta Sambijos. Sis skirtumas yra esminis dalykas;
@@ -276,7 +298,8 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
 - id: c-175523
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 366."
   citata_originali: |
     ir Aistmarės — nuo Natangijos, šiaurėje ir rytuose ją
     skalavo jūra ir Kuršių marios. Tačiau senovės amžiais
@@ -302,7 +325,8 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
 - id: c-177148
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 414"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 414."
   citata_originali: |
     Be to, įrodymas, skatinantis sutikti, kad Dusburgietis tu­
     rėjo neklystamų žinių apie dalykus, dėstomus tame skyriuje, o
@@ -322,13 +346,13 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-005
 
 - id: c-177333
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
   citata_originali: |
     Hugas Grocijus, tyręs budinu ko­
     lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs
@@ -351,7 +375,8 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
 - id: c-179399
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
   citata_originali: |
     Sambija — ne itin didelis
     kraštas, anksčiau, kol jūra per visą pakrantės ilgį nepa­
@@ -374,7 +399,8 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
 - id: c-179400
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
   citata_originali: |
     Lietuvių protėviams atėjus į šiuos
     kraštus, Sambijoje įsikūrė daugiausia senovės budinus
@@ -397,7 +423,8 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
 - id: c-179401
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 366."
   citata_originali: |
     Ten ji
     buvo vadinama Lippe, arba Lipza,■ prie jos žiočių buvo
@@ -419,9 +446,9 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - t-009
 
 - id: c-184455
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 137"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 137."
   citata_originali: |
     Nes jei tu
     nori mums kitus įstatymus į vietą mūsųjų duoti, ry­

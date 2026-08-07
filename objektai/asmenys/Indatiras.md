@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2728e837221619e79b17cd22"
+canonical_name: "Indatiras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Indatiras"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip išpuikusį, žiaurų ir nelabai išmintingą monarchą. 514 m. pr. Kr. Darijus patraukė prieš Indatirą, o persų būriai, remiami graikų sąjungininkų, brovėsi Dunojaus link. Narbuto pasakojime skitų karalius Indatiras vadovavo kariuomenei, kuri karo metu kovojo su Darijumi."
 ---
 # Indatiras
 
@@ -109,7 +116,8 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
 - id: c-174091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     37
     Darijaus puolimai prieš skitus. Apie 520 metus prieš
@@ -134,7 +142,8 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
 - id: c-174092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     Šis, priplaukęs su 30 galerų, labai juos sumušė,
     paėmė didelį grobį ir belaisvių, tarp kurių buvo ir kara­
@@ -155,7 +164,8 @@ Teodoras Narbutas apie 520 m. pr. Kr. skitų valdovą Indatirą vaizduoja kaip i
 - id: c-174093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 81."
   citata_originali: |
     Šio karo metu jie
     buvo ištikimiausi ir uoliausi skitų sąjungininkai. Kariuo­

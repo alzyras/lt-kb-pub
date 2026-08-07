@@ -73,7 +73,8 @@ Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliau
 - id: c-172053
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 137."
   citata_originali: |
     Lietuvoje tebėra gyvas paprotys, kai prietaringi ūkininkai
     likusius nuo Velykų pusryčio kaulus stropiai surenka ir užkasa

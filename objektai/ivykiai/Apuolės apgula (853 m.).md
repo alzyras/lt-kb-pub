@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-33383
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 122."
   citata_originali: |
     Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš
     naujo švedams užvaldyti Kuršą. Jis nusiaubė ir sudegino Kuršių

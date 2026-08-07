@@ -67,7 +67,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 - id: c-59535
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
   citata_originali: |
     Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
 

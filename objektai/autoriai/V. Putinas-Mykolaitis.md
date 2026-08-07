@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-02c8825076005dcc6461d5ee"
+canonical_name: "V. Putinas-Mykolaitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Putinas-Mykolaitis"]
+sameAs: []
+canonical_biography: "Be to, įdėta prof. Brenderio, prof. PutinoMykolaičio, Dr. Putino - Mykolaičio, VALDOVAS..."
 ---
 # V. Putinas-Mykolaitis
 
@@ -44,7 +51,8 @@ Be to, įdėta prof. Brenderio, prof. PutinoMykolaičio, Dr. Putino - Mykolaiči
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 320."
   citata_originali: |
     27. V. Putino - Mykolaičio, VALDOVAS... Istorinė 6 veiksmų drama.
   statusas: verified

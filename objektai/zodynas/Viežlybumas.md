@@ -41,17 +41,16 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 <a id="claim-t-07649"></a>
 - t-001
   teiginys: "Viežlybumą moterys turėjo saugoti namuose kartu su ugnimi."
-  atnaujinta: "2026-07-24 15:00"
+  atnaujinta: "2026-07-26 21:29"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
-    - c-09581
     - c-09582
 
 <a id="claim-t-07650"></a>
 - t-002
   teiginys: "Viežlybumas siejamas su namuose saugota dora, švara ir tvarkingu gyvenimu."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
@@ -62,22 +61,22 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 - id: c-09581
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 94-95"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 94-95."
   citata_originali: |
     motriškosios varė plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo. Nesgi turėjo viežlybai^379 elgtis ir gyventi, jei iki šiai dienai tebėra jų kalboje, drabužį gerbiant, minavojami žodžiai: žluginti, skalbti, velėti, trinkti, prausti, plauti, mazgoti, balinti, skalurti, plūdurti, šviesti, baltinti ir anuoti^380.
   citata_rodoma: "motriškosios varė plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo. Nesgi turėjo viežlybai^379 elgtis ir gyventi, jei iki šiai dienai tebėra jų kalboje, drabužį gerbiant, minavojami žodžiai: žluginti, skalbti, velėti, trinkti, prausti, plauti, mazgoti, balinti, skalurti, plūdurti, šviesti, baltinti ir anuoti^380."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-09582
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 111"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 111."
   citata_originali: |
     didžiausias pasiėmimas kiekvienos žmonos yra saugoti namuose ugnį ir viežlybumą užlaikyti.
   citata_rodoma: "didžiausias pasiėmimas kiekvienos žmonos yra saugoti namuose ugnį ir viežlybumą užlaikyti."

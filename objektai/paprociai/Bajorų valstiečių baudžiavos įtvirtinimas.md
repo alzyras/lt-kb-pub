@@ -105,7 +105,8 @@ Nenurodyta
 - id: c-02165
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 195."
   citata_originali: |
     Bajorija, trokšdama pelno, kaskart
     vis labiau spaudė savo valstiečius. Todėl laisvieji valstiečiai
@@ -128,7 +129,8 @@ Nenurodyta
 - id: c-02166
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 195."
   citata_originali: |
     Didysis kunigaikštis pasižadėjo nesiuntinėti į jų dvarus
     jokių savo teisėjų ir atleido bajorų valstiečius nuo visų pareigų
@@ -152,7 +154,8 @@ Nenurodyta
 - id: c-02167
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 195."
   citata_originali: |
     Ta privilegija, be to, dar turėjo labai didelę socialinę reikšmę.
     Ją išsirūpindama, bajorija nepamiršo nė savęs. Nuo to laiko visi

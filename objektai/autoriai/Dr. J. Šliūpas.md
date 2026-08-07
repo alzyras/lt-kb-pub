@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c521ba6b22b86073c03c5fcc"
+canonical_name: "Dr. J. Šliūpas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dr. J. Šliūpas"]
+sameAs: []
+canonical_biography: "Šliūpas, o kai šį vokiečių valdžia privertė išvažiuoti į Ameriką, — vėl Mikšas."
 ---
 # Dr. J. Šliūpas
 
@@ -63,7 +70,8 @@ media_all_json: |-
 - id: c-01267
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 515"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 515."
   citata_originali: |
     tebuvo įsteigtas tik laikraštis „Aušra" (1883 m.). Jos suma-
     nytojas, pirmasis redaktorius ir siela buvo Basanavičius. Bet

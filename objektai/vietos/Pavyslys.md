@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-19cdaf7e2107cb2ee3f28045"
+canonical_name: "Pavyslys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pavyslys"]
+sameAs: []
+canonical_biography: "Žymesniųjų bajorų vaikai buvo net išvežti į Pavyslį, kaip įkaitai. Vokiečių, arba kryžiuočių, ordinas buvo atkviestas apie 1226 m. į Pavyslį kovoti su aisčiais."
+place_authority: true
+historical_names: []
 ---
 # Pavyslys
 
@@ -51,7 +60,8 @@ media_all_json: |-
 - id: c-68369
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 139."
   citata_originali: |
     Ordi-
     nas tuo tarpu Žemaičiuose statėsi pilis ir ėmėsi visokių priemonių

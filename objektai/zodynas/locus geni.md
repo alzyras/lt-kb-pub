@@ -62,7 +62,8 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
 - id: c-55823
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 11."
   citata_originali: |
     Vilniaus miesto istorijos rašymo tradicijos atsiradimas yra
     susijęs su locus geni akcentavimu romantinėje pasaulėžiūroje.

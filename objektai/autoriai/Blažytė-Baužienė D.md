@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-79d5ab6e1dfc937968766f1a"
+canonical_name: "Blažytė-Baužienė D"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Blažytė-Baužienė D"]
+sameAs: []
+canonical_biography: "Blažytė-Baužienė D., Tamošaitis M., Truska L."
 ---
 # Blažytė-Baužienė D
 
@@ -50,7 +57,8 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L.
 - id: c-22122
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Anušauskas A. ir kt. Lietuva, 1940–1990: okupuotos Lietuvos istorija. Vil-
     nius, 2005.

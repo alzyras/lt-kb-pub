@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-617a26579c56007faf47b805"
+canonical_name: "Paulava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Paulava"]
+sameAs: []
+canonical_biography: "Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia. Bžostovskio įkurta Paulavos respublika. Tuo metu buvo sakoma, kad valstybėje yra trys respublikos: Lenkijos, Lietuvos ir Paulavos."
+place_authority: true
+historical_names: []
 ---
 # Paulava
 
@@ -61,7 +70,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
 <a id="claim-t-68909"></a>
 - t-002
   teiginys: "Paulava visuomenėje laikyta tokia reikšminga, kad buvo sakoma apie tris respublikas: Lenkijos, Lietuvos ir Paulavos."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -70,7 +79,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
 <a id="claim-t-68910"></a>
 - t-003
   teiginys: "Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma Apšvietos epochos pradžios ženklu."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m."
@@ -84,7 +93,8 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
 - id: c-68365
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 68."
   citata_originali: |
     Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
     XVIII a. pabaigoje. Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
@@ -103,7 +113,8 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
 - id: c-68366
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 89."
   citata_originali: |
     Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo
     iš baudžiavos, suteikiant jiems asmeninę laisvę, atvejus. Ryškiausiu iš jų
@@ -125,7 +136,8 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
 - id: c-68367
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 89."
   citata_originali: |
     Tuo metu buvo sakoma, kad valstybėje yra trys respublikos: Lenkijos,
     Lietuvos ir Paulavos. Šis posakis rodo, kokią ypatingą reikšmę visuomenė

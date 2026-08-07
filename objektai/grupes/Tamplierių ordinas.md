@@ -144,7 +144,8 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 - id: c-85272
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247."
   citata_originali: |
     109. Apie tamplierių ordino panaikinimą
 
@@ -165,7 +166,8 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 - id: c-85273
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
     Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
@@ -186,7 +188,8 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 - id: c-85274
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
     padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
@@ -203,7 +206,8 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 - id: c-85276
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
     m.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310

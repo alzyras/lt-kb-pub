@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3d44f0e2edeb1025c50a2338"
+canonical_name: "Skilakas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Skilakas"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Skilako spėjami žmonės gyveno prie Kaspijos, tačiau pats apie juos toliau nekalbės."
 ---
 # Skilakas
 
@@ -53,7 +60,8 @@ Narbutas rašė, kad Skilako spėjami žmonės gyveno prie Kaspijos, tačiau pat
 - id: c-174473
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
   citata_originali: |
     Bet ne visos jos buvo vienu metu, nes
     gerai matyti, jog pirmiausia, išvyti iš emporiumų, jie gy­

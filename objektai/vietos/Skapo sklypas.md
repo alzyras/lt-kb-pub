@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-12af2a375a73b325818eb5fe"
+canonical_name: "Skapo sklypas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Skapo sklypas"]
+sameAs: []
+canonical_biography: "Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų gatve nuo Jo Didenybės Vil­ niaus vyskupo dvaro link prieglau­ dos ir Šv."
+place_authority: true
+historical_names: []
 ---
 # Skapo sklypas
 
@@ -58,7 +67,8 @@ Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų ga
 - id: c-82214
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Tačiau 1573 metais
     kovo 26 dieną su kapitula įsigaliojo

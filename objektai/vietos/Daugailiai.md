@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-516d3ce0ad0777faf605111d"
+canonical_name: "Daugailiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Daugailiai"]
+sameAs: []
+canonical_biography: "Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė."
+place_authority: true
+historical_names: []
 ---
 # Daugailiai
 
@@ -50,7 +59,8 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
 - id: c-45059
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 187."
   citata_originali: |
     Karin. K. Ladyga su lie-
     tuvių kariais toliau persekiojo bolševi-

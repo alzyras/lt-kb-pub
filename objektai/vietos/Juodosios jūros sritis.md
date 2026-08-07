@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15856d424e1c08c9de63be80"
+canonical_name: "Juodosios jūros sritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Juodosios jūros sritis"]
+sameAs: []
+canonical_biography: "Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje."
+place_authority: true
+historical_names: []
 ---
 # Juodosios jūros sritis
 
@@ -69,7 +78,8 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 - id: c-28429
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 304."
   citata_originali: |
     Nuo Lenkijos pakraščio, nuo
     Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos
@@ -88,7 +98,8 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 - id: c-167756
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 304."
   citata_originali: |
     Per vieną šimtą metų, prieš Algirdui užmerkiant
     akis, iš, palyginti, dar nedidelės Mindaugo valstybės buvo pasida­

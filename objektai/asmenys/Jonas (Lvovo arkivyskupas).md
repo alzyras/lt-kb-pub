@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d7f72d547f56cb87df6a5ecf"
+canonical_name: "Jonas (Lvovo arkivyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas (Lvovo arkivyskupas)"]
+sameAs: []
+canonical_biography: "Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­ po Petro, Lvovo arkivysk."
 ---
 # Jonas (Lvovo arkivyskupas)
 
@@ -63,7 +70,8 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 126."
   citata_originali: |
     Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos
     ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-25ae3b03c4de1e8baa0f755b"
+canonical_name: "J. Tūbelis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Tūbelis"]
+sameAs: []
+canonical_biography: "Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio ministrų kabinetas, premjerą pakeitė kitas A."
 ---
 # J. Tūbelis
 
@@ -81,7 +88,8 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
 - id: c-21711
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 178."
   citata_originali: |
     1935 m. balandį
     S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuria-
@@ -104,7 +112,8 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
 - id: c-21712
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 179."
   citata_originali: |
     Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
     Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-

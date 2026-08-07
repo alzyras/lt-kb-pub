@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09c9a3d0bbd7280fa4baef59"
+canonical_name: "Antanas Kaminskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Kaminskas"]
+sameAs: []
+canonical_biography: "Jiems vadovavo kapitonas Antanas Kaminskas."
 ---
 # Antanas Kaminskas
 
@@ -62,7 +69,8 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
 - id: c-41514
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 148."
   citata_originali: |
     Tarp miesto ir prie-
     miesčio esančiame redute buvo du pabū-
@@ -87,7 +95,8 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
 - id: c-167115
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 148."
   citata_originali: |
     per Muchaveco upę. Tarp miesto ir prie-
     miesčio esančiame redute buvo du pabū-

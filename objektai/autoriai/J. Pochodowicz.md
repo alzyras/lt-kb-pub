@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87d964f4864a6c15dadf3560"
+canonical_name: "J. Pochodowicz"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Pochodowicz"]
+sameAs: []
+canonical_biography: "Pochodowicz, t."
 ---
 # J. Pochodowicz
 
@@ -59,7 +66,8 @@ Pochodowicz, t.
 - id: c-32976
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 24."
   citata_originali: |
     1, 1967 ; dal. 2 (Indeksy), Varšuva 1967.**
     **_Bibliografia Regionu Białostockiego,_** **red. U. Lewicka ir J. Pochodowicz,

@@ -65,7 +65,8 @@ Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir 
 - id: c-173400
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
   citata_originali: |
     Daugeliu požiūrių
     šios žynės buvo Antikos bakchančių pamėgdžiojimas.
@@ -86,7 +87,8 @@ Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir 
 - id: c-179147
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 299."
   citata_originali: |
     Tokie žyniai, mo­
     kantys pagarsėti, pritraukia lengvatikius iš tolimesnių ir arti­

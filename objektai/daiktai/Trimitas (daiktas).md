@@ -61,9 +61,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184719
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 532"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 532."
   citata_originali: |
     Gediminas,
     nujautęs tą nuo savo žvalgytojų, tuojau visą savo

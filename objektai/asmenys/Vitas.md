@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7232246c717c690fc7297c9c"
+canonical_name: "Vitas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vitas"]
+sameAs: []
+canonical_biography: "į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad „1253 metais Petras, išrinktas Poznanės vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­ tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­ kupais."
 ---
 # Vitas
 
@@ -59,7 +66,8 @@ media_all_json: |-
 - id: c-83581
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 205."
   citata_originali: |
     Apie tai mini Kroni­
     ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s -

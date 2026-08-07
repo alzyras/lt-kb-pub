@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cf1f196ce4bc780853d9dc77"
+canonical_name: "Pieštvė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pieštvė"]
+sameAs: []
+canonical_biography: "Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir iki pamatų sudegino jų papilius. Pieštvės pilis buvo deš. Švento Jokūbo apaštalo dieną Meinhardas užpuolė Junigedą ir Pieštvę ir iki pamatų sudegino abiejų pilių papilius."
+place_authority: true
+historical_names: []
 ---
 # Pieštvė
 
@@ -57,12 +66,19 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
 <a id="claim-t-58401"></a>
 - t-002
   teiginys: "Pieštvės pilis buvo deš."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pieštvė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pieštvė\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-59034
+    - c-59032
 
 <a id="claim-t-58402"></a>
 - t-003
@@ -166,7 +182,8 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
 - id: c-59032
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto
     kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio
@@ -174,14 +191,17 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   citata_rodoma: "541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto\nkyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio\n(Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-59033
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
 
@@ -203,7 +223,8 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
 - id: c-59034
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 184-185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184-185."
   citata_originali: |
     254 (247). Apie Junigedos ir Pieštvės pilių papilių sudeginimą
 
@@ -224,13 +245,13 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-003
 
 - id: c-168445
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 245."
   citata_originali: |
     Pilies įgulą sudarė trys tūkstančiai rink­
     tinių karių, apie kurių graudžią mirtį degančios pilies
@@ -266,7 +287,8 @@ Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieš
 - id: c-178870
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 177."
   citata_originali: |
     Kanonas,
     1299 m e ta i

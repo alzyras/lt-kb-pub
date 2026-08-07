@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4fec75b8f8a1239c038454de"
+canonical_name: "Švenčionys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Švenčionys"]
+sameAs: []
+canonical_biography: "Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus)."
+place_authority: true
+historical_names: []
 ---
 # Švenčionys
 
@@ -64,7 +73,8 @@ Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines ž
 - id: c-167036
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 185."
   citata_originali: |
     Derybas apsunkino tai, jog spalio pradžioje karines bazes pagal pa-
     našias sutartis sovietai jau buvo primetę Estijai ir Latvijai. Lietuviai at-

@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dc9fb85182de560d973d9268"
+canonical_name: "Gumbinė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gumbinė"]
+sameAs: []
+canonical_biography: "kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų."
+place_authority: true
+historical_names: []
 ---
 # Gumbinė
 
@@ -59,7 +68,8 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 - id: c-155070
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 15."
   citata_originali: |
     Mažojoje Lietuvoje iškilo ir pirmasis
     reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-

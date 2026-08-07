@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-96b56c4eba13b1a66ba54af8"
+canonical_name: "Rytų Prūsija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rytų Prūsija"]
+sameAs: []
+canonical_biography: "Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmečio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prūsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė. Tačiau Versalyje Lietuvos delegacija iškėlė Rytų Prūsijos (kurioje tarp pusės milijono vokiečių gyveno iki 100 000 lietuvių) teritorijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą. 11 minučių ir įveikę 6 411 km, antrą tuo metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje."
+place_authority: true
+historical_names: []
 ---
 # Rytų Prūsija
 
@@ -91,7 +100,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 <a id="claim-t-170847"></a>
 - t-004
   teiginys: "„Lituanica“ aviatoriai be nusileidimo per 37 val. 11 min. įveikė 6 411 km ir patyrė katastrofą tuometinėje Rytų Prūsijoje."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -142,7 +151,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 - id: c-24459
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 180."
   citata_originali: |
     Dauguma kaltinamųjų sakė,
     kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-
@@ -161,7 +171,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 - id: c-155456
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 174."
   citata_originali: |
     lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą. Nu-
     skridę be nusileidimo 37 val. 11 minučių ir įveikę 6 411 km, antrą tuo
@@ -177,7 +188,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 - id: c-167023
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 140."
   citata_originali: |
     Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtme-
     čio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prū-
@@ -198,7 +210,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 - id: c-167024
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 174."
   citata_originali: |
     Nu-
     skridę be nusileidimo 37 val. 11 minučių ir įveikę 6 411 km, antrą tuo
@@ -217,7 +230,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 - id: c-175520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 428"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 428."
   citata_originali: |
     Erazmas Stela (Erasmus Stella, tikr. Johan
     Stüler; ?—1521), vokiečių istorikas. Veikale

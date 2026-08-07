@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14ec5b9c609e950c0c935480"
+canonical_name: "Pilvos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pilvos upė"]
+sameAs: []
+canonical_biography: "Pastarasis, gavęs iš valdovo pievą Kauno girioje prie Pilvos upės ir teisę ten statyti geležies liejyklą, vadinamąją rudnią (ruda), užgrobė didesnį pievos plotą, iškirto mišką ir suarė žemę."
+place_authority: true
+historical_names: []
 ---
 # Pilvos upė
 
@@ -47,9 +56,9 @@ Pastarasis, gavęs iš valdovo pievą Kauno girioje prie Pilvos upės ir teisę 
 ## Citatos
 
 - id: c-185084
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 244."
   citata_originali: |
     Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instiga-
     toriaus ir Kauno girininko Jurgio Čarlinskio bylą su Kauno vaitu Jonu Baniškiu.

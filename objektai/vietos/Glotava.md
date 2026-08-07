@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae4491bb30e1f171b6554b7d"
+canonical_name: "Glotava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Glotava"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai įsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar pagrobė viską, ką ten rado gyvą. Dusburgietis teigia, kad manoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H., Studia..., 2, p. 16, 25; MGP, p. 54)."
+place_authority: true
+historical_names: []
 ---
 # Glotava
 
@@ -77,7 +86,8 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
 - id: c-59188
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195."
   citata_originali: |
     Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių
     vyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš
@@ -97,7 +107,8 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
 - id: c-59189
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
   citata_originali: |
     275 (268). Apie 72 lietuvius, nukautus Notangoje
     Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai

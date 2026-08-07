@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c79e844a6dd4bf60f680edc"
+canonical_name: "Zakračimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zakračimas"]
+sameAs: []
+canonical_biography: "Susijungusios lietuvių, rusų, totorių jėgos su lenkų kariuomene prie Zakračimo (prie Vislos) padėjo nuniokoti Prūsus."
+place_authority: true
+historical_names: []
 ---
 # Zakračimas
 
@@ -51,7 +60,8 @@ Susijungusios lietuvių, rusų, totorių jėgos su lenkų kariuomene prie Zakra�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 207."
   citata_originali: |
     Karas buvo paskelbtas Vy­
     tauto drauge su Jogaila. Susijungusios lietuvių, rusų, totorių

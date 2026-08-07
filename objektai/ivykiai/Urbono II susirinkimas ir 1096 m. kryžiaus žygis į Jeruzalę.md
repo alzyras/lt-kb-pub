@@ -91,7 +91,7 @@ Nenurodyta
 <a id="claim-t-89411"></a>
 - t-003
   teiginys: "Po Urbono II susirinkimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -102,7 +102,8 @@ Nenurodyta
 - id: c-85368
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241."
   citata_originali: |
     Neilgai trukus po to jo šventenybė
     popiežius Urbonas, palydėjęs minėtąjį Petrą į Prancūziją, sušaukė visuotinį susirinkimą,
@@ -133,7 +134,8 @@ Nenurodyta
 - id: c-85369
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240-241"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240-241."
   citata_originali: |
     Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
 

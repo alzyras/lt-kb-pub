@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184726
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 182"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 182."
   citata_originali: |
     Bruko netikėliams nuliūdi­
     mą, rūpesnį, liepė išsižadėti turtų, gėrybių ir paties

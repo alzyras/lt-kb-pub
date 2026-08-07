@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df6479343683c32878db1c53"
+canonical_name: "Mikalojus III"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus III"]
+sameAs: []
+canonical_biography: "Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 1525 m. pradėtą Bernardinų bažnyčios statybą. Popiežius Mikalojus III, įsėdęs į baž nyčios suolą, turėjo rūpintis didesniais reikalais nekaip pagalba kryiėjų."
 ---
 # Mikalojus III
 
@@ -90,9 +97,9 @@ Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 152
     - t-001
 
 - id: c-184365
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 448"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 448."
   citata_originali: |
     Popiežius Mikalojus III, įsėdęs į baž­
     nyčios suolą, turėjo rūpintis didesniais reikalais

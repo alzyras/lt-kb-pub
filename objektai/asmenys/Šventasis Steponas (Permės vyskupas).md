@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f27b4eef28447b01016ad0d6"
+canonical_name: "Šventasis Steponas (Permės vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šventasis Steponas (Permės vyskupas)"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikščionybę iki Šventojo Stepono buvo nesėkmingas ir turėjo kankinių. Narbutas Šventąjį Steponą, Permės vyskupą, vadino tikruoju Biarmijos apaštalu ir siejo jį su senovinės Biarmijos krikštijimu. Narbutas tikslino, kad Šventasis Steponas neišrado biarmiško raidyno, o sutvarkė jį pagal rusų abėcėlę ir rašė šiaurės slavų tarme."
 ---
 # Šventasis Steponas (Permės vyskupas)
 
@@ -94,7 +101,8 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
 - id: c-172941
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 435"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
   citata_originali: |
     Atver­
     timas j krikščionybę, prasidėjęs tenai apie X amžiaus pabaigą,
@@ -120,7 +128,8 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
 - id: c-172942
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 435"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
   citata_originali: |
     Pagaliau atsirado tikrasis Biarmijos apaštalas -
     šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
@@ -143,7 +152,8 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
 - id: c-172943
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 435"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
   citata_originali: |
     Davęs
     žmonėms pažinti savo dorybes ir užsitarnavęs jų meile, nie­

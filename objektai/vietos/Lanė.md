@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6b58be1ac4dde8c061652272"
+canonical_name: "Lanė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lanė"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Lanė
 

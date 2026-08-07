@@ -87,7 +87,8 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
 - id: c-170858
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
   citata_originali: |
     Europos istorikų -
     Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
@@ -108,7 +109,8 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
 - id: c-171055
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
   citata_originali: |
     Ant taurės išgraviruota data - „1817 m.“ R. Kli­
     mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų

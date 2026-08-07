@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6c3dcd90bb15da5907d82331"
+canonical_name: "Karolis (Prancūzijos karaliaus brolis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis (Prancūzijos karaliaus brolis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius."
 ---
 # Karolis (Prancūzijos karaliaus brolis)
 
@@ -73,7 +80,8 @@ Dusburgietis teigia, kad karolis, Prancūzijos karaliaus brolis, buvo smarkiai s
 - id: c-60985
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
   citata_originali: |
     Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
     Mat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio

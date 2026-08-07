@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-112b4d30d43fa5ad263622cd"
+canonical_name: "Masos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Masos"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Masosą vadina karaliuku, kuriam kaip duoklę atnešami gražiausi žmonių vaikai."
 ---
 # Masos
 
@@ -54,7 +61,8 @@ Teodoras Narbutas Masosą vadina karaliuku, kuriam kaip duoklę atnešami graži
 - id: c-174178
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
   citata_originali: |
     Raštas jiems nežinomas dalykas, be to, jie nesu­
     prato, kaip parašytomis raidėmis galima persiųsti savo

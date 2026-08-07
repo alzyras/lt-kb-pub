@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd5a87735b3cb6ab43c2a1ef"
+canonical_name: "Necelas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Necelas"]
+sameAs: []
+canonical_biography: "Kaip kad paaiškėjo iš maloningojo Necelu pavyzdžio, immediate [neseniai] mirusio, kuris, būdamas vaistininkas, buvo kartu ir puikus gydytojas."
 ---
 # Necelas
 
@@ -50,7 +57,8 @@ Kaip kad paaiškėjo iš maloningojo Necelu pavyzdžio, immediate [neseniai] mir
 - id: c-83784
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 199."
   citata_originali: |
     Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­
     rie be preparata ex officio suo [paruoštų pagal savo pareigas]

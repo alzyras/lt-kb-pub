@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ea3770d70cf04cb67277949f"
+canonical_name: "Teodoras Vodka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teodoras Vodka"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Teodoras Vodka
 

@@ -198,7 +198,8 @@ Nenurodyta
 - id: c-169990
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
   citata_originali: |
     Bychovco kronikos rankraštį prieš 1830 m. Alek­
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
@@ -223,7 +224,8 @@ Nenurodyta
 - id: c-169991
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 207."
   citata_originali: |
     Nuo šio žodžio BK rankraštyje buvo spraga. T. Narbuto pa­
     žymėta daugtaškiu. Mūsų vertim e spraga užpildoma tekstu, paimtu
@@ -239,7 +241,8 @@ Nenurodyta
 - id: c-169992
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 9."
   citata_originali: |
     T. Narbuto prašomas, rankraščio savininkas Alek­
     sandras Bychovcas perdavė jį istoriko pažįstamam tei­
@@ -258,7 +261,8 @@ Nenurodyta
 - id: c-169993
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 11."
   citata_originali: |
     lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame
     rankraščio puslapyje, XVII a. rašysena buvę lenkiškai

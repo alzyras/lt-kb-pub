@@ -58,7 +58,8 @@ Dusburgietis teigia, kad lietuvių karas su kryžiuočiais / Redagavo J.
 - id: c-61767
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
   citata_originali: |
     Lietuvių karas su kryžiuočiais / Redagavo J. Jurginis.—V., 1964.
     Lietuvių tautos istoriniai šaltiniai / Paruošė J. Užpurvis — T. 1—2 —Klaipėda, 1938—

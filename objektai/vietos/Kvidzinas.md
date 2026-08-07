@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee0a07ceef8b37ae850ed5f2"
+canonical_name: "Kvidzinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kvidzinas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėliau išardytą vandens srautų."
+place_authority: true
+historical_names: []
 ---
 # Kvidzinas
 
@@ -70,7 +79,8 @@ Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėl
 - id: c-175651
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
   citata_originali: |
     Iš to tvir­
     tovių išsidėstymo jau galima daryti išvadą, jog rytinė ir

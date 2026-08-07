@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aa76c20a63a2f2201c83845b"
+canonical_name: "Trojanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Trojanas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad imperatoriaus Trojano laikais toliau nuo jūros gyvenę lietuviai kariavo su romėnais ir buvo germanų sąjungininkai."
 ---
 # Trojanas
 
@@ -84,7 +91,8 @@ Narbutas rašo, kad imperatoriaus Trojano laikais toliau nuo jūros gyvenę liet
 - id: c-174361
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
   citata_originali: |
     Juk buvo kariaujama su skandina­
     vais, gentys įvairiais būdais patirdavo tų užjūrio kai­

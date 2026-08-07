@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42377773e52029c73843fed8"
+canonical_name: "Kukovaičio kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kukovaičio kalnas"]
+sameAs: []
+canonical_biography: "Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo palaidotas lietuvių kunigaikštis Kukovaitis. Narbutas, remdamasis Strijkovskiu, rašo, kad ant Kukovaičio kalno buvusi dievams skirta giraitė ir Kukovaičio stabas. Narbutas rašo, kad ant Kukovaičio kalno nebebuvo šventyklos ar stabo pėdsakų, o atminimas tebegyvavo kaimo pasakojimuose."
+place_authority: true
+historical_names: []
 ---
 # Kukovaičio kalnas
 
@@ -105,7 +114,8 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
 - id: c-171815
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 222."
   citata_originali: |
     Apie tai dar bus mūsų is­
     torijos tęsinyje.
@@ -130,7 +140,8 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
 - id: c-171816
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 221."
   citata_originali: |
     Ant to kalno augo die­
     vams skirta giraitė, o joje stovėjo Kukovaičio stabas. Ten ir
@@ -147,7 +158,8 @@ Narbutas Kukovaičio kalną prie Deltuvos nurodo kaip vietą, kur 1221 m. buvo p
 - id: c-171817
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
   citata_originali: |
     Tai liudija Strijkovskis. Ant
     Kukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­

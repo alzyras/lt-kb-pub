@@ -129,7 +129,8 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - id: c-22540
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 156."
   citata_originali: |
     Gąsdinamas pilietinio karo galimybe, kuria galėjo pasinaudoti Lenkija,
     sutiko atsistatydinti ir pats K. Grinius, įtikintas, kad naujoji valdžia lai-
@@ -150,7 +151,8 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - id: c-22541
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 156."
   citata_originali: |
     Jame LKDP bloko
     balsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,
@@ -171,7 +173,8 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - id: c-22542
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 163."
   citata_originali: |
     Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
     jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
@@ -196,7 +199,8 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - id: c-22543
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 166."
   citata_originali: |
     Tačiau opozicijai reikalaujant neatidėliojant sudaryti tautos pasi-
     tikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko
@@ -218,7 +222,8 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - id: c-47941
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 166."
   citata_originali: |
     Dėl to atgaivinta Seimo institucija.
     Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d47f4eddeca6eea32b01597"
+canonical_name: "Stanislovas Goštautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Goštautas"]
+sameAs: []
+canonical_biography: "Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­ tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­ lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­ kė Vilniuje, iš Maskvos atvykusių pasiuntinių. Dalyvaujant didžiai gerbiamiems Kristu­ je tėvui Vilniaus vyskupui ir Alšėnų kunigaikščiui ponui Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vac­ lovui, garbiesiems ir prakilniesiems Polocko vaivadai Jonui Hlebavičiui, Naugarduko vaivadai Stanislovui. Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Vilniaus vyskupui Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vaclovui, prakil­ niesiems ir garbingiesiems Polocko seniūnui Jonui Hlebavičiui, Naugarduko seniūnui Stanislovui Goštautui, Vitebs­ ko."
 ---
 # Stanislovas Goštautas
 
@@ -92,7 +99,8 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 - id: c-83456
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 339"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 339."
   citata_originali: |
     To dalyko patiki­
     mumui patvirtinti prie šio rašto mūsų antspaudas yra pri­
@@ -122,7 +130,8 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 - id: c-83458
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 246."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS
     su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
@@ -146,7 +155,8 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 - id: c-178785
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 632"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 632."
   citata_originali: |
     Skitas Mengli Girėjus, pakviestas už
     mokamą atlyginimą į šį karo žygį, įsikūrė su kariais

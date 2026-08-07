@@ -80,7 +80,8 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
 - id: c-44226
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 125."
   citata_originali: |
     Svetimšalių regimentai, organizuoti Lietuvoje,
     pasirodė 1633 m. Regimentui vadovavo oberšteris (pulkininkas).
@@ -97,7 +98,8 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
 - id: c-76014
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 125."
   citata_originali: |
     Svetimšalių pėstinin- |
     kija daugiausia vadinta „vokiškąja“, jų pagrindą sudarė samdiniai
@@ -114,7 +116,8 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
 - id: c-76015
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 125."
   citata_originali: |
     Pėstininkai turėjo
     ne tik gebėti remti kavalerijos atakas ugnimi, bet ir patys apsi-

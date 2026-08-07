@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-606184303f606528a7d8b0b4"
+canonical_name: "Magus"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Magus"]
+sameAs: []
+canonical_biography: "Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje minima žemė « Magus », t."
+place_authority: true
+historical_names: []
 ---
 # Magus
 
@@ -62,7 +71,8 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
 - id: c-33938
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 127."
   citata_originali: |
     Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'-
     Idrisi (1100-66 m.), kuris, gyvendamas Sicilijos Rogero II dvare,

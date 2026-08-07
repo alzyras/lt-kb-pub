@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184668
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 270"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 270."
   citata_originali: |
     Albertui, kursai su mistru Volkvinu, sukėlęs
     visą savo galią ir susinėręs su meldžionimis, turėjo

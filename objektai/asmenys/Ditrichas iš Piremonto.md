@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f19a50bd71ce9caa6123766e"
+canonical_name: "Ditrichas iš Piremonto"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas iš Piremonto"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę minėtuosius laužų dūmus, visi kaimynystėje gyvenę stabmeldžiai ir įniko juos puldinėti; abiejose šalyse daug karių buvo sunkiai sužeista, žuvo brolis Ditrichas iš Piremonto ir krito daug netikėlių."
 ---
 # Ditrichas iš Piremonto
 
@@ -70,7 +77,8 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
 - id: c-60899
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
   citata_originali: |
     Kai po to broliai pasuko atgal, suplūdo, išvydę
     minėtuosius laužų dūmus, visi kaimynystėje gyvenę stabmeldžiai ir įniko juos puldinėti;

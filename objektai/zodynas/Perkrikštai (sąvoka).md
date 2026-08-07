@@ -70,9 +70,9 @@ Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, pa
 ## Citatos
 
 - id: c-184550
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 229"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 229."
   citata_originali: |
     Žemgaliai, kurie buvo persikrikš­
     tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su­
@@ -94,9 +94,9 @@ Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, pa
     - t-001
 
 - id: c-184551
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 385"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 385."
   citata_originali: |
     Kad tas likos Žemaičiuose ir Lietuvoj, Parusny
     tuo pačiu laiku taip pat buvo rūsta diena.
@@ -117,9 +117,9 @@ Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, pa
     - t-002
 
 - id: c-184552
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 387"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 387."
   citata_originali: |
     Per­
     krikštai visur jų pilis apgulė ir laukan jų nebišlei-

@@ -50,7 +50,8 @@ media_all_json: |-
 - id: c-82845
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 150-151"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 150-151."
   citata_originali: |
     Warsz.
     rašo, kad jo laikais buvę „Vytauto

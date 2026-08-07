@@ -85,7 +85,8 @@ Nenurodyta
 - id: c-75866
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 173."
   citata_originali: |
     Vėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vo-
     kiečių kariuomenės. Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į
@@ -113,7 +114,8 @@ Nenurodyta
 - id: c-75867
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 173."
   citata_originali: |
     Bolševikai tą dieną į lietuvių pusę paleido
     užtvarą ir tęsė puolimą Kėdainių link. apie 170 artilerijos sviedinių ir kelis kartus

@@ -120,7 +120,8 @@ Nenurodyta
 - id: c-83141
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 268."
   citata_originali: |
     Po šiuo Jo Didenybės karaliaus Žygimanto parašu Uk­
     mergės pavieto teismo akto ištrauka su parašu, tokiais
@@ -152,7 +153,8 @@ Nenurodyta
 - id: c-83142
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 254-256"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 254-256."
   citata_originali: |
     Po Aleksandro atėjusiems Lietuvos valdovams teko kuo rim­
     čiausiai pasistengti, kad Lietuvos miestiečių luomui būtų
@@ -209,7 +211,8 @@ Nenurodyta
 - id: c-167208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 254-256"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 254-256."
   citata_originali: |
     238
 

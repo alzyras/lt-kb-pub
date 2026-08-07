@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4231af10698a8b187616130a"
+canonical_name: "Vaikių valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vaikių valsčius"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, kur — irgi iš pasalų — nukovė daug kilmingųjų. Dusburgietis teigia, kad vaikių valsčiaus bandyta ieškoti tarp Mituvos ir Raseinių (Łowmiański H., Studja..., 2, p. 102; plg. Dusburgietis teigia, kad kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus."
+place_authority: true
+historical_names: []
 ---
 # Vaikių valsčius
 
@@ -75,7 +84,8 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
 - id: c-59302
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
     tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė į valsčių, vardu Vaikiai545, kur
@@ -93,7 +103,8 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
 - id: c-59304
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212-213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212-213."
   citata_originali: |
     Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
                                     kariuomenę

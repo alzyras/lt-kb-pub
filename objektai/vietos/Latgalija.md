@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b59cd58fa083a14fa7685e2"
+canonical_name: "Latgalija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Latgalija"]
+sameAs: []
+canonical_biography: "XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­ krauklės prie Dauguvos iki Burtnieko ežero."
+place_authority: true
+historical_names: []
 ---
 # Latgalija
 
@@ -51,7 +60,8 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
 - id: c-33920
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 125."
   citata_originali: |
     Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
     _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»

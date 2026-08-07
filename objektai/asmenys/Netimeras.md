@@ -31,6 +31,13 @@ media_contextual_json: |-
   [{"mediaId":"m-484e9c0f9c745bfb34664333","title":"Dainių monumentas 2015 (2).JPG","caption":"Paminklas, skirtas Lietuvos evangelizacijai ir Netimero krikšto atminimui.","originalTitle":"Dainių monumentas 2015 (2).JPG","creator":"Julius Kanarskas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2015-09-01","dateStart":null,"dateEnd":null,"width":4272,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADaini%C5%B3_monumentas_2015_%282%29.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Daini%C5%B3_monumentas_2015_%282%29.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Daini%C5%B3_monumentas_2015_%282%29.JPG/1920px-Daini%C5%B3_monumentas_2015_%282%29.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Daini%C5%B3_monumentas_2015_%282%29.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"krikštas","label":"krikštas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"misionierius","label":"misionierius","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"religinis-įvykis","label":"religinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Bruno of Querfurt","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0,3.0,2.5,2.0,1.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Dainiai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration redundant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Netimeras.md","title":"Netimeras","itemType":"asmuo","relationType":"commemoration_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-19T01:55:19.370122+03:00","reviewedAt":"2026-07-19T01:55:44.287128+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma memorialinė informacinė plokštė su lietuvišku ir anglišku tekstu apie 1009 m. įvykį.","metadataEvidence":"Kandidato aprašas nurodo Dainių monumentą, o plokštės tekstas tiesiogiai mini Netimerą, jo krikštą ir Brunoną.","confidenceLevel":"high","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai identifikuojamas memorialas, tiesiogiai skirtas Netimero krikšto ir Lietuvos evangelizacijos istoriniam kontekstui.","isPrimary":0}]
 media_all_json: |-
   [{"mediaId":"m-484e9c0f9c745bfb34664333","title":"Dainių monumentas 2015 (2).JPG","caption":"Paminklas, skirtas Lietuvos evangelizacijai ir Netimero krikšto atminimui.","originalTitle":"Dainių monumentas 2015 (2).JPG","creator":"Julius Kanarskas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2015-09-01","dateStart":null,"dateEnd":null,"width":4272,"height":2848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADaini%C5%B3_monumentas_2015_%282%29.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Daini%C5%B3_monumentas_2015_%282%29.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Daini%C5%B3_monumentas_2015_%282%29.JPG/1920px-Daini%C5%B3_monumentas_2015_%282%29.JPG","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Daini%C5%B3_monumentas_2015_%282%29.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"krikštas","label":"krikštas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"misionierius","label":"misionierius","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"religinis-įvykis","label":"religinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Bruno of Querfurt","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0,3.0,2.5,2.0,1.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Dainiai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration redundant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Netimeras.md","title":"Netimeras","itemType":"asmuo","relationType":"commemoration_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-19T01:55:19.370122+03:00","reviewedAt":"2026-07-19T01:55:44.287128+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma memorialinė informacinė plokštė su lietuvišku ir anglišku tekstu apie 1009 m. įvykį.","metadataEvidence":"Kandidato aprašas nurodo Dainių monumentą, o plokštės tekstas tiesiogiai mini Netimerą, jo krikštą ir Brunoną.","confidenceLevel":"high","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai identifikuojamas memorialas, tiesiogiai skirtas Netimero krikšto ir Lietuvos evangelizacijos istoriniam kontekstui.","isPrimary":0}]
+entity_id: "ent-4e8f580499ebbac188c665fd"
+canonical_name: "Netimeras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Netimeras"]
+sameAs: []
+canonical_biography: "Čia apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio brolio rankos. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009)."
 ---
 # Netimeras
 
@@ -81,7 +88,7 @@ media_all_json: |-
 <a id="claim-t-19172"></a>
 - t-003
   teiginys: "Lietuvos „karaliaus“ Netimero krikštas datuojamas 1009 m."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1009 m."
@@ -118,7 +125,8 @@ media_all_json: |-
 - id: c-21916
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 26."
   citata_originali: |
     Didžiausia tiki-
     mybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai XI a. vidu-
@@ -139,7 +147,8 @@ media_all_json: |-
 - id: c-21917
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 26."
   citata_originali: |
     Paminėkime tokią grandinę: Lenkijos valdovo
     Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988),
@@ -158,7 +167,8 @@ media_all_json: |-
 - id: c-166954
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 26."
   citata_originali: |
     Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai
     vystėsi iš visų baltų genčių, todėl 1009 m. Vakarų misionierius, būsima-

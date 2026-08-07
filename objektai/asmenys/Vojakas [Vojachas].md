@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0fafb4765484c7863db5bfaa"
+canonical_name: "Vojakas [Vojachas]"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vojakas [Vojachas]"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277."
 ---
 # Vojakas [Vojachas]
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad vojakas [Vojachas] davė broliams raštą, savo antspau
 - id: c-61099
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 88."
   citata_originali: |
     Kita vertus, jis
     suprato, kad nereikia atstumti prašančio atleidimo, tad pasirinko šitai, kas jam rodėsi

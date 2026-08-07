@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4c0901940523e669f8578f3"
+canonical_name: "Heneris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Heneris"]
+sameAs: []
+canonical_biography: "Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip keturiasdešimt metų gyvenusį Baltarusijoje."
 ---
 # Heneris
 
@@ -75,7 +82,8 @@ Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip
 - id: c-174526
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 383."
   citata_originali: |
     Kai
     pažadėdavau didžiausią apdovanojimą tam, kuris atneš­

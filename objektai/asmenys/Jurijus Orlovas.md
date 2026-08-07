@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4e244745f007d1a2aac99d57"
+canonical_name: "Jurijus Orlovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurijus Orlovas"]
+sameAs: []
+canonical_biography: "1976 m. gegužės 12 d. įkurta pirmoji Maskvos Helsinkio grupė (vadovas Jurijus Orlovas), o rudenį panaši grupė įsikūrė Vilniuje."
 ---
 # Jurijus Orlovas
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-21793
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
     sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fbb051e6c72b6d6e53018d71"
+canonical_name: "Kuno Lichtenšteinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kuno Lichtenšteinas"]
+sameAs: []
+canonical_biography: "Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto, vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina."
 ---
 # Kuno Lichtenšteinas
 
@@ -70,7 +77,8 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
 - id: c-21841
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 47."
   citata_originali: |
     Laikinu lietuvių vienišumu Vokiečių ordino vadovybė netruko pasinau-
     doti. Ordino kariuomenė, išrikiuota trimis pleištais, iš kurių du – vienas
@@ -89,7 +97,8 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
 - id: c-166950
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 47."
   citata_originali: |
     Ordino kariuomenė, išrikiuota trimis pleištais, iš kurių du – vienas
     nukreiptas prieš lenkus, kitas – prieš lietuvius – sudarė frontą. Prasidėjus

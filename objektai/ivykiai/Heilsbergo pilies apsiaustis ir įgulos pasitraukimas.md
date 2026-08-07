@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-62798"></a>
 - t-001
   teiginys: "Apsiaustieji iš bado suvalgė 250 arklių ir jų odas."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Elbingas: 0.83"
@@ -68,7 +68,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-63602
     - c-63604
 
 <a id="claim-t-62799"></a>
@@ -106,7 +105,8 @@ Nenurodyta
 - id: c-63602
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 117-118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 117-118."
   citata_originali: |
     94 (89). Apie tai, kaip buvo palikta Heilsbergo pilis
 
@@ -116,16 +116,15 @@ Nenurodyta
   citata_rodoma: "94 (89). Apie tai, kaip buvo palikta Heilsbergo pilis\n\n   Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis]\nbei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą. Apsiaustieji iš bado suvalgė\n250 arklių ir jų odas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-63604
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis]
     bei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą. Apsiaustieji iš bado suvalgė

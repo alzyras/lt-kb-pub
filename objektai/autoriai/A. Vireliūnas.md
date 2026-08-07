@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f5e4e1e6db535c1cd6867891"
+canonical_name: "A. Vireliūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Vireliūnas","A. Vireliūno"]
+sameAs: []
+canonical_biography: "Vireliūno, KRAŠTO MOKSLO VADOVĖLIS."
 ---
 # A. Vireliūnas
 
@@ -51,7 +58,8 @@ Vireliūno, KRAŠTO MOKSLO VADOVĖLIS.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 320."
   citata_originali: |
     19. A. Vireliūno, KRAŠTO MOKSLO VADOVĖLIS. III-čiam pra­
     džios mokyklos skyriui. Pirmosios geografijos žinios ir atskirų Lietuvos

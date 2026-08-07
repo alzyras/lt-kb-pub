@@ -90,7 +90,8 @@ Nenurodyta
 - id: c-55729
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 7."
   citata_originali: |
     Šubravcų draugijos kodekse suformuluotos narių elgesio
     ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­

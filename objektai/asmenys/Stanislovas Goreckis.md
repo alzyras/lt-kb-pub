@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a844be75b4520606f08952b0"
+canonical_name: "Stanislovas Goreckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Goreckis"]
+sameAs: []
+canonical_biography: "Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninkai Marcelis Suchodolskis - 500 auksinų, Stanislovas Goreckis - 2500 auksinų, Laurynas Volskis - 250 auksinų, ir susidarė 4 000 suma."
 ---
 # Stanislovas Goreckis
 
@@ -58,7 +65,8 @@ Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninka
 - id: c-83558
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 202-203"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 202-203."
   citata_originali: |
     Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
     das už fundatoriaus sielą. Insuper 750 auksinų sumą užrašė,

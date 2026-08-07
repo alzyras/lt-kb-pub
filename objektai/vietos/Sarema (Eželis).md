@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-49a38e55bc0c9a6f21b09678"
+canonical_name: "Sarema (Eželis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sarema (Eželis)"]
+sameAs: []
+canonical_biography: "Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję įlanką, nusigaudavo net į Saremą (Eželį). įlanką, nusigaudavo net į Saremą (Eželį)."
+place_authority: true
+historical_names: []
 ---
 # Sarema (Eželis)
 
@@ -44,7 +53,8 @@ Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję įlanką, nusiga
 - id: c-68621
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 62."
   citata_originali: |
     XIII amžiaus pra-
     džioje lietuviai buvo tikras rusų siaubas. Kai XII amž. gale Li-

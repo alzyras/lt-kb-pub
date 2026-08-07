@@ -106,7 +106,8 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - id: c-78631
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247."
   citata_originali: |
     Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
     Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -

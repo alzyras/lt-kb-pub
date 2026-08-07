@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a933d4b6d11b35a6a17faaf"
+canonical_name: "Pjeras Šomprė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Pjeras Šomprė"]
+sameAs: []
+canonical_biography: "Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė, Francua Noelio ir Edvardo Mėjerio mitologinių žodynų."
 ---
 # Pjeras Šomprė
 
@@ -53,7 +60,8 @@ Narbutas lyginamąją mitologinę medžiagą daugiausia ėmė iš Pjero Šomprė
 - id: c-173284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 25."
   citata_originali: |
     Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
     ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­

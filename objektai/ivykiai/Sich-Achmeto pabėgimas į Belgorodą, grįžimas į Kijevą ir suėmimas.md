@@ -135,7 +135,8 @@ Nenurodyta
 - id: c-169985
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 321."
   citata_originali: |
     п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą
     Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­

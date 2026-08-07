@@ -49,19 +49,20 @@ media_all_json: |-
 <a id="claim-t-12379"></a>
 - t-001
   teiginys: "Kryžiuočiai siekė užkariauti Žemaitiją kaip sausumos jungtį su Livonijos ordinu."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pradinis fragmentas per silpnas, bet citata palaiko aiškesnį faktą apie Livonijos ordiną."
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
+    - c-14986
     - c-36911
-    - c-181273
 
 <a id="claim-t-179351"></a>
 - t-002
   teiginys: "1418 m. rugpjūčio 11 d. Livonijos ordino magistras iš Rygos rašė laišką Prūsijos magistrui."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,6 +74,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   temporaliniai_duomenys: "įvykio data: 1418 m.; įvykio data: 1419 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163085
     - c-181302
@@ -80,7 +82,7 @@ media_all_json: |-
 <a id="claim-t-179352"></a>
 - t-003
   teiginys: "1380 m. kovo 26 d. Rygoje sudarytos paliaubos tarp Livonijos magistro ir Lietuvos didžiojo kunigaikščio Jogailos."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -100,7 +102,7 @@ media_all_json: |-
 <a id="claim-t-179356"></a>
 - t-004
   teiginys: "Maskvos ginklų sutriuškintas Livonijos ordino magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gotardas Ketleris: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -112,12 +114,12 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-163115
-    - c-181263
+    - c-186067
 
 <a id="claim-t-179357"></a>
 - t-005
   teiginys: "Mindaugo krikštas nepašalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Žemaitija."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuva: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -131,12 +133,12 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-163065
-    - c-181276
+    - c-186062
 
 <a id="claim-t-179363"></a>
 - t-006
   teiginys: "Apie 1396 m. Liksnoje rašytas laiškas buvo adresuotas Livonijos magistrui ir turėjo būti nedelsiant atiduotas."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -149,15 +151,14 @@ media_all_json: |-
   temporaliniai_duomenys: "įvykio data: 1396 m.; įvykio data: apie 1396 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Citata palaiko adresatą ir perdavimo nurodymą; pašalintos svetimkalbės nuotrupos."
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163066
-    - c-181262
 
 <a id="claim-t-179366"></a>
 - t-007
   teiginys: "Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Livonijos ordinas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -171,15 +172,14 @@ media_all_json: |-
   temporaliniai_duomenys: "įvykio data: 1410 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintos perteklinės formuluotės ir patikslintas teiginys apie Livonijos ordino šaką."
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-163129
-    - c-181271
 
 <a id="claim-t-179367"></a>
 - t-008
   teiginys: "Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Vitebskas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -193,6 +193,7 @@ media_all_json: |-
   temporaliniai_duomenys: "įvykio data: 1410 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata apie Vytautą, Smolensko pulkus ir Vitebsko atgavimą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163107
     - c-181275
@@ -200,7 +201,7 @@ media_all_json: |-
 <a id="claim-t-179369"></a>
 - t-009
   teiginys: "1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kalavijuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -217,29 +218,10 @@ media_all_json: |-
     - c-163068
     - c-181295
 
-<a id="claim-t-179370"></a>
-- t-010
-  teiginys: "Livonijos ordinas atskubėjo į pagalbą kryžiuočiams, o Vytautas turėjo trauktis Vilniaus link."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonijos ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36906
-    - c-163121
-    - c-181255
-    - c-181268
-
 <a id="claim-t-179374"></a>
-- t-011
+- t-010
   teiginys: "1398 m. spalio 12 d. Salyno sutarties ratifikavime dalyvavo Prūsų ir Livonijos ordinų magistrai, Varmijos ir Sambijos vyskupai bei daug komtūrų."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -254,14 +236,11 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Citata leidžia papildyti datą ir suvienodinti formuluotę."
   pagrindžia:
     - c-163103
-    - c-181278
-    - c-163078
-    - c-181274
 
 <a id="claim-t-179377"></a>
-- t-012
+- t-011
   teiginys: "1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -279,9 +258,9 @@ media_all_json: |-
     - c-181252
 
 <a id="claim-t-179378"></a>
-- t-013
+- t-012
   teiginys: "Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -291,16 +270,15 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163121
-    - c-181268
-    - c-36906
-    - c-181255
+    - c-186061
 
 <a id="claim-t-179379"></a>
-- t-014
+- t-013
   teiginys: "Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -313,13 +291,11 @@ media_all_json: |-
   pagrindžia:
     - c-163078
     - c-181274
-    - c-163103
-    - c-181278
 
 <a id="claim-t-179381"></a>
-- t-015
+- t-014
   teiginys: "1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -337,22 +313,23 @@ media_all_json: |-
     - c-181251
 
 <a id="claim-t-179382"></a>
-- t-016
+- t-015
   teiginys: "Karaliaučiaus Slaptajame archyve saugoto laiško adresas nurodė jį nedelsiant atiduoti Livonijos magistrui."
-  atnaujinta: "2026-07-19 19:01"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   temporaliniai_duomenys: "įvykio data: 1410 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį teiginį su konkretesniu laiško apibūdinimu."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163066
     - c-181262
 
 <a id="claim-t-179384"></a>
-- t-017
+- t-016
   teiginys: "1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -364,14 +341,15 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1251 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163061
-    - c-181290
+    - c-181240
 
 <a id="claim-t-179387"></a>
-- t-018
+- t-017
   teiginys: "1380 m. Jogaila sudarė paliaubas su Livonijos magistru Rygoje, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Livonijos ordinas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -388,12 +366,12 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-163097
-    - c-181279
+    - c-163118
 
 <a id="claim-t-179388"></a>
-- t-019
+- t-018
   teiginys: "Gedimino vardu rašytų laiškų klastojimas citatoje siejamas su Rygos arkivyskupo ir Livonijos ordino brolių konfliktu."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -403,14 +381,15 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=10"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163060
     - c-181239
 
 <a id="claim-t-179389"></a>
-- t-020
+- t-019
   teiginys: "Priartėjus Livonijos magistro vedamiems pulkams, Valenrodo kariauna pasuko Vilniaus link."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -420,33 +399,14 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-163084
-    - c-181259
-
-<a id="claim-t-179390"></a>
-- t-021
-  teiginys: "Dinaburgo komtūras pranešė Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonijos ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-163076
-    - c-163113
-    - c-181237
-    - c-181292
 
 <a id="claim-t-179391"></a>
-- t-022
+- t-020
   teiginys: "Nuo 1237 m. Livonijos ordinas buvo Kryžiuočių ordino šaka, bet faktiškai veikė atskirai ir vykdė savarankišką politiką."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -459,15 +419,15 @@ media_all_json: |-
   semantiniai_rysiai: "Livonijos ordinas priklausė Kryžiuočių ordinas (0.95)"
   temporaliniai_duomenys: "įvykio data: po 1237 m.; įvykio data: 1237 m."
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-00350
     - c-181265
 
 <a id="claim-t-179392"></a>
-- t-023
+- t-021
   teiginys: "Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Livonijos ordinas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -483,12 +443,11 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-163129
-    - c-181271
 
 <a id="claim-t-179393"></a>
-- t-024
+- t-022
   teiginys: "Mūšyje žuvo daug livoniečių, tarp jų Kalavijuočių riterių ordino magistras Frankas Kirskorffas."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Frankas Kirskorffas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -498,15 +457,15 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Frankas Kirskorffas: mention_match, person, gap=17"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Frankas Kirskorffas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-163094
     - c-181243
 
 <a id="claim-t-179394"></a>
-- t-025
+- t-023
   teiginys: "1424 m. Niešavos sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Vokiečių ir Livonijos ordinų žemėse."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -519,32 +478,15 @@ media_all_json: |-
   temporaliniai_duomenys: "sutarties data: 1424 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata mini ir Vokiečių ordino žemes, todėl teiginį reikia patikslinti."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-36912
     - c-181286
 
-<a id="claim-t-179398"></a>
-- t-026
-  teiginys: "Taikos sutartyje Livonijos ordino pusėje buvo minimi tarpininkai, tarp jų Rygos arkivyskupas, kapitula ir miesto atstovai."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonijos ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-163067
-    - c-181266
-    - c-181277
-
 <a id="claim-t-179399"></a>
-- t-027
+- t-024
   teiginys: "Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską."
-  atnaujinta: "2026-07-24 15:56"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vitebskas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -555,17 +497,15 @@ media_all_json: |-
   ryšio_paaiskinimas: "Citata nurodo, kad Švitrigaila kartu su ordino riteriais puolė Vitebską."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   semantiniai_rysiai: "Švitrigaila puolė Vitebskas (0.90); Livonijos ordinas puolė Vitebskas (0.88)"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163124
-    - c-163067
-    - c-181266
-    - c-181277
+    - c-163112
 
 <a id="claim-t-179402"></a>
-- t-028
+- t-025
   teiginys: "Jogailos kariuomenė kartu su Livonijos magistru pasiuntė būrius Skirgailai į pagalbą prie Polocko."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Skirgaila: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -580,28 +520,10 @@ media_all_json: |-
     - c-163128
     - c-181291
 
-<a id="claim-t-179405"></a>
-- t-029
-  teiginys: "Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vitebskas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė nurodo, kad Švitrigaila kartu su Livonijos ordino riteriais puolė Vitebską."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Švitrigaila puolė Vitebskas (0.90)"
-  pagrindžia:
-    - c-163112
-    - c-181281
-
 <a id="claim-t-179406"></a>
-- t-030
+- t-026
   teiginys: "1248 m. Mindaugo giminaičių opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -613,14 +535,15 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1248 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163070
     - c-181250
 
 <a id="claim-t-179407"></a>
-- t-031
+- t-027
   teiginys: "Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -630,14 +553,14 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163086
-    - c-181257
 
 <a id="claim-t-179408"></a>
-- t-032
+- t-028
   teiginys: "Livonijos magistro vedami pulkai prisijungė prie Valenrodo lauktos kariuomenės, kuri po Ukmergės ir Visevaldės užėmimo pasuko Vilniaus link."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -647,14 +570,14 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163084
-    - c-181259
 
 <a id="claim-t-179409"></a>
-- t-033
+- t-029
   teiginys: "Livonijos ordino atstovai nebuvo įsileisti į taikos derybas, todėl Aleksandras turėjo atsisakyti savo sąjungininko."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -667,12 +590,11 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-163071
-    - c-181260
 
 <a id="claim-t-179410"></a>
-- t-034
+- t-030
   teiginys: "1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -690,9 +612,9 @@ media_all_json: |-
     - c-181240
 
 <a id="claim-t-179411"></a>
-- t-035
+- t-031
   teiginys: "Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Švitrigaila: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -703,15 +625,15 @@ media_all_json: |-
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo Mykolo vadovautus pulkus prieš Švitrigailą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   semantiniai_rysiai: "Lenkai kariavo prieš Švitrigaila (0.84); Lietuviai kariavo prieš Švitrigaila (0.84)"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163116
     - c-181299
 
 <a id="claim-t-179414"></a>
-- t-036
+- t-032
   teiginys: "Livonijos ordinas sudarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -721,14 +643,15 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=10"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163078
     - c-181274
 
 <a id="claim-t-179415"></a>
-- t-037
+- t-033
   teiginys: "Vytautas Konstancijoje atakavo Vokiečių ir Livonijos ordinus, pasinaudodamas Žemaičių krikštu."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -738,14 +661,15 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-36908
-    - c-181283
+    - c-186066
 
 <a id="claim-t-179417"></a>
-- t-038
+- t-034
   teiginys: "1260 m. liepos 13 d. Durbės mūšyje buvo sutriuškinta Livonijos ordino šaka, Prūsijos kryžiuočiai ir jų talkininkai."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "dalyvavo_musyje -> Durbės mūšis (1260 m.): 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -763,28 +687,10 @@ media_all_json: |-
     - c-163058
     - c-181285
 
-<a id="claim-t-179420"></a>
-- t-039
-  teiginys: "Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonijos ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Jonas: mention_match, person, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Jonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-163067
-    - c-181266
-    - c-181277
-
 <a id="claim-t-179421"></a>
-- t-040
+- t-035
   teiginys: "Livonijos ordinas ir kariuomenė iš Prūsų atskubėjo kryžiuočiams į pagalbą, kai Vytautas puolė pilį atstatančius priešus."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -799,28 +705,10 @@ media_all_json: |-
     - c-163127
     - c-181256
 
-<a id="claim-t-179424"></a>
-- t-041
-  teiginys: "Vilniaus puolime vokiečiai buvo pasiskirstę į Livonijos ir Prūsijos stovyklas prie Aukštutinės pilies mūrų."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vilnius: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys sieja vokiečius su Vilniaus puolimu, nors citatoje miestas įvardijamas ankstesniame sakinyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vokiečiai puolė Vilnius (0.72)"
-  pagrindžia:
-    - c-163089
-    - c-181294
-
 <a id="claim-t-179426"></a>
-- t-042
+- t-036
   teiginys: "Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija ir išlaikyti krikščionio valdovo statusą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -830,14 +718,14 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163065
-    - c-181276
 
 <a id="claim-t-179431"></a>
-- t-043
+- t-037
   teiginys: "1380 m. Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Livonijos ordinas: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -851,16 +739,15 @@ media_all_json: |-
   temporaliniai_duomenys: "įvykio data: 1380 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys beveik tinkamas, bet citata leidžia pridėti datą ir padaryti sakinį tikslesnį."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163097
     - c-181279
-    - c-163089
-    - c-181294
 
 <a id="claim-t-179434"></a>
-- t-044
+- t-038
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -870,17 +757,15 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163076
     - c-181237
-    - c-163112
-    - c-181281
 
 <a id="claim-t-179436"></a>
-- t-045
+- t-039
   teiginys: "Dinaburgo komtūras pranešė Livonijos magistrui apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Livonija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -893,13 +778,11 @@ media_all_json: |-
   pagrindžia:
     - c-163076
     - c-181237
-    - c-163113
-    - c-181292
 
 <a id="claim-t-193114"></a>
-- t-046
+- t-040
   teiginys: "Po Durbės mūšio sukilusias kiltis ordinas jau buvo nugalėjęs."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -911,9 +794,9 @@ media_all_json: |-
     - c-181297
 
 <a id="claim-t-193115"></a>
-- t-047
+- t-041
   teiginys: "Trečiasis koalicijos narys ir Andriaus suverenas, Livonijos ordinas, mažai tedalyvavo kare."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -924,9 +807,9 @@ media_all_json: |-
     - c-181300
 
 <a id="claim-t-193318"></a>
-- t-048
+- t-042
   teiginys: "Kojelavičiaus pasakojime Livonijos vokiečiai po Livonijos pavergimo užpuolė kuršius, kurie tuo metu priklausė Lietuvai."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -937,9 +820,9 @@ media_all_json: |-
     - c-176046
 
 <a id="claim-t-193321"></a>
-- t-049
+- t-043
   teiginys: "Prūsijos pasienio įvykių metu Livonija, vildamasi pastovios taikos, ilsėjosi nuo karo."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -948,9 +831,10 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-176051
+    - c-186065
 
 <a id="claim-t-193322"></a>
-- t-050
+- t-044
   teiginys: "1466 m. žiemos pabaigoje 700 Livonijos raitelių, siųstų kariauti Prūsijoje, susiruošė į žygį, tikėdamiesi išvengti lietuvių saugų."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -962,23 +846,10 @@ media_all_json: |-
   pagrindžia:
     - c-176051
 
-<a id="claim-t-193323"></a>
-- t-051
-  teiginys: "Ne tikėto antpuolio išgąsdinti Livonijos raiteliai, gal no rėdami užimti patogesnę kovos poziciją, gal pabėgti, paspaudė pentinais žirgus ir, suvirtę į griovius, visi su sirado čia galą."
-  atnaujinta: "2026-07-24 13:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-176051
-    - c-178534
-
 <a id="claim-t-193324"></a>
-- t-052
+- t-045
   teiginys: "Valteriui Pletenbergui, Livonijos magistrui, iš tiesų labai sekėsi kariauti: keliose kauty nėse sumušęs stiprias maskvėnų jėgas, jis įniko siaubti Ivano valdas."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -988,9 +859,9 @@ media_all_json: |-
     - c-176052
 
 <a id="claim-t-193838"></a>
-- t-053
+- t-046
   teiginys: "Prūsijos ir Livonijos vokiečiai ėmė telkti prieš juos kariuomenę Palangoje, norėdami vėl juos pavergti, bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš mušė tą vokiečių kariuomenę5 ."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -998,12 +869,11 @@ media_all_json: |-
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176482
-    - c-181296
 
 <a id="claim-t-196110"></a>
-- t-054
+- t-047
   teiginys: "Konradas Mazovietis ir Kulmo vyskupas Kristijonas pakvietė Livonijos riterius į Dobrynę ginti Mazovijos ir Lenkijos nuo prūsų."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1014,9 +884,9 @@ media_all_json: |-
     - c-178534
 
 <a id="claim-t-196111"></a>
-- t-055
+- t-048
   teiginys: "Kojelavičiaus pasakojime Utenis perkėlė karą iš Kuršo į Livoniją ir privertė priešą ginti savo kraštą, užuot puldinėjus Žemaitiją."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1027,9 +897,9 @@ media_all_json: |-
     - c-178535
 
 <a id="claim-t-196112"></a>
-- t-056
+- t-049
   teiginys: "Kojelavičiaus pasakojime Rygos vyskupas Fridrichas bandė sutaikyti Livonijos ordiną ir Lietuvą, gal dėkodamas Gediminui arba gailėdamasis Livonijos."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1039,10 +909,22 @@ media_all_json: |-
   pagrindžia:
     - c-176049
 
+<a id="claim-t-198923"></a>
+- t-050
+  teiginys: "Livonijos ordinas atskubėjo į pagalbą kryžiuočiams, o Vytautas turėjo trauktis Vilniaus link."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas ir tiksliai perteikia citatos faktą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-181255
+
 <a id="claim-t-198926"></a>
-- t-057
+- t-051
   teiginys: "Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys glaustai perteikia citatoje pateiktus žygių skaičius."
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Prūsų žemė"
@@ -1050,27 +932,14 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys glaustai perteikia citatoje pateiktus žygių skaičius."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-181287
 
-<a id="claim-t-198928"></a>
-- t-058
-  teiginys: "Rygiečių „Sühnenbrief“ teigė, kad jų bendradarbiavimas su pagonimis ordinui atnešė didelių nuostolių ir persekiojimų."
-  atnaujinta: "2026-07-12 23:01"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Originalas turi citatų, išnašos ir fragmentiškos formuluotės triukšmo."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]"
-  temporaliniai_duomenys: "įvykio data: 1331-1333; įvykio data: 1333 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Originalas turi citatų, išnašos ir fragmentiškos formuluotės triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-181253
-
 <a id="claim-t-198929"></a>
-- t-059
+- t-052
   teiginys: "Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pateiktas teiginys turi OCR klaidų ir labiau tinka aiškesnis faktas apie Livonijos ordiną."
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Baltija; mentioned_place: Livonija; mentioned_place: Klaipėda; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Rusnė; mentioned_place: Viena; mentioned_place: Žemaičių kraštas"
@@ -1082,48 +951,39 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-181280
 
-<a id="claim-t-198930"></a>
-- t-060
-  teiginys: "Nuo Mindaugo krikšto Livonijos ordinas buvo įgijęs įtakos Lietuvos vidaus santykiams."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-181242
-    - c-181258
-
 <a id="claim-t-198932"></a>
-- t-061
+- t-053
   teiginys: "Lietuvos valdovai į kovą prieš Ordiną įtraukė visą Lietuvos Didžiąją Kunigaikštiją."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Reikia aiškesnės ir enciklopedinės formos su pilnu valstybės pavadinimu."
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsų žemė; mentioned_place: Viena; mentioned_place: Volga"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181261
 
 <a id="claim-t-198934"></a>
-- t-062
+- t-054
   teiginys: "1372 m. kryžiuočiai Lietuvą puolė vienu metu iš Prūsijos ir Livonijos."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "llm_object: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Prūsų žemė"
   temporaliniai_duomenys: "įvykio data: 1372 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-181282
+    - c-186060
 
 <a id="claim-t-198936"></a>
-- t-063
+- t-055
   teiginys: "Prūsų kryžiuočiams kariaujant su Lenkijos Kazimieru, Lietuvą puolė Livonijos ordinas."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys apie Livonijos ordino veiksmus."
   susije_objektai: "llm_object: Lietuva; llm_object: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsų žemė"
@@ -1136,71 +996,54 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Jonas: mention_match, person, gap=57"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Jonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181298
 
 <a id="claim-t-198937"></a>
-- t-064
+- t-056
   teiginys: "Livonijos ordino vicemagistras prašė Liubeko pagalbos, skųsdamasis dideliais ordino nuostoliais arkliais, ginklais ir gėrybėmis."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Liubekas; mentioned_place: Livonija"
   temporaliniai_duomenys: "įvykio data: 1261 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181289
 
 <a id="claim-t-198943"></a>
-- t-065
+- t-057
   teiginys: "1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "llm_object: Semba; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Livonija; mentioned_place: Semba"
   semantiniai_rysiai: "[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] keliavo į Semba"
   temporaliniai_duomenys: "kelionės data: 1410 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Livonijos ordinas keliavo į Semba“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181245
 
-<a id="claim-t-198958"></a>
-- t-066
-  teiginys: "Ordino kronikose 1345-1382 m. užregistruoti 66 žygiai į Lietuvą iš Prūsijos ir 30 iš Livonijos."
-  atnaujinta: "2026-07-19 18:48"
+<a id="claim-t-198944"></a>
+- t-058
+  teiginys: "Ne tikėto antpuolio išgąsdinti Livonijos raiteliai, gal no rėdami užimti patogesnę kovos poziciją, gal pabėgti, paspaudė pentinais žirgus ir, suvirtę į griovius, visi su sirado čia galą."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; llm_object: Lietuva"
-  semantiniai_rysiai: "[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] surengė žygį į Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1345-1382; įvykio data: 1382 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-181287
-
-<a id="claim-t-198961"></a>
-- t-067
-  teiginys: "Ordino kronikose 1345-1382 m. užregistruota 30 žygių į Lietuvą iš Livonijos."
-  atnaujinta: "2026-07-19 18:48"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsų žemė"
-  semantiniai_rysiai: "[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] surengė žygį į Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1345-1382; įvykio data: 1382 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonijos ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-181287
+    - c-186063
 
 <a id="claim-t-198963"></a>
-- t-068
+- t-059
   teiginys: "1364 m. žiemą Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys aiškus, faktinis ir pagrįstas citata."
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Pernarava; mentioned_place: Veliuona"
@@ -1208,38 +1051,27 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys aiškus, faktinis ir pagrįstas citata."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-181236
 
 <a id="claim-t-198967"></a>
-- t-069
+- t-060
   teiginys: "1372 m. Lietuva vienu metu buvo puolama iš Prūsijos ir Livonijos."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; llm_object: Lietuva"
   temporaliniai_duomenys: "įvykio data: 1372 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-181282
 
-<a id="claim-t-198969"></a>
-- t-070
-  teiginys: "Rygai kritus, Gediminas neteko paramos prieš Livonijos ordiną, kuris beveik iki Gedimino valdymo pabaigos puldinėjo Lietuvą."
-  atnaujinta: "2026-07-12 23:01"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]"
-  semantiniai_rysiai: "[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] puolė Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1331-1333; įvykio data: 1333 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-181253
-
 <a id="claim-t-198974"></a>
-- t-071
+- t-061
   teiginys: "1364 m. sausį Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys, paremtas citatos duomenimis."
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Pernarava; mentioned_place: Veliuona"
@@ -1247,13 +1079,33 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, paremtas citatos duomenimis."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-181236
 
+<a id="claim-t-198977"></a>
+- t-062
+  teiginys: "Dinaburgo komtūras pranešė Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatos informaciją apie pranešimą Livonijos magistrui."
+  susije_objektai: "mentioned_place: Livonija; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dinaburgas; mentioned_place: Vengrija; mentioned_place: Vilnius"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Livonijos ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-181292
+
 <a id="claim-t-198980"></a>
-- t-072
+- t-063
   teiginys: "Andrius Algirdaitis 1385 m. spalio 10 d. pasidavė Livonijos ordinui kaip vasalas, siekdamas atplėšti Polocką nuo LDK."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1267,14 +1119,76 @@ media_all_json: |-
   ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-176486
-    - c-181293
+    - c-186064
 
-<a id="claim-t-198983"></a>
-- t-073
-  teiginys: "Jogailos prieš Livonijos kariuomenę pasiųstas Vytautas sudarė taiką, gavęs pažadą dėl Sūduvos ir Žemaičių pripažinimo."
-  atnaujinta: "2026-07-12 23:01"
+<a id="claim-t-198995"></a>
+- t-064
+  teiginys: "Per Prūsų ir Livonijos magistrų surengtą puotą Salyno suvažiavime Vytautas paskelbtas Lietuvos karaliumi."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys gramatiškas, enciklopedinis ir tiesiogiai atitinka citatos informaciją."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Salynas; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Prūsų žemė"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-181244
+
+<a id="claim-t-198997"></a>
+- t-065
+  teiginys: "Salyno suvažiavime per Prūsų ir Livonijos magistrų surengtą puotą Vytautas buvo paskelbtas Lietuvos karaliumi."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Prūsų žemė; mentioned_place: Salynas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-181244
+
+<a id="claim-t-198999"></a>
+- t-066
+  teiginys: "Livonijos ordinas nebenorėjo paklusti Rygos arkivyskupui, pas kurį krikštijosi Tautvilas."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys aiškiai nusako Livonijos ordino santykį su Rygos arkivyskupu ir yra paremtas citata."
+  susije_objektai: "mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Ryga"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-181264
+
+<a id="claim-t-199001"></a>
+- t-067
+  teiginys: "Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata apie Livonijos ordino riterius."
+  susije_objektai: "llm_object: Vitebskas; mentioned_place: Livonija; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-181281
+
+<a id="claim-t-203054"></a>
+- t-068
+  teiginys: "Zenonas Ivinskis rašo, kad „Sühnenbrief“ rygiečiai pažymėjo, jog jiems bendradarbiaujant su pagonimis ordinas patyrė didelių nuostolių ir sunkių persekiojimų."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Originalas turi citatų, išnašos ir fragmentiškos formuluotės triukšmo."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]"
+  temporaliniai_duomenys: "įvykio data: 1331-1333; įvykio data: 1333 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Originalas turi citatų, išnašos ir fragmentiškos formuluotės triukšmo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-181253
+
+<a id="claim-t-203098"></a>
+- t-069
+  teiginys: "Zenonas Ivinskis rašo, kad Jogailos prieš Livonijos kariuomenę pasiųstas Vytautas sudaręs taiką, nes iš Livonijos ordino gavęs pažadą, jog jam bus pripažinta Sūduva ir Žemaičiai."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Originalas yra per ilgas, turi išnašų ir neaiškią pradžią."
   susije_objektai: "llm_object: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Sūduva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija"
@@ -1283,61 +1197,176 @@ media_all_json: |-
   pagrindžia:
     - c-181241
 
-<a id="claim-t-198988"></a>
-- t-074
-  teiginys: "Mindaugas, pasinaudodamas priešų nesantaika, kreipėsi į Livonijos ordino magistrą ir siuntė jam brangių dovanų."
-  atnaujinta: "2026-07-12 23:01"
+<a id="claim-t-203120"></a>
+- t-070
+  teiginys: "Zenono Ivinskio teigimu, nuo Mindaugo krikšto Livonijos ordinas buvo įgijęs įtakos Lietuvos vidaus santykiams."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradinis fragmentas nėra apie Livonijos ordiną; citata palaiko aiškų sakinį apie Mindaugo ryšį su ordinu."
-  susije_objektai: "mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsų žemė; mentioned_place: Ryga"
-  temporaliniai_duomenys: "įvykio data: 1390 m."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-181258
+
+<a id="claim-t-203124"></a>
+- t-071
+  teiginys: "Ordino kronikose 1345–1382 m. užregistruota 30 žygių iš Livonijos."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsų žemė"
+  semantiniai_rysiai: "[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] surengė žygį į Lietuva"
+  temporaliniai_duomenys: "įvykio data: 1345-1382; įvykio data: 1382 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis fragmentas nėra apie Livonijos ordiną; citata palaiko aiškų sakinį apie Mindaugo ryšį su ordinu."
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonijos ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-181264
+    - c-181287
 
-<a id="claim-t-198995"></a>
+<a id="claim-t-203125"></a>
+- t-072
+  teiginys: "Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių žygiai ir 30 žygių iš Livonijos."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; llm_object: Lietuva"
+  semantiniai_rysiai: "[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] surengė žygį į Lietuva"
+  temporaliniai_duomenys: "įvykio data: 1345-1382; įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-181287
+
+<a id="claim-t-203143"></a>
+- t-073
+  teiginys: "Michał Baliński knygoje „Vilniaus miesto istorija“ nurodo, kad Karaliaučiaus Slaptajame archyve saugoto laiško adresas liepė šį laišką tikrai ir nedelsiant atiduoti Livonijos magistrui."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata palaiko aiškesnį teiginį su konkretesniu laiško apibūdinimu."
+  susije_objektai: "mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Tanenbergas; mentioned_place: Vysla"
+  temporaliniai_duomenys: "įvykio data: 1410 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį teiginį su konkretesniu laiško apibūdinimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-163066
+
+<a id="claim-t-203227"></a>
+- t-074
+  teiginys: "Ukmergę ir Visevaldės pilį užėmusi kariauna, priartėjus Livonijos magistro į pagalbą vedamiems pulkams, kurių laukė Valenrodas, pasuko Vilniaus link."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-181259
+
+<a id="claim-t-203229"></a>
 - t-075
-  teiginys: "Per Prūsų ir Livonijos magistrų surengtą puotą Salyno suvažiavime Vytautas paskelbtas Lietuvos karaliumi."
-  atnaujinta: "2026-07-19 16:46"
+  teiginys: "Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, o ši šaka nedalyvavo netrukus įvykusiame Tanenbergo mūšyje."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys gramatiškas, enciklopedinis ir tiesiogiai atitinka citatos informaciją."
-  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Salynas; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Prūsų žemė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  sudarymo_pagrindimas: "Pašalintos perteklinės formuluotės ir patikslintas teiginys apie Livonijos ordino šaką."
+  susije_objektai: "llm_object: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Livonija; mentioned_place: Tanenbergas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Vysla"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] sudarė sutartį su [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]"
+  temporaliniai_duomenys: "įvykio data: 1410 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintos perteklinės formuluotės ir patikslintas teiginys apie Livonijos ordino šaką."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-181244
-    - c-181267
+    - c-181271
 
-<a id="claim-t-198997"></a>
+<a id="claim-t-203230"></a>
 - t-076
-  teiginys: "Salyno suvažiavime per Prūsų ir Livonijos magistrų surengtą puotą Vytautas buvo paskelbtas Lietuvos karaliumi."
-  atnaujinta: "2026-07-19 16:46"
+  teiginys: "Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka; ji nedalyvavo netrukus įvykusiame Tanenbergo mūšyje."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata."
-  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Prūsų žemė; mentioned_place: Salynas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  susije_objektai: "llm_object: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Tanenbergas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Vysla"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] sudarė sutartį su [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]"
+  temporaliniai_duomenys: "įvykio data: 1410 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-181244
-    - c-181267
+    - c-181271
 
-<a id="claim-t-198999"></a>
+<a id="claim-t-203271"></a>
 - t-077
-  teiginys: "Livonijos ordinas nebenorėjo paklusti Rygos arkivyskupui, pas kurį krikštijosi Tautvilas."
-  atnaujinta: "2026-07-19 17:58"
+  teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad Livonijos ordino atstovai nebuvo įsileisti į taikos derybas, todėl Aleksandras turėjo atsisakyti savo sąjungininko."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys aiškiai nusako Livonijos ordino santykį su Rygos arkivyskupu ir yra paremtas citata."
-  susije_objektai: "mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Ryga"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Viena"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-181264
+    - c-181260
+
+<a id="claim-t-203317"></a>
+- t-078
+  teiginys: "Albertas Vijūkas-Kojelavičius teigia, kad Livonijos magistrui Valteriui Pletenbergui labai sekėsi kariauti: keliose kautynėse sumušęs stiprias maskvėnų jėgas, jis įniko siaubti Ivano valdas."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-176052
+
+<a id="claim-t-203370"></a>
+- t-079
+  teiginys: "Knygoje „Lietuvos istorija“ teigiama, kad Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija ir kartu Vakarų jėgų bei popiežiaus akyse išlaikyti krikščionio valdovo statusą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas ir paremtas citata apie Livoniją."
+  susije_objektai: "mentioned_place: Livonija; mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-163061
+
+<a id="claim-t-203511"></a>
+- t-080
+  teiginys: "Livonijos magistrui skirtas laiškas buvo rašytas Liksnoje antrą savaitę po Viešpaties Prisikėlimo ir datuojamas turbūt 1396 m."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata palaiko adresatą ir perdavimo nurodymą; pašalintos svetimkalbės nuotrupos."
+  susije_objektai: "mentioned_place: Livonija; mentioned_place: Liksna"
+  temporaliniai_duomenys: "įvykio data: 1396 m.; įvykio data: apie 1396 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata palaiko adresatą ir perdavimo nurodymą; pašalintos svetimkalbės nuotrupos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-163113
+
+<a id="claim-t-203549"></a>
+- t-081
+  teiginys: "Pasak Lietuvos metraščio, Prūsijos ir Livonijos vokiečiai Palangoje telkė kariuomenę, norėdami vėl pavergti žemaičius, tačiau susibūrę žemaičiai nuo kopų akmenimis išmušė vokiečių kariuomenę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-181296
+
+<a id="claim-t-203552"></a>
+- t-082
+  teiginys: "Pasak Alberto Vijūko-Kojelavičiaus, 1466 m. žiemos pabaigoje 700 Livonijos raitelių, išsiųstų kariauti Prūsijoje, susiruošė į žygį manydami, kad lengviau išvengs lietuvių saugų."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-176050
+
+<a id="claim-t-203553"></a>
+- t-083
+  teiginys: "Alberto Vijūko-Kojelavičiaus „Lietuvos istorijoje“ rašoma, kad 1466 m. žiemos pabaigoje į žygį susiruošė 700 kariauti Prūsijoje siųstų Livonijos raitelių, tikėjusių, jog taip lengviau išvengs lietuvių saugų."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-176051
 
 ## Reikšmingi paminėjimai
 - c-042
@@ -1429,7 +1458,8 @@ media_all_json: |-
 - id: c-00350
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 228."
   citata_originali: |
     Tačiau ordinas nesudarė
     savarankiškos valstybės: nuo 1237 m. jis buvo tų pačių kry-
@@ -1444,12 +1474,35 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-020
+
+- id: c-14986
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Pirmuoju tokiu draugu vi­
+    suomet būdavo Ordinas. Bet ir pastarasis, bauginamas Vytau­
+    to laimėjimų rytuose, verčiamas buvo ieškotis taikos Lietuvoj.
+    Kryžiuočiai gerai suprato, kad Vytauto galybės išaugimas ne
+    tik jam padės atsiskaityti su Lenkija, bet ir jų pačių norams —
+    užkariauti Žemaitiją, kaip tiesioginį sausažemiu susisiekimą su
+    Livonijos Ordinu ir įsigalėti rytuose — padarys galą.
+  citata_rodoma: "Bet ir pastarasis, bauginamas Vytau­\nto laimėjimų rytuose, verčiamas buvo ieškotis taikos Lietuvoj.\nKryžiuočiai gerai suprato, kad Vytauto galybės išaugimas ne\ntik jam padės atsiskaityti su Lenkija, bet ir jų pačių norams —\nužkariauti Žemaitiją, kaip tiesioginį sausažemiu susisiekimą su\nLivonijos Ordinu ir įsigalėti rytuose — padarys galą."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 - id: c-22663
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 29."
   citata_originali: |
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
     jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
@@ -1460,32 +1513,31 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-030
 
 - id: c-36906
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 73."
   citata_originali: |
     Tuo tarpu atsiskubino ir kryžiuočiams į pa­
     galbą Livonijos Ordinas ir daugiau kariuomenės iš Prūsų. Vy­
     tautas turėjo trauktis atgal Vilniaus link. Ordino kariuomenė
     patraukė iš paskos.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
-    - t-013
-
 - id: c-36908
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 132."
   citata_originali: |
     Pasinaudodamas Žemaičių krikštu, Vytautas ata­
     kavo Vokiečių ir Livonijos Ordinus Konstancijoje, kovojo dėl
@@ -1499,13 +1551,14 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-033
 
 - id: c-36911
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 180."
   citata_originali: |
     Pirmuoju tokiu draugu vi­
     suomet būdavo Ordinas. Bet ir pastarasis, bauginamas Vytau­
@@ -1528,7 +1581,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 267."
   citata_originali: |
     1424 metais buvo dar padaryta prekybos sutar­
     tis Niešavo miestelyje. Čia aktu, pavadintu „über transitus“
@@ -1543,12 +1597,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-023
 
 - id: c-163058
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 29."
   citata_originali: |
     Mūšio padariniai
     1260 m. liepos 13 d. Durbės mūšis yra vie-
@@ -1572,12 +1627,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-034
 
 - id: c-163060
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 107."
   citata_originali: |
     Vėliau viskas byloja, jog Gediminas per pasiun­
     tinius nurodė, kaip sako Jerošinas, garantuoti, kad
@@ -1604,12 +1660,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-018
 
 - id: c-163061
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 31."
   citata_originali: |
     Tačiau praėjus keletui
     metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje
@@ -1620,17 +1677,19 @@ media_all_json: |-
     krikščionio valdovo statusą.
   citata_rodoma: "Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su \nkrikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti \nkrikščionio valdovo statusą."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-016
+    - t-079
 
 - id: c-163065
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 31."
   citata_originali: |
     Mindaugo krikštas nepa-
     šalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Že-
@@ -1647,12 +1706,13 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-042
+    - t-036
 
 - id: c-163066
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 178."
   citata_originali: |
     Rašyta: Liksnoje, antrą savaitę po Viešpaties
     Prisikėlimo. Be metų (turbūt, 1396).
@@ -1663,18 +1723,20 @@ media_all_json: |-
     šis laiškas turi būti tikrai ir nedelsiant atiduotas).
   citata_rodoma: "Be metų (turbūt, 1396).\n(Iš originalo Karaliaučiaus Slaptajame Archyve) \nAdresas toks: „Dėmė Erwerdighen Meister to Lyfflande \nmit Werdicheit kome desse Breef dorch dach und nacht sun­\nder alle sümen B.\" (Didžiai gerbiamam Livonijos magistrui \nšis laiškas turi būti tikrai ir nedelsiant atiduotas)."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
-    - t-016
+    - t-015
+    - t-073
 
 - id: c-163067
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 90-91"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 90-91."
   citata_originali: |
     Be išsamaus išvar­
     dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos
@@ -1703,18 +1765,15 @@ media_all_json: |-
   citata_rodoma: "Be išsamaus išvar­\ndijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos \nkapitulos, Eželio* vyskupo, Dorpato vyskupo ir paties \nmiesto vyskupo, Danijos karaliaus ginkluoto būrio vado, \nVokiečių ordinom  ir Rygos miesto pusės ir be nurodymo \nžemių, kurias tos sutarties sąlygos turėjo paliesti1 1 , nieko dau­\ngiau nebuvo, tik keli punktai apie saugumą keliauninkų abiejų \nbesitariančių pusių kraštuose, apie teisišką sprendimą gin­\n* wenbrulie), Mintaujos komtūras ir\nEželis (Oeselis), dab. Saremas brolis Otto (Blanehom).\nm n\nIš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir \ntik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.\n74\n\n## Puslapis 91\n\nI  KNYGA\nčų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­\nžinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-026
-    - t-027
-    - t-039
-
 - id: c-163068
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 294."
   citata_originali: |
     Apsirūpinus ar­
     tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
@@ -1738,7 +1797,8 @@ media_all_json: |-
 - id: c-163070
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 29."
   citata_originali: |
     Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
     tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
@@ -1752,12 +1812,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-026
 
 - id: c-163071
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 209."
   citata_originali: |
     Abi pusės pasižadėjo neliesti viena antrai pripažintų že-
     mių ir laisvai praleisti per savo žemes kitos valstybės pasiun-
@@ -1773,7 +1834,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-029
 
 - id: c-163074
   autorius: "Petras Dusburgietis"
@@ -1799,12 +1860,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011
 
 - id: c-163076
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 184."
   citata_originali: |
     Livoniae)
     TI, p. 136, N533
@@ -1820,15 +1882,15 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
-    - t-044
-    - t-045
+    - t-038
+    - t-039
 
 - id: c-163078
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 136."
   citata_originali: |
     Ordinu
     (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
@@ -1847,14 +1909,14 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-014
-    - t-036
+    - t-013
+    - t-032
 
 - id: c-163084
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 148."
   citata_originali: |
     Neilgai teatsilaikė įgula tos nors labai stip­
     rios tvirtovės, puolama tokių didžiulių priešo pajėgų. Už­
@@ -1871,13 +1933,14 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-032
+    - t-019
+    - t-028
 
 - id: c-163085
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166."
   citata_originali: |
     Pranešimas apie jos mirtį yra 74
     Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns. T. IU,
@@ -1896,7 +1959,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 128."
   citata_originali: |
     Europą, atitaisė klai­
     dingą apie Lietuvą katalikiškų tautų nuomonę, bet dar buvo
@@ -1912,12 +1976,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-027
 
 - id: c-163089
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139."
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
     čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
@@ -1926,18 +1991,16 @@ media_all_json: |-
     sienų. Visos tuometinės artilerijos karo mašinos ir ugnias-
     vaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-041
-    - t-043
-
 - id: c-163094
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 236."
   citata_originali: |
     Kautynės prasidėjo prie
     mažo upelio, laukuose, netoli nuo dabartinės bažnyčios.
@@ -1951,12 +2014,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-022
 
 - id: c-163097
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50."
   citata_originali: |
     Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
     dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
@@ -1973,14 +2037,15 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-043
+    - t-017
+    - t-037
 
 - id: c-163103
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 79."
   citata_originali: |
     Jei Ordinas pageidautų, Vytautas turi,
     jei tokia jo būtų valia, pasistengti, kad ta sutartis būtų patvir­
@@ -1990,18 +2055,18 @@ media_all_json: |-
     mijos ir Sambijos vyskupai ir daug komtūrų.
   citata_rodoma: "Iškilmingas tos sutarties ratifikavimas (patvir­\ntinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­\nmune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­\nmijos ir Sambijos vyskupai ir daug komtūrų."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-014
+    - t-010
 
 - id: c-163107
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 178-179"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 178-179."
   citata_originali: |
     (Iš originalo Karaliaučiaus Slaptajame Archyve)
     Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande
@@ -2033,7 +2098,8 @@ media_all_json: |-
 - id: c-163112
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156."
   citata_originali: |
     Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
     ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
@@ -2046,18 +2112,18 @@ media_all_json: |-
     bei alpių karščių.
   citata_rodoma: "Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­\nko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­\nrius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­\nlenske pulkus, apsupo tą miestą ir po keturias savaites\nužsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į\nnelaisvę. Kitais metais jis buvo išvaduotas dviejų jam palan­\nkių kunigaikščių ir vėl patraukė į mūšio lauką56."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
-    - t-044
+    - t-024
 
 - id: c-163113
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 178."
   citata_originali: |
     Dinaburgo komtūras praneša Livonijos magistrui, kad
     Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;
@@ -2066,18 +2132,18 @@ media_all_json: |-
     nausiąs ir 1.1. Rašyta: Liksnoje, antrą savaitę po Viešpaties
     Prisikėlimo. Be metų (turbūt, 1396).
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
-    - t-045
+    - t-080
 
 - id: c-163114
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Ordino pajėgos
     1260 m. Klaipėdoje prieš Lietuvą buvo
@@ -2101,12 +2167,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-014
 
 - id: c-163115
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 341."
   citata_originali: |
     Ponas ir tėvonis. Šiuo raštu skelbiame vi­
     siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­
@@ -2131,7 +2198,8 @@ media_all_json: |-
 - id: c-163116
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 235."
   citata_originali: |
     Naudodamasis visuotine neapykanta, kurią per sa­
     vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
@@ -2153,12 +2221,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-031
 
 - id: c-163118
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50."
   citata_originali: |
     29
     D o g i e 1 Codex Diplomat. T. V, p. 80.
@@ -2176,18 +2245,20 @@ media_all_json: |-
     kurį giedama „oculi post domini­
     cam"], tai yra kovo 26-ą.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+    - t-017
 
 - id: c-163121
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 136."
   citata_originali: |
     Vy­
     tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
@@ -2207,13 +2278,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-013
+    - t-012
 
 - id: c-163124
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 155-156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 155-156."
   citata_originali: |
     Paimtas su žmona ir vaikais, kuni­
     gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
@@ -2238,13 +2309,14 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-024
 
 - id: c-163127
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 73."
   citata_originali: |
     Bet tuo laiku prisi­
     artino su didele kariuomene Vytautas ir staiga užpuolė priešus,
@@ -2257,13 +2329,14 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-035
 
 - id: c-163128
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 33."
   citata_originali: |
     Bet
     prityręs Kęstutis suprato, kad Jogailos pusėj ne viskas tvarko­
@@ -2282,12 +2355,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-025
 
 - id: c-163129
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 140-141"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 140-141."
   citata_originali: |
     Nuostolis dėl pairusių derybų buvo nedidelis: sąjunga su
     savo tikslų siekiančiu Zigmantu negalėjo būti naudinga Lietuvai.
@@ -2306,12 +2380,13 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
-    - t-023
+    - t-021
 
 - id: c-175874
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 75."
   citata_originali: |
     Po Durbės mūšio sukilusias kiltis ordinas jau buvo
     nugalėjęs. Traidenis net kelis kartus skaudžiai sumušė Livonijos
@@ -2325,12 +2400,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-040
 
 - id: c-175875
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 123."
   citata_originali: |
     Tatai atliko jau Vytautas.
     Trečiasis koalicijos narys ir Andriaus suverenas, Livonijos
@@ -2342,7 +2418,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-047
+    - t-041
 
 - id: c-176046
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2385,7 +2461,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
+    - t-042
 
 - id: c-176049
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2412,12 +2488,12 @@ media_all_json: |-
     vienuolyno abatas Bernardas.
   citata_rodoma: "Fridrichas, \nRygos vyskupas, gal asme­\nniškai jausdamas Gediminui \ndėkingumą už ne vieną kar­\ntą suteiktą pagalbą, o gal \ngailėdamasis karų nukamuotos Livonijos, bandė am­\nžiams sutaikyti Livonijos ordiną ir Lietuvą. Tuo rei­\nkalu jis pasitelkė popiežiaus Jono XXII autoritetą, no­\nrėdamas Livonijos ordiną aukščiausios galios vardu \npriversti pagalvoti apie taiką, o lietuvius, garbingai \npasiuntinybei tarpininkaujant, paskatinti priimti krikš­\nčionybę. Ir viena, ir kita šalis uoliai veikė: pasiunti­\nniais tapo Alėto vyskupas Baltramiejus ir šv."
   statusas: verified
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-056
+    - t-049
 
 - id: c-176050
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2439,11 +2515,13 @@ media_all_json: |-
     gė ledas, galintis atlaikyti bet kokį svorį.
   citata_rodoma: "Ir vieni, ir kiti puikiai atliko pavestus užda­\nvinius.\nSeptyni šimtai Livonij rs raitelių, išsiųstų kariau­\nti Prūsijoje, susiruošė į žygį\n1466 m e ta i\nžiemos pabaigoje, manydami,\nL iv o n ijo s raiteliai žū-\njog tada bus lengviau išven-\nsta  Ž e m a itijo je\ngti lietuvių saugų. Baigėsi\nvasaris, pelkes ir ežerus den­\ngė ledas, galintis atlaikyti bet kokį svorį."
   statusas: verified
-  atnaujinta: "2026-07-13 01:28"
-
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-082
+
 - id: c-176051
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -2472,14 +2550,14 @@ media_all_json: |-
     sta Ž e m a itijo je
     gti lietuvių saugų.
   statusas: verified
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-049
-    - t-050
-    - t-051
+    - t-043
+    - t-044
+    - t-083
 
 - id: c-176052
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2499,12 +2577,13 @@ media_all_json: |-
     li ir paskutinioji.
   citata_rodoma: "K aras su L ivo n ija\nKai Lietuvoje viešpatavo\nramybė, kaimyninėje Livo­\nnijoje siautėjo karas. Valteriui Pletenbergui, Livonijos\nmagistrui, iš tiesų labai sekėsi kariauti: keliose kauty­\nnėse sumušęs stiprias maskvėnų jėgas, jis įniko siaubti\nIvano valdas. Turėdamas apie keturis tūkstančius vy­\nrų, jis nusigavo netoli Pskovo, bet čia jį apsupo devy­\nniasdešimt tūkstančių priešo karių, rodėsi, jog nebeto­\nli ir paskutinioji."
   statusas: verified
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-052
+    - t-045
+    - t-078
 
 - id: c-176482
   autorius: "Anoniminis metraštininkas"
@@ -2526,30 +2605,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-053
-
-- id: c-176486
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    3 Polocko kunigaikštis Andrius Algirdaitis, 1381 m. grįžęs iš
-    emigracijos į Polocką, antrą kartą stojo prieš Jogailą ryšium su
-    jo iškilimu į Lenkijos karalius. Užsibrėžęs atplėšti Polocko kuni­
-    gaikštystę nuo LDK ir paversti ją savo įpėdinių valdom a atskira
-    valstybe, A ndrius Algirdaitis 1385 m. spalio 10 d. aktu pasidavė
-    Livonijos ordinui kaip pastarojo vasalas. 1386 m. vasario mėn,
-    apie 20 d. Andriaus Algirdaičlo pajėgos užėmė du valsčius Polocko
-    ir Vitebsko kunigaikštysčių pasienyje. Livonijos kryžiuočiai, tuo
-    metu grįždami iš trijų savaičių -žygio po Rytų Lietuvą, padėjo
-    Andriui užimti Lukomlį.
-  statusas: verified
-  atnaujinta: "2026-07-12 23:01"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-072
+    - t-046
 
 - id: c-178534
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2584,8 +2640,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-051
-    - t-054
+    - t-047
 
 - id: c-178535
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2613,12 +2668,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-055
+    - t-048
 
 - id: c-181236
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 258."
   citata_originali: |
     Veliuona tepasidavė po
     10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot)
@@ -2628,18 +2684,19 @@ media_all_json: |-
     iki Žeimių, kur buvo įsiveržusi ir Livonijos kryžiuočių kariuomenė.
   citata_rodoma: "Kitų metų žiemą (1364.I.) kryžiuočiai, talkinami Pfalzgrafo\nRuprechto ir jo palydovų, per Ariogalos, Pernaravos sritis patraukė\niki Žeimių, kur buvo įsiveržusi ir Livonijos kryžiuočių kariuomenė."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-068
-    - t-071
+    - t-059
+    - t-061
 
 - id: c-181237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 184."
   citata_originali: |
     Livoniae)
     TI, p. 136, N533
@@ -2650,19 +2707,19 @@ media_all_json: |-
     riausiai 1399).
   citata_rodoma: "136, N533\nDinaburgo komtūro pranešimas Livonijos magistrui apie \nVilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie \nnuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje \npenktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­\nriausiai 1399)."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
-    - t-044
-    - t-045
+    - t-038
+    - t-039
 
 - id: c-181239
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 107."
   citata_originali: |
     Vėliau viskas byloja, jog Gediminas per pasiun­
     tinius nurodė, kaip sako Jerošinas, garantuoti, kad
@@ -2689,28 +2746,31 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-018
 
 - id: c-181240
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 29."
   citata_originali: |
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
     jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
     rūna.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-016
+    - t-030
 
 - id: c-181241
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 349."
   citata_originali: |
     Kronikininko žodžiais, «Vytautas
     ėmė smarkiai bijoti, kad karaliui (Jogailai) visą Prūsiją paėmus,
@@ -2720,17 +2780,18 @@ media_all_json: |-
     ir Žemaičiai. Vytautui labiau rūpėjęs Lietuvos atstatymas, o ne
     Lenkijos reikalas^33.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-073
+    - t-069
 
 - id: c-181242
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 208."
   citata_originali: |
     O Ceklis, tas reikalingas
     tiltas tarp abiejų ordino šakų, buvo skaudžini pralaimėtas, ir jį
@@ -2741,17 +2802,16 @@ media_all_json: |-
     pagoniškų laikų politikos ir vykdė energingus žygius į kryžiuočių
     valdas.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-28 14:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-060
-
 - id: c-181243
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 236."
   citata_originali: |
     Kautynės prasidėjo prie
     mažo upelio, laukuose, netoli nuo dabartinės bažnyčios.
@@ -2765,12 +2825,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-022
 
 - id: c-181244
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 334."
   citata_originali: |
     Ordino ir Vytauto santykiams buvo reikšminga,
     kai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių
@@ -2783,18 +2844,19 @@ media_all_json: |-
     Karūnos -— mokėtų tam tikrą mokestį^7.
   citata_rodoma: "Į iškilmingą ir visą savaitę trukusį Salyno\nsuvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių\njo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą\npuotą Vytautą paskelbė Lietuvos karaliumi. Tai turėjo būti atsa­\nkymas į karalienės Jadvygos reikalavimą, kad Vytautas Lenkijai\n— ženklan didžiosios Lietuvos kunigaikštijos priklausomybės nuo\nKarūnos -— mokėtų tam tikrą mokestį^7."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-075
-    - t-076
+    - t-064
+    - t-065
 
 - id: c-181245
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 349."
   citata_originali: |
     Bet (1410.VIII.)
     Livonijos kariuomenė laivais atvyko Sembon.
@@ -2804,12 +2866,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-065
+    - t-057
 
 - id: c-181250
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 29."
   citata_originali: |
     Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
     tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
@@ -2823,12 +2886,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-026
 
 - id: c-181251
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Ordino pajėgos
     1260 m. Klaipėdoje prieš Lietuvą buvo
@@ -2852,7 +2916,7 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-014
 
 - id: c-181252
   autorius: "Petras Dusburgietis"
@@ -2878,12 +2942,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011
 
 - id: c-181253
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 240."
   citata_originali: |
     Savo «atgailos rašte», vad.
     «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo,
@@ -2895,18 +2960,18 @@ media_all_json: |-
     1333 m. buvo teriojama «Lietuva, kurią vadina Žemaičiais»^3.
   citata_rodoma: "«Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo,\nkad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti\n« nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių\npersekiojimų»^2. Rygai kritus, Gediminas neteko paramos prieš\nordiną, kuris, vidaus priešą įveikęs ir pačią Rygą užvaldęs, beveik\niki pat Gedimino valdymo galo darė Lietuvon puolimus. 1331-\n1333 m."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-058
-    - t-070
+    - t-068
 
 - id: c-181254
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50."
   citata_originali: |
     29
     D o g i e 1 Codex Diplomat. T. V, p. 80.
@@ -2935,7 +3000,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 73."
   citata_originali: |
     Tuo tarpu atsiskubino ir kryžiuočiams į pa­
     galbą Livonijos Ordinas ir daugiau kariuomenės iš Prūsų. Vy­
@@ -2947,14 +3013,14 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-013
+    - t-050
 
 - id: c-181256
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 73."
   citata_originali: |
     Bet tuo laiku prisi­
     artino su didele kariuomene Vytautas ir staiga užpuolė priešus,
@@ -2967,13 +3033,14 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-035
 
 - id: c-181257
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 128."
   citata_originali: |
     Europą, atitaisė klai­
     dingą apie Lietuvą katalikiškų tautų nuomonę, bet dar buvo
@@ -2985,16 +3052,15 @@ media_all_json: |-
     (1417.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-031
-
 - id: c-181258
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 208."
   citata_originali: |
     O Ceklis, tas reikalingas
     tiltas tarp abiejų ordino šakų, buvo skaudžini pralaimėtas, ir jį
@@ -3005,17 +3071,18 @@ media_all_json: |-
     pagoniškų laikų politikos ir vykdė energingus žygius į kryžiuočių
     valdas.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-060
+    - t-070
 
 - id: c-181259
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 148."
   citata_originali: |
     Neilgai teatsilaikė įgula tos nors labai stip­
     rios tvirtovės, puolama tokių didžiulių priešo pajėgų. Už­
@@ -3027,18 +3094,18 @@ media_all_json: |-
     imtasi ypatingų priemonių šalies sostinei ginti.
   citata_rodoma: "Už­\nėmusi Ukmergę, po to Visevaldės45 pilį, kai prisiartino\nLivonijos magistro į pagalbą vedami pulkai, kurių Valen­\nrodas laukė, visa kariauna pasuko Vilniaus link, norėda­\nma Lietuvai ir lenkams suduoti galutinį smūgį. Tačiau at­\nėjus gandui apie tokį didelį žygį, Vilniuje lietuvių irgi buvo\nimtasi ypatingų priemonių šalies sostinei ginti."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-032
+    - t-074
 
 - id: c-181260
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 209."
   citata_originali: |
     Abi pusės pasižadėjo neliesti viena antrai pripažintų že-
     mių ir laisvai praleisti per savo žemes kitos valstybės pasiun-
@@ -3049,17 +3116,18 @@ media_all_json: |-
     pagerėjo.
   citata_rodoma: "(Livonijos ordino atstovai nebuvo įsileisti į\ntaikos derybas: Aleksandras turėjo mesti savo sąjungininką).\n\nBet ir padarius taiką, santykiai su Maskva nė kiek ne-\npagerėjo."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-077
 
 - id: c-181261
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 304."
   citata_originali: |
     Į kovą prieš ordiną Lietuvos valdovai įtraukė visą didžiąją
     kunigaikštiją. Per vieną šimtą metų, prieš Algirdui užmerkiant
@@ -3073,12 +3141,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-061
+    - t-053
 
 - id: c-181262
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 178."
   citata_originali: |
     Rašyta: Liksnoje, antrą savaitę po Viešpaties
     Prisikėlimo. Be metų (turbūt, 1396).
@@ -3089,18 +3158,18 @@ media_all_json: |-
     šis laiškas turi būti tikrai ir nedelsiant atiduotas).
   citata_rodoma: "Be metų (turbūt, 1396).\n(Iš originalo Karaliaučiaus Slaptajame Archyve) \nAdresas toks: „Dėmė Erwerdighen Meister to Lyfflande \nmit Werdicheit kome desse Breef dorch dach und nacht sun­\nder alle sümen B.\" (Didžiai gerbiamam Livonijos magistrui \nšis laiškas turi būti tikrai ir nedelsiant atiduotas)."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-016
+    - t-015
 
 - id: c-181263
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 341."
   citata_originali: |
     Ponas ir tėvonis. Šiuo raštu skelbiame vi­
     siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­
@@ -3115,17 +3184,16 @@ media_all_json: |-
     gomis, taip pat su papročiais ir ypač religija, išpažįstančia
     Augustino tikėjimą, leistume laisvai naudotis.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-
 - id: c-181264
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 177."
   citata_originali: |
     Bet padėtis
     nepasidarė tokia, kaip 1382 ir 1390 m., kai iš Prūsų ordino Vytautas
@@ -3137,18 +3205,18 @@ media_all_json: |-
     į Livonijos ordino magistrą ir siųsdamas jam įvairių brangių dovanų^86.
   citata_rodoma: ", kai iš Prūsų ordino Vytautas\nterorizavo pusbrolį Jogailą, priversdamas jį nusileisti^85.\nMindaugui buvo savotiška laimė, kad Tautvilas krikštijosi pas\nRygos arkivyskupą, kuriam nebenorėjo paklusti Livonijos ordinas.\nNaudodamasis tokia savo priešų nesantaika, Mindaugas pirmasis iš\nlietuvių kunigaikščių gelbėjosi iš savo sunkios padėties, kreipdamasis\nį Livonijos ordino magistrą ir siųsdamas jam įvairių brangių dovanų^86."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-074
-    - t-077
+    - t-066
 
 - id: c-181265
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 228."
   citata_originali: |
     Tačiau ordinas nesudarė
     savarankiškos valstybės: nuo 1237 m. jis buvo tų pačių kry-
@@ -3163,12 +3231,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-020
 
 - id: c-181266
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 90-91"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 90-91."
   citata_originali: |
     Be išsamaus išvar­
     dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos
@@ -3196,19 +3265,16 @@ media_all_json: |-
     gal to priežastis buvo naujesnės žinios iš Prūsijos.
   citata_rodoma: "Be išsamaus išvar­\ndijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos \nkapitulos, Eželio* vyskupo, Dorpato vyskupo ir paties \nmiesto vyskupo, Danijos karaliaus ginkluoto būrio vado, \nVokiečių ordinom  ir Rygos miesto pusės ir be nurodymo \nžemių, kurias tos sutarties sąlygos turėjo paliesti1 1 , nieko dau­\ngiau nebuvo, tik keli punktai apie saugumą keliauninkų abiejų \nbesitariančių pusių kraštuose, apie teisišką sprendimą gin­\n* wenbrulie), Mintaujos komtūras ir\nEželis (Oeselis), dab. Saremas brolis Otto (Blanehom).\nm n\nIš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir \ntik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.\n74\n\n## Puslapis 91\n\nI  KNYGA\nčų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­\nžinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-026
-    - t-027
-    - t-039
-
 - id: c-181267
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 334."
   citata_originali: |
     Ordino ir Vytauto santykiams buvo reikšminga,
     kai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių
@@ -3221,19 +3287,17 @@ media_all_json: |-
     Karūnos -— mokėtų tam tikrą mokestį^7.
   citata_rodoma: "Į iškilmingą ir visą savaitę trukusį Salyno\nsuvažiavimą kartu su Vytautu buvo atvykę kunigaikščių, žymių\njo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą\npuotą Vytautą paskelbė Lietuvos karaliumi. Tai turėjo būti atsa­\nkymas į karalienės Jadvygos reikalavimą, kad Vytautas Lenkijai\n— ženklan didžiosios Lietuvos kunigaikštijos priklausomybės nuo\nKarūnos -— mokėtų tam tikrą mokestį^7."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-28 14:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-075
-    - t-076
-
 - id: c-181268
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 136."
   citata_originali: |
     Vy­
     tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
@@ -3248,18 +3312,16 @@ media_all_json: |-
     karų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse.
   citata_rodoma: "Livonijos\nOrdinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai\njiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų\nžemes.\nTokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­\n\nkarų ir Rytų Bažnyčių suvienijimą Lietuvos žemėse."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
-    - t-013
-
 - id: c-181271
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 140-141"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 140-141."
   citata_originali: |
     Nuostolis dėl pairusių derybų buvo nedidelis: sąjunga su
     savo tikslų siekiančiu Zigmantu negalėjo būti naudinga Lietuvai.
@@ -3272,19 +3334,20 @@ media_all_json: |-
     vinsku (prie Vyslos).
   citata_rodoma: "Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su\nlivoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-\ndžiame Tanenbergo mūšyje.\n**Tanenbergo mūšis 1410 m."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-023
+    - t-075
+    - t-076
 
 - id: c-181273
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 180."
   citata_originali: |
     Pirmuoju tokiu draugu vi­
     suomet būdavo Ordinas. Bet ir pastarasis, bauginamas Vytau­
@@ -3296,18 +3359,17 @@ media_all_json: |-
     jie ir juto reikalą kaip nors susiartinti su Lietuva, kad nors tuo
     tarpu iš jos ką nors laimėtų.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-181274
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 136."
   citata_originali: |
     Ordinu
     (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
@@ -3321,19 +3383,19 @@ media_all_json: |-
     nas padarė amžiną taiką ir su Naugardu D. (1421).
   citata_rodoma: "Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris\ntuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­\ndarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Vy­\ntautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­\nkais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos\nsusirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­\nnas padarė amžiną taiką ir su Naugardu D. (1421)."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-014
-    - t-036
+    - t-013
+    - t-032
 
 - id: c-181275
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 178-179"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 178-179."
   citata_originali: |
     (Iš originalo Karaliaučiaus Slaptajame Archyve)
     Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande
@@ -3355,7 +3417,7 @@ media_all_json: |-
     mos.
   citata_rodoma: "Mūsų nuomonę apie šio laiško senumą patvirtina ne tik\njo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą\n162\n\n## Puslapis 179\n\nIl KNYGA\nneleidžia manyti buvus kitus metus, juk kaip tik tuo laiku\nVytautas su Smolensko pulkais Švitrigailos ir Livonijos už­\nimtą Vitebską po keturių savaičių apgulties atgavo ir patį\nŠvitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­\nla ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­\nmos."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3365,7 +3427,8 @@ media_all_json: |-
 - id: c-181276
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 31."
   citata_originali: |
     Mindaugo krikštas nepa-
     šalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Že-
@@ -3376,18 +3439,16 @@ media_all_json: |-
     Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.
   citata_rodoma: "Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su \nkrikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti \nkrikščionio valdovo statusą. \nPo Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus \nLietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-    - t-042
-
 - id: c-181277
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 90-91"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 90-91."
   citata_originali: |
     Be išsamaus išvar­
     dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos
@@ -3416,19 +3477,16 @@ media_all_json: |-
   citata_rodoma: "Be išsamaus išvar­\ndijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos \nkapitulos, Eželio* vyskupo, Dorpato vyskupo ir paties \nmiesto vyskupo, Danijos karaliaus ginkluoto būrio vado, \nVokiečių ordinom  ir Rygos miesto pusės ir be nurodymo \nžemių, kurias tos sutarties sąlygos turėjo paliesti1 1 , nieko dau­\ngiau nebuvo, tik keli punktai apie saugumą keliauninkų abiejų \nbesitariančių pusių kraštuose, apie teisišką sprendimą gin­\n* wenbrulie), Mintaujos komtūras ir\nEželis (Oeselis), dab. Saremas brolis Otto (Blanehom).\nm n\nIš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir \ntik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.\n74\n\n## Puslapis 91\n\nI  KNYGA\nčų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­\nžinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-026
-    - t-027
-    - t-039
-
 - id: c-181278
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 79."
   citata_originali: |
     Jei Ordinas pageidautų, Vytautas turi,
     jei tokia jo būtų valia, pasistengti, kad ta sutartis būtų patvir­
@@ -3439,17 +3497,15 @@ media_all_json: |-
   citata_rodoma: "Iškilmingas tos sutarties ratifikavimas (patvir­\ntinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­\nmune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­\nmijos ir Sambijos vyskupai ir daug komtūrų."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
-    - t-014
-
 - id: c-181279
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50."
   citata_originali: |
     Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
     dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
@@ -3461,18 +3517,18 @@ media_all_json: |-
     driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
     tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-043
+    - t-037
 
 - id: c-181280
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Jūros upės krantu siena pasislinko
     vieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko
@@ -3489,12 +3545,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-059
+    - t-052
 
 - id: c-181281
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156."
   citata_originali: |
     Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
     ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
@@ -3512,13 +3569,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
-    - t-044
+    - t-067
 
 - id: c-181282
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 260."
   citata_originali: |
     Tik paėmę Kauną, Nemuno žemu­
     pyje privertę lietuvius pasitraukti nuo krantų, juose prisistatę savo
@@ -3529,19 +3586,19 @@ media_all_json: |-
     das su Kęstučiu pradėjo su ordinu derybas.
   citata_rodoma: "Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o\n1372 puolė vienu metu iš Prūsų ir Livonijos.\nKad būtų galima kiek pailsėti nuo tolimesnių teriojimų, Algir­\ndas su Kęstučiu pradėjo su ordinu derybas."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-062
-    - t-069
+    - t-060
 
 - id: c-181283
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 132."
   citata_originali: |
     Pasinaudodamas Žemaičių krikštu, Vytautas ata­
     kavo Vokiečių ir Livonijos Ordinus Konstancijoje, kovojo dėl
@@ -3550,17 +3607,16 @@ media_all_json: |-
     piežiaus Kurija. Bet svarbiausia yra tai, kad Žemaičių krikš­
     tas buvo sujungtas su jų galutiniu išvadavimu iš Vok.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-037
-
 - id: c-181285
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 29."
   citata_originali: |
     Mūšio padariniai
     1260 m. liepos 13 d. Durbės mūšis yra vie-
@@ -3584,13 +3640,14 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-034
 
 - id: c-181286
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 267."
   citata_originali: |
     1424 metais buvo dar padaryta prekybos sutar­
     tis Niešavo miestelyje. Čia aktu, pavadintu „über transitus“
@@ -3605,12 +3662,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-023
 
 - id: c-181287
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 262."
   citata_originali: |
     Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
     mėnesiais prieš atlydį. O vasaros žygis buvo ruošiamas apie rug­
@@ -3619,19 +3677,20 @@ media_all_json: |-
     kryžiuočių ir 30—iš Livonijos.
   citata_rodoma: "O vasaros žygis buvo ruošiamas apie rug­\npiūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.\nOrdino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų\nkryžiuočių ir 30—iš Livonijos."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-057
-    - t-066
-    - t-067
+    - t-051
+    - t-071
+    - t-072
 
 - id: c-181289
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 195."
   citata_originali: |
     Keliose kronikose Lielvardės kauty­
     nės^173 yra atvaizduotos kaip skaudus ordino pralaimėjimas. 1261 m.
@@ -3648,12 +3707,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-064
+    - t-056
 
 - id: c-181290
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 31."
   citata_originali: |
     Tačiau praėjus keletui
     metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje
@@ -3664,18 +3724,17 @@ media_all_json: |-
     krikščionio valdovo statusą.
   citata_rodoma: "Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su \nkrikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti \nkrikščionio valdovo statusą."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-017
-
 - id: c-181291
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 33."
   citata_originali: |
     Bet
     prityręs Kęstutis suprato, kad Jogailos pusėj ne viskas tvarko­
@@ -3694,12 +3753,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-025
 
 - id: c-181292
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 178."
   citata_originali: |
     Dinaburgo komtūras praneša Livonijos magistrui, kad
     Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;
@@ -3713,13 +3773,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
-    - t-045
+    - t-062
 
 - id: c-181293
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 237."
   citata_originali: |
     3 Polocko kunigaikštis Andrius Algirdaitis, 1381 m. grįžęs iš
     emigracijos į Polocką, antrą kartą stojo prieš Jogailą ryšium su
@@ -3732,17 +3792,16 @@ media_all_json: |-
     metu grįždami iš trijų savaičių -žygio po Rytų Lietuvą, padėjo
     Andriui užimti Lukomlį.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-072
-
 - id: c-181294
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139."
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
     čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
@@ -3752,17 +3811,15 @@ media_all_json: |-
     vaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-041
-    - t-043
-
 - id: c-181295
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 294."
   citata_originali: |
     Apsirūpinus ar­
     tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
@@ -3798,17 +3855,18 @@ media_all_json: |-
     mušė tą vokiečių kariuomenę5 .
   citata_rodoma: "Ir išvažinėjo savo keliais.\nSekančią vasarą žemaičiai išžudė Prūsijos vokiečių \nvietininkus, nebenorėdami daugiau būti vokiečių val­\ndžioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš \njuos kariuomenę Palangoje, norėdami vėl juos pavergti, \nbet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­\nmušė tą vokiečių kariuomenę5 ."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-053
+    - t-081
 
 - id: c-181297
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 75."
   citata_originali: |
     Po Durbės mūšio sukilusias kiltis ordinas jau buvo
     nugalėjęs. Traidenis net kelis kartus skaudžiai sumušė Livonijos
@@ -3822,12 +3880,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-040
 
 - id: c-181298
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 240."
   citata_originali: |
     Po laikino atodūsio, nuo 1328 Lietuvą vėl užgulė sunki našta.
     Prūsų kryžiuočiams kariaujant su Lenkijos Kazimieru, Lietuvą
@@ -3839,12 +3898,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-063
+    - t-055
 
 - id: c-181299
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 235."
   citata_originali: |
     Naudodamasis visuotine neapykanta, kurią per sa­
     vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
@@ -3866,12 +3926,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-031
 
 - id: c-181300
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 123."
   citata_originali: |
     Tatai atliko jau Vytautas.
     Trečiasis koalicijos narys ir Andriaus suverenas, Livonijos
@@ -3883,12 +3944,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-047
+    - t-041
 
 - id: c-181302
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166."
   citata_originali: |
     Pranešimas apie jos mirtį yra 74
     Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns. T. IU,
@@ -3902,6 +3964,192 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-186060
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Jų kovos
+    su Lietuvos kunigaikščiais užsitęsė, nes nė viena pusė negalėjo
+    įgyti triuškinančios persvaros. Tik paėmę Kauną, Nemuno žemu­
+    pyje privertę lietuvius pasitraukti nuo krantų, juose prisistatę savo
+    pilių, be to, laimėję prie Rudavos, kryžiuočiai jau pasijuto stipresni.
+    Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o
+    1372 puolė vienu metu iš Prūsų ir Livonijos.
+  citata_rodoma: "Tik paėmę Kauną, Nemuno žemu­\npyje privertę lietuvius pasitraukti nuo krantų, juose prisistatę savo\npilių, be to, laimėję prie Rudavos, kryžiuočiai jau pasijuto stipresni.\nJie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o\n1372 puolė vienu metu iš Prūsų ir Livonijos."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-054
+
+- id: c-186061
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vy­
+    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
+    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
+    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
+    nas padarė amžiną taiką ir su Naugardu D. (1421). Livonijos
+    Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai
+    jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
+    žemes.
+    Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
+  citata_rodoma: "Livonijos\nOrdinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai\njiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų\nžemes.\nTokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­"
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
+- id: c-186062
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kartais teigia-
+    ma, kad Mindaugas atsimetė ir nuo krikščionybės. Tačiau praėjus keletui
+    metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje
+    Mindaugą vadina „šviesaus atminimo valdovu“. Mindaugo krikštas nepa-
+    šalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Že-
+    maitija.
+  citata_rodoma: "Kartais teigia-\nma, kad Mindaugas atsimetė ir nuo krikščionybės. Tačiau praėjus keletui \nmetų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje \nMindaugą vadina „šviesaus atminimo valdovu“. Mindaugo krikštas nepa-\nšalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Že-\nmaitija."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-186063
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    sus šauksmas ir iš pasalų iššoko lietuvių kariai. Ne­
+    tikėto antpuolio išgąsdinti Livonijos raiteliai, gal no­
+    rėdami užimti patogesnę kovos poziciją, gal
+    pabėgti,
+    paspaudė pentinais žirgus ir, suvirtę į griovius, visi su­
+    sirado čia galą. Tuo tarpu
+    U žim a P rū sijo je C hoi-
+    pasibaigė karas Prūsijoje, kur
+    nicus
+    lenkai užėmė Choinicus.
+  citata_rodoma: "sus šauksmas ir iš pasalų iššoko lietuvių kariai. Ne­\ntikėto antpuolio išgąsdinti Livonijos raiteliai, gal no­\nrėdami užimti patogesnę kovos poziciją, gal \npabėgti, \npaspaudė pentinais žirgus ir, suvirtę į griovius, visi su­\nsirado čia galą."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-058
+
+- id: c-186064
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    3 Polocko kunigaikštis Andrius Algirdaitis, 1381 m. grįžęs iš
+    emigracijos į Polocką, antrą kartą stojo prieš Jogailą ryšium su
+    jo iškilimu į Lenkijos karalius. Užsibrėžęs atplėšti Polocko kuni­
+    gaikštystę nuo LDK ir paversti ją savo įpėdinių valdoma atskira
+    valstybe, Andrius Algirdaitis 1385 m. spalio 10 d. aktu pasidavė
+    Livonijos ordinui kaip pastarojo vasalas. 1386 m. vasario mėn,
+    apie 20 d. Andriaus Algirdaičlo pajėgos užėmė du valsčius Polocko
+    ir Vitebsko kunigaikštysčių pasienyje.
+  citata_rodoma: "3 Polocko kunigaikštis Andrius Algirdaitis, 1381 m. grįžęs iš \nemigracijos į Polocką, antrą kartą stojo prieš Jogailą ryšium su \njo iškilimu į Lenkijos karalius. Užsibrėžęs atplėšti Polocko kuni­\ngaikštystę nuo LDK ir paversti ją savo įpėdinių valdoma atskira \nvalstybe, Andrius Algirdaitis 1385 m. spalio 10 d. aktu pasidavė \nLivonijos ordinui kaip pastarojo vasalas. 1386 m. vasario mėn, \napie 20 d. Andriaus Algirdaičlo pajėgos užėmė du valsčius Polocko \nir Vitebsko kunigaikštysčių pasienyje."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-063
+
+- id: c-186065
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kai šitaip klostėsi reikalai
+    Prūsijos pasienyje, Livonija,
+    vildamasi pastovios taikos, il­
+    sėjosi nuo karo. Fridrichas,
+    Rygos vyskupas, gal asme­
+    niškai jausdamas Gediminui
+    dėkingumą už ne vieną kar­
+    tą suteiktą pagalbą, o gal
+    gailėdamasis karų nukamuotos Livonijos, bandė am­
+    žiams sutaikyti Livonijos ordiną ir Lietuvą. Tuo rei­
+    kalu jis pasitelkė popiežiaus Jono XXII autoritetą, no­
+    rėdamas Livonijos ordiną aukščiausios galios vardu
+    priversti pagalvoti apie taiką, o lietuvius, garbingai
+    pasiuntinybei tarpininkaujant, paskatinti priimti krikš­
+    čionybę.
+  citata_rodoma: "Kai šitaip klostėsi reikalai\nPrūsijos pasienyje, Livonija, \nvildamasi pastovios taikos, il­\nsėjosi nuo karo. Fridrichas, \nRygos vyskupas, gal asme­\nniškai jausdamas Gediminui \ndėkingumą už ne vieną kar­\ntą suteiktą pagalbą, o gal \ngailėdamasis karų nukamuotos Livonijos, bandė am­\nžiams sutaikyti Livonijos ordiną ir Lietuvą. Tuo rei­\nkalu jis pasitelkė popiežiaus Jono XXII autoritetą, no­\nrėdamas Livonijos ordiną aukščiausios galios vardu \npriversti pagalvoti apie taiką, o lietuvius, garbingai \npasiuntinybei tarpininkaujant, paskatinti priimti krikš­\nčionybę."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-043
+
+- id: c-186066
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tas jau rodo, kad Žemaičių krašto kristianiza­
+    cija buvo nelengvas dalykas. Ji buvo artimai surišta su Vytau­
+    to politika. Pasinaudodamas Žemaičių krikštu, Vytautas ata­
+    kavo Vokiečių ir Livonijos Ordinus Konstancijoje, kovojo dėl
+    savo ir Lietuvos garbės Vak.
+  citata_rodoma: "Ji buvo artimai surišta su Vytau­\nto politika. Pasinaudodamas Žemaičių krikštu, Vytautas ata­\nkavo Vokiečių ir Livonijos Ordinus Konstancijoje, kovojo dėl\nsavo ir Lietuvos garbės Vak."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-033
+
+- id: c-186067
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    IV KNYGA
+    Žygimantas Augustas, Dievo malone Lenkijos karalius,
+    didysis Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir
+    1.1, kunigaikštis. Ponas ir tėvonis. Šiuo raštu skelbiame vi­
+    siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­
+    triuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­
+    utonų ordino Livonijoje magistras, vildamasis mūsų
+    ištikimybės ir pritarimo, patikėjo mums save, ordiną bei val­
+    das ir, jei juos imtumėmės ginti, pažadėjo mums perduoti
+    kai kurias pilis ir apskritis, tačiau su konkrečiomis abiejų
+    pusių sąlygomis, raštu ir priesaika iškilmingai patvirtinto­
+    mis.
+  citata_rodoma: "IV KNYGA\nŽygimantas Augustas, Dievo malone Lenkijos karalius, \ndidysis Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir \n1.1, kunigaikštis. Ponas ir tėvonis. Šiuo raštu skelbiame vi­\nsiems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­\ntriuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­\nutonų ordino Livonijoje magistras, vildamasis mūsų \ništikimybės ir pritarimo, patikėjo mums save, ordiną bei val­\ndas ir, jei juos imtumėmės ginti, pažadėjo mums perduoti \nkai kurias pilis ir apskritis, tačiau su konkrečiomis abiejų \npusių sąlygomis, raštu ir priesaika iškilmingai patvirtinto­\nmis."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Švitrigaila]]

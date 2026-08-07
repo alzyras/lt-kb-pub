@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7434ffc2f9e4e890bdfab0c2"
+canonical_name: "Poleksija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Poleksija"]
+sameAs: []
+canonical_biography: "Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos kariai. Goštautui išvykus į Tikociną Palenkėje, arba Poleksijoje, Vilniuje minia nužudė krikščionių tikėjimo skelbėjus. 1383 m. Jogaila nukreipė jėgas prieš Jonušą, Mazovijos kunigaikštį, norėdamas išvyti jį iš Poleksijos."
+place_authority: true
+historical_names: []
 ---
 # Poleksija
 
@@ -159,7 +168,8 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
 - id: c-168606
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 129."
   citata_originali: |
     Lietuvių kariaunos, pakviestos iš sodybų, nesutik-
     damos pasipriešinimo, niokojo Liublino kraštą, nes
@@ -186,7 +196,8 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
 - id: c-168607
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 225."
   citata_originali: |
     Mat Goštautas buvo la-
     Š v e n to
@@ -223,7 +234,8 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
 - id: c-168608
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 273."
   citata_originali: |
     Tiesą sakant,
     jam derėjo ne kalbėti užuolankomis, o aiškiai prisi­
@@ -274,7 +286,8 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
 - id: c-168609
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 273."
   citata_originali: |
     Praėjus kelioms
     dienoms, pasidavė Suražas, vėliau po staigaus antpuolio

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-936d0ca8b70c1392b8d9664c"
+canonical_name: "Skomantas (lietuvių vadas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Skomantas (lietuvių vadas)"]
+sameAs: []
+canonical_biography: "Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kronikoje Skomantas vadinamas tiesiog „lietuvių vadu“) su didele sūduvių ir kitų Lietuvai pavaldžių žemių kariuomene siaubė Kulmo teritoriją, puolė patį Kulmą, sunaikino Eimsučio (Heimsoto)."
 ---
 # Skomantas (lietuvių vadas)
 
@@ -51,7 +58,8 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
 - id: c-44511
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 32."
   citata_originali: |
     Kulmo
     žemėje ir šiauriau - Pamedėje po permai-

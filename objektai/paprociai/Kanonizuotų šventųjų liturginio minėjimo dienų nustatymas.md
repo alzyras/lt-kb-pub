@@ -103,7 +103,8 @@ Nenurodyta
 - id: c-62539
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
   citata_originali: |
     111. Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą
 
@@ -122,7 +123,8 @@ Nenurodyta
 - id: c-62542
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249."
   citata_originali: |
     119. Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą
 

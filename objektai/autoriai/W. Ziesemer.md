@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3922cf0816ca7fc397402116"
+canonical_name: "W. Ziesemer"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["W. Ziesemer"]
+sameAs: []
+canonical_biography: "Ziesemer, Karaliau­ čiaus ir Dancigo archyvų žinovas, ypač atsidėjęs vokiečių ordino istorijos šaltiniams tirti^152."
 ---
 # W. Ziesemer
 
@@ -50,7 +57,8 @@ Ziesemer, Karaliau­ čiaus ir Dancigo archyvų žinovas, ypač atsidėjęs voki
 - id: c-33204
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 96."
   citata_originali: |
     Kiti svarbus mūsų istorijai vokiečių anksčiau leisti žur­
     nalai : AF, AM, HGbll, MiLG, kartu su lietuviais leistas MLLG.

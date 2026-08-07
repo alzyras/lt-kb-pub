@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-31bd922b7d220218c98850b0"
+canonical_name: "Naujapilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujapilis"]
+sameAs: []
+canonical_biography: "122, 132, 158, 160, 169, 189, 197, 213, 225, 230, 240- 242, 262, 263, 266, 272, 274, 303, 305, 307, 313, 319-322, 324, 327, 351, 372, 379 Naugardas-Sieverskas 262, 312, 313, 321 Naugardo metraštis 163-164, 168, 183, 244, 311, 320 Naugardukas 119, 125, 126."
+place_authority: true
+historical_names: []
 ---
 # Naujapilis
 
@@ -76,7 +85,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 32."
   citata_originali: |
     Pav., Ragainės komtūras vienu puolimu išsivedė 100
     žmonių nelaisvėn. Kita kariuomenės dalis paėmė Naujapilį su
@@ -91,9 +101,9 @@ media_all_json: |-
     - t-001
 
 - id: c-184438
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 446"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 446."
   citata_originali: |
     To­
     dėl tą patį rudenį su stipresne kariauna įėjęs antrą

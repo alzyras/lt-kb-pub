@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2de7226682942c7c1bd1e022"
+canonical_name: "Jelgava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jelgava"]
+sameAs: []
+canonical_biography: "Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur."
+place_authority: true
+historical_names: []
 ---
 # Jelgava
 
@@ -91,7 +100,8 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 - id: c-47055
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 230."
   citata_originali: |
     Po ilgų derybų buvo
     sudaryta sutartis (1561 m.), kuria Livonija pasidavė Zigmantui
@@ -115,7 +125,8 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 - id: c-47056
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     St. Radvilos fundacija), Pa-
     šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
@@ -134,9 +145,9 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     - t-002
 
 - id: c-184413
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 427"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 427."
   citata_originali: |
     Parsibastęs mistras į Rygą nusiuntė ži­
     nią į Kuršą kalavijonims, idant saugotųsi ir nenu-

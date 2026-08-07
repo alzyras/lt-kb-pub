@@ -46,7 +46,8 @@ Noelis straipsnyje Trigla sako, kad trijų pavidalų Dianą garbino tautos, gyve
 - id: c-177245
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 123."
   citata_originali: |
     Tai mitas apie lietuvių Dianą, nusižiūrė­
     tą iš graikų mitologijos. F. Noelis straipsnyje Trigla sako, kad

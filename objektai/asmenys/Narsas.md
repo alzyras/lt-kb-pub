@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-be5d0eec7e3472d48083d4c3"
+canonical_name: "Narsas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Narsas"]
+sameAs: []
+canonical_biography: "Narso gretose, Narbuto pasakojimu, kariai ne sykį triuškino priešus ir prisidėjo prie jų išvarymo iš Italijos."
 ---
 # Narsas
 
@@ -54,7 +61,8 @@ Narso gretose, Narbuto pasakojimu, kariai ne sykį triuškino priešus ir prisid
 - id: c-174180
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
   citata_originali: |
     Netrukus pasitaikė tokia galimybė, kai jie, Belizari-
     jaus vadovaujami, pradėjo kariauti. Vėliau, kariaudami

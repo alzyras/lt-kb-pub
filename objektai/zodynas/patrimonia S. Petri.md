@@ -50,7 +50,8 @@ Tokiomis patrimonia S.
 - id: c-28502
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 181."
   citata_originali: |
     Buvo statoma tik viena sąlyga, kad ypatingasis Bažnyčios
     sūnus, kaip ir jo įpėdiniai, Lietuvos valstybę skaitytų šv. Petro nuo­

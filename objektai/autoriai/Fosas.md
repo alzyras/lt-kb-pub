@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7e7336435f8af369a4f1aa25"
+canonical_name: "Fosas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Fosas"]
+sameAs: []
+canonical_biography: "Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austraviją, arba Glesariją, laikė fryzų sala Amelandu."
 ---
 # Fosas
 
@@ -53,7 +60,8 @@ Fosas, Narbuto teigimu, neigė Pitėjo lankymąsi Baltijos jūroje ir Austravij�
 - id: c-174553
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Kiek čia nepatikimumo!2
     Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­

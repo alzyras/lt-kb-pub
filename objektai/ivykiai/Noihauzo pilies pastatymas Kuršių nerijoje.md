@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-63030
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
   citata_originali: |
     216 (211). Apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje,
                                        Kuršių nerijoje

@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-169221
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 579"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 579."
   citata_originali: |
     Į seimą atvyko iš Vilniaus
     Skitas Sich Achmetas

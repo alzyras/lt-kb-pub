@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5333d49cec161912144f8340"
+canonical_name: "Belizarijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Belizarijus"]
+sameAs: []
+canonical_biography: "Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba."
 ---
 # Belizarijus
 
@@ -56,7 +63,8 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
 - id: c-169544
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 54."
   citata_originali: |
     Tačiau didelė herulų da­
     lis persikėlė iš Italijos į Grai-

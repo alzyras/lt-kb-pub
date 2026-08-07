@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87fa346002c6ce1135be4d62"
+canonical_name: "Vyborgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vyborgas"]
+sameAs: []
+canonical_biography: "Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos."
+place_authority: true
+historical_names: []
 ---
 # Vyborgas
 
@@ -60,7 +69,8 @@ Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karal
 - id: c-24603
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 87."
   citata_originali: |
     1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
     Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-

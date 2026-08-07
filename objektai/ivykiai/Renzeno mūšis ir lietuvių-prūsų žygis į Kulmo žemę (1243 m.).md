@@ -156,7 +156,8 @@ Nenurodyta
 - id: c-85347
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     Šia proga jis kalba apie didžiulę prūsų  ir
     sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
@@ -175,7 +176,8 @@ Nenurodyta
 - id: c-85348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
     jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir
@@ -195,7 +197,8 @@ Nenurodyta
 - id: c-85349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28-29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28-29."
   citata_originali: |
     421
 
@@ -214,7 +217,8 @@ Nenurodyta
 - id: c-85351
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
     tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir

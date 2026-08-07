@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14c5f2d1eea330f233828479"
+canonical_name: "J. Radvila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Radvila"]
+sameAs: []
+canonical_biography: "Radvilos pajėgos."
 ---
 # J. Radvila
 
@@ -61,7 +68,8 @@ Radvilos pajėgos.
 - id: c-44364
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 127."
   citata_originali: |
     Etmonas siųsdavo atskirus dalinius
     Smolensko link ir puldinėjo mažesnius

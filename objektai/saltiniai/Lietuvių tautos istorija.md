@@ -90,7 +90,8 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 - id: c-84237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
     čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
@@ -111,7 +112,8 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 - id: c-84238
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 16."
   citata_originali: |
     Tyrinėtoja parodo M. Balinskio kritiką T.
     Narbuto istorijos atžvilgiu, kurią galima vertinti kaip romantinės istori­
@@ -129,7 +131,8 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 - id: c-84239
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     Iš
     tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet

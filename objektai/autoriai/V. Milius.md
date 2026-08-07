@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6dd8b147de5e55e786251304"
+canonical_name: "V. Milius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Milius"]
+sameAs: []
+canonical_biography: "Milius (AkMD, t."
 ---
 # V. Milius
 
@@ -59,7 +66,8 @@ Milius (AkMD, t.
 - id: c-33176
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     2, 1972). S. Matulaitytė rašo apie astro­
     nomijos mokslo įvedimą Vilniaus universitete XVIII a. (AkMD,

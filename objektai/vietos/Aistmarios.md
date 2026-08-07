@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e0a8c35748d88b1483d9a41c"
+canonical_name: "Aistmarios"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aismarių","Aistmarios"]
+sameAs: []
+canonical_biography: "Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie kurios statytos Elbingo ir Baigos pilys, iš kurios broliai žvalgė Varmės krantą. Ankstesniuose šaltiniuose jos taip pat minimos kaip ribinė ir kontaktų zona."
+place_authority: true
+historical_names: []
 ---
 # Aistmarios
 
@@ -103,7 +112,8 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
 - id: c-92163
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 267."
   citata_originali: |
     Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­
     čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­
@@ -125,7 +135,8 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
 - id: c-92170
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
   citata_originali: |
     Jis sugalvojo būdą, kaip  jį pribaigti,
     ir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios

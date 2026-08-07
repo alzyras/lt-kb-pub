@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b2ccd15a80b7b04dc93b473e"
+canonical_name: "Rohačevas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rohačevas"]
+sameAs: []
+canonical_biography: "Rohačevas minimas Aleksandro 1492.IX.27 instrukcijoje. Rohačevas lokalizuojamas prie Chlepenio į pietus nuo Rževo."
+place_authority: true
+historical_names: []
 ---
 # Rohačevas
 

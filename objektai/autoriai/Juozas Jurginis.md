@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f5f711f0f8ac143b4901ed0e"
+canonical_name: "Juozas Jurginis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Jurginis","Juozas Jurginis","objektai/autoriai/J. Jurginis"]
+sameAs: []
+canonical_biography: "Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. Turinio dalyje jis taip pat tiesiogiai pateikiamas kaip teksto „A Kojelavičiaus „Lietuvos istorija\" ir jos reikšmė“ autorius."
 ---
 # Juozas Jurginis
 
@@ -85,7 +92,8 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
 - id: c-167829
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 3."
   citata_originali: |
     BBK-63.3(2L)
     Vi-109
@@ -118,7 +126,8 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
 - id: c-169795
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 3."
   citata_originali: |
     REDAKCINE KOMISIJA
     K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,

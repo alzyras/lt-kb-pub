@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-434f7d7c0c3695c65153be1c"
+canonical_name: "Kruopiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kruopiai"]
+sameAs: []
+canonical_biography: "Bolševikams priartėjus prie Kėdainių, savanorių būriai, nesulaukdami iš Kauno žadėtų ginklų, sausio 14 d. pasitraukė į Kruopius (10 km nuo Kėdainių Kauno link)."
+place_authority: true
+historical_names: []
 ---
 # Kruopiai
 
@@ -49,7 +58,8 @@ Bolševikams priartėjus prie Kėdainių, savanorių būriai, nesulaukdami iš K
 - id: c-45151
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 173."
   citata_originali: |
     pajėgų, o ir ginkluotė jų buvo menkesnė.
     Bolševikams priartėjus prie

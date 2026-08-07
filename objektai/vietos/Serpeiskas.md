@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2e77c5a36c438b8e05d7aabf"
+canonical_name: "Serpeiskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Serpeiskas"]
+sameAs: []
+canonical_biography: "Serpeiskas aiškinamas kaip Smolensko žemės miestas. Serpeiskas seniau priklausė Meščovsko apskričiai."
+place_authority: true
+historical_names: []
 ---
 # Serpeiskas
 

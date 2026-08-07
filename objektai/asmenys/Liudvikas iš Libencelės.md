@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7303cb461320335f91a83163"
+canonical_name: "Liudvikas iš Libencelės"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas iš Libencelės"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių. Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai. Dusburgietis teigia, kad siekdamas šio tikslo, subūrė daug brolių bei kitų karių; kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų lyčių sūduvių."
 ---
 # Liudvikas iš Libencelės
 
@@ -125,14 +132,21 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
 <a id="claim-t-59887"></a>
 - t-006
   teiginys: "1296 m. Liudvikas iš Libencelės su kitais broliais ir 200 vyrų dalyvavo žygyje, per kurį buvo sudeginta Kimelio pilis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kimelis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liudvikas iš Libencelės: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kimelis: mention_match, place, gap=96"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikas iš Libencelės\" parinktas kaip owner_note_path. Targetas \"Kimelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1296 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata leidžia suformuluoti aiškų žygio rezultatą."
   pagrindžia:
-    - c-60514
+    - c-60518
 
 <a id="claim-t-197127"></a>
 - t-007
@@ -169,7 +183,8 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
 - id: c-60514
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 186."
   citata_originali: |
     259 (252). Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300
     Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei
@@ -184,12 +199,12 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-006
 
 - id: c-60516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Tuo
     tarpu Ragainės broliai, sunerimę dėl savo žmonių naikinimo ir norėdami apsisaugti nuo
@@ -210,7 +225,8 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
 - id: c-60517
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     Neilgai trukus jį aptiko sūduviai ir, uždėję ant arklio taip, kad galva bei rankos karojo
     viename arklio šone, o kojos kitame, nusigabeno, bet taip nevykusiai, kad iš apkrešėjusių
@@ -230,7 +246,8 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
 - id: c-60518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Apie Kimelio pilies sunaikinimą 1296 metais
 
@@ -247,14 +264,17 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   citata_rodoma: "Apie Kimelio pilies sunaikinimą 1296 metais\n\n   Neilgai trukus po to brolis Liudvikas iš Libencelės patraukė į žygį su kitais broliais ir\n200 vyrų, ketindamas užpulti vieną pilį, tačiau vedlys išklydo iš kelio ir kariuomenė ją\npraėjo; kai begrįždami atitiko tikrąjį kelią ir įėjo  į pilį, nieko joje nerado, nes žmonės,\nkurie joje gyveno, pamatę brolių kariuomenę, išsislapstė miškuose, nei galėdami, nei\nnorėdami priešintis jų antpuoliams. Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto\ndievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,\ntaip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir\npatys broliai ne kartą bandė, ir savo žmonių rankomis dažnai mėgino, negailėdami nei\nišlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o\nją pačią, pakišę ugnį, ligi pamatu sudegino."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-60519
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę
 
@@ -276,7 +296,8 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
 - id: c-167495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
     mą

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9588d79203413e8c0cbe7641"
+canonical_name: "T. Dambrava"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["T. Dambrava"]
+sameAs: []
+canonical_biography: "Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dambravos vadovaujama viena reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė generolo E J. Dambravos kirčio žuvo karaliaus žentas kunigaikštis Fridrichas Liuneburgietis."
 ---
 # T. Dambrava
 
@@ -85,7 +92,8 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
 - id: c-42251
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 107."
   citata_originali: |
     @ J.P. Sapiegos ir T. Dambravos raiteliai su-
     sikauna su atakuojančia švedų kavalerija
@@ -101,7 +109,8 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
 - id: c-44527
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 108."
   citata_originali: |
     Rotmistrų J. P. Sapiegos ir T. Dambra-
     vos kavalerija susikovė su švedų kairiojo
@@ -126,7 +135,8 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
 - id: c-44528
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 108."
   citata_originali: |
     Prasidėjo žiau-
     rios besitraukiančio priešo kapotynés.

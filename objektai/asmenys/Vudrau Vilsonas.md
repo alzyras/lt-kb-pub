@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-41d4e290dd15ca2f1f86bea1"
+canonical_name: "Vudrau Vilsonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vudrau Vilsonas"]
+sameAs: []
+canonical_biography: "Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o."
 ---
 # Vudrau Vilsonas
 
@@ -63,7 +70,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - id: c-22068
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Rusijos revoliucija,
     caro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli-

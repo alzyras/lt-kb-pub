@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-71c166d8d054d3159d4599e1"
+canonical_name: "Artūras Sakalauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Artūras Sakalauskas"]
+sameAs: []
+canonical_biography: "Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungoje ir pašalins jos subyrėjimo pavojų (tuo metu jau daugelis sovietinių Artūras Sakalauskas — paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris respublikų, tarp jų ir pati. Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas. p. 263, Artūras Sakalauskas - paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris, KAM."
 ---
 # Artūras Sakalauskas
 
@@ -78,7 +85,8 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
 - id: c-41844
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 265."
   citata_originali: |
     Prasidėjus perversmui Maskvoje, suaktyvėjo sovietų kariškių vei-
     kimas Lietuvoje. Iš parengiamųjų veiksmų tapo aišku, kad rengia-
@@ -99,7 +107,8 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
 - id: c-44289
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     p. 263, Artūras Sakalauskas - paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris, KAM.
     p. 263, Ant barikadų, juosusių AT, atsirado įvairių užrašų, palaikančių Lietuvos laisvės siekius
@@ -116,7 +125,8 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
 - id: c-44290
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 265."
   citata_originali: |
     1991 m. vasaros pabaigoje įtampa vėl ėmė augti ir tai buvo su-
     siję su įvykiais pačioje Rusijoje. Konservatyvūs ssRs komunistai

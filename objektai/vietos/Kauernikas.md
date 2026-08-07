@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-150681ee0af2d3d07945c583"
+canonical_name: "Kauernikas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauernikas"]
+sameAs: []
+canonical_biography: "Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Čia pastebėjo, kad perėjimas per tą upę jau kryžiuočių buvo saugojamas. Jie čia jau buvo atvykę iš Sviečės, sustipri­ nę upės krantus ir apstatę juos patrankomis."
+place_authority: true
+historical_names: []
 ---
 # Kauernikas
 
@@ -52,7 +61,8 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Čia paste
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 101."
   citata_originali: |
     Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
     niku. Čia pastebėjo, kad perėjimas per tą upę jau kryžiuočių

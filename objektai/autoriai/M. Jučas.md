@@ -31,6 +31,13 @@ media_all_json: |-
 tags:
   - autorius
   - istorikas
+entity_id: "ent-050ca188658923ef04aaf40d"
+canonical_name: "M. Jučas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Jučas"]
+sameAs: []
+canonical_biography: "M. Jučas. Vytautas Didysis. Chicago, 2010;."
 ---
 # M. Jučas
 
@@ -79,7 +86,8 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
 - id: c-22159
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Warszawa, 1960; M. Jučas. Vytautas Didysis. Chicago, 2010; Lietuva
     1009–2009.
@@ -94,7 +102,8 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
 - id: c-163225
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 31."
   citata_originali: |
     Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
 

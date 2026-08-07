@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-250bd9c14d805e5569d0e094"
+canonical_name: "Ernekė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ernekė"]
+sameAs: []
+canonical_biography: "Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su bendrais užpuolė laivą ir išžudė jo įgulą. Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link. Ernekė, Ragainės komtūras, Kojelavičiaus pasakojime su rinktiniais kryžiuočių ordino vyrais plaukė Nemunu prieš srovę į Lietuvą."
 ---
 # Ernekė
 
@@ -34,11 +41,11 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
 <a id="claim-t-60111"></a>
 - t-001
   teiginys: "Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su bendrais užpuolė laivą ir išžudė jo įgulą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60743
+    - c-60744
 
 <a id="claim-t-60112"></a>
 - t-002
@@ -93,7 +100,8 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
 - id: c-60743
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
     išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias
@@ -113,13 +121,13 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-60744
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
   citata_originali: |
     Kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė
     prie kranto, šis staiga nutvėrė laivą, stipriai  į  jį įsikibo  ir, susišaukęs savo bendrus,
@@ -132,14 +140,17 @@ Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su be
   citata_rodoma: "Kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė\nprie kranto, šis staiga nutvėrė laivą, stipriai  į  jį įsikibo  ir, susišaukęs savo bendrus,\nužpuolė plaukusius laivu ir visus išžudė.\n\n\n\n\n          240 (233)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-178695
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 162."
   citata_originali: |
     Vėliau,
     sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-

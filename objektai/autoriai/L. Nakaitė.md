@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2e29acdf88371979fb487083"
+canonical_name: "L. Nakaitė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["L. Nakaitė"]
+sameAs: []
+canonical_biography: "Nakaitė, L."
 ---
 # L. Nakaitė
 
@@ -58,7 +65,8 @@ Nakaitė, L.
 - id: c-33014
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 147."
   citata_originali: |
     —Matusas, J. : _Odų ir kailių
     gamyba senovės Lietuvoje iki XVI amžiaus pabaigos_ , Aidai, 1959, nr. 3-4,

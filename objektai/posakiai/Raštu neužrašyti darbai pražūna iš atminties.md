@@ -107,7 +107,8 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
 - id: c-55782
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 375."
   citata_originali: |
     IV KNYGA
     Vardan šventosios ir nedalomosios Trejybės Amen. Vi­
@@ -131,7 +132,8 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
 - id: c-55783
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 381."
   citata_originali: |
     IV  KNYGA
     Vardan Viešpaties Amen. Kad savo metu nuveikti žmo­
@@ -153,7 +155,8 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
 - id: c-55784
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 402."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS
     ŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO

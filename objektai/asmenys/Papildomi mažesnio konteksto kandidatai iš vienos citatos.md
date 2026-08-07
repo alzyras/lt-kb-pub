@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4aa7a48e73cd206f5b56cf86"
+canonical_name: "Papildomi mažesnio konteksto kandidatai iš vienos citatos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Papildomi mažesnio konteksto kandidatai iš vienos citatos"]
+sameAs: []
+canonical_biography: "Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyzdžiu kitiems?"
 ---
 # Papildomi mažesnio konteksto kandidatai iš vienos citatos
 
@@ -50,7 +57,8 @@ Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyz
 - id: c-83903
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 14-15"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 14-15."
   citata_originali: |
     „Taip
     pat žemaičių - lietuvių literatūrai nusipelnė savo paskutiniais

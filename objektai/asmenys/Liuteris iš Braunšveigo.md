@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-45cff5e7e4d9a1507709e72d"
+canonical_name: "Liuteris iš Braunšveigo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liuteris iš Braunšveigo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas."
 ---
 # Liuteris iš Braunšveigo
 
@@ -76,7 +83,8 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
 - id: c-61012
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo
     (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas. Darbą Mikalojus baigė

@@ -5,15 +5,16 @@ saltiniai:
   - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
-aliases:
-  - 'objektai/autoriai/Jucevičius L. A'
-variantai:
-  - 'Jucevičius L. A'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - rašytojas
+amziai: []
+periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -26,12 +27,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4cc206334abcfc0dbd10685f"
+canonical_name: "Liudvikas Adomas Jucevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Adomas Liudvikas Jucevičius","Jucevičius L.","Jucevičius L. A","L. A. Jucevičius","Liudvikas Adomas Jucevičius","Liudvikas Jucevičius","objektai/autoriai/Jucevičius L. A"]
+sameAs: []
+canonical_biography: "Įvadinis tekstas Liudviką Jucevičių pristato kaip švietėją ir cituoja jo mintį apie atmintį bei praeitį. Išnašoje nurodomas 1959 m. Vilniuje išleistas Jucevičiaus „Raštų“ leidimas."
 ---
 # Liudvikas Adomas Jucevičius
 
 ## Santrauka
 
-Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje išleistas šaltinis. Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje išleistas šaltinis. Kunigo Jucevičiaus nuomone, Palangos pajūrio lietuviai žvejai Atrimpą vadino „Dzivsvits“.
+Įvadinis tekstas Liudviką Jucevičių pristato kaip švietėją ir cituoja jo mintį apie atmintį bei praeitį. Išnašoje nurodomas 1959 m. Vilniuje išleistas Jucevičiaus „Raštų“ leidimas.
 
 ## Darbai
 
@@ -42,7 +50,7 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
 <a id="claim-t-187952"></a>
 - t-001
   teiginys: "Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje išleistas šaltinis."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "gap::authors"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
@@ -56,13 +64,14 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   temporaliniai_duomenys: "įvykio data: 1959 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Jucevičiaus „Raštų“ bibliografinę nuorodą. Papildomas turinys iš citatos nepridedamas."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-170947
 
 <a id="claim-t-188441"></a>
 - t-002
   teiginys: "Kunigo Jucevičiaus nuomone, Palangos pajūrio lietuviai žvejai Atrimpą vadino „Dzivsvits“."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -76,14 +85,14 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad lietuviai gyveno prie Palangos."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   semantiniai_rysiai: "Lietuviai gyveno Palanga (0.90)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-183830
 
 <a id="claim-t-188442"></a>
 - t-003
   teiginys: "Narbutas mini, kad ekskunigas Adomas Jucevičius legendos apie gegužės pavirtimą aprašymu užėmė nemažą „Tygodnik Petersburski“ 1836 m. Nr. 28 dalį."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -92,39 +101,45 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   temporaliniai_duomenys: "įvykio data: 1836 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į sakinį apie Jucevičiaus paskelbtą legendos aprašymą. Legendinis turinys paliktas su Narbuto atribucija."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-183829
 
-<a id="claim-t-190755"></a>
+<a id="claim-t-200442"></a>
 - t-004
   teiginys: "Narbutas nurodo, kad ekskunigas Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 aprašė legendą apie gegužės pavirtimą."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  sudarymo_pagrindimas: "Legendos turinys paliktas su Narbuto atribucija, nes profilis reikalauja atribucijos legendoms. Nepridėta paties pavirtimo siužeto, kurio citata dar neišdėsto."
   temporaliniai_duomenys: "įvykio data: 1836 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Legendos turinys paliktas su Narbuto atribucija, nes profilis reikalauja atribucijos legendoms. Nepridėta paties pavirtimo siužeto, kurio citata dar neišdėsto."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-173637
-    - c-183828
 
-<a id="claim-t-190756"></a>
+<a id="claim-t-202495"></a>
 - t-005
-  teiginys: "Antrojo LTI leidimo papildymo medžiaga buvo paimta iš L. A. Jucevičiaus „Lietuvos“ dalies „Metamorfozės lietuvių mitologijoje“."
-  atnaujinta: "2026-07-19 17:58"
+  teiginys: "Liudvikas Jucevičius ir Stanislovas Čerskis aptariamą hierarchą vertino kaip vieną iš puikiausių vyskupų, pabrėždami jo žmoniškumą, šeimininkiškumą, pomėgį mokslui ir gerą skonį."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
+  ryšio_patikimumas: "susije_su -> Jucevičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liudvikas Adomas Jucevičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Jucevičius: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikas Adomas Jucevičius\" parinktas kaip owner_note_path. Targetas \"Jucevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
-    - c-183828
+    - c-183835
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -171,7 +186,7 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     cevičius užėmė nemenką „Tygodnik Petersburski“ (1836. Nr. 28)
     dalį. Vis dėlto patį pavirtimo turinį privalau aprašyti.
   statusas: verified
-  atnaujinta: "2026-07-14 02:56"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -190,7 +205,7 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     dalies, pavadintos „Metamorfozės lietuvių mitologijoje“.
   citata_rodoma: "Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį\nLTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­\nimta iš jau ne kartą minėto L. A. Jucevičiaus veikalo „Lietuva“\ndalies, pavadintos „Metamorfozės lietuvių mitologijoje“."
   statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-29 11:34"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -207,14 +222,11 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
     dalies, pavadintos „Metamorfozės lietuvių mitologijoje“.
   citata_rodoma: "Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį\nLTI leidimą (PEĮ. L. 114). Visa ši medžiaga T. Narbuto buvo pa­\nimta iš jau ne kartą minėto L. A. Jucevičiaus veikalo „Lietuva“\ndalies, pavadintos „Metamorfozės lietuvių mitologijoje“."
   statusas: verified
-  atnaujinta: "2026-07-14 02:56"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-005
-
 - id: c-183829
   autorius: "Teodoras Narbutas"
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -254,3 +266,14 @@ Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje i�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-183835
+  autorius: "Domininkas Burba"
+  šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
+  puslapiai: "PDF 2"
+  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 2."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 17:37"
+  pagrindzia:
+    - t-005

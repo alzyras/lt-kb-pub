@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8782e546de755298c3717793"
+canonical_name: "Jurgis Vytautaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Vytautaitis"]
+sameAs: []
+canonical_biography: "Kare su švedais Naugardui padėjo Pskovas, kur buvo lietuvių vietininkas Jurgis Vytautaitis."
 ---
 # Jurgis Vytautaitis
 
@@ -63,7 +70,8 @@ Kare su švedais Naugardui padėjo Pskovas, kur buvo lietuvių vietininkas Jurgi
 - id: c-41372
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     Netrukus 1349 m. lietuviai vėl atstatė
     ir įtvirtino Veliuonos pilį, o naugardie-

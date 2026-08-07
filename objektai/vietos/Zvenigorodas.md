@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1681097d7973979db0801755"
+canonical_name: "Zvenigorodas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zvenigorodas"]
+sameAs: []
+canonical_biography: "Tų metų rudenį Vytauto nurodymu Skirgaila, žygiuodamas iš Kijevo į pietus, paėmė Čerkasus ir Zvenigorodą, šias Aukso ordai buvusias pavaldžias žemes prijungdamas prie LDK."
+place_authority: true
+historical_names: []
 ---
 # Zvenigorodas
 
@@ -59,7 +68,8 @@ Tų metų rudenį Vytauto nurodymu Skirgaila, žygiuodamas iš Kijevo į pietus,
 - id: c-45451
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     Taip Vytautas sustiprino Lietuvos
     pozicijas saugodamasis galimos

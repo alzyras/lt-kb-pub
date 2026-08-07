@@ -58,7 +58,8 @@ Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas J
 - id: c-176894
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127."
   citata_originali: |
     Iškilmingai,
     dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
@@ -84,7 +85,8 @@ Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas J
 - id: c-176895
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 128."
   citata_originali: |
     Ati­
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos

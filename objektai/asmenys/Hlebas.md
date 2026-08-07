@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae2f5fe6978ffb0e8f0b67cd"
+canonical_name: "Hlebas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hlebas"]
+sameAs: []
+canonical_biography: "VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs Jurgis ir jo brolis Hlebas — pateko savitarpio nesantaikon. Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9. Drauge su visa eile kitų Riurikaičių, jo brolis Hlebas buvo žuvęs Vytauto pusėje prie Vorsloos."
 ---
 # Hlebas
 
@@ -80,7 +87,8 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
 - id: c-32738
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 326"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 326."
   citata_originali: |
     Sukilusių miestiečių ir savo šalininkų Smo­
     lenske remiamas, grįžo ir įsigalėjo išvarytasis Jurgis (Jurijus) Svia­
@@ -99,7 +107,8 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
 - id: c-32739
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 320."
   citata_originali: |
     Remdamasis giminyste,
     Vytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė

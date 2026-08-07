@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6c3c5f6c876ef7e82d594300"
+canonical_name: "Juozapas Ignas Kraševskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozapas Ignas Kraševskis"]
+sameAs: []
+canonical_biography: "Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ veik tuo pat metu rašė savo Vilniaus miesto istoriją. Kraševskio ir M. Balins­ kis, Juozapas Ignas Kraševskis panaudojo gausią archyvinę me­ džiagą, kronikas ir metraščius, tačiau, būdamas prozininkas rašė puikiu stiliumi."
 ---
 # Juozapas Ignas Kraševskis
 
@@ -93,7 +100,8 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 - id: c-83411
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 12."
   citata_originali: |
     Nepaisant gana kritiško požiūrio į
     istorijos šaltinius, M. Balinskio Vilniaus istorija neprilygo J. I. Kra­
@@ -114,7 +122,8 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 - id: c-83412
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 11."
   citata_originali: |
     Prasidėjo Vilniaus miesto istorijos mokslinės istoriog­
     rafijos pradžia.
@@ -136,7 +145,8 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 - id: c-83413
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 5."
   citata_originali: |
     M. Balinskis buvo kruopštus, pedantiškas istorikas,
     kitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­

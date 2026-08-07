@@ -125,7 +125,8 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
 - id: c-174611
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo
     su krivičiais, o ne krivičių Smolenską, nes iš daugelio
@@ -152,7 +153,8 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
 - id: c-174612
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Be to, ir Pretorijus sako,
     jog prūsai ir rusai iš pradžių priklausė vienai genčiai;
@@ -176,7 +178,8 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
 - id: c-179294
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Be to, reikia pridurti nors ir nepilną, tačiau Nestoro
     išsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­

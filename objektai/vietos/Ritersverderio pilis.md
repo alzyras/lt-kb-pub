@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-754b001f674b762b96058c0d"
+canonical_name: "Ritersverderio pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ritersverderio pilis"]
+sameAs: []
+canonical_biography: "Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pastatytoje Ritersverderio pilyje."
+place_authority: true
+historical_names: []
 ---
 # Ritersverderio pilis
 
@@ -47,7 +56,8 @@ Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pa
 - id: c-176007
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 129."
   citata_originali: |
     Šį kartą Vytautui ordinas jau nebedavė valdyti jokios pilies.
     Tačiau jam buvo leista gyventi prie pat Kauno, vietoj

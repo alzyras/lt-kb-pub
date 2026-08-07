@@ -95,7 +95,8 @@ Lietuva ir Maskva vargais negalais sutarė dėl šešerių metų paliaubų, kuri
 - id: c-169709
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 571"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 571."
   citata_originali: |
     Išvykstantiems pasiuntiniams buvo
     nurodyta, kad amžina taika galinti būti sudaryta, jei­

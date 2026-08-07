@@ -75,7 +75,8 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
 - id: c-40511
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 182."
   citata_originali: |
     BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin.
     kaimo link ir jį užimti. 1919 m. Lietuvos karo aviacijos J. Reikala), sudarytas iš Panevėžio bata-
@@ -100,7 +101,8 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
 - id: c-40512
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 183."
   citata_originali: |
     J. Nastopka. Rezervas parėmė šią koloną,
     o vadovavimą perėmė karin. J. Reikala.

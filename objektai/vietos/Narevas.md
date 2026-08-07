@@ -36,6 +36,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5b97e50cb1b761cb43cf0c54"
+canonical_name: "Narevas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Narevas"]
+sameAs: []
+canonical_biography: "Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs L I E T U V O S I S T O R I J A 40 grūdais pagrindinį Europos duonos uostą – Gdanską."
+place_authority: true
+historical_names: []
 ---
 # Narevas
 
@@ -182,7 +191,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 100."
   citata_originali: |
     Apie
     birželio mėn. 15 d. žygiavo artyn prie Červinsko. Žygiavo tarp
@@ -200,7 +210,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - id: c-159520
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi:
     „atėjo vokiečiai prie Vilniaus miesto prieš Vytautą, ir buvo tarp jų
@@ -223,7 +234,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - id: c-168420
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 143."
   citata_originali: |
     Tuo tarpu Lešekas Juodasis,
     Lenkijos valdovas, Krokuvoje teisė savo valdinius; ki­
@@ -243,7 +255,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - id: c-175472
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     1237 metais jis ve­
     dė savo būrius prieš jotvingius į Brastos apylinkes, bet
@@ -266,7 +279,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - id: c-175473
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
   citata_originali: |
     Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be
     to, Traidenis vakarinėje Jotvingijoje paliko visos tautos
@@ -285,9 +299,9 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
     - t-005
 
 - id: c-184982
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 100"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 100."
   citata_originali: |
     Štai per 1520-1521 m. Lenkijos
     ir Vokiečių ordino karą keliai per Vokiečių ordino valstybę buvo uždaryti. Pačiame

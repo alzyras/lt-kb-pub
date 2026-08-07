@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fb12d2587f4c84f2ee5ab1dd"
+canonical_name: "Troškūnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Troškūnai"]
+sameAs: []
+canonical_biography: "Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekiodama priešą gegužės 27 d. užėmė Troškūnus ir Subačių."
+place_authority: true
+historical_names: []
 ---
 # Troškūnai
 
@@ -51,7 +60,8 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
 - id: c-45369
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 183."
   citata_originali: |
     Mūšio pasekmės
     Išvadavusi

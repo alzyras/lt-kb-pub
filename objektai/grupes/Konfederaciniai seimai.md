@@ -52,7 +52,8 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
 - id: c-70533
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 286."
   citata_originali: |
     Dėl jos daugybė seimų turėjo išsiskirstyti,
 

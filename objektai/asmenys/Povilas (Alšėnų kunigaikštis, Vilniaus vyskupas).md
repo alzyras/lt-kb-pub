@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b8c99ceddfadab2504e3e68b"
+canonical_name: "Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)"]
+sameAs: []
+canonical_biography: "Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų................... Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­ vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­ tydino nedidukę oratoriją, arba koplyčią14. 14 Šios koplyčios fundacijos akte, 1543 metais išleistame to paties vyskupo (žr."
 ---
 # Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)
 
@@ -183,7 +190,8 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - id: c-157541
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 425"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 425."
   citata_originali: |
     Taigi mes jo
     teisėtam prašymui pritardami ir, norėdami sustiprinti Die­
@@ -214,7 +222,8 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - id: c-157542
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 297-298"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 297-298."
   citata_originali: |
     Petras Roizijus,
     281
@@ -245,7 +254,8 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - id: c-157544
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 282."
   citata_originali: |
     Mikalojaus bažnyčią. O po dvi­
     dešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė,
@@ -267,7 +277,8 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - id: c-157545
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 334-335"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 334-335."
   citata_originali: |
     Ubi
     comparens, et iure prius convictus, poenas in Canonibus
@@ -309,7 +320,8 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - id: c-157547
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 282-283"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 282-283."
   citata_originali: |
     3.
     14
@@ -336,7 +348,8 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - id: c-157548
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 300."
   citata_originali: |
     Apie tai sužinojęs Vilniaus vysku­
     pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­
@@ -359,7 +372,8 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - id: c-157549
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 423"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 423."
   citata_originali: |
     Šiuo raštu skelbiame visiems ir
     kiekvienam, kam dabar ar ateityje bus pravartu žinoti. Kad
@@ -389,7 +403,8 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - id: c-157550
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 339-340"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 339-340."
   citata_originali: |
     Duota Vilniuje, penktadienį, rytojaus dieną po
     Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai

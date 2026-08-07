@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-13ea665649550c5b3a66acb3"
+canonical_name: "Jurgis Lengvenaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Lengvenaitis"]
+sameAs: []
+canonical_biography: "Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės kartu su Švitrigaila išvengė sutriuškinimo."
 ---
 # Jurgis Lengvenaitis
 
@@ -52,7 +59,8 @@ Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės ka
 - id: c-83722
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 236."
   citata_originali: |
     Priešininkas, persekio­
     jamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­

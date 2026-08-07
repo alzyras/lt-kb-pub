@@ -58,7 +58,8 @@ Dusburgietis teigia, kad powierski J.
 - id: c-61877
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
   citata_originali: |
     Powierski J. Rec.: Marija Gimbutas, The Balts.— ZHP [В], Toruń, 1966, t. 31, z. 2, s.
     81—83.

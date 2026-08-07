@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-818b8b62f0b15456567256cb"
+canonical_name: "Raginė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Raginė","Raginė (vieta)"]
+sameAs: []
+canonical_biography: "Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo tapo miestietis iš Kauno priemiesčio Raginės Mykolas Romanaitis. Mikalojaus bažnyčiai, įsikūrusiai Raginėje, priklausė 2 namai netoli bažnyčios ir 1 daržas."
+place_authority: true
+historical_names: []
 ---
 # Raginė (vieta)
 
@@ -58,9 +67,9 @@ Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo 
 ## Citatos
 
 - id: c-185045
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 188"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 188."
   citata_originali: |
     Kol
     byla nesibaigė, Martynas, kad išliktų laisvas, prisidengė miestiečio sėslumu. Augusti-
@@ -76,9 +85,9 @@ Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo 
     - t-001
 
 - id: c-185046
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 302"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 302."
   citata_originali: |
     Tikriausiai dėl šių aplinkybių šioms bažnyčioms
     išlaikyti skirtas nekilnojamasis turtas buvo miesto kontroliuojamas. Šv. Mikalojaus

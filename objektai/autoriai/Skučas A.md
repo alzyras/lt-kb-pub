@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b7f9a8280f5a094fa04c02eb"
+canonical_name: "Skučas A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Skučas A"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Skučas A
 
@@ -65,7 +72,8 @@ Nenurodyta
 - id: c-41676
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 269."
   citata_originali: |
     ## Puslapis 269
 

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-53db3822ec2c36b29a1932df"
+canonical_name: "Kuczyński, S. M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kuczyński, S. M"]
+sameAs: []
+canonical_biography: "Kuczyński, S."
 ---
 # Kuczyński, S. M
 
@@ -61,7 +68,8 @@ Kuczyński, S.
 - id: c-29275
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 330"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 330."
   citata_originali: |
     — Kuczyński, S. M. : _Antymoskiewska inicjatywa
     Litwy w drugiej połowie XIV wieku,_ Warszawa 1936. — (”) _Ziemie

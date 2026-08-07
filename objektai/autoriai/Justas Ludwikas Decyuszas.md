@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-21af2b3c4a09c5e9ebf14114"
+canonical_name: "Justas Ludwikas Decyuszas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Justas Ludwikas Decyuszas"]
+sameAs: []
+canonical_biography: "IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Augusto Municipalinė teisė (willkühr - saviiždininko; iš rankraščio išspausdinvalė vok., vert."
 ---
 # Justas Ludwikas Decyuszas
 
@@ -61,7 +68,8 @@ IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Au
 - id: c-84073
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 294."
   citata_originali: |
     Jį karalius patvirtino tų pačių metų lapkričio
     18 dieną ir vėliau miestui suteikė daug kitų naudingų dova­

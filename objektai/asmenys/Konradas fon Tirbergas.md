@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee9917dee1b04d179deef9da"
+canonical_name: "Konradas fon Tirbergas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas fon Tirbergas"]
+sameAs: []
+canonical_biography: "Žiemą, užšalus Nemunui, magistro Konrado fon Tirbergo vedami kryžiuočiai įsiveržė į Lietuvą."
 ---
 # Konradas fon Tirbergas
 
@@ -54,7 +61,8 @@ media_all_json: |-
 - id: c-169490
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
   citata_originali: |
     Taigi kai lietuviai įrudenėjus buvo užsi­
     ėmę žygiu į Sandomirą, kryžiuočiai, stojus žiemai, kai

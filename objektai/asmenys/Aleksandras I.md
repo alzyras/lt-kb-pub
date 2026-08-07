@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e43e18cc5ee6049960c1203c"
+canonical_name: "Aleksandras I"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras I"]
+sameAs: []
+canonical_biography: "Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą ištikimybės priesaiką. Aleksandras I nutarė nekeršyti jam priesaiką sulaužiusiai Lietuvos bajorijai, todėl padėtis iš esmės liko nepakitusi. Aleksandras I buvo asmeninis Adomo Jurgio Čartoriskio draugas."
 ---
 # Aleksandras I
 
@@ -120,7 +127,8 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
 - id: c-21556
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 102."
   citata_originali: |
     Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda,
     kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV že-
@@ -142,7 +150,8 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
 - id: c-73370
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     104
@@ -168,7 +177,8 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
 - id: c-166912
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     Vienos kongreso nu-
     tarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietu-

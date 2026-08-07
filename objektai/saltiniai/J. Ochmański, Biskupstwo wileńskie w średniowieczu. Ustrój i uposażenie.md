@@ -57,7 +57,8 @@ Ochmański, J.
 - id: c-33590
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 385."
   citata_originali: |
     1964, 122-170 p. — Ochmański, J. : _Bis­
     kupstwo wileńskie w średniowieczu. Ustrój i uposażenie,_ Poznan 1972. —

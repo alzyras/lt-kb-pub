@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-571f02e1b8e07eae58ad9626"
+canonical_name: "Jonas XXI"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas XXI"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Joną XXI, popiežių, ir karalių Rudolfą, Romos karalių Tais pačiais metais popiežius Jonas XXI, ispanų tautybės, sudėjo didelę knygą apie fizikos mokslą, vardu „Summa, vel thesaurus pauperum...“ (Ptol."
 ---
 # Jonas XXI
 
@@ -45,7 +52,8 @@ Dusburgietis teigia, kad apie Joną XXI, popiežių, ir karalių Rudolfą, Romos
 - id: c-60982
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 237."
   citata_originali: |
     Apie Joną XXI, popiežių, ir karalių Rudolfą, Romos karalių
 

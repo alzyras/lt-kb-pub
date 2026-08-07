@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-286d45bfd83d70952a78f9f7"
+canonical_name: "Juozapas Pomarnackis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozapas Pomarnackis"]
+sameAs: []
+canonical_biography: "Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių kapinyno kasinėjimus. Juozapas Pomarnackis padovanojo Narbutui radinius ir atsiuntė jų atradimo aprašymą, datuotą 1839 m. lapkričio 10 d."
 ---
 # Juozapas Pomarnackis
 
@@ -86,7 +93,8 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
 - id: c-173049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 503"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 503."
   citata_originali: |
     Apie Obelių
     kapinyno kasinėjimus T. Narbutas sužinojo 1840
@@ -107,7 +115,8 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
 - id: c-173780
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 160."
   citata_originali: |
     Čia pasitvirtina
     ir mokslininko, senovės tyrinėtojo pono Riterio nuomonė,

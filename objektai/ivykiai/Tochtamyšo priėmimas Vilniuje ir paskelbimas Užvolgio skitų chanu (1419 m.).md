@@ -73,7 +73,7 @@ Nenurodyta
 <a id="claim-t-185646"></a>
 - t-002
   teiginys: "Vytautas Vilniuje priėmė Tochtamyšą, pažadėjo jam paramą ir paskelbė Užvolgio skitų chanu."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -100,7 +100,8 @@ Nenurodyta
 - id: c-169006
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Užvolgio skitai,
     netekę mirusio chano Saladi-
@@ -128,7 +129,8 @@ Nenurodyta
 - id: c-169007
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Mat juodi debesys ap­
     traukė dangų, pakilo nepaprasta audra, sugriaudėjo

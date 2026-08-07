@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bcd9b95874763a741aa04ef8"
+canonical_name: "Stabo ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Stabo ežeras"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinberc) Spitteynen Spittels Sprūdės kalnas Stabo (dab."
+place_authority: true
+historical_names: []
 ---
 # Stabo ežeras
 
@@ -32,7 +41,8 @@ Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinbe
 - id: c-59362
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
   citata_originali: |
     Spąsčių kalnas
     Spitenbergas (Spittenbergk, Spittinberc)
@@ -50,7 +60,8 @@ Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinbe
 - id: c-167591
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
   citata_originali: |
     Sniardwy), ež.
     Spąsčių kalnas

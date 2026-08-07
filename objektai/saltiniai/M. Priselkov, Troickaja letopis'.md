@@ -59,7 +59,8 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 - id: c-33660
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 327."
   citata_originali: |
     Ir
     Kęstutaitis, kaip kitados jo dėdė Algirdas, tris kartus traukė prieš

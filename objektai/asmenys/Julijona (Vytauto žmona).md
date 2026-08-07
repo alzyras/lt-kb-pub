@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-40561b238e5cb947c61dc79e"
+canonical_name: "Julijona (Vytauto žmona)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Julijona","Julijona (Vytauto žmona)","Julijonos","kun. Julijona"]
+sameAs: []
+canonical_biography: "Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už atsiųstus gėrimus. Vytauto žmona Julijona, Algimanto Alšėniškio duktė, išpažino graikų apeigų tikėjimą ir turėjo koplyčią Trakų pilyje. 1426 m. sirgusi didžioji kunigaikštienė Julijona iš Pauliaus Rusdorfo gavo dovanų atsiųstų gydomųjų gėrimų."
 ---
 # Julijona (Vytauto žmona)
 
@@ -368,7 +375,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 254."
   citata_originali: |
     Tris kartus per dieną—rytą, per pietus
     ir vakare, buvo apraudojamas didelis mūsų tėvynės vyras, jos
@@ -390,7 +398,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 26."
   citata_originali: |
     Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik
     paskui pasidarė labai uoli katalikė. Istorikai nurodo, kad Vy­
@@ -409,7 +418,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 248."
   citata_originali: |
     Bet
     ir ligi to termino nieko nesulaukta. Vytautas, atsisveikinęs
@@ -428,7 +438,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 254."
   citata_originali: |
     Mirė tikrai mūsų tautos
     garbė.
@@ -447,7 +458,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
 - id: c-105016
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 253."
   citata_originali: |
     III KNYGA
     galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­
@@ -476,7 +488,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
 - id: c-105018
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 176-177"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 176-177."
   citata_originali: |
     Iš
     vieno Vytauto dovanojimo akto Tra­
@@ -517,7 +530,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
 - id: c-105019
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 253."
   citata_originali: |
     Pasta­
     rasis varį (miedź - mied') palaikė me­
@@ -553,7 +567,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 248."
   citata_originali: |
     Vis dėlto jis ir dabar dar nenustojo
     vilties karūnuotis. Nenusileisti jį ypač įkalbinėjo jo bajorai
@@ -571,7 +586,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
 - id: c-105022
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 270."
   citata_originali: |
     Algirdas
     kartais gyvendavo Paneriuose, šiandien priklausančiuose
@@ -596,7 +612,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
 - id: c-105023
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 253-254"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 253-254."
   citata_originali: |
     54
     Index Cod. Hist. Dipl. Livoniae, T. I,
@@ -647,7 +664,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 26."
   citata_originali: |
     Istorikai nurodo, kad Vy­
     tautas turėjo tris žmonas^1 ). Trečios žmonos vardas buvęs Ju­
@@ -668,7 +686,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
 - id: c-105025
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252-253"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252-253."
   citata_originali: |
     A
     za srebro i za robotu i za mied' i za wsi
@@ -704,7 +723,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
 - id: c-105028
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 51."
   citata_originali: |
     Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią,
     numatytą XIV a. pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-
@@ -724,7 +744,8 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
 - id: c-168105
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 394"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 394."
   citata_originali: |
     Po to ir viena, ir kita šalis puldinėjo
     ir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti

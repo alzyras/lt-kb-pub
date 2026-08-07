@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d978d47f771174b213270fad"
+canonical_name: "J. Totoraitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Totoraitis"]
+sameAs: []
+canonical_biography: "Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;."
 ---
 # J. Totoraitis
 
@@ -61,7 +68,8 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
 - id: c-30595
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 22."
   citata_originali: |
     Pr. Kuraitis, Kaunas 1925-
     1940.

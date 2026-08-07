@@ -63,7 +63,8 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 - id: c-01560
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 242."
   citata_originali: |
     (Gersono paveikslas).
     Gedimino šeimos šaka pasibaigė. Tiesa, dar buvo gyvų daug
@@ -81,7 +82,8 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 - id: c-175854
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 211-212"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 211-212."
   citata_originali: |
     Mat, visa Lietu-
     va pasirodė jam priešinga,— juo labiau, kad nelaimingai pasibai-

@@ -317,7 +317,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 <a id="claim-t-188354"></a>
 - t-016
   teiginys: "Narbutas rašė, kad slavai uosį skyrė Jupiteriui, vadintam Jesse."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -325,8 +325,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171236
-    - c-171244
+    - c-171247
 
 <a id="claim-t-190620"></a>
 - t-017
@@ -775,7 +774,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-22744
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 34."
   citata_originali: |
     **1. Aisčių kiltys ir jų gyvenamosios vietos istorinių laikų pradžioje**
         Pirmosios mus pasiekusios istorinės žinios liudija aisčius jau
@@ -795,7 +795,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-42934
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 20."
   citata_originali: |
     Ix a.
     į slavų užvaldytas žemes atklydę skandinavai variagai čia įkūrė
@@ -817,7 +818,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-85208
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 14."
   citata_originali: |
     Manoma, kad jei
     ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos var-
@@ -841,7 +843,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-85209
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 22."
   citata_originali: |
     I tūkstantmetyje po Kr. baltų genčių apgyvendintas
     arealas driekėsi nuo Vyslos iki Dniepro ir Okos baseinų rytuose. Vėliau,
@@ -860,7 +863,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-166326
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 39."
   citata_originali: |
     Kurdamas savo
     imperiją, Karolis norėjo žinoti, kokios tautos gyvena Europos
@@ -878,7 +882,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-171236
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 94."
   citata_originali: |
     Rusios istorija liudija, kad 980 metais tą garbinimą įve­
     dė Kijeve Vladimiras Didysis, liepęs pastatyti ant kalno to dievo
@@ -896,12 +901,12 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
-    - t-016
 
 - id: c-171237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
   citata_originali: |
     Ypač
     jis buvo gerbtinas kaip žemdirbių dievas.
@@ -922,7 +927,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-171239
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     Stenderis, tuose savo latvių mitologijos straipsniuo­
     se saviškai pateikdamas klaidingas išvadas, nutolsta nuo es­
@@ -945,7 +951,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-171240
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 133."
   citata_originali: |
     Skaityk straipsnį „Šventės“.
     Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
@@ -966,7 +973,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-171241
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 137."
   citata_originali: |
     Įskaitomi už­
     rašai rusiškomis raidėmis: Poklus, Nijota.
@@ -986,7 +994,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-171242
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
   citata_originali: |
     28
     Slavai, ypač šiaurės, šias nimfas vadino rusalkomis, nes jos tu­
@@ -1006,7 +1015,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-171243
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 218."
   citata_originali: |
     Antikoje buvo taip pat milžinas Alkijonas (Alcyon). Pas slavus
     būta įsivaizdavimo apie milžiną, nešantį ant pečių mažesnio ūgio
@@ -1025,7 +1035,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-171244
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 225."
   citata_originali: |
     Žemaičiai
     manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
@@ -1044,12 +1055,12 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-014
-    - t-016
 
 - id: c-171246
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 230."
   citata_originali: |
     Todėl seno­
     vės tyrėjui didelė parama yra vandenų vardų pažinimas ir jų
@@ -1075,7 +1086,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-171247
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 242."
   citata_originali: |
     Pasakojimas apie stebuklingus medžius
     mini uosį.
@@ -1089,14 +1101,17 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   citata_rodoma: "Pasakojimas apie stebuklingus medžius\nmini uosį.\n241\n\n## Puslapis 241\n\nSlavai uosį paskirdavo Jupiteriui, vadintam Jesse. Skandi­\nnavai garbino uosį, vadinamą Igdrasilu, po kurio šakomis gy­\nvenę dievai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
 - id: c-173503
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 354."
   citata_originali: |
     Iš tiesų merginos šlovė ir garsas priklauso nuo to, kaip ji
     sugebės dailiau improvizuoti savo ikivestuvines dainas, o kitų
@@ -1117,7 +1132,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-173504
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 356."
   citata_originali: |
     Moterys dar kartą dainuoja graudžią dai­
     ną, beveik tokią pat kaip anksčiau, lėkštę su alaus puodeliu
@@ -1143,7 +1159,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-173505
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 360"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 360."
   citata_originali: |
     Visose tautose,
     ratu supančiose Lietuvą, pastebime daugiau ištvirkimo, palai­
@@ -1168,7 +1185,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-175260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 18."
   citata_originali: |
     Trum­
     piau tariant, slavų, kaip ir kitų kaimyninių tautų, istorija
@@ -1197,7 +1215,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-175261
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 76."
   citata_originali: |
     Taigi
     budinai turėtų būti protėviai dviejų tautų, kurios šian­
@@ -1223,7 +1242,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-175262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 165."
   citata_originali: |
     Beje, vėliau nustatyta, kad vietinės prekės
     niekad nebuvo gabenamos šia upe aukštyn, bet tik jūros
@@ -1247,7 +1267,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-175263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
   citata_originali: |
     Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
     gyventi žmonės septintojo dangaus- rato pabaigoje, — čia
@@ -1270,7 +1291,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-175264
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 212."
   citata_originali: |
     Taip mes taip pat nedve­
     jodami pripažįstame tą istorinę tiesą, kad lietuvių tautos
@@ -1296,7 +1318,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-175266
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
   citata_originali: |
     230
 
@@ -1324,7 +1347,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-175267
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
   citata_originali: |
     Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
     40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
@@ -1347,7 +1371,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-175268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 250."
   citata_originali: |
     Be to, reikia manyti, jog šį bendrą tautų lizdą svetima
     gentis dalijo nemažą laiko tarpą, nes latvių tarmė labai
@@ -1372,7 +1397,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-175269
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 326"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 326."
   citata_originali: |
     V amžiaus pabaigoje šiuose kraštuose jau plačiai driekėsi
     slavų gyvenamosios vietovės po vandalų ir longobardi}
@@ -1400,7 +1426,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-177000
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 113."
   citata_originali: |
     Nežinia, kas buvo užrašyta, bet vis dėlto vienas
     žodis, to dvarininko nupieštas iš atminties, kaip nagrinėjant
@@ -1426,7 +1453,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-177001
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Net Vokietijoje,
     kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
@@ -1452,7 +1480,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - id: c-179228
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 171."
   citata_originali: |
     Ten juos
     pažino Divonis; juos valdė kažkoks Mazovijos slavų ka­

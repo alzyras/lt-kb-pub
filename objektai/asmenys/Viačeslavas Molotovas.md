@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c6d3c88c254eef54207cbae3"
+canonical_name: "Viačeslavas Molotovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Viačeslavas Molotovas"]
+sameAs: []
+canonical_biography: "Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo. Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir Lietuvos savitarpio pagalbos sutartis."
 ---
 # Viačeslavas Molotovas
 
@@ -96,7 +103,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 <a id="claim-t-64240"></a>
 - t-004
   teiginys: "1939 m. rugsėjo 28 d. Viačeslavas Molotovas ir Joachimas von Ribbentropas pasirašė sutartį, kurios slaptasis protokolas Lietuvą priskyrė SSRS įtakos sferai."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1939 m."
@@ -110,7 +117,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - id: c-22051
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 184."
   citata_originali: |
     Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
     pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
@@ -131,7 +139,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - id: c-65044
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 186."
   citata_originali: |
     Tai rodė,
     jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti
@@ -152,7 +161,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - id: c-65045
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 184."
   citata_originali: |
     Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą
     ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaci-
@@ -173,7 +183,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - id: c-65046
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 187."
   citata_originali: |
     Nuo V. Molotovo rėksmingų kaltinimų
     absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
@@ -196,7 +207,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - id: c-65047
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 185."
   citata_originali: |
     Lietuviai at-
     kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti

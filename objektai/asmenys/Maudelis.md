@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8ca57a5ff32a079b7d88cc9d"
+canonical_name: "Maudelis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Maudelis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su visomis savo šeimynomis ir, krikšto."
 ---
 # Maudelis
 
@@ -68,7 +75,8 @@ Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio
 - id: c-61018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
     1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,

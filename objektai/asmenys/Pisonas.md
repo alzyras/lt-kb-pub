@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-152dbeab1bb43f376f9f95f9"
+canonical_name: "Pisonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pisonas"]
+sameAs: []
+canonical_biography: "Popiežiaus legatas Pisonas buvo pasiųstas iš Romos sutaikyti Žygimantą su Vasilijumi ir sustojo Vilniuje prieš kelionę į Maskvą."
 ---
 # Pisonas
 
@@ -53,7 +60,8 @@ Popiežiaus legatas Pisonas buvo pasiųstas iš Romos sutaikyti Žygimantą su V
 - id: c-169609
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 626"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 626."
   citata_originali: |
     Pašaukęs į karo žygį beveik
     visus bajorus, galinčius pakelti ginklą, sutraukęs visų

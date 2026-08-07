@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7dc9b9256b9304609b7ed4e0"
+canonical_name: "Jonas Goštautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Goštautas"]
+sameAs: []
+canonical_biography: "Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui. Jono Goštauto vadovaujama kariuomenė išvijo Mykolą iš Kijevo ir Seversko žemių, taip pat atsiėmė Brianską ir Starodubą. Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui."
 ---
 # Jonas Goštautas
 
@@ -228,7 +235,8 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
 - id: c-169341
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 470-471"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 470-471."
   citata_originali: |
     Daugirdas, turėjęs galy-
     k u s
@@ -262,7 +270,8 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
 - id: c-169342
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 478"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 478."
   citata_originali: |
     Neilgai džiaugėsi šiomis per­
     galėmis. Mat Jono Goštauto vedama kariuomenė jį iš­
@@ -282,7 +291,8 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
 - id: c-176551
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 124."
   citata_originali: |
     APIE JOGAILOS SŪNAUS KAZIMIERO IŠRINKIMĄ LIETUVOS
     DIDŽIUOJU KUNIGAIKŠČIU
@@ -315,7 +325,8 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
 - id: c-176552
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 124."
   citata_originali: |
     O paskui didysis kunigaikštis Kazimieras atvyko
     į Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo,
@@ -349,7 +360,8 @@ Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui
 - id: c-176554
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 131."
   citata_originali: |
     Ir jis labai
     gailėjos, kad jo sugalvoti būdai virsta niekais ir daro

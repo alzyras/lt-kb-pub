@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3d9e17580880ac938180d582"
+canonical_name: "Sudivojus Valmantaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sudivojus Valmantaitis"]
+sameAs: []
+canonical_biography: "Štai 1431 m. Kauno seniūnas buvo vienos iš iškiliausių Lietuvos giminių narys Sudivojus Valmantaitis."
 ---
 # Sudivojus Valmantaitis
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185445
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 111"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 111."
   citata_originali: |
     Sudėtinga padėtis susidarė dėl XV a. ketvirtąjį dešimtmetį Lietuvą ištikusios poli-
     tinės krizės, kai dėl valdžios kovojo Švitrigaila ir Žygimantas Kęstutaitis. Štai 1431 m.

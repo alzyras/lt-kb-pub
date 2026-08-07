@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-44ade50269413bda0bd44f99"
+canonical_name: "Otonas (Brandenburgo markgrafas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Otonas (Brandenburgo markgrafas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną. Dusburgietis teigia, kad otonas (Brandenburgo markgrafas) deramai suklestėsianti, patraukė į Prūsiją, lydimi didelių kariuomenių ir gausybės karių, gelbėti šios žemės ir tramdyti prūsų sukilimo: 1265 viešpaties metais Braunšveigo kunigaikštis ir Tiuringijos landgrafas, 1266 metais — Brandenburgo markgrafas Otonas su sūnumi bei tikruoju broliu, o 1268 metais — Otokaras, Čekijos karalius398."
 ---
 # Otonas (Brandenburgo markgrafas)
 
@@ -95,7 +102,8 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 - id: c-60820
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 130."
   citata_originali: |
     Apie daugybės maldininkų atvykimą
 

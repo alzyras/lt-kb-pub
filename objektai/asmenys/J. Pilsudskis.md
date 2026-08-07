@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd65a83b09eacfed1bad6b18"
+canonical_name: "J. Pilsudskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Pilsudskis"]
+sameAs: []
+canonical_biography: "Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą laiką išnaudojo Lietuvą, politinė unija XVI a. Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe."
 ---
 # J. Pilsudskis
 
@@ -155,7 +162,8 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 - id: c-100886
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     Taigi Maskva, nepaisydama Lenkijos nepasitenkinimo, pri-
     pažino Lietuvos suverenitetą Vilniuje.
@@ -177,7 +185,8 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 - id: c-100888
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 140."
   citata_originali: |
     Lietuviai motyvavo, kad tai yra jų istorinė terito-
     rija, lenkai aiškino, kad Vilnijos gyventojai daugiausia kalba lenkiškai,
@@ -199,7 +208,8 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 - id: c-100889
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 131-132"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 131-132."
   citata_originali: |
     Lietuviakalbės Lietuvos
     kūrėjai lenkiškai kalbantiesiems nesiūlė jokių papildomų privilegijų, o tik
@@ -224,7 +234,8 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 - id: c-100891
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 159."
   citata_originali: |
     Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
     Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
@@ -246,7 +257,8 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 - id: c-100893
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     Delegacija
     buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu da-
@@ -273,7 +285,8 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 - id: c-166927
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 151."
   citata_originali: |
     Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
     nistracija, remiama bataliono prancūzų pėstininkų. Prancūzai skelbė, kad

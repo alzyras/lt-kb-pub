@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a87e31d8d548f664767bef1"
+canonical_name: "Georgi"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Georgi"]
+sameAs: []
+canonical_biography: "Narbutas perteikia Georgi nuomonę, kad japonų dievai Kami visiškai tapatūs egiptiečių Kamefiams, o šie atitinką slavų Tryzną."
 ---
 # Georgi
 
@@ -53,7 +60,8 @@ Narbutas perteikia Georgi nuomonę, kad japonų dievai Kami visiškai tapatūs e
 - id: c-173035
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 113."
   citata_originali: |
     Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
     susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.

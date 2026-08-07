@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-31a11a9f0f5c37522a5bef6a"
+canonical_name: "Leibienė (Leibos žmona)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Leibienė","Leibienė (Leibos žmona)"]
+sameAs: []
+canonical_biography: "Leibienė minima kaip antroji Leibos žmona, po jo mirties perėmusi kromo nešiojimą, pakeitusi prekių pobūdį ir vėliau išsikėlusi į Panevėžį."
 ---
 # Leibienė (Leibos žmona)
 

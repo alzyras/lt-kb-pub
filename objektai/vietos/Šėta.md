@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba6721791501f7ed90b48d16"
+canonical_name: "Šėta"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šėta"]
+sameAs: []
+canonical_biography: "Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes ir atsitraukti į Šėtą. Nedidelės ir prastai ginkluotos lietuvių pajėgos, parodžiusios drąsą ir ištvermę, sugebėjo atlaikyti daug didesnių pajėgų puolimą ir neleido užgrobti bolševikų."
+place_authority: true
+historical_names: []
 ---
 # Šėta
 
@@ -52,7 +61,8 @@ Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes
 - id: c-45477
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 174."
   citata_originali: |
     Miške į šiaurę nuo
     Kolupių kaimo į nelaisvę buvo paimta

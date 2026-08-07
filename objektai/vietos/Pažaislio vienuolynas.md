@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-70d3474e8483e78e7c7d9f06"
+canonical_name: "Pažaislio vienuolynas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pažaislio vienuolynas"]
+sameAs: []
+canonical_biography: "Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne – M."
+place_authority: true
+historical_names: []
 ---
 # Pažaislio vienuolynas
 
@@ -50,7 +59,8 @@ Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno Įgulos bažnyčioj
 - id: c-24370
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
   citata_originali: |
     Už-
     darytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pri-

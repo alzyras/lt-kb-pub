@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c936765a37b7c3a20a9459ec"
+canonical_name: "Julijona Oljevna"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Julijona Oljevna"]
+sameAs: []
+canonical_biography: "Lietuvos metraštis Julijoną Oljevną vadina Tverės didžiojo kunigaikščio dukterimi ir nurodo, kad su Algirdu ji turėjo šešis sūnus."
 ---
 # Julijona Oljevna
 

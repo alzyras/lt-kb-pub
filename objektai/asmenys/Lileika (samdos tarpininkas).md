@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-18e82e7f23ec779e686e056c"
+canonical_name: "Lileika (samdos tarpininkas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lileika","Lileika (samdos tarpininkas)"]
+sameAs: []
+canonical_biography: "Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigoro ir Jokūbo: pats nebesamdomas, jis perša Grigorą, veda jį pas būsimą šeimininką ir spaudžia laikytis duoto žodžio."
 ---
 # Lileika (samdos tarpininkas)
 

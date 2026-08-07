@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-868adc03534227b021857996"
+canonical_name: "Pogulianka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pogulianka"]
+sameAs: []
+canonical_biography: "Stepono bažnyčios ir Poguliankos rajonų."
+place_authority: true
+historical_names: []
 ---
 # Pogulianka
 
@@ -50,7 +59,8 @@ Stepono bažnyčios ir Poguliankos rajonų.
 - id: c-40333
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 154."
   citata_originali: |
     Gen. mjr. Leontijus Bennigsenas tri-
     mis kavalerijos pulkais, remiamas kazokų

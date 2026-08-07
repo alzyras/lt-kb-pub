@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-66965
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 461"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 461."
   citata_originali: |
     Tuo tarpu ji dar tebetikėjo
     Napoleono žvaigžde ir prieš likviduodamasi pareiškė, kad jos

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e5ab6e8bcb85db1bc0a055f6"
+canonical_name: "Bychovo tvirtovė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bychovo tvirtovė"]
+sameAs: []
+canonical_biography: "Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų suvežė svarbiausias vertybes į dominikonų vienuolyną, kuriame ir pernakvojo, o ryte, paskleidę gandą, kad vyksta į Drują bei Bychovo tvirtovę, iš tikrųjų suskubo trauktis į Kuršą - į."
+place_authority: true
+historical_names: []
 ---
 # Bychovo tvirtovė
 
@@ -69,7 +78,8 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 - id: c-167167
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 140."
   citata_originali: |
     Šios Sapiegų kariuomenės
     dalies gynyba neleido respubliko-

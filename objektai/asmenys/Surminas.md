@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a07f665674ce6c2f42ed146"
+canonical_name: "Surminas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Surminas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų vyrų, kurie narsiai priešinosi broliams. Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisiekęs dievų galybe niekad ateityje nelaukti, kol broliai užpulsią kokią pilį. Dusburgietis teigia, kad kai jie plaukė pro jau minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis, kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį, galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą."
 ---
 # Surminas
 
@@ -218,7 +225,8 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - id: c-60633
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
   citata_originali: |
     318 (311). Apie šio laivo sudeginimą 1313 metais
     Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa
@@ -241,7 +249,8 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - id: c-60634
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad
     ateityje nelaukti, kol broliai užpulsią kokią pilį.
@@ -262,7 +271,8 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - id: c-60635
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
     išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias
@@ -287,7 +297,8 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - id: c-167516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Apie Kolainių pilies užpuolimą
 
@@ -308,7 +319,8 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - id: c-168198
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 190."
   citata_originali: |
     Smarkiausia ir sunkiausia kova vyko prie to di­
     džiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau

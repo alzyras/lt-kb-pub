@@ -147,7 +147,8 @@ Nenurodyta
 - id: c-168916
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 177."
   citata_originali: |
     Kur kas didesnės sėkmės kitais metais susilaukė šeši
     178
@@ -177,7 +178,8 @@ Nenurodyta
 - id: c-168917
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 177."
   citata_originali: |
     Kai
     Nemune vyko šios laivų grumtynės, šeši šimtai raite­
@@ -204,7 +206,8 @@ Nenurodyta
 - id: c-168918
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 177."
   citata_originali: |
     Be abejonės,
     lietuviai būtų buvę sumušti, jeigu, neatsargiai veikda­

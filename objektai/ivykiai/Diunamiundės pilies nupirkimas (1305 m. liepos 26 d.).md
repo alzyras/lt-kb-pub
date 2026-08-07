@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-62741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
   citata_originali: |
     100. Apie tai, kaip buvo nupirkta Diunamiundės pilis
 

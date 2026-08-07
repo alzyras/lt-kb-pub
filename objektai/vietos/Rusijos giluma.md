@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-903ffbd3242b0d0f46977d75"
+canonical_name: "Rusijos giluma"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rusijos giluma"]
+sameAs: []
+canonical_biography: "Narbuto pastaboje Rusijos gilumoje gyvenantys mordviai iki šiol laikėsi papročio mergaitėms nešioti įvairaus dydžio rutulinius varpelius."
+place_authority: true
+historical_names: []
 ---
 # Rusijos giluma
 
@@ -54,7 +63,8 @@ Narbuto pastaboje Rusijos gilumoje gyvenantys mordviai iki šiol laikėsi papro�
 - id: c-171947
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 350."
   citata_originali: |
     Šitaip akylai sau­
     gomas, jas pagrobdavo lakedemoniečių pavyzdžiu; tai padaro

@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   [{"mediaId":"m-43ac030a1520657ad6c271b7","title":"Lithuania 1994 MiNr0548 B002.jpg","caption":"1994 m. Lietuvos nepriklausomybės dienai skirtas pašto ženklas su Antano Smetonos portretu.","originalTitle":"Lithuania 1994 MiNr0548 B002.jpg","creator":"Postal Administration of Lithuania","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"scan of original","dateDisplay":"1994-02-16","dateStart":null,"dateEnd":null,"width":787,"height":472,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuania_1994_MiNr0548_B002.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/56/Lithuania_1994_MiNr0548_B002.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/56/Lithuania_1994_MiNr0548_B002.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/56/Lithuania_1994_MiNr0548_B002.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"šventė","label":"šventė","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1994 stamps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Antanas Smetona on stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files using Template:Philately","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (stamps)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Red stamps","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/A. Smetona.md","title":"A. Smetona","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:28:35.825707+03:00","reviewedAt":"2026-07-18T17:29:28.915098+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Pašto ženkle aiškiai matomas stilizuotas Antano Smetonos portretas, šalia pateiktas jo vardas.","metadataEvidence":"Aprašyme tiesiogiai nurodyta „portrait of Antanas Smetona“ ir 1994 m. Lietuvos nepriklausomybės dienos emisija.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja target istorinį atvaizdą.","isPrimary":1},{"mediaId":"m-3840fda8f31fcf85e09b808b","title":"Lithuania 1934 MiNr391 B001.jpg","caption":"1934 m. Lietuvos pašto ženklas su Antano Smetonos portretu.","originalTitle":"Lithuania 1934 MiNr391 B001.jpg","creator":"Postal administration of Lithuania","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"scan of original","dateDisplay":"1934-07-07","dateStart":null,"dateEnd":null,"width":357,"height":420,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuania_1934_MiNr391_B001.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/Lithuania_1934_MiNr391_B001.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/Lithuania_1934_MiNr391_B001.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/99/Lithuania_1934_MiNr391_B001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1934 stamps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1935 postmarks","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Antanas Smetona on stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas on Lithuanian stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files using Template:Philately","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (stamps)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Red stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Stamps printed by Bradbury Wilkinson","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/A. Smetona.md","title":"A. Smetona","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:28:35.804690+03:00","reviewedAt":"2026-07-18T17:29:28.882670+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Raudoname pašto ženkle aiškiai pavaizduotas Antano Smetonos veidas ir biustas.","metadataEvidence":"Aprašyme tiesiogiai nurodyta „portrait of Antanas Smetona“ ir 1934 m. emisija.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja target istorinį atvaizdą.","isPrimary":0},{"mediaId":"m-baba452d0821cc68d889eed5","title":"Lithuania 1934 MiNr392 B001.jpg","caption":"1934 m. Lietuvos pašto ženklas su Antano Smetonos portretu.","originalTitle":"Lithuania 1934 MiNr392 B001.jpg","creator":"Postal administration of Lithuania","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"scan of original","dateDisplay":"1934-07-07","dateStart":null,"dateEnd":null,"width":355,"height":423,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuania_1934_MiNr392_B001.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Lithuania_1934_MiNr392_B001.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Lithuania_1934_MiNr392_B001.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Lithuania_1934_MiNr392_B001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1934 postmarks","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1934 stamps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Antanas Smetona on stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas on Lithuanian stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"December 1934 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files using Template:Philately","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Green stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanian-language stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (stamps)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Postmarks of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Stamps of Memel","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Stamps printed by Bradbury Wilkinson","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/A. Smetona.md","title":"A. Smetona","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:28:35.811748+03:00","reviewedAt":"2026-07-18T17:29:28.897227+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žaliame pašto ženkle aiškiai pavaizduotas Antano Smetonos veidas ir biustas.","metadataEvidence":"Aprašyme tiesiogiai nurodyta „portrait of Antanas Smetona“ ir 1934 m. emisija.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja target istorinį atvaizdą.","isPrimary":0},{"mediaId":"m-afa44cafe841be3b83ad87c5","title":"Lithuania 1936 MiNr410 B002a.jpg","caption":"1936 m. Lietuvos pašto ženklas su Antano Smetonos šoniniu portretu.","originalTitle":"Lithuania 1936 MiNr410 B002a.jpg","creator":"Postal administration of Lithuania","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"scan of original","dateDisplay":"1936-12-11","dateStart":null,"dateEnd":null,"width":389,"height":446,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuania_1936_MiNr410_B002a.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Lithuania_1936_MiNr410_B002a.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Lithuania_1936_MiNr410_B002a.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0e/Lithuania_1936_MiNr410_B002a.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1936 stamps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Antanas Smetona on stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files using Template:Philately","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (stamps)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Red stamps","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/A. Smetona.md","title":"A. Smetona","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:28:35.817277+03:00","reviewedAt":"2026-07-18T17:29:28.902937+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Raudoname pašto ženkle matomas išskirtinis Antano Smetonos šoninis portretas.","metadataEvidence":"Aprašyme tiesiogiai nurodyta „side-portait of President of Lithuania, Antanas Smetona“ ir 1936 m. data.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja target istorinį atvaizdą.","isPrimary":0},{"mediaId":"m-d42eb73b2915a36af9edb181","title":"Lithuania 1937 MiNr411 B002a.jpg","caption":"1937 m. Lietuvos pašto ženklas su Antano Smetonos šoniniu portretu.","originalTitle":"Lithuania 1937 MiNr411 B002a.jpg","creator":"Postal administration of Lithuania","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"scan of original","dateDisplay":"1937-01","dateStart":null,"dateEnd":null,"width":588,"height":683,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuania_1937_MiNr411_B002a.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Lithuania_1937_MiNr411_B002a.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Lithuania_1937_MiNr411_B002a.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Lithuania_1937_MiNr411_B002a.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1937 stamps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1938 postmarks","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Antanas Smetona on stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files using Template:Philately","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Green stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (stamps)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/A. Smetona.md","title":"A. Smetona","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:28:35.820939+03:00","reviewedAt":"2026-07-18T17:29:28.906472+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žaliame pašto ženkle aiškiai matomas Antano Smetonos šoninis portretas.","metadataEvidence":"Aprašyme tiesiogiai nurodyta „side-portait of President of Lithuania, Antanas Smetona“ ir 1937 m. data.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja target istorinį atvaizdą.","isPrimary":0},{"mediaId":"m-70ce52646a073e145458bb8a","title":"Lithuania 1937 MiNr412 B002a.jpg","caption":"1937 m. Lietuvos pašto ženklas su Antano Smetonos šoniniu portretu.","originalTitle":"Lithuania 1937 MiNr412 B002a.jpg","creator":"Postal administration of Lithuania","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"scan of original","dateDisplay":"1937-03","dateStart":null,"dateEnd":null,"width":593,"height":708,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALithuania_1937_MiNr412_B002a.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Lithuania_1937_MiNr412_B002a.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Lithuania_1937_MiNr412_B002a.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Lithuania_1937_MiNr412_B002a.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tarpukaris","label":"tarpukaris","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1937 postmarks","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1937 stamps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Antanas Smetona on stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Blue stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files using Template:Philately","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanian-language stamps","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (stamps)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Stamps of Memel","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/A. Smetona.md","title":"A. Smetona","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:28:35.823276+03:00","reviewedAt":"2026-07-18T17:29:28.910979+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Mėlyname pašto ženkle aiškiai pavaizduotas Antano Smetonos šoninis portretas.","metadataEvidence":"Aprašyme tiesiogiai nurodyta „side-portait of President of Lithuania, Antanas Smetona“ ir 1937 m. data.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja target istorinį atvaizdą.","isPrimary":0}]
+entity_id: "ent-b292ec7992ada5f87f40d4f8"
+canonical_name: "A. Smetona"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Smetona","A. Smetona (prezidentas, XX a.)","A. Smetonos","Antanas Smetona (prezidentas, XX a.)","dabartinis prezidentas A. Smetona"]
+sameAs: []
+canonical_biography: "Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad. Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln."
 ---
 # A. Smetona
 
@@ -406,7 +413,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-25431
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 132."
   citata_originali: |
     Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
     areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.
@@ -426,7 +434,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75281
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 187."
   citata_originali: |
     Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
     ar priešintis okupacijai, ar priimti ultimatumą. Ginkluoto pasipriešinimo
@@ -451,7 +460,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75282
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 155."
   citata_originali: |
     Nuo 1926 m. rudens opozicija Seime
     ir savo spaudoje vis dažniau pradėjo kalbėti apie komunizmo grėsmę Lie-
@@ -480,7 +490,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75283
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 179."
   citata_originali: |
     Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
@@ -501,7 +512,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75284
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 157."
   citata_originali: |
     Prezidentas A. Smetona visą 1927 m. vasarą ir rudenį, lydimas kari-
     ninkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš mieste-
@@ -526,7 +538,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75285
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 157."
   citata_originali: |
     Atsitokėjusi
     kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą,
@@ -549,7 +562,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75286
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 178."
   citata_originali: |
     Karinėje srityje
     S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
@@ -571,7 +585,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75288
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 136."
   citata_originali: |
     Nauja Lietuvos valstybė turėjo
     būti demokratinė, parlamentinė.
@@ -596,7 +611,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75289
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 186."
   citata_originali: |
     Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
     neleido netgi apklausti neva pagrobtų, bet atsiradusių „aukų“. Tai rodė,
@@ -616,7 +632,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75290
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 163."
   citata_originali: |
     Be to, Vytautas įkūnijo kiekvienam
     lietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklau-
@@ -640,7 +657,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75291
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
     geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
@@ -658,7 +676,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75292
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 137."
   citata_originali: |
     Lietuvių problema buvo ta, kad 1918 m. gruodžio pabaigoje artėjant prie
     Vilniaus Rau­donajai armijai, A. Voldemaro vyriausybė neturėjo ginkluo-
@@ -677,7 +696,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75293
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 180-181"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 180-181."
   citata_originali: |
     Dauguma kaltinamųjų sakė,
     kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-
@@ -705,7 +725,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75294
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 168-169"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 168-169."
   citata_originali: |
     Daug žydų buvo laisvųjų profesijų
     darbuotojų – 42 proc. gydytojų, kiek mažiau advokatų, meno žmonių,
@@ -730,7 +751,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75295
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 156."
   citata_originali: |
     Tautininkai, susitarę su krikščionių demokratų bloku,
     vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruo-
@@ -749,7 +771,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75296
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 161."
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     161
@@ -773,7 +796,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75297
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 168."
   citata_originali: |
     Konstitucija sergėjo valstybinį lietuvių
     kalbos statusą, pasisakė prieš mažumų menkinimą ir persekiojimą, ragi-
@@ -797,7 +821,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75298
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 171."
   citata_originali: |
     Nė vienų netenkino nuosaikus A. Smetonos autoritarinis re-
     žimas, nors ir dėl visai skirtingų priežasčių.
@@ -818,7 +843,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75299
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 141."
   citata_originali: |
     Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir An-
     tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti
@@ -843,7 +869,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - id: c-75300
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 173."
   citata_originali: |
     Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atmi-
     nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,

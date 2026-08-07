@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bfab5aba7cdac8804d8d0184"
+canonical_name: "Ambraziejus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ambraziejus"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziejui, Odoakras liepė jam tuoj nuimti grandines."
 ---
 # Ambraziejus
 

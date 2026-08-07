@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7c2f805742a00d0f710036b0"
+canonical_name: "Skumas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Skumas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene patraukė prie Baigos."
 ---
 # Skumas
 
@@ -66,7 +73,8 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
 - id: c-61067
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     Apie 3 brolių ir 40 vyrų nužudymą
 

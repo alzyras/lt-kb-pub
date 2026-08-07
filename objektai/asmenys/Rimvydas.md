@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-99403d73aee4cab6fdb9567d"
+canonical_name: "Rimvydas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rimvydas"]
+sameAs: []
+canonical_biography: "1483 m. karaliaus Kazimiero privilegijoje bajoras Rimvydas gavo žemę prie Merkio už Merkinės valsčiaus valstiečių maišto nuslopinimą. Rimvydas buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima."
 ---
 # Rimvydas
 
@@ -54,7 +61,8 @@ media_all_json: |-
 - id: c-172996
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 129."
   citata_originali: |
     Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
     dindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį

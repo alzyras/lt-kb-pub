@@ -62,7 +62,8 @@ Nenurodyta
 - id: c-172796
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 143."
   citata_originali: |
     Kartais va­
     saros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant že­

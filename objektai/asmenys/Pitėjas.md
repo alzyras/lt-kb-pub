@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6c35e8edbc31a58d8c235659"
+canonical_name: "Pitėjas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pitėjas"]
+sameAs: []
+canonical_biography: "Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Britaniją, antrą kartą į šiaurės rytus. Narbutas pažymėjo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas šį pavadinimą laikė neseniai pradėtu vartoti. Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti."
 ---
 # Pitėjas
 
@@ -169,7 +176,8 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
 - id: c-174102
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
@@ -192,7 +200,8 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
 - id: c-174104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Priekaištaujama, kad, norint su­
     skaičiuoti 6000 stadijų, reikia imti visą jūros ilgį. Aes­
@@ -214,7 +223,8 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
 - id: c-174105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 367."
   citata_originali: |
     kraštą, vadinamą vulgo Balta, id est terra albescens, at­
     plaukia neaprėpiama daugybė žuvų ir silkių, vandens
@@ -247,7 +257,8 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
 - id: c-179343
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 366-367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 366-367."
   citata_originali: |
     Joje
     yra labai įdomios detalės: 1) Frische Haff, alias recens
@@ -275,9 +286,9 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     - t-006
 
 - id: c-184373
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 73"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 73."
   citata_originali: |
     Nuo to gi gal lemti, jog ta pasaka galėjo bū­
     ti pradžioj yna, bet paskui yra pertaisyta nuo kokio

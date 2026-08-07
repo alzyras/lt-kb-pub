@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8438c25ff8595db094eb4464"
+canonical_name: "Mela"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mela"]
+sameAs: []
+canonical_biography: "Narbuto svarstymu, Mela galėjo nesilankyti prie Baltijos, bet apie jos pakrantės salas remtis gerais senovės šaltiniais."
 ---
 # Mela
 
@@ -53,7 +60,8 @@ Narbuto svarstymu, Mela galėjo nesilankyti prie Baltijos, bet apie jos pakrant�
 - id: c-174535
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra

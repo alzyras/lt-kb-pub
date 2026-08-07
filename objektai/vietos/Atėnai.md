@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c89216871fce8a8feae56961"
+canonical_name: "Atėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Atėnai"]
+sameAs: []
+canonical_biography: "Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų ministras Antanas Valionis pasirašo stojimo į Europos Sąjungą sutartį L I E T U V O S I S T O R I J A 262 Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais."
+place_authority: true
+historical_names: []
 ---
 # Atėnai
 
@@ -119,7 +128,8 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
 - id: c-26551
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 261-262"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 261-262."
   citata_originali: |
     Narystė ES siejama su stabilumu tų insti-
     tucijų, kurios garantuoja demokratiją, įstatymų viršenybę, žmogaus teises
@@ -145,7 +155,8 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
 - id: c-171557
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 387"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 387."
   citata_originali: |
     Išmaldos dalytojui grįžus į namus, vaišinamasi ir geriama dvi-
     386
@@ -171,7 +182,8 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
 - id: c-179362
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
   citata_originali: |
     Iš pra­
     džių jų ginklai įvarė gerokai baimės, bet imperatoriaus

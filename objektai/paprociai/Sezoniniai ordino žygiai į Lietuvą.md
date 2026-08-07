@@ -129,7 +129,8 @@ Nenurodyta
 - id: c-05428
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 261."
   citata_originali: |
     Sistemingai tokią taktiką kryžiuočiai ypač ėmė naudoti po 1345 m.
     Išsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais
@@ -148,7 +149,8 @@ Nenurodyta
 - id: c-05429
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 262."
   citata_originali: |
     Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos mėnesiais prieš atlydį.
     O vasaros žygis buvo ruošiamas apie rugpiūčio vidurį, skubant jį užbaigti prieš
@@ -163,7 +165,8 @@ Nenurodyta
 - id: c-05430
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 262."
   citata_originali: |
     Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
     mėnesiais prieš atlydį. O vasaros žygis buvo ruošiamas apie rug­

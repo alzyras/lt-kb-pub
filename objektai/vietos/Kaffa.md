@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0efa5831e9d4ee09e83c67bb"
+canonical_name: "Kaffa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kaffa"]
+sameAs: []
+canonical_biography: "Mat, per jų žemes pirkliai iš Lietuvos ir Rusijos vyk­ davo į Kaffos miestą (Kryme), kur susitikdavo su Genujos ir Ve­ necijos pirkliais. Ji siekė juk tolimiausius kraštus: rytuose Kaffą, pietuose Krokuvą ir Breslavą, vakaruose Stralsundą, šiaurėje Dorpatą ir Naugardą^1 )."
+place_authority: true
+historical_names: []
 ---
 # Kaffa
 
@@ -52,7 +61,8 @@ Mat, per jų žemes pirkliai iš Lietuvos ir Rusijos vyk­ davo į Kaffos miest�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 269."
   citata_originali: |
     Su totoriais Vytautas taip pat buvo užmezgęs prekybos
     santykius. Mat, per jų žemes pirkliai iš Lietuvos ir Rusijos vyk­

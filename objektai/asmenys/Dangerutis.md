@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1fd871ca511648cf746739d5"
+canonical_name: "Dangerutis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dangerutis"]
+sameAs: []
+canonical_biography: "Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną lietuvių vadą ar kunigaikštį, vardu Dangerutis; ten sako ma, kad tas garsus karžygys buvo karo dievo, vadinto Kanas, žynys."
 ---
 # Dangerutis
 
@@ -47,7 +54,8 @@ Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną liet
 - id: c-177222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
   citata_originali: |
     Anot
     autoriaus, tai buvęs šios tautos karo šūkis, arba kreipinys į jų

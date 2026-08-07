@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf96114443a85d4187a82bc4"
+canonical_name: "Zauerveinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Zauerveinas"]
+sameAs: []
+canonical_biography: "Kitas didelis lietuvių kalbos garbintojas buvo net ne lietuvis, o tikras vokietis Zauerveinas (†- 1904 m.)."
 ---
 # Zauerveinas
 
@@ -32,7 +39,8 @@ Kitas didelis lietuvių kalbos garbintojas buvo net ne lietuvis, o tikras vokiet
 - id: c-55085
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 514."
   citata_originali: |
     Visi jie buvo vien informacinio pobūdžio, ir tautiškosios
     sąmonės ugdymu nesirūpino. Tik vienas Šernas savo „Lie-

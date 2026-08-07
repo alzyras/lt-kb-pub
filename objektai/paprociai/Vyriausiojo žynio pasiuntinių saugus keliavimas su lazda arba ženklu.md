@@ -67,7 +67,7 @@ Nenurodyta
 <a id="claim-t-189881"></a>
 - t-002
   teiginys: "Narbutas rašo, kad vyriausiojo žynio pasiuntiniai pas krašto valdovus vykdavę kaip taikos pasiuntiniai ir išsiskirdavę jiems duota lazda."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -94,7 +94,8 @@ Nenurodyta
 - id: c-172763
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 280"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 280."
   citata_originali: |
     Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­
     viai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­
@@ -118,7 +119,8 @@ Nenurodyta
 - id: c-172764
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
   citata_originali: |
     Tą patvirtina
     paprotys, gyvavęs Lietuvoje iki XVI amžiaus, kuriuo didelės

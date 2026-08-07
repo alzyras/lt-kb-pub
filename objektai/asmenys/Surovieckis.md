@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a948f14628f99fffab8568e8"
+canonical_name: "Surovieckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Surovieckis"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto vertinimu, Surovieckis teisingai pastebėjo, kad senovės geografai variagus-lietuvius žinojo gitonų vardu."
 ---
 # Surovieckis
 
@@ -54,7 +61,8 @@ Teodoro Narbuto vertinimu, Surovieckis teisingai pastebėjo, kad senovės geogra
 - id: c-174355
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
   citata_originali: |
     Apie juos mes dar kalbėsime chro­
     nologine mūsų pasakojimo tvarka. Čia tik pateikiame

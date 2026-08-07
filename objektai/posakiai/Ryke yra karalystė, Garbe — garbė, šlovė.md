@@ -50,7 +50,8 @@ Senovės prūsų vietovardžių aiškinimas, kuriame pati formulė pateikiama ka
 - id: c-175010
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 361"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 361."
   citata_originali: |
     tvirtovių gynėjai, be to, karingi ir drąsus mūšio lau­
     ke. Tačiau svarbiausia istorijai yra ta šios provinci­

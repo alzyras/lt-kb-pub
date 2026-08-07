@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-867f840a58feee4fafd6bee8"
+canonical_name: "Marijenburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Marijenburgas"]
+sameAs: []
+canonical_biography: "Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę."
+place_authority: true
+historical_names: []
 ---
 # Marijenburgas
 
@@ -95,7 +104,8 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
 - id: c-46601
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 197."
   citata_originali: |
     1466 m. Torne buvo pasirašyta taika, kuria ordinas
     pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
@@ -112,7 +122,8 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
 - id: c-47097
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 59."
   citata_originali: |
     O kai XIII amž. gale
     turkai galutinai išvijo
@@ -136,7 +147,8 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
 - id: c-175956
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 88."
   citata_originali: |
     Vakaruose siena su kry-
     žiuočiais jau buvo nusistojusi. Visas Nemuno žemupys jau Vy-

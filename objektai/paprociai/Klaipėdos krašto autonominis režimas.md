@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-67145
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 595"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 595."
   citata_originali: |
     8 d. komisijos nustatytas susitarimo, arba konven-
     cijos, tekstas buvo pasirašytas Paryžiuje Lietuvos ir didžiųjų
@@ -116,7 +117,8 @@ Nenurodyta
 - id: c-67148
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 596"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 596."
   citata_originali: |
     **_Klaipėdos konvencija,_** kurią 1924 m. gegužės 8 d. pasirašė Pary-
     žiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris

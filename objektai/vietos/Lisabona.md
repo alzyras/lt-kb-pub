@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e6f32df096f1fa9cb1bf821e"
+canonical_name: "Lisabona"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lisabona"]
+sameAs: []
+canonical_biography: "tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės šviesą iki pat Meksikos, Paragvajaus."
+place_authority: true
+historical_names: []
 ---
 # Lisabona
 
@@ -50,7 +59,8 @@ tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo kata
 - id: c-24254
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
     ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-

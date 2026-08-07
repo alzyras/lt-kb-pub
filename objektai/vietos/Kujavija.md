@@ -38,6 +38,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e67ae4a22966293ffd587c96"
+canonical_name: "Kujavija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kujavija"]
+sameAs: []
+canonical_biography: "1291 lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras savo sūnų Vytenį Lenkijon išsiuntė su didele kariuo­ mene^21. 1300 jie vėl pasirodė Dobry­ niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių."
+place_authority: true
+historical_names: []
 ---
 # Kujavija
 
@@ -50,14 +59,21 @@ media_all_json: |-
 <a id="claim-t-90737"></a>
 - t-001
   teiginys: "Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Kujavija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kujavija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kunigaikščio titulas tiesiogiai sieja Konradą su Kujavija kaip valdovu."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "valdymo pradžia: po 1202 m.; valdymo pradžia: 1202 m.; valdymo pradžia: 1243 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Konradas buvo valdovas Lenčica“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys glaustai perteikia išnašoje pateiktą informaciją apie Konradą."
   pagrindžia:
-    - c-179047
+    - c-86520
 
 <a id="claim-t-90738"></a>
 - t-002
@@ -281,7 +297,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 173."
   citata_originali: |
     ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­
     jos karaliaus Zigmanto Liuksemburgiečio, kuris, būdamas Bran­
@@ -303,7 +320,8 @@ media_all_json: |-
 - id: c-86515
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 224."
   citata_originali: |
     1296 lietuviai įsiveržė į
     Sandomieriaus ir Kujavijos žemes. 1300 jie vėl pasirodė Dobry­
@@ -321,7 +339,8 @@ media_all_json: |-
 - id: c-86516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Tačiau iš įgimto piktumo nesiliovė klastingai
     ir slaptai persekiojęs brolių bei tikinčiųjų ir nieko neėmė į galvą, kai broliai jam šitai
@@ -344,7 +363,8 @@ media_all_json: |-
 - id: c-86518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 99."
   citata_originali: |
     Apie laikos nutraukimą ir Kujavijos žemės nuniokojimą
     Praslinkus tam tikram laikui, Sventopelkas, užmiršęs būti dėkingas už palankumą ir
@@ -368,7 +388,8 @@ media_all_json: |-
 - id: c-86519
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 222."
   citata_originali: |
     Esą
     1288 Liubline, kaip pabrėžia Ipatijaus kronika, kilęs didelis susi­
@@ -388,7 +409,8 @@ media_all_json: |-
 - id: c-86520
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
     būdami netikėliai  ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo
@@ -398,14 +420,17 @@ media_all_json: |-
   citata_rodoma: "Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys\nbūdami netikėliai  ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo\n\n  160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo  ir\nLenčicos, 1229 ir 1241—1243 m. Krokuvos kunigaikštis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-86522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
     jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
@@ -425,7 +450,8 @@ media_all_json: |-
 - id: c-167554
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Antra knygos dalis
 
@@ -454,7 +480,8 @@ media_all_json: |-
 - id: c-175449
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 379."
   citata_originali: |
     Tačiau, žlugus Skitijai ir siūbtelėjus Vakarų Azijos
     gyventojams, visa ši gyvenvietė Dnepro vidurupyje tu­
@@ -484,7 +511,8 @@ media_all_json: |-
 - id: c-179047
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
     būdami netikėliai ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo
@@ -500,13 +528,12 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-012
 
 - id: c-184420
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 335"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 335."
   citata_originali: |
     Lygia dalia patsai didysis mistras kaip
     įmanąs steigė pašalpą kryžeiviams, bet, iki nesu­

@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-af7020f25b4614eb46e31776"
+canonical_name: "Notanga"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Notanga"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad siaurės rytuose priėjo Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais priskiriama Notangai). Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų."
+place_authority: true
+historical_names: []
 ---
 # Notanga
 
@@ -50,11 +59,18 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 <a id="claim-t-91219"></a>
 - t-002
   teiginys: "Netikėlių kariuomenė įsibrovė į Notangą, degindama ir plėšdama nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ryga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Notanga: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ryga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Notanga\" parinktas kaip owner_note_path. Targetas \"Ryga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-86942
+    - c-86943
 
 <a id="claim-t-91220"></a>
 - t-003
@@ -148,7 +164,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-86940
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
 
@@ -171,7 +188,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-86941
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 109."
   citata_originali: |
     76 (75). Apie vienos Notangos dalies nuniokojimą
     Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
@@ -192,7 +210,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-86942
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
   citata_originali: |
     Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
     Kai prakeiktasis Sventopelkas pasipriešino broliams ir paskatino Prūsijos žemės
@@ -211,12 +230,12 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-86943
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     Kitą
       552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,
@@ -227,14 +246,17 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   citata_rodoma: "Kitą\n  552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,\ndab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).\n\ndieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir\nplėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-86944
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Prūsai ir Lietuva
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
@@ -255,7 +277,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-86945
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 59."
   citata_originali: |
     Teritorija į rytus nuo Varmės, šiaurėje siekė
     Priegliaus pakrantes, o rytuose — Alnos upę (į pietryčius nuo dab. Kaliningrado —

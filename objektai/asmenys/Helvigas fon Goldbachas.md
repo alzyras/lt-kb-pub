@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e5bc9c983d26dd79450230b2"
+canonical_name: "Helvigas fon Goldbachas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Helvigas fon Goldbachas"]
+sameAs: []
+canonical_biography: "Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą."
 ---
 # Helvigas fon Goldbachas
 
@@ -54,7 +61,8 @@ media_all_json: |-
 - id: c-169569
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 124."
   citata_originali: |
     Žemaičiai pir­
     miausia ėmėsi visomis jėgo­

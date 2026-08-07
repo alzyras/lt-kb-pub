@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4bcf072cc89057fd1028618"
+canonical_name: "Klemensas V"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Klemensas V"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol. Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir. Dusburgietis teigia, kad apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių."
 ---
 # Klemensas V
 
@@ -126,7 +133,8 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 - id: c-60557
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249."
   citata_originali: |
     116. Apie popiežiaus mirtį
 
@@ -144,7 +152,8 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 - id: c-60558
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
   citata_originali: |
     Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
     suėję į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
@@ -167,7 +176,8 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 - id: c-60559
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
   citata_originali: |
     111. Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą
 
@@ -186,7 +196,8 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 - id: c-60560
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245-246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245-246."
   citata_originali: |
     99. Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
 
@@ -207,7 +218,8 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 - id: c-60561
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247."
   citata_originali: |
     109. Apie tamplierių ordino panaikinimą
 

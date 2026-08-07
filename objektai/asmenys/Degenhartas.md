@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5011dfffd2d1b3165412d4dd"
+canonical_name: "Degenhartas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Degenhartas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Degenhartas
 

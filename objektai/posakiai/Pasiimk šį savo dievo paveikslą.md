@@ -66,7 +66,8 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
 - id: c-85541
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 173."
   citata_originali: |
     Apie Skomanto mirtį
     Štai koks iš aukščiausiojo malonės nuostabus atsivertimas ir pasikeitimas, štai

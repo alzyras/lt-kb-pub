@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e2beb1ba154a6f4c3fcb5162"
+canonical_name: "Ažytė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ažytė","Ažytėje","Ažytės","Ažytę"]
+sameAs: []
+canonical_biography: "Ažytė apibūdinama kaip upelis, kuris pavasariais ir rudeniais patvinsta, vasarą išdžiūsta ir vietos atmintyje siejasi su maudynėmis."
+place_authority: true
+historical_names: []
 ---
 # Ažytė
 

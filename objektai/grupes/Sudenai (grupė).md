@@ -52,9 +52,9 @@ Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kare
 ## Citatos
 
 - id: c-184604
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 37"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 37."
   citata_originali: |
     Upis tenai didesniąsias minavoja,
     Ysla (Vistula), Nemunu (Kronas), Venta (Rubonas),

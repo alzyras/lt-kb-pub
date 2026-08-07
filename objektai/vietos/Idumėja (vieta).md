@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-08c5b7efa50038742da73c5a"
+canonical_name: "Idumėja (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Idumėja","Idumėja (vieta)"]
+sameAs: []
+canonical_biography: "Paskui nukeliavo į Idumėją ir tenai daug letgalių apkrikštijo ir Ropoj bažnyčią jiems įkūrė."
+place_authority: true
+historical_names: []
 ---
 # Idumėja (vieta)
 
@@ -46,9 +55,9 @@ Paskui nukeliavo į Idumėją ir tenai daug letgalių apkrikštijo ir Ropoj baž
 ## Citatos
 
 - id: c-184505
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 200"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 200."
   citata_originali: |
     Tas patsai Danielius nusisuko į
     Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri­

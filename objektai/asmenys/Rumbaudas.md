@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0471c1ee72fb4d9a7d70f15b"
+canonical_name: "Rumbaudas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rumbaudas"]
+sameAs: []
+canonical_biography: "Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą. Vytautas pasiuntė maršalką Rumbaudą ir Vilniaus vaivadą Gedgaudą į Lenčicą pas Jogailą. Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą."
 ---
 # Rumbaudas
 
@@ -103,7 +110,8 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 237."
   citata_originali: |
     Kai sužinojo, kad kryžiuočių
     pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­
@@ -122,7 +130,8 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
 - id: c-166265
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 342."
   citata_originali: |
     Grūdų sulaikymas Vytautui akivaizdžiai parodė, ką reiškė
     neturėjimas Nemuno žiočių, ir tai paskatino jį veikti. Jo pareigū­
@@ -143,7 +152,8 @@ Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nu
 - id: c-168185
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
   citata_originali: |
     jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
     siryžęs pasiekti. Vytautui išėjus, senatas kuo rimčiau­

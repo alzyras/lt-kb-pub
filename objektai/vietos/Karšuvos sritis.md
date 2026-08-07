@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-344c173d56ee1b5b8b4424df"
+canonical_name: "Karšuvos sritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karšuvos sritis"]
+sameAs: []
+canonical_biography: "Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą kartą 1259 m. prie Mituvos ir Imsrės žiočių į Nemuną (Karšuvos srityje) statėsi bendrą pilį Georgenburgą — Jurbarką."
+place_authority: true
+historical_names: []
 ---
 # Karšuvos sritis
 
@@ -60,7 +69,8 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 - id: c-33870
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 190."
   citata_originali: |
     Ordinui toliau rūpėjo per nadruvių, sūduvių ir skal­
     vių plotus rasti kelią į šiaurę, t. y. į pietų Žemaičius. Livonijos ir

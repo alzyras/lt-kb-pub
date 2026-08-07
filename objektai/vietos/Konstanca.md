@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d0c12cbaf2210550ca9ba5bb"
+canonical_name: "Konstanca"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Konstanca"]
+sameAs: []
+canonical_biography: "1418 m. Vytautas siunčia į Konstancą jau minėtą G."
+place_authority: true
+historical_names: []
 ---
 # Konstanca
 
@@ -113,7 +122,8 @@ media_all_json: |-
 - id: c-24199
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     1418 m. Vytautas siunčia į
     Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
@@ -134,7 +144,8 @@ media_all_json: |-
 - id: c-32139
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 356."
   citata_originali: |
     (spalio 7 d.) padaryti paliaubas, kurios vėliau vis buvo prailginamos.
     Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII
@@ -155,7 +166,8 @@ media_all_json: |-
 - id: c-32140
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 357."
   citata_originali: |
     Iš tolimo ir beveik nežinomo krašto pasirodymas delegacijos,
     kuri 1415.XII.4 d. buvo iškilmingai priimta Konstancos katedroje
@@ -171,7 +183,8 @@ media_all_json: |-
 - id: c-171614
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 399."
   citata_originali: |
     Tenai nors tarėsi su Husu, sa­
     vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,

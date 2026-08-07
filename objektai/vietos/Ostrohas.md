@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e8d003d64b2429cfc1e05879"
+canonical_name: "Ostrohas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ostrohas"]
+sameAs: []
+canonical_biography: "pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiškos“ kilmės kunigaikščiai Ostrogiškiai."
+place_authority: true
+historical_names: []
 ---
 # Ostrohas
 
@@ -51,7 +60,8 @@ pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suva
 - id: c-24348
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 46."
   citata_originali: |
     laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
     naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-

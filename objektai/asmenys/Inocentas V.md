@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7241809c787f82bf8d6106d5"
+canonical_name: "Inocentas V"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Inocentas V"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Inocentą V, popiežių, ir Rudolfą, Romos karalių 1275 viešpaties metais valdė Inocentas V, popiežius, anksčiau vadinęsis pamokslininkų ordino broliu Petru iš Tarantezo, ir Rudolfas, Romos karalius (Mart."
 ---
 # Inocentas V
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad apie Inocentą V, popiežių, ir Rudolfą, Romos karali
 - id: c-60966
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236."
   citata_originali: |
     58. Apie Inocentą V, popiežių, ir Rudolfą, Romos karalių
 

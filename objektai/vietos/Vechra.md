@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09c964da3f7379d1af17ec6f"
+canonical_name: "Vechra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vechra"]
+sameAs: []
+canonical_biography: "Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą. 81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr."
+place_authority: true
+historical_names: []
 ---
 # Vechra
 
@@ -52,7 +61,8 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
 - id: c-34072
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 294."
   citata_originali: |
     Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
     prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo

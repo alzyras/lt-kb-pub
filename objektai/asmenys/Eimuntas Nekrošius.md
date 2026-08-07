@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fcb46b58305b54c8b4bcb21f"
+canonical_name: "Eimuntas Nekrošius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eimuntas Nekrošius"]
+sameAs: []
+canonical_biography: "Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas."
 ---
 # Eimuntas Nekrošius
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-75358
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 264."
   citata_originali: |
     Galėtume vardyti tuos Lietuvos žmones, kuriuos emigra-
     cijos bangos nunešė toli į pasaulį, tačiau ten daugelio jų pačių vardai tapo

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9b691b269b3c36af29e54573"
+canonical_name: "Teodozijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teodozijus"]
+sameAs: []
+canonical_biography: "Teodozijų, kaipo kan­ didatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo painformavę apie Vytauto sumanymus atitraukti Lietuvos sta­ čiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­ tuva, kas sudarė pavojų pačiai stačiatikybei."
 ---
 # Teodozijus
 
@@ -51,7 +58,8 @@ Teodozijų, kaipo kan­ didatą į Kijevo metropolitus, bet Konstantinopolyje ru
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 133."
   citata_originali: |
     Bet kai Ciprijonas mirė (1406), tai Vytautas,
     kovojęs tuo laiku su Maskva dėl Okos ir Ugros aukštupių, pa­

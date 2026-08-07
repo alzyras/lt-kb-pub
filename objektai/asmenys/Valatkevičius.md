@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f0588393adc4d3ded203446b"
+canonical_name: "Valatkevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Valatkevičius"]
+sameAs: []
+canonical_biography: "Valatkevičius (Wotodkiewicz) 1513 metais prispaudė vieną iš Narbuto aprašytų aštuonių antspaudų su žalčiais."
 ---
 # Valatkevičius
 
@@ -62,7 +69,8 @@ Valatkevičius (Wotodkiewicz) 1513 metais prispaudė vieną iš Narbuto aprašyt
 - id: c-173131
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 404"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
   citata_originali: |
     IV
     lentelė, 18-asis piešinys. Astuoni antspaudai su žalčiais;

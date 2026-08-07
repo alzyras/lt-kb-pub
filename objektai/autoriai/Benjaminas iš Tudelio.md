@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ef23b4334c5019ac503be272"
+canonical_name: "Benjaminas iš Tudelio"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Benjaminas iš Tudelio"]
+sameAs: []
+canonical_biography: "Benjaminas iš Tudelio minimas kaip žydų kilmės keliauninkas, kurio teiginys panaudotas kalbant apie 1160 m. Aleksandrijos uostą ir Krokuvos pirklius."
 ---
 # Benjaminas iš Tudelio
 
@@ -97,7 +104,8 @@ Benjaminas iš Tudelio minimas kaip žydų kilmės keliauninkas, kurio teiginys 
 - id: c-78422
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 23-24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 23-24."
   citata_originali: |
     7
 

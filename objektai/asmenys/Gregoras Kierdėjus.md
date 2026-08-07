@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cadeaea5f78e1ce048cfed29"
+canonical_name: "Gregoras Kierdėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gregoras Kierdėjus"]
+sameAs: []
+canonical_biography: "Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad Podolės bajorai, vadovaujami Gregoro Kierdėjaus, klastingai sugavę Daugirdą Gedgailą, anuomet Vytauto vardu valdžiusį Podolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­ dami viršenybę."
 ---
 # Gregoras Kierdėjus
 
@@ -50,7 +57,8 @@ media_all_json: |-
 - id: c-83660
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 226-227"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 226-227."
   citata_originali: |
     210
 

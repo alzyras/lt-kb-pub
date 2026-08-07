@@ -103,7 +103,8 @@ Nenurodyta
 - id: c-78374
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 44-45"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 44-45."
   citata_originali: |
     Vilniaus pranciškonų vienuo-
     28

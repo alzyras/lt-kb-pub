@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab51a04a30dd9df6716b1496"
+canonical_name: "Vygandas Marburgietis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Marburgietis V.","Naujosios Prūsijos kronika","V. Marburgietis","Vygandas Marburgietis","Vygando Marburgiečio"]
+sameAs: []
+canonical_biography: "Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją. Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m. Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį."
 ---
 # Vygandas Marburgietis
 
@@ -255,7 +262,8 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
 - id: c-42463
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 38."
   citata_originali: |
     Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių
     karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
@@ -277,7 +285,8 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
 - id: c-42467
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 43."
   citata_originali: |
     PILIES ŠTURMAS
 
@@ -301,7 +310,8 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
 - id: c-157308
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 95."
   citata_originali: |
     T. IV, p. 1034-1035;
     kad Karolis Tryrietis, dar 1323 m.
@@ -330,7 +340,8 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
 - id: c-157309
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     Tačiau nea-
     bejotinai mūšyje patyrė smūgį ir Ordinas,
@@ -354,7 +365,8 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
 - id: c-157310
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 54."
   citata_originali: |
     Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
     ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
@@ -395,7 +407,8 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
 - id: c-157311
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 33."
   citata_originali: |
     Upė Nerige, dažnai minima senovi­
     niame Lietuvos kelių aprašyme,
@@ -418,7 +431,8 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
 - id: c-157314
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 54."
   citata_originali: |
     Klausimas, ar Kęstutis pats pasirin­
     kęs mirtį, - juk Skirgaila, važiavęs
@@ -454,7 +468,8 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
 - id: c-176508
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 228."
   citata_originali: |
     Žygio priežastis
     buvo Kaributo Dimitro su Jogaila sutartas maištas prieš Kęstutį,

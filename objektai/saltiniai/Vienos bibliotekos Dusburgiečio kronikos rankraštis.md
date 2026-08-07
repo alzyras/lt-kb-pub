@@ -50,7 +50,8 @@ Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėlia
 - id: c-87607
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Berlyno karališkosios
     bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.

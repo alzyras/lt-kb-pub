@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4b1d328f285265d58273c674"
+canonical_name: "Bojaduras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bojaduras"]
+sameAs: []
+canonical_biography: "1223 m. Bojaduras su Cipnovianu vadovavo Čingischano pasiųstam būriui į vakarinę Kaspijos pakrantę užimti Samachos ir Derbento."
 ---
 # Bojaduras
 
@@ -66,7 +73,8 @@ media_all_json: |-
 - id: c-174260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 110."
   citata_originali: |
     104
     Galop dabar privalome pridurti dar vieną istorinę pa­

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-964ce280339fd111bce05261"
+canonical_name: "Fridrichas fon Bebirsteynas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas fon Bebirsteynas"]
+sameAs: []
+canonical_biography: "Prekybos sutartis su Pskovu, kaip ir prieš metus sudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano gą poną Fridrichą fon Bebirsteyną, priėmiau į savo dvariškių būrį ir kaip malonų patikėtinį\", bei prašo, kad panašią paslaugą padarytų to paties svečio."
 ---
 # Fridrichas fon Bebirsteynas
 
@@ -62,7 +69,8 @@ Prekybos sutartis su Pskovu, kaip ir prieš metus sudarytoji su Naugardu, buvo p
 - id: c-83654
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 228-229"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 228-229."
   citata_originali: |
     Didysis kunigaikštis pra­
     neša, kad jo pageidavimu „garbin-

@@ -57,7 +57,8 @@ media_all_json: |-
 - id: c-44861
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 115."
   citata_originali: |
     Dabar jie atsisakė savo
     dzidy ir tapo lygūs šarvuočiams; jie vadinami petihorais ir taip pat yra pagerbti draugų

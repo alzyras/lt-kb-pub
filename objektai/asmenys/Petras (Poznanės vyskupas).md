@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aa9f84993364a9d2ff0c15c2"
+canonical_name: "Petras (Poznanės vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras (Poznanės vyskupas)"]
+sameAs: []
+canonical_biography: "Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - lavo Baško (vert."
 ---
 # Petras (Poznanės vyskupas)
 
@@ -59,7 +66,8 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
 - id: c-83802
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 205."
   citata_originali: |
     Il KNYGA
     IV

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c290f9298981b0a263105fcc"
+canonical_name: "J. I. Kraševskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. I. Kraševskis"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. Kraševskiu."
 ---
 # J. I. Kraševskis
 
@@ -53,7 +60,8 @@ Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. K
 - id: c-174304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 451"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 451."
   citata_originali: |
     Galima
     spėti, jog būtent ši recenzija

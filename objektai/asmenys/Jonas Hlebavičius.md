@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-072a8d1e5691ece9eee38a40"
+canonical_name: "Jonas Hlebavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Hlebavičius"]
+sameAs: []
+canonical_biography: "Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o pas­ kui jėzuitų, apie 1580 metus klestėjo: evangelikų reformatų - Danieliaus iš Lenčicos, globojama Minsko kašteliono Jono Hlebavičiaus bei Jono Karcano69, ir Kasparo Vilkovskio. Dalyvaujant didžiai gerbiamiems Kristu­ je tėvui Vilniaus vyskupui ir Alšėnų kunigaikščiui ponui Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vac­ lovui, garbiesiems ir prakilniesiems Polocko vaivadai Jonui Hlebavičiui, Naugarduko vaivadai Stanislovui. Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Vilniaus vyskupui Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vaclovui, prakil­ niesiems ir garbingiesiems Polocko seniūnui Jonui Hlebavičiui, Naugarduko seniūnui Stanislovui Goštautui, Vitebs­ ko."
 ---
 # Jonas Hlebavičius
 
@@ -102,7 +109,8 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - id: c-83370
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 312."
   citata_originali: |
     Dar prieš įžengiant karaliui Steponui į sostą, Lie­
     tuvos piliečių brolių Mamoničių namuose įsteigta spaustu­
@@ -127,7 +135,8 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - id: c-83371
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 339-340"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 339-340."
   citata_originali: |
     Duota Vilniuje, penktadienį, rytojaus dieną po
     Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai
@@ -167,7 +176,8 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - id: c-83372
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 439-442"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 439-442."
   citata_originali: |
     Rašytas ir duotas Varšuvoje, didžiajame visuotiniame seime.
     — • —

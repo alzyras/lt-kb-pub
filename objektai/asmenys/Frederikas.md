@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14542c2aa02814f43db9aa56"
+canonical_name: "Frederikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Frederikas"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiais pasitraukė pas herulus."
 ---
 # Frederikas
 
@@ -55,7 +62,8 @@ Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiai
 - id: c-174085
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
   citata_originali: |
     Teodoriko valdžia nepatenkintas
     Tufą su visa jam patikėta kariuomene paliko jį ir vėl

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47932ac2741254b870563b5b"
+canonical_name: "Stanislovas Jonas Da Vaina"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Jonas Da Vaina"]
+sameAs: []
+canonical_biography: "Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui ir stalininkui Nikodemui Janavičiui iš Čechanovičių, Lietu­ vos Didžiosios Kunigaikštystės arklidininkui Mikalojui Andriuševičiui ir."
 ---
 # Stanislovas Jonas Da Vaina
 
@@ -33,7 +40,8 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 - id: c-83838
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 267."
   citata_originali: |
     Dalyvaujant didžiai
     gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­

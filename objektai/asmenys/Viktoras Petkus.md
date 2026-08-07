@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5685e26dd9f531b4a2c7ba51"
+canonical_name: "Viktoras Petkus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Viktoras Petkus"]
+sameAs: []
+canonical_biography: "Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė, poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo. Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras."
 ---
 # Viktoras Petkus
 
@@ -95,7 +102,8 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 - id: c-22054
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
     sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
@@ -118,7 +126,8 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 - id: c-22055
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Lietuvos Helsinkio
     grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
@@ -140,7 +149,8 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 - id: c-166967
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Taip
     demokratiniai Vakarai sužinojo apie tikrąją padėtį, žmogaus teisių pažei-

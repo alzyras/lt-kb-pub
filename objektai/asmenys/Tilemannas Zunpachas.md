@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1042d9100576ded8bd759526"
+canonical_name: "Tilemannas Zunpachas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tilemannas Zunpachas"]
+sameAs: []
+canonical_biography: "Gedimi­ nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno Zunpacho, šaulių vado, ugninio šūvio, buvo sužeistas tarp kaklo ir mentikaulio ir netrukus mirė, o jo kariauna buvo išvaikyta."
 ---
 # Tilemannas Zunpachas
 
@@ -50,7 +57,8 @@ Gedimi­ nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno Zunpach
 - id: c-83847
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 119."
   citata_originali: |
     22 dienas tęsėsi
     apsuptis, o dviejų poilsio dienų metu į pagalbą apsuptie­

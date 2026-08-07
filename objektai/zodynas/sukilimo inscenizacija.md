@@ -58,7 +58,8 @@ Lietuvai liko sukilimo inscenizacijos scenarijus.
 - id: c-75110
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 152."
   citata_originali: |
     Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kul-
     tūros, liuteronai, o ne katalikai, politiškai liko ištikimi Vokietijai, todėl pa-

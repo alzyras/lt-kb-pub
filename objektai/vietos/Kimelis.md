@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2acac235224ead871faa552a"
+canonical_name: "Kimelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kimelis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui, taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai. Dusburgietis teigia, kad 548 D.— Kymel, Jer.— Kimel, nurodydamas, kad pilis buvusi prie Nemuno (bî der Mimel)."
+place_authority: true
+historical_names: []
 ---
 # Kimelis
 
@@ -67,7 +76,8 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
 - id: c-59206
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
   citata_originali: |
     548 D.— Kymel, Jer.— Kimel, nurodydamas, kad pilis buvusi prie Nemuno (bî der
     Mimel). S. Zajončkovskis, radęs panašų vardą prie Liolių (Kelmės rj.), darė prielaidą,
@@ -92,7 +102,8 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
 - id: c-167548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Sudeginę pilį, broliai įniršę pasitraukė. Vis dėlto
     dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui,

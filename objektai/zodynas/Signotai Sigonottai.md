@@ -55,7 +55,8 @@ Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių bū
 - id: c-172218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
   citata_originali: |
     Signotai (Sigonottaį
     Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos

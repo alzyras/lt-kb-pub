@@ -270,7 +270,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 <a id="claim-t-55089"></a>
 - t-013
   teiginys: "1569 m. Vilniaus pasiuntiniai Liublino unijos seime pasirašė susivienijimo dekretą kartu su kitais LDK delegatais."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   temporaliniai_duomenys: "įvykio data: 1569 m."
@@ -676,7 +676,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-55892
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 25."
   citata_originali: |
     Lietuvos miestiečių luomo istorijoje šit kas pastebima: pir­
     ma, kad jis vėlavo, kaip ir bendra šalies civilizacijos raida, juk
@@ -700,7 +701,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-55893
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 39."
   citata_originali: |
     Žinodami gausią globą ir ypatingas privilegijas, o krikščio­
     nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­
@@ -725,7 +727,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-55894
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48."
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
     plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
@@ -748,7 +751,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-55895
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53."
   citata_originali: |
     I  KNYGA
     Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­
@@ -771,7 +775,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-55896
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 155."
   citata_originali: |
     Laikas nutrynė pėdsa­
     kus raštuose: nežinia, kokių pokyčių miesto valdyme būta ir
@@ -801,7 +806,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-55897
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 168."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     Lietuvos valstybėje tik vienas [Vilnius], kol kas valdomas pa­
@@ -827,7 +833,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-55898
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 170."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     Vilnius, taip susiklosčius politiniams įvykiams, o labiausiai
@@ -851,7 +858,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-55900
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 277"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 277."
   citata_originali: |
     Kad Vilniaus gyventojai būtų saugesni
     ir jų daugėtų, jis griežtai uždraudė bajorams iškelti iš
@@ -872,7 +880,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-55901
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 297."
   citata_originali: |
     IV KNYGA
     Vilnius ir pasinaudojo savo prerogatyva abiejų tautų Unijos
@@ -906,7 +915,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 241."
   citata_originali: |
     Sutartis, Vilniuje sudaryta su Pskovu, likusiu Kazimiero
     globoje, gerokai praplėtė prekybinius šio turtingo miesto
@@ -927,7 +937,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157190
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248."
   citata_originali: |
     Totorių ant­
     puoliai darėsi tokie akivaizdūs, jog net Vilniui galėjo grėsti
@@ -951,7 +962,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157191
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 38-39"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 38-39."
   citata_originali: |
     Nesunku numanyti, koks buvo Vilniaus, kaip miesto,
     pradinis kūrimasis. Palei Vilnios upę esančios gyvenvietės
@@ -988,7 +1000,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157192
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248-249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248-249."
   citata_originali: |
     Tačiau šis karaliaus nurodymas gal taip greitai ne­
     būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
@@ -1016,7 +1029,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157193
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 52-53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 52-53."
   citata_originali: |
     T. VII, p. 370-374. Re­
     gis, iš jo kilusi Hanulu giminė, kurių
@@ -1044,7 +1058,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157194
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 254."
   citata_originali: |
     Nors Lietuvos sostinė ir gavo naudos susijusios su preky­
     ba bei saugumu, bet akivaizdaus pagerėjimo valdant miestą
@@ -1063,7 +1078,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157195
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 26."
   citata_originali: |
     Nors ir greičiausiai
     pralobęs, tokios sostinės miestiečių luomas negalėjo, kitų Euro­
@@ -1088,7 +1104,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157197
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 237."
   citata_originali: |
     Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypa­
     tingu jo neapykantos taikiniu, išžudyti juos visus aliai vie­
@@ -1112,7 +1129,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157200
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 240-241"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 240-241."
   citata_originali: |
     Žr. Il priede išsamią žinią apie Lie- je, kur aiškiai pasakyta: ius Teutoni-
     tuvos didžiųjų kunigaikščių me- cum quod Magdeburiense dicitur denuo
@@ -1145,7 +1163,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157201
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 318."
   citata_originali: |
     Vilniaus vaitui............Kreipėsi į mus Vilniaus miesto
     burmistrai ir tarybos nariai ir visi miestiečiai, skųsdamiesi
@@ -1170,7 +1189,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157202
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 315."
   citata_originali: |
     IV KNYGA
     didžponiai, nors jų norą keltis į puikybę ir visur vadovauti
@@ -1198,7 +1218,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157204
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 296-297"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 296-297."
   citata_originali: |
     Iš kur jis atsiradęs, tai gal vėliau
     daugiau paaiškės.
@@ -1235,7 +1256,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157206
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 168-169"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 168-169."
   citata_originali: |
     Dabar tik kai
     kuriuos miestus palyginsime su Vil­
@@ -1267,7 +1289,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157207
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 167-168"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 167-168."
   citata_originali: |
     IV Į1O. Foe- [Amžinosios vienybės ir santarvės
     dus perpetuae pacis unionis et concor- taikos sutartis tarp Lenkijos karaliaus
@@ -1297,7 +1320,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 275-276"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 275-276."
   citata_originali: |
     259
 
@@ -1323,7 +1347,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 161."
   citata_originali: |
     Tačiau šie politiniai kivirčai nebuvo Vilniui tokie skaudūs (1399
     m.), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­
@@ -1345,7 +1370,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157211
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 233."
   citata_originali: |
     Šis teisingu­
     mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
@@ -1372,7 +1398,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157212
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 251-252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 251-252."
   citata_originali: |
     Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės
     48
@@ -1401,7 +1428,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - id: c-157214
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 294-295"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 294-295."
   citata_originali: |
     278
 

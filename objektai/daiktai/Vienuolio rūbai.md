@@ -92,7 +92,8 @@ Nenurodyta
 - id: c-170017
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 53."
   citata_originali: |
     Grigorijų, Apsivilko vienuolio rūbais ir išbuvo vienuo­
     lyne trejus metus.

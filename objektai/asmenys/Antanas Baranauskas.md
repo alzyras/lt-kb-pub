@@ -36,6 +36,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ed27356d5be324f6734eb2d2"
+canonical_name: "Antanas Baranauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Baranauskas","objektai/autoriai/Antanas Baranauskas"]
+sameAs: []
+canonical_biography: "Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatūros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu. Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi."
 ---
 # Antanas Baranauskas
 
@@ -85,7 +92,8 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
 - id: c-75342
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 127."
   citata_originali: |
     Lietuvių literatūra per šį laikotarpį pakilo į naujas aukštumas, lietuvių
     kalba parašyti kūriniai tenkino ir intelektualiai išlavintą protą, gerą meni-
@@ -104,7 +112,8 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
 - id: c-75343
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 113."
   citata_originali: |
     Tačiau antros šio sąjūdžio kartos atstovas, aukš-
     taitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatū-

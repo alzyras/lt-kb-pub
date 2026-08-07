@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fd58145978d70c040cc2ac94"
+canonical_name: "Johanas Leo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Johanas Leo"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Gutštato kanauninkas Johanas Leo rėmėsi vyskupo Kristijono kronika ir kitais ankstyvais šaltiniais."
 ---
 # Johanas Leo
 
@@ -54,7 +61,8 @@ Narbutas rašo, kad Gutštato kanauninkas Johanas Leo rėmėsi vyskupo Kristijon
 - id: c-173045
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
   citata_originali: |
     Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
     kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad

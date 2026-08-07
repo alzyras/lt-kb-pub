@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-91ab021821b03fb923408b5c"
+canonical_name: "Motiejus (Žemaičių ir Vilniaus vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus (Žemaičių ir Vilniaus vyskupas)"]
+sameAs: []
+canonical_biography: "Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^1 ). Mokslus jis buvo ėjęs Krokuvoj ir įgijęs laisvųjų mokslų ma­ gistro laipsnį; paskui buvo Trakų klebonu ir Vilniaus kapitulos kanauninku. Taip antai, ketvirtas iš eilės Vilniaus vyskupas Petras iš Kustynės (1414—1421), kuris buvo delega­ tu Konstancijoje ir pasiuntiniu Žemaitijoje, jau minėtas pirmasis Žemaičių ir vėliau Vilniaus vysk."
 ---
 # Motiejus (Žemaičių ir Vilniaus vyskupas)
 
@@ -131,7 +138,8 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 120."
   citata_originali: |
     Iš
     lietuvių kapituloje buvo tik du: Trakų klebonas kan. Motiejus,
@@ -151,7 +159,8 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 141."
   citata_originali: |
     Tas pats
     vysk. Motiejus užmerkė Vytautui ir akis (1430. X. 27) ir jo kūną
@@ -171,7 +180,8 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 254."
   citata_originali: |
     Jogaila su ašaromis akyse pasižadėjo išpildyti visus Vytauto
     prašymus ir, visa iš širdies atleisdamas, priminė jam susirūpin­
@@ -193,7 +203,8 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 129."
   citata_originali: |
     Motiejus, Vytauto pasiūlytas
     kandidatas, kuris jau nuo 1413 m. vadovavo žemaičių krikštui.
@@ -214,7 +225,8 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 141."
   citata_originali: |
     Per visą savo valdymo laiką Vytautas palaikė su jais gerus
     santykius, bet kartu ir rūpinosi, kad Lietuvos vyskupais būtų

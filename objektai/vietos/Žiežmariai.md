@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-098e7d047ed94d58a1c52347"
+canonical_name: "Žiežmariai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žiežmariai"]
+sameAs: []
+canonical_biography: "Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 km atstu nuo Kęstučio Trakų, prie dešinio Nemuno prie­ upio Strėvos (arti Žiežmarių)."
+place_authority: true
+historical_names: []
 ---
 # Žiežmariai
 
@@ -98,7 +107,8 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
 - id: c-44121
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 176."
   citata_originali: |
     Tai buvo
     svarbi kompleksinių Raudonosios armi-
@@ -125,7 +135,8 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
 - id: c-69155
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 257."
   citata_originali: |
     Vadovavo ordino vyr.
     maršalas ir Karaliaučiaus komtūras Siegfridas von Dahnenfeld ir
@@ -143,9 +154,9 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
     - t-002
 
 - id: c-185031
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 74."
   citata_originali: |
     Palei Nevėžį ir toliau į šiaurę, kirsdamas
     lietuviškąsias žemes, jau turėjo eiti vėliau šaltinių paliudytas kelias į Rygą. Tik kelias

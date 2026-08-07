@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dca4f1127b37879a158d0f07"
+canonical_name: "Fateris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Fateris"]
+sameAs: []
+canonical_biography: "Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie krivį. Pasak Narbuto, Fateris Dusburgiečio žinią apie krivį laikė nesusipratimu dėl rusinų, latviškai vadinamų krieviais. Fateris išspręsdavo privačių asmenų ir žemių arba vienos genties atskirų kaimų ginčus."
 ---
 # Fateris
 
@@ -90,7 +97,8 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
 - id: c-173233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 282."
   citata_originali: |
     Taigi Krewe-Krewejto reiškia visų
     žynių vyriausiąjį žynį. Jo asmeninis autoritetas buvo labai di­
@@ -110,7 +118,8 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
 - id: c-173234
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 420"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 420."
   citata_originali: |
     Taigi, jei tiek Prūsijoje, tiek ir
     Lietuvoje buvo Romovė arba daug tokių šventovių, jei iš tik­
@@ -140,7 +149,8 @@ Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie 
 - id: c-179107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 414"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 414."
   citata_originali: |
     Patvirtina taip pat iš dalies skandina­
     vų, iš dalies kaimyninių tautų - pamarėnų, lietuvių1 ir kitų -

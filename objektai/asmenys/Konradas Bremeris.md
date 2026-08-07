@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-560e5719dbc7fd487d412b25"
+canonical_name: "Konradas Bremeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas Bremeris"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus laivus; priartėjęs prie Santyro, jis ten išvydo."
 ---
 # Konradas Bremeris
 
@@ -93,7 +100,8 @@ Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpind
 - id: c-60996
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
   citata_originali: |
     Apie laivų kautynes
 
@@ -115,9 +123,9 @@ Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpind
     - t-001
 
 - id: c-184882
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 234"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 234."
   citata_originali: |
     Štai
     1613 m. Karaliaučiaus šiporiaus Jokūbo Solfelto laive, be paties šiporiaus 6 statinių

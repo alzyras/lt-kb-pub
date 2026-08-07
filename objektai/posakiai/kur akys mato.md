@@ -47,7 +47,8 @@ Lietuvos metraštis pasakoja, kad Vaišvilkas, pradėjęs kunigaikščiauti Liet
 - id: c-176671
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 53."
   citata_originali: |
     Visa Lietuva sutiko
     savo valdovo sūnų didžiai džiaugdamasi.

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fecf7202a611ce07eadf01ee"
+canonical_name: "Aukštaičių žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aukštaičių žemė"]
+sameAs: []
+canonical_biography: "Šiaip jau platus Nemuno aukštupio-vidurupio dešinės kraštas ir beveik ištisai Neries baseinas su Šventąja sudarė Aukštaičių žemės pagrindą, nuo XI amž. rusų metraščiuose vadinamą «Litva»."
+place_authority: true
+historical_names: []
 ---
 # Aukštaičių žemė
 
@@ -59,7 +68,8 @@ media_all_json: |-
 - id: c-33798
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 133."
   citata_originali: |
     Galima
     tačiau daryti išvadas, kad prieš įsikuriant Lietuvos valstybei, dre­

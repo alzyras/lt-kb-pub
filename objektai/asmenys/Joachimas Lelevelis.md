@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-01d46a5b98821cc24e665abb"
+canonical_name: "Joachimas Lelevelis (istorikas, XVIII–XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Joachimas Lelevelis","Joachimas Lelevelis (istorikas, XVIII–XIX a.)"]
+sameAs: []
+canonical_biography: "Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus. Lelevelis, priverstinai atsistatydino iš globėjo posto A."
 ---
 # Joachimas Lelevelis (istorikas, XVIII–XIX a.)
 
@@ -119,7 +126,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - id: c-21725
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 105."
   citata_originali: |
     Caro administracija ėmėsi tyrimo,
     kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
@@ -141,7 +149,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - id: c-75345
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     Šis laikotarpis bene didžiausio universiteto
     klestėjimo metai – studentų skaičius nuo 200 padidėjo iki 1 300. Universi-
@@ -169,7 +178,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - id: c-171430
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     Išsamesnėms krašto praeities studijoms istoriką galė­
     jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
@@ -191,7 +201,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - id: c-175362
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 203."
   citata_originali: |
     Prieš ¡pradedant toliau tyri­
     nėt i, ne pro šalį bus paneigti kai kuriuos priekaištus mū­

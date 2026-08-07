@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-593e6a941691b018f1f5901a"
+canonical_name: "Mikalojus Dziežgavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Dziežgavičius"]
+sameAs: []
+canonical_biography: "Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­ skirti vyskupais Vytautui juos rekomenduojant."
 ---
 # Mikalojus Dziežgavičius
 
@@ -63,7 +70,8 @@ Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­ skirti vyskupais Vyt
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 141."
   citata_originali: |
     Per visą savo valdymo laiką Vytautas palaikė su jais gerus
     santykius, bet kartu ir rūpinosi, kad Lietuvos vyskupais būtų

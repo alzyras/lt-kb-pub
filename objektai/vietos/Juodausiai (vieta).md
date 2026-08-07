@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-55e5a9639570eb2e018747b2"
+canonical_name: "Juodausiai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Juodausiai","Juodausiai (vieta)"]
+sameAs: []
+canonical_biography: "Gruodžio 25 d. LDK lauko etmono raitelių vėliava nakvojo Juodausiuose ir Kunigėliuose."
+place_authority: true
+historical_names: []
 ---
 # Juodausiai (vieta)
 
@@ -54,9 +63,10 @@ Gruodžio 25 d. LDK lauko etmono raitelių vėliava nakvojo Juodausiuose ir Kuni
 ## Citatos
 
 - id: c-185752
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 13"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 13."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 13."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

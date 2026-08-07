@@ -52,7 +52,7 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
 <a id="claim-t-193339"></a>
 - t-002
   teiginys: "Seime Lietuvoje susirinko daug Seversko žemės didikų, nes juos baugino arti esanti Maskvos galybė ir valstybės nuostoliai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -60,6 +60,7 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
+    - c-176067
     - c-178543
 
 ## Reikšmingi paminėjimai
@@ -98,7 +99,8 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
 - id: c-168798
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 537"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 537."
   citata_originali: |
     Mažai
     tesutramdė užsispyrėlius ir Josifo, Kijevo metropolito,
@@ -125,7 +127,8 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
 - id: c-176067
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 535"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 535."
   citata_originali: |
     Apie šiuos susitarimus karalius nieko nežinojo, mat
     tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
@@ -147,14 +150,17 @@ Kojelavičius Seversko kunigaikščių atsiskyrimą nuo karaliaus ir Lietuvos ap
   citata_rodoma: "Apie šiuos susitarimus karalius nieko nežinojo, mat\ntuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.\nSusirinko gausybė didikų, ypač daug — iš Seversko že­\nmės, nes visus juos baugino\nSeversko\nku n igaikš-\ndėl pavojingo artumo kaimy-\nčiai\natsiskiria\nnuo\nninės Maskvos galybė ir ver-\nL ie tu v o s\ntė labiau rūpintis valstybe,\nkuri iro, patirdama vieną nuo­\nstolį po kito. Visi ketino senate sutartinai paraginti ir\nšiaip, ir taip išsisukinėjantį karalių rimtai susirūpinti\ntos žemės gynyba."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-178543
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 536"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 536."
   citata_originali: |
     Brolis neatsisakė, ir jie susitarė šito­
     kiomis sąlygomis: Vladislovas liksiąs Vengrijos karaliu­

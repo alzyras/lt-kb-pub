@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-50e088beb2418ae6c5a2a02a"
+canonical_name: "W. Conze"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["W. Conze"]
+sameAs: []
+canonical_biography: "Conze 161 , ir paskutiniu metu išsp. F."
 ---
 # W. Conze
 
@@ -50,7 +57,8 @@ Conze 161 , ir paskutiniu metu išsp. F.
 - id: c-33191
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 97."
   citata_originali: |
     Serijoje « Ostmittel­
     europa in Vergangenheit und Gegenwart» pasirodė Lietuvos isto­

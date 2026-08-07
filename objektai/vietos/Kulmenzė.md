@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b062a22059836b81ef4d70ba"
+canonical_name: "Kulmenzė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kulmenzė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433. Dusburgietis teigia, kad apie daugybės Kulmenzės miestiečių žūtį Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke, miestiečiai bėgdavo nuo pjūties darbų. Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui."
+place_authority: true
+historical_names: []
 ---
 # Kulmenzė
 
@@ -39,12 +48,12 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
 <a id="claim-t-58496"></a>
 - t-001
   teiginys: "Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsisakęs pareigų ir ten miręs."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
-    - c-59131
+    - c-59129
 
 <a id="claim-t-58497"></a>
 - t-002
@@ -117,14 +126,14 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
 <a id="claim-t-194537"></a>
 - t-006
   teiginys: "Kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59130
+    - c-59128
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -180,7 +189,8 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
 - id: c-59128
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
   citata_originali: |
     Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
                                 būtent: Eimsutis ir dar viena
@@ -198,11 +208,13 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+    - t-006
 
 - id: c-59129
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Pailsęs nuo rūpesčių ir palaužtas negalės,
     ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia
@@ -215,14 +227,17 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   citata_rodoma: "Pailsęs nuo rūpesčių ir palaužtas negalės,\nilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia\npasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.\n\n\n\n\n         280 (273)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-59130
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Apie Kulmenzės miesto apgulą
 
@@ -237,12 +252,12 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-006
 
 - id: c-59131
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
 
@@ -260,13 +275,13 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-59132
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Apie daugybės Kulmenzės miestiečių žūtį
 

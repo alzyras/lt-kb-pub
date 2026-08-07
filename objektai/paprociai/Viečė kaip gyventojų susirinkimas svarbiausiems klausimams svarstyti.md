@@ -44,12 +44,13 @@ Nenurodyta
 <a id="claim-t-199231"></a>
 - t-001
   teiginys: "3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų susirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei dimo ir kitiems svarbiausiems klausimams svarstyti."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181746
 

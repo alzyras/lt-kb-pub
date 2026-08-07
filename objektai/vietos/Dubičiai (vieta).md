@@ -1,0 +1,68 @@
+---
+tipas: vieta
+pavadinimas: 'Dubičiai (vieta)'
+identifikacija: 'vieta'
+variantai:
+  - 'Dubičiai'
+aliases:
+  - 'Dubičiai'
+saltiniai:
+  - 'Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai'
+datos:
+  - '1561 m.'
+date_start: '1561'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-1cc0004f09e82758c9cb51c8"
+canonical_name: "Dubičiai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dubičiai","Dubičiai (vieta)"]
+sameAs: []
+canonical_biography: "1561 m. iš Kaniavos ir Dubičių dvarų į medžioklę Valkininkuose turėjo būti pasiųsta 100 valstiečių penkioms dienoms."
+---
+# Dubičiai (vieta)
+
+## Santrauka
+
+1561 m. iš Kaniavos ir Dubičių dvarų į medžioklę Valkininkuose turėjo būti pasiųsta 100 valstiečių penkioms dienoms.
+
+## Santrauka
+
+1561 m. iš Kaniavos ir Dubičių dvarų į medžioklę Valkininkuose turėjo būti pasiųsta 100 valstiečių penkioms dienoms.
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: '1561 m. iš Kaniavos ir Dubičių dvarų į medžioklę Valkininkuose turėjo būti pasiųsta 100 valstiečių penkioms dienoms.'
+  šaltinis: Lituanistika-66360-Didieji-medziokliai-Radvilos
+  citata_originali: |
+    Taip pat didysis medžioklis turėjo nurodyti (numatyti), kuriam laikui ir
+    kiek žmonių reikės organizuojamai medžioklei aptarnauti ir pasirūpinti jų iš-
+    laikymu. Lietuvos Metrikos knygose išlikę potvarkiai, perduoti žemesniesiems
+    medžioklės ūkį prižiūrintiems pareigūnams ar dvarų laikytojams, atskleidžia,
+    kokį mastą (turimas omenyje dalyvaujančiųjų skaičius) mūsų aptariamuoju
+    laikotarpiu įgaudavo LDK valdovo medžioklės. Viename 1561 m. dokumente
+    teigiama, kad į didžiojo kunigaikščio rengiamą medžioklę Valkininkuose varo-
+    vais turi būti pasiųsta: iš Kaniavos ir Dubičių dvarų 100 valstiečių 5 dienoms, iš
+    Alytaus dvaro 200 valstiečių 5 dienoms, iš Daugų – 75 valstiečiai 5 dienoms41.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified

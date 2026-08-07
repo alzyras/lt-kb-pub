@@ -112,7 +112,8 @@ Nenurodyta
 - id: c-55373
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 195."
   citata_originali: |
     Aktoriams
     pakyla išklota lentomis, nuožulni, frontonas puoštas
@@ -137,7 +138,8 @@ Nenurodyta
 - id: c-55374
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 195."
   citata_originali: |
     Tada orkestrinė
     muzikuoti ir aikštelė rinktinei auditorijai, kur grindys - me­

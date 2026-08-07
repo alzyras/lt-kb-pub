@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-131052f0622ec6522121c9ea"
+canonical_name: "Survila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Survila"]
+sameAs: []
+canonical_biography: "Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu, kuris vėliau dažnai da­ lyvaudavo vokiečių derybose vertėju, su savo draugu Survila 1365 metų liepos mėn."
 ---
 # Survila
 
@@ -100,7 +107,8 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 24."
   citata_originali: |
     Patirgas, vyriausias Kęstučio sūnus, 1348—65 metų laiko­
     tarpyje buvo nuolatinis Algirdo ir Kęstučio žygių palydovas ir,
@@ -120,7 +128,8 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
 - id: c-79175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 46."
   citata_originali: |
     Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
     miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
@@ -143,7 +152,8 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
 - id: c-79176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 46."
   citata_originali: |
     Ir todėl, nepaisant viso Algirdo veiklumo, Lietuvos sos­
     tinė keletą kartų, jam gyvam esant, buvo žiauriai nunioko­

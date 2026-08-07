@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0dedfd47b496b8d07c22f551"
+canonical_name: "Uphagenas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Uphagenas"]
+sameAs: []
+canonical_biography: "Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu į prielaidas apie skirių ir hirių gentis. Senovės tyrinėtojai, pradedant Plinijaus kom piliacijomis ir baigiant nuodugniai mąstančiu Uphagenu, pasiklysta tarp prielaidų apie skiriu ir hirių gentis, net mokytasis ponas Foigtas patenka į keblią padėtį šia prasme ir daro visiškai netaiklias išvadas2."
 ---
 # Uphagenas
 
@@ -89,7 +96,8 @@ Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu
 - id: c-174542
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 275."
   citata_originali: |
     Senovės tyrinėtojai, pradedant Plinijaus kom­
     piliacijomis ir baigiant nuodugniai mąstančiu Uphage-

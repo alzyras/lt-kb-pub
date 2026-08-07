@@ -67,7 +67,8 @@ media_all_json: |-
 - id: c-82757
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 233."
   citata_originali: |
     I I I  KNYGA
     degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
@@ -98,7 +99,8 @@ media_all_json: |-
 - id: c-82758
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 235."
   citata_originali: |
     Šį karą kurstė neblėstantis
     Prūsijos ir Livonijos kryžiuočių įniršis. Tuo pat metu Lenki­

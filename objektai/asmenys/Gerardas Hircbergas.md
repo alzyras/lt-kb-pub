@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-67388b61758b94fceb4beab2"
+canonical_name: "Gerardas Hircbergas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gerardas Hircbergas"]
+sameAs: []
+canonical_biography: "1258 m. vicemagistro Gerardo Hircbergo sutartyje nurodyti Ordino ir Sambijos vyskupo žemės valdų plotai bei pasiskirstymas. Noris Gerhardas Hircbergas, rėdytojas kryžėjų, kaip įmanąs buvo pra dėjęs taupyti ir lengvinti tuos sluogavimus jau vai šindamas dirbėjus, vildamos bene nulyžins tuomi."
 ---
 # Gerardas Hircbergas
 
@@ -78,7 +85,8 @@ media_all_json: |-
 - id: c-174285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 350."
   citata_originali: |
     Tačiau, jos forma ir plotas, lai­
     kui bėgant, galėjo labai pakisti.
@@ -98,9 +106,9 @@ media_all_json: |-
     - t-001
 
 - id: c-184339
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 370"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 370."
   citata_originali: |
     Rūstybė ir įbingimas perkrikštų rodės aiškiai
     kas dieną visame Parusny. Noris Gerhardas Hirc-

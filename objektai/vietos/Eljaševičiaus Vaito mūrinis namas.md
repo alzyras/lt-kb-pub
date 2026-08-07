@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8515e26b0f167abc93af6cb9"
+canonical_name: "Eljaševičiaus Vaito mūrinis namas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Eljaševičiaus Vaito mūrinis namas"]
+sameAs: []
+canonical_biography: "1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­ dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų, pusę to činšo, 400."
+place_authority: true
+historical_names: []
 ---
 # Eljaševičiaus Vaito mūrinis namas
 
@@ -61,7 +70,8 @@ media_all_json: |-
 - id: c-82162
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 203."
   citata_originali: |
     O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
     šimčius, kas metinių pajamų tesudaro 165 auksinus.

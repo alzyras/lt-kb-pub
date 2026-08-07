@@ -82,7 +82,8 @@ Nenurodyta
 - id: c-33456
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 34."
   citata_originali: |
     « Lietuvos diecezijai » buvo lemta greitai žlugti,
     ypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai

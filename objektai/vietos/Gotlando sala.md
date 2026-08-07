@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a46bdfc754a65a17275816c9"
+canonical_name: "Gotlando sala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gotlando sala"]
+sameAs: []
+canonical_biography: "Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando saloje; šiaurėje prie Hanzos prisidėjo D."
+place_authority: true
+historical_names: []
 ---
 # Gotlando sala
 
@@ -45,9 +54,9 @@ Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando sa
 ## Citatos
 
 - id: c-184511
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 183"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 183."
   citata_originali: |
     Mokėjo dar pasigerinti
     diduomenei, kunigaikščiams ir viešpačiams, kurie

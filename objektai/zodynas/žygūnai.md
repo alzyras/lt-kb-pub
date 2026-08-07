@@ -133,7 +133,8 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
 - id: c-59565
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     3. Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
 
@@ -156,7 +157,8 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
 - id: c-168013
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 114."
   citata_originali: |
     Taigi visuotiniame
     susirinkime kunigaikščiu buvo išrinktas Vaišvilkas.
@@ -187,7 +189,8 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
 - id: c-168014
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 422"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 422."
   citata_originali: |
     Tačiau ligai išgy­
     dyti jau nebeužteko gydytojo, reikėjo veiksmingesnių

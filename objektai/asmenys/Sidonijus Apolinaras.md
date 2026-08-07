@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eae375538891e170af41b904"
+canonical_name: "Sidonijus Apolinaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sidonijus Apolinaras"]
+sameAs: []
+canonical_biography: "Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi veidą, plaukus ir kūną raudona arba ruda spalva."
 ---
 # Sidonijus Apolinaras
 
@@ -54,7 +61,8 @@ Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi v
 - id: c-174237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 79."
   citata_originali: |
     81
 

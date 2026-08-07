@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bdaeb55b5f0e2eec4333bcaf"
+canonical_name: "M. Wolonczewskis (Valančius)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Wolonczewskis (Valančius)"]
+sameAs: []
+canonical_biography: "VaŽV = Wolonczewskis (Valančius), M., Žemajtiu Wiskupiste, dal."
 ---
 # M. Wolonczewskis (Valančius)
 
@@ -61,7 +68,8 @@ VaŽV = Wolonczewskis (Valančius), M., Žemajtiu Wiskupiste, dal.
 - id: c-29460
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 22."
   citata_originali: |
     VaŽV = Wolonczewskis (Valančius), M., Žemajtiu Wiskupiste, dal.
     1-2, Vilnius 1848 ; naujas leid. Vilnius 1972.

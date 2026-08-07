@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ed904858df5de45316d798af"
+canonical_name: "Kopilius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kopilius"]
+sameAs: []
+canonical_biography: "Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny."
+place_authority: true
+historical_names: []
 ---
 # Kopilius
 
@@ -51,7 +60,8 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - id: c-02744
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 201."
   citata_originali: |
     Taip pat jis darė ir su kitomis mažesnėmis kunigaikštystėmis.
     Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b4ccca910a708d83d611c3e"
+canonical_name: "Obelijos"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Obelijos"]
+sameAs: []
+canonical_biography: "Narbutas Obelijomis vadino Tikrojoje Lietuvoje nuo seno buvusias vietas, kuriose dėdavo sudegintų žmonių pelenus."
+place_authority: true
+historical_names: []
 ---
 # Obelijos
 
@@ -54,7 +63,8 @@ Narbutas Obelijomis vadino Tikrojoje Lietuvoje nuo seno buvusias vietas, kuriose
 - id: c-171803
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 377."
   citata_originali: |
     Vienoda jų sandara ir tokia pat radimo vieta įtikina,
     jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,

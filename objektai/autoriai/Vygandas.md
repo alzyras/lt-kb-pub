@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-744d5a4d6904f769a554b287"
+canonical_name: "Vygandas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vygandas"]
+sameAs: []
+canonical_biography: "Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Nerye ir Neria."
 ---
 # Vygandas
 
@@ -54,7 +61,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 - id: c-176905
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 33."
   citata_originali: |
     Upė Nerige, dažnai minima senovi­
     niame Lietuvos kelių aprašyme,

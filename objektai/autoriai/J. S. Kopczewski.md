@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-38f22f7477196b6739f49ba2"
+canonical_name: "J. S. Kopczewski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. S. Kopczewski"]
+sameAs: []
+canonical_biography: "Kopczewski, M."
 ---
 # J. S. Kopczewski
 
@@ -50,7 +57,8 @@ Kopczewski, M.
 - id: c-22139
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Vilnius, 2009; Grunwald: 550 lat chwały. Oprac. J. S. Kopczewski,
     M.  Siuchniński.

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43966e3d3d37c2fdc8004661"
+canonical_name: "Henrikas Duseneris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Duseneris"]
+sameAs: []
+canonical_biography: "22 dienas tęsėsi apsuptis, o dviejų poilsio dienų metu į pagalbą apsuptie­ siems atvyko Ordino maršalas Henrikas Duseneris ir Reino palatinas su stipriom pajėgom."
 ---
 # Henrikas Duseneris
 
@@ -51,7 +58,8 @@ media_all_json: |-
 - id: c-83665
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 119."
   citata_originali: |
     Tačiau Gedimi­
     no ginklanešys, vokiečių kilmės, žinodamas apie tą prūso

@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-169209
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 58."
   citata_originali: |
     Pagal kilmę bei karinius nuopelnus
     buvo vardijami vadai: Palemonas, arba Publijus Libo-

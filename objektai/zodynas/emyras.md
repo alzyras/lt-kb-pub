@@ -79,7 +79,8 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 - id: c-44163
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Taip buvo delsiama, kol atvyko
     visoje Ordoje garsus kunigaikštis - emyras
@@ -102,7 +103,8 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 - id: c-45512
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Totorių pajėgos
     Aukso ordos chano Timūr-Kutluko,
@@ -128,7 +130,8 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 - id: c-167097
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Lietuvos jungtinės pajėgos
 

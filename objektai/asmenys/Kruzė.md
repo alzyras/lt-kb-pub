@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ef885b4ea5c0b0b72fa2f70"
+canonical_name: "Kruzė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kruzė"]
+sameAs: []
+canonical_biography: "Dorpato universiteto profesorius Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko ai Farisi nubraižytų geografijos žemėlapių."
 ---
 # Kruzė
 
@@ -62,7 +69,8 @@ Dorpato universiteto profesorius Kruzė Gotos bibliotekoje aptiko arabų geograf
 - id: c-174318
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Čia reikėtų pateikti
     nuomonę Dorpato universiteto profesoriaus pono Kruzės, kuris Gotos

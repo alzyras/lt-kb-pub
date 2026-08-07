@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-abd03185c9a8fe20bd8ca10b"
+canonical_name: "Oksfordas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Oksfordas"]
+sameAs: []
+canonical_biography: "Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į."
+place_authority: true
+historical_names: []
 ---
 # Oksfordas
 
@@ -60,7 +69,8 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
 - id: c-24344
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 81."
   citata_originali: |
     fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-
     kymo principus ir didelius reikalavimus, intensyvaus mokymo sistemą, o

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7a8631377d76d98b06c0f50"
+canonical_name: "Ivanas Pronskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas Pronskis"]
+sameAs: []
+canonical_biography: "bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnino ir kitų vaivadų, tokių kaip kunigaikščių Ivano Pronskio, Ivano „Tiomkos“ Rostovskio, Andriejaus Obolenskio, vadovaujamos pajėgos, kurias čia tuo tikslu pasiuntė Maskvos valdovas."
 ---
 # Ivanas Pronskis
 
@@ -50,7 +57,8 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
 - id: c-44354
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 82."
   citata_originali: |
     bojarinų Grigorijaus Fiodorovičiaus
     Davidovo, Ivano Andrejevičiaus Čelia-

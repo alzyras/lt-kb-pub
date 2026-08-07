@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-577454ccd37a423360962da8"
+canonical_name: "Gerlachas Rudasis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gerlachas Rudasis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo žmonių krito kovoje262."
 ---
 # Gerlachas Rudasis
 
@@ -58,7 +65,8 @@ Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis
 - id: c-60921
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 83."
   citata_originali: |
     į jo šventenybę popiežių. Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
     Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo

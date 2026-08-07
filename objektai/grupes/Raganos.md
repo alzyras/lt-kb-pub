@@ -53,7 +53,8 @@ Narbutas rašo, kad prietaringi Šiaurės Lietuvos ir Latvijos kaimiečiai ragan
 - id: c-172387
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
   citata_originali: |
     Šios deivės yra tikra antikinių hamadriadžių kopija.
     Prietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,

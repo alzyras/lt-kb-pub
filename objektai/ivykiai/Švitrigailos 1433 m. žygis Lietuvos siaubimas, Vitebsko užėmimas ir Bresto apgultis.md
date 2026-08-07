@@ -123,7 +123,8 @@ Nenurodyta
 - id: c-168907
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 447"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 447."
   citata_originali: |
     Lenkų kariuomenės vadai tuo metu buvo įsi­
     vėlę į naują karą su Prūsija, Štai todėl Boleslovas ir
@@ -154,7 +155,8 @@ Nenurodyta
 - id: c-176093
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 447"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 447."
   citata_originali: |
     Lietuvos isto rija
 

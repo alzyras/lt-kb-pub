@@ -124,7 +124,8 @@ Nenurodyta
 - id: c-55748
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 40."
   citata_originali: |
     Gediminas, supamas tokių įvairių kaimyninio val­
     dymo elementų, savo valstybėje turėdamas net dvi skirtin­
@@ -150,7 +151,8 @@ Nenurodyta
 - id: c-55749
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 40-41"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 40-41."
   citata_originali: |
     Valstybėje nusistovėjus leninio valdymo
     principams, Gedimino veiklumo ir didžių jo politinių sie­
@@ -180,7 +182,8 @@ Nenurodyta
 - id: c-78412
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 40-41"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 40-41."
   citata_originali: |
     Vilnius, Gedimino dėka nuo mažos gyvenvie­
     tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos

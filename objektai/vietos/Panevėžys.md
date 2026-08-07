@@ -36,6 +36,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8be9500628e80d0b0ef7fbca"
+canonical_name: "Panevėžys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Panevėžys"]
+sameAs: []
+canonical_biography: "Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar."
+place_authority: true
+historical_names: []
 ---
 # Panevėžys
 
@@ -142,7 +151,8 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - id: c-43725
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 173."
   citata_originali: |
     ## Puslapis 173
 
@@ -168,7 +178,8 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - id: c-166186
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 180."
   citata_originali: |
     Miesto gyvento-
     jai džiaugsmingai sutiko išvaduotojus.
@@ -189,7 +200,8 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - id: c-166460
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 356."
   citata_originali: |
     Pijarai, niekuo daugiau neužsiimdami,
     kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
@@ -211,7 +223,8 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - id: c-167012
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 170."
   citata_originali: |
     Švietimui padėjo lenkų kultūros organiza-
     cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
@@ -228,9 +241,9 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - t-004
 
 - id: c-185000
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 150."
   citata_originali: |
     Kaunas buvo jų kelyje vykstant į karą ar grįžtant iš jo. 1560 m. Petro
     Miklaševskio kuopai, kurią sudarė 100 karių, buvo nurodyta į Livoniją žygi uoti pro
@@ -244,9 +257,9 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - t-005
 
 - id: c-185001
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 389"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 389."
   citata_originali: |
     Kiti miestai turėjo mokėti kur kas mažiau, daugiausia Brestas ir Kije-
     vas, - po 200 kapų grašių, Minskas, Mogiliavas, Pinskas - po 150 kapų grašių, Gar-

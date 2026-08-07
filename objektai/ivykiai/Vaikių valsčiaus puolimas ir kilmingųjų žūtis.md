@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-62944"></a>
 - t-001
   teiginys: "Vaikių valsčiuje iš pasalų buvo nukauta daug kilmingųjų."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Vaikiai: 0.85"
@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-63824
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
     tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė į valsčių, vardu Vaikiai545, kur
@@ -86,7 +87,8 @@ Nenurodyta
 - id: c-63825
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     Kitą
     kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o

@@ -95,7 +95,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - id: c-46905
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 394"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 394."
   citata_originali: |
     Sapiegos tuo tarpu grįžo į Lie-
     tuvą, hetmonas gavo dalį švedų kariuomenės ir liko Vilniuje. Viš-
@@ -115,7 +116,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - id: c-46906
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 398"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 398."
   citata_originali: |
     **Rusų tarpininkavimo padariniai.** Priimtomis sąlygomis,
     Augustas turėjo per 25 dienas grąžinti savo kariuomenę į Sak-
@@ -137,7 +139,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - id: c-166353
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 394"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 394."
   citata_originali: |
     Viš-
     niaveckis, Oginskis ir kiti Sapiegų priešai su savo kariuomenės

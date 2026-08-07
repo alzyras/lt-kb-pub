@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1503 m.'
@@ -37,6 +38,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-039ccad29aaa7fd93b682345"
+canonical_name: "Nesvyžius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nesvyžius"]
+sameAs: []
+canonical_biography: "Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje). Pirmoji (gražiausioji) yra nulieta Nesvyžiaus Radvilų liejykloje 1602 m. Ant jos yra Radvilų herbas ir atitinkamas užrašas. Tuo metu Mikalojus Kristupas Radvila, vad. Našlaitėlis, įkūrė jėzuitų kolegiją buvusiam kalvinų centre — Nesvyžiuje (1582 m.)."
+place_authority: true
+historical_names: []
 ---
 # Nesvyžius
 
@@ -204,12 +214,32 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   pagrindžia:
     - c-46643
 
+<a id="claim-t-202519"></a>
+- t-010
+  teiginys: "Radvilų manufaktūrose Nesvyžiuje buvo audžiamas linas."
+  atnaujinta: "2026-07-26 19:27"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nesvyžius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesvyžius\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
+  pagrindžia:
+    - c-185878
+
 ## Citatos
 
 - id: c-46643
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 304."
   citata_originali: |
     Pats
     apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
@@ -230,7 +260,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - id: c-46644
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 322."
   citata_originali: |
     **XVII amž. patrankos**
     Gustavo Adolfo parodoje Stokholme 1932 m. Pirmoji (gražiausioji) yra
@@ -247,7 +278,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - id: c-80543
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 56."
   citata_originali: |
     Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
     tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
@@ -270,7 +302,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - id: c-80545
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     Mirė 1507 metais.
     11. Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
@@ -287,7 +320,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - id: c-80546
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Galiausiai apie liepos 20-22 d. jie sustojo.
     Vietą savo stovyklavietei jie pasirinko prie
@@ -318,7 +352,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - id: c-80547
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 58."
   citata_originali: |
     Po dešimtmečio čia pa-
     sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
@@ -341,7 +376,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - id: c-80548
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 82."
   citata_originali: |
     Susiformavo barokinis kraštovaizdis, kuriam bū-
     dinga bažnyčios, vienuolynai, kalvarijos, koplyčios, koplytstulpiai, kryžiai –
@@ -362,7 +398,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - id: c-80549
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzui-
     tais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą. Barokinė
@@ -377,3 +414,14 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-185878
+  autorius: "Marija Matušakaitė"
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)"
+  puslapiai: "p. 61 (PDF 4)"
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 61 (PDF 4)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 19:20"
+  pagrindzia:
+    - t-010

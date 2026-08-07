@@ -94,7 +94,8 @@ Nenurodyta
 - id: c-177027
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 133."
   citata_originali: |
     Iš kronikų žinoma, kad tos deivės šventė buvo švenčiama
     pavasarį, kai tik nutirpsta sniegas. Skaityk straipsnį „Šventės“.

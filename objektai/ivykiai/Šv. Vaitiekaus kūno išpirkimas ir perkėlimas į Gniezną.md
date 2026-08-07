@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184622
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 139"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 139."
   citata_originali: |
     Netikėliai tarės tuomi savo apjuoktas šventeny­
     bes nuo krikščionų nugerbę ir užrūstintus savo die­

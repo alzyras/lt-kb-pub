@@ -46,7 +46,8 @@ Narbuto aprašyme Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į
 - id: c-175721
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 473"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 473."
   citata_originali: |
     Kartais
     vasaros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant že­

@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-67b9a253a0e370ba42f93a76"
+canonical_name: "Vaištariškės Kleboniškis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vaištariškės Kleboniškis"]
+sameAs: []
+canonical_biography: "Dvarelis buvo prie Neries upės, į šiaurę nuo Eigulių, vėliau pavadintas Kleboniškiu."
+place_authority: true
+historical_names: []
 ---
 # Vaištariškės Kleboniškis
 
@@ -41,9 +50,9 @@ Dvarelis buvo prie Neries upės, į šiaurę nuo Eigulių, vėliau pavadintas Kl
 ## Citatos
 
 - id: c-185094
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 116."
   citata_originali: |
     Buvo įvardyta klebonija,
     dar 2 namai su sklypu mieste, plytinė su daržu, nameliu ir sklypu miesto pakraštyje.

@@ -58,7 +58,7 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
 <a id="claim-t-66289"></a>
 - t-002
   teiginys: "Vilniaus mokslo bičiulių draugija ir Lietuvių mokslo draugija daug dėmesio skyrė praeičiai ir LDK paveldui."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -69,7 +69,8 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
 - id: c-66588
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 127."
   citata_originali: |
     Abi draugijos daug dėmesio skyrė
     praeičiai, LDK paveldui, bet Lie-
@@ -90,7 +91,8 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
 - id: c-66589
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 126."
   citata_originali: |
     Be to, etnografi-
     nės Lietuvos miestuose didžiausia tautinė grupė buvo žydai, o gatvėse po

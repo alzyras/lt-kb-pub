@@ -62,7 +62,8 @@ T. Narbutas šią informaciją vėliau įtraukė į 1852 m. Vilniuje išleistus 
 - id: c-173434
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 506"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 506."
   citata_originali: |
     Vėliau T. Narbutas šią informaciją įdėjo į vadina­
     muosius „Mažesniuosius istorijos raštus“ (Pomniej-

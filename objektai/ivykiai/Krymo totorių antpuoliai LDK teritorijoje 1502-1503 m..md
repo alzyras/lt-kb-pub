@@ -108,7 +108,8 @@ Nenurodyta
 - id: c-169988
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 327."
   citata_originali: |
     BK autoriaus ypatingas dėmesys kovoms su Krymo totoriais,
     pradedant 1502 m., paaiškinamas, be kitko, tuo, kad iki 1502 m.

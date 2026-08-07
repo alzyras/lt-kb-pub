@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f403df37c683036c6b9ce9e"
+canonical_name: "Juozas Urbšys"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozas Urbšys"]
+sameAs: []
+canonical_biography: "Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasirašyti savitarpio pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai. Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsileisti į Lietuvą savo karines bazes."
 ---
 # Juozas Urbšys
 
@@ -58,7 +65,7 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 <a id="claim-t-19027"></a>
 - t-002
   teiginys: "Birželio 10 d. Kaune nutarta pasiųsti ministrą Juozą Urbšį į Maskvą."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -106,7 +113,8 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 - id: c-21785
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 184."
   citata_originali: |
     Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
     pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
@@ -128,7 +136,8 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 - id: c-21786
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 184."
   citata_originali: |
     Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
     pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
@@ -148,7 +157,8 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 - id: c-21787
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 184."
   citata_originali: |
     Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
     pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
@@ -169,7 +179,8 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 - id: c-21788
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 187."
   citata_originali: |
     Jokiais paaiškinimais netikėta, be to, reikalauta atleisti „provokacijų“ kalti-
     ninkus – vidaus reikalų ministrą gen. Kazį Skučą ir Saugumo departamen-
@@ -187,7 +198,8 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 - id: c-21789
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 187."
   citata_originali: |
     Nuo V. Molotovo rėksmingų kaltinimų
     absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune

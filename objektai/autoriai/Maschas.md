@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b8a0325a4462a0431c9cae2c"
+canonical_name: "Maschas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Maschas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „Szwaixtix“ neatitiko Lietuvos Apolonui priskirtų savybių. Sunku susekti, kada ir kas dovanojo arba kas Masch."
 ---
 # Maschas
 
@@ -66,7 +73,8 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
 - id: c-173255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
   citata_originali: |
     - Noty 336 i 355.
     29 Prilvico statulėlių rinkinyje, remiantis Maso (Masch) ir Vogeno
@@ -85,7 +93,8 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
 - id: c-177064
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 218."
   citata_originali: |
     Sunku susekti, kada ir kas dovanojo arba kas
     6

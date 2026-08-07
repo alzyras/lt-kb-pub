@@ -41,6 +41,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6f4514e3926a308e1a5aff67"
+canonical_name: "Vengrija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vengrija"]
+sameAs: []
+canonical_biography: "Į Vengriją ordinas buvo pakviestas kariauti su ją puolančiais pagonimis kumanais. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),. Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai."
+place_authority: true
+historical_names: []
 ---
 # Vengrija
 
@@ -352,19 +361,6 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškai taisyklingas ir tiksliai perteikia 1738 m. pirkinio sudėtį bei kainą."
   pagrindžia:
     - c-185903
-
-<a id="claim-t-203630"></a>
-- t-018
-  teiginys: "Vengrija priskiriama avių ir galvijų auginimo regionams pagal vyraujantį palivarko produkcijos pobūdį."
-  atnaujinta: "2026-08-01 12:36"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
-  vertinimo_atnaujinta: "2026-07-26T17:29:06Z"
-  pagrindžia:
-    - c-186234
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -725,33 +721,6 @@ media_all_json: |-
   atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-017
-
-- id: c-186234
-  autorius: "Darius Žiemelis"
-  šaltinis: "Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu"
-  puslapiai: "PDF 22"
-  indeksas: "Darius Žiemelis, Lituanistika-32634-ATR-palivarko-ukis — XVI–XVIII amžiaus Abiejų Tautų Respublikos palivarko ūkis marksistiniu bei neoinstitucionalistiniu požiūriu, PDF 22."
-  citata_originali: |
-    Ypač
-    vertinga yra J. Topolskio pateikta regionų
-    klasifikacijos pagal vyraujantį palivarko
-    produkcijos pobūdį schema. Grūdų augi­
-    nimo regionui priskiriama Lenkija, Livo­
-    nijos žemės, avių ir galvijų auginimo regi­
-    onams – Mecklenburgas, Vakarų Pamarys,
-    Moldavija, Valakija (dabartinė Rumunijos
-    sritis), Vengrija. Miškų ūkio regionu laiko­
-    mos Livonijos žemės, kanapių ir linų ga­
-    mybos regionais – Lietuva ir rusėniškosios
-    LDK žemės (dabartinė Rytų Baltarusija).
-  citata_rodoma: "pagal vyraujantį palivarko \nprodukcijos pobūdį schema. Grūdų augi­\nnimo regionui priskiriama Lenkija, Livo­\nnijos žemės, avių ir galvijų auginimo regi­\nonams – Mecklenburgas, Vakarų Pamarys, \nMoldavija, Valakija (dabartinė Rumunijos \nsritis), Vengrija. Miškų ūkio regionu laiko­\nmos Livonijos žemės, kanapių ir linų ga­\nmybos regionais – Lietuva ir rusėniškosios \nLDK žemės (dabartinė Rytų Baltarusija)."
-  statusas: verified
-  atnaujinta: "2026-08-01 12:36"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Motiejus Huniadis]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5e802df85a2977e0f5d68018"
+canonical_name: "Homelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Homelis"]
+sameAs: []
+canonical_biography: "Apie 1447 m. Švitrigaila iš Kazimiero gavo Homelį ir, tikėtina, Turovą."
+place_authority: true
+historical_names: []
 ---
 # Homelis
 

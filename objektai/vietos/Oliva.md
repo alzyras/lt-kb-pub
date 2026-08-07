@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aeb8af9f08a9445736e114c9"
+canonical_name: "Oliva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Oliva"]
+sameAs: []
+canonical_biography: "Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos. Pavyzdžiui, abatai iš Olivos ir Pelplino 1323 metais praneša popiežiui: Ex nuper actis patefeci­ mus per presentes, eundem prefatum regem quasdam per piures mundi partes litteras direxisse, in quibus se cum suis et toto Reg­ no asseruit baptizari et conjungi."
+place_authority: true
+historical_names: []
 ---
 # Oliva
 
@@ -75,7 +84,8 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 - id: c-82075
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 92."
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­
     dangi Viešpats jūsų ginklą valdo ir narsos didybės suteiks,
@@ -106,7 +116,8 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 - id: c-82076
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 108."
   citata_originali: |
     2) Kurį laiką buvo manoma, kad Gediminas
     iš tiesų tuos laiškus rašęs. Pavyzdžiui, abatai iš Olivos ir Pel-

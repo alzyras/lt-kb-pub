@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b611a2f5da3fe23ac19646d3"
+canonical_name: "Šventosios uostas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventosios uostas"]
+sameAs: []
+canonical_biography: "Tada net buvo kilusi mintis įkurti Šventosios uostą."
+place_authority: true
+historical_names: []
 ---
 # Šventosios uostas
 
@@ -62,7 +71,8 @@ Tada net buvo kilusi mintis įkurti Šventosios uostą.
 - id: c-72102
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 351."
   citata_originali: |
     Čia prekyba buvo
     daugiau suvaržyta tik 1629—1635 m., kai Prūsų pakrantės

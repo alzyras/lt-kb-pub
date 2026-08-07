@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ddf7734318f343c6b8997875"
+canonical_name: "Mykolas Tromba"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Tromba"]
+sameAs: []
+canonical_biography: "Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­ joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą."
 ---
 # Mykolas Tromba
 
@@ -53,7 +60,8 @@ Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb),
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 119."
   citata_originali: |
     tą, paskirti vyskupą, kapitulą. Tuo reikalu pas popiežių buvo
     siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­

@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-02fd983c8078d01f8340ad6c"
+canonical_name: "Estija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Estija"]
+sameAs: []
+canonical_biography: "Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją. Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją. Zigmantas buvo pasižadėjęs Švedų valdomą Estiją prijungti prie Lietuvos ir Lenkijos bendrai valdomosios Livonijos."
+place_authority: true
+historical_names: []
 ---
 # Estija
 
@@ -88,7 +97,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - id: c-166143
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     Nors nepriklausomybės kovų metu būta ir bendradarbiavimo, ir ryžtingų
     raginimų kurti sąjungą, trys šalys keliavo skirtingais keliais. Latvija ir Es-
@@ -109,7 +119,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - id: c-166144
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 249."
   citata_originali: |
     Keliais, autostrada, geležinkeliais, galų
     gale žmonėmis į Lietuvą integruoti Klaipėdos kraštas ir Vilnius. Unitari-
@@ -131,7 +142,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - id: c-175927
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 319."
   citata_originali: |
     Tačiau seimas buvo nusistatęs prieš karą ir nedavė pinigų.
     Karalius vis tiek įsakė Livonijoje stovinčios kariuomenės (jos

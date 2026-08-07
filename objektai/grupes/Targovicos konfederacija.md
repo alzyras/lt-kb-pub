@@ -42,7 +42,7 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 <a id="claim-t-182712"></a>
 - t-001
   teiginys: "Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1792 m."
@@ -116,7 +116,8 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 - id: c-166128
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 96."
   citata_originali: |
     Taigi lemtis nedavė Lenkijai ir Lietuvai XVIII  a. pabaigoje garbin-
     gesnio valdovo, istorija dviem balsais atmetė kitokios raidos galimybę.
@@ -139,7 +140,8 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 - id: c-166129
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 94."
   citata_originali: |
     Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
     konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
@@ -155,7 +157,8 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 - id: c-166328
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 447"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 447."
   citata_originali: |
     Bet reformuoja-
     masis seimas dar nespėjo baigti savo darbo, kai Rusija suor-

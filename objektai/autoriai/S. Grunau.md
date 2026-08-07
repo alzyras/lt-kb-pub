@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fcac13d7228c0e5b7e2a35b7"
+canonical_name: "S. Grunau"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["S. Grunau"]
+sameAs: []
+canonical_biography: "97 Grunau S., kronikininkas 58, 145, 205, 243, 294 Grünhagen C."
 ---
 # S. Grunau
 
@@ -66,7 +73,8 @@ media_all_json: |-
 - id: c-65430
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 67-68"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67-68."
   citata_originali: |
     Senojoje, ikikryžiuotiškojo laikotarpio prūsų teisėje, vad. Brutenio—Videvučio (dėl
     vardo žr. Būga K. 1, p. 187—189) įstatyme, pabrėžiama, kad niekas nesikreiptų į mūsų
@@ -88,7 +96,8 @@ media_all_json: |-
 - id: c-65431
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
   citata_originali: |
     Dusburgietis rašo, kad prūsai dievino griaustinį (pro deo coluerunt [...] tonitrua).
     XVI a. 1-oje pusėje S. Grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas

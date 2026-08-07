@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-904291ca7280436dd960114e"
+canonical_name: "Ehrenfriedas v. Neuenburgas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ehrenfriedas v. Neuenburgas"]
+sameAs: []
+canonical_biography: "Tą matančiam mistrui kryžeivių rodės tarimas mistro kalavijonų, arba Kristaus karėjų, dar reika lingesnių nekaip pirma, kursai, norėdamas dar ži noti kraštą, kunigus, įsakymus, apsiėjimus ir būdą kalavijonų, nusiuntė du išmintingu vyru kryžeiviu Ehrenfriedą v."
 ---
 # Ehrenfriedas v. Neuenburgas
 
@@ -41,9 +48,9 @@ Tą matančiam mistrui kryžeivių rodės tarimas mistro kalavijonų, arba Krist
 ## Citatos
 
 - id: c-184768
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 276"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 276."
   citata_originali: |
     Tą matančiam mistrui kryžeivių rodės tarimas
     mistro kalavijonų, arba Kristaus karėjų, dar reika­

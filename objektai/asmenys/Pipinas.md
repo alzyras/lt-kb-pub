@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2fb98b77458cdf1190b1e0b"
+canonical_name: "Pipinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pipinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi, jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po medžiu pakartas. Dusburgietis teigia, kad palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija, ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas: išpjovus jam iš pilvo bambą ir prikalus ją prie medžio, Pipinas, smarkiai mušamas, buvo verčiamas. Dusburgietis teigia, kad vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę arba nužudomas."
 ---
 # Pipinas
 
@@ -96,7 +103,8 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
 - id: c-60628
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
   citata_originali: |
     Galop broliai susikovė su Ragavos pilėnais ir, dievui
     leidus, daugybę jų nužudė, o jų nelaisvėn paimtą vadą išsivedė; tas vadas, norėdamas
@@ -120,7 +128,8 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
 - id: c-60630
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     Nutyli lenkų feodalinės ekspansijos į prūsų žemes
     bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo
@@ -144,7 +153,8 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
 - id: c-60631
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
   citata_originali: |
     vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis
     plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę

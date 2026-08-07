@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f4da4540bbbe1854a453026"
+canonical_name: "Paupys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Paupys"]
+sameAs: []
+canonical_biography: "Dejevo, į Paupį."
+place_authority: true
+historical_names: []
 ---
 # Paupys
 
@@ -60,7 +69,8 @@ Dejevo, į Paupį.
 - id: c-40329
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 152."
   citata_originali: |
     Gen. ltn. B. Knorringas, norėdamas ap-
     eiti lietuvių įtvirtinimus, pasiuntė kelis

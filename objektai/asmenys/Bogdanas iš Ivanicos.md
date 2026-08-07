@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-310c2a394ea9616d2c344977"
+canonical_name: "Bogdanas iš Ivanicos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bogdanas iš Ivanicos"]
+sameAs: []
+canonical_biography: "Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire apsuptam Liubartui, kaip išvengti nelaisvės."
 ---
 # Bogdanas iš Ivanicos
 
@@ -53,7 +60,8 @@ Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire a
 - id: c-169546
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 237."
   citata_originali: |
     To pat karo
     metu Vladimire apsuptas Liubartas išvengė lenkų ne­

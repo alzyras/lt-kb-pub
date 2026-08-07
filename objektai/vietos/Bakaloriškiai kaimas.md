@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8f75dae0b7191e429b816e7c"
+canonical_name: "Bakaloriškiai kaimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bakaloriškiai kaimas"]
+sameAs: []
+canonical_biography: "Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos būrį, saugodami gimtąjį Bakaloriškių kaimą nuo dažnų komunistinių partizanų puldinėjimų."
+place_authority: true
+historical_names: []
 ---
 # Bakaloriškiai kaimas
 
@@ -59,7 +68,8 @@ Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos bū
 - id: c-40247
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 238."
   citata_originali: |
     Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos
     būrį, saugodami gimtąjį Bakaloriškių kaimą nuo dažnų komunistinių partizanų pul-

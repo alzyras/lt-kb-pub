@@ -121,7 +121,8 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
 - id: c-175060
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 219."
   citata_originali: |
     Prie Sancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va-
     dinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rus-
@@ -141,7 +142,8 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
 - id: c-175061
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 219."
   citata_originali: |
     Prie šios upės yra daug senovės pilia-
     viečių, pylimų, pilkapių, kapų ir reikšmingų šventųjų vie-

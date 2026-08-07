@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-906d284045d779a7d1c86cb0"
+canonical_name: "Edvardas Rydzas-Smiglas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Edvardas Rydzas-Smiglas"]
+sameAs: []
+canonical_biography: "Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje."
 ---
 # Edvardas Rydzas-Smiglas
 
@@ -42,7 +49,8 @@ Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
 - id: c-21656
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 183."
   citata_originali: |
     Neutralumo politika ir
     Molotovo–Ribentropo paktas

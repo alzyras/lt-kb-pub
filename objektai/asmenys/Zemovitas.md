@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-870fe4dd2233018a1fe394e8"
+canonical_name: "Zemovitas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zemovitas"]
+sameAs: []
+canonical_biography: "Zemovitas kartu su Boleslovu, Kazimieru ir Agota pritarė Konrado sprendimui Teutonų ordinui atiduoti Kulmo ir Lubavos žemes. Mindaugas su rusų parama įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą. Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesuteikė jam deramos pagalbos."
 ---
 # Zemovitas
 
@@ -105,7 +112,8 @@ Zemovitas kartu su Boleslovu, Kazimieru ir Agota pritarė Konrado sprendimui Teu
 - id: c-61103
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45-46."
   citata_originali: |
     Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
     kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
@@ -136,7 +144,8 @@ Zemovitas kartu su Boleslovu, Kazimieru ir Agota pritarė Konrado sprendimui Teu
 - id: c-168255
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 106."
   citata_originali: |
     Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
     latos siaubė Mindaugo karvedžiai, ten vyko kovos prie
@@ -166,7 +175,8 @@ Zemovitas kartu su Boleslovu, Kazimieru ir Agota pritarė Konrado sprendimui Teu
 - id: c-168256
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 302."
   citata_originali: |
     Vytau­
     tas, pagalvojęs, jog, valdovui iškeliavus, sostinė ne taip

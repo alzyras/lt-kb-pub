@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d6b375c37c4a3dd91ae90dbd"
+canonical_name: "Inocentas III"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Inocentas III"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Livonijos žemės atvertimą į tikėjimą 1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus Inocento rūpesčiu į Kristaus tikėjimą (Ptol."
 ---
 # Inocentas III
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad apie Livonijos žemės atvertimą į tikėjimą 1204 vi
 - id: c-60964
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 226."
   citata_originali: |
     Apie Livonijos žemės atvertimą į tikėjimą
 

@@ -59,9 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184705
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 140"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 140."
   citata_originali: |
     Ir taip Brunas, sekdamas Vaitiekų, nupelnė
     vainiką mūčelnyko.

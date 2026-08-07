@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b79f517a09a95ebc7cf37f28"
+canonical_name: "Turkija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Turkija"]
+sameAs: []
+canonical_biography: "Karolis pagaliau buvo priverstas išsidanginti iš Turkijos."
+place_authority: true
+historical_names: []
 ---
 # Turkija
 
@@ -61,7 +70,8 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
 - id: c-155467
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 264."
   citata_originali: |
     Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
     tuvos emigrantai arba kilusios iš jų šeimų. O kai pamatai po provincijos

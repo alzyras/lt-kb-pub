@@ -63,7 +63,8 @@ Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtin�
 - id: c-168744
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 30."
   citata_originali: |
     Žymesnieji buržuazinės istoriografijos atstovai, lai­
     kydamiesi tokios didžiavalstybinės pažiūros, vadino
@@ -91,7 +92,8 @@ Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtin�
 - id: c-178650
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 30."
   citata_originali: |
     Iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio­
     navo Ukrainos prijungimą prie Lenkijos, pripažino ka­

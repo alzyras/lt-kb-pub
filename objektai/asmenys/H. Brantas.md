@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae7dc7c9986b18f9aba1e6f6"
+canonical_name: "H. Brantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["H. Brantas"]
+sameAs: []
+canonical_biography: "Branto kavaleriją, kuri pradėjo trauktis. Raiteliai bėga pirmi, pavadžiais suraginę žirgus, Trypia pėsčiuosius kely, ir veltui suomių vadovas Brantas juos sulaikyt mėgina, prašydamas šitaip: „Jus maldauju vardu aš Karolio, jūsų karaliaus, Liaukitės bėgt, juk jūsų tiek daug, - jų pulkit saujelę“."
 ---
 # H. Brantas
 
@@ -50,7 +57,8 @@ Branto kavaleriją, kuri pradėjo trauktis. Raiteliai bėga pirmi, pavadžiais s
 - id: c-44339
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 108."
   citata_originali: |
     Tuomet didžiojo etmono dėmesys buvo
     nukreiptas į lietuvių dešinįjį sparną. Ar su-

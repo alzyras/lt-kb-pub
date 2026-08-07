@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0579221c43915770badd4bc1"
+canonical_name: "Tilemanas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Tilemanas"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad temos pagrindą sudarė ištraukos iš Tilemano, Muratoriaus ir kitų autorių."
 ---
 # Tilemanas
 
@@ -61,7 +68,8 @@ Narbutas nurodo, kad temos pagrindą sudarė ištraukos iš Tilemano, Muratoriau
 - id: c-174791
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     1
     Delle Rivoluzioni d’Italia, di Carlo Denina in Venezia. 1784,

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e3bd8debaad2c508f9b02d20"
+canonical_name: "Liudvikas iš Šipeno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas iš Šipeno"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje."
 ---
 # Liudvikas iš Šipeno
 
@@ -80,7 +87,8 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
 - id: c-61011
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
 

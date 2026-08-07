@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cba0189c84811dec925f8ec9"
+canonical_name: "Топоров B. H"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Топоров B. H"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia, kad paaiškinimą III, 183; ant Rambyno po akmeniu yra „velnio buveinė” — Remeika J., Ką kalneliai..., p. 19; mitologinis personažas su šaknim vėlnuolat figūruoja vad. „pagrindiniame” mite — Топоров B. Dusburgietis teigia, kad turėdami omenyje prūsų dievų triadą (Patulas, Patrimpas, Perkūnas) ir dievus „žemininkus“ (Greimas A., Apie dievus..., p. 166—179; Топоров B."
 ---
 # Топоров B. H
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
 - id: c-159305
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
   citata_originali: |
     Panemunėje esama Rambyno (žr. paaiškinimą III, 183; ant Rambyno po akmeniu yra
     „velnio buveinė” — Remeika J., Ką kalneliai..., p. 19; mitologinis personažas su šaknim
@@ -68,7 +76,8 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
 - id: c-159307
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
   citata_originali: |
     Analizuojant XIII—XIV a. 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią
     antropomorfinę dievybę, panašią  į krikščioniškąjį dievą (Łowmiański H. Elementy..., p.

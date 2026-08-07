@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a8e6cf8a5465eb79c477d7cd"
+canonical_name: "Liudvikas iš Baldensheimo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas iš Baldensheimo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolį Liudviką, septintą Prūsijos žemės magistrą Brolis Liudvikas iš Baldensheimo, septintas Prūsijos magistras, vadovavo nuo 1265 viešpaties metų šešerius metus396."
 ---
 # Liudvikas iš Baldensheimo
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad apie brolį Liudviką, septintą Prūsijos žemės magi
 - id: c-61010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 129."
   citata_originali: |
     124 (119). Apie brolį Liudviką, septintą Prūsijos žemės magistrą
     Brolis Liudvikas iš Baldensheimo, septintas Prūsijos magistras, vadovavo nuo

@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-83200
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 142."
   citata_originali: |
     Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi
     žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­

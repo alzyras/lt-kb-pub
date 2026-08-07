@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c6bffd7f9cfab841cdc527a7"
+canonical_name: "Toržokas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Toržokas"]
+sameAs: []
+canonical_biography: "Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste."
+place_authority: true
+historical_names: []
 ---
 # Toržokas
 

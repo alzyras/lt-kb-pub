@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4b3eefec58d45ad4f50da305"
+canonical_name: "A. Hitleris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Hitleris"]
+sameAs: []
+canonical_biography: "Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje ir Latvijoje, regione A. Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendinimo gali išnaikinti pusę Europos. Hitleris ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams."
 ---
 # A. Hitleris
 
@@ -138,7 +145,8 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
 - id: c-73347
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 165."
   citata_originali: |
     Taip renkant ypatinguo­sius tautos atstovus buvo labai sun-
     ku išrinkti A. Smetonai priešingą asmenį. Taigi A. Smetona sudarė sau
@@ -158,7 +166,8 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
 - id: c-73349
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 182-183"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 182-183."
   citata_originali: |
     Tačiau pokyčius vyriausybėje valdžia
     ir opozicija suvokė skirtingai. Autoritarinės valdžios supratimu, bendras
@@ -183,7 +192,8 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
 - id: c-73350
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 182."
   citata_originali: |
     kraštą, pagrasinus, kad vokiečių kariuomenė priešingu atveju įžygiuos į
     tą teritoriją ir nežinia kur sustos, 5 valandas trukusiame Ministrų kabi-
@@ -205,7 +215,8 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
 - id: c-73351
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 183."
   citata_originali: |
     Neutralumo politika ir
     Molotovo–Ribentropo paktas
@@ -232,7 +243,8 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
 - id: c-73352
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 181."
   citata_originali: |
     Plebiscitas Saro krašte ir jo prijungimas prie Vokietijos išgąsdino
     Lietuvos vadovus. A. Smetona privačiai 1935 m. A. Hitlerį apibūdino

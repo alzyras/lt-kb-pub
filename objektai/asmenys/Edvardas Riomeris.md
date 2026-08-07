@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0bab0ffb9fdb5666583d756a"
+canonical_name: "Edvardas Riomeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Edvardas Riomeris"]
+sameAs: []
+canonical_biography: "Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­ onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­ kas."
 ---
 # Edvardas Riomeris
 
@@ -61,7 +68,8 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
 - id: c-83636
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     Be to,
     politiniai įvykiai kuriam laikui visiškai sustabdė istorijos leidi­

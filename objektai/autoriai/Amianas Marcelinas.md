@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-076b8455ef10cf6aa133cefe"
+canonical_name: "Amianas Marcelinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Amianas Marcelinas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnų kelią per Dneprą ir alanų kraštą pas Saporą. Teodoras Narbutas rašo, kad Amianas Marcelinas XXXI knygoje mini agatirus, kuriuos Narbutas tapatino su agazirais. Amianas Marcelinas priklausė minėtai tautai."
 ---
 # Amianas Marcelinas
 
@@ -32,7 +39,7 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
 <a id="claim-t-191527"></a>
 - t-001
   teiginys: "Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnų kelią per Dneprą ir alanų kraštą pas Saporą."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -112,7 +119,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
 - id: c-174409
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Naru­
     ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
@@ -138,7 +146,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
 - id: c-174410
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Apie juos jis pateikia tokių iš senovės rašytojų su­
     rinktų žinių: jie gyveno ikikrikščioniškosios eros amžiais

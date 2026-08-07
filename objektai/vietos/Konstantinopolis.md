@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c51f2098d23dcca87e99f1e2"
+canonical_name: "Konstantinopolis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Konstantinopolis"]
+sameAs: []
+canonical_biography: "Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o su ja žlugo ir unija. Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis."
+place_authority: true
+historical_names: []
 ---
 # Konstantinopolis
 
@@ -186,7 +195,8 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 133."
   citata_originali: |
     Bet kai Ciprijonas mirė (1406), tai Vytautas,
     kovojęs tuo laiku su Maskva dėl Okos ir Ugros aukštupių, pa­
@@ -213,7 +223,8 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 134."
   citata_originali: |
     patriarchą, o Focijui nurašė raštą, atsisakydami klausyti. Bet
     Konstantinopolio stačiatikių sinodas ne tik kad nepaskyrė Cem­
@@ -233,7 +244,8 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - id: c-161143
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 60."
   citata_originali: |
     Lietuva tuo laiku duoklę
     mokėjo Polocko kunigaikščiams, o
@@ -274,7 +286,8 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - id: c-161144
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
   citata_originali: |
     42. Apie Konstantinopolio miesto atgavimą
 
@@ -292,7 +305,8 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - id: c-161148
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
   citata_originali: |
     Apie viešpaties erškėčių vainiko perkėlimą
 
@@ -314,7 +328,8 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - id: c-167549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
   citata_originali: |
     Apie Konstantinopolio miesto užėmimą
 

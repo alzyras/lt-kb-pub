@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-94fa2275a366e110e4a52b86"
+canonical_name: "Hamilkaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hamilkaras"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyšulį ir atrado Britaniją bei Airiją. Hamilkaras pasuko į pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų 1 Strabo."
 ---
 # Hamilkaras
 
@@ -65,7 +72,8 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
 - id: c-174158
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 154."
   citata_originali: |
     Antras keliautojas, kurio pavardė
     Hamilkaras, su antru žygio būriu išvyko į šiaurę. Jis ap­
@@ -85,7 +93,8 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
 - id: c-179317
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
   citata_originali: |
     Iš ten jis pasuko
     į pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų

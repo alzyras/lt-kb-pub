@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c6bc2e7782273e07b62291a"
+canonical_name: "Kleckas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kleckas"]
+sameAs: []
+canonical_biography: "Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu. 1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius. Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti."
+place_authority: true
+historical_names: []
 ---
 # Kleckas
 
@@ -142,7 +151,8 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
 - id: c-177470
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 250."
   citata_originali: |
     Tad paskubomis susirinko 10 000 bajorų,
     kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­
@@ -164,7 +174,8 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
 - id: c-177471
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Galiausiai apie liepos 20-22 d. jie sustojo.
     Vietą savo stovyklavietei jie pasirinko prie
@@ -195,7 +206,8 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
 - id: c-177472
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 75."
   citata_originali: |
     Bendras vidaus politinis
     gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
@@ -216,7 +228,8 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
 - id: c-177473
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 250."
   citata_originali: |
     Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
     Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
@@ -236,7 +249,8 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
 - id: c-177475
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273-274"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273-274."
   citata_originali: |
     Šaltinių sąrašas 271
 
@@ -258,7 +272,8 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
 - id: c-177477
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 280-282"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 280-282."
   citata_originali: |
     Po šios
     džiugios naujienos buvo įvairiausiai

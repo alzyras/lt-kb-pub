@@ -58,7 +58,8 @@ Studija „Vytauto šeimyna“ sulaukė plataus dėmesio ir buvo atspausta iš 1
 - id: c-33750
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 68."
   citata_originali: |
     «Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo
     tyrinėjimų vaisių »^82.

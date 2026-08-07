@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4259a61873aad0eda1d63b75"
+canonical_name: "Svečė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Svečė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems. Dusburgietis teigia, kad kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių ir 10 laivų. Dusburgietis teigia, kad žvalgai sugrįžę pranešė, kad Sventopelkas su galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs."
+place_authority: true
+historical_names: []
 ---
 # Svečė
 
@@ -96,7 +105,8 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - id: c-59111
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
   citata_originali: |
     Dar kartų apie tą patį
     Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,
@@ -117,7 +127,8 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - id: c-59112
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Kadangi
     klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
@@ -138,7 +149,8 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - id: c-167593
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95."
   citata_originali: |
     Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
     Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs

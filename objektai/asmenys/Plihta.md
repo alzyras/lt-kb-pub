@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-917f41cd2319d0da7bdac452"
+canonical_name: "Plihta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Plihta"]
+sameAs: []
+canonical_biography: "Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir daug kitų riterių."
 ---
 # Plihta
 
@@ -62,7 +69,8 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 - id: c-83812
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 82."
   citata_originali: |
     IV Band,
     p. 358-376).

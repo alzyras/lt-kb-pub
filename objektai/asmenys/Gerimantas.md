@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-20b3095986e4f4086103808b"
+canonical_name: "Gerimantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gerimantas","Gerimanto","kunigaikštis Gerimantas"]
+sameAs: []
+canonical_biography: "Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniaus Perkūno šventyklos statybą. Šie teiginiai priklauso Narbuto perteikiamai religinei ir legendinei tradicijai, todėl viešai formuluojami kaip šaltinio pasakojimas."
 ---
 # Gerimantas
 
@@ -107,7 +114,8 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
 - id: c-170889
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
   citata_originali: |
     Prie šventyklos įėjimo buvo Krivių
     Krivaičio - žynių žynio rūmas. Tas rūmas turėjo apvalų bokš­
@@ -133,7 +141,8 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
 - id: c-171424
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
   citata_originali: |
     Tas rūmas turėjo apvalų bokš­
     tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­

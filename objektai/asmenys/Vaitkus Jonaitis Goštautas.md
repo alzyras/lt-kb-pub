@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4fc40d247693985c406bfc13"
+canonical_name: "Vaitkus Jonaitis Goštautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaitkus Jonaitis Goštautas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Vaitkus Jonaitis Goštautas
 

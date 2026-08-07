@@ -62,7 +62,8 @@ Nenurodyta
 - id: c-177200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
   citata_originali: |
     Manyta, kad tai
     senųjų pilies savininkų herbas. Moteris apsirengusi romėniš­

@@ -51,7 +51,8 @@ Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija
 - id: c-72111
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 386"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 386."
   citata_originali: |
     Lietuvos iždininkas visas krašto pajamas paimdavo į
     savo rankas, o Lenkijoje pajamos buvo laikomos pavietų kasose,

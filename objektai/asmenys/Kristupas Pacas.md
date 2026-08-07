@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-11e841bffc6f96674c2741b2"
+canonical_name: "Kristupas Pacas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristupas Pacas"]
+sameAs: []
+canonical_biography: "Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gražųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas Mykolas pastatė taip pat gražiausią Vilniuje barokinę šv. Vienas iš jų, Mykolas, buvo hetmonas ir Vilniaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, — Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas, o penktas, Petras, — Žemaičių seniūnas."
 ---
 # Kristupas Pacas
 
@@ -69,7 +76,8 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 - id: c-76182
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 370."
   citata_originali: |
     Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
     piegos. Jonui Kazimierui atsisakant nuo sosto, Lietuvoje va-
@@ -89,7 +97,8 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 - id: c-76183
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
   citata_originali: |
     Lietuvos teritoriją, todėl 1656 m. kilo Žemaičių sukilimas, padaręs
     švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat
@@ -110,7 +119,8 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 - id: c-76184
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 373."
   citata_originali: |
     Už jų
     pečių tuomet jau stovėjo visa Lietuva, nes, grįždamas iš elek-

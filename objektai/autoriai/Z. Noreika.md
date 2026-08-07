@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df85f206a48edbef3997a353"
+canonical_name: "Z. Noreika"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Z. Noreika"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad noreika ir V."
 ---
 # Z. Noreika
 
@@ -57,7 +64,8 @@ Dusburgietis teigia, kad noreika ir V.
 - id: c-61456
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
   citata_originali: |
     Lietuvos TSR administracinio-teritorinio suskirstymo Žinynas / Parengė Z. Noreika ir
     V. Stravinskas.— D. 2 — V., 1976.

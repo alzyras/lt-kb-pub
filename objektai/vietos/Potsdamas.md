@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5279b23b00f40b5c9ab06c42"
+canonical_name: "Potsdamas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Potsdamas"]
+sameAs: []
+canonical_biography: "Kalibras - 17,4 mm. Pagamintas Potsdame."
+place_authority: true
+historical_names: []
 ---
 # Potsdamas
 
@@ -51,7 +60,8 @@ Kalibras - 17,4 mm. Pagamintas Potsdame.
 - id: c-40335
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 143."
   citata_originali: |
     Prūsiškas karabinas su titnagine spyna. Kalibras - 17,4 mm. Pagamintas Potsdame. XVIII a. antrojoje
     pusėje LDK daugumą šaunamųjų ginklų, skirtų pėstininkams ir kavalerijai, pirkdavo iš Prūsijos gamintojų.

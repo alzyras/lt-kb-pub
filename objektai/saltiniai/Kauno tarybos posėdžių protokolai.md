@@ -47,9 +47,9 @@ Taryba kasmet iš miesto piliečių rinkdavo 2 turgaus prižiūrėtojus (inspekt
 ## Citatos
 
 - id: c-185631
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 257"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 257."
   citata_originali: |
     Taryba kasmet iš miesto piliečių rinkdavo 2 turgaus prižiūrėtojus (inspektores Jori),
     tvarką turguje prižiūrėti jiems padėdavo samdyti miesto tarnai. 1609 m. Kauno tarybos

@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0fa694f21a22a256ff7aeeac"
+canonical_name: "Pabaltijys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pabaltijys"]
+sameAs: []
+canonical_biography: "Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir persikeltų į Rusijos tyrus ginti Europos nuo totorių."
+place_authority: true
+historical_names: []
 ---
 # Pabaltijys
 
@@ -72,7 +81,8 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
 - id: c-166279
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 100."
   citata_originali: |
     Bet klaidinga buvo manyti, kad apie lietuvių tautos
     praeitį tegalima pradėti kalbėti tik nuo tada, kai prasideda patiki­
@@ -95,7 +105,8 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
 - id: c-175964
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 105."
   citata_originali: |
     Delegacija neat-
     vyko į Lietuvą, bet sustojo pakeliui pas kryžiuočius. Prasidė-

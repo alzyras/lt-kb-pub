@@ -92,7 +92,8 @@ Aprašymai pateikiami Volianskio perduotų ar cituotų radinių kontekste.
 - id: c-174953
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 487"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 487."
   citata_originali: |
     Trečiasis [radinys] to paties asmens man duotas yra su tokiu ap­
     rašymu: „Pakabutis toks, kaip ir Berlyno muziejuje, tačiau rai­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ac283fba1ba69f333e3914e"
+canonical_name: "Dusburgiečio kronikos perdirbinio autorius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dusburgiečio kronikos perdirbinio autorius"]
+sameAs: []
+canonical_biography: "Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasakojime krivį vadino „kilmingesniu iš jų“ ir praleido srities pavadinimą. Narbutas Dusburgiečio perdirbinėtojo įterptą nobilior aiškina kaip ženklą, kad žodis quidam jam atrodė nepakankamas. O todėl ne pritiktų kartoti nevykusį kronikininko palyginimą ir vadinti kri vį „Siaurės popiežiumi“, kaip tai kai kas yra padaręs."
 ---
 # Dusburgiečio kronikos perdirbinio autorius
 
@@ -53,7 +60,7 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
 <a id="claim-t-190385"></a>
 - t-002
   teiginys: "Narbutas Dusburgiečio perdirbinėtojo įterptą nobilior aiškina kaip ženklą, kad žodis quidam jam atrodė nepakankamas."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -99,7 +106,8 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
 - id: c-173267
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 409"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 409."
   citata_originali: |
     Toks didelis buvo jo autoritetas, kad ne
     tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo kri­
@@ -140,7 +148,8 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
 - id: c-173268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 412."
   citata_originali: |
     Tad atlei­
     džiame Dusburgiečiui šį palyginimą, kaip jam būdingą, kaip

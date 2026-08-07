@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0b51c769b234eb2d6fec32a7"
+canonical_name: "Tadas Korsakas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["T. Korsakas","Tadas Korsakas"]
+sameAs: []
+canonical_biography: "Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltinis jį vadina veikiausiu pataisos autoriumi ir vėliau mini kaip Gegužės trečiosios konstitucijos pataisos autorių."
 ---
 # Tadas Korsakas
 
@@ -107,7 +114,8 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - id: c-70108
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 97."
   citata_originali: |
     Vasarą rusų ir prūsų kariuomenės per-
     ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
@@ -127,7 +135,8 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - id: c-166739
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 92."
   citata_originali: |
     1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
     kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio

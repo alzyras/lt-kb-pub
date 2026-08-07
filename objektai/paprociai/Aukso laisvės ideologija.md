@@ -65,7 +65,8 @@ Nenurodyta
 - id: c-67096
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 367."
   citata_originali: |
     Nie-
     kas nesirūpino perorganizuoti valstybės. Laisvės ideologai matė

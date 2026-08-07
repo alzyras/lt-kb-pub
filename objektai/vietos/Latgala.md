@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2e97973955174a2aca1bffa1"
+canonical_name: "Latgala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Latgala"]
+sameAs: []
+canonical_biography: "Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai. Senovės tyrinėtojai Uždauguvį skirstė taip: kraštas Soletsa prie jūros, pats šiauriausias; pakrante nusitęsusi žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė se — Toloma; rytinėje dalyje — tikroji Latgala1."
+place_authority: true
+historical_names: []
 ---
 # Latgala
 
@@ -65,7 +74,8 @@ media_all_json: |-
 - id: c-02773
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 350."
   citata_originali: |
     Batoro laikais. Tik labai suma-
     žėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji
@@ -83,7 +93,8 @@ media_all_json: |-
 - id: c-179381
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 290."
   citata_originali: |
     Sis
     pavadinimas kilęs iš latviškų žodžių Liatwin gals, Lie­

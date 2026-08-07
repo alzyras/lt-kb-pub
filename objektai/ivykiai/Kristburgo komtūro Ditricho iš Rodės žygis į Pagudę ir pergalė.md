@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-63660
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
   citata_originali: |
     Paimtieji į nelaisvę
     prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią
@@ -85,7 +86,8 @@ Nenurodyta
 - id: c-63661
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
   citata_originali: |
     Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
     patraukė su šimtine brolių bei maldininkų žygin ir, apiplėšęs Pagudės žemę, pasuko

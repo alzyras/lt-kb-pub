@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f01661b413cb847cd686986d"
+canonical_name: "Henrikas I Paukštininkas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas I Paukštininkas"]
+sameAs: []
+canonical_biography: "Vokietijos miestai, iki Ka­ rolio Didžiojo beveik nežinomi, vėliau, X amžiuje, valdant im­ peratoriui Henrikui I, pramintam Paukštininkų, taip sustiprėjo, kad sulaikydavo vengrų antpuolius, o pastarojo įpėdinių dėl įvairių priežasčių nuolat remiami, tiesa."
 ---
 # Henrikas I Paukštininkas
 
@@ -51,7 +58,8 @@ Vokietijos miestai, iki Ka­ rolio Didžiojo beveik nežinomi, vėliau, X amžiu
 - id: c-83667
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 21."
   citata_originali: |
     Šitaip nusikračius feodalinės priespaudos pančių Lombar­
     dijoje ir Prancūzijoje, miestų iškilimas šiuose kraštuose davė

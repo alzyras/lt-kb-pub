@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-62dac669a696629481d10c7e"
+canonical_name: "Alenšteinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alenšteinas"]
+sameAs: []
+canonical_biography: "Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.."
+place_authority: true
+historical_names: []
 ---
 # Alenšteinas
 
@@ -76,7 +85,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 101."
   citata_originali: |
     Toji pati taryba turėjo išspręsti ir tolimesnį kariuome­
     nių žygiavimą. Buvo nutarta pasitraukti kiek atgal, paskui ei­

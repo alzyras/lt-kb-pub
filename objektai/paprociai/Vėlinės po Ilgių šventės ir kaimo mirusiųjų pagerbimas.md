@@ -47,15 +47,22 @@ Nenurodyta
 <a id="claim-t-189951"></a>
 - t-001
   teiginys: "Narbutas, remdamasis Lasickiu, Vėlines aiškina kaip po Ilgių šventės vykusį viso kaimo mirusiųjų pagerbimą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėlinės po Ilgių šventės ir kaimo mirusiųjų pagerbimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėlinės po Ilgių šventės ir kaimo mirusiųjų pagerbimas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172835
+    - c-172834
 
 <a id="claim-t-189952"></a>
 - t-002
@@ -82,7 +89,8 @@ Nenurodyta
 - id: c-172834
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 387"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 387."
   citata_originali: |
     Tai visiškai primena Antikos žmonių
     Circumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-
@@ -95,14 +103,17 @@ Nenurodyta
   citata_rodoma: "Tai visiškai primena Antikos žmonių\nCircumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-\nlonas bandė išnaikinti Atėnuose, o decemvirai -  Romoje. Be\nšitų iškilmių, kiekviena šventė, išskyrus Rasos šventę, baigda­\nvosi minėjimu mirusiųjų garbei: Lasickis iš savo žinių pateikia\napeigų mirusiųjų garbei, atliekamų po Ilgių šventės, aprašymą.\nTa diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai­\nmas visiems savo mirusiesiems pagerbti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-172835
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 386"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 386."
   citata_originali: |
     Mirusiųjų vėles pir­
     miausia kviesdavo į pirtį, kur kiekvienai iš pakviestųjų buvo pa­
@@ -120,5 +131,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

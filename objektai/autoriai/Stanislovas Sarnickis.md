@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-076493b6313d8260cfad1c89"
+canonical_name: "Stanislovas Sarnickis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Stanislovas Sarnickis"]
+sameAs: []
+canonical_biography: "Pastaboje nurodomas Stanislovo Sarnickio 1587 m. Krokuvoje išleistas veikalas „Annales, sive de origine et rebus gestis Polonorum et Lituanorum“."
 ---
 # Stanislovas Sarnickis
 
@@ -66,7 +73,8 @@ Pastaboje nurodomas Stanislovo Sarnickio 1587 m. Krokuvoje išleistas veikalas �
 - id: c-173288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 499"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 499."
   citata_originali: |
     P. 269** -  Turimas omenyje Stanislovo Sarnickio (1532-1597)
     veikalas (Stanislai Sarnicii. Annales, sive de origi-

@@ -215,7 +215,8 @@ Nenurodyta
 - id: c-11860
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 81."
   citata_originali: |
     Lietuvos kariuomenė [...] paėmė arba nukovė daugybę totorių, sugrįžo į kariuome-
     nės stovyklą prie Klecko, vesdamiesi su savimi daug belaisvių ir turėdami rankas pilnas
@@ -232,7 +233,8 @@ Nenurodyta
 - id: c-43056
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 81."
   citata_originali: |
     Kita vertus, Klecko mūšis buvo pirmoji
 
@@ -260,7 +262,8 @@ Nenurodyta
 - id: c-43057
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 81."
   citata_originali: |
     Bychoveco kro-
     nikos minimas „neapsakomas džiaugsmas
@@ -291,7 +294,8 @@ Nenurodyta
 - id: c-177392
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 169."
   citata_originali: |
     O tada
     kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir,
@@ -317,7 +321,8 @@ Nenurodyta
 - id: c-177393
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 32."
   citata_originali: |
     Tai­
     gi, kuriant legendinių Lietuvos kunigaikščių vardus, lo­
@@ -343,7 +348,8 @@ Nenurodyta
 - id: c-177394
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
   citata_originali: |
     Tą pačią dieną, antradienį didikai su savo ka­
     riuomene nakvojo kaime prie Lipos l9 , nepriėję Male-

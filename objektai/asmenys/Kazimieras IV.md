@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0ea744bb14ebed1ae56681df"
+canonical_name: "Kazimieras IV"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras IV"]
+sameAs: []
+canonical_biography: "26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­. Atrodo, kad Kazimieras IV, kuris nepaprastai mėgo medžioti, vos tik tapęs Lenkijos karaliumi, pirmas pa­ sirinko ten medžioklės buveinę dėl artumo prie sostinės ir pirmas pasistatydino dvarą sau, savo dvariškiams ir medžiokliams. Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau, Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­ vo Rūdninkų vardą, kaip ir nuo jų."
 ---
 # Kazimieras IV
 
@@ -92,7 +99,8 @@ media_all_json: |-
 - id: c-83415
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 270."
   citata_originali: |
     Pasiligojusi Vytauto žmona Julijona bu­
     vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­
@@ -116,7 +124,8 @@ media_all_json: |-
 - id: c-83416
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 48-49"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48-49."
   citata_originali: |
     Betgi yra ir
     Rudamina, miestelis, arba bažnyt­
@@ -162,7 +171,8 @@ media_all_json: |-
 - id: c-83417
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 270."
   citata_originali: |
     Tai kaimas, išsidėstęs tarp dide­
     lių girių, per keturias mylias nutolęs nuo Vilniaus į pietva­

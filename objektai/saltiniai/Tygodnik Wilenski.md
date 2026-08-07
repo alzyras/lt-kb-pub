@@ -132,7 +132,8 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
 - id: c-173377
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
   citata_originali: |
     Luka-
     nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
@@ -156,7 +157,8 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
 - id: c-173714
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
   citata_originali: |
     Istoriniai tyrinėjimai byloja, jog Vladislovas Lokietka, ap-
     1 Leidinyje „Tygodnik Wilenski“ (1817. T. IV. P. 59—64, 78—
@@ -174,7 +176,8 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
 - id: c-173715
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 380."
   citata_originali: |
     Tai netgi leidžia daryti prielaidą, jog minėti broliai
     galėjo priklausyti krivičių tautai ar kuriai kitai su lietu­

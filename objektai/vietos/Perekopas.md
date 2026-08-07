@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f5b250c36a31030bf167a026"
+canonical_name: "Perekopas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Perekopas"]
+sameAs: []
+canonical_biography: "1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu. Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis. 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu."
+place_authority: true
+historical_names: []
 ---
 # Perekopas
 
@@ -105,7 +114,8 @@ media_all_json: |-
 - id: c-92960
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 242."
   citata_originali: |
     Daug jų vyko
     pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­
@@ -129,7 +139,8 @@ media_all_json: |-
 - id: c-92962
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 198."
   citata_originali: |
     Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
     rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
@@ -149,7 +160,8 @@ media_all_json: |-
 - id: c-166462
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 198."
   citata_originali: |
     Nuo jo laikų pra-
     sidėjo Lietuvos nepasisekimai ir traukimasis atgal nuo Maskvos.

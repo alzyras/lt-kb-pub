@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f96f470c4328c0e0fd342560"
+canonical_name: "Aukščiausiosios Tarybos rūmai (institucija)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["AT rūmai","Aukščiausiosios Tarybos","Aukščiausiosios Tarybos rūmai","Aukščiausiosios Tarybos rūmai (institucija)","Parlamento rūmai"]
+sameAs: []
+canonical_biography: "Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 1991 m. gynybos vieta, kurios vidus ir stogas buvo specialiai parengti galimam šturmui."
+place_authority: true
+historical_names: []
 ---
 # Aukščiausiosios Tarybos rūmai (institucija)
 
@@ -91,7 +100,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - id: c-51590
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 257."
   citata_originali: |
     „Visus ginkluotus vyrus surinko AT rūmų fojė, suskirstė penketu-
     kais. Man priskyrė penkis KAD būrio vyrus. Mūsų vieta ir užduotis
@@ -106,7 +116,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - id: c-51591
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 260-261"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 260-261."
   citata_originali: |
     Inžineriniai įtvirtinimai buvo įrenginė-
     jami trimis etapais. Pirmiausia, dar sausio
@@ -131,7 +142,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - id: c-51592
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 257."
   citata_originali: |
     medžiokliniu šautuvu. Ant Aukščiausiosios Tarybos
     stogo pritvirtinti metaliniai strypai turėjo apsunkinti
@@ -147,7 +159,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - id: c-51594
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 257."
   citata_originali: |
     Rengiantis gynybai AT rūsyje buvo įreng-
     tos ginklų remonto ir šovinių, sprogmenų
@@ -164,7 +177,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - id: c-167162
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 257."
   citata_originali: |
     Ant Aukščiausiosios Tarybos
     stogo pritvirtinti metaliniai strypai turėjo apsunkinti

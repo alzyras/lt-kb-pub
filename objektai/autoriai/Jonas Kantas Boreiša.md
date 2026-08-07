@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7cd020f727fb7e17aa6c07a6"
+canonical_name: "Jonas Kantas Boreiša"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jonas Kantas Boreiša"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Jono Kanto Boreišos 1689 m. lotyniškame pamoksle rado iš esmės tą pačią Jogailaičių genealogiją."
 ---
 # Jonas Kantas Boreiša
 
@@ -65,7 +72,8 @@ Narbutas nurodo, kad Jono Kanto Boreišos 1689 m. lotyniškame pamoksle rado iš
 - id: c-173314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
   citata_originali: |
     Gediminas, sekdamas savo didžiųjų protėvių pėdomis, nu­
     kovė neapsakomo didumo taurą ant Tauro kalno Antakalny­

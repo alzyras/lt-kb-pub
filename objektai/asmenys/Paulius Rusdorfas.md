@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7e2b7ab5fac20dd1202e8ba2"
+canonical_name: "Paulius Rusdorfas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Paulius Rusdorfas"]
+sameAs: []
+canonical_biography: "Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės. Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo. 1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy­ tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon 237 ## Puslapis 254 VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos."
 ---
 # Paulius Rusdorfas
 
@@ -130,7 +137,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 - id: c-83431
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252-253"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252-253."
   citata_originali: |
     A
     za srebro i za robotu i za mied' i za wsi
@@ -166,7 +174,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 - id: c-83432
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 253-254"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 253-254."
   citata_originali: |
     54
     Index Cod. Hist. Dipl. Livoniae, T. I,
@@ -216,7 +225,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 - id: c-83433
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 167-168"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 167-168."
   citata_originali: |
     Foe- [Amžinosios vienybės ir santarvės
     dus perpetuae pacis unionis et concor- taikos sutartis tarp Lenkijos karaliaus
@@ -249,7 +259,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 - id: c-173842
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
   citata_originali: |
     Laikui bėgant, Rusios kraštas
     patyrė įvairių pokyčių, galop kryžiuočių laikais tapo be­
@@ -276,7 +287,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 - id: c-179348
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
   citata_originali: |
     Tik 1436 metais Lenkijos karalius Vladis­
     lovas Varnietis iš vienos ir kryžiuočių magistras Povilas

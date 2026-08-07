@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9814fa4db08a8cf98f9f7e5b"
+canonical_name: "Simonas Rozenbaumas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Simonas Rozenbaumas"]
+sameAs: []
+canonical_biography: "Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz). Rozenbaumo) ir baltarusių (D. Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras."
 ---
 # Simonas Rozenbaumas
 
@@ -37,7 +44,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 <a id="claim-t-64057"></a>
 - t-001
   teiginys: "Simonas Rozenbaumas buvo Lietuvos delegacijos narys žydas, kurio argumentais lietuviai rėmėsi derybose su Sovietų Rusija."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1795 m."
@@ -49,7 +56,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 <a id="claim-t-64058"></a>
 - t-002
   teiginys: "Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -82,7 +89,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 - id: c-64923
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
     dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją
@@ -108,7 +116,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 - id: c-64924
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 167."
   citata_originali: |
     Tačiau tai ir vieni, ir kiti darė savanaudiškai, nenu-
     matydami bendros strateginės partnerystės.
@@ -127,7 +136,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 - id: c-64925
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 142."
   citata_originali: |
     Lietuvai pripažinta teritorija buvo gana
     artima 1795 m. teritorijai. Tačiau už tai A. Jofė paprašė karinės sąjungos
@@ -150,7 +160,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 - id: c-166962
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 167."
   citata_originali: |
     Galima sakyti, kad dvi svarbiausios užsienio politikos problemos –
     Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį. Netu-

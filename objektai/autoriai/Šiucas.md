@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a4e1271789b1a7a1b5f6c0e4"
+canonical_name: "Šiucas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Šiucas"]
+sameAs: []
+canonical_biography: "Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdamas apie ąžuolą netoli Vėluvos. Šiucas buvo ir lietuvių valdovų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytautaitis, kuris valdė Pskovo žemę apie 1342 metus27 28."
 ---
 # Šiucas
 
@@ -73,7 +80,8 @@ Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdama
 - id: c-173207
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 239."
   citata_originali: |
     Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už
     Baublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­
@@ -91,7 +99,8 @@ Narbutas Šiucą mini kartu su Treteriu, Henenbergeriu ir Hartknochu, kalbėdama
 - id: c-179142
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
   citata_originali: |
     Tas žodis gali turėti ryšį
     su Hirijos (Hirrya), arba Jurijos (Juhrya), šalimi, kuri buvo prie

@@ -104,7 +104,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 45."
   citata_originali: |
     Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
     spalių mėn. 21 d. Tapiau miestelyje Vytautą be jokių iškilmių
@@ -123,7 +124,8 @@ media_all_json: |-
 - id: c-167103
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     Strėvos mūšį.
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
@@ -139,7 +141,8 @@ media_all_json: |-
 - id: c-167219
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 47."
   citata_originali: |
     Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
     tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos

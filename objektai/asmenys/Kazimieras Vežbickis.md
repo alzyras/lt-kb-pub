@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-13ba258a058c86158bf996c5"
+canonical_name: "Kazimieras Vežbickis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras Vežbickis"]
+sameAs: []
+canonical_biography: "Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą Minsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­ reigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po 100 auksinų kolegija duotų knygoms įsigyti; tad šie."
 ---
 # Kazimieras Vežbickis
 
@@ -61,7 +68,8 @@ Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blo
 - id: c-83731
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 200-201"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 200-201."
   citata_originali: |
     F) Žinios apie Bibliotekai funduotus
     pradinius turtus ir pajamas

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a95d4e2be3df5c3cc80b06b7"
+canonical_name: "Dormunimundas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dormunimundas"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime Imino vaikaitis Dormunimundas valdė Žemaitijoje ir buvo Liutauro tėvas."
 ---
 # Dormunimundas
 
@@ -62,7 +69,8 @@ Narbuto pasakojime Imino vaikaitis Dormunimundas valdė Žemaitijoje ir buvo Liu
 - id: c-173026
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
   citata_originali: |
     Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
     tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o

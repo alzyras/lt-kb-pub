@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-61c776183baeba5118c0a93e"
+canonical_name: "Benjaminas iš Tudelio"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Benjaminas iš Tudelio"]
+sameAs: []
+canonical_biography: "Benjaminas iš Tudelio, žydų kilmės ke liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd)."
 ---
 # Benjaminas iš Tudelio
 
@@ -55,7 +62,8 @@ Benjaminas iš Tudelio, žydų kilmės ke liauninkas, tvirtina, kad 1160 metais 
 - id: c-176900
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 23-24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 23-24."
   citata_originali: |
     7
 

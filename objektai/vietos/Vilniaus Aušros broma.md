@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c50d75b49699f973d71c5ef"
+canonical_name: "Vilniaus Aušros broma"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus Aušros broma","Vilniaus Aušros bromos Dievo Motinos"]
+sameAs: []
+canonical_biography: "Vilniaus Aušros broma pateikiama kaip šventa vieta, iš kurios parnešamas palaiminimas."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus Aušros broma
 

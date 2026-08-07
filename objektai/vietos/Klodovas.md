@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8938398802509e870d6cca30"
+canonical_name: "Klodovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Klodovas"]
+sameAs: []
+canonical_biography: "Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam bet ir kai kuriais padavimais ar užuominomis, kurias aptikau Vil­ niaus kapitulos ar Karaliauč."
+place_authority: true
+historical_names: []
 ---
 # Klodovas
 
@@ -51,7 +60,8 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
 - id: c-82177
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127-128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127-128."
   citata_originali: |
     Karalius tuoj pat
     aprūpino ją nemenkomis pajamomis: be turtingos Klodovo

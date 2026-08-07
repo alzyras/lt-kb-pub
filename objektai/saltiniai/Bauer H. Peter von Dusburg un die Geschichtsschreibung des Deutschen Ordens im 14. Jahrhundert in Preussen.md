@@ -58,7 +58,8 @@ Dusburgietis teigia, kad pAPILDYMAS Bauer H.
 - id: c-61683
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 287."
   citata_originali: |
     PAPILDYMAS
 

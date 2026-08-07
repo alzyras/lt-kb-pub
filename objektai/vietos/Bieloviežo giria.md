@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7120fc7673e827340f1d9a6b"
+canonical_name: "Bieloviežo giria"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bieloviežo giria"]
+sameAs: []
+canonical_biography: "Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų. Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų."
+place_authority: true
+historical_names: []
 ---
 # Bieloviežo giria
 
@@ -78,7 +87,8 @@ Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti s
 - id: c-170263
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 109-110"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 109-110."
   citata_originali: |
     Paskui didysis kunigaikštis Vytautas pasikvietė ka­
     ralių Jogailą 1  žiemai pas save į Bieloviežo girią me­

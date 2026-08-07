@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f1417323f0543f72a668fac8"
+canonical_name: "Chomskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Chomskas"]
+sameAs: []
+canonical_biography: "Oginskis spėjo sutelkti Chomske, ėmė supti Rusijos kariuomenės daliniai."
+place_authority: true
+historical_names: []
 ---
 # Chomskas
 
@@ -51,7 +60,8 @@ Oginskis spėjo sutelkti Chomske, ėmė supti Rusijos kariuomenės daliniai.
 - id: c-45053
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 143."
   citata_originali: |
     Mūšis
 

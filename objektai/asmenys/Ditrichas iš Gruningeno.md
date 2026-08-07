@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fa46542febcc162c40acd55e"
+canonical_name: "Ditrichas iš Gruningeno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas iš Gruningeno"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vieną gražią dieną, bėgdamas nuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597, ten kartą, kai jie visi sėdėjo drauge, atėjo viena."
 ---
 # Ditrichas iš Gruningeno
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad vieną gražią dieną, bėgdamas nuo žmonių spūstie
 - id: c-60898
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
   citata_originali: |
     Vis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.
     Šitaip brolis Konradas palinko į Teutonų namų ordiną. Vieną gražią dieną, bėgdamas

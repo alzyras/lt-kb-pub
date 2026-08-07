@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-21bbc40c7e5c0ceb9074d9d8"
+canonical_name: "Bouso kapinės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bouso kapinės"]
+sameAs: []
+canonical_biography: "Pasak Narbuto, Bouslaviškių kaimiečiai kvadratinį kapą lietuviškai vadino vado Bouso kapinėmis (Kapinies Wade Boussa)."
+place_authority: true
+historical_names: []
 ---
 # Bouso kapinės
 
@@ -55,7 +64,8 @@ Pasak Narbuto, Bouslaviškių kaimiečiai kvadratinį kapą lietuviškai vadino 
 - id: c-171870
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
   citata_originali: |
     Mano kaimo, vadinamo Bouslaviškėmis (Bouslawiszki), že­
     mėje yra kvadratinis kapas, 20 pėdų ilgio, be aiškaus sampilo,

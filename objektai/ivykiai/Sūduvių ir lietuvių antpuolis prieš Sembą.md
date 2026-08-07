@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-63160
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
   citata_originali: |
     Apie Sembos žemės nusiaubimą
     Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami

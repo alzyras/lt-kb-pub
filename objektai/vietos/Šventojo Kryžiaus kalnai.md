@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5167b7e02c0ddef8bf235719"
+canonical_name: "Šventojo Kryžiaus kalnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventojo Kryžiaus kalnai"]
+sameAs: []
+canonical_biography: "Šventasis Kryžius lokalizuojamas kalnų keteroje, vadinamoje Lysogory arba Šventojo Kryžiaus kalnais."
+place_authority: true
+historical_names: []
 ---
 # Šventojo Kryžiaus kalnai
 
@@ -31,14 +40,14 @@ media_all_json: |-
 <a id="claim-t-200391"></a>
 - t-001
   teiginys: "Šventojo Kryžiaus kalnai yra Lenkijos Kielcų vaivadijos kalnų ketera, kurioje yra 593 m aukščio Šventojo Kryžiaus viršūnė."
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie Šventojo Kryžiaus kalnų keterą ir joje esančią viršūnę. Citatoje minimi vienuolynas bei relikvija sąmoningai nepridėti."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-183687
 

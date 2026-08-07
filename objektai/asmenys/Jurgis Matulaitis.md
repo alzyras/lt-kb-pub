@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e3144f0a1f80286a44423a1e"
+canonical_name: "Jurgis Matulaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Matulaitis"]
+sameAs: []
+canonical_biography: "Tik jų įpėdiniai iki pat 1918 m. (Jurgio Matulaičio paskyrimas) jau nebesirūpino teisėmis lietuvių kalbos, kurią ilgai kalbėjo didelė dalis vyskupijos tikinčiųjų."
 ---
 # Jurgis Matulaitis
 
@@ -60,7 +67,8 @@ Tik jų įpėdiniai iki pat 1918 m. (Jurgio Matulaičio paskyrimas) jau nebesir�
 - id: c-32765
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 297."
   citata_originali: |
     Abu pirmieji Vilniaus vyskupai buvo pranciškonai
     (Andrius Vosila, Jokūbas Plichta), jau nuo anksčiau gyvenę Lie­

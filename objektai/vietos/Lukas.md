@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7566fcf0e80ea6aebe39ddf7"
+canonical_name: "Lukas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lukas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų upių, tai yra tarp Luko530 ir Narevo, jų ten tykojo aštuonetą dienų, smarkiai piktindamiesi ir didžiai trūkdami maisto. Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą, voros priekyje žygiavęs lietuvis. Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo šią vietą, voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia 530 D.— inter [...] fluvios [...] Lickam et Naram; vėliau vok. Lyck, dab. Elkas (Elk), deš. Bebro intakas."
+place_authority: true
+historical_names: []
 ---
 # Lukas
 
@@ -32,7 +41,8 @@ Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų u
 - id: c-59220
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 181."
   citata_originali: |
     Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,
     voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia

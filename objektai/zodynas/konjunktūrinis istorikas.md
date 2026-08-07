@@ -58,7 +58,8 @@ media_all_json: |-
 - id: c-93928
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 73."
   citata_originali: |
     Ilgai (iki 1940 m.) neturėdamas pastovaus atlyginimo, Matu­
     sas, kuris turėjo gerą pasiruošimą būti kritišku tyrinėtoju ir gerai

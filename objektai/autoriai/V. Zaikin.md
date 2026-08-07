@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e958c41b937f0f8042c00b4"
+canonical_name: "V. Zaikin"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Zaikin"]
+sameAs: []
+canonical_biography: "Kitas ukrainietis istorikas V. Zai­ kinas rašė iš teisės filosofijos ir religijos istorijos srities, lies­ damas D. Lietuvos Kunigaikštystę^147."
 ---
 # V. Zaikin
 
@@ -50,7 +57,8 @@ Kitas ukrainietis istorikas V. Zai­ kinas rašė iš teisės filosofijos ir rel
 - id: c-33188
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 95."
   citata_originali: |
     Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­
     čių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo

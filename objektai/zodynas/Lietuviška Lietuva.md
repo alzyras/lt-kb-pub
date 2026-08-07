@@ -77,7 +77,8 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
 - id: c-24685
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 171."
   citata_originali: |
     Nė vienų netenkino nuosaikus A. Smetonos autoritarinis re-
     žimas, nors ir dėl visai skirtingų priežasčių.
@@ -98,7 +99,8 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
 - id: c-73308
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 176-177"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 176-177."
   citata_originali: |
     Kauno sporto halėje 1939 m. Lietuvos vyrų
     krepšinio rinktinė antrą kartą tapo Europos čempionais

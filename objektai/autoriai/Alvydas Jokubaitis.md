@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87503a379bddd64e2d0b3342"
+canonical_name: "Alvydas Jokubaitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Alvydas Jokubaitis"]
+sameAs: []
+canonical_biography: "Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos."
 ---
 # Alvydas Jokubaitis
 
@@ -59,7 +66,8 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
 - id: c-25742
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 3-5"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 3-5."
   citata_originali: |
     Alfonsas Eidintas, Alfredas Bumblauskas,
     Antanas Kulakauskas, Mindaugas Tamošaitis

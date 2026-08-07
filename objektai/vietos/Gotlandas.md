@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac941fa6a1dfa8a418e15c2a"
+canonical_name: "Gotlandas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gotlandas"]
+sameAs: []
+canonical_biography: "Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų ekspansiją iš Gotlando ir vidurio Švedijos. O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­ konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui, Greifswaldni, Stettinui ir Gotlando salai)."
+place_authority: true
+historical_names: []
 ---
 # Gotlandas
 
@@ -92,7 +101,8 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 - id: c-32061
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 114."
   citata_originali: |
     Archeolo­
     giniai duomens parodo apie 650 m. prasidedančią didelę švedų
@@ -111,7 +121,8 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 - id: c-157740
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 234."
   citata_originali: |
     Vienas tų
     laiškų (1323.1.24), skirtas «visai krikščionijai», buvo išsiuntinėtas
@@ -129,9 +140,9 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
     - t-001
 
 - id: c-184411
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 183"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 183."
   citata_originali: |
     Mokėjo dar pasigerinti
     diduomenei, kunigaikščiams ir viešpačiams, kurie

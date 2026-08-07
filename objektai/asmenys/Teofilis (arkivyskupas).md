@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-321ef79e17f9e6cf4ddd0987"
+canonical_name: "Teofilis (arkivyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teofilis (arkivyskupas)"]
+sameAs: []
+canonical_biography: "Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas naujas įpėdinis."
 ---
 # Teofilis (arkivyskupas)
 
@@ -80,7 +87,8 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
 - id: c-91984
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 250."
   citata_originali: |
     Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
     tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
@@ -100,7 +108,8 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
 - id: c-91985
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 250."
   citata_originali: |
     Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
     gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­

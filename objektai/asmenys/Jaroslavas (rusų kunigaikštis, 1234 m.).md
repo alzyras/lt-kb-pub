@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba52f9b0398c15d11950f7c3"
+canonical_name: "Jaroslavas (rusų kunigaikštis, 1234 m.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jaroslavas (rusų kunigaikštis, 1234 m.)"]
+sameAs: []
+canonical_biography: "1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuva nukreiptą taiką su vokiečiais (kalavijuočiais)."
 ---
 # Jaroslavas (rusų kunigaikštis, 1234 m.)
 
@@ -64,7 +71,8 @@ media_all_json: |-
 - id: c-44372
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 23."
   citata_originali: |
     Į karinę koaliciją prieš lietuvius įsijungė ir
     šiaurės vakarų rusėnai. 1234 m. rusų ku-

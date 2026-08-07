@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f78e8d38ad08e229484c36f0"
+canonical_name: "Jupiteris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jupiteris"]
+sameAs: []
+canonical_biography: "Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito iš dangaus ir nuskendo Eridane."
 ---
 # Jupiteris
 
@@ -54,7 +61,8 @@ Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito i�
 - id: c-174306
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
   citata_originali: |
     156
     Iš tikrųjų graikų poetai pateikia mitinę ¡sakmę apie

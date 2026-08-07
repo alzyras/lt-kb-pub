@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-be562726b581fd084864c4c4"
+canonical_name: "M. Pečiulionis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. Pečiulionis"]
+sameAs: []
+canonical_biography: "Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiulionio artilerijos, ėmė supti Kaniūkų kaimą, kuriame laikėsi bolševikai."
 ---
 # M. Pečiulionis
 
@@ -59,7 +66,8 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
 - id: c-42115
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 185."
   citata_originali: |
     Dešiniąją koloną sudarė 1-ojo pės-
     tininkų pulko du batalionai, raitųjų
@@ -78,7 +86,8 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
 - id: c-44444
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 185."
   citata_originali: |
     Puolimo eiga . a ;
     raudonosios armijos kario

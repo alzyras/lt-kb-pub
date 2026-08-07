@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-176351
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230-231"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230-231."
   citata_originali: |
     LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos
     ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui. 1979 m.

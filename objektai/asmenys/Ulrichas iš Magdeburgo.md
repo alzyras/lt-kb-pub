@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b8abe660592dcf1a064a6cac"
+canonical_name: "Ulrichas iš Magdeburgo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ulrichas iš Magdeburgo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio stipraus kūno sudėjimo, kad lenkė visus kitus vyrus. Dusburgietis teigia, kad kartą, jam pasilikus su kitais prie minėtųjų laivų, atplaukė penkiais laivais ginkluoti prūsai; kai jie priplaukė su savo laivais arčiau, kėsindamiesi sunaikinti mūsiškius, brolis Ulrichas pagriebė savo laivo stiebą ir pradėjo daužyti jų laivus, o tiek jų."
 ---
 # Ulrichas iš Magdeburgo
 
@@ -90,7 +97,8 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
 - id: c-60846
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 130."
   citata_originali: |
     Apie brolį Ulrichą ir 50 prūsų žūtį
 

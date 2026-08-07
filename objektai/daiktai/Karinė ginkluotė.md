@@ -165,25 +165,8 @@ Nenurodyta
   pagrindžia:
     - c-12235
 
-<a id="claim-t-78665"></a>
-- t-008
-  teiginys: "Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai."
-  atnaujinta: "2026-07-24 15:57"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuviai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karinė ginkluotė: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai kalba apie lietuvių karinę ginkluotę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Karinė ginkluotė priklausė Lietuviai (0.86)"
-  pagrindžia:
-    - c-05216
-
 <a id="claim-t-193744"></a>
-- t-009
+- t-008
   teiginys: "Didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas, po to, žinoma, viską reikėdavo grąžinti."
   atnaujinta: "2026-07-06 13:00"
   sprendimo_priezastis: "auto"
@@ -199,7 +182,8 @@ Nenurodyta
 - id: c-05216
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 145."
   citata_originali: |
     Puikų lietuvių apginklavimą paliudija ir faktas, kad po per­
     galės Livonijoje vokiečių kariuomenė dalinosi lietuvių ginklais.
@@ -209,16 +193,15 @@ Nenurodyta
   citata_rodoma: "Volinijos kunigaikštis Vasilkas Danieliui Romanaičiui pasiuntė\ngrobį iš lietuvių žygio, būtent, arklių su balnais, skydų, šalmų.\nVartojo lietuviai dar ietis ir kardus."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
-
 - id: c-10250
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 270"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 270."
   citata_originali: |
     kurio galvočium^1202 apvožęs savo galvą ir veidą, paskui susiveržė su šikšniniu diržu, ant kurio tiek
         buvo vario grandžių arba sagčių antmautų, kiek buvo karėj neprietelių užmušęs; apsiavęs
@@ -241,7 +224,8 @@ Nenurodyta
 - id: c-10251
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 271"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 271."
   citata_originali: |
     Pėstieji daugiau kariavo rendėtais^1210 brūkliais, kokius gal dar regėti paskuojųjų laikų Lietuvos ūkės žymėj^1211. Artinantis neprieteliui, laidė
   statusas: verified
@@ -255,7 +239,8 @@ Nenurodyta
 - id: c-12233
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     XIII a. Vakarų Europos pėstininko rekonstrukcija.
     Pėstininkai galėdavo būti apsaugoti žieduočio šarvų,
@@ -277,7 +262,8 @@ Nenurodyta
 - id: c-12234
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 37."
   citata_originali: |
     Raitininkas dėvi savo metui būdingus žieduočio
     šarvus ilgomis rankovėmis. Raitelio kojas taip pat
@@ -302,7 +288,8 @@ Nenurodyta
 - id: c-12235
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 45."
   citata_originali: |
     Tuo metu Lietuva ilgą laiką dalyva-
     vo intensyviuose kovos veiksmuose. Todėl ginklai ir ypač šarvai
@@ -319,12 +306,13 @@ Nenurodyta
   pagrindzia:
     - t-005
     - t-007
-    - t-009
+    - t-008
 
 - id: c-12236
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 51."
   citata_originali: |
     xiv a. Europoje įvyko proveržis ginkluotės, o ypač šarvų technolo-
     ginėje raidoje. Ėmė masiškai plisti lakštiniai šarvai (monolitiškais

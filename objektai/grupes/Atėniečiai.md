@@ -54,7 +54,8 @@ Pasak Narbuto cituojamo Plutarcho, atėniečių prijaukinti žalčiai dalyvaudav
 - id: c-172400
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 205."
   citata_originali: |
     Herodotas liudija, kad egiptiečiai tam tikrą žalčių rūšį lai­
     kė dievaičiais. Pasak Plutarcho, pas atėniečius prijaukinti žal­

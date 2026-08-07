@@ -61,7 +61,8 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
 - id: c-82819
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 296."
   citata_originali: |
     Vaito,
     burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­

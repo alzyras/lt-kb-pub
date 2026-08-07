@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf0ba456a25d7efa0e3b3a8e"
+canonical_name: "Santyras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Santyras"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui pripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad tai buvusi vietinio prūso dovana, kiti — kad Santyrą. Dusburgietis teigia, kad todėl dviejų upių santakoje, būtent: Vyslos ir Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems."
+place_authority: true
+historical_names: []
 ---
 # Santyras
 
@@ -77,14 +86,21 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 <a id="claim-t-175396"></a>
 - t-003
   teiginys: "1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, arba šventos Marijos pilimi."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Marienburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Santyras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Marienburgas: mention_match, place, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Santyras\" parinktas kaip owner_note_path. Targetas \"Marienburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1280 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą Santyro pilies perkėlimą ir pervadinimą."
   pagrindžia:
-    - c-159528
+    - c-159527
 
 <a id="claim-t-175397"></a>
 - t-004
@@ -191,7 +207,8 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - id: c-159522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
   citata_originali: |
     Apie laivų kautynes
 
@@ -214,7 +231,8 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - id: c-159523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
     misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
@@ -237,7 +255,8 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - id: c-159524
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
   citata_originali: |
     Sugėdinti prūsai sugrįžo namo. Sventopelkas su savo kariuomene priėjo
     Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas į priekį daug karių bei ginklanešių,
@@ -256,7 +275,8 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - id: c-159527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
   citata_originali: |
     Apie Marienburgo pilies pastatymą
 
@@ -271,14 +291,17 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   citata_rodoma: "Apie Marienburgo pilies pastatymą\n\n  1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,\nkur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios\nšlovei bei garbei ji čia ir buvo perkelta500.\n\n\n\n\n    209 (204)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-159528
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
     įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
@@ -297,12 +320,12 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
 
 - id: c-167582
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo
     sosto legatą ir didįjį magistrą, pranešdami jiems apie naują karą ir Prūsijos žemės

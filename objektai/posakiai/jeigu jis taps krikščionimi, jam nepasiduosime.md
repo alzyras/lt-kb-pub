@@ -59,7 +59,8 @@ Jeigu kronikininkas Wigandas teisingai užrašė, jie dar vidaus karo metu 1382 
 - id: c-93950
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 312."
   citata_originali: |
     Jeigu kronikininkas Wigandas
     teisingai užrašė, jie dar vidaus karo metu 1382 Jogailą buvo įspė­

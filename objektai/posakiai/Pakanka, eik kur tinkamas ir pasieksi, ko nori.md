@@ -50,7 +50,8 @@ Dusburgietis teigia, kad tada sutraukė dvigubai tiek kariuomenės, o jis, ją m
 - id: c-59776
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Kai karalius jį paklausė, rodydamas
     tik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad

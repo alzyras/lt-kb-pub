@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-269715b90920e6f190bc3715"
+canonical_name: "Joabas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Joabas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas."
 ---
 # Joabas
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
 - id: c-60967
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
   citata_originali: |
     19. Apie Baigos pilį
 

@@ -175,7 +175,8 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
 - id: c-175034
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 61."
   citata_originali: |
     Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai,
     yra medų palikuonys, gyvenę prie Dono žemupio ir Juo-

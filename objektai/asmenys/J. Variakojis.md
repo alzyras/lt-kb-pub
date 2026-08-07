@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee50e57b6a585a92557c5292"
+canonical_name: "J. Variakojis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Variakojis"]
+sameAs: []
+canonical_biography: "Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanorių būrį. Variakojo vadovaujamas Panevėžio srities apsaugos būrys gerokai išaugo ir sustiprėjo. Variakojis, tai sužinojęs, nedelsdamas pasiuntė pustrečios kuopos su dviem kulkosvaidžiais užimti miestą."
 ---
 # J. Variakojis
 
@@ -108,7 +115,8 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 - id: c-41967
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 180."
   citata_originali: |
     Pirmasis Panevėžio puolimas
 
@@ -130,7 +138,8 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 - id: c-44365
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 180."
   citata_originali: |
     Mieste 2-3 dienas nebuvo jokios
     ginkluotos jėgos. Karin. J. Variakojis, tai
@@ -149,7 +158,8 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 - id: c-44366
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 195."
   citata_originali: |
     Saločiais-Pašvintiniais. Kpt. J. Variakojo
     vadovaujamas Panevėžio batalio-
@@ -167,7 +177,8 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 - id: c-44367
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 173."
   citata_originali: |
     ## Puslapis 173
 

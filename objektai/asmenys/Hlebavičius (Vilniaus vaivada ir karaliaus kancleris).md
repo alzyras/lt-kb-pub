@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-949a7c127aa87348d71b6259"
+canonical_name: "Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)"]
+sameAs: []
+canonical_biography: "Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilijos upės, tarp karaliaus šunidės ir Vilniaus vaiva­ dos ir karaliaus kanclerio Hlebavičiaus plytinės\", perduotas Paleckio žiniai, karaliaus valia, per Vilniaus gorodničių Povilą."
 ---
 # Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)
 
@@ -58,7 +65,8 @@ Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilij
 - id: c-83669
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 291"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291."
   citata_originali: |
     Duota 1547 metų gegu­
     žės 22 dieną, 5 indikte. Sklypas, skir­

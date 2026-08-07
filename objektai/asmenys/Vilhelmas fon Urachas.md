@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae153ed3c76b176f90803574"
+canonical_name: "Vilhelmas fon Urachas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vilhelmas fon Urachas"]
+sameAs: []
+canonical_biography: "Lietuvos Tarybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami tokias idėjas, remiami katalikų centro Reichstage vadovo Matijo Ercbergerio (Matthias Erzberger), pakvietė Viurtembergo kunigaikštį Vilhelmą fon Urachą (Wilhelm von Urach) užimti."
 ---
 # Vilhelmas fon Urachas
 
@@ -62,7 +69,8 @@ Lietuvos Tarybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami
 - id: c-26688
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 136-137"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 136-137."
   citata_originali: |
     Kovo 23 dieną Berlyne A. Smetonos vadovau-
     jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui

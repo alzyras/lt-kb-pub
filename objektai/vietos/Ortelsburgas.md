@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eacdc56442ef87a5b10212c8"
+canonical_name: "Ortelsburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ortelsburgas"]
+sameAs: []
+canonical_biography: "Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.."
+place_authority: true
+historical_names: []
 ---
 # Ortelsburgas
 
@@ -81,7 +90,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 30."
   citata_originali: |
     Nauja sutartis buvo padaryta dešimčiai metų. Abu ma­
     gistrai (Livonijos ir Prūsų) su didžiaisiais Lietuvos kunigaikš­
@@ -101,7 +111,8 @@ media_all_json: |-
 - id: c-166277
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 260."
   citata_originali: |
     Taip kronikose vėl atsi­
     rado keliatūkstantiniai priešų aukų skaičiai^21. Kad lietuvių nuosto­

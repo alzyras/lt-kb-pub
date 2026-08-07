@@ -38,7 +38,7 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
 <a id="claim-t-20054"></a>
 - t-001
   teiginys: "1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1935 m."
@@ -69,7 +69,8 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
 - id: c-22790
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 176."
   citata_originali: |
     Su stipriausiais finansiškai ir
     organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminin-
@@ -88,7 +89,8 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
 - id: c-166577
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 175."
   citata_originali: |
     Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-
     venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į

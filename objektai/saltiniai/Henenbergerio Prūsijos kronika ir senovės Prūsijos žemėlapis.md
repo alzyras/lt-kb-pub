@@ -89,7 +89,8 @@ Teodoro Narbuto teigimu, XV a. prūsų kronikininkas Henenbergeris nurodė nebee
 - id: c-174720
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 220."
   citata_originali: |
     XV am­
     žiaus prūsų kronikininkas Henenbergeris nurodo dar dau­

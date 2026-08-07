@@ -31,7 +31,8 @@ Ilgai ne­ begalėjo laikytis įprastiniai Vakaruose ordino skleidžiami gandai 
 - id: c-33548
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 311."
   citata_originali: |
     Ja
     reikėjo būtinai pasinaudoti, nes dviejų kaimynų unija ir pagonių

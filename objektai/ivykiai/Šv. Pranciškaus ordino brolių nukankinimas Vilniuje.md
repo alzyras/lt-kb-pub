@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-169153
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 225."
   citata_originali: |
     Kol jis pats gyveno
     Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,

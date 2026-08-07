@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-456853694dc8365e0a55dac7"
+canonical_name: "Paiakas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Paiakas"]
+sameAs: []
+canonical_biography: "Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vadovavo roksolanams kare Skilūro pusėje prieš Mitridatą."
 ---
 # Paiakas
 
@@ -54,7 +61,8 @@ Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vado
 - id: c-174334
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 66."
   citata_originali: |
     51
     Ros-alanai, Seniausia užuomina apie roksolanus, kaip

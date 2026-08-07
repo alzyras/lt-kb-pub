@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-169206250587fa00e80210ea"
+canonical_name: "M. Matulytė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Matulytė"]
+sameAs: []
+canonical_biography: "Matulytė."
 ---
 # M. Matulytė
 
@@ -61,7 +68,8 @@ Matulytė.
 - id: c-22160
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Vilnius, 2010; Vilniaus
     fotografija, 1858–1915. Sud. M. Matulytė. Vilnius, 2001; Vilniaus klasicizmas: parodos

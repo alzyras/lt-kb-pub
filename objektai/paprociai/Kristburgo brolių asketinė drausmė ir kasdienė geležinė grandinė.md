@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-63435
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
   citata_originali: |
     Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį
     menką nusidėjėlį“. Buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo
@@ -118,7 +119,8 @@ Nenurodyta
 - id: c-178994
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
   citata_originali: |
     Todėl susibūrę prūsai pasiuntė didelę kariuomenę ir daugybę
     ginklanešių, turėjusių saugoti vežimus bei ketverinius kinkinius, gabenančius maistą ir
@@ -137,7 +139,8 @@ Nenurodyta
 - id: c-178995
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
   citata_originali: |
     Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.
     Sitai išvydę, broliai ėmė juos vytis, vienus nukovė, kitus paėmė į nelaisvę, o likusieji

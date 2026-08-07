@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b4dbd57dac0e03469e729076"
+canonical_name: "Tochtamyšas (Krymo ordos chanas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tochtamyšas (Krymo ordos chanas)"]
+sameAs: []
+canonical_biography: "Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų jam chaną, vyriausią Tochtamyšo sūnų Saladiną, kuris jo tėvui mirus, buvo pas Vytautą prisiglaudęs. Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, bet paskui jis buvo sumuštas ir išvytas Timur Kotlogo (1395 mt.)."
 ---
 # Tochtamyšas (Krymo ordos chanas)
 
@@ -64,7 +71,8 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 158."
   citata_originali: |
     Nepavykęs Vorsklos mūšis kuriam laikui buvo
     sustabdęs šį Vytauto įsigalėjimą Rusų pietuose. Bet jau 1409

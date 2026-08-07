@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cf909ca22b237df28ac348ec"
+canonical_name: "Boucicaut"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boucicaut"]
+sameAs: []
+canonical_biography: "Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­ du Boucicaut'u nemažai buvo pridarę žalos apgultiesiems, pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir tuščios garbės."
 ---
 # Boucicaut
 
@@ -80,7 +87,8 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
 - id: c-83468
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 141-142"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 141-142."
   citata_originali: |
     —  •  —
     125
@@ -108,7 +116,8 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
 - id: c-83469
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135-136"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135-136."
   citata_originali: |
     Mykolą paskirtas Ordino didžiuoju
     maršalu, 1387 metais per Apreiški­

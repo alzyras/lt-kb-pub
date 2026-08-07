@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e18fd372b100b020498fd078"
+canonical_name: "Dorogobužas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dorogobužas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Dorogobužas
 
@@ -56,7 +65,8 @@ Nenurodyta
 - id: c-168646
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 603"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 603."
   citata_originali: |
     Dėl žymiau­
     siųjų didikų nesutarimų, o ypač dėl to, kad kai kas

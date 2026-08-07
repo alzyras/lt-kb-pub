@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c0115eedd29d93a485be5f3"
+canonical_name: "Vitliandija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vitliandija"]
+sameAs: []
+canonical_biography: "Narbutas spėjo, kad sagos minima Vindliandija arba Vitlanda galėjo būti prūsų provincija Vitliandija prie Priegliaus žiočių."
+place_authority: true
+historical_names: []
 ---
 # Vitliandija
 

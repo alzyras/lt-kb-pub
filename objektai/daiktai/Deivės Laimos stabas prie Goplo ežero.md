@@ -61,12 +61,12 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
 <a id="claim-t-192056"></a>
 - t-001
   teiginys: "Narbutas rašo, kad netoli Krušvicos, prie Goplo ežero, buvo atkastas iš smiltainio iškaltas deivės Laimos stabas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-174927
+    - c-174928
 
 <a id="claim-t-192057"></a>
 - t-002
@@ -128,7 +128,8 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
 - id: c-174927
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 471"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 471."
   citata_originali: |
     Žinoma, jog 1096 metais prūsai buvo tuose kraštuose ir stojo į
     mūšį su lenkais prie Goplo ežero1. Kaip tik tuomet jie galėjo pa-
@@ -144,13 +145,13 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-174928
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 470"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 470."
   citata_originali: |
     Netoli Krušvicos, prie Goplo ežero, buvo atkastas deivės Laimos
     stabas, gana dailiai iškaltas iš smiltainio. Ponas T. Volianskis
@@ -161,7 +162,8 @@ Narbuto pasakojime stabas buvo atkastas netoli Krušvicos prie Goplo ežero.
   citata_rodoma: "Netoli Krušvicos, prie Goplo ežero, buvo atkastas deivės Laimos\nstabas, gana dailiai iškaltas iš smiltainio. Ponas T. Volianskis\natsiuntė man piešinį, kurį čia pridedu. Iš kitų rankų gavau tokį\npat piešinį, tik su tuo skirtumu, jog ant akmeninio pagrindo buvo\nrastas runų užrašas, patvirtinantis pono Volianskio spėjimą. Jis\nišskaitė, jog tai yra Lauma, AVFTAL (skaitoma iš dešinės į kairę)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

@@ -94,7 +94,8 @@ Nenurodyta
 - id: c-172550
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 289."
   citata_originali: |
     Kai tik kas numirdavęs, to
     šešėlis praslinkdavęs pro vyriausiojo žynio namą, jeigu nesiti­
@@ -114,7 +115,8 @@ Nenurodyta
 - id: c-172551
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
   citata_originali: |
     Reikia manyti, kad senovės lietuvių pasiuntinys, siunčia­
     mas kokio asmens ar bendruomenės, nešdavosi lazdą su tam
@@ -134,7 +136,8 @@ Nenurodyta
 - id: c-179084
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
   citata_originali: |
     Mat
     jiems patikėdavo saugoti brangiuosius metalus. Tą patvirtina

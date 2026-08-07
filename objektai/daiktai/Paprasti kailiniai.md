@@ -74,7 +74,8 @@ Nenurodyta
 - id: c-175783
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
   citata_originali: |
     Norėda­
     mas įsitikinti, ar tikrai vienuolis žino visiką apie praeitį,

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9177856fdd02205da609e587"
+canonical_name: "Musninkai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Musninkai"]
+sameAs: []
+canonical_biography: "Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenčionėlių linijoje."
+place_authority: true
+historical_names: []
 ---
 # Musninkai
 
@@ -50,7 +59,8 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 - id: c-45228
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 206."
   citata_originali: |
     jau E. Adamkavičiaus vado-
     vaujama 1-oji divizija spalio

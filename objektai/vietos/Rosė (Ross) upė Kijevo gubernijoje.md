@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ff7318569c3fb5c1fbc6dcf7"
+canonical_name: "Rosė (Ross) upė Kijevo gubernijoje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rosė (Ross) upė Kijevo gubernijoje"]
+sameAs: []
+canonical_biography: "Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą iš ten kadaise gyvenusių lietuvių genties tautų. Karamzinas Jurjevą siejo su Rosės upe prie Belaja Cerkovės Kijevo gubernijoje ir Nestoro žodžius taikė dešiniajam Dnepro krantui. Ka ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes toro žodžius priskiria poloviečių veiksmams dešiniojoje Dnepro pakrantėje."
+place_authority: true
+historical_names: []
 ---
 # Rosė (Ross) upė Kijevo gubernijoje
 
@@ -88,7 +97,8 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
 - id: c-171985
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Galbūt neįsižeis slavų seno­
     vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
@@ -115,7 +125,8 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
 - id: c-175514
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Ne­
     storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­
@@ -140,7 +151,8 @@ Narbutas Rosės (Ross) upės Kijevo gubernijoje vardą aiškino kaip paveldėtą
 - id: c-179397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Ne­
     storas teigia, kad poloviečiai atėjo prie G i urge v o tvirto­

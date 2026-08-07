@@ -126,7 +126,8 @@ Nenurodyta
 - id: c-174923
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui.
   citata_rodoma: "Vadas visiems riteriams įsakė išeiti iš stovyklos visiškai apsiginklavus: skydai spindėjo kaip žvaigždės, o šalmai — kaip tekančios saulės spinduliai, ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šauliai su lankais, paruoštais smūgiui."
@@ -141,7 +142,8 @@ Nenurodyta
 - id: c-174924
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 84."
   citata_originali: |
     Lietuvoje (AkMD, t. 16, 1964, 63-80 p.), apie sidabrą kaip vertės
     matą (AkMD, t. 20, 1966, 33-45 p.), apie sidabro dirbinius ir auk­
@@ -164,7 +166,8 @@ Nenurodyta
 - id: c-175295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Kitą dieną priešams buvo atsiųsta pagalba —
     prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš

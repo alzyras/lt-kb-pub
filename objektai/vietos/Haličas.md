@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f3e9a5343c6e4d67c5a9caf0"
+canonical_name: "Haličas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Haličas"]
+sameAs: []
+canonical_biography: "Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai. Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje. Gedimino ar Algirdo laikais Haličas buvo Lietuvos politinėje įtakoje."
+place_authority: true
+historical_names: []
 ---
 # Haličas
 
@@ -155,7 +164,8 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
 - id: c-24137
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32."
   citata_originali: |
     Lietuva tuo metu jau
     turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
@@ -177,7 +187,8 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
 - id: c-105412
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 58-59"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 58-59."
   citata_originali: |
     PIRMOSIOS
     KNYGOS
@@ -211,7 +222,8 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
 - id: c-166985
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32."
   citata_originali: |
     Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
     visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
@@ -231,7 +243,8 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
 - id: c-170525
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 51."
   citata_originali: |
     Pasikrikštijo
     Naugarduke ir tapo krikščionimi.
@@ -249,7 +262,8 @@ Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos
 - id: c-175434
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     Kunigaikštis Vasilka, išžygiavęs iš Voluinės
     Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-

@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-76808e809dd11d4c4d12bfd0"
+canonical_name: "Šv. Karių koplyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Karių koplyčia"]
+sameAs: []
+canonical_biography: "Vorobjovas Šv. Karių koplyčių apšvietimo efektus apibūdina kaip tokius rafinuotus, kad jie nustelbia skulptūros savarankiškumą."
+place_authority: true
+historical_names: []
 ---
 # Šv. Karių koplyčia
 

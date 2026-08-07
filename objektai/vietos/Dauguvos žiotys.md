@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c7c5918b1768cbdc2623314f"
+canonical_name: "Dauguvos žiotys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dauguvos žiotys"]
+sameAs: []
+canonical_biography: "Todėl linkstama prie apytikrės datos – Lietuvos valstybė susikūrė apie 1240 m. Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda užkariauti lybius, latvius."
+place_authority: true
+historical_names: []
 ---
 # Dauguvos žiotys
 
@@ -60,7 +69,8 @@ Todėl linkstama prie apytikrės datos – Lietuvos valstybė susikūrė apie 12
 - id: c-75105
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 28."
   citata_originali: |
     Todėl linksta-
     ma prie apytikrės datos – Lietuvos valstybė susikūrė apie 1240 m.

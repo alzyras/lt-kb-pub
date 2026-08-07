@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-20766f39af50884fdb6403a0"
+canonical_name: "Konradas Jungingenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas Jungingenas"]
+sameAs: []
+canonical_biography: "Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­ koti tuos pavojingus jam kaimynus (1394 m.); kitais metais Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­ gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę."
 ---
 # Konradas Jungingenas
 
@@ -62,7 +69,8 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
 - id: c-83514
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 152."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­

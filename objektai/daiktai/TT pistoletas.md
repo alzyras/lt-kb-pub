@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-44684
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 263."
   citata_originali: |
     Sausio įvykių metu Aukščiausiosiosios Tarybos gynėjai turėjo labai nedaug kovinių ginklų. Dauguma savanorių ginkluodavosi tuo, kas pakliuvo po ranka - metaliniais
     strypais, lazdomis ir kt. Sausio įvykių metu iš medžiotojų būrelių bei specializuotų medžiotojų parduotuvių pavyko gauti medžioklinių šautuvų, šiek tiek kovinių ginklų gauta

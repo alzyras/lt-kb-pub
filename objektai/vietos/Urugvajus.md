@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4a3a52dd04101a4a6dd57486"
+canonical_name: "Urugvajus"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Urugvajus"]
+sameAs: []
+canonical_biography: "Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų). Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje."
+place_authority: true
+historical_names: []
 ---
 # Urugvajus
 
@@ -78,7 +87,8 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
 - id: c-24520
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 175."
   citata_originali: |
     Neprasigy-
     venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
@@ -98,7 +108,8 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
 - id: c-25128
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     1944 m. sausį A. Smetona žuvo Klivlande per gaisrą. Tad
     lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi

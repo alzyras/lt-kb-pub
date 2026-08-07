@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-63f5e6564296794e6a33bb26"
+canonical_name: "Augustas fon Kocebus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Augustas fon Kocebus"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu saulės akmens vardu ir tikra gamtos mįsle. Kocebaus darbe Narbutas nurodė 1246 m. sutartį kaip seniausią jam žinomą liudijimą apie dingusios Sambijos dalies egzistavimą. Ligi šiol žinoma seniausia sutartis, primenanti dingu sios Sambijos dalies egzistavimą senovėje; ji esanti 1246 metų Kocebaus darbe (t."
 ---
 # Augustas fon Kocebus
 
@@ -97,7 +104,8 @@ Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu sa
 - id: c-174450
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
   citata_originali: |
     Lietuvių kalboje jis išliko žodyje
     Stiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų
@@ -123,7 +131,8 @@ Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu sa
 - id: c-175308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Ligi šiol žinoma seniausia sutartis, primenanti dingu­
     sios Sambijos dalies egzistavimą senovėje; ji esanti 1246

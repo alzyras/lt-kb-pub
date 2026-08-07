@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5b316a0c9fed90380a018b4"
+canonical_name: "Stožkas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Stožkas"]
+sameAs: []
+canonical_biography: "Vytautas pasižadėjo padėti Skirgailai pa­ imti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų kunigaikštijos."
+place_authority: true
+historical_names: []
 ---
 # Stožkas
 
@@ -51,7 +60,8 @@ Vytautas pasižadėjo padėti Skirgailai pa­ imti Kijevą ir atiduoti jam Kreme
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 176."
   citata_originali: |
     Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­
     taikinti ir su Skirgaila^2 ), didžiausiu Vytauto priešu, kas jam ir

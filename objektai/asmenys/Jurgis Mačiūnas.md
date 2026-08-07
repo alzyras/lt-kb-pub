@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7b97166a55015a740374d986"
+canonical_name: "Jurgis Mačiūnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Mačiūnas"]
+sameAs: []
+canonical_biography: "Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos scenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m. gimęs ir mokęsis smuiko virtuozas Jascha Heifetz (Jaša."
 ---
 # Jurgis Mačiūnas
 
@@ -62,7 +69,8 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 - id: c-64717
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 264-265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 264-265."
   citata_originali: |
     Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
     tuvos emigrantai arba kilusios iš jų šeimų. O kai pamatai po provincijos

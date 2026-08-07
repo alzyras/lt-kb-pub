@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7bd28405f7017f17ba64c4b1"
+canonical_name: "Videvutis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Videvutis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi (II a. pr. m. e.) Prūsijumi (Długossii J. Annales..., kn. II, p. 216); kitur Prūsijos pradžia siejama su Pruteniu ir Videvučiu (SRP, 4, p. 293—298; Jurginis J.. Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teisėje, vad. Brutenio—Videvučio (dėl vardo žr. Būga K. 1, p. 187—189) įstatyme, pabrėžiama, kad niekas nesikreiptų į mūsų dievus be Krivio (Grunau ir vėlesni autoriai vadina jį Krivių Krivaičiu — manyta, kad šis. Dusburgietis teigia, kad 187—189) įstatyme, pabrėžiama, kad niekas nesikreiptų į mūsų dievus be Krivio (Grunau ir vėlesni autoriai vadina jį Krivių Krivaičiu — manyta, kad šis dvigubas vardas atsirado dirbtinai; dabar galvojama, kad dvigubas vardas priklausė dviem minėtiems broliams."
 ---
 # Videvutis
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas 
 - id: c-60706
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 55."
   citata_originali: |
     Problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi
     (II a. pr. m. e.) Prūsijumi (Długossii J. Annales..., kn. II, p. 216); kitur Prūsijos pradžia

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5885f01f54d696ebff33cfa9"
+canonical_name: "Hugonas (Sembos fogtas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hugonas (Sembos fogtas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje vietoje pasalą, įsiveržė [į."
 ---
 # Hugonas (Sembos fogtas)
 
@@ -80,7 +87,8 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
 - id: c-60963
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 214."
   citata_originali: |
     Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
 

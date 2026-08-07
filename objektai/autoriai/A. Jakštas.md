@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47ae86ff1ebb4b18a712c5f6"
+canonical_name: "A. Jakštas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Jakštas"]
+sameAs: []
+canonical_biography: "Jakštas „Ryto” Nr. 25, 1930 m. rašo:..."
 ---
 # A. Jakštas
 
@@ -61,7 +68,8 @@ Jakštas „Ryto” Nr. 25, 1930 m. rašo:...
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 318."
   citata_originali: |
     A. Jakštas „Ryto” Nr. 25, 1930 m. rašo:... „Autorė, garsi švedų
     rašytoja, parodo čia daug gyvos vaizduotės, pirmaeilio talento ir

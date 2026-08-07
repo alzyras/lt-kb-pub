@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-caf05d075ae62fcba1e944bb"
+canonical_name: "Juozas Ambrazevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Juozas Ambrazevičius"]
+sameAs: []
+canonical_biography: "Škirpos, įkalinus jį „namų arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu tapo literatūros dėstytojas Juozas Ambrazevičius. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdytu prieš savo valią“."
 ---
 # Juozas Ambrazevičius
 
@@ -63,7 +70,8 @@ media_all_json: |-
 - id: c-166734
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 197."
   citata_originali: |
     Realiai LV situacijos nevaldė, nes negalė-
     jo palaikyti ryšių su visu kraštu – paštas, telegrafas, telefonas naudoti tik

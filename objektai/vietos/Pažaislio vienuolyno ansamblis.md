@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d88afe86a348217972c806cc"
+canonical_name: "Pažaislio vienuolyno ansamblis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pažaislio vienuolyno ansamblis"]
+sameAs: []
+canonical_biography: "Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno."
+place_authority: true
+historical_names: []
 ---
 # Pažaislio vienuolyno ansamblis
 
@@ -50,7 +59,8 @@ Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno.
 - id: c-75107
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 82."
   citata_originali: |
     Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv. Kazimie-
     ro koplyčia, Vilniaus Šv. Petro ir Povilo bažnyčia ar Pažaislio vienuolyno

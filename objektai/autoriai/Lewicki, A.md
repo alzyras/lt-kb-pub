@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-549d7e29a1feab0aec92fede"
+canonical_name: "Lewicki, A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lewicki, A"]
+sameAs: []
+canonical_biography: "Lewicki, A.: Kiedy Witold został wielkiem księciem Litwy, KH, t."
 ---
 # Lewicki, A
 
@@ -80,7 +87,8 @@ Lewicki, A.: Kiedy Witold został wielkiem księciem Litwy, KH, t.
 - id: c-55077
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 316."
   citata_originali: |
     : Vytauto šeimyna, Praeitis,
     t. 2, 1933, 183-224 p. (Vytauto sūnų klausimas). — Kochanowski, J. :

@@ -31,13 +31,20 @@ media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ASeal_of_
 media_primary_directness: 'direct'
 media_primary_relation_type: 'seal_of'
 media_primary_json: |-
-  {"mediaId":"m-4e1931b50ae9f940d1c7213c","title":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","caption":"Kunigaikščio Skirgailos antspaudas su Vyčiu (Waykimu), 1382 m.","originalTitle":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Galkus, Juozas. Lietuvos Vytis / The Vytis of Lithuania (page 82).","dateDisplay":"1382","dateStart":null,"dateEnd":null,"width":913,"height":809,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"daiktas","label":"daiktas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1382 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Skirgaila","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 14th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Skirgaila.md","title":"Skirgaila","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:28.995998+03:00","reviewedAt":"2026-07-18T20:47:33.879254+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis apvalus antspaudas su heraldiniu raitelio atvaizdu ir aplinkiniu įrašu.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai įvardytas „duke Skirgaila“, nurodyta 1382 m. data ir antspaudo ryšys su Vyčiu.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų Skirgailai priskiriamą antspaudą.","isPrimary":1}
+  {"mediaId":"m-4e1931b50ae9f940d1c7213c","title":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","caption":"Kunigaikščio Skirgailos antspaudas su Vyčiu (Waykimu), 1382 m.","originalTitle":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Galkus, Juozas. Lietuvos Vytis / The Vytis of Lithuania (page 82).","dateDisplay":"1382","dateStart":null,"dateEnd":null,"width":913,"height":809,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1382 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Skirgaila","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 14th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Skirgaila.md","title":"Skirgaila","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:28.995998+03:00","reviewedAt":"2026-07-18T20:47:33.879254+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis apvalus antspaudas su heraldiniu raitelio atvaizdu ir aplinkiniu įrašu.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai įvardytas „duke Skirgaila“, nurodyta 1382 m. data ir antspaudo ryšys su Vyčiu.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų Skirgailai priskiriamą antspaudą.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-4e1931b50ae9f940d1c7213c","title":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","caption":"Kunigaikščio Skirgailos antspaudas su Vyčiu (Waykimu), 1382 m.","originalTitle":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Galkus, Juozas. Lietuvos Vytis / The Vytis of Lithuania (page 82).","dateDisplay":"1382","dateStart":null,"dateEnd":null,"width":913,"height":809,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"daiktas","label":"daiktas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1382 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Skirgaila","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 14th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Skirgaila.md","title":"Skirgaila","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:28.995998+03:00","reviewedAt":"2026-07-18T20:47:33.879254+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis apvalus antspaudas su heraldiniu raitelio atvaizdu ir aplinkiniu įrašu.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai įvardytas „duke Skirgaila“, nurodyta 1382 m. data ir antspaudo ryšys su Vyčiu.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų Skirgailai priskiriamą antspaudą.","isPrimary":1}]
+  [{"mediaId":"m-4e1931b50ae9f940d1c7213c","title":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","caption":"Kunigaikščio Skirgailos antspaudas su Vyčiu (Waykimu), 1382 m.","originalTitle":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Galkus, Juozas. Lietuvos Vytis / The Vytis of Lithuania (page 82).","dateDisplay":"1382","dateStart":null,"dateEnd":null,"width":913,"height":809,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1382 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Skirgaila","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 14th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Skirgaila.md","title":"Skirgaila","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:28.995998+03:00","reviewedAt":"2026-07-18T20:47:33.879254+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis apvalus antspaudas su heraldiniu raitelio atvaizdu ir aplinkiniu įrašu.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai įvardytas „duke Skirgaila“, nurodyta 1382 m. data ir antspaudo ryšys su Vyčiu.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų Skirgailai priskiriamą antspaudą.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-4e1931b50ae9f940d1c7213c","title":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","caption":"Kunigaikščio Skirgailos antspaudas su Vyčiu (Waykimu), 1382 m.","originalTitle":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Galkus, Juozas. Lietuvos Vytis / The Vytis of Lithuania (page 82).","dateDisplay":"1382","dateStart":null,"dateEnd":null,"width":913,"height":809,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"daiktas","label":"daiktas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1382 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Skirgaila","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 14th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Skirgaila.md","title":"Skirgaila","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:28.995998+03:00","reviewedAt":"2026-07-18T20:47:33.879254+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis apvalus antspaudas su heraldiniu raitelio atvaizdu ir aplinkiniu įrašu.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai įvardytas „duke Skirgaila“, nurodyta 1382 m. data ir antspaudo ryšys su Vyčiu.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų Skirgailai priskiriamą antspaudą.","isPrimary":1}]
+  [{"mediaId":"m-4e1931b50ae9f940d1c7213c","title":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","caption":"Kunigaikščio Skirgailos antspaudas su Vyčiu (Waykimu), 1382 m.","originalTitle":"Seal of duke Skirgaila with Vytis (Waykimas), 1382.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Galkus, Juozas. Lietuvos Vytis / The Vytis of Lithuania (page 82).","dateDisplay":"1382","dateStart":null,"dateEnd":null,"width":913,"height":809,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5b/Seal_of_duke_Skirgaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1382 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Skirgaila","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 14th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Skirgaila.md","title":"Skirgaila","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:28.995998+03:00","reviewedAt":"2026-07-18T20:47:33.879254+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis apvalus antspaudas su heraldiniu raitelio atvaizdu ir aplinkiniu įrašu.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai įvardytas „duke Skirgaila“, nurodyta 1382 m. data ir antspaudo ryšys su Vyčiu.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų Skirgailai priskiriamą antspaudą.","isPrimary":1}]
+entity_id: "ent-94399ecaebc09a2cbbea11c4"
+canonical_name: "Skirgaila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Skirgaila","tikrasis brolis Skirgaila"]
+sameAs: []
+canonical_biography: "Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Vilnių. Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, ir dėl to kilo atviras susirėmimas. 1393 m. tarp Vytauto ir Skirgailos kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių."
 ---
 # Skirgaila
 
@@ -802,7 +809,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-30278
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 283."
   citata_originali: |
     Viena jų Jogaila su
     Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu
@@ -818,7 +826,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-30281
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 309."
   citata_originali: |
     Bet visos valdžios valstybėje Skirgaila neturėjo. O Vilnių
     Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
@@ -839,7 +848,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 169."
   citata_originali: |
     Skirgailai buvo pavesta valdyti Vilniaus sritis. Jo valdžia
     nesiekė kitų kunigaikščių (Ged. giminės) teritorijų. Ji buvo la­
@@ -856,7 +866,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 176."
   citata_originali: |
     Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­
     taikinti ir su Skirgaila^2 ), didžiausiu Vytauto priešu, kas jam ir
@@ -876,7 +887,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 295."
   citata_originali: |
     Klausimas kaip Lietuva
     bus valdoma, pasiliekama to paties Jogailos nuožiūroje. Jis
@@ -894,7 +906,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163314
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50."
   citata_originali: |
     Taip
     pat buvo sudarytos paliaubos su Livonijos magistru Rygo­
@@ -925,7 +938,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163315
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 132-133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 132-133."
   citata_originali: |
     116
 
@@ -952,7 +966,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163316
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 150."
   citata_originali: |
     Netrukus,
     tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­
@@ -980,7 +995,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163318
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 54."
   citata_originali: |
     Tačiau, apsuptas išdavikų,
     buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­
@@ -1005,7 +1021,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163320
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 309."
   citata_originali: |
     (^1) **Plačiau žr. G. Rhode : RhOP, I, 307, 344 p.**
     (^2) **SRP, II, 713 p.**
@@ -1031,7 +1048,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 178."
   citata_originali: |
     Ostrogo kunigaikštis Feodoras turėjo iš
     Vytauto rankų priimti privilegiją, tvirtinančią ir išplečiančių jo
@@ -1052,7 +1070,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 172."
   citata_originali: |
     Kad šito­
     kia reforma buvo manoma padaryti, rodo ir šis faktas. 1391 m.
@@ -1073,7 +1092,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163324
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 132."
   citata_originali: |
     Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas
     duotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­
@@ -1101,7 +1121,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163325
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131."
   citata_originali: |
     Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
     gailos valdymas. Nuolatine savo buveine pasirinkęs Trakų
@@ -1127,7 +1148,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163327
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 134."
   citata_originali: |
     Veidmainingas Ordino elgesys su Vytau­
     tu, norint ne iškelti jį, o tik drumsti vandenį Lietuvoje ir
@@ -1157,7 +1179,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163328
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131."
   citata_originali: |
     Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­
     čiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo
@@ -1183,7 +1206,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 120."
   citata_originali: |
     Tačiau viso šio darbo
     vadovu buvo Jogaila, kuris stengėsi Vytautą nustumti į šalį
@@ -1207,7 +1231,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 48."
   citata_originali: |
     Kaip Vytautas žiūrėjo į tuos pasiūlymus, sunku ką nors
     tikro pasakyti. Viena tik yra žinoma, kad jis iš pradžios kietai
@@ -1226,7 +1251,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163336
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 294."
   citata_originali: |
     Pačiam Sviatoslavui žuvus
     prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
@@ -1246,7 +1272,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163337
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131."
   citata_originali: |
     Tik taikos sutartyje tarp Ordi­
     no maršalo Engelhardo Rabės ir
@@ -1273,7 +1300,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163338
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 132."
   citata_originali: |
     Karaliui išvykus į Lenkiją, Vytauto padė­
     tis tapo dargi nesaugi: mat akylai stebimas kiekviename
@@ -1303,7 +1331,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163339
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131."
   citata_originali: |
     Po
     to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
@@ -1325,7 +1354,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 55."
   citata_originali: |
     To­
     luomo žmonės čia kariuomenei vadovavo, čia buvo pilių virši­
@@ -1352,7 +1382,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163341
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 316."
   citata_originali: |
     Dlu­
     gošas jį pavadino «Lietuvos žemės valdytoju », o žymus ordino
@@ -1373,7 +1404,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-163342
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 44."
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
     kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
@@ -1393,7 +1425,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 29."
   citata_originali: |
     Naujų galimumų akivaizdoje Jogaila pasiuntė į Vakarų Eu­
     ropą savo brolį Skirgailą su slaptais įgaliojimais į kažkokius
@@ -1415,7 +1448,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 62."
   citata_originali: |
     Taip galvoti
     vertė jį du dalyku. Pirmiausia, jo planas prijungti Lietuvą prie
@@ -1437,7 +1471,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 176."
   citata_originali: |
     Vėlybesni įvykiai parodė,
     kad Vytautas naudojasi daug didesnėmis laisvėmis ir teisėmis,
@@ -1460,7 +1495,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-167746
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 309."
   citata_originali: |
     Netiksliai jis tačiau pirma buvo laikomas
     1387-92 pilnu karaliaus vietininku, ar didžiuoju kunigaikščiu Lie­
@@ -1478,7 +1514,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-171506
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
   citata_originali: |
     Si epocha baigėsi 1386 metais, tai yra visiškai
     įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara­
@@ -1499,7 +1536,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-173853
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 517"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 517."
   citata_originali: |
     IV. 1386—1447 metai, t. y. iki to laikotarpio, kai Lietuva nustojo
     turėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pasiekė di­
@@ -1517,7 +1555,8 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
 - id: c-176604
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 178."
   citata_originali: |
     Ir
     šitaip mus prie to privedė vienas neištikimas mūsų pa­

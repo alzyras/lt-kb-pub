@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c6a3f3b21dcd46bd6827f8b0"
+canonical_name: "Oskolas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Oskolas"]
+sameAs: []
+canonical_biography: "Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir budinų gyvenimu tarp Dono ir Doneco. Teodoro Narbuto aiškinimu, budinai naujame krašte indų papročiu pašventino upę mitiniu Ross vardu, siejamu su Oskolo pavadinimu."
+place_authority: true
+historical_names: []
 ---
 # Oskolas
 
@@ -76,7 +85,8 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
 - id: c-171925
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
     Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­
@@ -99,7 +109,8 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
 - id: c-175481
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Vadinasi, tokiu pat būdu ten pateko ir
     masagetai4.

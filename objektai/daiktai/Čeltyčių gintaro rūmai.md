@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-172639
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
   citata_originali: |
     Čeltyčios (Czeltice)
     Tai buvo Baltijos jūros vandenų nimfos. Pajūrio žemaičių

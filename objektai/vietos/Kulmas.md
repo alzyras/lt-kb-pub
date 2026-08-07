@@ -38,6 +38,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14bdca8dbf2485e721b4635c"
+canonical_name: "Kulmas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kulmas"]
+sameAs: []
+canonical_biography: "tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj."
+place_authority: true
+historical_names: []
 ---
 # Kulmas
 
@@ -168,16 +177,24 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 <a id="claim-t-90755"></a>
 - t-008
   teiginys: "Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sventopelkas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kulmas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Sventopelkas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kulmas\" parinktas kaip owner_note_path. Targetas \"Sventopelkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-86523
     - c-167556
 
 <a id="claim-t-90756"></a>
 - t-009
   teiginys: "Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -188,7 +205,6 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kulmas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-86526
     - c-86534
 
 <a id="claim-t-90758"></a>
@@ -383,7 +399,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-32163
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 174."
   citata_originali: |
     Tada Salza priėmė kvietimą
     Konrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją. Krikščionims
@@ -404,7 +421,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-46553
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 58."
   citata_originali: |
     Praėjo net keliolika metų, o vysk. Kristijonui vis ne-
     sisekė: pagonys ne tik naikino jo kuriamas krikščionių bendruo-
@@ -425,7 +443,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
   citata_originali: |
     Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems
     verčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti. Ir viešpaties
@@ -439,14 +458,17 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   citata_rodoma: "Kulmo kilmingieji ir miestiečiai tvirtino, kad jiems\nverčiau žūti garbingoje kovoje, nei taip vargingai diena po dienos merdėti. Ir viešpaties\ndvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su\npriešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius\nprie Kulmo miesto, ir užvirė smarkios kautynės, pareikalavusios iš abiejų pusių didžiulių\naukų. Galop gailestingumo tėvas ir visokeriopos paguodos dievas, guodžiąs savuosius\nvisose nelaimėse, suteikė broliams tokių jėgų, kad išgąsdintas Sventopelkas pasileido\nbėgti su visais savo žmonėmis ir pasuko į tą vietą, kur buvo palikęs laivus, tikėdamasis\njais pasprukti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-86524
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
     prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
@@ -464,7 +486,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86525
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     ), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
     Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
@@ -481,7 +504,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86526
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 256-257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256-257."
   citata_originali: |
     Apie Kulmo žemės nusiaubimą 1330 metais
 
@@ -499,16 +523,15 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     viską grobdamas bei degindamas.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
-
 - id: c-86527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 254."
   citata_originali: |
     10. Apie Kulmo žemės nusiaubimą
 
@@ -529,7 +552,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86528
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
   citata_originali: |
     41. Apie vieną stebuklą
 
@@ -558,7 +582,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86529
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 56."
   citata_originali: |
     Žemės pakraštyje, Vyslos deš, krante — Kulmo pilis, miestas: castrum Colmen (1222
     m., PUB, 1, 1, Nr. 41, p. 28), Colme (1230 m., ten pat, Nr. 72, p. 53), Culmine, civitatum
@@ -578,7 +603,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86531
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
   citata_originali: |
     42. Apie dviejų našlių ginčą dėl vieno vyro
 
@@ -599,7 +625,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86532
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
@@ -621,7 +648,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Taigi Lietuvos
     pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.
@@ -642,7 +670,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-86534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 99."
   citata_originali: |
     Tuo metu į Prūsijos žemę atvyko kilnusis ir šviesusis Anlanto300 kunigaikštis su didele
     kariuomene; be daugybės kitų gerų darbų, kuriuos čia nuveikė, stiprindamas tikėjimą
@@ -665,7 +694,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-167555
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Prūsai ir Lietuva
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
@@ -687,7 +717,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-167556
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
   citata_originali: |
     Susirūpinę broliai manė, kad, dar kartą susikovę su šia kariuomene
     ir pralaimėję mūšį, turėsią visai palikti Prūsijos žemę be vilties ją atgauti ir, suprantama,
@@ -708,7 +739,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-175450
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 353"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 353."
   citata_originali: |
     Be to, šių dviejų provincijų pasienyje
     plytėjo didžiulė giria, kuri skverbėsi į abiem provincijoms
@@ -730,7 +762,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-179048
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
@@ -752,7 +785,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - id: c-179380
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 353"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 353."
   citata_originali: |
     Į rytus Kulmas tuomet tęsėsi tik
     ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro

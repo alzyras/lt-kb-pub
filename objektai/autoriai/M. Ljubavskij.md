@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0c64a1741a6d5da894ce5c56"
+canonical_name: "M. Ljubavskij"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Ljubavskij"]
+sameAs: []
+canonical_biography: "Ljubavskij : Litovsko-Russkij sejm, Maskva 1900, 355-360 p. Plg."
 ---
 # M. Ljubavskij
 
@@ -62,7 +69,8 @@ Ljubavskij : Litovsko-Russkij sejm, Maskva 1900, 355-360 p. Plg.
 - id: c-33058
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 345."
   citata_originali: |
     Tačiau sąjungininkai nugalėjo kliūtis, ir Vy­
     tautui pasisekė jau liepos 1 d. ateiti iki Červinsko. Atskirų dalinių

@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-24e7afcbd7f90b996585a830"
+canonical_name: "Kėdainiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kėdainiai","Kėdainiuose","Kėdainius","Kėdainių"]
+sameAs: []
+canonical_biography: "Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje). Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj. Ypač garsėjo Kėdainių mokykla: mat, Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros centru."
+place_authority: true
+historical_names: []
 ---
 # Kėdainiai
 
@@ -98,7 +107,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - id: c-43559
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 173."
   citata_originali: |
     ## Puslapis 173
 
@@ -124,7 +134,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - id: c-166433
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 357."
   citata_originali: |
     Tada pražydo protestantų Radvilų centruose
     esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas
@@ -143,7 +154,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - id: c-175944
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 304."
   citata_originali: |
     Pats
     apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,

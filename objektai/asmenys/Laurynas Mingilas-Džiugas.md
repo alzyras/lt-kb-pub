@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f85b843da68910717185536a"
+canonical_name: "Laurynas Mingilas-Džiugas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Laurynas Mingilas-Džiugas"]
+sameAs: []
+canonical_biography: "Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkoks garsus šūkis ir stuktelėjimas į pašonę."
 ---
 # Laurynas Mingilas-Džiugas
 
@@ -62,7 +69,8 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
 - id: c-76191
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 244."
   citata_originali: |
     242  UŽPELKIŲ KAUTYNĖS 1949 m. rugpjūčio 13 d.
 

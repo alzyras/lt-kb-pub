@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-489bd684ed34921f0a3b98f4"
+canonical_name: "Šilutė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šilutė"]
+sameAs: []
+canonical_biography: "1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į pagalbą."
+place_authority: true
+historical_names: []
 ---
 # Šilutė
 
@@ -92,7 +101,8 @@ media_all_json: |-
 - id: c-44086
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 214."
   citata_originali: |
     Sukilėlių pajėgos
     Vyriausiasis Mažosios Lietuvos gelbėjimo
@@ -112,7 +122,8 @@ media_all_json: |-
 - id: c-44087
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 214."
   citata_originali: |
     Prie sukilimo prisidėjo apie
     300 Klaipėdos krašto gyventojų. Rinktinė
@@ -138,7 +149,8 @@ media_all_json: |-
 - id: c-44088
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 215."
   citata_originali: |
     Sukilimo vadui
     Jonui Budriui-

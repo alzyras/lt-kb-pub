@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-121647139688e5f4d1cc0b91"
+canonical_name: "Feliksas Liangurga"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Feliksas Liangurga"]
+sameAs: []
+canonical_biography: "Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, o kartu ir kaip karalių teisingumo i Žygimanto Senojo laikais, nuo 1527 iki 1552 metų, Vilniaus vaitas buvo Feliksas Liangurga, Krokuvos mies­ tietis, tą patvirtina miesto aktuose. Pridedame tiktai dar tą pastabą, kad 1548 metais, kai iš Vilniaus miesto turėjo būti pa­ skelbtas liudijimas su anuo antspau­ du, kaip tvirtina šio straipsnio auto­ rius, - Vilniaus vaitas tada buvo Feliksas Liangurga, kilęs iš Kroku­ vos, uolus katalikas."
 ---
 # Feliksas Liangurga
 
@@ -81,7 +88,8 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
 - id: c-83478
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 296."
   citata_originali: |
     Ne­
     įmanoma suprasti. Pridedame tiktai
@@ -108,7 +116,8 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
 - id: c-83479
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 275."
   citata_originali: |
     Miesto archyvas, kaip sostinės piliečių lais­
     vių ir privilegijų lobynas, o kartu ir kaip karalių teisingumo

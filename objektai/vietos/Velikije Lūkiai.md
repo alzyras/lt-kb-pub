@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-af940ac211ac6db97147ac8b"
+canonical_name: "Velikije Lūkiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Velikije Lūkiai"]
+sameAs: []
+canonical_biography: "Taip pat ir vė­ liau, antrąsyk mūsiškiams pajudėjus ir patraukus prieš tą patį mūsų priešą Maskvos kunigaikštį ties Velikije Lūki, mūsų paskirtas vadovauti mūsų vengrų kariuomenės riteriams, ata­ kuojant priešo pilis ir visur, kur tik buvo nukreiptas su mū­."
+place_authority: true
+historical_names: []
 ---
 # Velikije Lūkiai
 
@@ -50,7 +59,8 @@ Taip pat ir vė­ liau, antrąsyk mūsiškiams pajudėjus ir patraukus prieš t�
 - id: c-82230
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 437"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 437."
   citata_originali: |
     ## Puslapis 437
 

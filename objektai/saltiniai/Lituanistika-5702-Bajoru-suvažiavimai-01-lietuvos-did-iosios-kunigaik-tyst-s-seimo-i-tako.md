@@ -1,10 +1,10 @@
 ---
 tipas: saltinis
-pavadinimas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+pavadinimas: 'Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a.'
 saltinio_tipas: saltinio_dalis
 dalies_tipas: "work"
 tevinis_saltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
-puslapiai: ""
+puslapiai: "9-32"
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -28,4 +28,4 @@ Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio 
 
 ## Puslapiai
 
-p.
+p. 9-32

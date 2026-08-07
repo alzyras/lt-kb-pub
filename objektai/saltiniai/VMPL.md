@@ -51,7 +51,8 @@ Abi pusi tą susitarimą patvirtino priesaiko- (^5) VMPL, I, nr.
 - id: c-94035
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 266."
   citata_originali: |
     Be to, Vengrija su Lenkija turėjo
     priversti ordiną grąžinti Lietuvai atimtas jos žemes ir ją ginti nuo

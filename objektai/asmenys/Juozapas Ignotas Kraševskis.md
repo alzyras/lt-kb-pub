@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2c18657a9785a6c687828629"
+canonical_name: "Juozapas Ignotas Kraševskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozapas Ignotas Kraševskis"]
+sameAs: []
+canonical_biography: "Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbuto „Lietuvių mitologiją“, paskelbta „Tygodnik Petersburski“. Anot Kraševskio, mirusįjį palietę žmonės lietuvių laidojimo papročiuose tapdavo „nešvarūs“. Juozapas Ignotas Kraševskis nori tvirtinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženkliai atnaujinę jos pėdsakus, vis dėlto jo nuopelnas visuomet bus labai didelis, nes jis į vieną vietą surinko apie Lietuvą tas žinias, kurios buvo išbarstytos po įvairias lenkų, rusų ir vokiečių kronikas, taip pat skambėjo įvairiuose to krašto padavimuose."
 ---
 # Juozapas Ignotas Kraševskis
 
@@ -95,7 +102,8 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
 - id: c-172917
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 55."
   citata_originali: |
     Kaip ir įprasta kiekvie­
     nam tokio pobūdžio rašiniui, recenzentas iš pradžių nurodė
@@ -124,7 +132,8 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
 - id: c-172918
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
   citata_originali: |
     Tada aprengia drabužiais, pritinkančiais luomui ir ly­
     čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša

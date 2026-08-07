@@ -84,7 +84,8 @@ Kojelavičius vaizduoja imperatorių Zigmantą kaip mėginusį supriešinti lenk
 - id: c-176209
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 381."
   citata_originali: |
     Po šiai dienai išliko raštiškas to
     klastingumo įrodymas, karalystės archyve saugomas

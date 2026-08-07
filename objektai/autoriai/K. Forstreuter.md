@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4b4f7064f74b5803a1a68292"
+canonical_name: "K. Forstreuter"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Forstreuter"]
+sameAs: []
+canonical_biography: "Forstreuter ir kt.) tuos laiškus tarė esant rygiečių falsifikatais, arba bent stipriai įtartinais."
 ---
 # K. Forstreuter
 
@@ -49,7 +56,8 @@ Forstreuter ir kt.) tuos laiškus tarė esant rygiečių falsifikatais, arba ben
 - id: c-30622
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 234."
   citata_originali: |
     Daugumoje
     vokiečiai (C. Dreyer, J. Voigt, K. Forstreuter ir kt.) tuos laiškus

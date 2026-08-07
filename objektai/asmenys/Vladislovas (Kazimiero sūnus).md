@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b46b2b9b2874aecbb76752b"
+canonical_name: "Vladislovas (Kazimiero sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladislovas (Kazimiero sūnus)"]
+sameAs: []
+canonical_biography: "Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, kur iš brolio, Čekų karaliaus Vladislovo, buvo gavęs valdyti keletą mažų kunigaikštysčių."
 ---
 # Vladislovas (Kazimiero sūnus)
 
@@ -44,7 +51,8 @@ Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, ku
 - id: c-65053
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 205."
   citata_originali: |
     (Vičulkovskio paveikslas).
     jo dukterys buvo ištekėjusios už Vokietijos kunigaikščių. Viena iš

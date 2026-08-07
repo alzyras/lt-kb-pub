@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14f0353aee019613e9cd79f5"
+canonical_name: "Gotthard Friedrich Stender"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gotthard Friedrich Stender"]
+sameAs: []
+canonical_biography: "Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams. Gotthardo Friedricho Stenderio „Lettische Grammatik“ buvo išleista Braunšveige 1761 metais."
 ---
 # Gotthard Friedrich Stender
 
@@ -85,7 +92,8 @@ Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo t
 - id: c-174507
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 110."
   citata_originali: |
     Mongolų karvedžiai skubėjo
     užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa­

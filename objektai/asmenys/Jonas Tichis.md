@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e42393a3df04e5db22743935"
+canonical_name: "Jonas Tichis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Tichis"]
+sameAs: []
+canonical_biography: "Šio konflikto turinys nėra žinomas, bet jau kitais 1520 m. Vilniuje apsilankęs popiežiaus legatas Zacharias Ferreri gavo Vilniaus miestiečio Jono Tichio (Czuchi) skundą, kuriame buvo kaltinami Kauno bernardinai, apgaule išgabenę į Lenkiją daug brangenybių."
 ---
 # Jonas Tichis
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185458
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 123"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 123."
   citata_originali: |
     Kauno bernardinai atsisakė klausyti savo tiesioginio
     viršininko Vilniaus kustodo Rafaelio iš Prošovicų, bet sulaukė Vilniaus vyskupo Jono

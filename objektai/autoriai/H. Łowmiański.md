@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-534bc108248e53b34f8ba015"
+canonical_name: "H. Łowmiański"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["H. Łowmiański"]
+sameAs: []
+canonical_biography: "Łowmiański, H."
 ---
 # H. Łowmiański
 
@@ -50,7 +57,8 @@ media_all_json: |-
 - id: c-32941
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 133."
   citata_originali: |
     Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino
     link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­

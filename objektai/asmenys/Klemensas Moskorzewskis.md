@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a1663fcbb3b0f209f92eba0d"
+canonical_name: "Klemensas Moskorzewskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Klemensas Moskorzewskis"]
+sameAs: []
+canonical_biography: "O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo Klemensas Moskorzewskis. Moskorzewskis."
 ---
 # Klemensas Moskorzewskis
 
@@ -67,7 +74,8 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
 - id: c-32773
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 309."
   citata_originali: |
     Bet visos valdžios valstybėje Skirgaila neturėjo. O Vilnių
     Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
@@ -88,7 +96,8 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
 - id: c-32774
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 313."
   citata_originali: |
     Tuo būdu penkių savaičių puolimų karinis pasisekimas tebuvo
     šykštus. Kalno (Gedimino) pilį atlaikė Jogailos vietininkas K.

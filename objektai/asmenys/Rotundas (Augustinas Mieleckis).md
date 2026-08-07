@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d7f7ae1870216260037984b1"
+canonical_name: "Rotundas (Augustinas Mieleckis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rotundas (Augustinas Mieleckis)"]
+sameAs: []
+canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką man derėjo parašyti, nutariau išdėstyti jums, ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ — Rotundas (Augustinas Mieleckis), Vilniaus vaitas, Mikalojui Radvilai 1560 m. vasario 12 dieną."
 ---
 # Rotundas (Augustinas Mieleckis)
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-83455
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 16-17"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 16-17."
   citata_originali: |
     13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
     p. 128.

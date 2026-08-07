@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4f48aa17875a60b1b7dc2d8"
+canonical_name: "Baturlinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Baturlinas"]
+sameAs: []
+canonical_biography: "Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Narbuto vertinimu naujausius Herodoto geografijos paaiškinimus."
 ---
 # Baturlinas
 
@@ -55,7 +62,8 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė Nar
 - id: c-174137
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
   citata_originali: |
     Vis dėlto Herodotas turėjo daugiau žinių apie
     romėnus*, nes teigia, kad dienovidžio kryptimi į šiaurę

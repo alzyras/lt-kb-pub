@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7caa50381bfc20bdcfc5eb9"
+canonical_name: "Gruzija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gruzija"]
+sameAs: []
+canonical_biography: "Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercegovinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių."
+place_authority: true
+historical_names: []
 ---
 # Gruzija
 
@@ -50,7 +59,8 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 - id: c-18273
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 260."
   citata_originali: |
     Kadangi Lietuva neturi tinkamų priemonių apsaugoti savo oro erdvę,
     nuo įstojimo į Aljansą pradžios tuo užsiima NATO senbuvės. Narystė

@@ -70,7 +70,8 @@ Dusburgietis teigia, kad pakarklis P.
 - id: c-61842
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     207—216.
     Pakarklis P. Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą.— Mūsų

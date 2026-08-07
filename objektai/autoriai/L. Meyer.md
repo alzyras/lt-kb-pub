@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d386c2cb6b44120ec8485dac"
+canonical_name: "L. Meyer"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["L. Meyer"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad meyer.—Paderborn, 1876."
 ---
 # L. Meyer
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad meyer.—Paderborn, 1876.
 - id: c-61372
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Livländische Reimchronik / L. Meyer.—Paderborn, 1876.
   statusas: verified

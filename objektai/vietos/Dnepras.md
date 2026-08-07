@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-afe89b8c64dd6e8f78e0a1cc"
+canonical_name: "Dnepras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dnepras"]
+sameAs: []
+canonical_biography: "Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų. Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais. Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono."
+place_authority: true
+historical_names: []
 ---
 # Dnepras
 
@@ -413,7 +422,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - id: c-168597
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 601"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 601."
   citata_originali: |
     Glinskis, nutraukęs Minsko apgulą gal dėl sąžinės
     priekaištų, gal iš pagarbos karaliui, pirmiausia su savo
@@ -434,7 +444,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - id: c-171575
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
   citata_originali: |
     Kad Pavyslio, Padneprio senieji gyventojai
     ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
@@ -455,7 +466,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - id: c-175411
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
   citata_originali: |
     Būtent dėl šių priežasčių įvairios
     pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
@@ -477,7 +489,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - id: c-175412
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 50."
   citata_originali: |
     Anksčiau jau minėjome, kad skitai
     yra kone seniausia Europos tauta, kurios atėjimas iš Azi­
@@ -497,7 +510,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - id: c-175413
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Galima tik daryti gana tikėtiną prielaidą, kuri remia­
     si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
@@ -522,7 +536,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - id: c-175414
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Priartinus mūsų tyrimus prie
     geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
@@ -543,7 +558,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - id: c-175415
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 201."
   citata_originali: |
     Taigi protėvius tau­
     tos, kurios istoriją nagrinėjame, toliau tyrinėti pradėsime
@@ -569,7 +585,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - id: c-175416
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
   citata_originali: |
     Iš to darau išvadą, jog Gerų kraštas plytėjo abie­
     jose Dnepro pakrantėse, kur viename plote sukaupta ga­
@@ -599,7 +616,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - id: c-175417
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
   citata_originali: |
     Tų įdubų juos­
     tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­
@@ -633,7 +651,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - id: c-175419
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
   citata_originali: |
     Tokių kalvų kartais randama išsibarsčiusių laukuose,
     netgi sausose pievose po dvi, kelias, o kai kur jų esti la­
@@ -663,7 +682,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - id: c-179370
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Prajus** vėlgi kalba apie tą patį, žiūrė­
     damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
@@ -684,7 +704,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - id: c-179371
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
   citata_originali: |
     Iš čia, tęsdami kelionę į
     vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos
@@ -705,7 +726,8 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
 - id: c-179372
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
   citata_originali: |
     Tokių kalvų kartais randama išsibarsčiusių laukuose,
     netgi sausose pievose po dvi, kelias, o kai kur jų esti la­

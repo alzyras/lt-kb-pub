@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-00d4c00b2477e18e0517b68d"
+canonical_name: "Rusnė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rusnė"]
+sameAs: []
+canonical_biography: "Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko taip, kad Nemunas, Rusnė ir Klaipėda — vis trijų mylių atstumu — nuo Nemuno ir Marių, buvo palikta ordinni."
+place_authority: true
+historical_names: []
 ---
 # Rusnė
 
@@ -198,7 +207,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-34030
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Žemaičių pusėje siena turėjo kilti Šventąja dvi mylias, paskui
     stačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­
@@ -220,7 +230,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-171717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Si ket­
     virta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­
@@ -243,7 +254,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-175518
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
   citata_originali: |
     Tun-
     manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
@@ -272,7 +284,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-175519
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 219."
   citata_originali: |
     Pusantros mylios už šio miesto aukštos pakrantės ima
     žemėti, vagos didingumas mažėja, o Nemunas ima vin­
@@ -294,9 +307,9 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     - t-004
 
 - id: c-184452
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 28"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 28."
   citata_originali: |
     Čia tas dar yra dabotina, jog upis, šiandien
     Nemunu vadinama, senovėj vadinos Kronas raš­
@@ -318,9 +331,9 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     - t-005
 
 - id: c-184453
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 73"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 73."
   citata_originali: |
     Nuo to gi gal lemti, jog ta pasaka galėjo bū­
     ti pradžioj yna, bet paskui yra pertaisyta nuo kokio
@@ -351,9 +364,9 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     - t-006
 
 - id: c-184454
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 101"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 101."
   citata_originali: |
     Yra minavo j ama, jog buvusios žinyčios Rusnėj,
     Palangoj, Dzievaltave ir Panemunėj, bet viena Vil­

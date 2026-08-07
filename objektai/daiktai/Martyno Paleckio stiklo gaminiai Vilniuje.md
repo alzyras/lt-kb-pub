@@ -145,7 +145,8 @@ Nenurodyta
 - id: c-55384
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 291"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291."
   citata_originali: |
     Privilegija, duota Paleckiui steigti šią
     liejyklą, yra rašyta slavų kalba, su lo­
@@ -172,7 +173,8 @@ Nenurodyta
 - id: c-55385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 291"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291."
   citata_originali: |
     Atsi­
     žvelgdamas į Paleckio prašymą, ka­
@@ -207,7 +209,8 @@ Nenurodyta
 - id: c-78397
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 290-291"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 290-291."
   citata_originali: |
     Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
     lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus

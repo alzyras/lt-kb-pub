@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d864c84e7541d9c039f4044"
+canonical_name: "Jonas iš Hibelino"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas iš Hibelino"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad jonas iš Hibelino sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti."
 ---
 # Jonas iš Hibelino
 
@@ -52,7 +59,8 @@ Dusburgietis teigia, kad jonas iš Hibelino sušakosiąs ir ateityje duosiąs ga
 - id: c-60978
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
   citata_originali: |
     Nors
     apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai

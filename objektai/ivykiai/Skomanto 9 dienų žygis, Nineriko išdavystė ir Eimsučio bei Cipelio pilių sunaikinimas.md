@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-66993
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 145-146"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145-146."
   citata_originali: |
     Skomantas, matydamas, jog apsigavo, pasuko
 
@@ -125,7 +126,8 @@ Nenurodyta
 - id: c-66994
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
   citata_originali: |
     Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
                                 būtent: Eimsutis ir dar viena

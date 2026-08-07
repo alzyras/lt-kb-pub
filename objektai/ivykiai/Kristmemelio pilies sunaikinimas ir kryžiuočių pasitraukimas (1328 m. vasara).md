@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-62839"></a>
 - t-001
   teiginys: "1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno, o lietuviai ją sunaikino."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-26 19:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Kristmemelis: 0.85"
@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-63666
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
     m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
@@ -96,7 +97,8 @@ Nenurodyta
 - id: c-63667
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
     prūsų kovą nuo Lietuvos, jos karinių pastangų.

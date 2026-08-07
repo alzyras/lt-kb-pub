@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d1600a509e1623944cd499f0"
+canonical_name: "Vaidotas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaidotas"]
+sameAs: []
+canonical_biography: "Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 1401 šis Kęstučio anūkas tapo antruoju Krokuvos universiteto rektoriumi (Fijałek). Su paskutinio pagonio kunigaikščio Kęstučio iškilmingu sude­ ginimu Lietuvos istorijoje turėjo prasidėti."
 ---
 # Vaidotas
 
@@ -64,7 +71,8 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 - id: c-65020
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 282."
   citata_originali: |
     O bėglio sūnaus Butauto pėdo­
     mis 1381 m. pasekė ir jo sūnus Vaidotas. Iš ordino žemių patekęs

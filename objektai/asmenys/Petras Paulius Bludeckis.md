@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d4c5b113a0189dcd7bc6efb"
+canonical_name: "Petras Paulius Bludeckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Paulius Bludeckis"]
+sameAs: []
+canonical_biography: "1578 m. į Jėzuitų ordiną įstojo kaunietis Petras Paulius Bludeckis, 1582 m. Laurynas Manikaitis ir Jonas Valentinavičius, 1584 m. Jurgis Rava."
 ---
 # Petras Paulius Bludeckis
 
@@ -50,9 +57,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185543
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 329"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 329."
   citata_originali: |
     1578 m. į Jėzuitų ordiną įstojo kaunietis Petras Paulius Bludeckis, 1582 m. Laurynas
     Manikaitis ir Jonas Valentinavičius, 1584 m. Jurgis Rava.

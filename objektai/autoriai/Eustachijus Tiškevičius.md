@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d43cca56c98c1dc6ea51621e"
+canonical_name: "Eustachijus Tiškevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Eustachijus Tiškevičius"]
+sameAs: []
+canonical_biography: "Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje. Kurše, Infliantuose ir Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi čius3."
 ---
 # Eustachijus Tiškevičius
 
@@ -89,7 +96,8 @@ Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rus
 - id: c-174446
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 385."
   citata_originali: |
     Taip buvo pasakyta apie baltarusių pilkapius. In­
     formaciją apie

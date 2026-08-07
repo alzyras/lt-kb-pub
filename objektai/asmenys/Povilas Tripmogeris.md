@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-acdf60bd692999a8fe8f1ccd"
+canonical_name: "Povilas Tripmogeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Povilas Tripmogeris"]
+sameAs: []
+canonical_biography: "Štai 1613 m. Karaliaučiaus šiporiaus Jokūbo Solfelto laive, be paties šiporiaus 6 statinių alaus, Povilas Tripmogeris gabeno 1 kubilą kaštonų, 15 olandiškų sūrių, 100 apelsinų, 2 kubilus itališkų riešutų, 40 išpieštų molinių dubenėlių, Kondratas Bremeris."
 ---
 # Povilas Tripmogeris
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185546
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 234"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 234."
   citata_originali: |
     Tuo pačiu metu smulkesni Gdansko ir Karaliaučiaus pirkliai, kuriuos galima va-
     dinti bakalėjininkais ir galanterininkais, vis dar traukdavo per Kauną į Lietuvą. Štai

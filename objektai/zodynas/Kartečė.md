@@ -102,7 +102,8 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - id: c-44135
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 153."
   citata_originali: |
     Kartečė buvo skirstoma pagal kulkų svorį į artimojo ir tolimojo
     nuotolių. Artimo nuotolio buvo sudaryta iš daugybės mažo kalibro
@@ -120,7 +121,8 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - id: c-44136
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 153."
   citata_originali: |
     Tolimojo nuotolio kartečės kulkos buvo stambesnės ir dėl
     to galėjo įveikti didesnį atstumą, bet pabūklo užtaise jų tilpdavo
@@ -143,7 +145,8 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - id: c-44137
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 153."
   citata_originali: |
     Kartečės naudojimo
     pradžioje jos trūkumas buvo ilgas pabūklų užtaisymas pavienėmis
@@ -174,7 +177,8 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - id: c-76008
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 153."
   citata_originali: |
     Iš pradžių kartečė buvo naudojama ginant arba šturmuojant tvir-
     toves, nuo Trisdešimtmečio karo (1618-1648 m.) jį pradėta plačiai
@@ -194,7 +198,8 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - id: c-176413
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 153."
   citata_originali: |
     Vienu šūviu buvo galima išvesti iš rikiuotės ne-
     mažai naikinimo zonoje atsidūrusių priešo karių.

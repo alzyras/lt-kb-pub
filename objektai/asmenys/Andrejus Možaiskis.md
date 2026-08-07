@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-438b27801a96af83ea156b25"
+canonical_name: "Andrejus Možaiskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrejus Možaiskis"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Andrejus Možaiskis
 

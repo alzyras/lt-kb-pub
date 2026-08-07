@@ -56,7 +56,7 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 <a id="claim-t-169941"></a>
 - t-002
   teiginys: "Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildydami „rusų pradų atkūrimo“ politika."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
@@ -100,7 +100,8 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 - id: c-154618
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 114."
   citata_originali: |
     Imperijos politiko-
     je „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti
@@ -121,7 +122,8 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 - id: c-154622
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 106."
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     106
@@ -155,7 +157,8 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 - id: c-166889
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 114."
   citata_originali: |
     „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro
     valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės

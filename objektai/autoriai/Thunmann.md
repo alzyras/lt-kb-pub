@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-444855e8cea24ad78f794de2"
+canonical_name: "Thunmann"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Thunmann"]
+sameAs: []
+canonical_biography: "Narbutas Thunmannu rėmė maldos dievui Kurkai vėliavose aiškinimą, susijusį su prūsų pasipriešinimu vokiečių užpuolikams."
 ---
 # Thunmann
 
@@ -54,7 +61,8 @@ Narbutas Thunmannu rėmė maldos dievui Kurkai vėliavose aiškinimą, susijusį
 - id: c-173342
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 475."
   citata_originali: |
     Tad maldavo jo nu­
     bausti ir padėti, o kariauninkų narsumą skatino to­

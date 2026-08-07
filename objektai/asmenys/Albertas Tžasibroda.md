@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f89e3ab6e6c1045ef5424d43"
+canonical_name: "Albertas Tžasibroda"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas Tžasibroda"]
+sameAs: []
+canonical_biography: "Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­ tinę kviečių iš visų laukų; taip ir bajorė Ona Tarnavska iš savo dvaro nuo visų javų, o iš Stanislovo Vaitkavičiaus tik nuo kviečių....................Įprastą dešimtinę privalo mokė­ ti."
 ---
 # Albertas Tžasibroda
 
@@ -50,7 +57,8 @@ Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­
 - id: c-83589
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 263."
   citata_originali: |
     Be tö, ir ba­
     jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­

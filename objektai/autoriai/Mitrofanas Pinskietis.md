@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b69ad0d2966023c160869fad"
+canonical_name: "Mitrofanas Pinskietis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mitrofanas Pinskietis"]
+sameAs: []
+canonical_biography: "Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. Šventaragis siuntė pasiuntinius pas Nemuno orakulą."
 ---
 # Mitrofanas Pinskietis
 
@@ -65,7 +72,8 @@ Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. �
 - id: c-173325
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
   citata_originali: |
     Tas rūmas turėjo apvalų bokš­
     tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­

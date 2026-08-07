@@ -42,6 +42,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3073ff3426598fd1798b27aa"
+canonical_name: "Didysis Naugardas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Didysis Naugardas"]
+sameAs: []
+canonical_biography: "Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas. Naugardą."
+place_authority: true
+historical_names: []
 ---
 # Didysis Naugardas
 
@@ -472,7 +481,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-24099
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 156."
   citata_originali: |
     Pagaliau 1428 m.
     Vytautas suruošė paskutinį savo žygį į tolimąjį D. Naugardą.
@@ -488,7 +498,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-24101
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 199."
   citata_originali: |
     Pirmiausia ji privertė savo valdžiai pasi-
     duoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-
@@ -506,7 +517,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-32007
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 196."
   citata_originali: |
     Padaręs sąjungą su Aleksandru Nevskiu (Didž.
     Naugarde)^183 , drauge su Treniota, Mindaugas išžygiavo Livonijon
@@ -524,7 +536,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-32008
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 270."
   citata_originali: |
     Kiekvienas iš veiklių varžovų, norėdamas nurungti
     konkurentą, stengėsi išplėsti savo įtaką Pskove, Didž. Naugarde,
@@ -544,7 +557,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 177."
   citata_originali: |
     Sutvarkė reikalus su Smo­
     lensku, kuriame irgi paliko savo vietininkus. Tą padarė ir su
@@ -562,7 +576,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 272."
   citata_originali: |
     Vytautas turėjo patrankų ir savo žygiuose į Pskovą
     (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
@@ -582,7 +597,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-163431
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 129."
   citata_originali: |
     Todėl suprantama,
 
@@ -604,7 +620,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 262."
   citata_originali: |
     Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
     sitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,
@@ -625,7 +642,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-163433
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 329"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 329."
   citata_originali: |
     Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys
     jau Maskvos žygio metu įtartinai laikėsi, Švitrigaila buvo uždary­
@@ -648,7 +666,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-163435
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 26."
   citata_originali: |
     Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar-
     das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti,
@@ -668,7 +687,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-163436
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
     ir lietuvių strigo (tuo metu Jogaila sto-
@@ -693,7 +713,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-163437
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 26."
   citata_originali: |
     Didžiulė politinė permaina, atėjusi per Jogailą
     su Lietuvos krikštu ir sąjunga su Lenkija, vėliau greitas Lietuvos
@@ -714,7 +735,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-163438
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 326"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 326."
   citata_originali: |
     Vilniaus valdovo susilpnėjimu naudojosi ir kitos jo įtakoje
     buvusios žemės. Didysis Naugardas netrukus išslydo iš Vytauto
@@ -734,7 +756,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-163439
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 199."
   citata_originali: |
     Tačiau neparemti jie pralaimėjo, ir Kazi-
     mierui teko padaryti su Maskva amžinąją taiką (1449 m.), —
@@ -756,7 +779,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-163440
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 107."
   citata_originali: |
     Bet užtat daug geriau Algirdui sekėsi į
     pietus nuo Smolensko. Čia jis užėmė visas Dniepro ir Desnos
@@ -778,7 +802,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 262."
   citata_originali: |
     Be mokesčių Vytautas didindavo dar savo pajamas ir kon­
     tribucijomis. Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
@@ -798,7 +823,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-163443
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 228."
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
     patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų
@@ -826,7 +852,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-163445
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
     kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
@@ -846,7 +873,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 272."
   citata_originali: |
     Tačiau
     šie, palyginti, dar nauji karo technikos pabūklai buvo tokie ne­
@@ -865,7 +893,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-171574
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 436"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 436."
   citata_originali: |
     Apie juos senovės Graikijos
     geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­
@@ -893,7 +922,8 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - id: c-176847
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 39."
   citata_originali: |
     Gedimi­
     no viešpatavimas Lietuvai anuomet buvo tokia pat epocha,
@@ -917,9 +947,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - t-021
 
 - id: c-184406
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 51"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 51."
   citata_originali: |
     Nes paskesniai karšda-
     mas Gostomyslas, rėdytojas Didžiojo Naugardo, ta­

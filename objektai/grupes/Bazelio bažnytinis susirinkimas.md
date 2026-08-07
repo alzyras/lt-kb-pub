@@ -59,7 +59,8 @@ Tuo tarpu Bazelio bažnytinis susirinkimas dar 1431 m. pabaigoje siekė sutaikyt
 - id: c-44725
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     Lietuvos valdovas buvo skun-
     džiamas popiežiui. Tuo tarpu Bazelio

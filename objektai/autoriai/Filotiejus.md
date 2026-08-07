@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0393eb0ddc0421f78bad4b86"
+canonical_name: "Filotiejus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Filotiejus"]
+sameAs: []
+canonical_biography: "Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsisąmo­ nino savo politinėje programoje, jog reikia iš Lietuvos jėga atimti^11 (^11) Taip rašė savo laiške Vosyliui III (1505-1533) Eleazaro vienuolyno (prie Pskovo) vienuolis Filotiejus."
 ---
 # Filotiejus
 
@@ -59,7 +66,8 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
 - id: c-32926
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 36."
   citata_originali: |
     O «antrajai Romai »
     (Konstantinopoliui) kritus, Maskva turėjo įkūnyti «trečiąją Ro­

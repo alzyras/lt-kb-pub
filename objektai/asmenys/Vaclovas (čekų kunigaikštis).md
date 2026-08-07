@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c4f1e5861a7f1b816410def9"
+canonical_name: "Vaclovas (čekų kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaclovas (čekų kunigaikštis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų kunigaikštis, kuris prieš 300 metų irgi taip buvo savo brolio nugalabytas, ir pasiūlė minėtajam karaliui Henrikui, kad savo vardui pagerbti pasirūpintų pastatydinti bažnyčią, o tas šitaip ir padarė, būtent."
 ---
 # Vaclovas (čekų kunigaikštis)
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų
 - id: c-61087
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232."
   citata_originali: |
     1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs
     už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų

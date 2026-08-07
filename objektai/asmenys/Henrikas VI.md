@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f132e8a815e961c62fdc29bf"
+canonical_name: "Henrikas VI"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas VI"]
+sameAs: []
+canonical_biography: "Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą), tai jo kelionėje užteko Vytauto kepurės, kaip „lydimojo rašto“ per totorių žemes."
 ---
 # Henrikas VI
 
@@ -100,7 +107,8 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 160."
   citata_originali: |
     bet ir visi kiti totoriai^1 ). Ir tikrai, kada Gilbert de Lannoy, Ang­
     lijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą),
@@ -118,7 +126,8 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 - id: c-64624
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     Vokiečių ordino pradžią jis
     datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai
@@ -141,7 +150,8 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 - id: c-167469
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
   citata_originali: |
     Nors
     apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai

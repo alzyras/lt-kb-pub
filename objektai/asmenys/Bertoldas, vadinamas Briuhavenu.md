@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a53e302b4c841b4565b8da3b"
+canonical_name: "Bertoldas, vadinamas Briuhavenu"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bertoldas, vadinamas Briuhavenu"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šalimais tekančio upelio Ragaine, palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą, su 40 brolių ir šimtu rinktinių ginklanešių. Dusburgietis teigia, kad apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie jo gyvenimą Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas Karaliaučiaus brolių komtūru. Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį."
 ---
 # Bertoldas, vadinamas Briuhavenu
 
@@ -41,11 +48,19 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 <a id="claim-t-59876"></a>
 - t-001
   teiginys: "Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Medraba: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Medraba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo, kad Bertoldas po nesėkmingo statybos trukdymo puolė Medrabos pilį."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Bertoldas, vadinamas Briuhavenu puolė Medraba (0.86); Bertoldas, vadinamas Briuhavenu užėmė Medraba (0.73)"
   pagrindžia:
-    - c-60509
+    - c-60513
 
 <a id="claim-t-59877"></a>
 - t-002
@@ -197,7 +212,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60508
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
   citata_originali: |
     Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
     jo gyvenimą
@@ -220,7 +236,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60509
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
   citata_originali: |
     243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
     1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
@@ -235,13 +252,13 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-60510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     1298 viešpaties
     metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur
@@ -268,7 +285,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
   citata_originali: |
     Apie Ragainės ir Skalvių pilių pastatymą
 
@@ -292,7 +310,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
     kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
@@ -310,7 +329,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
   citata_originali: |
     Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su
     tūkstančiu Sembos vyrų  ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai
@@ -320,7 +340,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   citata_rodoma: "Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su\ntūkstančiu Sembos vyrų  ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai\nstipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link\nMedrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki\npamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

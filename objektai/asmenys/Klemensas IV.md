@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dfb96b0a5b1a3a3998c3a994"
+canonical_name: "Klemensas IV"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Klemensas IV"]
+sameAs: []
+canonical_biography: "Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje Mindaugą vadina „šviesaus atminimo valdovu“."
 ---
 # Klemensas IV
 
@@ -84,7 +91,8 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
 - id: c-21823
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 31."
   citata_originali: |
     Mindaugas ryžosi kariauti su Vokiečių ordinu. Kartais teigia-
     ma, kad Mindaugas atsimetė ir nuo krikščionybės. Tačiau praėjus keletui
@@ -102,7 +110,8 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
 - id: c-166945
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 31."
   citata_originali: |
     Kartais teigia-
     ma, kad Mindaugas atsimetė ir nuo krikščionybės. Tačiau praėjus keletui

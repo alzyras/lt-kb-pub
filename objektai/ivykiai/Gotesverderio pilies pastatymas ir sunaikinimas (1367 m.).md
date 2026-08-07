@@ -64,7 +64,8 @@ Nenurodyta
 - id: c-178561
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 249."
   citata_originali: |
     Su­
     grįžęs po to į Prūsiją, paragino maršalą Šindekopfą, ne­

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8209c466c5ebc647bfdd4767"
+canonical_name: "St. Krakowski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["St. Krakowski"]
+sameAs: []
+canonical_biography: "Krakowski : Korjatowicze i sprawa Podolska w XIV w."
 ---
 # St. Krakowski
 
@@ -58,7 +65,8 @@ Krakowski : Korjatowicze i sprawa Podolska w XIV w.
 - id: c-33147
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 269."
   citata_originali: |
     2, 334-347 p. — Gana tiksliai visą ginčą įvertino St. Krakowski :**
     **_Korjatowicze i sprawa Podolska w XIV w. w oświetleniu najnowszej historjo-

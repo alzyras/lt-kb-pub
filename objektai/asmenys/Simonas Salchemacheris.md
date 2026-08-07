@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fd9574e3306bcf86b0d0bc82"
+canonical_name: "Simonas Salchemacheris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Simonas Salchemacheris"]
+sameAs: []
+canonical_biography: "1520 m. Kauno miestietis ir pirklys Simonas Salchemacheris Tome gavo Zygimanto Senojo apsauginį raštą, suteikiant į jam apsaugą prekiaujant Lenkijoje, Lietuvoje, Mazovijoje, Priisijoje ir kituose kraštuose."
 ---
 # Simonas Salchemacheris
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185499
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 81"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 81."
   citata_originali: |
     Kad tokių prekybos kelionhĮ būta, liudija keli kauniečių paminėjimai Lenkijos
     miestuose kalbamo laikotarpio pabaigoje.

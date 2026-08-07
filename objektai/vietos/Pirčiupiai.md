@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-439736f38ac951f9eab83f14"
+canonical_name: "Pirčiupiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pirčiupiai"]
+sameAs: []
+canonical_biography: "Įtariami pasikėsinimu į vokiečių kareivius žudyti be teismo, kartais sudeginami ištisi kaimai (Pirčiupiai)."
+place_authority: true
+historical_names: []
 ---
 # Pirčiupiai
 
@@ -32,7 +41,8 @@ media_all_json: |-
 - id: c-24385
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 202."
   citata_originali: |
     Vokietijoje išvežti dirbo apie 60 000
     Lietuvos gyventojų.

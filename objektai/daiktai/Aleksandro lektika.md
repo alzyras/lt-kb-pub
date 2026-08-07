@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-55371
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 250."
   citata_originali: |
     Tačiau neilga buvo karaliaus vieš­
     nagė šioje pilyje, kadangi, vos dienai praėjus, pakeliui

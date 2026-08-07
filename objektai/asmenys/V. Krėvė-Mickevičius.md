@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0760af30b1899fca640aeca5"
+canonical_name: "V. Krėvė-Mickevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Krėvė-Mickevičius"]
+sameAs: []
+canonical_biography: "Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad žydai tarpusavyje dažnai vartojo rusų kalbą. Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt."
 ---
 # V. Krėvė-Mickevičius
 
@@ -50,7 +57,8 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 - id: c-65017
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Kultūros suvienodinimas
     J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros
@@ -74,7 +82,8 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 - id: c-65019
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Lietu-
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose

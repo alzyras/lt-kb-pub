@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-18cc7f8abd1c020b486f1513"
+canonical_name: "Valachija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Valachija"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Valachija
 

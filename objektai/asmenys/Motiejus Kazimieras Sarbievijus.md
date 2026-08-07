@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-10f3ea98111302c73ddf1b03"
+canonical_name: "Motiejus Kazimieras Sarbievijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus Kazimieras Sarbievijus"]
+sameAs: []
+canonical_biography: "Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į."
 ---
 # Motiejus Kazimieras Sarbievijus
 
@@ -41,7 +48,8 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
 - id: c-21902
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 81."
   citata_originali: |
     fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-
     kymo principus ir didelius reikalavimus, intensyvaus mokymo sistemą, o

@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df2e760f5d55523aa6d8b0c1"
+canonical_name: "Liepoja"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liepoja"]
+sameAs: []
+canonical_biography: "Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda. Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų."
+place_authority: true
+historical_names: []
 ---
 # Liepoja
 
@@ -97,7 +106,8 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - id: c-24245
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Reali valdžia Tarybai nebuvo suteikta, tad ji ėmėsi sunkaus
     vaidmens – tarpininkės tarp lietuvių tautos ir Oberosto, stengdamasi pa-
@@ -125,7 +135,8 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - id: c-24246
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     Lietuvos delegacijai vadovavo A. Voldemaras, joje
     dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Domi-
@@ -151,7 +162,8 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - id: c-167007
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     Memoran-
     dumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį
@@ -177,7 +189,8 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - id: c-167178
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Zigmantą Sierakauską,
 

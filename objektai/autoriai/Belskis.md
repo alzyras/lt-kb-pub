@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-301071a9bbb32dc5d5b3363e"
+canonical_name: "Belskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Belskis"]
+sameAs: []
+canonical_biography: "Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledos vardo panašumu į Ladą. Narbutas mini, kad Belskis savo kronikoje pasakojo panašų dalyką apie senovės prūsų monetas. Belskis buvo ir lietuvių valdovų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytautaitis, kuris valdė Pskovo žemę apie 1342 metus27 28."
 ---
 # Belskis
 
@@ -75,7 +82,8 @@ Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledo
 - id: c-173264
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
   citata_originali: |
     Šie
     mitai jokiu būdu netaikomi Ledos dvyniams Kastorui ir Poliuk-
@@ -99,7 +107,8 @@ Narbutas klaidinga laikė nuomonę, kurią siejo su kronikininku Belskiu ir Ledo
 - id: c-173265
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
   citata_originali: |
     Iškiliojoje pusėje
     ženklas, panašus į vadinamojo biarmiškojo raidyno raidę A

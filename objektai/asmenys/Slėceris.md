@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b58267914eb5ce4016e55479"
+canonical_name: "Slėceris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Slėceris"]
+sameAs: []
+canonical_biography: "Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip satrium ir lygino su lietuvišku žodžiu lihtars. Narbuto vertinimu, Slėceris keliautojų sunkumus renkant žinias net apsišvietusiuose kraštuose teisingai priskyrė vaizdinių aiškinimo kliūtims. Narbutas rašo, kad Slėceris laikė juokinga mintį, jog krivičių paminėjimas galėtų reikšti prūsų vyriausiąjį kunigą."
 ---
 # Slėceris
 
@@ -40,7 +47,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
 <a id="claim-t-191176"></a>
 - t-001
   teiginys: "Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip satrium ir lygino su lietuvišku žodžiu lihtars."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,7 +55,7 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174063
+    - c-174058
 
 <a id="claim-t-191177"></a>
 - t-002
@@ -205,7 +212,8 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
 - id: c-174058
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
   citata_originali: |
     Skitai gintarą
     vadino
@@ -219,14 +227,17 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   citata_rodoma: "Skitai gintarą\nvadino\nsacrium.\nŠio\nžodžio\ngalūnė\nsugraikinta.\nSlėceris skaito satrium ir tą žodį prilygina lietuviškam lihtars. Tik­\nriausiai jį labiausiai reikėtų lyginti su skilu kalbos žodžiais*."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-174059
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Europą ir Afriką kartu jie vadino Europa, o
     Siaurės reikšmė buvo siejama anaiptol ne su šiauriniais
@@ -253,7 +264,8 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
 - id: c-174060
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 340."
   citata_originali: |
     Čia pakalbėsime apie kai
     kurias detales, palikdami išvadas daryti skaitytojui. Be
@@ -276,7 +288,8 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
 - id: c-174061
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Visa tai išliko Prūsijoje. Jie
     nekalbėjo slaviškai, nes Nestoras nemini jų tarp slaviškų
@@ -296,7 +309,8 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
 - id: c-174062
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 342."
   citata_originali: |
     Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
     84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
@@ -316,7 +330,8 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
 - id: c-174063
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra
@@ -336,5 +351,4 @@ Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip sa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-006

@@ -82,7 +82,8 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
 - id: c-75724
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 140."
   citata_originali: |
     Po kurio laiko
     M. P. Sapiega, gavęs iš Višnioveckių
@@ -113,7 +114,8 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
 - id: c-75725
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 140."
   citata_originali: |
     Kartu su juo pasitraukė
     iždininkas B. P. Sapiega ir marša-

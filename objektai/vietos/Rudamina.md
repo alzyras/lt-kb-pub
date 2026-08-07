@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-800b1e18dac5188e8df88189"
+canonical_name: "Rudamina"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rudamina"]
+sameAs: []
+canonical_biography: "Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš didesnių mūšių prie Rudaminos: pasisekė paimti nelaisvėn lietuvių kariuome­ nės."
+place_authority: true
+historical_names: []
 ---
 # Rudamina
 
@@ -193,7 +202,8 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 - id: c-105965
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 189."
   citata_originali: |
     Pa­
     naikinęs ano titulą ir pareigas, įvedė nuolatinio vikaro pa­
@@ -224,7 +234,8 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 - id: c-105966
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 153."
   citata_originali: |
     Ir vos tik magistras prie Vilniaus
     įsirengė stovyklą, bemat turėjo siųsti keturis pulkus apsau­
@@ -249,7 +260,8 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 - id: c-105967
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48."
   citata_originali: |
     Bemaž tuo metu Vilniuje gerokai
     25
@@ -284,7 +296,8 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 - id: c-105970
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48."
   citata_originali: |
     Vilniaus
     miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
@@ -313,7 +326,8 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 74."
   citata_originali: |
     Ypa­
     tingai Vytautas puolė ir naikino išėjusius maisto ir pašaro ieš­
@@ -332,7 +346,8 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 - id: c-105973
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 47-48"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 47-48."
   citata_originali: |
     Tuo
     22

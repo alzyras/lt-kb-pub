@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f8dedcb66d3fbc7369101755"
+canonical_name: "Nikolajus Karamzinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nikolajus Karamzinas"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pradžioje buvo atstatytas po poloviečių sunaikinimo. Teodoras Narbutas nurodo, kad Karamzinas tyrimuose rašė apie vitbionų sostinę Witsby prie Dauguvos, dabartinio Vitebsko vietoje. Teodoras Narbutas remiasi Karamzinu teigdamas, kad poloviečiai patys save vadino Kipczak."
 ---
 # Nikolajus Karamzinas
 
@@ -32,15 +39,22 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
 <a id="claim-t-191142"></a>
 - t-001
   teiginys: "Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pradžioje buvo atstatytas po poloviečių sunaikinimo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Poloviečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nikolajus Karamzinas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Poloviečiai: mention_match, group, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nikolajus Karamzinas\" parinktas kaip owner_note_path. Targetas \"Poloviečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174027
+    - c-174024
 
 <a id="claim-t-191143"></a>
 - t-002
@@ -127,7 +141,8 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
 - id: c-174024
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
     ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
@@ -139,14 +154,17 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
   citata_rodoma: "Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­\nramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­\nčios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­\ntoro žodžius priskiria poloviečių veiksmams dešiniojoje\nDnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­\nstatytas XII amžiaus pradžioje po to, kai jį sunaikino\npoloviečiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-174025
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     Toliausiai į pietryčius gyveno
     stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
@@ -168,7 +186,8 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
 - id: c-174026
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     Dešiniojoje Dnep-
     1 Poloviečiai patys save vadino Kipczak. Tai įrodo Karamzinas
@@ -186,7 +205,8 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
 - id: c-174027
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 108."
   citata_originali: |
     102
     Poloviečiai-lietuviai. Esama įvairių tyrimų, prielaidų
@@ -202,13 +222,13 @@ Teodoro Narbuto perteikimu, Nikolajus Karamzinas teigė, kad Jurjevas XII a. pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-004
 
 - id: c-174028
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 215."
   citata_originali: |
     Manydami, kad mūsų skaity­
     tojai prisimena anksčiau šia tema sakytus dalykus (§55),

@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-87554
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140-141"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140-141."
   citata_originali: |
     Apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie
                                   brolį Heidenreichą, Kulmo vyskupą

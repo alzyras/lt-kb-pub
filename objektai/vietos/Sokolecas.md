@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6570cc51d51945a0f69b9fbe"
+canonical_name: "Sokolecas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sokolecas"]
+sameAs: []
+canonical_biography: "Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą."
+place_authority: true
+historical_names: []
 ---
 # Sokolecas
 
@@ -52,7 +61,8 @@ Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Brac
 - id: c-168667
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 340."
   citata_originali: |
     Niekas taip
     D im itru i a tid u o d a  tė-

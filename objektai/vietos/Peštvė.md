@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ed52cc0aa6dd10bbfafb3412"
+canonical_name: "Peštvė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Peštvė"]
+sameAs: []
+canonical_biography: "Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo apgulta, tuo pat metu Žemaičių pietvakariuose nuteriojant « Po­ graudą»^26. Grįždami jie sudegino dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai buvo rodžiusios tvirtą atsparumą. Apie Peštvės įgulą yra užrašyta, jog ji, apgulusiems kryžiuočiams pasižadėjusi krikštytis, po derybų nakčia išbėgiojusi."
+place_authority: true
+historical_names: []
 ---
 # Peštvė
 
@@ -92,7 +101,8 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
 - id: c-33992
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 223."
   citata_originali: |
     1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
     gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies
@@ -115,7 +125,8 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
 - id: c-33993
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 258."
   citata_originali: |
     Tuo būdu Nemuno krantuose
     iki Kauno nebeliko jokio lietuvių gynimosi punkto. Apie Peštvės
@@ -135,7 +146,8 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
 - id: c-33994
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 258."
   citata_originali: |
     Bet kryžiuočiai tuojau pat surengė naują
     žygį ir dar pilnai neužbaigtą pilį sunaikino. Grįždami jie sudegino

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-77bdc4f2cccc63cf0e22e42a"
+canonical_name: "Visų Šventųjų bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Visų Šventųjų bažnyčia"]
+sameAs: []
+canonical_biography: "Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pritaikytos uždarytos bažnyčios: Šv."
+place_authority: true
+historical_names: []
 ---
 # Visų Šventųjų bažnyčia
 
@@ -32,7 +41,8 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 - id: c-24593
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
   citata_originali: |
     Už-
     darytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pri-

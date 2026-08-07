@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-443da83f0a7c956ba7acbf67"
+canonical_name: "Tikocino pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tikocino pilis"]
+sameAs: []
+canonical_biography: "Norėdami, kad šis mūsų valios pareiški­ mas greičiau pasiektų žmones, įsakėme tai perrašyti, kad ta­ da vienas būtų prie mūsų, kitas - pas jos didenybę karalaitę Oną, trečias - Tikocino pilyje."
+place_authority: true
+historical_names: []
 ---
 # Tikocino pilis
 
@@ -59,7 +68,8 @@ Norėdami, kad šis mūsų valios pareiški­ mas greičiau pasiektų žmones, �
 - id: c-82223
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 366."
   citata_originali: |
     Taip pat šį perrašytą
     testamentą mes kartą ir antrą, ir dar keliolika kartų perskai­

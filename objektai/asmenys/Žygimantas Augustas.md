@@ -35,12 +35,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-077de0fd46448f11b82f2562"
+canonical_name: "Žygimantas Augustas (arkivyskupas, XVI a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Žygimantas Augustas","Žygimantas Augustas (arkivyskupas, XVI a.)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau dingo)."
 ---
 # Žygimantas Augustas (arkivyskupas, XVI a.)
 
 ## Santrauka
 
-Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį. Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas.
+Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau dingo).
 
 ## Teiginiai
 
@@ -309,7 +316,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 <a id="claim-t-184910"></a>
 - t-014
   teiginys: "1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį."
-  atnaujinta: "2026-07-19 17:45"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -322,12 +329,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=25"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1543 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia santuoką, datą ir Elžbietos kilmę."
   pagrindžia:
     - c-168271
-    - c-168272
 
 <a id="claim-t-184911"></a>
 - t-015
@@ -383,7 +386,7 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 <a id="claim-t-194728"></a>
 - t-018
   teiginys: "1185) pasakoja, kad tik valdant Žygimantui Augustui karališkoji kanceliarija nustojo ma žesnes rusų cerkves vadinti sinagogomis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -465,15 +468,40 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 <a id="claim-t-202316"></a>
 - t-024
   teiginys: "Žygimanto Augusto laikais dalis mokesčių iždui buvo mokama bebrų, kiaunių ir lapių kailiais, o valstybinių žemių nuomininkai atsiskaitydavo lino audiniais."
-  atnaujinta: "2026-07-19 11:47"
+  atnaujinta: "2026-07-26 19:27"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
-  vertinimo_atnaujinta: "2026-07-19T08:47:37Z"
   pagrindžia:
     - c-185663
+
+<a id="claim-t-202515"></a>
+- t-025
+  teiginys: "Žygimanto Augusto valdymo laikais LDK pasiuntiniai iš iždo gaudavo damasto drabužiams, o Vilniaus valdovo rūmuose jo dvariškiams buvo siuvama apranga."
+  atnaujinta: "2026-07-26 19:27"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Augustas (arkivyskupas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
+  pagrindžia:
+    - c-185874
 
 ## Reikšmingi paminėjimai
 - c-014
@@ -510,7 +538,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-166162
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     Nors miestas didvyriškai gynėsi, po dviejų
     savaičių kovos įgula, nebegalėdama prie-
@@ -530,7 +559,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-166974
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 60."
   citata_originali: |
     Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailinin-
     kų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo
@@ -548,7 +578,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-166975
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 65."
   citata_originali: |
     Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
     Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
@@ -567,7 +598,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-167230
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196."
   citata_originali: |
     Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus
     vaivadai Mikalojui Radvilai.
@@ -585,7 +617,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-167231
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 198."
   citata_originali: |
     Jono Kolegijos Vaistinės kronika
     1546. Žygimanto Augusto laikais to mūrinio namo vie­
@@ -607,7 +640,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-167232
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     La­
     biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-
@@ -627,7 +661,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-167233
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 288-289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 288-289."
   citata_originali: |
     272
 
@@ -652,7 +687,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-167234
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 290."
   citata_originali: |
     Dvasios bažnyčią stovin­
     čius33. Nepaprastas įvairaus maisto brangymetis 1547 me­
@@ -676,7 +712,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-167235
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 290-291"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 290-291."
   citata_originali: |
     V I  L  N 7  I  A U S MIESTO ISTORIJA II TOM A S
     274
@@ -703,7 +740,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-167236
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 292"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 292."
   citata_originali: |
     Be kitų, Že­
     mutinėje pilyje buvo pastatyta Šv. Barboros bažnyčia, kurią
@@ -729,7 +767,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-167237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 294."
   citata_originali: |
     Apsirūpinus ar­
     tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
@@ -753,7 +792,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-167238
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 297."
   citata_originali: |
     Kai dar 1564 metais Bełsko seime Žygimantas Augustas
     tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­
@@ -781,7 +821,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-167239
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 302."
   citata_originali: |
     Mir­
     damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­
@@ -801,7 +842,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-168271
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 670"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 670."
   citata_originali: |
     1543 m e ta i
     Ž y g im a n ta s
@@ -831,7 +873,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-168272
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 696"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 696."
   citata_originali: |
     Kapituliacijos sąlygos nebuvo sun­
     kios, bet Fiurstenbergas nei duoto žodžio laikėsi, nei
@@ -849,13 +892,13 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
     - t-015
 
 - id: c-171546
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
   citata_originali: |
     Istorijos veikalą T. Narbutas baigia tokiais žodžiais: „Aš pri­
     vedžiau savo rašinį iki epochos, kuria baigėsi tautos savaran­
@@ -874,7 +917,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-171547
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     1414 metais
     kunigaikštis Vytautas, gyvendamas Veliuonos pilyje, administ­
@@ -896,7 +940,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-177124
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
   citata_originali: |
     Is­
     torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
@@ -919,7 +964,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-178828
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 696"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 696."
   citata_originali: |
     Kadangi švedų valdovas atsisakė siūlomos sąjungos,
     būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
@@ -950,7 +996,8 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
 - id: c-178829
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 701"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 701."
   citata_originali: |
     Visi vieningai nutarė, kad karalius, paėmęs Livoniją į
     savo globą, sudarytų savo nuožiūra su šiuo kraštu to­
@@ -988,9 +1035,9 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - t-021
 
 - id: c-184912
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 215"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 215."
   citata_originali: |
     Valdovui tekę neseniai spręsti kauniečių ginčus su Dancigo ir
     Karaliaučiaus pirkliais ir jis įsakęs neleisti svetimšaliams pirkliams prekiauti krašte.
@@ -1004,9 +1051,9 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - t-022
 
 - id: c-184913
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 217"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 217."
   citata_originali: |
     1560 m. Žygimantas Augustas, reaguodamas į vilniečių skundą, esą jiems trukdo-
     ma Kaune prekiauti, iš jų imamas vadinamasis atvykimo mokestis (Jl8Ka, mokestis,
@@ -1021,14 +1068,26 @@ Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sfor
     - t-023
 
 - id: c-185663
-  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
+  autorius: "Marija Matušakaitė"
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)"
   puslapiai: "p. 59 (PDF 2)"
-  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 59 (PDF 2)."
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-19 11:47"
+  atnaujinta: "2026-07-26 19:20"
   pagrindzia:
     - t-024
+
+- id: c-185874
+  autorius: "Marija Matušakaitė"
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)"
+  puslapiai: "p. 59 (PDF 2)"
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 19:20"
+  pagrindzia:
+    - t-025
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]]

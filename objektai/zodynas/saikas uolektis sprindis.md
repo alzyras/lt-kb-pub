@@ -50,7 +50,8 @@ media_all_json: |-
 - id: c-82525
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 406"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 406."
   citata_originali: |
     Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba
     vartų į prieglaudos namus, esančių iš gatvės priešais šv. Dva­

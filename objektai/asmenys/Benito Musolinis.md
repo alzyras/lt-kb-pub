@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-04fb640cb4b0113299707a61"
+canonical_name: "Benito Musolinis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Benito Musolinis"]
+sameAs: []
+canonical_biography: "Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje, perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m. gegužę Lenkijoje, kurio metu į valdžią grįžo J."
 ---
 # Benito Musolinis
 
@@ -40,7 +47,8 @@ Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į va
 - id: c-21621
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     Taigi Maskva, nepaisydama Lenkijos nepasitenkinimo, pri-
     pažino Lietuvos suverenitetą Vilniuje.

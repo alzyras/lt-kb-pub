@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dfcf167ae37eff03598ca65d"
+canonical_name: "Pernu"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pernu"]
+sameAs: []
+canonical_biography: "Vytautas išleido kunigaikštytę Sofiją iš Marienburgo, o jos palyda iš Gdansko laivais pasiekė Pernu ir Pskovą."
+place_authority: true
+historical_names: []
 ---
 # Pernu
 
@@ -77,7 +86,8 @@ Vytautas išleido kunigaikštytę Sofiją iš Marienburgo, o jos palyda iš Gdan
 - id: c-170579
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 93."
   citata_originali: |
     Tais pačiais metais, Vytautui būnant Vokiečių že­
     mėje, į Marienburgą atvyko pasiuntiniai iš Maskvos,

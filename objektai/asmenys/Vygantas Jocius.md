@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b89d35ef1dbf1fe51a1544e1"
+canonical_name: "Vygantas Jocius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vygantas Jocius"]
+sameAs: []
+canonical_biography: "Pagamintas parlamento gynėjo, kūrėjo savanorio Vyganto Jociaus 2010 m. Analogiški buvo gaminami 1991 m. sausio įvykių ir rugpjūčio pučo metu 254 AUKŠČIAUSIOS TARYBOS GYNYBA 1991 m."
 ---
 # Vygantas Jocius
 
@@ -63,7 +70,8 @@ Pagamintas parlamento gynėjo, kūrėjo savanorio Vyganto Jociaus 2010 m. Analog
 - id: c-41481
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 256."
   citata_originali: |
     Butelio su padegamuoju skysčiu
     demonstracinė versija. Pagamin-

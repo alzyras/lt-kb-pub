@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-baec5e7b63e4b7107df23a29"
+canonical_name: "Zemislovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zemislovas"]
+sameAs: []
+canonical_biography: "Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai."
 ---
 # Zemislovas
 
@@ -66,7 +73,8 @@ Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemis
 - id: c-169629
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 124."
   citata_originali: |
     Tuo tarpu kilo neramu-
     1269 m e ta i

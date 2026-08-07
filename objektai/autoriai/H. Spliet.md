@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bea22eac301405215e0f7102"
+canonical_name: "H. Spliet"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["H. Spliet"]
+sameAs: []
+canonical_biography: "32, 1893, 222-255 p. — Spliet, H."
 ---
 # H. Spliet
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-32939
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 238."
   citata_originali: |
     — (”) _Pilkalnis na Litwie,_ Studja Staropolskie, księga ku czci
     Aleksandra Brucknera, Kraków 1928, 154-172 p. — Kučinskas, A. :

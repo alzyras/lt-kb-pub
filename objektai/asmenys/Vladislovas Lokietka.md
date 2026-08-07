@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aef8f99febb65f7f376dbc2b"
+canonical_name: "Vladislovas Lokietka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras bei Lokietka","Lenkijos karalius","Lenkijos karalius Vladislovas Lokietka","Lokietka","Vladislovas Lokietka","Vladislovas Lokietka (Lenkijos karalius)"]
+sameAs: []
+canonical_biography: "Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje. 1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi 24."
 ---
 # Vladislovas Lokietka
 
@@ -60,13 +67,20 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 <a id="claim-t-90066"></a>
 - t-002
   teiginys: "Gedimino Lietuva buvo susitarusi su Vladislovu Łokietka dėl bendrų veiksmų."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Auksinė Orda: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vladislovas Lokietka: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė Orda: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Lokietka\" parinktas kaip owner_note_path. Targetas \"Auksinė Orda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1323 m.; įvykio data: 1324 m.; įvykio data: 1325 m.; įvykio data: apie 1325 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   pagrindžia:
-    - c-85953
+    - c-56172
 
 <a id="claim-t-90067"></a>
 - t-003
@@ -108,14 +122,21 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 <a id="claim-t-90070"></a>
 - t-005
   teiginys: "1323 m. pabaigoje ar 1324 m. pradžioje Gedimino Lietuva, matyt, susitarusi su Vladislovu Lokietka, užėmė Bresto žemę arba Palenkę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Palenkė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vladislovas Lokietka: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Palenkė: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Lokietka\" parinktas kaip owner_note_path. Targetas \"Palenkė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1323 m.; įvykio data: 1324 m.; įvykio data: 1325 m.; įvykio data: apie 1325 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Pašalintas perteklinis šaltinio įvadas ir sutrumpinta iki aiškaus fakto."
   pagrindžia:
-    - c-85955
+    - c-56172
 
 <a id="claim-t-90071"></a>
 - t-006
@@ -238,7 +259,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - id: c-56171
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
   citata_originali: |
     Vladislovo Lokietkos suvienyta Lenkija bandė diplomatijos priemonėmis atgauti
     kryžiuočių užgrobtą Pomeraniją. 1320 m. balandžio—1321 m. vasario mėn. Inovroclave
@@ -254,7 +276,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - id: c-56172
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
   citata_originali: |
     Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
     m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
@@ -263,14 +286,18 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   citata_rodoma: "Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324\nm. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę\n(Brestą, Kamenecą, Kobriną, Melniką, Drohičiną). Apie 1325 m. Gedimino kariuomenė\nnužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+    - t-005
+
 - id: c-56173
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo
     žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
@@ -290,7 +317,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - id: c-56174
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 254."
   citata_originali: |
     Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius,
     padarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį
@@ -311,7 +339,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - id: c-85949
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 40."
   citata_originali: |
     Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje
     ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­
@@ -331,7 +360,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - id: c-85951
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Apie Lenkijos žemės apiplėšimą
 
@@ -353,7 +383,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - id: c-85952
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 223."
   citata_originali: |
     361 (354). Apie Brandenburgo markgrafystės nusiaubimą ir apie tai, kaip prarado gy­
     vastį ar pakliuvo į nelaisvę šeši tūkstančiai krikščionių
@@ -371,7 +402,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - id: c-85953
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
     Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
@@ -386,13 +418,13 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-003
 
 - id: c-85955
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 256-257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256-257."
   citata_originali: |
     Apie Kulmo žemės nusiaubimą 1330 metais
 
@@ -411,16 +443,15 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     sutartis, jis pasitraukė.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
 - id: c-167747
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 239."
   citata_originali: |
     **4. Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
     Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo

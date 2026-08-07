@@ -60,7 +60,8 @@ media_all_json: |-
 - id: c-33772
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 298."
   citata_originali: |
     (^18) **CDV, I, 29-30 (nr. 16).**
     (^19) **_Zbiór praw litewskich_** **, Poznań 1841, 1-2.**

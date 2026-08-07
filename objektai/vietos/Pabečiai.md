@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b106bfbe2eb98509395f6dd4"
+canonical_name: "Pabečiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pabečiai"]
+sameAs: []
+canonical_biography: "Pabečiai šiame šaltinyje minimi kaip Sembos valsčius šiaurinėje pusiasalio dalyje. Dusburgietis ir leidimo komentarai jį sieja su Bečių vardu, brolių karo žygiu bei labai gausiu kariniu pajėgumu."
+place_authority: true
+historical_names: []
 ---
 # Pabečiai
 
@@ -121,7 +130,8 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
 - id: c-68335
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
   citata_originali: |
     Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
     Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
@@ -146,7 +156,8 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
 - id: c-68336
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
   citata_originali: |
     379 D. — territorium Pubeten, Jer. — gebît Pobêtin; Pabečiai (dab. Romanovas),
     gyvenvietė šiaurės Semboje  į pietryčius nuo buv. Naujųjų Kuršių, Neu-Kuhren (dab.

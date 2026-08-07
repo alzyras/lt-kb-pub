@@ -123,7 +123,8 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 - id: c-84121
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 178."
   citata_originali: |
     Dinaburgo komtūras praneša Livonijos magistrui, kad
     Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką;
@@ -142,7 +143,8 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 - id: c-84122
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 178."
   citata_originali: |
     Rašyta: Liksnoje, antrą savaitę po Viešpaties
     Prisikėlimo. Be metų (turbūt, 1396).
@@ -163,7 +165,8 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 - id: c-84123
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 180-181"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 180-181."
   citata_originali: |
     164
 
@@ -192,7 +195,8 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 - id: c-84124
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 181."
   citata_originali: |
     Mano Petras negalėjo išsiteirauti apie Švitri­
     gailos pasišalinimo priežastį: tepasakė man, kad Švitrigaila
@@ -214,7 +218,8 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 - id: c-84125
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 183-184"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 183-184."
   citata_originali: |
     Dinaburgo komtūras
     (parašas)

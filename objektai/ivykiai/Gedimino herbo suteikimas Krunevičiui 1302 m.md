@@ -94,7 +94,8 @@ Nenurodyta
 - id: c-172503
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 403."
   citata_originali: |
     Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
     jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
@@ -116,7 +117,8 @@ Nenurodyta
 - id: c-172504
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 404"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
   citata_originali: |
     Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
     herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­

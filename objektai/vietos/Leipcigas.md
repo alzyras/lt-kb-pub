@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-812bce0ef091aee7fc7691be"
+canonical_name: "Leipcigas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Leipcigas"]
+sameAs: []
+canonical_biography: "Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige."
+place_authority: true
+historical_names: []
 ---
 # Leipcigas
 
@@ -122,7 +131,8 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 - id: c-24233
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 127."
   citata_originali: |
     Lietuviai pirmieji Vilniuje
     įkūrė Lietuvių dailės draugiją, pra-
@@ -146,7 +156,8 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 - id: c-79985
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 459-460"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 459-460."
   citata_originali: |
     Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
     aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad
@@ -170,7 +181,8 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 - id: c-79986
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 458"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 458."
   citata_originali: |
     Die 5 Augusti [rugpjūčio 5 dieną] per Turčiną, kai jo kara­
     liškajai didenybei pinigus nuvežė į Leipcigą, pakeisdamas
@@ -185,9 +197,9 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
     - t-003
 
 - id: c-184973
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 354"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 354."
   citata_originali: |
     Lietuvos bernardinų istorijos tyrinėtojams nežinomas gvardijonas
     Eustachijus Vištortas. O kad knygos Kauno vienuolynams būdavo perduodamos praėjus

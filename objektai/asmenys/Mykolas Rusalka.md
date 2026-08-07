@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cc99f0592a165b4ddf4ea662"
+canonical_name: "Mykolas Rusalka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Rusalka"]
+sameAs: []
+canonical_biography: "O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­ tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­ sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio, Mykolo Rusalkos ir."
 ---
 # Mykolas Rusalka
 
@@ -64,7 +71,8 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
 - id: c-83780
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 246."
   citata_originali: |
     Pirmiausia Maskvoje (1494 m.)
     balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­

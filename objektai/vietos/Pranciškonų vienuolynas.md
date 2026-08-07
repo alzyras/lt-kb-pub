@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7b5f3a3b3247dabcabbbd013"
+canonical_name: "Pranciškonų vienuolynas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pranciškonų vienuolynas"]
+sameAs: []
+canonical_biography: "Kryžiaus) ir du vienuolynus, pranciškonų ir bernardinų, su savo bažnyčiomis."
+place_authority: true
+historical_names: []
 ---
 # Pranciškonų vienuolynas
 
@@ -41,9 +50,9 @@ Kryžiaus) ir du vienuolynus, pranciškonų ir bernardinų, su savo bažnyčiomi
 ## Citatos
 
 - id: c-185085
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 318"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 318."
   citata_originali: |
     Kaunas iš viduramžių
     paveldėjo parapinę Šv. Petro ir Pauliaus bažnyčią su įsikūrusiomis susidarančiuose

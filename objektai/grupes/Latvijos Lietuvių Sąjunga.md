@@ -50,7 +50,8 @@ media_all_json: |-
 - id: c-72127
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 682"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 682."
   citata_originali: |
     Tuo būdu tautiškas darbas
     žengia pirmyn. Šiuo metu Latvijos lietuviai turi 16 įvairių orga-

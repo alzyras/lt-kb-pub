@@ -4,13 +4,14 @@ pavadinimas: 'Julijona'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1383 m.'
-  - '1418 m.'
+  - '1423 m.'
 date_start: '1383'
-date_end: '1418'
+date_end: '1423'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c3be0855aef296d21efa2d24"
+canonical_name: "Julijona"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Julijona","Julijonos"]
+sameAs: []
+canonical_biography: "Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algirdo žmona ir Jogailos motina. Ivinskio tekste ji vadinama kunigaikščio Aleksandro dukterimi, o ankstesniame šaltinyje minima kaip Tverės kunigaikščio sesuo; abiem atvejais pabrėžiama jos vieta Jogailos ankstyvojoje politikoje."
 ---
 # Julijona
 
@@ -182,21 +190,16 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - c-168104
 
 ## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+- c-007
+  santrauka: 'Didysis Ordino magistras 1423 m. Reino vynu malo nino ir kunigaikštienę Julijoną, antrąją Vytauto žmoną, už ką ji atsidėkodama magistrui pasiuntė aukštą kepu rę ir porą pirštinių (24).'
+  šaltinis: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais
   citata_originali: |
-    Mat rusai nuo senų senovės įpratę Velykų dieną do­
-    vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
-    Algirdas, nors viešai laikėsi stabmeldžių apeigų, ta­
-    čiau, neseniai savo žmonos Julijonos, Vitebsko kuni­
-    gaikščio dukters, noru sutikęs priimti krikščionybę, ne­
-    atmetė rusų apeigų ir rusams Vitebske pastatė porą
-    šventovių. Palankumą krikščionybei jis, be to, parodė,
-    žiauriai tuo metu atkeršydamas už krikščionių šventi­
-    kų nužudymą.
+    Didysis Ordino magistras 1423 m. Reino vynu malo­
+    nino ir kunigaikštienę Julijoną, antrąją Vytauto žmoną,
+    už ką ji atsidėkodama magistrui pasiuntė aukštą kepu­
+    rę ir porą pirštinių (24).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
@@ -205,7 +208,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - id: c-04832
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 283."
   citata_originali: |
     Kaip kita­
     dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
@@ -231,7 +235,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - id: c-160500
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 165-166"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 165-166."
   citata_originali: |
     T. I, Nr. 698.
     149
@@ -260,7 +265,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - id: c-160501
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 270."
   citata_originali: |
     Bet jiedu nepasiekė tikslo, nes
     buvo perduoti didžiajam Maskvos kunigaikščini, šiam reikalaujant.
@@ -280,7 +286,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - id: c-160504
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 284."
   citata_originali: |
     Jogailos politikos nauja kryptis, t. y. jo savarankiška laikysena
     ir užsispyrimas nevykti į Skirsnemunę, gali būti tuo paaiškintas,
@@ -304,7 +311,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - id: c-160505
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 111."
   citata_originali: |
     Tuo būdu Jo-
     gaila pasidarė ordino sąjungininkas prieš dėdę. Sutarty net nu-
@@ -328,7 +336,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - id: c-168104
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
   citata_originali: |
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
     vanoti vienas kitam margutį kaip bičiuliškumo ženklą.

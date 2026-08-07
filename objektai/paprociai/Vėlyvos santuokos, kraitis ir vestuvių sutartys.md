@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-10048
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 101"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 101."
   citata_originali: |
     Nesgi mergaitės, nubengusios sunkiuosius darbus pas savo tėvus, tuojau verpė ir audė sau ant
         tėvų duonos ir drabužio lig ištekančios, kas vadinos pas juos kraitį kloti; nuo to paties regima yra,

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cd9c8164f44a0c6230a736ba"
+canonical_name: "Blinde"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Blinde"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja legendą, kad moteris Blindė galėjo gimdyti iš įvairių kūno dalių, o žemės pavydas ją pavertė blindės medžiu."
 ---
 # Blinde
 
@@ -53,7 +60,8 @@ Narbutas pasakoja legendą, kad moteris Blindė galėjo gimdyti iš įvairių k�
 - id: c-172969
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 240."
   citata_originali: |
     Toliau klausinėjant, pavyko išgirsti pasakojimą
     apie šventąją blindę. Viena moteris, besivadinanti Blinde (Blin­

@@ -107,7 +107,8 @@ formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti
 - id: c-175070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 266."
   citata_originali: |
     Barta (Bartnia). Pavadinimą davė čia gyvenusi gen­
     tis, vadinama Bortikas, tai reiškia vyrą, apsiginklavusį

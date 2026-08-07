@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-39f5fec1c553c03a53c26135"
+canonical_name: "Martynas Ostrovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Martynas Ostrovskis"]
+sameAs: []
+canonical_biography: "Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­ nanės, o du architektai ir raižytojai - Jonas Marija ir Jonas 34 Privilegija, duota Paleckiui steigti šią liejyklą, yra rašyta."
 ---
 # Martynas Ostrovskis
 
@@ -59,7 +66,8 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 - id: c-83752
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 291-292"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291-292."
   citata_originali: |
     Trys į
     Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­

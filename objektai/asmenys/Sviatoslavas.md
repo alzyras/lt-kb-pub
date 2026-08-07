@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d3caf290f374a334e64e039"
+canonical_name: "Sviatoslavas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sviatoslavas"]
+sameAs: []
+canonical_biography: "Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio sūnus Jurgis buvo priverstas padaryti su Lietuva sąjungą."
 ---
 # Sviatoslavas
 
@@ -34,11 +41,19 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 <a id="claim-t-179683"></a>
 - t-001
   teiginys: "Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Mstislavlis: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sviatoslavas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim'as tiesiogiai sako, kad Sviatoslavas užvaldė Mstislavlį."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sviatoslavas užėmė Mstislavlis (0.96); Sviatoslavas valdė Smolenskas (0.90)"
   pagrindžia:
-    - c-163352
+    - c-163350
 
 <a id="claim-t-179685"></a>
 - t-002
@@ -131,7 +146,8 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 - id: c-30288
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 294."
   citata_originali: |
     Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
     prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
@@ -148,7 +164,8 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 - id: c-163350
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 294."
   citata_originali: |
     Už pažadą ginti nuo priešų, jis ordinui buvo
     užrašęs «visą savo Polocko karalystę». Būdamas sąjungoje su
@@ -156,14 +173,17 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
     Bet maištininkai greitai buvo įveikti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-163352
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 294."
   citata_originali: |
     Būdamas sąjungoje su
     Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
@@ -173,16 +193,15 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   citata_rodoma: "Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus\nprie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo\nJogailai paklusnumą."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-168199
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 282-283"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 282-283."
   citata_originali: |
     Sviatoslavas, nuniokojęs Oršos apygardas, brovėsi į
     Mstislavlį, tiesa, neteko daug savųjų, tačiau nemaža
@@ -218,9 +237,9 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
     - t-004
 
 - id: c-184383
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 56"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 56."
   citata_originali: |
     Taip parėdžius ūkę,
     nukeliavusi į Konstantinopolį krikštytis, nuo kur
@@ -242,9 +261,9 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
     - t-005
 
 - id: c-184384
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 59"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 59."
   citata_originali: |
     Tuo tarpu radimičiai, apkyrėjus donį bemokėti
     Vladimirui, patrakę, kuriuos vienok jis sudraudęs
@@ -271,9 +290,9 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
     - t-006
 
 - id: c-184385
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 533"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 533."
   citata_originali: |
     Gyvento­
     jai, tą matydami, nusiminė ir, noris jų 400 000 tenai

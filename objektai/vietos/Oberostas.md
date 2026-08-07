@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8f4825eff8979e3189dd72a7"
+canonical_name: "Oberostas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Oberostas"]
+sameAs: []
+canonical_biography: "Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui stabilizavusis, sudarė karinę administraciją ir pavadino ją Oberostu (nuo Oberbefehlshaber Ost – Vyriausioji Rytų kariuomenės vadovybė). Nuostabiausia tai, kad žemėlapyje į pietus nutįsusi Oberosto teritorija forma kone sutapo su 1793–1795 m. LDK ribomis, kai, anot A. O Oberosto karinis kolonijinis režimas plėšė valstiečius, – nusavindavo maistą, apkrovė dideliais mokesčiais ir prievolėmis, pramonės įmones išvežė į Vokietiją, o mokyklose pradėjo germanizaciją (lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų."
+place_authority: true
+historical_names: []
 ---
 # Oberostas
 
@@ -32,7 +41,8 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
 - id: c-68316
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 132."
   citata_originali: |
     Ilga diskusija dėl Lietuvos ateities, politinių kompromisų su lenkais
     paieška buvo bevaisė. O Oberosto karinis kolonijinis režimas plėšė vals-

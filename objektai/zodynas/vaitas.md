@@ -81,7 +81,8 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - id: c-82535
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 234."
   citata_originali: |
     Privilegijose Žygimantas pareiškė, kad
     atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
@@ -106,7 +107,8 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - id: c-82536
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 245."
   citata_originali: |
     D u b i ń s k i, 1.10.
     41
@@ -141,9 +143,9 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
     - t-001
 
 - id: c-184855
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 48"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 48."
   citata_originali: |
     Teisėjo pareigos nebuvo vienintelės ir svarbiausios vaito pareigos. Lietuvos mies-
     tuose nusistovėjo tvarka, kad vaitas (advocatus, Vogt, aoum) buvo didžiojo kunigaikš-

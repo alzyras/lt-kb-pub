@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1861207458cfef6ce127c5c6"
+canonical_name: "Aukštutinė Dauguva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aukštutinė Dauguva"]
+sameAs: []
+canonical_biography: "Dauguvos bei Dniepro sričių gyventojai, kur menkiau už lietuvių buvo išsivystęs žemės ūkis, mokesčius mokėjo lau­ kinių žvėrių kailiukais, medumi^3 )."
+place_authority: true
+historical_names: []
 ---
 # Aukštutinė Dauguva
 
@@ -52,7 +61,8 @@ Dauguvos bei Dniepro sričių gyventojai, kur menkiau už lietuvių buvo išsivy
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 261."
   citata_originali: |
     Aukš. Dauguvos bei Dniepro sričių gyventojai, kur menkiau
     už lietuvių buvo išsivystęs žemės ūkis, mokesčius mokėjo lau­
@@ -71,7 +81,8 @@ Dauguvos bei Dniepro sričių gyventojai, kur menkiau už lietuvių buvo išsivy
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 261."
   citata_originali: |
     Žemai­
     čiai, kaip jau minėjome, kartais atsilygindavo Vytautui arkliais.

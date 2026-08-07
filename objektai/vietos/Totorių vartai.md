@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8c651b087c367773e5614620"
+canonical_name: "Totorių vartai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Totorių vartai"]
+sameAs: []
+canonical_biography: "Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas."
+place_authority: true
+historical_names: []
 ---
 # Totorių vartai
 
@@ -59,7 +68,8 @@ Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įt
 - id: c-82224
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 160."
   citata_originali: |
     Pirmiausia jų,
     regis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi

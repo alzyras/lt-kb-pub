@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-19d74e8829627601842ecb42"
+canonical_name: "Vindavos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vindavos upė"]
+sameAs: []
+canonical_biography: "Narbutas Vindavos upės pavadinimą laikė pėdsaku venedų slavų, galėjusių gyventi Baltijos pakrantėje tarp Vyslos ir Dauguvos žiočių."
+place_authority: true
+historical_names: []
 ---
 # Vindavos upė
 
@@ -54,7 +63,8 @@ Narbutas Vindavos upės pavadinimą laikė pėdsaku venedų slavų, galėjusių 
 - id: c-175681
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 99."
   citata_originali: |
     Pasakysime tiktai tiek, kad venedams priklausė ne viena
     gentis, labai dominanti mūsų veikalą, o panagrinėję pa­

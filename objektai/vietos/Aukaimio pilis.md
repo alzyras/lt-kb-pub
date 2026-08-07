@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1301e4084729137ec8851929"
+canonical_name: "Aukaimio pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aukaimio pilis","Aukaimio pilis (pilis)"]
+sameAs: []
+canonical_biography: "Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24. Aukaimį vėl atstačius, už trejų metų įvyko naujas išdavimas."
+place_authority: true
+historical_names: []
 ---
 # Aukaimio pilis (pilis)
 
@@ -134,11 +143,19 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 <a id="claim-t-67656"></a>
 - t-006
   teiginys: "Draikai slapta atidarius Aukaimio pilies vartus, broliai įsiveržė į pilį, ją ir papilį sudegino iki pamatų."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Aukaimio pilis (pilis): 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Aukaimio pilis (pilis): llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Broliai, t. y. kryžiuočiai, susirengė pulti Aukaimio pilį."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Aukaimio pilis (pilis) (0.84); Kryžiuočių ordinas užėmė Aukaimio pilis (pilis) (0.79)"
   pagrindžia:
-    - c-67479
+    - c-67477
 
 <a id="claim-t-67657"></a>
 - t-007
@@ -251,7 +268,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - id: c-31946
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 225."
   citata_originali: |
     Aukaimį vėl atstačius, už trejų metų įvyko naujas išdavimas.
     Su didele kariuomene Karaliaučiaus komtūrui pilį apgulus (1305),
@@ -272,7 +290,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - id: c-67473
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Todėl, įsibrovę
     į Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami. Paėmę  į nelaisvę ir
@@ -293,7 +312,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - id: c-67474
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 223."
   citata_originali: |
     1291 buvo pulta,
     Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315
@@ -314,7 +334,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - id: c-67475
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 199."
   citata_originali: |
     Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
 
@@ -336,7 +357,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - id: c-67476
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
   citata_originali: |
     Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
 
@@ -356,7 +378,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - id: c-67477
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
     štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
@@ -372,14 +395,17 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   citata_rodoma: "Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir\nštai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,\nkad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.\nDėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus,  ir broliai, ten\nįsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai\n\n  554 Konradas Žakas, atrodo, ne pastatė Goliubo  pilį, o tik ją pritaikė kryžiuočių\nporeikiams (Powierski J., Dobra..., p. 191 — 192).\n\nsužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį\nDraiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-67478
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 199."
   citata_originali: |
     Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę
     ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino.
@@ -397,7 +423,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - id: c-67479
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
   citata_originali: |
     276 (269). Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
     Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į
@@ -411,13 +438,13 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
     - t-007
 
 - id: c-167751
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 225."
   citata_originali: |
     Normaliai, kada
     vakarinėse Lietuvos dalyse vyko žūtbūtinė kova už savo laisvę ir

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-557d421c3fe99006cbd19bee"
+canonical_name: "Antanas Solohubas (LDK artilerijos generolas, XVIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Solohubas","Antanas Solohubas (LDK artilerijos generolas, XVIII a.)","Antaną Solohubą","Antoni Sołłohub"]
+sameAs: []
+canonical_biography: "Antanas Solohubas buvo LDK artilerijos generolas."
 ---
 # Antanas Solohubas (LDK artilerijos generolas, XVIII a.)
 
@@ -31,7 +38,7 @@ Antanas Solohubas buvo LDK artilerijos generolas.
 <a id="claim-t-200493"></a>
 - t-001
   teiginys: "Antanas Solohubas buvo LDK artilerijos generolas."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
@@ -54,6 +61,6 @@ Antanas Solohubas buvo LDK artilerijos generolas.
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 03:26"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001

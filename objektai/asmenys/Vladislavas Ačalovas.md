@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43e4881863abcc212cc3d3d0"
+canonical_name: "Vladislavas Ačalovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladislavas Ačalovas"]
+sameAs: []
+canonical_biography: "Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos viceministras, buvęs sssR oro desanto kariuomenės vadas generolas pulkininkas Vladislavas Ačalovas ir sssR sausumos kariuomenės TANKAI PRIEŠ BEGINKLIUS ŽMONES Sausio 13 d."
 ---
 # Vladislavas Ačalovas
 
@@ -52,7 +59,8 @@ Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos vicemin
 - id: c-44562
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 255."
   citata_originali: |
     Apie 400 „raudonraiš-
     čių“, vadovaujamų „Nacionalinio gelbė-

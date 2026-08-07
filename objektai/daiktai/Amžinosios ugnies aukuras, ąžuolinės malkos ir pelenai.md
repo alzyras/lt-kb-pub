@@ -88,7 +88,8 @@ Nenurodyta
 - id: c-172601
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 225-226"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 225-226."
   citata_originali: |
     3. Dievo Perkūno šventykloje, senovės Romovėje, švento­
     jo ąžuolo ir žymiausių dievų stabų akivaizdoje stovėjo auku­
@@ -108,7 +109,8 @@ Nenurodyta
 - id: c-172602
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
   citata_originali: |
     Istoriniai padavimai skelbia, kad lie­
     tuviai XIV amžiuje šventuosius židinius slėpė ir dangstė ne­

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14880a121ff67dc2be2e9cfc"
+canonical_name: "Ovručas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ovručas"]
+sameAs: []
+canonical_biography: "Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą."
+place_authority: true
+historical_names: []
 ---
 # Ovručas
 
@@ -62,7 +71,8 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 69."
   citata_originali: |
     Šį kartą susirėmimų buvo išvengta: viskas pasibaigė
     Vytauto pagrasinimu. Tik 1394 metais jis puolė Vladimiro že­

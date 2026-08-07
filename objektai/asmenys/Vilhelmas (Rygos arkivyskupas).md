@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f918978346cfe94b33ae3517"
+canonical_name: "Vilhelmas (Rygos arkivyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vilhelmas (Rygos arkivyskupas)"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Vilhelmas (Rygos arkivyskupas)
 

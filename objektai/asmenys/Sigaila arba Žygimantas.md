@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2e6546e7e3536cf80e95f022"
+canonical_name: "Sigaila arba Žygimantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sigaila arba Žygimantas"]
+sameAs: []
+canonical_biography: "Narbutas Sigailą, arba Žygimantą, mini kaip vieną iš Kęstučio ir jo žmonos sūnų."
 ---
 # Sigaila arba Žygimantas
 
@@ -54,7 +61,8 @@ Narbutas Sigailą, arba Žygimantą, mini kaip vieną iš Kęstučio ir jo žmon
 - id: c-173091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Žemaičių ir Trakų kuni­
     gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­

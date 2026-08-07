@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b8f817852d3752e349253eb1"
+canonical_name: "Auktalitas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Auktalitas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė Kitais metais (1256) tas pats Karaliaučiaus komtūras vėl sutelkė stiprią kariuomenę ir patraukė į minėtąją Vonsdorfo žemę, ten pasistatė stovyklą, apsupdamas Auktalito pilį334, ir anksčiau. Dusburgietis teigia, kad 334 D.— Ochtolite, Jer.— Ouctolîte; vėlesnis Auglitten kair. Alnos krante aukščiau Alenburgo (dab. Družba). Piliavietėje vėliau buvo pastatyta bažnyčia (Ewald A."
+place_authority: true
+historical_names: []
 ---
 # Auktalitas
 
@@ -70,7 +79,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 - id: c-59153
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 109."
   citata_originali: |
     334 D.— Ochtolite, Jer.— Ouctolîte; vėlesnis Auglitten kair. Alnos krante aukščiau
     Alenburgo (dab. Družba). Piliavietėje vėliau buvo pastatyta bažnyčia (Ewald A.
@@ -86,7 +96,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 - id: c-59154
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 108."
   citata_originali: |
     75 (74). Apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė
 

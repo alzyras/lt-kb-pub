@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-30bbc1adf44e8f01a155ea46"
+canonical_name: "Dimitras sultanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dimitras sultanas"]
+sameAs: []
+canonical_biography: "Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei."
 ---
 # Dimitras sultanas
 
@@ -71,7 +78,8 @@ Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikšči
 - id: c-169557
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 219."
   citata_originali: |
     Pražygiavęs Kanevą ir Čerka­
     sus, jis priėjo vietą, kurią žmonės vadina Mėlynaisiais

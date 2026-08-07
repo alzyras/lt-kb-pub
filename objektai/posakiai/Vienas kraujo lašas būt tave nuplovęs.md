@@ -89,7 +89,8 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
 - id: c-12489
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 12."
   citata_originali: |
     Taigi 1792 m. liepos 23-iosios situacija akivaizdžiai dramatiš-
     kumu primena Lietuvos visuomenei daugiau žinomą 1940 m. bir-
@@ -111,7 +112,8 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
 - id: c-12490
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 12."
   citata_originali: |
     Užmirštama mintimis pereiti ir į kitą Aisčio eilutę - „Vienų
     vienas žodis būt tave apgynęs“. O tai reiškia, kad dažniausiai kalba

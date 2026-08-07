@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7de47d626886fe3e112aa92d"
+canonical_name: "Nevėžio upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nevėžio upė"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilučių saugoma Amžinoji ugnis. Narbutas perteikia Hartknocho nuomonę, kad Lietuvoje Kurko garbei kurstoma ugnis turėjusi degti prie Nevėžio upės. Kal nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio - šventykla."
+place_authority: true
+historical_names: []
 ---
 # Nevėžio upė
 
@@ -93,7 +102,8 @@ Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilu�
 - id: c-171846
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 115."
   citata_originali: |
     Strijkov­
     skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­
@@ -114,7 +124,8 @@ Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilu�
 - id: c-171847
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 224."
   citata_originali: |
     Dievo Kurko garbei taip pat degė nuolat kurstoma ug­
     nis, ypač Prūsuose, didelėje to dievo šventovėje Šventamiesty-
@@ -133,7 +144,8 @@ Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilu�
 - id: c-171848
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     Visa, ką šiuo klausimu žinome iš istorijos, ap­
     siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­

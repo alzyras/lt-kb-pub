@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-29ad6597af933ec1c351d81d"
+canonical_name: "Drūsinė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Drūsinė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vidurio dokumentuose — Drusnie, Drusa ir pan. (PUB, 1, 1, p. 108, 132); terra Drusen — žemė, kurioje pastatytas Elbingas (SRP, 2, p. 404). Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso. IX a. čia (apie. Dusburgietis teigia, kad tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere."
+place_authority: true
+historical_names: []
 ---
 # Drūsinė
 
@@ -78,7 +87,8 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
 - id: c-59174
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 76."
   citata_originali: |
     238 D — stagnum Drusine, Jer — Drûsin; XIII a. vidurio dokumentuose — Drusnie,
     Drusa ir pan. (PUB, 1, 1, p. 108, 132); terra Drusen — žemė, kurioje pastatytas Elbingas
@@ -96,7 +106,8 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
 - id: c-59175
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
   citata_originali: |
     Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
     apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė

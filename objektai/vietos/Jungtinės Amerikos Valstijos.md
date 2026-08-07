@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb8322c1df54ecb12767e201"
+canonical_name: "Jungtinės Amerikos Valstijos"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jungtinės Amerikos Valstijos"]
+sameAs: []
+canonical_biography: "Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus. JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasaulio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vyriausiasis Lietuvos išlaisvinimo komitetas."
+place_authority: true
+historical_names: []
 ---
 # Jungtinės Amerikos Valstijos
 
@@ -98,7 +107,8 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
 - id: c-73943
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 226."
   citata_originali: |
     Tai padėjo
     užmegzti naujų ryšių ir palaikyti senus, išlaikyti pasiuntinybių pastatus, Va-
@@ -120,7 +130,8 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
 - id: c-73944
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 259."
   citata_originali: |
     Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento
     Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų
@@ -137,7 +148,8 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
 - id: c-73947
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 175."
   citata_originali: |
     Sportas tapo
     integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olim-

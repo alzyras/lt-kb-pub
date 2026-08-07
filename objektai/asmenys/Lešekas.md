@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c050678a45d072628eb9147a"
+canonical_name: "Lešekas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lešekas"]
+sameAs: []
+canonical_biography: "Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su turimais didikais leidosi persekioti priešą."
 ---
 # Lešekas
 
@@ -53,7 +60,8 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
 - id: c-169422
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 152."
   citata_originali: |
     Len­
     kams pasitraukus į miestus ir neleidus savo turtą nio­

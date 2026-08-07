@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fa25371b4ce90aa24e13be36"
+canonical_name: "Gebhardas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gebhardas"]
+sameAs: []
+canonical_biography: "Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą."
 ---
 # Gebhardas
 
@@ -63,7 +70,8 @@ Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir viena
 - id: c-60915
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120-121"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120-121."
   citata_originali: |
     Siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis
       373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos

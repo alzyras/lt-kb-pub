@@ -55,12 +55,20 @@ Nenurodyta
 <a id="claim-t-62854"></a>
 - t-001
   teiginys: "Liefardo malūne apsupti Elbingo miestiečiai sutiko pagudėnams atiduoti 25 žymesniuosius vyrus, kad kiti liktų gyvi."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "puole -> Elbingo miestiečiai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Elbingo miestiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad pagudėnai po susitarimo vėl puolė miestiečius."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pagudėnai puolė Elbingo miestiečiai (0.88); Pagudėnai sudarė sutartį su Elbingo miestiečiai (0.80)"
   pagrindžia:
-    - c-63690
+    - c-63691
 
 <a id="claim-t-62855"></a>
 - t-002
@@ -104,7 +112,8 @@ Nenurodyta
 - id: c-63690
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
     1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
@@ -123,13 +132,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
 
 - id: c-63691
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti
     krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.
@@ -141,14 +150,17 @@ Nenurodyta
   citata_rodoma: "Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti\nkrikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.\nGalop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų\ngyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi\nmiestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni\ngynėjai sugalvojo sprukti nuo ugnies, bet susilaukė žūties, kiti, šokdami iš liepsnų, pakibo\nant iškeltų prūsų iečių, o likusieji sudegė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-63692
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi
     miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai pamatę, vieni

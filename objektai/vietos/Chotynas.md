@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dbccfef3b7707000835438cf"
+canonical_name: "Chotynas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Chotynas"]
+sameAs: []
+canonical_biography: "Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vilniuje spausdinto J. Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais."
+place_authority: true
+historical_names: []
 ---
 # Chotynas
 
@@ -80,7 +89,8 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
 - id: c-154980
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 75."
   citata_originali: |
     Bendras vidaus politinis
     gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
@@ -101,7 +111,8 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
 - id: c-154982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 74."
   citata_originali: |
     Taigi lietuvių kalbą, nesuspėjant kurti naujadarų
     pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų,

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c466e41189a5a4f093fa62b9"
+canonical_name: "Elbė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Elbė"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie Penės upės, tarp Elbės ir Oderio. Narbutas nurodo, kad gamtos tyrinėtojas, vadovaudamas romėnų kariuomenei, pats lankėsi prie Elbės. Fosas teigė, kad Pitėjas pasiekė tik Reiną arba toliausiai Elbės žiotis."
+place_authority: true
+historical_names: []
 ---
 # Elbė
 
@@ -138,7 +147,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - id: c-171884
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
   citata_originali: |
     Si
     maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­
@@ -157,7 +167,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - id: c-175426
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 147."
   citata_originali: |
     Iš įvairių prielaidų įtikina­
     miausia atrodytų ta, kad ši medžiaga sunkiasi iš jūros
@@ -183,7 +194,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - id: c-175428
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
@@ -206,7 +218,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - id: c-177327
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Tuo remiantis galima suvokti, kaip mažai iš senovės
     autorių įmanoma gauti žinių apie Siaurės kraštus, nes
@@ -232,7 +245,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - id: c-179375
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Fosas teigia, jog jis pasiekė tik Reiną ar
     toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­

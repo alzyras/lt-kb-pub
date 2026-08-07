@@ -65,7 +65,8 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 - id: c-85517
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     Tačiau tinka tie žodžiai ir šios knygos autoriui,
     kuris, šventosios Marijos Teutonų namų ligoninės Jeruzalėje brolių šventosios
@@ -88,7 +89,8 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 - id: c-85518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     Pratarmė
 
@@ -104,7 +106,8 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 - id: c-85519
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
     nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei

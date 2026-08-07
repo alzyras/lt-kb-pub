@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac46c87558888edc13086a89"
+canonical_name: "Braginas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Braginas"]
+sameAs: []
+canonical_biography: "Kričevskio vadovaujami kariai priversti atsitraukti į mišką, iš ten nusileido prie Dniepro ir įsitvirtino stovykloje netoli Bragino."
+place_authority: true
+historical_names: []
 ---
 # Braginas
 
@@ -51,7 +60,8 @@ Kričevskio vadovaujami kariai priversti atsitraukti į mišką, iš ten nusilei
 - id: c-40253
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 123."
   citata_originali: |
     Kazokų kariuomenė buvo perskelta į
     dvi dalis, kairysis jos sparnas sumuštas,

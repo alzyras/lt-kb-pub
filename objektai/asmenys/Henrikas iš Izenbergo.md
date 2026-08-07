@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c4406e696b42b5fe978f1df0"
+canonical_name: "Henrikas iš Izenbergo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas iš Izenbergo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 viešpaties metais brolis Henrikas iš Izenbergo, Karaliaučiaus komtūras, gavęs gerbiamojo vyro brolio Vernerio, didžiojo magistro, leidimą ir pritarimą,— to vyro, kuris itin rūpestingai ir uoliai ėjo jam patikėtas."
 ---
 # Henrikas iš Izenbergo
 
@@ -84,7 +91,8 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
 - id: c-60945
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
   citata_originali: |
     Apie daugybės miestų bei pilių pastatymą
 

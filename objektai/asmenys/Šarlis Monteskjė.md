@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7927a0b171dc54339da66966"
+canonical_name: "Šarlis Monteskjė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šarlis Monteskjė"]
+sameAs: []
+canonical_biography: "Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Monteskjė (Charles de Montesquieu) valdžių padalijimo principu."
 ---
 # Šarlis Monteskjė
 
@@ -61,7 +68,8 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
 - id: c-22092
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 91."
   citata_originali: |
     Joje pirmąkart
     užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
@@ -81,7 +89,8 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
 - id: c-166970
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 91."
   citata_originali: |
     Taigi konstitucijoje vartojamas terminas „tauta“ jau ne-
     reiškė tik „bajorų tautos“, o apėmė lygiai bajorus, miestiečius ir valstie-

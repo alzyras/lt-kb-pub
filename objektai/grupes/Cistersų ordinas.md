@@ -128,7 +128,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 - id: c-84522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     Cistersų ordinas — 1097 viešpaties metais.
     Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
@@ -147,7 +148,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 - id: c-84523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
     misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
@@ -169,7 +171,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 - id: c-84524
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Antra knygos dalis
 
@@ -198,7 +201,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 - id: c-178968
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
     būdami netikėliai ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo

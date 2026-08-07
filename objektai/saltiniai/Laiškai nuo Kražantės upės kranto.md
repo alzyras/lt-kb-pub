@@ -92,7 +92,8 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 - id: c-84174
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 14-15"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 14-15."
   citata_originali: |
     Svarbu, kad tik vaizduotės ir falšo gangrena nesunai­
     kintų mūsų istorijos pagrindo, o išmonė nebūtų laikoma tiesa, -
@@ -119,7 +120,8 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 - id: c-84175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 14."
   citata_originali: |
     Aleksandro II atėjimas į sostą buvo liberalių re­
     formų pradžia: atgaivino visuomenės siekimus atgauti tai, kas
@@ -143,7 +145,8 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 - id: c-84176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 14."
   citata_originali: |
     užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­
     džiausiai dėkojame"12.

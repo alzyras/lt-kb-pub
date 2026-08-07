@@ -97,7 +97,8 @@ Nenurodyta
 - id: c-83146
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 158-159"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 158-159."
   citata_originali: |
     Tuo me­
     tu Vilnius daug laimėjo per gyventojų pagausėjimą, mat
@@ -195,7 +196,8 @@ Nenurodyta
 - id: c-83147
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 160."
   citata_originali: |
     Gana grėsmingai įsiliepsnojo pirmieji nesuta­
     rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos

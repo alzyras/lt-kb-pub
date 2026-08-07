@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0b1aae311f55cb3ca9c862b6"
+canonical_name: "Andrius Polockietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Polockietis"]
+sameAs: []
+canonical_biography: "Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polockietis su Livonijos magistru buvo sudaręs vasalinę sutartį. O Skirgaila, sėkmingai apgulęs Polocką, kur jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon."
 ---
 # Andrius Polockietis
 
@@ -99,7 +106,8 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 - id: c-32708
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 294."
   citata_originali: |
     Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
     Dar 1385 m. rudenį (X.10) jis su Livonijos magistru buvo sudaręs
@@ -117,7 +125,8 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 - id: c-32709
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 294."
   citata_originali: |
     Pačiam Sviatoslavui žuvus
     prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
@@ -137,7 +146,8 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 - id: c-32710
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 294."
   citata_originali: |
     Vykdamu Lietuvon malšinti sukilimo, jiedu
     turėjo raštu pažadėti, pareikalavus, atgal sugrįžti.

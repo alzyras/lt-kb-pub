@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c117842b754b66786e26fe5a"
+canonical_name: "Unzatrapio žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Unzatrapio žemė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies paėmimą Kadangi tas pats Tirskas gerai žinojo kelius į gretimas žemes, Karaliaučiaus komtūras 3-ame dešimtmetyje čia, greta naujosios pilies, buvo pastatyti banko rūmai (Gaerte W., Die. Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė Kitais metais (1256) tas pats Karaliaučiaus komtūras vėl sutelkė stiprią kariuomenę ir patraukė į minėtąją Vonsdorfo žemę, ten pasistatė stovyklą, apsupdamas Auktalito pilį334, ir anksčiau. Dusburgietis teigia, kad iII, 75 paragrafe minimo Unzatrapio (GAO, p. 190; Instraupio —Lietuvių karas, p. 147) pavadinimas."
+place_authority: true
+historical_names: []
 ---
 # Unzatrapio žemė
 
@@ -78,7 +87,8 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
 - id: c-59052
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 107-108"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107-108."
   citata_originali: |
     Apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies
                                   paėmimą
@@ -119,7 +129,8 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
 - id: c-59054
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 108."
   citata_originali: |
     Pilėnai, gyvenę kitose trijose
     332 D.— Wohenstorph, Jer.— Wûnsdorf; Olivos kronikoje — Wonsdorff (SRP, 5, p.

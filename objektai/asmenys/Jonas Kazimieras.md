@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2a16d8e7064dd1fbf8ebc410"
+canonical_name: "Jonas Kazimieras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Kazimieras"]
+sameAs: []
+canonical_biography: "Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėtai gauna privilegiją Vilniaus vaitystei, bet ją Jonas Kazimieras panaikina sausio 15 d. dekretu - 1667 15."
 ---
 # Jonas Kazimieras
 
@@ -131,7 +138,8 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
 - id: c-83891
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 317."
   citata_originali: |
     Juozapas Petravičius, iš Vilniaus miesto
     raštininko paskirtas vaitu gruodžio 3 d. - 1649
@@ -157,7 +165,8 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
 - id: c-171440
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 398"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 398."
   citata_originali: |
     Nuo
     amžių sektantus vadina raskolnikais, tai yra atskalūnais. Pas
@@ -177,9 +186,9 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
     - t-002
 
 - id: c-184874
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 144."
   citata_originali: |
     Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir
     1649 m. Jono Kazimiero, taip pat vėlesnių Abiejų Tautų Respublikos valdovų Kauno
@@ -193,9 +202,9 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
     - t-003
 
 - id: c-184875
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 334"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 334."
   citata_originali: |
     Tai įvyko tik pačioje kalbamo laikotarpio pabaigoje. 1655 m. Jonas Kazimieras nu-
     sprendė, kad tie liuteronai, kurie turi Kaune nekilnojamojo turto ir yra miestui pri-

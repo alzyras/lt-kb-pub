@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7c3cb7dea53632061a93a252"
+canonical_name: "Henrikas Leo"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Henrikas Leo"]
+sameAs: []
+canonical_biography: "Henrikas Leo „Marienburgo glosose“ teigė, kad marienburgiškais vadinti žodžiai buvo nesuprasti seni vokiškų rankraščių žodžiai."
 ---
 # Henrikas Leo
 
@@ -54,7 +61,8 @@ Henrikas Leo „Marienburgo glosose“ teigė, kad marienburgiškais vadinti žo
 - id: c-173249
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 438"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 438."
   citata_originali: |
     22 Vokiečių istorikas Henrikas Leo darbe, pavadintame „Marien­
     burgo glosos“ (Die Malbergische Glosse), teigia, kad žodžiai, vadinti

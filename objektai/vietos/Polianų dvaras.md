@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e92c290b3dcf56653725e881"
+canonical_name: "Polianų dvaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Polianų dvaras"]
+sameAs: []
+canonical_biography: "Aplink Polianų dvarą prie Ašmenos buvo rasta daug kartų."
+place_authority: true
+historical_names: []
 ---
 # Polianų dvaras
 
@@ -50,7 +59,8 @@ Aplink Polianų dvarą prie Ašmenos buvo rasta daug kartų.
 - id: c-82205
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 230."
   citata_originali: |
     Atrodo, kad ir lietu­
     viški rubliai, tai yra, sidabrinės laz­

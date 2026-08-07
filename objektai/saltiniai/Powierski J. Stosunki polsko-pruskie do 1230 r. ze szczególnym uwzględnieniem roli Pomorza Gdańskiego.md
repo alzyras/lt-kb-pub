@@ -72,7 +72,8 @@ Dusburgietis teigia, kad powierski J.
 - id: c-61878
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
   citata_originali: |
     81—83.
     Powierski J. Stosunki polsko-pruskie do 1230 r. ze szczególnym uwzględnieniem roli

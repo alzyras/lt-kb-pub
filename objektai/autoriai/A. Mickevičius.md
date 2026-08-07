@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8c2da7d1a7f94a68af38c71a"
+canonical_name: "Adomas Mickevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Mickevičius","Adomas Mickevičius"]
+sameAs: []
+canonical_biography: "Mickevičiaus, J."
 ---
 # Adomas Mickevičius
 
@@ -46,7 +53,7 @@ Mickevičiaus, J.
 <a id="claim-t-19368"></a>
 - t-001
   teiginys: "A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1895 m."
@@ -92,7 +99,8 @@ Mickevičiaus, J.
 - id: c-22107
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 120."
   citata_originali: |
     Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
     viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
@@ -114,7 +122,8 @@ Mickevičiaus, J.
 - id: c-176256
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     Garsiausioji ložė vadinosi „Uolusis
     lietuvis“ („Gorliwy Litwin“). Uni-

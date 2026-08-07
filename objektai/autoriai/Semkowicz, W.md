@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e2e1ed02ae27eb6653a75406"
+canonical_name: "Semkowicz, W"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Semkowicz, W"]
+sameAs: []
+canonical_biography: "Semkowicz, W."
 ---
 # Semkowicz, W
 
@@ -61,7 +68,8 @@ Semkowicz, W.
 - id: c-33138
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 360"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 360."
   citata_originali: |
     — Prochaska, A. : Na soborze w
     Konstancyi , RAU, t. 35, 1898, 1-100 p. — Semkowicz, W. : Pierwsze

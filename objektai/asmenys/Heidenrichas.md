@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ebf97d6c0d7be40a7d058d56"
+canonical_name: "Heidenrichas (kunigas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Heidenrichas","Heidenrichas (kunigas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, tos pačios pilies kunigas, kuris tuo metu pasislėpęs meldėsi viename koplyčios kampelyje."
 ---
 # Heidenrichas (kunigas)
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, to
 - id: c-60934
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
   citata_originali: |
     žinių, kad kartą, jam koplyčioje prieš altorių beklūpint ir beprašant dievą parodyti kokiu
     ženklu, ar esąs pelnęs jo malonę, medinis nukryžiuotasis, prieš kurį jis meldėsi, ištiesė

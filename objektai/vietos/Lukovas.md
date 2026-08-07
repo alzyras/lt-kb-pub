@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b2b80ffa45df28b3665dc97f"
+canonical_name: "Lukovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lukovas"]
+sameAs: []
+canonical_biography: "Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuviškų kapų pridėjo 2 flor."
+place_authority: true
+historical_names: []
 ---
 # Lukovas
 
@@ -76,7 +85,8 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 - id: c-82061
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 457"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 457."
   citata_originali: |
     -
     išleido 7 flor.
@@ -93,7 +103,8 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 - id: c-168396
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 152."
   citata_originali: |
     Staigiai ir be var­
     go iškilęs į valdžios viršūnes, Vytenis turėjo pamato

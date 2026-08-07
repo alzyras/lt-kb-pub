@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e710d2f7775d828c48dc7bce"
+canonical_name: "Stokholmas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Stokholmas"]
+sameAs: []
+canonical_biography: "Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi į Stokholmą net akademijos biblioteką ir daugybę kitų kultūros turtų."
+place_authority: true
+historical_names: []
 ---
 # Stokholmas
 
@@ -47,7 +56,8 @@ Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o šve
 - id: c-176008
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 350."
   citata_originali: |
     Daugelis brangeny-
     bių buvo išvežta į Maskvą ir į Švediją. Rusai iš Vilniaus į

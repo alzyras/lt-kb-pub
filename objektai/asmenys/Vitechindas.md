@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-37ac6eaad336e04c96d7b865"
+canonical_name: "Vitechindas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vitechindas"]
+sameAs: []
+canonical_biography: "Narbutas Vitechindą aprašo kaip kronikininką, kuris padavimus apie prūsų ištakas mėgino nuspalvinti tariamu istoriškumu, siedamas juos su makedonais."
 ---
 # Vitechindas
 
@@ -54,7 +61,8 @@ Narbutas Vitechindą aprašo kaip kronikininką, kuris padavimus apie prūsų i�
 - id: c-174365
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
   citata_originali: |
     Hartknochas2 pa­
     teikia žinių, jog prie Baltijos jūros amžių amžiais buvo

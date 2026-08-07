@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-04f91131877f98d6a45a3689"
+canonical_name: "Gartneris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gartneris"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus plantarum“, aiškindamas prūsiškos palmės vaisiaus kilmę."
 ---
 # Gartneris
 
@@ -53,7 +60,8 @@ Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus planta
 - id: c-174554
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 339"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 339."
   citata_originali: |
     Tokia yra tikroji padėtis. Galima būtų stebėtis, jei
     karšto klimato medis Phyllantus Emblica būtų atsidū­

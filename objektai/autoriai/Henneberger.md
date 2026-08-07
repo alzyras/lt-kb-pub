@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dcf202eefb2a9257e9b4a422"
+canonical_name: "Henneberger"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Henneberger"]
+sameAs: []
+canonical_biography: "7; iš ten buvo perimta vėlesnių kronikininkų, būtent, Henneberger, p. 282."
 ---
 # Henneberger
 
@@ -50,7 +57,8 @@ media_all_json: |-
 - id: c-84003
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 95."
   citata_originali: |
     Tas daly­
     kas Łuk. D a w i d, T. V, p. 208-

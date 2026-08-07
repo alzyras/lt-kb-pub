@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1f61fe40e989e65c5ea1602f"
+canonical_name: "Zigfridas iš Foichtvangeno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zigfridas iš Foichtvangeno"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas didžiuoju magistru brolis Zigfridas iš Foichtvangeno, kuris ir iškeliavo į Veneciją, į vyriausiąją [Ordino] būstinę."
 ---
 # Zigfridas iš Foichtvangeno
 
@@ -92,7 +99,8 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 - id: c-86116
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 195-196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195-196."
   citata_originali: |
     Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
              kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
@@ -117,7 +125,8 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 - id: c-179042
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius
     begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo

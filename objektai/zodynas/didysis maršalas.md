@@ -61,7 +61,8 @@ Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu s
 - id: c-59530
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
     Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
     100 kelių į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5397f6d96b731f0b13088e9c"
+canonical_name: "Volbožas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Volbožas"]
+sameAs: []
+canonical_biography: "Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červinską."
+place_authority: true
+historical_names: []
 ---
 # Volbožas
 
@@ -53,7 +62,8 @@ Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 99."
   citata_originali: |
     Dabar pažiūrėkime, kaip rinkosi
     sąjungininkai (lietuviai ir lenkai) ir kaip jie užpuolė priešą.

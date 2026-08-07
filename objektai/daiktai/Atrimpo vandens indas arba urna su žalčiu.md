@@ -70,18 +70,17 @@ Nenurodyta
 <a id="claim-t-187981"></a>
 - t-002
   teiginys: "Narbutas Atrimpo ženklą aprašo kaip javų pėdu uždengtą vandens pripildytą indą arba urną, kurioje laikomas vandens žaltys."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "gap::items"
   teiginio_tipas: "saltinio_teiginys"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170988
-    - c-171268
 
 <a id="claim-t-188374"></a>
 - t-003
   teiginys: "Narbutas Atrimpo ženklą aprašo kaip javų pėdu uždengtą indą arba urną su vandeniu, kurioje laikomas vandens žaltys."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -89,7 +88,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-170988
     - c-171268
 
 ## Reikšmingi paminėjimai
@@ -114,7 +112,8 @@ Nenurodyta
 - id: c-170987
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 104."
   citata_originali: |
     sis lietuviški{ dalykų tyrinėtojas tvirtina ir tai, jog spirališkai susi­
     vijusio žalčio stabas, apie kurį bus pasakojama kituose straips­
@@ -136,7 +135,8 @@ Nenurodyta
 - id: c-170988
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 104."
   citata_originali: |
     Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
     na, pripildyta vandens, kurioje laikomas vandens žaltys.
@@ -148,12 +148,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
 
 - id: c-171268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 104."
   citata_originali: |
     Šitoks lietuvių supratimas galėjo apdovanoti
     amžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­
@@ -170,5 +170,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-003

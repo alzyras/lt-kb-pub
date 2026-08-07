@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-52c156c5b088eb94b68d5259"
+canonical_name: "Mažoji Lenkija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mažoji Lenkija"]
+sameAs: []
+canonical_biography: "Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė, susijusi su ginčijamomis žemėmis, ir kaip kraštas, iš kurio Vytautas atkeldino benediktinus į Senuosius Trakus."
+place_authority: true
+historical_names: []
 ---
 # Mažoji Lenkija
 
@@ -59,7 +68,8 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
 - id: c-71519
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 383."
   citata_originali: |
     Camblakas.
     Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­

@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6d049428e7cc6fd0c4aa7554"
+canonical_name: "Kuršo žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kuršo žemė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie."
+place_authority: true
+historical_names: []
 ---
 # Kuršo žemė
 
@@ -64,7 +73,8 @@ Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 1
 - id: c-59395
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 111-112"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111-112."
   citata_originali: |
     Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
                                              nių

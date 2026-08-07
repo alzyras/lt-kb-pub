@@ -156,7 +156,8 @@ Nenurodyta
 - id: c-04922
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 340."
   citata_originali: |
     1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie-
     tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų.
@@ -173,7 +174,8 @@ Nenurodyta
 - id: c-04923
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 341."
   citata_originali: |
     Žemaičiai, kuriems buvo atneštos žinios, kad «javams nunokus» prasidėsiąs karas, sukilo dar gegužės mėn. (1409). Jie sudegino ordino vietininkui reikalingą Skirsnemunę, be to, puolė Žemaičiuose kitas dvi naujas pilis ir Klaipėdą.
   citata_rodoma: "Žemaičiai, kuriems buvo atneštos žinios, kad «javams nunokus» prasidėsiąs karas, sukilo dar gegužės mėn. (1409). Jie sudegino ordino vietininkui reikalingą Skirsnemunę, be to, puolė Žemaičiuose kitas dvi naujas pilis ir Klaipėdą."
@@ -188,7 +190,8 @@ Nenurodyta
 - id: c-04925
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 342."
   citata_originali: |
     Tuo pat laiku,
     kai kryžiuočiams galutinai išslydo Žemaičiai, jie buvo priversti
@@ -205,7 +208,8 @@ Nenurodyta
 - id: c-67088
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 342."
   citata_originali: |
     Kai sukilimas apėmė visą Žemaičių kraštą, kuriame jau nuo
     1408 galo buvo atsiradę iš Vytauto Lietuvos « pašaliečių », ordinui

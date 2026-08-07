@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-68d2c0ff6e94f0e2f13c662d"
+canonical_name: "Fridrichas (Marienburgo brolis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas (Marienburgo brolis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyveno brolis Heinemanas ir brolis Fridrichas, kuriuodu vienas kitą taip mylėjo, kad vienas be kito nenorėjo ne tik gyventi, bet ir mirti."
 ---
 # Fridrichas (Marienburgo brolis)
 
@@ -75,7 +82,8 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
 - id: c-60909
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195."
   citata_originali: |
     Po to broliai iš patikimų šaltinių sužinojo, kad vos
     keli šio būrio lietuviai gyvi ir sveiki besugrįžo. Vieni kelyje prigėrė, kiti išmirė badu, o

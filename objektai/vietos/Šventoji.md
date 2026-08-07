@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d3cbbd5ab25b85e0bf84fe11"
+canonical_name: "Šventoji"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventoji"]
+sameAs: []
+canonical_biography: "Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama lietuvių ir į pagalbą atėjusių lenkų kariuomenė."
+place_authority: true
+historical_names: []
 ---
 # Šventoji
 
@@ -58,7 +67,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - id: c-165605
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Šešupės krantu ji ėjo per girių masyvus. Jos žemupys
     paliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena

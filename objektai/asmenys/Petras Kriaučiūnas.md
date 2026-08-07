@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-569cf3c8a0825ae4a8464d33"
+canonical_name: "Petras Kriaučiūnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Kriaučiūnas"]
+sameAs: []
+canonical_biography: "Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa eilė vėlesnių „Aušros\", „Varpo\" ir kitų laikraščių bendradarbią. Vienu metu Marijampolės gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriaučiūnas, V."
 ---
 # Petras Kriaučiūnas
 
@@ -97,7 +104,8 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
 - id: c-73654
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 499"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 499."
   citata_originali: |
     Bet ir čia
     buvo stengiamasi primesti lietuviams rusiškąsias raides. Moky-
@@ -116,7 +124,8 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
 - id: c-73655
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 524"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 524."
   citata_originali: |
     Čia net buvo mokoma lie-
     tuvių kalbos, o mokytojais galėjo būti ir lietuviai. Todėl jau mo-
@@ -136,7 +145,8 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
 - id: c-73656
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 126-127"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 126-127."
   citata_originali: |
     Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
     1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-908e10f7e7db4c5c6d7181e8"
+canonical_name: "Jeruzolima (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jeruzolima","Jeruzolima (vieta)"]
+sameAs: []
+canonical_biography: "Kaipogi vienu žygiu perga lėję turkus, Žemę Šventą jiems atėmė ir tenai me tuose 1099 vadinamą Gotfridą de Bouillon, visų vy riausią savo karvedį, Jeruzolimos mieste gelžies ka rūna apkarūnavo j o ir karalium Žemės Šventos pa kėlė."
+place_authority: true
+historical_names: []
 ---
 # Jeruzolima (vieta)
 
@@ -52,9 +61,9 @@ Kaipogi vienu žygiu perga lėję turkus, Žemę Šventą jiems atėmė ir tenai
 ## Citatos
 
 - id: c-184517
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 177"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 177."
   citata_originali: |
     Kas begalėjo nuo tokių gau­
     jų svieto beatsiturėti? Kaipogi vienu žygiu perga­

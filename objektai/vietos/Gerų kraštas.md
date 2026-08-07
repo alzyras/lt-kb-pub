@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1e9ba9340bef7e85fa2e7069"
+canonical_name: "Gerų kraštas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gerų kraštas"]
+sameAs: []
+canonical_biography: "Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse, o jo vidurys buvo Rogačiovas. Narbutas Gerų kraštą siejo su Herodoto minėta vieta, kur skitai nuo Dnepro žemupio esą veždavo laidoti mirusiuosius. Iš to darau išvadą, jog Gerų kraštas plytėjo abie jose Dnepro pakrantėse, kur viename plote sukaupta ga na daug pilkapių, panašių į šen bei ten išmėtytus kapi nynus, šio krašto vidurys yra Rogačiovas, kurio apylin kėse esama gausiausių pilkapių rinkinių."
+place_authority: true
+historical_names: []
 ---
 # Gerų kraštas
 
@@ -124,7 +133,8 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
 - id: c-175589
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
   citata_originali: |
     Taip pat Gero ir Hipa-
     kyrio upes atpažįstame Desnoje ir Seime, kurie susilieję

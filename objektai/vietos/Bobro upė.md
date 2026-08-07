@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9b924c89641f2c6f4dba304b"
+canonical_name: "Bobro upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bobro upė"]
+sameAs: []
+canonical_biography: "Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė karo stovyklą priešo žygiui stabdyti."
+place_authority: true
+historical_names: []
 ---
 # Bobro upė
 
@@ -53,7 +62,8 @@ Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė
 - id: c-168641
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 560"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
   citata_originali: |
     Išvengė nelaisvės ar
     mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va­

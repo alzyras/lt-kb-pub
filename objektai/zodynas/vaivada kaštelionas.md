@@ -56,7 +56,8 @@ Lenkijos pavyz­ džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarn
 - id: c-82602
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 164-165"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 164-165."
   citata_originali: |
     - 4-oji privilegija, 1412,feria
     tertia proxima ante festum Corporis

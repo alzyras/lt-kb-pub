@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-12b493e9cb480c13c040b16b"
+canonical_name: "Akmena (Jūros intakas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Akmena (Jūros intakas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u."
+place_authority: true
+historical_names: []
 ---
 # Akmena (Jūros intakas)
 
@@ -64,7 +73,8 @@ Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
 - id: c-59307
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 307."
   citata_originali: |
     Ašeradė)
       Akmena (Jūros intakas), u.

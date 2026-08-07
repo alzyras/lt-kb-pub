@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5d081b6df1ad78301fa7379b"
+canonical_name: "Šv. Stanislovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šv. Stanislovas"]
+sameAs: []
+canonical_biography: "Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje, kur anksčiau degė pagonių amžinoji ugnis. Stanislovo kultą. Stanislovo ir šv."
 ---
 # Šv. Stanislovas
 
@@ -118,7 +125,8 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 - id: c-65191
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 42."
   citata_originali: |
     Įvesdamas naująjį tikėjimą, Jogaila naikino pagonybės apraiškas:
     šventąsias girias, žalčius, šventąją ugnį. Pastatyta katedra, iškilmingai pa-
@@ -137,7 +145,8 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 - id: c-166972
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 54."
   citata_originali: |
     Jau XVI a. pradžioje karalaitis Kazimieras garbintas Vilniaus
     apylinkėse, o šv. Kazimiero kultas ėmė išstumti Lenkijos globėjo šv. Sta-
@@ -153,7 +162,8 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 - id: c-166973
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 90."
   citata_originali: |
     O 1792 m. buvo baigtos Lietuvos globėjo šv. Kazimiero, Lenkijos
     globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.

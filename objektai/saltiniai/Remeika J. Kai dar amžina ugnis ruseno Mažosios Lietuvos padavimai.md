@@ -58,7 +58,8 @@ Dusburgietis teigia, kad remeika J.
 - id: c-61902
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940.
   citata_rodoma: "Remeika J. Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai.— K., 1940."

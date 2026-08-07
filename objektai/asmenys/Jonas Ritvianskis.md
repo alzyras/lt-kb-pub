@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-53a2674e3b76b5304915919c"
+canonical_name: "Jonas Ritvianskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Ritvianskis"]
+sameAs: []
+canonical_biography: "Vilniuje susirinkus lietuvių seimui, Jonas Ritvianskis atvyko kaip Lenkijos pasiuntinys ir karalystės maršalas."
 ---
 # Jonas Ritvianskis
 
@@ -53,7 +60,8 @@ Vilniuje susirinkus lietuvių seimui, Jonas Ritvianskis atvyko kaip Lenkijos pas
 - id: c-169578
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 510"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 510."
   citata_originali: |
     Gavo jie tik tokį atsakymą, kad
     lenkai nieku būdu neatsisakysią atsilyginti lietuvių luo­

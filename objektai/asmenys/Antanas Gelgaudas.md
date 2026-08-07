@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e11d76254341f2bed3e73b2"
+canonical_name: "Antanas Gelgaudas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Gelgaudas"]
+sameAs: []
+canonical_biography: "karių, kuriai vadovavo generolas Antanas Gelgaudas."
 ---
 # Antanas Gelgaudas
 
@@ -93,7 +100,8 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
 - id: c-21585
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 105."
   citata_originali: |
     Bendros sukilimo vado-
     vybės Lietuvoje nebuvo, daug „vyriausybių“ veikė konkrečios apskrities
@@ -115,7 +123,8 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
 - id: c-41825
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 156."
   citata_originali: |
     Lietuvos sukilėliams į pa-
     galbą atvyko nedideli
@@ -139,7 +148,8 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
 - id: c-41826
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 157."
   citata_originali: |
     XIX a. pirmoji pusė k
 

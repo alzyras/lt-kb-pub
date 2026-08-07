@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6dce215dc5e17d1cb3e6664d"
+canonical_name: "Ditrichas fon Altenburgas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas fon Altenburgas"]
+sameAs: []
+canonical_biography: "Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną. Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną."
 ---
 # Ditrichas fon Altenburgas
 
@@ -100,7 +107,8 @@ Ditrichas fon Altenburgas, Kojelavičiaus vadinamas Prūsijos magistru, 1339 m. 
 - id: c-169468
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 227-228"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 227-228."
   citata_originali: |
     Paspruko, ryžęsi plaukti,
     vienas kitas, kuriems labiau rūpėjo gyvybė nei grobis;

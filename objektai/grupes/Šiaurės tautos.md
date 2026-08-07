@@ -46,7 +46,8 @@ To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, 
 - id: c-177191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
   citata_originali: |
     Nuostabus dalykas, kaip tos rau­
     dotojos sugeba išreikšti didžiausią liūdesį, bet stebėtoją labiau­

@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dfcf9df5596b1df85ccf9542"
+canonical_name: "Aukskalių piliakalnis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aukskalių piliakalnis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV, t. Dusburgietis teigia, kad zelencovo) apylinkės su Romovupe ir Aukskalių piliakalniu, esančios į pietvakarius nuo Įsruties (dab."
+place_authority: true
+historical_names: []
 ---
 # Aukskalių piliakalnis
 
@@ -75,7 +84,8 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
 - id: c-59151
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
   citata_originali: |
     Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV,
     t. 32, d. 1, p. 178; d. 2, p. 309), įrengto kyšulyje (aikštelė dabar deformuota, jos dydis
@@ -95,7 +105,8 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
 - id: c-59152
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
   citata_originali: |
     Taigi su pagonišku kultu sietųsi buv. Obeliškių (dab. Zelencovo) apylinkės su Romovupe
     ir Aukskalių piliakalniu, esančios  į pietvakarius nuo Įsruties (dab. Cerniachovsko),

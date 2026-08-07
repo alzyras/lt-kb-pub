@@ -56,10 +56,11 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
 <a id="claim-t-195620"></a>
 - t-001
   teiginys: "Cibavos šiame šaltinyje yra pinigai, surinkti už ganyklą ir ožkų bei karvių ganymą."
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-178023
 

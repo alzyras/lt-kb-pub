@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b3798b5936f8ec98ed395ae8"
+canonical_name: "Mikalojus Malinovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Malinovskis"]
+sameAs: []
+canonical_biography: "Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu. Nėra geresnio pavyzdžio, kaip būtų galima sutvarkyti ir ap­ saugoti miesto archyvą nuo sunyki­ mo, už tą, kaip Radvilų archyvą Kar­ dinamoje pagal puikiai parengtą schemą sutvarkė mokslininkas ir di­ džiai prityręs Lietuvos istorijos ži­ novas Mikalojus."
 ---
 # Mikalojus Malinovskis
 
@@ -66,7 +73,8 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
 - id: c-83532
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 276."
   citata_originali: |
     Neabejotina, kad tai nega­
     lėtų visiškai nedominti prezidento ir
@@ -100,7 +108,8 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
 - id: c-83533
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 10."
   citata_originali: |
     P. Malev-
     skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­

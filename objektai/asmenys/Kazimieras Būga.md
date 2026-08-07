@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d1adad287b47287a7d10b1ba"
+canonical_name: "Kazimieras Būga"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras Būga"]
+sameAs: []
+canonical_biography: "Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir trukdant politrukams."
 ---
 # Kazimieras Būga
 
@@ -85,7 +92,8 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 - id: c-21813
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 172."
   citata_originali: |
     1938 m. lapkričio 1 d. įkurtas Antano
     Smetonos lituanistikos institutas – mokslo įstaiga, kuri turėjo tirti lietuvių
@@ -107,7 +115,8 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 - id: c-166942
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 172."
   citata_originali: |
     Tęstas 1902 m. Kazi-
     miero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai

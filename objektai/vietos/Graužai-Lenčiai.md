@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88f88dd3f883b6b5c900fdaf"
+canonical_name: "Graužai-Lenčiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Graužai-Lenčiai"]
+sameAs: []
+canonical_biography: "Graužų-Lenčių (Zembiškio) miške NKVD Betygalos stribai, grįždami iš užduoties Kėdainių aps., prie Šilainių miško pateko į Vlado Pabarčiaus 40-ties partizanų būrio pasalą."
+place_authority: true
+historical_names: []
 ---
 # Graužai-Lenčiai
 
@@ -60,7 +69,8 @@ Graužų-Lenčių (Zembiškio) miške NKVD Betygalos stribai, grįždami iš už
 - id: c-40271
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     X ŠILAINIŲ PASALA
     1945 m. vasario 15 d. Raseinių aps. Betygalos vls. Graužų-Lenčių

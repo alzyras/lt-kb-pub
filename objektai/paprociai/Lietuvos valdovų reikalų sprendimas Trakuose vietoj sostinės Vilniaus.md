@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-83257
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 251."
   citata_originali: |
     Beveik visą
     amžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­

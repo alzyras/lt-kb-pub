@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1450378bd647b01c8b573637"
+canonical_name: "Wagner, K"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Wagner, K"]
+sameAs: []
+canonical_biography: "Wagner, K."
 ---
 # Wagner, K
 
@@ -60,7 +67,8 @@ Wagner, K.
 - id: c-33205
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 286."
   citata_originali: |
     — Prochaska, A. : _Upadek Kiejstuta_ , KH, t. 23, 1909, 493-
     506 p. — Semkowicz, Wb.: _Hanul, namiestnik wileński i jego ród_ , AW,

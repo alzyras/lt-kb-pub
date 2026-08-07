@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ff34981f2fadcc876f37923f"
+canonical_name: "Strubė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Strubė"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto vertinimu, Strubė, kildindamas rusų tautą iš labai tolimos senovės, labai supainiojo Šiaurės istorijos dalykus. Strubė buvęs bendrinis."
 ---
 # Strubė
 
@@ -66,7 +73,8 @@ Teodoro Narbuto vertinimu, Strubė, kildindamas rusų tautą iš labai tolimos s
 - id: c-174203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 235."
   citata_originali: |
     Anot jo,
     senovės rusai yra šiandienos rusų protėviai; šią savo prie­

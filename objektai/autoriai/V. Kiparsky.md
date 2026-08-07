@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c38553117a5dc8379d42491"
+canonical_name: "V. Kiparsky"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Kiparsky"]
+sameAs: []
+canonical_biography: "Kiparsky, V.: Baltische Sprachen und Völ­ ker, Baltische Lande, I, 1939, 48-59 p. — Klimas, P. Kiparsky, V."
 ---
 # V. Kiparsky
 
@@ -59,7 +66,8 @@ Kiparsky, V.: Baltische Sprachen und Völ­ ker, Baltische Lande, I, 1939, 48-59
 - id: c-33173
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 135."
   citata_originali: |
     — Johansen, P. :
     _Kurlands Bewohner zu Anfang der historischen Zeit_ , Baltische Lande,

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-70735861e9b6a941785b9d47"
+canonical_name: "Gintautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gintautas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mirė 1414 m. liepos 28 d. ir buvęs 74-asis eilėje. Ma tyt, autorius turėjo rankoje istorijos šaltinį, iš kurio pasisėmė žinią, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis vyriausiųjų žynių eilėje."
 ---
 # Gintautas
 
@@ -76,7 +83,8 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
 - id: c-172950
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
   citata_originali: |
     Smun­
     kant tikėjimo dalykams, atėjo ginkluoto atvertimo laikai - pir­
@@ -98,7 +106,8 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
 - id: c-177100
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 431"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
   citata_originali: |
     Turime dar pakartotinai panagrinėti šį lietuvių mitologi­
     jos fragmentą, kadangi, gavę jį pavėluotai, negalėjome sudėti

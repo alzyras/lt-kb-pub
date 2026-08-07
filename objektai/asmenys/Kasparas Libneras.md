@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2448ae1de997a9ea926980f"
+canonical_name: "Kasparas Libneras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kasparas Libneras"]
+sameAs: []
+canonical_biography: "1528 m. Žygimantas Senasis nurodė Birštono vietininkui, kad jis leidęs Kauno pirkliui Kasperui Libnerui vienus metus nurodytame Birštono girios plote įsireng tose būdose ruošti vančosą ir klepkas bei degti pelenus."
 ---
 # Kasparas Libneras
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185533
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 239"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 239."
   citata_originali: |
     1528 m. Žygimantas Senasis nurodė Birštono vietininkui, kad jis leidęs Kauno
     pirkliui Kasperui Libnerui vienus metus nurodytame Birštono girios plote įsireng­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7260cc22e176641ef87b70f5"
+canonical_name: "Kurdas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kurdas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Kurdas
 

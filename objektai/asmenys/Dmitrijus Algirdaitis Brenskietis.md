@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9586454deb4128a1a5aa4a6e"
+canonical_name: "Dmitrijus Algirdaitis Brenskietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dmitrijus Algirdaitis Brenskietis"]
+sameAs: []
+canonical_biography: "Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaikščių: Andrius Algirdaitis Polockietis, Dmitrijus Algirdaitis Brenskietis, Dimitrijus (Voluinietis Karijotaitis), (LDK karo vadai, vadovavę ir 1380 m. Kulikovo mūšyje sumušant Aukso."
 ---
 # Dmitrijus Algirdaitis Brenskietis
 
@@ -83,7 +90,8 @@ Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaik
 - id: c-41313
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 56."
   citata_originali: |
     Mūšyje žuvo keliasdešimt (kartais nu-
     rodoma net 74) žymių Lietuvos kuni-

@@ -98,7 +98,8 @@ Nenurodyta
 - id: c-39060
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 193."
   citata_originali: |
     1919 m. balandžio pradžioje Lietuvos karinė vado-
     vybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti
@@ -119,7 +120,8 @@ Nenurodyta
 - id: c-39061
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 193."
   citata_originali: |
     — 1919 m. balandžio 16-17 lenkai užėmė Lydą E). Balandžio
     19-21 d. po sunkių kovų lenkai užėmė Vilnių ir išstūmė bolševikus iš

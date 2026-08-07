@@ -36,6 +36,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7091433255383aff897466bd"
+canonical_name: "Raulas (elgeta ir sodo dabotojas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Raulas","Raulas (elgeta ir sodo dabotojas)"]
+sameAs: []
+canonical_biography: "Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, vėliau bernavęs, šeimą laikęs ūkininko grįtelėje ir vasaromis eidavęs dvaran sodo daboti."
 ---
 # Raulas (elgeta ir sodo dabotojas)
 

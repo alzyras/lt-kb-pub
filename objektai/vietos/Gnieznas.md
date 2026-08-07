@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2c4c16dd68658791a60f0735"
+canonical_name: "Gnieznas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gnieznas"]
+sameAs: []
+canonical_biography: "Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 gin­ kluotų skydais, Gnieznas - 1 500 šarvuotųjų ir 5 000 pėstininkų; Vladislavovo pilis - 800 šarvuotų­ jų, 2 000 su skydais, Gdečas - 300 pirmųjų ir 2 000 antrųjų. Juk pir­ miausia Didžiosios Lenkijos miestai, ypač Gnieznas, kaip galima spręsti pagal imperatoriaus Otono III pri­ ėmimą šiame mieste, ir Krušvica bei Poznanė jau anuomet buvo tankiai gyvenamos ir turtingos gyvenvietės. Išliko nemaža įrodymų, kaip Batoras globojo Vilniaus pirklius, kurie iš­ vystė nemažą prekybą, ypač kailiais, nukakdami iki pat Gniezno ir kitų Didžiosios Lenkijos miestų."
+place_authority: true
+historical_names: []
 ---
 # Gnieznas
 
@@ -83,7 +92,8 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
 - id: c-81763
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 23."
   citata_originali: |
     Vis dėlto nedrįs­
     čiau būti visai vienos nuomonės su
@@ -112,7 +122,8 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
 - id: c-81764
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 363."
   citata_originali: |
     O jeigu kas norėtų dėl to, ką
     kam atiduodame, pakenkti, prieš jį tvirtai užsistoti ir nuo
@@ -141,7 +152,8 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
 - id: c-81765
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 23."
   citata_originali: |
     Ibid. Capit VIII, p. 51. Martinas
     Galias pasakoja, kad Poznanė duo­

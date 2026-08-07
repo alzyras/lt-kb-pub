@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f8da54f49102e98daf1e9ae9"
+canonical_name: "Mevė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mevė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos kunigaikštystėje kraštą, vardu Vancka, kur. Dusburgietis teigia, kad 508 D.— castrum Gymewa, Jer.— Mêwe; vėliau — vok. Mewe, dab. Gnevas (Gniew), pilis kair. Vyslos krante, statyta 1283 m. pradžioje (Ewald A."
+place_authority: true
+historical_names: []
 ---
 # Mevė
 
@@ -80,7 +89,8 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
 - id: c-59228
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
   citata_originali: |
     508 D.— castrum Gymewa, Jer.— Mêwe; vėliau — vok. Mewe, dab. Gnevas (Gniew),
     pilis kair. Vyslos krante, statyta 1283 m. pradžioje (Ewald A.
@@ -95,7 +105,8 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
 - id: c-59229
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Išklausęs abiejų šalių įrodymų,
     tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos

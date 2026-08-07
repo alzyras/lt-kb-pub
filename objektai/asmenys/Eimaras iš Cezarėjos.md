@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1f0f052dae84392904573b7d"
+canonical_name: "Eimaras iš Cezarėjos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eimaras iš Cezarėjos"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras ir tamplierių ordino magistras, daugelis abiejų ordinų brolių ir."
 ---
 # Eimaras iš Cezarėjos
 
@@ -52,7 +59,8 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
 - id: c-60904
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
   citata_originali: |
     Nors
     apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai

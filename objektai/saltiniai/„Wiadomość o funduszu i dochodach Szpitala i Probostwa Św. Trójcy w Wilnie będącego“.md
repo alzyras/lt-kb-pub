@@ -60,7 +60,8 @@ media_all_json: |-
 - id: c-84498
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284."
   citata_originali: |
     Trejybės
     špitolę skaitytojas gali pasisemti iš

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-340d9d992df397b51aa73ca4"
+canonical_name: "Feodoras (Ostrogo kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Feodoras (Ostrogo kunigaikštis)"]
+sameAs: []
+canonical_biography: "Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Lucko srities, pasirodė be pasekmių: 1396 m. Ostrogo kunigaikštis Feodoras turėjo iš Vytauto rankų priimti privilegiją, tvirtinančią ir išplečiančių jo žemes^3 ), o tuo pačiu."
 ---
 # Feodoras (Ostrogo kunigaikštis)
 
@@ -81,7 +88,8 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 178."
   citata_originali: |
     Bet šis bandymas atplėšti Vo­
     lynijos dalį nuo Vytautui priklausančios Lucko srities, pasirodė
@@ -101,7 +109,8 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 178."
   citata_originali: |
     4 d. Jame tais pačiais jos vyro žo­
     džiais, patikrinusiais prieš septynerius metus1 2) Ostrogo kuni­

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-089e6f820a348aaa4f581738"
+canonical_name: "Dinaburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dinaburgas"]
+sameAs: []
+canonical_biography: "Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką; kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­ nausiąs ir 1.1. Livoniae) TI, p. 136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas. Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel- 314 ## Puslapis 331 IV KNYGA menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas, Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diunamundė."
+place_authority: true
+historical_names: []
 ---
 # Dinaburgas
 
@@ -51,7 +60,8 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 - id: c-82021
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 330-331"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 330-331."
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau
     žaibus,

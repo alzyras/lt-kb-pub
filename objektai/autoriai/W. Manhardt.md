@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c58b3c48c9e55665894bec3f"
+canonical_name: "W. Manhardt"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["W. Manhardt"]
+sameAs: []
+canonical_biography: "Manhardt, W."
 ---
 # W. Manhardt
 
@@ -54,7 +61,8 @@ Manhardt, W.
 - id: c-33199
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 154."
   citata_originali: |
     — Kulikauskienė, R. : _Pogrebenija s koniami u drevnich litovcev,_
     Sovetskaja Archeologija, t. 17, 1953, 211-222 p. — Manhardt, W. :

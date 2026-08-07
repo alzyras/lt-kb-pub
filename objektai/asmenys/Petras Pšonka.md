@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5e3e36c3343416bfd9cb4016"
+canonical_name: "Petras Pšonka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Pšonka"]
+sameAs: []
+canonical_biography: "Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabijo upės pakrantėje."
 ---
 # Petras Pšonka
 
@@ -46,7 +53,8 @@ Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabij
 - id: c-178777
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 238."
   citata_originali: |
     Tamsią naktį visa lie­
     tuvių kariuomenė atėjo prie upės. Jie manė, jog ved­

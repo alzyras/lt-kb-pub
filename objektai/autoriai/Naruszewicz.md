@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8bb0969ee0bf14dfbd17807e"
+canonical_name: "Naruszewicz"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Naruszewicz"]
+sameAs: []
+canonical_biography: "Šitai pa­ kartojo Naruszewicz Histor. Naruszewicz, Jadvyga - Opolės kunigaikščio VlaH/sf. Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 ."
 ---
 # Naruszewicz
 
@@ -82,7 +89,8 @@ media_all_json: |-
 - id: c-83970
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 159."
   citata_originali: |
     Daugiausia jų įsikūrė už
     61
@@ -104,7 +112,8 @@ media_all_json: |-
 - id: c-176805
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 23."
   citata_originali: |
     Šitai pa­
     kartojo Naruszewicz  Histor.
@@ -121,7 +130,8 @@ media_all_json: |-
 - id: c-176806
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166."
   citata_originali: |
     Pranešimas apie jos mirtį yra 74
     Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns. T. IU,

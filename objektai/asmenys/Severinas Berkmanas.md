@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-37baa040d070e1cc3a979146"
+canonical_name: "Severinas Berkmanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Severinas Berkmanas"]
+sameAs: []
+canonical_biography: "1550 m. Kauno pirklys Severinas Berkmanas skundė Vaitiekų, kurį buvo pasamdęs metams dirbti laivavedžiu už 4,5 kapos grašių ir jau buvo davęs 3 kapas grašių."
 ---
 # Severinas Berkmanas
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185455
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 251"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 251."
   citata_originali: |
     1550 m. Kauno pirklys Se-
     verinas Berkmanas skundė Vaitiekų, kurį buvo pasamdęs metams dirbti laivavedžiu už

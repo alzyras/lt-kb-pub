@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4978e6f44b9dfeba38b0cf49"
+canonical_name: "Vincas Kudirka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["objektai/autoriai/Vincas Kudirka","Vincas Kudirka"]
+sameAs: []
+canonical_biography: "Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos Žymantienės-Žemaitės sodri realistinė sociali proza. Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra."
 ---
 # Vincas Kudirka
 
@@ -141,7 +148,8 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
 - id: c-75322
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 236."
   citata_originali: |
     Per keletą mėnesių LPS pa-
     siekė akivaizdžių laimėjimų. Spalio 21 dieną LKP CK pirmuoju sekre-
@@ -164,7 +172,8 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
 - id: c-75323
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Mokiniai buvo verčiami stoti į pionierių ir komjaunimo
     organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.
@@ -183,7 +192,8 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
 - id: c-75324
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Šlovinant
     komunistinės ideologijos autoritetus, susidorojama su nepriklausomos
@@ -203,7 +213,8 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
 - id: c-75325
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 120."
   citata_originali: |
     Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
     viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
@@ -227,7 +238,8 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
 - id: c-75326
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 119."
   citata_originali: |
     „Aušros“ idėjas toliau plėto-
     jo 1889 m. pradėtas leisti žurnalas

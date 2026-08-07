@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3044b3eb84e018ace62c7271"
+canonical_name: "Kučinskas A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kučinskas A"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tokiais atvejais nepaisoma argumentų, leidžiančių abejoti Kęstučio priesaikos tikrumu ir jo, kaip vyriausiojo kunigo, funkcijomis (Kučinskas A., Kęstutis..., p. 128—131)."
 ---
 # Kučinskas A
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad tokiais atvejais nepaisoma argumentų, leidžiančių a
 - id: c-61370
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
   citata_originali: |
     Tvirtinama, jog žynių luomo buvimą
     neigia faktai apie vyriausiuosius aukotojus—valdovus (remiamasi duomenimis apie

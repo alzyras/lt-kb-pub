@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6deffbbf2efa29aa1f87b6f9"
+canonical_name: "S. Urbonas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["S. Urbonas"]
+sameAs: []
+canonical_biography: "Urbonas."
 ---
 # S. Urbonas
 
@@ -61,7 +68,8 @@ Urbonas.
 - id: c-22190
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Vilnius,
     2009; Čiurlionis Vilniuje. Sud. S. Urbonas. Vilnius, 2010; J. Galkus.

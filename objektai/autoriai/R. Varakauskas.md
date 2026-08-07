@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ccc74669f305e8bbc986d6bc"
+canonical_name: "R. Varakauskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["R. Varakauskas"]
+sameAs: []
+canonical_biography: "Varakauskas, R. Varakauskas, R.: Lietuvos vals­ tybės susidarymo klausimu, IstV, t."
 ---
 # R. Varakauskas
 
@@ -60,7 +67,8 @@ Varakauskas, R. Varakauskas, R.: Lietuvos vals­ tybės susidarymo klausimu, Ist
 - id: c-33117
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 49."
   citata_originali: |
     — Sideravičius, K. : _Marksistinė Lietuvos TSR isto­
     rija,_ Tiesa, 1959, m. 137 (VI.12).—Šarmaitis, R.: _Iš marksistinių-

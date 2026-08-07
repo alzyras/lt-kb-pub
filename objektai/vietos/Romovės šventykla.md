@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-90bd3b600958eb1c8d5e4594"
+canonical_name: "Romovės šventykla"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Romovės šventykla"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir buvo labai gerbiamas. Narbutas rašo, kad Atrimpo stabas Romovės šventykloje stovėjo Perkūno dešinėje ir buvo medinis, su varpų vainiku. Narbutas pažymi, kad slavai šventyklas vadino gontinomis arba kontinomis."
+place_authority: true
+historical_names: []
 ---
 # Romovės šventykla
 
@@ -95,7 +104,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
 <a id="claim-t-194749"></a>
 - t-004
   teiginys: "Tad paskaitykime dabar pačios seno vinės šventyklos aprašymą."
-  atnaujinta: "2026-07-19 20:03"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -103,7 +112,7 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171794
+    - c-177145
 
 <a id="claim-t-197477"></a>
 - t-005
@@ -146,7 +155,8 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
 - id: c-171793
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 91."
   citata_originali: |
     Jų nuomonės nėra nepagrįstos, nes tai buvo
     suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
@@ -168,7 +178,8 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
 - id: c-171794
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 254."
   citata_originali: |
     Originalas buvo Vilniuje ir
     tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*.
@@ -183,13 +194,13 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
     - t-005
 
 - id: c-171795
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 266."
   citata_originali: |
     Už ąžuolo buvo nedideli
     rūsiai arba slėptuvės šventiesiems šliužams. Priešais ąžuolą,
@@ -208,7 +219,8 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
 - id: c-171797
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 268."
   citata_originali: |
     Priešais ąžuolą,
     angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos
@@ -228,7 +240,8 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
 - id: c-177145
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
   citata_originali: |
     Tad paskaitykime dabar pačios seno­
     vinės šventyklos aprašymą. Plačios lygumos, užliejamos dvie­
@@ -239,14 +252,17 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
   citata_rodoma: "Tad paskaitykime dabar pačios seno­\nvinės šventyklos aprašymą. Plačios lygumos, užliejamos dvie­\njų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,\nneišmatuojamo storio ir aukščio ąžuolas. Medį supo šešiakam­\npis mūrinis aptvaras, kadangi Strijkovskis suskaičiuoja šešis\nšventyklos kampus7."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-179211
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
   citata_originali: |
     Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
     to paties istoriko, priklausė šventyklos liekanoms. Garsi šven­

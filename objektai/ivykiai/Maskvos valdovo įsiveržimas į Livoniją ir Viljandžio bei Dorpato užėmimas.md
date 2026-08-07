@@ -65,15 +65,23 @@ Nenurodyta
 <a id="claim-t-185751"></a>
 - t-002
   teiginys: "Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Dorpatas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dorpatas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Dorpatą tarp maskvėnų užimtų vietų."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Maskvėnai užėmė Viljandis (0.93); Maskvėnai užėmė Dorpatas (0.93); Maskvėnai užėmė Livonija (0.82)"
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
-    - c-169111
+    - c-169112
 
 <a id="claim-t-196221"></a>
 - t-003
@@ -116,7 +124,8 @@ Nenurodyta
 - id: c-169111
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 699"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 699."
   citata_originali: |
     Po magistro ir
     kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš­
@@ -143,12 +152,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-169112
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 698"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 698."
   citata_originali: |
     Maskvėnai, į šį žygį patraukę
     su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
@@ -161,14 +170,17 @@ Nenurodyta
   citata_rodoma: "Maskvėnai, į šį žygį patraukę\nsu šimtu dvidešimt tūkstančių vyrų, netrukus užėmė\ndidelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.\nViljandyje į priešų rankas pakliuvo pats magistras Fiur-\nstenbergas, bet niekur neradau parašyta, ar gyvas, ar\nžuvęs. Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei\napygardos valdytoją Dorpato vyskupą ir visą dvasinin­\nkų kolegiją."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-178583
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 698"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 698."
   citata_originali: |
     Kai pulkai sustojo
     S ė k m in g a s ž y g is į Li-

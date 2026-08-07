@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b55c1666953080d12d5c3701"
+canonical_name: "Kauno miesto giria"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno miesto giria"]
+sameAs: []
+canonical_biography: "Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Joje Kauno miestiečiai galėjo pasigaminti statybinio miško ir kuro."
+place_authority: true
+historical_names: []
 ---
 # Kauno miesto giria
 
@@ -59,9 +68,9 @@ Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Joj
 ## Citatos
 
 - id: c-185053
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 238"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 238."
   citata_originali: |
     Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Šioje girioje
     kauniečiai patys tvarkėsi, čia jie galėjo pasiruošti kuro, statybinio miško, rinkti drevinį
@@ -76,9 +85,9 @@ Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Joj
     - t-001
 
 - id: c-185054
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 302"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 302."
   citata_originali: |
     Joje Kauno miestiečiai galėjo pasigaminti statybi-
     nio miško ir kuro. Prekėms eksportui ruošti miesto girioje reikėjo valdovo leidimo.

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-11f44413a2b2172e38ade886"
+canonical_name: "Juškus Kinbutavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juškus Kinbutavičius"]
+sameAs: []
+canonical_biography: "Štai 1523 m. Juškus Kinbutavičius gynėsi nuo vertimo atlikinėti valstietiškas prievoles, kurios būtų reiškusios bajorystės praradimą."
 ---
 # Juškus Kinbutavičius
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185453
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 109."
   citata_originali: |
     Giminės bendravimas ir parama buvo reikalinga smulkiųjų žemvaldžių
     kasdienio gyvenimo, atliekant prievoles valdovui, ginantis nuo vertimo valstiečiais,

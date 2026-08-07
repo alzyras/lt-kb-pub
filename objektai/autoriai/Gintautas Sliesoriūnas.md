@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-688cec9315f91a5d18f4196a"
+canonical_name: "Gintautas Sliesoriūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gintautas Sliesoriūnas"]
+sameAs: []
+canonical_biography: "Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis. Gintautas Sliesoriūnas (gimęs 1964 m.), 1989 m. baigė Vilniaus universiteto Istorijos fakultetą, istorijos specialybę."
 ---
 # Gintautas Sliesoriūnas
 
@@ -58,7 +65,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - id: c-42407
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 266."
   citata_originali: |
     Gintautas Sliesoriūnas (gimęs 1964 m.), 1989 m. baigė Vilniaus
     universiteto Istorijos fakultetą, istorijos specialybę. 1997 m. Vy-

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-34891f0e8288a8557d4f7b08"
+canonical_name: "Gintautas Jakštys"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gintautas Jakštys"]
+sameAs: []
+canonical_biography: "Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis. Gintautas Jakštys (gimęs 1971 m.), baigė Vilniaus pedagoginio universiteto Istorijos fakultetą."
 ---
 # Gintautas Jakštys
 
@@ -61,7 +68,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - id: c-42405
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 266."
   citata_originali: |
     Gintautas Jakštys (gimęs 1971 m.), baigė Vilniaus pedagoginio uni-
     versiteto Istorijos fakultetą. Lietuvos kariuomenės majoras. Gene-

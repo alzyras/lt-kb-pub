@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f1bc539f50034c8162d08555"
+canonical_name: "Kandaksas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kandaksas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam vadovaujant šios gentys kūrėsi Mažojoje Skitijoje ir žemutinėje Mezijoje."
 ---
 # Kandaksas
 
@@ -55,7 +62,8 @@ Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam
 - id: c-174169
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
   citata_originali: |
     282
 

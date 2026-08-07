@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b7d88e269f283d8e219b321c"
+canonical_name: "Sankt Peterburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sankt Peterburgas"]
+sameAs: []
+canonical_biography: "Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai – Maskva ir Leningradas."
+place_authority: true
+historical_names: []
 ---
 # Sankt Peterburgas
 
@@ -123,7 +132,8 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
 - id: c-175131
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 219."
   citata_originali: |
     mą – jos gamino techninės paskirties, gana siauro profilio produkciją, ku-
     ria dažniausiai aprūpindavo visą didžiulę šalį. Nors pagal mėsos ir pieno
@@ -150,7 +160,8 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
 - id: c-175132
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 455."
   citata_originali: |
     logijos“ variantas gali būti datuojamas 1841 —1842 me­
     tais, vadinasi, jau- po visų LTI tomų pasirodymo, ir yra
@@ -174,7 +185,8 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
 - id: c-175133
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 144."
   citata_originali: |
     ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
     Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
@@ -191,7 +203,8 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
 - id: c-175524
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 453."
   citata_originali: |
     Vadinasi, su­
     manymas siekia daug ankstesnius laikus nei „Lietuvių mi­

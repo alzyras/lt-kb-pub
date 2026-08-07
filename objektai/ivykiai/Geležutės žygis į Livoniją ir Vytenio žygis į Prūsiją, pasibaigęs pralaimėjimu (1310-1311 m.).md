@@ -125,7 +125,8 @@ Nenurodyta
 - id: c-168867
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 188."
   citata_originali: |
     Kai išblėso pirmojo antpuolio įniršis ir žuvo še­
     šiasdešimt narsiausių vokiečių, lietuviai nebeįstengė
@@ -161,7 +162,8 @@ Nenurodyta
 - id: c-178558
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 186-187"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 186-187."
   citata_originali: |
     Po šio atokvė­
     pio Geležutė, valdovo sūnus,
@@ -197,7 +199,8 @@ Nenurodyta
 - id: c-178559
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 187."
   citata_originali: |
     Kai tik
     k o jim a i
@@ -228,7 +231,8 @@ Nenurodyta
 - id: c-178560
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 187."
   citata_originali: |
     Sutelkta
     keturi tūkstančiai rinktinių karių; su šia kariuomene

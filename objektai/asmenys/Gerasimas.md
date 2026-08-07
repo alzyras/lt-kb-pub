@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7b46d6e81c632cdcfcaa43fd"
+canonical_name: "Gerasimas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gerasimas"]
+sameAs: []
+canonical_biography: "Švitrigaila įsakė sudeginti metropolitą Gerasimą."
 ---
 # Gerasimas
 
@@ -52,7 +59,8 @@ media_all_json: |-
 - id: c-83657
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 235."
   citata_originali: |
     Abu jie niokojo
     kraštą ir liejo jiems nepalankių gyventojų kraują. Švitrigai­

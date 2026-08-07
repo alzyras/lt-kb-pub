@@ -79,16 +79,23 @@ Nenurodyta
 <a id="claim-t-192060"></a>
 - t-002
   teiginys: "Istorikas 1839 m. gavo Rusijos imperatoriaus dovanotą briliantinį žiedą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Rusija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Briliantinis žiedas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Briliantinis žiedas\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   temporaliniai_duomenys: "įvykio data: 1839 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintas garbinamasis titulavimas ir OCR klaida. Palikta tik citatos remiama žiedo gavimo data ir dovanos davėjas."
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-170993
+    - c-174930
 
 <a id="claim-t-192061"></a>
 - t-003
@@ -134,7 +141,8 @@ Nenurodyta
 - id: c-170993
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 12."
   citata_originali: |
     A. H. Kirkoras, A. Renjė bandė jį užtarti pe­
     riodikoje, pagirdami už iškelto ir realizuoto sumanymo di­
@@ -150,12 +158,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-174930
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 63."
   citata_originali: |
     Va­
     dinasi, sumanymas siekia daug ankstesnius laikus nei „Lietu­
@@ -166,14 +174,17 @@ Nenurodyta
   citata_rodoma: "Va­\ndinasi, sumanymas siekia daug ankstesnius laikus nei „Lietu­\nvių mitologija“ buvo įvertinta sostinėje Peterburge. Jo Dide­\nnybės Imperatoriaus dovaną, briliantinį žiedą, istorikas gavo\n1839 metais. Šis faktas galėjo tik atgaivinti seną viltį išleisti\nrusiškąjį variantą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-174931
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 453."
   citata_originali: |
     Vadinasi, su-
     manymas siekia daug ankstesnius laikus nei „Lietuvių mi­

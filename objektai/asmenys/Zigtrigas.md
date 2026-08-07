@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c48691b55dcf2e00bea7ba6a"
+canonical_name: "Zigtrigas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zigtrigas"]
+sameAs: []
+canonical_biography: "Narbutas Zigtrigą vadina garsiu tenykščiu rusų karaliumi, kurį I a. pirmoje pusėje užjūrio krašte dvikovoje nukovė norvegų valdovas Halfadanas."
 ---
 # Zigtrigas
 
@@ -56,7 +63,8 @@ Narbutas Zigtrigą vadina garsiu tenykščiu rusų karaliumi, kurį I a. pirmoje
 - id: c-174369
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
   citata_originali: |
     Vadinasi, šis istorinis įvykis tu­
     rėjęs būti I krikščioniškosios eros amžiaus pirmojoje pu­

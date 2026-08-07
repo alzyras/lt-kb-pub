@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-95ffadedeb9329c78730506d"
+canonical_name: "Petras Bartkus-Žadgaila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Bartkus-Žadgaila"]
+sameAs: []
+canonical_biography: "Žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila (Prisikėlimo apygardos vadas) ir Bronius Liesis-Naktis, Prisikėlimo apygardos štabo viršininkas Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai."
 ---
 # Petras Bartkus-Žadgaila
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-41430
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 244."
   citata_originali: |
     1949 m. rugpjūčio 13 d. Radviliškio r.
     Užpelkių miške sunaikintas Prisikėlimo

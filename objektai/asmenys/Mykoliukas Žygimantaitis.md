@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-45bc2ad85989e3135aa9fffe"
+canonical_name: "Mykoliukas Žygimantaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykoliukas Žygimantaitis"]
+sameAs: []
+canonical_biography: "Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5."
 ---
 # Mykoliukas Žygimantaitis
 
@@ -66,7 +73,8 @@ Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš t�
 - id: c-176730
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 134."
   citata_originali: |
     Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka­
     riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5.

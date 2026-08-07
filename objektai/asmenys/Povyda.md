@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9c26362c7c83ce7e88769fb8"
+canonical_name: "Povyda"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Povyda"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus išvadavo."
 ---
 # Povyda
 
@@ -82,7 +89,8 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
 - id: c-61049
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 159."
   citata_originali: |
     Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių
     apygardų nusiaubimą ir Klemento pilies sugriovimą
@@ -106,9 +114,9 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
     - t-001
 
 - id: c-184375
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 446"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 446."
   citata_originali: |
     Visų pirma page-
     zonys pakėlė sau karvedžiu Musį ir ėmė į karę

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b16ba46fb9e1d23dac46e10e"
+canonical_name: "Spera"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Spera"]
+sameAs: []
+canonical_biography: "Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie didžiulio ežero pastatė pilį. Lietuvos metraštis Sperą vaizduoja kaip ilgai valdžiusį, valdiniams gerą valdovą, kuris mirė nepalikęs įpėdinių. Apie Speros paminėtinus darbus vėlesnės kartos, Kojelavičiaus teigimu, nežinojo."
 ---
 # Spera
 
@@ -80,7 +87,8 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
 - id: c-169524
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 61."
   citata_originali: |
     Tas miestas su pilimi, įkūrėjo at­
     minimui pavadintas Kaunu, po šiai dienai tebėra vie­
@@ -100,7 +108,8 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
 - id: c-176612
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 41."
   citata_originali: |
     Ir viešpatavo Spera daugelį metų, buvo geras savo
     valdiniams, paskui mirė, nepalikęs įpėdinių. Valdiniai,
@@ -119,7 +128,8 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
 - id: c-178784
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 62."
   citata_originali: |
     Kokius jis nuveikė paminėtinus darbus,
     vėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­

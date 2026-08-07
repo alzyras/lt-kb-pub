@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d70b9f2728730919dffbdf3d"
+canonical_name: "Leningradas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Leningradas"]
+sameAs: []
+canonical_biography: "GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949."
+place_authority: true
+historical_names: []
 ---
 # Leningradas
 
@@ -85,7 +94,8 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
 - id: c-93882
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 17."
   citata_originali: |
     V. An-
     tonovič ir Y. Kozlovskij, Kijevas 1868.
@@ -105,7 +115,8 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
 - id: c-167759
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 17."
   citata_originali: |
     GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningra-
     das 1949.

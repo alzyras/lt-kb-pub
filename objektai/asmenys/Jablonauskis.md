@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e2bc1d8e0bb2cee6b42e9d0"
+canonical_name: "Jablonauskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jablonauskis"]
+sameAs: []
+canonical_biography: "[Vadas] Jablonauskis mus sušaukęs pareiškė, kad „kirilas“ jau atsitraukė ir liepė mums dainuoti."
 ---
 # Jablonauskis
 
@@ -42,7 +49,8 @@ media_all_json: |-
 - id: c-41551
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     [Vadas] Jablonauskis mus sušaukęs pareiškė, kad „kirilas“ jau atsitraukė ir liepė mums
     dainuoti. Uždainavom balsiai, kiek galėjome; miškas mums pritarė. Beskambant mūsų

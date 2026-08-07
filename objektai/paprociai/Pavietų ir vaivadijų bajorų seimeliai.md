@@ -74,7 +74,8 @@ Nenurodyta
 - id: c-02240
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 247."
   citata_originali: |
     Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
     teismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-
@@ -98,7 +99,8 @@ Nenurodyta
 - id: c-02241
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 247."
   citata_originali: |
     Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto
     arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.

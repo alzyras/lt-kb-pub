@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a24f35507975911fb278d749"
+canonical_name: "Retavos valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Retavos valsčius"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaubė, piešdami bei degindami, o paskui, patraukę 456 Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m. Dusburgietis teigia, kad 460 D.— territorium Rethowi, Jer — gebît Rethow; Retavos valsčius Nadruvoje (plg."
+place_authority: true
+historical_names: []
 ---
 # Retavos valsčius
 
@@ -113,7 +122,8 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
 - id: c-87067
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
 
@@ -134,7 +144,8 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
 - id: c-87068
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
     Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą
@@ -155,7 +166,8 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
 - id: c-87069
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     460 D.— territorium Rethowi, Jer — gebît Rethow; Retavos valsčius Nadruvoje (plg.
     GAO, p. 141; ТАР, p. 83). Bandoma jį lokalizuoti Alnos žemupyje (VBK; HGAPW), toliau

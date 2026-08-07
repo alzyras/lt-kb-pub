@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9b52cecdf6ab3c8b11ca2be6"
+canonical_name: "Darius Baronas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Darius Baronas"]
+sameAs: []
+canonical_biography: "Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių mokslų daktaras."
 ---
 # Darius Baronas
 
@@ -76,7 +83,8 @@ Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių m
 - id: c-41654
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 266."
   citata_originali: |
     Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, hu-
     manitarinių mokslų daktaras. Tyrinėja krikščionybės Lietuvoje is-
@@ -93,9 +101,9 @@ Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių m
     - t-001
 
 - id: c-184840
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 126."
   citata_originali: |
     Pirmieji pranciškonų žingsniai Lietuvoje XII-XVII a. Sud. Darius Baronas, Vilnius, 2006,
     p. 117-138; Prikockienė Asta.

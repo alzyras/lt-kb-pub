@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8026a6e2728970320b5773ff"
+canonical_name: "Laurynas Zaremba"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Laurynas Zaremba"]
+sameAs: []
+canonical_biography: "Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir prisidėti prie Žygimanto šalininkų. Senatas pasiuntė Lauryną Zarembą į Lietuvą su pasiuntinybe, įgaliota kelti Žygimantą Lietuvos didžiuoju kunigaikščiu."
 ---
 # Laurynas Zaremba
 
@@ -72,7 +79,8 @@ Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir
 - id: c-169499
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 439"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 439."
   citata_originali: |
     Žygimantas ir anksčiau jautė priešiš­
     kumą Boleslovui, nes šis vei-
@@ -108,7 +116,8 @@ Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir
 - id: c-169500
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,

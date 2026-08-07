@@ -133,7 +133,8 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
 - id: c-78593
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 458"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 458."
   citata_originali: |
     Juo buvo siūloma iš
     8 Rusijos gubernijų, ku-
@@ -170,7 +171,8 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
 - id: c-78594
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 307."
   citata_originali: |
     Bet pagaliau,
     kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),
@@ -194,7 +196,8 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
 - id: c-78596
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 307."
   citata_originali: |
     Neapsiribodamas pavyzdžio verta savo
     labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­
@@ -227,7 +230,8 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
 - id: c-166380
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 458"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 458."
   citata_originali: |
     Ogins-
     kis nurodinėjo, kad tuo
@@ -254,7 +258,8 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
 - id: c-175913
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 307."
   citata_originali: |
     Bylos bū-
     davo sprendžiamos balsų dauguma. O bajorijos byloms su

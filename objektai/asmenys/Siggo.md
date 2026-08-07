@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15c8a3a0832504621249a5f9"
+canonical_name: "Siggo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Siggo"]
+sameAs: []
+canonical_biography: "Kozmo Prahiečio biografijos duomenimis, Narbutas Siggo vadina stabmeldžių žyniu ir prūsų minios vadu, užpuolusiu šventąjį Adalbertą."
 ---
 # Siggo
 
@@ -54,7 +61,8 @@ Kozmo Prahiečio biografijos duomenimis, Narbutas Siggo vadina stabmeldžių žy
 - id: c-173092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
   citata_originali: |
     Tie žyniai buvo išskirtinai dievo Atrimpo arba
     Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-009267cf0d1d45649f912a82"
+canonical_name: "Komnatas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Komnatas"]
+sameAs: []
+canonical_biography: "Komnatas, Narbuto vadinamas jotvingių vadu, kautynėse krito su ginklu rankose kartu su žymesniais ponais."
 ---
 # Komnatas
 
@@ -54,7 +61,8 @@ Komnatas, Narbuto vadinamas jotvingių vadu, kautynėse krito su ginklu rankose 
 - id: c-174172
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
   citata_originali: |
     135
 

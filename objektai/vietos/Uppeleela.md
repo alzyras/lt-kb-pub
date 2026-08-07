@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e70b6474abf5d70048fead0"
+canonical_name: "Uppeleela"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Uppeleela"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas spėjo, kad Uppeleela buvo miestas prie nežinomos upės, galbūt įtekančios į Engūrės ežerą, krantų ar žiočių. Ant jos krantų, gal prie žiočių, buvo miestas Uppeleela; iš čia svetimšaliai autoriai mini Apuliją."
+place_authority: true
+historical_names: []
 ---
 # Uppeleela
 
@@ -67,7 +76,8 @@ Teodoras Narbutas spėjo, kad Uppeleela buvo miestas prie nežinomos upės, galb
 - id: c-175628
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Ant jos krantų, gal prie žiočių, buvo miestas Uppe-
     leela; iš čia svetimšaliai autoriai mini Apuliją. O Anger

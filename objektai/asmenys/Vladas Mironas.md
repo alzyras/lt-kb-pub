@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0f00b49815e894f09f2baa92"
+canonical_name: "Vladas Mironas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladas Mironas"]
+sameAs: []
+canonical_biography: "Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusio gen."
 ---
 # Vladas Mironas
 
@@ -132,7 +139,8 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 - id: c-54988
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 179."
   citata_originali: |
     Lietuva tai laikė taktiniu atsi-
     traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
@@ -154,7 +162,8 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 - id: c-54989
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 182."
   citata_originali: |
     Lietuvos
     teritorijos ir 5 proc. gyventojų, prarasta trečdalis ekonomikos, o 70 proc.
@@ -176,7 +185,8 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 - id: c-54990
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 166."
   citata_originali: |
     Todėl 1936 m. vasarą
     vykę rinkimai nebuvo demokratiniai, o išrinktas IV Seimas vadintas

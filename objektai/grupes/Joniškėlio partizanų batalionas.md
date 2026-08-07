@@ -50,7 +50,8 @@ Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėži
 - id: c-44752
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 181."
   citata_originali: |
     Nuo gegužės 17 d. pra-
     dėti „sustiprintą žvalgybą“, priešui pradė-

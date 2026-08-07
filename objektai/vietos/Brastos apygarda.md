@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c9a445b9b321f536ec0e1d91"
+canonical_name: "Brastos apygarda"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Brastos apygarda"]
+sameAs: []
+canonical_biography: "III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liubešave ir Žuravicuose."
+place_authority: true
+historical_names: []
 ---
 # Brastos apygarda
 
@@ -47,7 +56,8 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 - id: c-176000
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 434."
   citata_originali: |
     I Gardino apygardoj apygardėlinių mokyklų buvo šiose vie-
     tose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje,

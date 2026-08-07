@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac404fedf8f384e7ef1c48fe"
+canonical_name: "Cyras-Karbo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Cyras-Karbo"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Strijkovskis kimbrus siejo su mūšiu prie Nortbėjos, kur jie 190 m. pr. Kr. pirmą kartą kovėsi su Cyras-Karbo vadovaujamais romėnais."
 ---
 # Cyras-Karbo
 
@@ -65,7 +72,8 @@ Narbutas rašo, kad Strijkovskis kimbrus siejo su mūšiu prie Nortbėjos, kur j
 - id: c-174266
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     Tačiau esama sunku­
     mų nustatant datą, kada tai galėjo įvykti: kalbėdamas

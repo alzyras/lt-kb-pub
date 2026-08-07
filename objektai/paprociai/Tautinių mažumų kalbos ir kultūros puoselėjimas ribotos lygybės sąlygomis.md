@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-75277
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 170-171"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 170-171."
   citata_originali: |
     Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-
     tinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai

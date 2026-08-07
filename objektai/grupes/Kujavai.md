@@ -78,7 +78,8 @@ Teodoro Narbuto aiškinimu, kujavais vadinosi tie, kurie apsigyveno Chue, slavi�
 - id: c-175756
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 379."
   citata_originali: |
     Tačiau, žlugus Skitijai ir siūbtelėjus Vakarų Azijos
     gyventojams, visa ši gyvenvietė Dnepro vidurupyje tu­

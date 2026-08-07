@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-836394cbef7b70cfe939f204"
+canonical_name: "L. G. Rėza"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["L. G. Rėza"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto pasakojime L. G. Rėza priekaištavo kritikams skeptikams ir įrodinėjo, kad kronikininkų teiginiai pasitvirtina senovės paminklais."
 ---
 # L. G. Rėza
 

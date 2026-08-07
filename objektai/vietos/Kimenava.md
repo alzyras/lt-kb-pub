@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c381d45619eea2778f460375"
+canonical_name: "Kimenava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kimenava"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro įsakytas, sutelkė visą savo kariuomenę ir įsiveržė į Sūduvos žemės valsčių, vardu Pakima495; smarkiai jį nusiaubęs, nudeginęs. Dusburgietis teigia, kad — territoriumĮ...] Pokimam, Jer.— Pokimen-, Kimenava, žr. Dusburgietis teigia, kad sitai padaręs, magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava, ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog jiems bus leista netrukdomiems iš čia išeiti su visa manta."
+place_authority: true
+historical_names: []
 ---
 # Kimenava
 
@@ -50,7 +59,8 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - id: c-59083
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Sitai padaręs,
     magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava,

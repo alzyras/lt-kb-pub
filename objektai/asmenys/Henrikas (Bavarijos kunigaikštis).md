@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b92f8c91dbc432a2437fb2de"
+canonical_name: "Henrikas (Bavarijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas (Bavarijos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydinta Ordinui pavedus ir padedant Ba­ varijos kunigaikščiui Henrikui apie 1337 metus, gavusi var­ dą, nuo jo paeinantį; pastarasis kunigaikštis draugėj su kryžiuočiais dalyvavo."
 ---
 # Henrikas (Bavarijos kunigaikštis)
 
@@ -62,7 +69,8 @@ Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydi
 - id: c-83663
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 118."
   citata_originali: |
     Dabar Veliuona priklauso dvari­
     ninkui Mykolui Zaleskiui.

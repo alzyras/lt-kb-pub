@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7d6f2f25e43056b520c0309f"
+canonical_name: "Meletijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Meletijus"]
+sameAs: []
+canonical_biography: "Visi šie žynių - vyrų ir moterų - vardai paimti iš Meletijaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai."
 ---
 # Meletijus
 
@@ -46,7 +53,8 @@ Visi šie žynių - vyrų ir moterų - vardai paimti iš Meletijaus ir Pretorija
 - id: c-177223
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
   citata_originali: |
     Daugeliu požiūrių
     šios žynės buvo Antikos bakchančių pamėgdžiojimas.

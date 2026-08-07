@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5271bc6d64f9af4671ebad5e"
+canonical_name: "Ludza"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ludza"]
+sameAs: []
+canonical_biography: "Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmis."
+place_authority: true
+historical_names: []
 ---
 # Ludza
 
@@ -53,7 +62,8 @@ Livonijos riterių ordinas turėjo atiduoti Lietuvai Ludzos pilį su apylinkėmi
 - id: c-168653
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 701-702"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 701-702."
   citata_originali: |
     Seimo darbe dalyvavo ir ordino magistras Ket-
     leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus

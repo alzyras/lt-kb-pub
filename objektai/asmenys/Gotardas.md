@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f9df0db05f486e764b52b3e4"
+canonical_name: "Gotardas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gotardas"]
+sameAs: []
+canonical_biography: "Mazovijos kunigaikščio Konrado laikais Uchanės grafas Gotardas, Lukošiaus sūnus, kautynėse suėmė septynis jotvingių kunigaikštukus."
 ---
 # Gotardas
 
@@ -63,7 +70,8 @@ Mazovijos kunigaikščio Konrado laikais Uchanės grafas Gotardas, Lukošiaus s�
 - id: c-174287
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
   citata_originali: |
     Ma­
     tyti, jog lietuvių padedami jie išsivadavo iš svetimųjų

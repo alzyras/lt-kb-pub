@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-006f88900ed2b5acfd6fa740"
+canonical_name: "Neris Vilija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Neris Vilija"]
+sameAs: []
+canonical_biography: "51) ap. V o i g t, V, 542, apie jį pasakoja: Entre les Francois on doit remarquer Jean le Maingre dit Bouci- — • — 120 ## Puslapis 137 Il KNYGA ciu pulkų, vedamų Vytauto, dar ir Livonijos magistras su savo pajėgomis; o kitoje Vilijos pusėje driekėsi. 25 Latopisiec Litewski, leidžiamas p. D an i 1 o v i č i a u s, 1.45 pasakoja, kad tas mūšis vykęs prie Vilijos upės: ties Horodoku, vietovėje, vadinamoje Weyiszczuszki. Visiškai baigėsi parakas, o artėjanti žiema grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti atgal į Prūsiją."
+place_authority: true
+historical_names: []
 ---
 # Neris Vilija
 
@@ -97,7 +106,8 @@ media_all_json: |-
 - id: c-82071
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 136-137"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 136-137."
   citata_originali: |
     Tai buvo ne garsusis prancūzų mar­
     šalas Boucicaut, bet jo sūnus: juk D e
@@ -132,7 +142,8 @@ media_all_json: |-
 - id: c-82072
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 137."
   citata_originali: |
     25
     Latopisiec Litewski, leidžiamas p. D a-
@@ -154,7 +165,8 @@ media_all_json: |-
 - id: c-82073
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 142."
   citata_originali: |
     Tokios atkaklios Moskoževskio gynybos aplin­
     kybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­
@@ -181,7 +193,8 @@ media_all_json: |-
 - id: c-179210
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
   citata_originali: |
     Be anksčiau pateiktų įrody­
     mų, tą patvirtina vietovės Paneriai, Neriškiai ir 1.1. Darant to­

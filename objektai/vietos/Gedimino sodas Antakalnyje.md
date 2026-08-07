@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8737b1a767edcf0ce1ee4dac"
+canonical_name: "Gedimino sodas Antakalnyje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gedimino sodas Antakalnyje"]
+sameAs: []
+canonical_biography: "Narbutas minėjo padavimą, kad Gedimino sode Antakalnyje, dabartinio Šv. Petro vienuolyno vietoje, stovėjusi Mildos šventykla arba koplyčia."
+place_authority: true
+historical_names: []
 ---
 # Gedimino sodas Antakalnyje
 
@@ -54,7 +63,8 @@ Narbutas minėjo padavimą, kad Gedimino sode Antakalnyje, dabartinio Šv. Petro
 - id: c-171887
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
   citata_originali: |
     Bet kai kas painioja šią patrauklią dievybę su deive Lie­
     tuva.

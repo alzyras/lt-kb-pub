@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae5af22ef0726217afb91dfb"
+canonical_name: "Skavai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Skavai","Skavai (vieta)"]
+sameAs: []
+canonical_biography: "1463 m. Kazimieras Jogailaitis, tvirtindamas ir praplėsdamas pirmtakų privilegijas Kauno miestui, užrašė, kad Laukus, taip pat mūsų ir pievas, Skavais vadinamas, į ilgį nuo miesto iki upelio ar upokšnio Girstupio, o į plotį nuo Nemuno upės net iki kalvos. Jos buvo Skavuose, netoli Šv."
+place_authority: true
+historical_names: []
 ---
 # Skavai (vieta)
 
@@ -66,9 +75,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185047
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 137"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 137."
   citata_originali: |
     1463 m. Kazimieras
     Jogailaitis, tvirtindamas ir praplėsdamas pirmtakų privilegijas Kauno miestui, už-
@@ -87,9 +96,9 @@ media_all_json: |-
     - t-001
 
 - id: c-185048
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 321"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 321."
   citata_originali: |
     Ne vėliau kaip 1569 m.
     liuteronai įsirengė ir kapines. Jos buvo Skavuose, netoli Šv. Gertrūdos bažnytėlės.

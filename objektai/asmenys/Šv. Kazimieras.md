@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-85f99b8a4bedf033078523dc"
+canonical_name: "Šv. Kazimieras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šv. Kazimieras"]
+sameAs: []
+canonical_biography: "Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos klostymasis. pradžioje karalaitis Kazimieras garbintas Vilniaus apylinkėse, o šv. Kazimiero kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota religinė savimonė."
 ---
 # Šv. Kazimieras
 
@@ -132,7 +139,8 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
 - id: c-75329
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 54."
   citata_originali: |
     Jau XVI a. pradžioje karalaitis Kazimieras garbintas Vilniaus
     apylinkėse, o šv. Kazimiero kultas ėmė išstumti Lenkijos globėjo šv. Sta-
@@ -151,7 +159,8 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
 - id: c-75330
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 53-54"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 53-54."
   citata_originali: |
     pradžioje krikščionybė
 
@@ -172,7 +181,8 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
 - id: c-75331
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 54."
   citata_originali: |
     Kazimiero
     kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota
@@ -190,7 +200,8 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
 - id: c-75332
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 90."
   citata_originali: |
     O 1792 m. buvo baigtos Lietuvos globėjo šv. Kazimiero, Lenkijos
     globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.

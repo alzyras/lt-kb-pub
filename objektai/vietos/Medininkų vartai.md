@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-808e8bb7c9a752e5cd6c94a1"
+canonical_name: "Medininkų vartai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Medininkų vartai"]
+sameAs: []
+canonical_biography: "Beveik tuo pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką Dievui už puikią savo pergalę, ant kalvelės, netoli Medinin­ kų vartų, pastatė mūrinę Švč."
+place_authority: true
+historical_names: []
 ---
 # Medininkų vartai
 
@@ -49,7 +58,8 @@ Beveik tuo pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką Dievu
 - id: c-82189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 282."
   citata_originali: |
     Beveik tuo
     pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką

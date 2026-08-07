@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-63195
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     205 (200). Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį
 
@@ -112,7 +113,8 @@ Nenurodyta
 - id: c-178991
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     Apie Marienburgo pilies pastatymą
     1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ed14f6a790504d408d32990f"
+canonical_name: "Olbrachtas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Olbrachtas"]
+sameAs: []
+canonical_biography: "1496 m. Olbrachtas, Lietuvos metraštyje vadinamas karaliumi, su karalaičiu Zigmantu išvyko į Liubliną, o vėliau Parčeve dalyvavo seime su Aleksandro puse. Lietuvos metraštis pasakoja, kad Olbrachtas po sutarties su Moldavijos vaivada traukė iš Moldavijos per uolėtą Bukoviną, nes norėjo greičiau pasiekti Lenkijos sieną."
 ---
 # Olbrachtas
 
@@ -86,7 +93,8 @@ media_all_json: |-
 - id: c-176731
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 146."
   citata_originali: |
     Tą pačią žiemą didysis kunigaikštis
     Aleksandras su didžiąja kunigaikštiene Elena bei su
@@ -115,7 +123,8 @@ media_all_json: |-
 - id: c-178948
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 148."
   citata_originali: |
     O Moldavijos vaivada, matydamas, kad
     negalės jam atsispirti, pasiuntė pas jį savo pasiuntinius

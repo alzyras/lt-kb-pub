@@ -70,7 +70,8 @@ Dusburgietis teigia, kad schmalstieg W.
 - id: c-61918
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     9, S. 8—11.
     Schmalstieg W. R. An Old Prussian Grammar: The Phonology and Morphology of the

@@ -50,7 +50,8 @@ Daug painių klausimų Daukantas paliko, kaip jis pats sakosi, « mokytiems vyra
 - id: c-33488
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 60."
   citata_originali: |
     Platus Daukanto susirašinėjimas su Teodoru Narbutu ir kitais
     pažįstamais parodė žymiai didesnę jo orientaciją ano meto Lietuvos

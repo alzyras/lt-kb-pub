@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e5334e9d1fa9488a6517196d"
+canonical_name: "Kaspija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kaspija"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meotidės, tarp budinų ir prie Kaspijos."
+place_authority: true
+historical_names: []
 ---
 # Kaspija
 
@@ -57,7 +66,8 @@ Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meo
 - id: c-175647
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
   citata_originali: |
     Jų kraštas derlingas, turtingas tankių miškų, o
     didžiausiame miške yra pelkėtas, nendrėmis apaugęs

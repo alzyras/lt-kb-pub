@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1ee60342f30382d027a652ca"
+canonical_name: "Jonas Kazimieras Rudamina"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Kazimieras Rudamina"]
+sameAs: []
+canonical_biography: "Jonas Kazimieras Rudamina buvo Breslaujos pavieto žemės raštininkas."
 ---
 # Jonas Kazimieras Rudamina
 
@@ -57,9 +64,10 @@ Jonas Kazimieras Rudamina buvo Breslaujos pavieto žemės raštininkas.
 ## Citatos
 
 - id: c-185762
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 15"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 15."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 15."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

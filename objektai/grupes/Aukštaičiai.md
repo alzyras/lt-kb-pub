@@ -67,7 +67,8 @@ media_all_json: |-
 - id: c-31037
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 261."
   citata_originali: |
     Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris
     grupes, (1377.II.) teriojo Aukštaičius.
@@ -82,7 +83,8 @@ media_all_json: |-
 - id: c-177374
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 221."
   citata_originali: |
     Lietuvos metraštyje tačiau visa ankstyboji ge­
     neologija, lygiai kaip ir « Koliumnų » (Gedimino) dinastijos kilmė,

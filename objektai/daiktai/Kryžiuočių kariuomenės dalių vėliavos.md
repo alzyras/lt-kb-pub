@@ -152,7 +152,8 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 - id: c-170006
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 694"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 694."
   citata_originali: |
     Prie
     to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
@@ -171,7 +172,8 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 - id: c-170008
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 694"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 694."
   citata_originali: |
     PRIEDĖLIŲ PAAIŠKINIMAI
     **I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**
@@ -189,7 +191,8 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 - id: c-170009
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 694"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 694."
   citata_originali: |
     Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie
     to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-

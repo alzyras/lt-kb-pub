@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fd4b192e88f1938f7642d997"
+canonical_name: "Motiejus Papinigis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus Papinigis"]
+sameAs: []
+canonical_biography: "Gertrūdos (Gerdrudska), nuo bažnyčios besiremianti į Breidžpetrio gatvę, Papinigio (POpilligowska), gavusi vardą nuo Kauno pirklio Motiejaus Papinigio, kurio namai čia stovėjo."
 ---
 # Motiejus Papinigis
 
@@ -41,9 +48,9 @@ Gertrūdos (Gerdrudska), nuo bažnyčios besiremianti į Breidžpetrio gatvę, P
 ## Citatos
 
 - id: c-185539
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 379"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 379."
   citata_originali: |
     Tiesa, daugumos iš jų vardai neišliko to meto
     šaltiniuose, bet kai kurie žinomi: Šv. Gertrūdos (Gerdrudska), nuo bažnyčios besire-

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c95efe8ed9696f53eb60b8e"
+canonical_name: "Simonas Belskis ir Ivanas Liackis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Simonas Belskis ir Ivanas Liackis"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Simonas Belskis ir Ivanas Liackis
 

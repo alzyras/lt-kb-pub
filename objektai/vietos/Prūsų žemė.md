@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3a4611e2be3b9048411bf4a0"
+canonical_name: "Prūsų žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Prūsų žemė"]
+sameAs: []
+canonical_biography: "Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, Prūsų žemė, kuris Livonijos riterių ir kryžininkų prieaugliui tapo rimtas varžovas."
+place_authority: true
+historical_names: []
 ---
 # Prūsų žemė
 
@@ -117,7 +126,8 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - id: c-34010
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 173."
   citata_originali: |
     Kai popiežiaus Honorijaus III atsiustasis legatas Vilhelmas de Mo­
     dena sėkmingai neišnarpliojo susipainiojusių ordino, vyskupo ir au­
@@ -142,7 +152,8 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - id: c-184808
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 60."
   citata_originali: |
     Tuo tarpu visos kiltys, buvusios anapus Nemuno,
     liko amžinoje vokiečių vergovėje.
@@ -163,7 +174,8 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - id: c-184809
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 60."
   citata_originali: |
     Įsikūręs pirmiausia jų krašte, ordinas jų vardu pavadino ir
     visą nukariautą kraštą.
@@ -184,7 +196,8 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 279."
   citata_originali: |
     Tas kraštas jį ir politiškai iš­
     lavino. Per tiek metų jis išmoko gerai vokiečių kalbos, kry­
@@ -204,7 +217,8 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - id: c-184811
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 57."
   citata_originali: |
     **11. Kryžiuočių ordino atsikraustymas į Prūsus**
 

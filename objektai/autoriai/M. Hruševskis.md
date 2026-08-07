@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a01f38d34beae2904ef737e"
+canonical_name: "M. Hruševskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Hruševskis"]
+sameAs: []
+canonical_biography: "Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE LIETUVOJE 293 galėjo skelbtis pasauliui, kad ji jau yra paženklinta kryžiaus ženklu. Hruševskyj, M."
 ---
 # M. Hruševskis
 
@@ -63,7 +70,8 @@ Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE
 - id: c-33053
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 95."
   citata_originali: |
     Lietuvos istorijos klausimus
     nuo XIII a. vidurio iki Liublino unijos savo paskaitose Peter­

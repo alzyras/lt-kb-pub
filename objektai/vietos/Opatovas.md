@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a6c8e816eba0cb8612691545"
+canonical_name: "Opatovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Opatovas"]
+sameAs: []
+canonical_biography: "Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugiau kaip 130 km į šiaurės rytus nuo Krokuvos."
+place_authority: true
+historical_names: []
 ---
 # Opatovas
 
@@ -70,7 +79,8 @@ Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugia
 - id: c-170325
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 235."
   citata_originali: |
     Opatovas — Lenkijos Kielcų vaivadijos miestas (apie 30 km
     j vakarus nuo Zavichosto ir Vislos, 130 km su viršum | šiaurės

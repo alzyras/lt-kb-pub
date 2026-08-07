@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-052ec9c36e3fec25f6ed86f0"
+canonical_name: "Juodoji Ančia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Juodoji Ančia"]
+sameAs: []
+canonical_biography: "Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau - palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties."
+place_authority: true
+historical_names: []
 ---
 # Juodoji Ančia
 
@@ -50,7 +59,8 @@ Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos 
 - id: c-45117
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 204."
   citata_originali: |
     Lenkai su tuo nesutiko ir vilkino
     derybas. Galiausiai spalio 7 d. buvo nusta-

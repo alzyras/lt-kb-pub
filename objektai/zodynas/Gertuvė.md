@@ -57,10 +57,11 @@ Terminas vartojamas dvaro, kaimo ir bendruomeninio taikymosi kontekste.
 <a id="claim-t-195619"></a>
 - t-001
   teiginys: "Dvarponiai šioje apybraižoje turėjo gertuves kaimuose, prie vieškelių ir kryžkelių."
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-178021
 

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ef28f784105920cac3d56cd"
+canonical_name: "Kasiodoras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kasiodoras"]
+sameAs: []
+canonical_biography: "Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje gyvenusius estus. Kasiodoro raštų rinkinyje (Variarum. Lib."
 ---
 # Kasiodoras
 
@@ -69,7 +76,8 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
 - id: c-174170
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
   citata_originali: |
     Apie estus nėra žinių nuo Tacito
     laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
@@ -93,7 +101,8 @@ Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje
 - id: c-177310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 92."
   citata_originali: |
     2 Kasiodoro raštų rinkinyje (Variarum. Lib. V. Epistola 2). Apie
     tai

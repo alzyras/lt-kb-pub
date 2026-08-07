@@ -98,7 +98,8 @@ Vilniaus miesto amatininkų cechas.
 - id: c-55902
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 451"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 451."
   citata_originali: |
     IV  KNYGA
     Steponas, Dievo malone Lenkijos karalius, didysis Lie­
@@ -129,7 +130,8 @@ Vilniaus miesto amatininkų cechas.
 - id: c-55903
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 453"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 453."
   citata_originali: |
     Visa tai darė
     negerbdamas privilegijų, leistų minėtam cechui, kaip visa

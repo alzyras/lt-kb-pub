@@ -49,7 +49,8 @@ Kučinskas: Kęstutis , 124-125 p. 260 ii skyrius: valstybės iškilimas mis; pa
 - id: c-94047
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 267."
   citata_originali: |
     Kučinskas:** **_Kęstutis_** **, 124-125 p.**
 

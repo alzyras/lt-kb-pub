@@ -83,7 +83,8 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
 - id: c-59808
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
   citata_originali: |
     Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui
     namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką

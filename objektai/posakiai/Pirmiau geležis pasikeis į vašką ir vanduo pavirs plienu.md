@@ -107,7 +107,8 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - id: c-55400
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 73."
   citata_originali: |
     I  KNYGA
     tačiau prie šio rašto mes pridedame tą patį antspaudą, pa­
@@ -135,7 +136,8 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - id: c-78634
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 89."
   citata_originali: |
     Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų
     raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­

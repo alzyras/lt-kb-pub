@@ -126,7 +126,8 @@ Nenurodyta
 - id: c-60261
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     Čia Dusburgietis pateikia oficialią
     Ordino pradžios tradiciją (pagal Statutų prologą). Tuo tarpu „Narratio“ esama duomenų,
@@ -144,7 +145,8 @@ Nenurodyta
 - id: c-60262
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     Popiežius patvirtino
     Jeruzalės brolių ligoninę, suteikė jiems tokių pat privilegijų, kaip kitados buvo suteikęs

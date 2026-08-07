@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-60296
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
   citata_originali: |
     Vladislovo Lokietkos valdoma Lenkija stojo į kovą su Brandenburgu
     — norėta atgauti markgrafų užgrobtas žemes. 1325 m. pradžioje ankstesnio susitarimo

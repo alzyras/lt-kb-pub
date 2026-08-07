@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7e059c056dae5649e0f8b5b8"
+canonical_name: "Zygfridas iš Da[he]nfeldo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zygfridas iš Da[he]nfeldo"]
+sameAs: []
+canonical_biography: "„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi."
 ---
 # Zygfridas iš Da[he]nfeldo
 
@@ -63,7 +70,8 @@ media_all_json: |-
 - id: c-42356
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
     Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-105c6c4d29c40e15b8573338"
+canonical_name: "Plutarchas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Plutarchas"]
+sameAs: []
+canonical_biography: "Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeigose Bakcho garbei. Plutarchas aprėkdavusi kiekvieną įeinantį, kad nesumindytų pieno karalienės."
 ---
 # Plutarchas
 
@@ -45,7 +52,8 @@ Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeig
 - id: c-173285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 205."
   citata_originali: |
     Latviai tas rupūžes vadino Pieno motinomis
     (Peenu mahtes), pieno deivėmis. Jų mitologijoje buvo kažko­

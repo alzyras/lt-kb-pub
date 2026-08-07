@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-05bbd7b1eb49bc452306217a"
+canonical_name: "Wilhelmas II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Wilhelmas II"]
+sameAs: []
+canonical_biography: "Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad."
 ---
 # Wilhelmas II
 
@@ -40,7 +47,8 @@ Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijo
 - id: c-22083
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 136."
   citata_originali: |
     Nauja Lietuvos valstybė turėjo
     būti demokratinė, parlamentinė.

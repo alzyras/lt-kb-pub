@@ -72,7 +72,8 @@ Nenurodyta
 - id: c-01874
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 268."
   citata_originali: |
     Kaip visur, taip ir Lietuvoje, pirmas jėzuitų darbas buvo
     steigti mokyklos. Pradžios mokyklų jie nesteigė, o tik aukštes-

@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-17966d06fb5a723ff8d93819"
+canonical_name: "Virbalis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Virbalis","Virbalis (vieta)"]
+sameAs: []
+canonical_biography: "Lietuviškųjų žemių miestai turėjo mokėti taip: Trakai 100 kapų grašių, Merkinė, Šeduva, Virbalis - po 40 kapų grašių, Jurbarkas, Panevėžys, Šiauliai - po 30 kapų grašių, dar keliolika miestų ir miestelių - po 8-20 kapų grašių."
+place_authority: true
+historical_names: []
 ---
 # Virbalis (vieta)
 
@@ -46,9 +55,9 @@ Lietuviškųjų žemių miestai turėjo mokėti taip: Trakai 100 kapų grašių,
 ## Citatos
 
 - id: c-185055
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 389"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 389."
   citata_originali: |
     Kiti miestai turėjo mokėti kur kas mažiau, daugiausia Brestas ir Kije-
     vas, - po 200 kapų grašių, Minskas, Mogiliavas, Pinskas - po 150 kapų grašių, Gar-

@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e5d0e9d26bffe457246dfcd6"
+canonical_name: "Algimantas Daugirdas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Algimantas Daugirdas"]
+sameAs: []
+canonical_biography: "Algimantas Daugirdas (gimęs 1949 m.), 1972 m. baigė KTU (tuometinį Kauno politechnikos institutą)."
 ---
 # Algimantas Daugirdas
 
@@ -59,7 +66,8 @@ Algimantas Daugirdas (gimęs 1949 m.), 1972 m. baigė KTU (tuometinį Kauno poli
 - id: c-41652
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 266."
   citata_originali: |
     Algimantas Daugirdas (gimęs 1949 m.), 1972 m. baigė KTU
     (tuometinį Kauno politechnikos institutą). Domisi ir tyrinėja

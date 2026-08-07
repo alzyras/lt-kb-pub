@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8ec399320b3788cc86fe4d2a"
+canonical_name: "J. Grinius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Grinius"]
+sameAs: []
+canonical_biography: "Grinius, Veidai ir problemos lietuvių literatūroje, I t., XII-406 psl., Roma 1973. Grinius, Veidai ir problemos lietuvių literatūroje, II t., XII-500 psl., Roma 1977."
 ---
 # J. Grinius
 
@@ -61,7 +68,8 @@ Grinius, Veidai ir problemos lietuvių literatūroje, I t., XII-406 psl., Roma 1
 - id: c-32964
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 419"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 419."
   citata_originali: |
     14 dol.
     J. Grinius, Veidai ir problemos lietuvių literatūroje, II t.,

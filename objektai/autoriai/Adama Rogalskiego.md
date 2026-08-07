@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0406bf01853d70bf8fc8a172"
+canonical_name: "Adama Rogalskiego"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Adama Rogalskiego"]
+sameAs: []
+canonical_biography: "Z laciñskiego tlumaczenie Adama Rogalskiego // Dziennik Wileñski."
 ---
 # Adama Rogalskiego
 
@@ -55,7 +62,8 @@ Z laciñskiego tlumaczenie Adama Rogalskiego // Dziennik Wileñski.
 - id: c-177242
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 502"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 502."
   citata_originali: |
     Istorikas naudojosi ir lenkišku vertimu, dar
     1823 metais išspausdintu Vilniaus periodikoje (Mi­

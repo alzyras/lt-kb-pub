@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-89da8f022be4a2638b9d7af0"
+canonical_name: "Rittersverderio pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rittersverderio pilis"]
+sameAs: []
+canonical_biography: "Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­ dinti ir stiprinti Rittersverderio pilį52."
+place_authority: true
+historical_names: []
 ---
 # Rittersverderio pilis
 
@@ -51,7 +60,8 @@ Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių,
 - id: c-82209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 152."
   citata_originali: |
     Visa tai vyko žiemos pabaigo­
     je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­

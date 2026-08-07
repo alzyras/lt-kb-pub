@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fd00e9440730b9e55edc28ff"
+canonical_name: "Hermanas iš Šenenbergo (karvedys, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hermanas iš Šenenbergo","Hermanas iš Šenenbergo (karvedys, XIII a.)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems."
 ---
 # Hermanas iš Šenenbergo (karvedys, XIII a.)
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
 - id: c-60959
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 159-160"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 159-160."
   citata_originali: |
     Galop
     magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį

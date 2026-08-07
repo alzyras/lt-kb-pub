@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cced6a5cc54a37141844a3e5"
+canonical_name: "Dionizas Poška"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dionizas Poška"]
+sameAs: []
+canonical_biography: "Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poezijos žemaitiškai arba lietuviškai rašymo pradžia. 1829 m. „Dziennik Warszawski“ paskelbtas jo straipsnis apie Lietuvos ir Žemaičių istorijos rašymą laikomas reikšmingu literatūriniu palikimu. Poškai buvo žinomi Simono Daukanto „Darbai senųjų lietuvių ir žemaičių“, nors straipsnyje Daukanto jis neminėjo."
 ---
 # Dionizas Poška
 
@@ -82,19 +89,20 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
 <a id="claim-t-193041"></a>
 - t-004
   teiginys: "Dionizui Poškai buvo žinomi Simono Daukanto „Darbai senųjų lietuvių ir žemaičių“, nors savo straipsnyje jis Daukanto neminėjo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
-    - c-175810
+    - c-175811
 
 ## Citatos
 
 - id: c-175808
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 110-111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 110-111."
   citata_originali: |
     Varšuvoje Mokslo bičiulių drau-
 
@@ -117,7 +125,8 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
 - id: c-175809
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 49."
   citata_originali: |
     Be to,
     ir anuometinė atmosfera buvo palanki tokiam sprendimui pri­
@@ -137,7 +146,8 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
 - id: c-175810
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 50."
   citata_originali: |
     Sunku pasakyti, ar D. Poška, rašydamas šį straipsnį, turėjo
     omenyje kokį nors konkretų asmenį. Galbūt ir taip. Jam pui­
@@ -152,12 +162,12 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
 
 - id: c-175811
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 51."
   citata_originali: |
     Manoma, kad tuo metu jau buvo parašyti
     S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
@@ -168,7 +178,8 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   citata_rodoma: "Manoma, kad tuo metu jau buvo parašyti\nS. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai\nbuvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo\npersirašytas11. Bet savo straipsnyje jis nemini S. Daukanto, ta­\nrytum pastangų parašyti lietuvių tautos istoriją iki pat 1829\nmetų ir nebuvo."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

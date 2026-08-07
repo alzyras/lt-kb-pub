@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-581acd720b5be8c6ab3fd9bd"
+canonical_name: "Naujoji Marchija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujoji Marchija"]
+sameAs: []
+canonical_biography: "152 ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­ jos karaliaus Zigmanto Liuksemburgiečio, kuris, būdamas Bran­ denburgo kurfiurstas, dalį savo žemių, esančių tarp Branden­ burgo ir Poznanės, būtent Naująją Marchiją, pardavė Ordinui. Kaip praneša Naujosios Marchijos šaltyšius, lenkų ten per kelias mylias buvę išsirikiavusių apie 40.000^3 )."
+place_authority: true
+historical_names: []
 ---
 # Naujoji Marchija
 
@@ -51,7 +60,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 247."
   citata_originali: |
     Lenkai ir
     dabar vėl ryžosi pastot karūnacijai kelią. Jie atidžiai išskirstė

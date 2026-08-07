@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-547e5f26878a49733e9535dc"
+canonical_name: "Soldau"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Soldau"]
+sameAs: []
+canonical_biography: "Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau link."
+place_authority: true
+historical_names: []
 ---
 # Soldau
 
@@ -51,7 +60,8 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 101."
   citata_originali: |
     Magistras tada atsakė, kad ginčą
     tarp jo ir sąjungininkų gali išspręsti tik kardas. Po to, sąjun­

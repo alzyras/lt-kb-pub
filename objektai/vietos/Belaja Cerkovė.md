@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fc3d1f399c1607a929a5bdc9"
+canonical_name: "Belaja Cerkovė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Belaja Cerkovė"]
+sameAs: []
+canonical_biography: "Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cerkovę Kijevo gubernijoje. Pasak Purpurinio, pečenegų ordos Charoboe sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove."
+place_authority: true
+historical_names: []
 ---
 # Belaja Cerkovė
 
@@ -34,7 +43,7 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
 <a id="claim-t-192810"></a>
 - t-001
   teiginys: "Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cerkovę Kijevo gubernijoje."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,7 +59,6 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175580
-    - c-175581
 
 <a id="claim-t-192811"></a>
 - t-002
@@ -78,7 +86,8 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
 - id: c-175580
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
     ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
@@ -99,7 +108,8 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
 - id: c-175581
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 107."
   citata_originali: |
     100
     Geografija. Viena dešiniojoje Dnepro pakrantėje gy­
@@ -114,5 +124,4 @@ Karamzinas Jurjevą siejo su vieta prie Rosės upės, tekančios pro Belają Cer
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

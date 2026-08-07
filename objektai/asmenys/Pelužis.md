@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9b95cf99f8ec3668f60ec928"
+canonical_name: "Pelužis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pelužis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė. Dusburgietis teigia, kad kai jie priėjo šio kunigaikščio sodybą, užtiko ten sukviestus į vestuves beveik visus Lietuvos karalystės kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė juos ir nužudė 70 kunigaikščių drauge su namų šeimininku."
 ---
 # Pelužis
 
@@ -62,7 +69,7 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 <a id="claim-t-90003"></a>
 - t-002
   teiginys: "Pelužio prašymu Karaliaučiaus komtūras jam paskyrė Martyną iš Golino, Konradą Velnią, Stavimėlą ir 20 kitų vyrų."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -76,7 +83,6 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Citata palaiko konkretų faktą, bet pradinė formuluotė turi išnašos ir OCR triukšmo."
   pagrindžia:
-    - c-85906
     - c-85907
 
 <a id="claim-t-90004"></a>
@@ -190,7 +196,8 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 - id: c-85906
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
   citata_originali: |
     Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
     vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
@@ -206,13 +213,13 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
     - t-003
 
 - id: c-85907
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
   citata_originali: |
     III, 235), sukilimą prūsai galėjo rengti 1289 m.
 
@@ -234,7 +241,8 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 - id: c-168178
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 158."
   citata_originali: |
     Tegu su kariais netikėtai pasirodąs, iš pa­
     čių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-
@@ -256,7 +264,8 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 - id: c-179341
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 196."
   citata_originali: |
     Dabar
     panagrinėkime naujesnius pėdsakus, liudijančius, kad šių

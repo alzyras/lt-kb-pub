@@ -61,7 +61,8 @@ Tai Vilniaus puolimo pradžią ženklinantis ir miestiečius mobilizuojantis ša
 - id: c-12487
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 151."
   citata_originali: |
     Tai buvo
     signalas puolimui pradėti. Tuoj pat sus-

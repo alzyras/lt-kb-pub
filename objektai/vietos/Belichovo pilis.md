@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d6e89970ac8ff0d13f23e0d"
+canonical_name: "Belichovo pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Belichovo pilis"]
+sameAs: []
+canonical_biography: "Belichovo pilis, kilmingojo Jono buveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bialochovo, apylinkėse, šiaurinėje Osos pakrantėje, prie pat Mokrau kaimo. Belichovo pilis, kilmingojo Jono buveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bialochovo, apylinkėse, šiaurinėje Osos pakrantėje, prie pat Mokrau kaimo."
+place_authority: true
+historical_names: []
 ---
 # Belichovo pilis
 
@@ -75,7 +84,8 @@ Belichovo pilis, kilmingojo Jono buveinė, buvo netoli Osos, Bindigs-Bergo, šia
 - id: c-175635
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
   citata_originali: |
     Toliau yra Prezla, Passaluk,
     Posolna, Lynguar, Loypicz, Komor ir kitos apskritys. Taip
@@ -101,7 +111,8 @@ Belichovo pilis, kilmingojo Jono buveinė, buvo netoli Osos, Bindigs-Bergo, šia
 - id: c-179368
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
   citata_originali: |
     Toliau yra Prezla, Passaluk,
     Posolna, Lynguar, Loypicz, Komor ir kitos apskritys. Taip

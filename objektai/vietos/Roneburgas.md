@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9800b045164c6dde8021dc67"
+canonical_name: "Roneburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Roneburgas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.) pilies bažnyčioje."
+place_authority: true
+historical_names: []
 ---
 # Roneburgas
 
@@ -50,7 +59,8 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikos nuorašas buvo ir Livonijoj
 - id: c-59352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)
     pilies bažnyčioje. Jį ten XVI a.

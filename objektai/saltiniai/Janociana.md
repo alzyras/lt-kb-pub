@@ -49,7 +49,8 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
 - id: c-84409
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 298."
   citata_originali: |
     Augustas Rotundas Milesijus
     arba Mielickis, kaip jį vadina Igna­

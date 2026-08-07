@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-62666
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Apie antrąjį minėtojo Marienverderio miesto sugriovimą
     Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio

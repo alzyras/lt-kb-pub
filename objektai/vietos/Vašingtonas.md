@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4374b249807d5ed06fb9f823"
+canonical_name: "Vašingtonas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vašingtonas"]
+sameAs: []
+canonical_biography: "1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO. 2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare."
+place_authority: true
+historical_names: []
 ---
 # Vašingtonas
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-24547
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 259."
   citata_originali: |
     1994 m. sausį Lietuvos Res-
     publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-

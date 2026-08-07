@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fbf155422994334c32f90379"
+canonical_name: "Ptolomais (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ptolomais","Ptolomais (vieta)"]
+sameAs: []
+canonical_biography: "Ptolomais pilėj, šiandien Akrą vadinamoj, su ka riauna krikščionų tas pats kas Antiochijoj nutiko."
+place_authority: true
+historical_names: []
 ---
 # Ptolomais (vieta)
 
@@ -52,9 +61,9 @@ Ptolomais pilėj, šiandien Akrą vadinamoj, su ka riauna krikščionų tas pats
 ## Citatos
 
 - id: c-184500
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 178"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 178."
   citata_originali: |
     Jau metuose 1190 viešpats saracėnų, vardu
     Saladinas, atėmė krikščionims apent Jeruzolimą, tuo

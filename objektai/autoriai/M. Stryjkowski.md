@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cc1ef26dec5aba478894ade6"
+canonical_name: "M. Stryjkowski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Stryjkowski"]
+sameAs: []
+canonical_biography: "Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p. (^15) Plg."
 ---
 # M. Stryjkowski
 
@@ -60,7 +67,8 @@ Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p. (^15) Plg.
 - id: c-33063
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 251."
   citata_originali: |
     (^14) **PSRL, 17, 261, 314, 375, 440, 494p. M. Stryjkowski:** **_Kronika
     Polska, Litewska etc_** **., I, 1846, 370-372 p.**

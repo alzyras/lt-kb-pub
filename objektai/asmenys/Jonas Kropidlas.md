@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2fbcedf4f8c63749b07553da"
+canonical_name: "Jonas Kropidlas (vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Kropidlas","Jonas Kropidlas (vyskupas)"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Jonas Kropidlas (vyskupas)
 
@@ -40,7 +47,8 @@ Nenurodyta
 - id: c-169475
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 394"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 394."
   citata_originali: |
     Kadangi kryžiuočiai
     atmetė vieną po kitos visas

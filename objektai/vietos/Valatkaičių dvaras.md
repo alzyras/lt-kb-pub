@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-10cb1a6bca51bf46fc97f233"
+canonical_name: "Valatkaičių dvaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Valatkaičių dvaras","Valatkaičių dvare"]
+sameAs: []
+canonical_biography: "Valatkaičių dvaras minimas kaip vieta, garsėjusi piktais šunimis."
+place_authority: true
+historical_names: []
 ---
 # Valatkaičių dvaras
 

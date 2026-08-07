@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d269ad39cc490ee1b053028e"
+canonical_name: "Otonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Otonas"]
+sameAs: []
+canonical_biography: "Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone. Otonas buvo iškalbingas, mandagus, išmintingas, apdairus, atsargus, o visi jo darbai rodo jį buvus garbingą."
 ---
 # Otonas
 
@@ -80,7 +87,8 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
 - id: c-61032
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
   citata_originali: |
     Apie brolį Otoną, antrą magistrą
 

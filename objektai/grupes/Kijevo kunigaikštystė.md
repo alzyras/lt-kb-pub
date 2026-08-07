@@ -61,7 +61,8 @@ Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, k
 - id: c-28559
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 269."
   citata_originali: |
     Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo
     kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos

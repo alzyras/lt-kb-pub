@@ -50,7 +50,8 @@ E, p. 70, kuriame esa­ ma tokių žodžių: „Apsupome W ille (tai yra Vilnių
 - id: c-82841
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 138-139"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 138-139."
   citata_originali: |
     28
     Das Cromehus arba Kromhus - senuo­

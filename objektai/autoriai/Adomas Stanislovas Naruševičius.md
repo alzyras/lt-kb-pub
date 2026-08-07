@@ -23,6 +23,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-459fa93386267b9fe56d256e"
+canonical_name: "Adomas Stanislovas Naruševičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Adomas Naruševičius","Adomas Stanislovas Naruševičius","Naniszewicz A.","NaruszewiczA.","Naruševičius","S. Naruševičius"]
+sameAs: []
+canonical_biography: "Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų tautos istorija»^34 pradėjo kritiškas praeities studijas."
 ---
 # Adomas Stanislovas Naruševičius
 
@@ -52,22 +59,36 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 <a id="claim-t-187941"></a>
 - t-002
   teiginys: "Narbutas, remdamasis Naruševičiumi, rašė, kad Henilą garbino serbai ir kitos slavų tautos."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "gap::authors::validation_repair"
   teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171286
+    - c-170918
 
 <a id="claim-t-187942"></a>
 - t-003
   teiginys: "Narbutas Naruševičiui priskyrė nuomonę, kad slavai žinojo panašią ugnį, vadintą Zwicz."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "gap::authors::validation_repair"
   teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171286
+    - c-170919
 
 <a id="claim-t-187943"></a>
 - t-004
@@ -144,18 +165,26 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 <a id="claim-t-190673"></a>
 - t-008
   teiginys: "Gotai, pasak Narbuto cituojamų Naruševičiaus tyrimų, 161 m. su karaliumi Filimeru iš Germanijos į Sarmatiją kėlėsi per Vyslos žemupį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Sarmatija: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sarmatija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo gotų judėjimą į Sarmatiją."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Gotai keliavo į Sarmatija (0.82)"
   temporaliniai_duomenys: "kelionės data: 161 m"
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Gotai keliavo į Sarmatija“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiesiogiai remiasi citata ir aiškiai nurodo Naruševičiaus tyrimų atribuciją. Tilto įlūžimo detalė sąmoningai nepridėta."
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-179248
+    - c-173555
 
 <a id="claim-t-190674"></a>
 - t-009
@@ -467,7 +496,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-170918
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 174."
   citata_originali: |
     Mat, pasak Naruševičiaus , He-
     nilą garbino serbai ir kitos slavų tautos. 10
@@ -475,14 +505,17 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   citata_rodoma: "Mat, pasak Naruševičiaus , He-\nnilą garbino serbai ir kitos slavų tautos. 10\n10 Historya narodu Polskiego. -  T. I. -  S. 362*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-170919
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
   citata_originali: |
     Žyniai iš jų burdavo. Žemaičiai
     manė, jog, kai užges amžinoji ugnis, Perkūnas sušals, o dievai
@@ -497,13 +530,15 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-006
     - t-017
 
 - id: c-170920
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 484"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 484."
   citata_originali: |
     P. 173* - Tai žymaus lenkų poeto ir istoriko Adomo Stanis­
     lovo Naruševičiaus (1733-1796) veikalas (Nanis-
@@ -522,7 +557,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-170927
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 56."
   citata_originali: |
     Pradėjus leisti originalius tekstus buvo galima sistemingiau
     tirti savo krašto praeitį. Plačiai užgriebdamas ir Lietuvos istoriją,
@@ -543,7 +579,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-171286
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 11."
   citata_originali: |
     Lyg atsakydamas gausiems savo darbo kritikams, T. Nar­
     butas laiške Vilniaus gydytojui ir artimam šeimos draugui Ani­
@@ -559,14 +596,13 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-003
     - t-005
 
 - id: c-173554
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 84."
   citata_originali: |
     Šitaip susiklosčiusi politinė pa­
     dėtis, kiek suprantu, tapo priežastimi, kuri ir nulėmė
@@ -590,7 +626,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-173555
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
   citata_originali: |
     Gotų žygis su Filimeru. 161 krikščioniško­
     sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
@@ -602,14 +639,17 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   citata_rodoma: "Gotų žygis su Filimeru. 161 krikščioniško­\nsios eros metais, pasak Naruševičiaus tyrimų1, gotai su\nsavo karaliumi Filimeru, pereidami iš Germanijos į Sar-\nmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­\nmet ribojo senovės geografų taip pavadintus kraštus. Bet\natsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir\nbuvo nuneštas srovės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-173556
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 99."
   citata_originali: |
     Kaip slavai atsirado ‘šiose lygumose arba kaip
     ir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.
@@ -635,7 +675,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-173557
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Prajus** vėlgi kalba apie tą patį, žiūrė­
     damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
@@ -657,7 +698,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-173558
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
   citata_originali: |
     Mūsų mokslininkas, lietuvių istorijos tyri­
     nėtojas Ksaveras Bogušas priskiria lietuvių genties tau­
@@ -680,7 +722,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-173560
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 119."
   citata_originali: |
     Mechovita taip kalba apie
     čigonus, žmones, kuriuos kai kada priskirdavo prie jot­
@@ -702,7 +745,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-173564
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 210."
   citata_originali: |
     1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­
     novės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),
@@ -727,7 +771,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-173565
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
   citata_originali: |
     Tai, be
     abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
@@ -752,7 +797,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-174756
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
   citata_originali: |
     Tuo remdamasis, Naruševičius savo Lenkijos istorijos
     pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta
@@ -776,7 +822,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-175305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 253."
   citata_originali: |
     Tarp
     mokslininkų ¡buvęs Hugo Grocijus2*, taip ¡pat Pilypas Kjiu-
@@ -803,7 +850,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-179097
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
   citata_originali: |
     Šitaip galindų tauta turėjo Rosės * 5
     šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
@@ -820,7 +868,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-179248
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
   citata_originali: |
     161 krikščioniško­
     sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
@@ -838,13 +887,13 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
     - t-019
 
 - id: c-179249
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 98."
   citata_originali: |
     Tad atleiskime
     senovės autoriams, kurių geografinių žinių gavimo gali­
@@ -867,7 +916,8 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 - id: c-179250
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 115."
   citata_originali: |
     Bet Kromeris, jei skaitysime
     jo originalų leidinį, ketvirtoje knygoje labiau išplėtoja

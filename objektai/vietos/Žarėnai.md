@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0d63e41f5dc915ee15d45e1c"
+canonical_name: "Žarėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žarėnai"]
+sameAs: []
+canonical_biography: "ŽARĖNŲ KAUTYNĖS 1949 m. gegužės 21 d. MGB vidaus kariuomenės 32-asis šaulių pulkas Telšių aps."
+place_authority: true
+historical_names: []
 ---
 # Žarėnai
 
@@ -58,7 +67,8 @@ media_all_json: |-
 - id: c-45479
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     X. ŽARĖNŲ KAUTYNĖS
 

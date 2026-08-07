@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-176007f8711b90b5d0b9991e"
+canonical_name: "Mikalojus Radvila Juodasis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Radvila Juodasis"]
+sameAs: []
+canonical_biography: "Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus vilniečius. Lietuvoje protestantų galva ir uoliausias protestantizmo skleidėjas pasidarė artimiausias Zigmanto Augusto patarėjas Mikalojus Radvila Juodasis. Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) knygutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu\"."
 ---
 # Mikalojus Radvila Juodasis
 
@@ -243,7 +250,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - id: c-21893
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 61."
   citata_originali: |
     Apie Biržus gyvenantys evangelikai reformatai yra tiesiogi-
     niai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vado-
@@ -263,7 +271,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - id: c-105063
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 325"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 325."
   citata_originali: |
     IV KNYGA
     didžiai nusipelnė mums ir Respublikai ir prie buvusių nuo­
@@ -305,7 +314,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - id: c-105064
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 299-300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 299-300."
   citata_originali: |
     Nors Viklifo sekėjas buvo ekskomuni­
     kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir
@@ -354,7 +364,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - id: c-105065
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 322-323"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 322-323."
   citata_originali: |
     Testantur id multae bellorum occasio­
     nes contra Tartaros et Mos cbos, in quibus divo Praedecessore
@@ -406,7 +417,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - id: c-105066
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 310."
   citata_originali: |
     Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto
     uolumo ir darbštumo žmogus, turėjo atremti priešininkus.
@@ -433,7 +445,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - id: c-105068
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     O Jurgio brolis, kunigaikštis Mi­
     kalojus Kristupas, Lietuvos Didžio­
@@ -467,7 +480,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - id: c-105071
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88-89"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88-89."
   citata_originali: |
     Žygimanto Augusto
     paradiniai šarvai, pa-
@@ -500,7 +514,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - id: c-105072
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 58."
   citata_originali: |
     Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Ra-
     dvila Juodasis. Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-89b1a0fe2ba371ed91e46da6"
+canonical_name: "Vilniaus apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus apskritis"]
+sameAs: []
+canonical_biography: "Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku rias dėdavo sudegintų žmonių pelenus."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus apskritis
 
@@ -47,7 +56,8 @@ Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly dos apskrityse, n
 - id: c-177170
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 377."
   citata_originali: |
     Vienoda jų sandara ir tokia pat radimo vieta įtikina,
     jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f196d6d5f8cf08b914a8b4cc"
+canonical_name: "M. Vaina"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. Vaina"]
+sameAs: []
+canonical_biography: "Vainą ir „vengrų“ pėstininkų rotmistrą Kurovičių."
 ---
 # M. Vaina
 
@@ -50,7 +57,8 @@ Vainą ir „vengrų“ pėstininkų rotmistrą Kurovičių.
 - id: c-41585
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 141."
   citata_originali: |
     LIETUVOS TOTORIAI
 

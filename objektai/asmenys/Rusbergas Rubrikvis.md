@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e39d9d96ea41840277ead8f2"
+canonical_name: "Rusbergas Rubrikvis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rusbergas Rubrikvis"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad XIII a. Rusbergas, arba Rubrikvis, su Karpinu keliavo per Rytus į mongolų ordą ir kalbėjo apie Kaukazo alanus."
 ---
 # Rusbergas Rubrikvis
 
@@ -61,7 +68,8 @@ Narbutas rašo, kad XIII a. Rusbergas, arba Rubrikvis, su Karpinu keliavo per Ry
 - id: c-174860
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 65."
   citata_originali: |
     Čingischano va­
     dai irgi kariavo 1223 metais toje pačioje ¡pusėje su ala­

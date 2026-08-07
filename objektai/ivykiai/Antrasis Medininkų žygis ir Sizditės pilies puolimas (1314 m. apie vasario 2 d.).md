@@ -119,7 +119,8 @@ Nenurodyta
 - id: c-59904
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     Dar apie tą patį
     Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
@@ -144,7 +145,8 @@ Nenurodyta
 - id: c-178986
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
   citata_originali: |
     Todėl broliai, šitai matydami,
     sudegino savo pilies papilį, norėdami išvengti galimų pavojų. Tuo metu, kai šitai dėjosi,

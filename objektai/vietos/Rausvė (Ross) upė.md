@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c8946a8af7c3931f1c5d3087"
+canonical_name: "Rausvė (Ross) upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rausvė (Ross) upė"]
+sameAs: []
+canonical_biography: "Rausvės (Ross) upė, kuri ir dabar vadinama tuo pačiu vardu, tekėjo sudinų (sūduvių) šalyje."
+place_authority: true
+historical_names: []
 ---
 # Rausvė (Ross) upė
 

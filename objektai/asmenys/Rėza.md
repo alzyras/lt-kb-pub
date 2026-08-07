@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a44543b610316b125d279c6"
+canonical_name: "Rėza"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rėza"]
+sameAs: []
+canonical_biography: "Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai mirusiųjų valdovę vadino Giltine. Narbutas rašo, kad Rėza pas senovės prūsus matė Šilinyčių, dar vadintą Šilo Radikiu, ir lygino jį su slavų Radegastu. Rėza, Narbuto perteikimu, pažymėjo, kad skaičius devyni Prūsijos lietuviams buvo religinis ir perimtas iš skandinavų."
 ---
 # Rėza
 
@@ -125,7 +132,8 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
 - id: c-172997
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     Valdant Žygimantui Augus­
     tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
@@ -145,7 +153,8 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
 - id: c-172999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 189."
   citata_originali: |
     O į klausimą, kada apsi­
     vilkti baltus vestuvinius drabužius, motina atsako: tą dieną,

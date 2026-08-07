@@ -103,7 +103,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
 <a id="claim-t-192211"></a>
 - t-004
   teiginys: "Narbutas žodžiui „galinduoti“ teikia pirmenybę prieš Galintuvojt kildinimą iš senovės prūsų žodžio."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
@@ -166,7 +166,8 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
 - id: c-175068
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 265."
   citata_originali: |
     Tačiau
     lai neatitinka lietuvių pavadinimų suteikimo tradicijų;
@@ -203,7 +204,8 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
 - id: c-175069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 265."
   citata_originali: |
     Tačiau
     lai neatitinka lietuvių pavadinimų suteikimo tradicijų;

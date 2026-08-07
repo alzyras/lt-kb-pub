@@ -49,7 +49,8 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
 - id: c-84494
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 229."
   citata_originali: |
     Švit­
     rigailos dvaro maršalka buvo Mzu-

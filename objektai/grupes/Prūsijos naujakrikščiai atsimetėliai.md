@@ -141,7 +141,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - id: c-85144
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Apie maldininkus ir Prūsijos žemei sugrąžintą taiką
     Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos
@@ -166,7 +167,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - id: c-85145
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 100."
   citata_originali: |
     Taigi
     sutelkė visą galybę savo kariuomenės ir Prūsijos naujakrikščių, elgdamasis klastingai kaip
@@ -187,7 +189,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - id: c-85146
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
   citata_originali: |
     Apie vienos pilies užkariavimą ir apie Kristburgo pilį
     Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems

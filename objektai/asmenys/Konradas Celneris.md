@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e497bf97f3445903f7d2980d"
+canonical_name: "Konradas Celneris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas Celneris"]
+sameAs: []
+canonical_biography: "Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas geresnių pagalbininkų būsimam karui. Konradas Celneris, Kojelavičiaus vadinamas ordino magistru, visokeriopai parėmė pas kryžiuočius perėjusio Vytauto sumanymus. Kojelavičiaus pasakojime Konradas Celneris, dėdamasis gailįs Vytauto ir tikėdamasis išplėsti valdas Lietuvoje, paskyrė karių bei lėšų karui."
 ---
 # Konradas Celneris
 
@@ -196,7 +203,8 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
 - id: c-169350
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 272."
   citata_originali: |
     Kaip sumanyta, taip ir padaryta: pavakaryje,
     apsivilkęs mergaitės drabužiais, Vytautas lyg niekur
@@ -244,7 +252,8 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
 - id: c-169351
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 302-303"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 302-303."
   citata_originali: |
     Ne­
     besitikėdamas gauti iš jų pagalbos, Vytautas nusigrie­
@@ -276,7 +285,8 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
 - id: c-169352
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 302-303"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 302-303."
   citata_originali: |
     Iš M a z o v ijo s  į Prū-
     Nors Urbonas IV, Romos po-

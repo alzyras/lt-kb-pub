@@ -51,7 +51,8 @@ media_all_json: |-
 - id: c-82840
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 142-143"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 142-143."
   citata_originali: |
     Vygan­
     das  tačiau byloja: Steterunt V septi­

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eff6af87911e751612114bb6"
+canonical_name: "Mykolas Kosakovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Kosakovskis"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu globėju, kurį esą rodė karūna."
 ---
 # Mykolas Kosakovskis
 
@@ -53,7 +60,8 @@ Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu gl
 - id: c-172944
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 245."
   citata_originali: |
     Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­
     suomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę

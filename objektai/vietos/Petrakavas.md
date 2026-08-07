@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fa24df19627993a5e2138f9c"
+canonical_name: "Petrakavas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Petrakavas"]
+sameAs: []
+canonical_biography: "Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo."
+place_authority: true
+historical_names: []
 ---
 # Petrakavas
 
@@ -74,7 +83,8 @@ Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.
 - id: c-170331
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 86."
   citata_originali: |
     Ir sugalvoję išvarė tą
     Pamario kunigaikštį iš savo žemės, sušaukė Petrakave

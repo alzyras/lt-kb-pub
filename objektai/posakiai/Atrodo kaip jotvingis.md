@@ -71,7 +71,8 @@ Narbutas mini Polesėje paplitusį posakį apie bjauraus veido, apdriskusiais ir
 - id: c-175002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 137."
   citata_originali: |
     Apie jotvingių veido bruožus liko apčiuopiamų pėdsakų Polesėje.
       Jie turėtų būti antipatiški, nes ten yra paplitęs toks posakis: jeigu

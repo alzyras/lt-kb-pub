@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8fe375c61a92bbaf468c6aa1"
+canonical_name: "Skirmantė Ramanauskaitė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Skirmantė Ramanauskaitė"]
+sameAs: []
+canonical_biography: "Skirmantė Ramanauskaitė nurodyta kaip 2007 m. „Vilniaus miesto istorijos“ leidimo redaktorė."
 ---
 # Skirmantė Ramanauskaitė
 
@@ -77,7 +84,8 @@ Skirmantė Ramanauskaitė nurodyta kaip 2007 m. „Vilniaus miesto istorijos“ 
 - id: c-78481
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 4-5"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 4-5."
   citata_originali: |
     UDK 947.45
     Ba237

@@ -72,7 +72,8 @@ Nenurodyta
 - id: c-82950
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 151-152"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 151-152."
   citata_originali: |
     Juk
     tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­

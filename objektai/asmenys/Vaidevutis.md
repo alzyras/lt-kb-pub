@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ebbfcc4fe536881c71c2ae95"
+canonical_name: "Vaidevutis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaidevutis"]
+sameAs: []
+canonical_biography: "Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs runų užrašas buvo skirtas vėliavai, ar herbui. Narbutas kritikui atsakė, kad kronikose vardai rašyti netiksliai, o Brutenis ir Vaidevutis tame būryje turėjo tokias pat vardų galūnes. Tačiau Prūsijos kronikininkai linkę manyti, kad šiuo vardu buvo garbinamas senovės kunigaikštis Vaidevutis, neva laiky tas dievu."
 ---
 # Vaidevutis
 
@@ -34,15 +41,22 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
 <a id="claim-t-190030"></a>
 - t-001
   teiginys: "Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs runų užrašas buvo skirtas vėliavai, ar herbui."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Herbas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaidevutis: owner_note_path, person"
+  ryšio_targeto_parinkimas: "Herbas: mention_match, thing, gap=109"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaidevutis\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172914
+    - c-172913
 
 <a id="claim-t-190031"></a>
 - t-002
@@ -208,7 +222,8 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
 - id: c-172913
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Tačiau nežinome, iš kokio šaltinio yra
     tas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio
@@ -219,14 +234,17 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   citata_rodoma: "Tačiau nežinome, iš kokio šaltinio yra\ntas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio\nvardą (pono Volianskio šijruotė), tačiau negalime tiksliai pasa­\nkyti, kam jis buvo skirtas -  vėliavai ar herbui, nes jis užrašytas\ntarp vėliavos ir herbo. Mes dėl vietos stokos jį užrašėme ant pa­\nčios vėliavos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-172914
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 433."
   citata_originali: |
     Labiausiai kritikui nepa­
     tiko, kad didžioji vardų dalis baigiasi raide o; tokių prūsiškų,
@@ -253,13 +271,13 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-177122
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
   citata_originali: |
     Išeitų, kad dievo Šneibrato mitas virto nusipelniusio tau­
     tai dievinamo vyro simboliu, kadangi tie patys kronikininkai
@@ -282,7 +300,8 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
 - id: c-177317
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 508"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 508."
   citata_originali: |
     Tačiau nežinome, iš kokio šaltinio yra tas piešinys. Mūsų
     piešinio užrašas runomis reiškia Vaidevučio vardą (pono Volian­
@@ -301,7 +320,8 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
 - id: c-178797
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 49."
   citata_originali: |
     Visi vienu balsu pritarė tam, ką pa­
     siūlė Vaidevutis. „Ar nenorėtų pats Vaidevutis būti
@@ -323,7 +343,8 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
 - id: c-178798
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 50."
   citata_originali: |
     Todėl neilgai trukus paaiškė­
     jo; j°g Per šį bendravimą, atšiauriausias širdis suvi­
@@ -352,7 +373,8 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
 - id: c-178799
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 51."
   citata_originali: |
     Tačiau,
     viską perdavęs jaunoms rankoms, jis pats, nenorėda­
@@ -375,7 +397,8 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
 - id: c-179203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 282."
   citata_originali: |
     Palaikydavo taiką arba
     užkurdavo karo gaisrą, nes buvo artimas dievų puotų dalyvis.

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-afc9ee8ef3fd41b36ecb4c5d"
+canonical_name: "Henrikas Tupadelis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Tupadelis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas, ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus] piliai padegti."
 ---
 # Henrikas Tupadelis
 
@@ -70,7 +77,7 @@ Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino 
 <a id="claim-t-197098"></a>
 - t-003
   teiginys: "Henrikas Tupadelis patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -112,7 +119,8 @@ Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino 
 - id: c-60770
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
   citata_originali: |
     Henrikas
     Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
@@ -134,7 +142,8 @@ Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino 
 - id: c-179026
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
   citata_originali: |
     Kai apie tai išgirdo magistras
     brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos

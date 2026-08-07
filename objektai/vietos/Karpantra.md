@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-73d3ae4c5559f2007a72e6d6"
+canonical_name: "Karpantra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karpantra"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija, apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi — pietuose; viena sukosi kaip įprasta, kita—."
+place_authority: true
+historical_names: []
 ---
 # Karpantra
 
@@ -75,7 +84,8 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
 - id: c-59328
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 254."
   citata_originali: |
     Apie tris saulės spindulius ir kolegijos suskilimą
 

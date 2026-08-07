@@ -56,7 +56,8 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 - id: c-77336
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 190."
   citata_originali: |
     Karin. S. Nastopkos vadovaujamos 11 bri-
 

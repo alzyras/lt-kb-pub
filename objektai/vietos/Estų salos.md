@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47b480742bfd4d9eacd4739a"
+canonical_name: "Estų salos"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Estų salas (Eželį)","Estų salos"]
+sameAs: []
+canonical_biography: "Estų salos čia minimos kaip 1899 m. estų liaudies dainų rinkimo vieta."
+place_authority: true
+historical_names: []
 ---
 # Estų salos
 

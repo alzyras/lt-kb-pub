@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-82952
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 41."
   citata_originali: |
     Betgi toje epochoje, kai naujos civilizacijos
     spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,

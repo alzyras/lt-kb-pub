@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-91baae71b724dde3a75d0afe"
+canonical_name: "Heraklijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Heraklijus"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė Mahometas, imperatorius Heraklijus patraukė į karą prieš Chosrovą, persų karalių, jį nugalėjo, o viešpaties kryžiaus dalį, kurią buvo paėmęs iš viešpaties šventovės, parsigabeno, atstatė dievo bažnyčias ir."
 ---
 # Heraklijus
 
@@ -85,7 +92,8 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
 - id: c-60952
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė Mahometas, imperatorius Heraklijus
     patraukė į karą prieš Chosrovą, persų karalių, jį nugalėjo, o viešpaties kryžiaus dalį, kurią

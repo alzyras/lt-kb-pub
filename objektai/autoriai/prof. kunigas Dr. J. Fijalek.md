@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-72edcbe12102f060088bba70"
+canonical_name: "prof. kunigas Dr. J. Fijalek"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["prof. kunigas Dr. J. Fijalek"]
+sameAs: []
+canonical_biography: "gruodžio 15 d. į visuotinį Bažnyčios sinodą Konstancijoje nusiuntė net 60 apkrikštytu žemaičių ba­ joru, kurie įteikė sinodui ilgą memorialą — skundą „Propo­ sitio Samaytarum” kurio dėl graudingumo, kaip sako prof. kunigas Dr. (^3) ) Fijalek 79—30."
 ---
 # prof. kunigas Dr. J. Fijalek
 
@@ -60,7 +67,8 @@ gruodžio 15 d. į visuotinį Bažnyčios sinodą Konstancijoje nusiuntė net 60
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 293."
   citata_originali: |
     Prieš Ordiną toliau Vytautas kartu su Lenkija
     vedė tai ginklu, tai diplomatišką kovą siekdamas išgauti amžiną

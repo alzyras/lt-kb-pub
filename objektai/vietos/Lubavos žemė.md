@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-55b396b53e24a7fbc3cdc6f6"
+canonical_name: "Lubavos žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lubavos žemė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno, ir Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono valdžią. Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes. Dusburgietis teigia, kad dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas, teisių į šią žemę klausimas buvęs aktualus Hohenlohės reliacijos sudarymo metu (XIII a."
+place_authority: true
+historical_names: []
 ---
 # Lubavos žemė
 
@@ -99,7 +108,8 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 - id: c-59296
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 46."
   citata_originali: |
     Konrado
     dokumentas, kurio aprašas išlikęs 1234 m. popiežiaus kanceliarijos registre; manoma,
@@ -122,7 +132,8 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 - id: c-59297
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno,  ir
     Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono
@@ -139,7 +150,8 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 - id: c-59298
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 46."
   citata_originali: |
     savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
     pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia

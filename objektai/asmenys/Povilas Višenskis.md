@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2334c17b1e7f273fa45c7021"
+canonical_name: "Povilas Višenskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Povilas Višenskis"]
+sameAs: []
+canonical_biography: "Povilas Višenskis buvo šviesiausiojo valdovo pono Žygi­ manto, didžiojo Lietuvos kunigaikščio, brangiausio mūsų dėdės, kadaise pastatyta atminti garsiąją pergalę, laimėtą šioje vietoje prieš prūsus ir lyvius (Livoniją) ir buvo aprū­ pinta pagarbos vertomis lėšomis, nenorėjome, kad netekus privilegijos, žlugtų tikėjimo Dievu išpažinimas ir čia būtų liautasi reikšti dėkingumą viešpačiui DIEVUI už šioje vie­ toje gautą malonę, ir kad bažnyčia patirtų nuostolių; ir to­ dėl mūsų paskirtiesiems komisarams, būtent garbingajam Povilui Višenskiui, Vilniaus kustodui, ir kilmingajam Jur­ giui Volazkavičiui, Lietuvos Didžiosios Kunigaikštystės arklidininkui, pavedėme, remiantis vertų pasitikėjimo žmo­ nių liudijimais, ......................."
 ---
 # Povilas Višenskis
 
@@ -51,7 +58,8 @@ Povilas Višenskis buvo šviesiausiojo valdovo pono Žygi­ manto, didžiojo Lie
 - id: c-83818
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 258-259"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 258-259."
   citata_originali: |
     —  Volumus,
     ut si, quae Ecclesia Temerarie a Quocunque Fxtructa, vėl si ali­

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5a1bfbc6fa43f53e3a6cf2d"
+canonical_name: "Salsenikė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Salsenikė","Salsenikė (vieta)"]
+sameAs: []
+canonical_biography: "Kryžėjai, eidami tenai su stipresne kariauna, sugavo lietuvių rubežiaus sargą, nuo kurio išsiteiravo lietuvius nežinant apie jų artinimos, daran persikėlę per Nemuną į apygar dą Salsenikę, kurioje dar krikščionies pėda niekuo met nebuvo buvusi, visą kraštą."
+place_authority: true
+historical_names: []
 ---
 # Salsenikė (vieta)
 
@@ -52,9 +61,9 @@ Kryžėjai, eidami tenai su stipresne kariauna, sugavo lietuvių rubežiaus sarg
 ## Citatos
 
 - id: c-184502
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 509"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 509."
   citata_originali: |
     Tą patį metą liepos mėnesy laimingesnis bu­
     vo antras jų žygis į Gardiną. Kryžėjai, eidami tenai

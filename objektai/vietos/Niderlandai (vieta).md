@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9da83ee24f3529544fa5b4ea"
+canonical_name: "Niderlandai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Niderlandai","Niderlandai (vieta)"]
+sameAs: []
+canonical_biography: "Vorobjovas svarstė, kad šv. Onos bažnyčios sąryšiui su Flandrijos gotika galėjo turėti reikšmės Jogailaičių ryšiai su Niderlandais."
+place_authority: true
+historical_names: []
 ---
 # Niderlandai (vieta)
 

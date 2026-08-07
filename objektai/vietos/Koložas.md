@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8f22066a8e011b6c3f564c4e"
+canonical_name: "Koložas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Koložas"]
+sameAs: []
+canonical_biography: "84, 150, 281, 293, 302, 304, 309, 323, 339 Koliumnų dinastija 214 Kolomna, netoli Maskvos 313 Koložas, Gardino priemiestis 125 Komunistas 42 Koneczny F."
+place_authority: true
+historical_names: []
 ---
 # Koložas
 
@@ -51,7 +60,8 @@ media_all_json: |-
 - id: c-93879
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 400."
   citata_originali: |
     238, 248, 250, 256, 257, 272, 275**
     **_Knygų Lentyna_** **17

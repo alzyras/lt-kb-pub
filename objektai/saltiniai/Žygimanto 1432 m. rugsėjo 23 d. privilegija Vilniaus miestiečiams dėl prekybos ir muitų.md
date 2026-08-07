@@ -59,7 +59,8 @@ Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilni
 - id: c-84495
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 233."
   citata_originali: |
     Šis teisingu­
     mas buvo Vilniui anksčiau negu kitiems miestams taikomas.

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b85d592424f0689225456d80"
+canonical_name: "Aukokalnis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aukokalnis"]
+sameAs: []
+canonical_biography: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir ja iki Aukokalnio, buvusio ties dabartine Betygala."
+place_authority: true
+historical_names: []
 ---
 # Aukokalnis
 
@@ -80,7 +89,8 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 124."
   citata_originali: |
     Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
     gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
@@ -100,7 +110,8 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 124."
   citata_originali: |
     Tačiau Vytautas dar dvejus metus už­
     truko su kitais reikalais (Horodlės unija ir Makro lankymasis)

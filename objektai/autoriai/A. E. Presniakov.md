@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f2855115e8eeef611ddf5153"
+canonical_name: "A. E. Presniakov"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. E. Presniakov"]
+sameAs: []
+canonical_biography: "Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos savo paskaitose Peter­ burgo universitete 1908-1910 m. lietė ir A. E. Presniako­ vas 145."
 ---
 # A. E. Presniakov
 
@@ -62,7 +69,8 @@ Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos savo paskai
 - id: c-32868
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 95."
   citata_originali: |
     LMZ. Nemažai studijų
     Lappo išleido ir lietuvių kalba^144. Lietuvos istorijos klausimus

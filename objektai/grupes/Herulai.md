@@ -186,15 +186,22 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 <a id="claim-t-188196"></a>
 - t-008
   teiginys: "Narbutas gotiškus lietuvių tautų elementus siejo ir su herulais, kurie, jo teigimu, ilgai lydėjo gotus Pietryčių Europoje."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Herulai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herulai\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171087
+    - c-171090
 
 <a id="claim-t-188197"></a>
 - t-009
@@ -383,7 +390,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 - id: c-82773
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 29-30"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 29-30."
   citata_originali: |
     Abi šios gentys, artėdamos viena prie kitos, stūmė iš
     13
@@ -414,7 +422,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 - id: c-167836
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 54."
   citata_originali: |
     Atgavęs Italiją, jis, mi­
     rus Justinianui, buvo kviečiamas atgal į Bizantiją, o
@@ -447,7 +456,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 - id: c-167837
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 54."
   citata_originali: |
     Kita jų dalis,
     pasikvietusi iš tėvynės kunigaikštį Datą, įsikūrė prie
@@ -473,7 +483,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 - id: c-167838
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 57."
   citata_originali: |
     Gal, palikę Italiją, šia kryptimi pasuko tie, kurie no­
     rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių
@@ -499,7 +510,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 - id: c-171086
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
   citata_originali: |
     Bet jos principai visiškai
     nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
@@ -528,7 +540,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 - id: c-171087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Kituose Lietu­
     vos pakraščiuose ir pas kitas tautas, kilusias iš jos kamieno,
@@ -548,12 +561,12 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
-    - t-008
 
 - id: c-171088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
   citata_originali: |
     Buvo ir lietuvių valdo­
     vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
@@ -579,7 +592,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 - id: c-171090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 420"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 420."
   citata_originali: |
     3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai
     radę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­
@@ -592,14 +606,17 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   citata_rodoma: "3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai\nradę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­\nką lietuvių tautos kilmę, tuos gotiškus elementus laikome skoliniais\niš gotų, kurie visados engė tas tautas, ir siejame taip pat su herulais,\nkurie šitiek laiko lydėjo gotus Pietryčių Europoje. Todėl lietuvių\ngenties tautos, jeigu ir neigtume papročių, įpročių, religijos bendru­\nmą, net giminystę, nuolatos susidurdavo su gotais arba savo, arba\nsvetimoje žemėje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-171091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 513"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 513."
   citata_originali: |
     - Išnaša, kuria T. Narbutas papildė paragrafą, reng­
     damas antrąjį LTI leidimą (PEĮ. - L. 304). Volf­
@@ -620,7 +637,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 - id: c-175202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Taigi sąjungininkai pradėjo atvirai murmėti prieš savo
     vadą. Mažiausiai jam palankūs herulai kreipėsi į savo
@@ -639,7 +657,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 - id: c-175203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
   citata_originali: |
     Po Odo­
     akro mirties dar ketverius metus truko susirėmimas prie­
@@ -664,7 +683,8 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
 - id: c-179222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
   citata_originali: |
     Didžiausia herulų dalis pasitraukė
     prie Dunojaus, kur ketino apsigyventi šalia rugių arba

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-912a703e42d03eda5fc0a592"
+canonical_name: "Lukas Davidas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lukas Davidas"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės šventyklą ir Krivių Krivaitį laikė gotų ar Skandinavijos švedų papročio sekimu. Žinią apie vyriausiuosius žy nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį. Luko Davido kronikos leidimo prierašai."
 ---
 # Lukas Davidas
 
@@ -80,7 +87,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
 - id: c-173201
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 415"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
   citata_originali: |
     Prie šių svetimų įrodymų galima būtų pridurti dar kitus,
     išplaukiančius iš paties dalyko. Lukas Davidas, kuris prūsus
@@ -99,7 +107,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
 - id: c-177063
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 432"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
   citata_originali: |
     Žinią apie vyriausiuosius žy­
     nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
@@ -128,7 +137,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
 - id: c-177280
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
   citata_originali: |
     2 Luko Davido kronikos leidimo prierašai. Zr.: Henning. B
     I.

@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7b832a69a3a4ec0d7de50942"
+canonical_name: "Šv. Onos bažnyčia Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Onos bažnyčia Vilniuje"]
+sameAs: []
+canonical_biography: "Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje. O kadangi dabartinė to paties vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 metais, tad gal būtų galima manyti, jog Žemutinės pilies te­ ritorija tęsėsi iki bernardinų sienų, arba kad. Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo."
+place_authority: true
+historical_names: []
 ---
 # Šv. Onos bažnyčia Vilniuje
 
@@ -123,7 +132,8 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 - id: c-177569
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 354."
   citata_originali: |
     O už tai jų dideny­
     bes įpareigojame, kad mylimo Dievo garbei ir šlovei fun-
@@ -147,7 +157,8 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 - id: c-177570
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 292"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 292."
   citata_originali: |
     Taip pat savo lėšomis pilies teritori­
     joje karalius pradėjo statyti Šv. Onos bažnyčią, ten turėjo
@@ -170,7 +181,8 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 - id: c-177571
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 315."
   citata_originali: |
     Patartume peri­
     odinių leidinių leidėjams rūpestin­
@@ -192,7 +204,8 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 - id: c-177572
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 361"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 361."
   citata_originali: |
     Šiai bažnyčiai visą bažnytinį auksą,
     sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą,
@@ -220,7 +233,8 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 - id: c-177573
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 292"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 292."
   citata_originali: |
     Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
     čios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus
@@ -245,7 +259,8 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 - id: c-177574
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 361"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 361."
   citata_originali: |
     Kad klebonija ir
     mansionieriai būtų aprūpinti gera ir garbinga fundacija, kad

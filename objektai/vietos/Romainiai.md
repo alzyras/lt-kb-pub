@@ -30,12 +30,21 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-72b551c40099000914138e07"
+canonical_name: "Romainiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Romainiai"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai minimas Lietuvos karalius Gediminas (Gedeminne, de koning van Lethowen; Gedeminus, Romainiai, kuris pagal jų papročius buvo laikomas šventuoju543, o visus gyventojus paėmė į nelaisvę arba išžudė. Dusburgietis teigia, kad — Rômein; kryžiuočių kelių aprašymuose (1384 m.) — Romeyn, Romayn (SRP, 2, p. 695); Romainiai, kair."
+place_authority: true
+historical_names: []
 ---
 # Romainiai
 
 ## Santrauka
 
-Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš senovės lietuvių Romuvų. Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių. Nuo 1580 m. Vijūkai minimi Romainių Vijūkų lauke; jie pirko ir pardavė nedideles žemės valdas, sudarė kitus sandorius ir buvo kitų bajorų liudininkai.
+Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai minimas Lietuvos karalius Gediminas (Gedeminne, de koning van Lethowen; Gedeminus, Romainiai, kuris pagal jų papročius buvo laikomas šventuoju543, o visus gyventojus paėmė į nelaisvę arba išžudė. Dusburgietis teigia, kad — Rômein; kryžiuočių kelių aprašymuose (1384 m.) — Romeyn, Romayn (SRP, 2, p. 695); Romainiai, kair.
 
 ## Teiginiai
 
@@ -44,14 +53,15 @@ Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš seno
   teiginys: "Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš senovės lietuvių Romuvų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumas: "susije_su -> Nevėžis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Romainiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Nevėžis: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainiai\" parinktas kaip owner_note_path. Targetas \"Nevėžis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-26T18:22:38Z"
   pagrindžia:
     - c-80846
 
@@ -76,20 +86,24 @@ Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš seno
 
 <a id="claim-t-202356"></a>
 - t-003
-  teiginys: "Nuo 1580 m. Vijūkai minimi Romainių Vijūkų lauke; jie pirko ir pardavė nedideles žemės valdas, sudarė kitus sandorius ir buvo kitų bajorų liudininkai."
-  atnaujinta: "2026-07-19 12:22"
+  teiginys: "Nuo 1580 m. Vijūkai minimi Romainių Vijūkų lauke, kur pirkdavo ar parduodavo nedideles žemės valdas, sudarinėdavo kitus sandorius ir būdavo kitų bajorų liudininkai."
+  atnaujinta: "2026-07-26 21:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumas: "susije_su -> Nevėžis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Romainiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Nevėžis: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainiai\" parinktas kaip owner_note_path. Targetas \"Nevėžis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  temporaliniai_duomenys: "įvykio data: po 1580 m.; įvykio data: 1580 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas veiksmažodžių laikas ir aiškiai susietos Vijūkų veiklos su Romainių Vijūkų lauku. Naujų aplinkybių ar atribucijos nepridėta."
+  vertinimo_atnaujinta: "2026-07-26T18:22:38Z"
   pagrindžia:
     - c-185703
 
@@ -98,7 +112,8 @@ Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš seno
 - id: c-80846
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 35."
   citata_originali: |
     Lietuvos istorijoje yra žinomos šven­
     tos vietovės, senovės lietuvių vadin­
@@ -128,7 +143,8 @@ Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš seno
 - id: c-80847
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 35-36"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 35-36."
   citata_originali: |
     Nepaisant to, kryžiuo­
     čiai, nuolatos baudęsi sunaikinti tą
@@ -164,11 +180,12 @@ Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš seno
     - t-002
 
 - id: c-185703
+  autorius: "Zigmantas Kiaupa"
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 5-6"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5-6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:22"
   pagrindzia:
     - t-003

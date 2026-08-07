@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-83064
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 39."
   citata_originali: |
     Lietu­
     vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink

@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c8e8ff3a973304227b41ae6"
+canonical_name: "Omaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Omaras"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės, vienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas, žiauriai įsiveržė į Šventąją žemę bei ją visą užėmė, ir šitaip."
 ---
 # Omaras
 
@@ -53,7 +60,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-61029
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     78. Apie šventosios žemės reikalus
 

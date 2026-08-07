@@ -65,7 +65,8 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 - id: c-71075
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 479-480"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 479-480."
   citata_originali: |
     Tam tikslui buvo įsakyta paruošti vadinamuo-
     sius inventorius, kuriuose nuo seno buvo surašomos visos
@@ -87,7 +88,8 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 - id: c-71079
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 479"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 479."
   citata_originali: |
     Privatiniuose dvaruose tebuvo tik suvienodintos vals-
     tiečių prievolės. Tam tikslui buvo įsakyta paruošti vadinamuo-
@@ -105,7 +107,8 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 - id: c-175899
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 479-480"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 479-480."
   citata_originali: |
     Inventoriams suvienodinti visose gubernijose
     buvo įsteigti specialūs komitetai. Tačiau tie inventoriai nega-

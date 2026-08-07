@@ -23,6 +23,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ca1b56d8cacbfe856833df2f"
+canonical_name: "Brunonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Brunonas"]
+sameAs: []
+canonical_biography: "Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais vasario 14 d. buvo suimtas ir su visais palydovais nužudytas. Brunonas: pagaliau 1008 m. gale jis iš- vyko iš Lenkijos aisčių krikštyti net su 18 palydovų. Brunonas: ir Bonifacas buvo paskelbtas šventuoju kankiniu."
 ---
 # Brunonas
 
@@ -130,7 +137,8 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 - id: c-85622
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
 
@@ -154,7 +162,8 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 - id: c-85623
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 54."
   citata_originali: |
     Pagaliau
     1008 m. gale jis iš-
@@ -176,7 +185,8 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 - id: c-85624
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 54."
   citata_originali: |
     Pagaliau
     pas tą patį lenkų
@@ -206,7 +216,8 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 - id: c-168043
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 175."
   citata_originali: |
     Po to nugalėtojai, paleisti pasiplėšti grobio,
     nusiaubė visas apylinkes, naikindami ugnimi ir kala­

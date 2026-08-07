@@ -81,7 +81,8 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
 - id: c-22411
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 232."
   citata_originali: |
     Valdžiai
     svarbius klubus uždraudus, dalis jaunuolių suartėjo su disidentais.
@@ -101,7 +102,8 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
 - id: c-22412
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 232."
   citata_originali: |
     Dėl to jie persekioti, suėmus jiems nukerpami plaukai, su-
     rašomas teisės pažeidimų protokolas, ne vienas jų išmestas iš aukštosios
@@ -122,7 +124,8 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
 - id: c-166517
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 232."
   citata_originali: |
     Sovietinėje sistemoje egzistavę hipių ar
     pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką

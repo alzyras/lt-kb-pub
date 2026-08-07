@@ -96,7 +96,8 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
 - id: c-05597
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 61."
   citata_originali: |
     Jokia Daukanto istorijos rašymo ir jo metodo kritika tačiau
     nepajėgs sumažinti jo didelės reikšmės tautinio atgimimo laikotar­
@@ -118,7 +119,8 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
 - id: c-32689
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 53."
   citata_originali: |
     Mozūras Stryjkovskis
     ryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­

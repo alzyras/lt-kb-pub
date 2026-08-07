@@ -59,7 +59,8 @@ Tuo būdu tais pat 1566 m. Gardino seime buvo sudaryta nauja sutartis, kuria Liv
 - id: c-01553
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 230."
   citata_originali: |
     Tuo būdu tais pat 1566 m. Gardino seime buvo su-
     daryta nauja sutartis, kuria Livonija pasidarė Lietuvos provin-

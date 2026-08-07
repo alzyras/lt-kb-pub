@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f2ddfa082c018d12e42a52e1"
+canonical_name: "Otokaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Otokaras"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių Tuo metu Rudolfas, Romos karalius, nukovė kare Otokarą, Čekijos karalių, atidavė Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi, o savo dukterį atidavė."
 ---
 # Otokaras
 
@@ -71,7 +78,8 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
 - id: c-61031
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Galop valdovas, ilgokai rūstinamas,
     pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš. Prancūzijos
@@ -92,9 +100,9 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
     - t-001
 
 - id: c-184370
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 353"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 353."
   citata_originali: |
     Tarp diduomių samionų rado sau bendrą
     kryžėjai jomylistą ponaitį vadinamą, kurį mistras
@@ -123,9 +131,9 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
     - t-002
 
 - id: c-184371
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 448"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 448."
   citata_originali: |
     Popiežius Mikalojus III, įsėdęs į baž­
     nyčios suolą, turėjo rūpintis didesniais reikalais

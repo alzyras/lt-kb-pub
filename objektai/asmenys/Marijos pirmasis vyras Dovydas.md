@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b36ce05237230323b1250f42"
+canonical_name: "Marijos pirmasis vyras Dovydas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Marijos pirmasis vyras Dovydas"]
+sameAs: []
+canonical_biography: "Marijos pirmasis vyras Dovydas jau buvo iš Drohičino atvykęs į Gardiną."
 ---
 # Marijos pirmasis vyras Dovydas
 
@@ -46,7 +53,8 @@ Marijos pirmasis vyras Dovydas jau buvo iš Drohičino atvykęs į Gardiną.
 - id: c-176758
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 78-79"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78-79."
   citata_originali: |
     O didysis kunigaikštis Kęstutis, sutelkęs savo pajė­
     gas, skuba į Vilnių ir suima didįjį kunigaikštį Jogailą

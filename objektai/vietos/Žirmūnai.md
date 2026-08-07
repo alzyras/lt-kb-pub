@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7882c4495586b19800a8fd44"
+canonical_name: "Žirmūnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žirmūnai"]
+sameAs: []
+canonical_biography: "1962–1969 m. pastatytas pirmasis tokių namų mikrorajonas Vilniuje – Žirmūnai."
+place_authority: true
+historical_names: []
 ---
 # Žirmūnai
 
@@ -61,7 +70,8 @@ media_all_json: |-
 - id: c-24652
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 218."
   citata_originali: |
     Gyvenamųjų namų statyba
     standartizuota pagal tipinius projektus, daugiausia naudotos surenka-

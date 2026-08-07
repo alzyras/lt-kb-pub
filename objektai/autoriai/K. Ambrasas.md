@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4744f337f18cf0372358da7"
+canonical_name: "K. Ambrasas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. AM BRASAS","K. Ambrasas"]
+sameAs: []
+canonical_biography: "K. Ambrasas šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys."
 ---
 # K. Ambrasas
 
@@ -76,7 +83,8 @@ K. Ambrasas šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
 - id: c-169785
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 3."
   citata_originali: |
     REDAKCINE KOMISIJA
     K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,

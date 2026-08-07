@@ -101,7 +101,8 @@ Vilniaus religinė miesto brolija.
 - id: c-55858
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 188."
   citata_originali: |
     Bažnyčios pajamos priklausė: dalis arkipresbiteriui, da-
     lis Vilniaus gyventojams, Šv. Jono brolijai priklausantiems,

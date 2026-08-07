@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4a72be95ba6631d01cbc0f3e"
+canonical_name: "Bona"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bona"]
+sameAs: []
+canonical_biography: "Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta klebonija tapo išties reikšmingiausia Žemaitijoje. Vis dėlto pirmieji nusveria antruo­ sius: juk visos Vytauto dorybės tik jo paties, gyvenusio 85 Tiesa, šimtmečiu vėliau karalienė Bona pagerbė Vytauto atminimą antkapiniu marmuro paminklu di­ džiojo altoriaus dešinėje pusėje. Žygimantas Senasis paprastai gy­ vendavo viename, o karalienė Bona - antrame."
 ---
 # Bona
 
@@ -133,7 +140,8 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 - id: c-83446
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 176."
   citata_originali: |
     Veiklus, santūrus, kilnus, my­
     lintis tėvynę, pasižymėjęs mūšiais, sumanymais ir politika,
@@ -167,7 +175,8 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 - id: c-83447
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 275."
   citata_originali: |
     Netvarka ir apsileidimas, įsitvirtinę miesto administra­
     cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat
@@ -187,7 +196,8 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 - id: c-83448
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 117."
   citata_originali: |
     Pirmoji baž­
     nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­
@@ -209,7 +219,8 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 - id: c-83449
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 271."
   citata_originali: |
     Per kelis šimtus žingsnių, ant nedidelės aukštumė­
     lės, irgi prie Merkio, stovėjo du kiti mažesni namai, berods
@@ -226,9 +237,9 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     - t-001
 
 - id: c-184865
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 147"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 147."
   citata_originali: |
     Tik vieno laikotarpio toks Kauno miesto užtarėjas ir tarsi savotiškas miesto prie-
     vaizdas yra žinomas. Tai buvo Žygimanto Senojo žmona Bona. Ji labai aktyviai veikė
@@ -242,9 +253,9 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     - t-005
 
 - id: c-184866
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 274"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 274."
   citata_originali: |
     Kaip galima spręsti iš dokumento konteksto, jie tai darė
     naudodamiesi savo tarnybine padėtimi, vaito ir burmistro galia.

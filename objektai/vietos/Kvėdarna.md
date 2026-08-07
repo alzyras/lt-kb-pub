@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-52c37eaa8d7d9584d47ee29f"
+canonical_name: "Kvėdarna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kvėdarna"]
+sameAs: []
+canonical_biography: "Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį)."
+place_authority: true
+historical_names: []
 ---
 # Kvėdarna
 
@@ -59,7 +68,8 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - id: c-33916
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 242."
   citata_originali: |
     Šis žygis, kuriame buvo daug svečių iš
     visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir

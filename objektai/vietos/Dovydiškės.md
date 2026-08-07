@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf5e9eaf4494c90372a64982"
+canonical_name: "Dovydiškės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dovydiškės"]
+sameAs: []
+canonical_biography: "Jis buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti Gardino (1380.V.31)."
+place_authority: true
+historical_names: []
 ---
 # Dovydiškės
 
@@ -58,7 +67,8 @@ Jis buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti Gard
 - id: c-33830
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 279."
   citata_originali: |
     Svarbesnė buvo jo nauja taikos sutartis su kry­
     žiuočiais — per 8 mėnesius iš eilės jau trečias dokumentas. Jis

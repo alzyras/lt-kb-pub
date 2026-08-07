@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4bf5e20d47b35b0de3da4bc"
+canonical_name: "Mata"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mata"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar XIV a. Dusburgietis teigia, kad šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata; kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė Kristaus tikėjimą222. Dusburgietis teigia, kad šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti iš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu Mata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus."
 ---
 # Mata
 
@@ -101,7 +108,8 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 - id: c-60687
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
   citata_originali: |
     Neilgai trukus  jis išdavė
     savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės
@@ -122,7 +130,8 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 - id: c-60688
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
     Štai pirmosiose  kovose prieš Ordiną
     žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
@@ -139,7 +148,8 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 - id: c-60689
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
   citata_originali: |
     nuniokojo vieną Kuršo žemės dalį, degindami, grobstydami ir liedami krikščionių kraują,
     o sugautas moteris bei vaikus išsivarė su savimi, kartu gabendamiesi daug kitokio

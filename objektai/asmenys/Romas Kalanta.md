@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-13164dd85520c4dc67b98fc4"
+canonical_name: "Romas Kalanta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Romas Kalanta"]
+sameAs: []
+canonical_biography: "1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė. Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką. Kalantos susideginimo priežastis – sunki psichikos liga šizofrenija."
 ---
 # Romas Kalanta
 
@@ -128,7 +135,8 @@ media_all_json: |-
 - id: c-21954
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 232."
   citata_originali: |
     Neramumai
     nuslopinti gegužės 19 dieną. Iš daugiau kaip 3 000 aktyvių protestų dalyvių
@@ -148,7 +156,8 @@ media_all_json: |-
 - id: c-21955
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 232."
   citata_originali: |
     Siekdama
     sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo
@@ -168,7 +177,8 @@ media_all_json: |-
 - id: c-21956
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 233."
   citata_originali: |
     Užsienyje gyvenantys lietuviai rengė minėjimus, leido knygas, statė pa-
     minklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.
@@ -190,7 +200,8 @@ media_all_json: |-
 - id: c-48885
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 232."
   citata_originali: |
     Ši informacija neatitiko tikro-
     vės – jaunuolis buvo sąmoningas ir suvokė savo veiksmus.
@@ -208,7 +219,8 @@ media_all_json: |-
 - id: c-166957
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 232."
   citata_originali: |
     1972 m. gegužės 14 d. devyniolikme-
     tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
@@ -226,7 +238,8 @@ media_all_json: |-
 - id: c-166958
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 232."
   citata_originali: |
     R. Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams
     paniką. Sovietiniai saugumiečiai paskubėjo R. Kalantą slapta palaidoti

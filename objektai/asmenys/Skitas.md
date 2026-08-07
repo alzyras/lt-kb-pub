@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-910ba9029506b63f5f6d9389"
+canonical_name: "Skitas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Skitas"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir skitų genties protėviu."
 ---
 # Skitas
 
@@ -53,7 +60,8 @@ Narbutas, remdamasis Berosijaus padavimais, Skitą laikė Araksos sūnumi ir ski
 - id: c-174350
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Bu­
     dinai, kaip jau sakėme, yra senovės Azijos skitų kasta,

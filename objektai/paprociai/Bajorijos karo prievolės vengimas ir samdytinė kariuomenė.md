@@ -83,7 +83,8 @@ Nenurodyta
 - id: c-02152
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 217."
   citata_originali: |
     **Trečiasis karas su Maskva (1534—1537 m.).** Ankstyves-
     nieji karai pasibaigdavo Lietuvai nelaimingai ypač dėl to, kad
@@ -102,7 +103,8 @@ Nenurodyta
 - id: c-02153
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 220."
   citata_originali: |
     Į ūkį jam teko kreipti daugiau dėmesio,
     nes ilgų karų metu ypač daug reikėjo pinigų kariuomenei.

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d21be8c6a4ad222b44669961"
+canonical_name: "Ingvaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ingvaras"]
+sameAs: []
+canonical_biography: "Pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, kuris Narbuto tekste atsargiai siejamas su rusnėnų kariūnu."
 ---
 # Ingvaras
 
@@ -54,7 +61,8 @@ Pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, kuris Narbuto te
 - id: c-174302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Goterio sū­
     nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­

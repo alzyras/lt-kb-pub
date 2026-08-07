@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-65c5822aba6a948e9098b431"
+canonical_name: "Raskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Raskas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad danų mokslininkas Raskas 1817 m. lietuvius kildino iš to paties „lizdo“ kaip ir Narbutas."
 ---
 # Raskas
 
@@ -65,7 +72,8 @@ Narbutas rašo, kad danų mokslininkas Raskas 1817 m. lietuvius kildino iš to p
 - id: c-174392
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 197."
   citata_originali: |
     Tačiau senovės
     tyrinėtojai, kurie teikėsi įsigilinti į mitologiją ir lietuvių

@@ -41,9 +41,9 @@ Ant didesnės kliauties ir įtikėjimo, apžymėjom mes tą gromatą ta pačia �
 ## Citatos
 
 - id: c-184610
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 543"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 543."
   citata_originali: |
     Kelias pas mus yra atdaras ir liuosas
     per Mozūriją be muito ir mokesnio. Ant didesnės

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c688b7f26bc1b645fb1fa40d"
+canonical_name: "Aleksandras II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras II"]
+sameAs: []
+canonical_biography: "Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika."
 ---
 # Aleksandras II
 
@@ -82,7 +89,8 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
 - id: c-78655
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 12-13"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 12-13."
   citata_originali: |
     1855 m., po caro Nikolajaus I mirties ir
     XII
@@ -107,7 +115,8 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
 - id: c-78656
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 14."
   citata_originali: |
     Įdomi M. Balinskio publicistinės literatūros dalis yra Gazeta
     Warszawska (Varšuvos laikraštis). Jos puslapiuose spausdinti

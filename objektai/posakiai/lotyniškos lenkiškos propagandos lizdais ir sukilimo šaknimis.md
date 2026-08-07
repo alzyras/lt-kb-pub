@@ -43,7 +43,8 @@ Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propag
 - id: c-02330
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 502"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 502."
   citata_originali: |
     Tokių buvo surasta 32, ir jos visos
     buvo uždarytos. Be jų, dar buvo uždarytos 52 kop-

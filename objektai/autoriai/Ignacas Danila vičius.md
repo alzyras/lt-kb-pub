@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d87d32949a040900e3c4746"
+canonical_name: "Ignacas Danila vičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ignacas Danila vičius"]
+sameAs: []
+canonical_biography: "Tai buvęs Vilniaus Universiteto profeso­ rius, o dabar Kijeve vadovaujantis Teisės katedrai, Ignacas Dani­ la vičius, kuriam Lietuvos istorija ir teisės mokslas jau tiek skolin­ gi, mielai perleidęs man svarbius savo užrašus apie mažiau žinomas Vilniaus."
 ---
 # Ignacas Danila vičius
 
@@ -50,7 +57,8 @@ Tai buvęs Vilniaus Universiteto profeso­ rius, o dabar Kijeve vadovaujantis Te
 - id: c-84043
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 27."
   citata_originali: |
     Tačiau jaučiu malonią pareigą prisipažinti sa­
     vo skaitytojams, kam iš mokslo vyrų, rėmusių mane užsibrėžus

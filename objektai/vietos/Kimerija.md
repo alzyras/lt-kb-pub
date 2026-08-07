@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-13d6d0d41272f2808230089d"
+canonical_name: "Kimerija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kimerija","Kimerija vadinamoj","Kimerijos"]
+sameAs: []
+canonical_biography: "Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės. Kimerija vėliau tapo vieta, į kurią įsigrūdo kitos tautos."
+place_authority: true
+historical_names: []
 ---
 # Kimerija
 
@@ -80,7 +89,8 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
 - id: c-10412
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 43"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 43."
   citata_originali: |
     Nes ilgainiui tenai jiems begyvenant, grekonys įsikūrė tūlose vietose Kimerijos ir tenai
         pamatavo^81 sau garsias pilis Chersonesą, Teodosiją ir Albiją; bet paskiau įsigrūdo ten nuožmi
@@ -97,7 +107,8 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
 - id: c-10413
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 41-42"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 41-42."
   citata_originali: |
     Vadino kiemarionimis užvis tuos, kurie gyveno žemės šnipy^70 , į Uksinę marę įsikišusiame, arba pussalėj^71 ,
         Kimerija vadinamoj, regis, nuo to, jog iš Uksinės marės artinantiems tenai rodės kiemai it marėj

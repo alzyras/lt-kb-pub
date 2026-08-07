@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8548fc0cb467c53619d9c34b"
+canonical_name: "Justinianas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Justinianas"]
+sameAs: []
+canonical_biography: "Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus. Imperatorius Justinianas šaltinyje siejamas su VI amžiumi, kai gyveno istorikas Prokopijus. Kai Roma antrąkart pateko Totilai, Justinianas surinko kariuomenę, kurioje greta longobardų ir persų buvo herulų."
 ---
 # Justinianas
 
@@ -33,7 +40,7 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
 <a id="claim-t-186121"></a>
 - t-001
   teiginys: "Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -51,7 +58,6 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   temporalinis_llm_pakomentavimas: "Pradinis teiginys labiau akcentavo Belizarijų; perrašyta aiškiau apie Justiniano valdymo laiką."
   pagrindžia:
     - c-169482
-    - c-178739
 
 <a id="claim-t-190899"></a>
 - t-002
@@ -153,7 +159,8 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
 - id: c-169482
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 54."
   citata_originali: |
     Tačiau didelė herulų da­
     lis persikėlė iš Italijos į Grai-
@@ -177,7 +184,8 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
 - id: c-173781
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
   citata_originali: |
     Žinios apie šį bendrinį pa­
     vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
@@ -201,7 +209,8 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
 - id: c-173782
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 325"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 325."
   citata_originali: |
     Taip pat ir Romai antrąkart
     pakliuvus į Totilos rankas, kai Justinianas surinko ka­
@@ -223,7 +232,8 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
 - id: c-178739
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 54."
   citata_originali: |
     Atgavęs Italiją, jis, mi­
     rus Justinianui, buvo kviečiamas atgal į Bizantiją, o
@@ -250,5 +260,4 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-004

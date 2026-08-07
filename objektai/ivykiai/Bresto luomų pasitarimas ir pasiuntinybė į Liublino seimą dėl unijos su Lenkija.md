@@ -102,7 +102,8 @@ Nenurodyta
 - id: c-168880
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 733"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 733."
   citata_originali: |
     N o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n ­
     tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y­
@@ -131,7 +132,8 @@ Nenurodyta
 - id: c-176080
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 732"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 732."
   citata_originali: |
     K ai žlugo visos v il­
     ty s sutarti taiką, k araliau s pasiuntiniai v arg ais n eg a­
@@ -169,7 +171,8 @@ Nenurodyta
 - id: c-178553
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 732-733"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 732-733."
   citata_originali: |
     K ai žlugo visos v il­
     ty s sutarti taiką, k araliau s pasiuntiniai v arg ais n eg a­

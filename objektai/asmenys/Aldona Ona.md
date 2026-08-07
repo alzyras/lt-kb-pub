@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9c62d0976d32d161b4b7f701"
+canonical_name: "Aldona Ona"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aldona Ona"]
+sameAs: []
+canonical_biography: "Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazimieru."
 ---
 # Aldona Ona
 
@@ -61,7 +68,8 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
 - id: c-44262
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 36."
   citata_originali: |
     Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-
     kiai. Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą

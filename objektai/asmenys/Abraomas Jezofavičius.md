@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd8ccb1273ec623d6cc541d9"
+canonical_name: "Abraomas Jezofavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Abraomas Jezofavičius"]
+sameAs: []
+canonical_biography: "Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių verslovininkų, muitinių ir kitokių pajamų šaltinių nuomininkas, taip pat nuo 1507 m. Kauno muitininkas. 1514 m. Žygimantas Senasis, karo su Rusų valstybe sąlygomis nuolat stokojantis lėšų, atidavė Abraomui Jezofavičiui kaip užstatą už 10 000 auksinų paskolą Kauno pilį su Rumšiškių dvaru (valsčiumi). Kaip matyti iš 1516 m. ataskaitos, Abraomas Jezofavičius visas pajamas išdalijo pagal valdovo nurodymus, o sau nieko nepasiliko."
 ---
 # Abraomas Jezofavičius
 
@@ -74,9 +81,9 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
 ## Citatos
 
 - id: c-185415
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 112."
   citata_originali: |
     Pasikrikštijęs žydas Abraomas
     Jezofavičius buvo vienas iš aktyviausių verslovininkų, muitinių ir kitokių pajamų šal-
@@ -91,9 +98,9 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
     - t-001
 
 - id: c-185416
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 112."
   citata_originali: |
     1514 m.
     Žygimantas Senasis, karo su Rusų valstybe sąlygomis nuolat stokojantis lėšų, atidavė
@@ -108,9 +115,9 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
     - t-002
 
 - id: c-185417
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 112."
   citata_originali: |
     Kaip matyti iš 1516 m. ataskaitos, Abraomas Jezofavičius
     visas pajamas išdalijo pagal valdovo nurodymus, o sau nieko nepasiliko. Taip užstato

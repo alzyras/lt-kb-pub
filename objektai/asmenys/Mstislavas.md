@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-58e68b5e57d2088c67033613"
+canonical_name: "Mstislavas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mstislavas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Mstislavas
 

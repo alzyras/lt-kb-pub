@@ -157,7 +157,8 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 - id: c-11260
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 53."
   citata_originali: |
     Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“ apie Marienverderio
     pilies šturmą 1384 m.
@@ -172,7 +173,8 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 - id: c-43288
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 52."
   citata_originali: |
     Piksidomis (ma-
     žesnio kalibro pabūklais) daugelį jų karių
@@ -202,7 +204,8 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 - id: c-156051
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 142-143"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 142-143."
   citata_originali: |
     Augustiną, tai
     yra, rugpjūčio 28-ą, o priartėta prie
@@ -234,7 +237,8 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 - id: c-179006
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
     daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir

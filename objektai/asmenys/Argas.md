@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ad64ecc79c741a60f4e64d85"
+canonical_name: "Argas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Argas"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja, kad Prikso sūnus Argas pirmasis susiruošė kelionei Juodąja jūra, tuomet vadinta Pontos-Axenos."
 ---
 # Argas
 
@@ -53,7 +60,8 @@ Narbutas pasakoja, kad Prikso sūnus Argas pirmasis susiruošė kelionei Juodąj
 - id: c-174250
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
   citata_originali: |
     Prikso sūnus Argas pirmasis susiruošė į ke­
     lionę minėta jūra, kurią tuomet vadino Pontos-Axenos,

@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-83084
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248-249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248-249."
   citata_originali: |
     Tačiau šis karaliaus nurodymas gal taip greitai ne­
     būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­

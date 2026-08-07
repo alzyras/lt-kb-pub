@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6dc623d31935359b0f7464d4"
+canonical_name: "Lojevka upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lojevka upė"]
+sameAs: []
+canonical_biography: "Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevkos upės, juosiančios stovyklą, užtvanką), o centre buvo kavalerija."
+place_authority: true
+historical_names: []
 ---
 # Lojevka upė
 
@@ -51,7 +60,8 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
 - id: c-45193
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 123."
   citata_originali: |
     Taip
     buvo visiškai nuo priešų išvalytas laukas, kurį visą jie ką tiktai buvo užtvindę, nepaisant

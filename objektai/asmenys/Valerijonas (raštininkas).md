@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8d49f404c579090f91485a9b"
+canonical_name: "Valerijonas (raštininkas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Valerijonas (raštininkas)"]
+sameAs: []
+canonical_biography: "1514 ---- • --- 375 ## Puslapis 392 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIENĖ BONA, 1533 metų spalio mėnesio 23 dieną, 7 indikte, rusų kalka Vilniuje datuotu laišku, su parašu Walerijan (tikriausiai tai turėjo kūti raštininkas) ir prispaustu antspaudu. Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU 1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES 1533."
 ---
 # Valerijonas (raštininkas)
 
@@ -83,7 +90,8 @@ media_all_json: |-
 - id: c-83444
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 393-394"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 393-394."
   citata_originali: |
     IV KNYGA
     pasakytum, kad turite paklusti teisei, pagal rašytus žemės
@@ -121,7 +129,8 @@ media_all_json: |-
 - id: c-83445
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 391-392"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 391-392."
   citata_originali: |
     Taigi paveda­
     me tau, kad apsigalvotumei ir nenorėtumei savo lengvabū­

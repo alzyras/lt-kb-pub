@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-01846
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 58."
   citata_originali: |
     Tada vysk. Kristijonas kartu su
     kunigaikščiu Konradu sumanė čia įkurti tokią pat pastovią or-

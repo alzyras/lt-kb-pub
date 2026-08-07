@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-064fd9721efa3086de45f9ae"
+canonical_name: "Mathias Ziindt"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mathias Ziindt"]
+sameAs: []
+canonical_biography: "1568 m. Mathias Ziindt (fragmentas)."
 ---
 # Mathias Ziindt
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-44453
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 89."
   citata_originali: |
     Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
     Lietuvos kariuomenių struktūrą:

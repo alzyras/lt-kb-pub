@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-82958369bfd21e1325bfdf39"
+canonical_name: "Obelių kapinynas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Obelių kapinynas"]
+sameAs: []
+canonical_biography: "Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro muziejuje."
+place_authority: true
+historical_names: []
 ---
 # Obelių kapinynas
 
@@ -60,7 +69,8 @@ Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro mu
 - id: c-171826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 506"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 506."
   citata_originali: |
     Vėliau T. Narbutas šią informaciją įdėjo į vadina­
     muosius „Mažesniuosius istorijos raštus“ (Pomniej-

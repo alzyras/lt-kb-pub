@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5df0805d8f13753c5d12e59b"
+canonical_name: "Thomas Hiarnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Thomas Hiarnas"]
+sameAs: []
+canonical_biography: "Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, parašę Lat vijos ir Estijos kraštų istorijas."
 ---
 # Thomas Hiarnas
 
@@ -41,9 +48,9 @@ Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, paraš�
 ## Citatos
 
 - id: c-184783
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 5"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 5."
   citata_originali: |
     Vienas jų — istorikas ir rašytojas Augustas
     Friedrichas Kotzebue, išleidęs „Senosios Prūsijos is­

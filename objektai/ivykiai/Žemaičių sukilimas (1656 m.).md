@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-40893
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
   citata_originali: |
     Graviūroje gerai matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, jas
     dengia žemės pylimai ir žemių pripildytos pintinės (turai arba gabionai)

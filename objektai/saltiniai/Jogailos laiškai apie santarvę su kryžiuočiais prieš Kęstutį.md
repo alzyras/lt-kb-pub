@@ -60,7 +60,8 @@ Kęstutis po kelių dienų Trakų apgulos ir smarkaus pasipriešinimo atsisakė 
 - id: c-176211
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268."
   citata_originali: |
     Kadangi neseniai per pasiuntinius buvo pra­
     šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei

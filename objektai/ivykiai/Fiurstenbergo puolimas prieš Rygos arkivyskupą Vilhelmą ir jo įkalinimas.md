@@ -65,7 +65,8 @@ Nenurodyta
 - id: c-168928
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 695-696"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 695-696."
   citata_originali: |
     Daugybė bajorų stojo už teisybę bei arki­
     vyskupą, tačiau šis, nesitikėdamas pergalės kovos lau­

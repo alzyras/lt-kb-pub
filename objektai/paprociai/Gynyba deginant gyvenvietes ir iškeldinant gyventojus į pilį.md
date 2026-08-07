@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-83247
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 148."
   citata_originali: |
     Už­
     ėmusi Ukmergę, po to Visevaldės45 pilį, kai prisiartino

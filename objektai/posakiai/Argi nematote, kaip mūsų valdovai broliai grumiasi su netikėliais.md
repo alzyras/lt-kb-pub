@@ -82,7 +82,8 @@ Dusburgietis teigia, kad kai jis stovėjo prie savo namo durų, aiškiai matė o
 - id: c-87542
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 114."
   citata_originali: |
     Visa tai leidžia daryti išvadą ir nedvejojant tikėti,
     kad pats Kristus, be kurio valios nieko žemėje negali įvykti, užleido ant savo tautos

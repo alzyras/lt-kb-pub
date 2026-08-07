@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ceb7d41c006a9b3d948673e"
+canonical_name: "Natanga"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Natanga"]
+sameAs: []
+canonical_biography: "Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­ želio Il dieną, švintant, Ragainės komtūras Tomas Aldenburgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį ir plėnimis."
+place_authority: true
+historical_names: []
 ---
 # Natanga
 
@@ -60,7 +69,8 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
 - id: c-82195
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­
     chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė

@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   [{"mediaId":"m-1c12f3431529ae5fdab9c715","title":"Traniata. Транята (A. Guagnini, 1611).jpg","caption":"Treniotos atvaizdas, Aleksandro Guanjinio leidinyje, 1611 m.","originalTitle":"Traniata. Транята (A. Guagnini, 1611).jpg","creator":"Alexander Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kronika Sarmacyey Europskiey, w Ktorey Sie Zamyka krolestwo Polskie ze wszystkiemi Państwy, Xięstwy, y Prowincyami swemi: tudzież też Wielkie Xięstwo Lithew: Ruskie, Pruskie, Zmudzkie, Inflantskie, Moskiewskie, y część Tatarow. Przez Alexandra Gwagnina z Werony ... W Krakowie, w Drukarni Mikołaia Loba, Roku Pańskiego 1611.","dateDisplay":"1611","dateStart":null,"dateEnd":null,"width":760,"height":1068,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28A._Guagnini%2C_1611%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28A._Guagnini%2C_1611%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28A._Guagnini%2C_1611%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28A._Guagnini%2C_1611%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"karvedys","label":"karvedys","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Treniota","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Treniota.md","title":"Treniota","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:49:40.223532+03:00","reviewedAt":"2026-07-18T23:50:17.992037+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas viduramžiškai vaizduojamas barzdotas raitelis su karine apranga, ginklais ir heraldiniais bei dekoratyviniais rėmais.","metadataEvidence":"Pavadinime tiesiogiai nurodyta „Traniata“, aprašyme – Treniotos atvaizdas, autorius Aleksandras Guanjinis, data 1611 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys ir vaizdas tiesiogiai sieja objektą su Treniota.","isPrimary":1},{"mediaId":"m-77768bd0092cbb164c163df5","title":"Bareljefas „Treniota – Lietuvos kunigaikštis“","caption":"Medinis tamsintas bareljefas, vaizduojantis Lietuvos kunigaikštį Treniotą.","originalTitle":"Bareljefas „Treniota – Lietuvos kunigaikštis“","creator":"E. Juškevičius","provider":"europeana","providerLabel":"National Museum of Lithuania","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"2021","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_943458047","sourceUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-943458047/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnm-bucket%2FLIMIS-943458047%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-943458047/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"bareljefas","label":"bareljefas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Carving","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Drožyba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Entallament","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Intaglio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kerven","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Nikerdamine","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rezbarstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Schnitzen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snideri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snoíodóireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Taillaketa","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Talla","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Řezba","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Treniota.md","title":"Treniota","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:51:03.168883+03:00","reviewedAt":"2026-07-18T23:51:18.551580+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma stilizuota vyro, apsirengusio kario ar kunigaikščio apranga ir dėvinčio galvos apdangalą, figūra mediniame bareljefe.","metadataEvidence":"Kandidato pavadinimas tiesiogiai nurodo „Treniota – Lietuvos kunigaikštis“, o aprašyme aiškiai teigiama, kad centre pavaizduotas Treniota; nurodytas Lietuvos nacionalinio muziejaus teikėjas.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys tiesiogiai bei aiškiai identifikuoja konkretų target – Treniotą.","isPrimary":0},{"mediaId":"m-68ceee5077bbcba0323450db","title":"Traniata. Транята (M. Barvicki, 1908).jpg","caption":"Treniotos atvaizdas, Mečislavo Barvickio kūrinyje, 1908 m.","originalTitle":"Traniata. Транята (M. Barvicki, 1908).jpg","creator":"Мечыслаў Барвіцкі","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Nacionalinis M. K. Čiurlionio dailės muziejus","dateDisplay":"1908","dateStart":null,"dateEnd":null,"width":474,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28M._Barvicki%2C_1908%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/74/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28M._Barvicki%2C_1908%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/74/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28M._Barvicki%2C_1908%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/7/74/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28M._Barvicki%2C_1908%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"karvedys","label":"karvedys","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Treniota","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Treniota.md","title":"Treniota","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:49:40.230272+03:00","reviewedAt":"2026-07-18T23:50:17.996917+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas stovintis barzdotas karys su karūną primenančiu galvos apdangalu, kardu ir kitu ginklu.","metadataEvidence":"Pavadinime ir aprašyme tiesiogiai įvardytas Treniota; nurodytas autorius Mečislavas Barvickis ir 1908 m. data.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus konkretus targeto atvaizdas, patvirtintas pavadinimu ir aprašymu.","isPrimary":0},{"mediaId":"m-2300d806dc790096b5c7a9ac","title":"Traniata. Транята (XVIII).jpg","caption":"Treniotos portretas, XVIII amžiaus atvaizdas.","originalTitle":"Traniata. Транята (XVIII).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"www.pawet.net // Kultura Wielkiego Księstwa Litewskiego. Analizy і obrazy. Kraków, 2006. S. 835.","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":482,"height":483,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATraniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28XVIII%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28XVIII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28XVIII%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28XVIII%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"karvedys","label":"karvedys","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Treniota","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Treniota.md","title":"Treniota","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:49:40.234374+03:00","reviewedAt":"2026-07-18T23:50:18.000158+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apskritime įrėmintas barzdoto kario biustas su šalmu, šarvais ir kirviu ar alebarda.","metadataEvidence":"Pavadinime nurodyta „Traniata“, aprašyme tiesiogiai įvardytas Treniota, data – XVIII amžius.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tapatybė aiškiai nurodyta metaduomenyse, o vaizdas atitinka istorinį kario portretą.","isPrimary":0},{"mediaId":"m-67bf65c9b4cef62c2f8d43b0","title":"Treniota.jpg","caption":"Treniotos atvaizdas, Aleksandro Guanjinio kūrinyje, 1578 m.","originalTitle":"Treniota.jpg","creator":"Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Cropped version of [1] ; originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":455,"height":539,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATreniota.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Treniota.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Treniota.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Treniota.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"karvedys","label":"karvedys","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Treniota","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Treniota.md","title":"Treniota","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T23:49:40.237493+03:00","reviewedAt":"2026-07-18T23:50:18.003335+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma dekoratyviniame rėme pavaizduota ginkluota, barzdota raitelio figūra su kardu ir kario palyda.","metadataEvidence":"Pavadinime tiksliai nurodyta „Treniota“, aprašyme – Treniotos atvaizdas, autorius Aleksandras Guanjinis, data 1578 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tiesioginis ir metaduomenimis tiksliai identifikuotas Treniotos atvaizdas.","isPrimary":0}]
+entity_id: "ent-25bfcc5088cfcc14bfa94d41"
+canonical_name: "Treniota"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Treniota"]
+sameAs: []
+canonical_biography: "Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserėnas Treniota. Treniota ir iš žygio grįžęs Daumantas susimokę jį nužudė."
 ---
 # Treniota
 
@@ -139,7 +146,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 <a id="claim-t-184846"></a>
 - t-006
   teiginys: "Treniota apžiūrėjo lietuvių karius, kvietė sąjungininkų pulkus iš šiaurinės Rusios ir ilgai dvejojo, kur vesti kariuomenę."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -313,7 +320,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - id: c-85944
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
   citata_originali: |
     160 (155). Apie Birgelavos pilies sugriovimą
 
@@ -333,7 +341,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - id: c-85945
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 31."
   citata_originali: |
     Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-
     daugas ne tik sugebėjo sukurti valstybę, bet ir įeiti, nors laikinai, į Europos
@@ -354,7 +363,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - id: c-85946
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 31."
   citata_originali: |
     Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus
     Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.
@@ -373,7 +383,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - id: c-85947
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 31."
   citata_originali: |
     Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
     veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
@@ -394,7 +405,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - id: c-85948
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Priešiškuose lietuviams
     šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
@@ -412,7 +424,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - id: c-168207
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 88."
   citata_originali: |
     Kad kerštas būtų kuo didesnis, ėmė visomis išga­
     lėmis rengtis karui: iš visos Skitijos jis surinko kur
@@ -433,7 +446,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - id: c-168209
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 108."
   citata_originali: |
     Mat tuo
     metu
@@ -458,7 +472,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - id: c-171533
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     Šiojo sūnus Liu­
     tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
@@ -481,7 +496,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - id: c-176621
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
   citata_originali: |
     Ir Daumantas ieškojo, su kuo jam susidėti ir Min­
     daugą nužudyti. Susirado Treniotą", Mindaugo sese­
@@ -498,7 +514,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - id: c-178794
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 108."
   citata_originali: |
     Už
     ištremtus savo brolius tegu jis praliejąs Mindaugo, iš-
@@ -521,7 +538,8 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - id: c-178952
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 54."
   citata_originali: |
     Neilgai trukus, Vladimiro kunigaikštis Levas atsiun­
     tė savo broliui Vasilkai [žinią], kad norįs su juo pasi­
@@ -542,9 +560,9 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     - t-011
 
 - id: c-184389
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 299"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 299."
   citata_originali: |
     Treniota, urėdas Naujapi-
     lio (Nowogrodek), tą nujautęs, sukėlė savo brolius
@@ -573,9 +591,9 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     - t-012
 
 - id: c-184390
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 384"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 384."
   citata_originali: |
     Mintautas, ketėdamas vokyčius tremti laukan iš
     Padaugavio, patelkė ant karės gudus ir, sukėlęs sa­

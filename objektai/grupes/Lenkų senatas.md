@@ -132,7 +132,8 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
 - id: c-168789
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 417"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 417."
   citata_originali: |
     Mat žinojo, kad
     reta tokių kalbėtojų, kurie drąsiai kalba apkalbamo as­
@@ -164,7 +165,8 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
 - id: c-168790
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Žygimantas, beveik be kovos laimėjęs karą,
     paėmė be kraujo praliejimo į savo rankas Vilnių, Tra­
@@ -190,7 +192,8 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
 - id: c-168791
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,
@@ -220,7 +223,8 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
 - id: c-168792
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 441-442"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 441-442."
   citata_originali: |
     Priesaika patvirtinto susitarimo pag­
     rindiniai teiginiai buvo šie: turi būti amžinai laikomasi
@@ -259,7 +263,8 @@ Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperat
 - id: c-178528
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Čia šiaip ne taip
     U žim a R u sią

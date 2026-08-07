@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8112066f3ed0b6dadd50d19b"
+canonical_name: "Cimermanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Cimermanas"]
+sameAs: []
+canonical_biography: "Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą dovanojimą Karalius Žygiman­ tas Augustas patvirtino."
 ---
 # Cimermanas
 
@@ -59,7 +66,8 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
 - id: c-83624
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196."
   citata_originali: |
     1555. Radvila tą mūrinį namą ir sklypą dovanojo savo
     gydytojui Cimermanui, o tą dovanojimą Karalius Žygiman­

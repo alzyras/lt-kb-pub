@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3a028346f44498e5919735e8"
+canonical_name: "Brandenburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Brandenburgas"]
+sameAs: []
+canonical_biography: "Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vieną kartą su Brandenburgu, o kitą kartą su ordinu. Brandenburgas: atitekusi Branden- burgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir to- liau germanizavo pavergtuosius Mažosios Lietuvos lietuvius. Brandenburgas: tačiau ta sąjunga nedavė Lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vieną kartą su Brandenburgu, o kitą kartą su ordinu."
+place_authority: true
+historical_names: []
 ---
 # Brandenburgas
 
@@ -68,7 +77,8 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
 - id: c-171871
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 142."
   citata_originali: |
     Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
     liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai
@@ -87,7 +97,8 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
 - id: c-175921
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 198."
   citata_originali: |
     Nors ir merdėdamas, ordinas
 

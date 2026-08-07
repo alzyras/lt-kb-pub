@@ -59,7 +59,8 @@ Iš Pskovo buvo atvykę Livonijon 200 karių kaip kalavijuočių ordino sąjungi
 - id: c-28634
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 175."
   citata_originali: |
     Didž. Naugardo ir Tverės metraščiai pa­
     mini, kad** **_užjūrio_** **vokiečiai su didele jėga buvo atvykę Rygon (« priidoša Nemce

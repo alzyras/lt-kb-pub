@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-904cc241b055ade325e12237"
+canonical_name: "Grigalius Kniaževičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Grigalius Kniaževičius"]
+sameAs: []
+canonical_biography: "Tos dotacijos Vil­ niaus vyskupijai nuorašo vertimas iš lotynų kalbos, atliktas kunigo Gri­ galiaus Kniaževičiaus, yra išspaus­ dintas periodiniame leidinyje: Dzieje dobroczynności, 1822, N 32, p. 770, kuris redaguojamas mokslininko Mikalojaus Malinovskio."
 ---
 # Grigalius Kniaževičius
 
@@ -60,7 +67,8 @@ Tos dotacijos Vil­ niaus vyskupijai nuorašo vertimas iš lotynų kalbos, atlik
 - id: c-84037
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 128."
   citata_originali: |
     Mikalojaus kapinių netoli Rūdninkų vartų,
     o kitoje pusėje - ligi Trakų kelio, dovanodamas ten ir

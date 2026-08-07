@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-39d03365b816ec97469da5bd"
+canonical_name: "Mykolas Lietuvis Michalonis Lit"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mykolas Lietuvis Michalonis Lit"]
+sameAs: []
+canonical_biography: "62 Kaip seniau totoriai garsėjo santū­ rumu, svetingumu ir kitomis iš kar­ tų kartoms pereinančiomis dorybė­ mis, liudija Mykolas Lietuvis, vienintelis autentiškų raštų apie sa­ vo tautos papročius autorius, kuris bando (gal ir apsirinka) totorius ver­. Cituojama pagal Mykolas Lietuvis. Apie tai yra rašęs Mykolas L i e t u v i s, p. 28."
 ---
 # Mykolas Lietuvis Michalonis Lit
 
@@ -91,7 +98,8 @@ media_all_json: |-
 - id: c-84014
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 159."
   citata_originali: |
     62
     Kaip seniau totoriai garsėjo santū­
@@ -122,7 +130,8 @@ media_all_json: |-
 - id: c-84015
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 169."
   citata_originali: |
     79
     Kijevo kunigaikštystė ir Podolė,
@@ -153,7 +162,8 @@ media_all_json: |-
 - id: c-84017
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 160."
   citata_originali: |
     Vilnius,
     1966, p. 39.

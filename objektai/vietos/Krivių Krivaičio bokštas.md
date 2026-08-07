@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-29555be6c0ae3745fcd6f74c"
+canonical_name: "Krivių Krivaičio bokštas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krivių Krivaičio bokštas"]
+sameAs: []
+canonical_biography: "Krivių Krivaičio, vyriausiojo kunigo, bokštas."
+place_authority: true
+historical_names: []
 ---
 # Krivių Krivaičio bokštas
 
@@ -50,7 +59,8 @@ Krivių Krivaičio, vyriausiojo kunigo, bokštas.
 - id: c-82179
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 217."
   citata_originali: |
     5. Krivių Krivaičio, vyriausiojo kunigo, bokštas.
     6. Manvydo dvaras.

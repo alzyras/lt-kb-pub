@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-98fe730726a98f77b5cb05fc"
+canonical_name: "Bailamberas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bailamberas"]
+sameAs: []
+canonical_biography: "Bailambero vadovaujamų hunų Europos užpuolimą Narbutas, remdamasis Naruševičiumi, datuoja 376 m."
 ---
 # Bailamberas
 
@@ -58,7 +65,8 @@ Bailambero vadovaujamų hunų Europos užpuolimą Narbutas, remdamasis Naruševi
 - id: c-174254
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 62."
   citata_originali: |
     Vis dėlto ne­
     aišku, kada ir kaip iš ten pasitraukėi.

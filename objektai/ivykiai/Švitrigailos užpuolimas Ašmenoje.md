@@ -191,7 +191,8 @@ Nenurodyta
 - id: c-169956
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 273."
   citata_originali: |
     3 3  Petras Mantgirdaltis (Montygerdovv cz) — N augarduko vie­
     tininkas (1430— 1452), Kopyiio seniūnas (1435) Už dalyvavimą
@@ -210,7 +211,8 @@ Nenurodyta
 - id: c-169957
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 267."
   citata_originali: |
     Iš tikrųjų jis
     iškilo I Lietuvos valdovus per ginkluotų perversmų, kuri 1432 m.

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7acd4e97005de5438d18710d"
+canonical_name: "Miškinis A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Miškinis A"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad batakių dvaras atsirado XV a., o miestelis XVI a,— Lietuvos TSR urbanistikos paminklai, 4, p. 5—8 (Miškinis A.)."
 ---
 # Miškinis A
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad batakių dvaras atsirado XV a., o miestelis XVI a,— L
 - id: c-87594
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174."
   citata_originali: |
     38), matyt, čia ir
     buvo Aukaimio pilis. Batakių dvaras atsirado XV a., o miestelis XVI a,— Lietuvos TSR

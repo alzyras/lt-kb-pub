@@ -40,6 +40,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-be9de4b505f1692daf92b99c"
+canonical_name: "Kuršas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kurland","Kuršas","Kurše","Kuršu","Kuržemėj"]
+sameAs: []
+canonical_biography: "1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę. 1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą. Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį."
+place_authority: true
+historical_names: []
 ---
 # Kuršas
 
@@ -145,15 +154,21 @@ media_all_json: |-
 <a id="claim-t-90766"></a>
 - t-005
   teiginys: "Nemunas prie Klaipėdos įteka į jūrą ir skiria Prūsiją nuo Rusios, Lietuvos bei Kuršo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kuršas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kuršas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1236 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata pagrindžia geografinį faktą; nereikia autoriaus boilerplate."
   pagrindžia:
-    - c-86536
-    - c-86539
+    - c-86538
 
 <a id="claim-t-90767"></a>
 - t-006
@@ -392,15 +407,22 @@ media_all_json: |-
 <a id="claim-t-192683"></a>
 - t-019
   teiginys: "Narbutas rašė, kad kuršiai lietuviškai vadinti Koryones arba Kuryones, o savo kraštą vadino Kurr zemme."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kuršiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kuršas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kuršas\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175454
+    - c-175453
 
 <a id="claim-t-192684"></a>
 - t-020
@@ -598,7 +620,8 @@ media_all_json: |-
 - id: c-32165
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 122."
   citata_originali: |
     Ansgaro, kuris misijų reikalu buvo sustojęs ir Kurše.
     Kuršiai (Cori), kurių vardą Rimbertas pirmasis pamini, esą
@@ -616,7 +639,8 @@ media_all_json: |-
 - id: c-32166
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 122."
   citata_originali: |
     Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš
     naujo švedams užvaldyti Kuršą. Jis nusiaubė ir sudegino Kuršių
@@ -638,7 +662,8 @@ media_all_json: |-
 - id: c-32168
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 171."
   citata_originali: |
     Tik vakarų Europoje
     galingi ir nepriklausomi kunigaikščiai gaudavo karaliaus titulą^57.
@@ -660,7 +685,8 @@ media_all_json: |-
 - id: c-32169
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 192."
   citata_originali: |
     Paliauboms pasibaigus, jie puolė Kuršą. Kai
     narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su
@@ -679,7 +705,8 @@ media_all_json: |-
 - id: c-43547
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 26."
   citata_originali: |
     Mindaugo - „Lietuvos galingo karaliaus“
     pajėgos įsiveržė į Kuršą, su piliadaužė-
@@ -700,7 +727,8 @@ media_all_json: |-
 - id: c-43548
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Magistras dar balandį prašė Švitrigailos
     kartu su Livonija, Podole, Valakija-Mol-
@@ -722,7 +750,8 @@ media_all_json: |-
 - id: c-43549
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 71."
   citata_originali: |
     Kita vertus, svarbu, kad ir tragiško-
     mis aplinkybėmis buvo suduotas lemia-
@@ -750,7 +779,8 @@ media_all_json: |-
 - id: c-43551
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 140."
   citata_originali: |
     Šios Sapiegų kariuomenės
     dalies gynyba neleido respubliko-
@@ -779,7 +809,8 @@ media_all_json: |-
 - id: c-43552
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 142."
   citata_originali: |
     Šiaurės karas
 
@@ -800,7 +831,8 @@ media_all_json: |-
 - id: c-86536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53-54"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53-54."
   citata_originali: |
     172) Dusburgiečio tekste kalbama
 
@@ -815,13 +847,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-012
 
 - id: c-86538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Vysla — tai upė, atitekanti nuo
     Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
@@ -832,14 +864,17 @@ media_all_json: |-
   citata_rodoma: "Vysla — tai upė, atitekanti nuo\nKrokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją\nbei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,\no prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,\nLietuvos ir Kuršo187.\n  1236 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-86539
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 111-112"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111-112."
   citata_originali: |
     Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
                                              nių
@@ -869,13 +904,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-008
 
 - id: c-86541
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 122."
   citata_originali: |
     Iš XI-XII amž. danų šaltinių (Genealogia regum
     Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai
@@ -894,7 +929,8 @@ media_all_json: |-
 - id: c-86542
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 131."
   citata_originali: |
     Tai nebuvo
     monolitinės stovyklos, nes rasdavosi įvairių tranzitinių grupelių ir iš kitų
@@ -917,7 +953,8 @@ media_all_json: |-
 - id: c-167177
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 142."
   citata_originali: |
     Šios šalys konkuravo ir net kovojo
     tarpusavyje, bet jas vienijo vis didėjantis interesas „pasistiprinti“
@@ -938,7 +975,8 @@ media_all_json: |-
 - id: c-168359
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 104."
   citata_originali: |
     105
 
@@ -965,7 +1003,8 @@ media_all_json: |-
 - id: c-168360
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 104."
   citata_originali: |
     Ka­
     dangi miestą gynė rinktinių karių įgula, apsuptis
@@ -992,7 +1031,8 @@ media_all_json: |-
 - id: c-175452
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
   citata_originali: |
     Pavergęs slavų kraštą ir pamanęs, jog
     įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
@@ -1020,7 +1060,8 @@ media_all_json: |-
 - id: c-175453
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 285."
   citata_originali: |
     279
     Koryones2, Kuryones, arba kuršiai lietuviškai, Kurr
@@ -1031,14 +1072,17 @@ media_all_json: |-
   citata_rodoma: "279\nKoryones2, Kuryones, arba kuršiai lietuviškai, Kurr\nzemme patys vadina savo kraštą. Nestoras mini Kors,\ntinkamiau Kurs3. Žiloje senovėje Kuršo žemėje gyveno\nkažkokia tauta, vadinama baronais; jie savo gyvenvietes\nįkūrė gerokai už dabartinių šios žemės ribų."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
+
 - id: c-175454
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 286."
   citata_originali: |
     Ksaveras Bogušas1 labai gerai pastebi, kad islandų
     sagose, kur pasakojama apie chorų, arba churų, tautą,
@@ -1058,14 +1102,14 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
     - t-020
     - t-026
 
 - id: c-175455
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 286."
   citata_originali: |
     Taip pat Bogušas daro klaidingą prielaidą, kad tai
     turėjusi būti Palanga; mes viename iš artimiausių straips­
@@ -1086,7 +1130,8 @@ media_all_json: |-
 - id: c-177129
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
   citata_originali: |
     Ten pagarsėjo nuolatinėmis kovomis su kryžiuo­
     čiais ir Livonijos riteriais, buvo jų triuškintojas didelei krašto
@@ -1105,7 +1150,8 @@ media_all_json: |-
 - id: c-178851
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 87."
   citata_originali: |
     Tie patys
     ri­

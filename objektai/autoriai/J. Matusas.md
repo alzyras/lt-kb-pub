@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f544ac692ebf062db6d3d560"
+canonical_name: "J. Matusas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Matusas"]
+sameAs: []
+canonical_biography: "Matusas, laikydamas jį pirmutiniu ir iš esmės ini XIX amž. vieninteliu Lietuvos istoriku 24 . Matusas : Albertas Vijukas-Kojalavičius kaip Lietuvos istorininkas, Praeitis, 1, 1930, 323 ; J."
 ---
 # J. Matusas
 
@@ -77,7 +84,8 @@ Matusas, laikydamas jį pirmutiniu ir iš esmės ini XIX amž. vieninteliu Lietu
 - id: c-30577
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 54."
   citata_originali: |
     O paskui atsirado ne mažiau kritikų (pvz., I. Danilavičins, Ign.
     Kraševskis). Jų tarpe buvo ir S. Daukantas. Iš lietuvių istorikų
@@ -95,7 +103,8 @@ Matusas, laikydamas jį pirmutiniu ir iš esmės ini XIX amž. vieninteliu Lietu
 - id: c-32974
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 54-55"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 54-55."
   citata_originali: |
     Vijukas Kojalavičius ir XVIII amž. A. Schlö-
     zeris.**

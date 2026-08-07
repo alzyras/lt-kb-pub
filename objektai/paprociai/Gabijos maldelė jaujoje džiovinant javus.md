@@ -74,7 +74,8 @@ Nenurodyta.
 - id: c-170786
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 100."
   citata_originali: |
     Lasickis pažįstąjį Gabijos (Gabie) vardu ir pateikia tokių
     duomenų apie jį: „Kai vasara Šlapia ir sunku išdžiovinti javus

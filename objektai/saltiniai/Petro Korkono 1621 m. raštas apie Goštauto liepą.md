@@ -60,7 +60,8 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
 - id: c-84441
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 45-46."
   citata_originali: |
     Petro, vardui pašventė. Čia pirmiau­
     sia mūsų lietuvių tauta Dievui nu­

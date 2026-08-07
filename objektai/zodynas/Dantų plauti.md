@@ -56,12 +56,13 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
 <a id="claim-t-195634"></a>
 - t-001
   teiginys: "„Dantų plauti“ šiame šaltinyje atliekama lėtai ir mažais būreliais."
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-178037
+    - c-185989
 
 ## Citatos
 
@@ -91,7 +92,31 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
     Ši pareiga daroma lėtai ir ramiai, mažais būreliais, po du po tris žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima.
   citata_rodoma: "Ši pareiga daroma lėtai ir ramiai, mažais būreliais, po du po tris žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima."
   statusas: verified
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-07-29 11:11"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-185989
+  autoriai: "A. Sabaliauskas; M. Katkus"
+  šaltinis: "Mūsų tautosaka, t.4 (1931)"
+  indeksas: "A. Sabaliauskas, M. Katkus, Mūsų tautosaka, t.4 (1931)."
+  citata_originali: |
+    Eina „dantų plauti“ . Ši pa­
+    reiga daroma lėtai ir
+    ramiai,
+    mažais
+    būreliais,
+    po
+    du
+    po
+    tris
+    žmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima. Kiti va­
+    žiuodavo tą dieną į bažnyčią mišių klausyti, pelenais galvos barstyti,
+    bet kitiems proga ir dantis plauti.
+  citata_rodoma: "Eina „dantų plauti“ . Ši pa­\nreiga daroma lėtai ir \nramiai, \nmažais \nbūreliais, \npo \ndu \npo \ntris \nžmones, nes šventai gavėniai užėjus, rėkauti, ūžti negalima. Kiti va­\nžiuodavo tą dieną į bažnyčią mišių klausyti, pelenais galvos barstyti, \nbet kitiems proga ir dantis plauti."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

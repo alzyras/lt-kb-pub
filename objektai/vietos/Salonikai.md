@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-97c51da2f5e678d79e3f4dcf"
+canonical_name: "Salonikai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Salonikai"]
+sameAs: []
+canonical_biography: "sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londono, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado)."
+place_authority: true
+historical_names: []
 ---
 # Salonikai
 
@@ -50,7 +59,8 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 - id: c-24472
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 84."
   citata_originali: |
     Tačiau kartu litvakais imta vadinti žydus, kuriems
     būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo.

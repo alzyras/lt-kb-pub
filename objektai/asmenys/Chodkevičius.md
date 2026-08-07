@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-62d15c50cefd4678065ea3cc"
+canonical_name: "Chodkevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Chodkevičius"]
+sameAs: []
+canonical_biography: "Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 d. Ketleris atvyko padėti Chodkevičiui."
 ---
 # Chodkevičius
 
@@ -66,7 +73,8 @@ Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 
 - id: c-174262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
   citata_originali: |
     278
 

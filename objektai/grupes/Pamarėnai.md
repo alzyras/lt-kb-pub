@@ -42,16 +42,24 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 <a id="claim-t-63188"></a>
 - t-001
   teiginys: "Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Jotvingiai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pamarėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Jotvingiai tiesiogiai įvardyti prisidėję prie pamarėnų-prūsų sąjungos."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pamarėnai buvo sąjungininkas su Jotvingiai (0.86)"
   temporaliniai_duomenys: "įvykio data: 1245 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-64178
+    - c-64179
 
 <a id="claim-t-63189"></a>
 - t-002
@@ -78,7 +86,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - id: c-64178
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
     ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
@@ -96,13 +105,13 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-64179
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Kryžiuočiai patyrė pirmą nuo pat
     atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
@@ -111,7 +120,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   citata_rodoma: "Kryžiuočiai patyrė pirmą nuo pat\natsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

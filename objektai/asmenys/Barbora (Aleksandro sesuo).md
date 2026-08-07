@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5cd2cc80bbbe9fdbb062195"
+canonical_name: "Barbora (Aleksandro sesuo)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Barbora (Aleksandro sesuo)"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Barbora (Aleksandro sesuo)
 

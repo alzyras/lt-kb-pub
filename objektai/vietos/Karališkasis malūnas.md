@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e42ad1e06e2372638745966c"
+canonical_name: "Karališkasis malūnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karališkasis malūnas"]
+sameAs: []
+canonical_biography: "225 ## Puslapis 242 VILNIAUS MIESTO ISTORIJA II TOMAS nusidriekęs palei Vilnios upę prie Karališkojo malūno."
+place_authority: true
+historical_names: []
 ---
 # Karališkasis malūnas
 
@@ -63,7 +72,8 @@ media_all_json: |-
 - id: c-82276
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 241-242"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 241-242."
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
     tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­

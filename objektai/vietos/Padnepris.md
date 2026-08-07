@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-89b76c6a103c0d2b7e1492f3"
+canonical_name: "Padnepris"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Padnepris"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad senieji Padneprio ir Pavyslio gyventojai pildavo milžinkapius."
+place_authority: true
+historical_names: []
 ---
 # Padnepris
 
@@ -54,7 +63,8 @@ Narbutas rašė, kad senieji Padneprio ir Pavyslio gyventojai pildavo milžinkap
 - id: c-171926
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
   citata_originali: |
     Iš istorijos žinome, kad kartais panašiai
     darydavo romėnai. Kad Pavyslio, Padneprio senieji gyventojai

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-da227bdfc78665ccbf0ee274"
+canonical_name: "Petkun’, P"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Petkun’, P"]
+sameAs: []
+canonical_biography: "— Petkun’, P."
 ---
 # Petkun’, P
 
@@ -40,7 +47,8 @@ media_all_json: |-
 - id: c-33104
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 331"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 331."
   citata_originali: |
     — Osten-Sacken,
     P. von : _Livländisch-russische Beziehungen während der Regierungszeit

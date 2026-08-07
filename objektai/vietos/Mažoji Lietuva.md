@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a45f001afaab7c25bd9cba85"
+canonical_name: "Mažoji Lietuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mažoji Lietuva"]
+sameAs: []
+canonical_biography: "Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius. Tuo pat metu protestantizmas labai uoliai buvo platinamas ir Mažojoje Lietuvoje. Lietuviškai protestantizmas tebuvo skelbiamas žmonių, atėjusių iš Mažosios Lietuvos; bet tas judėjimas buvo labai silpnas ir trumpas."
+place_authority: true
+historical_names: []
 ---
 # Mažoji Lietuva
 
@@ -62,7 +71,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 <a id="claim-t-180286"></a>
 - t-002
   teiginys: "Mažojoje Lietuvoje lietuviškos raštijos buvo kur kas daugiau negu pačioje Lietuvoje."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -247,7 +256,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 <a id="claim-t-193648"></a>
 - t-013
   teiginys: "Paradoksas – svetima valstybė, o lietuviškos raštijos kur kas daugiau nei pačioje Lietuvoje."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -261,7 +270,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - id: c-24298
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 267."
   citata_originali: |
     Lietuviškai protestantizmas tebuvo
     skelbiamas žmonių, atėjusių iš Mažosios Lietuvos; bet tas judė-
@@ -280,7 +290,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - id: c-163912
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 130."
   citata_originali: |
     KOVA DĖL NEPRIKLAUSOMYBĖS
     Lietuvos planai: nuo autonomijos
@@ -311,7 +322,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - id: c-163913
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 15-16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 15-16."
   citata_originali: |
     Šalia istorinės Lietuvos (buvusios LDK)
     sampratos vis stiprėjo modernioji, Lietuvos vardą siejanti su lietuvių kal-
@@ -334,7 +346,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - id: c-163914
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 15."
   citata_originali: |
     Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau
     pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradė-
@@ -356,7 +369,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - id: c-163915
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 121."
   citata_originali: |
     jas, atspindėjusias socialistines ir krikščionių demokratų idėjas (pirmasis
     vietos lietuviškas laikraštis JAV išėjo 1879 m.), plėtojosi meno saviveikla,
@@ -383,7 +397,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - id: c-163917
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 15."
   citata_originali: |
     Į dykra paverstas jotvingių,
     skalvių, nadruvių žemes iš Lietuvos XV a. pradėjo grįžti šių genčių pali-
@@ -407,7 +422,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - id: c-163918
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 151."
   citata_originali: |
     TAUTOS TAPSMAS
     Lietuva įgyja jūrų uostą –
@@ -431,7 +447,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - id: c-163921
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 148."
   citata_originali: |
     Į Steigiamąjį Seimą buvo išrinktos ir penkios moterys. Tad
     iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje
@@ -450,7 +467,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - id: c-163923
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 15."
   citata_originali: |
     Lietu-
     vos vardas įgijo naujų prasmių. Šalia istorinės Lietuvos (buvusios LDK)
@@ -470,7 +488,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - id: c-163927
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 148."
   citata_originali: |
     Vasario 16 Aktas, skelbė,
     kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
@@ -493,7 +512,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - id: c-166444
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 198."
   citata_originali: |
     Nors ir merdėdamas, ordinas
 
@@ -513,7 +533,8 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 - id: c-167011
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 148."
   citata_originali: |
     Tad
     iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje

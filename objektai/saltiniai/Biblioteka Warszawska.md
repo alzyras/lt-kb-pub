@@ -60,7 +60,8 @@ media_all_json: |-
 - id: c-84388
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     Neturėdamas pakankamai pragy­
     venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą. Šie vie­

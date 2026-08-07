@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e3abe1d160184daca511d854"
+canonical_name: "Dželad-Eddinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dželad-Eddinas"]
+sameAs: []
+canonical_biography: "Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 met., kada įsiviešpatavo Dželad-Eddinas, nė vienas jų, kaip sako „Vytauto panegirika”^4 ), „niekad nedrįso galingajam gaspadoriui pasipriešinti“."
 ---
 # Dželad-Eddinas
 
@@ -85,7 +92,8 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 299."
   citata_originali: |
     Nuolat remdamas juos per 30 me­
     tų jis sulaukė totorių tarpe sau visiškai paklusnių „saarų“. Dėl

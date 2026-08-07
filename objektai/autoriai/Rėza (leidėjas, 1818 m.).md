@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-57bebf02081296a574c3e5cf"
+canonical_name: "Rėza (leidėjas, 1818 m.)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Rėza (leidėjas, 1818 m.)"]
+sameAs: []
+canonical_biography: "Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darbai Duonelaičio raštai, dainų rinkinys ir kiti darbai."
 ---
 # Rėza (leidėjas, 1818 m.)
 
@@ -167,7 +174,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 - id: c-13629
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 632"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 632."
   citata_originali: |
     Tuo būdu parapijos paveldėjamuoju keliu
     einančios iš tėvų į vaikus. Todėl, esą, negalima parinkti nė tin-
@@ -187,7 +195,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 - id: c-171360
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Iškiliojoje pusėje panaši žymė kaip III
     lentelės 9-ajame piešinyje, tik prie jos kitokie ženklai ir dau­
@@ -209,7 +218,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 - id: c-171361
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 323."
   citata_originali: |
     Praėjusius metus žy­
     mėdavo mazgeliais, įpjovomis arba ženklais šventyklose,
@@ -230,7 +240,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 - id: c-171362
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 431"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
   citata_originali: |
     Jau ir šiaip žinome, ir anksčiau sakėme, kad
     kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
@@ -258,7 +269,8 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 - id: c-177069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     Valdant Žygimantui Augus­
     tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-

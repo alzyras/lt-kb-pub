@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3404addeeea0f11c34a21b21"
+canonical_name: "Mohilna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mohilna"]
+sameAs: []
+canonical_biography: "Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo prieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie Mohilnos (Nemuno aukštupio dabartinėje Gudijoje)."
+place_authority: true
+historical_names: []
 ---
 # Mohilna
 
@@ -58,7 +67,8 @@ Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kroniko
 - id: c-33955
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 189."
   citata_originali: |
     (^182) II SKYRIUS: VALSTYBĖS IŠKILIMAS
     krūvos. Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas

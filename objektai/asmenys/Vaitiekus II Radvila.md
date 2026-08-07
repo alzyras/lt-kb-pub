@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-55ded17fae25001ec78783d7"
+canonical_name: "Vaitiekus II Radvila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaitiekus II Radvila"]
+sameAs: []
+canonical_biography: "Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino 1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų."
 ---
 # Vaitiekus II Radvila
 
@@ -63,7 +70,8 @@ Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos ir Nesvyžiaus kunigaik�
 - id: c-83852
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     Mirė 1507 metais.
     11. Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos

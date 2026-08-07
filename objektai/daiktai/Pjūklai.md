@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-60333
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
   citata_originali: |
     Apie dievo kerštą
 

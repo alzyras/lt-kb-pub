@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b1a0a32550dd01ea6cee218"
+canonical_name: "Vladislovas (karalius, Kazimiero brolis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladislovas (karalius, Kazimiero brolis)"]
+sameAs: []
+canonical_biography: "Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu. Vengrijos karalius Vladislovas pradėjo karą ir patyrė pralaimėjimą Varnos mūšyje. Kazimierui buvo pasiūlyta užimti brolio Vladislovo karaliaus sostą."
 ---
 # Vladislovas (karalius, Kazimiero brolis)
 
@@ -123,7 +130,8 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
 - id: c-169382
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 466"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
   citata_originali: |
     Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
     gimine ir sąjungą su lenkais. Manvydas susitarė su
@@ -146,7 +154,8 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
 - id: c-169384
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 479"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 479."
   citata_originali: |
     Mat lenkai
     m a s
@@ -181,7 +190,8 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
 - id: c-169385
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 480-481"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 480-481."
   citata_originali: |
     Zbignevui, Kro­
     kuvos vyskupui, pakišus mintį, visi, rodydami nepa­

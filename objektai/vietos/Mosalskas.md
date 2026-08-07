@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ca5a28846bad8c042295b705"
+canonical_name: "Mosalskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mosalskas"]
+sameAs: []
+canonical_biography: "Mosalskas minimas Aleksandro 1492.IX.27 instrukcijoje tarp papildomai nurodytų vietų. Mosalskas lokalizuojamas apie 100 km į vakarus nuo Kalugos."
+place_authority: true
+historical_names: []
 ---
 # Mosalskas
 

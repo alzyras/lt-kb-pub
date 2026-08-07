@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f55516f5681d6d59385e41dd"
+canonical_name: "Ditrichas (Sembos fogtas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas (Sembos fogtas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį. Dusburgietis teigia, kad 217 Fogtu buvo 1278—1292 m. 218 D. Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį."
 ---
 # Ditrichas (Sembos fogtas)
 
@@ -79,7 +86,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 <a id="claim-t-59835"></a>
 - t-003
   teiginys: "Sembos fogtas Ditrichas su kariuomene užpuolė Ramijos pilį, tą pačią dieną į ją įsiveržė ir sugriovė."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Nemunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -90,7 +97,6 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ditrichas (Sembos fogtas)\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60467
     - c-167437
 
 <a id="claim-t-59836"></a>
@@ -235,7 +241,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 - id: c-60465
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 71."
   citata_originali: |
     Apie vieną stebuklą
 
@@ -256,7 +263,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 - id: c-60466
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174."
   citata_originali: |
     227 (222). Apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama
     1286 viešpaties metais brolis Ditrichas, Sembos fogtas, galėjo taip sakyti, kaip
@@ -278,7 +286,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 - id: c-60467
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
     Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir
@@ -292,13 +301,13 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-006
 
 - id: c-60469
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 71."
   citata_originali: |
     217  Fogtu buvo 1278—1292 m.
     218  D. minima (apie 1231 m.) castrum dictum Rogow (plg. pr. ragis, lie. ragas resp.
@@ -315,7 +324,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 - id: c-60470
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
 
@@ -336,7 +346,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 - id: c-60471
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
   citata_originali: |
     190 (185). Apie daugybės pagudėnų išžudymą
     Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
@@ -354,7 +365,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 - id: c-60472
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 173."
   citata_originali: |
     Apie bartų sugrįžimą ir daugybės lietuvių žūtį
     Kai broliai rengėsi pulti anksčiau minėtąją Gardino pilį, kurie ne kurie bartai,
@@ -379,7 +391,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 - id: c-167437
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 156."
   citata_originali: |
     Apie Ramijos pilies užkariavimą
 

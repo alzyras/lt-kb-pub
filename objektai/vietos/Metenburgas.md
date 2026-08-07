@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a18c7800648acfec5766a851"
+canonical_name: "Metenburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Metenburgas"]
+sameAs: []
+canonical_biography: "Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­ talpintos kryžiuočių įgulos."
+place_authority: true
+historical_names: []
 ---
 # Metenburgas
 
@@ -52,7 +61,8 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 65."
   citata_originali: |
     Matydamas Vytauto pastangas neinant veltui, Ordinas ma­
     tė reikalą taip pat išplėsti Lietuvos pasienyje akciją. Dar

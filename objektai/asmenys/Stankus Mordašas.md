@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e884de4e11cc8a4daad67c73"
+canonical_name: "Stankus Mordašas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stankus Mordašas"]
+sameAs: []
+canonical_biography: "Štai 1463-1467 m. Kauno seniūnu buvęs bajoras Stankus Mordašas dovanojo parapinės bažnyčios altoriui Biliariškių dvarą Kauno paviete."
 ---
 # Stankus Mordašas
 
@@ -50,9 +57,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185481
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 117"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 117."
   citata_originali: |
     Yra žinių apie stambesnius
     dovanojimus bažnyčiai. Štai 1463-1467 m. Kauno seniūnu buvęs bajoras Stankus

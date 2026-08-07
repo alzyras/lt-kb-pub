@@ -60,7 +60,8 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
 - id: c-176031
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 76."
   citata_originali: |
     Tuo būdu jis norėjo ten sudaryti
     tvirtesnę atsparą prieš Voluinės kunigaikštystę, su kuria Trai-
@@ -77,9 +78,9 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
     - t-001
 
 - id: c-184271
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 431"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 431."
   citata_originali: |
     Nuo vokyčių kunigų diduomenės nė to tiek nebga­
     lėjo beviltis, kuri, skaugėdama vyresnybės, peikė

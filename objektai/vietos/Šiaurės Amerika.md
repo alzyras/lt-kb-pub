@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0af67f0d9cdc2a661985039d"
+canonical_name: "Šiaurės Amerika"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šiaurės Amerika"]
+sameAs: []
+canonical_biography: "Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi šelpti nukentėjusią tėvynę ir reikalavo iš pradžių autonomijos, o vėliau ir nepriklausomybės. Komiteto įgaliotiniai, nusiųsti į Šiaurės Ameriką, paskatino ten lietuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė."
+place_authority: true
+historical_names: []
 ---
 # Šiaurės Amerika
 
@@ -59,7 +68,8 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
 - id: c-47210
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 554"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 554."
   citata_originali: |
     **4. Lietuvių veikla Amerikoj, Šveicarijoj ir kitur**
 

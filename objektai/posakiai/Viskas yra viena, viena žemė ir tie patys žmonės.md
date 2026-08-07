@@ -105,7 +105,8 @@ media_all_json: |-
 - id: c-55403
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 31."
   citata_originali: |
     Tai reiškia:
     „Žemaitijos žemė yra ir visada bu­
@@ -135,7 +136,8 @@ media_all_json: |-
 - id: c-55404
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 362"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 362."
   citata_originali: |
     Pus­
     broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­

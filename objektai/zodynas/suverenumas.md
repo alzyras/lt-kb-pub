@@ -60,7 +60,8 @@ Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių 
 - id: c-34177
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 41."
   citata_originali: |
     Tada
     Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė

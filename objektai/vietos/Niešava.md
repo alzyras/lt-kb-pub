@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a8af1a8c94b800a2d5f41b4c"
+canonical_name: "Niešava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Niešava"]
+sameAs: []
+canonical_biography: "Čia jie gavo iš Konrado žemių su Niešavos pilaite, o patys pasistatė Fogelzango pilį."
+place_authority: true
+historical_names: []
 ---
 # Niešava
 
@@ -80,7 +89,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 267."
   citata_originali: |
     Tiktai po Melno taikos, prasidėjus geriems Vytauto
     santykiams su magistru Russdorfu, nebepasitaikė daugiau su­
@@ -103,7 +113,8 @@ media_all_json: |-
 - id: c-68309
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 59."
   citata_originali: |
     1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
     Čia jie gavo iš Konrado

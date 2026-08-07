@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e178877e3a5ba30b9f59ead1"
+canonical_name: "Jonas Čičinis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Čičinis"]
+sameAs: []
+canonical_biography: "Štai 1544 m. Povilas Kosis už 40 grašių parsisamdė Jonui Čičiniui privežti akmenų grindiniui."
 ---
 # Jonas Čičinis
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185459
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 378"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 378."
   citata_originali: |
     Kauno miesto savivaldos institucijų akttĮ knygose pasitaiko ir daugiau ži-
     nių apie Kaune vykdomus gatvių grindimo darbus. Štai 1544 m. Povilas Kosis už 40

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7def7f4a808c30ebad5a0f12"
+canonical_name: "Tauro Gedimino kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tauro Gedimino kalnas"]
+sameAs: []
+canonical_biography: "Aukštutinė pilis ant Tauro kalno. • — 201 Gedimino (vert."
+place_authority: true
+historical_names: []
 ---
 # Tauro Gedimino kalnas
 
@@ -57,7 +66,8 @@ Aukštutinė pilis ant Tauro kalno. • — 201 Gedimino (vert.
 - id: c-82086
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 215-217"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 215-217."
   citata_originali: |
     Šio reikalo paliudijimui
     ir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­

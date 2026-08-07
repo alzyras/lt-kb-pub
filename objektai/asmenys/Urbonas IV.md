@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-36afcf232a6c41a06571230c"
+canonical_name: "Urbonas IV"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Urbonas IV"]
+sameAs: []
+canonical_biography: "1261 m. popiežius Urbonas IV įsteigė Kristaus kūno šventę. 1263 m. popiežius Urbonas IV atidavė Sicilijos karalystę Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui. 1261 m. popiežius Urbonas IV įsteigė Kristaus kūno šventę."
 ---
 # Urbonas IV
 
@@ -96,7 +103,8 @@ media_all_json: |-
 - id: c-60848
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 234."
   citata_originali: |
     46. Apie Sicilijos karalystės dovanojimą Karoliui
 
@@ -115,7 +123,8 @@ media_all_json: |-
 - id: c-60849
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 234."
   citata_originali: |
     Apie Kristaus kūno šventės įsteigimą
 
@@ -138,7 +147,8 @@ media_all_json: |-
 - id: c-168211
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 302-303"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 302-303."
   citata_originali: |
     Smarkiai su­
     stiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių

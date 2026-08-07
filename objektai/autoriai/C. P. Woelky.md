@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-45cba71c5cb6389ad626cb59"
+canonical_name: "C. P. Woelky"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["C. P. Woelky"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad woelky."
 ---
 # C. P. Woelky
 
@@ -58,7 +65,8 @@ Dusburgietis teigia, kad woelky.
 - id: c-61314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Urkundenbuch des Bisthums Culm / Bearbeitet von C. P. Woelky. Bd. 1. Theil 1.—
     Danzig, 1887.

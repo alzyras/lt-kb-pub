@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-897f2adcd931609bfbe86565"
+canonical_name: "Kotzebue"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kotzebue"]
+sameAs: []
+canonical_biography: "Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas."
 ---
 # Kotzebue
 
@@ -63,7 +70,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
 - id: c-84051
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 37."
   citata_originali: |
     Nė kiek nenorėdami su­
     menkinti nepaprastai svarbaus ir
@@ -90,9 +98,9 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
     - t-001
 
 - id: c-184297
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 552"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 552."
   citata_originali: |
     Gediminas, didindamas dar kraitį savo dukters,
     pažadėjo ūkvaizdžiams 40 000 lenkų kalinių, Lietu­

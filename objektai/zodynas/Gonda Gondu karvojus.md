@@ -60,7 +60,8 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
 - id: c-172112
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
   citata_originali: |
     143
 
@@ -84,7 +85,8 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
 - id: c-172113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
   citata_originali: |
     Tokia
     figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­

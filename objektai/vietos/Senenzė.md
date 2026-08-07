@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0c7ed02f86beec3d20b1bec6"
+canonical_name: "Senenzė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Senenzė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu jie bematant. Dusburgietis teigia, kad 444 D.— Schonense, Jer.— Schônensê; vėliau — Schönsee ir pan., dab. Kowalewo Pomorskie, gyvenvietė Kulmo žemėje į šiaurės rytus nuo Torunės (SZCh, p. 59). Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, Šenbergas Šenenzė (Schonense, vėliau Schönsee, dab. Kowalewo Pomorskie) Šereitlaukis, Šereiklaukis Šernupė, u."
+place_authority: true
+historical_names: []
 ---
 # Senenzė
 
@@ -53,7 +62,8 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
 - id: c-64337
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
   citata_originali: |
     444 D.— Schonense, Jer.— Schônensê; vėliau — Schönsee ir pan., dab. Kowalewo
     Pomorskie, gyvenvietė Kulmo žemėje į šiaurės rytus nuo Torunės (SZCh, p. 59).
@@ -67,7 +77,8 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
 - id: c-64338
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
   citata_originali: |
     165 (160). Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
     Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e7f7b43d2f2d3ead5052acc1"
+canonical_name: "Mykolas Goštautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Goštautas"]
+sameAs: []
+canonical_biography: "Mykolas Goštautas užpuolė priešą ir jį sumušė."
 ---
 # Mykolas Goštautas
 
@@ -47,7 +54,8 @@ Mykolas Goštautas užpuolė priešą ir jį sumušė.
 - id: c-169513
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 607"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 607."
   citata_originali: |
     Mat Krymo
     skitai, padaliję savo kariuo-

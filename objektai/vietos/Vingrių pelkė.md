@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f0719acdefe2c603088a62ec"
+canonical_name: "Vingrių pelkė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vingrių pelkė"]
+sameAs: []
+canonical_biography: "Goštautas pakvietė vienuolius į Vilnių, paskyrė jiems vietą netoli Vingrių pelkės ir žadėjo ten pastatyti šv. Mergelės Marijos bažnyčią. Goštautas pakvietė vienuolių būrį į Vilnių, paskyrė jiems vietą netoli Vingrių pelkės ir žadėjo ten pastatyti šv. Mergelės Marijos bažnyčią."
+place_authority: true
+historical_names: []
 ---
 # Vingrių pelkė
 
@@ -67,7 +76,8 @@ Goštautas pakvietė vienuolius į Vilnių, paskyrė jiems vietą netoli Vingri�
 - id: c-168679
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 226."
   citata_originali: |
     Be to, paskelbtas įstatymas, leidžian­
     tis ilgainiui krikščionims netrukdomiems viešose ir už­

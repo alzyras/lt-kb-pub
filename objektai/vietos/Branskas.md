@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab989a19e61b6cc90f478915"
+canonical_name: "Branskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Branskas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Branskas
 

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f1b0ff37a8ae02f432d45a8e"
+canonical_name: "Karolis Didysis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis Didysis"]
+sameAs: []
+canonical_biography: "Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta Europa, siekusi Elbę."
 ---
 # Karolis Didysis
 
@@ -49,7 +56,8 @@ Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių 
 - id: c-75367
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 30."
   citata_originali: |
     Tai nėra
     visai teisinga. Vakarų Europa – tai tik Viduramžių Europos dalis, šiandien

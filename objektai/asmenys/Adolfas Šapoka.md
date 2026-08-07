@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cef027019de8253cb31dc556"
+canonical_name: "Adolfas Šapoka"
+entity_roles: ["author","person"]
+entity_view_role: "person"
+entity_aliases: ["Adolfas Šapoka"]
+sameAs: []
+canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
 ---
 # Adolfas Šapoka
 
@@ -67,7 +74,8 @@ media_all_json: |-
 - id: c-176364
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 9."
   citata_originali: |
     Kartais juos
     inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty-
@@ -88,7 +96,8 @@ media_all_json: |-
 - id: c-176365
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 9-10"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 9-10."
   citata_originali: |
     Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
     zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-

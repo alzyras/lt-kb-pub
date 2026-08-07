@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2f2af2c76f01d6c4083cdda"
+canonical_name: "Abraomas Kulvietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Abrahamum","Abrahamum de Culva","Abraomas iš Kulvos","Abraomas Kulvietis","Abraomo","Kulvietis"]
+sameAs: []
+canonical_biography: "Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos daktaras, iš Vokietijos atvykęs į Vilnių. Jis siejamas su Liuterio religinių nuomonių skleidimu, mokyklos įsteigimu ir 1542 m. valdžios bei Vilniaus vyskupo Povilo inicijuotu teisiniu persekiojimu."
 ---
 # Abraomas Kulvietis
 
@@ -95,7 +102,8 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 - id: c-165096
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 297-298"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 297-298."
   citata_originali: |
     Petras Roizijus,
     281
@@ -126,7 +134,8 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 - id: c-165097
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 298."
   citata_originali: |
     Kai po trejų
     metų senajam tikėjimui priešingos užuomazgos pradėjo įžū­

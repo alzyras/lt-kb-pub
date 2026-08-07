@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4abbfd9ee2bf2edac8a1dfe3"
+canonical_name: "A. Plateris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Plateris"]
+sameAs: []
+canonical_biography: "Plateris : Janulaitis mokslininkas , LE 9 t., 293 p. 62 ĮVADAS Bažnyčios istorijos, kurią jis skaitė Teologijos-Filosofijos fakulteto Teologijos skyriuje po Aleknos mirties (1930), visą laiką iki to fakulteto uždarymo (1940 m."
 ---
 # A. Plateris
 
@@ -61,7 +68,8 @@ Plateris : Janulaitis mokslininkas , LE 9 t., 293 p. 62 ĮVADAS Bažnyčios isto
 - id: c-32881
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 69."
   citata_originali: |
     (^82) **V. Trumpa:** **_Jonynas I_** **., LE 9 t., 478 p.**
     (^83) **A. Plateris :** **_Janulaitis mokslininkas_** **, LE 9 t., 293 p.**

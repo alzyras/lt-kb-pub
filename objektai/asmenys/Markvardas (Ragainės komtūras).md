@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4af1ee09ad3b4e0a42d5c6fa"
+canonical_name: "Markvardas (Ragainės komtūras)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Markvardas (Ragainės komtūras)"]
+sameAs: []
+canonical_biography: "Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komtūro Markvardo."
 ---
 # Markvardas (Ragainės komtūras)
 
@@ -51,7 +58,8 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
 - id: c-41404
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Pagrindinė Vytauto kariuomenė iš
     Vilniaus išvyko apie gegužės 18 d. Vytautas

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-310b43713be7b2fa14ac22a7"
+canonical_name: "Henrikas Rutėnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Rutėnas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje."
 ---
 # Henrikas Rutėnas
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - id: c-60950
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     321 (314). Dar apie tą patį
     Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,

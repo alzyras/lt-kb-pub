@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5448e986a23e974286f0d364"
+canonical_name: "Martynas Smigleckis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Martynas Smigleckis","Martyno Smigleckio"]
+sameAs: []
+canonical_biography: "Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip Vilniaus universiteto profesorių veikalų poveikio Europai pavyzdį."
 ---
 # Martynas Smigleckis
 
@@ -131,7 +138,8 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 - id: c-22169
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 81."
   citata_originali: |
     fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-
     kymo principus ir didelius reikalavimus, intensyvaus mokymo sistemą, o
@@ -157,7 +165,8 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 - id: c-98293
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 304."
   citata_originali: |
     7-as leidimas, Krokuvoje, pas
     Andžejų Piotrkovčiką, 1640, in 4to.
@@ -185,7 +194,8 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 - id: c-98295
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 304."
   citata_originali: |
     Žr. VII priedą.
     55
@@ -213,7 +223,8 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 - id: c-98297
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 304."
   citata_originali: |
     Nagrinėdamas geras ir blogas priva­
     čios prekybos arba monopolio pu­

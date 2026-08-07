@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6d9f20549fbe3041a13d12fd"
+canonical_name: "Aleksandras Podemanskas-Šarūnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Podemanskas-Šarūnas"]
+sameAs: []
+canonical_biography: "“ Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos kariuomenės ulonų puskarininkio Jono NeifaltoLakūno ir jam talkinančio Aleksandro Podemansko - Šarūno."
 ---
 # Aleksandras Podemanskas-Šarūnas
 
@@ -51,7 +58,8 @@ media_all_json: |-
 - id: c-76038
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 226."
   citata_originali: |
     Tuo būdu laimėta, kad ir
     didžiausi bolševikų padlaižiai neišdrįsdavo imtis nenaudingos gyventojams ir pražūtingos

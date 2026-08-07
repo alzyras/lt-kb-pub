@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-99c4ce3ee438f7e551471c61"
+canonical_name: "K. Pakštas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Pakštas"]
+sameAs: []
+canonical_biography: "— Pakštas, K. Pakštas, K."
 ---
 # K. Pakštas
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-32997
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 135."
   citata_originali: |
     — Moora, H. : _O drevnej territorii uaselenija baltij-
     skich piemen,_ Sovetskaja Archeologija, t. 2, 1958, 9-33 p. — Ochmań­

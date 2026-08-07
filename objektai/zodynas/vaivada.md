@@ -47,7 +47,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 <a id="claim-t-12600"></a>
 - t-001
   teiginys: "Unijos akte Jogaila ir Vytautas pažadėjo Vilniuje įsteigti vaivados ir kašteliono pareigybes."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -175,7 +175,8 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 302."
   citata_originali: |
     „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
     lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada
@@ -192,7 +193,8 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - id: c-46936
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 244-245"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 244-245."
   citata_originali: |
     Tik Vilniaus ir Trakų
     sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vieti-
@@ -212,7 +214,8 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 302."
   citata_originali: |
     Jogaila su Vytautu unijos akto 11 § pažadėjo, kad
     „dignitates, sedes et officia, prout in regno Poloniae instituta
@@ -228,7 +231,8 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - id: c-168004
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
   citata_originali: |
     Po to prasidėjo ilgos tarpusavio rietenos, kurias
     nuolat kurstė ir Vytautas, ir
@@ -253,7 +257,8 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - id: c-170482
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 222."
   citata_originali: |
     4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
     kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias

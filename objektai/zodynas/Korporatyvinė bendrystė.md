@@ -32,23 +32,27 @@ media_all_json: |-
 
 Laužiko aiškinimu, gėrimas iš vienos taurės LDK bajorijoje buvo korporatyvinės bendrystės aktas, įgijęs vietos specifikos reikšmių.
 
+## Santrauka
+
+Laužiko aiškinimu, gėrimas iš vienos taurės LDK bajorijoje buvo korporatyvinės bendrystės aktas, įgijęs vietos specifikos reikšmių.
+
 ## Teiginiai
 
 <a id="claim-t-200725"></a>
 - t-001
   teiginys: "Laužiko aiškinimu, gėrimas iš vienos taurės LDK bajorijoje buvo korporatyvinės bendrystės aktas, įgijęs vietos specifikos reikšmių."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Korporatyvinė bendrystė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Korporatyvinė bendrystė\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Korporatyvinė bendrystė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
   vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
@@ -63,6 +67,6 @@ Laužiko aiškinimu, gėrimas iš vienos taurės LDK bajorijoje buvo korporatyvi
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 15."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-001

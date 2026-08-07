@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7b8e8700a1e72f4c7453992"
+canonical_name: "Muchavcas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Muchavcas"]
+sameAs: []
+canonical_biography: "Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką Piną su Bugo intaku Muchavcu."
+place_authority: true
+historical_names: []
 ---
 # Muchavcas
 
@@ -47,7 +56,8 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
 - id: c-176003
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 440."
   citata_originali: |
     Jį iškasė savo lėšomis hetmonas
     Oginskis (todėl jis ir šiandien dar tebevadinamas Oginskio

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba3cc0cff9b9a08e4859b991"
+canonical_name: "Daugavgryvos pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Daugavgryvos pilis","Daugavgryvos pilis (pilis)"]
+sameAs: []
+canonical_biography: "Kai ordinui pa­ vyko Dauguvos žiotyse įsigyti Daugavgryvos (Dünamündės) pilį, rygiečiai ją ėmė šturmuoti (1328.VIL), o pakviesti lietuviai (1329."
+place_authority: true
+historical_names: []
 ---
 # Daugavgryvos pilis (pilis)
 
@@ -60,7 +69,8 @@ Kai ordinui pa­ vyko Dauguvos žiotyse įsigyti Daugavgryvos (Dünamündės) pi
 - id: c-28222
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 240."
   citata_originali: |
     Kai ordinui pa­
     vyko Dauguvos žiotyse įsigyti Daugavgryvos (Dünamündės) pilį,

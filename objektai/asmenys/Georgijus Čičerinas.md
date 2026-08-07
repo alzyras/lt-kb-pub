@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e98eb03dcae3a4cdf9c07e83"
+canonical_name: "Georgijus Čičerinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Georgijus Čičerinas"]
+sameAs: []
+canonical_biography: "Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos interesus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos sienos pažeidimai nepakeitė Maskvos pozicijų dėl Lietuvos teritorinio suverenumo."
 ---
 # Georgijus Čičerinas
 
@@ -41,7 +48,8 @@ Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos interesus Vilniuj
 - id: c-21681
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     Likę vieniši lietuviai
     1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį

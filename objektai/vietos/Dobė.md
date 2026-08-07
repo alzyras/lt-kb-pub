@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-86de1a24ab5783f608674811"
+canonical_name: "Dobė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dobė"]
+sameAs: []
+canonical_biography: "Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti."
+place_authority: true
+historical_names: []
 ---
 # Dobė
 
@@ -62,7 +71,8 @@ Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiem�
 - id: c-33829
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 190."
   citata_originali: |
     Per trumpą laiką (nuo 1253 m.) kryžiuočiai Žemaičiuose ir jų
     pasienyje beveik kasmet turėjo naujų teritorinių laimėjimų ir aplink

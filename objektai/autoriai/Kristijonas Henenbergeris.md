@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-377315e32bc0951e49f7c2a7"
+canonical_name: "Kristijonas Henenbergeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kristijonas Henenbergeris"]
+sameAs: []
+canonical_biography: "Narbutas Henenbergerį priskyrė kronikininkams, citavusiems vyskupo Kristijono kroniką apie senovės Prūsiją. Narbutas Henenbergerį vadina XV a. prūsų kronikininku, nurodžiusiu daugiau jau neegzistuojančių upių šakų. XV am žiaus prūsų kronikininkas Henenbergeris nurodo dar dau giau šiandien jau neegzistuojančių šakų: Akmenės, Szyrwinde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm, Kallamppe, Taszargis, U Imis, Szloda."
 ---
 # Kristijonas Henenbergeris
 
@@ -109,7 +116,8 @@ Narbutas Henenbergerį priskyrė kronikininkams, citavusiems vyskupo Kristijono 
 - id: c-174481
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
   citata_originali: |
     *  ¥  *
     III skyrius
@@ -136,7 +144,8 @@ Narbutas Henenbergerį priskyrė kronikininkams, citavusiems vyskupo Kristijono 
 - id: c-174482
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 220."
   citata_originali: |
     XV am­
     žiaus prūsų kronikininkas Henenbergeris nurodo dar dau­

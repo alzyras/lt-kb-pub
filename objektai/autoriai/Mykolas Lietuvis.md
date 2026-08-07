@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-94483c7ede0153a921be0bb0"
+canonical_name: "Mykolas Lietuvis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mykolas Lietuvis","Mykolo Lietuvio"]
+sameAs: []
+canonical_biography: "Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie totorių, lietuvių ir maskvėnų papročius“; jame Vytauto laikų papročiai priešpriešinami vėlesnei netvarkai, o kalbos permainoms siūloma pereiti prie lotynų."
 ---
 # Mykolas Lietuvis
 
@@ -219,7 +226,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - id: c-157300
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 160."
   citata_originali: |
     Vilnius,
     1966, p. 39.
@@ -246,7 +254,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - id: c-157304
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 159."
   citata_originali: |
     62
     Kaip seniau totoriai garsėjo santū­
@@ -277,7 +286,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - id: c-157305
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 87."
   citata_originali: |
     Kilmingi žuvusieji buvo atvežti ir palai-
     doti Vilniuje. Čia, valdovui grįžus, įvyko
@@ -299,7 +309,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - id: c-157306
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 60."
   citata_originali: |
     Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas for-
     mavosi iškeliant Vytautą ir jo laikus. Jau pirmoji Lietuvos poema, tikras
@@ -324,7 +335,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - id: c-171348
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
   citata_originali: |
     Stenderis savo lat­
     vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
@@ -344,7 +356,8 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - id: c-179132
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 159."
   citata_originali: |
     Taip pat Kaunio vardas labiau už Kūno panašesnis į pa­
     vadinimą miesto, kuris lietuviškai vadinasi Kaunu (Kaunos).

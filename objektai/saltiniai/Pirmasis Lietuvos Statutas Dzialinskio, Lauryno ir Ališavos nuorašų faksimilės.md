@@ -60,7 +60,8 @@ Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos nuorašų faksimil
 - id: c-23931
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Kraków, 1989; Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos
     nuorašų faksimilės. Parengė S. Lazutka, E. Gudavičius. T. 1, d. 2. Vilnius, 1985; E. Rimša.

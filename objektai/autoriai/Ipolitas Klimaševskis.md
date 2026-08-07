@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8ae4fb8d7506527585a4fd65"
+canonical_name: "Ipolitas Klimaševskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ipolitas Klimaševskis"]
+sameAs: []
+canonical_biography: "Bychovco kronikos rankraštį prieš 1830 m. Alek sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil niaus gimnazijos mokytojas Ipolitas Klimaševskis."
 ---
 # Ipolitas Klimaševskis
 
@@ -50,7 +57,8 @@ Bychovco kronikos rankraštį prieš 1830 m. Alek sandro Bychovco Mogiliovcų dv
 - id: c-176761
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
   citata_originali: |
     Bychovco kronikos rankraštį prieš 1830 m. Alek­
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­

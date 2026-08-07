@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d75187b23621123529e7ecc4"
+canonical_name: "Juozapas Maksimilijonas Osolinskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Juozapas Maksimilijonas Osolinskis"]
+sameAs: []
+canonical_biography: "Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai buvo vadinami Ingemony. Senovės tyrinėtojai ne abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos, Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie jūros."
 ---
 # Juozapas Maksimilijonas Osolinskis
 
@@ -65,7 +72,8 @@ Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai b
 - id: c-174443
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
   citata_originali: |
     Pasvarsčius nepernelyg didelį Plinijaus geografinių
     aprašymų tikslumą, šiuose trijuose pavadinimuose gali­
@@ -89,7 +97,8 @@ Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai b
 - id: c-179264
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
   citata_originali: |
     Senovės tyrinėtojai ne­
     abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­

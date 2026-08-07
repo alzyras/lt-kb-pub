@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2df34f73c157992c2eed5cf3"
+canonical_name: "Aliamas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aliamas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas (Alyem— 1250 m.) prie Nogato ir to pat valsčiaus centras; manoma, vėliau bei dabar — Štumas (PUB, 1, Nr."
+place_authority: true
+historical_names: []
 ---
 # Aliamas
 
@@ -60,7 +69,8 @@ Dusburgietis teigia, kad 421 D.— territorium dictum Algent, Jer.— gebit Alge
 - id: c-59310
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas
     (Alyem— 1250 m.) prie Nogato ir to pat valsčiaus centras; manoma, vėliau bei dabar —

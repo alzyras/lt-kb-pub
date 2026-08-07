@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eda856549ffb88356d919e35"
+canonical_name: "Kozmas Prahietis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kozmas Prahietis"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Kozmo Prahiečio šv. Adalberto biografijoje prūsų minios vadu prie Fišhauzeno įvardytas žynys Siggo."
 ---
 # Kozmas Prahietis
 
@@ -54,7 +61,8 @@ Narbutas rašo, kad Kozmo Prahiečio šv. Adalberto biografijoje prūsų minios 
 - id: c-173318
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
   citata_originali: |
     Tie žyniai buvo išskirtinai dievo Atrimpo arba
     Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo

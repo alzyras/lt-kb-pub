@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184723
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 246"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 246."
   citata_originali: |
     Kristijonas lūgoja
     pašalpos nuo tų visų, kurie negal kryžium pasiženk-

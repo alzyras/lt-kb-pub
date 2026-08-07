@@ -74,7 +74,8 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
 - id: c-172067
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 160."
   citata_originali: |
     Slynksnis-Perlevenu (Slynxnis-Perlewenu)
     Bendras namų dievaitis, namų ir žemdirbio nuosavybės glo­
@@ -96,7 +97,8 @@ Narbutas Slynksnį-Perlevenu (Slynxnis-Perlewenu) apibūdina kaip bendrą namų 
 - id: c-172068
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 160."
   citata_originali: |
     Šį die­
     vaitį garbino visiškai taip pat, kaip slavų Pokuitį, skirtumas tik

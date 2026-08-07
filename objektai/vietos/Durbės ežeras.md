@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ae53378542ed9a1a03c74d0"
+canonical_name: "Durbės ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Durbės ežeras"]
+sameAs: []
+canonical_biography: "Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai."
+place_authority: true
+historical_names: []
 ---
 # Durbės ežeras
 
@@ -72,7 +81,8 @@ Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.
 - id: c-32035
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 193."
   citata_originali: |
     Šv.
     Margaritos dieną (1260.VII.13) pietiniame Durbės ežero krante
@@ -88,7 +98,8 @@ Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.
 - id: c-175925
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 72."
   citata_originali: |
     Ordino kariuomenė nusiskubino gelbėti savo žemių.
     Abiem kariuomenėm susitikus prie Durbės ežero, kovą lai-

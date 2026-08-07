@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c865985ccfb3c6901f49b6d3"
+canonical_name: "Bartos žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bartos žemė"]
+sameAs: []
+canonical_biography: "Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos. 1347 m. vasarį „abu lietuvių karaliai“ Prūsijoje puolė Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą ir sunaikino Lunenburgo papilį. Po Vytenio žygio į Varmę lietuviai grobio prisiplėšusius karius nuvedė į Bartos žemę ir sustojo pailsėti atvirame lauke."
+place_authority: true
+historical_names: []
 ---
 # Bartos žemė
 
@@ -99,7 +108,8 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
 - id: c-76336
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 40."
   citata_originali: |
     Olštino regionas), po to
     Allės upe žemyn iki įtekėjimo į Prieglių,
@@ -128,7 +138,8 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
 - id: c-76337
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 38."
   citata_originali: |
     1347 m. vasarį „abu lietuvių karaliai“
     puolė Prūsijoje Rastenburgą, niokojo
@@ -150,7 +161,8 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
 - id: c-168290
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 187."
   citata_originali: |
     Sutelkta
     keturi tūkstančiai rinktinių karių; su šia kariuomene

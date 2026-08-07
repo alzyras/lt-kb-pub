@@ -68,7 +68,8 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
 - id: c-176110
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
   citata_originali: |
     Pirmoji apsupo Bi-
     senės pilį ir po kovos, trukusios nuo Aušros ligi vi­
@@ -95,7 +96,8 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
 - id: c-176414
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 182-183"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 182-183."
   citata_originali: |
     Puolimas buvo pradėtas 1919 m. ge-
     gužės 18 d. naktį. Dešinioji kolona ener-

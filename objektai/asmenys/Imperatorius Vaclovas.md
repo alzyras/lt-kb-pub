@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5da17b5a4ffc57ed956b5494"
+canonical_name: "Imperatorius Vaclovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Imperatorius Vaclovas","objektai/asmenys/imperatorius Vaclovas"]
+sameAs: []
+canonical_biography: "Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o imperatorių Vaclovą abiejų tautų teisėju pasirinkę32. Be to, dar Skirgaila sutelkė likučius ir ėmė pul­ dinėti priešą iš užnugario, pasalūniškai; tad visai nusigalavę, 32 Ta dvikova neįvyko: abi pusės, nors ir buvo atvykusios sutartu laiku į Prahą, bet imperatoriaus Vaclovo di­ delių pastangų dėka buvo susitarta."
 ---
 # Imperatorius Vaclovas
 
@@ -54,7 +61,8 @@ Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o im
 - id: c-83496
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 142."
   citata_originali: |
     Tos
     niautynės pagaliau baigėsi prancūzų iškvietimu kautis, jiems

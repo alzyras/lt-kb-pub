@@ -152,7 +152,8 @@ Nenurodyta
 - id: c-05233
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 101."
   citata_originali: |
     Palei Lietuvos sieną Ryt-
     prūsiuose rasti kauliniai dirbiniai (elnio ragai, kauliniai ietgaliai)
@@ -170,7 +171,8 @@ Nenurodyta
 - id: c-05234
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 102."
   citata_originali: |
     Mezolito žmogaus stovyklavietėse Lietuvoje buvo rasta daug
     titnaginių ir kalninių įrankių (strėlių, ylų, peiliukų, kailiams gram-
@@ -192,7 +194,8 @@ Nenurodyta
 - id: c-05277
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 103."
   citata_originali: |
     Ši kultūra, dėl tų sukinių keramikos ornamentų, todėl dar vadinama
     « šukinė » (« Kammkeramik »)^5. Jos palikimui priklauso taip pat
@@ -211,7 +214,8 @@ Nenurodyta
 - id: c-65512
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 28."
   citata_originali: |
     Kr.) kultūrai yra charak-
     teringi įvairūs žalvariniai kirviai, ietys ir vienas kitas papuošalas.

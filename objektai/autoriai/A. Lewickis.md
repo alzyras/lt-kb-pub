@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-498603e7b6899904f230f384"
+canonical_name: "A. Lewickis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Lewickis"]
+sameAs: []
+canonical_biography: "Lewickis, kuris ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), bet ir davė gana įžvalgią ir šaltiniais paremtą monografiją apie Švitri­ gailą (LePS)."
 ---
 # A. Lewickis
 
@@ -61,7 +68,8 @@ Lewickis, kuris ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), be
 - id: c-32876
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 91."
   citata_originali: |
     Vertingas yra taip pat jo XVI amž.
     pirmos pusės Lietuvos žemėlapis (1928). Čia reikia paminėti ir

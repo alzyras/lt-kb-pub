@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-09947
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 94"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 94."
   citata_originali: |
     Tuo tarpu motriškosios po namus trūsėjo. Žiemą linus šukavo, vilnas kedino ir verpė, vienos audė audeklus,
         beje: audimus, samplėšinius^373 , viennyčius, trinyčius, šešioliknyčius, milus, kecius^374 , kitos arė,

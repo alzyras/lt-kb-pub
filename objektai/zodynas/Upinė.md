@@ -108,7 +108,8 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
 - id: c-172072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
   citata_originali: |
     Tos raganos naktį kūrendavo ugnį, dainuodavo
     kažkokias dainas, pliuškendavosi upelio vandenyje, kepdavo
@@ -130,7 +131,8 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
 - id: c-172074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
   citata_originali: |
     Senė, vadinama Upine, tomis apei­
     gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­

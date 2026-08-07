@@ -124,7 +124,8 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
 - id: c-175092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     tokiu atveju labiau dera jų pavadinimą kildinti iš bend-
     ro vyriausiojo kunigo negu, kaip tai darė Tatiščevas, iš

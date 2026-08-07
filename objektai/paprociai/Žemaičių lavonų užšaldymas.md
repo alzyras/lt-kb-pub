@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184743
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 50"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 50."
   citata_originali: |
     Yra doba Žemaičiuose, tolesniai sako, visus lavo­
     nus deginti, jei kokį numirėlį nedegintą rastų, tada

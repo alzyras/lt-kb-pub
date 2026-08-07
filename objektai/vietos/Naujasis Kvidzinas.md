@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cccd8c5ed5e39de678c6215b"
+canonical_name: "Naujasis Kvidzinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujasis Kvidzinas"]
+sameAs: []
+canonical_biography: "Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo baigta ir pavadinta Naujuoju Kvidzinu. Todėl ir Naujojo Kvidzino tvirtovė buvo pavesta valdyti Vytautui. Vi­ sos trys Vytauto valdžioje buvusios pilys (Marienburgas ant Nemuno, Jurbarkas (Georgenburgas), Marienverderis arba Nau­ jasis Kvidzinas prie Kauno) turėjo būti sunaikintos."
+place_authority: true
+historical_names: []
 ---
 # Naujasis Kvidzinas
 
@@ -82,7 +91,8 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 47."
   citata_originali: |
     Todėl ir Naujojo Kvidzino tvirtovė buvo pavesta valdyti
     Vytautui. Joje 1384 metų birželio mėn. 14 d. Vytautas ir magis­
@@ -99,7 +109,8 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 48."
   citata_originali: |
     Nors ateitis, kuri Vytauto laukė Lietuvoje, jam
     nebuvo aiški, bet jis savo išsiskyrimą su Ordinu vykdė apgalvo­
@@ -123,7 +134,8 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 47."
   citata_originali: |
     Sujungtos Jo­
     gailos ir Skirgailos kariuomenės gavo smūgį. Nežiūrint nera­

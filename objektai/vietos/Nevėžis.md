@@ -37,6 +37,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9e4cdcf239d81807614a6278"
+canonical_name: "Nevėžis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nevėžis"]
+sameAs: []
+canonical_biography: "Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas)."
+place_authority: true
+historical_names: []
 ---
 # Nevėžis
 
@@ -222,7 +231,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 291"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 291."
   citata_originali: |
     1398 mt. Salyno sutartimi jis pats užleido Ordinui visą Žemai­
     tiją, net iki Nevėžio^5 ). O 1400 met. net ginklu padėjo Ordinui
@@ -238,7 +248,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - id: c-166183
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 211."
   citata_originali: |
     Naktį lenkai priartėja prie
 
@@ -275,7 +286,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - id: c-166453
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 135."
   citata_originali: |
     Nuo pasirašymo vie-
     tos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko už-
@@ -296,7 +308,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 46."
   citata_originali: |
     Jeigu Vytautas mirtą, nepalikęs jokio įpėdinio, tai jie turėtų ati­
     tekti Ordinui. Atiduodamas vokiečiams visą Žemaičių kraštą
@@ -314,7 +327,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 124."
   citata_originali: |
     Ordinas. Vytautas jam buvo už­
     rašęs Žemaičių kraštą iki Nevėžio upės (1398) ir Vok. Ordinas
@@ -330,7 +344,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - id: c-171681
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 224."
   citata_originali: |
     Dievo Kurko garbei taip pat degė nuolat kurstoma ug­
     nis, ypač Prūsuose, didelėje to dievo šventovėje Šventamiesty-
@@ -347,9 +362,9 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-006
 
 - id: c-184996
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 74."
   citata_originali: |
     Vandens kelius papildė sausumos, nusidriekiančios palei didžiąsias upes, palei
     Nemuną Gardino link ar į vakarus iki pirmojo Vokiečių ordino miesto Ragainės, nuo
@@ -365,9 +380,9 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-007
 
 - id: c-184997
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 247"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 247."
   citata_originali: |
     Mažiausias Alek-
     sote statomas laivas buvo perga. Tai didelė valtis, kuria daugiausia plaukiota Nemunu

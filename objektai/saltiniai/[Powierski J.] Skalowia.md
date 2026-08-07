@@ -49,7 +49,8 @@ Dusburgietis teigia, kad [Powierski J.] Skalowia.— SSS, t.
 - id: c-61887
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     [Powierski J.] Skalowia.— SSS, t. 5, s. 192—193.
   statusas: verified

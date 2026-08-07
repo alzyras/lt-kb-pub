@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-74d163bdfae5d074448ab452"
+canonical_name: "Edyga"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Edyga"]
+sameAs: []
+canonical_biography: "Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nugalėtojui Edygai, 1414—1416 m. laikotarpyje dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriauda­ mi patį Kijevą ir Lucką. 138 pretendentus į Aukso Ordos chanus, bet čia Vytautas susidūrė su Vorsklos mūšio laimėtoju Edyga."
 ---
 # Edyga
 
@@ -82,7 +89,8 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
 - id: c-41899
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Totorių pajėgos
     Aukso ordos chano Timūr-Kutluko,
@@ -109,7 +117,8 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 136."
   citata_originali: |
     Taigi tas rodo, kad ne visi sta­
     čiatikiai buvo palankūs Vytauto pageidaujamai Bažnyčių
@@ -130,7 +139,8 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
 - id: c-167124
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Lietuvos jungtinės pajėgos
 

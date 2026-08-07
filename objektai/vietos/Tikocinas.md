@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e7e62cad0a3a3449aaa75bab"
+canonical_name: "Tikocinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tikocinas"]
+sameAs: []
+canonical_biography: "Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų. Taip pat ir apmušalai, kurie yra Tikocine arba kur kitur atsiras, Flandrijos užtiesalai iš aukso arba su figū­ romis ir paprasto darbo, taip pat auksu atausti, aksominiai bei kiti šilkiniai apmušalai ir suolų užtiesalai, bet kokie špaleriai iš kamarų. Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zaleskį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pacifikalus, liktorius."
+place_authority: true
+historical_names: []
 ---
 # Tikocinas
 
@@ -161,7 +170,8 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 - id: c-81839
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 358-359"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 358-359."
   citata_originali: |
     Taip pat mūsų
     asmenišką kredensą, aukščiau paminėtą, kuris yra Tikoci­
@@ -215,7 +225,8 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 - id: c-81840
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 361"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 361."
   citata_originali: |
     Šiai bažnyčiai visą bažnytinį auksą,
     sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą,
@@ -242,7 +253,8 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 - id: c-81841
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 362"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 362."
   citata_originali: |
     Visus bet kokio pavadinimo pabūklus, ar-
     kebuzas, muškietas, pėstininkų ginklus ir kitą karo amunici­
@@ -265,7 +277,8 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 - id: c-81842
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 43-44"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 43-44."
   citata_originali: |
     T. Il,
     9. - medinės bažnyčios ir bazilijo­
@@ -298,7 +311,8 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 - id: c-168519
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 225."
   citata_originali: |
     Mat Goštautas buvo la-
     Š v e n to

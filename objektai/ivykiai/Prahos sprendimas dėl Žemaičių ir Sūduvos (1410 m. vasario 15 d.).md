@@ -90,7 +90,8 @@ Nenurodyta
 - id: c-31370
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 343."
   citata_originali: |
     Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir
     Vytauto sekretorius Cibulka. Vaclovas tačiau gąsdino, jog ordino
@@ -109,7 +110,8 @@ Nenurodyta
 - id: c-91583
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 343."
   citata_originali: |
     Pusbroliai nesutiko su tokiu sprendimu.
     Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir

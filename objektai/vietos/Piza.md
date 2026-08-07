@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ca158d6e25cd762957f94793"
+canonical_name: "Piza"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Piza"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Henriko, imperatoriaus, mirtį Tais pačiais metais, Baltramiejaus dieną (rugpjūčio 24), Sienos grafystėje mirė imperatorius Henrikas, o palaidojo jį Pizoje. 10 dienų, kada rodėsi kometa, reiškė 10 dienų, kuriomis imperatorius negalavo prieš savo mirtį."
+place_authority: true
+historical_names: []
 ---
 # Piza
 
@@ -56,7 +65,8 @@ Dusburgietis teigia, kad apie Henriko, imperatoriaus, mirtį Tais pačiais metai
 - id: c-59342
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
   citata_originali: |
     113. Apie Henriko, imperatoriaus, mirtį
 

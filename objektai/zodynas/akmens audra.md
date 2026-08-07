@@ -120,7 +120,8 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
 - id: c-175106
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 400."
   citata_originali: |
     Ilgai nekalbėsime įrodinėdami, kad akmens audros ki­
     lo iš Skandinavijos, nes tai jau anksčiau įrodė geologai,
@@ -141,7 +142,8 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
 - id: c-175107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 401"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 401."
   citata_originali: |
     Be jokios abejonės, galima pa­
     daryti prielaidą, jog dėl vidinės žemės jėgos, nepadedant

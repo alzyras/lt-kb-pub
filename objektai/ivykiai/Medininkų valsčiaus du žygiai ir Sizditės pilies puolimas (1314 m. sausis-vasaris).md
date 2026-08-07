@@ -130,7 +130,8 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
 - id: c-56336
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     321 (314). Dar apie tą patį
     Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
@@ -153,7 +154,8 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
 - id: c-56337
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
   citata_originali: |
     1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
     brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų

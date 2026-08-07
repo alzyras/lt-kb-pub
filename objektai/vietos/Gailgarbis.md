@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-20e8d06c1b4a1bcf0e026180"
+canonical_name: "Gailgarbis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gailgarbis"]
+sameAs: []
+canonical_biography: "Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno, kur Vaidevučio sūnus Šamas įkūrė rezidenciją. Ant Rinavos kalno buvo tokia Gailgarbio, arba Galgarbeno1, pilis, kur, anot padavimų, savo rezidenciją įkūrė dar Vaidevučio sūnus Šamas."
+place_authority: true
+historical_names: []
 ---
 # Gailgarbis
 
@@ -68,7 +77,8 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
 - id: c-179377
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 367."
   citata_originali: |
     Kiti miškų plotai
     driekėsi iš vakarų į rytus ir buvo turtingi žvėrių; Sam­

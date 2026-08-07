@@ -50,7 +50,8 @@ Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persek
 - id: c-25026
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 227."
   citata_originali: |
     Savo ruožtu pagrindinis tikslas – Lietu-
     vos nepriklausomybės atkūrimas – skatino vienytis lietuvių diplomatus ir

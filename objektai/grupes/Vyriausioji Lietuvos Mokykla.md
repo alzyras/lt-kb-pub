@@ -67,7 +67,8 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
 - id: c-71050
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 434."
   citata_originali: |
     Va-
     dinamoje moralinių mokslų kolegijoje buvo mokoma
@@ -85,7 +86,8 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
 - id: c-71052
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 432"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 432."
   citata_originali: |
     Pirmiausia Lietuvoje ir Lenkijoje
     buvo padaryta po vieną vyriausiąją mokyklą, kuriai priklausė

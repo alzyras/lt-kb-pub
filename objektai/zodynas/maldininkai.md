@@ -83,14 +83,21 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 <a id="claim-t-58827"></a>
 - t-003
   teiginys: "1316 m. Henrikas Karaliaučiuje sutiko iš Reino krašto atvykusių maldininkų ir su jais nusiaubė Medininkų valsčių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "maldininkai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"maldininkai\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1316 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalinta antraštė, išplėstas kontekstas ir suformuluotas pilnas faktas."
   pagrindžia:
-    - c-59460
+    - c-59458
 
 <a id="claim-t-58828"></a>
 - t-004
@@ -129,7 +136,8 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - id: c-59457
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 235."
   citata_originali: |
     Ilgai meldęsis,
     šis didžiai krikščioniškasis karalius šitaip pasakė: „Einu į tavo namus, lenkiuosi tavo
@@ -154,7 +162,8 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - id: c-59458
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais
 
@@ -168,14 +177,17 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   citata_rodoma: "Apie Medininkų valsčiaus apiplėšimą 1316 metais\n\n  Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių\niš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš\nElnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,\nį Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į\nnelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai\ndėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į\nriterius."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-59459
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 228."
   citata_originali: |
     17. Apie Šventos Elžbietos vyro mirtį
 
@@ -197,7 +209,8 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - id: c-59460
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
   citata_originali: |
     1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
     Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho ir iš
@@ -216,13 +229,13 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-004
 
 - id: c-59462
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240-241"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240-241."
   citata_originali: |
     Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
 

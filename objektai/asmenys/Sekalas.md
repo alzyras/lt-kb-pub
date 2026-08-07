@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dfe7cf07376f69ac1cd11605"
+canonical_name: "Sekalas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sekalas"]
+sameAs: []
+canonical_biography: "Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį grobį."
 ---
 # Sekalas
 
@@ -62,7 +69,8 @@ Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalė
 - id: c-174345
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     98
     Poloviečių santykiai su rusais klostėsi nedraugiškai

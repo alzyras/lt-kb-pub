@@ -73,7 +73,8 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 - id: c-177408
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 206."
   citata_originali: |
     Kovodamas Livonijos ordino
     pusėje prieš savo tautiečius (pagonis), neofitas Suksė viename žygyje

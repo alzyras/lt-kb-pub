@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ffdf3e656491af2cd3cc7de8"
+canonical_name: "Vygandas iš Marburgo"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vygandas iš Marburgo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo."
 ---
 # Vygandas iš Marburgo
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ord
 - id: c-63393
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,

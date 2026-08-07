@@ -48,16 +48,15 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-198530"></a>
+<a id="claim-t-203100"></a>
 - t-001
-  teiginys: "Kunigaikščio Mykolo kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės."
-  atnaujinta: "2026-07-12 23:00"
+  teiginys: "Bychovco kronikoje pasakojama, kad kunigaikščio Mykolo kariuomenei žengiant per upę buvo sutrimitavę trimitai ir užgrotos birbynės."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Išplėstas neaiškus subjektas pagal citatą."
   susije_objektai: "mentioned_object: [[objektai/daiktai/Trimitai|Trimitai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-180538
 
@@ -80,7 +79,7 @@ Nenurodyta
     gė per upę.
   citata_rodoma: "Kunigaikš­\ntis Mykolas !3, matydamas su didikais ir su visa kariuo­\nmene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems \npulkams žengti abiem perėjimais per upę.\nIr, sutrimitavę trimitais ir užgroję birbynėmis žen­\ngė per upę."
   statusas: verified
-  atnaujinta: "2026-07-12 23:00"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-55e5a1423e9589c71e4d58a8"
+canonical_name: "Šv. Petro vienuolyno vieta Antakalnyje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Petro vienuolyno vieta Antakalnyje"]
+sameAs: []
+canonical_biography: "Narbutas mini padavimą, kad Vilniaus Antakalnyje, dabartinio Šv. Petro vienuolyno vietoje, stovėjusi Mildos šventykla arba koplyčia."
+place_authority: true
+historical_names: []
 ---
 # Šv. Petro vienuolyno vieta Antakalnyje
 
@@ -54,7 +63,8 @@ Narbutas mini padavimą, kad Vilniaus Antakalnyje, dabartinio Šv. Petro vienuol
 - id: c-171976
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
   citata_originali: |
     Bet kai kas painioja šią patrauklią dievybę su deive Lie­
     tuva.

@@ -124,7 +124,8 @@ Nenurodyta
 - id: c-172654
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 315."
   citata_originali: |
     10. Permaldavimo auka. Stabmeldžių žynių godumas buvo
     itin didelis. Dėl savo interesų jie laikė žmones baimėje ir, da­
@@ -142,7 +143,8 @@ Nenurodyta
 - id: c-172655
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 315."
   citata_originali: |
     Dėl savo interesų jie laikė žmones baimėje ir, da­
     rydami įvairias intrigas, galėjo pasitelkti į pagalbą Poklių - tą
@@ -163,7 +165,8 @@ Nenurodyta
 - id: c-172656
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 316."
   citata_originali: |
     Jeigu užkietėję rūstybėje dievai dar ir tuo nepa­
     sitenkindavo, Poklius apsireikšdavo dvigubai baisesnis. Tada
@@ -185,7 +188,8 @@ Nenurodyta
 - id: c-172657
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 316."
   citata_originali: |
     Tad namų savininkas būdavo priverstas atiduoti net bran­
     giausią šeimos asmenį arba ieškoti progos, kaip nužudyti nu­

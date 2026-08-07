@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e5c258b128b4fb8164546218"
+canonical_name: "St. Kryczyński"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["St. Kryczyński"]
+sameAs: []
+canonical_biography: "Kryczyński, St.: Tatarzy litewscy."
 ---
 # St. Kryczyński
 
@@ -61,7 +68,8 @@ Kryczyński, St.: Tatarzy litewscy.
 - id: c-29507
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 330"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 330."
   citata_originali: |
     — Kryczyński, St.: _Tatarzy litewscy.
     Próba monografii historyczno-etnograficznej,_ Rocznik Tatarski, III,

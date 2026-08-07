@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-37fd088de0814107be7adabc"
+canonical_name: "Minaičių kaimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Minaičių kaimas"]
+sameAs: []
+canonical_biography: "Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai."
+place_authority: true
+historical_names: []
 ---
 # Minaičių kaimas
 
@@ -60,7 +69,8 @@ Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakel
 - id: c-45215
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     partizanų vadovybę, pagrindiniu kovos tikslu buvo nurodytas siekis
 

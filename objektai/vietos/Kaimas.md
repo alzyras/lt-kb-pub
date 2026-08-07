@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d9d80c60597d0704ff3f7b05"
+canonical_name: "Kaimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kaimas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir. Dusburgietis teigia, kad — Kayme; Kaimas (dab."
+place_authority: true
+historical_names: []
 ---
 # Kaimas
 
@@ -67,7 +76,8 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - id: c-59192
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
   citata_originali: |
     326  D. — Caym, Jer. — Kayme; Kaimas (dab. Zarečjė), to pat vardo valsčiaus centras
     rytų Semboje, į vakarus nuo Deimenos; prūsų pilies vietoje pastatyta Ordino pilis su
@@ -84,7 +94,8 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - id: c-59193
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
   citata_originali: |
     kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
     Paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten

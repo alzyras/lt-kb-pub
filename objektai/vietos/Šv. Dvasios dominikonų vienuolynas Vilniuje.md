@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2b562c25d415bb7b4cb0cd22"
+canonical_name: "Šv. Dvasios dominikonų vienuolynas Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Dvasios dominikonų vienuolynas Vilniuje"]
+sameAs: []
+canonical_biography: "Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios vienuolyno vyres­ niajam ir broliams, taigi jie įpareigojami visam laikui ten laikyti šv."
+place_authority: true
+historical_names: []
 ---
 # Šv. Dvasios dominikonų vienuolynas Vilniuje
 
@@ -67,7 +76,8 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
 - id: c-82104
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 407"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 407."
   citata_originali: |
     Šv. sakramentų dalijimas ir rūpinimasis vargšais ir kitais žmo­
     nėmis, laikinai gyvenančiais minėtoje prieglaudoje, bus pri­
@@ -86,7 +96,8 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
 - id: c-82105
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 403"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 403."
   citata_originali: |
     O kai susigrąžins savo lėšas ir išlaidas, skirtas tilto staty­
     bai, per minėtą muitą arba mokestį, davėme jam pavedimą

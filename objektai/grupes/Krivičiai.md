@@ -204,7 +204,8 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 - id: c-33280
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 128."
   citata_originali: |
     mezleva, roitinik, sviren, veldomy ir daug kitų), bet ir šnekamajai
     gudų kalbai. Artimiausieji rytų kaimynai dregovičiai (Beržūnės
@@ -226,7 +227,8 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 - id: c-171101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
   citata_originali: |
     Dabar pateiksime šį lietuvių mitologijos gabalėlį.
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
@@ -249,7 +251,8 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 - id: c-175206
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Etimologinio
     kildinimo nepripažįstu, tačiau krivičių pavadinimo kili­
@@ -275,7 +278,8 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 - id: c-175207
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 342."
   citata_originali: |
     kad prisidėjo prie puikios rusų valstybės Įkūrimo. Šios
     kartos galėjo atsiskirti Kriviui sutikus, o jis ir toliau liko

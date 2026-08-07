@@ -38,6 +38,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2d645a17ba5d62d7a55d057e"
+canonical_name: "Petras (Onos vyras, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras","Petras (Onos vyras, XIX a.)"]
+sameAs: []
+canonical_biography: "Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nuo rekrutų besislapstęs jos vyras, negavęs žemės 1864 m., bet po 1867 m. bado nusipirkęs dvylika hektarų ir pastatęs savo trobas."
 ---
 # Petras (Onos vyras, XIX a.)
 

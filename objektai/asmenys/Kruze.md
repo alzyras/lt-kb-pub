@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-77311b5d2f23866b2f1d6ed9"
+canonical_name: "Kruze"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kruze"]
+sameAs: []
+canonical_biography: "Kruze vykdė kasinėjimus Kurše, Infliantuose ir Estijoje, Narbutui aptariant Šiaurės Europos kapaviečių pėdsakus. Kurše, Infliantuose ir Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi čius3."
 ---
 # Kruze
 
@@ -91,7 +98,8 @@ Kruze vykdė kasinėjimus Kurše, Infliantuose ir Estijoje, Narbutui aptariant �
 - id: c-174173
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 385."
   citata_originali: |
     Taip buvo pasakyta apie baltarusių pilkapius. In­
     formaciją apie

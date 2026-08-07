@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eabefaa07e22ace1e7779d0d"
+canonical_name: "Jurijus Vytutaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurijus Vytutaitis"]
+sameAs: []
+canonical_biography: "Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus valdė Pskovo žemę."
 ---
 # Jurijus Vytutaitis
 
@@ -63,7 +70,8 @@ Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus 
 - id: c-173051
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
   citata_originali: |
     Iškiliojoje pusėje
     ženklas, panašus į vadinamojo biarmiškojo raidyno raidę A

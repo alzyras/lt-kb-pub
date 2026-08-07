@@ -150,7 +150,8 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 - id: c-175696
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 295."
   citata_originali: |
     290
     Istorijoje esama aiškių įrodymų, kad tarp gotų buvę
@@ -172,7 +173,8 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 - id: c-175697
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 297."
   citata_originali: |
     Gotams persikėlus į deši­
     nįjį Dnestro krantą, tai žinoma iš gotų istorijos ir Bizan­
@@ -203,7 +205,8 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 - id: c-175698
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
   citata_originali: |
     Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad
     birių gyventa pakrantėse ukrainiečių Rosės, kurią pa­

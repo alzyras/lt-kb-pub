@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-169188
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
   citata_originali: |
     Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
     įgulą, sugriovė arba sudegino visus įtvirtinimus; du

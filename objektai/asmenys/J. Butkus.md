@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a972bfed177e5ca7bb2dccd"
+canonical_name: "J. Butkus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Butkus"]
+sameAs: []
+canonical_biography: "Butkaus vadovaujamą 200 karių rinktinę. Butkaus vadovaujamas Marijampolės batalionas; Varnionių-Daugėlaičių-Šiaulėnų atkarpą plk."
 ---
 # J. Butkus
 
@@ -50,7 +57,8 @@ Butkaus vadovaujamą 200 karių rinktinę. Butkaus vadovaujamas Marijampolės ba
 - id: c-41952
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 177."
   citata_originali: |
     Kariuomenės štabo virši-
     ninkas P. Liatukas vasario

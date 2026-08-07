@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-268e970acef91b6444aaa9a3"
+canonical_name: "Stanislovas Petravičius Kiška"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Petravičius Kiška"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Stanislovas Petravičius Kiška
 

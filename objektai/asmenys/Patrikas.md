@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-02c80c546c9619bf03a25a83"
+canonical_name: "Patrikas (kunigaikštis, XIV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Patrikas","Patrikas (kunigaikštis, XIV a.)"]
+sameAs: []
+canonical_biography: "Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino imperatorių, kad Lietuva tikrai krikštysis."
 ---
 # Patrikas (kunigaikštis, XIV a.)
 
@@ -199,7 +206,8 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 - id: c-111009
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 310."
   citata_originali: |
     Žymioji pirklių respublika, ir toliau prekybiškai apskaičiuodama ir
     gindama savo nepriklausomumą, kunigaikščiu išsirinkdavo tai kokį
@@ -219,7 +227,8 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 - id: c-111010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
   citata_originali: |
     1365 m. Kęstutis,
     Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
@@ -239,7 +248,8 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 - id: c-168177
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 242."
   citata_originali: |
     Kęstutį, kuris ban­
     dė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar­
@@ -282,7 +292,8 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 - id: c-171492
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Žemaičių ir Trakų kuni­
     gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­

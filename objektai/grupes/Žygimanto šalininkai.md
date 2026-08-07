@@ -51,7 +51,8 @@ Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
 - id: c-82759
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 233."
   citata_originali: |
     I I I  KNYGA
     degė padegta gal Švitrigailos kariuomenės, o gal ir pačių

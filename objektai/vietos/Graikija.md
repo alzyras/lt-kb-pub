@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-70c27bf4b27e0adf36fa4fc7"
+canonical_name: "Graikija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Graikija"]
+sameAs: []
+canonical_biography: "Pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją ir įstojo į vienuolyną."
+place_authority: true
+historical_names: []
 ---
 # Graikija
 
@@ -54,7 +63,8 @@ Pagaliau po taikos su Voluine Vaišvilkas išvyko į Graikiją ir įstojo į vie
 - id: c-171838
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
   citata_originali: |
     Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
     tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną

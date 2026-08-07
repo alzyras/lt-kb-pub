@@ -95,21 +95,13 @@ Nenurodyta
   pagrindžia:
     - c-66760
 
-<a id="claim-t-66554"></a>
-- t-003
-  teiginys: "Užkluptas prie apgultos pilies Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, vadintos Glapo kalva."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-66761
-
 ## Citatos
 
 - id: c-66759
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 133-134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133-134."
   citata_originali: |
     Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
 
@@ -151,7 +143,8 @@ Nenurodyta
 - id: c-66760
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
   citata_originali: |
     Šis, paklausęs patarimo, susikvietė daug brolių bei
     ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
@@ -169,7 +162,8 @@ Nenurodyta
 - id: c-66761
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
   citata_originali: |
     Tuo tarpu Steinavas
     nuvyko pas Karaliaučiaus komtūrą ir išdavė šią paslaptį, patardamas šiam traukti su
@@ -179,8 +173,7 @@ Nenurodyta
     kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003

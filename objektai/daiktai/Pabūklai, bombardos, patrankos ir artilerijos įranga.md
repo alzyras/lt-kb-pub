@@ -114,7 +114,8 @@ Nenurodyta
 - id: c-82975
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139."
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
     čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
@@ -133,7 +134,8 @@ Nenurodyta
 - id: c-82976
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 55."
   citata_originali: |
     Tačiau kiti, 1383 metai, atnešė Vilniui dar
     didesnę nelaimę. Didelė kryžiuočių kariauna, vadovauja­
@@ -154,7 +156,8 @@ Nenurodyta
 - id: c-82977
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 143."
   citata_originali: |
     Tatai yra tiesiog pažodinis D1 u-
     g o š o, Lib. X, p. 129 vertimas. Vitol-
@@ -174,7 +177,8 @@ Nenurodyta
 - id: c-82978
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139-140"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139-140."
   citata_originali: |
     Vis dėlto visi
     pasistengta rasti kelis išdavikus, ku- kryžiuočių raštai ir jų kronikininkų

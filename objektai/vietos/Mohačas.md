@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f177b47db71341bd303795ab"
+canonical_name: "Mohačas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mohačas"]
+sameAs: []
+canonical_biography: "Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio."
+place_authority: true
+historical_names: []
 ---
 # Mohačas
 
@@ -39,7 +48,8 @@ Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio p
 - id: c-24309
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 53."
   citata_originali: |
     Taigi,
     šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o

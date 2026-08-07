@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-009ba19249efe97cead92b10"
+canonical_name: "Mykolas Lietuvis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Lietuvis"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėnus, žalčių laikymu išlikusį Eskulapo garbinimą. Narbutas Mykolą Lietuvį minėjo tarp nedaugelio lietuvių, kurie per 400 metų pasirūpino krašto praeitimi. Mykolas Lietuvis, Narbuto apibūdintas kaip Lenkijos mokslo amžiaus autorius, stengėsi įrodyti lietuvių ir lotynų kalbų vienodumą."
 ---
 # Mykolas Lietuvis
 
@@ -81,7 +88,8 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
 - id: c-173070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
   citata_originali: |
     Garbinamas buvo žalčio pavidalu. Mykolas Lietuvis pasa­
     koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
@@ -100,7 +108,8 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
 - id: c-173811
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 452"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 452."
   citata_originali: |
     Kortos, romanai, garderobai — tokios yra jų dory­
     bės. Vyrauja tuščias pasididžiavimas senoliais, o protėvių
@@ -118,7 +127,8 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
 - id: c-174844
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 194."
   citata_originali: |
     199
     Nenutraukdami mūsų pastabų sekos, laikysime, jog lai­

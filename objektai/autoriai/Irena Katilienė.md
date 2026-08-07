@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-40570aed5b6677a0c0350481"
+canonical_name: "Irena Katilienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Irena Katilienė"]
+sameAs: []
+canonical_biography: "Irena Katilienė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėjų iš lenkų kalbos į lietuvių kalbą 2007 m. leidime."
 ---
 # Irena Katilienė
 
@@ -59,7 +66,8 @@ Irena Katilienė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėj
 - id: c-55571
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 4."
   citata_originali: |
     UDK 947.45
     Ba237

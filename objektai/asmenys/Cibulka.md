@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d5d4ead1ddecc1b65fb6381"
+canonical_name: "Cibulka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Cibulka"]
+sameAs: []
+canonical_biography: "Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius Cibulka."
 ---
 # Cibulka
 
@@ -50,7 +57,8 @@ Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius
 - id: c-93995
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 343."
   citata_originali: |
     Pusbroliai nesutiko su tokiu sprendimu.
     Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir

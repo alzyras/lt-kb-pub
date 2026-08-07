@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-73ec75652af61fff0ce6ca04"
+canonical_name: "Liudvikas Pliateris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas Pliateris"]
+sameAs: []
+canonical_biography: "Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės karinio transporto gurguolę, vykstančią į Daugpilį, teko atsisakyti šios tvirtovės puolimo, nes rusų karinė vadovybė perprato sukilėlių planus."
 ---
 # Liudvikas Pliateris
 
@@ -50,7 +57,8 @@ Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės ka
 - id: c-44437
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Netrukus nenumatyti įvykiai pri-
     vertė koreguoti planus. Po nepavykusio

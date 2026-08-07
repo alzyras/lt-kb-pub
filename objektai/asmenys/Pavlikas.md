@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c23888f17605e0718bb824c8"
+canonical_name: "Pavlikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pavlikas"]
+sameAs: []
+canonical_biography: "Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad 443 ## Puslapis 460 VILNIAUS MIESTO ISTORIJA II TOMAS juos laiku pasiųstų JMCPP : Mlodyčiui į Leipcigą ir ponui Plockiui sumokėti skolą iš."
 ---
 # Pavlikas
 
@@ -58,7 +65,8 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
 - id: c-83798
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 459-460"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 459-460."
   citata_originali: |
     320 flor. 21 gr.
     Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­

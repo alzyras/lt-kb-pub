@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b1549c64dd5e9bb9acc8dc2c"
+canonical_name: "Maskvos kunigaikštystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Maskvos kunigaikštystė"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Maskvos kunigaikštystė
 

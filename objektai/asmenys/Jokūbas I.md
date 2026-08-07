@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf1132f2ffcf972f660d5f3a"
+canonical_name: "Jokūbas I"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokūbas I"]
+sameAs: []
+canonical_biography: "Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę „Z\", dieceziją tevaldė 7 metus - nuo 1400 metų iki 1407 m. Gražumu ir įkalbinėjimais daugelį pagonių krikščionių tikėjimą priimti paskatino."
 ---
 # Jokūbas I
 
@@ -116,7 +123,8 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
 - id: c-83687
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 206-207"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 206-207."
   citata_originali: |
     4
     Apie šį vyskupą mūsų autoriai ne­
@@ -141,7 +149,8 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
 - id: c-177107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
   citata_originali: |
     Turime kažkokį aprašymą šio medžio, kurį Bo­
     leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
@@ -163,7 +172,8 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
 - id: c-177309
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 345."
   citata_originali: |
     Vėliau Pisanskis rašo, jog vietovės,
     kurios, anot įtikėtinų žinių, buvo gana toli nuo jūros
@@ -184,7 +194,8 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
 - id: c-179329
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 345."
   citata_originali: |
     Kaip pavyzdį jis
     nurodo šv. Vaitiėkaus bažnytėlę, kuri, pasak jo, buvo

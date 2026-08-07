@@ -59,9 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184644
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 347"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 347."
   citata_originali: |
     Mintautas nuo vienos pu­
     sės gorinamas pavojum, nuo antros masinamas

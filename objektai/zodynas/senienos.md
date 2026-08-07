@@ -115,15 +115,22 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
 <a id="claim-t-192577"></a>
 - t-005
   teiginys: "Teodoras Narbutas priešistorinės senovės epochas apibūdina kaip apiplėštas įvairių senienų."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "senienos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=83"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"senienos\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175022
+    - c-175351
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -160,7 +167,8 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
 - id: c-175022
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 28."
   citata_originali: |
     Be to, dažnai esti, kad neįmanoma išlaikyti nepertrau­
     kiamą įvykių seką, ypač tuomet, kai labiau gilinamės į
@@ -179,12 +187,12 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
 
 - id: c-175023
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 27."
   citata_originali: |
     Priešistorinio laiko tėkmė, žmonių užmarštis, ra­
     šytojų nerūpestingumas arba nepakankamas išsilavi­
@@ -205,7 +213,8 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
 - id: c-175024
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 34."
   citata_originali: |
     Plačiai pasklidusi lietuvių gen­
     tis verta išsamesnių ieškojimų, negu tai galime padaryti
@@ -231,7 +240,8 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
 - id: c-175351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 28."
   citata_originali: |
     Todėl ir paliko­
     me jiems kuklų istorijos* pavadinimą.
@@ -244,7 +254,8 @@ Reikšmė čia plati; žodis veikia kaip istorinių liekanų ir senovinių verty
   citata_rodoma: "Todėl ir paliko­\nme jiems kuklų istorijos* pavadinimą.\n4\nBe to, dažnai esti, kad neįmanoma išlaikyti nepertrau­\nkiamą įvykių seką, ypač tuomet, kai labiau gilinamės į\npraeitį. O ir tas, kuris susipažino su priešistorinės seno­\nvės epochomis, apiplėštomis įvairių senienų epochomis,\nko kito galėtų geisti?"
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

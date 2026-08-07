@@ -67,7 +67,8 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
 - id: c-84344
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 228."
   citata_originali: |
     Nors šiuo
     6
@@ -89,7 +90,8 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
 - id: c-84345
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 228."
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
     patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų

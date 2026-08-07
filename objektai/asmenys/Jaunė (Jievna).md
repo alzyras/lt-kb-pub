@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2113b6a8c44c73eea971ad40"
+canonical_name: "Jaunė (Jievna)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jaunė (Jievna)"]
+sameAs: []
+canonical_biography: "Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje su Jaunučiu gyvenanti Gedimino našlė Jaunė (Jievna)."
 ---
 # Jaunė (Jievna)
 
@@ -84,7 +91,8 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 19."
   citata_originali: |
     Greičiausia jungiančiu veiksniu tuo laikotarpiu bus
     buvusi taip pat Vilniuje su Jaunučiu gyvenanti Gedimino
@@ -103,7 +111,8 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
 - id: c-171429
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
   citata_originali: |
     Išjos sūnūs: Algirdas (Olgerd,
     tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-

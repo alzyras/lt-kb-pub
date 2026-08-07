@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-62671"></a>
 - t-001
   teiginys: "Prūsijos ir Livonijos žmonės priešinosi kuršių belaisvių grąžinimui, remdamiesi visiems žinomais karo papročiais."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Kuršiai: 0.83"
@@ -72,7 +72,8 @@ Nenurodyta
 - id: c-63404
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
   citata_originali: |
     Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
     kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.
@@ -95,7 +96,8 @@ Nenurodyta
 - id: c-63405
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
   citata_originali: |
     Šiam patarimui nepritarė Danijos
     karaliaus iš Revelio347 kariai ir daugybė kitų, tvirtindami, kad be arklių jie nestengsią

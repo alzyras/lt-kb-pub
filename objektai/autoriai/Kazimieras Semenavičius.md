@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ca24842a70b4a49a431c22b6"
+canonical_name: "Kazimieras Semenavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Semenavičiaus","K. Semenavičius","Kazimieras Semenavičius","Kazimiero Semenavičiaus"]
+sameAs: []
+canonical_biography: "Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšmingiausias originalios karinės inžinerijos mokyklos darbas; veikale siejamos šiuolaikinės artilerijos ir kosmonautikos ištakos bei daugiapakopių raketų teorija."
 ---
 # Kazimieras Semenavičius
 
@@ -118,7 +125,8 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 - id: c-16789
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 63."
   citata_originali: |
     Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
     pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
@@ -140,7 +148,8 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 - id: c-70088
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 81."
   citata_originali: |
     Yra ir kitas senojo Vilniaus universiteto
     istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
@@ -157,7 +166,8 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 - id: c-70089
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 80."
   citata_originali: |
     Baroko
     epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
@@ -180,7 +190,8 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 - id: c-70091
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 63."
   citata_originali: |
     Todėl ir Lietuvos XVII–XVIII a. istoriją apibūdi-
     name Baroko epochos sąvoka, suteikdami jai tokį patį turinį, kokį Vakarų

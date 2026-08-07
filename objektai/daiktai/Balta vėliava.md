@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184714
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 230"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 230."
   citata_originali: |
     Albertas pats nestengsiąs su meldžionimis
     nei netikėlių sudrausti, nei gudų ištremti iš Padau-

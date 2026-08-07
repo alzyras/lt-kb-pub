@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-169089
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 251."
   citata_originali: |
     Užėmęs kovos lau­
     ką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­

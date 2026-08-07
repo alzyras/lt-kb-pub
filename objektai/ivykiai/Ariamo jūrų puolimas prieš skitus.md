@@ -58,7 +58,8 @@ Nenurodyta
 - id: c-173940
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     Skitai savo ruožtu sudarė išmintingą gynybos pla­
     ną: jie pirmiausia kreipėsi į savo kaimynus ir sąjunginin­

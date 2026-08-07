@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7b5d00b804b7ee83603f85cd"
+canonical_name: "Kazys Grinius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazys Grinius"]
+sameAs: []
+canonical_biography: "Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m. išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko Kazio Griniaus vadovaujama vyriausybė. Prezidentu išrinktas valstiečių liaudininkų lyderis Kazys Grinius. Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino M."
 ---
 # Kazys Grinius
 
@@ -105,7 +112,8 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 - id: c-21820
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     O čia dar po kie-
     toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
@@ -126,7 +134,8 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 - id: c-21821
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 156."
   citata_originali: |
     diktatoriumi, tačiau netrukus pasiūlė šį savo postą pirmajam Lietuvos
     valstybės prezidentui A. Smetonai. Šis sutiko, nes karininkai įvykdė jo
@@ -146,7 +155,8 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 - id: c-166943
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 148."
   citata_originali: |
     Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius. Vien-
     balsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo
@@ -168,7 +178,8 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 - id: c-166944
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
     valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-

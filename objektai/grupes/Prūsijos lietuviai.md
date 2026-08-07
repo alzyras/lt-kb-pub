@@ -38,16 +38,22 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
 <a id="claim-t-189461"></a>
 - t-001
   teiginys: "Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų, kaip liudija Karaliaučiaus bažnyčios Agenda."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsijos lietuviai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsijos lietuviai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-176981
-    - c-176982
+    - c-172348
 
 <a id="claim-t-194582"></a>
 - t-002
@@ -80,7 +86,8 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
 - id: c-172348
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
   citata_originali: |
     Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
     čerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­
@@ -92,14 +99,17 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   citata_rodoma: "Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas\nčerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­\ngų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute­\nronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny­\nčios Agenda.\nMilda (Milda)\nMeilės ir piršlybų deivė, kitaip Aleksotą (Alexota)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-176981
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 186."
   citata_originali: |
     O dėl Saulės vedybų su Mėnesiu, tai turime išlikusią Prū­
     sijos lietuvių dainą, kurioje yra senųjų padavimų pėdsakų, ne
@@ -116,13 +126,13 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-176982
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 189."
   citata_originali: |
     O į klausimą, kada apsi­
     vilkti baltus vestuvinius drabužius, motina atsako: tą dieną,
@@ -137,5 +147,4 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003

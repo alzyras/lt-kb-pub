@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-83268
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 155."
   citata_originali: |
     Vien tik Vytauto privilegi­
     jos Rygos, vokiečių ir rusų pirkliams, liudijančios, kaip uoliai

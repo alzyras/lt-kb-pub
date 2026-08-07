@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-578468ef85069aa10a0ade5e"
+canonical_name: "Šulskis (senas ūkininkas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šulskis","Šulskis (senas ūkininkas)","Šulskiukas"]
+sameAs: []
+canonical_biography: "Šulskis šiame pasakojime minimas kaip senas ūkininkas, prisimenantis savo kelią iš berno į ūkio šeimininkus ir minimas kaip turintis pinigų bei javų."
 ---
 # Šulskis (senas ūkininkas)
 

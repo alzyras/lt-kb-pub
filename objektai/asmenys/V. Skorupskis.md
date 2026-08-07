@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2c87672413376730482eb0fc"
+canonical_name: "V. Skorupskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Skorupskis"]
+sameAs: []
+canonical_biography: "Skorupskio vadovaujamai kolonai (1-ojo pėst."
 ---
 # V. Skorupskis
 
@@ -51,7 +58,8 @@ Skorupskio vadovaujamai kolonai (1-ojo pėst.
 - id: c-44551
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 190."
   citata_originali: |
     K. Škirpos
     vadovaujamai kolonai (Vilniaus atskira-

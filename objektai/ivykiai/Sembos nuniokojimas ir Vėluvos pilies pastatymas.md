@@ -121,7 +121,8 @@ Nenurodyta
 - id: c-63785
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107."
   citata_originali: |
     Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
     Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
@@ -148,7 +149,8 @@ Nenurodyta
 - id: c-63786
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107."
   citata_originali: |
     Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
     bei jo sūnų Maudelį331 su daugybe ginklanešių. Vis dėlto štai kokios nuostabios esama

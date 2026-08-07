@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-568d1ee85b9a0f674af0c5f2"
+canonical_name: "Jekaterina II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jekaterina II"]
+sameAs: []
+canonical_biography: "Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi net konkrečias gubernijas, kuriose gali gyventi žydai. Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus. Karalius laikėsi pozicijos, kad Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos 21 dieną iš Jekaterinos II gautą notą."
 ---
 # Jekaterina II
 
@@ -134,7 +141,8 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 - id: c-41979
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 143."
   citata_originali: |
     Augusto Poniatovskio globėjus
     Čartoriskius, savo ruožtu, rėmė Rusijos im-
@@ -155,7 +163,8 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 - id: c-41980
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 143."
   citata_originali: |
     Todėl Jekaterina 11 parėmė
 
@@ -180,7 +189,8 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 - id: c-154732
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 100."
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     100
@@ -204,7 +214,8 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 - id: c-154735
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 96."
   citata_originali: |
     Rugsėjo 11 dieną Targovicos ir Vilniaus
     konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir

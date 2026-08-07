@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184734
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 373"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 373."
   citata_originali: |
     Taip įdavęs popiežius kraugeriams gyvybą ir
     turtą lietuvių ir žemaičių Parusny neliovės dar di­

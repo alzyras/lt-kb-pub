@@ -41,9 +41,9 @@ Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakcij
 ## Citatos
 
 - id: c-184793
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 5"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 5."
   citata_originali: |
     Netrukus Teodoras Narbutas paskelbs ir
     vėlyvąją Lietuvos metraščio redakciją — Bychovco

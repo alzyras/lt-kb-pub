@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6201e31646e7c3c84f63c07a"
+canonical_name: "Giovanni Zaor"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Giovanni Zaor"]
+sameAs: []
+canonical_biography: "Iš Krokuvos pakviestas italas Giovanni Zaor 1668 metais pradėjo Šv. Petro ir Povilo bažnyčią ir ją užbaigė per aštuonerius metus."
 ---
 # Giovanni Zaor
 

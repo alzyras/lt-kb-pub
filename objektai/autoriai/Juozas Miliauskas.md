@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9baade5773f296e06961cacf"
+canonical_name: "Juozas Miliauskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Juozas Miliauskas"]
+sameAs: []
+canonical_biography: "Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYNĖS TANKUMYNE Ištrauka iš netoli sienos su Prūsija kovojusio sukilimo dalyvio Juozo Miliausko prisiminimų."
 ---
 # Juozas Miliauskas
 
@@ -50,7 +57,8 @@ Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYN�
 - id: c-41634
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius
 

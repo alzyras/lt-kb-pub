@@ -42,6 +42,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-db6741751d19008aa7580fbd"
+canonical_name: "Vysla"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vysla"]
+sameAs: []
+canonical_biography: "Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos)."
+place_authority: true
+historical_names: []
 ---
 # Vysla
 
@@ -324,11 +333,18 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 <a id="claim-t-181233"></a>
 - t-017
   teiginys: "Kronikos įvade Vyslos žemupys nurodomas kaip viena Kryžiuočių ordino ekspansijos į baltų žemes ploto riba."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vysla: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vysla\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-179054
+    - c-164780
 
 <a id="claim-t-181234"></a>
 - t-018
@@ -456,15 +472,22 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 <a id="claim-t-192783"></a>
 - t-025
   teiginys: "Narbutas pasakoja, kad po jotvingių pralaimėjimo belaisviai buvo pakrikštyti ir su gyvulių bandomis bei grobiu išvesti už Vyslos."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Jotvingiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vysla: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jotvingiai: mention_match, group, gap=96"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vysla\" parinktas kaip owner_note_path. Targetas \"Jotvingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-179409
+    - c-175553
 
 <a id="claim-t-192784"></a>
 - t-026
@@ -741,7 +764,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-32569
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 106."
   citata_originali: |
     Iš antro tūkstantmečio pr. Kr. Rytprūsiuose, palei žemutinę
     Vyslą, jau yra žinomi upių krantų aukštumose įkurti kuopiniai
@@ -757,7 +781,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164777
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 18-20"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 18-20."
   citata_originali: |
     Šis mūšis
 
@@ -798,7 +823,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164778
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau
     pradėjo juos iš paskutiniųjų persekioti. Todėl dviejų upių santakoje, būtent: Vyslos ir
@@ -817,7 +843,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164779
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
   citata_originali: |
     Tačiau nesulauksite, nedorieji, nesulauksite, nes esate nelyginant dulkės,
     kurias vėjas nuneša nuo žemės paviršiaus! Pakilo stiprus vėjas ir nunešė visus tuos
@@ -837,7 +864,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164780
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
   citata_originali: |
     Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
     ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
@@ -853,14 +881,17 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   citata_rodoma: "Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui\nir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių\nfeodalų, Kryžiuočių ordino ekspansiją  į baltų—prūsų, jotvingių, lietuvių žemes,\nniokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos,\nNevėžio ir Nemuno aukštupio, ilgą ir sunkią šių žemių gyventojų, Lietuvos valstybės\nkovą prieš agresiją.\n  Kronikoje pateikti faktai griauna pastaruoju metu Vakarų Vokietijos revanšistinių\nsluoksnių puoselėjamą koncepciją apie tariamai „taikų“ vokiečių feodalų skverbimąsi\nviduramžiais  į Rytus, atskleidžia tos agresijos esmę  ir jos vykdytojų katalikišką\nfanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių  ir bažnytinių\nfeodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
+
 - id: c-164781
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 99."
   citata_originali: |
     Kadangi tiesa sukelia neapykantą,
     kadangi niekšai niekad jos nepaiso, nors visados apie ją kalba, tai ir šis klastingasis
@@ -882,7 +913,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164782
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 102."
   citata_originali: |
     Mezolito žmogaus stovyklavietėse Lietuvoje buvo rasta daug
     titnaginių ir kalninių įrankių (strėlių, ylų, peiliukų, kailiams gram­
@@ -905,7 +937,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164783
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 344."
   citata_originali: |
     Vytautas ir Jogaila 1409 m.
     gruodžio mėn. sutarė _bendrą_ karinį planą, kuris už pusmečio buvo
@@ -924,7 +957,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164784
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 152."
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
     52
@@ -950,7 +984,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164785
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 23."
   citata_originali: |
     1231 m. Ordino magistras iš lenkų jam
     dovanotų žemių, savo pilių kairiajame
@@ -971,7 +1006,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164786
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Prūsijos žemės aprašymas
 
@@ -993,7 +1029,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164787
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 30."
   citata_originali: |
     Iš tokio
     trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
@@ -1023,7 +1060,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
   citata_originali: |
     ——————————————————
 
@@ -1050,7 +1088,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164795
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 73."
   citata_originali: |
     Bet, neatvykus Naugardo ka-
     riuomenei, jis neįstengė paimti pilies ir, grįžęs namo, daugiau su
@@ -1070,7 +1109,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164797
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
@@ -1092,7 +1132,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164801
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 53."
   citata_originali: |
     Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
     gavo apsaugą ir išvyko į aisčių kraštą. Išplaukęs Vysla į jūrą,
@@ -1111,7 +1152,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-164803
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 345."
   citata_originali: |
     Kryžiuočiai savo kariuomenę
     išsklaidė. Tardamas, kad Jogaila puls kairiajame Vyslos krante,
@@ -1129,7 +1171,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-167263
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 28-29"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 28-29."
   citata_originali: |
     12
 
@@ -1169,7 +1212,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-168573
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 370."
   citata_originali: |
     Lietuva juto baisią maisto sto­
     ką. Norėdamas palengvinti nuniokotos tėvynės dalią,
@@ -1192,7 +1236,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-171761
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
   citata_originali: |
     Dabar pateiksime šį lietuvių mitologijos gabalėlį.
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
@@ -1215,7 +1260,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-175552
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 47."
   citata_originali: |
     Tai ir pri­
     vertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net
@@ -1236,7 +1282,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-175553
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
   citata_originali: |
     Lenkų ¡grobiu
     tapo asmenys, negalėję pakelti ginklo; jų mirtis pasigai­
@@ -1249,14 +1296,17 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   citata_rodoma: "Lenkų ¡grobiu\ntapo asmenys, negalėję pakelti ginklo; jų mirtis pasigai­\nlėjo ¡prieš jų valių. Visi jie buvo pakrikštyti ir kartu su\ngyvulių bandomis ir grobiu išvesti už Vyslos.\n134\nTie, kurie iš jotvingių dar išliko po šio liūdno įvykio,\nklajojo be jokių ryšių su kitais kraštiečiais, be valdžios,\nvyresnybės likęs kraštas buvo panašus į nykią dykrą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-025
+
 - id: c-175554
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
   citata_originali: |
     Čia dar kartą pakartosime
     aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­
@@ -1279,7 +1329,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-175555
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
   citata_originali: |
     195
     Čia neaiškinsime priežasčių, kodėl mes nepripažįstame
@@ -1303,7 +1354,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-178897
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 275."
   citata_originali: |
     Iš pradžių jis
     su kariuomene patraukė prieš Jonušą, Mazovijos ku­
@@ -1333,7 +1385,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - id: c-179054
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
   citata_originali: |
     Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
     feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
@@ -1354,13 +1407,13 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
     - t-029
 
 - id: c-179409
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
   citata_originali: |
     Jų
     vadas Kotiaih ar Komnat, Iyomotas, krito su ginklu ran­
@@ -1374,13 +1427,12 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
     - t-030
 
 - id: c-184469
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 48"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
   citata_originali: |
     Vulfstanas keliavęs jūra pagal nuo Hedaby, pre­
     kyba pagirto Šlezvigo miesto, į įtaką Yslos. Ten, sa­
@@ -1400,9 +1452,9 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     - t-031
 
 - id: c-185028
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 87"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 87."
   citata_originali: |
     Dar iki ją pa-
     naikinant Kauno pirkliai bus susidūrę su Tomo bandymais sulaikyti jų laivus Vysioje.

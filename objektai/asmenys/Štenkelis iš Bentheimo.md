@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e26d67374aba9b3eb9616cf"
+canonical_name: "Štenkelis iš Bentheimo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Štenkelis iš Bentheimo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį; maldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu."
 ---
 # Štenkelis iš Bentheimo
 
@@ -82,7 +89,8 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
 - id: c-61108
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
   citata_originali: |
     Kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės
     siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį;

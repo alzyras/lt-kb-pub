@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f93db3fafb60ba0b8a0679ba"
+canonical_name: "Nibūras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nibūras"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas cituoja Nibūrą apie pelazgus: „Tai ne prielaida, kalbu kuo tvirčiausiai istoriškai įsitikinęs“."
 ---
 # Nibūras
 
@@ -53,7 +60,8 @@ Teodoras Narbutas cituoja Nibūrą apie pelazgus: „Tai ne prielaida, kalbu kuo
 - id: c-174331
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
   citata_originali: |
     Šia prasme mūsų is­
     torija yra pernelyg jauna, nes, kiek siekia jos atmintis,

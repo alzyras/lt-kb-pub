@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0df72baa592982ec8109ac98"
+canonical_name: "Juozapas Kosakovskis (vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozapas Kosakovskis","Juozapas Kosakovskis (vyskupas)"]
+sameAs: []
+canonical_biography: "Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis ir Vilniaus vyskupas I. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birželio 28 dieną."
 ---
 # Juozapas Kosakovskis (vyskupas)
 
@@ -78,7 +85,8 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
 - id: c-21771
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 96."
   citata_originali: |
     Dėl savo
     ambicijų užsiėmė smulkiomis intrigėlėmis, susipyko su visa savo aplin-
@@ -103,7 +111,8 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
 - id: c-21772
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 97."
   citata_originali: |
     Su-
     kilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė

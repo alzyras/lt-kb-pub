@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-83253
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 200."
   citata_originali: |
     Be aukščiau išvardintų pajamų ir išlaidų notandum [pa­
     žymėtina], kad nemaža medikamentų dalis buvo išleista in

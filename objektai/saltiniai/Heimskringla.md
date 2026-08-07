@@ -58,7 +58,8 @@ Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žem�
 - id: c-84285
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 66."
   citata_originali: |
     Užsimo­
     jęs parašyti Norvegijos istoriją, sa­

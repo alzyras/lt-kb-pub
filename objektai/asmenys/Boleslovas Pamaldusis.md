@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f6bdaf13289c3ac9d101dbf1"
+canonical_name: "Boleslovas Pamaldusis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslovas Pamaldusis"]
+sameAs: []
+canonical_biography: "146 ## Puslapis 163 Il KNYGA nėtinai didelį skaičių žydų Lietuvoje ir Voluinėje, ir pačioje sosti­ nėje jaugi nemažai jų buvo, Lucke (1408 m.) visiems Lietuvos žydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­ sios Lenkijos kunigaikščio Boleslovo."
 ---
 # Boleslovas Pamaldusis
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-83617
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 162-163"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 162-163."
   citata_originali: |
     Vilno ipso die Sanctae Priscae Virginis 67
     et martyris anno D-ni 1401 [Lietuvos Lindenblatt Jahrbücher, p. 147.

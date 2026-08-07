@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-89062bed47229f85bbd6e80e"
+canonical_name: "Liudvikas Gediminas Rėza"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Liudvikas Gediminas Rėza"]
+sameAs: []
+canonical_biography: "Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad joje pasakojama apie Aušrinės ištekėjimą. Liudvikas Gediminas Rėza taip pat buvo Saulės duktė ir tarnaitė."
 ---
 # Liudvikas Gediminas Rėza
 
@@ -58,7 +65,8 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
 - id: c-173182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 190."
   citata_originali: |
     Rėza. Dainės)*.
     Visa ši dainelė yra mitologinė: joje papasakotas ištekan­
@@ -77,7 +85,8 @@ Narbutas Rėzos „Dainėse“ cituotą dainelę laiko mitologine ir rašo, kad 
 - id: c-179127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 190."
   citata_originali: |
     Taigi, pasak šio padavi­
     mo, egzistuojant dabartinei gamtai, Aušrinės antrosios ves­

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-86bc38ca72e56393bfba8803"
+canonical_name: "Mechovita"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mechovita"]
+sameAs: []
+canonical_biography: "Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė, kad prie Drohičino vartotos jotvingių kalbos lietuviai nesuprasdavo. Narbuto vertinimu, Mechovitos padavimuose esanti prielaida apie jotvingių dukras atrodė pasitvirtinanti polesiečių moterų išvaizdoje. Narbuto leidime lotyniška citata nurodyta kaip paimta iš M. Mechovitos 1517 m. Krokuvoje išleisto veikalo „Tractatus de duabus sarmatiis Asiana et Europiana“."
 ---
 # Mechovita
 
@@ -105,7 +112,8 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
 - id: c-174457
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
   citata_originali: |
     Veikiau reikėtų daryti išva­
     dą, jog buvę keli šios Skomantų giminės kariūnai1. Me-
@@ -123,7 +131,8 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
 - id: c-174458
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 137."
   citata_originali: |
     Nei
     inazovietėms, nei lenkėms, nei rusėms, nei lietuvėms ar
@@ -148,7 +157,8 @@ Narbuto vertinimu, Mechovita maišė jotvingių ir lietuvių kilmę, nors rašė
 - id: c-174459
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 512"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 512."
   citata_originali: |
     Lotyniška citata paimta iš M. Mechovitos veikalo: Tractatus de
     duabus sarmatiis Asiana et Europiana, et de continentis in eis.

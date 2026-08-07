@@ -60,7 +60,8 @@ Dusburgietis teigia, kad воронин H.
 - id: c-62044
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 277"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 277."
   citata_originali: |
     Воронин H. Н. Древнее Гродно (по материалам археологических раскопок 1932—
     1949 гг.). — Материалы и исследования по археологии СССР, М., 1954, № 41.

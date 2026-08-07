@@ -70,7 +70,7 @@ Nenurodyta
 <a id="claim-t-185560"></a>
 - t-002
   teiginys: "Gandas apie su didele kariuomene ateinantį Prūsijos magistrą sužlugdė lietuvių viltis paimti Christmemelio pilį."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -135,7 +135,8 @@ Nenurodyta
 - id: c-168920
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 191."
   citata_originali: |
     Kryžiuočių kariai, atskubėję iš
     iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau­
@@ -169,7 +170,8 @@ Nenurodyta
 - id: c-168921
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 191."
   citata_originali: |
     Atsitraukiančių lietuvių magist­
     ras nepersekiojo, tačiau nusiaubė artimiausius Lietuvos

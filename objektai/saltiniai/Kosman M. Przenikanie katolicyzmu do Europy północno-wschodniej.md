@@ -51,7 +51,8 @@ Dusburgietis teigia, kad kosman M.
 - id: c-61735
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
   citata_originali: |
     Kosman M. Przenikanie katolicyzmu do Europy północno-wschodniej.—Katolicyzm
     średniowieczny, Warszawa, 1977, s. 107—132.

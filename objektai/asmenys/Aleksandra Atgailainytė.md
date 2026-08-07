@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-659250aaf16b7c26d2e540bc"
+canonical_name: "Aleksandra Atgailainytė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandra Atgailainytė"]
+sameAs: []
+canonical_biography: "Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos partizanė Aleksandra Atgailainytė."
 ---
 # Aleksandra Atgailainytė
 
@@ -50,7 +57,8 @@ Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos partizanė Aleksandra 
 - id: c-41279
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 244."
   citata_originali: |
     Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos par-
     tizanė Aleksandra Atgailainytė. Ji buvo suimta, po bevaisių tar-

@@ -59,7 +59,8 @@ Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadinta
 - id: c-174719
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 363."
   citata_originali: |
     Pilys padėjo apsiginti iš Mazovijos pusės, bet isto­
     rija nemini pilių pavadinimų, net nežinome, kur gyveno

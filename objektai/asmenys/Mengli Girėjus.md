@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a6e8f81128d991305fad771a"
+canonical_name: "Mengli Girėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mengli Girėjus"]
+sameAs: []
+canonical_biography: "Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus. Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas. Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido."
 ---
 # Mengli Girėjus
 
@@ -140,7 +147,8 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
 - id: c-177385
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 582"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 582."
   citata_originali: |
     Išklausė
     dangus varguolio maldų. Mengli Girėjaus kariai, veda­
@@ -160,7 +168,8 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
 - id: c-177386
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 618"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 618."
   citata_originali: |
     Lie­
     tuviai ir lenkai atsiėmė šešiolika tūkstančių belaisvių,
@@ -184,7 +193,8 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
 - id: c-177387
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 632"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 632."
   citata_originali: |
     Pra­
     sidėjus žiemai, užėjo blogi orai, ir nebeliko nieko kito,
@@ -210,7 +220,8 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
 - id: c-177388
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Pats žygis
 
@@ -231,7 +242,8 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
 - id: c-178765
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 613"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 613."
   citata_originali: |
     Tais pačiais metais
     Krymo skitai, vedami Biti

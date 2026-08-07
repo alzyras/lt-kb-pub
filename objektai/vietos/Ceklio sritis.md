@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0b346b926e9ae3b565c17dae"
+canonical_name: "Ceklio sritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ceklio sritis"]
+sameAs: []
+canonical_biography: "Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Ventos krantą (A."
+place_authority: true
+historical_names: []
 ---
 # Ceklio sritis
 
@@ -51,7 +60,8 @@ Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Vent
 - id: c-33812
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 122."
   citata_originali: |
     Iš XI-XII amž. danų šaltinių (Genealogia regum
     Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai

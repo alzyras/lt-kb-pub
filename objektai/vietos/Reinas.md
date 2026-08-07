@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7b6304ff473f01b2bdffa075"
+canonical_name: "Reinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Reinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu karaliaus Rudolfo pirmagimis, grįždamas po pergalingo žygio prieš Savojos 598 Didžiuoju magistru buvo 1274—1283 m. ar 1273—1282 m. grafą, prigėrė Reine (Ptol."
+place_authority: true
+historical_names: []
 ---
 # Reinas
 
@@ -102,7 +111,8 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 - id: c-59347
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 236-237"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236-237."
   citata_originali: |
     59. Apie Rudolfo, karaliaus, pirmagimio mirtį
 
@@ -123,7 +133,8 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 - id: c-175508
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
@@ -146,7 +157,8 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 - id: c-179395
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Fosas teigia, jog jis pasiekė tik Reiną ar
     toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­

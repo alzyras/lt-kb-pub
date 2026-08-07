@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e3f7f0c49a142c20e73dd50f"
+canonical_name: "Pranas Morkus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pranas Morkus"]
+sameAs: []
+canonical_biography: "Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti žurnalą „Sintaksis“, teikė informaciją iš."
 ---
 # Pranas Morkus
 
@@ -61,7 +68,8 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 - id: c-21944
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 229."
   citata_originali: |
     Disidentinis judėjimas sten-
     gėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų

@@ -58,7 +58,8 @@ Lietuvos TSR archeologijos atlasas, I : Akmens ir žalva­ rio amžiaus paminkla
 - id: c-33634
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 103."
   citata_originali: |
     — Gimbutienė (Gimbutas), Marija : _Lietuvos proistorė,_ LE, t. 15,
     269-291 p. — (”) GiB ; šios knygos ital. vertimas : _I Baltici,_ Milano 1967.

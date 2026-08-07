@@ -62,7 +62,8 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 - id: c-69240
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 232."
   citata_originali: |
     Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos
     pavasaris suaktyvino kitaminčius. Sovietinėje sistemoje egzistavę hipių ar
@@ -84,7 +85,8 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 - id: c-166821
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 232."
   citata_originali: |
     Sovietinėje sistemoje egzistavę hipių ar
     pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd3cb568551e9edb59a60e08"
+canonical_name: "L. Želigovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["L. Želigovskis"]
+sameAs: []
+canonical_biography: "Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vidurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos (Litwa środkowa) sudarymą."
 ---
 # L. Želigovskis
 
@@ -104,7 +111,8 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 - id: c-21849
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Ši trijų dalių Lietuvos sampra-
     ta, pasitelkiama neva siekiant atkurti LDK tradiciją, buvo tik deklaracija,
@@ -124,7 +132,8 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 - id: c-21850
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 144."
   citata_originali: |
     Lietuviai atmetė
     bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
@@ -150,7 +159,8 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 - id: c-166951
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 144."
   citata_originali: |
     Nors 1920 m.
     spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį

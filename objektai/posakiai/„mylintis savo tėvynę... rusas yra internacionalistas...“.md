@@ -32,7 +32,8 @@ Populiarus to meto posakis, kad mylintis savo tėvynę, kalbą, kultūrą rusas 
 - id: c-23645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 223."
   citata_originali: |
     Lietuvoje išplėtota rusų kalbos mokymo bazė.
     Sumažėjo lietuvių kalbos vaidmuo viešajame gyvenime – lietuvių kal-

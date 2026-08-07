@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-96ee27878bf85e8b8b21ee6d"
+canonical_name: "Baltramiejus (vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Baltramiejus (vyskupas)"]
+sameAs: []
+canonical_biography: "Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, vengdamas savo laiškuose popiežiui surašytų krikšto pažadų."
 ---
 # Baltramiejus (vyskupas)
 
@@ -63,7 +70,8 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
 - id: c-32711
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 237."
   citata_originali: |
     Naugardu
     sudarė sutartį prieš Gediminą, kurį juodino, rašydami krikščionių

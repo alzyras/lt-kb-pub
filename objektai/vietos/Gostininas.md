@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-36732e3b8aac063813a4900d"
+canonical_name: "Gostininas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gostininas"]
+sameAs: []
+canonical_biography: "Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui. Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį perdavė Konradui."
+place_authority: true
+historical_names: []
 ---
 # Gostininas
 
@@ -53,7 +62,8 @@ Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vlad
 - id: c-168686
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 157."
   citata_originali: |
     Pa­
     kviesti Konrado, Čersko Mazovijos kunigaikščio, at­

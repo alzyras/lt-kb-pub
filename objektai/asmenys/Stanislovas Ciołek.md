@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-01ef1f4ea33fb8151b5cfe19"
+canonical_name: "Stanislovas Ciołek"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Ciołek"]
+sameAs: []
+canonical_biography: "Dėl jo energingos paramos Mozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­ rūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui Vyt."
 ---
 # Stanislovas Ciołek
 
@@ -52,7 +59,8 @@ Dėl jo energingos paramos Mozūrų kancleris Ziemovitas gavo Płocko vyskupo so
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 219."
   citata_originali: |
     Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to
     meto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­

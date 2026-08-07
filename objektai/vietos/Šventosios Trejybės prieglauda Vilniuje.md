@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6f5a1e082f7890801783e5bd"
+canonical_name: "Šventosios Trejybės prieglauda Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventosios Trejybės prieglauda Vilniuje"]
+sameAs: []
+canonical_biography: "Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėtimo prie dominikonų vienuolyno Šv."
+place_authority: true
+historical_names: []
 ---
 # Šventosios Trejybės prieglauda Vilniuje
 
@@ -49,7 +58,8 @@ Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėti
 - id: c-82267
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 354."
   citata_originali: |
     Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­
     glaudos praplėtimo prie dominikonų vienuolyno Šv. Dva­

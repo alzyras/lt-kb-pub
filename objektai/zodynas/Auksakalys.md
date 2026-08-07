@@ -94,7 +94,8 @@ Vartojamas kaip istorinis amato pavadinimas ir kaip redakcinio pakeitimo objekta
 - id: c-175127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 488"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
   citata_originali: |
     T. Narbutas, rengdamas antrąjį LTI leidimą, žodį „auksakalys“ (zlotnik), pakeitė žodžiu „prekiautojas“ (kramnik) (PE. L. 143).
   citata_rodoma: "T. Narbutas, rengdamas antrąjį LTI leidimą, žodį „auksakalys“ (zlotnik), pakeitė žodžiu „prekiautojas“ (kramnik) (PE. L. 143)."

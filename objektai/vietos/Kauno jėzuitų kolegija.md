@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-adf57899a94eb802925a9b0b"
+canonical_name: "Kauno jėzuitų kolegija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno jėzuitų kolegija"]
+sameAs: []
+canonical_biography: "O kad knygos Kauno vienuolynams būdavo perduodamos praėjus daug laiko nuo jų išspausdinimo, rodo tai, kad 1563 m. Ernesto Vogelino spaustuvėje Leipcige išleista Biblija Kauno jėzuitų kolegijai buvo dovanota tik 1752 m."
+place_authority: true
+historical_names: []
 ---
 # Kauno jėzuitų kolegija
 
@@ -49,9 +58,9 @@ O kad knygos Kauno vienuolynams būdavo perduodamos praėjus daug laiko nuo jų 
 ## Citatos
 
 - id: c-185079
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 354"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 354."
   citata_originali: |
     Lietuvos bernardinų istorijos tyrinėtojams nežinomas gvardijonas
     Eustachijus Vištortas. O kad knygos Kauno vienuolynams būdavo perduodamos praėjus

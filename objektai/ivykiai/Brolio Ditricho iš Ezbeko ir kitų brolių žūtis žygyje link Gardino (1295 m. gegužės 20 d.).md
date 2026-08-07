@@ -102,7 +102,8 @@ Nenurodyta
 - id: c-66716
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Tačiau dievas, kuris neleidžia, kad juo įtikėjusios
     tautos drebėtų iš baimės ir, gailestingai teikdamas taiką, saugo krikščionių žemes nuo
@@ -128,7 +129,8 @@ Nenurodyta
 - id: c-66717
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Vis dėlto, kai
     Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,

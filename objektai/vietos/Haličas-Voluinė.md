@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b11676bbb7165943eeccf791"
+canonical_name: "Haličas-Voluinė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Haličas-Voluinė"]
+sameAs: []
+canonical_biography: "Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
+place_authority: true
+historical_names: []
 ---
 # Haličas-Voluinė
 
@@ -47,7 +56,8 @@ Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) i
 - id: c-176448
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 20."
   citata_originali: |
     Pasiekimai vakaruose Gediminui leido
     plėsti savo valstybę rytuose. Prie jau anksčiau lietuvių užvaldytų

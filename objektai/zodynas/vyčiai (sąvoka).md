@@ -46,9 +46,9 @@ Tie, kurie į karę traukė ūkę nuo neprietelių ginti, vadinos vyčiais, nuo 
 ## Citatos
 
 - id: c-184564
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 94"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 94."
   citata_originali: |
     Bet, rei­
     kiant kariauti su kokia tauta, pakeltas nuo kareivių

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9aff5cc58925d85ccc4044a7"
+canonical_name: "Kipčakas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kipčakas"]
+sameAs: []
+canonical_biography: "Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan Vytauto pagalba atsisėdo Didysis Machmetas, kuris išsilaikė net iki 1437 ar 1438 metų, nors Timur Kotlogo ainiai jį pašalinti visaip dar vis stengėsi."
+place_authority: true
+historical_names: []
 ---
 # Kipčakas
 
@@ -61,7 +70,8 @@ Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan V
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 299."
   citata_originali: |
     Pagaliau valdovų kaitaliojimasis pa­
     sibaigė 1424 met., kai Kipčako sostan Vytauto pagalba atsisėdo

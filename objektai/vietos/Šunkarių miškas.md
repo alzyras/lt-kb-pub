@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fef32cc7d4df651acc0cf23d"
+canonical_name: "Šunkarių miškas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šunkarių miškas"]
+sameAs: []
+canonical_biography: "Žuvo 1949 m. rugsėjo 28 d. Šakių apskrities Jankų valsčiaus Šunkarių miške patekęs į pasalą."
+place_authority: true
+historical_names: []
 ---
 # Šunkarių miškas
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-45474
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 238."
   citata_originali: |
     1948 m. spalio 8 d. tapo Tauro
     apygardos, vienijusios Suvalkijos re-

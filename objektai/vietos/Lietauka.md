@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a25744d014e01c0cb59b38bf"
+canonical_name: "Lietauka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lietauka","Lietaukos"]
+sameAs: []
+canonical_biography: "Lietauka minima Lietuvos vardo kilmės aiškinime kaip nedidelis upelis, įtekantis į Nerį netoli Kernavės; leidinyje pabrėžiama, kad upelis galėjo būti pavadintas nuo Lietuvos žemės vardo."
+place_authority: true
+historical_names: []
 ---
 # Lietauka
 
@@ -119,7 +128,8 @@ Nenurodyta
 - id: c-16570
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 13."
   citata_originali: |
     Kalbininkai yra nustatę, kad lietuvių kalba atsiskyrė nuo latvių
     apie VII a. Tačiau lietuviškai kalbantys žmonės nebūtinai save vadino
@@ -139,7 +149,8 @@ Nenurodyta
 - id: c-16571
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 13."
   citata_originali: |
     Tradiciškai manoma, kad Lietuvos valstybės bran-
     duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
@@ -158,7 +169,8 @@ Nenurodyta
 - id: c-49437
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 13."
   citata_originali: |
     Tačiau lietuviškai kalbantys žmonės nebūtinai save vadino
     lietuviais, o savo žemę – Lietuva. Iki šiol labiausiai paplitusi versija buvo

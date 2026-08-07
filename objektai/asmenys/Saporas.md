@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42db2fa04e0e90d822f31841"
+canonical_name: "Saporas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Saporas"]
+sameAs: []
+canonical_biography: "Narbuto perteikiamame istoriniame padavime persų karalius Saporas žiemojo prie Volgos vidurupio, kai Julijonas siuntė pas jį žygūnus. Saporas priklausė minėtai tautai."
 ---
 # Saporas
 
@@ -70,7 +77,8 @@ Narbuto perteikiamame istoriniame padavime persų karalius Saporas žiemojo prie
 - id: c-174343
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Naru­
     ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­

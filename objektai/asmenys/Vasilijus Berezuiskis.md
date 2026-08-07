@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88449297a08793e8d63deb54"
+canonical_name: "Vasilijus Berezuiskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vasilijus Berezuiskis"]
+sameAs: []
+canonical_biography: "Ant Volokolamsko tilto buvo mirtinai (lietuvio ietimi) sužeistas kunigaikštis Vasilijus Berezuiskis."
 ---
 # Vasilijus Berezuiskis
 
@@ -51,7 +58,8 @@ Ant Volokolamsko tilto buvo mirtinai (lietuvio ietimi) sužeistas kunigaikštis 
 - id: c-41467
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 50."
   citata_originali: |
     Lapkričio 26-ąją Algirdo pajėgos ap-
     supo Volokolamską. Mūšis tęsėsi dvi die-

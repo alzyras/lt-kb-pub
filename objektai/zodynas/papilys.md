@@ -45,14 +45,21 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 <a id="claim-t-58772"></a>
 - t-001
   teiginys: "1313 m. rudenį maršalas Henrikas užpuolė Bisenės pilį, o po ilgų kovų sudegė abu jos papiliai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bisenė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "papilys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bisenė: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"papilys\" parinktas kaip owner_note_path. Targetas \"Bisenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1313 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata."
   pagrindžia:
-    - c-59410
+    - c-59411
 
 <a id="claim-t-58773"></a>
 - t-002
@@ -95,23 +102,37 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 <a id="claim-t-58775"></a>
 - t-004
   teiginys: "Konrado Štangės žvalgas prie Junigedos pilies pranešė, kad lauke, pilyje ir papilyje pilna karių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jokūbas (vėliau Urbonas IV): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "papilys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Jokūbas (vėliau Urbonas IV): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"papilys\" parinktas kaip owner_note_path. Targetas \"Jokūbas (vėliau Urbonas IV)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59404
+    - c-59405
 
 <a id="claim-t-58776"></a>
 - t-005
   teiginys: "1324 m. gegužės 22 d. Ditrichas iš Altenburgo su Ordino pajėgomis užpuolė ir sudegino Gedimino pilies papilį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ditrichas iš Altenburgo: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "papilys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Ditrichas iš Altenburgo: mention_match, person, gap=80"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"papilys\" parinktas kaip owner_note_path. Targetas \"Ditrichas iš Altenburgo\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1324 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo veikėją, datą ir veiksmą."
   pagrindžia:
-    - c-59410
+    - c-59416
 
 <a id="claim-t-58777"></a>
 - t-006
@@ -507,7 +528,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - id: c-59404
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką,
     kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet
@@ -525,13 +547,13 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-006
 
 - id: c-59405
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
   citata_originali: |
     Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
     dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,
@@ -541,14 +563,17 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   citata_rodoma: "Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo\ndieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,\npasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo atgal\nir pasakė, kad visame lauke ir pilyje bei papilyje pilna karių. Šitai išgirdę, broliai ir kiti,\nlabai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-59406
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 201."
   citata_originali: |
     299 (292). Apie tą patį
     Tų pačių metų rudenį, kai jau buvo atstatytas minėtasis papilys, o jame sukrauta visi
@@ -568,7 +593,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - id: c-59407
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
   citata_originali: |
     Apie Junigedos ir Pieštvės papilių sudeginimą
 
@@ -592,7 +618,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - id: c-59408
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
   citata_originali: |
     533 Junigedos, Junigėdos (Veliuonos)  pilis greičiausiai buvo rytiniame Veliuonos
     piliakalnyje, kuris vadinamas Gedimino kapu (LAA, 2, p. 179, Nr. 804). Prie pilies buvo du
@@ -609,7 +636,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - id: c-59409
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 199."
   citata_originali: |
     Apie Gardino papilio sunaikinimą
     1306 viešpaties metais brolis Konradas, magistras, iš patikimų šaltinių sužinojęs, kad
@@ -633,7 +661,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - id: c-59410
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
     Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
@@ -653,8 +682,6 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-005
     - t-008
     - t-016
     - t-019
@@ -662,7 +689,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - id: c-59411
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
   citata_originali: |
     Apie Bisenės papilių sudeginimą 1313 metais
 
@@ -677,14 +705,17 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   citata_rodoma: "Apie Bisenės papilių sudeginimą 1313 metais\n\n  Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais\nužpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų,\nabu jos papiliai supleškėjo ugnyje.\n\n\n\n\n                320 (313)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-59412
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
   citata_originali: |
     Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
     1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe
@@ -707,7 +738,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - id: c-59413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
   citata_originali: |
     Šen. romėnų turma — 30—32
     raiteliai.
@@ -725,7 +757,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - id: c-59414
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184."
   citata_originali: |
     Apie Junigedos pilies papilių sudeginimą
     1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių,
@@ -746,7 +779,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - id: c-59416
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
   citata_originali: |
     Apie Gedimino pilies papilio sudeginimą 1324 metais
 
@@ -759,14 +793,17 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   citata_rodoma: "Apie Gedimino pilies papilio sudeginimą 1324 metais\n\n  Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras,  ir 44\nbroliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies\npapilį, sudegino jį ir išžudė visus žmones, kuriuos jame surado, išskyrus tuos, kuriems\npavyko pasprukti  į pilį. Broliai neteko trijų Notangos vyrų, kritusių kovoje, ir dviejų,\nkuriuos paėmė į nelaisvę. Pakliuvo  į nelaisvę ir brolis Oteris, tačiau neilgai trukus jam\npavyko stebuklingai išsigelbėti. Žinoma, jis dešimt dienų išbuvo kelyje be maisto."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-167394
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Šito įvykio išgąsdinti, raiteliai bei pėstininkai
     susijungė ir įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su savo kariuomene
@@ -789,7 +826,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - id: c-167395
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą
 
@@ -810,7 +848,8 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - id: c-178657
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 177."
   citata_originali: |
     Kanonas,
     1299 m e ta i
@@ -835,9 +874,9 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-020
 
 - id: c-184305
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 511"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 511."
   citata_originali: |
     Noris dar tą pačią vasarą marčelga kryžėjų su
     visa kariauna norėjęs buvo viršiaus minavotą Bis-

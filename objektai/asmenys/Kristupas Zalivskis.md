@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15363d85b0d9e40da5689879"
+canonical_name: "Kristupas Zalivskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristupas Zalivskis"]
+sameAs: []
+canonical_biography: "Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams."
 ---
 # Kristupas Zalivskis
 
@@ -61,7 +68,8 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
 - id: c-83740
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196."
   citata_originali: |
     Po Cimermano namas atiteko ma­
     loningiesiems ponams Savickiams.

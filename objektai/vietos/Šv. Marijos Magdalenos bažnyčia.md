@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ad2f6cb0f53d97958b4c042"
+canonical_name: "Šv. Marijos Magdalenos bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Marijos Magdalenos bažnyčia"]
+sameAs: []
+canonical_biography: "Marijos Magdalenos baž­ nyčios, po dešine ranka Skapo gatvėje ant paties kampo esantį ir vadinamą Skapo vardu\"."
+place_authority: true
+historical_names: []
 ---
 # Šv. Marijos Magdalenos bažnyčia
 
@@ -59,7 +68,8 @@ Marijos Magdalenos baž­ nyčios, po dešine ranka Skapo gatvėje ant paties ka
 - id: c-82264
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Tačiau 1573 metais
     kovo 26 dieną su kapitula įsigaliojo

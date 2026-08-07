@@ -74,7 +74,8 @@ Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta,
 - id: c-172024
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
   citata_originali: |
     Svarbiausias dalykas laidotuvėse buvo raudotojos; many­
     ta, kad jos nuraminančios vėles. Sis paprotys žmonėse tebegy­
@@ -93,7 +94,8 @@ Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta,
 - id: c-172025
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     Erazmas Ste­
     la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina,

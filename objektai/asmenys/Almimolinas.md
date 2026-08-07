@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bdca0ab52094bbf5bd916437"
+canonical_name: "Almimolinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Almimolinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totorių Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių į Ispaniją ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį."
 ---
 # Almimolinas
 
@@ -52,7 +59,8 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 - id: c-60867
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 226."
   citata_originali: |
     Apie tai, kaip Ispanijoje buvo užmušta daugybė totorių
 

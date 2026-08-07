@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a3cf1887ebf26b0e4e6429be"
+canonical_name: "Heidenreichas (vyskupas, XIII–XIV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Heidenreichas","Heidenreichas (vyskupas, XIII–XIV a.)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie brolį Heidenreichą, Kulmo vyskupą Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas432."
 ---
 # Heidenreichas (vyskupas, XIII–XIV a.)
 
@@ -76,7 +83,8 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
 - id: c-60933
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140-141"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140-141."
   citata_originali: |
     Apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie
                                   brolį Heidenreichą, Kulmo vyskupą
@@ -112,9 +120,9 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
     - t-001
 
 - id: c-184345
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 348"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 348."
   citata_originali: |
     Išleisdamas popiežius Lietuvos siuntinius įdavė
     karūną ir raštą parnešti vyskupui Kulmo, liepda­

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f34d9ff18d0b8221393d5ec0"
+canonical_name: "Bazilijus Ciapinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bazilijus Ciapinskis"]
+sameAs: []
+canonical_biography: "Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a."
 ---
 # Bazilijus Ciapinskis
 
@@ -49,7 +56,8 @@ Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.
 - id: c-21619
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 57."
   citata_originali: |
     LDK stačiatikių vienuo-
     lynuose rašyta bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pra-

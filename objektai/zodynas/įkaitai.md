@@ -62,7 +62,8 @@ media_all_json: |-
 - id: c-166391
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 139."
   citata_originali: |
     Ordi-
     nas tuo tarpu Žemaičiuose statėsi pilis ir ėmėsi visokių priemonių

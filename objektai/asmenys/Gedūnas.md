@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bc241ac93e78dde4863685bb"
+canonical_name: "Gedūnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gedūnas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą, vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama Kandeimu, gerai žinojusį visą Sembos karių galią. Dusburgietis teigia, kad gedūnas atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“. Dusburgietis teigia, kad gedūnas vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai, todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus."
 ---
 # Gedūnas
 
@@ -108,7 +115,8 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
 - id: c-60648
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Kai karalius jį paklausė, rodydamas
     tik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad
@@ -130,7 +138,8 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
 - id: c-60649
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Susitaikius Čekijos karalius
     nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
@@ -150,7 +159,8 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
 - id: c-60650
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių
     ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.
@@ -171,7 +181,8 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
 - id: c-167453
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė
     tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4e9c075d163bd9fc4193149b"
+canonical_name: "Grieser R"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Grieser R"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privilegijos suteikimo (Grieser R."
 ---
 # Grieser R
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privil
 - id: c-61340
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 52."
   citata_originali: |
     Žodis dažnai apibūdina gyvenvietę iki miesto
     privilegijos suteikimo (Grieser R. Lischke..., p. 232—241), plg. vietoves Lisken (į šiaurę

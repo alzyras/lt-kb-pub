@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-06a3a7e991cc79f6c6a98bf2"
+canonical_name: "Džiovani Ramusio"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Džiovani Ramusio"]
+sameAs: []
+canonical_biography: "Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtojas, įrodinėjęs osų arba osetinų ryšį su senovės alanais. Džiovani Ramusio buvo 1482–1557 m. gyvenęs italų mokslininkas ir politikas, ilgalaikis pasiuntinys įvairiuose Europos karališkuosiuose dvaruose."
 ---
 # Džiovani Ramusio
 
@@ -82,7 +89,8 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
 - id: c-174270
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 66."
   citata_originali: |
     68
 
@@ -108,7 +116,8 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
 - id: c-174271
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 413"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 413."
   citata_originali: |
     Paris, 1697.
     Turimas omenyje Džiovani Ramusio (1482—

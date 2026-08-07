@@ -50,7 +50,8 @@ Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vano
 - id: c-82811
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 68."
   citata_originali: |
     Pilaitė, jėzuitų buvusi, per mylią
     nuo Vilniaus atstu, dešiniajame Vilijos krante, kur pastarai­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e1e1fec3cdf183acf19c24c"
+canonical_name: "Tadas Lipinskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Tadas Lipinskis"]
+sameAs: []
+canonical_biography: "Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys tomai, kurių vienas skirtas LDK istoriniam topografiniam ap rašymui."
 ---
 # Tadas Lipinskis
 
@@ -46,7 +53,8 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 - id: c-176911
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
     rinkti su miesto istorija susijusius dokumentus. M. Balinskis pa­

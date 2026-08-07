@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-28736
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 122."
   citata_originali: |
     Kuršiai (Cori), kurių vardą Rimbertas pirmasis pamini, esą
     anksčiau priklausę švedų valdžiai. Tai patvirtina ir Hervararsaga

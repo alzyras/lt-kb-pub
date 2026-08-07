@@ -93,22 +93,30 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 <a id="claim-t-189217"></a>
 - t-004
   teiginys: "Narbutas nurodo, kad Vilniuje šventasis miškas buvęs prie Vilnios ir Neries santakos."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventasis miškelis šventasis miškas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis miškelis šventasis miškas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172104
+    - c-172105
 
 ## Citatos
 
 - id: c-172102
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 263."
   citata_originali: |
     Seniausiais amžiais, kai miškai, dengiantys žemę, buvo
     žmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra­
@@ -135,7 +143,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 - id: c-172103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Tas pats pastebima lietuvių mitologijoje; šventi buvo ištisi
     miško plotai, kur stovėjo aukurai ir šventyklos, žinoma, visuo­
@@ -161,7 +170,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 - id: c-172104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Krikščionims iš smalsumo buvo
     draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
@@ -179,12 +189,12 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
 
 - id: c-172105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 264."
   citata_originali: |
     Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
     takos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­
@@ -193,7 +203,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   citata_rodoma: "Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­\ntakos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­\nse ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo\nšventi miškeliai, daugiau ar mažiau garsūs."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

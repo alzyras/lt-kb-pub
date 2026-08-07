@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-62859"></a>
 - t-001
   teiginys: "1219 m. Lietuvos ir jotvingių jėgos puolė Lenkiją, kuri priklausė antiprūsiškai kryžiaus žygio koalicijai."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-63695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
     (t. y. 1209— 1210 m.)22. Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
@@ -102,7 +103,8 @@ Nenurodyta
 - id: c-63696
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
     žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,

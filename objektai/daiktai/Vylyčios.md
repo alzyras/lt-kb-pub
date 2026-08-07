@@ -64,7 +64,8 @@ Nenurodyta
 - id: c-10302
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 155"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 155."
   citata_originali: |
     Tarp tų stabų vienas buvęs
         pavėdus į amžiaus vyrą, kursai turėjęs veidą drąsų ir raudoną, barzdą garbanotą, ant galvos
@@ -81,7 +82,8 @@ Nenurodyta
 - id: c-10303
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 151"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 151."
   citata_originali: |
     mirusiam jo įrankį šalip padėję: ir taip, kareiviui vylyčias, kardą, seidoką^696 ar svilksnį^697
         darbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą

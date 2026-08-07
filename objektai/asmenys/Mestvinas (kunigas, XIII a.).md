@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ece36ce4c707d53fe19719b3"
+canonical_name: "Mestvinas (kunigas, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mestvinas","Mestvinas (kunigas, XIII a.)"]
+sameAs: []
+canonical_biography: "Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su kryžėjais jį sude rinti, kaipogi Mestvimas, apleistas nuo savo brolio, maž tešelpiamas nuo Baimino, kunig."
 ---
 # Mestvinas (kunigas, XIII a.)
 
@@ -54,9 +61,9 @@ Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su 
 ## Citatos
 
 - id: c-184806
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 422"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 422."
   citata_originali: |
     Tuo-
     mi įsmilintas, Otokaras susigadijo su bavarų vieš­

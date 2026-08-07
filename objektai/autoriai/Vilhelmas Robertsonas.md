@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f6bc7d9cad0590710ff79275"
+canonical_name: "Vilhelmas Robertsonas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vilhelmas Robertsonas","Vilhelmo Robertsono"]
+sameAs: []
+canonical_biography: "Įvadinis tekstas Vilhelmą Robertsoną priskiria žymiausiems XVIII-XIX a. Europos istorikams, kurių darbus vertė Vilniaus universiteto auklėtiniai."
 ---
 # Vilhelmas Robertsonas
 
@@ -51,7 +58,8 @@ media_all_json: |-
 - id: c-170930
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     Vilniuje buvo rengiamas spaudai XVI a. kroniki­
     ninko Motiejaus Strijkovskio veikalas. Vilniaus universiteto

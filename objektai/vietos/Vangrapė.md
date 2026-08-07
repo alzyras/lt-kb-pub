@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-173e85f6d9d7fdccadf14746"
+canonical_name: "Vangrapė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vangrapė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią. Dusburgietis teigia, kad 391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė (literatūroje — Ungurupė arba Unguriškė, dab."
+place_authority: true
+historical_names: []
 ---
 # Vangrapė
 
@@ -67,7 +76,8 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
 - id: c-59280
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė
     (literatūroje — Ungurupė arba Unguriškė, dab. Kaliningrado srt.— Angrapa, LLR —
@@ -85,7 +95,8 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
 - id: c-59281
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
   citata_originali: |
     Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391
     juos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto

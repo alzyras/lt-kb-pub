@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-00a84e20399a4556658e06e4"
+canonical_name: "Albertas fon Hagenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas fon Hagenas"]
+sameAs: []
+canonical_biography: "Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų. Konradas įsakė Albertui Hagenui staiga užpulti Gardino pilį ir miestą, manydamas, kad jie likę be gynėjų."
 ---
 # Albertas fon Hagenas
 
@@ -66,7 +73,8 @@ Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį b
 - id: c-169453
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 182."
   citata_originali: |
     Magistras Konradas, gavęs ži­
     nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy­

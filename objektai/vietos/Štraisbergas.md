@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dca286b717f2982f5a0f71b7"
+canonical_name: "Štraisbergas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Štraisbergas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad slupas) Šternbergas Štraisbergas (Straisbergk; vėliau Strasburg, dab."
+place_authority: true
+historical_names: []
 ---
 # Štraisbergas
 
@@ -50,7 +59,8 @@ Dusburgietis teigia, kad slupas) Šternbergas Štraisbergas (Straisbergk; vėlia
 - id: c-59386
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 319."
   citata_originali: |
     Šilinė
     Šipenas

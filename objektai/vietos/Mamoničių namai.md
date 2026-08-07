@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-556027357709b230b4c360e7"
+canonical_name: "Mamoničių namai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mamoničių namai"]
+sameAs: []
+canonical_biography: "Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių brolių Mamoničių namuose įsteigta spaustu­ vė visų pirma spausdino slaviškas knygas68. Mamoničių namai sto­ vėjo, rodos, toje vietoje, kur dabar Sledzinskio namai, Nr. 203, o šalia, kampiniame name, seniau buvo cerkvelė."
+place_authority: true
+historical_names: []
 ---
 # Mamoničių namai
 
@@ -48,7 +57,8 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 - id: c-82064
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 312."
   citata_originali: |
     1822. Mamoničių namai sto­
     vėjo, rodos, toje vietoje, kur dabar Sle-

@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4aac3d831c984c8baac01627"
+canonical_name: "P. Klimas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. Klimas","P. Klimo"]
+sameAs: []
+canonical_biography: "P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomybės laikotarpio politinis veikėjas: Vykdomojo Komiteto biuro narys bei Lietuvos Tarybos narys."
 ---
 # P. Klimas
 
@@ -127,7 +134,8 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - id: c-00089
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 3."
   citata_originali: |
     |
   citata_rodoma: "|"
@@ -140,7 +148,8 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - id: c-00132
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 552"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 552."
   citata_originali: |
     |
   citata_rodoma: "|"
@@ -153,7 +162,8 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - id: c-00133
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 554"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 554."
   citata_originali: |
     |
   citata_rodoma: "|"
@@ -167,7 +177,8 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 319."
   citata_originali: |
     15. P. Klimo, LIETUVIŲ KALBOS SINTAKSĖ. Septintasis leidimas.
     1928 m. Kaina Lt. 1,50.
@@ -182,7 +193,8 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - id: c-88463
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 135."
   citata_originali: |
     Klimas, P. : _Lietuva,
     jos gyventojai ir sienos,_ Kaunas 1917. — (”) _Lietuvos sienos rytuose.

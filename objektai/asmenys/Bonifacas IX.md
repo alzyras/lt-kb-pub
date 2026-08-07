@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-370c1fb1b88b47fd13dfef64"
+canonical_name: "Bonifacas IX"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bonifacas IX"]
+sameAs: []
+canonical_biography: "Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules, drausdami Vok. Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­ rėjo tame. Bonifacas IX rėmė Vy­ tautą karuose su turkais (1399), draudė Ordiną kariauti Lietu­ vą, padėjo įkurti Vladimiro vyskupiją, siuntė savo pasiuntinius į Lietuvą."
 ---
 # Bonifacas IX
 
@@ -105,7 +112,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 122."
   citata_originali: |
     Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam
     laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules,
@@ -125,7 +133,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 123."
   citata_originali: |
     Ordino gandus, kad Vytautas su turkais einąs prieš katalikus.
     Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir
@@ -151,7 +160,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 122."
   citata_originali: |
     Ordinu, kuris nustojo teisės rengti prieš
     Lietuvą karo žygius, prisidengiant katalikų tikėjimo skelbimu.

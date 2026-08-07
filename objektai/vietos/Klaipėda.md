@@ -36,13 +36,22 @@ media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AMemellan
 media_primary_directness: 'direct'
 media_primary_relation_type: 'map_of'
 media_primary_json: |-
-  {"mediaId":"m-921739002c69685c67817e02","title":"Memelland 1923-1939-lt.svg","caption":"Klaipėdos krašto ir Rytų Prūsijos žemėlapis 1923–1939 m., pažymint Klaipėdą kaip Memel.","originalTitle":"Memelland 1923-1939-lt.svg","creator":"File:Memelland_1923-1939-hu.svg : Szajci","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"This file was derived from: Memelland 1923-1939-nl.svg :","dateDisplay":"2022-10-01","dateStart":null,"dateEnd":null,"width":743,"height":570,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMemelland_1923-1939-lt.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Derivative versions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical regions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanian-language SVG maps showing history","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Klaipėda Region","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"SVG maps of disputed territories in Europe","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Klaipėda.md","title":"Klaipėda","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:14.012913+03:00","reviewedAt":"2026-07-11T02:45:59.757738+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Žemėlapyje matomas Memelland, miestas „Memel“ prie Kuršių marių, taip pat Tilsit, Rytų Prūsija ir Lietuvos pasienis.","metadataEvidence":"Pavadinimas „Memelland 1923-1939-lt.svg“ ir aprašymas „Istorinis Klaipėdos krašto ir šiaurinės Rytų Prūsijos dalies žemėlapis“ tiesiogiai sieja vaizdą su Klaipėdos/Memelio istorine geografija.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors žemėlapis aprėpia platesnį Klaipėdos kraštą, jame aiškiai pažymėta Klaipėda/Memel, todėl ryšys su target yra konkretus ir patikimas.","isPrimary":1}
+  {"mediaId":"m-921739002c69685c67817e02","title":"Memelland 1923-1939-lt.svg","caption":"Istorinis Klaipėdos krašto (Memelland) žemėlapis, kuriame pažymėtas Memelio miestas.","originalTitle":"Memelland 1923-1939-lt.svg","creator":"File:Memelland_1923-1939-hu.svg : Szajci","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"This file was derived from: Memelland 1923-1939-nl.svg :","dateDisplay":"2022-10-01","dateStart":null,"dateEnd":null,"width":743,"height":570,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMemelland_1923-1939-lt.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Derivative versions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical regions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanian-language SVG maps showing history","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Klaipėda Region","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"SVG maps of disputed territories in Europe","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Klaipėda.md","title":"Klaipėda","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:14.012913+03:00","reviewedAt":"2026-07-31T05:56:14.828628+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje aiškiai matomas užrašas „Memel“ prie Baltijos pakrantės, taip pat pažymėtas Memelland/Klaipėdos kraštas.","metadataEvidence":"Pavadinimas „Memelland 1923-1939-lt.svg“ ir aprašymas tiesiogiai nurodo istorinį Klaipėdos krašto žemėlapį; target turi aliasą „Memel“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Klaipėdos kraštą ir jame pažymėtą Memelio, t. y. Klaipėdos, miestą.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-921739002c69685c67817e02","title":"Memelland 1923-1939-lt.svg","caption":"Klaipėdos krašto ir Rytų Prūsijos žemėlapis 1923–1939 m., pažymint Klaipėdą kaip Memel.","originalTitle":"Memelland 1923-1939-lt.svg","creator":"File:Memelland_1923-1939-hu.svg : Szajci","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"This file was derived from: Memelland 1923-1939-nl.svg :","dateDisplay":"2022-10-01","dateStart":null,"dateEnd":null,"width":743,"height":570,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMemelland_1923-1939-lt.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Derivative versions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical regions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanian-language SVG maps showing history","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Klaipėda Region","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"SVG maps of disputed territories in Europe","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Klaipėda.md","title":"Klaipėda","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:14.012913+03:00","reviewedAt":"2026-07-11T02:45:59.757738+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Žemėlapyje matomas Memelland, miestas „Memel“ prie Kuršių marių, taip pat Tilsit, Rytų Prūsija ir Lietuvos pasienis.","metadataEvidence":"Pavadinimas „Memelland 1923-1939-lt.svg“ ir aprašymas „Istorinis Klaipėdos krašto ir šiaurinės Rytų Prūsijos dalies žemėlapis“ tiesiogiai sieja vaizdą su Klaipėdos/Memelio istorine geografija.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors žemėlapis aprėpia platesnį Klaipėdos kraštą, jame aiškiai pažymėta Klaipėda/Memel, todėl ryšys su target yra konkretus ir patikimas.","isPrimary":1}]
+  [{"mediaId":"m-921739002c69685c67817e02","title":"Memelland 1923-1939-lt.svg","caption":"Istorinis Klaipėdos krašto (Memelland) žemėlapis, kuriame pažymėtas Memelio miestas.","originalTitle":"Memelland 1923-1939-lt.svg","creator":"File:Memelland_1923-1939-hu.svg : Szajci","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"This file was derived from: Memelland 1923-1939-nl.svg :","dateDisplay":"2022-10-01","dateStart":null,"dateEnd":null,"width":743,"height":570,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMemelland_1923-1939-lt.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Derivative versions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical regions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanian-language SVG maps showing history","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Klaipėda Region","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"SVG maps of disputed territories in Europe","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Klaipėda.md","title":"Klaipėda","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:14.012913+03:00","reviewedAt":"2026-07-31T05:56:14.828628+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje aiškiai matomas užrašas „Memel“ prie Baltijos pakrantės, taip pat pažymėtas Memelland/Klaipėdos kraštas.","metadataEvidence":"Pavadinimas „Memelland 1923-1939-lt.svg“ ir aprašymas tiesiogiai nurodo istorinį Klaipėdos krašto žemėlapį; target turi aliasą „Memel“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Klaipėdos kraštą ir jame pažymėtą Memelio, t. y. Klaipėdos, miestą.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-921739002c69685c67817e02","title":"Memelland 1923-1939-lt.svg","caption":"Klaipėdos krašto ir Rytų Prūsijos žemėlapis 1923–1939 m., pažymint Klaipėdą kaip Memel.","originalTitle":"Memelland 1923-1939-lt.svg","creator":"File:Memelland_1923-1939-hu.svg : Szajci","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"This file was derived from: Memelland 1923-1939-nl.svg :","dateDisplay":"2022-10-01","dateStart":null,"dateEnd":null,"width":743,"height":570,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMemelland_1923-1939-lt.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Derivative versions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical regions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanian-language SVG maps showing history","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Klaipėda Region","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"SVG maps of disputed territories in Europe","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Klaipėda.md","title":"Klaipėda","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:14.012913+03:00","reviewedAt":"2026-07-11T02:45:59.757738+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Žemėlapyje matomas Memelland, miestas „Memel“ prie Kuršių marių, taip pat Tilsit, Rytų Prūsija ir Lietuvos pasienis.","metadataEvidence":"Pavadinimas „Memelland 1923-1939-lt.svg“ ir aprašymas „Istorinis Klaipėdos krašto ir šiaurinės Rytų Prūsijos dalies žemėlapis“ tiesiogiai sieja vaizdą su Klaipėdos/Memelio istorine geografija.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors žemėlapis aprėpia platesnį Klaipėdos kraštą, jame aiškiai pažymėta Klaipėda/Memel, todėl ryšys su target yra konkretus ir patikimas.","isPrimary":1}]
+  [{"mediaId":"m-921739002c69685c67817e02","title":"Memelland 1923-1939-lt.svg","caption":"Istorinis Klaipėdos krašto (Memelland) žemėlapis, kuriame pažymėtas Memelio miestas.","originalTitle":"Memelland 1923-1939-lt.svg","creator":"File:Memelland_1923-1939-hu.svg : Szajci","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"This file was derived from: Memelland 1923-1939-nl.svg :","dateDisplay":"2022-10-01","dateStart":null,"dateEnd":null,"width":743,"height":570,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMemelland_1923-1939-lt.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/de/Memelland_1923-1939-lt.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Derivative versions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical regions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanian-language SVG maps showing history","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Klaipėda Region","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"SVG maps of disputed territories in Europe","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Klaipėda.md","title":"Klaipėda","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:14.012913+03:00","reviewedAt":"2026-07-31T05:56:14.828628+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje aiškiai matomas užrašas „Memel“ prie Baltijos pakrantės, taip pat pažymėtas Memelland/Klaipėdos kraštas.","metadataEvidence":"Pavadinimas „Memelland 1923-1939-lt.svg“ ir aprašymas tiesiogiai nurodo istorinį Klaipėdos krašto žemėlapį; target turi aliasą „Memel“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Klaipėdos kraštą ir jame pažymėtą Memelio, t. y. Klaipėdos, miestą.","isPrimary":1}]
+entity_id: "ent-8424b19f30a7c0330cc4af46"
+canonical_name: "Klaipėda"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Klaipeda","Klaipėda","Memel","Memelis"]
+sameAs: []
+canonical_biography: "Klaipėda šiame šaltinyje minima kaip sena vietos sodyba, kurioje 1252 m. Ordinas pastatė pilį ir pavadino ją Memeliu, o vėliau miestas tapo svarbiu ginčų dėl Žemaitijos ir pajūrio punktu."
+place_authority: true
+historical_names: []
 ---
 # Klaipėda
 
@@ -710,7 +719,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-13419
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 72."
   citata_originali: |
     Tam tikslui 1252 m. Livo-
     nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
@@ -728,7 +738,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-32132
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 187."
   citata_originali: |
     Pavaduodamas susirgusį Livonijos magistrą,
     Eberhard von Seyne^135 (Deutschmeister) pastatė strategiškai svarbią
@@ -753,7 +764,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-32133
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 187."
   citata_originali: |
     Nors Klaipėdai nė iš tolo
     neteko suvaidinti tokios rolės, kuri buvo tekusi prieš lybius ir lat­
@@ -776,7 +788,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-32134
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 336."
   citata_originali: |
     Žygiais atsimokėjo ir priešas. Žemaičiai 1402 m. gegužės
     mėnesį sudegino Klaipėdą, o pats Vytautas Nevėžio žiotyse sugriovė
@@ -795,7 +808,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-32135
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 342."
   citata_originali: |
     Krito jo statytos pilys, kurių įgulos
     buvo gabenamos toli į rytus^68. Tik Klaipėda atlaikė žemaičių
@@ -813,7 +827,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-32136
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 352"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 352."
   citata_originali: |
     Tuoj po Torno taikos Vytautas ėmė reikalauti, kad į Žemaitijos
     ribas butų pripažintos dešiniojo Nemuno kranto girios su ordino
@@ -834,7 +849,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-32137
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 356."
   citata_originali: |
     Čia vėl buvo iškeltas Algirdo laikų reika­
     lavimas — perkelti ordiną į totorių ir turkų pasienį. Jogailos ir
@@ -855,7 +871,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 149."
   citata_originali: |
     Ordino pasiuntinys grįžo į Malburgą
     aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o
@@ -876,7 +893,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-43507
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 10."
   citata_originali: |
     Mindaugo ir
     vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių or-
@@ -903,7 +921,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-46536
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 323."
   citata_originali: |
     Visa Livonija, anapus Dauguvos, su Ryga
     buvo palikta švedams. Prūsijoje (ji, kaip Lenkijos lenas, buvo
@@ -922,7 +941,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86466
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 177."
   citata_originali: |
     Po nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-
     plomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva
@@ -944,7 +964,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86467
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 140."
   citata_originali: |
     Pralaimėjusi karą Vokietija tam ener-
     gingai nesipriešino, manydama sumažinti sąjungininkų intrigas. Versalio
@@ -966,7 +987,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86468
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 152."
   citata_originali: |
     Akcija pradėta laiku: Vakaruose
     vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų da-
@@ -986,7 +1008,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86469
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     Memoran-
     dumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį
@@ -1013,7 +1036,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86470
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 151."
   citata_originali: |
     Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
     nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
@@ -1032,7 +1056,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86471
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Tuo tar-
     pu žemaičiai puolė Kuršą ir niokojo jį
@@ -1053,7 +1078,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86472
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 179."
   citata_originali: |
     „Ašies“ susidarymas kilus politinei krizei dėl užsienio intervencijos rodė
     pasikeitus opozicinių partijų veiklos taktiką.
@@ -1077,7 +1103,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86473
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 217-218"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 217-218."
   citata_originali: |
     – atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į
     naujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas
@@ -1102,7 +1129,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86474
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
   citata_originali: |
     Į šiaurę nuo Nemuno žiočių, Minijos
     žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
@@ -1121,7 +1149,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86475
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
   citata_originali: |
     XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
     ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
@@ -1146,7 +1175,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86476
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 182."
   citata_originali: |
     O visa lietuvių
     nacija buvo sukrėsta, nes vyravo nuotaikos priešintis. Lietuvai suduotas ir
@@ -1165,7 +1195,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86477
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 235."
   citata_originali: |
     Kadangi iniciatyvinę
     grupę sudarė visoje šalyje žinomi in-
@@ -1185,7 +1216,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86479
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 179."
   citata_originali: |
     Susikū-
     rusios dvi vokiečių nacių organizacijos varė antivalstybinę propagandą,
@@ -1206,7 +1238,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86481
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 167."
   citata_originali: |
     Tačiau tai ir vieni, ir kiti darė savanaudiškai, nenu-
     matydami bendros strateginės partnerystės.
@@ -1227,7 +1260,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86483
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     Čia Vytautas pakartoja ankstesnių Lie-
     tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje. Tačiau vėliau
@@ -1247,7 +1281,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86484
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 239-240"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 239-240."
   citata_originali: |
     Tačiau LKP pertvar-
     kos taktika („žingsnis po žingsnio“) neparuošė valstybės tęstinumą įtvir-
@@ -1275,7 +1310,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86485
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Vysla — tai upė, atitekanti nuo
     Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
@@ -1295,7 +1331,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86486
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 182."
   citata_originali: |
     kraštą, pagrasinus, kad vokiečių kariuomenė priešingu atveju įžygiuos į
     tą teritoriją ir nežinia kur sustos, 5 valandas trukusiame Ministrų kabi-
@@ -1317,7 +1354,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86488
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Iš Dobės (šiaurėje),
     Klaipėdos (vakaruose) ir Georgenburgo
@@ -1347,7 +1385,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-86489
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 152."
   citata_originali: |
     Sausio 9-ąją civiliai aprengti 1 050 Lietuvos savanorių, kurių
     kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų
@@ -1367,7 +1406,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - id: c-167174
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Pa-
     prastai pėstininkai naudodavo dvirankius artimosios
@@ -1391,9 +1431,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
     - t-030
 
 - id: c-184418
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 444"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 444."
   citata_originali: |
     Taip besirėdant, žiemą urėdas kryžėjų
     su stipria kariauna įsigrūdo tenai ir nuo vieno pa­

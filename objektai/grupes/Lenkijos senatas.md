@@ -168,7 +168,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 - id: c-82737
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 173."
   citata_originali: |
     Deja, tik dalis tos pasiuntinybės pasie­
     kė Lietuvos sostinę: kai kuriuos jų didžialenkiai sulaikė prie
@@ -190,7 +191,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 - id: c-82738
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 175."
   citata_originali: |
     Puikų suruošia Vytautas priėmimą,
     bemaž du mėnesius užsitęsusį, mat nuo rugpjūčio pradžios
@@ -214,7 +216,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 - id: c-167898
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 417"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 417."
   citata_originali: |
     Mat žinojo, kad
     reta tokių kalbėtojų, kurie drąsiai kalba apkalbamo as­
@@ -246,7 +249,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 - id: c-167899
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Žygimantas, beveik be kovos laimėjęs karą,
     paėmė be kraujo praliejimo į savo rankas Vilnių, Tra­
@@ -272,7 +276,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 - id: c-167900
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,
@@ -302,7 +307,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 - id: c-167901
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 441-442"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 441-442."
   citata_originali: |
     Priesaika patvirtinto susitarimo pag­
     rindiniai teiginiai buvo šie: turi būti amžinai laikomasi
@@ -341,7 +347,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 - id: c-178527
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Čia šiaip ne taip
     U žim a R u sią

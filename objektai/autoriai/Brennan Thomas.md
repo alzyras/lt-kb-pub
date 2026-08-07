@@ -25,8 +25,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b2f0fbe2137adf16e29452bc"
+canonical_name: "Brennan Thomas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Brennan Thomas"]
+sameAs: []
+canonical_biography: "Brennanas Thomasas 1989 m. žurnale „Journal of Social History“ paskelbė straipsnį „Towards the Cultural History of Alcohol in France“."
 ---
 # Brennan Thomas
+
+## Santrauka
+
+Brennanas Thomasas 1989 m. žurnale „Journal of Social History“ paskelbė straipsnį „Towards the Cultural History of Alcohol in France“.
 
 ## Santrauka
 
@@ -37,7 +48,7 @@ Brennanas Thomasas 1989 m. žurnale „Journal of Social History“ paskelbė st
 <a id="claim-t-200742"></a>
 - t-001
   teiginys: "Brennanas Thomasas 1989 m. žurnale „Journal of Social History“ paskelbė straipsnį „Towards the Cultural History of Alcohol in France“."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,6 +67,6 @@ Brennanas Thomasas 1989 m. žurnale „Journal of Social History“ paskelbė st
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 18."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-001

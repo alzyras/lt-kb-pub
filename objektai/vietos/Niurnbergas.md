@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a59bcacbc0c92a6298af4e6"
+canonical_name: "Niurnbergas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Niurnbergas"]
+sameAs: []
+canonical_biography: "Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino imperatorių, kad Lietuva tikrai krikštysis."
+place_authority: true
+historical_names: []
 ---
 # Niurnbergas
 
@@ -88,7 +97,8 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 - id: c-49573
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 51."
   citata_originali: |
     Nors Niurnbergo
     auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
@@ -105,7 +115,8 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 - id: c-175963
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 105."
   citata_originali: |
     Imperatorius parašė Algirdui
     ir Kęstučiui laiškus, siūlydamas krikštytis. Abu kunigaikš-
@@ -123,9 +134,9 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - t-002
 
 - id: c-184998
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 267."
   citata_originali: |
     Kryžiaus bažnyčios klebono užsakymą iš 4 raudonųjų auksinų pagaminti žiedą
     (signetą). Jo net į Niurnbergą pasiųstą žiedą, kad ten įdėtų brangakmenį, tenykščiai

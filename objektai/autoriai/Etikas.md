@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab5200a22515b557f1262155"
+canonical_name: "Etikas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Etikas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Ksaveras Bogušas lietuvių genčių priskyrimą estams grindė Etiko „Kosmografija“."
 ---
 # Etikas
 
@@ -53,7 +60,8 @@ Narbutas rašo, kad Ksaveras Bogušas lietuvių genčių priskyrimą estams grin
 - id: c-174523
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
   citata_originali: |
     Taigi ir lietuvių gentys, gyvenusios šiose že­
     mėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-

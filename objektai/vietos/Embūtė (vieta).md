@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eb3981e2b68663c30e5cd9c6"
+canonical_name: "Embūtė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Embūtė","Embūtė (vieta)"]
+sameAs: []
+canonical_biography: "Ištiko į aiškią mūšą ties pilė Embūte."
+place_authority: true
+historical_names: []
 ---
 # Embūtė (vieta)
 
@@ -46,9 +55,9 @@ Ištiko į aiškią mūšą ties pilė Embūte.
 ## Citatos
 
 - id: c-184508
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 331"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 331."
   citata_originali: |
     Mintautas, paklausęs siuntinių, sukėlė stiprią ka­
     riauną ir traukė ant kalavijonų, lėbaujančių Žem­

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5441c9b8f459171601d835af"
+canonical_name: "Fajetonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fajetonas"]
+sameAs: []
+canonical_biography: "Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų, kurių susidūrimo skeveldros sukėlė žemėje fizines revoliucijas. Graikų poetų sakmėje Fajetonas, saulės sūnus, nesuvaldė tėvo žirgų danguje ir sukėlė žemėje baisius padarinius."
 ---
 # Fajetonas
 
@@ -73,7 +80,8 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
 - id: c-174148
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 143."
   citata_originali: |
     Geriausiai šį ypatingą fenomeną pa­
     aiškina vokiečių astronomas ponas Radiolas1. Anot jo, ga­
@@ -95,7 +103,8 @@ Narbuto perteiktu Radiolo aiškinimu, Fajetonas buvo viena iš dviejų planetų,
 - id: c-174149
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
   citata_originali: |
     156
     Iš tikrųjų graikų poetai pateikia mitinę ¡sakmę apie

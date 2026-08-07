@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fb84fc144573af4c5256c5af"
+canonical_name: "Krunevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Krunevičius"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė herbą Krunevičiui. Narbutas nurodė, kad Malachovskis pateikė žinių apie Gedimino suteiktą herbą Krunevičiui, bet šaltinis jam buvo neaiškus. Malachovskis pateikė žinių, kad Gediminas suteikė herbą Krunevičiui, nors Narbutas nurodo neaiškų šio teiginio šaltinį."
 ---
 # Krunevičius
 
@@ -38,15 +45,23 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
 <a id="claim-t-190176"></a>
 - t-001
   teiginys: "Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė herbą Krunevičiui."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "paskyre -> Krunevičius: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krunevičius: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata nurodo, kad Gediminas davė herbą Krunevičiui; „paskyre“ apytikriai perteikia suteikimą asmeniui."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Gediminas paskyrė Krunevičius (0.70)"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173060
+    - c-173059
 
 <a id="claim-t-190177"></a>
 - t-002
@@ -94,7 +109,8 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
 - id: c-173059
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 403."
   citata_originali: |
     Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­
     jo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi
@@ -107,14 +123,17 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
   citata_rodoma: "Vis dėlto kai kurios giminės, kaip teigia Strijkovskis, turė­\njo tikrus savo herbus; dalinių kunigaikščių giminė naudojosi\nHipokentauro, Stulpų, Rožės, Vyčio herbais. Kartais didieji ku­\nnigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302\nmetais Gediminas davė Krunevičiui10. Sis paprotys lietuviams\nnebuvo būdingas, bet kai kurios riterių šeimos, priklausančios\nLietuvos valdžiai (ar tai būtų lenkai, ar rusinai), galėjo prašyti,\nkad jiems būtų suteikti herbai -  taip būdavo Lenkijoje."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-173060
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Mū­
     sų heraldikos specialistus lenkus visuomet užgula didelis rū­
@@ -136,5 +155,4 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

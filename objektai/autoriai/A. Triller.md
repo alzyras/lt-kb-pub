@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4569fa9f847aaecea0f4189"
+canonical_name: "A. Triller"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Triller"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad triller.—Marburg, 1961; Bd. 4 (1346—1351) /Н."
 ---
 # A. Triller
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad triller.—Marburg, 1961; Bd. 4 (1346—1351) /Н.
 - id: c-61300
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Preussisches Urkundenbuch: Politische Abtheilung.—Bd. 1. Erste Hälfte (1140—1257)
     / Philippi, Wölky.— 1882, 1961, Aalen; Zweite Hälfte (1257—1309) / A. Seraphim,

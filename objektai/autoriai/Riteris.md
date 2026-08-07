@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-181d791bc7b5cd99dca3b20a"
+canonical_name: "Riteris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Riteris"]
+sameAs: []
+canonical_biography: "Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai aptarė padavimą apie saulės garbinimą prie Baltijos jūros. Riteris Narbuto nurodomas kaip autorius, kurio dėstymu ir paaiškinimais remtasi aiškinant Herodoto ketvirtąją knygą."
 ---
 # Riteris
 
@@ -67,7 +74,8 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
 - id: c-173286
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 100."
   citata_originali: |
     Lietuvių liaudies rugiapjūtės dainose yra po­
     sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
@@ -90,7 +98,8 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
 - id: c-173672
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 79."
   citata_originali: |
     3 Herodot. Lib. IV, Pagal pono Riterio dėstymą ir paaiškinimus
     (Vorhalle der europäischer Völkergesch. S. 153, 154, 266).

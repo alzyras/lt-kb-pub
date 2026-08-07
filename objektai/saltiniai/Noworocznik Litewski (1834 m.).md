@@ -58,7 +58,8 @@ Onos bažnytėlę, pa­ teikta Noworocznik Litewski, 1834 m., 298 ## Puslapis 31
 - id: c-84297
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314-315"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314-315."
   citata_originali: |
     Tačiau ištisiniai pastatai, kokius ma­
     tome dabar, atsirado jau antrojoje

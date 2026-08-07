@@ -52,7 +52,8 @@ Pasak rusų metraščių, šiaurės slavai, arba naugardiečiai, severskiečiai,
 - id: c-173440
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
   citata_originali: |
     Lietuvoje gyveno garsi
     Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-

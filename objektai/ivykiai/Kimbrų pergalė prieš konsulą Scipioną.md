@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-174752
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
   citata_originali: |
     Lietuvių kalba pasakojamuose apsaky­
     muose, kurių nemažai surinkau, pasakojama apie kažko­

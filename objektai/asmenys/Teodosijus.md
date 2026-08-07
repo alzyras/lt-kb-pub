@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba929dfb8847831cf93621a0"
+canonical_name: "Teodosijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teodosijus"]
+sameAs: []
+canonical_biography: "Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo pastangų pravesti Lietuvos stačiatikių metropolitu Polocko vyskupą Teodosijų."
 ---
 # Teodosijus
 
@@ -74,7 +81,8 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 - id: c-32808
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 329"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 329."
   citata_originali: |
     Nepasisekė tik Vytautui didžiajai Lietuvos kunigaikštijai
     naudinga linkme sutvarkyti rytų Bažnyčios reikalų^61. Mirus Kijevo
@@ -94,7 +102,8 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 - id: c-177119
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 380."
   citata_originali: |
     Pavyzdžiui, deivės Cereros
     rankoje jis yra pasišventimo simbolis, dievų paslapčių ir glo-

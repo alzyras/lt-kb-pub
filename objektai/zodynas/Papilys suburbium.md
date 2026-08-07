@@ -60,7 +60,7 @@ media_all_json: |-
 <a id="claim-t-86506"></a>
 - t-002
   teiginys: "Ragainės komtūras Tomas Aldenburgas su 44 broliais ir 400 vyrų iš Sembos bei Natangos švintant sudegino Gedimino pilies papilį."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
@@ -90,7 +90,8 @@ media_all_json: |-
 - id: c-82484
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     Tai­
     gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs
@@ -115,7 +116,8 @@ media_all_json: |-
 - id: c-82485
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     Šitai vyko viešpataujant Lie­
     tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
@@ -135,7 +137,8 @@ media_all_json: |-
 - id: c-167220
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­
     chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė

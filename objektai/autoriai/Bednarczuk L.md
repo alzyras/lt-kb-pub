@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-db7907e4a305e4902d6669d2"
+canonical_name: "Bednarczuk L"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bednarczuk L"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad antikinių šaltinių tyrimas rodo, kad lotyniškoji forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54, 66); žr. ir GAO, p. 204; Gimbutienė."
 ---
 # Bednarczuk L
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad antikinių šaltinių tyrimas rodo, kad lotyniškoji fo
 - id: c-61308
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Antikinių šaltinių tyrimas rodo, kad lotyniškoji
     forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros

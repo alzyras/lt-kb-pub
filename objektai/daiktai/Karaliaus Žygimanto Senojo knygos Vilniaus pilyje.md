@@ -92,7 +92,8 @@ Nenurodyta
 - id: c-83058
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 286."
   citata_originali: |
     Suklestėjus prekybai, sukru­
     to ir iki tol apverktinoje padėtyje Vilniuje buvę amatai, o
@@ -114,7 +115,8 @@ Nenurodyta
 - id: c-83059
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 286-287"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 286-287."
   citata_originali: |
     97,
     ten yra iš Lietuvos Metrikos paimtas

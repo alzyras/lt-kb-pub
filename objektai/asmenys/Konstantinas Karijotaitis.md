@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5cdef78a46ada58f4f1771d"
+canonical_name: "Konstantinas Karijotaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konstantinas Karijotaitis"]
+sameAs: []
+canonical_biography: "Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas tapti sosto įpėdiniu, pritarus karaliui Kazimierui ir lenkų senatui. O didžiojo kunigaikščio Algirdo brolis Karijotas valdė Lietuvos Naugarduką, ir jis turėjo keturis4 sū nus: kunigaikštį Jurgį, kunigaikštį Aleksandrą, kuni gaikštį Konstantiną ir kunigaikštį Teodorą. Komentare Lietuvos metraščių žinia apie Kazimiero ketinimą susigiminiuoti su Konstantinu Karijotaičiu laikoma patikima, išskyrus Lenkijos sosto perdavimo sumanymą."
 ---
 # Konstantinas Karijotaitis
 
@@ -116,7 +123,8 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
 - id: c-169416
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 228."
   citata_originali: |
     Beveik tuo pat metu karalius
     Kazimieras bei lenkų senatas karalystės seime tarėsi
@@ -142,7 +150,8 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
 - id: c-176564
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 71."
   citata_originali: |
     Podolėje veikė jų  paskirti atamanai, ku­
     rie tvarkė visas pajamas, o pas juos atvykdavo totorių

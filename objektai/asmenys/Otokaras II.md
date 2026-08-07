@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d90350c6c066619fedb0f6af"
+canonical_name: "Otokaras II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Otokaras II"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius, dalyvavęs Čekijos karaliaus Otokaro II (ir kryžiuočių) 1255 m. puolime prieš Sembą, konstatuoja, kad už Prūsijos į šiaurę tęsiasi Semba (Prusciam sequitur Zambia ad aquilonem — Colker M. Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną. Dusburgietis teigia, kad otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“."
 ---
 # Otokaras II
 
@@ -110,7 +117,8 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 - id: c-159415
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Žiemą ši kariuomenė atžygiavo  į Elbingą,
     tačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo
@@ -134,7 +142,8 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 - id: c-159417
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 130."
   citata_originali: |
     Apie daugybės maldininkų atvykimą
 
@@ -159,7 +168,8 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 - id: c-159418
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Susitaikius Čekijos karalius
     nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
@@ -182,7 +192,8 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 - id: c-159419
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     priskaičiuotum daugiau kaip 60 tūkstančių karių; kiek buvo vežimų ir ketverinių ratų,
     gabenusių ginklus ir maistą, nesu girdėjęs. Žiemą ši kariuomenė atžygiavo į Elbingą,
@@ -207,7 +218,8 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 - id: c-159420
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
   citata_originali: |
     XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
     Nr. 52, p. 38 ir kt.). Dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius,

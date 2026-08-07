@@ -50,7 +50,8 @@ Lietuvos didysis etmonas Mykolas Kazimieras Oginskis į jų reikalavimus pasiai�
 - id: c-44983
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 143."
   citata_originali: |
     ir Rusijos genero-
     lams, vadovavusiems

@@ -46,9 +46,9 @@ Versmėse Pinsko gyveno vadinami budinai, kurie kalbėjo mišria grekonų ir ski
 ## Citatos
 
 - id: c-184602
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 23"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 23."
   citata_originali: |
     Už tų tyragetų
     juo tolesniai dar į šiaurę gyveno masagetai, beje, me-

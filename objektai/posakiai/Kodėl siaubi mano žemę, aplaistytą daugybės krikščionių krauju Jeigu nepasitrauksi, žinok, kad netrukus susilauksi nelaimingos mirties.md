@@ -32,7 +32,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Šioje kariuomenėje buvo vienas 
 - id: c-167419
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
   citata_originali: |
     18. Apie vieną stebuklą
 

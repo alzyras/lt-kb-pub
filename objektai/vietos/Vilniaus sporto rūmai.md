@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4f1cf754530c8e6570e8b89"
+canonical_name: "Vilniaus sporto rūmai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus sporto rūmai"]
+sameAs: []
+canonical_biography: "Kadangi Baltijos valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS deklaruojamiems Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas Vilniaus sporto rūmuose 1988 m. spalio 22–23 d. Vladimiro Gulevičiaus nuotrauka L I E T U V O S I S T O R I J A."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus sporto rūmai
 
@@ -62,7 +71,8 @@ Kadangi Baltijos valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS d
 - id: c-26560
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 237-238"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 237-238."
   citata_originali: |
     LPS reika-
     laujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-

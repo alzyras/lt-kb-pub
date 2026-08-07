@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-03ebc55b9017acab0642ec0b"
+canonical_name: "K. Sideravičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Sideravičius"]
+sameAs: []
+canonical_biography: "Sideravičius: Nuo Durbės iki Žal­ girio (1944)."
 ---
 # K. Sideravičius
 
@@ -59,7 +66,8 @@ Sideravičius: Nuo Durbės iki Žal­ girio (1944).
 - id: c-32998
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 85."
   citata_originali: |
     (^78) ĮVADAS
     _gynimas_ [I960]^107. K. Sideravičius: _Nuo Durbės iki Žal­

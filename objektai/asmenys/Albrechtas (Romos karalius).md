@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f0f39ea0d1b7a72ad847da3"
+canonical_name: "Albrechtas (Romos karalius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albrechtas (Romos karalius)"]
+sameAs: []
+canonical_biography: "Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sūnaus iškėlimu į Čekijos sostą ir 1308 m. nužudymu."
 ---
 # Albrechtas (Romos karalius)
 
@@ -176,7 +183,8 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
 - id: c-64450
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
   citata_originali: |
     Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
     suėję į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
@@ -200,7 +208,8 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
 - id: c-64452
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
   citata_originali: |
     104. Apie Albrechto, Romos karaliaus, nužudymą
 
@@ -221,7 +230,8 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
 - id: c-64455
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
   citata_originali: |
     102. Apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems
 

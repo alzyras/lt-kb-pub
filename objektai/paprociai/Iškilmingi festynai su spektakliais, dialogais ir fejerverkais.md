@@ -9,10 +9,6 @@ date_start: '1754'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - paprotys
-  - socialinė-praktika
-  - šventė
 amziai:
   - 'XVIII'
 media_total_count: '0'
@@ -27,6 +23,10 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+tags:
+  - paprotys
+  - socialinė-praktika
+  - šventė
 ---
 # Iškilmingi festynai su spektakliais, dialogais ir fejerverkais
 
@@ -54,13 +54,5 @@ Nenurodyta
 
 Nenurodyta
 
-## Citatos
-
-- id: c-183955
-  autorius: "Domininkas Burba"
-  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
-  puslapiai: "PDF 16"
-  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 16."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-07-14 10:29"
+## Reikšmingi paminėjimai
+Nenurodyta

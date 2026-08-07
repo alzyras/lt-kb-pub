@@ -60,7 +60,8 @@ media_all_json: |-
 - id: c-84418
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 254-256"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 254-256."
   citata_originali: |
     Po Aleksandro atėjusiems Lietuvos valdovams teko kuo rim­
     čiausiai pasistengti, kad Lietuvos miestiečių luomui būtų

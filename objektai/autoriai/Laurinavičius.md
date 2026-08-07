@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-33fd9b907386589e9e3b2ac1"
+canonical_name: "Laurinavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Laurinavičius"]
+sameAs: []
+canonical_biography: "Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadina ponas Laurinavičius) perstatė į mokyklą; tai rodo šiandien ant jos sienų išlikę užrašai: „Pars Romana, Pars Greca“ (šiuos vietinių tyrinėjimų faktus pateikė ponas Laurinavičius -. Laurinavičius norėjo pradžiuginti motiną ką tik pražydusiomis gėlėmis, kurias pro karalienės rūmų langą pamatė žydinčias Rasos (Ross) upės pakrantėje; tuo tikslu ji nepastebėta išbėgo iš rūmų."
 ---
 # Laurinavičius
 
@@ -58,7 +65,8 @@ Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadi
 - id: c-177240
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 269."
   citata_originali: |
     Tai ir buvo toji šventykla, vėliau paversta svirnu,
     tai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­
@@ -84,7 +92,8 @@ Vėliau, kai jėzuitai pasistatė naują baž nyčią, tą mūrą (kaip jį vadi
 - id: c-179126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
   citata_originali: |
     Kartą pavasarį ji norėjo
     pradžiuginti motiną ką tik pražydusiomis gėlėmis, kurias pro

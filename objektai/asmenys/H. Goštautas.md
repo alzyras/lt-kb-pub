@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-974a1548c0297a5bf9adf1b6"
+canonical_name: "H. Goštautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["H. Goštautas"]
+sameAs: []
+canonical_biography: "Goštauto vadovaujamas husarų eskadrono būrys, kiek vėliau dvi vokiečių pėstininkų kuopos su dviem lengvosiomis patrankomis, sunkiaisiais kulkosvaidžiais ir pionierių skyriumi."
 ---
 # H. Goštautas
 
@@ -50,7 +57,8 @@ Goštauto vadovaujamas husarų eskadrono būrys, kiek vėliau dvi vokiečių pė
 - id: c-41538
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 178."
   citata_originali: |
     karin. H. Goštauto vadovaujamas hu-
     sarų eskadrono būrys, kiek vėliau dvi

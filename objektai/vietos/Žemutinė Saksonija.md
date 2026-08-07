@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6bae6c07ccbe1343f36aff12"
+canonical_name: "Žemutinė Saksonija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žemutinė Saksonija"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Žemutinėje Saksonijoje buvo akmenų su ženklais, panašiais į rastus Lietuvos, Pamario ir lužitėnų kraštuose."
+place_authority: true
+historical_names: []
 ---
 # Žemutinė Saksonija
 
@@ -54,7 +63,8 @@ Narbutas rašo, kad Žemutinėje Saksonijoje buvo akmenų su ženklais, panašia
 - id: c-171982
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 380."
   citata_originali: |
     Sako, kad lietuviai kaimiečiai
     šitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­

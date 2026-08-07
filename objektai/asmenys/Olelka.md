@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e984d2792d00d533e3d3ec1"
+canonical_name: "Olelka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Olelka"]
+sameAs: []
+canonical_biography: "To­ kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­ ginta Manvydo ir Rumbauto mirties, Mstislavlio kunigaikš­ čio Jurgio Lengvenaičio ir Kopylę valdžiusio Olelkos - Algirdo palikuonių - įkalinimo, nutarė gelbėtis Žygimanto gyvybės kaina."
 ---
 # Olelka
 
@@ -50,7 +57,8 @@ To­ kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­ ginta Man
 - id: c-83788
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 237-238"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 237-238."
   citata_originali: |
     221
 

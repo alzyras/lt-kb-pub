@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5049dbc08bb7f2e7451c5843"
+canonical_name: "J. Antoniewicz"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Antoniewicz"]
+sameAs: []
+canonical_biography: "Antoniewicz, J."
 ---
 # J. Antoniewicz
 
@@ -41,7 +48,8 @@ Antoniewicz, J.
 - id: c-32954
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 129."
   citata_originali: |
     Ano laiko šaltiniai patiekia
     atsitiktinių užuominų, kaip tokios lietuvių įtakos sferon pakliuvusios

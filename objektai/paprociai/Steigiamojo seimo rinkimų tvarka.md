@@ -63,7 +63,8 @@ Nenurodyta
 - id: c-67221
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 583"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 583."
   citata_originali: |
     Įstatymas buvo paskelbtas
     1919 metų lapkričio mėn. 20 d., kai dar nebuvo baigtas

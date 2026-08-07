@@ -62,18 +62,10 @@ Nenurodyta
 <a id="claim-t-54485"></a>
 - t-001
   teiginys: "Šventaragio slėnyje iki krikščioniškojo tikėjimo įvedimo degė Gabija vadinta amžinoji ugnis Perkūno garbei."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> gabija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "gabija: mention_match, thing, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje\" parinktas kaip owner_note_path. Targetas \"gabija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-55386
     - c-55387
 
 <a id="claim-t-54486"></a>
@@ -113,7 +105,8 @@ Nenurodyta
 - id: c-55386
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 123."
   citata_originali: |
     Reikš­
     mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
@@ -129,16 +122,15 @@ Nenurodyta
   citata_rodoma: "Reikš­\nmingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­\ntis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų \nsenovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, \ndidžiai garbinama lietuvių. Čia pat medinė šventykla, prie \nkurios šliejosi pagonių vaidilų būstai. Tolėliau, toje vietoje, \nkur dabar stovi katedra, stūksojo negrabus dievo Perkūno \nstabas, pastatytas ant akmeninės pakylos. Aplink tą aikštę, \nsenosios religijos apeigoms parinktą, tęsėsi plačiai išsklidę Že­\nmutinės pilies pastatai, daugiausia mediniai, bet aukštais \nbokštais ir palisadais apjuosti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-55387
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 34."
   citata_originali: |
     Čia buvo
     pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten
@@ -165,7 +157,8 @@ Nenurodyta
 - id: c-55388
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127."
   citata_originali: |
     Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
     po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­

@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184635
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 203"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 203."
   citata_originali: |
     Nebtverdamies Padaugavio perkrikštai tokiomis
     novėmis visų pirma patrako ūkinykai Turaidos apy­

@@ -41,9 +41,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184791
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 123"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 123."
   citata_originali: |
     21, 29.
     2 De situ Danio, c. 208.

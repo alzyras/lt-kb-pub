@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-95a51836ce7236e7c2c29dd7"
+canonical_name: "Pietų Lietuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pietų Lietuva"]
+sameAs: []
+canonical_biography: "Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai. Išleistas 1951 m. Pietų Lietuvos partizanų štabo."
+place_authority: true
+historical_names: []
 ---
 # Pietų Lietuva
 
@@ -83,7 +92,8 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
 - id: c-45274
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     Lietuvos partizanų vadų
     suvažiavimas. Minaičių kaimas
@@ -123,7 +133,8 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
 - id: c-167186
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 236."
   citata_originali: |
     Išleistas 1951 m.
     Pietų Lietuvos partizanų

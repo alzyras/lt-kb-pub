@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2064fdef003c4bb58f21d9ce"
+canonical_name: "P. Virgoličius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["P. Virgoličius"]
+sameAs: []
+canonical_biography: "Virgoličiaus pajėgos turėjo užimti Lietuvą."
 ---
 # P. Virgoličius
 
@@ -51,7 +58,8 @@ Virgoličiaus pajėgos turėjo užimti Lietuvą.
 - id: c-42180
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 192."
   citata_originali: |
     Pagrindinės - plk. P. Bermonto tiesiogiai vadovauja-
 

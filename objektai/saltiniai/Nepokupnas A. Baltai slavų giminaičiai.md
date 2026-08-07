@@ -55,7 +55,8 @@ Dusburgietis teigia, kad nepokupnas A.
 - id: c-61828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     Nepokupnas A. Baltai slavų giminaičiai.— V., 1983.
   statusas: verified

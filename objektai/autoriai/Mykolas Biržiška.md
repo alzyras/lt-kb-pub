@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a07321412e3673680342e6ed"
+canonical_name: "Mykolas Biržiška"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mykolas Biržiška"]
+sameAs: []
+canonical_biography: "Redagavo ir papildė Mykolas Biržiška su Adolfo Šapokos įvadu."
 ---
 # Mykolas Biržiška
 
@@ -49,9 +56,9 @@ Redagavo ir papildė Mykolas Biržiška su Adolfo Šapokos įvadu.
 ## Citatos
 
 - id: c-185565
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 65."
   citata_originali: |
     Lietuvos studentai užsienio universitetuose XIV-
     XVIII amžiais. Redagavo ir papildė Mykolas Biržiška su Adolfo Šapokos įvadu. Chicago,

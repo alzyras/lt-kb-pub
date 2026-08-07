@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf2adb2f1cec8d32e594b2cb"
+canonical_name: "Nogajus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nogajus"]
+sameAs: []
+canonical_biography: "8 ## Puslapis 25 ĮVADAS denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų; Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino 1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu su Nogajaus mongolais."
 ---
 # Nogajus
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-83786
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24-25"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24-25."
   citata_originali: |
     T. 1, p. 554.
     8

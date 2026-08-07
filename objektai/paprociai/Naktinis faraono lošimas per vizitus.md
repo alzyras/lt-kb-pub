@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1754 m. Vilniuje Antano Davainio Solohubo ir Benedikto Tyzenhauzo aplinkos dažnai lankė viena kitą ir per naktį lošė faraoną.
+1754 m. Vilniuje bajorų aukštuomenės vizitai galėjo tęstis visą naktį lošiant faraoną. Jonas Dominykas Lopacinskis šią praktiką aprašė kaip nuolatinį tarpusavio lankymąsi tarp Antano Davainio Solohubo ir Benedikto Tyzenhauzo aplinkų.
 
 ## Laikotarpis ir datos
 
@@ -66,8 +66,8 @@ Nenurodyta
 
 <a id="claim-t-200562"></a>
 - t-001
-  teiginys: "1754 m. Vilniuje Antano Davainio Solohubo ir Benedikto Tyzenhauzo aplinkos dažnai lankė viena kitą ir per naktį lošė faraoną."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "1754 m. Antanas Davainis Solohubas ir Benediktas Tyzenhauzas lankydavosi vienas pas kitą ir per naktį kortomis lošdavo faraoną."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.): 0.83"
@@ -75,12 +75,13 @@ Nenurodyta
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Naktinis faraono lošimas per vizitus: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.): mention_match, person, gap=85"
+  ryšio_targeto_parinkimas: "Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.): mention_match, person, gap=108"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naktinis faraono lošimas per vizitus\" parinktas kaip owner_note_path. Targetas \"Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1754 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai apibendrina citatoje nurodytus vizitus ir naktinį faraono lošimą. Politinės konkurencijos interpretacija nepridėta."
+  temporalinis_llm_pakomentavimas: "Išskleisti asmenys ir veiksmai, pašalintas nepakankamai tikslus Vilniaus kontekstas. Nepapildyta šaltinyje nepaminėtais faktais."
+  vertinimo_atnaujinta: "2026-07-26T14:49:25Z"
   pagrindžia:
     - c-183952
 
@@ -93,6 +94,6 @@ Nenurodyta
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 04:20"
+  atnaujinta: "2026-07-26 17:49"
   pagrindzia:
     - t-001

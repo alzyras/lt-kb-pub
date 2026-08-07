@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0d2207bcc976c49a43043240"
+canonical_name: "Tunmanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tunmanas"]
+sameAs: []
+canonical_biography: "Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, užėmė Sembą ir gintaro kasyklas. Narbutas rašo, kad Tunmanas lietuvių kilmę siejo su bėgliais, apie 550 metus įsikūrusiais Vyslos šakų skalaujamoje saloje. Tunmanas teigė, kad Honorijaus III bulėje vietoj Wirlandia reikia skaityti Witlandia."
 ---
 # Tunmanas
 
@@ -96,7 +103,8 @@ Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Balti
 - id: c-174116
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
   citata_originali: |
     Tad Nemuno žemupio pakrantes visų pirma de­
     ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
@@ -118,7 +126,8 @@ Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Balti
 - id: c-174117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 254."
   citata_originali: |
     Ar galima tuo remiantis daryti prie­
     laidą, kad Prūsija Jordano laikais vadinosi Vidivarija, kad
@@ -141,7 +150,8 @@ Tunmanas savo tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Balti
 - id: c-174118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Sis skirtumas yra esminis dalykas;
     mes jį aptinkame jau 1224 metais popiežiaus Honorijaus

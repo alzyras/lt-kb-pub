@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-58c5ef70ded0fe410e8c80fd"
+canonical_name: "Kasparas Neseckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kasparas Neseckis"]
+sameAs: []
+canonical_biography: "Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą herbą."
 ---
 # Kasparas Neseckis
 

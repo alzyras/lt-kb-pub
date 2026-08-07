@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e9f8590b5c69bd519ab623a3"
+canonical_name: "Kryžių kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kryžių kalnas"]
+sameAs: []
+canonical_biography: "Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir vilties šaltinio, prasmė."
+place_authority: true
+historical_names: []
 ---
 # Kryžių kalnas
 
@@ -83,7 +92,8 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
 - id: c-167004
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 228."
   citata_originali: |
     Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stipry-
     bės ir vilties šaltinio, prasmė. Todėl Kryžių kalnas, esantis 12 km į šiaurę

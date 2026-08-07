@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e7839d385f03bc4ac504cfe0"
+canonical_name: "Vytautas Petkevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vytautas Petkevičius"]
+sameAs: []
+canonical_biography: "Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių visuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia apie LPS iniciatyvinę grupę žaibiškai pasklido po."
 ---
 # Vytautas Petkevičius
 
@@ -51,7 +58,8 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
 - id: c-64414
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 235."
   citata_originali: |
     Pamažu žmonėse
     tirpo baimės jausmas, kad kitaip kal-

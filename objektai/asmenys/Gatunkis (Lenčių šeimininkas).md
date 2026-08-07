@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ef064c3aba7cb068dfa23a84"
+canonical_name: "Gatunkis (Lenčių šeimininkas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gatunkis","Gatunkis (Lenčių šeimininkas)"]
+sameAs: []
+canonical_biography: "Gatunkis aprašomas kaip Lenčių šeimininkas ir pasakotojo darbdavys, turėjęs stališką varstotą bei tekinamąjį prietaisą ir galiausiai nedraudęs pasakotojui stalioriauti."
 ---
 # Gatunkis (Lenčių šeimininkas)
 

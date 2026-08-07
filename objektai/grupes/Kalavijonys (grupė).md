@@ -46,9 +46,9 @@ Taip nugalavus Viną, pirmąjį mistrą kalavijonų, tuojau susirinkę kalavijon
 ## Citatos
 
 - id: c-184599
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 212"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 212."
   citata_originali: |
     Taip nugalavus Viną, pirmąjį mistrą kalavijonų,
     tuojau susirinkę kalavijonys iš pilių, arba komtūrų,

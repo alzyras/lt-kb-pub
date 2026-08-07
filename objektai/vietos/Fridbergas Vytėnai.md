@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dd7cfb8e78adf086cdac1e4a"
+canonical_name: "Fridbergas Vytėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Fridbergas Vytėnai"]
+sameAs: []
+canonical_biography: "Kita kryžiuočių pilis, vadinta Fridbergu (taikos kalnas), pastatyta tuo pat metu, stovi už 2 mylių nuo Veliuonos že­ myn Nemuno tėkme ir dabar vadinama tiesiog pilimi."
+place_authority: true
+historical_names: []
 ---
 # Fridbergas Vytėnai
 
@@ -51,7 +60,8 @@ Kita kryžiuočių pilis, vadinta Fridbergu (taikos kalnas), pastatyta tuo pat m
 - id: c-81998
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 120."
   citata_originali: |
     Dabar pilis stovi be stogo, be langų ir vis labiau
     nyksta.

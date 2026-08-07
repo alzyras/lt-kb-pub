@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8dd9eed6fffb8f99fc95b652"
+canonical_name: "Dobrino žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dobrino žemė"]
+sameAs: []
+canonical_biography: "Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grįžo atgal."
+place_authority: true
+historical_names: []
 ---
 # Dobrino žemė
 
@@ -51,7 +60,8 @@ Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grį�
 - id: c-28428
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 314."
   citata_originali: |
     Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­
     žiuočiai grįžo atgal. Daug kainavęs Wallenrodo žygis baigėsi nie­

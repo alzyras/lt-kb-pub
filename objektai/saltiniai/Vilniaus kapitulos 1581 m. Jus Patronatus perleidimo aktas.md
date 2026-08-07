@@ -60,7 +60,8 @@ Kad bažnyčia būtų geriau tvarkoma ir būtų parinktas tinkamas asmuo užimti
 - id: c-84467
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 189."
   citata_originali: |
     Jono bažnyčios
     užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.

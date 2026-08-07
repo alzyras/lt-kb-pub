@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c131175b2f6bfeb24d9bd4a"
+canonical_name: "Vyšnivecis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vyšnivecis"]
+sameAs: []
+canonical_biography: "Čartoriskiai (Klevanė), Vyšnioveckiai (Vyšnivecis) ir kiti,."
+place_authority: true
+historical_names: []
 ---
 # Vyšnivecis
 
@@ -67,7 +76,8 @@ media_all_json: |-
 - id: c-24609
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 46."
   citata_originali: |
     laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
     naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
@@ -90,7 +100,8 @@ media_all_json: |-
 - id: c-75043
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 45-46."
   citata_originali: |
     Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
     išteklius. Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gy-

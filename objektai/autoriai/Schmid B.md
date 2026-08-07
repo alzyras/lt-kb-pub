@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f33da7bf4976e221248279fb"
+canonical_name: "Schmid B"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Schmid B"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje Malborka, р."
 ---
 # Schmid B
 
@@ -68,7 +75,8 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
 - id: c-61418
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
   citata_originali: |
     211 (206). Apie Skomanto, sūduvių vado, atsivertimą
     Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto,
@@ -89,7 +97,8 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
 - id: c-179000
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121."
   citata_originali: |
     Dar apie tą patį bei apie nuostabų įvykį, kurio priežastimi buvęs arbaletas
     Vargu ar kas galėtų išsamiai apsakyti, kaip išradingai ir sumaniai sembai bei kiti prūsai

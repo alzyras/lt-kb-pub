@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   [{"mediaId":"m-1e74fdca838bc84850120b21","title":"Medžio skulptūra „Erdvilas, Lietuvos kunigaikštis (1240–1242)“","caption":"Medžio skulptūra, vaizduojanti Lietuvos kunigaikštį Erdvilą.","originalTitle":"Medžio skulptūra „Erdvilas, Lietuvos kunigaikštis (1240–1242)“","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Tauragė Regional Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_609861265","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609861265/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftkm-bucket%2FLIMIS-609861265%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609861265/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"europeana","field":"edm_concepts","label":"Ajalugu","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Carving","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dejiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Drožyba","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Dějiny","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Entallament","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschichte","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Geschiedenis","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Histoire","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Historie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"History","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Història","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Intaglio","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorie","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Istorija","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Kerven","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Nikerdamine","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Povijest","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Rezbarstvo","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Schnitzen","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Sculpture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snideri","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Snoíodóireacht","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Stair","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storia","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Storja","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Taillaketa","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Talla","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Történelem","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Vēsture","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Zgodovina","language":"def","canonicalCode":""},{"provider":"europeana","field":"edm_concepts","label":"Řezba","language":"def","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Erdvilas.md","title":"Erdvilas","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T22:51:37.171219+03:00","reviewedAt":"2026-07-18T22:51:52.455555+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma medinė kario ar kunigaikščio figūra su ginklais; ant postamento įskaitoma „Erdvilas ... Lietuvos kunigaikštis (1240–1242)“.","metadataEvidence":"Kandidato pavadinimas tiesiogiai nurodo „Erdvilas, Lietuvos kunigaikštis“, o teikėjas yra Tauragės regioninis muziejus.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Erdvilą vaizduojančią skulptūrą.","isPrimary":1}]
+entity_id: "ent-0419dcaeb17069f576f2e6e9"
+canonical_name: "Erdvilas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Erdvilas"]
+sameAs: []
+canonical_biography: "Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaugo buvo išsiųsti į rusų sritis."
 ---
 # Erdvilas
 
@@ -129,7 +136,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - id: c-169362
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 81."
   citata_originali: |
     Tiesa, kai buvę toliau
     nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
@@ -157,7 +165,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - id: c-176534
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 45."
   citata_originali: |
     Didysis kunigaikštis Erdvilą įsi­
     rengė čionai sostinę ir ėmė vadintis Naugarduko di­
@@ -176,9 +185,9 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - t-003
 
 - id: c-184333
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 238"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 238."
   citata_originali: |
     Tokiu vienok jų gorinimu nenusiminė
     lietuviai, bet tuojau visoj ūkėj sukėlė karėjus, ir

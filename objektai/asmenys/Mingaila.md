@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-57ae01bf1b9a07beba47d8ad"
+canonical_name: "Mingaila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mingaila"]
+sameAs: []
+canonical_biography: "Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo]."
 ---
 # Mingaila
 
@@ -229,7 +236,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - id: c-83771
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 157."
   citata_originali: |
     Aktuota
     ir duota Vilniuje, Švč. Mergelės Ma­
@@ -251,7 +259,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - id: c-168151
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 82."
   citata_originali: |
     Arčiausiai puolančiųjų plytėjo Min-
     gailos valdinių žemės: norėdamas atkeršyta už jų nu­
@@ -276,7 +285,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - id: c-168152
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 82."
   citata_originali: |
     Po to, lipte
     lipdamas bėgantiems ant kulnų, mikliai išnaudojo per-
@@ -300,7 +310,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - id: c-171474
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
   citata_originali: |
     „Reikėtų priminti ir tai, - rašoma jo laiške, - jog amžiną
     atilsį kunigas Pranckevičius, buvęs Kauno klebonas (klebona­
@@ -324,7 +335,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - id: c-179180
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
   citata_originali: |
     Vos ji
     pasilenkė skinti tariamojo laimikio, upės dugnas prasivėrė ir
@@ -345,7 +357,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - id: c-179181
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
   citata_originali: |
     Šioje pože­
     mio karalystėje viešpatavo karalius, vadintas Pokliumi, kurį
@@ -363,9 +376,9 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
     - t-006
 
 - id: c-184366
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 231"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 231."
   citata_originali: |
     Taip pasibengė rėdą ūkės polockionų,
     vienok lyčiaus tos karės raštuose nėra randama. Ne­

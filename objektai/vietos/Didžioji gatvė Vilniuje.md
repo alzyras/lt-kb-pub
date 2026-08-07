@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-36d9bc834f735c1549c3ade3"
+canonical_name: "Didžioji gatvė Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Didžioji gatvė Vilniuje"]
+sameAs: []
+canonical_biography: "Pisan w miestie Wileńskom, roku 1507 dnia Igo Maja [Kuris stovėjo Vilniaus mies­ te, Didžiojoje gatvėje, arti Švč."
+place_authority: true
+historical_names: []
 ---
 # Didžioji gatvė Vilniuje
 
@@ -61,7 +70,8 @@ Pisan w miestie Wileńskom, roku 1507 dnia Igo Maja [Kuris stovėjo Vilniaus mie
 - id: c-177466
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 286."
   citata_originali: |
     Przedający
     przyciskają pieczęc ojca swego. Pisan w

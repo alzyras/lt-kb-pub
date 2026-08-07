@@ -118,7 +118,8 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 222."
   citata_originali: |
     Vytautas tuo buvo labai užgautas. Jogailos
     paskutinioji žmona Zofija stengėsi gražiais žodžiais jį per­
@@ -139,7 +140,8 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
 - id: c-66562
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
   citata_originali: |
     Apie dievo kerštą
 
@@ -167,7 +169,8 @@ Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostoli
 - id: c-167947
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 555"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 555."
   citata_originali: |
     Po to Lietuvos Didžiosios Kunigaikštystės
     vardu sudarė taiką su Steponu, Valachijos valdovu,

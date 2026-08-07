@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d35313586cd039543e2c24d0"
+canonical_name: "Prūsa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Prūsa"]
+sameAs: []
+canonical_biography: "Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru."
+place_authority: true
+historical_names: []
 ---
 # Prūsa
 

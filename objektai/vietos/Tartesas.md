@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-637133003b29f285fb075e6b"
+canonical_name: "Tartesas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tartesas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Galijos krantų, o iš ten per Galiją gabentos į Masiliją."
+place_authority: true
+historical_names: []
 ---
 # Tartesas
 
@@ -55,7 +64,8 @@ Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Gali
 - id: c-175673
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
   citata_originali: |
     Siaurės sagose daug žinių apie
     jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-29dd9c32f5c85f7b4a35bad3"
+canonical_name: "Potockis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Potockis"]
+sameAs: []
+canonical_biography: "Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui."
 ---
 # Potockis
 
@@ -54,7 +61,8 @@ Didesnę dalį jis atidavė Lvovo Osolinskių bibliotekai, taip pat ponams Žage
 - id: c-177233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
   citata_originali: |
     9 Pono Kozakovskio 1840 metų sausio 27 dienos informacija iš
     Kurėnų. Taip pat atsiuntė ir daug iškasenų. Didesnę dalį jis atidavė

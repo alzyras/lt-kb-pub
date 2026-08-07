@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-31342
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 254."
   citata_originali: |
     Susitaręs
     su broliu, Kęstutis 1344-1345 m. žiemą užėmė Vilnių, o patį Jau­

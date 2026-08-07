@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2e26849b791f9af82b86e095"
+canonical_name: "Karigaila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karigaila"]
+sameAs: []
+canonical_biography: "Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs. Ten kryžiuočių nelaisvėn pakliuvęs, buvo žiauriai nužudytas pilies gynėjas, Jogailos brolis Karigaila (Mstislavlio kunigaikštis)."
 ---
 # Karigaila
 
@@ -116,7 +123,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 116."
   citata_originali: |
     Kartu su Jogaila ir Vy­
     tautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­
@@ -137,7 +145,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 290."
   citata_originali: |
     Dar didesnio Lietuvos nuovargio liudijimas yra 1382 mt.,
     po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­
@@ -160,7 +169,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - id: c-64734
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 283."
   citata_originali: |
     Kaip kita­
     dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
@@ -184,7 +194,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - id: c-64735
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 313."
   citata_originali: |
     Tebuvo paimta antroji žemumos medinė pilis, vad.
     «Kreivoji». Ten kryžiuočių nelaisvėn pakliuvęs, buvo žiauriai

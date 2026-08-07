@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7d3422bc38ae4b81cb72094"
+canonical_name: "J. Dlugošas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dlugossii J.","Dlugošas","Długosz J.","J. Dlugošas","Joannis Dlugosii","objektai/autoriai/Joannis Dlugosii"]
+sameAs: []
+canonical_biography: "J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje jis papildomai naudojamas kaip istorinio pasakojimo šaltinis apie Vorsklos mūšį, Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes; prieduose nurodoma ir jo raštų publikacija."
 ---
 # J. Dlugošas
 
@@ -259,7 +266,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 <a id="claim-t-188414"></a>
 - t-014
   teiginys: "Narbutas rašo, kad iš senesniųjų istorikų vienas Dlugošas aiškiai pripažino lietuvių genties tautas tikėjus fetišais."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -269,11 +276,11 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "J. Dlugošas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Dlugošas: mention_match, person, gap=3"
+  ryšio_targeto_parinkimas: "Dlugošas: mention_match, person, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Dlugošas\" parinktas kaip owner_note_path. Targetas \"Dlugošas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171296
+    - c-171304
 
 <a id="claim-t-190732"></a>
 - t-015
@@ -347,7 +354,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - id: c-13011
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     1399 m. rugpjūčio 12 d., „dvi valan-
     dos iki saulėlydžio“ prasidėjo „didžiausias
@@ -366,7 +374,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - id: c-13013
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
   citata_originali: |
     P. 57 „LIETUVOS KARIUOMENĖ ŠNIPO AKIMIS“, Joannis Dlugosii Opera omnia,
 
@@ -386,7 +395,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - id: c-42415
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 59."
   citata_originali: |
     Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik
     didelė ir galinga, bet apsiginklavusi puikiausia ginkluote.“
@@ -414,7 +424,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - id: c-42416
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Rugpjūčio pabaigoje į Žemaitiją paeiliui
     įsibrovė trys Livonijos daliniai, jie niokojo
@@ -440,7 +451,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - id: c-42417
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Švitrigailos ir Livonijos ordino pajėgos
     Švitrigailą remiantys lietuviai, rytinių
@@ -466,7 +478,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - id: c-56037
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
     jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.
@@ -485,7 +498,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - id: c-157232
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 59."
   citata_originali: |
     Raitelio
     pėdas saugo metaliniai antbačiai —
@@ -517,7 +531,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - id: c-157233
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 51."
   citata_originali: |
     Tačiau, regis, toks stai­
     gus Vilniaus užėmimas tik dėl Kęs­
@@ -543,7 +558,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - id: c-157234
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139."
   citata_originali: |
     29
     Įvairios buvo amžininkų nuomonės ta daugybė ten buvusių žmonių/'
@@ -565,7 +581,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - id: c-157237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 119."
   citata_originali: |
     Nors Strijkovskis yra pasakęs, kad Gedimino pa­
     laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi,
@@ -588,7 +605,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - id: c-167967
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 435"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 435."
   citata_originali: |
     Žmonės visuomet linkę ką įtari­
     nėti, todėl ir kariai netrukus ėmė burnoti prieš karalių,
@@ -620,7 +638,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - id: c-171296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 398"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 398."
   citata_originali: |
     Tuometinės Lietuvos bažnyčios būklė ir smulkesnė jos is­
     torija Konstancos susirinkimo tėvams šiaip nebuvo nežinoma,
@@ -638,12 +657,12 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_saltinis: ai
   pagrindzia:
     - t-013
-    - t-014
 
 - id: c-171304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
   citata_originali: |
     201
 
@@ -659,14 +678,17 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   citata_rodoma: "201\n\n## Puslapis 201\n\nmitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi\ngal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas\nDlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo\nfetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką\nišaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­\nminė, jokie namai, net daug pavienių asmenų negyveno be\nsavo asmeninių fetišų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
 - id: c-173614
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 16."
   citata_originali: |
     Vis dėlto žmogus, mokantis šias kalbas, ne­
     ras nieko, kas galėtų jį įtikinti šios hipotezės teisingu­
@@ -693,7 +715,8 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - id: c-179261
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 117."
   citata_originali: |
     Tai galima padaryti tiriant šią tautą, ku­
     ri mus stebina savo originalumu ir savo didele giminyste

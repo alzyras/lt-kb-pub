@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba5d2f6e63b6fd4d3ec245a8"
+canonical_name: "Praskovija"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Praskovija"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Praskovija
 

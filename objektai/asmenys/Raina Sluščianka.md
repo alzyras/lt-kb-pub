@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0da3a56fd1daa9e5802d8653"
+canonical_name: "Raina Sluščianka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Raina Sluščianka"]
+sameAs: []
+canonical_biography: "1619 m. 56 Miesto aktuose yra: karaliaus Stepo­ no patvirtinimas sutarties tarp po­ no Martyno Paleckio ir jo žmonos, dabar ponios Rainos Sluščiankos, ir miesto dėl stiklo liejyklos ir stiklo su­ pirkimo."
 ---
 # Raina Sluščianka
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-83821
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 305"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 305."
   citata_originali: |
     1572, mir.
     1619 m.

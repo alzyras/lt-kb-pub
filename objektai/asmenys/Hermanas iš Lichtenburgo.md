@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-589dfa3882db93d3e2fbb105"
+canonical_name: "Hermanas iš Lichtenburgo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hermanas iš Lichtenburgo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad toje pilyje gyveno kilmingasis brolis Hermanas iš Lichtenburgo, kuris, visaip marindamasis bei nuo visko susivaldydamas, dėvėjo dar ant pliko kūno ne tikrus, o grandininius marškinius."
 ---
 # Hermanas iš Lichtenburgo
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad toje pilyje gyveno kilmingasis brolis Hermanas iš Lich
 - id: c-167473
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
   citata_originali: |
     Apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą
 

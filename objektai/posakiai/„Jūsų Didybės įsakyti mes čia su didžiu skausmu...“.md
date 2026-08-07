@@ -59,7 +59,8 @@ Kreipdamasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes
 - id: c-75164
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 65."
   citata_originali: |
     J. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Len-
     kija, arba Lietuvą užkariauja Rusija. Jis pasirinko pirmąjį kelią, tačiau sten-

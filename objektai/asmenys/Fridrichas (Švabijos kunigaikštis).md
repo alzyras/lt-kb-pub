@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d6c1a015146d390d6de48109"
+canonical_name: "Fridrichas (Švabijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas (Švabijos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį, Vokietijos. Dusburgietis teigia, kad fridrichas (Švabijos kunigaikštis) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti. Dusburgietis teigia, kad bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai, kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos kilmingųjų."
 ---
 # Fridrichas (Švabijos kunigaikštis)
 
@@ -101,7 +108,8 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
 - id: c-60645
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     Vokiečių ordino pradžią jis
     datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai
@@ -126,7 +134,8 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
 - id: c-60646
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
   citata_originali: |
     Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
     Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
@@ -154,7 +163,8 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
 - id: c-167448
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
   citata_originali: |
     Nors
     apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-65716b46cfa2da49ab6e57b2"
+canonical_name: "J. Ozemblovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Ozemblovskis"]
+sameAs: []
+canonical_biography: "J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė T. Narbutui vietoj paties radinio. J. Ozemblovskis yra visiškai tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir prancūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besiremiantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovintis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis priekinėmis letenomis."
 ---
 # J. Ozemblovskis
 
@@ -55,7 +62,8 @@ J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė 
 - id: c-174529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 490"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 490."
   citata_originali: |
     Kitoje pusėje (ji yra visiškai
     tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir pran­

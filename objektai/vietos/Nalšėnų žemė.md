@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8118db86017a76b74cf2dc87"
+canonical_name: "Nalšėnų žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nalšėnų žemė"]
+sameAs: []
+canonical_biography: "Jie buvo pasiekę Nalšėnų žemę^144."
+place_authority: true
+historical_names: []
 ---
 # Nalšėnų žemė
 
@@ -61,7 +70,8 @@ Jie buvo pasiekę Nalšėnų žemę^144.
 - id: c-33963
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 189."
   citata_originali: |
     Tolimesni smūgiai totorių tačiau iš kri­
     vičių plotų, t. y. būsimų gudų sričių buvo taikyti Lietuvai. Ipati­

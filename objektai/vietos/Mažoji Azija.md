@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-023d0da476e1940516f241c1"
+canonical_name: "Mažoji Azija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mažoji Azija"]
+sameAs: []
+canonical_biography: "Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai."
+place_authority: true
+historical_names: []
 ---
 # Mažoji Azija
 
@@ -106,7 +115,8 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 - id: c-153796
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 59."
   citata_originali: |
     Kita ordino narių dalis jau kūrė Vengrijoj savo
     atskirą valstybę. Mažojoj Azijoj tuo būdu buvo likusi tik nedidelė
@@ -124,7 +134,8 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 - id: c-153797
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 59."
   citata_originali: |
     Ordinas buvo vokiečių imperatorių bei kunigaikščių remia-
     mas ir labai greit pralobo. Jis įsigijo daugybę turtų ne tik Mažojoj
@@ -142,7 +153,8 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 - id: c-166443
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 179-180"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 179-180."
   citata_originali: |
     Bet toto-
     riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
@@ -165,7 +177,8 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 - id: c-175469
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 39."
   citata_originali: |
     Nibūras2 teigia, jog pelazgai labai skyrėsi nuo helėnų,
     nors jų kalbos, nepaisant tarpusavio skirtumų, archetipų

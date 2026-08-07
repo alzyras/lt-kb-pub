@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d864c3d6d773875abee05035"
+canonical_name: "Duburio lanka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Duburio lanka","Duburio lankos galą","į mažąją Duburio lanką"]
+sameAs: []
+canonical_biography: "Duburio lanka minima kaip gyvulių varymo ir ganymo vieta."
+place_authority: true
+historical_names: []
 ---
 # Duburio lanka
 
@@ -44,12 +53,11 @@ Duburio lanka šiame šaltinyje yra lankos vietovė.
 <a id="claim-t-195488"></a>
 - t-001
   teiginys: "Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė."
-  atnaujinta: "2026-07-12 04:09"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177909
     - c-177910
 
 ## Citatos
@@ -64,12 +72,10 @@ Duburio lanka šiame šaltinyje yra lankos vietovė.
   citata_rodoma: "„Nusivarėme kaimenę į kitą Duburio lankos galą.“"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-177910
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

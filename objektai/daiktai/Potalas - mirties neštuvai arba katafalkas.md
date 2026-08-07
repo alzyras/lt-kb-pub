@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-172623
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
   citata_originali: |
     Lasickis jį žino kaip Algį (Algis).
     Lietuvių kalboje Potalas reiškia mirties patalą, neštuvus,

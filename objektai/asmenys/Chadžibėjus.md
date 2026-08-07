@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6b89de4e0f108781a7b1453d"
+canonical_name: "Chadžibėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Chadžibėjus"]
+sameAs: []
+canonical_biography: "Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų vadų-kunigaikščių Chadžibėjaus, Kutlugbugo, Dmitrijaus kariuomene."
 ---
 # Chadžibėjus
 
@@ -52,7 +59,8 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
 - id: c-41306
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 47."
   citata_originali: |
     Lietuvos kariuomenė buvo sudaryta
     iš Lietuvos valdovo Algirdo ir jo brolio

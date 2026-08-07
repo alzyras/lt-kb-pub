@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9efa52194eb277c58f9b6a71"
+canonical_name: "kun. Antano Šmulkščio"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["kun. Antano Šmulkščio"]
+sameAs: []
+canonical_biography: "Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijos Skirmuntaitės), Prano (kun. Antano Šmulkščio) knygutėse, visą dėmesį sutelkiant lietuvių tautos žygiams iki Vytauto Didžiojo mirties."
 ---
 # kun. Antano Šmulkščio
 
@@ -50,7 +57,8 @@ Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijo
 - id: c-94028
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 11."
   citata_originali: |
     Ant jo grabo « sulaužęs _»_
     savo plunksną, atskiros tolimesnės lietuvių tautos istorijos Narbu­

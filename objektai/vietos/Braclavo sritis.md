@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b57cacd2496998fb1d23373d"
+canonical_name: "Braclavo sritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Braclavo sritis"]
+sameAs: []
+canonical_biography: "gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai)."
+place_authority: true
+historical_names: []
 ---
 # Braclavo sritis
 
@@ -59,7 +68,8 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
 - id: c-46456
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 202."
   citata_originali: |
     Kaip Vy-
     tauto (žiūr. 165 psl.), taip ir Kazimiero laikais tankiau buvo

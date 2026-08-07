@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-52747f8a4350463f699f2ce1"
+canonical_name: "Švecas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Švecas","Švecas (vieta)"]
+sameAs: []
+canonical_biography: "Lygia dalia antrą seną pilį, vardu Švecas, ties Kulmu ant skardžio Vyslos pastiprino ir įgulę įdė jo, liepdamas nė ten kryžėjų nepraleisti."
+place_authority: true
+historical_names: []
 ---
 # Švecas (vieta)
 
@@ -52,9 +61,9 @@ Lygia dalia antrą seną pilį, vardu Švecas, ties Kulmu ant skardžio Vyslos p
 ## Citatos
 
 - id: c-184531
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 325"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 325."
   citata_originali: |
     Regėdamas Sviatopelkas visą kraštą nuteriotą
     praėjusią karę ir matydamas, jog kryžėjai, lindoda-

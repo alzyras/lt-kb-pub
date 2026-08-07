@@ -84,7 +84,8 @@ Vartojamos formos: `meldžionis`.
 - id: c-09610
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 182"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 182."
   citata_originali: |
     meldžionis, paeina nuo melsti, kaipogi visiems yra žinoma, jog šiokie tokie pergalviai^850 ir
         piktadėjai^851 tvino iš Teutonijos į Žemaičius, Parusius ir Žemgalius, arba Kuršą, dievą maldauti už
@@ -102,9 +103,9 @@ Vartojamos formos: `meldžionis`.
     - t-001
 
 - id: c-184303
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 229"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 229."
   citata_originali: |
     Žemgaliai, kurie buvo persikrikš­
     tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su­
@@ -126,9 +127,9 @@ Vartojamos formos: `meldžionis`.
     - t-002
 
 - id: c-184304
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 328"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 328."
   citata_originali: |
     Sviatopelkas nebgalėjo niekaip savųjų į rin-
     dą besueiluoti, kaipogi viena dalis kryžėjų įpuolė į

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ab10e83a8dbe54b447b3c18"
+canonical_name: "M. K. Liubavskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. K. Liubavskis"]
+sameAs: []
+canonical_biography: "Liubavskis. Liubavskij : Oblastnoe delenie (LOD); Litovsko-russkij sejm (ČIObč, t."
 ---
 # M. K. Liubavskis
 
@@ -50,7 +57,8 @@ Liubavskis. Liubavskij : Oblastnoe delenie (LOD); Litovsko-russkij sejm (ČIObč
 - id: c-33054
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 94."
   citata_originali: |
     Pirmasis rašė apie baudžia­
     vą Lietuvoje ir valstiečių tarnybą dvaruose, svarstydamas ir apskri­

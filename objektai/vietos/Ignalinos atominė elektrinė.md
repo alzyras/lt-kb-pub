@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b5a3c97a27ede5dfb0fa1fe4"
+canonical_name: "Ignalinos atominė elektrinė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ignalinos atominė elektrinė"]
+sameAs: []
+canonical_biography: "Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė esant nesaugią."
+place_authority: true
+historical_names: []
 ---
 # Ignalinos atominė elektrinė
 
@@ -68,7 +77,8 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
 - id: c-24139
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 262."
   citata_originali: |
     Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-
     simais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-
@@ -90,7 +100,8 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
 - id: c-166986
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 262."
   citata_originali: |
     Taigi, nors pavienės šalies įtaka ES spren-
     dimams nedidelė, Vidurio ir Rytų Europos šalių pozicijoms tam tikrais

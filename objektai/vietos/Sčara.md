@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2be5df75e129ac79324b8f84"
+canonical_name: "Sčara"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sčara"]
+sameAs: []
+canonical_biography: "1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros. 1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros."
+place_authority: true
+historical_names: []
 ---
 # Sčara
 

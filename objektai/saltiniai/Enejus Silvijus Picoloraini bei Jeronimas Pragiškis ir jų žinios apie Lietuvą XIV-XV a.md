@@ -59,7 +59,8 @@ Janulaičio „Enejus Silvijus Picoloraini bei Jeroni­ mas Pragiškis ir jų ž
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 216."
   citata_originali: |
     (^1) ) C. ep. V., 1397, 1417 nr. nr.
     (^2) ) Cit. iš prof. A. Janulaičio „Enejus Silvijus Picoloraini bei Jeroni­

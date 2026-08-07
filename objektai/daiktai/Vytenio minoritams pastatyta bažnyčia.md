@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-83082
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 87."
   citata_originali: |
     Tiesa, arkivyskupui Isamui tarpininkaujant,
     tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­

@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-83095
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 161."
   citata_originali: |
     Tačiau šie politiniai kivirčai nebuvo Vilniui tokie skaudūs (1399
     m.), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­

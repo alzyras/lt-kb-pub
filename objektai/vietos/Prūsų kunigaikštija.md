@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f1f60e6f9f4d148d38125084"
+canonical_name: "Prūsų kunigaikštija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Prūsų kunigaikštija"]
+sameAs: []
+canonical_biography: "Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje pastatytas 1545 m. Viršuj parašo lentos matyti Lietuvos Vytis ir Lenkijos erelis."
+place_authority: true
+historical_names: []
 ---
 # Prūsų kunigaikštija
 
@@ -63,7 +72,8 @@ Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo
 - id: c-166473
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 279."
   citata_originali: |
     Livonija buvo valdoma
     abiejų jungtinių valstybių; mo-

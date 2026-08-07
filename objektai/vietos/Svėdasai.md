@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-64c3175eb34b23d84beb755f"
+canonical_name: "Svėdasai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Svėdasai"]
+sameAs: []
+canonical_biography: "Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio komunikacijas ir rinkti duomenis apie priešo judėjimą, o pats su savo pagrindiniais daliniais išskubėjo Svėdasų kryptimi."
+place_authority: true
+historical_names: []
 ---
 # Svėdasai
 
@@ -51,7 +60,8 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 - id: c-45350
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Po nepavykusio
     grafo Liudviko Pliaterio antpuolio prieš

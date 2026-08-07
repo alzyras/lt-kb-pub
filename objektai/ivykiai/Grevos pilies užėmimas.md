@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184670
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 334"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 334."
   citata_originali: |
     Rasi būt ir suderėjęs,* jei kry-
     žėjai būt tą darę, ką buvo prižadėję, tai yra jo

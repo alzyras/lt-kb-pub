@@ -59,7 +59,8 @@ Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), 
 - id: c-33484
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 123."
   citata_originali: |
     Adalberto (Vaitiekaus) biografas Canaparius, kuris
     kalbėjo apie « Pruzzorum fines ». O « Europos šiaurės Tacitas »,

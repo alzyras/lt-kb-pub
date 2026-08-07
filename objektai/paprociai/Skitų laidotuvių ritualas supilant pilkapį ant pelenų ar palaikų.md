@@ -113,7 +113,8 @@ Nenurodyta
 - id: c-174971
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 384"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 384."
   citata_originali: |
     Prie Dnepro gyvenantys senovės skitai iki vėlyvųjų, bemaž mūsų lai-
     kų ten, kur gyvena, yra pagonys. Jie niekada nelaidodavo
@@ -135,7 +136,8 @@ Nenurodyta
 - id: c-174972
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 384"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 384."
   citata_originali: |
     Vadinasi, tas, kuris buvo tur-
     tingesnis ar gyvendamas turėjo daugiau bičiulių, su-

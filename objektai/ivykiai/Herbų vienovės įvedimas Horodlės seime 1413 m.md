@@ -74,7 +74,7 @@ Nenurodyta
 <a id="claim-t-189623"></a>
 - t-002
   teiginys: "Narbutas aiškina, kad herbas „Paparona“ arba „Kiniglis“ lietuviškai reiškia ne kiškį, kaip rašė Neseckis, o triušį."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -101,7 +101,8 @@ Nenurodyta
 - id: c-172505
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Vienas kitas aiškiai lietuviškas her­
     bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
@@ -123,7 +124,8 @@ Nenurodyta
 - id: c-172506
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 405"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 405."
   citata_originali: |
     IV lentelė, 26-asis piešinys. Žąsies herbas, arba Paparo-
     na, - toks kaip lenkų herbynuose; skiriasi tuo, kad čia yra ke­

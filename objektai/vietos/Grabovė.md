@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d261d68405e2b1af98d4a552"
+canonical_name: "Grabovė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Grabovė"]
+sameAs: []
+canonical_biography: "Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Mykolas Küchmeisteris ir toliau Vytautą įžeidinėjo savo raštais, tai Vytautas 1414 m. Toliau Vytautas prekybos reikalus gynė beveik visose su Ordinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­ rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­ (^1) ) Hirt."
+place_authority: true
+historical_names: []
 ---
 # Grabovė
 
@@ -78,7 +87,8 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 269."
   citata_originali: |
     Darydamas su jais atskiras sutartis, jis didino savo iždą
     auksu, sidabru, audimais, brangiais kailiais, ką vėliau duosniai
@@ -102,7 +112,8 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 150."
   citata_originali: |
     Vokiečių Ordinas, pabijojęs tokios naujos lietuvių lenkų są­
     jungos, pašalino magistrą Henriką von Plaueną, karštą greito

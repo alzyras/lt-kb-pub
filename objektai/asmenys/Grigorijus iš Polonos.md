@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a12a83c1aae40327c196031a"
+canonical_name: "Grigorijus iš Polonos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Grigorijus iš Polonos"]
+sameAs: []
+canonical_biography: "Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas. Kojelavičiaus pasakojime Grigorijus iš Polonos prie Naugarduko pasistatė vienuolyną ir su bendraminčiais ėmė dievobaimingai gyventi."
 ---
 # Grigorijus iš Polonos
 
@@ -95,7 +102,8 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
 - id: c-169566
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 110."
   citata_originali: |
     Vaišvilkas mat, pasipiktinęs savo tėvo Min­
     daugo atsimetimu nuo krikščionių tikybos, pabėgo pas

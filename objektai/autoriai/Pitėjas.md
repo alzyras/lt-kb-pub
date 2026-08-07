@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-07d6caba0e407ed6d001f542"
+canonical_name: "Pitėjas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Pitėjas"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes bei tyrinėjo gintaro gavybos vietas. Teodoras Narbutas Pitėją vadina Masilijos astronomu ir jūrų keliautoju, apie 340 m. pr. Kr. išplaukusiu į Atlantą. Teodoro Narbuto pasakojime Pitėjas per tą pačią kelionę atrado šiaurines Tanajo upės žiotis."
 ---
 # Pitėjas
 
@@ -213,7 +220,8 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
 - id: c-174428
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Priartinus mūsų tyrimus prie
     geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
@@ -240,7 +248,8 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
 - id: c-174429
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
   citata_originali: |
     Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­
     mus Masilijos astronomas ir jūrų keliautojas Pitėjas. Jis,
@@ -259,7 +268,8 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
 - id: c-174430
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 156."
   citata_originali: |
     Plinijus paliko mums tokius šio keliautojo
     aprašymų papildymus: „Pakrantėje, kuri vadinasi Mente-
@@ -280,7 +290,8 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
 - id: c-174431
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
@@ -303,7 +314,8 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
 - id: c-179270
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
   citata_originali: |
     Ši kelionė
     įvyko 340 metais prieš Kristaus gimimą; nuo tų laikų
@@ -329,7 +341,8 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
 - id: c-179271
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
   citata_originali: |
     Matyt, priežastis yra ta, kad
     tuomet nebuvo jokios tautos, su kuria tiesiogiai galima

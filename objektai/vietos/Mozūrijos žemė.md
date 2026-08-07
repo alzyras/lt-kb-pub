@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c7b5022131ab4d2c95cbb0ef"
+canonical_name: "Mozūrijos žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mozūrijos žemė"]
+sameAs: []
+canonical_biography: "Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę, o kita „didžiausia“ kariuomenė - Livonijos pietryčiuose Rezeknės regioną."
+place_authority: true
+historical_names: []
 ---
 # Mozūrijos žemė
 
@@ -60,7 +69,8 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
 - id: c-45226
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 36."
   citata_originali: |
     1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilinin-
     ko Dovydo dvarą, kiek vėliau puolė ir Gardiną, visus metus tęsėsi

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-03427e833b42279cca2f2ef1"
+canonical_name: "Hoteris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hoteris"]
+sameAs: []
+canonical_biography: "Pasak Narbuto perteikiamų Edų, Hoteriui valdant Balderis ankstesnę auką pakeitė žmonių auka."
 ---
 # Hoteris
 
@@ -53,7 +60,8 @@ Pasak Narbuto perteikiamų Edų, Hoteriui valdant Balderis ankstesnę auką pake
 - id: c-173040
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 106."
   citata_originali: |
     Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­
     pu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­

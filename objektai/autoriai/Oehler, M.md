@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1c1f9252d552d05d410ccc7b"
+canonical_name: "Oehler, M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Oehler, M"]
+sameAs: []
+canonical_biography: "Oehler, M."
 ---
 # Oehler, M
 
@@ -57,7 +64,8 @@ Oehler, M.
 - id: c-33085
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 351."
   citata_originali: |
     2, 1960, 9-33 p. — Oehler, M. : _Der Krieg zwischen den
     Deutschen und Polen-Litauen 1409-11_ , Elbing 1910. — Prochaska, A. :

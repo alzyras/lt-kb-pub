@@ -65,7 +65,8 @@ Narbutas cituoja Lasickį kaip senųjų liaudies padavimų rinkėją ir pateikia
 - id: c-177303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
   citata_originali: |
     Neronem
     Imperatorem de bellica expeditione cogitantem, illos etiam exsules

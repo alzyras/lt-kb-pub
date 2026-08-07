@@ -89,7 +89,8 @@ Nenurodyta
 - id: c-169250
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 60."
   citata_originali: |
     Teisybė,
     nors Italijos gilumoje niekas galbūt nesimeldė kitaip,
@@ -114,7 +115,8 @@ Nenurodyta
 - id: c-169251
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 60."
   citata_originali: |
     Tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie­
     tuvoje daugelio dievų garbinimo: senąsias apeigas jis

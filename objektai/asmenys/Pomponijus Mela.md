@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fcd3ae86b2ef3a6f68ab3ff4"
+canonical_name: "Pomponijus Mela"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pomponijus Mela"]
+sameAs: []
+canonical_biography: "Pomponijus Mela, pasak Narbuto, nedviprasmiškai tvirtino, kad Konstanco ežeras buvo vadinamas Venedų ežeru."
 ---
 # Pomponijus Mela
 
@@ -54,7 +61,8 @@ Pomponijus Mela, pasak Narbuto, nedviprasmiškai tvirtino, kad Konstanco ežeras
 - id: c-174390
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 96."
   citata_originali: |
     Strabonas kalba apie belgų venedus šian­
     dieniuose Nyderlanduose. Melą Pomponijus nedvipras­

@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fd2716fe3d9bbd72e0733cbc"
+canonical_name: "Sielcas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sielcas","Sielcas (vieta)"]
+sameAs: []
+canonical_biography: "Sielco pasiuntinys buvo pasiųstas į Sielcą ir Jatrą su atsakymais."
+place_authority: true
+historical_names: []
 ---
 # Sielcas (vieta)
 
@@ -54,9 +63,10 @@ Sielco pasiuntinys buvo pasiųstas į Sielcą ir Jatrą su atsakymais.
 ## Citatos
 
 - id: c-185754
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 19"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 19."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 19."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

@@ -88,7 +88,8 @@ Pasak Kojelavičiaus, Aleksandras pasirūpino Vilniuje užbaigti lietuvių ir le
 - id: c-169697
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 567-568"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 567-568."
   citata_originali: |
     Štai todėl ir buvo pasiųsti į Piotrkovą Vil­
     niaus vyskupas Vaitiekus Taboras, maršalas Jonas Za-

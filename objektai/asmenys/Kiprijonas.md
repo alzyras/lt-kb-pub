@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f2e7cf2ccb1f6e7d70964381"
+canonical_name: "Kiprijonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kiprijonas"]
+sameAs: []
+canonical_biography: "Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo pastangų pravesti Lietuvos stačiatikių metropolitu Polocko vyskupą Teodosijų."
 ---
 # Kiprijonas
 
@@ -80,7 +87,8 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 - id: c-42082
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Popiežiaus
     bulė suteikė Vytauto organi-
@@ -114,7 +122,8 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 - id: c-64762
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 329"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 329."
   citata_originali: |
     Nepasisekė tik Vytautui didžiajai Lietuvos kunigaikštijai
     naudinga linkme sutvarkyti rytų Bažnyčios reikalų^61. Mirus Kijevo

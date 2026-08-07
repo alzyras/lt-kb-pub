@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f344104a3e0fdcb4843e4588"
+canonical_name: "Gimbutienė M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gimbutienė M"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M., Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83). Dusburgietis teigia, kad baltų dievus — Gimbutienė M."
 ---
 # Gimbutienė M
 
@@ -66,7 +73,8 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
 - id: c-61232
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,
     Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83).
@@ -82,7 +90,8 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
 - id: c-61233
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
   citata_originali: |
     Analizuojant XIII—XIV a. 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią
     antropomorfinę dievybę, panašią  į krikščioniškąjį dievą (Łowmiański H. Elementy..., p.

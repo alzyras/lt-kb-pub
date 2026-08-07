@@ -70,7 +70,7 @@ Nenurodyta
 <a id="claim-t-62673"></a>
 - t-002
   teiginys: "Prūsai prieš svarbesnius darbus traukdavo burtus, klausdami savo dievų, ar darbas pavyks gerai, ar blogai."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -83,7 +83,8 @@ Nenurodyta
 - id: c-63406
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
     Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
@@ -102,7 +103,8 @@ Nenurodyta
 - id: c-63407
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
   citata_originali: |
     Šiuo metu lietuviai ir kiti tose žemėse
     gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
@@ -123,7 +125,8 @@ Nenurodyta
 - id: c-63408
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
   citata_originali: |
     Po pergalės jie
     aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį

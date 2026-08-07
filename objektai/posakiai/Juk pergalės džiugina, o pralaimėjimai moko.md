@@ -77,7 +77,8 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
 - id: c-44954
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 17."
   citata_originali: |
     Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėme-
     sio skirdami pergalėms, knygos leidėjai nenuėjo lengviausiu
@@ -106,7 +107,8 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
 - id: c-167109
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 17."
   citata_originali: |
     pateike ne tik zinomus fak- G
 

@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e58bcf9a4f9b0f70687bda46"
+canonical_name: "Gundingena (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gundingena","Gundingena (vieta)"]
+sameAs: []
+canonical_biography: "Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo pavoju nei nuo svilksnių, nei nuo vylyčių, apgulė pilį Gundingenos."
+place_authority: true
+historical_names: []
 ---
 # Gundingena (vieta)
 
@@ -46,9 +55,9 @@ Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo p
 ## Citatos
 
 - id: c-184512
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 511"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 511."
   citata_originali: |
     Lygia dalia antrą
     kartą rudenį sugrįžęs vos ne vos su dideliu vargu

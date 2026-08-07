@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7f59ed9cf040b54370659dea"
+canonical_name: "Suleimanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Suleimanas"]
+sameAs: []
+canonical_biography: "Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru."
 ---
 # Suleimanas
 
@@ -54,7 +61,8 @@ Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo
 - id: c-169619
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 693"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 693."
   citata_originali: |
     Maskvos didikų vardu atsakė to miesto vy­
     riausiasis dvasininkas. Esą visų didžiausi pasaulyje

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2b708a03c73cf0ad851ed86c"
+canonical_name: "Kaskhauzenas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kaskhauzenas"]
+sameAs: []
+canonical_biography: "Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel- 314 ## Puslapis 331 IV KNYGA menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas, Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diunamundė."
+place_authority: true
+historical_names: []
 ---
 # Kaskhauzenas
 
@@ -32,7 +41,8 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 - id: c-82277
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 330-331"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 330-331."
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau
     žaibus,

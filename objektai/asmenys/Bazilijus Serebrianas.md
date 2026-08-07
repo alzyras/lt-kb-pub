@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14a99de2c92c18bc454f2874"
+canonical_name: "Bazilijus Serebrianas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bazilijus Serebrianas"]
+sameAs: []
+canonical_biography: "Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolensko, kita, vadovaujama patyrusio karvedžio kunigaikščio Petro Šuiskio, iš Polocko traukė į Drucką."
 ---
 # Bazilijus Serebrianas
 
@@ -62,7 +69,8 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 - id: c-44308
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     Prieš mūšį
     1564 m. pradžioje, iš Maskvos į Vilnių dar

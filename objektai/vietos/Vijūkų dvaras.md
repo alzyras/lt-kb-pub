@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a715674618c0d94307fce5f6"
+canonical_name: "Vijūkų dvaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vijūkų dvaras"]
+sameAs: []
+canonical_biography: "Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno."
+place_authority: true
+historical_names: []
 ---
 # Vijūkų dvaras
 
@@ -62,7 +71,8 @@ Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.
 - id: c-168638
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 6."
   citata_originali: |
     Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
     tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­

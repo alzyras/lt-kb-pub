@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6108fafb0b4f7270de7d290e"
+canonical_name: "Sniečkus"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sniečkus"]
+sameAs: []
+canonical_biography: "Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje L I E T U V O S I S T O R I J A 218 Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m. lietuviai sudarė apie 80 proc."
+place_authority: true
+historical_names: []
 ---
 # Sniečkus
 
@@ -60,7 +69,8 @@ Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuj
 - id: c-18347
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 217-218"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 217-218."
   citata_originali: |
     – atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į
     naujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-566ecaa13775eff54a59a715"
+canonical_name: "Skitija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Skitija"]
+sameAs: []
+canonical_biography: "Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją. Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra. Taip Darijus buvo priverstas greitai pereiti visą Skitiją, persikelti per to kias dideles upes kaip Dnestras, Būgas, Dnepras ir Donecas."
+place_authority: true
+historical_names: []
 ---
 # Skitija
 
@@ -88,7 +97,8 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - id: c-168635
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     Todėl ir Jerim Berdį iškilmingai paskelbė
     teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
@@ -109,7 +119,8 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - id: c-175531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Priartinus mūsų tyrimus prie
     geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
@@ -130,7 +141,8 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - id: c-179405
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     Kadangi priešo būriai buvo narsūs ir puikiai gink­
     luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­

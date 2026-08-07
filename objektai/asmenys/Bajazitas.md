@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-703d2b02760be7b47a72c163"
+canonical_name: "Bajazitas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bajazitas"]
+sameAs: []
+canonical_biography: "Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (prancūzai, vengrai, vokiečiai, britai, italai, čekai ir kiti), kovoję be vieningos vadovybės, buvo sutriuškinti Osmanų imperijos sultono Bajazito kariuomenės."
 ---
 # Bajazitas
 
@@ -62,7 +69,8 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
 - id: c-44307
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 57."
   citata_originali: |
     Vorsklos katastrofa pakirto Vytauto
     planus greitai išplėsti Lietuvos valstybę

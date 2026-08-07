@@ -22,6 +22,15 @@ media_all_json: |-
 tags:
   - vieta
   - gyvenvietė
+entity_id: "ent-85f96bcb9f89ca0cd1947e6d"
+canonical_name: "Kairėnėliai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kairėnėliai","Kairėnėlius"]
+sameAs: []
+canonical_biography: "Kairėnėliai šiame šaltinyje minimi kaip jaunavedžių ir vestuvininkų kelionės tikslas."
+place_authority: true
+historical_names: []
 ---
 # Kairėnėliai
 

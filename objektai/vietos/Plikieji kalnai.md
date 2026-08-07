@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2736ecb1a97710fad5c74881"
+canonical_name: "Plikieji kalnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Plikieji kalnai"]
+sameAs: []
+canonical_biography: "„Tad tenai Gedimi­ nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­ kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­ nės pašovė didžiulį taurą ir pribaigė jį ant to kalno."
+place_authority: true
+historical_names: []
 ---
 # Plikieji kalnai
 
@@ -57,7 +66,8 @@ media_all_json: |-
 - id: c-82204
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 65."
   citata_originali: |
     I  KNYGA
     Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­

@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-35c2a0d65aee22438f7a7b14"
+canonical_name: "Jordanes"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jordanes"]
+sameAs: []
+canonical_biography: "Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine actibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą tautą («pacatum hominum genus omnino »), užėmusią labai ilgą pajūrio krantą į rytus."
 ---
 # Jordanes
 
@@ -66,7 +73,8 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 - id: c-32985
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 111."
   citata_originali: |
     Įdomu tai, kad aisčių vardas VI
     amž. buvo žinomas. Padarydamas santrauką vėliau dingusios
@@ -88,7 +96,8 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 - id: c-179263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 406"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 406."
   citata_originali: |
     Svarbiausias jo veikalas — sutrum­
     pintas neišlikusios romėno Kasiodoro 12 to­

@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8d30964c576bbfb1a8b6c927"
+canonical_name: "Bernardinų vienuolynas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bernardinų vienuolynas"]
+sameAs: []
+canonical_biography: "Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais prie Neries ir sklypas, vadinamas Baltykla (Blecharnia), už Bernardinų vienuolyno, kuriame buvo balinami audiniai. Kryžiaus) ir du vienuolynus, pranciškonų ir bernardinų, su savo bažnyčiomis."
+place_authority: true
+historical_names: []
 ---
 # Bernardinų vienuolynas
 
@@ -53,9 +62,9 @@ Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais p
 ## Citatos
 
 - id: c-185063
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 301."
   citata_originali: |
     Kalbamame inventoriuje suregistruotas nuomojamas miesto ne-
     kilnojamasis turtas. Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas
@@ -71,9 +80,9 @@ Miestui priklausė 2 namai Ilgojoje ar Vilniaus gatvėje, sklypas su pastatais p
     - t-001
 
 - id: c-185064
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 318"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 318."
   citata_originali: |
     Kaunas iš viduramžių
     paveldėjo parapinę Šv. Petro ir Pauliaus bažnyčią su įsikūrusiomis susidarančiuose

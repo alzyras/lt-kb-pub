@@ -58,7 +58,8 @@ Su gausiomis originalių šaltinių ištraukomis jis išrinko gausius lietuvišk
 - id: c-33622
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 69."
   citata_originali: |
     Ten jis paskelbė beveik pusę
     iki tol nespausdintų XVI amž. dvarų, folvarkų, kaimų, miestelių

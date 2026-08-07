@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09890bd61a10cc9a953bfd2f"
+canonical_name: "P. Būtėnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. Būtėnas"]
+sameAs: []
+canonical_biography: "Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė, E. 112 I SKYRIUS: LIETUVOS PROISTORE Būtėnas, P. Būtėnas, P."
 ---
 # P. Būtėnas
 
@@ -80,7 +87,8 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
 - id: c-91687
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 111."
   citata_originali: |
     Ypač vakarų Lietuva, kuri daugiau turėjo kaimyninių
     ryšių, buvo ryškesnė medžiaginės kultūros skatintoja.
@@ -101,7 +109,8 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
 - id: c-91688
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 238."
   citata_originali: |
     Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,
     1930, 313-332 p. — Būtėnas, P. : _Lietuvos sostinė Vilnius,_ Karys, 1973,

@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8ce60aee6747c4247c0dc2b0"
+canonical_name: "Forstreuter Kurt"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Forstreuter Kurt"]
+sameAs: []
+canonical_biography: "Chicago, 1987; Forstreuter Kurt."
 ---
 # Forstreuter Kurt
 
@@ -50,9 +57,9 @@ Chicago, 1987; Forstreuter Kurt.
 ## Citatos
 
 - id: c-185552
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 65."
   citata_originali: |
     Chicago,
     1987; Forstreuter Kurt. Kauen, eine deutsche Stadtgriindung. Jomsburg, Bd. 6, H. 112,

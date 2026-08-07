@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-081c879f458f46e9720d6cb6"
+canonical_name: "V. Stravinskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Stravinskas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad stravinskas.— D."
 ---
 # V. Stravinskas
 
@@ -57,7 +64,8 @@ Dusburgietis teigia, kad stravinskas.— D.
 - id: c-61437
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
   citata_originali: |
     Lietuvos TSR administracinio-teritorinio suskirstymo Žinynas / Parengė Z. Noreika ir
     V. Stravinskas.— D. 2 — V., 1976.

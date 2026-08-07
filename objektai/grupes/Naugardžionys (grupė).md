@@ -52,9 +52,9 @@ Negal žinoti, dėl ko naugardžionys apydijo didįjį Lietuvos kunigaikštį Al
 ## Citatos
 
 - id: c-184589
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 590"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 590."
   citata_originali: |
     Taip sudraudę lietuviai ir žemaičiai savo neprie-
     1345 telius Padaugavy ir Parusny ateinantį metą sukos į

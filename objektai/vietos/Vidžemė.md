@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c8157c12be3f77061ff36952"
+canonical_name: "Vidžemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vidžemė"]
+sameAs: []
+canonical_biography: "Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t."
+place_authority: true
+historical_names: []
 ---
 # Vidžemė
 
@@ -76,7 +85,8 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 - id: c-32522
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 125."
   citata_originali: |
     Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
     _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
@@ -99,7 +109,8 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 - id: c-68866
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 389"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 389."
   citata_originali: |
     Augustas irgi pasi-
     ryžo prie jo prisidėti; Petrui palikęs Estiją, jis svajojo nusika-

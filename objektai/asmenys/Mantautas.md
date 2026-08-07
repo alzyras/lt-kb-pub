@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac5901c91503dbf9700e864e"
+canonical_name: "Mantautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mantautas"]
+sameAs: []
+canonical_biography: "Tarp Lietuvos didikų buvo: Žemai­ čių seniūnas Mykolas Skirgaila ir Trakų kaštelionas Jonas Švitrigaila, Šalčininkų seniūnas Mantautas."
 ---
 # Mantautas
 
@@ -48,7 +55,8 @@ Tarp Lietuvos didikų buvo: Žemai­ čių seniūnas Mykolas Skirgaila ir Trakų
 - id: c-176901
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 168."
   citata_originali: |
     Šioje sutartyje tarp kunigaikščių
     ir prelatų nurodyti: Černigovo ku­

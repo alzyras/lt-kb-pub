@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0f1cbe9c313c1fbeb9a8a2a0"
+canonical_name: "Rytų Lietuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rytų Lietuva"]
+sameAs: []
+canonical_biography: "Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą. 1922 m. sausį jie surengė rinkimus Vilniaus krašte – Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ situacijoje."
+place_authority: true
+historical_names: []
 ---
 # Rytų Lietuva
 
@@ -64,7 +73,8 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
 - id: c-165054
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 193."
   citata_originali: |
     1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie
     Lvovo. Tuo metu Rytų Lietuvą kontroliavo bolševikai. Bolševikų pa-

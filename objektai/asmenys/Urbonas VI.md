@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cc5739ea6e603d7e27c38ac0"
+canonical_name: "Urbonas VI"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Urbonas VI"]
+sameAs: []
+canonical_biography: "Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk."
 ---
 # Urbonas VI
 
@@ -93,7 +100,8 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 119."
   citata_originali: |
     8). Joje popiežius Urbonas VI išgyrė apsikrikštiju­
     sius lietuvius, o vysk. Dobrogostą įgaliojo sutvarkyti bažnyti­
@@ -113,7 +121,8 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
 - id: c-79208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 133."
   citata_originali: |
     Rogėse pasislėpusiems žmonėms pavyko patekti į
     pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­
@@ -137,7 +146,8 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
 - id: c-79209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 133."
   citata_originali: |
     Ne­
     paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­

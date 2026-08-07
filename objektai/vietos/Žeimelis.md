@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a7abc9cd54c2dba733db4ae5"
+canonical_name: "Žeimelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žeimelis"]
+sameAs: []
+canonical_biography: "Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos, apie 100 kulkosvaidžių, 10 minosvaidžių, ## Puslapis 197 @ Lapkričio 20 d. Pasvalio batalionas užima Žeimelį."
+place_authority: true
+historical_names: []
 ---
 # Žeimelis
 
@@ -62,7 +71,8 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
 - id: c-45480
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 196-197"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 196-197."
   citata_originali: |
     nugabenti prireikė specialaus traukinio.
     Radviliškyje buvo paimta: 7 lauko pa-

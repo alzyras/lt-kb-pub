@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-304b94f1ba352c6cb524812d"
+canonical_name: "Lukomlys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lukomlys"]
+sameAs: []
+canonical_biography: "Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai informuotas, pats jis tuo metu buvo tik apie 100 km nuo Polocko, Lukomlyje."
+place_authority: true
+historical_names: []
 ---
 # Lukomlys
 
@@ -49,7 +58,8 @@ Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai 
 - id: c-45196
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     Iš Polocko su savo kariuomene kuni-
     gaikštis P. Šuiskis pajudėjo sausio 23 d.

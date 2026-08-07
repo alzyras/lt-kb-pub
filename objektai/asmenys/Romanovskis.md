@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d478aa515be4fa0b4eee4c53"
+canonical_name: "Romanovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Romanovskis"]
+sameAs: []
+canonical_biography: "1826 m. Romanovskiui priklausiusiame Antakriaučio dvare Ukmergės apskrityje, tiesiant naują kelią prie ežero, buvo atkastas senovinis pilkapis."
 ---
 # Romanovskis
 
@@ -64,7 +71,8 @@ media_all_json: |-
 - id: c-174342
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 159."
   citata_originali: |
     Nuo pernelyg ilgo buvimo žemėje jie
     labai nukentėjo, todėl vos pavyko surankioti jų nuolaužas.

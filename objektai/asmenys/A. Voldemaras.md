@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-446cb08ffc2a4058297ad982"
+canonical_name: "A. Voldemaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Voldemaras","Augustinas Voldemaras (XX a.)"]
+sameAs: []
+canonical_biography: "Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino politinių partijų vaidmens, esą atstovavusių tik dalies, o ne visos tautos valiai, ir neketino sugrįžti į vadinamuosius „seimų laikus“, prilygintus netvarkai ir anarchijai. Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų ministro postus. Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų draugai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš VII Lietuvos žemės ūkio ir pramonės parodos."
 ---
 # A. Voldemaras
 
@@ -195,7 +202,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - id: c-75311
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 160."
   citata_originali: |
     Vilniaus problema komplikavo ir Lietuvos bažnytinės provincijos su-
     darymo ir konkordato su Vatikanu klausimus. Vyriausybei derantis su
@@ -216,7 +224,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - id: c-75312
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 159."
   citata_originali: |
     Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
     ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
@@ -238,7 +247,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - id: c-75313
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 161."
   citata_originali: |
     Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-
     demaras nieko negalėjo pakeisti. Būdamas ir premjeru, ir užsienio rei-
@@ -257,7 +267,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - id: c-75314
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 164."
   citata_originali: |
     Kariuomenėje įtakingi nacionalistai voldemari-
     ninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen.
@@ -276,7 +287,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - id: c-75315
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 158-159"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 158-159."
   citata_originali: |
     Kol kas viešojoje erdvėje dominuoja ekstrava-
     gantiškas, dėl savo oratorinių sugebėjimų geriausiai Vakaruose žinomas
@@ -305,7 +317,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - id: c-75316
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 158."
   citata_originali: |
     Prezidentas A. Smetona ir
     ministras pirmininkas A. Voldemaras
@@ -329,7 +342,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - id: c-75317
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 161."
   citata_originali: |
     Po gegužę įvykdyto studen-
     tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
@@ -353,7 +367,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - id: c-75318
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 156-157"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 156-157."
   citata_originali: |
     Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
     kratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruo-

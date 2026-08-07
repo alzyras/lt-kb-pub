@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d0aa6b579b7a75c55cf8046"
+canonical_name: "Halė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Halė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei protingas, kad visoje Prūsijoje neturėjo sau lygaus281."
+place_authority: true
+historical_names: []
 ---
 # Halė
 
@@ -69,7 +78,8 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
 - id: c-59327
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
   citata_originali: |
     Šitai sužinojusi, pirmoji moteriškė ilgai
     negalėjo dovanoti antrajai moteriškei. Tas tarnas, gimęs Halėje, buvo toks padorus bei
@@ -87,7 +97,8 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
 - id: c-168320
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 632"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 632."
   citata_originali: |
     Karalius bei karalienė, iškilmingai Vilniuje per mišias
     padėkoję viešpačiui dievui už pergalę, pasiuntė Ro­

@@ -84,7 +84,8 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
 - id: c-40550
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 160."
   citata_originali: |
     Jau karo su Turkija ir jos sąjungininkais
     (1853-1856 ) metu Rusijos carinė vyriau-
@@ -109,7 +110,8 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
 - id: c-167094
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 160."
   citata_originali: |
     Dauguma
     jų buvo tik dar labiau užsigrūdinę to-

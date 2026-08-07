@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-57034eb5a59afba7310c5a46"
+canonical_name: "V o i g t"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V o i g t"]
+sameAs: []
+canonical_biography: "Pajutęs tą, popiežius Inocentas III nurašė graudžią gromatą opatui cistersų Olivos, drausda mas jį, idant liautųsi nuo tokių netaikų, skelbiant ne- 1 V o i g t, Preus."
 ---
 # V o i g t
 
@@ -41,9 +48,9 @@ Pajutęs tą, popiežius Inocentas III nurašė graudžią gromatą opatui ciste
 ## Citatos
 
 - id: c-184778
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 241"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 241."
   citata_originali: |
     Pajutęs tą, popiežius Inocentas III nurašė
     graudžią gromatą opatui cistersų Olivos, drausda­

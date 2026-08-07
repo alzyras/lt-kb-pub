@@ -130,7 +130,8 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
 - id: c-175715
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Herodotas ¡savo kelionės po Skitiją metu teiravosi
     apie gintaringas vietas; boristeniečiai, ariba Padneprės
@@ -153,7 +154,8 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
 - id: c-175716
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 165."
   citata_originali: |
     167
     Gintaras, alavas ir brangūs kailiai Pietų ir Rytų gy­
@@ -174,7 +176,8 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
 - id: c-175717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 378."
   citata_originali: |
     Vadinasi, įrodę Karkinito įlankos ir Karkinęs miesto
     egzistavimo prie skitų žemdirbių gyvenamos Dnepro da­

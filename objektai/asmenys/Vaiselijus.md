@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e7fd08a9ae03044abf4417d8"
+canonical_name: "Vaiselijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaiselijus"]
+sameAs: []
+canonical_biography: "Narbutas Vaiselijų mini tarp kronikininkų, citavusių vyskupo Kristijono kroniką apie senovės Prūsiją."
 ---
 # Vaiselijus
 
@@ -54,7 +61,8 @@ Narbutas Vaiselijų mini tarp kronikininkų, citavusių vyskupo Kristijono kroni
 - id: c-174363
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
   citata_originali: |
     Iš imperatoriaus Augusto valdy­
     mo Romos valstybėje epochos išliko geografijos—istorijos

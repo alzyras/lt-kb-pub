@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-374545fee77ee18607cd90ec"
+canonical_name: "Ezechielis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ezechielis"]
+sameAs: []
+canonical_biography: "Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslininkų aiškintas kaip tautovardis, asmenvardis arba perkeltinė sąvoka."
 ---
 # Ezechielis
 
@@ -46,7 +53,8 @@ Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslin
 - id: c-174276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 215."
   citata_originali: |
     Manydami, kad mūsų skaity­
     tojai prisimena anksčiau šia tema sakytus dalykus (§55),

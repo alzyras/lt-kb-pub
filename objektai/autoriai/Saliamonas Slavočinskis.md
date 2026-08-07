@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-052f3d22f2fe4635034f3543"
+canonical_name: "Saliamonas Slavočinskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Saliamonas Slavočinskis","Saliamono Slavočinskio"]
+sameAs: []
+canonical_biography: "Saliamono Slavočinskio „Giesmės“ datuojamos 1646 m. ir siejamos su lietuvių kalbos kasdieniu funkcionavimu Bažnyčios ir mokyklos lygmeniu."
 ---
 # Saliamonas Slavočinskis
 
@@ -84,7 +91,8 @@ Saliamono Slavočinskio „Giesmės“ datuojamos 1646 m. ir siejamos su lietuvi
 - id: c-16801
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 74."
   citata_originali: |
     aiškinami lotyniškai, o tik paskui lietuviškai. K.  Sirvydo lietuviški pa-
     mokslai, vėlesni giesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.)

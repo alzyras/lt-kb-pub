@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b28d711ed2cebc4292983a06"
+canonical_name: "Kosakovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kosakovskis"]
+sameAs: []
+canonical_biography: "Generolo grafo Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkastas netoli Lukoinių dvaro."
 ---
 # Kosakovskis
 
@@ -54,7 +61,8 @@ Generolo grafo Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rut
 - id: c-173056
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
   citata_originali: |
     Didesnę dalį jis atidavė
     Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*.

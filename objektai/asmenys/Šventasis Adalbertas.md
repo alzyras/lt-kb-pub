@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-007e5c5f9e8263b51e7a8b7f"
+canonical_name: "Šventasis Adalbertas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šventasis Adalbertas"]
+sameAs: []
+canonical_biography: "Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalbertą prie Fišhauzeno užpuolusių prūsų miniai vadovavo žynys Siggo."
 ---
 # Šventasis Adalbertas
 
@@ -55,7 +62,8 @@ Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalb
 - id: c-173108
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
   citata_originali: |
     Tie žyniai buvo išskirtinai dievo Atrimpo arba
     Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo

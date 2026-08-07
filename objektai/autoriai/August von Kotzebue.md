@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-38e19940f232db228e4d87e9"
+canonical_name: "August von Kotzebue"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["August von Kotzebue"]
+sameAs: []
+canonical_biography: "Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D. 1324 Nr. 53, kurie visiškai atitinka tuos, kurie yra Kotzebue, T."
 ---
 # August von Kotzebue
 
@@ -175,7 +182,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - id: c-83917
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 232."
   citata_originali: |
     Mat nemaža miesto dalis su-
     15
@@ -201,7 +209,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - id: c-83919
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 69."
   citata_originali: |
     Il
     APIE VALDOVO GEDIMINO LAIŠKUS, RAŠYTUS IŠ VILNIAUS,
@@ -225,7 +234,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - id: c-83920
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 115."
   citata_originali: |
     Būtų visiškai paika sakyti, kad pajūrio mies­
     tai tuos laiškus nusiuntę Ordinui. Kokia priežastis būtų ver­
@@ -245,7 +255,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - id: c-83921
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 95."
   citata_originali: |
     Apie jo priėmimą popiežiaus
     rūmuose pasakoja Vygandas
@@ -272,7 +283,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - id: c-83922
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 37."
   citata_originali: |
     Nė kiek nenorėdami su­
     menkinti nepaprastai svarbaus ir
@@ -301,7 +313,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - id: c-83923
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 226."
   citata_originali: |
     Šis kunigaikštis, dar nuo pirmųjų kivir-
     1
@@ -337,7 +350,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - id: c-83924
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 229."
   citata_originali: |
     9
     Kotzebue Switrigail, p. 83, cituo­
@@ -373,7 +387,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - id: c-176799
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 116."
   citata_originali: |
     Be abejonės,
     anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­

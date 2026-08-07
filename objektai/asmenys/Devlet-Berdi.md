@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f25ffb7ca5db7218781962e7"
+canonical_name: "Devlet-Berdi"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Devlet-Berdi"]
+sameAs: []
+canonical_biography: "Lietuvos metraštis pasakoja, kad Vytautas Ordai paskyrė kitą chaną, vardu Devlet-Berdi."
 ---
 # Devlet-Berdi
 

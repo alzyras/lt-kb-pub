@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2a4d29cf54814f0d4e9d869b"
+canonical_name: "Sancinė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sancinė"]
+sameAs: []
+canonical_biography: "Prie Sancinės, kur Nemunas šakojasi į Giliją ir Rusnę, buvo piliakalnis, vietinių vadintas Kroniszkas-Pilnis."
+place_authority: true
+historical_names: []
 ---
 # Sancinė
 
@@ -53,7 +62,8 @@ Prie Sancinės, kur Nemunas šakojasi į Giliją ir Rusnę, buvo piliakalnis, vi
 - id: c-171950
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
   citata_originali: |
     Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
     ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­

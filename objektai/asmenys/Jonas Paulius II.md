@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09bbbd1271d64b500836276f"
+canonical_name: "Jonas Paulius II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Paulius II"]
+sameAs: []
+canonical_biography: "Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška Golgota. Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis."
 ---
 # Jonas Paulius II
 
@@ -85,7 +92,8 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
 - id: c-21750
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 228."
   citata_originali: |
     Todėl Kryžių kalnas, esantis 12 km į šiaurę
     nuo Šiaulių miesto, dėl kryžių gausos tapo plačiai žinomas ne tik Lietu-
@@ -107,7 +115,8 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
 - id: c-21751
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 258."
   citata_originali: |
     Išsivadavusi Lietuva, kaip ir kitos kaimynės, siekė kuo greičiau inte-
     gruotis į svarbiausias tarptautines demokratinio Vakarų pasaulio orga-

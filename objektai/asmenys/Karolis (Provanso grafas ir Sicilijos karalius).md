@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-491106e6662bc4c168ac1194"
+canonical_name: "Karolis (Provanso grafas ir Sicilijos karalius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis (Provanso grafas ir Sicilijos karalius)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui, Sicilijos karalystę, kurią Manfredas buvo užgrobęs, norėdamas ją iš jo atimti (Mart. Dusburgietis teigia, kad apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II nesantuokinio sūnaus, mirtį 1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį Sicilijos karaliumi, kurią jam davė popiežius Urbonas. Dusburgietis teigia, kad apie Konradino, imperatoriaus Fridricho II anūko, žūtį 1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos kilmingųjų (Mart."
 ---
 # Karolis (Provanso grafas ir Sicilijos karalius)
 
@@ -113,7 +120,8 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 - id: c-60672
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 234."
   citata_originali: |
     46. Apie Sicilijos karalystės dovanojimą Karoliui
 
@@ -132,7 +140,8 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 - id: c-60673
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238."
   citata_originali: |
     Tais metais, vasario mėnesį, pagavo jūrų žuvį, panašią į liūtą, tame paplūdimyje, kuris
     yra prieš Montaltą, ir nunešė prie Orvjeto, kur sugužėjo gausybė popiežiaus rūmininkų
@@ -155,7 +164,8 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 - id: c-60674
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 235."
   citata_originali: |
     52. Apie Konradino, imperatoriaus Fridricho II anūko, žūtį
 

@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4bf42e57e87a579baabe567f"
+canonical_name: "Kazimieras Masiliūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kazimieras Masiliūnas","objektai/asmenys/Kazimieras Masiliūnas"]
+sameAs: []
+canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
 ---
 # Kazimieras Masiliūnas
 
@@ -65,7 +72,8 @@ media_all_json: |-
 - id: c-64346
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 9."
   citata_originali: |
     Kartais juos
     inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty-

@@ -45,7 +45,7 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
 <a id="claim-t-189182"></a>
 - t-002
   teiginys: "Narbutas trizną apibūdino kaip kai kurioms lietuvių genties tautoms žinotas apeigas, atliekamas laidojant labai žymius žmones."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -53,7 +53,7 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172071
+    - c-172070
 
 <a id="claim-t-189183"></a>
 - t-003
@@ -80,7 +80,8 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
 - id: c-172069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
   citata_originali: |
     Raite­
     liai nuo tam tikros vietos leidžiasi lenktynių stulpelio link; tas,
@@ -100,7 +101,8 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
 - id: c-172070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
   citata_originali: |
     Apie tai bus straipsnyje „Kapai“.
     Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­
@@ -109,14 +111,17 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   citata_rodoma: "Apie tai bus straipsnyje „Kapai“.\nPirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­\ntuvių genties tautos žinojo trizną. Tai buvo apeigos, atlieka­\nmos laidojant labai žymius žmones."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-172071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
   citata_originali: |
     368
 
@@ -137,5 +142,4 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-003

@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184616
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 618"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 618."
   citata_originali: |
     Jau ketino pačią
     pilį apgulti, kuri didžiai stipriai aptverta turėjo

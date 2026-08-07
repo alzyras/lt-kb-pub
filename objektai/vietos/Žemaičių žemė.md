@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b67da8dd4a44bace54cd0347"
+canonical_name: "Žemaičių žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žemaičių žemė"]
+sameAs: []
+canonical_biography: "Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę. Lietuvos metraštyje Kęstutis nujoja į Žemaičius prašyti pagalbos po to, kai Jogaila be jo žinios užima Trakus. Kęstutis, sušaukęs savo Žemaičių žemę ir kariuomenę, traukė prie Neries, kur susijungė su Vytauto kariuomene."
+place_authority: true
+historical_names: []
 ---
 # Žemaičių žemė
 
@@ -153,7 +162,8 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
 - id: c-170407
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 82."
   citata_originali: |
     Didysis kunigaikštis Kęstutis, sušaukęs savo Žemai­
     čių žemę ir visą kariuomenę, traukia prie Neries.
@@ -169,7 +179,8 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
 - id: c-170409
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 177."
   citata_originali: |
     Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­
     gaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­

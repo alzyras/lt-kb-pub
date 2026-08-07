@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8fb34fa68fd679fee69e6128"
+canonical_name: "Spycinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Spycinas"]
+sameAs: []
+canonical_biography: "249 Spycinas, proistorikas 159 Spytekas iš Melsztyno 283, 312, 317, 318 Spliet H."
 ---
 # Spycinas
 
@@ -50,7 +57,8 @@ media_all_json: |-
 - id: c-33146
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 411"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 411."
   citata_originali: |
     Smolka St. 51, 52, 273, 279, 293,
     310, 318

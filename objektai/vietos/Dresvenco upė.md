@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c06d806d4f2b07aaadeeb8e"
+canonical_name: "Dresvenco upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dresvenco upė"]
+sameAs: []
+canonical_biography: "Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkurin."
+place_authority: true
+historical_names: []
 ---
 # Dresvenco upė
 
@@ -52,7 +61,8 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 153."
   citata_originali: |
     Tačiau šį kartą Vytautui neteko
     su Ordino kariuomene susitikti atvirame mūšyje, nes vokiečiai

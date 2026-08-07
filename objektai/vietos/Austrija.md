@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a164168efab8be4bb43c7f0c"
+canonical_name: "Austrija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Austrija"]
+sameAs: []
+canonical_biography: "Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reformas, Rusija rėmė: ji nenorėjo, kad per didele netvarka naudotųsi kiti kaimynai (Prūsija ir Austrija), ir tikėjosi, kad susitvarkęs kraštas liks jos vienos įtakoje, nes visą laiką bus reikalingas jos paramos."
+place_authority: true
+historical_names: []
 ---
 # Austrija
 
@@ -72,7 +81,8 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - id: c-24050
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 412."
   citata_originali: |
     Prie jų dar prisidėjo Austrijos Juozapas II. Susižavėjęs švie-
     čiamąja literatūra, jis darė reformas, viską, net Bažnyčią, pajungda-
@@ -89,7 +99,8 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - id: c-165561
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 37."
   citata_originali: |
     Abu rusų valdovai stengėsi savo
     valstybę stiprinti vakarinio kaimyno sąskaiton. Nuo «nebylių

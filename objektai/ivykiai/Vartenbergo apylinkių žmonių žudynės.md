@@ -99,7 +99,8 @@ Nenurodyta
 - id: c-63206
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį
     Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,

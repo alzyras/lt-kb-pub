@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0308673820b3eb2f085dd4d6"
+canonical_name: "Jarošas Čechavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jarošas Čechavičius"]
+sameAs: []
+canonical_biography: "Jarošas Čechavičius, Jadvygos Kamenskos sūnus iš pirmosios santuokos su Martynu Čechavičiumi, 1579 m. Raseiniuose įrašė Stanislovo Skaševskio testamentą į žemės teismų knygą."
 ---
 # Jarošas Čechavičius
 

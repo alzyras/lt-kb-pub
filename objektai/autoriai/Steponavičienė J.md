@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f81be15ff6848f0bc2caa9bd"
+canonical_name: "Steponavičienė J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Steponavičienė J"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad steponavičienė J."
 ---
 # Steponavičienė J
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad steponavičienė J.
 - id: c-61425
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Steponavičienė J. Dėl lietuviškų vietovardžių prūsinimo kryžiuočių ordino raštuose.—
     Baltistica, 1974, 10 (2), p. 163— 168.

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-594c95d3e2a4e35b56bc37bf"
+canonical_name: "Sūdavija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sūdavija"]
+sameAs: []
+canonical_biography: "Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija — tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­ mos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­ ja su Jotvingija (Dzūkija) yra tokie."
+place_authority: true
+historical_names: []
 ---
 # Sūdavija
 
@@ -52,7 +61,8 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 152."
   citata_originali: |
     Vytautas ir Jogaila, išgirdę iš savo pasiuntinių tokį sprendimą,
     anot Dlugošo, graudžiai apsiverkė^1 ) ir tuojau pasiuntė ki­

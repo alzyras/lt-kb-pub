@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14de41287c8dc96e37623b54"
+canonical_name: "Kurenecas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kurenecas"]
+sameAs: []
+canonical_biography: "Švitrigailos ir Livonijos ordino pajėgos ketino susijungti Kurenece. Kurenecas lokalizuojamas į šiaurę nuo Molodečno."
+place_authority: true
+historical_names: []
 ---
 # Kurenecas
 
@@ -82,7 +91,8 @@ media_all_json: |-
 - id: c-170307
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 269."
   citata_originali: |
     ” Kalbama apie naujus Švitrigailos veiksmus 1433 m. sausio
     pabaigoje — vasario pradžioje. Nepavykus 1432 m. rudens puoli­

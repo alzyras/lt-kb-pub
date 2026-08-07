@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-be7cf3ffe79dfc0c36e4e886"
+canonical_name: "Alepas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Alepas","Alepo","Aleps"]
+sameAs: []
+canonical_biography: "Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio atsivertimą į krikščionybę sieja su prūsų stabmeldystės lūžiu ir religinės sostinės perkėlimu į Lietuvą. Kadangi pasakojimas yra religinis ir vertinamasis, teiginiai pateikiami kaip Narbuto ar jo minimų kronikų vaizdinys."
 ---
 # Alepas
 
@@ -152,7 +159,7 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 <a id="claim-t-190646"></a>
 - t-006
   teiginys: "Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip smūgį prūsų stabmeldystei, po kurio religinė sostinė buvo perkelta į Lietuvą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -261,7 +268,8 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 - id: c-170890
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
   citata_originali: |
     Paskutinis Prūsijos
     Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
@@ -281,7 +289,8 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 - id: c-170891
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 286."
   citata_originali: |
     Paga­
     liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
@@ -307,7 +316,8 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 - id: c-170892
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 286."
   citata_originali: |
     Pagaliau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
     žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
@@ -326,7 +336,8 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 - id: c-170894
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
   citata_originali: |
     Tačiau dievai beveik niekad nepriimdavo šių maldavimų
     ir aukų, kol pagaliau man pasakė: „Nesame pajėgūs tai pada­
@@ -351,7 +362,8 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 - id: c-173529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 288."
   citata_originali: |
     Atlikdamas apei­
     gas, ant galvos užsidėdavo cukraus galvos pavidalo mitrą, iš­
@@ -375,7 +387,8 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 - id: c-173530
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 431"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
   citata_originali: |
     Ma­
     tyt, autorius turėjo rankoje istorijos šaltinį, iš kurio pasisėmė

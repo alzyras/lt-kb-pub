@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-68ba09945ac8ba007e2bc1f9"
+canonical_name: "Lietuvos istorikai ir socialinės istorijos tyrėjai"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lietuvos istorikai ir socialinės istorijos tyrėjai"]
+sameAs: []
+canonical_biography: "Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip R. , 57-74 p. (^105) Parašė, be kitko : Lietuvių kova prieš kalavijuočius (1945), Kry­ žiuočių valstybės santvarkos bruožai (1948) ; vienašališkai poleminė yra jo knyga Popiežiai lietuvių tautos priešai (1948)."
 ---
 # Lietuvos istorikai ir socialinės istorijos tyrėjai
 
@@ -222,7 +229,8 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 - id: c-34211
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 84."
   citata_originali: |
     LTSR Mokslų
     Akademijos Istorijos Institutas leidžia kas antri metai knygas :
@@ -245,7 +253,8 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 - id: c-34215
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 86."
   citata_originali: |
     I-jo Lietuvos Statuto šaltinių, terminų ir paleografijos
     klausimais rašė S. Lazutka ir E. Gudavičius^111. Teisės
@@ -273,7 +282,8 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 - id: c-34216
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 87."
   citata_originali: |
     (^80) ĮVADAS
     vickis (IstV, t. 7, 1965, 161-165 p.). R. Strazdūnaitė:
@@ -294,7 +304,8 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 - id: c-34217
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 87."
   citata_originali: |
     R. Strazdūnaitė:
     _Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje_ (Ak-
@@ -321,7 +332,8 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 - id: c-34218
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 87."
   citata_originali: |
     Augustavo gubernijoje (AkMD, t. 19, 1965, 143-
     166 p.), apie sukilėlių antspaudus (AkMD, t. 22, 1966, 121-131 p.)^119 ;
@@ -344,7 +356,8 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 - id: c-34219
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     171-174p.). Lietuviškos spaudos draudimo XIX a. klausimais ne­
     mažai rašė R. Vėbra^128.
@@ -360,7 +373,8 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 - id: c-34220
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     Apie bibliotekas Lietuvoje XIX a.
     pradžioje rašė M. Lukšienė (BBK, t. 5, 1966, 109-136 p.), ji
@@ -381,7 +395,8 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 - id: c-34221
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     S. Matulaitytė rašo apie astro­
     nomijos mokslo įvedimą Vilniaus universitete XVIII a. (AkMD,
@@ -406,7 +421,8 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 - id: c-34222
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     — Pažymėtini čia ir L. Vladimirovo straipsniai:** **_Caro vyriausybės politika
     kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu_** **(BBK, t. 3, 1964,
@@ -429,7 +445,8 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 - id: c-163220
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 84."
   citata_originali: |
     J. Stankus rašė
     apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII

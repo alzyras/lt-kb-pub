@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-03ba1c4a2bcc052df8b3b2a3"
+canonical_name: "Nedzingė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nedzingė"]
+sameAs: []
+canonical_biography: "DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lietuvių pozicijų prijojo lenkų parlamentaras. Mūsų batalionas, pernakvojęs Nedzingių bažnytkaimyje, anksti rytą išžygiavo irgi Vilniaus kryptimi."
+place_authority: true
+historical_names: []
 ---
 # Nedzingė
 
@@ -52,7 +61,8 @@ DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lie
 - id: c-45239
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 205."
   citata_originali: |
     DVIEJŲ KAPITONŲ PASIKALBĖJIMAS
 
@@ -71,7 +81,8 @@ DVIEJŲ KAPITONŲ PASIKALBĖJIMAS Po nesėkmingo lenkų mėginimo pralaužti lie
 - id: c-167180
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 205."
   citata_originali: |
     Po to,
     sukūrus pilietinio karo Lietuvoje regimybę

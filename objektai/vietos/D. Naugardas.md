@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-86eed0eea37f6a7e75d4cd5b"
+canonical_name: "D. Naugardas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["D. Naugardas"]
+sameAs: []
+canonical_biography: "Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno)."
+place_authority: true
+historical_names: []
 ---
 # D. Naugardas
 
@@ -45,7 +54,8 @@ Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordin
 - id: c-67549
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 63."
   citata_originali: |
     Padarę taiką pietuose, jie pradėjo
     žiauriai siaubti kalavijuočių ordino pavergtas sritis, naikinti jo

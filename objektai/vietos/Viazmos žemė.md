@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4a74c59ad63698d0c8b67b13"
+canonical_name: "Viazmos žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Viazmos žemė"]
+sameAs: []
+canonical_biography: "Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę. Stanislovas Kiška nusiaubė Viazmos žemę ir gretimas apygardas, visur žudydamas ir degindamas."
+place_authority: true
+historical_names: []
 ---
 # Viazmos žemė
 
@@ -79,7 +88,8 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
 - id: c-168636
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 532"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 532."
   citata_originali: |
     Tuo tarpu Va­
     siljevičius, nors, paisydamas paliaubų, atvirai ir ne­
@@ -111,7 +121,8 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
 - id: c-168637
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 604"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 604."
   citata_originali: |
     Vis dėlto Ostro­
     giškis su keliomis lengvųjų

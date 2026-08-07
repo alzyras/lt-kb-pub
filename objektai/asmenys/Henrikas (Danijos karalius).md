@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e8396be388c14abdcc35c947"
+canonical_name: "Henrikas (Danijos karalius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas (Danijos karalius)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų naudos, todėl kitais metais jį nužudė frizai. Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų kunigaikštis, kuris prieš 300 metų irgi taip buvo savo brolio nugalabytas, ir pasiūlė minėtajam karaliui Henrikui, kad savo vardui pagerbti pasirūpintų pastatydinti bažnyčią, o tas šitaip ir padarė, būtent."
 ---
 # Henrikas (Danijos karalius)
 
@@ -75,7 +82,8 @@ Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais He
 - id: c-60762
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232."
   citata_originali: |
     35. Apie Henriko, Danijos karaliaus, žūtį
 

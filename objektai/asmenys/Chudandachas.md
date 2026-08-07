@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-019572f09934b83305df54ab"
+canonical_name: "Chudandachas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Chudandachas"]
+sameAs: []
+canonical_biography: "1424 m. Vytauto pa­ siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie, vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­ jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu tapo Vytauto palaikomas Machmetas."
 ---
 # Chudandachas
 
@@ -63,7 +70,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 159."
   citata_originali: |
     1424 m. Vytauto pa­
     siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie,

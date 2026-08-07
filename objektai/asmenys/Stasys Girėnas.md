@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab05d6849816eaf28e31491b"
+canonical_name: "Stasys Girėnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stasys Girėnas"]
+sameAs: []
+canonical_biography: "1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938). Girėno sumanytą skrydį. Transatlantiniai lakūnai Steponas Darius ir Stasys Girėnas."
 ---
 # Stasys Girėnas
 
@@ -103,7 +110,8 @@ media_all_json: |-
 - id: c-21993
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
   citata_originali: |
     Kazimiero bažnyčioje atidarytas Ateiz-
     mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
@@ -125,7 +133,8 @@ media_all_json: |-
 - id: c-166963
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 173-174"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 173-174."
   citata_originali: |
     Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
     liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
@@ -146,7 +155,8 @@ media_all_json: |-
 - id: c-166964
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 174."
   citata_originali: |
     Savo laiške
     prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei

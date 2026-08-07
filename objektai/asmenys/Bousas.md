@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5bdae4e340ee178c6aa272b"
+canonical_name: "Bousas (didikas, XVI a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bousas","Bousas (didikas, XVI a.)"]
+sameAs: []
+canonical_biography: "Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape su žirgu, kurtais, sakalu ir karine ginkluote. Mano kaimo, vadinamo Bouslaviškėmis (Bouslawiszki), že mėje yra kvadratinis kapas, 20 pėdų ilgio, be aiškaus sampilo, tik apmūrytas lauko akmenimis, lyg tai būtų kokio nors medi nio pastato pamūrijimas."
 ---
 # Bousas (didikas, XVI a.)
 
@@ -68,7 +75,8 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
 - id: c-172971
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
   citata_originali: |
     Pasak vietos padavimo, tame kape
     palaidotas kažkoks lietuvių didikas, vadas (Wada), vardu Bou-
@@ -89,7 +97,8 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
 - id: c-177095
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
   citata_originali: |
     Pasitaiko taip pat ir akmeninių kaitų,
     labai gražiai padirbtų iš titnago.

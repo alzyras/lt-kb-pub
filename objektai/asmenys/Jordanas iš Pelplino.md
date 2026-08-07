@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e790f205f2f4563bfb7f5b98"
+canonical_name: "Jordanas iš Pelplino"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jordanas iš Pelplino"]
+sameAs: []
+canonical_biography: "Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kurį magistras Fridrichas fon Vildenbergas Meve 1324 m., daly­ vaujant Pelplino abatui Jordanui, liepė parengti, yra Slapt."
 ---
 # Jordanas iš Pelplino
 
@@ -62,7 +69,8 @@ Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kur�
 - id: c-83508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 93."
   citata_originali: |
     Minėti
     pasiuntiniai, be abejonės, iš Liube­

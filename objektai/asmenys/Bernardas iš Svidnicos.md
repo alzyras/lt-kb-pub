@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43e8acebca3990c2d0138b6b"
+canonical_name: "Bernardas iš Svidnicos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bernardas iš Svidnicos"]
+sameAs: []
+canonical_biography: "Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir daug kitų riterių."
 ---
 # Bernardas iš Svidnicos
 
@@ -62,7 +69,8 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 - id: c-83612
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 82."
   citata_originali: |
     IV Band,
     p. 358-376).

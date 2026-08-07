@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-60061
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
   citata_originali: |
     Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
     pilies bei miesto sugriovimą
@@ -103,7 +104,8 @@ Nenurodyta
 - id: c-167352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
   citata_originali: |
     Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
     Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir

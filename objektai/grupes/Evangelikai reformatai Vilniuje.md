@@ -59,7 +59,8 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - id: c-82770
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 312."
   citata_originali: |
     Dar prieš įžengiant karaliui Steponui į sostą, Lie­
     tuvos piliečių brolių Mamoničių namuose įsteigta spaustu­

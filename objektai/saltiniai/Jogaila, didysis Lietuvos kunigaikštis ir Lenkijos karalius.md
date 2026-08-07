@@ -74,7 +74,8 @@ Originali yra nebaigta studija : « Jogaila, didysis Lietuvos kunigaikštis ir L
 - id: c-91737
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 68."
   citata_originali: |
     Labai ilgi straipsniai iš Lietuvos istorijos
     (Aleksandras, Algirdas, Batoras Steponas, Bažnytinė unija, Gedi­

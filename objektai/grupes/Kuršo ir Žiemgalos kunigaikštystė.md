@@ -57,7 +57,8 @@ Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti 
 - id: c-40772
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 106."
   citata_originali: |
     Be lie-
     tuvių, mūšyje dalyvavo į pagalbą prieš
@@ -84,7 +85,8 @@ Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti 
 - id: c-167048
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 106."
   citata_originali: |
     LDK didysis etmo-
     nas Karolis Chodkevičius, matydamas

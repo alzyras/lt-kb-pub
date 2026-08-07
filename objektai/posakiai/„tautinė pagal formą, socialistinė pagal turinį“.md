@@ -92,7 +92,8 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
 - id: c-26746
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
   citata_originali: |
     Valdžia ėmė priekaištauti menininkams dėl kultūroje
     vyraujančio pesimizmo, pakeisti leidyklų ir periodinių kultūros leidinių

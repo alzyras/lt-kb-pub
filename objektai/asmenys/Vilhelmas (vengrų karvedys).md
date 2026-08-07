@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-840c7733d2f78b2afc16c66b"
+canonical_name: "Vilhelmas (vengrų karvedys)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vilhelmas (vengrų karvedys)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie vieną stebuklą Šioje kariuomenėje buvo vienas grafas magistras Vilhelmas, vengrų karvedys, kuriam naktį, kai jis ilsėjosi savo lovoje, pasirodė švenčiausioji mergelė ir, rūsčiais žodžiais jį išbarusi, pasakė: „Kodėl siaubi mano žemę, aplaistytą daugybės."
 ---
 # Vilhelmas (vengrų karvedys)
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Šioje kariuomenėje buvo vienas 
 - id: c-61096
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
   citata_originali: |
     Apie vieną stebuklą
 

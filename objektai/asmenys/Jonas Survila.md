@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9035dbe42db8a03df29aa107"
+canonical_name: "Jonas Survila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Survila"]
+sameAs: []
+canonical_biography: "Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai Tėvynei du kryžiuočiai lietuviai, Jonas ir Tomas Survilos."
 ---
 # Jonas Survila
 
@@ -61,7 +68,8 @@ Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai T�
 - id: c-41367
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 56."
   citata_originali: |
     Mūšyje žuvo keliasdešimt (kartais nu-
     rodoma net 74) žymių Lietuvos kuni-

@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d27d673d3e7d376d31c32879"
+canonical_name: "Borisas (Tverės kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Borisas (Tverės kunigaikštis)"]
+sameAs: []
+canonical_biography: "Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais. Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį Mariją, dėl jos perėjo į rusų tikėjimą ir gavo Jurgio vardą."
 ---
 # Borisas (Tverės kunigaikštis)
 
@@ -141,7 +148,8 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
 - id: c-83575
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 232-233"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 232-233."
   citata_originali: |
     Tai, ką mūsų kronikininkai kal­
     ba apie Švitrigailos žmonos sugavi­
@@ -181,7 +189,8 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
 - id: c-83576
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 174."
   citata_originali: |
     I siede po nem Szwitrihajła
     Olhirdowicz. [Tais pačiais metais
@@ -210,7 +219,8 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
 - id: c-176525
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 45-46."
   citata_originali: |
     Savo įpėdiniu Polocke paliko savo sūnų Borisą",
     ir šis kunigaikštis Borisas prie Berezinos upės įkūrė

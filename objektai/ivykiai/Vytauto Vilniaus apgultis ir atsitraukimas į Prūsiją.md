@@ -64,7 +64,7 @@ Nenurodyta
 <a id="claim-t-185665"></a>
 - t-002
   teiginys: "Žygiuodamas iš Trakų prie Vilniaus Vytautas, pasak Kojelavičiaus, vengė pulti miesto įtvirtinimus, nes laikė juos sunkiai pralaužiamais."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,7 +115,8 @@ Nenurodyta
 - id: c-169025
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 304."
   citata_originali: |
     aprūpinęs jį būtiniausiais reikmenimis ir priskyręs
     keletą lenkų būrių. Kazimieras taip pat nedvejoda­
@@ -156,7 +157,8 @@ Nenurodyta
 - id: c-169026
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 304."
   citata_originali: |
     Aukštutinę pilį, stovinčią ant
     aukšto ir stataus kalno, gynė lenkų įgula. Žemutinę,

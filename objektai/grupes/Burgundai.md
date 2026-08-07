@@ -66,7 +66,8 @@ Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiu
 - id: c-175748
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
   citata_originali: |
     Po Odo­
     akro mirties dar ketverius metus truko susirėmimas prie­

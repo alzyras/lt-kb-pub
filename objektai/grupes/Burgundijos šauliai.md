@@ -66,7 +66,8 @@ media_all_json: |-
 - id: c-82732
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 152-153"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 152-153."
   citata_originali: |
     Tohože lieta, Niemcy prydosza ra-
     tiju ko hradu Wilnie, na Kniazia Vitow-
@@ -97,7 +98,8 @@ media_all_json: |-
 - id: c-82733
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 154-155"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 154-155."
   citata_originali: |
     138
 

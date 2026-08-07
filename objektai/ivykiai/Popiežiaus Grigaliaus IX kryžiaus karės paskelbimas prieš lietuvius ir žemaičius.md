@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184652
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 262"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 262."
   citata_originali: |
     Kaipogi ateinantį metą
     popiežius pats su didesne dar aitra skatino krikš­

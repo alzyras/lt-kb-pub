@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2bd4ccf86247edad7cb9082b"
+canonical_name: "Eneas Silvius Picolomini"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eneas Silvius Picolomini"]
+sameAs: []
+canonical_biography: "Nors Eneas Silvius Picolomini ir perdeda, pa­ sakodamas apie jo žiaurumą, bet švelniu valdovu Vytauto ne­ galima vadinti."
 ---
 # Eneas Silvius Picolomini
 
@@ -51,7 +58,8 @@ Nors Eneas Silvius Picolomini ir perdeda, pa­ sakodamas apie jo žiaurumą, bet
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 286."
   citata_originali: |
     jam įžeidimų. Nors Eneas Silvius Picolomini ir perdeda, pa­
     sakodamas apie jo žiaurumą, bet švelniu valdovu Vytauto ne­

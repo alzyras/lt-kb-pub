@@ -79,7 +79,8 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 - id: c-42644
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 253."
   citata_originali: |
     Sausio 13-osios
     dienos brolijos
@@ -114,7 +115,8 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 - id: c-44722
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 252."
   citata_originali: |
     su Vilniumi. Sausio 12 d. Aukščiausioji
     Taryba - Atkuriamasis Seimas, vadovau-

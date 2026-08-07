@@ -31,7 +31,7 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
 <a id="claim-t-191760"></a>
 - t-001
   teiginys: "Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Plocko kanauninko Jaroslavo kronikoje."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -47,7 +47,6 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174642
-    - c-174643
 
 <a id="claim-t-191761"></a>
 - t-002
@@ -67,7 +66,8 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
 - id: c-174642
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
   citata_originali: |
     Tačiau Tidemanas rašo, kad
     jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
@@ -88,7 +88,8 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
 - id: c-174643
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
   citata_originali: |
     3 Apie tikrą egzistavimą vyskupo Kristijono kronikos, kuri vadi­
     nosi Liber filiorum Belini, cum suis superstitionibus Brutiae factionis
@@ -101,5 +102,4 @@ Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Pl
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

@@ -58,7 +58,8 @@ Taube, M.
 - id: c-33725
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 215."
   citata_originali: |
     Jhs.,_
     MiLG, t. 15, 1892. Plg. Taube, M. — Klymenko, F. : _Die Urkunden

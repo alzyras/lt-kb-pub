@@ -61,7 +61,8 @@ Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų 
 - id: c-75151
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 180."
   citata_originali: |
     Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirma-
     sis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos na-

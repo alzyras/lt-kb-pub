@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4531cd79663cf60ad6a936fb"
+canonical_name: "Pranciškus Malevskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Pranciškui Malevskiui","Pranciškus Malevskis"]
+sameAs: []
+canonical_biography: "Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis žiniomis ir vadovavęs senosios Lietuvos Metrikos padaliniui. Balinskio Vilniaus istorijos medžiagai jis parūpino išrašų iš Lietuvos Metrikos."
 ---
 # Pranciškus Malevskis
 
@@ -82,7 +89,8 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
 - id: c-55576
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 27."
   citata_originali: |
     Tai buvęs Vilniaus Universiteto profeso­
     rius, o dabar Kijeve vadovaujantis Teisės katedrai, Ignacas Dani­
@@ -111,7 +119,8 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
 - id: c-78479
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 27."
   citata_originali: |
     Įgudęs lietuvių istorijos žinovas Ig­
     nacas Onacevičius su retai sutinkamu palankumu atidavė man

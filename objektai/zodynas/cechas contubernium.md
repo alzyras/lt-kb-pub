@@ -59,7 +59,8 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
 - id: c-82440
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 452-453"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 452-453."
   citata_originali: |
     Convento vero forum decli­
     nante, atque subditum et Civem Episcopalem Vilnensem se
@@ -104,7 +105,8 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
 - id: c-82441
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 451"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 451."
   citata_originali: |
     Šiuo raštu skel­
     biame visiems ir kiekvienam, kam dera žinoti, kad pas mus

@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-706acf5fd3121991c7cf0c69"
+canonical_name: "Salakas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Salakas","Salakas (vieta)"]
+sameAs: []
+canonical_biography: "Gegužės 20 d. autoriaus žmona vyko į Salaką į bažnyčią, o įraše palinkėta jai laimingai sugrįžti."
+place_authority: true
+historical_names: []
 ---
 # Salakas (vieta)
 
@@ -47,9 +56,10 @@ Gegužės 20 d. autoriaus žmona vyko į Salaką į bažnyčią, o įraše palin
 ## Citatos
 
 - id: c-185748
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 16"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 16."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 16."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-025c9281798c7240b3030dc2"
+canonical_name: "Liekis Š"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Liekis Š"]
+sameAs: []
+canonical_biography: "Liekis Š."
 ---
 # Liekis Š
 
@@ -73,7 +80,8 @@ Liekis Š.
 - id: c-20693
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Liekis Š. „A State within a State?“ Jewish autonomy in Lithuania 1918–1925.
     Vilnius, 2003.

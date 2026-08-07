@@ -56,7 +56,8 @@ O ko verta Vytauto Žalakevičiaus ir Almanto Grikevičiaus „Jausmų“ (1968)
 - id: c-44968
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 13."
   citata_originali: |
     Bet užtenka pamatyti sovietmečiu (1965) kurto Vytauto
     Žalakevičiaus kino filme „Niekas nenorėjo mirti“ metaforiškąją

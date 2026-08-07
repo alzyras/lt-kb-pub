@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e6d0f87c4493ef8b8276b601"
+canonical_name: "Liudvikas (Antiochijos patriarchas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas (Antiochijos patriarchas)"]
+sameAs: []
+canonical_biography: "Žiemos pabaigoje į Lietuvą pas karalių atvyko Liudvikas, Antiochijos patriarchas ir popiežiaus pasiuntinys."
 ---
 # Liudvikas (Antiochijos patriarchas)
 
@@ -81,7 +88,8 @@ media_all_json: |-
 - id: c-169503
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 512"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 512."
   citata_originali: |
     Iš ten karalius nuvyko į Lietuvą
     ir likusius žiemos mėnesius praleido Kaune, nes Vil­

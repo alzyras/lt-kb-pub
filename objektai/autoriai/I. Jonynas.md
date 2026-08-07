@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cf712f741ee7c9194280533f"
+canonical_name: "I. Jonynas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["I. Jonynas"]
+sameAs: []
+canonical_biography: "Jonynas, lg. : JakG, I, 127-135 ; II, 5-59 p. — (”) Naujausi Gedimino dinastijos kilmės tyrinėjimai, LP, I, 1, 1940, 29-56 p. — Jonynas, I. Jonynas, Ig."
 ---
 # I. Jonynas
 
@@ -61,7 +68,8 @@ Jonynas, lg. : JakG, I, 127-135 ; II, 5-59 p. — (”) Naujausi Gedimino dinast
 - id: c-32947
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 135."
   citata_originali: |
     — Jodkowski, J. : _Grodno i okolice
     w zaraniu dziejów Litwy i Rusi nad Niemnem,_ 1928. — Johansen, P. :

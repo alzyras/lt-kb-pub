@@ -50,7 +50,8 @@ Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu)
 - id: c-24942
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 190."
   citata_originali: |
     Petrovu“, bet jis,
     kaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus

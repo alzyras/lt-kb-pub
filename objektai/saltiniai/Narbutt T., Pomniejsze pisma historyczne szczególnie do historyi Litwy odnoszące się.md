@@ -62,7 +62,8 @@ Teodoras Narbutas šią informaciją vėliau įdėjo į 1852 m. Vilniuje išleis
 - id: c-174683
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 500"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 500."
   citata_originali: |
     Vėliau T, Narbutas šią informaciją įdėjo j vadina­
     muosius „Mažesniuosius istorinius raštus“ (Pomniejsze pisma his-

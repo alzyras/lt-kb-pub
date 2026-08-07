@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-39210fba67d6273cd281fb34"
+canonical_name: "Keith Richards"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Keith Richards"]
+sameAs: []
+canonical_biography: "O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison ir Paul McCartney, Keith Richards ir Ronnie Wood, David Gilmour ir Bruce Springsteen?"
 ---
 # Keith Richards
 
@@ -31,7 +38,8 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 - id: c-21822
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 266."
   citata_originali: |
     nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
     Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.

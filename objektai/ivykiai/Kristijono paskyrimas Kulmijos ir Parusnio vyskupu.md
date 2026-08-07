@@ -59,9 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184675
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 242"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 242."
   citata_originali: |
     Kristijonas, ap­
     krikštijęs dar didžias daugybes netikėlių, rūpinos

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c6ca0f8c8e9c928c32c2420f"
+canonical_name: "Jaroslavas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jaroslavas"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Divonio kelionės aprašymą vyskupas Kristijonas veikiausiai rado Plocko katedros klebono Jaroslavo kronikoje."
 ---
 # Jaroslavas
 
@@ -54,7 +61,8 @@ Narbutas rašė, kad Divonio kelionės aprašymą vyskupas Kristijonas veikiausi
 - id: c-174509
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
   citata_originali: |
     Tačiau Tidemanas rašo, kad
     jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės

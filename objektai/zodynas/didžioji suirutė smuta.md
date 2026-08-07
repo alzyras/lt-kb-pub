@@ -95,7 +95,8 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 - id: c-03213
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 303."
   citata_originali: |
     Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
@@ -114,7 +115,8 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 - id: c-03214
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 303."
   citata_originali: |
     su Lietuva, tačiau jam jau nebeteko kariauti, nes netrukus
     (1584 m.) jis mirė. Po jo, 15 metų buvo caru jokiems dideliems
@@ -133,7 +135,8 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 - id: c-166341
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 303."
   citata_originali: |
     Po jo, 15 metų buvo caru jokiems dideliems
     žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim

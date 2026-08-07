@@ -74,22 +74,30 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
 <a id="claim-t-192934"></a>
 - t-003
   teiginys: "Narbutas, remdamasis Herodotu ir senovės tyrinėtojais, kimbrus laiko kadaise Prūsijoje viešėjusia gentimi."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kimbrai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kimbrai\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175702
+    - c-175704
 
 ## Citatos
 
 - id: c-175702
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
   citata_originali: |
     Mūsų kronikinin­
     kas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­
@@ -107,12 +115,12 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
 
 - id: c-175703
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 47."
   citata_originali: |
     49
 
@@ -138,7 +146,8 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
 - id: c-175704
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
   citata_originali: |
     51
 
@@ -154,10 +163,11 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
   citata_rodoma: "51\n\n## Puslapis 49\n\nsykį sakė, jog šio istoriko tikroviškumas yra tikrai isto­\nrinis. Mes, sekdami Herodoto žodžiais ir remdamiesi se­\nnovės tyrinėtojų išvadomis, laikome kimbrus kitados Prū­\nsijoje viešėjusia gentimi, net galėjusia palikti savo kal­\nbos ir susigiminiavimo su pirmykščiais mūsų Baltijos jū­\nros pakrančių gyventojais paminklų. Savo pavadinimą\njie įamžino iki šiol išlikusiose pavardėse."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Kimbrai keliavo į [[objektai/vietos/Vakarų Europa]]

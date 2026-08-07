@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-01872
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 376"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 376."
   citata_originali: |
     monu Sobieskiu palaikė Prancūzų kandidatą. Kai pasirodė,
     jog nebus galima išrinkti Kondės, prieš kurio kandidatūrą jau

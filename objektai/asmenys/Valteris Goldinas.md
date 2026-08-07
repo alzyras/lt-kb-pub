@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2d793de742d24ed53c5fd053"
+canonical_name: "Valteris Goldinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Valteris Goldinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo komtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę, ir, stojęs į mūsų, nukovė visus, išskyrus tris."
 ---
 # Valteris Goldinas
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenbu
 - id: c-167523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
   citata_originali: |
     Apie 72 lietuvius, nukautus Notangoje
     Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai

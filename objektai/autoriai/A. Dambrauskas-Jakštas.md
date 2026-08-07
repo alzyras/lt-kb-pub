@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b0fbcc423288d6e477975db8"
+canonical_name: "A. Dambrauskas-Jakštas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Dambrauskas-Jakštas"]
+sameAs: []
+canonical_biography: "Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl., Roma^2 1975."
 ---
 # A. Dambrauskas-Jakštas
 
@@ -60,7 +67,8 @@ Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl., Roma^2 1975.
 - id: c-32867
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 418."
   citata_originali: |
     Metraštis, V tomas, VIII-623 psl., Roma 1970 16 dol.
     Metraštis, VI tomas, spausdinama

@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9cf96dbe0418b719f91a3c80"
+canonical_name: "Boleslovas Kantrusis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslovas Kantrusis"]
+sameAs: []
+canonical_biography: "Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nuo netikėlių, noris visų bran giausiai, atpirkti, ko dėjęsis, išsiuntė karalius siun tinius į Parusnį."
 ---
 # Boleslovas Kantrusis
 
@@ -41,9 +48,9 @@ Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nu
 ## Citatos
 
 - id: c-184766
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 139"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 139."
   citata_originali: |
     Netikėliai tarės tuomi savo apjuoktas šventeny­
     bes nuo krikščionų nugerbę ir užrūstintus savo die­

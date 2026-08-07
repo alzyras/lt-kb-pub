@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f2330fb6ee2bfebcb938da36"
+canonical_name: "Denionių ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Denionių ežeras"]
+sameAs: []
+canonical_biography: "Čia sodybos šeimininkams papasakojo, kad iš balso atpažino šį bunkerį išdavusį Vladą Karosą-Vilką, suimtą Tarzano bunkeryje prie Denionių ežero."
+place_authority: true
+historical_names: []
 ---
 # Denionių ežeras
 
@@ -58,7 +67,8 @@ media_all_json: |-
 - id: c-45070
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 247."
   citata_originali: |
     Kautynių metu iš bunkerio pavyko išsiveržti
     Juozui Kemekliui-Rokui, kuris prasiveržė

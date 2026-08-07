@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2d708b65535b35432cd57dd0"
+canonical_name: "Šimonių giria"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šimonių giria"]
+sameAs: []
+canonical_biography: "Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo rengiami srities vadų sąskrydžiai. Svėdasų valsčiuje, Šimonių girioje. Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius: žuvo 33 partizanai, 10 laisvės kovotojų pateko į nelaisvę."
+place_authority: true
+historical_names: []
 ---
 # Šimonių giria
 
@@ -104,7 +113,8 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
 - id: c-44090
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 245."
   citata_originali: |
     Priešo pajėgos
 
@@ -124,7 +134,8 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
 - id: c-45469
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 247."
   citata_originali: |
     Mūšio padariniai
     Didžiausias laisvės kovotojų ir NKVD susi-
@@ -147,7 +158,8 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
 - id: c-45470
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 245."
   citata_originali: |
     Apygardos teritorijoje, Šimonių girioje,
     bazavosi srities vadovybė, būdavo ren-
@@ -167,7 +179,8 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
 - id: c-167204
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 245."
   citata_originali: |
     Algimanto apygardą sudarė trys rinktinės:
     Šarūno, Kunigaikščio Margio ir Žalioji.

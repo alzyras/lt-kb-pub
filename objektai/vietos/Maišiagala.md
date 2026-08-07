@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d37c7f5eac7e7f6463b751f"
+canonical_name: "Maišiagala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Maišiagala"]
+sameAs: []
+canonical_biography: "Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir Maišiagalos, priartėjo prie Vilniaus pilių. Netrukus po to Ordino maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­ tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė aplinkines žemes."
+place_authority: true
+historical_names: []
 ---
 # Maišiagala
 
@@ -54,7 +63,8 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
 - id: c-167246
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 134."
   citata_originali: |
     Tų karingų vienuolių viršininkas, greitas
     pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­

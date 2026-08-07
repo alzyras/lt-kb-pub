@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2b50fa87d27c081dadc38268"
+canonical_name: "J. Simpsonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Simpsonas"]
+sameAs: []
+canonical_biography: "Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Lietuva galėtų įsijungti į Rusijos federaciją maždaug tokiais pagrindais, kaip Bavarija į Vokietijos sąjungą“ – Kaune apstulbusi Lietuvos vyriausybė skubiai paskelbė, kad tai tik asmeninė A."
 ---
 # J. Simpsonas
 
@@ -50,7 +57,8 @@ Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Liet
 - id: c-26668
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 140."
   citata_originali: |
     Būta ir savų klaidų – su nie-
     kuo nesitardamas A. Voldemaras birželio mėnesį, atsakydamas į Didžio-

@@ -96,14 +96,13 @@ Nenurodyta
 <a id="claim-t-196953"></a>
 - t-003
   teiginys: "Apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku."
-  atnaujinta: "2026-07-24 14:55"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-63662
     - c-63664
 
 ## Reikšmingi paminėjimai
@@ -137,7 +136,8 @@ Nenurodyta
 - id: c-63662
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
     Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
 
@@ -156,12 +156,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
 
 - id: c-63664
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 211."
   citata_originali: |
     dieną puldinėjo lietuviai; tose kovose netikėliai neteko daug vyrų nukautaisiais ir sunkiai
     sužeistaisiais, o broliai — 18 karių sužeistaisiais. Nieko šiuo būdu nepešę, galop jie 17

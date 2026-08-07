@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c5a2fa1077a184cd30f0962"
+canonical_name: "Šiaurės Vakarų kraštas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šiaurės Vakarų kraštas"]
+sameAs: []
+canonical_biography: "Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu. Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto centras yra ne ką mažiau stačiatikiškas nei katalikiškas."
+place_authority: true
+historical_names: []
 ---
 # Šiaurės Vakarų kraštas
 
@@ -93,7 +102,8 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
 - id: c-24626
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 15."
   citata_originali: |
     Neliko ten ir Lietuvos vardo.
     Kitaip klostėsi Didžiosios Lietuvos istorija. Rusijai sunaikinus senąją
@@ -111,7 +121,8 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
 - id: c-24628
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 116."
   citata_originali: |
     Vil-
     niuje pastatyta ir „atstatyta“ (tose vietose, kur jos buvo iki XVII a.) apie
@@ -128,7 +139,8 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
 - id: c-75046
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 123-124"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 123-124."
   citata_originali: |
     Caro valdžia buvusias LDK teritorijas tebevadino Šiaurės Vakarų kraš-
     tu, taigi traktavo kaip organišką „tikrosios“ Rusijos dalį. O tai reiškė, kad

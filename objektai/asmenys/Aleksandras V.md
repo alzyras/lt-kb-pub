@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3d313159bfad7e2871833036"
+canonical_name: "Aleksandras V"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras V"]
+sameAs: []
+canonical_biography: "Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordiną."
 ---
 # Aleksandras V
 
@@ -52,7 +59,8 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 142."
   citata_originali: |
     Bonifacas IX rėmė Vy­
     tautą karuose su turkais (1399), draudė Ordiną kariauti Lietu­

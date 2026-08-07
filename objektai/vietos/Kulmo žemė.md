@@ -35,6 +35,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d8d5a50e04f35ba9445371d0"
+canonical_name: "Kulmo žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kulmo žemė"]
+sameAs: []
+canonical_biography: "Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius). Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų kunigaikščių dovanota vokiečiams."
+place_authority: true
+historical_names: []
 ---
 # Kulmo žemė
 
@@ -47,15 +56,22 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 <a id="claim-t-79492"></a>
 - t-001
   teiginys: "Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kulmo žemė: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Linkas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kulmo žemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Linkas tiesiogiai nurodytas kaip su kariuomene įsibrovęs į Kulmo žemę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Linkas puolė Kulmo žemė (0.90)"
   temporaliniai_duomenys: "įvykio data: 1265 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys konkrečiai perteikia citatoje minimą įsibrovimą į Kulmo žemę."
   pagrindžia:
-    - c-76478
-    - c-76493
+    - c-76494
 
 <a id="claim-t-79493"></a>
 - t-002
@@ -129,7 +145,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 <a id="claim-t-79497"></a>
 - t-006
   teiginys: "Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -140,7 +156,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kulmo žemė\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-76478
     - c-76490
 
 <a id="claim-t-79498"></a>
@@ -454,7 +469,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-24223
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų
     dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.
@@ -474,7 +490,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-43534
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 23."
   citata_originali: |
     1231 m. Ordino magistras iš lenkų jam
     dovanotų žemių, savo pilių kairiajame
@@ -496,7 +513,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-76478
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Todėl kunigaikštis pasiuntė pas
     minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir
@@ -515,14 +533,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-006
     - t-007
 
 - id: c-76479
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
   citata_originali: |
     1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama kaip teritorija tarp Osos
     šiaurėje, Vyslos vakaruose ir Drėvantos (dab. Drvencos) pietryčiuose (PUB, 1, 1, Nr. 41,
@@ -539,7 +556,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-76480
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
   citata_originali: |
     „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio
     Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,
@@ -556,7 +574,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-76482
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
     Apie antrąjį minėtojo Marienverderio miesto sugriovimą
 
@@ -576,7 +595,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-76484
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
   citata_originali: |
     Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui
     prisėjo raugių. Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir
@@ -596,7 +616,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-76485
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
     jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir
@@ -616,7 +637,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-76486
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
   citata_originali: |
     Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
                                 būtent: Eimsutis ir dar viena
@@ -636,7 +658,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-76487
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
   citata_originali: |
     Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino
     XIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame
@@ -653,7 +676,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-76488
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
   citata_originali: |
     XIII a., kryžiuočių atsikraustymo į pavyslį išvakarėse, Kulmo žemė vėl buvo prūsų
     rankose (D. II, 1; III, 7).
@@ -669,7 +693,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-76489
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo
     žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
@@ -690,7 +715,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-76490
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 99."
   citata_originali: |
     Tuo metu į Prūsijos žemę atvyko kilnusis ir šviesusis Anlanto300 kunigaikštis su didele
     kariuomene; be daugybės kitų gerų darbų, kuriuos čia nuveikė, stiprindamas tikėjimą
@@ -713,7 +739,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-76491
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
   citata_originali: |
     Istoriografijoje vyrauja nuomonė, kad Dusburgietis perdeda, teigdamas, jog Kulmo žemė
     buvusi visiškai nusiaubta, paversta dykromis, nes jam rūpėjo padidinti prūsų antpuolių
@@ -730,7 +757,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-76492
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     Nutyli lenkų feodalinės ekspansijos į prūsų žemes
     bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo
@@ -754,7 +782,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - id: c-76493
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 97."
   citata_originali: |
     Tuo tarpu stalininkas Druzigeris,
     su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad
@@ -770,13 +799,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-010
 
 - id: c-76494
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
          medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
@@ -791,14 +820,17 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   citata_rodoma: "Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­\n     medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį\n\n  Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene\nįsibrovė  į Kulmo žemę; kai dėl šios kariuomenės triukšmo Kristburgo broliai bei kiti\nsusibūrė Kulmo žemėje, pagudėnai, laikydamiesi ankstesnio Divano įsakymo, su stipria\nraitelių bei pėstininkų kariuomene patraukė prie pilies, vardu Traupeinas419, buvusios\ntarp Kristburgo ir Marienburgo420; jos apgulai paliko čia pėstininkus ir jų vadu paskyrė\nkažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar\n  416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-167558
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
   citata_originali: |
     ——————————————————
 

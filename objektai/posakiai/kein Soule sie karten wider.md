@@ -60,7 +60,8 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
 - id: c-28609
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 175."
   citata_originali: |
     Vėl pasitelkę jungtinę vietinių tautų kariuomenę ir gavę
     Vokietijos kryžininkų talkos, riteriai suruošė didelį žygį į šiaurinę

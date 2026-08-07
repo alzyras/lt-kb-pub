@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ce007178c89f76a020787054"
+canonical_name: "Kopenhaga"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kopenhaga"]
+sameAs: []
+canonical_biography: "Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo Kopenhagoje."
+place_authority: true
+historical_names: []
 ---
 # Kopenhaga
 
@@ -53,7 +62,8 @@ Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo
 - id: c-176001
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 597-598"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 597-598."
   citata_originali: |
     Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl
     Nemuno atidarymo Kopenhagoje. Kadangi Klaipėdos konvenci-

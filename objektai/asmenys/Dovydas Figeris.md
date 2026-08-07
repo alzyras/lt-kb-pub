@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-edcc6f3852384e09091f6be7"
+canonical_name: "Dovydas Figeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dovydas Figeris"]
+sameAs: []
+canonical_biography: "Dar įvairesnės buvo gdanskiečio Dovydo Figerio prekės: 1 lašt as itališkų riešutų, 400 svarų kaštonų, 3 statinės obuolių, 5 krepšiai didelių razinų, 5 statinaitės figų, 12 statinaičių silkių, 7 achteliai sviesto, 1 statinė olandiško sūrio, 2 statinės ir 10."
 ---
 # Dovydas Figeris
 
@@ -41,9 +48,9 @@ Dar įvairesnės buvo gdanskiečio Dovydo Figerio prekės: 1 lašt as itališkų
 ## Citatos
 
 - id: c-185509
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 234"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 234."
   citata_originali: |
     Karaliaučiaus šiporiaus Jokūbo Solfelto laive, be paties šiporiaus 6 statinių
     alaus, Povilas Tripmogeris gabeno 1 kubilą kaštonų, 15 olandiškų sūrių, 100 apelsinų,

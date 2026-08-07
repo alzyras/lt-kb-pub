@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f5ce8375ef3ef3c84432940b"
+canonical_name: "Vulfstanas (jūrininkas, IX amžius)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vulfstanas (jūrininkas, IX amžius)"]
+sameAs: []
+canonical_biography: "Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam priskiriami darbai kelionių pasakojimas apie aisčius."
 ---
 # Vulfstanas (jūrininkas, IX amžius)
 
@@ -198,7 +205,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 - id: c-64412
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 39."
   citata_originali: |
     Tas prane-
     šimas yra išlikęs iki mūsų laikų.
@@ -218,7 +226,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 - id: c-171375
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
   citata_originali: |
     Paga­
     liau atrodo, kad kai kurie iš tų pilkapių būdavo naudojami
@@ -241,7 +250,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 - id: c-171376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 421"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 421."
   citata_originali: |
     Čia panagrinėsime dar trečią priekaištą, kuris galėjo būti
     iškeltas prieš krivio buvimą Prūsijoje praeityje, tai yra kad vi­
@@ -263,7 +273,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 - id: c-173701
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 92."
   citata_originali: |
     Aprašinėdamas
     prie Baltijos jūros esančius kraštus, kuriuos dėl senama­
@@ -285,7 +296,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 - id: c-173702
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
   citata_originali: |
     Ki­
     ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
@@ -310,7 +322,8 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 - id: c-174793
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 358"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 358."
   citata_originali: |
     Antra ap­
     skritis buvo Kodinėnų valdos; tad įvairios aukštumos, nuo
@@ -330,9 +343,9 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
     - t-008
 
 - id: c-184298
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 48"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
   citata_originali: |
     Pereidamas skaitytojas tas dabar minavotas šiau­
     rės pasakas, noris maž ką teranda tenai apie Lietu­
@@ -356,9 +369,9 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
     - t-009
 
 - id: c-184299
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 50"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 50."
   citata_originali: |
     Žemaičiai mokėję šaltį padirbti, dėl ko gi jų
     lavonai taip ilgai laikomi negedę: kaipo 2 bački

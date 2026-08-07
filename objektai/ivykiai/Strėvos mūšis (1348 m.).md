@@ -136,7 +136,8 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - id: c-11915
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     ten Ordino maršalo įsakymu su negirdėtų
     žiaurumu plėšė, degino, žudė abiejų lyčių
@@ -157,7 +158,8 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - id: c-11916
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     Mūšis
     1348 m. vasario 2 d. kautynės ko gero
@@ -181,7 +183,8 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - id: c-11917
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
     Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
@@ -203,7 +206,8 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - id: c-11918
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     Taigi Strėvos mūšis, kad ir patyrus nuos-
     tolių, įnešė savo indėlį atremiant galingą

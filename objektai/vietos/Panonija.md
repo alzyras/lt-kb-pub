@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-86327c8fd1c867d861fcd79b"
+canonical_name: "Panonija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Panonija"]
+sameAs: []
+canonical_biography: "Pasak Narbuto, Ptolemėjas nuo Vyslos žiočių iki Panonijos skaičiavo tokį pat 600 romėnų miliarijų nuotolį kaip Plinijus."
+place_authority: true
+historical_names: []
 ---
 # Panonija
 

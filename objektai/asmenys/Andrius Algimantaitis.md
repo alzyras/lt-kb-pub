@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d44b3af812450f8b802ff5b7"
+canonical_name: "Andrius Algimantaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Algimantaitis"]
+sameAs: []
+canonical_biography: "Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono Algimantaičio sūnus ir po Skirgailos mirties ėjo Vytauto vietininko pareigas Kijeve."
 ---
 # Andrius Algimantaitis
 

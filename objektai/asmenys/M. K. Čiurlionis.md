@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4ebcad1206804ab0f0be33e5"
+canonical_name: "M. K. Čiurlionis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. K. Čiurlionis"]
+sameAs: []
+canonical_biography: "Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Čiurlionio kūrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų). Čiurlionio muziejaus senojo meno ekspozicija."
 ---
 # M. K. Čiurlionis
 
@@ -111,7 +118,8 @@ media_all_json: |-
 - id: c-21864
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 19."
   citata_originali: |
     O
     kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
@@ -134,7 +142,8 @@ media_all_json: |-
 - id: c-21865
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Lietu-
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
@@ -160,7 +169,8 @@ media_all_json: |-
 - id: c-21866
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
   citata_originali: |
     Už-
     darytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pri-

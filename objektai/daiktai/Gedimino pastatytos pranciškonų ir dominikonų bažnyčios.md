@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-83056
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 77."
   citata_originali: |
     Žemdirbiams, norintiems atvykti į mūsų karalystę ir čia
     pasilikti, duodame [žemę] bei suteikiame [privilegiją] de­

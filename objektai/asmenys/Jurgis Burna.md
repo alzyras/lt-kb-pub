@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fa2176458c9fe76dd0fd9724"
+canonical_name: "Jurgis Burna"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Burna"]
+sameAs: []
+canonical_biography: "Štai 1554 m. Karaliaučiuje studijavo kaunietis Jurgis Burna, o 1560 m. Krokuvoje - taip pat kaunietis Jurgis Burnonius."
 ---
 # Jurgis Burna
 
@@ -50,9 +57,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185528
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 358"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 358."
   citata_originali: |
     Štai 1554 m. Karaliaučiuje studijavo
     kaunietis Jurgis Burna, o 1560 m. Krokuvoje - taip pat kaunietis Jurgis Burnonius.

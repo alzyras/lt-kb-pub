@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b9b25dc5f689e63f8de4ae7c"
+canonical_name: "Johannes Voigt Foigtas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Johannes Voigt Foigtas"]
+sameAs: []
+canonical_biography: "Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina savo mylima šeiminin­ ke (seine liebe Hausfrau), jau metai kaip serga, ir kad liga kaip tik šiuo metu taip paūmėjo, jog visiškai nie­ ko negalinti valgyti."
 ---
 # Johannes Voigt Foigtas
 
@@ -75,7 +82,8 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
 - id: c-83915
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 69."
   citata_originali: |
     Il
     APIE VALDOVO GEDIMINO LAIŠKUS, RAŠYTUS IŠ VILNIAUS,
@@ -99,7 +107,8 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
 - id: c-83916
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 253."
   citata_originali: |
     Pasta­
     rasis varį (miedź - mied') palaikė me­

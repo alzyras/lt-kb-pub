@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-78b831b2bca7c462353430d8"
+canonical_name: "Vileišis V"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vileišis V"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vileišis V."
 ---
 # Vileišis V
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad vileišis V.
 - id: c-63392
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 276."
   citata_originali: |
     Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos
     šviesoje.—K., 1935.

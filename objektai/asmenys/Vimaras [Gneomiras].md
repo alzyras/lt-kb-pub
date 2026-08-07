@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-91a913fdeff62af43525121e"
+canonical_name: "Vimaras [Gneomiras]"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vimaras [Gneomiras]"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą]."
 ---
 # Vimaras [Gneomiras]
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 - id: c-61097
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 88."
   citata_originali: |
     Kita vertus, jis
     suprato, kad nereikia atstumti prašančio atleidimo, tad pasirinko šitai, kas jam rodėsi

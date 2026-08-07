@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ed9180abb615039b0fcb12d"
+canonical_name: "Adomas Stanislovas Naruševičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adomas Stanislovas Naruševičius"]
+sameAs: []
+canonical_biography: "Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru kėlėsi iš Germanijos į Sarmatiją per Vyslos žemupį. Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-skitų gentimi kaip Geniui. Narbutas Naruševičiaus nuomonę, kad jotvingiai nuo Tisos atėjo tiesiai į Polesę, vadina labai panašia į tiesą."
 ---
 # Adomas Stanislovas Naruševičius
 
@@ -32,18 +39,26 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
 <a id="claim-t-191109"></a>
 - t-001
   teiginys: "Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru kėlėsi iš Germanijos į Sarmatiją per Vyslos žemupį."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Sarmatija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sarmatija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje aiškiai nurodyta, kad gotai kėlėsi į Sarmatiją."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Gotai keliavo į Sarmatija (0.90); Filimeras keliavo į Sarmatija (0.86)"
   temporaliniai_duomenys: "kelionės data: 161 m"
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Filimeras keliavo į Sarmatija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gotai keliavo į Sarmatija“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja žinią su Naruševičiaus tyrimais ir nurodo įvykio laiką bei veiksmą. Narbuto perteikimas paliktas atribuuotas."
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
-    - c-173994
+    - c-173991
 
 <a id="claim-t-191110"></a>
 - t-002
@@ -168,7 +183,8 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
 - id: c-173991
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
   citata_originali: |
     70
     161 metai. Gotų žygis su Filimeru. 161 krikščioniško­
@@ -179,14 +195,17 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   citata_rodoma: "70\n161 metai. Gotų žygis su Filimeru. 161 krikščioniško­\nsios eros metais, pasak Naruševičiaus tyrimų1, gotai su\nsavo karaliumi Filimeru, pereidami iš Germanijos į Sar-\nmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­\nmet ribojo senovės geografų taip pavadintus kraštus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-173992
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Prajus** vėlgi kalba apie tą patį, žiūrė­
     damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
@@ -208,7 +227,8 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
 - id: c-173994
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
   citata_originali: |
     Tai, be
     abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
@@ -223,13 +243,13 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
 
 - id: c-173995
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 253."
   citata_originali: |
     Tarp
     mokslininkų ¡buvęs Hugo Grocijus2*, taip ¡pat Pilypas Kjiu-
@@ -256,7 +276,8 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
 - id: c-173996
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
   citata_originali: |
     Septynių miestų žemėje*, pa­
     skutiniame amžiuje prieš krikščioniškosios eros pradžią.

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac8a3dc4c952d91cce701c9e"
+canonical_name: "Chariničius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Chariničius"]
+sameAs: []
+canonical_biography: "Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6."
 ---
 # Chariničius
 
@@ -51,7 +58,8 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
 - id: c-83622
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 228."
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
     patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų

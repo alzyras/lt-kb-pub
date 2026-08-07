@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4276392d235bc81169ffaa06"
+canonical_name: "Vengrijos Zigmantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vengrijos Zigmantas"]
+sameAs: []
+canonical_biography: "Vaclovas tačiau gąsdino, jog ordino pusėje stosiąs jis pats ir jo brolis Vengrijos Zigmantas, kuris siūlėsi tarpininkauti."
 ---
 # Vengrijos Zigmantas
 
@@ -50,7 +57,8 @@ Vaclovas tačiau gąsdino, jog ordino pusėje stosiąs jis pats ir jo brolis Ven
 - id: c-32820
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 343."
   citata_originali: |
     Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir
     Vytauto sekretorius Cibulka. Vaclovas tačiau gąsdino, jog ordino

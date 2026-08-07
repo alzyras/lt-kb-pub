@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-24c1f52c39b13e8f69b051eb"
+canonical_name: "Martinas Galias"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Martinas Galias"]
+sameAs: []
+canonical_biography: "Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk. Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 gin­ kluotų skydais, Gnieznas - 1 500 šarvuotųjų ir 5 000 pėstininkų; Vladislavovo pilis - 800 šarvuotų­ jų, 2 000 su skydais, Gdečas - 300 pirmųjų ir 2 000 antrųjų."
 ---
 # Martinas Galias
 
@@ -62,7 +69,8 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
 - id: c-84010
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 23."
   citata_originali: |
     Plg. Witichind I. 639.
     c)
@@ -86,7 +94,8 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
 - id: c-176803
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 22."
   citata_originali: |
     Jau jam valdant Krušvica, Poznanė ir kiti
     b)

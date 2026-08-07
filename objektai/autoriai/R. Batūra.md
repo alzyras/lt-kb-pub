@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e79f0fab41a1bd66ae65fce3"
+canonical_name: "Romas Batūra"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["objektai/autoriai/Romas Batūra","R. Batūra","Romas Batūra","Бaтypa P."]
+sameAs: []
+canonical_biography: "R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausimą ir lietuvių kovas su totoriais. Šiame šaltinyje papildomai pateikta pilna jo vardo forma Romas Batūra ir bibliografinės nuorodos į įvadinę studiją šiame leidime bei darbus „Šiaulių..“, „Lietuva...“ ir „Karinė...“."
 ---
 # Romas Batūra
 
@@ -147,7 +154,8 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 - id: c-30822
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 85."
   citata_originali: |
     Lietuvių
     santykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja
@@ -166,7 +174,8 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 - id: c-91695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     ROMAS BATŪRA
 
@@ -187,7 +196,8 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 - id: c-91696
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
   citata_originali: |
     Apie daugy­
                                   bės krikščionių žūtį
@@ -214,7 +224,8 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 - id: c-91697
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 84."
   citata_originali: |
     Apie Sventopelko karą su Teutonų ordino broliais
      1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo
@@ -237,7 +248,8 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 - id: c-91699
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
   citata_originali: |
     Minėtieji Numa ir
       520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos

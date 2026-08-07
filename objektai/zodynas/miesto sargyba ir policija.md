@@ -59,7 +59,8 @@ Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškiet
 - id: c-82575
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 276."
   citata_originali: |
     Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­
     rėti šarvus, muškietą ir ragotinę, o miesto taryba - stebėti,

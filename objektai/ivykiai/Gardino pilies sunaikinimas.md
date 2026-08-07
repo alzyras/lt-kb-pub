@@ -77,12 +77,20 @@ Nenurodyta
 <a id="claim-t-62784"></a>
 - t-002
   teiginys: "Po Gardino pilies sudeginimo 1800 vyrų nusiaubė jos apylinkes ir grįžo su dideliu grobiu."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardino pilies sunaikinimas (pilis, XIII a.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardino pilies sunaikinimas (pilis, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-63580
+    - c-63581
+    - c-63583
 
 <a id="claim-t-196940"></a>
 - t-003
@@ -99,14 +107,13 @@ Nenurodyta
 <a id="claim-t-196941"></a>
 - t-004
   teiginys: "Kai broliai jam juos išskyrė, jis ir patraukė su jais prie Aukaimio pilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga juos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-63581
     - c-63583
 
 ## Reikšmingi paminėjimai
@@ -157,7 +164,8 @@ Nenurodyta
 - id: c-63580
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174."
   citata_originali: |
     Apie Gardino pilies sunaikinimą
 
@@ -176,13 +184,13 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
     - t-003
 
 - id: c-63581
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174."
   citata_originali: |
     Vieniems drąsiai puolant, kitiems atkakliai ginantis, viena ir kita šalis neteko
     daugybės [karių] užmuštaisiais ar sužeistaisiais. Galop iš dievo malonės broliai įsiveržė
@@ -196,12 +204,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-63583
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174."
   citata_originali: |
     Galop iš dievo malonės broliai įsiveržė
     į pilį ir ją sudegino, o visus [pilėnus] išžudė arba paėmė  į nelaisvę. Po to tūkstantis
@@ -216,4 +225,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-004

@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b0790221fff4a482ebcf0200"
+canonical_name: "Vakarų Europa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vakarų Europa"]
+sameAs: []
+canonical_biography: "Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus. Vakarų Europos situaciją XVI a. Įvairiais duomenimis, 1945 m. Vakarų Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst."
+place_authority: true
+historical_names: []
 ---
 # Vakarų Europa
 
@@ -112,18 +121,18 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 <a id="claim-t-200717"></a>
 - t-005
   teiginys: "Laužikas spėja, kad dokumentuose minimas „kumelių pienas“ buvo Vakarų Europoje nežinomas alkoholinis gėrimas, keliautojams panašus į pieną."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Vakarų Europa: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų Europa\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų Europa\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
   vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
@@ -132,18 +141,18 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 <a id="claim-t-200718"></a>
 - t-006
   teiginys: "Laužiko aiškinimu, gėrimas iš vienos taurės Vakarų Europoje buvo korporatyvinės bendrystės aktas, o LDK bajorijoje įgijo savitų reikšmių."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Vakarų Europa: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų Europa\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų Europa\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
   vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
@@ -154,7 +163,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 - id: c-155482
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 72."
   citata_originali: |
     Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-
     čioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės
@@ -175,7 +185,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 - id: c-155483
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 12."
   citata_originali: |
     Europos centro koordina-
     tės 54o55’ šiaurės platumos, 25o19’ rytų ilgumos. Lietuva yra toje pačioje
@@ -197,7 +208,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 - id: c-175538
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
   citata_originali: |
     Ten jie vadinami Sembi\ iš čia ki­
     lęs Sembos — vienos prūsų provincijos — pavadinimas2.
@@ -221,7 +233,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 - id: c-176323
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 224."
   citata_originali: |
     Įvairiais duomenimis, 1945 m. Vakarų
     Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst. (la-
@@ -241,7 +254,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 2."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-005
 
@@ -252,7 +265,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 15."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-006
 

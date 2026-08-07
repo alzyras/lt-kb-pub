@@ -54,7 +54,8 @@ Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakranči�
 - id: c-175725
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 152."
   citata_originali: |
     Tos mokslinės pastangos mums atrodo visiškai nerei­
     1 Lygai apskritai laikomi senovės amžių Baltijos jūros pietryčių

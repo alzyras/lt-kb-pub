@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5bf8cae31e070bd8740a0be0"
+canonical_name: "Brandenburgo žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Brandenburgo žemė"]
+sameAs: []
+canonical_biography: "1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė 1200 savo raitelių ir bendromis pastangomis su lenkais ties Frankfurtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino valdų."
+place_authority: true
+historical_names: []
 ---
 # Brandenburgo žemė
 
@@ -64,7 +73,8 @@ media_all_json: |-
 - id: c-45043
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 36."
   citata_originali: |
     Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą
     Aldoną Oną su Lokietkos sūnumi, Lenkijos sosto įpėdiniu Kazi-

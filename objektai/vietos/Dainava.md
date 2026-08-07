@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-84ed459502c4b6779acbe74b"
+canonical_name: "Dainava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dainava"]
+sameAs: []
+canonical_biography: "Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo autentiškumo nėra keliama abejonių, yra minima Dainava (Denowe, Deynowe, Dainowe)."
+place_authority: true
+historical_names: []
 ---
 # Dainava
 
@@ -57,7 +66,8 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
 - id: c-33814
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 124."
   citata_originali: |
     Kaip patys sūduviai-jotvingiai save vadino, nežinoma.
     Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl

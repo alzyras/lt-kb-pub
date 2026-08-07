@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a572b777b85e637528368ad0"
+canonical_name: "Gabrielis Narutovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gabrielis Narutovičius"]
+sameAs: []
+canonical_biography: "Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Lenkijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu."
 ---
 # Gabrielis Narutovičius
 
@@ -50,7 +57,8 @@ Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo k
 - id: c-26666
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 131-132"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 131-132."
   citata_originali: |
     Nors kai kurie dvarininkai „senlietuviai“ parėmė
     lietuvių aspiracijas, dauguma dėjo viltis į Lenkiją – J. Pilsudskis, pokario

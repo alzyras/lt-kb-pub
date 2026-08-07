@@ -72,7 +72,8 @@ Vytautas Vilniuje paskelbė Tochtamyšą Užvolgio skitų chanu, paprastai vadin
 - id: c-168761
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Mat juodi debesys ap­
     traukė dangų, pakilo nepaprasta audra, sugriaudėjo

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-047bb3c060a4b1f76e3cd288"
+canonical_name: "A. Voldemaras"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Voldemaras"]
+sameAs: []
+canonical_biography: "Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz)."
 ---
 # A. Voldemaras
 
@@ -54,7 +61,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 - id: c-176377
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     Versalio sistemoje
     Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje

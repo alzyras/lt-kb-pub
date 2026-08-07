@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8062b02d3ae3dbbb9bb39bd5"
+canonical_name: "Kiauneliškio geležinkelio stotis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kiauneliškio geležinkelio stotis"]
+sameAs: []
+canonical_biography: "Ožasiai fo} Svyroneéliai 6 Šemetas oje, Kiauneliškio geležinkelio stoties ir Pagaigalės k."
+place_authority: true
+historical_names: []
 ---
 # Kiauneliškio geležinkelio stotis
 
@@ -59,7 +68,8 @@ Ožasiai fo} Svyroneéliai 6 Šemetas oje, Kiauneliškio geležinkelio stoties i
 - id: c-45132
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 241."
   citata_originali: |
     PASTOVIAIO)
 

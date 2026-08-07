@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4b97c9822cd91836d7168103"
+canonical_name: "A. Vanagas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Vanagas","objektai/autoriai/Vanagas A","Vanagas A."]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, raguva, slėnys’ (Vanagas A., Dėl vietovardžio Labguva..., p. 185—189)."
 ---
 # A. Vanagas
 
@@ -65,7 +72,8 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
 - id: c-56012
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
     S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,
@@ -82,7 +90,8 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
 - id: c-56014
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 155."
   citata_originali: |
     Vardas Labguva/ Labgava kilęs iš tokio pat
     upės vardo. Senoji baltiška forma greičiausiai turėtų būti *Labjava/*Labjuva>*Labiava

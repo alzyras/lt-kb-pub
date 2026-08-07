@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bc6d8afd50031526a9ff5344"
+canonical_name: "Druskininkų kapavietė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Druskininkų kapavietė"]
+sameAs: []
+canonical_biography: "1841 metais prie Druskininkų tik ką atkastoje kapavietėje rasta moneta, kurios vienoje pusėje buvo pavaizduoti Gediminaičių Stulpai."
+place_authority: true
+historical_names: []
 ---
 # Druskininkų kapavietė
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-171835
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 252."
   citata_originali: |
     Ar
     ji yra vietinė ar užsieninė, spręsti palieku žinovams.

@@ -420,7 +420,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 27."
   citata_originali: |
     Sužinoję apie didelį lietuvių
     įsiveržimą, vokiečiai iš savo pusės irgi rengėsi. Kai jų žval­
@@ -440,7 +441,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 35."
   citata_originali: |
     Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
     sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
@@ -461,7 +463,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 76."
   citata_originali: |
     Mes žinom, kad abu kunigaikščiai
     iš Kolomnos pasiuntė į Didįjį Naugardą savo pasiuntinį, kad šis
@@ -486,7 +489,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 283."
   citata_originali: |
     Tačiau jis nedavė jiems įsigalėti, jie
     tik paklusnūs įrankiai jo rankose. Nors vyriausieji jo padėjė­
@@ -506,7 +510,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 309."
   citata_originali: |
     Apskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo
     tempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur.
@@ -527,7 +532,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 309."
   citata_originali: |
     Totorius su vokiečiais jis kolonizavo ne iš meilės,
     o tik dėl to, kad matė iš to kraštui naudos. Jo tarnyboje mes ga­
@@ -550,7 +556,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
 - id: c-108018
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32."
   citata_originali: |
     Gediminas taip pat išsiuntė laiškus Vokietijos
     miestams bei vienuolijoms, pranešdamas, kad laukia popiežiaus pasiun-
@@ -570,7 +577,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 281."
   citata_originali: |
     O
     kliūčių buvo daug. Jis paėmė valdžią gana sunkiose aplinky­
@@ -587,7 +595,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
 - id: c-108020
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 40."
   citata_originali: |
     LDK įsikūrė vokie-
     čių, žydų ir armėnų. Beveik visos šios bendruomenės (išskyrus vokiečius)
@@ -606,7 +615,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 309."
   citata_originali: |
     O Vytautas Magdeburgo teises suteikė Brastai ir
     Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
@@ -626,7 +636,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
 - id: c-166584
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 40."
   citata_originali: |
     Nepasitikėta ir savųjų įgūdžiais,
     todėl valdovai kvietė pirklius ir amatininkus iš svetur. LDK įsikūrė vokie-
@@ -644,7 +655,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 27."
   citata_originali: |
     Šitam karo žygiui buvo surinkta kariuomenė ne vien tik iš Že­
     maičių^1 ), kaip paprastai Kęstutis darydavo, bet ir iš antros Lie­
@@ -663,7 +675,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
 - id: c-167948
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 84."
   citata_originali: |
     Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-
     93
@@ -698,7 +711,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
 - id: c-167949
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 86."
   citata_originali: |
     Šitokios mintys teikė
     nepatyrusiems žmogeliams tokio ryžto ir tokios drą­
@@ -740,7 +754,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
 - id: c-171251
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     Lietuvos rusinai savo pasakojimuose taip pat mini
     Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
@@ -763,7 +778,8 @@ Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.
 - id: c-171252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 433."
   citata_originali: |
     1.
     Seniausias žinomas šito šaltinis yra Simonas Grunau,

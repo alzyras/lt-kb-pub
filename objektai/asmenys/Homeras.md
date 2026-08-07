@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-66017278f7ae3748af5bb7a3"
+canonical_name: "Homeras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Homeras"]
+sameAs: []
+canonical_biography: "Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujančia upe. Narbutas aiškino, kad Homero ir Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai matematiniai."
 ---
 # Homeras
 
@@ -99,7 +106,8 @@ Narbutas nurodė, kad Homero kūriniuose Okeanas vadinamas pasaulį skalaujanči
 - id: c-174161
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 389"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 389."
   citata_originali: |
     Taigi naujų laikų gabumams nebūdin­
     gas praėjusių amžių tikėjimas, kuris buvo mokslinis,

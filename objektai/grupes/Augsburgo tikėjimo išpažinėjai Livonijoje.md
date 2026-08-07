@@ -50,7 +50,8 @@ media_all_json: |-
 - id: c-82731
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 341."
   citata_originali: |
     Šiuo raštu skelbiame vi­
     siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c36bafdc5a277d1767760c98"
+canonical_name: "Carlo Denina"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Carlo Denina"]
+sameAs: []
+canonical_biography: "Carlo Denina nurodytas kaip 1784 m. Venecijoje išleisto veikalo „Delle Rivoluzioni d’Italia“ autorius."
 ---
 # Carlo Denina
 
@@ -65,7 +72,8 @@ Carlo Denina nurodytas kaip 1784 m. Venecijoje išleisto veikalo „Delle Rivolu
 - id: c-174549
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     1
     Delle Rivoluzioni d’Italia, di Carlo Denina in Venezia. 1784,

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c78fdd290275e29dfdecb782"
+canonical_name: "Kuršių Neringa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kuršių Neringa"]
+sameAs: []
+canonical_biography: "Ji ne tik gynė svarbų kelią tarp Prūsų ir Livonijos per patogią Kuršių Neringą, bet dar turėjo būti apsauga artėjančioms iš Kuršo į pietus ir nuo kairiojo Nemuno kranto į šiaurę ordino riterių jėgoms, turinčioms sudaryti bendrą tiltą vakarų Žemaičiuose."
+place_authority: true
+historical_names: []
 ---
 # Kuršių Neringa
 
@@ -59,7 +68,8 @@ Ji ne tik gynė svarbų kelią tarp Prūsų ir Livonijos per patogią Kuršių N
 - id: c-33913
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 187."
   citata_originali: |
     ir kariniu atžvilgiu. Pavaduodamas susirgusį Livonijos magistrą,
     Eberhard von Seyne^135 (Deutschmeister) pastatė strategiškai svarbią

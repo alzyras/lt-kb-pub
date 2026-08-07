@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9eb72085194438a31a5bd849"
+canonical_name: "Dorpato vyskupija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dorpato vyskupija"]
+sameAs: []
+canonical_biography: "Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­ čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę. [Taip pat pagonys lietuviai Viešpaties me­ tais 1323-iais per Užgavėnes įsiver­ žė į Danijos karalystės Revelio že­ mę Livonijos srityse ir net Dorpato vyskupiją, kurias piešdami ir degin­ dami iki pamatų sugriovę sunaiki­ no ir pagrobė 4 000 vyrų ir moterų."
+place_authority: true
+historical_names: []
 ---
 # Dorpato vyskupija
 
@@ -77,7 +86,8 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
 - id: c-82043
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 84."
   citata_originali: |
     MCCCXXIII, in carniprivio
     intraverunt Revaliam terram regis Da­
@@ -111,7 +121,8 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
 - id: c-82044
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 83."
   citata_originali: |
     Tas valdovas po pergalingų žygių, tikriausiai todėl, kad
     kryžiuočiai tolydžio artinosi, nuo Rytų atsigręžė į Vakarus

@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-63513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
   citata_originali: |
     104. Apie Albrechto, Romos karaliaus, nužudymą
 

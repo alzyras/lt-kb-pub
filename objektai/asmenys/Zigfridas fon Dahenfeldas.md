@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bcfd3fd4f676921f1f25875f"
+canonical_name: "Zigfridas fon Dahenfeldas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zigfridas fon Dahenfeldas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Zigfridas fon Dahenfeldas
 

@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6568482ccf1785aa098cf900"
+canonical_name: "Polona"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Polona"]
+sameAs: []
+canonical_biography: "Glebui Svetoslavovičiui buvo duotas Polonos miestas."
+place_authority: true
+historical_names: []
 ---
 # Polona
 
@@ -31,13 +40,13 @@ Glebui Svetoslavovičiui buvo duotas Polonos miestas.
 <a id="claim-t-199792"></a>
 - t-001
   teiginys: "Lietuvos metraštyje rašoma, kad Glebui Svetoslavovičiui buvo duotas Polonos miestas."
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Kronikos pasakojime vartojamas titulas pašalintas, o faktas suformuluotas aiškiai."
   susije_objektai: "mentioned_place: Lietuva; mentioned_place: Smolenskas"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182696
 

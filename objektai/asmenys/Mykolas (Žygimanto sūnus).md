@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7eff2b1292ca8082704505de"
+canonical_name: "Mykolas (Žygimanto sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas (Žygimanto sūnus)"]
+sameAs: []
+canonical_biography: "Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­ nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą Žygimanto valdymo laiką. 1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26."
 ---
 # Mykolas (Žygimanto sūnus)
 
@@ -192,7 +199,8 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
 - id: c-83537
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 235."
   citata_originali: |
     Naudodamasis visuotine neapykanta, kurią per sa­
     vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
@@ -219,7 +227,8 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
 - id: c-83538
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 238."
   citata_originali: |
     Trakuose jo sušauktas seimas, turėjęs parengti pasku­
     tinį smūgį Rusios ir Lietuvos bajorijai, paspartino tą kruviną
@@ -241,7 +250,8 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
 - id: c-168155
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 467"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 467."
   citata_originali: |
     Boleslovas, bijodamas, kad prieš jį nebūtų imtasi
     kokių rimtesnių žygių, pasitraukė iš Lucko į Dakiją. Tuo
@@ -273,7 +283,8 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
 - id: c-168158
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 484"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 484."
   citata_originali: |
     Kviečiamas
     į
@@ -305,7 +316,8 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
 - id: c-168159
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 486"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 486."
   citata_originali: |
     K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
     gužės pabaigoje, Mykolas su

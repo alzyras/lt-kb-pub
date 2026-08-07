@@ -143,7 +143,8 @@ Laivas buvo paimtas ir sudegintas.
 - id: c-56333
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
   citata_originali: |
     Šitai išvydę, pilėnai, pasičiupę
     ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
@@ -160,7 +161,8 @@ Laivas buvo paimtas ir sudegintas.
 - id: c-56334
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
   citata_originali: |
     Apie vieną brolių karo laivą
     Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
@@ -180,7 +182,8 @@ Laivas buvo paimtas ir sudegintas.
 - id: c-56335
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
   citata_originali: |
     318 (311). Apie šio laivo sudeginimą 1313 metais
     Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa

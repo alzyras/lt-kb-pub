@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2fc27bce8e7b50ad81d389ad"
+canonical_name: "Jonas (Čekijos karalius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas (Čekijos karalius)"]
+sameAs: []
+canonical_biography: "1345 m. sausį į Prūsiją atvyko Čekijos karalius Jonas su savo sūnumi, Moravijos markgrafu Karoliu, Vengrijos karalius Liudvikas, Olandijos, Švarcburgo, Burbonės, Niurnbergo grafai - 200 valdovų ir kilmingųjų."
 ---
 # Jonas (Čekijos karalius)
 
@@ -63,7 +70,8 @@ media_all_json: |-
 - id: c-41362
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 38."
   citata_originali: |
     1345 m. sausį į Prūsiją atvyko Čekijos
     karalius Jonas su savo sūnumi, Moravijos

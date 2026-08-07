@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43c1f72a09fb8a3473c335cc"
+canonical_name: "Rikajotas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rikajotas"]
+sameAs: []
+canonical_biography: "Narbutas Rikajotą aprašo kaip nežinomos vietos garsią šventyklą ir mini nuomonę, kad ji galėjusi būti ta pati vieta kaip Romovė."
+place_authority: true
+historical_names: []
 ---
 # Rikajotas
 
@@ -54,7 +63,8 @@ Narbutas Rikajotą aprašo kaip nežinomos vietos garsią šventyklą ir mini nu
 - id: c-171856
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
   citata_originali: |
     Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
     to paties istoriko, priklausė šventyklos liekanoms. Garsi šven­

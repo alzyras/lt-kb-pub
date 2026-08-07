@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f4dd209439b9d7a30c56d29"
+canonical_name: "Pranciškus Skorina"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Franciscus Skorina","Pranciškus Skorina"]
+sameAs: []
+canonical_biography: "Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje parengė ir išspausdino psalmyną bei 22 Senojo Testamento knygas, o 1522 m. įkūrė spaustuvę Vilniuje."
 ---
 # Pranciškus Skorina
 
@@ -104,7 +111,8 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
 - id: c-16797
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 58."
   citata_originali: |
     Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
     vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
@@ -123,7 +131,8 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
 - id: c-22185
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 58."
   citata_originali: |
     Taigi rusėnai atsiskyrė nuo Rusijos rusų. Tik XVII a. rusėnai
     skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.

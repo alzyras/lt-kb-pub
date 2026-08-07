@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1bf00f6e31e0083ec13cb407"
+canonical_name: "Kazimieras Skirgaila (Lenkijos karalius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras Skirgaila","Kazimieras Skirgaila (Lenkijos karalius)"]
+sameAs: []
+canonical_biography: "Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo. Vienuolyno viršininkas slapta įpylė nuodų Skirgailai, kai šis po medžioklės užsuko į rusų vienuolyną."
 ---
 # Kazimieras Skirgaila (Lenkijos karalius)
 
@@ -183,7 +190,8 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
 - id: c-169310
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 321."
   citata_originali: |
     Olesnickis, gerai suprasdamas, kad
     jo kariuomenė negali prilygti priešui, nelaukė, kol
@@ -217,7 +225,8 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
 - id: c-169311
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 328"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 328."
   citata_originali: |
     Alek­
     sandras Vytautas su žmona
@@ -254,7 +263,8 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
 - id: c-169312
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 342."
   citata_originali: |
     Vis dėlto neil­
     gai jis džiaugėsi naujomis
@@ -281,7 +291,8 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
 - id: c-178746
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 319."
   citata_originali: |
     Sunkūs, bemaž nuolatiniai
     priešų antpuoliai, pagaliau Skirgailos puikybė ir žiauru­

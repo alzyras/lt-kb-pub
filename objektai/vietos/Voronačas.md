@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2400c62795fb6e318565ad79"
+canonical_name: "Voronačas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Voronačas"]
+sameAs: []
+canonical_biography: "1406 m. Vytautas dvi dienas buvo apgulęs Pskovui priklausiusį Voronačą. 1406 m. Voronačas minimas kaip Pskovui priklausęs miestas, kurį Vytautas buvo apgulęs dvi dienas."
+place_authority: true
+historical_names: []
 ---
 # Voronačas
 
@@ -104,7 +113,8 @@ media_all_json: |-
 - id: c-170393
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 253."
   citata_originali: |
     s XV a. pirm ojoje pusėje Pskovo bajorų respublika kariavo su
     LDK du kartus — 1406 ir 1426 m. 1406 m. Ldk Vytautas paėmė pri­

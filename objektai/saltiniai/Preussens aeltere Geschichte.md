@@ -73,7 +73,8 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
 - id: c-84141
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 69."
   citata_originali: |
     Il
     APIE VALDOVO GEDIMINO LAIŠKUS, RAŠYTUS IŠ VILNIAUS,
@@ -97,7 +98,8 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
 - id: c-84142
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 36-37"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 36-37."
   citata_originali: |
     406, pri­
     simena dar vieną Gedimino dukrą,

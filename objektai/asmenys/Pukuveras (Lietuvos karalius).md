@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   [{"mediaId":"m-fbf77f2a84fb1af9b97039c0","title":"Пукувер Будивид.jpg","caption":"Pukuvero (Budivydo) istorinis iliustracinis atvaizdas, 1908 m.","originalTitle":"Пукувер Будивид.jpg","creator":"Mečislovas Barvickis","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"https://www.limis.lt/detali-paieska/perziura/-/exhibit/preview/50000003169134?s_id=zMIGa747BsofFU8e&amp;s_ind=18&amp;valuable_type=EKSPONATAS","dateDisplay":"1908","dateStart":null,"dateEnd":null,"width":476,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%9F%D1%83%D0%BA%D1%83%D0%B2%D0%B5%D1%80_%D0%91%D1%83%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/%D0%9F%D1%83%D0%BA%D1%83%D0%B2%D0%B5%D1%80_%D0%91%D1%83%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/%D0%9F%D1%83%D0%BA%D1%83%D0%B2%D0%B5%D1%80_%D0%91%D1%83%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/%D0%9F%D1%83%D0%BA%D1%83%D0%B2%D0%B5%D1%80_%D0%91%D1%83%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Butvydas, Grand Duke of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-RusEmpire","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Pukuveras (Lietuvos karalius).md","title":"Pukuveras (Lietuvos karalius)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T22:28:46.096897+03:00","reviewedAt":"2026-07-18T22:29:26.458985+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas barzdotas viduramžių valdovas ar karys su apsiaustu, tunika, kalaviju ir kitais valdovo kario atributais.","metadataEvidence":"Wikimedia Commons pavadinimas „Пукувер Будивид“ ir aprašymas „Pucouver Budived“ tiesiogiai nurodo Pukuverą, dar vadinamą Budivydu; datuota 1908 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Pavadinime ir apraše pateikta konkretaus target vardo istorinė forma, o vaizdas yra jo istorinis iliustracinis portretas.","isPrimary":1}]
+entity_id: "ent-737f2beee579096f41c91f71"
+canonical_name: "Pukuveras (Lietuvos karalius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pukuveras (Lietuvos karalius)"]
+sameAs: []
+canonical_biography: "„Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkiją, į Bresto žemę; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę...“ buvo atremti Aukso ordos, rusų kunigaikš čių bei."
 ---
 # Pukuveras (Lietuvos karalius)
 
@@ -52,7 +59,8 @@ media_all_json: |-
 - id: c-41435
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 34."
   citata_originali: |
     „Pukuveras, Lietuvos karalius, tais pačiais
     metais pasiuntė savo sūnų Vytenį su didele

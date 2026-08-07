@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2734408cf8e49a4d3c3e876"
+canonical_name: "Simonas Stanevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Simonas Stanevičius"]
+sameAs: []
+canonical_biography: "Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jurgis Plioteris turėjo keletą Švėkšnoje rastų auksinių monetų. T. Narbuto papildymo komentare spėjama, kad Raseinių korespondentu galėjo būti Simonas Stanevičius (1799-1848). Simonas Stanevičius buvęs garbinamas kaip dievas ir turėjęs savo šventyklą Nemunaityje, ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų apskrityje yra taip besivadinąs miestelis su pylimų žymėmis ir keliais milžinkapiais."
 ---
 # Simonas Stanevičius
 
@@ -81,7 +88,7 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 <a id="claim-t-188475"></a>
 - t-003
   teiginys: "Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui liudijo apie Švėkšnos klebono Juozapo Januškevičiaus sode rastą lobį."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -130,7 +137,8 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 - id: c-154578
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     Ši grupelė ir lai-
     koma etninių lietuvių tautinio
@@ -156,7 +164,8 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 - id: c-166738
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     Jau tuomet pripažinta, kad
     tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
@@ -186,7 +195,8 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 - id: c-171365
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Apie jį dar esama padavimo, kad jis buvęs gar­
     binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
@@ -211,7 +221,8 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 - id: c-171366
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 491."
   citata_originali: |
     Tekstas, kuriuo T. Narbutas papildė skyrių, reng­
     damas antrąjį LTI leidimą (PEĮ. -  L. 104-105). Ga­

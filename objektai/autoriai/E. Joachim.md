@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae4a88de14f9bef471eec62e"
+canonical_name: "E. Joachim"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["E. Joachim"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad joachim; Herausgegeben von W."
 ---
 # E. Joachim
 
@@ -58,7 +65,8 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
 - id: c-61326
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525.— Pars
     II: Regesta privilegiorum Ordinis S. Mariae Theutonicorum / Bearbeitet unter Mitwirkung

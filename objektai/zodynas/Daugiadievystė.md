@@ -74,7 +74,8 @@ Narbutas daugiadievystę pristatė kaip senovės tautų tikybos klaidą ir nuo j
 - id: c-172108
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
   citata_originali: |
     Visa tai,
     sulydyta su įgimtais europiečių privalumais, sukūrė tautą, ver­
@@ -99,7 +100,8 @@ Narbutas daugiadievystę pristatė kaip senovės tautų tikybos klaidą ir nuo j
 - id: c-172109
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
   citata_originali: |
     Graikai, kitokio dangaus ir sąmonės tauta, perėmę iš egip­
     tiečių dalį dangaus kūnų ir Titanų giminės garbinimą, išvystė

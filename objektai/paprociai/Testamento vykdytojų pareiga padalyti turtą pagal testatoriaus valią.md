@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-83283
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 352-353"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 352-353."
   citata_originali: |
     O jeigu kuri tauta būtų nedėkinga ir ieškotų kelių atsi­
     skirti, tegu bijosi Dievo pykčio, kuris turi galios (kaip pra­

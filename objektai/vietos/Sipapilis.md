@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb11536ad440d54f43ca9c71"
+canonical_name: "Sipapilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sipapilis"]
+sameAs: []
+canonical_biography: "Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna. Narbutas Sipapilio pavadinimą siejo su senaisiais vardais Sepenbil, Scheppenbil ir Szeffenbil bei teisėjo būsto reikšme."
+place_authority: true
+historical_names: []
 ---
 # Sipapilis
 

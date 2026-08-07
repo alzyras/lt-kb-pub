@@ -35,6 +35,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6a7a37f65d273f443d6c2233"
+canonical_name: "Krėva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krėva"]
+sameAs: []
+canonical_biography: "Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus išvežė į Krėvos pilį, o Vytautą paliko Vilniuje."
+place_authority: true
+historical_names: []
 ---
 # Krėva
 
@@ -44,28 +53,10 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 
 ## Teiginiai
 
-<a id="claim-t-111656"></a>
-- t-001
-  teiginys: "Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas kelių budelių."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krėva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Kęstučio perkėlimą į Krėvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Krėva (0.90); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė Krėva (0.84)"
-  pagrindžia:
-    - c-103200
-    - c-181894
-
 <a id="claim-t-111657"></a>
-- t-002
+- t-001
   teiginys: "Skirgaila iš Vilniaus nuvežė Kęstutį į Krėvės kalėjimą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Krėva: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -76,14 +67,15 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Kęstučio nuvežimą į Krėvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Krėva (0.88); Skirgaila siuntė į Krėva (0.80)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-103196
     - c-181890
 
 <a id="claim-t-111658"></a>
-- t-003
+- t-002
   teiginys: "Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Krėva: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -94,14 +86,15 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Algirdas valdė Krėvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė Vitebskas (0.94); Algirdas (Lietuvos valdovas) valdė Krėva (0.94)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-103199
     - c-181897
 
 <a id="claim-t-111659"></a>
-- t-004
+- t-003
   teiginys: "Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Krėva: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -112,32 +105,15 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto pervežimą į Krėvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Krėva (0.91)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-103194
     - c-181888
-
-<a id="claim-t-111660"></a>
-- t-005
-  teiginys: "Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krėva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Kęstučio perkėlimą į Krėvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Krėva (0.90); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė Krėva (0.84)"
-  pagrindžia:
-    - c-103200
-    - c-181894
 
 <a id="claim-t-111661"></a>
-- t-006
+- t-004
   teiginys: "Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir ten įkalintas."
-  atnaujinta: "2026-07-24 14:55"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Krėva: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -148,16 +124,15 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto pervežimą į Krėvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Krėva (0.91)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-103194
     - c-181888
-    - c-103200
-    - c-181894
 
 <a id="claim-t-111662"></a>
-- t-007
+- t-005
   teiginys: "Pirkliai lankė Lietuvos miestus, tarp jų Vilnių, Krėvą, Trakus ir Gardiną."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -167,14 +142,15 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=17"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krėva\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-103195
     - c-181898
 
 <a id="claim-t-111663"></a>
-- t-008
+- t-006
   teiginys: "Vokiečių pirkliai lankė Krėvą ir kitus Lietuvos miestus."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Krėva: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -185,34 +161,15 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad vokiečių pirkliai lankė Krėvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Vokiečių pirkliai keliavo į Krėva (0.90)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-103195
     - c-181898
 
-<a id="claim-t-111664"></a>
-- t-009
-  teiginys: "Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Krėva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Algirdas valdė Krėvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė Vitebskas (0.94); Algirdas (Lietuvos valdovas) valdė Krėva (0.94)"
-  pagrindžia:
-    - c-103194
-    - c-103199
-    - c-181888
-    - c-181897
-
 <a id="claim-t-183035"></a>
-- t-010
+- t-007
   teiginys: "Kęstutis po suėmimo buvo išvežtas į Krėvos pilį, kur po penkių dienų kalėjimo buvo nužudytas."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -226,14 +183,15 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo Kęstučio išvežimą į Krėvos pilį."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Krėva (0.90); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė Krėva (0.87)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-166427
     - c-181893
 
 <a id="claim-t-184995"></a>
-- t-011
+- t-008
   teiginys: "Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį liepė nuvežti į Krėvą, o Vytautą įkalinti Vilniuje."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -252,9 +210,9 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-168356
 
 <a id="claim-t-184996"></a>
-- t-012
+- t-009
   teiginys: "Kojelavičiaus pasakojime sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau buvo atvykę į Krėvą."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -272,9 +230,9 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-168357
 
 <a id="claim-t-193642"></a>
-- t-013
+- t-010
   teiginys: "1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -285,19 +243,19 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-181887
 
 <a id="claim-t-194028"></a>
-- t-014
+- t-011
   teiginys: "Krėva — BTSR miestelis (apie 28 km į pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro pilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
-    - c-181895
+    - c-176650
 
 <a id="claim-t-196698"></a>
-- t-015
+- t-012
   teiginys: "Kojelavičiaus pasakojime Vytautas, vežamas iš Vilniaus į Krėvą, buvo laikomas su karališka pagarba, bet nuolat saugomas sargybos."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -309,10 +267,29 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   pagrindžia:
     - c-178850
 
+<a id="claim-t-199331"></a>
+- t-013
+  teiginys: "Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "llm_object: Krėva; llm_object: Vitebskas; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Ukmergė; mentioned_place: Vilnius; mentioned_place: Vitebskas"
+  semantiniai_rysiai: "[[objektai/asmenys/Algirdas|Algirdas]] valdė Krėva"
+  ryšio_patikimumas: "keliavo_i -> Krėva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Kęstučio perkėlimą į Krėvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-181897
+
 <a id="claim-t-199334"></a>
-- t-016
+- t-014
   teiginys: "Į Lietuvą įsiveržusi totorių kariuomenė užėmė Krėvą, Lydą, Vilnių, Trakus ir kitas vietoves bei priartėjo prie Kauno."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie Krėvos užėmimą."
   susije_objektai: "llm_object: Krėva; llm_object: Lietuva; llm_object: Trakai; mentioned_place: Kaunas; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viena"
@@ -325,6 +302,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Kęstučio nuvežimą į Krėvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181891
 
@@ -380,7 +358,8 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 - id: c-103194
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 54."
   citata_originali: |
     To garbingo karžygio palaikai Skir­
     gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
@@ -402,15 +381,15 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-004
-    - t-006
-    - t-009
 
 - id: c-103195
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 263."
   citata_originali: |
     Juose buvo daugiausia
     įsigalėję vokiečių pirkliai, turėdami čia savo kontoras. Lankė
@@ -423,14 +402,15 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-008
+    - t-005
+    - t-006
 
 - id: c-103196
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 37."
   citata_originali: |
     Ir Livonijos Ordino
     magistras iš Jogailos stovyklos ramiai patraukė namon.
@@ -442,12 +422,13 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-103199
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     bet ir Ašmeną, Ukmergę ir Breslaują. Tik neilgai Lietuvos
@@ -460,18 +441,18 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     neįgijęs, sergėjo.
   citata_rodoma: "Tik neilgai Lietuvos \nsostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­\nnesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - \nŽemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma- \nzovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­\njo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­\nlygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės \nneįgijęs, sergėjo."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-009
+    - t-002
 
 - id: c-103200
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53-54"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53-54."
   citata_originali: |
     37
 
@@ -486,19 +467,16 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
     vo37.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-005
-    - t-006
-
 - id: c-166427
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 112-113"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 112-113."
   citata_originali: |
     Tas pakvietė juos į Vilnių, kur abudu
     suėmė, nors kviesdamas Skirgaila buvo davęs žodį, kad jiems
@@ -512,7 +490,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 - id: c-168356
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -553,7 +531,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-008
 
 - id: c-168357
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -581,12 +559,13 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-009
 
 - id: c-176312
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
     regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
@@ -597,7 +576,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-010
 
 - id: c-176650
   autorius: "Anoniminis metraštininkas"
@@ -613,11 +592,13 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     1342 m.
   citata_rodoma: "Algirdas (1345— 1377| —  vienas iš žymiausių XIV a. Rylų \nEuropos politinių veikėjų. Krėva — BTSR miestelis (apie 28 km \nį pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro \npilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis. \nKada Algirdas gavo valdyti Krėvų. tiksliai nežinoma, gal apie \n1342 m."
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
 - id: c-178850
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -654,12 +635,13 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-012
 
 - id: c-181887
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
     regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
@@ -670,12 +652,13 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-010
 
 - id: c-181888
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 54."
   citata_originali: |
     To garbingo karžygio palaikai Skir­
     gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
@@ -692,20 +675,20 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     sudarė su jais paliaubas.
   citata_rodoma: "Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas\niš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,\ntačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­\nvyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo\nneišvengiamos pražūties.\nTas Vytauto pabėgimas turėjo priversti Jogailą nerimau­\nti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­\ngrobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­\njo, 1382 metų lapkričio pradžioje Dubysos upės salelėje\nsudarė su jais paliaubas."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-003
     - t-004
-    - t-006
-    - t-009
 
 - id: c-181890
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 37."
   citata_originali: |
     Ir Livonijos Ordino
     magistras iš Jogailos stovyklos ramiai patraukė namon.
@@ -717,12 +700,13 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-181891
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 69-70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 69-70."
   citata_originali: |
     Maskva
     viena po kitos prisijungė kitas rusų kunigaikštijas ir netrukus ėmė gvieštis Lietuvos žemių
@@ -763,12 +747,13 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-014
 
 - id: c-181893
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 112-113"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 112-113."
   citata_originali: |
     Tas pakvietė juos į Vilnių, kur abudu
     suėmė, nors kviesdamas Skirgaila buvo davęs žodį, kad jiems
@@ -782,12 +767,13 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 - id: c-181894
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53-54"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53-54."
   citata_originali: |
     37
 
@@ -803,18 +789,15 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     vo37.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-005
-    - t-006
-
 - id: c-181895
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 214."
   citata_originali: |
     Algirdas (1345— 1377| —  vienas iš žymiausių XIV a. Rylų
     Europos politinių veikėjų. Krėva — BTSR miestelis (apie 28 km
@@ -823,17 +806,16 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     Kada Algirdas gavo valdyti Krėvų. tiksliai nežinoma, gal apie
     1342 m.
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
-
 - id: c-181897
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     bet ir Ašmeną, Ukmergę ir Breslaują. Tik neilgai Lietuvos
@@ -846,19 +828,20 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     neįgijęs, sergėjo.
   citata_rodoma: "Tik neilgai Lietuvos \nsostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­\nnesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - \nŽemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma- \nzovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­\njo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­\nlygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės \nneįgijęs, sergėjo."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-009
+    - t-002
+    - t-013
 
 - id: c-181898
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 263."
   citata_originali: |
     Juose buvo daugiausia
     įsigalėję vokiečių pirkliai, turėdami čia savo kontoras. Lankė
@@ -866,13 +849,13 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     ną ir kitus. Kaunas buvo Lietuvos prekybos židinys, nes į jį
     ėjo daug vandens ir sausumos kelių.
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-008
+    - t-005
+    - t-006
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

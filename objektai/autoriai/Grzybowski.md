@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d6f075879517b27645055f7c"
+canonical_name: "Grzybowski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Grzybowski","Grzybowskis"]
+sameAs: []
+canonical_biography: "Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franciszkanów Litewskich“ autorius arba cituojamas šio veikalo kontekste. Jo tekstas naudojamas kalbant apie Šventaragio vardo kilmę ir Goštauto pranciškonišką tradiciją."
 ---
 # Grzybowski
 
@@ -91,7 +98,8 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
 - id: c-55565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 44."
   citata_originali: |
     XIX. Visos detalės apie Lietu­
     vos pranciškonus yra šio didžiulio
@@ -115,7 +123,8 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
 - id: c-78432
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 205-206"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 205-206."
   citata_originali: |
     Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
     tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­

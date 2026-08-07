@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7321e139a39c1e32db6fc0df"
+canonical_name: "Konstancija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Konstancija"]
+sameAs: []
+canonical_biography: "Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris tuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­ darė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Čia susitaikino ir Vytautas su Jogaila, nes abiem rūpėjo kryžiuočių klausimas sąryšy su įvykstančiu suvažiavimu Konstancijoj^2 )."
+place_authority: true
+historical_names: []
 ---
 # Konstancija
 
@@ -121,7 +130,8 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 125."
   citata_originali: |
     Europos visuomenė labai juo
     domėjosi ir į Konstancijos miestą (dabart. Šveicarijoje), kur bu­
@@ -143,7 +153,8 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 207."
   citata_originali: |
     Čia susitaikino ir Vytautas su Jogaila,
     nes abiem rūpėjo kryžiuočių klausimas sąryšy su įvykstančiu
@@ -165,7 +176,8 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 136."
   citata_originali: |
     Ordinu
     (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
@@ -190,7 +202,8 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 125."
   citata_originali: |
     Kadangi jis
     turėjo ne tiktai pašalinti Vakarų Bažnyčios schizmą, išrišti
@@ -213,7 +226,8 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 207."
   citata_originali: |
     Už tai Jogaila ant jo smarkiai supyko,
     lenkų bajorai pasistengė jį nuraminti, už ką Vytautas, žinoma,

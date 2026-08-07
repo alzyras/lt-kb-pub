@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5122619f7aac37cb1466348b"
+canonical_name: "Neseckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Neseckis"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui."
 ---
 # Neseckis
 
@@ -62,7 +69,8 @@ Narbutas nurodo, kad Krunevičiaus vardu pavadintas herbas buvo žinomas ir Nese
 - id: c-173072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Mū­
     sų heraldikos specialistus lenkus visuomet užgula didelis rū­

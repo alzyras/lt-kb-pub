@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2559c338cc6311b4bff40be3"
+canonical_name: "Lesčiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lesčiai"]
+sameAs: []
+canonical_biography: "Kazimieraicio : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES ) Leipalingis Armoniskis e OVolozynas Š 2 = AS ie o righ tinė Bastūnaio | rakelii Subatninkai J a 1950 m. liepos 22 d. ties Ariogalos ir Vilkijos raj. riba, LesDAS Atarcinkonys sie 01 „Lieniškės, 7."
+place_authority: true
+historical_names: []
 ---
 # Lesčiai
 
@@ -59,7 +68,8 @@ Kazimieraicio : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES ) Leipalingis Armoni
 - id: c-43578
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 241."
   citata_originali: |
     Kazimieraicio * : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES
     ) Leipalingis Armoniskis e OVolozynas Š 2 = AS ie

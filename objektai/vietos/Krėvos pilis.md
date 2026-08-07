@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b4f715ed867cde6b95740d5c"
+canonical_name: "Krėvos pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krėvos pilis","Krėvos pilis (pilis)"]
+sameAs: []
+canonical_biography: "Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino visus savo delegacijos duotus pažadus specialiu dokumentu, kuris yra žinomas Krėvos akto vardu (1385 m. rugpiūčio 14 d.)."
+place_authority: true
+historical_names: []
 ---
 # Krėvos pilis (pilis)
 
@@ -69,7 +78,8 @@ Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino v
 - id: c-49359
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32."
   citata_originali: |
     Lietuva tuo metu jau
     turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
@@ -91,7 +101,8 @@ Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino v
 - id: c-176313
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
     regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento

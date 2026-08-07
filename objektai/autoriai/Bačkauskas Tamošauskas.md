@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b0e21c85b8b6a54e4e303953"
+canonical_name: "Bačkauskas Tamošauskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bačkauskas Tamošauskas"]
+sameAs: []
+canonical_biography: "Netrukus pradėjo eiti „Vienybė Lietuvininkų\" ir vargonininko Bačkausko Tamošausko redaguojamoji „Sau1ė\", kurios tebeina ir dabar."
 ---
 # Bačkauskas Tamošauskas
 
@@ -50,7 +57,8 @@ Netrukus pradėjo eiti „Vienybė Lietuvininkų" ir vargonininko Bačkausko Tam
 - id: c-01255
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 663"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 663."
   citata_originali: |
     Šią kurį laiką (1884—5 m.) redagavo į Ameriką
     atvykęs dr. J. Šliūpas. Tačiau, nesutikdamas su lenkams pa-

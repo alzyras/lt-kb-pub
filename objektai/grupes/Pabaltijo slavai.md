@@ -101,21 +101,22 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
 <a id="claim-t-194575"></a>
 - t-004
   teiginys: "Pabaltijo slavai taip pat garbino Kurką."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-172347
+    - c-176974
 
 ## Citatos
 
 - id: c-172346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 257."
   citata_originali: |
     O
     tai yra toks pat užrašas kaip ir ant kai kurių romėniškų medalių;
@@ -134,7 +135,8 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
 - id: c-172347
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 405"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 405."
   citata_originali: |
     Antspaudą pri­
     dėjo Smilginis (Szmilgin) 1475 metais. Kaip pastebėjo ponas
@@ -148,12 +150,12 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
 
 - id: c-175229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 487"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 487."
   citata_originali: |
     92
     92 /Ten pat/
@@ -182,7 +184,8 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
 - id: c-176974
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 257."
   citata_originali: |
     Pabaltijo slavai taip pat garbino Kurką. Ponas Tadas Vo-
     lianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­
@@ -194,7 +197,8 @@ Narbutas rašo, kad slavai venedai ir lietuviai lotynų kalbą vartojo kaip dipl
   citata_rodoma: "Pabaltijo slavai taip pat garbino Kurką. Ponas Tadas Vo-\nlianskis pateikė mums numizmatinio radinio piešinį su tokiu ap­\nrašymu: „Auksinis medalionas, dviejų colių ir dviejų linijų (1\nlenkiška linija -1112 colio, 1 rusiška linija -1  ¡10 colio -  R. G.)\nskersmens. Jis skirias Sambomi, Pabaltijo slavų karaliukui, der­\nliaus, vaisių ir daržininkystės dievukui, kurio vardas buvo Kur­\nkas."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

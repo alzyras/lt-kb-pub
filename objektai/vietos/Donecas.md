@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-546b1ec04dc713d70ce3fc70"
+canonical_name: "Donecas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Donecas"]
+sameAs: []
+canonical_biography: "Narbutas tapatino senovinį Higrį su Donecu, o Tanajį - su dabartiniu Donu."
+place_authority: true
+historical_names: []
 ---
 # Donecas
 
@@ -54,7 +63,8 @@ Narbutas tapatino senovinį Higrį su Donecu, o Tanajį - su dabartiniu Donu.
 - id: c-175584
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
   citata_originali: |
     Taigi pagal pa­
     našumų ir žemės gamtą galima geriau išdėstyti tas skitų

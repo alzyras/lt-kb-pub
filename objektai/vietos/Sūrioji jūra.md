@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ad51f3f0d90b2268a4853772"
+canonical_name: "Sūrioji jūra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sūrioji jūra"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė."
+place_authority: true
+historical_names: []
 ---
 # Sūrioji jūra
 
@@ -68,7 +77,8 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
 - id: c-59367
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Prūsijos žemės aprašymas
 

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9726ce9421336750b95fdb1e"
+canonical_name: "Šymonas Askenazis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šymonas Askenazis"]
+sameAs: []
+canonical_biography: "O vyriausiasis Lenkijos derybininkas Šymonas Askenazis (Szymon Askenazy) manė susitelkti į federacijos konceptą, bet..."
 ---
 # Šymonas Askenazis
 
@@ -50,7 +57,8 @@ O vyriausiasis Lenkijos derybininkas Šymonas Askenazis (Szymon Askenazy) manė 
 - id: c-26694
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 145."
   citata_originali: |
     O vyriausiasis Lenkijos
     derybininkas Šymonas Askenazis (Szymon Askenazy) manė susitelkti

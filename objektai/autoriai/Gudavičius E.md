@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a94ac6fb7224d80b1b8a6ebf"
+canonical_name: "Gudavičius E"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gudavičius E"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūtų šio kankintojo, išgirdo balsą, sklindantį iš dangaus ir jam bylojantį: „Albertai, jeigu nori išvengti sunkių pagundų, privalai kiekvieną dieną nuolankiai sukalbėti šią maldą: „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai 524 Šią formulę (quasi secundus fuit post regem Lethowinorum) kronikininkas taiko ir Lietuvos vyriausybės atstovui, vedusiam 1324 m. derybas Rygoje (D."
 ---
 # Gudavičius E
 
@@ -75,7 +82,8 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
 - id: c-87572
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
   citata_originali: |
     Kadangi ne tris kartus, bet daugelį kartų jis prašė
     viešpatį padaryti, kad nebebūtų šio kankintojo, išgirdo balsą, sklindantį iš dangaus ir
@@ -96,7 +104,8 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
 - id: c-178996
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
   citata_originali: |
     Dėl to jis kėlė siaubą visiems priešams, nes jų
     negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.

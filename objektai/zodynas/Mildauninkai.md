@@ -32,7 +32,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
 <a id="claim-t-189267"></a>
 - t-001
   teiginys: "Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti kaip „mildauninkas“ ir iš jo padaryti deivės Mildos vardą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -40,7 +40,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172156
+    - c-172155
 
 <a id="claim-t-189268"></a>
 - t-002
@@ -87,7 +87,8 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
 - id: c-172155
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 31."
   citata_originali: |
     O
     šią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse
@@ -99,14 +100,17 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   citata_rodoma: "O\nšią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse\ntam tikros rūšies kerėtojas ir kerėtojus, padedančius meilėje,\nkauniečiai vadina mildauninkais“. Tokio lietuviško žodžio iš\nviso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­\ntas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­\ndą Milda."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-172156
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
   citata_originali: |
     Kitaip vadinosi Pizio.
     Iš pasakojimų, surinktų Kauno apylinkėse, aiškėja, kaip
@@ -123,5 +127,4 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

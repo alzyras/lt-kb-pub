@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bcafe67b5b32196010d7dfda"
+canonical_name: "Dąbrowski J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dąbrowski J"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J."
 ---
 # Dąbrowski J
 
@@ -43,7 +50,8 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
 - id: c-61325
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     80  Dlugossii J. Annales..., lib. VI, VII et VIII, IX; Długosz J. Roczniki..., ks. 1—2, s.
     43—47 (W. Semkowicz-Zarembina); Dąbrowski J. Dawne dziejopisarstwo..., s. 217, 227.

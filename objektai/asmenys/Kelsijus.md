@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e1d0a702a1306f0d0bc34532"
+canonical_name: "Kelsijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kelsijus"]
+sameAs: []
+canonical_biography: "Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos jūra nuo Kristaus gimimo nuseko 13 sieksnių ir po 4000 metų išnyks."
 ---
 # Kelsijus
 
@@ -75,7 +82,8 @@ Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos 
 - id: c-174313
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Iš tikrųjų kai ku­
     rias sausumas galima laikyti buvusiomis salomis po to,

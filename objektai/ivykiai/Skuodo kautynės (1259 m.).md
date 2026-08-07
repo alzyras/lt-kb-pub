@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-28767
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 192."
   citata_originali: |
     Paliauboms pasibaigus, jie puolė Kuršą. Kai
     narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su

@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-db663fd2667f0cb354ec2c55"
+canonical_name: "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["brolis Verneris","brolis Verneris iš Orzelno","didysis magistras","didysis magistras Verneris","dvidešimtas Prūsijos žemės magistras","Verneris","Verneris iš Orzelno","Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)","Verneriui iš Orzelno","Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras"]
+sameAs: []
+canonical_biography: "Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras iš Dusburgo įteikė savo kroniką. Jis siejamas su Ordino restauracija, vidaus reforma, liturginės tvarkos nustatymu ir 1329 m. žygiu į Žemaitiją."
 ---
 # Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)
 
@@ -101,7 +108,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 <a id="claim-t-64224"></a>
 - t-004
   teiginys: "Verneriui iš Orzelno kronikos reikėjo Ordinui keltiems priekaištams atremti ir vidaus reformai įgyvendinti."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -113,16 +120,22 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-56089
-    - c-65040
 
 <a id="claim-t-64226"></a>
 - t-005
   teiginys: "Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-56089
+    - c-65037
 
 <a id="claim-t-64227"></a>
 - t-006
@@ -143,15 +156,21 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 <a id="claim-t-64228"></a>
 - t-007
   teiginys: "1326 m. Petras iš Dusburgo užbaigtą „Prūsijos žemės kroniką“ įteikė Verneriui iš Orzelno."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 250 m; įvykio data: 1326 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
-    - c-56089
-    - c-65035
+    - c-56086
 
 <a id="claim-t-64229"></a>
 - t-008
@@ -228,26 +247,40 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 <a id="claim-t-64234"></a>
 - t-012
   teiginys: "1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1316 m.; įvykio data: 1326 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Reikia pašalinti nereikalingą „Dusburgietis teigia“ pradžią."
   pagrindžia:
-    - c-65038
+    - c-65039
 
 <a id="claim-t-64235"></a>
 - t-013
   teiginys: "Verneris iš Orzelno 1324 m. liepos 6 d. Marienburge buvo išrinktas keturioliktuoju didžiuoju magistru."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Marienburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Marienburgas: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Marienburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1324 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko aiškų faktą, bet pradinį teiginį gadina antraštė ir nutrūkusi pabaiga."
   pagrindžia:
-    - c-65038
+    - c-65043
 
 <a id="claim-t-194524"></a>
 - t-014
@@ -356,7 +389,8 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 - id: c-56086
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 13."
   citata_originali: |
     3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos
     kare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
@@ -364,14 +398,17 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   citata_rodoma: "3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos\nkare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo\nužbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-56087
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
     Kronikos autorius, politiniai ir ideologiniai uždaviniai
     Dusburgiečio dedikacija kronikos pradžioje rodo, kad jis buvęs Kryžiuočių ordino
@@ -391,7 +428,8 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 - id: c-56089
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
     didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
@@ -408,13 +446,12 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-005
-    - t-007
 
 - id: c-65034
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 24."
   citata_originali: |
     Dusburgietis, pvz.,  tiksliai nurodo, kada buvo
     išrinktas magistru jo amžininkas ir globėjas Verneris iš Orzelno — 1324 m. liepos 6 d.
@@ -431,7 +468,8 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 - id: c-65035
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 253-254"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 253-254."
   citata_originali: |
     Apie Medvėgalio pilėnus
 
@@ -455,14 +493,14 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
     - t-010
     - t-015
 
 - id: c-65036
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
   citata_originali: |
     20. Apie didžiojo magistro mirtį
 
@@ -485,7 +523,8 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 - id: c-65037
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     PRŪSIJOS ŽEMĖS
        KRONIKA
@@ -507,13 +546,15 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
     - t-014
     - t-016
 
 - id: c-65038
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
     Veikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame
     bus taisytina.
@@ -526,13 +567,12 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
-    - t-012
-    - t-013
 
 - id: c-65039
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 13."
   citata_originali: |
     1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
     užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
@@ -540,14 +580,17 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   citata_rodoma: "1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo\nužbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.\n   XIII a."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
 - id: c-65040
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     Apkaltintas erezija Tamplierių
     ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
@@ -566,13 +609,13 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
     - t-011
 
 - id: c-65041
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 252."
   citata_originali: |
     1. Apie evangeliją: pradžioje buvo žodis
 
@@ -600,7 +643,8 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 - id: c-65043
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 222."
   citata_originali: |
     Apie brolį Vernerį, didįjį bei Prūsijos žemės magistrą
 
@@ -610,14 +654,17 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   citata_rodoma: "Apie brolį Vernerį, didįjį bei Prūsijos žemės magistrą\n\n   Brolis Verneris iš Orzelno, keturioliktas didysis ir dvidešimtas Prūsijos žemės magistras,\ntais metais, būtent 1324 viešpaties metų liepos mėnesio 6 dieną, buvo išrinktas\nvyriausiojoje būstinėje Marienburge, o vadovavo.......metų582."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
 - id: c-179041
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 222."
   citata_originali: |
     Šias abi kariuomenes karalius pasiuntė krikščionių naikinti tuo metu, kai
     apaštališkojo sosto legatų pasiuntiniai, tęsdami minėtąjį reikalą, gyveno šalia jo. štai ko

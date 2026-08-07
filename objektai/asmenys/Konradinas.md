@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a8714501f43a1b3bd600e67"
+canonical_name: "Konradinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Konradino, imperatoriaus Fridricho II anūko, žūtį 1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos kilmingųjų (Mart."
 ---
 # Konradinas
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad apie Konradino, imperatoriaus Fridricho II anūko, žū
 - id: c-61003
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 235."
   citata_originali: |
     52. Apie Konradino, imperatoriaus Fridricho II anūko, žūtį
 

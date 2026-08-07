@@ -133,7 +133,8 @@ Nenurodyta
 - id: c-169890
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 104."
   citata_originali: |
     Paskui didysis kunigaikštis Vytautas nusiuntė savo
     pasiuntinius į Didįjį Naugardą ir Pskovą, idant ten jį

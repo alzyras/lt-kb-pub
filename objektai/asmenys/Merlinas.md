@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92cc1253e4d41d009a38073d"
+canonical_name: "Merlinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Merlinas"]
+sameAs: []
+canonical_biography: "Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių link. Merlinas išsiuntė raportą gen."
 ---
 # Merlinas
 
@@ -66,7 +73,8 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
 - id: c-41409
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     Gegužės 4 d. rusai pasiekė Anykščius ir
     sužinojo, kad tik prieš dieną sukilėliai iš
@@ -87,7 +95,8 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
 - id: c-41410
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162-163"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162-163."
   citata_originali: |
     Atsitraukęs kaimo gilumon, mjr. Mer-
     linas išsiuntė raportą gen. mjr. I. Ganeckiui

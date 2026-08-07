@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9998a9b64283228a77a3ad13"
+canonical_name: "Fosas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fosas"]
+sameAs: []
+canonical_biography: "Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis. Narbuto kritikuojamas Fosas Austraviją, arba Glesariją, tapatino su fryzų sala Amelandu ir neigė Pitėjo lankymąsi Baltijos jūroje. Fosas teigia, jog jis pasiekė tik Reiną ar toliausiai Elbės žiotis."
 ---
 # Fosas
 
@@ -103,7 +110,8 @@ Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis. N
 - id: c-174280
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Graikai, ypač
     masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
@@ -128,7 +136,8 @@ Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis. N
 - id: c-174281
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Kiek čia nepatikimumo!2
     Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­

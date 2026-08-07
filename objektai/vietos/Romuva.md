@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87fb534c0084f2b669b3b8a8"
+canonical_name: "Romuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Romuva"]
+sameAs: []
+canonical_biography: "Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį. Romuvoje pagrindinis kulto objektas buvo ugnis."
+place_authority: true
+historical_names: []
 ---
 # Romuva
 
@@ -114,7 +123,8 @@ media_all_json: |-
 - id: c-24436
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 24."
   citata_originali: |
     Iš mūsų pagonių valdovų laikysenos
     galima suprasti, kad pagonybė jiems buvo lygiavertė krikščionybei. Tai-
@@ -133,7 +143,8 @@ media_all_json: |-
 - id: c-24437
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 24."
   citata_originali: |
     Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
     Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
@@ -152,7 +163,8 @@ media_all_json: |-
 - id: c-80850
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 82."
   citata_originali: |
     Vaikių krašte buvo šventoji giria, ku­
     ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­
@@ -173,7 +185,8 @@ media_all_json: |-
 - id: c-80851
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 82."
   citata_originali: |
     Baigusi kruvinus darbus, ginkluota palyda kitą die­
     ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
@@ -193,7 +206,8 @@ media_all_json: |-
 - id: c-167018
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 24."
   citata_originali: |
     Tai-
     gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
@@ -211,7 +225,8 @@ media_all_json: |-
 - id: c-167019
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 24."
   citata_originali: |
     Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
     (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių

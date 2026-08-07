@@ -72,7 +72,8 @@ Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prie�
 - id: c-177404
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 97."
   citata_originali: |
     Šeši tūkstančiai devyni šimtai šeštaisiais1 7  metais
     įvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto

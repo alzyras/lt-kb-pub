@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4f1b3b24b486599b22e5c90b"
+canonical_name: "Girdila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Girdila"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščionių 1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams visokeriopų eibių. Dusburgietis teigia, kad girdila ir patraukė su jais prie Aukaimio pilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga juos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti."
 ---
 # Girdila
 
@@ -95,7 +102,8 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
 - id: c-60755
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
   citata_originali: |
     Apie išdavystę, per kurią žuvo šimtas krikščionių
 

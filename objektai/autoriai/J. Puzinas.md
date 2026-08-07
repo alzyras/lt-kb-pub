@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-541e387078c526fcec41a294"
+canonical_name: "J. Puzinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Puzinas"]
+sameAs: []
+canonical_biography: "J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiame tome jam priskiriami darbai apie proistorę, aisčius istorinių šaltinių šviesoje ir Lietuvos prekybos istorijai svarbias seges."
 ---
 # J. Puzinas
 
@@ -113,7 +120,8 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 - id: c-03990
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 9."
   citata_originali: |
     Lietuvos _proistorė_ yra jau
     plačiai išaugusi į atskirą mokslą, kur tyrinėjama kitais metodais.
@@ -132,7 +140,8 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 - id: c-03991
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 21."
   citata_originali: |
     1 (iki 1356 m.),
     Karaliaučius-Marburgas 1889-1969. (Pirmieji 2 tomai Aale-
@@ -151,7 +160,8 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 - id: c-03992
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 112."
   citata_originali: |
     — Mulevičienė, I. : _Žiedžiamojo
     rato pasirodymo Lietuvos teritorijoje klausimu_ , AkMD, t. 36, 1971, 111-
@@ -172,9 +182,9 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     - t-002
 
 - id: c-184841
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 17"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 17."
   citata_originali: |
     1929-1932 m. Jonas Puzinas
     (1905-1978) žurnale Savivaldybė paskelbė keliolika straipsnių, populiarinančių XV-

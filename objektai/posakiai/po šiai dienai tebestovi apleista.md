@@ -66,7 +66,8 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
 - id: c-59783
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
   citata_originali: |
     Retrospektyvinis požiūris  į įvykius ryškus tokiuose kronikininko
     pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje,

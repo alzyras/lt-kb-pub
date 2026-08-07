@@ -110,7 +110,7 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
 <a id="claim-t-111341"></a>
 - t-004
   teiginys: "„Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ šiame veikale cituojamas kaip atskiras šaltinis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -121,7 +121,8 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
 - id: c-43232
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 123."
   citata_originali: |
     „1649 metais [...] kelios valandos iki vidurdienio iš pirmųjų priešų, staiga pasileidusių
     ant buvusių prie pat stovyklos pašarininkų, buvo gauta žinia apie pavojų, ir lauko etmono
@@ -159,7 +160,8 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
 - id: c-102971
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 123."
   citata_originali: |
     Svetimšalių autoramento „vokiškojo“ tipo pėstinin-
     kas-ietininkas (pikinierius). Svetimšalių autoramento

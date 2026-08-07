@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-35aed29e8dd54f60ce4b1e8f"
+canonical_name: "Apvaizdos koplyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Apvaizdos koplyčia"]
+sameAs: []
+canonical_biography: "Apvaizdos koplyčia prie Šv. Kotrynos bažnyčios buvo centrinio aštuoniakampio plano pastatas su lengvu kupolu."
+place_authority: true
+historical_names: []
 ---
 # Apvaizdos koplyčia
 

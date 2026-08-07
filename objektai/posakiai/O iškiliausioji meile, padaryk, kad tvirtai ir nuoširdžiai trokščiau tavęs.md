@@ -93,7 +93,8 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 - id: c-59774
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 175-176"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175-176."
   citata_originali: |
     Kadangi ne tris kartus, bet daugelį kartų jis prašė
     viešpatį padaryti, kad nebebūtų šio kankintojo, išgirdo balsą, sklindantį iš dangaus ir
@@ -119,7 +120,8 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 - id: c-59775
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
   citata_originali: |
     Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach
     einem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį

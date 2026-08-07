@@ -3,11 +3,21 @@ tipas: asmuo
 pavadinimas: 'Ulrichas fon Jungingenas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais'
+datos:
+  - '1416 m.'
+date_start: '1416'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - karvedys
   - asmuo
+  - ordinas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -20,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5af7fc65ae3aea6d3d39ef83"
+canonical_name: "Ulrichas fon Jungingenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ulrichas fon Jungingenas"]
+sameAs: []
+canonical_biography: "Žuvo pats didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 Ordino riterių (trečioji dalis prūsiškųjų kryžiuočių) ir tūkstančiai eilinių kryžeivių bei samdinių."
 ---
 # Ulrichas fon Jungingenas
 
@@ -46,12 +63,27 @@ media_all_json: |-
   pagrindžia:
     - c-167152
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Yra duo menų, kad 1416 m. Ordino magistras Ulrichasfon Jungingenas kunigaikštienei Onai, Vytauto žmonai, pa siuntė iš Ragainės gero Reino vyno ir vynuogių (23).'
+  šaltinis: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais
+  citata_originali: |
+    Yra duo­
+    menų, kad 1416 m. Ordino magistras Ulrichasfon Jun-
+    gingenas kunigaikštienei Onai, Vytauto žmonai, pa­
+    siuntė iš Ragainės gero Reino vyno ir vynuogių (23).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-167152
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 67."
   citata_originali: |
     Tačiau Vytautas ir Jogaila
 

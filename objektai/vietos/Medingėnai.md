@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cca23bd24d8ba1f1271e208d"
+canonical_name: "Medingėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Medingėnai"]
+sameAs: []
+canonical_biography: "Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių Žemaičių aukštumos sričių (Ariogalos, Kal­ tinėnų, Knituvos, Kražių, Medingėnų, Raseinių ir Viduklės) darė taiką su Vytautu ir ordinu."
+place_authority: true
+historical_names: []
 ---
 # Medingėnai
 
@@ -51,7 +60,8 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 - id: c-28433
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 313."
   citata_originali: |
     Viso Žemaičių krašto vardu pavardėmis surašyti
     31 atstovas iš septynių Žemaičių aukštumos sričių (Ariogalos, Kal­

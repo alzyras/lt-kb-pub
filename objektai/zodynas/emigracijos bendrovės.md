@@ -61,7 +61,8 @@ Todėl, pavyzdžiui, 1926—1929 m., emigracijos bendrovėms gabenant mūsų tau
 - id: c-72107
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 684"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 684."
   citata_originali: |
     Pagaliau ir Lietuvoje susirūpinta savo emigracijos reikalais:
     stengiamasi palaikyti kultūrinius ryšius su anksčiau išvykusiais išei-

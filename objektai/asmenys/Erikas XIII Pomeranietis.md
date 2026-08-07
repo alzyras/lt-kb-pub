@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c15d4cc575e071b36fd93b2b"
+canonical_name: "Erikas XIII Pomeranietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Erikas XIII Pomeranietis"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Erikas XIII Pomeranietis
 

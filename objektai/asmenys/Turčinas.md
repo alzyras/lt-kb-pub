@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e4befb083ac4af27491f8d9"
+canonical_name: "Turčinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Turčinas"]
+sameAs: []
+canonical_biography: "Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuviškų kapų pridėjo 2 flor. Die 5 Augusti [rugpjūčio 5 dieną] per Turčiną, kai jo kara­ liškajai didenybei pinigus nuvežė į Leipcigą, pakeisdamas liet."
 ---
 # Turčinas
 
@@ -65,7 +72,8 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 - id: c-83565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 457"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 457."
   citata_originali: |
     Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lu-
     kove prie 20 lietuviškų kapų pridėjo 2 flor. 20 grašių. Slups-
@@ -83,7 +91,8 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 - id: c-83566
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 458"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 458."
   citata_originali: |
     Die 5 Augusti [rugpjūčio 5 dieną] per Turčiną, kai jo kara­
     liškajai didenybei pinigus nuvežė į Leipcigą, pakeisdamas

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9f61158398d2539609014c2f"
+canonical_name: "D. Pochilevyč"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["D. Pochilevyč"]
+sameAs: []
+canonical_biography: "Pochilevyč, Lvovo univ."
 ---
 # D. Pochilevyč
 
@@ -50,7 +57,8 @@ Pochilevyč, Lvovo univ.
 - id: c-29362
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 95."
   citata_originali: |
     Pačioje Ukrainoje šiuo
     metu reiškiasi D. Pochilevyč, Lvovo univ. prof. Jis davė

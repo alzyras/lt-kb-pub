@@ -64,7 +64,8 @@ Nenurodyta
 - id: c-56400
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 73"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 73."
   citata_originali: |
     Jei
         tose stoginėse netalpino javų ar pašaro, tad krovė ant lauko į žagus ar bragus^239 , kupetas taip

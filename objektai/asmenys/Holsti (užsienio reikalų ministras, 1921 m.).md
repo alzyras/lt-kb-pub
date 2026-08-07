@@ -38,6 +38,13 @@ media_all_json: |-
 tags:
   - ministras
   - asmuo
+entity_id: "ent-e2179e5f0df413dd88d16cf4"
+canonical_name: "Holsti (užsienio reikalų ministras, 1921 m.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Holsti","Holsti (užsienio reikalų ministras, 1921 m.)"]
+sameAs: []
+canonical_biography: "Holsti šiame straipsnyje minimas kaip užsienio reikalų ministras, iš kurio prof. dr. Eretas išgavo Lietuvos pripažinimą de jure Suomijoje."
 ---
 # Holsti (užsienio reikalų ministras, 1921 m.)
 
@@ -48,18 +55,6 @@ Holsti šiame straipsnyje minimas kaip užsienio reikalų ministras, iš kurio p
 ## Vaidmenys
 
 - užsienio reikalų ministras
-
-## Teiginiai
-
-<a id="claim-t-195674"></a>
-- t-001
-  teiginys: "1921 m. rudenį Holsti šiame šaltinyje minimas kaip užsienio reikalų ministras, iš kurio prof. dr. Eretas išgavo Lietuvos pripažinimą de jure Suomijoje."
-  atnaujinta: "2026-07-12 12:31"
-  sprendimo_priezastis: "coverage-gap-overlap-repair"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178073
 
 ## Citatos
 
@@ -73,8 +68,7 @@ Holsti šiame straipsnyje minimas kaip užsienio reikalų ministras, iš kurio p
   citata_rodoma: "1921 m. rudenį į Helsinkus atvyko „Eltos“ direktorius prof. dr. Eretas ... kol pagaliau iš užs. reik. ministerio Holsti tą pripažinimą išgavo."
   statusas: verified
   atnaujinta: "2026-07-12 12:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

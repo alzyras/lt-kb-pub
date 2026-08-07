@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8375f0f83205ac678bc11968"
+canonical_name: "Dovas Zaunius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dovas Zaunius"]
+sameAs: []
+canonical_biography: "Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės: Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir pasiuntinys Petras Klimas (H."
 ---
 # Dovas Zaunius
 
@@ -63,7 +70,8 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
 - id: c-26662
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 159-160"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 159-160."
   citata_originali: |
     Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
     Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-

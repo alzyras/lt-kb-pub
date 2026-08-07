@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-401bede4367ff3f1a857118a"
+canonical_name: "Eufimėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eufimėjus"]
+sameAs: []
+canonical_biography: "Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­ triarchui Eufimėjui pristatė Polocko vysk."
 ---
 # Eufimėjus
 
@@ -51,7 +58,8 @@ Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­ triarchui Eufimėjui 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 133."
   citata_originali: |
     Bet kai Ciprijonas mirė (1406), tai Vytautas,
     kovojęs tuo laiku su Maskva dėl Okos ir Ugros aukštupių, pa­

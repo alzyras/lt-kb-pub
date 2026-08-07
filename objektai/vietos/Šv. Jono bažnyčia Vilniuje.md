@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f71765f7d9152aeca13beb59"
+canonical_name: "Šv. Jono bažnyčia Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Jono bažnyčia Vilniuje"]
+sameAs: []
+canonical_biography: "Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir pritaikė jį jiems gyventi. Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią. 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos."
+place_authority: true
+historical_names: []
 ---
 # Šv. Jono bažnyčia Vilniuje
 
@@ -153,7 +162,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
 - id: c-177562
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 189."
   citata_originali: |
     Jono bažnyčia, ir 1667 metų lapkričio 19 dieną
     Vilniaus magistrato neteisingos pretenzijos Šv. Jono bažny­
@@ -172,7 +182,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
 - id: c-177563
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 310."
   citata_originali: |
     Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
     vo disputais ir raštais spaudęs savo priešininkus, nekan­
@@ -195,7 +206,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
 - id: c-177564
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Mes cituojame tik tuos, kuriuos
     matėme patys.
@@ -219,7 +231,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
 - id: c-177565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 188."
   citata_originali: |
     JONO BAŽNYČIĄ IR APIE TO PATIES VARDO
     KOLEGIJĄ, TAIP PAT APIE VISUS PADALINIUS IR PASTATUS,
@@ -247,7 +260,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
 - id: c-177566
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 301."
   citata_originali: |
     Jų pastangos disputuoti su disidentais išties
     pelnė jiems vyskupo ir kapitulos prielankumą. Protasevi­
@@ -267,7 +281,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
 - id: c-177567
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 188-189"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 188-189."
   citata_originali: |
     Jono brolijai priklausantiems,
     kurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta­
@@ -296,7 +311,8 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
 - id: c-177568
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 171-172"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 171-172."
   citata_originali: |
     Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
     lenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza

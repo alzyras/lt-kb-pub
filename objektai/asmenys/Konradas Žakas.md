@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-95addf9c8ff4dac9dd86662a"
+canonical_name: "Konradas Žakas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas Žakas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie. Dusburgietis teigia, kad apie brolį Konradą, Prūsijos magistrą 1302—1306 metais Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus. Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas."
 ---
 # Konradas Žakas
 
@@ -60,21 +67,8 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   pagrindžia:
     - c-167489
 
-<a id="claim-t-194501"></a>
-- t-002
-  teiginys: "Apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60675
-    - c-167489
-
 <a id="claim-t-197120"></a>
-- t-003
+- t-002
   teiginys: "Konradas Žakas garsėjo kaip baisus žiauruolis, didelis grobikas ir piktadarys."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -86,7 +80,7 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
     - c-60677
 
 <a id="claim-t-197121"></a>
-- t-004
+- t-003
   teiginys: "Konradas Žakas nuėjo prie jo ir pasiprašė vieno žirgo, tačiau šis įniršęs užjojo ant jo, parbloškė jį žemėn ir, kelis kartus prajojęs, jį sutrypė."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -102,7 +96,8 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
 - id: c-60675
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 198."
   citata_originali: |
     Trisdešimt šios kariuomenės krikščionių žuvo nuo kalavijo, o brolis Henrikas iš Volferštorfo
     pateko į užvartą ir visa kariuomenė per jį perėjo. Takas čia buvo toks siauras, kad
@@ -118,13 +113,13 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-004
+    - t-003
 
 - id: c-60677
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Apie brolį Henriką iš Kunceno
     Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Būdamas
@@ -139,12 +134,13 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-167489
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     Apie Straisbergo miesto sugriovimą 1298 metais
     Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo
@@ -162,4 +158,3 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

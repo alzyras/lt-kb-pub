@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c651b8c0b89b36afd70ae537"
+canonical_name: "Jonas de Lovenbinkė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas de Lovenbinkė"]
+sameAs: []
+canonical_biography: "m n Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir tik: brolis lonas de Lovenbinkė (Lokryžiuočių pilis Memelyje."
 ---
 # Jonas de Lovenbinkė
 
@@ -49,7 +56,8 @@ m n Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir 
 - id: c-83695
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 90-91"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 90-91."
   citata_originali: |
     Be išsamaus išvar­
     dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos

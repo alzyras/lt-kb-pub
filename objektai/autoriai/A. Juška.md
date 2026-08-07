@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2737a513196260d5b3c23a6f"
+canonical_name: "A. Juška"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Juška"]
+sameAs: []
+canonical_biography: "Juška : Mindaugo krikštas, Lux Christi 1951, 1 nr., 3-8 p. ; Mindaugas ir Lietuvos krikštas, Laiškai Lietuviams 1951, 2 nr., 18-20 p."
 ---
 # A. Juška
 
@@ -60,7 +67,8 @@ Juška : Mindaugo krikštas, Lux Christi 1951, 1 nr., 3-8 p. ; Mindaugas ir Liet
 - id: c-32870
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 33."
   citata_originali: |
     (^2) **Pvz., H. Paszkiewicz, J. Latkowski, H. Lowmiański.**
     (^3) **Žr. žemiau skyrių « Lietuvos karalius Mindaugas ir jo palikimas ».**

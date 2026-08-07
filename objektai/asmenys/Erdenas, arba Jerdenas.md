@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f57b1aedd02fc76f16cee071"
+canonical_name: "Erdenas, arba Jerdenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Erdenas, arba Jerdenas"]
+sameAs: []
+canonical_biography: "Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Erdeno tėvas."
 ---
 # Erdenas, arba Jerdenas
 
@@ -59,7 +66,8 @@ Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido,
 - id: c-83477
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 59."
   citata_originali: |
     I. 48), liudija, kad XII amžiuje jau
     būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­

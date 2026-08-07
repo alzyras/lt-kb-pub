@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ff42091acba9308337d469a4"
+canonical_name: "V. Gosievskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Gosievskis"]
+sameAs: []
+canonical_biography: "Gosievskio pajėgas."
 ---
 # V. Gosievskis
 
@@ -62,7 +69,8 @@ Gosievskio pajėgas.
 - id: c-41623
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 126."
   citata_originali: |
     J. Čerkaskis dalyvavo užimant
     Gardiną, Vilnių, kur sumušė J. Radvilos

@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7910613627fbb15cd0a63b60"
+canonical_name: "Visvaldis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Visvaldis"]
+sameAs: []
+canonical_biography: "Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vyskupo Alberto."
 ---
 # Visvaldis
 
@@ -76,7 +83,8 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
 - id: c-175812
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
   citata_originali: |
     Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
     sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
@@ -101,7 +109,8 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
 - id: c-175813
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 22."
   citata_originali: |
     Jersikos karalius
 

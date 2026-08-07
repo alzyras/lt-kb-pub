@@ -48,7 +48,8 @@ Kai kurie mūsų senieji autoriai taip pat rašo - Vigilia, užuot rašę Vilija
 - id: c-84395
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 33."
   citata_originali: |
     Kai
     kurie mūsų senieji autoriai taip pat

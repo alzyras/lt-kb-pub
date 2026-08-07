@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43963abcfc33436a8fc1486e"
+canonical_name: "Fridburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Fridburgas"]
+sameAs: []
+canonical_biography: "XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pasistatė Fridburgą ir Bajerburgą."
+place_authority: true
+historical_names: []
 ---
 # Fridburgas
 
@@ -61,7 +70,8 @@ XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pasist
 - id: c-171836
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     Kaip tik ten buvo minima Velionos šventykla. XIV am­
     žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami

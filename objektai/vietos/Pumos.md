@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-520f9f8f54f0d2b1ca55a586"
+canonical_name: "Pumos"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pumos"]
+sameAs: []
+canonical_biography: "Aleksandras Jurjevičius Lietuvoje turėjo Pumas."
+place_authority: true
+historical_names: []
 ---
 # Pumos
 
@@ -52,7 +61,8 @@ Aleksandras Jurjevičius Lietuvoje turėjo Pumas.
 - id: c-170340
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 311."
   citata_originali: |
     “  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus
     vyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede-

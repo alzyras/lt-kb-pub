@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4a3641c25cab04b6196a1f92"
+canonical_name: "Rūdninkai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rūdninkai"]
+sameAs: []
+canonical_biography: "253 ## Puslapis 270 VILNIAUS MIESTO ISTORIJA II TOMAS Ū APIE LIETUVOS DIDŽIŲJŲ KUNIGAIKŠČIŲ MEDŽIOKLES RŪDNINKUOSE Visi Jogailos giminės karaliai labai mėgo viešėti Rūdnin­ kų kaime, netoli Vilniaus. Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau, Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­ vo Rūdninkų vardą, kaip ir nuo jų. Bažny­ čia Rūdninkuose galėjusi būti nuo seno, bet klebonijos fun­ dacija datuojama nuo Zigmanto III."
+place_authority: true
+historical_names: []
 ---
 # Rūdninkai
 
@@ -103,7 +112,8 @@ media_all_json: |-
 - id: c-81876
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 269-270"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 269-270."
   citata_originali: |
     253
 
@@ -132,7 +142,8 @@ media_all_json: |-
 - id: c-81877
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 272."
   citata_originali: |
     Jų pavadinimas kilęs nuo nemažų geležies rū­
     dos klodų, slypinčių po pelkėmis ir girių tankmėmis. Bažny­
@@ -152,7 +163,8 @@ media_all_json: |-
 - id: c-81878
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 270."
   citata_originali: |
     Pasiligojusi Vytauto žmona Julijona bu­
     vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­
@@ -176,7 +188,8 @@ media_all_json: |-
 - id: c-168488
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 467"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 467."
   citata_originali: |
     Tuo
     46 9

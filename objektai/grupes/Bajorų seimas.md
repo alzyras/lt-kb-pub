@@ -33,7 +33,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 <a id="claim-t-19651"></a>
 - t-001
   teiginys: "Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -63,7 +63,8 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 - id: c-22355
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą
     valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.
@@ -83,7 +84,8 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 - id: c-166506
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-
     ti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.

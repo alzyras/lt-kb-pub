@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9e337db9cd65e8a0e9a4e22f"
+canonical_name: "Rytų Europa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rytų Europa"]
+sameAs: []
+canonical_biography: "Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus. Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas), ji dažnai laikoma Rytų Europos dalimi."
+place_authority: true
+historical_names: []
 ---
 # Rytų Europa
 
@@ -68,7 +77,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 - id: c-74724
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 12."
   citata_originali: |
     Europos centro koordina-
     tės 54o55’ šiaurės platumos, 25o19’ rytų ilgumos. Lietuva yra toje pačioje
@@ -90,7 +100,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 - id: c-74726
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 12."
   citata_originali: |
     Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga
     aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikė-

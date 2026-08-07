@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09c61dbc07fa15a91a298bf2"
+canonical_name: "Šeškinės kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šeškinės kalnas"]
+sameAs: []
+canonical_biography: "Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuviųlenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­ rios ir platų frontą rėpiančios gynybos."
+place_authority: true
+historical_names: []
 ---
 # Šeškinės kalnas
 
@@ -52,7 +61,8 @@ Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis,
 - id: c-82252
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 137."
   citata_originali: |
     Kad neįsiveltų į neaiškios lemties
     mūšį atvirame lauke, Ordino didysis maršalas su rinktinių

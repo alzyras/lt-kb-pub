@@ -155,7 +155,8 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
 - id: c-168718
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 383."
   citata_originali: |
     Be valdovo sutikimo
     bajorai neturi teisės nei parduoti, nei dovanoti valdo­
@@ -189,7 +190,8 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
 - id: c-168719
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
   citata_originali: |
     Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
     niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
@@ -213,7 +215,8 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
 - id: c-168720
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 420"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 420."
   citata_originali: |
     Beje, ir Jogaila, smarkiai pasenęs ir su­
     vokęs, jog valdymo našta dabar kur kas sunkesnė, nei

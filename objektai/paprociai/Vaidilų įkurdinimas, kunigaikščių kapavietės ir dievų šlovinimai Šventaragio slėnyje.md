@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-83284
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 66-67"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 66-67."
   citata_originali: |
     Tad
     kad ir kurią iš visų tų legendų pripažintume esant tikro-

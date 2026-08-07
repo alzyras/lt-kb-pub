@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ec88003bcb1534f909037559"
+canonical_name: "Petras Griškevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Griškevičius"]
+sameAs: []
+canonical_biography: "S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griškevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios vadžias."
 ---
 # Petras Griškevičius
 
@@ -77,7 +84,8 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - id: c-21936
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 234."
   citata_originali: |
     VI s k y r i u s
     DAINUOJANTI
@@ -112,7 +120,8 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - id: c-64900
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 233-234"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 233-234."
   citata_originali: |
     O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
     nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-

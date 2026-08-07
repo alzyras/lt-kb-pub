@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4ff61ad11e827d1b7ad2a79"
+canonical_name: "Utena"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Utena"]
+sameAs: []
+canonical_biography: "Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žemaičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vyskupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno."
+place_authority: true
+historical_names: []
 ---
 # Utena
 
@@ -105,7 +114,8 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - id: c-43946
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 184."
   citata_originali: |
     Telkdama į bolševikų frontą vis daugiau
     naujai suformuotų dalinių, Lietuvos ka-
@@ -127,7 +137,8 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - id: c-156448
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 180-181"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 180-181."
   citata_originali: |
     Buvo sukurtas
     generalinis Lietuvos teritorijos nuo bolše-
@@ -154,7 +165,8 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - id: c-168530
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 140."
   citata_originali: |
     Patyręs savo bei žmonos
     skriaudą, Narimantas liūdėjo, niršo, grasino, tuo tar­

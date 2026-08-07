@@ -108,7 +108,8 @@ Nenurodyta
 - id: c-62883
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
   citata_originali: |
     Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
     1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,

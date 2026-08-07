@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bdd95490d1e9896368f3ca79"
+canonical_name: "Buiničius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Buiničius"]
+sameAs: []
+canonical_biography: "Jam vadovavo majoras Jacenka ir štabo viršininkas majoras Buiničius."
 ---
 # Buiničius
 
@@ -61,7 +68,8 @@ Jam vadovavo majoras Jacenka ir štabo viršininkas majoras Buiničius.
 - id: c-44312
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 226-227"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 226-227."
   citata_originali: |
     1945 m.
     gegužės 16 dienos mūšyje

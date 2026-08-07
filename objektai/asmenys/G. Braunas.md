@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c13279a1a5eb2191d563f9fa"
+canonical_name: "G. Braunas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["G. Braunas"]
+sameAs: []
+canonical_biography: "Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“. Komentare G. Braunas įvardijamas kaip 1541-1622 m. gyvenęs geografas ir kartografas, atlaso „Civitates orbis terrarum“ autorius."
 ---
 # G. Braunas
 
@@ -91,7 +98,8 @@ Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didži
 - id: c-173034
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 515."
   citata_originali: |
     P. 456* - Tekstas, kuriuo autorius papildė paragrafą, reng­
     damas antrąjį leidimą (PEĮ. - L. 310). T. Narbutas
@@ -109,7 +117,8 @@ Komentare aiškinama, kad Narbutas turėjo omenyje G. Brauno 1541-1622 m. didži
 - id: c-173741
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 516"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 516."
   citata_originali: |
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas spaudai ant­
     rąjį leidimą (PEĮ. L, 310). T. Narbutas turi omenyje geografo ir

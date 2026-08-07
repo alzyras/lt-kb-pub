@@ -90,7 +90,8 @@ Nenurodyta
 - id: c-60334
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
   citata_originali: |
     Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
     Mat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio

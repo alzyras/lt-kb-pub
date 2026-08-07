@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e43e8594dc7d2a77466166a3"
+canonical_name: "Lokaičiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lokaičiai"]
+sameAs: []
+canonical_biography: "1809 m. Lokaičių kaime kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų."
+place_authority: true
+historical_names: []
 ---
 # Lokaičiai
 
@@ -64,7 +73,8 @@ media_all_json: |-
 - id: c-171844
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
   citata_originali: |
     Man sakė, kad Karaliaučiuje
     buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­

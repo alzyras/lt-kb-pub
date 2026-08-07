@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4f6e0df3b81d305dfc9d8bb"
+canonical_name: "Leontijus Bennigsenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Leontijus Bennigsenas"]
+sameAs: []
+canonical_biography: "Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiamas kazokų pulko, atakavo gen."
 ---
 # Leontijus Bennigsenas
 
@@ -51,7 +58,8 @@ Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiam
 - id: c-42102
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 154."
   citata_originali: |
     Gen. mjr. Leontijus Bennigsenas tri-
     mis kavalerijos pulkais, remiamas kazokų

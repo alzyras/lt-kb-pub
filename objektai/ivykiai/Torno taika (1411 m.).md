@@ -148,7 +148,8 @@ Nenurodyta
 - id: c-88383
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 350."
   citata_originali: |
     9 d. pasirašė vieno mėnesio paliaubas. Joms pasibaigus, pusbroliai
     vėl žygiavo į Prūsus. Atvykę prie Torno pilies, kur buvo užsidaręs
@@ -169,7 +170,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 195."
   citata_originali: |
     Žalgirio kova, kaip žinom, pasibaigė Torno
     taika (1411), ir žinom, kad tas laimėjimas nugalėtojų nebuvo vi­
@@ -186,7 +188,8 @@ Nenurodyta
 - id: c-88385
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 144."
   citata_originali: |
     Dar kiek laiko karas tęsėsi tarp ordino ir Lenkų, bet 1411 m.
     pagaliau buvo pasirašyta taika. Ordinui ji buvo palyginti leng-
@@ -207,7 +210,8 @@ Nenurodyta
 - id: c-88386
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 350."
   citata_originali: |
     Torno taika ordino ir Lenkijos santykiuose vėl įgalino kryžiuo­
     čiams naudingus Raciąžo susitarimus. Ginčijamos žemės turėjo
@@ -226,9 +230,9 @@ Nenurodyta
     - t-003
 
 - id: c-184837
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 87"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 87."
   citata_originali: |
     Dancigas sugebėdavo įtraukti į prekybos su Kaunu ir su Lietuva
     problemų sprendimą ar bent svarstymą ir kitas regiono politines ir prekybines jėgas

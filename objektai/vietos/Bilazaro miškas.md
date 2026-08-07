@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-800bb459860a655535a375cc"
+canonical_name: "Bilazaro miškas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bilazaro miškas","Bilazaro mišką"]
+sameAs: []
+canonical_biography: "Bilazaro miškas minimas kaip Ažytėnų ganyklos prieiga."
+place_authority: true
+historical_names: []
 ---
 # Bilazaro miškas
 

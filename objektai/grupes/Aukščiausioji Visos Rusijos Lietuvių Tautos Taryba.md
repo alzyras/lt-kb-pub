@@ -48,7 +48,8 @@ Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiaus
 - id: c-176029
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 549"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 549."
   citata_originali: |
     Nepriklausomybės šūkį
     toliau skleidė naujai sukurtoji Voroneže Aukščiausioji Vi-

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-63e02dd18372899b946b5cad"
+canonical_name: "Vilhelmas Gnafėjus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vilhelmas Gnafėjus"]
+sameAs: []
+canonical_biography: "Kitoje skrynioje dar buvo neįrištų protestantų poleminių knygų autoriaus ir dramaturgo Vilhelmo Gnafėjaus (1493-1568) knygų."
 ---
 # Vilhelmas Gnafėjus
 
@@ -51,9 +58,9 @@ Kitoje skrynioje dar buvo neįrištų protestantų poleminių knygų autoriaus i
 ## Citatos
 
 - id: c-185582
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 349"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 349."
   citata_originali: |
     O iš didelių
     buvusi viena vokiška kronika, vieno iškiliausių Renesanso laikų intelektualų Erazmo

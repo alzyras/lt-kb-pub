@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1ce62f38747b8e5766d433de"
+canonical_name: "Gerhardas, pravarde Rudė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gerhardas, pravarde Rudė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tuo tarpu lietuviai savo dievams kaip auką sudegino brolį Gerhardą, pravarde Rudė, Sembos fogtą, apvilktą šarvais ir užsodintą ant savo kovos žirgo579."
 ---
 # Gerhardas, pravarde Rudė
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad tuo tarpu lietuviai savo dievams kaip auką sudegino br
 - id: c-60920
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 215."
   citata_originali: |
     Kiti, nemaža dienų bei naktų klaidžioję be duonos kąsnio
     dykrose, sugrįžo šiaip ne taip namo. Tuo tarpu lietuviai savo dievams kaip auką sudegino

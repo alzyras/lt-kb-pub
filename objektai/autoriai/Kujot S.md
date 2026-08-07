@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-481d6274a1b95215417ac580"
+canonical_name: "Kujot S"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kujot S"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pasakojimą apie krikščionių pergalę kartais linkstama laikyti įvykius pagražinančiu prasimanymu arba vėlesne tradicija (Kujot S., Dzieje Prus..., 1, p. 601)."
 ---
 # Kujot S
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad pasakojimą apie krikščionių pergalę kartais linkst
 - id: c-61366
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74."
   citata_originali: |
     232 Zirgūna (D.— Sirgune, XIII—XIV a. dokumentuose — Sirgun, Syrgen, plg. pr.
     zirgis, lie. žirgas, Žirgupė; vok. Sorge, dab. Dzierzgoń — GAO, p. 158; Būga K., 3, p. 539;

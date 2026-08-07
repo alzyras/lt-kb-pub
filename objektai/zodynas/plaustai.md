@@ -50,7 +50,8 @@ Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ n
 - id: c-82587
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 405"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 405."
   citata_originali: |
     Nederėtų, be
     to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš

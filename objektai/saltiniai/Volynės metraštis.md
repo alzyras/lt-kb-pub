@@ -76,7 +76,8 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
 - id: c-61646
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
   citata_originali: |
     Galop atvyko jo šventenybė Pilypas, Fermo
     vyskupas, apaštališkojo sosto legatas, atsiųstas  į Lenkijos žemę, ir brolis Konradas iš
@@ -94,7 +95,8 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
 - id: c-61647
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
   citata_originali: |
     501 D.— territorium Sudowie [...] Crasimam, Jer.— Crasim; Volynės metraštis —
     Krismence (ПСРЛ, 2, стб. 833); 1259 m. Mindaugo dokumente Cresmen (PUB, 1, 2,

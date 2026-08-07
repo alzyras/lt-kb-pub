@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-834a4a40f773e3442d16da72"
+canonical_name: "Albertas Vijūkas-Kojelavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. KOJELAVIČIAUS","A. Kojelavičius","Albertas Vijūkas-Kojelavičius","Kojalas","Vijūkas-Kojelavičius Albertas"]
+sameAs: []
+canonical_biography: "1644 m. Albertas Vijūkas-Kojelavičius buvo išsiųstas į Braunsbergą dėstyti teologijos. Kojelavičius dalyvavo ordino narių susirinkime Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio tiniu. Biografijos aptarime daroma prielaida, kad jėzuitų ordino vadovybei Albertas Vijūkas-Kojelavičius galėjo būti nepageidautinas."
 ---
 # Albertas Vijūkas-Kojelavičius
 
@@ -162,7 +169,8 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - id: c-167809
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 6."
   citata_originali: |
     1640 m., minint jėzuitų ordino įsteigimo šimto metų
     sukaktį, Vilniaus akademija išleido A. Kojelavičiaus re­
@@ -180,7 +188,8 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - id: c-167813
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 6."
   citata_originali: |
     Šiaip A. Kojelavičiaus biografija rodosi labai nesudė­
     tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­
@@ -197,7 +206,8 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - id: c-167964
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 27."
   citata_originali: |
     Nors veikalas, kur pasaulėžiūra išreiškiama litera­
     tūrine išmone, negalėjo lygiuotis su Vakarų Europos
@@ -222,7 +232,8 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - id: c-176098
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 559"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 559."
   citata_originali: |
     Atvestas pas Ivaną, Konstan­
     tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­

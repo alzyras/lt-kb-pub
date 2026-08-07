@@ -74,7 +74,8 @@ media_all_json: |-
 - id: c-12479
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 48."
   citata_originali: |
     Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo
     pasiuntiniui:
@@ -96,7 +97,8 @@ media_all_json: |-
 - id: c-12480
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 49."
   citata_originali: |
     Ir, užšokęs ant žirgo, paėmė ietį rankon, prijojo prie miesto ir atrėmė savo ietį įsieną, 0
     nujodamas didžiu balsu sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis

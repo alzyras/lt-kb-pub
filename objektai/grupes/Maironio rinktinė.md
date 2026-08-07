@@ -78,7 +78,8 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
 - id: c-44814
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 239."
   citata_originali: |
     Jungtinė Kęstučio apygarda (ku-
     riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir
@@ -103,7 +104,8 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
 - id: c-44815
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 244."
   citata_originali: |
     Rusų nuostoliai nežinomi. Apygradoje
     prasidėjo reorganizacija: Prisikėlimo

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88b449ca89263896d179bfaf"
+canonical_name: "Ilyrija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ilyrija"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakrančių į Ilyriją, kur jie prie Nortbėjos kariavo su romėnais. Narbuto aiškinimu, baimė dėl skitų ar po Skitų karalystės žlugimo judėjusių genčių vertė šią grupę trauktis ir įsikurti Ilyrijoje."
+place_authority: true
+historical_names: []
 ---
 # Ilyrija
 
@@ -80,7 +89,8 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
 - id: c-175611
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     Tačiau esama sunku­
     mų nustatant datą, kada tai galėjo įvykti: kalbėdamas
@@ -109,7 +119,8 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
 - id: c-175612
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 47."
   citata_originali: |
     Tai ir pri­
     vertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net

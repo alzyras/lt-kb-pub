@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-32e1b6fd61a929e9880a06c2"
+canonical_name: "Kojałowicz Kojelavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kojałowicz Kojelavičius"]
+sameAs: []
+canonical_biography: "f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 Samogitia agri."
 ---
 # Kojałowicz Kojelavičius
 
@@ -49,7 +56,8 @@ f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 S
 - id: c-83976
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 63."
   citata_originali: |
     To­
     liau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti

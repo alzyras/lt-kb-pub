@@ -41,11 +41,19 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 <a id="claim-t-60905"></a>
 - t-001
   teiginys: "Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Pagudė: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Glotava: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pagudė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai apibūdina Glotavą kaip Pagudės valsčių."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Glotava priklausė Pagudė (0.88)"
   pagrindžia:
-    - c-61539
+    - c-61542
 
 <a id="claim-t-60909"></a>
 - t-002
@@ -99,7 +107,8 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - id: c-61538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
   citata_originali: |
     Vėliau jos funkcijas perėmė Rasytės pilis, statyta apie
     XIV a. vidurį, o rašytiniuose šaltiniuose minima nuo 1372 m. (Rositen — SRP, 2, p. 102,
@@ -117,7 +126,8 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - id: c-61539
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
 
@@ -135,13 +145,13 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-61541
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
   citata_originali: |
     Čia minimas ežeras ieškotas ir  į
     šiaurę nuo Augustavo (Łowmiański H., Studja..., 2, p. 43). Aprašomas 1279—1280 m.
@@ -158,7 +168,8 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - id: c-61542
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195."
   citata_originali: |
     Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių
     vyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš
@@ -169,7 +180,8 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   citata_rodoma: "Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių\nvyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš\n  553 D.— territorium Giottowie, Jer.— Glottow, valsčius į vakarus nuo Alnos aukštupio,\nvardas išlikęs dab. Glotovo (Głotowo, į šiaurę nuo Olštino) pavadinime. Išlikęs piliakalnis.\nManoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H.,\nStudia..., 2, p. 16, 25; MGP, p. 54)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

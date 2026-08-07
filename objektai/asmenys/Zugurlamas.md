@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5529bdcadf1b09e385a71872"
+canonical_name: "Zugurlamas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zugurlamas"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vadina įžymiu rusų karaliumi, gyvenusiu III amžiuje."
 ---
 # Zugurlamas
 
@@ -55,7 +62,8 @@ Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vad
 - id: c-174370
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     Torfėjas, chronologiškai vardijęs
     danų istorijos įvykius, palygintus su tiksliausiais skaičia­

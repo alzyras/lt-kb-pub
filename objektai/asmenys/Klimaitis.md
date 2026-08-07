@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ec0b19e7c59eacbd74e49c40"
+canonical_name: "Klimaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Klimaitis"]
+sameAs: []
+canonical_biography: "Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis."
 ---
 # Klimaitis
 
@@ -43,7 +50,8 @@ Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis.
 - id: c-41572
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 196."
   citata_originali: |
     Šie sviediniai buvo pripildyti nuodingų dujų. Jie sprogo prie apkasų ir palengva skleidėsi |
     dujos. Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis. Jis staiga pasijuto blogai, |

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-191da63f15b718481eac031e"
+canonical_name: "Karelija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karelija"]
+sameAs: []
+canonical_biography: "Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje, tarp vietinių gyventojų."
+place_authority: true
+historical_names: []
 ---
 # Karelija
 
@@ -43,7 +52,8 @@ Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkt
 - id: c-82173
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 32."
   citata_originali: |
     Juk šis kroniki­
     ninkas pasakoja, kad apie 880 me­

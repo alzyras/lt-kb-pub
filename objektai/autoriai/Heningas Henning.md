@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-10cc905a692bc6f65c9e4f89"
+canonical_name: "Heningas Henning"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Heningas Henning"]
+sameAs: []
+canonical_biography: "Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau Teodoras Narbutas su tokia išvada nesutiko. Heningas Henning sako, kad dar jo laikais apie Drohiciną buvo kalbama jotvingių kalba ir lietuviai negalėdavo nė žodžio suprasti."
 ---
 # Heningas Henning
 
@@ -55,7 +62,8 @@ Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau
 - id: c-174478
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
   citata_originali: |
     Me-
     chovita maišo jotvingių ir lietuvių kilmę. Vis dėlto jis

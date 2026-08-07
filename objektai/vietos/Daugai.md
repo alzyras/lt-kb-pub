@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92debd1308ef1218a267a6f1"
+canonical_name: "Daugai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Daugai"]
+sameAs: []
+canonical_biography: "Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip du sužeisti hutai^13."
+place_authority: true
+historical_names: []
 ---
 # Daugai
 
@@ -147,7 +156,8 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 - id: c-43369
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 193."
   citata_originali: |
     Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.
     Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį
@@ -164,7 +174,8 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 - id: c-108760
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50."
   citata_originali: |
     Kitais
     metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
@@ -194,7 +205,8 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 - id: c-108761
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 180."
   citata_originali: |
     Lenkai stūmė į jų teritoriją įsiveržu-
     sius bolševikus ir neišvengiamai ėmė artėti
@@ -216,7 +228,8 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 - id: c-108762
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 362"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 362."
   citata_originali: |
     Tokis imperatoriaus sprendimas, kuris kryžiuočiams daugiau
     pripažino, negu jie patys per paskutines derybas buvo užsiprašę,
@@ -236,7 +249,8 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 208."
   citata_originali: |
     Be to, jis neturėjo teisės tame krašte statyti pilių
     ir daryti sustiprinimų^2 ). Kai šį sprendimą sužinojo Vytautas ir

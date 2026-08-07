@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c8b1a151b304367f7e07e272"
+canonical_name: "Anicetas Renjė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Renjė","Anicetas Renjė","Medicinos daktaras Renjė","Regnier","Renier","Renjer","Renjė"]
+sameAs: []
+canonical_biography: "Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susijęs su Teodoro Narbuto šeimos ir korespondencijos aplinka. Jis figūruoja kaip Narbuto laiškų adresatas, Narbuto gynėjas periodikoje ir informacijos perdavimo apie istorinius pastebėjimus tarpininkas."
 ---
 # Anicetas Renjė
 
@@ -150,7 +157,8 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
 - id: c-170876
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 497"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 497."
   citata_originali: |
     P. 273* - Išnaša, kuria autorius papildė paragrafą, rengda­
     mas antrąjį LTI leidimą (PEĮ. - L. 164). Šią infor­
@@ -172,7 +180,8 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
 - id: c-170877
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 12."
   citata_originali: |
     Svar­
     bu, kad tik vaizduotės ir dirbtinumo gangrena nesunaikintų
@@ -193,7 +202,8 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
 - id: c-170878
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 274."
   citata_originali: |
     Tik neaišku, koks buvo rezul­
     tatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos? (Medicinos
@@ -212,7 +222,8 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
 - id: c-173729
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 492"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 492."
   citata_originali: |
     (Medicinos
     daktaro

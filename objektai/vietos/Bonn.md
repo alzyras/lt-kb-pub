@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eebe033d6fe05173be4c2b8c"
+canonical_name: "Bonn"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bonn"]
+sameAs: []
+canonical_biography: "Didelę dalį knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Europos istorijos seminarą Bonnos universitete, ir už tą paslaugą dėkoju šio seminaro bendradarbiams. Zenonas Ivinskis Bonn, 1970 m. spalių mėn."
+place_authority: true
+historical_names: []
 ---
 # Bonn
 
@@ -56,7 +65,8 @@ Didelę dalį knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Eu
 - id: c-33809
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 14."
   citata_originali: |
     Tad čia reikėtų dar suminėti daug pavardžių eilės bibliotekų
     ir archyvų pareigūnų, kurie autoriui yra patarnavę. Didelę dalį

@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c574b719d59bf5af057e1ff1"
+canonical_name: "Šiauliai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Saulė","Saulės","Šiauliai","Šiauliuose","Šiaulius","Šiaulių","Šiaulių apylinkėse","Šiaulių žemė","Šiaulių žemėje"]
+sameAs: []
+canonical_biography: "riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo jiems kelią."
+place_authority: true
+historical_names: []
 ---
 # Šiauliai
 
@@ -137,7 +146,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - id: c-12723
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 194."
   citata_originali: |
     Spalio 5 d. plk. Virgoličiaus
     rinktinė iš Kuršėnų per-
@@ -157,7 +167,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - id: c-44078
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 151."
   citata_originali: |
     Pirmoji kovų fazė: Vilniaus
 
@@ -179,7 +190,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - id: c-166193
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 23."
   citata_originali: |
     Iš
     įvairių šaltinių žinoma, kad po plėšimo
@@ -200,7 +212,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - id: c-175990
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 64."
   citata_originali: |
     Pajutę susitelkusią lietuvių ka-
     riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
@@ -218,7 +231,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - id: c-176434
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 10."
   citata_originali: |
     Visus valstybės kūrimus lydėjo kovos ir mūšiai. Mindaugo ir
     vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių or-
@@ -235,9 +249,9 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - t-005
 
 - id: c-185030
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 389"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 389."
   citata_originali: |
     Kiti miestai turėjo mokėti kur kas mažiau, daugiausia Brestas ir Kije-
     vas, - po 200 kapų grašių, Minskas, Mogiliavas, Pinskas - po 150 kapų grašių, Gar-

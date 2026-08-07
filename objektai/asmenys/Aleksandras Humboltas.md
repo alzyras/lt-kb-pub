@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dc4e3c84d24e03232a2cd64c"
+canonical_name: "Aleksandras Humboltas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Humboltas"]
+sameAs: []
+canonical_biography: "Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Žemės rutulys buvo karštas tarsi raudonai įkaitinta geležis. Narbutas Aleksandro Humbolto veikalus apie Žemės temperatūros kitimą siejo su prielaida, kad Šiaurėje labai seniai būta gyventojų. Narbutas Humboltui priskiria aiškinimą, kad tropikų augalija ir gyvūnija senovės Šiaurėje atsirado dėl ten išsiskyrusios šilumos."
 ---
 # Aleksandras Humboltas
 
@@ -124,7 +131,8 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
 - id: c-174124
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 36."
   citata_originali: |
     Humboltas** tvirtina, jog, kai skystoji materija staiga
     atsiskyrė nuo kietosios, Žemės rutulyje atsirado tiek ener­
@@ -142,7 +150,8 @@ Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Že
 - id: c-174126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 340."
   citata_originali: |
     Todėl viskas prasidėjo nuo Siaurės, nes prie
     pusiaujo dėl karščio niekas negalėjo augti. Tai taip pat

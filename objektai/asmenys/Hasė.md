@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6ba4034738aca59058adf35d"
+canonical_name: "Hasė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hasė"]
+sameAs: []
+canonical_biography: "Narbuto vertinimu Hasės mažai žinoma knyga rodė, kad iš žodžių nagrinėjimo galima išvesti beveik bet kokias žinias. Siūlau dar Hasės mažai žinomą ir dar mažiau nagrinėtą knygą, kuri, mano galva, akivaizdžiai parodo, kad, rezgant žinias iš žodžių nagrinėjimo, viskas tikrai įmanoma1."
 ---
 # Hasė
 
@@ -65,7 +72,8 @@ Narbuto vertinimu Hasės mažai žinoma knyga rodė, kad iš žodžių nagrinėj
 - id: c-174290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
   citata_originali: |
     Bet jau pakanka šių svaičiojimų. Siūlau dar Hasės
     mažai žinomą ir dar mažiau nagrinėtą knygą, kuri, mano

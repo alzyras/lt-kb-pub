@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-50c0f9d8a3900b867eb91163"
+canonical_name: "Usviatai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Usviatai"]
+sameAs: []
+canonical_biography: "1580 m. dalyvavo paimant Veližo, Didžiųjų Lukų, Usviatų, Jezeriščės tvirtoves."
+place_authority: true
+historical_names: []
 ---
 # Usviatai
 
@@ -61,7 +70,8 @@ media_all_json: |-
 - id: c-77321
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 96."
   citata_originali: |
     K. Radvila savo netikėtais antpuo-
     liais kaustė rusų kariuomenės veiksmus, taip padė-

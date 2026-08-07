@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8f84a39ed0ac4d5323d4c0b2"
+canonical_name: "Vilkaviškio apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilkaviškio apskritis"]
+sameAs: []
+canonical_biography: "X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps. ŽIŪRŲ-GUDELIŲ KAUTYNĖS 1950 m. birželio 22-23 d. Vilkaviškio aps."
+place_authority: true
+historical_names: []
 ---
 # Vilkaviškio apskritis
 
@@ -78,7 +87,8 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps. ŽIŪRŲ-GUDELI
 - id: c-43990
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     X GULBINIŠKIŲ KAUTYNĖS
 
@@ -96,7 +106,8 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps. ŽIŪRŲ-GUDELI
 - id: c-45409
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     X. ŽIŪRŲ-GUDELIŲ KAUTYNĖS
 

@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d9347e969bf8f3c8b6538b1b"
+canonical_name: "Mikalojus Radvila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Radvila"]
+sameAs: []
+canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką man derėjo parašyti, nutariau išdėstyti jums, ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ — Rotundas (Augustinas Mieleckis), Vilniaus vaitas, Mikalojui Radvilai 1560 m. vasario 12 dieną. Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus vaivadai Mikalojui Radvilai. Be to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­ čių fundacijos: Vilniaus vaivada ir LDK kancleris Mikalojus Radvila, Aleksandro laikais, apie 1514 metus, ties Kłecku prieš totorius pasiektai pergalei atminti savo žemėje už miesto ant kalnelio."
 ---
 # Mikalojus Radvila
 
@@ -211,7 +218,8 @@ media_all_json: |-
 - id: c-169712
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196."
   citata_originali: |
     Sklypas tas ir mūrinis namas, kuriame yra spaustu­
     vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui.
@@ -229,7 +237,8 @@ media_all_json: |-
 - id: c-169713
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 290."
   citata_originali: |
     Taip pat, kad miesto
     gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­
@@ -255,7 +264,8 @@ media_all_json: |-
 - id: c-169715
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 373."
   citata_originali: |
     Uždėtas mažasis antspaudas, vaiz­
     duojantis Vytį su aplink neįskaitoma legenda.
@@ -279,7 +289,8 @@ media_all_json: |-
 - id: c-169716
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     Prasidėjo mūšis, ilgą laiką pergalė nekrypo nei
     į vieną, nei į kitą pusę, nes abi šalys turėjo tiek pat
@@ -300,7 +311,8 @@ media_all_json: |-
 - id: c-169718
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 282."
   citata_originali: |
     Be
     to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­
@@ -322,7 +334,8 @@ media_all_json: |-
 - id: c-169719
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 16-17"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 16-17."
   citata_originali: |
     13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
     p. 128.
@@ -354,7 +367,8 @@ media_all_json: |-
 - id: c-178767
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 607"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 607."
   citata_originali: |
     Nio­
     kotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­
@@ -379,7 +393,8 @@ media_all_json: |-
 - id: c-178768
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 632"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 632."
   citata_originali: |
     Skitas Mengli Girėjus, pakviestas už
     mokamą atlyginimą į šį karo žygį, įsikūrė su kariais
@@ -402,9 +417,9 @@ media_all_json: |-
     - t-008
 
 - id: c-184884
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 100"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 100."
   citata_originali: |
     Štai per 1520-1521 m. Lenkijos
     ir Vokiečių ordino karą keliai per Vokiečių ordino valstybę buvo uždaryti. Pačiame

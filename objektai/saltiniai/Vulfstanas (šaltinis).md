@@ -46,9 +46,9 @@ Visa tą, ką čia dabar Vulfstanas pasakojo savo amžiuj, patvirtina paskesniej
 ## Citatos
 
 - id: c-184803
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 50"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 50."
   citata_originali: |
     Žemaičiai mokėję šaltį padirbti, dėl ko gi jų
     lavonai taip ilgai laikomi negedę: kaipo 2 bački

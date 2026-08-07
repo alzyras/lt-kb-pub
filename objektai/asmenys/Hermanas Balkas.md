@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-36ef7d337b802a1634738225"
+canonical_name: "Hermanas Balkas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hermanas Balkas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro pareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1, 6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra. Dusburgietis teigia, kad apie brolį Hermaną, pirmų Teutonų namų ordino magistrą Prūsijos žemėje Brolis Hermanas, vadinamas Balkų, pirmas šventosios Marijos Teutonų namų Jeruzalėje ligoninės ordino magistras Prūsijos žemėje, vadovavo dvylika metų. Dusburgietis teigia, kad po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku, Prūsijos žemės magistrą, su keturiasdešimt brolių ir daugybe ginklanešių į Livonijos žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus."
 ---
 # Hermanas Balkas
 
@@ -136,7 +143,8 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
 - id: c-85741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 51."
   citata_originali: |
     12 (10). Apie brolį Hermaną, pirmų Teutonų namų ordino magistrą Prūsijos žemėje
     Brolis Hermanas, vadinamas Balkų, pirmas šventosios Marijos Teutonų namų
@@ -156,7 +164,8 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
 - id: c-85742
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 83."
   citata_originali: |
     Šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė
     mūsų minėtus brolius Gerlachą ir Joną šventosios Marijos Teutonų namų ligoninės ordino
@@ -180,7 +189,8 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
 - id: c-85743
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 50."
   citata_originali: |
     11 (9). Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­
     ta Nesavos pilis
@@ -204,7 +214,8 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
 - id: c-85744
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 50."
   citata_originali: |
     Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­
     ta Nesavos pilis

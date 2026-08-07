@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8f5836206fdbe3a1d3d13dc4"
+canonical_name: "Paszkiewicz H"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Paszkiewicz H"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153). Dusburgietis teigia, kad sis antpuolis, matyt, susijęs su Traidenio politika vakaruose (Paszkiewicz H., Jagiellonowie.., p. 130—131)."
 ---
 # Paszkiewicz H
 
@@ -79,7 +86,8 @@ Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaug
 - id: c-65405
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
   citata_originali: |
     445 Greičiausiai su Skomanto sūduviais žygiavo kariai iš Gardino ar Naugarduko
     žemių, pavaldžių Lietuvai. Sis antpuolis, matyt, susijęs su Traidenio politika vakaruose
@@ -96,7 +104,8 @@ Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaug
 - id: c-65406
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
   citata_originali: |
     Apie daugy­
                                   bės krikščionių žūtį

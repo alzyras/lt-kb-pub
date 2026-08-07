@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5ec8f50a6e7beb29facb638a"
+canonical_name: "Prilvicas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Prilvicas"]
+sameAs: []
+canonical_biography: "Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir laikė Retrą pirmykščiu herulų miestu. Narbutas teigia, kad dievo Santvara stabas rastas Prilvice su užrašu runomis Swaistix29, kur tarp 72 stabų, atkastų žemėje, tikriausiai ne vie nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotritai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo mis30."
+place_authority: true
+historical_names: []
 ---
 # Prilvicas
 
@@ -73,7 +82,8 @@ Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir 
 - id: c-171854
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 265."
   citata_originali: |
     Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
     dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
@@ -94,7 +104,8 @@ Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir 
 - id: c-177140
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
   citata_originali: |
     Buvo ir lietuvių valdo­
     vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-

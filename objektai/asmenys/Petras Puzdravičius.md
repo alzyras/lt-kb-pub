@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-feaf8b5bd7e1bb8fc4a94e7c"
+canonical_name: "Petras Puzdravičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Puzdravičius"]
+sameAs: []
+canonical_biography: "Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, į ilgį besitęsiančia įstrižai prieglaudos sklypo iki Petro Puzdravičiaus ir Povilo Piestavičiaus, piliečių, Maloningiausiojo Vilniaus vyskupo valdinių, namo galo, per šimtą arba 34 uo­."
 ---
 # Petras Puzdravičius
 
@@ -50,7 +57,8 @@ Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, �
 - id: c-83807
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 406"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 406."
   citata_originali: |
     Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba
     vartų į prieglaudos namus, esančių iš gatvės priešais šv. Dva­

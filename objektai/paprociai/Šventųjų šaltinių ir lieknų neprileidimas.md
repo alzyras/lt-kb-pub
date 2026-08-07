@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-09983
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 147"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 147."
   citata_originali: |
     „Lig šiai dienai žemaičiai būtinai su mumis (krikščionimis) vienokią nuomonę visame turi, tiktai neleidžia artintis
         krikščionių prie pačių savo šaltenių ir lieknų, idant jų krikščionys neįurštų^682 ir

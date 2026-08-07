@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-22896be2294210b0afa9d6a2"
+canonical_name: "C. R. Jurgėla"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["C. R. Jurgėla"]
+sameAs: []
+canonical_biography: "Jurgėla: History of the Lithuanian Nation, New York 1948. Jurgėla, C."
 ---
 # C. R. Jurgėla
 
@@ -60,7 +67,8 @@ Jurgėla: History of the Lithuanian Nation, New York 1948. Jurgėla, C.
 - id: c-30468
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 351."
   citata_originali: |
     — Jurgėla, C. R. : _Tannenberg_ ( _Eglija-
     Grunwald) 15 July 1410,_ Chicago 1961. — Koehler, G. : _Die Ent­

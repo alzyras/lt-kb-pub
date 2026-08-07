@@ -57,7 +57,8 @@ Du mediniai ir trys geležiniai kryžiai/ Atsiminimai iš Lietuvos nepriklausomy
 - id: c-41683
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
   citata_originali: |
     NEPRIKLAUSOMYBĖS KOVOS
 

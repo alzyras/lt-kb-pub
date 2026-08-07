@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-08696d7c4a13ba4650706a3f"
+canonical_name: "Ona (Petro žmona, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ona","Ona (Petro žmona, XIX a.)"]
+sameAs: []
+canonical_biography: "Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau kaip jo žmona, dėl kurios vargingumo Petrui buvo prikaišiojama nesidalyti brolio žemės."
 ---
 # Ona (Petro žmona, XIX a.)
 

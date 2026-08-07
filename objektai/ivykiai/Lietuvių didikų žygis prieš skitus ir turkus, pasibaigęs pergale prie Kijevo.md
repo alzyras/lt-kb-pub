@@ -99,7 +99,8 @@ Nenurodyta
 - id: c-168965
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 652"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 652."
   citata_originali: |
     Ostrogiškis,
     gavęs žinią, kad skitai bei turkai patraukė į žygį Po-

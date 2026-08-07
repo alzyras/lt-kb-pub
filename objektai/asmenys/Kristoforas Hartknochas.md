@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7420cade036b00929ad16231"
+canonical_name: "Kristoforas Hartknochas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristoforas Hartknochas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumentuotai laikė tuo pačiu žemės dievu. Pasak Narbuto cituojamo Hartknocho, kryžiuočiai užėmė šventąją vietą Dybove ir ten įkūrė Senąją Torunę. Hartknochas pateikė duomenų apie Insterburgo valsčiaus šventąją pušį Romutą arba Ruombotą, kurią 1664 metais suskaldė žaibas."
 ---
 # Kristoforas Hartknochas
 
@@ -37,7 +44,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 <a id="claim-t-189970"></a>
 - t-001
   teiginys: "Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumentuotai laikė tuo pačiu žemės dievu."
-  atnaujinta: "2026-07-19 20:03"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,7 +57,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 <a id="claim-t-189971"></a>
 - t-002
   teiginys: "Pasak Narbuto cituojamo Hartknocho, kryžiuočiai užėmė šventąją vietą Dybove ir ten įkūrė Senąją Torunę."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,7 +70,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 <a id="claim-t-189972"></a>
 - t-003
   teiginys: "Hartknochas pateikė duomenų apie Insterburgo valsčiaus šventąją pušį Romutą arba Ruombotą, kurią 1664 metais suskaldė žaibas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -196,15 +203,22 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 <a id="claim-t-189979"></a>
 - t-010
   teiginys: "Narbutas nurodė, kad Hartknochas abejojo, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristoforas Hartknochas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristoforas Hartknochas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-179174
+    - c-172862
 
 <a id="claim-t-189981"></a>
 - t-011
@@ -249,16 +263,22 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 <a id="claim-t-189984"></a>
 - t-013
   teiginys: "Narbutas nurodė, kad pasakojimą apie ypatingą vėliavos užrašą iš Grunau perėmė Henenbergeris ir Hartknochas."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vėliavos: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristoforas Hartknochas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vėliavos: mention_match, thing, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristoforas Hartknochas\" parinktas kaip owner_note_path. Targetas \"Vėliavos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172857
-    - c-179174
+    - c-172867
 
 <a id="claim-t-194712"></a>
 - t-014
@@ -351,7 +371,8 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 - id: c-172853
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
   citata_originali: |
     Dar
     jis turėjo aukurą, arba akmeni, esantį tarp Frauenburgo ir Tol-
@@ -371,7 +392,8 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 - id: c-172854
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
   citata_originali: |
     Anksčiau, kai tas medis žaliavo ir turėjo žievę, jis
     prie žemės buvo dvidešimt septynių uolekčių apimties (vadi­
@@ -392,7 +414,8 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 - id: c-172855
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 240."
   citata_originali: |
     Toliau klausinėjant, pavyko išgirsti pasakojimą
     apie šventąją blindę. Viena moteris, besivadinanti Blinde (Blin­
@@ -415,7 +438,8 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 - id: c-172856
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Krikščionims iš smalsumo buvo
     draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
@@ -439,7 +463,8 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 - id: c-172857
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 265."
   citata_originali: |
     Treteris Jono I, Varmijos
     vyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur
@@ -457,12 +482,12 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-013
 
 - id: c-172858
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 268."
   citata_originali: |
     Šventyklos aptvaro vi­
     duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
@@ -483,7 +508,8 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 - id: c-172859
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 278."
   citata_originali: |
     Todėl plačios galimybės maitintis visuomenės lengvatikiš­
     kumu leido laikyti daug žynių.
@@ -506,7 +532,8 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 - id: c-172860
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
   citata_originali: |
     Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir
     susijuosdavo balta drobine skara.
@@ -527,7 +554,8 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 - id: c-172861
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
   citata_originali: |
     Iš šventojo
     Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė­
@@ -550,7 +578,8 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 - id: c-172862
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 309."
   citata_originali: |
     Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
     ligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­
@@ -561,14 +590,17 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   citata_rodoma: "Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­\nligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­\nrinėjimai, nors tas istorikas, atrodo, abejoja, ar prūsai mokėjo\ndaryti alų iki atsikraustant kryžiuočiams. Paneigimui pakanka\npasakyti, kad B lefo tikrai nepažino, bet savo alų darė labai\nsenu papročiu4."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 - id: c-172864
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
   citata_originali: |
     V skyrius
     ŠVENTĖS, IŠKILMĖS
@@ -590,7 +622,8 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 - id: c-172866
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 359."
   citata_originali: |
     Draugystės, svetingumo, santai­
     kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­
@@ -614,7 +647,8 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 - id: c-172867
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Ant tos vėliavos
     buvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­
@@ -623,14 +657,17 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   citata_rodoma: "Ant tos vėliavos\nbuvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­\ntelės 41-ą piešinį. Iš Grunau perėmė Henenbergeris irHartkno-\n6 Hartknoch."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
 - id: c-177108
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
   citata_originali: |
     Kad nuramintume žmoniškumo gynėjus, turime
     16
@@ -649,7 +686,8 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 - id: c-177109
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 349."
   citata_originali: |
     Kartais, tik­
     riausiai kaip apgavikiškus monus, žmonėms rodydavo baisias
@@ -670,7 +708,8 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
 - id: c-179174
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
   citata_originali: |
     Nežinia, dėl kurios priežasties, nes jei dėl žodžių
     panašumo, tai jis apsiriko: lietuviai jo nevadino kitaip, kaip
@@ -691,14 +730,13 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-010
-    - t-013
     - t-017
 
 - id: c-179175
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 435"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
   citata_originali: |
     Pagaliau atsirado tikrasis Biarmijos apaštalas -
     šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,

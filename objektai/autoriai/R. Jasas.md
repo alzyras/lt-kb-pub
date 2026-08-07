@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-98a60800fb523e7ae047f1e2"
+canonical_name: "R. Jasas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["R. Jasas"]
+sameAs: []
+canonical_biography: "Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip R. J a s a s : Didysis prūsų sukilimas 1260-1274 m. (1959), M."
 ---
 # R. Jasas
 
@@ -69,7 +76,8 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
 - id: c-65424
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
     S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,
@@ -86,7 +94,8 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
 - id: c-65425
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
   citata_originali: |
     12  Jablonskis K. Istorija ir jos šaltiniai, p. 132—136 (apie skalvių lietuviškumą);
     Jasas R. Didysis..., p. 13; Tautavičius A. Mūsų giminaičiai..., p. 17—22; MLTE, t. 3, p.
@@ -100,7 +109,8 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
 - id: c-65426
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 84."
   citata_originali: |
     LTSR Mokslų
     Akademijos Istorijos Institutas leidžia kas antri metai knygas :

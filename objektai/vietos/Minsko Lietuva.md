@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0fe871b110b93bdc443a22e4"
+canonical_name: "Minsko Lietuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Minsko Lietuva","rusėnų Lietuva"]
+sameAs: []
+canonical_biography: "Minsko Lietuva šiame leidinyje minima kaip į rytus nuo Vidurinės Lietuvos buvusių senųjų rusėniškųjų LDK žemių pavadinimas; moderniosios Lietuvos kūrėjai į ją nebepretendavo."
+place_authority: true
+historical_names: []
 ---
 # Minsko Lietuva
 
@@ -168,7 +177,8 @@ Nenurodyta
 - id: c-16572
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
     suformuota „Vidurinė Lietuva“. Remiantis tokia lenkiška Lietuvos sam-
@@ -189,7 +199,8 @@ Nenurodyta
 - id: c-16573
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Iš tikrųjų tai buvo lenkiška Lietuvos
     samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano
@@ -211,7 +222,8 @@ Nenurodyta
 - id: c-16590
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Remiantis tokia lenkiška Lietuvos sam-
     prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
@@ -232,7 +244,8 @@ Nenurodyta
 - id: c-74482
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Lenkijos valia vykusiuose rinkimuose gen. Liucijano
     Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-

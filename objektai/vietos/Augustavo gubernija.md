@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac1480e837d4140fe1cf63bd"
+canonical_name: "Augustavo gubernija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Augustavo gubernija"]
+sameAs: []
+canonical_biography: "Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 101 klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Suvalkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos."
+place_authority: true
+historical_names: []
 ---
 # Augustavo gubernija
 
@@ -106,7 +115,8 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
 - id: c-156101
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Per 1863 metus atkakliausiai sukilėliai ko-
     vėsi su caro kariuomene Kauno gubernijoje,
@@ -132,7 +142,8 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
 - id: c-156102
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Kovo 27 d. ties
     Surviliškio valsčiaus Naujaberžės kaimu
@@ -159,7 +170,8 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
 - id: c-166976
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 100-101"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 100-101."
   citata_originali: |
     Nuo ketvirtojo dešimtmečio rusiška administracinio teritorinio val-
     dymo sistema įvesta ir Kongresinėje Lenkijoje. Lietuvos Užnemunė pri-

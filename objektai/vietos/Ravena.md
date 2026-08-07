@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-58ec4fb641ff1e2a4d5e08f6"
+canonical_name: "Ravena"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ravena"]
+sameAs: []
+canonical_biography: "Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, turėjusią gerą susisiekimą su jūra apsiaustiesiems. 493 metų kovo 5 dieną gotai Ravenoje ir jos apylinkėse netikėtai puolė herulus ir daug jų išžudė. Ravena buvo erdvesnė ir viskuo geriau aprūpinta, turėjo gerą susisiekimą su jūra ir galėjo suteikti apsiaustiesiems nepalyginti palankesnes sąlygas."
+place_authority: true
+historical_names: []
 ---
 # Ravena
 
@@ -116,7 +125,8 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
 - id: c-175600
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
   citata_originali: |
     Ra-
     vena buvo erdvesnė ir viskuo geriau aprūpinta, turėjo
@@ -138,7 +148,8 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
 - id: c-175601
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
   citata_originali: |
     Bet jis, trokšdamas vienvaldystės ir kupi­
     nas juodo pavydo, nepasibjaurėjo netrukus po paliaubų
@@ -161,7 +172,8 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
 - id: c-179394
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
   citata_originali: |
     Netikėtai
     gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­

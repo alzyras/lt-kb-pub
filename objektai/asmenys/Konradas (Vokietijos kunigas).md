@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-de288af1ee2caace18b943a7"
+canonical_name: "Konradas (Vokietijos kunigas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas (Vokietijos kunigas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių atversti 1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė į Lietuvos kraštą atversti stabmeldžių."
 ---
 # Konradas (Vokietijos kunigas)
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad apie tai, kaip žuvo Konradas, Vokietijos kunigas, pers
 - id: c-60995
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241."
   citata_originali: |
     Apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių
                                               atversti

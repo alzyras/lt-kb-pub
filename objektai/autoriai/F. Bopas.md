@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-833750472e093e2d58298896"
+canonical_name: "F. Bopas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["F. Bopas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Dusburgietis teigia, kad 6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...; Endzelīns J. Senprūšu valoda; Būga K. Rinktiniai raštai, t. 1, 3; Mikalauskaitė E. Priešreformacinių...,.p. 102—106; Matusevičiūtė I. Kiek naujos medžiagos..., p. 10—18."
 ---
 # F. Bopas
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H
 - id: c-65275
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...;
     Endzelīns  J. Senprūšu valoda; Būga K. Rinktiniai raštai,  t. 1, 3; Mikalauskaitė E.

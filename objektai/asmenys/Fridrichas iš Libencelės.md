@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c417ebab9c085cb6512f777"
+canonical_name: "Fridrichas iš Libencelės (vyskupas, XIV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas iš Libencelės","Fridrichas iš Libencelės (vyskupas, XIV a.)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta, Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei, taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė į Bartenšteino pilį ir. Dusburgietis teigia, kad apie 80 lietuvių žūtį 1316 metais Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies, turėjo iš čia pasitraukti, o į jų vietą ateiti. Dusburgietis teigia, kad antra kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150 vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir."
 ---
 # Fridrichas iš Libencelės (vyskupas, XIV a.)
 
@@ -94,11 +101,18 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 <a id="claim-t-59956"></a>
 - t-004
   teiginys: "Brolis Fridrichas iš Libencelės buvo paimtas į nelaisvę, kai Stanta su bendrais klastingai įsibrovė į Bartenšteino pilį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bartenšteinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fridrichas iš Libencelės (vyskupas, XIV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Bartenšteinas: mention_match, place, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridrichas iš Libencelės (vyskupas, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Bartenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60587
+    - c-60588
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -144,7 +158,8 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - id: c-60585
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
     328 (321). Apie 80 lietuvių žūtį 1316 metais
     Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir
@@ -164,7 +179,8 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - id: c-60586
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 222-223"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 222-223."
   citata_originali: |
     Tais pačiais metais ir tuo pat laiku Eberhardas,
     Varmės vyskupas, brolio Fridricho iš Libencelės, savo fogto, pastangomis pastatydino
@@ -193,7 +209,8 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - id: c-60587
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
     Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
@@ -215,12 +232,12 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
 
 - id: c-60588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
   citata_originali: |
     Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,
     Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,
@@ -231,7 +248,8 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   citata_rodoma: "Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,\nTrinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,\ntaip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė  į\nBartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš\nLibencelės su visa jų šeimyna. Tuo tarpu Misinas su Sklunijos valsčiaus547 vyrais pagrobė\nKaraliaučiaus brolių arklius."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

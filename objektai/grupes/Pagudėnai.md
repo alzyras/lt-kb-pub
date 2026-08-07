@@ -27,13 +27,13 @@ media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AMedieval
 media_primary_directness: 'direct'
 media_primary_relation_type: 'map_of'
 media_primary_json: |-
-  {"mediaId":"m-8b2cf3af7c84903b1632d561","title":"Medieval Baltic Tribes 12 century.jpg","caption":"Pagudėnų (Pogesania) teritorija baltų genčių žemėlapyje apie 1200 m.","originalTitle":"Medieval Baltic Tribes 12 century.jpg","creator":"Marcin Engel, Cezary Sobczak","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"\"Jaćwingowie. Zapomniani wojownicy / Yatvings. The forgoten warriors\" , Warsaw 2015","dateDisplay":"1200","dateStart":null,"dateEnd":null,"width":1710,"height":1732,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMedieval_Baltic_Tribes_12_century.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"gentis","label":"gentis","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Aukštaitija","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Baltic peoples","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Bartia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Courland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Prussians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Powiśle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Yotvingia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltic Tribes in 1200","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltics in the 13th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing the 1220s","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Natangia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pogesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pomesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Prussian Crusade","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sasna","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"State of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Yatvings. The Forgotten Warriors exhibition","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Pagudėnai.md","title":"Pagudėnai","itemType":"grupe","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:59:09.215335+03:00","reviewedAt":"2026-07-18T17:59:28.196684+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis baltų genčių žemėlapis; jame pažymėta Pogezanijos/Pagudės sritis bei gretimos žemės, įskaitant Pomezania ir Warmia.","metadataEvidence":"Kandidato pavadinimas ir aprašas nurodo baltų genčių žemėlapį apie 1200 m.; Wikimedia Commons metaduomenyse kaip atitikmuo pateiktas aliasas „Pogesania“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai yra istorinis žemėlapis, kuriame pavaizduota konkreti Pagudėnų/Pogesania teritorija.","isPrimary":1}
+  {"mediaId":"m-8b2cf3af7c84903b1632d561","title":"Medieval Baltic Tribes 12 century.jpg","caption":"Pagudėnų (Pogesania) teritorija baltų genčių žemėlapyje apie 1200 m.","originalTitle":"Medieval Baltic Tribes 12 century.jpg","creator":"Marcin Engel, Cezary Sobczak","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"\"Jaćwingowie. Zapomniani wojownicy / Yatvings. The forgoten warriors\" , Warsaw 2015","dateDisplay":"1200","dateStart":null,"dateEnd":null,"width":1710,"height":1732,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMedieval_Baltic_Tribes_12_century.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"gentis","label":"gentis","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Aukštaitija","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Baltic peoples","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Bartia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Courland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Prussians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Powiśle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Yotvingia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltic Tribes in 1200","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltics in the 13th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing the 1220s","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Natangia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pogesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pomesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Prussian Crusade","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sasna","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"State of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Yatvings. The Forgotten Warriors exhibition","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Pagudėnai.md","title":"Pagudėnai","itemType":"grupe","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:59:09.215335+03:00","reviewedAt":"2026-07-18T17:59:28.196684+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis baltų genčių žemėlapis; jame pažymėta Pogezanijos/Pagudės sritis bei gretimos žemės, įskaitant Pomezania ir Warmia.","metadataEvidence":"Kandidato pavadinimas ir aprašas nurodo baltų genčių žemėlapį apie 1200 m.; Wikimedia Commons metaduomenyse kaip atitikmuo pateiktas aliasas „Pogesania“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai yra istorinis žemėlapis, kuriame pavaizduota konkreti Pagudėnų/Pogesania teritorija.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-8b2cf3af7c84903b1632d561","title":"Medieval Baltic Tribes 12 century.jpg","caption":"Pagudėnų (Pogesania) teritorija baltų genčių žemėlapyje apie 1200 m.","originalTitle":"Medieval Baltic Tribes 12 century.jpg","creator":"Marcin Engel, Cezary Sobczak","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"\"Jaćwingowie. Zapomniani wojownicy / Yatvings. The forgoten warriors\" , Warsaw 2015","dateDisplay":"1200","dateStart":null,"dateEnd":null,"width":1710,"height":1732,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMedieval_Baltic_Tribes_12_century.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"gentis","label":"gentis","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Aukštaitija","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Baltic peoples","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Bartia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Courland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Prussians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Powiśle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Yotvingia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltic Tribes in 1200","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltics in the 13th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing the 1220s","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Natangia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pogesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pomesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Prussian Crusade","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sasna","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"State of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Yatvings. The Forgotten Warriors exhibition","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Pagudėnai.md","title":"Pagudėnai","itemType":"grupe","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:59:09.215335+03:00","reviewedAt":"2026-07-18T17:59:28.196684+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis baltų genčių žemėlapis; jame pažymėta Pogezanijos/Pagudės sritis bei gretimos žemės, įskaitant Pomezania ir Warmia.","metadataEvidence":"Kandidato pavadinimas ir aprašas nurodo baltų genčių žemėlapį apie 1200 m.; Wikimedia Commons metaduomenyse kaip atitikmuo pateiktas aliasas „Pogesania“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai yra istorinis žemėlapis, kuriame pavaizduota konkreti Pagudėnų/Pogesania teritorija.","isPrimary":1}]
+  [{"mediaId":"m-8b2cf3af7c84903b1632d561","title":"Medieval Baltic Tribes 12 century.jpg","caption":"Pagudėnų (Pogesania) teritorija baltų genčių žemėlapyje apie 1200 m.","originalTitle":"Medieval Baltic Tribes 12 century.jpg","creator":"Marcin Engel, Cezary Sobczak","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"\"Jaćwingowie. Zapomniani wojownicy / Yatvings. The forgoten warriors\" , Warsaw 2015","dateDisplay":"1200","dateStart":null,"dateEnd":null,"width":1710,"height":1732,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMedieval_Baltic_Tribes_12_century.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"gentis","label":"gentis","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Aukštaitija","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Baltic peoples","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Bartia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Courland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Prussians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Powiśle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Yotvingia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltic Tribes in 1200","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltics in the 13th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing the 1220s","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Natangia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pogesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pomesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Prussian Crusade","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sasna","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"State of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Yatvings. The Forgotten Warriors exhibition","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Pagudėnai.md","title":"Pagudėnai","itemType":"grupe","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:59:09.215335+03:00","reviewedAt":"2026-07-18T17:59:28.196684+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis baltų genčių žemėlapis; jame pažymėta Pogezanijos/Pagudės sritis bei gretimos žemės, įskaitant Pomezania ir Warmia.","metadataEvidence":"Kandidato pavadinimas ir aprašas nurodo baltų genčių žemėlapį apie 1200 m.; Wikimedia Commons metaduomenyse kaip atitikmuo pateiktas aliasas „Pogesania“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai yra istorinis žemėlapis, kuriame pavaizduota konkreti Pagudėnų/Pogesania teritorija.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-8b2cf3af7c84903b1632d561","title":"Medieval Baltic Tribes 12 century.jpg","caption":"Pagudėnų (Pogesania) teritorija baltų genčių žemėlapyje apie 1200 m.","originalTitle":"Medieval Baltic Tribes 12 century.jpg","creator":"Marcin Engel, Cezary Sobczak","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"\"Jaćwingowie. Zapomniani wojownicy / Yatvings. The forgoten warriors\" , Warsaw 2015","dateDisplay":"1200","dateStart":null,"dateEnd":null,"width":1710,"height":1732,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMedieval_Baltic_Tribes_12_century.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"gentis","label":"gentis","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Aukštaitija","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Baltic peoples","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Bartia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Courland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Prussians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Powiśle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Yotvingia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltic Tribes in 1200","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltics in the 13th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing the 1220s","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Natangia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pogesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pomesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Prussian Crusade","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sasna","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"State of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Yatvings. The Forgotten Warriors exhibition","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Pagudėnai.md","title":"Pagudėnai","itemType":"grupe","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:59:09.215335+03:00","reviewedAt":"2026-07-18T17:59:28.196684+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis baltų genčių žemėlapis; jame pažymėta Pogezanijos/Pagudės sritis bei gretimos žemės, įskaitant Pomezania ir Warmia.","metadataEvidence":"Kandidato pavadinimas ir aprašas nurodo baltų genčių žemėlapį apie 1200 m.; Wikimedia Commons metaduomenyse kaip atitikmuo pateiktas aliasas „Pogesania“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai yra istorinis žemėlapis, kuriame pavaizduota konkreti Pagudėnų/Pogesania teritorija.","isPrimary":1}]
+  [{"mediaId":"m-8b2cf3af7c84903b1632d561","title":"Medieval Baltic Tribes 12 century.jpg","caption":"Pagudėnų (Pogesania) teritorija baltų genčių žemėlapyje apie 1200 m.","originalTitle":"Medieval Baltic Tribes 12 century.jpg","creator":"Marcin Engel, Cezary Sobczak","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"\"Jaćwingowie. Zapomniani wojownicy / Yatvings. The forgoten warriors\" , Warsaw 2015","dateDisplay":"1200","dateStart":null,"dateEnd":null,"width":1710,"height":1732,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMedieval_Baltic_Tribes_12_century.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Medieval_Baltic_Tribes_12_century.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"gentis","label":"gentis","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"prūsija","label":"prūsija","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Aukštaitija","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Baltic peoples","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Bartia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Lithuanians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Courland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Old Prussians","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Powiśle","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Yotvingia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltic Tribes in 1200","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Baltics in the 13th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the history of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps showing the 1220s","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Natangia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pogesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pomesania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Prussian Crusade","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sasna","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"State of the Teutonic Order","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Yatvings. The Forgotten Warriors exhibition","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Pagudėnai.md","title":"Pagudėnai","itemType":"grupe","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:59:09.215335+03:00","reviewedAt":"2026-07-18T17:59:28.196684+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis baltų genčių žemėlapis; jame pažymėta Pogezanijos/Pagudės sritis bei gretimos žemės, įskaitant Pomezania ir Warmia.","metadataEvidence":"Kandidato pavadinimas ir aprašas nurodo baltų genčių žemėlapį apie 1200 m.; Wikimedia Commons metaduomenyse kaip atitikmuo pateiktas aliasas „Pogesania“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai yra istorinis žemėlapis, kuriame pavaizduota konkreti Pagudėnų/Pogesania teritorija.","isPrimary":1}]
 ---
 # Pagudėnai
 
@@ -119,19 +119,27 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 <a id="claim-t-89159"></a>
 - t-005
   teiginys: "1273 m. pagudėnai paslėpė kariuomenę miške prie Elbingo ir iš pasalos atkirto miestiečiams kelią į miestą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Elbingas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Elbingas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pagudėnai surengė pasalą netoli Elbingo ir atkirto kelią miestiečiams; tai remia karinį veiksmą Elbingo aplinkoje, nors miestas nėra tiesioginis atakos objektas."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pagudėnai puolė Elbingas (0.70)"
   temporaliniai_duomenys: "įvykio data: 1273 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, datuotas ir tiksliai paremtas citata."
   pagrindžia:
-    - c-85133
+    - c-85125
 
 <a id="claim-t-89160"></a>
 - t-006
   teiginys: "Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko į Elbingą ir prisidėjo prie brolių."
-  atnaujinta: "2026-07-24 14:20"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Elbingas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -144,7 +152,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   semantiniai_rysiai: "Pagudėnai keliavo į Elbingas (0.86); Pagudėnai gyveno Pagudė (0.76)"
   pagrindžia:
     - c-85136
-    - c-85139
 
 <a id="claim-t-89161"></a>
 - t-007
@@ -232,17 +239,24 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 <a id="claim-t-89166"></a>
 - t-012
   teiginys: "Trečia — Pagudė193, kurioje [gyveno] pagudėnai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Varmiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pagudėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Varmiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pagudėnai\" parinktas kaip owner_note_path. Targetas \"Varmiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-85124
+    - c-85131
 
 <a id="claim-t-89168"></a>
 - t-013
   teiginys: "Pagudėnai užpuolė Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho bei jų padėjėjus ir išsivarė juos į nelaisvę."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Elbingas: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -255,8 +269,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   semantiniai_rysiai: "Pagudėnai puolė Elbingas (0.78); Pagudėnai puolė Kristburgas (0.78)"
   pagrindžia:
     - c-85122
-    - c-85128
-    - c-85139
 
 <a id="claim-t-89169"></a>
 - t-014
@@ -280,11 +292,19 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 <a id="claim-t-89170"></a>
 - t-015
   teiginys: "Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis nusiaubė Pagudę bei Pamedę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Elbingas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Elbingas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad pagudėnai, tęsdami žygį, užpuolė Elbingo pilį."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pagudėnai puolė Elbingas (0.86); Pagudėnai buvo sąjungininkas su Sūduviai (0.82); Pagudėnai puolė Pagudė (0.72); Pagudėnai puolė Pamedė (0.72)"
   pagrindžia:
-    - c-85128
+    - c-85137
 
 <a id="claim-t-89171"></a>
 - t-016
@@ -443,7 +463,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85121
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
   citata_originali: |
     nė tiksliai aprašyti, nė atpasakoti. Vis dėlto papasakosiu vieną pažymėtiną nuostabų
     įvykį. Vieną gražią dieną Elbingo broliai su saujele ginklanešių traukė įkandin didelės
@@ -467,7 +488,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85122
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 159."
   citata_originali: |
     Mat velnias, žmonių giminės
     nedraugas ir tikėjimo priešas, apsigyvenęs jų širdyje, iš neapykantos taikai pakurstė
@@ -488,7 +510,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85123
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
     netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
@@ -511,7 +534,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85124
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
   citata_originali: |
     142 (137). Apie vienos pilaitės užkariavimą
     Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai
@@ -527,12 +551,12 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-012
 
 - id: c-85125
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
     1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
@@ -547,14 +571,17 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   citata_rodoma: "1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei\nbroliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami\nnusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur\nkeli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie\nsavęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė.\nTačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš\npasalos, atkirto jiems kelią  į miestą. Persekiojami miestiečiai, nestengdami priešintis\ntokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum\npilis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-85126
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
   citata_originali: |
     193 D.— Pogesania, Jer.— Pogezênen. Lie. Pagudė įteisinta K. Būgos (3, p. 113—
     114). Žemės vardas gretinamas su pr. gudde, ‘krūmai’. Prūsų žemė į šiaurės rytus nuo
@@ -570,7 +597,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85127
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 160."
   citata_originali: |
     Dar apie tą patį
 
@@ -596,7 +624,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85128
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
     subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,
@@ -612,13 +641,12 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-013
-    - t-015
 
 - id: c-85129
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Įvyko šitaip todėl, kad pats Kristus,
     kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
@@ -643,7 +671,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85130
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
     1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
@@ -667,21 +696,25 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85131
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
   citata_originali: |
     Trečia — Pagudė193,
     kurioje [gyveno] pagudėnai. Ketvirta — Varmė194, kurioje [gyveno] varmiai.
   citata_rodoma: "Trečia — Pagudė193,\nkurioje [gyveno] pagudėnai. Ketvirta — Varmė194, kurioje [gyveno] varmiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
 - id: c-85132
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti
     krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.
@@ -702,7 +735,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85133
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     170 (165). Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
     1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
@@ -715,16 +749,15 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   citata_rodoma: "Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį\n\n  1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei\nbroliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami\nnusileisti, paslėpė savo sutelktą kariuomenę netoli Elbingo viename miške,  iš kur\nkeli raiteliai nujojo prie Elbingo miesto ir pasirodė miestiečiams, kurie, nuolatos prie\nsavęs laikydami kovai parengtus ginklus, pasileido jų persekioti ir vieną kitą nukovė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
 - id: c-85134
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
          medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
@@ -748,7 +781,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85136
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
                apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
@@ -774,7 +808,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-85137
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     Apie Veklico pilies ir vienos pilaitės sugriovimą
 
@@ -786,14 +821,17 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   citata_rodoma: "Apie Veklico pilies ir vienos pilaitės sugriovimą\n\n  Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,\nantrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė\nvisus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui\npatraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu\nvienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+
 - id: c-85139
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
   citata_originali: |
     Apie karą su pagudėnais ir Elbingo pilies pastatymą
 
@@ -812,13 +850,12 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-006
-    - t-013
 
 - id: c-178976
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
     pasalos, atkirto jiems kelią į miestą. Persekiojami miestiečiai, nestengdami priešintis
@@ -837,7 +874,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - id: c-178977
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     Kadangi miestiečiai, dar nepailsę,
     naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį

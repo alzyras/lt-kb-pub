@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-da2d869cac52fd88e9588a37"
+canonical_name: "Jurgis Astikaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Astikaitis"]
+sameAs: []
+canonical_biography: "Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų................... Dalyvaujant didžiai gerbiamiems Kristu­ je tėvui Vilniaus vyskupui ir Alšėnų kunigaikščiui ponui Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vac­ lovui, garbiesiems ir prakilniesiems Polocko vaivadai Jonui Hlebavičiui, Naugarduko vaivadai Stanislovui."
 ---
 # Jurgis Astikaitis
 
@@ -62,7 +69,8 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - id: c-83453
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 339"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 339."
   citata_originali: |
     To dalyko patiki­
     mumui patvirtinti prie šio rašto mūsų antspaudas yra pri­

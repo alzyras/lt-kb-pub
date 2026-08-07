@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-175803
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
   citata_originali: |
     Žemė turtinga vandens telkinių,
     ežerų ir upių, be to, labai miškinga. Jie garbino Saulę ir

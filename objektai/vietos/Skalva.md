@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-175ab9568e13a2a18bfeb291"
+canonical_name: "Skalva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Skalva"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją, pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina kaip prūsų gyvenamą3. Dusburgietis teigia, kad 1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr."
+place_authority: true
+historical_names: []
 ---
 # Skalva
 
@@ -57,7 +66,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 <a id="claim-t-58374"></a>
 - t-002
   teiginys: "Petro iš Dusburgo kronikoje Skalva priskirta vienai iš 11 Prūsijos žemės dalių."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -120,11 +129,18 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 <a id="claim-t-58378"></a>
 - t-006
   teiginys: "Kai kurie tyrinėtojai teritoriją nuo Pamedės iki Skalvos prie Nemuno apibūdino kaip prūsų gyvenamą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skalva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skalva\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59006
+    - c-59008
 
 <a id="claim-t-185144"></a>
 - t-007
@@ -184,7 +200,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-59005
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     33.
     1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo
@@ -203,7 +220,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-59006
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 60."
   citata_originali: |
     Teritorija abipus Nemuno
     žemupio — rytuose maždaug iki Viešvilės, vakaruose iki Atmatos, šiaurėje siekė
@@ -216,12 +234,12 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-006
 
 - id: c-59007
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
     Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir
@@ -240,7 +258,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-59008
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,
     pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina
@@ -257,11 +276,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+    - t-006
 
 - id: c-59009
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Prūsai ir Lietuva
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
@@ -282,7 +303,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-59010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 152."
   citata_originali: |
     Apie karą su skalviais. Apie įvykius prieš šį karą
     Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,
@@ -302,7 +324,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-168505
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 167."
   citata_originali: |
     Vis dėlto vis­
     kas baigėsi visai kitaip, nei buvo norėta. Pirmąjį stai­

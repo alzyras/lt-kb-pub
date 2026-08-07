@@ -51,7 +51,8 @@ Dusburgietis teigia, kad mažiulis V.
 - id: c-61799
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Mažiulis V. Jotvingiai.— MG, 1966, Nr. 1, p. 32—33.
   citata_rodoma: "Mažiulis V. Jotvingiai.— MG, 1966, Nr. 1, p. 32—33."

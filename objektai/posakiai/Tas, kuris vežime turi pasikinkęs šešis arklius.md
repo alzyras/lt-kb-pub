@@ -77,7 +77,8 @@ Patarlė ironiškai sieja drąsą dėti kepurę ant stalo su pabėgimo, pinigų 
 - id: c-170799
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 323."
   citata_originali: |
     Tokios priesaikos turėjo būti žinomos jau labai senais lai­
     kais, o po unijos jas pažino ir lenkai, nes labai sena patarlė sa­

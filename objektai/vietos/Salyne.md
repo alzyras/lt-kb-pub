@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d17aca50db34b79914a73d4a"
+canonical_name: "Salyne"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Salyne"]
+sameAs: []
+canonical_biography: "Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magistro Konrado delegacijų susitikime buvo patvirtinta kryžiuočiams užleista Žemaitija iki Nevėžio ir Sūduva iki Šešupės aukštupio."
+place_authority: true
+historical_names: []
 ---
 # Salyne
 
@@ -61,7 +70,8 @@ Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magist
 - id: c-45318
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     Siekdamas didelių planų pietryčiuose, va-
     karuose Vytautas turėjo bet kokiu būdu

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4aea6f3477c6c97f55f18a71"
+canonical_name: "Petras (Hermano iš Lichtenburgo nuodėmklausys)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras (Hermano iš Lichtenburgo nuodėmklausys)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį subarė, sakydamas, kad karo metu dėl kitų šarvų svorio jis privaląs nusiimti grandininius, tas atrėžė, kad niekas jo negalįs priversti, kol gyvas, juos nusivilkti."
 ---
 # Petras (Hermano iš Lichtenburgo nuodėmklausys)
 
@@ -98,7 +105,8 @@ Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį su
 - id: c-61039
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
   citata_originali: |
     Kai brolis
     Petras, kunigas ir jo nuodėmklausys, jį subarė, sakydamas, kad karo metu dėl kitų šarvų

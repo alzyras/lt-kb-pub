@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a190fdddd71f82de1e565883"
+canonical_name: "Mačiulis D"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mačiulis D"]
+sameAs: []
+canonical_biography: "Mačiulis D."
 ---
 # Mačiulis D
 
@@ -61,7 +68,8 @@ Mačiulis D.
 - id: c-22170
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Vilnius, 1996.
     Mačiulis D. Valstybės kultūros politika Lietuvoje 1927–1940 metais. Vilnius,

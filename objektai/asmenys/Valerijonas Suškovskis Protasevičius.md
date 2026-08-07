@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ef9e1f256ea0f394cea16da8"
+canonical_name: "Valerijonas Suškovskis Protasevičius (vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Valerijonas Suškovskis Protasevičius","Valerijonas Suškovskis Protasevičius (vyskupas)"]
+sameAs: []
+canonical_biography: "Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasevičius."
 ---
 # Valerijonas Suškovskis Protasevičius (vyskupas)
 
@@ -54,7 +61,8 @@ Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasev
 - id: c-169624
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 689"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 689."
   citata_originali: |
     Didžiais darbais Vilniuje įrodė savo — kaip gany­
     tojo— pamaldumą ir ryžtingumą: jis ypač sėkmingai

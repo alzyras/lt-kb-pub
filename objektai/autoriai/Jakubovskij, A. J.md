@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3a3c2d62e1bf2b5d8f91b851"
+canonical_name: "Jakubovskij, A. J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jakubovskij, A. J"]
+sameAs: []
+canonical_biography: "Grekov, B. D. i Jakubov ­ skij, A. J. : Zolotaja Orda i ee padenije, Moskva-Leningrad 1950 (plati bibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek)."
 ---
 # Jakubovskij, A. J
 
@@ -79,7 +86,8 @@ Grekov, B. D. i Jakubov ­ skij, A. J. : Zolotaja Orda i ee padenije, Moskva-Len
 - id: c-55069
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 330"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 330."
   citata_originali: |
     —Filevič, I. L. : _Bor’ba Pol’ši i Litvy-Rusi za Galicko-
     Vladimirskoje nasledije,_ Peterburg 1890. — Grekov, B. D. i Jakubov _­_

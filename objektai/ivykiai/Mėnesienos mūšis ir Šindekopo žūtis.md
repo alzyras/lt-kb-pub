@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184685
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 641"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 641."
   citata_originali: |
     Žemaičiai dar kairiajame sparne
     it liūtai dar grūmės, nes Kęstutis, regėdamas, jog

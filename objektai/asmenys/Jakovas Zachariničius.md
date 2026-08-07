@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-90fcd35e8a84435c5009968c"
+canonical_name: "Jakovas Zachariničius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jakovas Zachariničius"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Jakovas Zachariničius
 

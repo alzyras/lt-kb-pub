@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-45cbc7ea1a5cdea4e35bec74"
+canonical_name: "Liublino vaivadija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liublino vaivadija"]
+sameAs: []
+canonical_biography: "Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo."
+place_authority: true
+historical_names: []
 ---
 # Liublino vaivadija
 
@@ -60,7 +69,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - id: c-24256
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 184."
   citata_originali: |
     Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą
     ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaci-

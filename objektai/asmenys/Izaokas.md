@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fe9f870dc6568b25b09af62c"
+canonical_name: "Izaokas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Izaokas"]
+sameAs: []
+canonical_biography: "Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko."
 ---
 # Izaokas
 
@@ -53,7 +60,8 @@ Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko
 - id: c-173042
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     260
 

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf1dc56f4cb3ae31abe42c7c"
+canonical_name: "Vilniaus miesto vartai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus miesto vartai"]
+sameAs: []
+canonical_biography: "Šiuo sprendimu buvo nurodyta sienoje į miestą palikti tik­ tai penketą vartų: pirmuosius -Vilijos link, antruosius - prie kelio į Trakus, trečiuosius - palei Švč."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus miesto vartai
 
@@ -51,7 +60,8 @@ media_all_json: |-
 - id: c-82235
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248."
   citata_originali: |
     Šiuo sprendimu buvo nurodyta sienoje į miestą palikti tik­
     tai penketą vartų: pirmuosius -Vilijos link, antruosius - prie

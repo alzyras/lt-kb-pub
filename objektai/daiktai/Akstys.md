@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-10236
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 295"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 295."
   citata_originali: |
     It^1328 arti susirėmus, kibo į brūklius rendėtinius, ant galo puolė ant neprieteliaus su akmeniniais kirviais
         arba, aiškiau sakant, kūjais ir kalavijais bei akstimis^1329 , kurių galuose taip pat buvo įtaisyti aštrūs
@@ -98,7 +99,8 @@ Nenurodyta
 - id: c-56416
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 296"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 296."
   citata_originali: |
     Tokias akstis dėvėjo dar 10 amžiuje, nesgi šv. Vaitiekų, Parusy krikščonų mokslą skelbiantį, žynys ta
         aksčia permovė^1330.

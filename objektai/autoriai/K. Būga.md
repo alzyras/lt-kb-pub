@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b16f5f28c7583a7fb661e9ec"
+canonical_name: "K. Būga"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Būga","Būga, K.","K. Būga","K. Būgos"]
+sameAs: []
+canonical_biography: "K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su Rinktiniais Raštais, aisčių vardo vartosenos aiškinimu ir baltų kalbų istorijos darbais."
 ---
 # K. Būga
 
@@ -151,7 +158,8 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 - id: c-00072
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 33."
   citata_originali: |
     Tas geografinis terminas reiš-
     kia Baltijos pajūrio tautas. Tik didieji mūsų kalbininkai Jaunius su
@@ -170,7 +178,8 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 - id: c-03994
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 16."
   citata_originali: |
     BL1 = Baltische Lande, I : Ostbaltische Frühzeit, išl. C. Engel ir
     A. Brackmann, Leipzig 1939.
@@ -188,7 +197,8 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 - id: c-03996
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 114."
   citata_originali: |
     Dauguma gotiškosios kilmės žodžių (asilas, katilas, istu-
     ba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone
@@ -205,7 +215,8 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 - id: c-03998
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 115."
   citata_originali: |
     Būga, K. : _Die Vorgeschichte der aistischen (ibaltischen) Stämme im Lichte
     der Ortsnamenforschung,_ Streitberg-Festgabe, Leipzig 1924, 22-35 p.

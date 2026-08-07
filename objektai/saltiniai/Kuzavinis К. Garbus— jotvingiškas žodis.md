@@ -58,7 +58,8 @@ Dusburgietis teigia, kad kuzavinis К.
 - id: c-61747
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     Kuzavinis К. Garbus— jotvingiškas žodis.—Baltistica, 1968, 4(1), p. 65—67.
   citata_rodoma: "Kuzavinis К. Garbus— jotvingiškas žodis.—Baltistica, 1968, 4(1), p. 65—67."

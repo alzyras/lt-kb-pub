@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b6ff9951054efdc78f23512b"
+canonical_name: "Fridrichas, vadinamas Hole"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas, vadinamas Hole"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais pačiais metais brolis Fridrichas, vadinamas Hole, brolio Markvardo iš Revelingės 511 D.— Nova domus, castrum novum (III, 303), Jer.— Nûwe huis."
 ---
 # Fridrichas, vadinamas Hole
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais p
 - id: c-60912
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170-171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170-171."
   citata_originali: |
     Apie brolio Fridricho Holės ir 30 vyrų žūtį
 

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d6ab219459d5f014d3ccba8a"
+canonical_name: "Verneris fon Vindekenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Verneris fon Vindekenas"]
+sameAs: []
+canonical_biography: "Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomis grūmėsi su pėsčiu riteriu. Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčias kovėsi su riteriu ir sužeistas pateko į nelaisvę."
 ---
 # Verneris fon Vindekenas
 
@@ -67,7 +74,8 @@ Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomi
 - id: c-169626
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 244."
   citata_originali: |
     Džiaugėsi Kęstutis, kad atsikeršijo, ir
     jau vedėsi iš Prūsijos karius, prisiplėšusius grobio, ta­

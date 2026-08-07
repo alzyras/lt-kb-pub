@@ -88,7 +88,8 @@ Nenurodyta
 - id: c-67155
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
   citata_originali: |
     Jų krašte niekam neleidžiama
     elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
@@ -107,7 +108,8 @@ Nenurodyta
 - id: c-67156
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
   citata_originali: |
     213 Apie kraujo kerštą D. užrašė, matyt, iš nuogirdų, be to, perdėdamas. Taliono
     principo (kaklas už kaklą, ranka už ranką) buvimas prūsų prigimtinėje teisėje davė

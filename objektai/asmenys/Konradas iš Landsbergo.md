@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a10c8cceb247aa3144507f7"
+canonical_name: "Konradas iš Landsbergo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas iš Landsbergo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru. Dusburgietis teigia, kad juos išklausęs, minėtasis valdovas Konradas, Lenkijos kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas 168 Dobrynė — deš."
 ---
 # Konradas iš Landsbergo
 
@@ -68,7 +75,8 @@ Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė br
 - id: c-60789
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
     likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai. Broliai pagydyti protingai
@@ -86,7 +94,8 @@ Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė br
 - id: c-60790
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Todėl kunigaikštis pasiuntė pas
     minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir

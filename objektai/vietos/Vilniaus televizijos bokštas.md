@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-db1fcad7d608c429e879b331"
+canonical_name: "Vilniaus televizijos bokštas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus televizijos bokštas"]
+sameAs: []
+canonical_biography: "1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje. Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus televizijos bokštas
 
@@ -59,7 +68,8 @@ media_all_json: |-
 - id: c-155531
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 245."
   citata_originali: |
     Aplink
     AT-AS pastatą statomos betoninės sienos ir spygliuotų vielų užtvaros. Apie

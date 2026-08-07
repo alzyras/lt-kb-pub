@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-83060
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 249."
   citata_originali: |
     Nepagelbėjo jam ir iš Kroku­
     vos pakviestas tuose kraštuose pagarsėjęs ano meto alche­

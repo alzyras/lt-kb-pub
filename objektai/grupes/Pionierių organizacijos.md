@@ -48,7 +48,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 <a id="claim-t-19963"></a>
 - t-002
   teiginys: "Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -59,7 +59,8 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 - id: c-22693
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
     dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
@@ -76,7 +77,8 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 - id: c-22694
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 222."
   citata_originali: |
     Ją ruošė totaliai kontroliuojama švieti-
     mo sistema, o nepaklusnieji buvo baudžiami. Mokytojai verčiami studijuoti
@@ -97,7 +99,8 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 - id: c-166561
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Universitete ir aukštosiose mokyklose iš kitų respublikų atsiųsti specialistai
     dėstė tik rusiškai. Mokiniai buvo verčiami stoti į pionierių ir komjaunimo

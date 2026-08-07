@@ -100,7 +100,8 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 - id: c-82429
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 35."
   citata_originali: |
     Prie viso
     to reikia pridurti, kad graikų apei­
@@ -131,7 +132,8 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 - id: c-82430
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 35."
   citata_originali: |
     Juk lotynų kalba Rogum v. Ro­
     gus, reiškia Aukurą, vietą deginti ir
@@ -159,7 +161,8 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 - id: c-82431
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 34."
   citata_originali: |
     Ties ta
     puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­
@@ -185,7 +188,8 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 - id: c-176820
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 35-36"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 35-36."
   citata_originali: |
     Nepaisant to, kryžiuo­
     čiai, nuolatos baudęsi sunaikinti tą

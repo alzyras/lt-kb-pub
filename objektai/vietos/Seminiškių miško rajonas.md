@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5260a354b6d85cf0508aac54"
+canonical_name: "Seminiškių miško rajonas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Seminiškių miško rajonas"]
+sameAs: []
+canonical_biography: "1945 m. gegužės 14 d. iš Simno rajono NKVD skyriaus viršininko gauti duomenys apie tai, kad Seminiškių miško rajone, 37 km į vakarus nuo Alytaus, 8 km į pietvakarius nuo Simno, NKVD duomenimis slėpėsi iki 70 žm. partizanų grupė, ginkluota rankiniais ir."
+place_authority: true
+historical_names: []
 ---
 # Seminiškių miško rajonas
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-40353
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 226."
   citata_originali: |
     1945 m. gegužės 14 d. iš Simno rajono
     NKVD skyriaus viršininko gauti duome-

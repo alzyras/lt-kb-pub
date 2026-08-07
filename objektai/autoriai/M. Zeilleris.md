@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3d5f30df05b67feff18743d7"
+canonical_name: "M. Zeilleris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Zeilleris"]
+sameAs: []
+canonical_biography: "Zeilleris 151 ; ta istorija anuomet buvo labai vertinama ir susilaukė keletos laidų."
 ---
 # M. Zeilleris
 
@@ -60,7 +67,8 @@ Zeilleris 151 ; ta istorija anuomet buvo labai vertinama ir susilaukė keletos l
 - id: c-33067
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 96."
   citata_originali: |
     Prūsų Kuni­
     gaikštystės santykiai su ja. Jie išleido žinomąsias ordino kronikas

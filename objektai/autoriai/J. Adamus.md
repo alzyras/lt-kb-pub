@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cc6a75fb034b0f45a6985272"
+canonical_name: "J. Adamus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Adamus"]
+sameAs: []
+canonical_biography: "Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-Prawny, I t., 7 zesz., 1925; Państwo litewskie w latach 1386-1398 , žr. Adamus, J. Adamus : O tytule panującego, KH, 1930, 313-314 p. (^13) Plg."
 ---
 # J. Adamus
 
@@ -98,7 +105,8 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
 - id: c-32950
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 90."
   citata_originali: |
     Zajączkowski :** **_Studia nad dziejami Żmudzi wieku XIII,_** **Lwów
     1925;** **_Dzieje Litwy pogańskiej do 1386_** **r., Lwów 1930;** **_Wołyń pod panowa­
@@ -119,7 +127,8 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
 - id: c-32951
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 238."
   citata_originali: |
     Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,
     1930, 313-332 p. — Būtėnas, P. : _Lietuvos sostinė Vilnius,_ Karys, 1973,
@@ -143,7 +152,8 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
 - id: c-32952
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 250."
   citata_originali: |
     Tik Algirdui vėl pasisekė (1353)
     šimtui metų laimėti atskirus metropolitus Lietuvai. Tačiau netu­

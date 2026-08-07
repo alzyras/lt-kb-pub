@@ -162,7 +162,8 @@ Nenurodyta
 - id: c-00297
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 596"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 596."
   citata_originali: |
     **_Klaipėdos konvencija,_** kurią 1924 m. gegužės 8 d. pasirašė Pary-
     žiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris
@@ -192,7 +193,8 @@ Nenurodyta
 - id: c-00298
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 601"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 601."
   citata_originali: |
     Iš politinių sutarčių paminėtinos yra drau-
     gingumo sutartys su Sovietų Rusija ir 1934 m. pasirašytoji Pa-
@@ -216,7 +218,8 @@ Nenurodyta
 - id: c-00299
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 601"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 601."
   citata_originali: |
     Santykiams vis gerėjant, pagaliau 1926 m. (rugsėjo 28 d.) Mas-
     kvoje buvo pasirašyta vadinamoji nepuolimo sutartis, kuria abi
@@ -240,7 +243,8 @@ Nenurodyta
 - id: c-05558
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 41."
   citata_originali: |
     Neigdami
     tikrąją Vasario 16-tosios (1918) akto reikšmę čia tarybiniai istorikai
@@ -264,7 +268,8 @@ Nenurodyta
 - id: c-05559
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 283."
   citata_originali: |
     Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila
     ordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal-

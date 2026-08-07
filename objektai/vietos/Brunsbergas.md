@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-738820a94bedb2092c06ce76"
+canonical_name: "Brunsbergas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Brunsbergas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių. Dusburgietis teigia, kad 259 Brunsbergas (Braunsbergas, dab. Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus."
+place_authority: true
+historical_names: []
 ---
 # Brunsbergas
 
@@ -56,11 +65,18 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 <a id="claim-t-58384"></a>
 - t-002
   teiginys: "Brunsbergas, dabartinis Branevas, buvo Pasarės žemupyje, o pilis stovėjo žemiau dabartinio miesto, arčiau Aismarių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pasarė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Brunsbergas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pasarė: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brunsbergas\" parinktas kaip owner_note_path. Targetas \"Pasarė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59017
+    - c-59018
 
 <a id="claim-t-58385"></a>
 - t-003
@@ -102,7 +118,8 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 - id: c-59015
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
     nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė
@@ -124,7 +141,8 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 - id: c-59016
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     Išgirdę, kad pilis ir miestas
     sudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,
@@ -143,7 +161,8 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 - id: c-59017
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     140 (135). Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
     lies bei miesto paėmimą
@@ -161,12 +180,12 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-59018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 83."
   citata_originali: |
     259 Brunsbergas (Braunsbergas, dab. Branevas) — Pasarės (dab. Paslenka) žemupyje.
     Pilis (anksčiau — prūsų, vėliau — kryžiuočių) stovėjo kiek žemiau dab. miesto, arčiau
@@ -174,10 +193,11 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   citata_rodoma: "259 Brunsbergas (Braunsbergas, dab. Branevas) — Pasarės (dab. Paslenka) žemupyje.\nPilis (anksčiau — prūsų, vėliau — kryžiuočių) stovėjo kiek žemiau dab. miesto, arčiau\nAismarių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Anzelmas|Anzelmas (vyskupas, XIII a.)]], [[objektai/asmenys/Henrikas (Varmės vyskupas)]]

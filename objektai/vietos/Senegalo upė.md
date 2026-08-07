@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87e93721aa741f0eca3db395"
+canonical_name: "Senegalo upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Senegalo upė"]
+sameAs: []
+canonical_biography: "Narbutas aiškina, kad portugalai fetišais pirmiausia vadino dievukus prie Senegalo upės, o vėliau terminas įgavo platesnę reikšmę."
+place_authority: true
+historical_names: []
 ---
 # Senegalo upė
 
@@ -60,7 +69,8 @@ Narbutas aiškina, kad portugalai fetišais pirmiausia vadino dievukus prie Sene
 - id: c-171953
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
   citata_originali: |
     Todėl ne kiekvienas istorikas ir 5
     5

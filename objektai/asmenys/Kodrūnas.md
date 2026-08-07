@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bffee2743750c7e2450eed26"
+canonical_name: "Kodrūnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kodrūnas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę kariuomenę keršyti už neteisingai nužudytuosius; atplaukę prie Baigos, jie ten išlipo ir, tinkamose vietose išdėstę lankininkus bei surėmę į sieną kopėčias, smarkiai užpuolė šią prūsų pilį, o kadangi jiems."
 ---
 # Kodrūnas
 
@@ -59,7 +66,8 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
 - id: c-60988
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
   citata_originali: |
     Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė
     pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių

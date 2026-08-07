@@ -60,7 +60,8 @@ DlugO = Joannis Długosz, Opera Omnia, t.
 - id: c-33596
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 16."
   citata_originali: |
     DaSD = Skarbiec diplomatów do dziejów Litwy, Rusi litewskiej
     i ościennych im Krajów, t. 1-2, Vilnius 1860-62.

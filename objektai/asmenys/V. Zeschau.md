@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a400d6700ad757e81214b259"
+canonical_name: "V. Zeschau"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Zeschau"]
+sameAs: []
+canonical_biography: "Zeschau vadovaujamas 18-tarių skaičius su šių komendantūrų kasis saksų pėstininkų pulkas, pradžioje veikęs su Panevėžio atskiruoju batalionu, vėliau riais siekė 4000-4500 žmonių."
 ---
 # V. Zeschau
 
@@ -61,7 +68,8 @@ Zeschau vadovaujamas 18-tarių skaičius su šių komendantūrų kasis saksų p�
 - id: c-42294
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 172."
   citata_originali: |
     Vėliau kovų
     su bolševikais metu saksų savanorių sudėtis atsisijojo. Likusieji Lietuvoje labai gerai ko-

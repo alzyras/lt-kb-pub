@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eafbba716a3b6fa8b590e04d"
+canonical_name: "Grigalius IX"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Grigalius IX"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į kovų Kai Romos kurija išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX."
 ---
 # Grigalius IX
 
@@ -77,7 +84,8 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 - id: c-41926
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 25."
   citata_originali: |
     Po tokio liūdno įvykio gyvi išlikę Kristaus karių brolijos broliai kartu su Rygos, Dorpato
     ir Ezelio vyskupais maldaujamuose laiškuose popiežiui Grigaliui rx kartojo prašymą teikti
@@ -99,7 +107,8 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 - id: c-167459
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     58—59): „Prisirenkite
     ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš

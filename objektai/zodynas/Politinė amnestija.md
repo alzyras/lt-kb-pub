@@ -63,7 +63,8 @@ Rusijos caras Aleksandras 11 1856 m. paskelbė politinę amnestiją 1831 m. suki
 - id: c-40575
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 160."
   citata_originali: |
     Rusijos caras Aleksandras 11 1856 m.
     paskelbė politinę amnestiją 1831 m. su-

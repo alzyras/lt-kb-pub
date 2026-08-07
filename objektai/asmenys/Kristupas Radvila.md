@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4789a9fcab06e2a346d36423"
+canonical_name: "Kristupas Radvila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristupas Radvila"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Kristupas Radvila
 
@@ -86,7 +93,8 @@ Nenurodyta
 - id: c-83381
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 370-372"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 370-372."
   citata_originali: |
     354
 
@@ -151,7 +159,8 @@ Nenurodyta
 - id: c-83382
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 366-367"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 366-367."
   citata_originali: |
     Norėdami, kad šis mūsų valios pareiški­
     mas greičiau pasiektų žmones, įsakėme tai perrašyti, kad ta­

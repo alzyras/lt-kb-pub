@@ -66,7 +66,8 @@ Dusburgietis teigia, kad voigt J.
 - id: c-61986
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 276."
   citata_originali: |
     Voigt J. Namen-Codex der Deutschen Ordens-Beamten — Königsberg, 1843.
       Wojtecki D.

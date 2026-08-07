@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6daa0a3562192459231a97fb"
+canonical_name: "Kriukai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kriukai"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų. Dusburgietis teigia, kad 306 D. ir Jer. Crucke, kaimas per 6 km į pietus nuo Kroicburgo (žr. paaiškinimus D. III, 27, 2), netoli ežerėlio tarp Kaustros ir Pasmaros upių (Sch-K XI; VBK; Boetticher A., Die Bau..., 2, p. 65; GAO, p. 74)."
+place_authority: true
+historical_names: []
 ---
 # Kriukai
 
@@ -86,7 +95,8 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
 - id: c-59208
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     306 D. ir Jer. Crucke, kaimas per 6 km į pietus nuo Kroicburgo (žr. paaiškinimus D.
     III, 27, 2), netoli ežerėlio tarp Kaustros ir Pasmaros upių (Sch-K XI; VBK; Boetticher
@@ -103,7 +113,8 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
 - id: c-59209
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
   citata_originali: |
     Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
     Kai prakeiktasis Sventopelkas pasipriešino broliams ir paskatino Prūsijos žemės

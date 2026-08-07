@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ce1ec018ba75c97663dc37bc"
+canonical_name: "Aukščiausios Tarybos rūmai (institucija)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aukščiausios Tarybos rūmai","Aukščiausios Tarybos rūmai (institucija)"]
+sameAs: []
+canonical_biography: "Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos."
+place_authority: true
+historical_names: []
 ---
 # Aukščiausios Tarybos rūmai (institucija)
 
@@ -77,7 +86,8 @@ Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plak
 - id: c-24049
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 240."
   citata_originali: |
     Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11–
     13 d.). Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.
@@ -96,7 +106,8 @@ Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plak
 - id: c-49076
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 240-241"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 240-241."
   citata_originali: |
     Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.
     Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka

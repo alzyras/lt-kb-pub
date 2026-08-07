@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aaec432ca3217d5b8448f73d"
+canonical_name: "Lomiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lomiai","Lomius","į Lomius"]
+sameAs: []
+canonical_biography: "Lomiai pateikiami kaip folklorinio pasakojimo kelionės tikslas."
+place_authority: true
+historical_names: []
 ---
 # Lomiai
 

@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-82942
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 161-162"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 161-162."
   citata_originali: |
     Vladislovas Jogaila, aukščiausiąją valdžią
     Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-69b0e40f46037b95faea8e2b"
+canonical_name: "Henrikas iš Hohenlohės"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas iš Hohenlohės"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš Zalcos, miręs 1239 m.113, tuo tarpu „Pranešimo...“ pabaigoje aprašomi vėlesni įvykiai, Ordino magistro Henriko iš Hohenlohės (1244—1249 m.) valdymo laikotarpio. Dusburgietis teigia, kad viskas rodo, jog tai reiškia vėlesnį didįjį magistrą Henriką iš Hohenlohės, kurio kanceliarijoje „Pranešimas...“ redaguotas. Dusburgietis teigia, kad pvz., praleisti trys Ordino magistrai, tarp jų — Henrikas iš Hohenlohės139."
 ---
 # Henrikas iš Hohenlohės
 
@@ -133,7 +140,8 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 - id: c-60601
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
   citata_originali: |
     Sitai, rodos, leistų manyti, kad minimas Hermanas iš Zalcos, miręs 1239
     m.113, tuo tarpu „Pranešimo...“ pabaigoje aprašomi vėlesni įvykiai, Ordino magistro Henriko
@@ -149,7 +157,8 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 - id: c-60602
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
     jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir
@@ -169,7 +178,8 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 - id: c-60603
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
   citata_originali: |
     Viskas rodo, jog tai reiškia vėlesnį didįjį magistrą
     Henriką iš Hohenlohės, kurio kanceliarijoje „Pranešimas...“ redaguotas.
@@ -184,7 +194,8 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 - id: c-60604
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     Yra čia ir kitokių klaidų bei praleidimų. Pvz., praleisti trys Ordino magistrai, tarp jų
     — Henrikas  iš Hohenlohės139.

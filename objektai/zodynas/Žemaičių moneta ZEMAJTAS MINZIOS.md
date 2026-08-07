@@ -53,7 +53,8 @@ Narbutas žemaičių monetos užrašą skaito kaip „ZEMAJTAS: MINZIOS“ ir ai
 - id: c-172237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 250."
   citata_originali: |
     Kita pusė: tokiame pačiame apvade - skydelis su panašiu
     apvadėliu; jame smulkiai iškalta kažkas panašaus į Lietuvos

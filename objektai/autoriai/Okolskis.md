@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f1de0bf23fea89d686e20cba"
+canonical_name: "Okolskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Okolskis"]
+sameAs: []
+canonical_biography: "Narbutas nesutinka su Okolskio aiškinimu, kad „Paparona“ kilusi iš „Parta Roma“, ir laiko šį žodį lietuvišku. Ta pati mintis ateina Okolskiui straipsnyje apie Vyčio herbą, kur jis kalba apie Gediminą, ta čiau klysta Strijkovskio suvedžiotas, kad Trakus taip praminęs Gediminas, kadangi Gediminas įkūrė ne Senuosius, bet Nau juosius Trakus, o ne Kęstutis."
 ---
 # Okolskis
 
@@ -71,7 +78,8 @@ Narbutas nesutinka su Okolskio aiškinimu, kad „Paparona“ kilusi iš „Part
 - id: c-177067
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
   citata_originali: |
     Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
     kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui

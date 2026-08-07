@@ -65,9 +65,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184614
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 136"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 136."
   citata_originali: |
     Kas bū­
     damas, vienok tuodu vyru daug tenai apkrikštijo
@@ -95,9 +95,9 @@ Nenurodyta
     - t-001
 
 - id: c-184615
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 139"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 139."
   citata_originali: |
     Netikėliai tarės tuomi savo apjuoktas šventeny­
     bes nuo krikščionų nugerbę ir užrūstintus savo die­

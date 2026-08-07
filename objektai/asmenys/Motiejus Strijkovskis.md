@@ -23,13 +23,20 @@ media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AMotiejus
 media_primary_directness: 'direct'
 media_primary_relation_type: 'portrait_of'
 media_primary_json: |-
-  {"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretinė graviūra jo Kronikoje.","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"metraštininkas","label":"metraštininkas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Literature of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Motiejus Strijkovskis.md","title":"Motiejus Strijkovskis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T14:25:04.757639+03:00","reviewedAt":"2026-07-11T14:25:24.711698+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi senovinė spausdinta portretinė graviūra su vyro atvaizdu ir antrašte „MATTIAS STRII...“, taip pat tekstas po portretu, nurodantis Strijkovskį/Stryjkowskį.","metadataEvidence":"Failo pavadinimas „Motiejus Strijkovskis.jpg“, aprašas „Motiejus Strijkovskis (nežinomo dailininko portretas jo Kronikoje)“ ir deterministic_match nurodo exact_object_name bei relation_type portrait_of.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tiek vaizdo užrašai, tiek metaduomenys aiškiai identifikuoja tą patį target asmenį, todėl tai tiesioginis Motiejaus Strijkovskio istorinis portretas.","isPrimary":1}
+  {"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretas jo kronikoje","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"istorikas","label":"istorikas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Literature of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Motiejus Strijkovskis.md","title":"Motiejus Strijkovskis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T14:25:04.757639+03:00","reviewedAt":"2026-07-31T05:57:58.928797+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVI a. stilizuotas barzdoto vyro portretas, o antraštėje aiškiai įskaitoma „MATTHIAS STRI...“ ir „STRIKOWSKI“. Apatinis įrašas taip pat nurodo Strijkovskį.","metadataEvidence":"Kandidato pavadinimas „Motiejus Strijkovskis.jpg“, aprašymas nurodo portretą jo Kronikoje, o Wikimedia Commons URL tiesiogiai identifikuoja tą patį asmenį.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – Motiejų Strijkovskį; tapatybę patvirtina ir portreto antraštė, ir metaduomenys.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretinė graviūra jo Kronikoje.","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"metraštininkas","label":"metraštininkas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Literature of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Motiejus Strijkovskis.md","title":"Motiejus Strijkovskis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T14:25:04.757639+03:00","reviewedAt":"2026-07-11T14:25:24.711698+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi senovinė spausdinta portretinė graviūra su vyro atvaizdu ir antrašte „MATTIAS STRII...“, taip pat tekstas po portretu, nurodantis Strijkovskį/Stryjkowskį.","metadataEvidence":"Failo pavadinimas „Motiejus Strijkovskis.jpg“, aprašas „Motiejus Strijkovskis (nežinomo dailininko portretas jo Kronikoje)“ ir deterministic_match nurodo exact_object_name bei relation_type portrait_of.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tiek vaizdo užrašai, tiek metaduomenys aiškiai identifikuoja tą patį target asmenį, todėl tai tiesioginis Motiejaus Strijkovskio istorinis portretas.","isPrimary":1}]
+  [{"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretas jo kronikoje","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"istorikas","label":"istorikas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Literature of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Motiejus Strijkovskis.md","title":"Motiejus Strijkovskis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T14:25:04.757639+03:00","reviewedAt":"2026-07-31T05:57:58.928797+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVI a. stilizuotas barzdoto vyro portretas, o antraštėje aiškiai įskaitoma „MATTHIAS STRI...“ ir „STRIKOWSKI“. Apatinis įrašas taip pat nurodo Strijkovskį.","metadataEvidence":"Kandidato pavadinimas „Motiejus Strijkovskis.jpg“, aprašymas nurodo portretą jo Kronikoje, o Wikimedia Commons URL tiesiogiai identifikuoja tą patį asmenį.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – Motiejų Strijkovskį; tapatybę patvirtina ir portreto antraštė, ir metaduomenys.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretinė graviūra jo Kronikoje.","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"metraštininkas","label":"metraštininkas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Literature of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Motiejus Strijkovskis.md","title":"Motiejus Strijkovskis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T14:25:04.757639+03:00","reviewedAt":"2026-07-11T14:25:24.711698+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi senovinė spausdinta portretinė graviūra su vyro atvaizdu ir antrašte „MATTIAS STRII...“, taip pat tekstas po portretu, nurodantis Strijkovskį/Stryjkowskį.","metadataEvidence":"Failo pavadinimas „Motiejus Strijkovskis.jpg“, aprašas „Motiejus Strijkovskis (nežinomo dailininko portretas jo Kronikoje)“ ir deterministic_match nurodo exact_object_name bei relation_type portrait_of.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tiek vaizdo užrašai, tiek metaduomenys aiškiai identifikuoja tą patį target asmenį, todėl tai tiesioginis Motiejaus Strijkovskio istorinis portretas.","isPrimary":1}]
+  [{"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretas jo kronikoje","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"istorikas","label":"istorikas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Literature of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maciej Stryjkowski","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Motiejus Strijkovskis.md","title":"Motiejus Strijkovskis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T14:25:04.757639+03:00","reviewedAt":"2026-07-31T05:57:58.928797+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVI a. stilizuotas barzdoto vyro portretas, o antraštėje aiškiai įskaitoma „MATTHIAS STRI...“ ir „STRIKOWSKI“. Apatinis įrašas taip pat nurodo Strijkovskį.","metadataEvidence":"Kandidato pavadinimas „Motiejus Strijkovskis.jpg“, aprašymas nurodo portretą jo Kronikoje, o Wikimedia Commons URL tiesiogiai identifikuoja tą patį asmenį.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target – Motiejų Strijkovskį; tapatybę patvirtina ir portreto antraštė, ir metaduomenys.","isPrimary":1}]
+entity_id: "ent-2ed61b2759bc94373db60b28"
+canonical_name: "Motiejus Strijkovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus Strijkovskis"]
+sameAs: []
+canonical_biography: "Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga."
 ---
 # Motiejus Strijkovskis
 
@@ -121,7 +128,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 <a id="claim-t-188590"></a>
 - t-005
   teiginys: "Narbutas rašo, kad Strijkovskis Vilniaus Perkūno šventykloje mini atskiroje koplyčioje laikytus šliužus."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -134,7 +141,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 <a id="claim-t-188591"></a>
 - t-006
   teiginys: "Narbutas nurodo, kad Strijkovskis alyvą Sambėje laikė pirmu tarp šventųjų medžių."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -227,7 +234,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 <a id="claim-t-188596"></a>
 - t-011
   teiginys: "Narbutas rašo, kad Strijkovskis lietuvių ugnies apeigas aiškino kaip senovės romėnų Palilėjų švenčių pamėgdžiojimą."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -242,7 +249,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171484
     - c-171485
 
 <a id="claim-t-188597"></a>
@@ -427,7 +433,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-170429
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 68."
   citata_originali: |
     Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-
     tavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai,
@@ -448,7 +455,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-170430
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 4."
   citata_originali: |
     nikos („rusiško metraščio") variantą tame pačiame
     Gardino-Volkovysko krašte, kunigaikščių Zaslavskių
@@ -472,7 +480,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-171475
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     Ją tebežino lietu­
     viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
@@ -494,7 +503,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-171476
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Toje vietoje jai bu­
     vo meldžiamasi: jos šaukėsi liepų miškelyje, ją garbino iki pas­
@@ -516,7 +526,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-171477
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
   citata_originali: |
     Atnašaudavo alaus, duonos
     ir įvairių valgių, kuriuos padėdavo nakčiai po alyvų krūmais.
@@ -535,7 +546,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-171479
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
   citata_originali: |
     Pabaisa atsakė: „Aš esu tas, kuris čia būsiu,
     kol atkeršysiu už tai, kad užmušei savo namų dievą. Tu būsi
@@ -555,7 +567,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-171480
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
   citata_originali: |
     ALYVA, Sambe . Anot aiškaus Strijkovskio liudijimo, tas
     medis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs
@@ -570,7 +583,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-171481
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
   citata_originali: |
     Skulptorių ir dailininkų stoką atstojo vaiz­
     243
@@ -593,7 +607,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-171482
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     Lietuviams buvo žinomas dievinamų asmenų stabų staty­
     mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
@@ -612,7 +627,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-171483
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
   citata_originali: |
     Plačios lygumos, užliejamos dvie­
     jų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,
@@ -631,7 +647,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-171484
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 319."
   citata_originali: |
     Saulės tekėjimas buvo aukų atnašavimo
     laikas*.
@@ -647,12 +664,12 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
-    - t-011
 
 - id: c-171485
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
   citata_originali: |
     Šis ugnies krikštas, arba apsivalymas
     panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
@@ -674,7 +691,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-171486
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 403."
   citata_originali: |
     402
 
@@ -700,7 +718,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-173536
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 431"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
   citata_originali: |
     Jau ir šiaip žinome, ir anksčiau sakėme, kad
     kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
@@ -728,7 +747,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-173805
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
   citata_originali: |
     Iš visų spausdintų
     verčiausias yra vienas Strijkovskis**, po to — prūsų ir
@@ -755,7 +775,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-173806
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Latvių, arba
     Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
@@ -778,7 +799,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-173807
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
   citata_originali: |
     Mūsų kronikinin­
     kas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­
@@ -800,7 +822,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-173808
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     Tačiau esama sunku­
     mų nustatant datą, kada tai galėjo įvykti: kalbėdamas
@@ -829,7 +852,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-173809
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 119."
   citata_originali: |
     115
     Strijkovskis savo amžiuje dar girdėjo apie likučius
@@ -855,7 +879,8 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 - id: c-177112
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
   citata_originali: |
     Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
     pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­

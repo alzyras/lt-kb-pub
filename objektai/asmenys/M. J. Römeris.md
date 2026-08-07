@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a98684d7fcf70f8dd6620295"
+canonical_name: "M. J. Römeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. J. Römeris"]
+sameAs: []
+canonical_biography: "1818–1829 m. M. J. Römerio dvarai tiekė medžiagas Kriaunų bažnyčiai, pastatytai vietoj, matyt, apgriuvusios senosios bažnyčios."
 ---
 # M. J. Römeris
 

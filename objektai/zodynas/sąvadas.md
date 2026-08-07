@@ -162,7 +162,8 @@ Nenurodyta
 - id: c-170095
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 7."
   citata_originali: |
     Trumpajame sąvade, sudarytame apie 1446 m., nuo­
     sekliau ir išsamiau nušviečiama tiktai 1377—1445 m .
@@ -180,7 +181,8 @@ Nenurodyta
 - id: c-170096
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 7."
   citata_originali: |
     Platesnysis Lietuvos metraščių sąvadas, vadinamas
     „Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­

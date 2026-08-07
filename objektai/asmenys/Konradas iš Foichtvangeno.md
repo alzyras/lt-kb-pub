@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e866aa426adb29a2cb8bb62"
+canonical_name: "Konradas iš Foichtvangeno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas iš Foichtvangeno"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai pasirodęs viešpats apreiškė regėjime šį pralaimėjimą. Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus. Dusburgietis teigia, kad praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti, 494 Žuvo 1279.111.5 prie dab. Aizkrauklės (buv. Ašeradė) prie Dauguvos, kur Lietuvos kariuomenė sumušė Livonijos ordino bei Revelio (Talino) danų riterių kariuomenę (Varakauskas."
 ---
 # Konradas iš Foichtvangeno
 
@@ -94,14 +101,21 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 <a id="claim-t-59995"></a>
 - t-004
   teiginys: "1295 m. Konradas iš Foichtvangeno atvyko į Prūsiją, parėmė brolius dovanomis ir paguodė juos pamokymais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas iš Foichtvangeno: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas iš Foichtvangeno\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "kelionės data: 1295 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra sklandus ir tiksliai perteikia citatos faktą."
   pagrindžia:
-    - c-60627
+    - c-60624
 
 <a id="claim-t-184100"></a>
 - t-005
@@ -174,7 +188,8 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 - id: c-60624
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
     Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,
@@ -192,12 +207,14 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-004
     - t-007
 
 - id: c-60625
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163-164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163-164."
   citata_originali: |
     Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
 
@@ -217,7 +234,8 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 - id: c-60626
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 113."
   citata_originali: |
     86 (82). Apie tą patį
     Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado
@@ -236,7 +254,8 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 - id: c-60627
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
     Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
@@ -253,7 +272,6 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
     - t-005
     - t-006
 

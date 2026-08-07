@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8f80aee81ca8c87507943e06"
+canonical_name: "Apuolės pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Apuolės piliakalnis","Apuolės pilis","Apuolės pilis (pilis)"]
+sameAs: []
+canonical_biography: "Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspansijos atramų Kurše. Švedai ją buvo užėmę, o vėlesniame pasakojime pabrėžta, kad net sausakimša Apuolės piliakalnio aikštė negalėjo sutalpinti kronikose minimų kovotojų skaičių."
+place_authority: true
+historical_names: []
 ---
 # Apuolės pilis (pilis)
 
@@ -100,7 +109,8 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 - id: c-05708
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 114."
   citata_originali: |
     Archeolo­
     giniai duomens parodo apie 650 m. prasidedančią didelę švedų
@@ -119,7 +129,8 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 - id: c-31938
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 122."
   citata_originali: |
     Pagal vidurinių amžių kronikininkų
     didelių skaičių « ligą », yra perdėti skaičiai kuršių kovotojų Seeburgo

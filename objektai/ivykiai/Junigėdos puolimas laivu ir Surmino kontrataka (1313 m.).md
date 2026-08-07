@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-33398
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 227."
   citata_originali: |
     Pats
     Vytenis 1311 plėšė Sembą ir Natangą, paskui Varmę, bet Woplau­

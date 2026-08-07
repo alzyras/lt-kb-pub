@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-39c158a206e52c737b511108"
+canonical_name: "Mikalojus Husovianas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mikalojaus Husoviano","Mikalojus Husovianas"]
+sameAs: []
+canonical_biography: "Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ pristatoma kaip pirmoji Lietuvos poema ir renesansinis kūrinys, siekęs Vytauto laikus parodyti kaip idealą."
 ---
 # Mikalojus Husovianas
 
@@ -72,7 +79,8 @@ Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir med
 - id: c-176391
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 60."
   citata_originali: |
     Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas for-
     mavosi iškeliant Vytautą ir jo laikus. Jau pirmoji Lietuvos poema, tikras
@@ -93,9 +101,9 @@ Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir med
     - t-001
 
 - id: c-184842
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 236"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 236."
   citata_originali: |
     Miškas, kaip ir viduramžiais, kalbamu laikotarpiu buvo labai svarbi žmonių gyveni-
     mo erdvė. 1523 m. Mikalojus Husovianas poemoje De statura, feritate ae venatione bi-

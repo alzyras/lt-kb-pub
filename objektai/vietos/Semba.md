@@ -42,6 +42,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-97c9294dfebcf0fc36f074df"
+canonical_name: "Semba"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Semba"]
+sameAs: []
+canonical_biography: "Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos). 1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį. Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę."
+place_authority: true
+historical_names: []
 ---
 # Semba
 
@@ -552,7 +561,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-32417
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 349."
   citata_originali: |
     Bet (1410.VIII.)
     Livonijos kariuomenė laivais atvyko Sembon.
@@ -567,7 +577,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-166234
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­
     chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
@@ -593,7 +604,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-166237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 28-29"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 28-29."
   citata_originali: |
     12
 
@@ -633,7 +645,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-167193
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 36."
   citata_originali: |
     Kovo viduryje „lietuviai iš Žemaitijos
     užkariavo Klaipėdos miestą“ ir jį sudegino kartu su trimis gre-
@@ -651,7 +664,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-167194
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 38."
   citata_originali: |
     Prailgus budėti,
     tikėdami, kad lietuviai bus pasitraukę, jie
@@ -671,7 +685,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-167583
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
   citata_originali: |
     70 (69). Apie karo su sembais rezultatų atspėjimą
 
@@ -695,7 +710,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-167584
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Apie sembų pavergimą
 
@@ -719,7 +735,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-167585
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
   citata_originali: |
     Apie Sembos žemės nusiaubimą
     Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami
@@ -740,7 +757,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-167586
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
     mą
@@ -762,7 +780,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-167587
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Sitai padaręs,
     magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava,
@@ -782,7 +801,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-167588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     237 (230). Apie Sembos žemės nusiaubimą
 
@@ -804,7 +824,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-167765
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 260."
   citata_originali: |
     Drauge buvo ir Algirdas su savo būriais. Nuterioję
     Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­
@@ -821,7 +842,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-168491
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 104."
   citata_originali: |
     Ka­
     dangi miestą gynė rinktinių karių įgula, apsuptis
@@ -848,7 +870,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-168493
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 185."
   citata_originali: |
     Iš rusų šaltinių žinome, kad tais
     pačiais metais buvo Rusioje užkariautas Polockas, ta­
@@ -878,7 +901,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-175525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     123
     Kai 1253 metų pradžioje susiklostė draugiški Pamario
@@ -902,7 +926,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-175526
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Vadinasi, reikia sutikti su senovės autorių nuomone, jog
     tai — medžių sakai. Syvai, kurie kažkada sunkėsi iš ypa­
@@ -929,7 +954,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-175527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
   citata_originali: |
     Tad Nemuno žemupio pakrantes visų pirma de­
     ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
@@ -951,7 +977,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-175528
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 217."
   citata_originali: |
     Kvedliriburgo kronika mini prieš 1009 metus ru­
     sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos
@@ -974,7 +1001,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-175529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
   citata_originali: |
     Pavergęs slavų kraštą ir pamanęs, jog
     įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė

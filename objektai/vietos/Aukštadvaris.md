@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1aaa64468bd2bbee31c2252c"
+canonical_name: "Aukštadvaris"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aukštadvaris"]
+sameAs: []
+canonical_biography: "Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, | | Aukštadvarį ir pasiekė Jiezną."
+place_authority: true
+historical_names: []
 ---
 # Aukštadvaris
 
@@ -50,7 +59,8 @@ Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, | | Aukštadvarį ir pa
 - id: c-45028
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 177."
   citata_originali: |
     |
     | Kovo mėnesį vieną dieną pradėta organizuoti rinktinė iš Kauno ir Aukštosios Panemunės |

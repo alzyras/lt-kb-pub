@@ -32,7 +32,7 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 <a id="claim-t-22213"></a>
 - t-001
   teiginys: "Per rinkimų agitaciją valdžia viešai grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -55,7 +55,8 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 - id: c-24902
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 191."
   citata_originali: |
     Pusė jų – atrinkti komunistų partijos nariai, kiti komunistų simpatikai
     („nepartiniai komunistai“). Per rinkimų agitaciją valdžia daug dėmesio
@@ -74,7 +75,8 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 - id: c-176281
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 193."
   citata_originali: |
     Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių
     iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp

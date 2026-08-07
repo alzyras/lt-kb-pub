@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eec8adb91602be13321446d7"
+canonical_name: "Amianas Marcelinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Amianas Marcelinas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai apsigyveno Vyslos ir Nemuno tarpupyje. Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnus, keliavusius per Dneprą ir alanų kraštą pas Saporą. Narbutas agazirus tapatina su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje."
 ---
 # Amianas Marcelinas
 
@@ -52,7 +59,7 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
 <a id="claim-t-191938"></a>
 - t-002
   teiginys: "Narbutas agazirus tapatina su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje."
-  atnaujinta: "2026-07-19 20:03"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -131,7 +138,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
 - id: c-174053
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 63."
   citata_originali: |
     Į
     vakarus, pasak Jordano, keliavę tie alanai, kurie anks­
@@ -157,7 +165,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
 - id: c-174054
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Naru­
     ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
@@ -183,7 +192,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
 - id: c-174820
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Mes, užuot ieškoję tų toli­
     mų persikėlimų, iš dalies pripažinkime Jordano tiesą, iš

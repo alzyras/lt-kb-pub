@@ -94,7 +94,8 @@ Nenurodyta
 - id: c-174954
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 391."
   citata_originali: |
     Pasak tolesnių He-
     rodoto' pasakojimų4, budinai yra didelė ir gausi tauta, jie
@@ -118,7 +119,8 @@ Nenurodyta
 - id: c-175299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 391."
   citata_originali: |
     Ten yra helenų dievų bažnyčių, hele-
     nų papročiu tapytų dievų paveikslų (’EXXrpnxwg aexaxeua-

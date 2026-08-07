@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-19f809c711c0ac2d1249daa8"
+canonical_name: "Sacharos dykuma"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sacharos dykuma"]
+sameAs: []
+canonical_biography: "Narbutas remiasi autoriais, kurie, jo teigimu, kai kurių apeigų slėpimą pripažino ir Afrikos Sacharos dykumos gyventojams."
+place_authority: true
+historical_names: []
 ---
 # Sacharos dykuma
 
@@ -54,7 +63,8 @@ Narbutas remiasi autoriais, kurie, jo teigimu, kai kurių apeigų slėpimą prip
 - id: c-171949
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 197-198"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 197-198."
   citata_originali: |
     J98
 

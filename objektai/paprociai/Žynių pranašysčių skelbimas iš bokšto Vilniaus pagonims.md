@@ -107,7 +107,8 @@ Nenurodyta
 - id: c-83222
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 124."
   citata_originali: |
     Šalimais jo apvalus bokštas, iš plytų
     ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai

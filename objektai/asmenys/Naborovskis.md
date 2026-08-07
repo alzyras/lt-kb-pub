@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2703f2474803c28d3fcdebb5"
+canonical_name: "Naborovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Naborovskis"]
+sameAs: []
+canonical_biography: "Narbutas 1629 metų Naborovskio paminėjimą pateikia kaip pėdsaką, kad XVII amžiuje Lietuvoje buvo žinoma apie Gedimino kapą."
 ---
 # Naborovskis
 
@@ -61,7 +68,8 @@ Narbutas 1629 metų Naborovskio paminėjimą pateikia kaip pėdsaką, kad XVII a
 - id: c-173071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
   citata_originali: |
     Man sakė, kad vieno vienuolyno biblio­
     tekoje buvo XV amžiaus lotyniškas rankraštis - svarstymas

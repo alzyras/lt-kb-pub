@@ -59,7 +59,8 @@ Gruševskij : Očerki istorii Kievskoj zemli (Kijevas 1891) ; Istorija Ukraini-R
 - id: c-33681
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 95."
   citata_originali: |
     —Žr. LE, t. 14, 173 p.**
     (^145) **A. E. Presniakov:** **_Lekcii po russkoj istorii,_** **išsp. Maskvoje 1939. —-

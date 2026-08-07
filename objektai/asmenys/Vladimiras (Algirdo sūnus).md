@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d22cc456313316d52d667cd8"
+canonical_name: "Vladimiras (Algirdo sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladimiras (Algirdo sūnus)"]
+sameAs: []
+canonical_biography: "Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­ štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­ dimirą ir pagaliau."
 ---
 # Vladimiras (Algirdo sūnus)
 
@@ -52,7 +59,8 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 301."
   citata_originali: |
     Bet Vytautas su jais nedarė ilgų ce­
     remonijų. Pritariamas Jogailos, jis pirmiausia atėmė valdomą

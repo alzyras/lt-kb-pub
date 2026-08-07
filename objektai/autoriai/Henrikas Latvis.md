@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-93f920b06647c75cfbd51603"
+canonical_name: "Henrikas Latvis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Henrikas Latvis"]
+sameAs: []
+canonical_biography: "Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimynų šaltiniai (Livonijoje Henrikas Latvis, Eiliuotinė kronika; Volinijoje Ipatijaus kronika), iškeldami gerą pagonių apsiginklavimą."
 ---
 # Henrikas Latvis
 
@@ -177,7 +184,8 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
 - id: c-156011
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 23."
   citata_originali: |
     Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti
 
@@ -203,7 +211,8 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
 - id: c-156012
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 145."
   citata_originali: |
     Aukšta papuošalų apdirbimo technika parodo, jog Lietuvoje
     būta nagingų amatninkų. Amato išsivystymą pas lietuvius patvir­
@@ -225,7 +234,8 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
 - id: c-156013
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
@@ -243,7 +253,8 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
 - id: c-171292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
   citata_originali: |
     Henriko Latvio kronikos prierašuose, arba pastabose, ku­
     rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias

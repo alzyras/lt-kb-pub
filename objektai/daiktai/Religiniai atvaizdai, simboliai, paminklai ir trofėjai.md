@@ -62,7 +62,8 @@ Nenurodyta
 - id: c-172626
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
   citata_originali: |
     Dėl to buvo išrasti atvaizdai, sim­
     boliai, paminklai, trofėjai. Jie, pažymėti tikėjimo ženklu, susi­

@@ -60,7 +60,8 @@ Moksli­ niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenk
 - id: c-29823
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 74."
   citata_originali: |
     Moksli­
     niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija

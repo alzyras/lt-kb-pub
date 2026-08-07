@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c3c10a058144b03b6c4456b4"
+canonical_name: "R. Jablonskytė-Rimantienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["R. Jablonskytė-Rimantienė"]
+sameAs: []
+canonical_biography: "Jablonskytė - Rimantienė pateikė duomenų apie seniausias akmens amžiaus stovyklas Lietuvoje^98."
 ---
 # R. Jablonskytė-Rimantienė
 
@@ -50,7 +57,8 @@ Jablonskytė - Rimantienė pateikė duomenų apie seniausias akmens amžiaus sto
 - id: c-33113
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 83."
   citata_originali: |
     P. Kulikauskas, R. Kulikauskienė ir A. Tautavi­
     čius išleido knygą _Lietuvos archeologijos bruožai_ (1961). Be jų,

@@ -62,9 +62,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184731
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 192"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 192."
   citata_originali: |
     Alberto ir veisimos Padaugavy
     vokyčių didžiai netiko lietuviams ir žemaičiams, ku­

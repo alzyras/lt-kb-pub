@@ -46,9 +46,9 @@ Po tos mūšos kuržemiai atėjo į abažą žemaičių, stovintį ties Sintele,
 ## Citatos
 
 - id: c-184592
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 381"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 381."
   citata_originali: |
     Jurgio užėmė1 2.
     Po tos mūšos kuržemiai atėjo į abažą žemaičių,

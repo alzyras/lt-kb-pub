@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e8df38dec86bbb17129dd08"
+canonical_name: "Kilimėlis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kilimėlis","Kilimėlis (vieta)"]
+sameAs: []
+canonical_biography: "Vienok tuo tarpu, norėdamas gelbėti kalavijonis, išsiuntė Libencelį, kamendotą Ragainės, į Lietuvą, vildamos tuomi sugrąžinsią lietuvius, ka riaujančius Padaugavy su kalavijonimis; tasai, dvi pili tenai sugriovęs, vieną, vadinamą Kilimėliu, ant Nemuno kranto."
+place_authority: true
+historical_names: []
 ---
 # Kilimėlis (vieta)
 
@@ -46,9 +55,9 @@ Vienok tuo tarpu, norėdamas gelbėti kalavijonis, išsiuntė Libencelį, kamend
 ## Citatos
 
 - id: c-184519
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 489"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 489."
   citata_originali: |
     Toms audroms verčiant Padaugavy, didysis mis­
     tras kryžėjų Foichtvangenas, atkeliavęs į Parusnį,

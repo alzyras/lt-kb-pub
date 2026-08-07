@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c57a81626e8cd2db7f05bcd0"
+canonical_name: "Gustavas Adolfas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gustavas Adolfas"]
+sameAs: []
+canonical_biography: "Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su savo ponais, atsisakė nuo sosto. Sostas atiteko Karoliui X Gustavui, Gustavo Adolfo sesers ir Vokietijos Cveibriukeno kunigaikščio sūnui. Po jo mirties karalium buvo paskelbtas jaunutis jo sūnus Gustavas Adolfas."
 ---
 # Gustavas Adolfas
 
@@ -73,7 +80,8 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
 - id: c-76124
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 341."
   citata_originali: |
     Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipy-
     kusi su savo ponais, atsisakė nuo sosto. Sostas atiteko Karo-
@@ -92,7 +100,8 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
 - id: c-76126
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 119."
   citata_originali: |
     Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo
     vadovaujama švedų kariuomenė ėmė skinti pergales prieš kata-

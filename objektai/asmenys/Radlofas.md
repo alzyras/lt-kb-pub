@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b38d585371a5a24af0f013ea"
+canonical_name: "Radlofas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Radlofas"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės palydovų žuvimo fenomeną, siejamą su senaisiais padavimais. Teodoro Narbuto pasakojime Radlofas manė, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos. Teodoro Narbuto aiškinimu, Cigno ir Fajetono mito turinys sutapo su Radlofo požiūriu, o šios žinios į graikų poeziją pateko iš padavimų."
 ---
 # Radlofas
 
@@ -98,7 +105,8 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
 - id: c-174109
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
   citata_originali: |
     Taip įsivaizduojame mūsų žemyno susifor­
     mavimą.
@@ -123,7 +131,8 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
 - id: c-174856
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 152."
   citata_originali: |
     Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­
     delis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­

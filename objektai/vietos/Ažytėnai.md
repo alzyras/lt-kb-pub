@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6aa0b931251c8d04e09c82f5"
+canonical_name: "Ažytėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ažytėnai","Ažytėnų","į Ažytėnus"]
+sameAs: []
+canonical_biography: "Ažytėnai apibūdinami kaip menka vietelė, kurios atmintyje išlikęs degtinės laikų triukšmingas gyvenimas."
+place_authority: true
+historical_names: []
 ---
 # Ažytėnai
 

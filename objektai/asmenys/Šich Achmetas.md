@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3eefc7c0774da21a87adbcbe"
+canonical_name: "Šich Achmetas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šich Achmetas"]
+sameAs: []
+canonical_biography: "Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą. Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą. Šich Achmetas buvo Achmato sūnus ir paskutinis Aukso ordos chanas."
 ---
 # Šich Achmetas
 
@@ -49,7 +56,7 @@ media_all_json: |-
 <a id="claim-t-195008"></a>
 - t-002
   teiginys: "Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,7 +66,7 @@ media_all_json: |-
   semantiniai_rysiai: "[[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Radomas"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-177390
+    - c-177391
 
 <a id="claim-t-196657"></a>
 - t-003
@@ -167,7 +174,8 @@ media_all_json: |-
 - id: c-177390
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 581"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 581."
   citata_originali: |
     Dėl karaliaus ligos seimas buvo pa­
     leistas, kadangi vargu ar ką galima buvo benuveikti.
@@ -191,12 +199,12 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-177391
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 579"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 579."
   citata_originali: |
     Karalius įsakė parūpinti Šich Achmetui pui­
     kiausią svitą ir palydėti jį į Radomą. Pakviestas į se­
@@ -211,14 +219,17 @@ media_all_json: |-
   citata_rodoma: "Karalius įsakė parūpinti Šich Achmetui pui­\nkiausią svitą ir palydėti jį į Radomą. Pakviestas į se­\nnato posėdį, jis, be galo išraiškingai kalbėdamas, nusi­\nskundė, kad, girdi, kovodamas už Lenkijos bei Lietu­\nvos reikalus, buvęs priešo krašte nelyginant išduotas;\nišeikvojęs visus turtus kariuomenei išlaikyti, dabar,\nlaužant duotą žodį, turįs kęsti smurtą, negalėdamas su­\nsilaukti nei laisvės, nei pagalbos kovoje prieš Krymo\nskitus. Karaliaus ir luomų vardu jam šitaip buvo atsa­\nkyta."
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-178822
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 579"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 579."
   citata_originali: |
     Nieko nežinoda­
     mi apie karaliaus sumanymus, į seimą kaip paprastai

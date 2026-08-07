@@ -59,7 +59,8 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
 - id: c-59546
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 279."
   citata_originali: |
     Adomas
     Agnetė šv.

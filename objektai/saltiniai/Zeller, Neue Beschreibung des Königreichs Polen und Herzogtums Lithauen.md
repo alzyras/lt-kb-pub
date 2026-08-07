@@ -51,7 +51,8 @@ Zellerio 1663 m. veikalas „Neue Beschreibung des Königreichs Polen und Herzog
 - id: c-174746
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
   citata_originali: |
     Vadi­
     nasi, čia gyventa jau iki IV amžiaus.

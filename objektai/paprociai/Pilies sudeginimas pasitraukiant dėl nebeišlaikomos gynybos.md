@@ -52,12 +52,12 @@ Nenurodyta
 <a id="claim-t-62711"></a>
 - t-001
   teiginys: "Miestiečiai ir pilėnai, manydami nebegalėsią atsilaikyti prieš antpuolį, sudegino pilį bei miestą ir pasitraukė su šeimynomis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-63470
+    - c-63469
 
 <a id="claim-t-62712"></a>
 - t-002
@@ -82,7 +82,8 @@ Nenurodyta
 - id: c-63468
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
   citata_originali: |
     Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
     manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei
@@ -99,7 +100,8 @@ Nenurodyta
 - id: c-63469
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
   citata_originali: |
     Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,
     kurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
@@ -109,14 +111,17 @@ Nenurodyta
   citata_rodoma: "Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,\nkurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,\nmanydami daugiau nebegalėsią priešintis prasidėjus antpuoliui. Todėl, sudeginę pilį bei\nmiestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos\nreikmenų, kiek ant pečių galėjo pakelti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-63470
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 141."
   citata_originali: |
     Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis
 
@@ -136,5 +141,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

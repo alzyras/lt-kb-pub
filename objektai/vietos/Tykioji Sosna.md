@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6331bb3af6a3f7f4eb111d5f"
+canonical_name: "Tykioji Sosna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tykioji Sosna"]
+sameAs: []
+canonical_biography: "Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tykioji Sosna šiame gabale žymi konflikto vietą."
+place_authority: true
+historical_names: []
 ---
 # Tykioji Sosna
 
@@ -31,14 +40,14 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
 <a id="claim-t-199949"></a>
 - t-001
   teiginys: "Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius."
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Atribucija palikta dėl priešiško maskvėnų vaizdavimo kronikos pasakojime. Nepridėta nebaigtos citatos fragmentų apie pagrobtus daiktus."
   susije_objektai: "mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Maskva; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; llm_object: Tykioji Sosna"
   semantiniai_rysiai: "[[objektai/grupes/Maskvėnai|Maskvėnai]] puolė Tykioji Sosna"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182936
 

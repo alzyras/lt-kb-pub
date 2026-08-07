@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2b977544bdc19c0125899d42"
+canonical_name: "Anastazija (Dobrynės kunigaikštienė)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Anastazija (Dobrynės kunigaikštienė)"]
+sameAs: []
+canonical_biography: "Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­ gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­ linkės1 1 ."
 ---
 # Anastazija (Dobrynės kunigaikštienė)
 
@@ -50,7 +57,8 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 - id: c-83598
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 85."
   citata_originali: |
     Tokios
     didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6a6c27570e03046f8334c7e6"
+canonical_name: "Lacijus"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lacijus"]
+sameAs: []
+canonical_biography: "Narbutas senovės Lacijuje užsimezgusią romėnų karalystę aiškina kaip Apvaizdos parengtą Europos apšvietos sargą."
+place_authority: true
+historical_names: []
 ---
 # Lacijus
 
@@ -54,7 +63,8 @@ Narbutas senovės Lacijuje užsimezgusią romėnų karalystę aiškina kaip Apva
 - id: c-171902
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
   citata_originali: |
     Tačiau pernelyg didelis graikų nepastovumas - didelė yda
     šalia tų gražių privalumų - lėmė daug pasaulietinių ir religi­

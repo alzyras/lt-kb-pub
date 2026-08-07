@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd08efe3d93fc6ffdd8dab09"
+canonical_name: "Vitlandija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vitlandija"]
+sameAs: []
+canonical_biography: "Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už pagalbą kryžiuočiams užkariaujant sambius. Narbutas pabrėžė, kad Vitlandija minima atskirai greta Sambijos ir kad toks skirtumas aptinkamas jau 1224 metų Honorijaus III bulėje. Ten pažymėta krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi nimą už suteiktą kryžiuočiams pagalbą užkariaujant sambius, o būtent Sambiją, Vitlandiją ir dalį Varmijos."
+place_authority: true
+historical_names: []
 ---
 # Vitlandija
 
@@ -86,7 +95,8 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
 - id: c-175602
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Ligi šiol žinoma seniausia sutartis, primenanti dingu­
     sios Sambijos dalies egzistavimą senovėje; ji esanti 1246
@@ -107,7 +117,8 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
 - id: c-175603
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Visų pirma čia Vitlandija minima atski­
     rai greta Sambijos. Sis skirtumas yra esminis dalykas;

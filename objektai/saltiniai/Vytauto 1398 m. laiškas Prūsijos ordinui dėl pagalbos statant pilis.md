@@ -59,7 +59,8 @@ Vy­ tautas viename laiške, tais metais da­ tuotame, kuriame žada Prūsijos o
 - id: c-84477
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 33."
   citata_originali: |
     Jau 1398 metais, po
     krikščionių tikėjimo Vilniuje priėmi­

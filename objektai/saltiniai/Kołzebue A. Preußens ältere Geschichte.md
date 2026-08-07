@@ -60,7 +60,8 @@ Dusburgietis teigia, kad kołzebue A.
 - id: c-61736
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
   citata_originali: |
     Kołzebue A. Preußens ältere Geschichte.— Bd. 2.— Riga, 1808.
   statusas: verified

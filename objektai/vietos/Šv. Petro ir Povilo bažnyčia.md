@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d3775117119e4e897ed844d2"
+canonical_name: "Šv. Petro ir Povilo bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Petro ir Povilo bažnyčia"]
+sameAs: []
+canonical_biography: "Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar tęsėsi dvejus metus, bet didysis altorius nebuvo užbaigtas. Vorobjovas Šv. Petro ir Povilo bažnyčios skulptūrinę dekoraciją vadina svarbiausiąja šios bažnyčios įžymybe. Vorobjovas Šv. Petro ir Povilo bažnyčios lipdytinių skulptūrų šypseną apibūdina kaip žemišką, atvirą, saulėtą ir šiltą."
+place_authority: true
+historical_names: []
 ---
 # Šv. Petro ir Povilo bažnyčia
 

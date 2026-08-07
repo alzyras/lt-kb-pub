@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a530743669ba4b24c80581d"
+canonical_name: "Pranciškonų Švč. Mergelės Marijos Dangun Ėmimo bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pranciškonų Švč. Mergelės Marijos Dangun Ėmimo bažnyčia"]
+sameAs: []
+canonical_biography: "Centrinėje raižinio dalyje, šalia parapinės bažnyčios, į dangų šauna liaunas pranciškonų Švč."
+place_authority: true
+historical_names: []
 ---
 # Pranciškonų Švč. Mergelės Marijos Dangun Ėmimo bažnyčia
 
@@ -41,9 +50,9 @@ Centrinėje raižinio dalyje, šalia parapinės bažnyčios, į dangų šauna li
 ## Citatos
 
 - id: c-185086
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 386"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 386."
   citata_originali: |
     Bet jos statyba dar nebaigta, nesimato
     varpinės bokšto ir pietinių navų, pietinį fasadą remia 4 kontraforsai. Centrinėje raiži-

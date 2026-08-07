@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3aaf9ef28f6cf64a61ead069"
+canonical_name: "L. Mulevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["L. Mulevičius"]
+sameAs: []
+canonical_biography: "Mulevičius 120."
 ---
 # L. Mulevičius
 
@@ -61,7 +68,8 @@ Mulevičius 120.
 - id: c-33013
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 87."
   citata_originali: |
     Apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje
     pasirodė keletas kolektyvinių veikalų 1964 ir 1965 m.; apie jį rašė

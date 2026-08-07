@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a323589eea8e30260ac3c6c"
+canonical_name: "Rudbekas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rudbekas"]
+sameAs: []
+canonical_biography: "Narbutas Rudbeką mini tarp autorių, rašiusių apie Šiaurės tautų lopšį nuo Jordano iki Rudbeko ir Basės."
 ---
 # Rudbekas
 
@@ -53,7 +60,8 @@ Narbutas Rudbeką mini tarp autorių, rašiusių apie Šiaurės tautų lopšį n
 - id: c-174858
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
   citata_originali: |
     O iš čia didelė tauta ėmė lietis į
     visus kraštus; iš eilės Europos vakarai, šiaurė, rytai bei

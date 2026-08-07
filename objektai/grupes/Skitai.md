@@ -121,7 +121,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 <a id="claim-t-192464"></a>
 - t-005
   teiginys: "514 metais prieš Kristų Darijus patraukė prieš Indatirą, kai skitai, Narbuto žodžiais, neketino žemintis."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -376,7 +376,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-172368
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 364."
   citata_originali: |
     Šiuo po­
     žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
@@ -395,7 +396,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-172369
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
   citata_originali: |
     Išilgai Dnepro krantų, tarp Mogiliovo ir Rogačiovo,
     esama begalės šitokių kapų; atrodo, tarytum tas kraštas būtų
@@ -415,7 +417,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-172370
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 436"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 436."
   citata_originali: |
     Matoma, kad jie apsigyveno toli­
     muose Siaurės Europos rytuose seniausiai, kai tik slavų gen­
@@ -440,7 +443,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-175255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
   citata_originali: |
     Į tai atsi­
     žvelgus, nesunku padaryti prielaidą, jog tam tikri žmo­
@@ -466,7 +470,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-175258
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     Kadangi priešo būriai buvo narsūs ir puikiai gink­
     luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
@@ -493,7 +498,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-175259
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 145."
   citata_originali: |
     Skitai gintarą turėdavo gauti keliu,
     ėjusiu palei Baltijos jūrą upe, kuri į ją įteka. Mokslininkai klydo ma­
@@ -520,7 +526,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-176068
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 79."
   citata_originali: |
     Todėl jis ėmė galvoti
     apie karą: įsakęs nurodytą dieną atvykti, sutraukė tvir­
@@ -545,7 +552,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-176069
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 84."
   citata_originali: |
     Karą prieš Skirmantą susimanė rengti Balakla-
     jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
@@ -577,7 +585,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-176070
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 89."
   citata_originali: |
     Vieniems
     stiprino dvasią noras atkeršyti ir turto pasiplėšti, ki­
@@ -600,7 +609,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-176072
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Mat juodi debesys ap­
     traukė dangų, pakilo nepaprasta audra, sugriaudėjo
@@ -631,7 +641,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-176073
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     Beje, ir Vytautas ne tiek paisė ką tik patirtos ne­
     sėkmės, kiek rūpinosi asmenine garbe ir nauda, norė­
@@ -654,7 +665,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-176076
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 573"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 573."
   citata_originali: |
     Mat paliaubų susitarimas,
     pasak Ivano, apimąs tik kaimiečius ir nusikaltėlius, bet
@@ -679,7 +691,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-177262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 51."
   citata_originali: |
     32
     Skitų gentys dalijosi į įvairias kartas arba klases, bet
@@ -703,7 +716,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-177263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
   citata_originali: |
     33
     Jau labai senais laikais graikai užmezgė santykius su
@@ -731,7 +745,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-178544
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 85."
   citata_originali: |
     Kova virte virė, galop
     skitai buvo nuvyti, o pats kunigaikštis žuvo. Skirman­
@@ -752,7 +767,8 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
 - id: c-178545
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 487"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 487."
   citata_originali: |
     Labiausiai gin­
     čytasi dėl dviejų pagrindinių klausimų. Lietuviai visų

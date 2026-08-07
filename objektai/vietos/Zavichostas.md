@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9f193cbb26d964dee520d389"
+canonical_name: "Zavichostas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zavichostas"]
+sameAs: []
+canonical_biography: "Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto. Lietuvių kariai, primetę į miestą pagalių, sudegino visą Zavichostą. Kojelavičius, remdamasis Strijkovskiu ir rusų metraštininkais, rašo, kad lietuvių kariuomenė su grobiu traukė į stovyklą netoli Zavichosto."
+place_authority: true
+historical_names: []
 ---
 # Zavichostas
 
@@ -104,7 +113,8 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
 - id: c-168618
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 275."
   citata_originali: |
     Tuo
     tarpu Jogaila, atsikratęs rū­
@@ -138,7 +148,8 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
 - id: c-170630
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 84-85"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 84-85."
   citata_originali: |
     Kai visi lietuviai kariai, paėmę po pagalį, me­
     tė į miestą ir primėtė pilną miestą pagalių, uždegė vi­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-33ac4da8946beeacb3d4346b"
+canonical_name: "Avigenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Avigenas"]
+sameAs: []
+canonical_biography: "Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir jai vadovavo lyg etmonas."
 ---
 # Avigenas
 
@@ -53,7 +60,8 @@ Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir j
 - id: c-169457
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 86."
   citata_originali: |
     Rodosi, tų pačių valdovų viešpatavimo metais Livoni-
     stydamiesi krikščionybės platinimo tikslais, karą jie vis

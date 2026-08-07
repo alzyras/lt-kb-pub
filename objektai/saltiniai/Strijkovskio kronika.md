@@ -53,7 +53,8 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad Strijkovskio laikais dar girdėta
 - id: c-174697
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 119."
   citata_originali: |
     115
     Strijkovskis savo amžiuje dar girdėjo apie likučius

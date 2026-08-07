@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dab54a74eaa44a79510c8767"
+canonical_name: "O. Navickaitė-Kuncienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["O. Navickaitė-Kuncienė"]
+sameAs: []
+canonical_biography: "Navickaitė-Kuncienė, O. Navickaitė, O."
 ---
 # O. Navickaitė-Kuncienė
 
@@ -79,7 +86,8 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
 - id: c-33082
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 147."
   citata_originali: |
     —Matusas, J. : _Odų ir kailių
     gamyba senovės Lietuvoje iki XVI amžiaus pabaigos_ , Aidai, 1959, nr. 3-4,
@@ -108,7 +116,8 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
 - id: c-33083
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 154."
   citata_originali: |
     — (”) _Romove,_ ten pat, X sjazda,
     1899. — (”) _Der Eid des Keistutis im Jahre 1351,_ Sitzungsber. d.

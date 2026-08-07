@@ -50,7 +50,8 @@ Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekę
 - id: c-59767
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
   citata_originali: |
     Vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio
     šventumo, kad didįjį penktadienį per pamaldas, kai klūpodamas pasilenkė kryžiaus

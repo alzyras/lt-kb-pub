@@ -75,7 +75,7 @@ Nenurodyta
 <a id="claim-t-05326"></a>
 - t-002
   teiginys: "Lenkai pasienyje sulaikė Cigalos delegaciją, atėmė diplomus ir taip sužlugdė 1430.IX.8 Vilniuje planuotą vainikavimą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vytauto karūnacijos byla (1429–1430 m.): 0.58"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -88,7 +88,6 @@ Nenurodyta
   semantiniai_rysiai: "Lenkai puolė Vytauto karūnacijos byla (1429–1430 m.) (0.58)"
   pagrindžia:
     - c-04918
-    - c-67067
 
 <a id="claim-t-66987"></a>
 - t-003
@@ -174,7 +173,8 @@ Nenurodyta
 - id: c-04918
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 381."
   citata_originali: |
     Kada jau tarp Lenkijos ir Lietuvos sklido karo gandas, lenkai,
     nebegalėdami Vytauto sulaikyti nuo vainiko — nes ir vainikavimo
@@ -194,7 +194,8 @@ Nenurodyta
 - id: c-67061
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 379."
   citata_originali: |
     Vytautui tai davė progos Jogailą kaltinti, jog jis
     jau visai patekęs savo patarėjų įtakon, nenorįs jų pašalinti ir nesi­
@@ -216,7 +217,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 217."
   citata_originali: |
     Tad norisi manyti, kad tokiam Vytauto atšalimui reikia ieškoti
     gilesnių priežasčių, kaip, pav., jo siekime karūnuotis Lenkijos
@@ -239,7 +241,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 222."
   citata_originali: |
     Bet ir
     šį kartą Vytautas, nežiūrint net gilios jo senatvės, dar smar­
@@ -262,7 +265,8 @@ Nenurodyta
 - id: c-67067
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 381."
   citata_originali: |
     Tuo metu susirinkę Vilniuje daug kunigaikščių ir kitų svečių
     laukė IX.8 d. iškilmės ir Vytauto triumfo. Lenkai dar labiau su­
@@ -271,16 +275,15 @@ Nenurodyta
     Vokietijon. Vainikavimas susitrukdė.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-167961
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 417"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 417."
   citata_originali: |
     Štai todėl karalius po senato posėdžio, net neatsi­
     sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
@@ -306,7 +309,8 @@ Nenurodyta
 - id: c-178605
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 417-418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 417-418."
   citata_originali: |
     Vytautas, pasipiktinęs ne tiek
     dėl pralaimėjimo, kiek dėl

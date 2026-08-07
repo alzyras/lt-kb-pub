@@ -59,7 +59,7 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
 <a id="claim-t-70177"></a>
 - t-002
   teiginys: "Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -89,7 +89,8 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
 - id: c-69260
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 122."
   citata_originali: |
     Daugelis bajorų apskritai nesuprato
     lietuvių siekių, o bendradarbiavimą su jais laikė negarbe.
@@ -109,7 +110,8 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
 - id: c-69261
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 116."
   citata_originali: |
     Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
     tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
@@ -129,7 +131,8 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
 - id: c-166824
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 115."
   citata_originali: |
     Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose
     pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai

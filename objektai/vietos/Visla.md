@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1462315388ed506152830288"
+canonical_name: "Visla"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Visla"]
+sameAs: []
+canonical_biography: "1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos. Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį. Lietuvos metraštis Jogailos žygius į Lenkų žemę vaizduoja kaip žalą ir krikščionių kraujo praliejimą nuo Lietuvos sienų iki Vislos."
+place_authority: true
+historical_names: []
 ---
 # Visla
 
@@ -101,7 +110,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 154."
   citata_originali: |
     Tik
     kada patys Prūsijos krašto gyventojai prieš kryžiuočius sukilo,
@@ -122,7 +132,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 153."
   citata_originali: |
     Tačiau šį kartą Vytautui neteko
     su Ordino kariuomene susitikti atvirame mūšyje, nes vokiečiai
@@ -140,7 +151,8 @@ media_all_json: |-
 - id: c-170621
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 84."
   citata_originali: |
     APIE JOGAILOS ŽYGĮ I LENKIJĄ IR ŠVENTOJO KRYŽIAUS
     MEDŽIO PAGROBIMĄ

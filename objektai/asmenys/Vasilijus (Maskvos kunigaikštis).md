@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0ec9fa25f8ec19941a7a164c"
+canonical_name: "Vasilijus (Maskvos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vasilijus (Maskvos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės. Po Vasilijaus valdų nusiaubimo Vasilijus turėjo prašyti taikos ir pažadėti neremti Švitrigailos. Vasilijus nurodė paleisti nelaisvėje buvusius lietuvius, bet sulaikė Mikalojų Glebavičių."
 ---
 # Vasilijus (Maskvos kunigaikštis)
 
@@ -124,7 +131,8 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
 - id: c-169353
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 324-325"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 324-325."
   citata_originali: |
     Priėmus nutarimą, ieškota žmogaus, kuriam be
     pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
@@ -158,7 +166,8 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
 - id: c-169354
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 368."
   citata_originali: |
     Viską apgalvojęs, galop įsakė kavalerijos pul­
     kų vadams paieškoti miškuose ir pelkėse neužkirstų pro­
@@ -188,7 +197,8 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
 - id: c-169355
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 608"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 608."
   citata_originali: |
     Karalius ketino atkeršyti už šią skriau­
     dą, tačiau, Vladislovui, Vengrijos karaliui, tarpininkau­

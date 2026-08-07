@@ -77,7 +77,8 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 - id: c-22741
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 15."
   citata_originali: |
     tuvių kalba. Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
     tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu
@@ -97,7 +98,8 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 - id: c-22742
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Modernioji Lietuvos samprata susidūrė su didžiule problema – etninės
     Lietuvos pietrytinėje dalyje XX a. pradžioje lietuvių kalba buvo užleidusi

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0323fbf9db37dab34be45b93"
+canonical_name: "Steponas Bizantietis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Steponas Bizantietis"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas nurodo, kad Steponas Bizantietis, Eustatijas, scholastai ir vėlesni Bizantijos tyrinėtojai vartojo formą ’Iv8ixvję."
 ---
 # Steponas Bizantietis
 
@@ -54,7 +61,8 @@ Teodoras Narbutas nurodo, kad Steponas Bizantietis, Eustatijas, scholastai ir v�
 - id: c-174464
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 394"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 394."
   citata_originali: |
     Si pataisa prieštarauja visiems rankraščiams (Co-
     dices)i1, be to, yra tik paprasta prielaida, anot Veselnigo,

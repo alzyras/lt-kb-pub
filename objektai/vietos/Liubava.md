@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2383217a3b70e3738db77a41"
+canonical_name: "Liubava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liubava"]
+sameAs: []
+canonical_biography: "Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės grobio dalies."
+place_authority: true
+historical_names: []
 ---
 # Liubava
 
@@ -52,7 +61,8 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
 - id: c-168614
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 179."
   citata_originali: |
     Vėliau, be tvarkos kelian­
     180

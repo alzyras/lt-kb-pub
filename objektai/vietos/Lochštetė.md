@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-034d7e46f9f8b2ea4995dd11"
+canonical_name: "Lochštetė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lochštetė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama apie Tepliavos ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė iš. Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų pilis315, degindamas ir grobdamas abiejose [kelio]. Dusburgietis teigia, kad 315 D.— castrum Lochstete, Jer.— burc. Lôchstete; Laukstetų pilis Sembos pietvakarių kyšulyje (žr. paaiškinimus D. III, 112, 3)."
+place_authority: true
+historical_names: []
 ---
 # Lochštetė
 
@@ -73,11 +82,19 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 <a id="claim-t-58322"></a>
 - t-003
   teiginys: "Lochštetės pilis stovėjo Sembos pietvakarių kyšulyje."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Semba: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lochštetė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lochštetės pilis lokalizuojama Sembos pietvakarių kyšulyje."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lochštetė priklausė Semba (0.78)"
   pagrindžia:
-    - c-58953
+    - c-58955
 
 <a id="claim-t-58323"></a>
 - t-004
@@ -166,7 +183,8 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 - id: c-58951
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
     Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino
@@ -185,7 +203,8 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 - id: c-58952
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 103."
   citata_originali: |
     Apie Girmavos valsčiaus nuniokojimą
     Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
@@ -208,7 +227,8 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 - id: c-58953
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     Vaidžiai, Vaidbaliai (GAO, p. 191, 198),
     Vaidlėnai, Vaidlonys, Vaidulioniai, Vaideliotai.
@@ -222,26 +242,29 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
 
 - id: c-58955
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
   citata_originali: |
     315 D.— castrum Lochstete, Jer.— burc. Lôchstete; Laukstetų pilis Sembos pietvakarių
     kyšulyje (žr. paaiškinimus D. III, 112, 3).
   citata_rodoma: "315 D.— castrum Lochstete, Jer.— burc. Lôchstete; Laukstetų pilis Sembos pietvakarių\nkyšulyje (žr. paaiškinimus D. III, 112, 3)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-58956
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
     apie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c222e602048cec3cbf1ae51b"
+canonical_name: "Petro Sahaidačnij"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petro Sahaidačnij"]
+sameAs: []
+canonical_biography: "etmono Petro Sahaidačnij vadovaujamų Ukrainos kazokų."
 ---
 # Petro Sahaidačnij
 
@@ -50,7 +57,8 @@ etmono Petro Sahaidačnij vadovaujamų Ukrainos kazokų.
 - id: c-44489
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 114."
   citata_originali: |
     viso 8650 karių. Šią kariuomenę Lietuvos
     didysis etmonas padalino į trylika pulkų.

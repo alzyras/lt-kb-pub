@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4c96640e28e8dc0e22ea523"
+canonical_name: "J. Stankus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Stankus"]
+sameAs: []
+canonical_biography: "Stankus, J. — Stankus, J."
 ---
 # J. Stankus
 
@@ -61,7 +68,8 @@ Stankus, J. — Stankus, J.
 - id: c-32979
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 147."
   citata_originali: |
     — Pašuto, V. : _Cho-
     ziajstvo i technika srednevekovoj Litvy_ , VIst, nr. 8, 1947, 74 sqq. —

@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0869d22bdb95819864c0a428"
+canonical_name: "Inocentas VI"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Inocentas VI"]
+sameAs: []
+canonical_biography: "Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­ pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos kunigaikščio Algirdo."
 ---
 # Inocentas VI
 
@@ -53,7 +60,8 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 119."
   citata_originali: |
     Tuo reikalu pas popiežių buvo
     siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­

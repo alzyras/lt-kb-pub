@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1e7011e38007a1bd20ac8136"
+canonical_name: "Cvinglis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Cvinglis"]
+sameAs: []
+canonical_biography: "Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos, vadinamo Juoduoju."
 ---
 # Cvinglis
 
@@ -61,7 +68,8 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
 - id: c-83625
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 299."
   citata_originali: |
     Tik po dvejų metų kapitula, patyrusi, kad
     jau po visą sostinę pasklido kitatikystė, ėmė raginti vysku­

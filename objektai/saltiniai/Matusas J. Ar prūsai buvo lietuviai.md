@@ -58,7 +58,8 @@ Dusburgietis teigia, kad matusas J.
 - id: c-61793
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Matusas J. Ar prūsai buvo lietuviai? — Vairas, 1936, Nr. 7— 8, p. 697—705.
   statusas: verified

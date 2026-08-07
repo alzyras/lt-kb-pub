@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-851e97e8e9a908939a5bd34b"
+canonical_name: "Sabinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sabinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė įvairiose vietose, notangai, piktosios dvasios sukurstyti, dar kartą pakluso senam įsiūčiui ir iš neapykantos Jėzui Kristui vėl padarė atskalūnybės nuodėmę, o savo kariuomenės vadu išsirinko vyrą, vardu Sabinas."
 ---
 # Sabinas
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
 - id: c-61063
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Apie tai sužinojęs,
     magistras be galo sunerimo (jis mat būgštavo, kad gali rastis naujų pavojų jam pačiam

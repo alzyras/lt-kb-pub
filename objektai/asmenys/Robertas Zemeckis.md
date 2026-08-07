@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-78977475315738af6a468a89"
+canonical_name: "Robertas Zemeckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Robertas Zemeckis"]
+sameAs: []
+canonical_biography: "Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas."
 ---
 # Robertas Zemeckis
 
@@ -39,7 +46,8 @@ media_all_json: |-
 - id: c-21948
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 264."
   citata_originali: |
     Lenkijos prezidento Bronislovo Komo-
     rovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-

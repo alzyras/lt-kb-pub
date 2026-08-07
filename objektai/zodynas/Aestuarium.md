@@ -103,7 +103,8 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
 - id: c-175088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Aestuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
     seklias vietas, kurios kartais būva apsemtos, o kartais —

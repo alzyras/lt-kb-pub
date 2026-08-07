@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7556d2b0ef29bbb903666c6e"
+canonical_name: "Nameisis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nameisis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III, 204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes, pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį."
 ---
 # Nameisis
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino v
 - id: c-61026
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
     bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga

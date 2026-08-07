@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0ecd9ee7c7e71874f0a79043"
+canonical_name: "Irpenė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Irpenė"]
+sameAs: []
+canonical_biography: "Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusijos sostinės miestą Kijevą ir prijungė Kijevo kunigaikštystę prie Lietuvos; Gediminas prie Irpenės 34 AIZKRAUKLĖS MUSIS 1279 m."
+place_authority: true
+historical_names: []
 ---
 # Irpenė
 
@@ -59,7 +68,8 @@ Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusij
 - id: c-45108
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 36."
   citata_originali: |
     Jį pasitiko išėję iš miesto igu-
     menai, šventikai, bajorai ir atvėrę miesto

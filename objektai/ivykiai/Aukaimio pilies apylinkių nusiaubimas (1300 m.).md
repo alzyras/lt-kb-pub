@@ -107,7 +107,8 @@ Nenurodyta
 - id: c-62672
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
   citata_originali: |
     Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
     Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į

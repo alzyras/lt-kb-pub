@@ -61,7 +61,8 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
 - id: c-172455
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
   citata_originali: |
     (Skrido Kaunis iš toli,
     Kur vasara amžinoji.
@@ -85,7 +86,8 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
 - id: c-177093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
   citata_originali: |
     Mūsų kraštuose dar išliko dainelė, susijusi
     su tuo dievuku:

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b26315dff406e83d3b201b62"
+canonical_name: "Točilovo ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Točilovo ežeras"]
+sameAs: []
+canonical_biography: "Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau Grajevo ir Točilovo ežerų. 123 Tochtamišas, chanas 311, 314-318, 324 Točilovo ež."
+place_authority: true
+historical_names: []
 ---
 # Točilovo ežeras
 
@@ -50,7 +59,8 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
 - id: c-34051
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Bet Melno sutartimi
     iš Sūduvos girių Lietuva laimėjo nepalyginamai daugiau negu

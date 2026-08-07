@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dc09459b1a3c8ca36be1555e"
+canonical_name: "Stanislovas Sabina"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Sabina"]
+sameAs: []
+canonical_biography: "Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (Sabinus), daktarą ir Vilniaus vaitą, dėl to, kad jis, pažeisdamas pirkliams skirtas privilegijas, balandžio 7 dieną, pir­ madienį, išsiuntė miesto sargybos viršininką (Praefectum. Stanislovas Sabina, medicinos daktaras, valdė - 1584 m."
 ---
 # Stanislovas Sabina
 
@@ -84,7 +91,8 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
 - id: c-83437
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 311."
   citata_originali: |
     Be karaliaus Stepono laiškų, rašytų
     dėl kalendorinių ginčų, Dubins-
@@ -136,7 +144,8 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
 - id: c-83438
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 316."
   citata_originali: |
     Augustinas Rotundas Milesijus (Mieleskis),
     abiejų teisių daktaras, išrinktas iš magistrato

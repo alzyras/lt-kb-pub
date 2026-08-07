@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-986d2a2fac5c0f2220d90259"
+canonical_name: "Juodmarių pakraštys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Juodmarių pakraštys"]
+sameAs: []
+canonical_biography: "Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo totorius. Ir taip Vytautas į viešpata­ vimo galą savo planus dėl Totorijos buvo gangreit įvykdęs."
+place_authority: true
+historical_names: []
 ---
 # Juodmarių pakraštys
 
@@ -51,7 +60,8 @@ Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo toto
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 299."
   citata_originali: |
     1427 mt. pradžioje jų buvo dar
     5), bet 1427 met. gale Vytauto palaikomasis Machmetas įsiga­

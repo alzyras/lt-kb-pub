@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8156b429cab85396157f3c51"
+canonical_name: "Aizkrauklė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aizkrauklė"]
+sameAs: []
+canonical_biography: "XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­ krauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­ veno."
+place_authority: true
+historical_names: []
 ---
 # Aizkrauklė
 
@@ -65,7 +74,8 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
 - id: c-67445
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 307."
   citata_originali: |
     Aizkrauklė (buv. Ašeradė)
       Akmena (Jūros intakas), u.
@@ -79,7 +89,8 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
 - id: c-67446
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 125."
   citata_originali: |
     Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
     _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»

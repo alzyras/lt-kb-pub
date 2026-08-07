@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e6b8152a036fda756fa3847b"
+canonical_name: "Atila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Atila"]
+sameAs: []
+canonical_biography: "Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuolika tūkstančių su ja vykusių mergelių. Lietuvos metraščio pasakojime Atila, neįveikęs įtvirtinto miesto, patraukė gilyn į Italiją Romos link. Be to, istorikai, tai išgirdę, prisiminė, kad jų būta Atilos vadovaujamų genčių ir tautų mišinyje."
 ---
 # Atila
 
@@ -90,7 +97,8 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
 - id: c-176706
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 38."
   citata_originali: |
     O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
     lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­
@@ -111,7 +119,8 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
 - id: c-178926
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 39."
   citata_originali: |
     O šis miestas buvo labai įtvirtintas
     ir turėjo gerą romėnų kariuomenės Įgulą. Todėl Atila,
@@ -131,7 +140,8 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
 - id: c-179301
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
   citata_originali: |
     Tai galima pa­
     aiškinti taip: iš istorijos žinome, tai mes vėliau paaiškin­

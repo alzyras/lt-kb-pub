@@ -93,7 +93,8 @@ Pilis liko nepaimta.
 - id: c-69730
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 219."
   citata_originali: |
     Vykstant kovoms prie
     Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele
@@ -111,7 +112,8 @@ Pilis liko nepaimta.
 - id: c-69731
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
     magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais
@@ -130,7 +132,8 @@ Pilis liko nepaimta.
 - id: c-69732
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad
     nuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo. Kai pradėjo temti,

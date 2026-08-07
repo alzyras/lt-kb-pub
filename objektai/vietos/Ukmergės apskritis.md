@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0218b266fc6b89dd83b59882"
+canonical_name: "Ukmergės apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ukmergės apskritis"]
+sameAs: []
+canonical_biography: "Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidūrimų kovėsi su sovietais. Misiūnas, apygarda pavadinta Didžiosios kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis)."
+place_authority: true
+historical_names: []
 ---
 # Ukmergės apskritis
 
@@ -153,7 +162,8 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 - id: c-43936
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 239."
   citata_originali: |
     Vokiečių okupacijos metais buvo geležinkelių apsaugos polici-
     ninkas Kaišiadoryse. 1944 m. įstojo į Vietinę rinktinę. Sovietams pakartotinai okupavus Lietuvą, 1944 m. organizavo
@@ -170,7 +180,8 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 - id: c-45377
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 239."
   citata_originali: |
     Rugsėjį savo junginį jis pa-
     vadino Didžiosios kovos rinktine. Vėliau ji buvo pervadinta į 5-ąjį LLA rajoną (dar vėliau 5-ąją LLA
@@ -191,7 +202,8 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 - id: c-175536
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
   citata_originali: |
     Sutiksime net
     ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
@@ -215,7 +227,8 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 - id: c-175537
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 504"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 504."
   citata_originali: |
     Per daugelį metų taip išaugdavo pilka­
     piai. Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-

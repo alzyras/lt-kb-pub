@@ -49,7 +49,8 @@ Dusburgietis teigia, kad iki Persantės vakaruose žalvario amžiuje buvo paplit
 - id: c-87605
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
   citata_originali: |
     Šioje teritorijoje teka Pasarė (Pasargė), o Persantės upė yra į vakarus nuo Vyslos.
     Iki Persantės vakaruose žalvario amžiuje buvo paplitę gyvatgalviai kapliai, būdingi baltų

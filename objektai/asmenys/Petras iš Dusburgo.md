@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fd84659e256e18a48e22773d"
+canonical_name: "Petras iš Dusburgo (kunigas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras iš Dusburgo","Petras iš Dusburgo (kunigas)"]
+sameAs: []
+canonical_biography: "Kojelavičius rašė, kad Petras iš Dusburgo tvirtino Palemoną paskyrus Romanovą vyriausiajam žyniui tikėjimui saugoti."
 ---
 # Petras iš Dusburgo (kunigas)
 
@@ -56,7 +63,8 @@ Kojelavičius rašė, kad Petras iš Dusburgo tvirtino Palemoną paskyrus Romano
 - id: c-169607
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 60."
   citata_originali: |
     Tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie­
     tuvoje daugelio dievų garbinimo: senąsias apeigas jis

@@ -35,6 +35,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2bec080842ea0ffcb9d0e7a7"
+canonical_name: "Baltijos jūra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Baltijos jūra"]
+sameAs: []
+canonical_biography: "Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza. Pasibaigus karams su vokiečių ordinu, atsidarė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba."
+place_authority: true
+historical_names: []
 ---
 # Baltijos jūra
 
@@ -371,14 +380,13 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 <a id="claim-t-197858"></a>
 - t-025
   teiginys: "Tad kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal būt nesilankė prie Baltijos, neturėjo tikro supratimo apie Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su vokė."
-  atnaujinta: "2026-07-24 15:56"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-177452
     - c-179365
 
 ## Reikšmingi paminėjimai
@@ -495,7 +503,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-24063
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 259."
   citata_originali: |
     **Pastangos sutvarkyti ūkį.** XVI amžiuje vakaruose Lietuva
     karų jau nebeturėjo. Pasibaigus karams su vokiečių ordinu, atsi-
@@ -512,7 +521,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177439
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 30."
   citata_originali: |
     Iš tokio
     trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
@@ -541,7 +551,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177440
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24."
   citata_originali: |
     Visi
     kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų
@@ -565,7 +576,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177441
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 140."
   citata_originali: |
     Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtme-
     čio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prū-
@@ -586,7 +598,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177442
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 514."
   citata_originali: |
     Tuo tarpu
     miškuose, prikirtę medžių, suvertę juos kaip papuolė į
@@ -611,7 +624,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177443
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
   citata_originali: |
     Tačiau šie, bijodami imperato­
     riaus žiaurumo, išžudė kvietėjus, du ar tris kartus atplaukusius pas
@@ -631,7 +645,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177444
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
   citata_originali: |
     Dabar pateiksime šį lietuvių mitologijos gabalėlį.
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
@@ -655,7 +670,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177445
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 86."
   citata_originali: |
     Kova dėl Livonijos daugiausia buvo suin-
     teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
@@ -674,7 +690,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177446
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 100."
   citata_originali: |
     100
 
@@ -698,7 +715,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177447
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
   citata_originali: |
     Senovės tyrinėtojai ne­
     abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
@@ -724,7 +742,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177448
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
   citata_originali: |
     Tačiau jūros ploto didėjimas kartu reiškė jos vandens
     lygio mažėjimą. Visų pirma todėl, kad plačiau išsilieję
@@ -746,7 +765,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177449
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 150-151"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 150-151."
   citata_originali: |
     Warsz.
     rašo, kad jo laikais buvę „Vytauto
@@ -785,7 +805,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177450
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 179-180"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 179-180."
   citata_originali: |
     Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos cent-
     rai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Euro-
@@ -808,7 +829,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177452
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
   citata_originali: |
     Taip pat nebūtina įrodinėti, jog senovės germanai3 jei
     ir netiesiogiai kilę, tai giminiavosi su kimbrais nuo jų
@@ -830,12 +852,12 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-025
 
 - id: c-177453
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 252."
   citata_originali: |
     Tad pakalbėkime apie kiekvieną sritį atskirai.
     245
@@ -858,7 +880,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177454
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 145."
   citata_originali: |
     Skitai gintarą turėdavo gauti keliu,
     ėjusiu palei Baltijos jūrą upe, kuri į ją įteka. Mokslininkai klydo ma­
@@ -883,7 +906,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177455
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 22."
   citata_originali: |
     Tokios gynybos sistemos globoje atsivėrė ke­
     liai naudotis gausių manufaktūrų, paplitusių Flandrijoje ir
@@ -904,7 +928,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177456
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
   citata_originali: |
     Čia dar kartą pakartosime
     aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­
@@ -928,7 +953,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177457
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 22."
   citata_originali: |
     Revelis [Talinas] už savo
     atsiradimą dar anksčiau turi būti dėkingas danams. Teutonų
@@ -950,7 +976,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177458
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 28-29"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 28-29."
   citata_originali: |
     12
 
@@ -991,7 +1018,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177460
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 31-32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 31-32."
   citata_originali: |
     Nors jau V amžiaus pabaigoje,
     tuoj po Romos valstybės žlugimo,
@@ -1027,7 +1055,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-177461
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
   citata_originali: |
     Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­
     sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl
@@ -1054,7 +1083,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-179365
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 172."
   citata_originali: |
     Tačiau senovės autoriai
     paliko ir iš dalies teisingų aprašymų. Plinijus, vadinda­
@@ -1076,7 +1106,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-179366
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 372."
   citata_originali: |
     Bet
     pelnytai atiduota derama pagarba rašytojui teikia dau­

@@ -60,7 +60,8 @@ Dusburgietis teigia, kad lietuvos TSR archeologijos atlasas.— T.
 - id: c-61774
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
   citata_originali: |
     Lietuvos TSR archeologijos atlasas.— T. 2: Piliakalniai / Redagavo A. Tautavičius. —
     V., 1975; T. 3: I—XIII a. pilkapynai ir senkapiai / Parengė A. Tautavičius; Redagavo R.

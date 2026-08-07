@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3cbced965e7943f26385d5d8"
+canonical_name: "Vasilijus Dimitrijevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vasilijus Dimitrijevičius"]
+sameAs: []
+canonical_biography: "Štai kas nutiko po šito dangaus ženklo didžiajam kunigaikščiui Vytautui, draugiškai sugyvenusiam su savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi Dimitrijevičiumi. Vasilijus Dimitrijevičius savo valdovu, kaip ir pskoviečiai."
 ---
 # Vasilijus Dimitrijevičius
 
@@ -85,7 +92,8 @@ media_all_json: |-
 - id: c-176701
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 102-103"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 102-103."
   citata_originali: |
     Štai kas nutiko po šito dangaus ženklo didžiajam
     kunigaikščiui Vytautui, draugiškai sugyvenusiam su
@@ -113,7 +121,8 @@ media_all_json: |-
 - id: c-178955
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 103."
   citata_originali: |
     Naugardiečiai, matydami pskoviečius jam pasidavus
     ir priėmus jo vietininką, nebenorėdami, kad jų žemė

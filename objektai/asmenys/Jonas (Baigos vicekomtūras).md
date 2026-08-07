@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c931a386227ca1a4f74ec4f"
+canonical_name: "Jonas (Baigos vicekomtūras)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas (Baigos vicekomtūras)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius, pasikliovus viešpačiu, drąsiai stoti į kovą."
 ---
 # Jonas (Baigos vicekomtūras)
 
@@ -58,7 +65,8 @@ Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jon
 - id: c-60971
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Šitokia sutartis nepatiko
     dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius,

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bb8853af187a8e5ebb292982"
+canonical_name: "Dvina"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dvina"]
+sameAs: []
+canonical_biography: "Švitrigai­ la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį, įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­ no."
+place_authority: true
+historical_names: []
 ---
 # Dvina
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-82161
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 235."
   citata_originali: |
     Abu jie niokojo
     kraštą ir liejo jiems nepalankių gyventojų kraują. Švitrigai­

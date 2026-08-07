@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2b22376ae7e1800698c8bdbf"
+canonical_name: "Olyka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Olyka"]
+sameAs: []
+canonical_biography: "Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje)."
+place_authority: true
+historical_names: []
 ---
 # Olyka
 
@@ -77,7 +86,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - id: c-80552
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 304."
   citata_originali: |
     Pats
     apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
@@ -98,7 +108,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - id: c-80553
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     Mirė 1507 metais.
     11. Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos

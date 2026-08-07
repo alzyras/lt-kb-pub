@@ -103,7 +103,8 @@ Nenurodyta
 - id: c-169943
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 235."
   citata_originali: |
     Krėvos aklu Jogaila įsipareigojo sujungti visas LDK žemes su Len­
     kija. paleisti lenkus belaisvius, savo lėšomis ir pastangomis atgauti

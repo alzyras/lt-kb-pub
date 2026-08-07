@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b55258d99544f4b9cd4fe63e"
+canonical_name: "Leonas Mamoničius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Leonas Mamoničius"]
+sameAs: []
+canonical_biography: "300 ## Puslapis 317 IV KNYGA Paliko vaito pareigas to paties karaliaus sutikimu kovo 11 d. - 1620 Burmistrai: nuo katalikų - Petras Pliuščius - 1620 nuo stačiatikių - Leonas Mamoničius 11."
 ---
 # Leonas Mamoničius
 
@@ -63,7 +70,8 @@ media_all_json: |-
 - id: c-83894
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 316-317"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 316-317."
   citata_originali: |
     9. Motiejus (arba Matas) Božiminskis, iš bajorų,
     paskirtas karaliaus Zigmanto Vazos raštu,

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-84a65050fe7983e86621b196"
+canonical_name: "Archelajas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Archelajas"]
+sameAs: []
+canonical_biography: "Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad iš Indijos atvežama gintaro žaliava dar neatskirta nuo medžių žievės."
 ---
 # Archelajas
 
@@ -54,7 +61,8 @@ Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad i�
 - id: c-174822
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Jūroje išilgai prūsų pakrančių slypi
     ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie

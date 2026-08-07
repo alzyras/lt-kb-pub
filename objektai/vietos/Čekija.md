@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6a01dd20477d9bcf363338f5"
+canonical_name: "Čekija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Čekija"]
+sameAs: []
+canonical_biography: "Čekijai „atkritus“ nuo Jogailaičių dinastinės sistemos, joje, kaip ir anksčiau, liko tik Lenkija ir Lietuva."
+place_authority: true
+historical_names: []
 ---
 # Čekija
 
@@ -162,7 +171,8 @@ media_all_json: |-
 - id: c-166282
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 363."
   citata_originali: |
     Varėnon atvykusiems husitų pasiuntiniams,
     kurie Vytautą kvietėsi savo karaliumi, šis davė aiškių vilčių. Su
@@ -183,7 +193,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 137."
   citata_originali: |
     Tada su tuo pačiu siūlymu jie kreipėsi į Vytautą Didįjį.
     Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet
@@ -205,7 +216,8 @@ media_all_json: |-
 - id: c-167773
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 363."
   citata_originali: |
     O Vytautui pasisiūlė galimybė imperatoriui už neprie­
     telišką ištarmę atmokėti pačiu skaudžiausiu būdu. Lietuvos val­
@@ -225,7 +237,8 @@ media_all_json: |-
 - id: c-168575
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 515"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 515."
   citata_originali: |
     N ei
     pasiuntinybei, nei chanui nepagailėta g au sių  dovanų.
@@ -246,7 +259,8 @@ media_all_json: |-
 - id: c-175557
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
   citata_originali: |
     Taip pat pavyko rasti prie
     Skidliaus cerkvės 1553 metų užrašą, liudijantį, kad šioje
@@ -267,7 +281,8 @@ media_all_json: |-
 - id: c-175558
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Jūra dažnai išmeta gintarą, prikibusį prie
     supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-

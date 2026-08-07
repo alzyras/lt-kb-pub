@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-50089bd568e594936fbab0e5"
+canonical_name: "Konradas (Vroclavo vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas (Vroclavo vyskupas)"]
+sameAs: []
+canonical_biography: "Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vroclavo vyskupą, mylimą brolį, pa­ geidaudamas, kad didysis magistras lieptų jį palydėti į Kistriną ir pasi­ teirauti kunigaikščio Štolpenskio, ar minėtasis vyskupas turįs ar neturįs dėl ko."
 ---
 # Konradas (Vroclavo vyskupas)
 
@@ -62,7 +69,8 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
 - id: c-83737
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 229."
   citata_originali: |
     Mergelės Marijos ėmimą į dangų, tai
     yra, 1432 metų rugpjūčio 13 dieną.

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9053249e10dce2924b5b9f07"
+canonical_name: "Antanas Šukys"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Šukys"]
+sameAs: []
+canonical_biography: "Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas Šukys, tuo metu mokęsis Kauno Karužų mokykloje, prisimena, | kaip buvo renkami kariai sulaikyti per Jiezną besiveržiančios Raudonosios armijos. Antanas Šukys staiga pasijuto blogai, | ir skausmai spaudė jam krūtinę."
 ---
 # Antanas Šukys
 
@@ -62,7 +69,8 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
 - id: c-44284
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 177."
   citata_originali: |
     Bendras durtuvo ilgis — 502 mm. Svoris be durtuvo - 4,20 kg
 
@@ -100,7 +108,8 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
 - id: c-167116
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 196."
   citata_originali: |
     Šie sviediniai buvo pripildyti nuodingų dujų. Jie sprogo prie apkasų ir palengva skleidėsi |
     dujos. Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis. Jis staiga pasijuto blogai, |

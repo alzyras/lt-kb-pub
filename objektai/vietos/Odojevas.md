@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b5020da493f9fe9c61146c4b"
+canonical_name: "Odojevas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Odojevas"]
+sameAs: []
+canonical_biography: "Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštupių kunigaikščius, kurių vienas kitas, kaip, pav., Odojevo, buvo nuo Vytauto atsimetę."
+place_authority: true
+historical_names: []
 ---
 # Odojevas
 
@@ -119,7 +128,8 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 - id: c-76806
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
     ir lietuvių strigo (tuo metu Jogaila sto-
@@ -146,7 +156,8 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 156."
   citata_originali: |
     Ten jis žygiavo, norėdamas suvaldyti ne­
     paklusnius jam Okos ir Dono aukštupių kunigaikščius, kurių
@@ -164,7 +175,8 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 156."
   citata_originali: |
     Daug didesnį žygį sekančiais metais surengė Vytautas į
     Maskvos apylinkes. Ten jis žygiavo, norėdamas suvaldyti ne­

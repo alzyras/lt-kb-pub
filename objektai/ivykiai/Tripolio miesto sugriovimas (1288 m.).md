@@ -65,7 +65,6 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Tripolis: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citata tiesiogiai sako, kad krikščionys gyveno Tripolyje."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Krikščionys gyveno Tripolis (0.92)"
   pagrindžia:
     - c-63193
 
@@ -74,7 +73,8 @@ Nenurodyta
 - id: c-63193
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241."
   citata_originali: |
     Apie Mikalojų IV, popiežių, bei karalių Rudolfą ir apie Tripolio miesto sugriovimą
 

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-908d24b96fd8c043f8874e27"
+canonical_name: "Goliubo pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Goliubo pilis","Goliubo pilis (pilis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių. Dusburgietis teigia, kad šie, susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio 29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę 549 Goliubo pilis prie Drevantos, į šiaurės rytus nuo Torunės (SZCh, p.. Dusburgietis teigia, kad pailsęs nuo rūpesčių ir palaužtas negalės, ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje."
+place_authority: true
+historical_names: []
 ---
 # Goliubo pilis (pilis)
 
@@ -33,11 +42,18 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
 <a id="claim-t-58436"></a>
 - t-001
   teiginys: "Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis Kulmo žemės kaimus."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kulmas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Įsibrovimas į Kulmo žemę nurodo lietuvių puolimą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59068
+    - c-59070
 
 <a id="claim-t-58437"></a>
 - t-002
@@ -131,7 +147,8 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
 - id: c-59068
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
   citata_originali: |
     Šie,
     susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio
@@ -146,13 +163,13 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
 
 - id: c-59069
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Pailsęs nuo rūpesčių ir palaužtas negalės,
     ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia
@@ -174,7 +191,8 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
 - id: c-59070
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     268 (261) Apie penkių kaimų apiplėšimą
 
@@ -188,14 +206,17 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   citata_rodoma: "268 (261) Apie penkių kaimų apiplėšimą\n\n  Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė\npenkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.\n\n\n\n\n   269 (262)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-167540
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     Šis,
     bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino

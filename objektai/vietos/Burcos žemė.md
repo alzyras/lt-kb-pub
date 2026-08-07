@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5f32c24c1ee601c0b4bd007"
+canonical_name: "Burcos žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Burcos žemė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją. Dusburgietis teigia, kad burcos žemė Transilvanijoje."
+place_authority: true
+historical_names: []
 ---
 # Burcos žemė
 
@@ -39,11 +48,19 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
 <a id="claim-t-58690"></a>
 - t-001
   teiginys: "Brolio Hermano vadovavimo metais Teutonų ordinas Vengrijoje gavo vadinamąją Burcos žemę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Burcos žemė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad ordinas gavo Burcos žemę, todėl ji priskiriama ordinui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Burcos žemė priklausė Kryžiuočių ordinas (0.87)"
   pagrindžia:
-    - c-59323
+    - c-59322
 
 <a id="claim-t-58691"></a>
 - t-002
@@ -71,7 +88,8 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
 - id: c-59322
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
     Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
@@ -82,14 +100,17 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   citata_rodoma: "Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė\nOrdinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,\nArmėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.\nJo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo\ngirdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno\nžmogaus pastangomis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-59323
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     159 D. — Wurcza. Burcos žemė Transilvanijoje. Joje Vengrijos karalius Andrius 11
     1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4),
@@ -102,5 +123,4 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

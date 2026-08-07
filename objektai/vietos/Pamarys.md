@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e284a6f594c30b66a2b8936e"
+canonical_name: "Pamarys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pamarys"]
+sameAs: []
+canonical_biography: "misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo."
+place_authority: true
+historical_names: []
 ---
 # Pamarys
 
@@ -195,7 +204,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 - id: c-166280
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 114."
   citata_originali: |
     Su slavais išryškėjo karo ir prekybiniai santykiai. Apie VIII-IX
     amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų
@@ -211,7 +221,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 - id: c-166459
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 55."
   citata_originali: |
     Po šitų pirmųjų nepasisekusių misijų, buvo dar nemaža kitų,
     tačiau jų visų darbas niekais nueidavo. Aisčiai vengte vengdavo
@@ -231,7 +242,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 - id: c-171686
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
   citata_originali: |
     Moteris, suviliota
     šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
@@ -253,7 +265,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 - id: c-175484
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Tai buvo miškinė gyvulių augintojų gentis.
     Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
@@ -273,7 +286,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 - id: c-177139
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 380."
   citata_originali: |
     Sako, kad lietuviai kaimiečiai
     šitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­
@@ -292,9 +306,9 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     - t-005
 
 - id: c-184447
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 74"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 74."
   citata_originali: |
     Žinoma taip pat yra, jog
     nejaukioji tauta ima nuo išmintingosios įstatymus,

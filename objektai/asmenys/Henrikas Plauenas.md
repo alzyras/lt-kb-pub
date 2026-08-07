@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aebe6fe8c130d7ea631bbc6f"
+canonical_name: "Henrikas Plauenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Plauenas"]
+sameAs: []
+canonical_biography: "Čia 1448 metais su Prūsijos ordinu su­ daryta37 garsi sutartis, o po dvidešimties metų (1468 me­ tais) pats didžiojo magistro pavaduotojas Henrikas Plauenas toje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise įžūliai griovė, žemai lenkėsi prieš."
 ---
 # Henrikas Plauenas
 
@@ -63,7 +70,8 @@ media_all_json: |-
 - id: c-83668
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 242."
   citata_originali: |
     Čia, Vilniuje (1443 metais), totorių pasiuntinių
     prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­

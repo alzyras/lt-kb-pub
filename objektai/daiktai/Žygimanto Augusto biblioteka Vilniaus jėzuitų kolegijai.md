@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-83109
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 302."
   citata_originali: |
     Mir­
     damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a416157e6f55d6da554cd56"
+canonical_name: "Volos kaimo laukas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Volos kaimo laukas"]
+sameAs: []
+canonical_biography: "Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių bajorams."
+place_authority: true
+historical_names: []
 ---
 # Volos kaimo laukas
 
@@ -47,7 +56,8 @@ Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvauj
 - id: c-176012
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 273."
   citata_originali: |
     Tiek Lietuvoj, tiek Lenkijoj vykdomoji valdžia priklausė
     karaliui. Jis turėjo būti bendrai renkamas Volos kaimo

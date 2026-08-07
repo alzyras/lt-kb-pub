@@ -133,7 +133,8 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
 - id: c-172415
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     E Noelis mano, kad Kabi­
     rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
@@ -153,7 +154,8 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
 - id: c-175230
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
   citata_originali: |
     Būtent dėl šių priežasčių įvairios
     pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­
@@ -175,7 +177,8 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
 - id: c-175231
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
   citata_originali: |
     18
     Neginčijamas dalykas yra ir tai, kad pelazgai buvo tos
@@ -198,7 +201,8 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
 - id: c-179224
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 39."
   citata_originali: |
     Nibūras2 teigia, jog pelazgai labai skyrėsi nuo helėnų,
     nors jų kalbos, nepaisant tarpusavio skirtumų, archetipų

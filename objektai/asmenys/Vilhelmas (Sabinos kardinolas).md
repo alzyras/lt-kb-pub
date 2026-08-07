@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6c78403b7eda5564718ab9fe"
+canonical_name: "Vilhelmas (Sabinos kardinolas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vilhelmas (Sabinos kardinolas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilhelmas, Sabinos kardinolas (nuo 1244 m.), prieš tai buvęs popiežiaus legatu Livonijoje ir Prūsijoje110. Dusburgietis teigia, kad kronikininko teigimu, popiežiaus pasiuntinys Prūsijoje Vilhelmas — tai vėlesnis popiežius Aleksandras IV (III, 33), tuo tarpu šis, 1244 m. tapęs Sabinos kardinolu (miręs 1251 m.), tebuvo kurijos atstovas, rėmęs Vokiečių ordiną, kai pastarasis sprendė."
 ---
 # Vilhelmas (Sabinos kardinolas)
 
@@ -79,7 +86,8 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
 - id: c-60852
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     Kronikininko teigimu, popiežiaus pasiuntinys Prūsijoje
     Vilhelmas — tai vėlesnis popiežius Aleksandras IV (III, 33), tuo tarpu šis, 1244 m. tapęs

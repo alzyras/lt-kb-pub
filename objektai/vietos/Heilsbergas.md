@@ -24,6 +24,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-260c6680a9a762006cad5470"
+canonical_name: "Heilsbergas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Heilsbergas"]
+sameAs: []
+canonical_biography: "Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių. Ordino magistras ir broliai užkariavo pagudėnų valdytą Heilsbergo pilį, jos žmones išžudė arba paėmė į nelaisvę. Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
+place_authority: true
+historical_names: []
 ---
 # Heilsbergas
 
@@ -100,7 +109,8 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
 - id: c-32070
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 349."
   citata_originali: |
     Nuo Marienburgo
     mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos
@@ -115,7 +125,8 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
 - id: c-167541
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
     subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,
@@ -135,7 +146,8 @@ Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 i
 - id: c-168321
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 104."
   citata_originali: |
     105
 

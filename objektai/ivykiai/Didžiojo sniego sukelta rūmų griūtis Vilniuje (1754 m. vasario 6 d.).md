@@ -30,7 +30,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1754 m. laiške aprašyta, kad dėl ekstremaliai gausaus sniego Vilniuje įgriuvo Sluškų rūmų stogas.
+1754 m. vasario 6 d. laiške Jonas Dominykas Lopacinskis pranešė apie didelio ir drėgno sniego sukeltą nelaimę Vilniuje: sugriuvo rūmų stogas ir salė, o tokia pati žala palietė ir kitus miesto stogus.
 
 ## Laikotarpis ir datos
 
@@ -62,21 +62,22 @@ Nenurodyta
 
 <a id="claim-t-200602"></a>
 - t-001
-  teiginys: "1754 m. laiške aprašyta, kad dėl ekstremaliai gausaus sniego Vilniuje įgriuvo Sluškų rūmų stogas."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "1754 m. laikraščių pranešimu, Vilniuje dėl itin gausaus sniego įgriuvo Sluškų rūmų stogas."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumas: "susije_su -> Anykščiai (vieta): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Didžiojo sniego sukelta rūmų griūtis Vilniuje (1754 m. vasario 6 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžiojo sniego sukelta rūmų griūtis Vilniuje (1754 m. vasario 6 d.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Anykščiai (vieta): mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžiojo sniego sukelta rūmų griūtis Vilniuje (1754 m. vasario 6 d.)\" parinktas kaip owner_note_path. Targetas \"Anykščiai (vieta)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1754 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susieja Sluškų rūmų stogo įgriuvimą su ekstremaliai gausiu sniegu. Laikraščių tarpininkavimas nepridėtas, nes teiginys liko glaustas."
+  temporalinis_llm_pakomentavimas: "Išlaikyta citatoje esanti nuoroda į laikraščių pranešimą ir sušvelninta neįprasta formuluotė apie sniego kiekį."
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
   pagrindžia:
     - c-183998
 
@@ -94,6 +95,6 @@ Nenurodyta
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 8."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 07:10"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001

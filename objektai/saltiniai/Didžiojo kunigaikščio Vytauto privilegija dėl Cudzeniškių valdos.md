@@ -49,7 +49,8 @@ Ducis Withowdi super bona Tudeniski [Didžiojo kunigaikščio Vytauto privilegij
 - id: c-84226
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 157."
   citata_originali: |
     Ta
     58

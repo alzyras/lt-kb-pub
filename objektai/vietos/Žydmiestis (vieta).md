@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2cb4ee399a1de32dbc915534"
+canonical_name: "Žydmiestis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žydmiestis","Žydmiestis (vieta)"]
+sameAs: []
+canonical_biography: "Vorobjovas Žydmiestį apibūdino kaip Vilniaus vietą su skylėmis, pereinamais kiemais, užkaboriais, purvu ir smarve."
+place_authority: true
+historical_names: []
 ---
 # Žydmiestis (vieta)
 

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-765c330e0eba5c07238e11d1"
+canonical_name: "Elžbieta Habsburgaite"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Elžbieta Habsburgaite"]
+sameAs: []
+canonical_biography: "1454 m. per Kazimiero Jogailaičio vestuves Dlugošas nurodo, kad karaliaus motina Sofija Alšėniškė su Elžbieta Habsburgaite į rūmus grįžo karieta, lydima trimitų."
 ---
 # Elžbieta Habsburgaite
 

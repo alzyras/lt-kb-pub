@@ -44,7 +44,8 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 - id: c-71080
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 286."
   citata_originali: |
     **Seimo aktai.** Visi seimo nutarimai, vadinęsi konstituci-
     jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus-

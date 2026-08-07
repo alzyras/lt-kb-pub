@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8e3b6d156445bf1255a8802f"
+canonical_name: "Raketija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Raketija"]
+sameAs: []
+canonical_biography: "Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus apsupimo žiedą."
+place_authority: true
+historical_names: []
 ---
 # Raketija
 
@@ -50,7 +59,8 @@ Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus apsupimo 
 - id: c-43799
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 247."
   citata_originali: |
     [...] pastebėjome visai arti bekylančią raketą. Sukritom ant žemės. Išgirdome rusiškų
     parolių pasikeitimą. Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus

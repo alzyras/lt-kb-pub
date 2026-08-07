@@ -58,7 +58,8 @@ Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi
 - id: c-84436
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 111."
   citata_originali: |
     To ant­
     spaudo tokį apibūdinimą turime raštininko aprašyme.

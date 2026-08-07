@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43de5a294cc54b780790e631"
+canonical_name: "Karakašas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karakašas"]
+sameAs: []
+canonical_biography: "Rugsėjo 15 d. turkų kariuomenė, vadovaujama Budos pašos Karakašo dar kartą bandė pulti, bet mūšio metu turkų vadui į galvą pataikė kulka ir jo kariuomenė pasitraukė."
 ---
 # Karakašas
 
@@ -51,7 +58,8 @@ Rugsėjo 15 d. turkų kariuomenė, vadovaujama Budos pašos Karakašo dar kartą
 - id: c-44405
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 118."
   citata_originali: |
     Rugsėjo 15 d. turkų kariuomenė, vado-
     vaujama Budos pašos Karakašo dar kartą

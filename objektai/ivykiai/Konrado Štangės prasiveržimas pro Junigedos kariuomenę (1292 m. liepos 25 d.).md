@@ -75,7 +75,7 @@ Nenurodyta
 <a id="claim-t-66633"></a>
 - t-002
   teiginys: "Konradas Štangė padrąsino savo būrį ir prasiveržė pro lietuvių kariuomenę prie Junigedos."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -114,7 +114,8 @@ Nenurodyta
 - id: c-66829
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
   citata_originali: |
     Vis dėlto dažnai pasitaiko dėl visokiausių aplinkybių, kad, sutrikus rikiuotei,
     vienoje vietoje ant ledo atsiduria šimtas, du šimtai ar net tūkstantis raitelių. Nežinau,
@@ -137,7 +138,8 @@ Nenurodyta
 - id: c-66830
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
   citata_originali: |
     Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
     dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,

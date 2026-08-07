@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bc00ecf5a6014e0882c4096d"
+canonical_name: "Kassiodoras"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kassiodoras"]
+sameAs: []
+canonical_biography: "Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine actibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą tautą («pacatum hominum genus omnino »), užėmusią labai ilgą pajūrio krantą į rytus."
 ---
 # Kassiodoras
 
@@ -70,7 +77,8 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
 - id: c-33003
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 111."
   citata_originali: |
     Įdomu tai, kad aisčių vardas VI
     amž. buvo žinomas. Padarydamas santrauką vėliau dingusios
@@ -92,7 +100,8 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
 - id: c-33004
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 111."
   citata_originali: |
     Vėliau (iki IX amž.) kelis kartus yra
     dar minimas aisčių vardas.

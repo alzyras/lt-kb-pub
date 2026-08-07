@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2aae317ead170feb910e009e"
+canonical_name: "Veiveriai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Veiveriai"]
+sameAs: []
+canonical_biography: "Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarija Veiveriuose (1866 m.), kurioje buvo dėstoma ir lietuvių kalba."
+place_authority: true
+historical_names: []
 ---
 # Veiveriai
 
@@ -59,7 +68,8 @@ Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarij
 - id: c-03087
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 499"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 499."
   citata_originali: |
     Vienos kongreso dalyviais,
     kurie jai pavedė Lenkų karalystę, Užnemunėje neišdrįso griebtis

@@ -50,7 +50,8 @@ Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha, kuri sutapo s
 - id: c-33492
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 37."
   citata_originali: |
     Iš šios sferos Lietuva-Lenkija nebepajėgė išsilaisvinti
     iki pat padalinimų.

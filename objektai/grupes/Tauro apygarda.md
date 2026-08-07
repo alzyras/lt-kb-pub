@@ -100,7 +100,8 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - id: c-51210
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 238."
   citata_originali: |
     Dešinėje TAURO APYGARDOS vadas, LLks Deklaracijos signataras
     Aleksandras Grybinas-Faustas (1920-1949). Partizanas nuo 1945 m.
@@ -122,7 +123,8 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - id: c-51211
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 247."
   citata_originali: |
     Prisidėjo organizuo-
     jant visų Lietuvos partizanų Vyriausiąją vadovybę.
@@ -142,7 +144,8 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - id: c-51212
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     į suvažiavimą susitikę Vakarų
     Lietuvos (Jūros) ir Pietų Lietuvos

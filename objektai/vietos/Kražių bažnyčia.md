@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2339fc5df5a91fb643665b04"
+canonical_name: "Kražių bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kražių bažnyčia"]
+sameAs: []
+canonical_biography: "1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai."
+place_authority: true
+historical_names: []
 ---
 # Kražių bažnyčia
 
@@ -61,7 +70,8 @@ media_all_json: |-
 - id: c-24201
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 121."
   citata_originali: |
     Net rusų
     spaudoje konstatuota, kad lietuvių judėjimas pagal jėgą yra trečias impe-
@@ -82,7 +92,8 @@ media_all_json: |-
 - id: c-167003
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 121."
   citata_originali: |
     Du įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo for-
     mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti

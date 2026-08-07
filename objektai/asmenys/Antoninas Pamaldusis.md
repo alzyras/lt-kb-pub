@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d3f48cacbbd80cdb64260824"
+canonical_name: "Antoninas Pamaldusis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antoninas Pamaldusis"]
+sameAs: []
+canonical_biography: "Antonino Pamaldžiojo romėniškas sidabrinis pinigas leidinyje pateiktas kaip 15 pav."
 ---
 # Antoninas Pamaldusis
 
@@ -46,7 +53,8 @@ Antonino Pamaldžiojo romėniškas sidabrinis pinigas leidinyje pateiktas kaip 1
 - id: c-173013
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 470"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 470."
   citata_originali: |
     Sidabrinis pinigas su lietuviškais atvaizdais
     13pav. Sidabrinė moneta su tokiais pat piešiniais

@@ -111,7 +111,8 @@ Nenurodyta
 - id: c-83036
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 39."
   citata_originali: |
     Pagaliau nemažai įvairių tenykš­
     čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­
@@ -134,7 +135,8 @@ Nenurodyta
 - id: c-83037
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 20."
   citata_originali: |
     Visoje Italijoje Otono Didžiojo laikais
     miestai, jau pajutę savo galią, nusikratė teutonų pareigūnų
@@ -158,7 +160,8 @@ Nenurodyta
 - id: c-83038
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 23-24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 23-24."
   citata_originali: |
     7
 

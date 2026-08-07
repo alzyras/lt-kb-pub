@@ -80,7 +80,8 @@ Vartojama normanų žygių Baltijos regione aptarime.
 - id: c-55796
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 31."
   citata_originali: |
     Kraštas, lankytas normanų piratų iš
     Švedijos, Norvegijos ir Danijos, už­

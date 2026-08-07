@@ -53,26 +53,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 
 ## Teiginiai
 
-<a id="claim-t-12383"></a>
-- t-001
-  teiginys: "Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai ir Livonijos ordinas."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Perrašyta į aiškesnį, pilną sakinį su citatoje nurodytu kontekstu."
-  susije_objektai: "mentioned_place: Livonija; llm_object: Luckas; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Luckas; mentioned_place: Vorskla"
-  semantiniai_rysiai: "[[objektai/grupes/Totoriai|Totoriai]] puolė Luckas"
-  temporaliniai_duomenys: "įvykio data: 1416 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta į aiškesnį, pilną sakinį su citatoje nurodytu kontekstu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36951
-    - c-181496
-
 <a id="claim-t-171393"></a>
-- t-002
+- t-001
   teiginys: "Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,15 +69,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   temporaliniai_duomenys: "mūšio data: 1380 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pirminis teiginys fragmentiškas, bet citata remia aiškų faktą apie kovą su totoriais."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155948
     - c-181474
 
 <a id="claim-t-171394"></a>
-- t-003
+- t-002
   teiginys: "Vytautas Lietuvoje įkurdino totorius, kurie garsėjo dora, narsa ir prieraišumu naujai tėvynei."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Lietuva: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -107,15 +91,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   temporaliniai_duomenys: "įvykio data: 1398 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie totorių įkurdinimą ir apibūdinimą; pašalintas nutrūkęs tekstas."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-155980
-    - c-181494
 
 <a id="claim-t-171395"></a>
-- t-004
+- t-003
   teiginys: "Vilniuje ir jo apylinkėse įsikūrė nemaža į nelaisvę paimtų totorių."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Manvydas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -125,14 +108,36 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Manvydas: mention_match, person"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Manvydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155960
     - c-181459
 
+<a id="claim-t-171396"></a>
+- t-004
+  teiginys: "Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai ir Livonijos ordinas."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Luckas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad totoriai apgriovė Lucką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Totoriai puolė Luckas (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1416 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į aiškesnį, pilną sakinį su citatoje nurodytu kontekstu."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-36951
+
 <a id="claim-t-171397"></a>
 - t-005
   teiginys: "1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Chadži Girėjus: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -145,6 +150,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   temporaliniai_duomenys: "įvykio data: 1443 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiesiogiai pagrįstas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155984
     - c-181483
@@ -152,7 +158,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171398"></a>
 - t-006
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę ir kitas duokles dvasininkams."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -162,34 +168,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155949
-    - c-181484
-
-<a id="claim-t-171400"></a>
-- t-007
-  teiginys: "Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1420 m.; įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-155954
-    - c-181501
 
 <a id="claim-t-171402"></a>
-- t-008
+- t-007
   teiginys: "Švitrigaila į Lietuvą kreipė įvairias totorių ir rusų ordas, siekdamas atimti valdžią iš Žygimanto."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Lietuva: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -200,15 +186,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_paaiskinimas: "Švitrigaila tiesiogiai apibūdintas kaip nukreipęs ordas į Lietuvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   semantiniai_rysiai: "Švitrigaila siuntė į Lietuva (0.78); Totoriai puolė Lietuva (0.70); Rusai puolė Lietuva (0.68)"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-155963
-    - c-181495
+    - c-186076
 
 <a id="claim-t-171404"></a>
-- t-009
+- t-008
   teiginys: "Totoriai kartu su Livonijos ordinu trukdė taikų Vytauto darbą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Luckas: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -221,15 +207,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   semantiniai_rysiai: "Totoriai puolė Luckas (0.84)"
   temporaliniai_duomenys: "įvykio data: 1416 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-36951
-    - c-181496
-    - c-21433
 
 <a id="claim-t-171405"></a>
-- t-010
+- t-009
   teiginys: "1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Levas (Haličo kunigaikštis): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -242,16 +227,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   temporaliniai_duomenys: "įvykio data: 1279 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir tiesiogiai paremtas citatos informacija."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155979
-    - c-181465
     - c-155987
-    - c-181472
 
 <a id="claim-t-171406"></a>
-- t-011
+- t-010
   teiginys: "LDK turėjo totorių musulmonų bendruomenę, kurios iki unijos su Lenkija Lenkijoje nebuvo."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -261,14 +245,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=52"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-155981
     - c-181470
 
 <a id="claim-t-171407"></a>
-- t-012
+- t-011
   teiginys: "Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką Vroclavietį ir daugybę kitų žmonių, o šias šalis pavertė dykromis."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lenkija: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -278,27 +263,27 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo totorių įsiveržimą į Lenkiją."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155965
-    - c-181498
 
 <a id="claim-t-171408"></a>
-- t-013
+- t-012
   teiginys: "1202 m. prasidėjo totorių viešpatavimas."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1202 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, pilnas ir tiesiogiai paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155958
-    - c-181468
 
 <a id="claim-t-171411"></a>
-- t-014
+- t-013
   teiginys: "Vytautas Vilniuje ne kartą skelbdavo totorių kunigaikščius chanais arba carais."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dniepras: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -311,15 +296,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   temporaliniai_duomenys: "įvykio data: 1419 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pašalintas ilgas kontekstas ir paliktas tik citata paremtas faktas."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-155952
-    - c-181464
+    - c-186074
 
 <a id="claim-t-171412"></a>
-- t-015
+- t-014
   teiginys: "Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai, Livonijos ordinas ir kiti priešininkai."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Luckas: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -333,14 +318,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   temporaliniai_duomenys: "įvykio data: 1416 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pirminis teiginys yra OCR fragmentas su iškreipta sakinio tvarka."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-36951
-    - c-181496
 
 <a id="claim-t-171414"></a>
-- t-016
+- t-015
   teiginys: "Vytautas po pergalių prieš totorius savo sostinėje ne kartą skelbdavo totorių kunigaikštį chanu arba caru."
-  atnaujinta: "2026-07-24 15:56"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -353,16 +338,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.86)"
   temporaliniai_duomenys: "įvykio data: 1419 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-155952
-    - c-155980
     - c-181464
-    - c-181494
 
 <a id="claim-t-171415"></a>
-- t-017
+- t-016
   teiginys: "Švitrigaila kėsinosi atimti iš Žygimanto valdžią ir į Lietuvą kreipė įvairias totorių bei rusų ordas."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Lietuva: 0.76"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -373,35 +357,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_paaiskinimas: "Švitrigaila tiesiogiai apibūdintas kaip kreipęs totorių ir rusų ordas į Lietuvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   semantiniai_rysiai: "Švitrigaila siuntė į Lietuva (0.76); Rusai puolė Lietuva (0.68)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-155963
-    - c-181495
-
-<a id="claim-t-171416"></a>
-- t-018
-  teiginys: "Užimdamas naujus rusų kraštus, Vytautas priartėjo prie totorių sienų ir tai vedė prie karo su totoriais."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:24:50Z"
-  pagrindžia:
-    - c-36948
-    - c-181462
-    - c-181482
-    - c-155977
-    - c-181489
+    - c-186078
 
 <a id="claim-t-171418"></a>
-- t-019
+- t-017
   teiginys: "Totoriai, įsigalėję Rusijoje, pradėjo tarpusavyje vaidytis, o Lietuva iš šių vaidų ne kartą pasipelnydavo."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -411,15 +375,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=62"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-155977
     - c-181489
 
 <a id="claim-t-171419"></a>
-- t-020
+- t-018
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę rusai ir totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -429,14 +393,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-155949
-    - c-181484
 
 <a id="claim-t-171421"></a>
-- t-021
+- t-019
   teiginys: "Vytautas, tarpininkaujant Tochtamyšui, ketino nukariauti totorius ir perimti kovotojo su netikinčiais šlovę."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kipčakas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -446,14 +410,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Kipčakas: mention_match, place"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Kipčakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155975
-    - c-181480
+    - c-186075
 
 <a id="claim-t-171422"></a>
-- t-022
+- t-020
   teiginys: "Vytauto laikais totorių valstybė išgyveno krizę: Orda buvo suskilusi, o atskiri saarai nuolat kariavo."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -463,14 +428,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:24:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-14992
 
 <a id="claim-t-171423"></a>
-- t-023
+- t-021
   teiginys: "Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mykolas Lietuvis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -480,14 +445,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Mykolas Lietuvis: mention_match, author, gap=37"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Mykolas Lietuvis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155957
     - c-181492
 
 <a id="claim-t-171424"></a>
-- t-024
+- t-022
   teiginys: "Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Sirija: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -501,14 +467,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   temporaliniai_duomenys: "įvykio data: 1291 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys remia autoriaus interpretaciją, todėl tinka aiškesnė atribucinė formuluotė."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155969
-    - c-181467
 
 <a id="claim-t-171427"></a>
-- t-025
+- t-023
   teiginys: "Vytauto politikoje svarbi buvo kova rytuose su rusų kunigaikščiais ir totoriais."
-  atnaujinta: "2026-07-24 15:56"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -518,16 +484,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155964
-    - c-181476
-    - c-36953
-    - c-181493
+    - c-186077
 
 <a id="claim-t-171428"></a>
-- t-026
+- t-024
   teiginys: "Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Isaakas ben Abrahamas iš Trakų: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -537,14 +502,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Isaakas ben Abrahamas iš Trakų: mention_match, person, gap=19"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Isaakas ben Abrahamas iš Trakų\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-155972
     - c-181460
 
 <a id="claim-t-171429"></a>
-- t-027
+- t-025
   teiginys: "Andrius kartu su Dmitrijumi Doniečiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -554,14 +520,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155948
     - c-181474
 
 <a id="claim-t-171430"></a>
-- t-028
+- t-026
   teiginys: "Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Vilnius: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -575,33 +542,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   temporaliniai_duomenys: "įvykio data: 1420 m.; įvykio data: 1422 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo kontekstinis fragmentas, perrašytas į pilną sakinį."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-155954
-    - c-181501
-
-<a id="claim-t-171431"></a>
-- t-029
-  teiginys: "Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jadvyga: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36949
-    - c-181456
-    - c-181490
 
 <a id="claim-t-171432"></a>
-- t-030
+- t-027
   teiginys: "Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -611,14 +559,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-166576
     - c-181503
 
 <a id="claim-t-171433"></a>
-- t-031
+- t-028
   teiginys: "Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "aukstas"
@@ -631,14 +580,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   semantiniai_rysiai: "Totoriai gyveno Lietuva (0.85); Totoriai gyveno Naugardukas (0.78); Totoriai gyveno Ašmena (0.78)"
   temporaliniai_duomenys: "gyvenimo laikotarpis: 1398 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Totoriai gyveno Nemėžis“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155980
-    - c-181494
 
 <a id="claim-t-171434"></a>
-- t-032
+- t-029
   teiginys: "Seniau totoriai vertėsi audinių ir siūlų prekyba."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -653,9 +602,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181461
 
 <a id="claim-t-171435"></a>
-- t-033
+- t-030
   teiginys: "Iki unijos su Lenkija LDK turėjo totorių musulmonų bendruomenę, kurios Lenkijoje iki tol nebuvo."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -665,14 +614,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Europa: mention_match, place"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-155989
     - c-181497
 
 <a id="claim-t-171437"></a>
-- t-034
+- t-031
   teiginys: "Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Kijevas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -686,50 +636,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   temporaliniai_duomenys: "įvykio data: 1414-1416; įvykio data: 1416 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-21433
-    - c-36951
-    - c-181496
-
-<a id="claim-t-171438"></a>
-- t-035
-  teiginys: "Kova rytuose su rusų kunigaikščiais ir totoriais buvo viena iš Vytauto politikos krypčių."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36953
-    - c-155964
-    - c-181476
-    - c-181493
-
-<a id="claim-t-171439"></a>
-- t-036
-  teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lenkija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lenkija tiesiogiai įvardyta kaip totorių nuniokota šalis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-181463
 
 <a id="claim-t-171441"></a>
-- t-037
+- t-032
   teiginys: "Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Palestina: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -740,14 +654,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo totorių žygį į Palestiną."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Totoriai surengė žygį į Sirija (0.90); Totoriai surengė žygį į Palestina (0.90); Totoriai buvo sąjungininkas su Armėnai (0.82); Totoriai buvo sąjungininkas su Gruzinai (0.82)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155951
     - c-181477
 
 <a id="claim-t-171443"></a>
-- t-038
+- t-033
   teiginys: "1326 m. Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vengrija: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -760,14 +675,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   temporaliniai_duomenys: "įvykio data: 1326 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Totoriai susiję su Vengrija“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Reikia pataisyti skaičiaus rašybą į norminę lietuvišką formą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-155978
-    - c-181481
 
 <a id="claim-t-171444"></a>
-- t-039
+- t-034
   teiginys: "Vytautas užmezgė draugiškus ryšius su totorių chanu ir susitarė dėl taikos."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> chanas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -777,14 +692,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "chanas: mention_match, thing, gap=8"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"chanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-155966
-    - c-181499
 
 <a id="claim-t-171445"></a>
-- t-040
+- t-035
   teiginys: "Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Kijevas: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -795,14 +710,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo totorių judėjimą Kijevo link."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Totoriai keliavo į Kijevas (0.78)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-36950
     - c-181475
 
 <a id="claim-t-171446"></a>
-- t-041
+- t-036
   teiginys: "Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir kitomis dorybėmis."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mykolas Lietuvis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -812,14 +728,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Mykolas Lietuvis: mention_match, author, gap=37"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Mykolas Lietuvis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-155957
     - c-181492
 
 <a id="claim-t-171447"></a>
-- t-042
+- t-037
   teiginys: "Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, tapusiais artimosios sargybos tautomis."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -829,14 +746,33 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Baltai: mention_match, group"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-155974
-    - c-181486
+
+<a id="claim-t-183905"></a>
+- t-038
+  teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lenkija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lenkija tiesiogiai įvardyta kaip totorių nuniokota šalis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-155956
 
 <a id="claim-t-187746"></a>
-- t-043
+- t-039
   teiginys: "Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -849,14 +785,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=49"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181471
 
 <a id="claim-t-187747"></a>
-- t-044
+- t-040
   teiginys: "Lietuvos metraštis teigia, kad Dievui padėjus totoriai sumušė Vytautą ir jo kariuomenę, o Vytautas su nedideliu būriu pabėgo."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -869,15 +805,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=16"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181457
-    - c-181491
-    - c-181473
 
 <a id="claim-t-187748"></a>
-- t-045
+- t-041
   teiginys: "Vytautas į karą su Prūsijos vokiečiais sutelkė Lietuvos ir Rusios pajėgas bei daug Ordos totorių."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -890,13 +825,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181491
 
 <a id="claim-t-187750"></a>
-- t-046
+- t-042
   teiginys: "Prie Klecko už Lanės upės stovėjo mūšiui pasirengę totorių pulkai."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -909,36 +845,35 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Mykolas Glinskis: mention_match, person"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Mykolas Glinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-181479
 
 <a id="claim-t-187751"></a>
-- t-047
+- t-043
   teiginys: "Totoriai puolė per upę besikeliančių lietuvių dešinįjį sparną ir nukovė daug jo karių."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad totoriai puolė lietuvius."
+  ryšio_patikimumas: "susije_su -> Dniepras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dniepras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Totoriai puolė Lietuviai (0.90)"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-181457
     - c-181473
 
 <a id="claim-t-192476"></a>
-- t-048
+- t-044
   teiginys: "Narbutas rašo, kad totorių puldinėjimai tuo metu palietė Lenkiją ir Polesę nuo Bugo."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -955,12 +890,11 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175270
-    - c-181502
 
 <a id="claim-t-193131"></a>
-- t-049
+- t-045
   teiginys: "Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -968,12 +902,11 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175889
-    - c-181485
 
 <a id="claim-t-193132"></a>
-- t-050
+- t-046
   teiginys: "Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -981,89 +914,58 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175890
-    - c-181469
 
 <a id="claim-t-193845"></a>
-- t-051
+- t-047
   teiginys: "Tuo pačiu metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
-    - c-181487
+    - c-176489
 
 <a id="claim-t-194371"></a>
-- t-052
+- t-048
   teiginys: "Apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-181463
-
-<a id="claim-t-199077"></a>
-- t-053
-  teiginys: "Po apiplėšimų totoriai stengdavosi greitai pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija dažnai vėluodavo."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradinis sakinys pernelyg ilgas ir prasideda kontekstiniu junginiu."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija|Bajorų pašauktinės kariuomenės mobilizacija]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-181466
-    - c-181488
-
-<a id="claim-t-199080"></a>
-- t-054
-  teiginys: "Totoriams strateginį privalumą teikė jų pagrindinės buveinės Krymo pusiasalyje nuošalumas nuo stiprių galios centrų."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir tiesiogiai remiasi citata."
-  susije_objektai: "mentioned_place: Krymas; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perekopas; llm_object: Krymas"
-  semantiniai_rysiai: "[[objektai/grupes/Totoriai|Totoriai]] gyveno Krymas"
-  ryšio_patikimumas: "susije_su -> Isaakas ben Abrahamas iš Trakų: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Isaakas ben Abrahamas iš Trakų: mention_match, person, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Isaakas ben Abrahamas iš Trakų\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-42953
+    - c-155956
 
 <a id="claim-t-199081"></a>
-- t-055
+- t-049
   teiginys: "Totorių raiteliai vesdavosi po tris atsarginius žirgus, todėl galėdavo judėti labai sparčiai ir pasiekti netikėtumo efektą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys glaustai ir tiksliai perteikia citatos informaciją."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-181466
-    - c-181488
+    - c-186072
 
 <a id="claim-t-199085"></a>
-- t-056
+- t-050
   teiginys: "Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus, užbaigtas ir pagrįstas citata."
   susije_objektai: "mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prieglius"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-181458
 
 <a id="claim-t-199086"></a>
-- t-057
+- t-051
   teiginys: "Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys apie totorius kaip vienus Lietuvos priešų."
   susije_objektai: "mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Strėva"
@@ -1075,61 +977,32 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Švitrigaila tiesiogiai apibūdintas kaip kreipęs totorių ir rusų ordas į Lietuvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-42953
-    - c-181478
+    - c-186073
 
-<a id="claim-t-199093"></a>
-- t-058
-  teiginys: "1506 m. vasarą totoriai įsiveržė į LDK valdas, nesitikėdami nesėkmės."
-  atnaujinta: "2026-07-19 16:46"
+<a id="claim-t-199114"></a>
+- t-052
+  teiginys: "Kova rytuose su rusų kunigaikščiais ir totoriais buvo viena iš Vytauto politikos krypčių."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_place: Vilnius; mentioned_place: Vitebskas"
-  temporaliniai_duomenys: "įvykio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-42956
-    - c-181500
-
-<a id="claim-t-199103"></a>
-- t-059
-  teiginys: "Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra gramatiškas faktinis sakinys ir atitinka citatos turinį."
-  susije_objektai: "llm_object: Kleckas; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Cepra; mentioned_place: Kleckas; mentioned_place: Pinskas"
-  temporaliniai_duomenys: "įvykio data: 200 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys ir atitinka citatos turinį."
-  ryšio_patikimumas: "susije_su -> Jadvyga: 0.83"
+  susije_objektai: "mentioned_place: Viena; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]"
+  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-42958
-
-<a id="claim-t-199117"></a>
-- t-060
-  teiginys: "Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką."
-  atnaujinta: "2026-07-12 23:01"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_place: Nesvyžius; mentioned_place: Sluckas; mentioned_place: Dniepras; mentioned_place: Lojevas; mentioned_place: Mozyrius; llm_object: Nesvyžius; llm_object: Sluckas"
-  semantiniai_rysiai: "[[objektai/grupes/Totoriai|Totoriai]] puolė Nesvyžius; [[objektai/grupes/Totoriai|Totoriai]] puolė Sluckas"
-  temporaliniai_duomenys: "įvykio data: 1503 m.; įvykio data: 1506 m.; įvykio data: apie 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-42958
+    - c-181493
 
 <a id="claim-t-199124"></a>
-- t-061
+- t-053
   teiginys: "Pagrindinėje stovyklavietėje buvę totoriai jau tą pačią dieną - rugpjūčio ketvirtąją - sužinojo apie link jų judančią Lietuvos kariuomenę."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys turi aiškų subjektą, veiksmą ir datą, citata jį palaiko."
   susije_objektai: "mentioned_place: Lietuva; mentioned_event: [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)|Klecko mūšis]]"
@@ -1144,10 +1017,236 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citata nurodo, kad totoriai apgriovė Lucką."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:24:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181504
-    - c-181505
+
+<a id="claim-t-203044"></a>
+- t-054
+  teiginys: "Po apiplėšimų totoriai stengdavosi kuo sparčiau pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti tol, kol jos jau nebereikėdavo."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis sakinys pernelyg ilgas ir prasideda kontekstiniu junginiu."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija|Bajorų pašauktinės kariuomenės mobilizacija]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-181488
+
+<a id="claim-t-203066"></a>
+- t-055
+  teiginys: "Karolio Zikaro sudarytame leidinyje „Žymiausi Lietuvos mūšiai ir karinės operacijos“ rašoma, kad 1506 m. vasarą totoriai įsiveržė į LDK valdas neturėdami pagrindo įtarti, jog šį kartą sėkmė nuo jų nusisuks."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_place: Vilnius; mentioned_place: Vitebskas"
+  temporaliniai_duomenys: "įvykio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-42956
+
+<a id="claim-t-203072"></a>
+- t-056
+  teiginys: "Karolio Zikaro sudarytame leidinyje „Žymiausi Lietuvos mūšiai ir karinės operacijos“ Lietuva tuo metu apibūdinama kaip turėjusi keturis pagrindinius priešus: Prūsijos–Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie totorius kaip vieną Lietuvos priešų."
+  susije_objektai: "mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Švedija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-181478
+
+<a id="claim-t-203103"></a>
+- t-057
+  teiginys: "Karolio Zikaro sudarytame leidinyje „Žymiausi Lietuvos mūšiai ir karinės operacijos“ teigiama, kad totoriams strateginį privalumą laidavo jų pagrindinės buveinės Krymo pusiasalyje nuošalumas nuo stiprių galios centrų."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir tiesiogiai remiasi citata."
+  susije_objektai: "mentioned_place: Krymas; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perekopas; llm_object: Krymas"
+  semantiniai_rysiai: "[[objektai/grupes/Totoriai|Totoriai]] gyveno Krymas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-42953
+
+<a id="claim-t-203173"></a>
+- t-058
+  teiginys: "Teodoras Narbutas rašo, kad tuo metu vėl prasidėję totorių puldinėjimai palietė Lenkiją ir gal Polesę nuo Bugo."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Iš fragmento paimtas aiškiai su totoriais susijęs veiksmas ir vietos. Neperkelti nesusiję sakinio tęsiniai apie Prūsiją, Kuršą ar kryžiuočius."
+  susije_objektai: "llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Polesė; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vokietija"
+  semantiniai_rysiai: "[[objektai/grupes/Totoriai|Totoriai]] puolė Lenkija"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-181502
+
+<a id="claim-t-203209"></a>
+- t-059
+  teiginys: "Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Nemėžyje ir keliuose pavietuose."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_place: Nemėžis; mentioned_place: Vilnius; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai; llm_object: Ašmena; llm_object: Naugardukas"
+  semantiniai_rysiai: "[[objektai/grupes/Totoriai|Totoriai]] gyveno Lietuva; [[objektai/grupes/Totoriai|Totoriai]] gyveno Naugardukas; [[objektai/grupes/Totoriai|Totoriai]] gyveno Ašmena"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Totoriai gyveno Nemėžis“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-181494
+
+<a id="claim-t-203241"></a>
+- t-060
+  teiginys: "Pasak Petro Dusburgiečio, totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką Vroclavietį ir daugybę kitų žmonių, o šias šalis pavertė dykromis."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata leidžia patikslinti Henriko tapatybę ir žygio padarinius."
+  susije_objektai: "llm_object: Lenkija; llm_object: Vengrija; mentioned_place: Lenkija; mentioned_place: Vengrija; mentioned_place: Vroclavas"
+  semantiniai_rysiai: "[[objektai/grupes/Totoriai|Totoriai]] puolė Vengrija; [[objektai/grupes/Totoriai|Totoriai]] puolė Lenkija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-155965
+
+<a id="claim-t-203282"></a>
+- t-061
+  teiginys: "Didžiojoje Kunigaikštystėje gyvenę totoriai, iš valdovo ar jo tikėjimo žmonių įsigiję nuosavybę, atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas dvasininkams mokėtas duokles."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra glaustas, aiškus ir paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-181484
+
+<a id="claim-t-203353"></a>
+- t-062
+  teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl Lietuvos kunigaikščiams buvo nesunku jas paimti į savo valdžią."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-181469
+
+<a id="claim-t-203354"></a>
+- t-063
+  teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad per Rygą ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupyje įsigalėjus totoriams, prekyba su pietiniais kraštais buvo visiškai nutrūkusi."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-181485
+
+<a id="claim-t-203398"></a>
+- t-064
+  teiginys: "Petras Dusburgietis „Prūsijos žemės kronikoje“ teigia, kad totoriai nuniokojo Vengriją ir Lenkiją."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
+  susije_objektai: "llm_object: Lenkija; llm_object: Vengrija; mentioned_place: Lenkija; mentioned_place: Vengrija"
+  semantiniai_rysiai: "[[objektai/grupes/Totoriai|Totoriai]] puolė Vengrija; [[objektai/grupes/Totoriai|Totoriai]] puolė Lenkija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-155956
+
+<a id="claim-t-203416"></a>
+- t-065
+  teiginys: "Petras Dusburgietis „Prūsijos žemės kronikoje“ nurodo, kad 1202 m. prasidėjo totorių viešpatavimas."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra trumpas, pilnas ir tiesiogiai paremtas citata."
+  temporaliniai_duomenys: "įvykio data: 1202 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, pilnas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-181468
+
+<a id="claim-t-203458"></a>
+- t-066
+  teiginys: "Kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie totorius."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-181486
+
+<a id="claim-t-203515"></a>
+- t-067
+  teiginys: "Michał Baliński „Vilniaus miesto istorijoje“ cituojamame rašte skelbiama, jog buvo pranešta, kad Didžiojoje Kunigaikštystėje gyvenę rusai ir totoriai, įsigiję nuosavybę, atsisakydavo mokėti dvasininkams dešimtinę, pelno mokestį ir kitas duokles."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Reikia įtraukti citatoje nurodytą sąlygą dėl įsigytos nuosavybės."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-181484
+
+<a id="claim-t-203525"></a>
+- t-068
+  teiginys: "Michał Baliński teigimu, Vytauto Lietuvoje įkurdinti totoriai garsėjo nepriekaištinga dora, narsa ir prieraišumu savo naujajai tėvynei."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata palaiko faktą apie totorių įkurdinimą ir apibūdinimą; pašalintas nutrūkęs tekstas."
+  susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai; mentioned_place: Vilnius"
+  semantiniai_rysiai: "[[objektai/grupes/Totoriai|Totoriai]] gyveno Lietuva"
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie totorių įkurdinimą ir apibūdinimą; pašalintas nutrūkęs tekstas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-181494
+
+<a id="claim-t-203528"></a>
+- t-069
+  teiginys: "Michał Baliński rašo, kad totorių chanas Jedigėjus, siekdamas Vytauto draugystės, iš Juodosios jūros pakrančių siųsdavo į Lietuvos sostinę turtingomis dovanomis apkrautus kupranugarius."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys buvo kontekstinis fragmentas, perrašytas į pilną sakinį."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Valakija; mentioned_place: Volga; llm_object: Vilnius"
+  semantiniai_rysiai: "[[objektai/grupes/Totoriai|Totoriai]] siuntė į Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1420 m.; įvykio data: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo kontekstinis fragmentas, perrašytas į pilną sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-181501
+
+<a id="claim-t-203533"></a>
+- t-070
+  teiginys: "Michał Baliński veikale „Vilniaus miesto istorija“ rašo, kad totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Valakija; mentioned_place: Vilnius; mentioned_place: Volga"
+  temporaliniai_duomenys: "įvykio data: 1420 m.; įvykio data: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-181501
+
+<a id="claim-t-203579"></a>
+- t-071
+  teiginys: "Michał Baliński veikale „Vilniaus miesto istorija“ pateikia pasiuntinio pranešimą, kuriame teigiama, kad Vytautas užmezgė draugiškus ryšius su totorių chanu ir susitarė dėl taikos."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatos faktą apie Vytauto ryšius su totorių chanu."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-181499
 
 ## Citatos
 
@@ -1155,7 +1254,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 298."
   citata_originali: |
     Rytų Europos pietuose Vytauto laikais turėjo didelę galybę
     totoriai, kurie kadaise buvo užkariavę veik visus didžiulius ru­
@@ -1166,18 +1266,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
     suskilusi, atskiri „saarai“ vedė nuolatinius karus.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-020
 
 - id: c-21433
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 136."
   citata_originali: |
     Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­
     jant Vorsklos nugalėtojui Edygai, 1414—1416 m. laikotarpyje
@@ -1187,19 +1288,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
     totorių sudrausti.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-034
+    - t-031
 
 - id: c-36948
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 80."
   citata_originali: |
     Taip Algirdas, pasinaudojęs chanų
     vaidais, atėmė iš jų Kijevą ir Podoliją. Vytautas irgi, užimda­
@@ -1209,17 +1310,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     Rusijos žemes: Vytautas ar totoriai.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
-
 - id: c-36949
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 81."
   citata_originali: |
     Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
     jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
@@ -1228,17 +1328,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     pranašavo ambicingam Vytautui didelių užsimojimų galą^2 ).
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-029
-
 - id: c-36950
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 83."
   citata_originali: |
     Totoriai, užvaldę lietuvių stovyklą, paėmė visas jų gur­
     guoles ir turtus ir tuojau metėsi krašto terioti. Pasuko Kijevo
@@ -1249,13 +1348,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-035
 
 - id: c-36951
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 151."
   citata_originali: |
     Visi šie rūpesčiai reikalavo
     taikos, o jos nebuvo matyti. Be Vok. Ordino trukdė dar
@@ -1269,16 +1369,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-009
-    - t-015
-    - t-034
+    - t-004
+    - t-008
+    - t-014
 
 - id: c-36953
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 281."
   citata_originali: |
     Geri santykiai su Jogaila ir lenkais, kova su Or­
     dinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios
@@ -1286,18 +1386,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     sios Vytauto politikos mintys.
     Beveik visa ta programa pavyko jam įgyvendinti.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
-    - t-035
-
 - id: c-42953
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Totorių kariuomenė
 
@@ -1313,18 +1411,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     nesunkiai leistis į tolimus žygius. Taktinį
     pranašumą sąlygojo jų lengvoji kavalerija.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-054
     - t-057
 
 - id: c-42956
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Totorių įsiveržimas
 
@@ -1339,17 +1437,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 
     į LDK gilumą prasidėjo gegužės pabaigoje.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-058
+    - t-055
 
 - id: c-42958
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Ties Lojevu jie
     persikėlė į dešinįjį Dniepro krantą ir pa-
@@ -1365,17 +1464,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     skirstę mažesniais būriais.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-059
-    - t-060
-
 - id: c-155948
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50-51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50-51."
   citata_originali: |
     Tasai Andrius, Jogailai pavaldaus
     Polocko kunigaikštis, Algirdo sū­
@@ -1413,13 +1510,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-027
+    - t-001
+    - t-025
 
 - id: c-155949
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 417-418"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 417-418."
   citata_originali: |
     Tarė­
     jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
@@ -1452,7 +1550,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
-    - t-020
+    - t-018
 
 - id: c-155951
   autorius: "Petras Dusburgietis"
@@ -1470,12 +1568,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-032
 
 - id: c-155952
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166."
   citata_originali: |
     Tačiau Vilniaus vyskupas Petras tam
     prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
@@ -1499,18 +1598,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
   citata_rodoma: "Tačiau Vilniaus vyskupas Petras tam \nprieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­\nnystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, \nbūtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas \nJanas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­\nti, ir kuris palaimino tą santuoką.\nVytautas, savo viešpatavimo laikais laimėjęs daug mūšių \nsu Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, \nklajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­\ndyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra \nskelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių \ndaugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­\ntauto laikais pirmą kartą (1419 m."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-016
+    - t-013
+    - t-015
 
 - id: c-155954
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 167."
   citata_originali: |
     Vytauto
     didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios
@@ -1525,13 +1625,12 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     Žygimantą Kaributaitį, savo sūnėną.
   citata_rodoma: "Tada Lietuvos sostinėje regėdavo kupranuga­\nrius, dryžuotom gūniom apdangstytus, turtingomis dovano­\nmis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas\nVytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo\ntotorių chanas Jedigėjus76. Valakijos kunigaikščiai jo globos sie­\nkė (1420 m."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-028
+    - t-026
 
 - id: c-155956
   autorius: "Petras Dusburgietis"
@@ -1548,15 +1647,20 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
              23.
   citata_rodoma: "Apie Vengrijos ir Lenkijos nusiaubimą\n\n   Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).\n\n\n\n         23."
   statusas: verified
-  atnaujinta: "2026-07-12 22:31"
-
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-038
+    - t-048
+    - t-064
+
 - id: c-155957
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 159."
   citata_originali: |
     2.
     62
@@ -1575,13 +1679,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     M um per J. J a c.
   citata_rodoma: "2.\n62\nKaip seniau totoriai garsėjo santū­\nrumu, svetingumu ir kitomis iš kar­\ntų kartoms pereinančiomis dorybė­\nmis, liudija Mykolas Lietuvis, \nvienintelis autentiškų raštų apie sa­\nvo tautos papročius autorius, kuris \nbando (gal ir apsirinka) totorius ver­\ntesniais už savo tėvynainius esant \npripažinti. Žr."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-041
+    - t-021
+    - t-036
 
 - id: c-155958
   autorius: "Petras Dusburgietis"
@@ -1598,12 +1702,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-012
 
 - id: c-155960
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 157-158"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 157-158."
   citata_originali: |
     Dalyvaujant garbingiems
     ir narsiems vyrams Mingailai, Goš­
@@ -1634,12 +1739,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-155963
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 235."
   citata_originali: |
     Kai paskelbus dvylikos metų paliaubas tarp
     karaliaus ir didžiojo magistro karo veiksmai Karalystėje vis
@@ -1662,14 +1768,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-017
+    - t-007
+    - t-016
 
 - id: c-155964
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 281."
   citata_originali: |
     Atrodo,
     kad pamažu susikristalizuoja lyg ir pagrindiniai jo veikimo pro­
@@ -1685,8 +1792,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
-    - t-035
+    - t-023
 
 - id: c-155965
   autorius: "Petras Dusburgietis"
@@ -1703,17 +1809,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
   citata_rodoma: "27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­\n                              lio, ir Henriko, Vroclavo kunigaikščio, žūtį\n\n   Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,\nkur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir\ngalybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių\nvieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399)."
   statusas: verified
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011
+    - t-060
 
 - id: c-155966
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 187."
   citata_originali: |
     Dar iš to paties
     pasiuntinio turiu, jog (de Vörste) Vytautas su totorių chanu už­
@@ -1727,12 +1835,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-034
 
 - id: c-155968
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 160."
   citata_originali: |
     Jų dau­
     gybę su visomis šeimomis į šiuos
@@ -1765,7 +1874,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-029
 
 - id: c-155969
   autorius: "Petras Dusburgietis"
@@ -1782,17 +1891,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
   citata_rodoma: "Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų\nfeodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos\nkronikos IV-ojoje dalyje. Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą\n(1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą  ir trumpai\natpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms\nsuartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas\nmusulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108)."
   statusas: verified
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-022
 
 - id: c-155972
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 71."
   citata_originali: |
     Tačiau XVII–XVIII a. bent jau Vilnius
     prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
@@ -1809,12 +1919,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-024
 
 - id: c-155974
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 40."
   citata_originali: |
     Didieji kunigaikščiai, reikšdami teritorines
     pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
@@ -1829,13 +1940,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
+    - t-037
 
 - id: c-155975
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 81."
   citata_originali: |
     Dabar visa garbė ir
     šlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­
@@ -1850,13 +1962,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-019
 
 - id: c-155977
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 80."
   citata_originali: |
     Bet ir totoriai,
     įsigalėję Rusijoj, taip pat ėmė tarp savęs vaidytis, kuo nekartą
@@ -1870,8 +1983,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-019
+    - t-017
 
 - id: c-155978
   autorius: "Petras Dusburgietis"
@@ -1894,12 +2006,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-033
 
 - id: c-155979
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 212."
   citata_originali: |
     Kaip in Mindaugni, Traidenini rūpesčių sudarė totoriai. Iš tu­
     rimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.
@@ -1907,17 +2020,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     1279 m. apiplėšė Lietuvą^256.
   citata_rodoma: "Iš tu­\nrimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.\nĮsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,\n1279 m. apiplėšė Lietuvą^256."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-155980
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 160."
   citata_originali: |
     Gana grėsmingai įsiliepsnojo pirmieji nesuta­
     rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos
@@ -1952,14 +2066,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-016
-    - t-031
+    - t-002
+    - t-028
 
 - id: c-155981
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 71-72"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 71-72."
   citata_originali: |
     LDK
     kultūrinę įvairovę didino etninis aspektas: nors kai kurios konfesinės ir
@@ -1978,12 +2092,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-010
 
 - id: c-155984
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 242."
   citata_originali: |
     Daug jų vyko
     pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­
@@ -2008,7 +2123,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - id: c-155987
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 212."
   citata_originali: |
     Iš tu­
     rimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.
@@ -2018,17 +2134,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     kuris buvo sumažėjęs tuoj po Mindaugo mirties.
   citata_rodoma: "Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,\n1279 m. apiplėšė Lietuvą^256.\nTraidenio laikais Lietuva vėl atgavo savo ankstybesnį svorį,\nkuris buvo sumažėjęs tuoj po Mindaugo mirties."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-155989
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 72."
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     72
@@ -2046,12 +2163,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-030
 
 - id: c-166576
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     Tačiau vėliau
     jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
@@ -2066,7 +2184,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-027
 
 - id: c-175270
   autorius: "Teodoras Narbutas"
@@ -2092,12 +2210,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
+    - t-044
 
 - id: c-175889
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 80."
   citata_originali: |
     Per
     ją ėjo prekyba su visais Lietuvai priklausiusiais ir dar nepriklau-
@@ -2111,12 +2230,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-049
+    - t-045
 
 - id: c-175890
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 89."
   citata_originali: |
     Rusijos žemės tada buvo labai palaidos.
     Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštys-
@@ -2128,7 +2248,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-050
+    - t-046
 
 - id: c-176489
   autorius: "Anoniminis metraštininkas"
@@ -2149,16 +2269,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     vą 3 9 .
   citata_rodoma: "154\n\n## Puslapis 150\n\nDidysis kunigaikštis Aleksandras išstovėjo Braclave \nnemaža laiko ir atstatė Braclavo miestą; visi žmonės, \nkurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo \nį Braciavą. Tuo pačiu metu stepėje, dvylika mylių nuo \nBraclavo, lietuviai sumušė kelis šimtus totorių. O pas­\nkui didysis kunigaikštis Aleksandras sugrįžo į Lietu­\nvą 3 9 ."
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
-
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-047
+
 - id: c-181456
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 81."
   citata_originali: |
     Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
     jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
@@ -2167,12 +2290,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     pranašavo ambicingam Vytautui didelių užsimojimų galą^2 ).
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-029
-
 - id: c-181457
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2196,13 +2317,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
-    - t-047
+    - t-040
+    - t-043
 
 - id: c-181458
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 40."
   citata_originali: |
     Taigi, Lietuva siekė atgauti
     Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą,
@@ -2225,12 +2347,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-056
+    - t-050
 
 - id: c-181459
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 157-158"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 157-158."
   citata_originali: |
     Dalyvaujant garbingiems
     ir narsiems vyrams Mingailai, Goš­
@@ -2261,12 +2384,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-181460
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 71."
   citata_originali: |
     Tačiau XVII–XVIII a. bent jau Vilnius
     prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
@@ -2283,12 +2407,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-024
 
 - id: c-181461
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 160."
   citata_originali: |
     Jų dau­
     gybę su visomis šeimomis į šiuos
@@ -2321,13 +2446,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-029
 
 - id: c-181462
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 80."
   citata_originali: |
     Taip Algirdas, pasinaudojęs chanų
     vaidais, atėmė iš jų Kijevą ir Podoliją. Vytautas irgi, užimda­
@@ -2337,16 +2463,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     Rusijos žemes: Vytautas ar totoriai.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
-
 - id: c-181463
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 228."
   citata_originali: |
     Apie Vengrijos ir Lenkijos nusiaubimą
 
@@ -2356,18 +2481,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 
              23.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-036
-    - t-052
-
 - id: c-181464
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166."
   citata_originali: |
     Tačiau Vilniaus vyskupas Petras tam
     prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
@@ -2391,18 +2514,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
   citata_rodoma: "Tačiau Vilniaus vyskupas Petras tam \nprieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­\nnystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, \nbūtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas \nJanas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­\nti, ir kuris palaimino tą santuoką.\nVytautas, savo viešpatavimo laikais laimėjęs daug mūšių \nsu Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, \nklajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­\ndyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra \nskelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių \ndaugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­\ntauto laikais pirmą kartą (1419 m."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-016
+    - t-015
 
 - id: c-181465
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 212."
   citata_originali: |
     Kaip in Mindaugni, Traidenini rūpesčių sudarė totoriai. Iš tu­
     rimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.
@@ -2410,17 +2533,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     1279 m. apiplėšė Lietuvą^256.
   citata_rodoma: "Iš tu­\nrimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.\nĮsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,\n1279 m. apiplėšė Lietuvą^256."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
-
 - id: c-181466
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Iš kitos pusės, nesant masinės reguliarios
     kariuomenės, bajorų pašauktinės kariuo-
@@ -2435,18 +2557,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     pabaigoje - xvi a. pradžioje. Tiesa, dar
   citata_rodoma: "Iš kitos pusės, nesant masinės reguliarios\nkariuomenės, bajorų pašauktinės kariuo-\nmenės mobilizacija galėdavo užtrukti tol,\nkol jos jau nebereikėdavo, nes po apiplė-\nšimo totoriai stengdavosi pasitraukti kuo\nsparčiau. Būtent šios struktūrinės-orga-\nnizacinės Lietuvos karinės organizacijos\nsilpnosios vietos leido totoriams dažnai\n\nnebaudžiamiems plėšti LDK žemes xv a.\npabaigoje - xvi a. pradžioje."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-28 14:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-053
-    - t-055
-
 - id: c-181467
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
     feodalinių riterių žygių prieš musulmoniškąjį pasaulį. Antisaracėniškos idėjos išreikštos
@@ -2456,13 +2576,11 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     suartėti su totoriais — mongolais  ir aprašomi pastarųjų žygiai prieš Siriją bei kitas
     musulmoniškąsias šalis (IV, 57, 69, 77—80, 87, 108).
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-024
-
 - id: c-181468
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2473,34 +2591,36 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 
       1202 viešpaties metais prasidėjo totorių viešpatavimas (Ptol. loc. cit.; Mart. loc. cit.).
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-065
 
 - id: c-181469
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 89."
   citata_originali: |
     Rusijos žemės tada buvo labai palaidos.
     Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštys-
     čių, todėl nesunku buvo jas paimti į savo valdžią. Užtat
     Lietuvos kunigaikščiai taip toli nužygiuodavo į Rusijos gilumą.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-050
+    - t-062
 
 - id: c-181470
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 71-72"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 71-72."
   citata_originali: |
     LDK
     kultūrinę įvairovę didino etninis aspektas: nors kai kurios konfesinės ir
@@ -2519,7 +2639,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-010
 
 - id: c-181471
   autorius: "Anoniminis metraštininkas"
@@ -2547,12 +2667,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-043
+    - t-039
 
 - id: c-181472
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 212."
   citata_originali: |
     Iš tu­
     rimų šaltinių nėra tiksliai atsekama, kiek jam teko su jais susikauti.
@@ -2562,13 +2683,11 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     kuris buvo sumažėjęs tuoj po Mindaugo mirties.
   citata_rodoma: "Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu,\n1279 m. apiplėšė Lietuvą^256.\nTraidenio laikais Lietuva vėl atgavo savo ankstybesnį svorį,\nkuris buvo sumažėjęs tuoj po Mindaugo mirties."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
-
 - id: c-181473
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2594,13 +2713,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
-    - t-047
+    - t-043
 
 - id: c-181474
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50-51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50-51."
   citata_originali: |
     Tasai Andrius, Jogailai pavaldaus
     Polocko kunigaikštis, Algirdo sū­
@@ -2633,19 +2752,20 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     Vilnių.
   citata_rodoma: "Dėl to sudarė slaptą, be \nKęstučio žinios, sutartį su Livoni­\njos magistru, kad anas padėtų jam \nvykdyti tuos kėslus. Tuo metu, kai \nAndrius, nuolatinis Dmitrijaus Do­\nniškio bendražygis, karo rūpesčiais \ndalinęsis, kovojęs su juo dar kartu \nprieš totorius, kur Kulikovo lauke \n(1380 metų rugsėjo 8-ą) prie perga­\nlės daugiausia prisidėjęs, dalyvavo \nmūšiuose, - Skirgaila užsibuvo Po-\n34\n\n## Puslapis 51\n\nI  KNYGA\nGaliausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­\nsiryžo užbėgti jam už akių ir žinodamas, jog šis visas savo \nginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad \nten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų \nrugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo \nVilnių."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-027
+    - t-001
+    - t-025
 
 - id: c-181475
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 83."
   citata_originali: |
     Totoriai, užvaldę lietuvių stovyklą, paėmė visas jų gur­
     guoles ir turtus ir tuojau metėsi krašto terioti. Pasuko Kijevo
@@ -2656,13 +2776,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-035
 
 - id: c-181476
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 281."
   citata_originali: |
     Atrodo,
     kad pamažu susikristalizuoja lyg ir pagrindiniai jo veikimo pro­
@@ -2673,14 +2794,11 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     sios Vytauto politikos mintys.
   citata_rodoma: "Jie duoda jo darbams tam tikro tvirtumo,\npastovumo. Geri santykiai su Jogaila ir lenkais, kova su Or­\ndinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios\nstiprinimas ir kultūros kėlimas krašto viduje — štai vedamo­\nsios Vytauto politikos mintys."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
-    - t-035
-
 - id: c-181477
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2697,12 +2815,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-032
 
 - id: c-181478
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     Visa tai liudytų, kad Kryžiuočių or-
     dino ir Švedijos puolimai vienu metu
@@ -2716,12 +2835,12 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     Kęstutis kurį laiką laviravo santykiuose su
     Lenkija ir totoriais.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-057
+    - t-056
 
 - id: c-181479
   autorius: "Anoniminis metraštininkas"
@@ -2746,13 +2865,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-042
 
 - id: c-181480
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 81."
   citata_originali: |
     Dabar visa garbė ir
     šlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­
@@ -2762,17 +2882,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
     totoriais pasidarė jau nebeišvengiamas.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-021
-
 - id: c-181481
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 250."
   citata_originali: |
     125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
 
@@ -2784,17 +2903,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
                     126.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-038
-
 - id: c-181482
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 80."
   citata_originali: |
     Taip Algirdas, pasinaudojęs chanų
     vaidais, atėmė iš jų Kijevą ir Podoliją. Vytautas irgi, užimda­
@@ -2803,17 +2921,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     reikėjo išspręsti jau senokai pribrendusi klausimą, kas valdys
     Rusijos žemes: Vytautas ar totoriai.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
-
 - id: c-181483
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 242."
   citata_originali: |
     Daug jų vyko
     pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­
@@ -2838,7 +2955,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - id: c-181484
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 417-418"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 417-418."
   citata_originali: |
     Tarė­
     jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
@@ -2865,18 +2983,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     possessionibus acquisitis vėl acquirendis, quae sustinuerunt
     ii, a quibus eas acquisiverunt, aut acquisituri sunt.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-020
+    - t-061
+    - t-067
 
 - id: c-181485
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 80."
   citata_originali: |
     Per
     ją ėjo prekyba su visais Lietuvai priklausiusiais ir dar nepriklau-
@@ -2885,17 +3004,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     prekyba su pietiniais kraštais visai nutrūko. Dabar, padarius
     sąjungą su Rygos miestu, kelias Lietuvos prekybai buvo atviras.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-049
+    - t-063
 
 - id: c-181486
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 40."
   citata_originali: |
     Didieji kunigaikščiai, reikšdami teritorines
     pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
@@ -2905,17 +3025,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     todėl valdovai kvietė pirklius ir amatininkus iš svetur.
   citata_rodoma: "Antra vertus, kunigaikš-\nčiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, \nkurie tapo artimosios sargybos tautomis. Nepasitikėta ir savųjų įgūdžiais, \ntodėl valdovai kvietė pirklius ir amatininkus iš svetur."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
+    - t-066
 
 - id: c-181487
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
   citata_originali: |
     154
 
@@ -2929,17 +3050,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
     vą 3 9 .
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-051
-
 - id: c-181488
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Iš kitos pusės, nesant masinės reguliarios
     kariuomenės, bajorų pašauktinės kariuo-
@@ -2954,19 +3074,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     pabaigoje - xvi a. pradžioje. Tiesa, dar
   citata_rodoma: "Iš kitos pusės, nesant masinės reguliarios\nkariuomenės, bajorų pašauktinės kariuo-\nmenės mobilizacija galėdavo užtrukti tol,\nkol jos jau nebereikėdavo, nes po apiplė-\nšimo totoriai stengdavosi pasitraukti kuo\nsparčiau. Būtent šios struktūrinės-orga-\nnizacinės Lietuvos karinės organizacijos\nsilpnosios vietos leido totoriams dažnai\n\nnebaudžiamiems plėšti LDK žemes xv a.\npabaigoje - xvi a. pradžioje."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-053
-    - t-055
+    - t-054
 
 - id: c-181489
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 80."
   citata_originali: |
     Bet ir totoriai,
     įsigalėję Rusijoj, taip pat ėmė tarp savęs vaidytis, kuo nekartą
@@ -2980,14 +3100,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-019
+    - t-017
 
 - id: c-181490
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 81."
   citata_originali: |
     Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
     jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
@@ -2995,13 +3115,11 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     czym duchem“ (pranašingu nujautimu), kaip sako Prochaska,
     pranašavo ambicingam Vytautui didelių užsimojimų galą^2 ).
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-029
-
 - id: c-181491
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -3034,13 +3152,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
-    - t-045
+    - t-041
 
 - id: c-181492
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 159."
   citata_originali: |
     2.
     62
@@ -3059,19 +3177,20 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     M um per J. J a c.
   citata_rodoma: "2.\n62\nKaip seniau totoriai garsėjo santū­\nrumu, svetingumu ir kitomis iš kar­\ntų kartoms pereinančiomis dorybė­\nmis, liudija Mykolas Lietuvis, \nvienintelis autentiškų raštų apie sa­\nvo tautos papročius autorius, kuris \nbando (gal ir apsirinka) totorius ver­\ntesniais už savo tėvynainius esant \npripažinti. Žr."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-041
+    - t-021
+    - t-036
 
 - id: c-181493
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 281."
   citata_originali: |
     Geri santykiai su Jogaila ir lenkais, kova su Or­
     dinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios
@@ -3084,13 +3203,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
-    - t-035
+    - t-052
 
 - id: c-181494
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 160."
   citata_originali: |
     Gana grėsmingai įsiliepsnojo pirmieji nesuta­
     rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos
@@ -3120,19 +3239,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     kapinės ir 1.1.
   citata_rodoma: "]* -\nŠitas, nepalankus lietuvių atžvilgiu\npalyginimas su totoriais gal persū­\ndytas, tačiau negalima būtų nugin­\nčyti, kad totoriai, Vytauto Lietuvoje\nįkurdinti, net iki mūsų laikų garsūs\nnepriekaištinga dora, narsa ir prie­\nraišumu savo naujai tėvynei. Jų dau­\ngybę su visomis šeimomis į šiuos\nkraštus turėjo būti atkėlęs šaunus\npergalingas karys Vytautas; be jų pa­\ngrindinės gyvenvietės prie Vokės\nupės, be tų, kurie įsikūrė mieste ir\nkurie apsigyveno vietovėje, vadinto­\nje Nemėžiu, per mylią nuo Vilniaus į\nrytus, daug jų įsikūrė pavietuose:\nLydos, Ašmenos ir Naugarduko ir\niš tiesų nėra valdos, ypač pasakyti­\nna tai apie Vilniaus, Trakų ir Nau­\ngarduko pavietus, kur iki šiolei ne­\nbūtų išlikę totorių buveinių pėdsakų\npavadinimuose: Totoriškės, Totorių\nkapinės ir 1."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-016
-    - t-031
+    - t-059
+    - t-068
 
 - id: c-181495
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 235."
   citata_originali: |
     Kai paskelbus dvylikos metų paliaubas tarp
     karaliaus ir didžiojo magistro karo veiksmai Karalystėje vis
@@ -3150,19 +3269,17 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     pragaištingų konkurentų, varžybas.
   citata_rodoma: "Naudodamasis visuotine neapykanta, kurią per sa­\nvo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­\nnėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į\nšį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą\nŽygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­\nkojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė\nšios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­\ngimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­\ntuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė\nnetoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai\npragaištingų konkurentų, varžybas."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
-    - t-017
-
 - id: c-181496
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 151."
   citata_originali: |
     Visi šie rūpesčiai reikalavo
     taikos, o jos nebuvo matyti. Be Vok. Ordino trukdė dar
@@ -3172,19 +3289,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   citata_rodoma: "Be Vok. Ordino trukdė dar\ntaikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,\nvedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-009
-    - t-015
-    - t-034
-
 - id: c-181497
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 72."
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     72
@@ -3202,12 +3315,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-030
 
 - id: c-181498
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
   citata_originali: |
     27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
                                   lio, ir Henriko, Vroclavo kunigaikščio, žūtį
@@ -3217,17 +3331,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
     vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
-
 - id: c-181499
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 187."
   citata_originali: |
     Dar iš to paties
     pasiuntinio turiu, jog (de Vörste) Vytautas su totorių chanu už­
@@ -3236,17 +3349,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     rį, kurį vadina dromedaru. Lai Dievas Jūsų Prakilnybei duoda
     stiprybės ir sveikatos ilgiems metams.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-071
 
 - id: c-181500
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Totorių įsiveržimas
 
@@ -3261,17 +3375,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 
     į LDK gilumą prasidėjo gegužės pabaigoje.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-058
-
 - id: c-181501
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 167."
   citata_originali: |
     Vytauto
     didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios
@@ -3286,13 +3399,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     Žygimantą Kaributaitį, savo sūnėną.
   citata_rodoma: "Tada Lietuvos sostinėje regėdavo kupranuga­\nrius, dryžuotom gūniom apdangstytus, turtingomis dovano­\nmis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas\nVytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo\ntotorių chanas Jedigėjus76. Valakijos kunigaikščiai jo globos sie­\nkė (1420 m."
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-028
+    - t-069
+    - t-070
 
 - id: c-181502
   autorius: "Teodoras Narbutas"
@@ -3313,17 +3426,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     riuos Prūsijoje valdyti pradėjo Hartnumdas Grumbachas.
     1 Iš Foigto tyrinėjimų (Gesch.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
+    - t-058
 
 - id: c-181503
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     Tačiau vėliau
     jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
@@ -3333,17 +3447,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
     jie nugalėjo pasitelkę pagonis, totorius musulmonus.
   statusas: verified
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-027
 
 - id: c-181504
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 80."
   citata_originali: |
     Dalis jų išvengė
     žūties ir aplinkiniais keliais pasiekė Klecką.
@@ -3364,12 +3479,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-061
+    - t-053
 
 - id: c-181505
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 80."
   citata_originali: |
     Dalis jų išvengė
     žūties ir aplinkiniais keliais pasiekė Klecką.
@@ -3386,11 +3502,177 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   citata_rodoma: "Pagrindinėje stovyklavietėje buvę totoriai\njau tą pačią dieną - rugpjūčio ketvirtąją -\nsužinojo apie link jų judančią Lietuvos ka-\nriuomenę. Totoriai nusprendė laukti savo\n\n78 KLECKO MŪŠIS 1506 m. rugpjūčio 6 d.\n\npriešų vietoje, nes jie nebuvo nusiteikę bėgti\npametę grobį, kuriam „surinkti“ prireikė ke-\nleto mėnesių darbo."
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-186072
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Taktinį
+    pranašumą sąlygojo jų lengvoji kavalerija.
+    Kiekvienas raitelis su savimi vesdavosi po
+    tris atsarginius žirgus, kuriuos keičiant
+    totorių raiteliai galėdavo judėti taip spar-
+    čiai, jog anaiptol ne visada žinia apie toto-
+    rių reidą galėdavo užbėgti jiems už akių.
+    Totoriams tai leisdavo pasiekti netikėtumo
+    efektą.
+  citata_rodoma: "Kiekvienas raitelis su savimi vesdavosi po\ntris atsarginius žirgus, kuriuos keičiant\ntotorių raiteliai galėdavo judėti taip spar-\nčiai, jog anaiptol ne visada žinia apie toto-\nrių reidą galėdavo užbėgti jiems už akių.\nTotoriams tai leisdavo pasiekti netikėtumo\nefektą."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-061
+    - t-049
+
+- id: c-186073
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Lietuva tuo metu turėjo keturis pagrin-
+    dinius priešus: Prūsijos-Livonijos vokie-
+    čių ordiną, Maskvą, totorius ir Lenkiją.
+    Silpnindami priešišką spaudimą vienuose
+    frontuose, Lietuvos valdovai Algirdas ir
+    Kęstutis kurį laiką laviravo santykiuose su
+    Lenkija ir totoriais.
+  citata_rodoma: "Lietuva tuo metu turėjo keturis pagrin-\ndinius priešus: Prūsijos-Livonijos vokie-\nčių ordiną, Maskvą, totorius ir Lenkiją."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-051
+
+- id: c-186074
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
+    su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
+    klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
+    dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
+    skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
+    daugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­
+    tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus
+    pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­
+    tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo
+    paklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu
+    paskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas
+    jam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,
+    73 nė Ona mirė Trakuose, o palaidota
+    Ona buvo Smolensko kunigaikščio buvo Vilniuje. Žr. Index Cod.
+  citata_rodoma: "Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių \nsu Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, \nklajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­\ndyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra \nskelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių \ndaugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­\ntauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus \npilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­\ntuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo \npaklusti Lietuvos valdovui, ir Vytautas didžiosios ordos chanu \npaskelbė Tochtamišo giminaitį Betsabutą74, viešai uždedamas \njam kunigaikščio kepurę, apsiausdamas brangiu purpuriniu,\n73 nė Ona mirė Trakuose, o palaidota\nOna buvo Smolensko kunigaikščio buvo Vilniuje. Žr. Index Cod."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
+- id: c-186075
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Bonifacas IX leido paskelbti net kryžiaus ka­
+    rą. Tai buvo Vytauto planų parėmimas. Dabar visa garbė ir
+    šlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­
+    čiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus
+    totorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą.
+  citata_rodoma: "Tai buvo Vytauto planų parėmimas. Dabar visa garbė ir\nšlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­\nčiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus\ntotorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
+
+- id: c-186076
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vėl įsiliepsnojo kelerius
+    metus trukęs karas tarp rusų, vadovaujamų Švitrigailos, ir
+    Lietuvos, valdomos Žygimanto. Šį karą kurstė neblėstantis
+    Prūsijos ir Livonijos kryžiuočių įniršis. Tuo pat metu Lenki­
+    joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, o Po­
+    dolėje - su Švitrigailos šalininkais, remiamais Moldovos ku­
+    nigaikščių. Kai paskelbus dvylikos metų paliaubas tarp
+    karaliaus ir didžiojo magistro karo veiksmai Karalystėje vis
+    dėlto aprimo, apsilpo ir energingojo Švitrigailos jėgos Lie­
+    tuvoje. Naudodamasis visuotine neapykanta, kurią per sa­
+    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
+    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
+    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
+    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
+    kojama ir saviškių, ir svetimšalių.
+  citata_rodoma: "Vėl įsiliepsnojo kelerius \nmetus trukęs karas tarp rusų, vadovaujamų Švitrigailos, ir \nLietuvos, valdomos Žygimanto. Šį karą kurstė neblėstantis \nPrūsijos ir Livonijos kryžiuočių įniršis. Tuo pat metu Lenki­\njoje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, o Po­\ndolėje - su Švitrigailos šalininkais, remiamais Moldovos ku­\nnigaikščių. Kai paskelbus dvylikos metų paliaubas tarp \nkaraliaus ir didžiojo magistro karo veiksmai Karalystėje vis \ndėlto aprimo, apsilpo ir energingojo Švitrigailos jėgos Lie­\ntuvoje. Naudodamasis visuotine neapykanta, kurią per sa­\nvo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­\nnėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į \nšį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą \nŽygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­\nkojama ir saviškių, ir svetimšalių."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-186077
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Geri santykiai su Jogaila ir lenkais, kova su Or­
+    dinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios
+    stiprinimas ir kultūros kėlimas krašto viduje — štai vedamo­
+    sios Vytauto politikos mintys.
+    Beveik visa ta programa pavyko jam įgyvendinti. To rei­
+    kalavo pats Lietuvos gyvenimas.
+  citata_rodoma: "Geri santykiai su Jogaila ir lenkais, kova su Or­\ndinu ir rytuose su rusų kun. ir totoriais, kunigaikščio valdžios\nstiprinimas ir kultūros kėlimas krašto viduje — štai vedamo­\nsios Vytauto politikos mintys.\nBeveik visa ta programa pavyko jam įgyvendinti. To rei­\nkalavo pats Lietuvos gyvenimas."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
+
+- id: c-186078
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tuo pat metu Lenki­
+    joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, o Po­
+    dolėje - su Švitrigailos šalininkais, remiamais Moldovos ku­
+    nigaikščių. Kai paskelbus dvylikos metų paliaubas tarp
+    karaliaus ir didžiojo magistro karo veiksmai Karalystėje vis
+    dėlto aprimo, apsilpo ir energingojo Švitrigailos jėgos Lie­
+    tuvoje. Naudodamasis visuotine neapykanta, kurią per sa­
+    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
+    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
+    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
+    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
+    kojama ir saviškių, ir svetimšalių.
+  citata_rodoma: "Kai paskelbus dvylikos metų paliaubas tarp \nkaraliaus ir didžiojo magistro karo veiksmai Karalystėje vis \ndėlto aprimo, apsilpo ir energingojo Švitrigailos jėgos Lie­\ntuvoje. Naudodamasis visuotine neapykanta, kurią per sa­\nvo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­\nnėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į \nšį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą \nŽygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­\nkojama ir saviškių, ir svetimšalių."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Levas (Haličo kunigaikštis)]]

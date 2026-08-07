@@ -76,7 +76,7 @@ Nenurodyta
 <a id="claim-t-168692"></a>
 - t-002
   teiginys: "Rašliava vartojama kaip istorinės raštijos pavadinimas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
@@ -103,7 +103,8 @@ Nenurodyta
 - id: c-153486
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 263."
   citata_originali: |
     Ten jie
     įrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos
@@ -127,7 +128,8 @@ Nenurodyta
 - id: c-153487
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 263."
   citata_originali: |
     Tuo būdu tie ginčai paskatino
     susidomėjimą garbinga Lietuvos praeitimi, ir tais laikais dar
@@ -150,7 +152,8 @@ Nenurodyta
 - id: c-153490
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 3."
   citata_originali: |
     Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-
     ūgėjo. Bet ligi šiol dar niekas nebuvo bandęs paruošti platesnę

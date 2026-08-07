@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cae7f3135d939a87aa0c21a5"
+canonical_name: "Maldžykas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Maldžykas"]
+sameAs: []
+canonical_biography: "Tame suvažiavime, nors ir neoficialiai, daly­ vavo ir Vytauto pasiuntinys Maldžykas."
 ---
 # Maldžykas
 
@@ -51,7 +58,8 @@ Tame suvažiavime, nors ir neoficialiai, daly­ vavo ir Vytauto pasiuntinys Mald
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 243."
   citata_originali: |
     Be to, šlėkta pasižadėjo jungtis prieš visus tuos, kurie tai elek­
     cijai pasipriešintų arba apskritai keltų neramumus krašte ar už

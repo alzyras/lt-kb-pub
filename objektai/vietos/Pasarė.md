@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92d39dc371c73132a26aed47"
+canonical_name: "Pasarė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pasarė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus. Dusburgietis teigia, kad apie Kristburgo brolių kovas antrosios atskalūnybės metais, apie vieną ste­ buklą ir apie daugybės prūsų žūtį 414 D.— fluvii Sergie, Jer.— Serge; Pasarė, vėliau — Pasargė (GAO, p. 116; MPKP, 1, p. 16), dab."
+place_authority: true
+historical_names: []
 ---
 # Pasarė
 
@@ -67,7 +76,8 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
 - id: c-59242
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     Apie Kristburgo brolių kovas antrosios atskalūnybės metais, apie vieną ste­
     buklą ir apie daugybės prūsų žūtį
@@ -84,7 +94,8 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
 - id: c-59243
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     140 (135). Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
     lies bei miesto paėmimą

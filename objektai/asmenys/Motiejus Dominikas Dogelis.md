@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-045def9a81b1b840483e158a"
+canonical_name: "Motiejus Dominikas Dogelis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus Dominikas Dogelis"]
+sameAs: []
+canonical_biography: "Motiejus Dominikas Dogelis buvo archeografas, kurio šaltinių publikacija „Codex diplomaticus Regni Poloniae et Magni Ducatus Lituaniae“ cituojama Narbuto tekste."
 ---
 # Motiejus Dominikas Dogelis
 
@@ -56,7 +63,8 @@ Motiejus Dominikas Dogelis buvo archeografas, kurio šaltinių publikacija „Co
 - id: c-174388
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 421"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 421."
   citata_originali: |
     Čia cituojama įžymaus archeografo Motiejaus
     Dominiko Dogelio (1715—1760) šaltinių pub­

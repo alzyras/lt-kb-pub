@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f5dbad76b30f7f9b656a8288"
+canonical_name: "Lėrbergas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lėrbergas"]
+sameAs: []
+canonical_biography: "Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti abejonę dėl jo aptariamo padavimo. Narbutas rašo, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popiežių“ kėlė abejones dėl vyriausiojo žynio egzistavimo. Lėrbergas išspręsdavo privačių asmenų ir žemių arba vienos genties atskirų kaimų ginčus."
 ---
 # Lėrbergas
 
@@ -32,7 +39,7 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
 <a id="claim-t-190368"></a>
 - t-001
   teiginys: "Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti abejonę dėl jo aptariamo padavimo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,7 +86,8 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
 - id: c-173251
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 282."
   citata_originali: |
     Taigi Krewe-Krewejto reiškia visų
     žynių vyriausiąjį žynį. Jo asmeninis autoritetas buvo labai di­
@@ -99,7 +107,8 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
 - id: c-173252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 408"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 408."
   citata_originali: |
     Naujaisiais laikais ne tiktai imta abejoti vyriausiojo žynio
     ir aukščiausiojo teisėjo egzistavimu, bet jis net pravardžiuoja­

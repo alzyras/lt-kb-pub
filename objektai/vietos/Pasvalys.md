@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-48dda55c09b34e27367aedc7"
+canonical_name: "Pasvalys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pasvalys"]
+sameAs: []
+canonical_biography: "Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly."
+place_authority: true
+historical_names: []
 ---
 # Pasvalys
 
@@ -76,7 +85,8 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
 - id: c-156401
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 228."
   citata_originali: |
     Tuo tarpu Zigmantas Augustas, matydamas irstan-
     čią ordino valstybę, ryžosi ją paimti į savo valdžią, nes kitaip
@@ -96,7 +106,8 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
 - id: c-166461
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 228."
   citata_originali: |
     Tuo metu Rygoje buvo užmuštas
     Lietuvos pasiuntinys; tad kaip tik pasitaikė gera proga įsikišti
@@ -113,9 +124,9 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
     - t-001
 
 - id: c-185002
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 318"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 318."
   citata_originali: |
     Kryžiaus bažnyčios prepozitas, patys klebonai
     turėjo ne tik Kauno parapijos klebono pareigas, jie buvo judrūs ir dažnai išvykdavo

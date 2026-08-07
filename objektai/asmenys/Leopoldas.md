@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-877b8a209024456401e3012b"
+canonical_name: "Leopoldas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Leopoldas"]
+sameAs: []
+canonical_biography: "Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, kurios remiami kryžiuočiai nusiaubė Žemaitiją. Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, kurios remiami kryžiuočiai užpuolė ir nusiaubė Žemaitiją."
 ---
 # Leopoldas
 
@@ -66,7 +73,8 @@ Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, k
 - id: c-169593
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 251."
   citata_originali: |
     Užėmęs kovos lau­
     ką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­

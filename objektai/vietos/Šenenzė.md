@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-037c930918136ab626992859"
+canonical_name: "Šenenzė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šenenzė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, Šenbergas Šenenzė (Schonense, vėliau Schönsee, dab."
+place_authority: true
+historical_names: []
 ---
 # Šenenzė
 
@@ -51,7 +60,8 @@ Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, �
 - id: c-87541
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 318-319"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318-319."
   citata_originali: |
     Šalčininkai (Salsenicka, Salsenîken)
     Šaltuona, u.

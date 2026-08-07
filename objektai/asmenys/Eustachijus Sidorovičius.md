@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c8060aab77539ad37587fff7"
+canonical_name: "Eustachijus Sidorovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eustachijus Sidorovičius"]
+sameAs: []
+canonical_biography: "Pirkliai reikalą išdėstė per įgaliotinius: Eustachijų Sidorovičių ir Grigalių Čiškovičių, statyti­ nį, o vaitas atvyko pats."
 ---
 # Eustachijus Sidorovičius
 
@@ -50,7 +57,8 @@ Pirkliai reikalą išdėstė per įgaliotinius: Eustachijų Sidorovičių ir Gri
 - id: c-83643
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 311."
   citata_originali: |
     Graikų ti­
     kėjimo Vilniaus pirkliai apskundė

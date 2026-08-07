@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ddfd1ba594514e15b7849be"
+canonical_name: "Senasis Bychovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Senasis Bychovas"]
+sameAs: []
+canonical_biography: "Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių dalykų tyrinėtoją, ilgai gyvenusį Baltarusijoje. Kai aš ten buvau, dar buvo gyvas Senojo Bychovo apskrities gydytojas ponas Heneris, labai apsišvietęs žmo gus ir smalsus istorinių dalykų tyrinėtojas, išgyvenęs Baltarusijoje per keturiasdešimt metų."
+place_authority: true
+historical_names: []
 ---
 # Senasis Bychovas
 
@@ -87,7 +96,8 @@ Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių 
 - id: c-175624
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 383."
   citata_originali: |
     Kai
     pažadėdavau didžiausią apdovanojimą tam, kuris atneš­
@@ -117,7 +127,8 @@ Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių 
 - id: c-179403
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 383."
   citata_originali: |
     Kai
     pažadėdavau didžiausią apdovanojimą tam, kuris atneš­

@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cbb7249e1b6a4e3748737eea"
+canonical_name: "Ilienburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ilienburgas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas, jo šviesybės Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras,— miestą prie Ilienburgo [Ilijos] pilies595. Dusburgietis teigia, kad 595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB, 3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351 m. — Ilgenburgk (ten pat, Nr. 349, 455, 615, 692); tai vėlesnis Gilgenburgas (dab. Dąbrówno)."
+place_authority: true
+historical_names: []
 ---
 # Ilienburgas
 
@@ -102,7 +111,8 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 - id: c-59190
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
   citata_originali: |
     595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,
     3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351
@@ -121,7 +131,8 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 - id: c-59191
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     Be
     to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,

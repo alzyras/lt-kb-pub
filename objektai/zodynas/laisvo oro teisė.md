@@ -47,9 +47,9 @@ Lietuvoje, taip pat ir Kaune, laisvo oro teisė irgi galiojo, tik tiksliai neži
 ## Citatos
 
 - id: c-185124
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 170."
   citata_originali: |
     Lietuvoje, taip pat ir Kaune, laisvo oro teisė irgi galiojo, tik tiksliai ne-
     žinomos jos ribos. 1463 m. Kazimieras Jogailaitis leido keltis į miestą lietuviams ir

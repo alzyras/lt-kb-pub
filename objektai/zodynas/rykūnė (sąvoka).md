@@ -33,27 +33,11 @@ Rykūnė prižiūrėjo sodybos tvartuose laikytas karves, avis, kiaules ir namin
 
 Rykūnė prižiūrėjo sodybos tvartuose laikytas karves, avis, kiaules ir naminius paukščius bei gamino pieno produktus.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-203615"></a>
-- t-001
-  teiginys: "Rykūnė prižiūrėjo sodybos tvartuose laikytas karves, avis, kiaules ir naminius paukščius bei gamino pieno produktus."
-  atnaujinta: "2026-08-01 12:36"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-61725-Bajoro-sodybos-tarnai-ir-seimynykciai"
-  pagrindžia:
-    - c-186219
-
-## Citatos
-
-- id: c-186219
-  autorius: "Neringa Dambrauskaitė"
-  šaltinis: "34_.pdf — Ką sutikume pravėrę bajoro sodybos vartus? Tarnai ir šeimynykščiai Lietuvos Didžiosios Kunigaikštystės bajorų namų ūkyje XVI amžiuje ir XVII amžiaus pirmoje pusėje"
-  puslapiai: "PDF 10"
-  indeksas: "Neringa Dambrauskaitė, 34_.pdf — Ką sutikume pravėrę bajoro sodybos vartus? Tarnai ir šeimynykščiai Lietuvos Didžiosios Kunigaikštystės bajorų namų ūkyje XVI amžiuje ir XVII amžiaus pirmoje pusėje, PDF 10."
+- c-001
+  santrauka: 'Rykūnė prižiūrėjo sodybos tvartuose laikytas karves, avis, kiaules ir naminius paukščius bei gamino pieno produktus.'
+  šaltinis: Lituanistika-61725-Bajoro-sodybos-tarnai-ir-seimynykciai
   citata_originali: |
     Neabejotina nelaisvosios ar samdomos
     šeimynos funkcija buvo gyvulių priežiū-
@@ -61,11 +45,8 @@ Rykūnė prižiūrėjo sodybos tvartuose laikytas karves, avis, kiaules ir namin
     (pbwyHH')95. Ji prižiūrėjo sodybos tvartuo-
     se laikytas karves, avis, kiaules ir naminius
     paukščius, gamindavo pieno produktus.
-  citata_rodoma: "Pagrindinį vaidmenį čia atliko rykūnė \n(pbwyHH')95. Ji prižiūrėjo sodybos tvartuo-\nse laikytas karves, avis, kiaules ir naminius \npaukščius, gamindavo pieno produktus."
-  statusas: verified
-  atnaujinta: "2026-08-01 12:36"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  statusas: verified

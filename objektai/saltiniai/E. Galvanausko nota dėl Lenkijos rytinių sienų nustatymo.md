@@ -61,7 +61,8 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
 - id: c-20887
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 147."
   citata_originali: |
     tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių,
     kol neatsisakys savo suverenumo Lenkijos naudai.

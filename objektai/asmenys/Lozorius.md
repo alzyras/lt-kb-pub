@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-908a28646b1be048a8fb8902"
+canonical_name: "Lozorius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lozorius"]
+sameAs: []
+canonical_biography: "Lozorius mūšio metu lūkuriavo rezerve su poloviečiais, kuriuos vėliau smarkiai puolė jotvingiai."
 ---
 # Lozorius
 
@@ -54,7 +61,8 @@ Lozorius mūšio metu lūkuriavo rezerve su poloviečiais, kuriuos vėliau smark
 - id: c-174321
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
   citata_originali: |
     Kunigaikštis Danielius
     išžygiavo su Boleslovo būrio lenkais ir gerokai atsitraukė.

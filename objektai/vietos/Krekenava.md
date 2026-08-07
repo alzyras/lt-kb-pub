@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5937d209012f4275a6525622"
+canonical_name: "Krekenava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krekenava"]
+sameAs: []
+canonical_biography: "Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose."
+place_authority: true
+historical_names: []
 ---
 # Krekenava
 
@@ -51,7 +60,8 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose.
 - id: c-45147
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 181."
   citata_originali: |
     M. Katche. Rinktinės pajėgos gegužės 13 d.
     susitelkė Krekenavos-Ramygalos rajo-

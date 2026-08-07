@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3db8e2eb75af1a0be450466b"
+canonical_name: "Mykolas (Kijevo vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas (Kijevo vyskupas)"]
+sameAs: []
+canonical_biography: "Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82."
 ---
 # Mykolas (Kijevo vyskupas)
 
@@ -61,7 +68,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - id: c-83900
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 171-172"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 171-172."
   citata_originali: |
     Tais
     81

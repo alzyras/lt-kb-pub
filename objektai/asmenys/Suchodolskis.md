@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4dd5c9089f8ed0aa6fa8e74e"
+canonical_name: "Suchodolskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Suchodolskis"]
+sameAs: []
+canonical_biography: "Suchodolskio kavalerijos daliniu."
 ---
 # Suchodolskis
 
@@ -61,7 +68,8 @@ Suchodolskio kavalerijos daliniu.
 - id: c-44525
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     1863-1864 m. sukilėlių vėliava
 

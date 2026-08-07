@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-55257e868a91907b00dc5351"
+canonical_name: "Konradas Švabas iš Elbingo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas Švabas iš Elbingo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi šalys patyrė didelių nuostolių sužeistaisiais."
 ---
 # Konradas Švabas iš Elbingo
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
 - id: c-167488
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Apie antrąjį minėtojo Marienverderio miesto sugriovimą
     Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio

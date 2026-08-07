@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b361e4439f7904c76f6a3b75"
+canonical_name: "Žegota"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Žegota"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Žegota
 

@@ -140,7 +140,8 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
 - id: c-167804
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 4."
   citata_originali: |
     A. Kojelavičius savo istoriją rašė pusamžiu vėliau
     negu jo pirmtakai. Chronologiškai ir idėjiškai nebe­
@@ -162,7 +163,8 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
 - id: c-167806
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 3."
   citata_originali: |
     BBK-63.3(2L)
     Vi-109
@@ -195,7 +197,8 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
 - id: c-167807
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 5."
   citata_originali: |
     M. Strij­
     kovskio kronika, parašyta lenkiškai, Renesanso epo­

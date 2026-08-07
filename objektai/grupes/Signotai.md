@@ -55,7 +55,8 @@ Narbutas Signotus apibūdina kaip Atrimpo arba Gardaičio žynius, kurių pavadi
 - id: c-172351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
   citata_originali: |
     Atnašaudami aukas, jie užsidėdavo ant galvos vainiką ir
     susijuosdavo balta drobine skara.

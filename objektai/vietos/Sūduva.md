@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-364812d6346000a4322356cf"
+canonical_name: "Sūduva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sūduva"]
+sameAs: []
+canonical_biography: "Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasienio punktai (Drezdenka ir Santoko pilis Dobrine), turį priklausyti kryžiuočiams. Ordinas primygtinai savinosi visą didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir nusidriekusią per visą vakarų Žemaitiją. Ordinas turėjo tuojau paimti vakarinį Sūduvos ruožą ir Žemaičių dalį — į vakarus nuo Raudonės įtakos į Nemuną iki Klaipėdos^12."
+place_authority: true
+historical_names: []
 ---
 # Sūduva
 
@@ -277,7 +286,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-32448
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 362"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 362."
   citata_originali: |
     Ordinas turėjo tuojau
     paimti vakarinį Sūduvos ruožą ir Žemaičių dalį — į vakarus nuo
@@ -296,7 +306,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-159549
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Sūduvių
     gyvento vakarinio ploto dalis atiteko ordinui. Bet Melno sutartimi
@@ -318,7 +329,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-159550
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61."
   citata_originali: |
     145). Dab. Suvalkų apylinkės (Vygrių ežerynas) buvo centrinė jotvingių (sūduvių)
     teritorijos plačiąja prasme dalis.
@@ -333,7 +345,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-159553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
@@ -355,7 +368,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-159555
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 352"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 352."
   citata_originali: |
     Tad jie
     stengėsi dešiniajame Nemuno žemupio krante (nuo Nevėžio) sau
@@ -376,7 +390,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-159557
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Po tiek ilgų ginčų ir ginkluotų konfliktų pagaliau buvo sutarta
     siena, kuri nuostabiu būdu, nežiūrint įvairių mėginimų ją pakeisti,
@@ -395,7 +410,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-175532
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
   citata_originali: |
     Kruvina šio Ordino
     politika numatė padaryti Sūduvą visiškai negyvenamą,
@@ -419,7 +435,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-175533
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
   citata_originali: |
     Sūduva turėjo gana
     daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
@@ -446,7 +463,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-175534
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 364."
   citata_originali: |
     Rytuose ji ribojosi su
     Lietuva nuo Vincentos versmių, po to Lykos upe ir ežeru
@@ -471,7 +489,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-179406
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
   citata_originali: |
     Gyventojai aistringai gynė savo lais­
     vę, dažnai maištavo; kryžiuočiai iškapojo beveik visus, o
@@ -500,7 +519,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-179407
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 364."
   citata_originali: |
     Taip pat čia buvo
     nemažai turtingų didelių žemės valdų savininkų; vien Me-

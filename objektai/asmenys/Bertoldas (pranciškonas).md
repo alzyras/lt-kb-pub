@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dcf55eb5652070c9c3ceee24"
+canonical_name: "Bertoldas (pranciškonas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bertoldas (pranciškonas)"]
+sameAs: []
+canonical_biography: "Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė."
 ---
 # Bertoldas (pranciškonas)
 
@@ -51,7 +58,8 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
 - id: c-32713
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 235."
   citata_originali: |
     Laiškų pagrindinė
     mintis buvo ta, jog Gediminas, pripažindamas popiežiaus autori­

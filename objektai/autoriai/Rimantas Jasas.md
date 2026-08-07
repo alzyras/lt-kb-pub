@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c718cdd80ae817fc92a176ff"
+canonical_name: "Rimantas Jasas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["R. J  a  s  a  s","R. Jasas","RIM ANTAS JASA S","Rimantas Jasas"]
+sameAs: []
+canonical_biography: "Rimantas Jasas parengė 1971 m. lietuvišką Bychovco kronikos leidimą: išvertė tekstą, parašė įvadą ir paaiškinimus. Leidinio turinyje jis taip pat nurodytas kaip teksto „Bychovco kronika ir jo s kilmė“ autorius."
 ---
 # Rimantas Jasas
 
@@ -60,7 +67,8 @@ Rimantas Jasas parengė 1971 m. lietuvišką Bychovco kronikos leidimą: išvert
 - id: c-169801
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 3."
   citata_originali: |
     Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
   citata_rodoma: "Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S"

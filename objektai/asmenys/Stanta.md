@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5f1f15d0580cd816b9fe9aed"
+canonical_name: "Stanta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanta"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta, Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei, taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė į Bartenšteino pilį ir."
 ---
 # Stanta
 
@@ -70,7 +77,8 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - id: c-60839
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
   citata_originali: |
     Šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta,
     Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei,

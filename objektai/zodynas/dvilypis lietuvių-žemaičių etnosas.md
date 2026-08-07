@@ -32,7 +32,7 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 <a id="claim-t-22127"></a>
 - t-001
   teiginys: "Kai kurie žemaičiai save laikė vieno dvilypio lietuvių ir žemaičių etnoso dalimi, nors kiti juos laikė atskiru giminingu etnosu."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -62,7 +62,8 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 - id: c-24813
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     Karaliaučiuje žymaus
     mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
@@ -92,7 +93,8 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 - id: c-166811
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     Jau tuomet pripažinta, kad
     tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.

@@ -54,7 +54,8 @@ Narbutas Vilija plaukiojusius krovininius laivus strungais kildino iš lietuviš
 - id: c-172220
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
   citata_originali: |
     Šiuo atveju to nelaimingo priešo - Vylingosios (Zdradliwa)
     vardo veikiau buvo nusipelniusi Vilnia, kadaise tikusi laivy­

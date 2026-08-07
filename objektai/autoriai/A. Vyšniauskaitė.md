@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7cf955bb247b8526ad090f3f"
+canonical_name: "A. Vyšniauskaitė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Vyšniauskaitė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vyšniauskaitė.— V., 1964."
 ---
 # A. Vyšniauskaitė
 
@@ -59,7 +66,8 @@ Dusburgietis teigia, kad vyšniauskaitė.— V., 1964.
 - id: c-61301
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
   citata_originali: |
     Lietuvių etnografijos bruožai / Redagavo A. Vyšniauskaitė.— V., 1964.
   statusas: verified

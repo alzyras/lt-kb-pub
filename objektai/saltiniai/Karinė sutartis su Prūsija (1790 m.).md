@@ -58,7 +58,8 @@ Karalius tuo tarpu kreipėsi pagalbos į Prūsiją, su kuria seimo (1790 m.) buv
 - id: c-67324
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 450"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 450."
   citata_originali: |
     deratai. Karalius tuo tarpu kreipėsi pagalbos į Prūsiją, su
     kuria seimo (1790 m.) buvo padaryta karinė sutartis, tačiau ši

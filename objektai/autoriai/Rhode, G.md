@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0da73d1b295c1f03af6d9fae"
+canonical_name: "Rhode, G"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Rhode, G"]
+sameAs: []
+canonical_biography: "Rhode, G."
 ---
 # Rhode, G
 
@@ -56,7 +63,8 @@ Rhode, G.
 - id: c-33121
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 351."
   citata_originali: |
     Tow. Nauk w Toruniu,
     t. 17, 1910, 1-378 p. — Rhode, G. : _Polemiken um die Schlacht von

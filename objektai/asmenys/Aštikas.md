@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6d991ca27ffed3cb3c2cca15"
+canonical_name: "Aštikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aštikas"]
+sameAs: []
+canonical_biography: "Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny­ bei ir pritariantiems: Vilniaus kašte­ lionui Aštikui, Vilniaus vaivadai Daugirdui, Trakų vaivadai Leliušiul, Kęsgailai iš Deltuvos, Petraš­ kai Montgirdaičiui, Chodkai."
 ---
 # Aštikas
 
@@ -62,7 +69,8 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
 - id: c-83608
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 239."
   citata_originali: |
     Lelus-
     chio Trocensi Palatinis, Kezygal de

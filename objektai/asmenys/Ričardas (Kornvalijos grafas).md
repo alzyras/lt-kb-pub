@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-be47ee666cbae7c13c0394f3"
+canonical_name: "Ričardas (Kornvalijos grafas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ričardas (Kornvalijos grafas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornvalijos grafo, Anglijos karaliaus brolio, išrinkimą Romos karaliais nesantarvės metais 1256 viešpaties metais Vokietijos valdovai nesutardami išrinko Romos karaliais du žmones, būtent: Kastilijos karalių."
 ---
 # Ričardas (Kornvalijos grafas)
 
@@ -74,7 +81,8 @@ Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornva
 - id: c-61058
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 232-233"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232-233."
   citata_originali: |
     Apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornvalijos grafo, Anglijos karaliaus
                        brolio, išrinkimą Romos karaliais nesantarvės metais

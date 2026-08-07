@@ -71,7 +71,8 @@ media_all_json: |-
 - id: c-67393
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Jį gavęs perdavė M. Strijkovskiui. Sis Dusburgiečio nuorašą (apimantį
     įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76

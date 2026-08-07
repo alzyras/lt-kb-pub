@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5ab5d4df170deeea794e8630"
+canonical_name: "Kremencas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kremencas"]
+sameAs: []
+canonical_biography: "Vytautas pasižadėjo padėti Skirgailai pa­ imti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų kunigaikštijos."
+place_authority: true
+historical_names: []
 ---
 # Kremencas
 
@@ -52,7 +61,8 @@ Vytautas pasižadėjo padėti Skirgailai pa­ imti Kijevą ir atiduoti jam Kreme
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 176."
   citata_originali: |
     Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­
     taikinti ir su Skirgaila^2 ), didžiausiu Vytauto priešu, kas jam ir

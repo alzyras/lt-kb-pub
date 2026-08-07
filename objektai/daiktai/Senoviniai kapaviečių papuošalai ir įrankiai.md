@@ -83,7 +83,8 @@ Nenurodyta
 - id: c-175776
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 158."
   citata_originali: |
     Naujausi atradimai aki­
     vaizdžiai patvirtina šią tiesą. Man pačiam, kasinėjant se­
@@ -106,7 +107,8 @@ Nenurodyta
 - id: c-177267
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 159."
   citata_originali: |
     1826 metais Ukmergės apskrities Antakriautiio dvare, pri­
     klausančiame ponui Romanovskiui, prie ežero, tiesiant nau­
@@ -130,7 +132,8 @@ Nenurodyta
 - id: c-179246
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 159."
   citata_originali: |
     Nuo pernelyg ilgo buvimo žemėje jie
     labai nukentėjo, todėl vos pavyko surankioti jų nuolaužas.

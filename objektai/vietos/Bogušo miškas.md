@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-29a1f354bcb16bf17b0d7882"
+canonical_name: "Bogušo miškas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bogušo miškas","iš Bogušo miško"]
+sameAs: []
+canonical_biography: "Bogušo miškas minimas kaip samdos ar išvykimo kilmės vieta."
+place_authority: true
+historical_names: []
 ---
 # Bogušo miškas
 

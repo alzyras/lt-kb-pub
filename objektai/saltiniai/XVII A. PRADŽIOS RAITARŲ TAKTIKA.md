@@ -56,7 +56,8 @@ PRADŽIOS RAITARŲ TAKTIKA“ Andžej Geglis, dail.
 - id: c-41775
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 274."
   citata_originali: |
     p. 103, „XVII A. PRADŽIOS RAITARŲ TAKTIKA“ Andžej Geglis, dail. Andžej Geglis.
   statusas: verified

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7e1ece540bae1e78e7cd4bc8"
+canonical_name: "Kailiadirbių namai Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kailiadirbių namai Vilniuje"]
+sameAs: []
+canonical_biography: "Tačiau savo kai­ lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje įsikurdavo22."
+place_authority: true
+historical_names: []
 ---
 # Kailiadirbių namai Vilniuje
 
@@ -50,7 +59,8 @@ Tačiau savo kai­ lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje
 - id: c-82171
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 285."
   citata_originali: |
     Tačiau savo kai­
     lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje

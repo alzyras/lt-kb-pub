@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5fde8175a526b45f8fd9c84e"
+canonical_name: "Neumarkas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Neumarkas"]
+sameAs: []
+canonical_biography: "Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­ traciją ir ekonomiškai klestinti vokiečių ordino valstybė, kurios valdos tęsėsi nuo Neumarko iki Narvos (išskyrus Žemaičių kylį), jau buvo praleidusi laiką lietuviams įveikti."
+place_authority: true
+historical_names: []
 ---
 # Neumarkas
 
@@ -58,7 +67,8 @@ Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­ traciją ir ek
 - id: c-33976
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 244."
   citata_originali: |
     Pats didysis
     magistras buvo apgulęs Veliuonos pilį^28 , bet jos paimti neįstengė.

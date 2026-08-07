@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fca6ada635a7b1367477c3dc"
+canonical_name: "Tibras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tibras"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Mikalojų III, popiežių, bei karalių Rudolfą ir apie Tibro potvynį 1277 viešpaties metais valdė popiežius Mikalojus III ir Rudolfas."
+place_authority: true
+historical_names: []
 ---
 # Tibras
 
@@ -59,7 +68,8 @@ Dusburgietis teigia, kad apie Mikalojų III, popiežių, bei karalių Rudolfą i
 - id: c-59369
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Apie Mikalojų III, popiežių, bei karalių Rudolfą ir apie Tibro potvynį
 

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4133a822077f0c5b2d0246b"
+canonical_name: "V. Jungfer"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Jungfer"]
+sameAs: []
+canonical_biography: "Jungfer : Alt-Litauen , 1926)."
 ---
 # V. Jungfer
 
@@ -60,7 +67,8 @@ Jungfer : Alt-Litauen , 1926).
 - id: c-33171
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 146."
   citata_originali: |
     Antonevičius, J. (Varšuva) : _Senovės baltų žemdirbystės technikos
     klausimu_ , ILKI, t. 4, 1964, 164-170 p. —Avižonis, K. : _Entstehung und

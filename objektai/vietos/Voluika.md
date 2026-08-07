@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1978183d9c1375bd0d1409e4"
+canonical_name: "Voluika"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Voluika"]
+sameAs: []
+canonical_biography: "Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir Bogončavo apylinkes Dono ir Doneco tarpupyje."
+place_authority: true
+historical_names: []
 ---
 # Voluika
 
@@ -54,7 +63,8 @@ Pasak Narbuto cituojamo Baturlino, budinai buvo užėmę dabartinių Voluikos ir
 - id: c-175683
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
   citata_originali: |
     Naujausių ir tiksliau­
     sių šios graikų istoriko geografijos paaiškinimų pateikė

@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-62875
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249."
   citata_originali: |
     116. Apie popiežiaus mirtį
 

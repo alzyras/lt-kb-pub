@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e0228fb7c5d83a8b96868921"
+canonical_name: "Donas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Donas"]
+sameAs: []
+canonical_biography: "Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštupių kunigaikščius, kurių vienas kitas, kaip, pav., Odojevo, buvo nuo Vytauto atsimetę. Vytautas ruošėsi gerai juos nubausti."
+place_authority: true
+historical_names: []
 ---
 # Donas
 
@@ -52,7 +61,8 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 156."
   citata_originali: |
     Ten jis žygiavo, norėdamas suvaldyti ne­
     paklusnius jam Okos ir Dono aukštupių kunigaikščius, kurių

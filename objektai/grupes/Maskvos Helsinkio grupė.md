@@ -63,7 +63,8 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 - id: c-25604
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 229-230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 229-230."
   citata_originali: |
     Iš kairės kunigai: Vincentas Vėlavičius,
     Alfonsas Svarinskas, Sigitas Tamkevičius,

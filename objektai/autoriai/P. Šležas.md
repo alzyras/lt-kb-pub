@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2958804bd71eb61401cce867"
+canonical_name: "P. Šležas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. Sležas","P. Šležas","P. Šležo"]
+sameAs: []
+canonical_biography: "P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvos istorija, Vytauto santykiai su Lenkija ir Vytauto konfliktas su Lenkija dėl karūnacijos, o „Žodis į skaitytojus“ pasirašytas jo vardu."
 ---
 # P. Šležas
 
@@ -105,7 +112,8 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 6."
   citata_originali: |
     P. Šležas. Vytauto santykiai su Lenkija ....................... 141
     P. Šležas. Vytauto konfliktas su Lenkija dėl karūnacijos ............. 205
@@ -120,7 +128,8 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - id: c-30803
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 70."
   citata_originali: |
     Nuo Vytauto D. jubiliejinių metų (1930) Lietuvos istorijos
     dirvonuose ėmė pasirodyti vad. «jaunųjų istorikų būrelis », pirmieji
@@ -147,7 +156,8 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - id: c-30804
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 360"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 360."
   citata_originali: |
     1923. — Sužiedėlis, S. :
     Vytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8f9a8a6a65760c223d294364"
+canonical_name: "Jonas Bublevskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Bublevskis"]
+sameAs: []
+canonical_biography: "1639 m. Kauno miesto ūkvedys Jonas Bublevskis pranešė miesto tarybai, kad Fredoje dedasi negeri dalykai."
 ---
 # Jonas Bublevskis
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185521
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 295"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 295."
   citata_originali: |
     Iš kitų
     aktų žinoma, kad tais pačiais metais bendruomenės prisiekusieji tikrino burmistro

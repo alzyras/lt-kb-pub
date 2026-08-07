@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-760f67297f43e8d0fc1eede8"
+canonical_name: "F. Noelis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["F. Noelis"]
+sameAs: []
+canonical_biography: "F. Noelis manė, kad Kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje buvusi seniausia jų šventykla. F. Noelis yra pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Plutonas - požemį, arba egzistavimą po mirties."
 ---
 # F. Noelis
 
@@ -65,7 +72,8 @@ F. Noelis manė, kad Kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje
 - id: c-172963
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     Romėnai tuos pačius dievus vadino Diipotentes,
     Dii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­
@@ -85,7 +93,8 @@ F. Noelis manė, kad Kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje
 - id: c-179163
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     Tačiau lygindami tuos padavimus vieną
     su kitu ir aiškindamiesi tų dievybių prigimtį, Mnelea, o vėliau

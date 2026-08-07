@@ -100,9 +100,9 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
 ## Citatos
 
 - id: c-184536
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 172"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 172."
   citata_originali: |
     Meinhardas, nujautęs ateinančius lietuvius
     ir žemaičius, nedrįsdamas akivaizdoj jų laukti, su­
@@ -127,9 +127,9 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
     - t-001
 
 - id: c-184537
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 175"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 175."
   citata_originali: |
     Netrukus Mein-
     hardas ant rankų padaugavionų su šiuo pasauliu
@@ -160,9 +160,9 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
     - t-002
 
 - id: c-184538
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 198"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 198."
   citata_originali: |
     Lat­
     viai, kurie iki šiol didžiai kantriai gynės, bet neb-
@@ -183,9 +183,9 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
     - t-003
 
 - id: c-184539
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 619"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 619."
   citata_originali: |
     Bet tą pajutusi įgulė
     laidė rąstus ir tratino dirbamus rentinius, vienok
@@ -206,9 +206,9 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
     - t-004
 
 - id: c-184540
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 629"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 629."
   citata_originali: |
     Paskui, kur vien Kęstutis užėjo, ten skatino per­
     krikštus vokyčių jungą nuo savęs mesti ir grįžti į

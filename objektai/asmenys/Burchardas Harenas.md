@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b0f75d3e7e53966d3bef3956"
+canonical_name: "Burchardas Harenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Burchardas Harenas"]
+sameAs: []
+canonical_biography: "Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsirengė į karą prieš Lietuvą. Kartu su Prūsijos magistru Henriku Livonijos magistras Burchardas Harenas išsirengė į karą su ordino riteriais ir kariais iš Prūsijos bei Livonijos."
 ---
 # Burchardas Harenas
 
@@ -66,7 +73,8 @@ Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsireng�
 - id: c-169549
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 231."
   citata_originali: |
     At­
     keliavo ir vokiečiai, vedami Brandenburgo markgrafo,

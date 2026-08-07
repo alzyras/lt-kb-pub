@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-838d055428a74d97611dbf3a"
+canonical_name: "Steponas Kristupas Pacas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Steponas Kristupas Pacas"]
+sameAs: []
+canonical_biography: "Lietuvos vicekancleris Steponas Kristupas Pacas antrame XVII a. ketvirtyje karmelitams pastatydino Šv. Teresės bažnyčią Vilniuje. Kristupas Pacas keliaudamas po Italiją ir Nyderlandus studijavo meno paminklus, pažinojo Rubensą ir lankydavosi jo dirbtuvėje Antverpene."
 ---
 # Steponas Kristupas Pacas
 

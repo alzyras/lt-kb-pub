@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42fb79c1de8c8c05e97249f9"
+canonical_name: "Teofilis Rajeckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teofilis Rajeckis"]
+sameAs: []
+canonical_biography: "1621 m. Kauno miestiečiai, norėdami atsipirkti nuo Teofilio Rajeckio samdinių kuopos, rinko po 4 kapas grašių."
 ---
 # Teofilis Rajeckis
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185500
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 152"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 152."
   citata_originali: |
     Šiuo reikalu susidomėjo pats etmonas, bet nežinia, kaip ginčai buvo išspręsti.
     1621 m. Kauno miestiečiai, norėdami atsipirkti nuo Teofilio Rajeckio samdinių

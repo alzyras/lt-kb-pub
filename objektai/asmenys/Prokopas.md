@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ea19ac6e2cfb4396b0aaf876"
+canonical_name: "Prokopas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Prokopas"]
+sameAs: []
+canonical_biography: "Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su čekų vadu Prokopu, ka­ riavo su Zigmantu, bet husitų eilėms retėjant, pradėjo derybas su popiežium ir už tą buvo išvytas iš Čekijos."
 ---
 # Prokopas
 
@@ -72,7 +79,8 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 155."
   citata_originali: |
     netekusi po Melno taikos savo reikšmės, o Vytautas nutraukė
     ryšius su čekais, atšaukdamas į Lietuvą Kaributą ir patardamas
@@ -93,7 +101,8 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
 - id: c-171493
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
   citata_originali: |
     Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
     jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­

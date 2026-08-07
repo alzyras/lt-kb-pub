@@ -46,9 +46,9 @@ Visų artimieji jo tarnai vadinos žygovai, kurie su jo lazda, arba vice, žygia
 ## Citatos
 
 - id: c-184576
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 93"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 93."
   citata_originali: |
     Tie kunigai, arba viešpaties tarnai, trejokį buvo.
     Visų artimieji jo tarnai vadinos žygovai, kurie su

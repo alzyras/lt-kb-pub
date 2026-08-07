@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee6768e27744faab6ad99fd7"
+canonical_name: "Jurijus Iliničius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurijus Iliničius"]
+sameAs: []
+canonical_biography: "Vis dėlto šis, jau vieną kartą nustumtas Abraomo Jezofavičiaus, turėjo vėl trauktis, nes Kauno pilis ir seniūno pareigos buvo pavestos minėtam Jurijui Iliničiui."
 ---
 # Jurijus Iliničius
 
@@ -49,9 +56,9 @@ Vis dėlto šis, jau vieną kartą nustumtas Abraomo Jezofavičiaus, turėjo vė
 ## Citatos
 
 - id: c-185472
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 112."
   citata_originali: |
     Vis dėlto šis, jau vieną kartą nustumtas
     Abraomo Jezofavičiaus, turėjo vėl trauktis, nes Kauno pilis ir seniūno pareigos buvo

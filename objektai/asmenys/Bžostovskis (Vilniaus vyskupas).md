@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-61038ff5a7f76c7d84ea016c"
+canonical_name: "Bžostovskis (Vilniaus vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bžostovskis (Vilniaus vyskupas)"]
+sameAs: []
+canonical_biography: "Vėliau Lietuvos metropolitu pradė­ jo skaitytis Gniezno arkivyskupas, bet iš tikro nei Vytauto laikais, nei kada nors vėliau Lietuvos bažnyčia tai metropolijai formališkai priskirta nebuvo^2 )."
 ---
 # Bžostovskis (Vilniaus vyskupas)
 
@@ -51,7 +58,8 @@ Vėliau Lietuvos metropolitu pradė­ jo skaitytis Gniezno arkivyskupas, bet iš
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 306"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 306."
   citata_originali: |
     Lietuvos bažnyčia jokiai me­
     tropolijai nebuvo priskirta. Vėliau Lietuvos metropolitu pradė­

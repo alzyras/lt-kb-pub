@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b05ea04c6be69f8af2c8c9af"
+canonical_name: "Stanislovas Bakūnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Bakūnas"]
+sameAs: []
+canonical_biography: "Stanislovas Bakūnas 1587 metais pasirašė prie antspaudo, kurio skydas padalytas į dvi dalis."
 ---
 # Stanislovas Bakūnas
 
@@ -61,7 +68,8 @@ Stanislovas Bakūnas 1587 metais pasirašė prie antspaudo, kurio skydas padalyt
 - id: c-173126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 407"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
   citata_originali: |
     IV lentelė, 30-asis piešinys. Ypatingo skydo, perskirto į 2
     dalis, dešiniojoje pusėje kažkas panašaus į varpą, kairiojoje -

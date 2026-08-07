@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-99282907265a7bdb6cb55cf5"
+canonical_name: "Epitomatorius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Epitomatorius"]
+sameAs: []
+canonical_biography: "Epitomatorius nurodo tiesiai: Cives Rigenses et Archiepiscopus eorum tunc Rome adhuc contra fratres in Lyvonia dissidiantur et in omnibus civitatibus et locis maritimis notificant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum 91 ## Puslapis 108."
 ---
 # Epitomatorius
 
@@ -51,7 +58,8 @@ Epitomatorius nurodo tiesiai: Cives Rigenses et Archiepiscopus eorum tunc Rome a
 - id: c-84024
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 107-108"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 107-108."
   citata_originali: |
     Panašių
     pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­

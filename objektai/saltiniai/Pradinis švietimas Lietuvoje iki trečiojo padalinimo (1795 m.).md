@@ -62,7 +62,8 @@ media_all_json: |-
 - id: c-33695
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 80."
   citata_originali: |
     prof. Jonas A. Račkauskas dėmesį krei­
     pia į švietimą Lietuvoje; be kitko, jis išsp. « The First National

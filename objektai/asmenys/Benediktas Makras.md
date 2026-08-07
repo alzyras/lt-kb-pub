@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e2ffecb277105cefbcc98b57"
+canonical_name: "Benediktas Makras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Benediktas Makras"]
+sameAs: []
+canonical_biography: "patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą savo komisarą Benediktą Makrą, kad tas ištirtų Žemaitijos sienas ir išspręstų kilusį dėl jų Vytauto ir Ordino ginčą. Vytautas Didysis, sulaukęs Makro Lietuvoje, pirmiausia pasistengė patraukti jį į savo pusę: jis gražiai Makrą priėmė, gausiai jį apdovanojo ir pakėlė į savo riterius."
 ---
 # Benediktas Makras
 
@@ -77,7 +84,8 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 148."
   citata_originali: |
     Mat, Vokiečių Ordinas,
     bijodamas Vytauto įsigalėjimo Žemaitijoje, kurią buvo gavęs
@@ -102,7 +110,8 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 148."
   citata_originali: |
     12 d. patvirtino Torno taiką,
     o tų pačių metų pabaigoje pasiuntė į Lietuvą savo komisarą

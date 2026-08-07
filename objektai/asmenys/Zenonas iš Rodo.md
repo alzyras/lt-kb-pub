@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a6c48b79316e5ecd79e49274"
+canonical_name: "Zenonas iš Rodo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zenonas iš Rodo"]
+sameAs: []
+canonical_biography: "Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas. Nors Teodorikas gerai perprato ketinimus visuomet klastingo Zenono, kuris jau seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti ninko; tačiau tuomet Teodorikas nesileido sukurstomas."
 ---
 # Zenonas iš Rodo
 
@@ -95,7 +102,8 @@ Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodor
 - id: c-174217
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
   citata_originali: |
     Rytų imperatorius, silpstant jo galiai, blaškėsi pavy­
     dėdamas, sudarinėjo su Odoakru sutartis ir vėl pažeidi­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eb96ffb31300f68f99ef7f03"
+canonical_name: "Ditmaras Merzeburgiškis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ditmaras Merzeburgiškis"]
+sameAs: []
+canonical_biography: "Narbutas pripažįsta, kad Ditmaras Merzeburgiškis, kaip ir kiti užsienio kronikininkai, nė vienu žodžiu neužsiminė apie krivį."
 ---
 # Ditmaras Merzeburgiškis
 
@@ -54,7 +61,8 @@ Narbutas pripažįsta, kad Ditmaras Merzeburgiškis, kaip ir kiti užsienio kron
 - id: c-173303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 421"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 421."
   citata_originali: |
     Čia panagrinėsime dar trečią priekaištą, kuris galėjo būti
     iškeltas prieš krivio buvimą Prūsijoje praeityje, tai yra kad vi­

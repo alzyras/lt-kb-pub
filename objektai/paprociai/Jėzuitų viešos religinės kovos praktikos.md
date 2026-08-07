@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-67141
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 269."
   citata_originali: |
     Šie buvo leidžiami į aukštąsias užsienio mo-
     kyklas ir, gerai išmokslinti, grįždavo namo dirbti mokyklose,
@@ -97,7 +98,8 @@ Nenurodyta
 - id: c-67143
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 303."
   citata_originali: |
     Todėl Vilniaus vyskupas
     Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b500cb52f3b381aff73dee0"
+canonical_name: "Vilhelmas Douglas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vilhelmas Douglas"]
+sameAs: []
+canonical_biography: "Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo Douglo, įžymaus škoto, žuvu­ sio dvikovoje, mirtis, vėlei škotų nesutarimai su prancū­ zais - tai vis bloga lemiantys ženklai, kurie net didįjį ma­ gistrą privertė baigti karo puotą."
 ---
 # Vilhelmas Douglas
 
@@ -51,7 +58,8 @@ Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo 
 - id: c-83861
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 147."
   citata_originali: |
     Pasitikėjimas tokia didžiule Ordino kariuomenės
     galybe buvo taip visus pakerėjęs, jog ir didysis magistras, ir

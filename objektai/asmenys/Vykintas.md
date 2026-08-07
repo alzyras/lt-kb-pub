@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-35dc2241c900e513d5501490"
+canonical_name: "Vykintas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vykintas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Vykintas
 

@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184655
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 210"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 210."
   citata_originali: |
     Vieni vokyčiai paliko be­
     žibą rindoj savo plieno ir vario šarvose, vildamies,

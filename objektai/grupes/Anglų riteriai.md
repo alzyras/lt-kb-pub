@@ -51,7 +51,8 @@ Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius
 - id: c-82767
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 119-120"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 119-120."
   citata_originali: |
     66, p. 948.
     Anglų riteriai, ne kartą draugėj su

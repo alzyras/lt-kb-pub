@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2cbec8c091b9ad2c1b928bb6"
+canonical_name: "Štuthofas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Štuthofas"]
+sameAs: []
+canonical_biography: "– į Štuthofą, Dachau, Osvencimą. Keturi tarėjai, atsisakę vykdyti vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos stovyklą. Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,."
+place_authority: true
+historical_names: []
 ---
 # Štuthofas
 
@@ -78,7 +87,8 @@ media_all_json: |-
 - id: c-24635
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 204."
   citata_originali: |
     Tai masiškiausia
     antinacinė organizacija, ji numatė bent dalyje teritorijos paskelbus ne-

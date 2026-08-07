@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a4985b5f517625fbe224e997"
+canonical_name: "Henrikas V"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas V"]
+sameAs: []
+canonical_biography: "Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos teologas Tomas YValdenas, garsus savo dis­ putais su Viklifo sekėjais ir husitais, kurį Anglijos karalius Henrikas V buvo pasitelkęs į Vladislovo Jogai­ los derybas su kryžiuočiais."
 ---
 # Henrikas V
 
@@ -50,7 +57,8 @@ Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos 
 - id: c-83887
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 177."
   citata_originali: |
     86
     Vytautui nebuvo svetimi ir moks­

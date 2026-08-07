@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-05f771492ccd2c611560b161"
+canonical_name: "Benediktas Makra"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Benediktas Makra"]
+sameAs: []
+canonical_biography: "Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (1413)."
 ---
 # Benediktas Makra
 
@@ -63,7 +70,8 @@ Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (
 - id: c-28893
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 332"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 332."
   citata_originali: |
     Imperatoriaus
     Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas
@@ -82,7 +90,8 @@ Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (
 - id: c-167740
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 332"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 332."
   citata_originali: |
     Po Žalgirio kautynių ir Torno taikos, dvylika metų Žemaičių
     klausimas buvo svarbiausias nesutarimų objektas. Imperatoriaus

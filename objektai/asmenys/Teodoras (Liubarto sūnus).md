@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d453892971d55de50b7dd8ac"
+canonical_name: "Teodoras (Liubarto sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teodoras (Liubarto sūnus)"]
+sameAs: []
+canonical_biography: "Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį paskyrė vietininku į Naugardą - Sieverską. Kaip bėglys, prie jo pri­ sijungė ir trečias Gedimino anūkas, buvęs Podolės kunigaikštis Teodoras Karijotaitis."
 ---
 # Teodoras (Liubarto sūnus)
 
@@ -85,7 +92,8 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 301."
   citata_originali: |
     Bet Vytautas su jais nedarė ilgų ce­
     remonijų. Pritariamas Jogailos, jis pirmiausia atėmė valdomą
@@ -108,7 +116,8 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
 - id: c-65000
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 319."
   citata_originali: |
     Toje pietinėje valstybės dalyje buvo padaryta ir kitų žymių
     atmainų. Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos
@@ -125,7 +134,8 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
 - id: c-65001
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 319."
   citata_originali: |
     Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos
     Vladimirą, bet jį paskyrė vietininku į Naugardą - Sieverską. Bet

@@ -23,6 +23,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a71a2ba3008cafeef0e0e72b"
+canonical_name: "A. Veryha-Darevskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Veryha - Darevskis","A. Veryha-Darevskis","objektai/autoriai/A. Veryha - Darevskis"]
+sameAs: []
+canonical_biography: "A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčiai“ autorius. Jo darbas cituojamas aiškinant dūmo sąvoką ir Vytauto laikų mokesčių kontekstą."
 ---
 # A. Veryha-Darevskis
 
@@ -74,7 +81,8 @@ A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčia
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 261."
   citata_originali: |
     (^1) ) Dūmas — atskiras ūkis, turįs vieną kaminą ar aukštini, pro kur
     išeidavo dūmai. Red.

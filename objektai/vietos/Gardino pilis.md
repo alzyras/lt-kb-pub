@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-072d3136084498e1f6c64e79"
+canonical_name: "Gardino pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gardino pilis"]
+sameAs: []
+canonical_biography: "Ateinantį metą mistras sukėlė naują kariauną ir nujautęs, jqg daug lietuvių Parusny, nenorinčių vokyčiams vergauti, išsikraustė į Lietuvą ir Žemai čius ir apygardose Gardino apsigyveno, kurie, trau kiant lietuviams ir žemaičiams į Parusnį, rodė kelią ir tuo."
+place_authority: true
+historical_names: []
 ---
 # Gardino pilis
 
@@ -41,9 +50,9 @@ Ateinantį metą mistras sukėlė naują kariauną ir nujautęs, jqg daug lietuv
 ## Citatos
 
 - id: c-184484
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 465"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 465."
   citata_originali: |
     Ateinantį metą mistras sukėlė naują kariauną ir
     nujautęs, jqg daug lietuvių Parusny, nenorinčių vo-

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-de34156a577b760085a4afb7"
+canonical_name: "Jeronimas Prahiškis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jeronimas Prahiškis"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę parsinešė Viklifo raštus. Jeronimas Prahiškis 1416 m. birželio 21 d. buvo sudegintas gyvas Konstancoje. Narbutas cituoja žinią, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis rašė apie pirmųjų sutiktų lietuvių žalčių garbinimą."
 ---
 # Jeronimas Prahiškis
 
@@ -59,23 +66,10 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   pagrindžia:
     - c-172894
 
-<a id="claim-t-190013"></a>
-- t-002
-  teiginys: "Narbutas cituoja žinią, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis rašė apie pirmųjų sutiktų lietuvių žalčių garbinimą."
-  atnaujinta: "2026-07-19 23:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172898
-
 <a id="claim-t-190014"></a>
-- t-003
+- t-002
   teiginys: "Narbutas pasakoja, kad Jeronimas Prahiškis įtikino žmones apgavyste, sugriovė šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,10 +85,9 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172897
-    - c-172898
 
 <a id="claim-t-190016"></a>
-- t-004
+- t-003
   teiginys: "Narbutas pasakoja, kad Jeronimas Prahiškis ilgai mokė žmones tikėjimo paslapčių ir liepė iškirsti šventąjį mišką."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -114,7 +107,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
     - c-172899
 
 <a id="claim-t-197402"></a>
-- t-005
+- t-004
   teiginys: "Narbutas teigia, kad jeronimas pasijuokė iš jų nai vumo ir parodė, kad tai tuščios pasakos; įtikino, kad saulė, mėnuo ir žvaigždės yra Dievo kūriniai, kuriais aukščiausiasis Dievas papuošė dangų ir įsakė jiems amžinai šviesti žmonėms."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -174,12 +167,33 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   statusas: verified
 - t-007
 
+- c-005
+  santrauka: 'Narbutas pasakoja, kad Jeronimas Prahiškis saulės garbintojų aiškinimus laikė tuščiomis pasakomis ir mokė apie Dievo sukurtus dangaus kūnus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    454
+
+    ## Puslapis 454
+
+    žindamas pasauliui; todėl vertas garbinti įrankis, kuris padėjo
+    mirtingiesiems atgauti šviesą. Jeronimas pasijuokė iš jų nai­
+    vumo ir parodė, kad tai tuščios pasakos; įtikino, kad saulė,
+    mėnuo ir žvaigždės yra Dievo kūriniai, kuriais aukščiausiasis
+    Dievas papuošė dangų ir įsakė jiems amžinai šviesti žmonėms.
+    Paskui aptiko šventąjį mišką; kuris jo medis buvo didesnis, tas
+    buvo laikomas labiau garbintinas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-172894
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 399."
   citata_originali: |
     Tie­
     sa, aukštasis dvasininkas gėdingai nužudė lordą, bet įpūtė po
@@ -204,7 +218,8 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
 - id: c-172896
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 454"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 454."
   citata_originali: |
     Jeronimas pasijuokė iš jų nai­
     vumo ir parodė, kad tai tuščios pasakos; įtikino, kad saulė,
@@ -224,12 +239,13 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-172897
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 455."
   citata_originali: |
     Šitokiu atve­
     ju žyniai patardavo sudaryti testamentą ir paskirstyti savo že­
@@ -244,37 +260,13 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-
-- id: c-172898
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    454
-
-    ## Puslapis 454
-
-    žindamas pasauliui; todėl vertas garbinti įrankis, kuris padėjo
-    mirtingiesiems atgauti šviesą. Jeronimas pasijuokė iš jų nai­
-    vumo ir parodė, kad tai tuščios pasakos; įtikino, kad saulė,
-    mėnuo ir žvaigždės yra Dievo kūriniai, kuriais aukščiausiasis
-    Dievas papuošė dangų ir įsakė jiems amžinai šviesti žmonėms.
-    Paskui aptiko šventąjį mišką; kuris jo medis buvo didesnis, tas
-    buvo laikomas labiau garbintinas.
-  statusas: verified
-  atnaujinta: "2026-07-19 23:55"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
     - t-002
-    - t-003
 
 - id: c-172899
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 454"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 454."
   citata_originali: |
     Čia Jeronimas ilgai mokė
     žmones, aiškino jiems šventąsias tikėjimo paslaptis, o mišką
@@ -288,7 +280,7 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 - Jeronimas Prahiškis mirė [[objektai/vietos/Konstanca]]

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e9edf307e36aca3370f8d94"
+canonical_name: "Grevožos kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Grevožos kalnas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kadaise stovėjusia pilimi ir netoliese buvusia šventa giria bei šventove."
+place_authority: true
+historical_names: []
 ---
 # Grevožos kalnas
 
@@ -73,7 +82,8 @@ Teodoras Narbutas Grevožos kalną siejo su Christburgo pilies griuvėsiais, kad
 - id: c-175642
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
   citata_originali: |
     Taip
     pat šioje provincijoje būva pilaičių, iš dalies pastatytų

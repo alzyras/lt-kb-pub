@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f0aa32bc89d064533237f910"
+canonical_name: "Vargulis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vargulis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis p. 54), kelio iš Kaliningrado į Laduškiną pradžioje."
 ---
 # Vargulis
 
@@ -57,7 +64,8 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
 - id: c-61091
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     Kai dėl to supykę
     broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis

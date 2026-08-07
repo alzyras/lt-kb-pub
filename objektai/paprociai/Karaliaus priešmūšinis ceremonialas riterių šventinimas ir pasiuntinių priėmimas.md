@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-96902
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 346."
   citata_originali: |
     Pagal kronikininką, karalius formaliai skai­
     tėsi vyriausiuoju vadu. Jis šventino riterius, priėmė ordino pasiun­
@@ -104,7 +105,8 @@ Nenurodyta
 - id: c-96903
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 346."
   citata_originali: |
     Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
     Zbignievo Olesnickio. Pagal kronikininką, karalius formaliai skai­

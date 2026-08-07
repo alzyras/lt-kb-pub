@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f0d39a81d9d06a427f1007b8"
+canonical_name: "Žuvinto ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žuvinto ežeras","Žuvinto ežero","Žuvinto ežerą"]
+sameAs: []
+canonical_biography: "Žuvinto ežeras šiame šaltinyje aprašomas kaip 1945 m. kautynių erdvė, kurioje vyko apsuptis, susidūrimai ir improvizuotas plaukimas per ežerą."
+place_authority: true
+historical_names: []
 ---
 # Žuvinto ežeras
 
@@ -133,7 +142,8 @@ media_all_json: |-
 - id: c-44123
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 229."
   citata_originali: |
     vadas Vladas Gavėnas-Tarzanas bei lais-
     vės kovotojai Vincas Boruta-Žvalgas ir
@@ -155,7 +165,8 @@ media_all_json: |-
 - id: c-77305
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 230."
   citata_originali: |
     Šis ginklas buvo vienas
     mėgstamiausių tarp partizanų ir buvo jų pramintas „dešimtuku“ (pagal šovinių dėtuvės talpą)
@@ -177,7 +188,8 @@ media_all_json: |-
 - id: c-77306
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 229-230"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 229-230."
   citata_originali: |
     1945 m. rugpjūčio mėnesio pačioje pra-
     džioje Palias puolė NKVD užnugario ap-

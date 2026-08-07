@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e19ca4a92ea4f1dcc71729ec"
+canonical_name: "Uždauguvis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Uždauguvis"]
+sameAs: []
+canonical_biography: "Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvarų, kaip Uždauguvio ir Padnieprės srityse."
+place_authority: true
+historical_names: []
 ---
 # Uždauguvis
 
@@ -51,7 +60,8 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 260."
   citata_originali: |
     Juos rinkdavo Vytauto dvaruose gyvenantieji vietininkai ir
     kartu su dvarų pelnu pristatydavo didž. kunigaikščiui. Mokes­

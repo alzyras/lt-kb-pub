@@ -63,7 +63,8 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
 - id: c-03290
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 285."
   citata_originali: |
     **Seimų rūšys.** Be ordinarinių seimų, kas dveji metai šaukiamų,
     ir be ekstraordinarinių seimų, pagal reikalą šaukiamų, dar buvo
@@ -85,7 +86,8 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
 - id: c-175902
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 285."
   citata_originali: |
     Po konvokacinio seimo,
     jo nustatytu laiku, taip pat primas šaukdavo e1ekcinį seimą,

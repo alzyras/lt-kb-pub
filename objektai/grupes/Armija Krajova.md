@@ -52,7 +52,8 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
 - id: c-22342
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 205."
   citata_originali: |
     Komplikuotai susiklostė lietuvių ir lenkų santykiai Vilniaus krašte,
     kurį naciai padarė Lietuvos generalinės srities dalimi ir priskyrė lietuvių
@@ -73,7 +74,8 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
 - id: c-166503
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 205."
   citata_originali: |
     Vykdžiusi nacių diktuojamą politiką lietuvių admini-
     stracija nepaisė lenkų daugumos interesų ir susilaukė jų neapykantos.

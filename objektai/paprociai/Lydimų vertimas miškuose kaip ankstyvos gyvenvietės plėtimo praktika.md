@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-83278
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 67."
   citata_originali: |
     Netgi pats Vilniaus vardas, paeinantis ne
     nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios,

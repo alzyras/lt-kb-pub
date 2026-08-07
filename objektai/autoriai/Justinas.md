@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8183736f1a4822d68c1dd529"
+canonical_name: "Justinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Justinas"]
+sameAs: []
+canonical_biography: "Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II amžiaus prieš Kristaus gimimą, nes iš istorijos žinome, kad 130 metais prieš mūsų erą skitų 1 Justin."
 ---
 # Justinas
 
@@ -47,7 +54,8 @@ Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II 
 - id: c-177277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 58."
   citata_originali: |
     Tačiau jie pakentė tai neilgai, nes istorijoje ran­
     dame prisiminimų apie skitų genčių susidūrimą su Pi­

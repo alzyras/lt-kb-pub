@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4032f22331596a7f397d0c59"
+canonical_name: "Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Audrys Juozas Bačkis","Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)"]
+sameAs: []
+canonical_biography: "Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis."
 ---
 # Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)
 
@@ -64,7 +71,8 @@ Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respub
 - id: c-21609
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 258."
   citata_originali: |
     Išsivadavusi Lietuva, kaip ir kitos kaimynės, siekė kuo greičiau inte-
     gruotis į svarbiausias tarptautines demokratinio Vakarų pasaulio orga-

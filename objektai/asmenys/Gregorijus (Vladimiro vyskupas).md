@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4fd88c7ee57fb7257b33b9c6"
+canonical_name: "Gregorijus (Vladimiro vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gregorijus (Vladimiro vyskupas)"]
+sameAs: []
+canonical_biography: "Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­ rėjo tame."
 ---
 # Gregorijus (Vladimiro vyskupas)
 
@@ -52,7 +59,8 @@ Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tar
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 123."
   citata_originali: |
     Ordino gandus, kad Vytautas su turkais einąs prieš katalikus.
     Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir

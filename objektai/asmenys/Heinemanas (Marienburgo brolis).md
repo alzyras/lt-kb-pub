@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c8d1a0838b0315faac87b274"
+canonical_name: "Heinemanas (Marienburgo brolis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Heinemanas (Marienburgo brolis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyveno brolis Heinemanas ir brolis Fridrichas, kuriuodu vienas kitą taip mylėjo, kad vienas be kito nenorėjo ne tik gyventi, bet ir mirti."
 ---
 # Heinemanas (Marienburgo brolis)
 
@@ -37,25 +44,8 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
 
 ## Teiginiai
 
-<a id="claim-t-60303"></a>
-- t-001
-  teiginys: "Marienburgo pilyje gyvenęs brolis Heinemanas užsikrėtė raupsais ir mirė tą pačią dieną, kai sužinojo apie brolio Fridricho mirtį."
-  atnaujinta: "2026-07-24 15:01"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Marienburgas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Heinemanas (Marienburgo brolis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Heinemanas gyveno Marienburgo pilyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Heinemanas (Marienburgo brolis) gyveno Marienburgas (0.93)"
-  pagrindžia:
-    - c-60935
-
 <a id="claim-t-197087"></a>
-- t-002
+- t-001
   teiginys: "Apie brolio Gotfrido, didžiojo magistro, atvykimą, apie tai, kaip jis atsisa kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno 1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją atvyko į Livoniją, palikęs."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -93,7 +83,8 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
 - id: c-60935
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195."
   citata_originali: |
     Po to broliai iš patikimų šaltinių sužinojo, kad vos
     keli šio būrio lietuviai gyvi ir sveiki besugrįžo. Vieni kelyje prigėrė, kiti išmirė badu, o
@@ -114,7 +105,6 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 ## Ryšiai
 - Heinemanas (Marienburgo brolis) gyveno [[objektai/vietos/Marienburgas]]

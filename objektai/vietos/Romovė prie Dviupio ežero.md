@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f1fa85b1f70b117879ae8ec1"
+canonical_name: "Romovė prie Dviupio ežero"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Romovė prie Dviupio ežero"]
+sameAs: []
+canonical_biography: "Narbutas spėja, kad Romovė prie Dviupio ežero kurį laiką galėjusi būti didelė šventykla."
+place_authority: true
+historical_names: []
 ---
 # Romovė prie Dviupio ežero
 
@@ -54,7 +63,8 @@ Narbutas spėja, kad Romovė prie Dviupio ežero kurį laiką galėjusi būti di
 - id: c-171943
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 270."
   citata_originali: |
     XIV amžiuje žiaurios kovos su kryžiuo­
     čiais tikriausiai ne kartą vertė vyriausiuosius žynius kaitalioti

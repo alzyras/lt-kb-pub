@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e279aec3e8a4a9022405e1d2"
+canonical_name: "Dievo Kūno koplyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dievo Kūno koplyčia"]
+sameAs: []
+canonical_biography: "174 ## Puslapis 191 Il KNYGA B) Žinios apie Dievo Kūno koplyčios įkūrimą Patikimų pirminių žinių apie tos koplyčios būklę nėra galimybių išsiaiškinti, kadangi dokumentų ir visokių senų­ jų raštų dalis 1660 metais maskvėnų paimta, dalis 1737 me­ tais per. Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis nuo įvairių mūrinių namų, renkamas iš vietos didikų, 'bet dėl pradangintų dokumentų pajamų dydis nėra žinomas; tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios priklauso; jais disponuoja. ; Jo­ nas Kazimieras -1664 m. Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­ šė Trakų vaivada ponas Oginskis."
+place_authority: true
+historical_names: []
 ---
 # Dievo Kūno koplyčia
 
@@ -124,7 +133,8 @@ media_all_json: |-
 - id: c-81867
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 191."
   citata_originali: |
     1577 metų gruodžio 19 dienos, o pirmesne 1539
     metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­
@@ -152,7 +162,8 @@ media_all_json: |-
 - id: c-81868
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196."
   citata_originali: |
     Jonas Neliubovičius mūrinį namą su sklypu par­
     davė Vilniaus kanauninkui Vilčiopolskiui.
@@ -172,7 +183,8 @@ media_all_json: |-
 - id: c-81870
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 191-192"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 191-192."
   citata_originali: |
     Mūrinius namus, kurie buvo skirti tos koplyčios paja­
     moms, privilegijomis nuo mokesčių atleido Lenkijos kara­
@@ -203,7 +215,8 @@ media_all_json: |-
 - id: c-81871
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 190-191"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 190-191."
   citata_originali: |
     Apraeveniendo tad possessioni baž­
     nyčios ir turtų, tasai pat šviesusis kunigas Ancypa, Švento

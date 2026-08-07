@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d6a04f9c45ec52027279b42"
+canonical_name: "Mažlenkiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mažlenkiai"]
+sameAs: []
+canonical_biography: "Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais."
+place_authority: true
+historical_names: []
 ---
 # Mažlenkiai
 
@@ -71,7 +80,8 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 - id: c-02827
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 282."
   citata_originali: |
     Pagaliau sei-
     mas būdavo baigiamas
@@ -100,7 +110,8 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 - id: c-166442
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 282."
   citata_originali: |
     Generaliniai seime-
     liai. Sudarant Liublino

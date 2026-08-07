@@ -61,7 +61,8 @@ Nenurodyta
 - id: c-172625
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 99."
   citata_originali: |
     Ugniai ir saulei buvo nusilenkiama
     visur, kur tik stabmeldiškoji religija turėjo išorinę išraišką ir

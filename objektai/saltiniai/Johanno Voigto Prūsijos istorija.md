@@ -114,7 +114,8 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
 - id: c-174578
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Mokytos plunksnos dirbo ir dabar
     darbuojas i prie jų istorijos: Kocebus* parašė senovės
@@ -146,7 +147,8 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
 - id: c-174805
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     126
 

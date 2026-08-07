@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d94848a252dcb3f68cb90ec3"
+canonical_name: "Petras Miklaševskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Miklaševskis"]
+sameAs: []
+canonical_biography: "1560 m. Petro Miklaševskio kuopai, kurią sudarė 100 karių, buvo nurodyta į Livoniją žygi uoti pro Kauną, Ukmergę, Panevėžį."
 ---
 # Petras Miklaševskis
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185479
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 150."
   citata_originali: |
     Kaunas buvo jų kelyje vykstant į karą ar grįžtant iš jo. 1560 m. Petro
     Miklaševskio kuopai, kurią sudarė 100 karių, buvo nurodyta į Livoniją žygi uoti pro

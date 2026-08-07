@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15d3666411721dbe27f33d2a"
+canonical_name: "Nijolė Lukšionytė-Tolvaišienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Nijolė Lukšionytė-Tolvaišienė"]
+sameAs: []
+canonical_biography: "Kaunas, 2008; Šinkūnaitė L., Valinčiūtė-Varnė Rima, Kamuntavičienė v., Lukšionytė-Tolvaišienė Nijolė."
 ---
 # Nijolė Lukšionytė-Tolvaišienė
 
@@ -49,9 +56,9 @@ Kaunas, 2008; Šinkūnaitė L., Valinčiūtė-Varnė Rima, Kamuntavičienė v., 
 ## Citatos
 
 - id: c-185562
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 336"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 336."
   citata_originali: |
     Kaunas, 2008; Šinkūnaitė L., Valinčiūtė-Varnė
     Rima, Kamuntavičienė v., Lukšionytė-Tolvaišienė Nijolė. Kauno apaštalų Petro ir Pauliaus

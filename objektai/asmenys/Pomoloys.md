@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee4df1d03c7d81a13ffbf4e1"
+canonical_name: "Pomoloys"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pomoloys"]
+sameAs: []
+canonical_biography: "Narbutas nurodo kritiką, kuris Pomoloys vardą, drauge su Jaygello ir Jargallo, laikė aiškiai lietuvišku, ginčydamas vyriausiųjų žynių sąrašą."
 ---
 # Pomoloys
 
@@ -53,7 +60,8 @@ Narbutas nurodo kritiką, kuris Pomoloys vardą, drauge su Jaygello ir Jargallo,
 - id: c-173120
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
   citata_originali: |
     433
 

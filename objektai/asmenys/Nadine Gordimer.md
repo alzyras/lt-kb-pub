@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-63c1ca09544b968bd4e6bd46"
+canonical_name: "Nadine Gordimer"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nadine Gordimer"]
+sameAs: []
+canonical_biography: "Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laureato, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius."
 ---
 # Nadine Gordimer
 
@@ -82,7 +89,8 @@ media_all_json: |-
 - id: c-95139
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265-266"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265-266."
   citata_originali: |
     Nobelio premijos laureatu bio-
     chemijos srityje 1982 m. tapo Želvoje gimęs Aaron Klug (Aronas Kliugas,

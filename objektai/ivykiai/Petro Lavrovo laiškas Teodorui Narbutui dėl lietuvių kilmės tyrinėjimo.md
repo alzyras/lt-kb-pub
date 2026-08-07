@@ -119,7 +119,8 @@ Nenurodyta
 - id: c-174917
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 12."
   citata_originali: |
     Tokį teiginį pailiustruoti galėtų keletas
     laiškų, atsitiktinai išlikusių T. Narbuto mokslinėje kores­
@@ -140,7 +141,8 @@ Nenurodyta
 - id: c-174918
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 12."
   citata_originali: |
     Jo laiškai sako, jog lietu­
     vių kilmės klausimas dar ir penktajame dešimtmetyje jau­

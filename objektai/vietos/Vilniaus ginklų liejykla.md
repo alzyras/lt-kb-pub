@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-251315f2aba2bbfd84af7d4e"
+canonical_name: "Vilniaus ginklų liejykla"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["anuomet garsus fabrikas","didžioji ginklų liejykla","Vilniaus ginklų liejykla"]
+sameAs: []
+canonical_biography: "Vilniaus ginklų liejykla buvo prie Vilniaus pilies įkurta karinės gamybos vieta. Joje lieta daug pabūklų, gamintos bombos ir kiti karo reikmenys, o 1579 m. Stepono Batoro žygio į Livoniją pasirengimo metu ji veikė karaliaus akivaizdoje."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus ginklų liejykla
 
@@ -109,7 +118,8 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
 - id: c-55851
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 294."
   citata_originali: |
     Tačiau daugiausia įtakos amatininkų gerovei ir tobulėji­
     mui turėjo didžiosios ginklų liejyklos įkūrimas prie Vilniaus
@@ -129,7 +139,8 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
 - id: c-81208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 304-305"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 304-305."
   citata_originali: |
     Smig-
     288

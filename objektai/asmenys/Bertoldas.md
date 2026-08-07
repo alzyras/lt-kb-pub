@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e6e408bfd9209771aabc901d"
+canonical_name: "Bertoldas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bertoldas"]
+sameAs: []
+canonical_biography: "Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie žiauriai nužudė Rygos mieste jo paties na­ muose. Trečia, ar galėjo jam rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la­ biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini­ mų Ordinui."
 ---
 # Bertoldas
 
@@ -65,7 +72,8 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
 - id: c-83464
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 103."
   citata_originali: |
     ## Puslapis 103
 
@@ -87,7 +95,8 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
 - id: c-176823
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 105."
   citata_originali: |
     Antra, ar galima įsivaizduoti, kad tokiame laiške pri­
     simintų savo paties nužudytą didįjį kunigaikštį Vitą, kai šis

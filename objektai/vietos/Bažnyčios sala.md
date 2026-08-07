@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-25dad11b085e8efbcfe6533a"
+canonical_name: "Bažnyčios sala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bažnyčios sala"]
+sameAs: []
+canonical_biography: "Žemgaliai, kurie buvo persikrikš tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su sinėrę kariavo meldžionis, kaipogi, aptverę kuo stipresniai pilį Mežotę, traukė į Bažnyčios salą ir tenai, krikščionis nugalavę, visą kraštą nuteriojo."
+place_authority: true
+historical_names: []
 ---
 # Bažnyčios sala
 
@@ -41,9 +50,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184481
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 229"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 229."
   citata_originali: |
     Įgulė meldžionų pilės
     Mežotės, jutusi tą nuopuolį ir stokodama mitalo, iš­

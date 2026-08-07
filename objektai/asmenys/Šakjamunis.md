@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2cda44d234937ab6f67d9e5b"
+canonical_name: "Šakjamunis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šakjamunis"]
+sameAs: []
+canonical_biography: "Narbutas Šakjamunį apibūdino kaip tautos mokytoją, išminčių ir įstatymų leidėją, kuriame įsikūnijo indų Buda."
 ---
 # Šakjamunis
 
@@ -53,7 +60,8 @@ Narbutas Šakjamunį apibūdino kaip tautos mokytoją, išminčių ir įstatymų
 - id: c-173107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 280"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 280."
   citata_originali: |
     Tačiau tas
     palyginimas kilo nežinant esmės, todėl mažai pritaikomas da­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-285a83b0db817ef4f1263c19"
+canonical_name: "Liudvikas Anjou"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas Anjou"]
+sameAs: []
+canonical_biography: "Rugsėjo 14 d. mirė kitas Lietuvos ir Kęstučio kaimynas Liudvikas Anjou, Lenkiją ir Vengriją palikdamas neaiškioje būklėje—savo mažametėms dukterims ir jų būsimiems vyrams."
 ---
 # Liudvikas Anjou
 
@@ -50,7 +57,8 @@ Rugsėjo 14 d. mirė kitas Lietuvos ir Kęstučio kaimynas Liudvikas Anjou, Lenk
 - id: c-93999
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 282."
   citata_originali: |
     Su paskutinio pagonio kunigaikščio Kęstučio iškilmingu sude­
     ginimu Lietuvos istorijoje turėjo prasidėti naujas laikotarpis. Tuo

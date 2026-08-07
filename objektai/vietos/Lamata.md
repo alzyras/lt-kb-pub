@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0654facf36732ae57645514d"
+canonical_name: "Lamata"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lamata"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per šešerius metus, kada vadovavo šiai piliai, privertė visus lietuvius, gyvenusius Nemuno pakrantėje, nuo Neries upės iki Lamatos žemės546, laikytis taikos su krikščionimis, bet Lethovinorum rex), o toliau. Dusburgietis teigia, kad lamata buvo į šiaurę nuo Nemuno žemupio, matyt, tarp Skalvos ir Kuršo, nes XIII a."
+place_authority: true
+historical_names: []
 ---
 # Lamata
 
@@ -69,7 +78,8 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
 - id: c-59216
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     Be to, jis patraukė į valsčių, vardu Vaikiai545, kur
     — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
@@ -92,7 +102,8 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
 - id: c-59217
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     546 D.— ad terram Lamotinam, Jer.— an daz lendil Lamotîn. Lamata buvo  į šiaurę
     nuo Nemuno žemupio, matyt, tarp Skalvos ir Kuršo, nes XIII a. viduryje žemės į šiaurę

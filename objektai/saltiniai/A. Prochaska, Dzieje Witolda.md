@@ -58,7 +58,8 @@ Prochaska: Dzieje Witolda, 1914, 306-308 p. (^26) Žr.
 - id: c-33514
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 376"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 376."
   citata_originali: |
     (^23) **PSRL, 17, 545 p.**
     (^24) **O. Balzer:** **_Unia horodelska,_** **1913, 32p.**

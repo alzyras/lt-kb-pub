@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0d9dd251301e4bb632f15e61"
+canonical_name: "Joachimas Lelevelis (istorikas)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Joachimas Lelevelis (istorikas)"]
+sameAs: []
+canonical_biography: "Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus. Lelevelis, priverstinai atsistatydino iš globėjo posto A."
 ---
 # Joachimas Lelevelis (istorikas)
 
@@ -123,7 +130,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - id: c-64343
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 105."
   citata_originali: |
     Caro administracija ėmėsi tyrimo,
     kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
@@ -145,7 +153,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - id: c-64344
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     Visos istorinės Lietuvos žemės visuomeninio ir kultūrinio gyvenimo
     centru tapo Vilniaus universitetas, tapęs iškiliausiu lenkų kultūros centru
@@ -175,7 +184,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - id: c-171299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     Išsamesnėms krašto praeities studijoms istoriką galė­
     jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
@@ -197,7 +207,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - id: c-177059
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 141."
   citata_originali: |
     Ši deivė savo reikšme visiškai tapati romėnų žinomam die­
     vaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo
@@ -217,7 +228,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - id: c-179115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 141."
   citata_originali: |
     Toji Verpėja verpia taip aukštai, kad,
     nors per dieną nuverpia tokį ilgą siūlą, kuriuo būtų galima

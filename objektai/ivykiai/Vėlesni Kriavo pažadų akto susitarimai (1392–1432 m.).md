@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-31398
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 156."
   citata_originali: |
     Algirdaičiui išvykstant karaliauti Len­
     kijon, 1385 m. Kriavo pažadų aktas davė pradžią tolimesniems,

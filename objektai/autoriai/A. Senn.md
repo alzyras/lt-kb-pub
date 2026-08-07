@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b8ecceda0568ce3e8f1a9cef"
+canonical_name: "A. Senn"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Senn"]
+sameAs: []
+canonical_biography: "Senn, A. : On the Kinship between Slavic and Baltic , Slavonic and East European Revue, XX, 1941. — (”) Die Beziehungen des Baltischen zum Slavischen und Germanischen, Zeitschr."
 ---
 # A. Senn
 
@@ -54,7 +61,8 @@ Senn, A. : On the Kinship between Slavic and Baltic , Slavonic and East European
 - id: c-32889
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 116."
   citata_originali: |
     —Salys, A. : _Baltic Languages,_
     Encyclopedia Britannica, t. 3, 1955. — Senn, A. : _On the Kinship between

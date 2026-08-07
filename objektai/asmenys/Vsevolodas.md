@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f5159d983196a60b084573c"
+canonical_name: "Vsevolodas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vsevolodas"]
+sameAs: []
+canonical_biography: "1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu. Yra raštuose randama, jog tą metą Vsevolodas, kunigaikštis Naugardo, kariavęs su lietuviais ir ana- 1135 pus Daugavos lietuvių kraštą Lotaviją, arba Letgaliją, tai yra Lietuvos galą, nuteriojęs ir į pilį Jurjevą, arba Tarapatą, įsilaužęs, bet koksai galas."
 ---
 # Vsevolodas
 
@@ -81,7 +88,8 @@ media_all_json: |-
 - id: c-174367
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     Neabejotinai slaviš­
     ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
@@ -104,9 +112,9 @@ media_all_json: |-
     - t-001
 
 - id: c-184398
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 161"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 161."
   citata_originali: |
     Įgavę tokiu pragumu lietu­
     viai pergalę ir nepaseikimus turtus grįžo namon.

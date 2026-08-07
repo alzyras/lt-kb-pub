@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4bf320d6ca3da303a189177c"
+canonical_name: "Duobelės pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Duobelės pilis","Duobelės pilis (pilis)"]
+sameAs: []
+canonical_biography: "Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių tuo metu kontroliuojamos Viznos apylinkes prie Narevo."
+place_authority: true
+historical_names: []
 ---
 # Duobelės pilis (pilis)
 
@@ -51,7 +60,8 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
 - id: c-45085
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi:
     „atėjo vokiečiai prie Vilniaus miesto prieš Vytautą, ir buvo tarp jų

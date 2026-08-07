@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c302293a63918791a12701b4"
+canonical_name: "Lietuvos Rusia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lietuvos Rusia"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Lietuvos Rusios."
+place_authority: true
+historical_names: []
 ---
 # Lietuvos Rusia
 
@@ -54,7 +63,8 @@ Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Li
 - id: c-171906
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
   citata_originali: |
     Kuo daugiau tikėta jų buvimu, tuo labiau
     artėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų

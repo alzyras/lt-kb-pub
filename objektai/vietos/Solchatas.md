@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-26933e1a9c6eb46a5c0fb306"
+canonical_name: "Solchatas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Solchatas"]
+sameAs: []
+canonical_biography: "Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, dar vadintas Senuoju Krymu, prie Kafos. Sirinų valdos buvo apie Krymo sostinę Solchatą, dar vadinamą Senuoju Krymu."
+place_authority: true
+historical_names: []
 ---
 # Solchatas
 
@@ -94,7 +103,8 @@ Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, dar vadinta
 - id: c-170360
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 294."
   citata_originali: |
     Ač-Girėjaus valdym o metais Krymo totorių sostinė buvo ne
     Perekopas. o Solchatas (Senasis Krymas) prie Kafos (dabartinės

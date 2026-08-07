@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-733a4ac8e040809fe97a4d39"
+canonical_name: "Romanas Dmovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Romanas Dmovskis"]
+sameAs: []
+canonical_biography: "Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski) vadovavosi lenkų organinio nacionalizmo doktrina. Dmovskio ir J."
 ---
 # Romanas Dmovskis
 
@@ -96,7 +103,8 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 - id: c-21951
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 125."
   citata_originali: |
     Socialdemokratai
     rėmė Lietuvos nepriklausomybės idėją, pasisakė už socialines reformas,
@@ -118,7 +126,8 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 - id: c-21952
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     Delegacija
     buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu da-
@@ -145,7 +154,8 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 - id: c-166956
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 125."
   citata_originali: |
     Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių or-
     ganizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai. La-

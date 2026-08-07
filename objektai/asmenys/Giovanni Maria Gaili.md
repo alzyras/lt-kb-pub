@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-575f7068976dabec1d1401e5"
+canonical_name: "Giovanni Maria Gaili"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Giovanni Maria Gaili"]
+sameAs: []
+canonical_biography: "Romėnas Giovanni Maria Gaili su Pietro Peretti paskirstė Antakalnio bažnyčios skulptūras ir apie aštuonerius metus prižiūrėjo amatininkų darbą."
 ---
 # Giovanni Maria Gaili
 

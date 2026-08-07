@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-20208"></a>
 - t-001
   teiginys: "Po Sausio 13-osios sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios informacijos."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -84,7 +84,8 @@ Nenurodyta
 - id: c-22944
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 246."
   citata_originali: |
     „Solidarumas“ pradėjo, o Vokietijos susivie-
     nijimas baigė griauti SSRS dominuojamą socialistinių šalių bloką (vadi-
@@ -103,7 +104,8 @@ Nenurodyta
 - id: c-166610
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 246."
   citata_originali: |
     Sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios in-
     formacijos. Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti

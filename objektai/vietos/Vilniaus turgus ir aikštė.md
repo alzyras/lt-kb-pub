@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-052594d384016776849d771e"
+canonical_name: "Vilniaus turgus ir aikštė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus turgus ir aikštė"]
+sameAs: []
+canonical_biography: "Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos. Taigi, kai šis ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­ rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­ dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­ klausančioje jam ir jo katedros bažnyčiai, savo ir savo."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus turgus ir aikštė
 
@@ -64,7 +73,8 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
 - id: c-177555
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 423"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 423."
   citata_originali: |
     Šiuo raštu skelbiame visiems ir
     kiekvienam, kam dabar ar ateityje bus pravartu žinoti. Kad
@@ -95,7 +105,8 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
 - id: c-177556
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 425"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 425."
   citata_originali: |
     Taigi, kai šis
     ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­

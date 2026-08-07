@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2df1954802695edeb7d1be42"
+canonical_name: "Praleisti nelaikyti saugiais autoriais"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Praleisti nelaikyti saugiais autoriais"]
+sameAs: []
+canonical_biography: "Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis garbintas kaip šventasis."
 ---
 # Praleisti nelaikyti saugiais autoriais
 
@@ -52,7 +59,8 @@ Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis
 - id: c-173331
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
   citata_originali: |
     Apie tai papa­
     sakosime straipsnyje „Šventyklos“.

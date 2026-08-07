@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e8ed6809b694c43a1998cae1"
+canonical_name: "Vilhelmas v. Sabinų"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vilhelmas v. Sabinų"]
+sameAs: []
+canonical_biography: "Toksai įbingimas perkrikštų Parusny didyn vien gandino kryžėjus, kurių vyresnybė nemintanti guodės popiežiui, rodydama savo pavojų ir artimą pra garą bei pagalbos lūgodama ir teiraudamos jo, ką bedaryti tokioj noty, sakydama, jog Vilhelmas, jo siuntinys, v."
 ---
 # Vilhelmas v. Sabinų
 
@@ -49,9 +56,9 @@ Toksai įbingimas perkrikštų Parusny didyn vien gandino kryžėjus, kurių vyr
 ## Citatos
 
 - id: c-184774
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 371"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 371."
   citata_originali: |
     Vienok gi-
     lesniai į Žemaičių kraštą nebdrįso beeiti, krūpau­

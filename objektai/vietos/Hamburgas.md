@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae19a9a5a524627669d6ad7f"
+canonical_name: "Hamburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Hamburgas"]
+sameAs: []
+canonical_biography: "Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė D ## Puslapis 22 ĮVADAS Krokuva, Kališas ir Naugardas."
+place_authority: true
+historical_names: []
 ---
 # Hamburgas
 
@@ -59,7 +68,8 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
 - id: c-82167
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 21-22"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 21-22."
   citata_originali: |
     Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
     tai, net slaviškieji, ėmė prie jų šlietis. Prie karinės sąjungos, 1241 m.

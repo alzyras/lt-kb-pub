@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ebab59dcf72525c3fae66ab9"
+canonical_name: "Grigalius Chodkevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Grigalius Chodkevičius"]
+sameAs: []
+canonical_biography: "Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų."
 ---
 # Grigalius Chodkevičius
 
@@ -71,7 +78,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 - id: c-44337
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     buvo geriausi kariai, kuriuos tuo metu
     buvo galima surinkti. Greta didžiojo
@@ -103,7 +111,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 - id: c-168071
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 690"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 690."
   citata_originali: |
     Liepos mėnesį Krokuvoje
     iškelta nepaprastai prabangios vestuvės, jose visi di­

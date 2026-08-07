@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0938e51921a1fa75aeb0b619"
+canonical_name: "Zurkalowski E"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Zurkalowski E"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad zurkalowski E."
 ---
 # Zurkalowski E
 
@@ -39,7 +46,8 @@ Dusburgietis teigia, kad zurkalowski E.
 - id: c-61462
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 277"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 277."
   citata_originali: |
     Zurkalowski E. In welches Jahr fällt die Belagerung Memels durch die Samländer? —
     AM, Königsberg i Pr 1907 Bd 44, S. 479—486.

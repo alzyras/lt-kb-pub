@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5ea9946e5d577e1a31136152"
+canonical_name: "Popiežius Honorijus II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Popiežius Honorijus II"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23, Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija) 1219 m. sudarė."
 ---
 # Popiežius Honorijus II
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - id: c-61047
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
     (t. y. 1209— 1210 m.)22. Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus

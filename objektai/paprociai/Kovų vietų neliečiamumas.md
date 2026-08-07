@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-10011
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 181"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 181."
   citata_originali: |
     Vienok šiandien, atsitikus parėdymu vyresnybės per tokias vietas arba kapus naują vieškelį vesti ar žvizdrą iš tokių kapų į
         kelią pilti, nieko tokio nėra randama, kas tą didelybę praėjusiojo svieto rodytų, nes tiktai
@@ -84,7 +85,8 @@ Nenurodyta
 - id: c-11077
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 180-181"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 180-181."
   citata_originali: |
     Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su
         neprieteliais buvo grūmęsi ir tenai svietas buvo kritęs kariaudamas: kaipogi senovėj didžiai

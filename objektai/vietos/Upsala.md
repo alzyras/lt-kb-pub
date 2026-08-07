@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-da07055ed8a8d33ef219f415"
+canonical_name: "Upsala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Upsala"]
+sameAs: []
+canonical_biography: "Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^1150. ## vocabulary-miera-saikas-002 - status: unused - claimrole: newclaim - kategorija: zodynas - kandidatas: miera / saikas - potencialusteiginys: Miera / saikas - publicnote: -."
+place_authority: true
+historical_names: []
 ---
 # Upsala
 
@@ -102,7 +111,8 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
 - id: c-171804
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
   citata_originali: |
     Tą ypatybę kronikininkai priskiria velnio galy­
     bei, manydami, kad velniai buvo garbinami toje šventykloje
@@ -125,7 +135,8 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
 - id: c-171805
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 416"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 416."
   citata_originali: |
     Tautos
     šventovė buvo Upsaloje; ten, kaip Romovės šventykloje, sto­
@@ -146,7 +157,8 @@ Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^11
 - id: c-171806
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 418."
   citata_originali: |
     Kadangi šiam aiškinimui nieko negali-
     m . 03

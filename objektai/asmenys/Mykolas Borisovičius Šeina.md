@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7164b9246180cefacf56d535"
+canonical_name: "Mykolas Borisovičius Šeina"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Borisovičius Šeina"]
+sameAs: []
+canonical_biography: "Rusų pajėgų padėtis ėmė Rusų kariuomenės vado, Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasiduoda ATR valdovui Vladislovui Vazai komplikuotis - tuo metu į pietines Rusijos žemes įsiveržė ir niokojo Krymo totoriai (paskatinti užpulti Rusiją ATR."
 ---
 # Mykolas Borisovičius Šeina
 
@@ -63,7 +70,8 @@ Rusų pajėgų padėtis ėmė Rusų kariuomenės vado, Mykolo Borisovičiaus Še
 - id: c-44466
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 121."
   citata_originali: |
     1633 m. žiemą į pagalbą atskubėjo tuo-
     metinis Lietuvos lauko etmonas Kristupas

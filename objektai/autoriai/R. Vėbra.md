@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-937a10981cd6bfee89816ee3"
+canonical_name: "R. Vėbra"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["R. Vėbra"]
+sameAs: []
+canonical_biography: "Vėbra^128."
 ---
 # R. Vėbra
 
@@ -42,7 +49,8 @@ Vėbra^128.
 - id: c-33119
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     171-174p.). Lietuviškos spaudos draudimo XIX a. klausimais ne­
     mažai rašė R. Vėbra^128.

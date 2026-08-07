@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fc3162f7ba72cd86f2c84060"
+canonical_name: "Vyrgalės sala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vyrgalės sala"]
+sameAs: []
+canonical_biography: "174, 193 Vitebskas 159, 165, 239, 246, 247, 250, 274, 291, 296, 297, 311, 313, 371 ; Vitebskietė Marija, Algirdo žmona 259 Vygandas, Jogailos brolis 276 Vygandas, Ragainės komtūras 277 Vygandas, Vytauto krikšto vardas 277 Vykintas 139, 163-165, 168, 169, 171."
+place_authority: true
+historical_names: []
 ---
 # Vyrgalės sala
 
@@ -74,7 +83,8 @@ media_all_json: |-
 - id: c-44047
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 44."
   citata_originali: |
     Situacija Kauno regione bei visoje
     Lietuvoje ir toliau buvo labai sudėtinga.

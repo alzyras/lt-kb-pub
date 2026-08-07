@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d13662aada7cd31af55bcec"
+canonical_name: "Arvydas Anušauskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Arvydas Anušauskas"]
+sameAs: []
+canonical_biography: "Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Lietuvos partizanų susirėmimus autorius. Autorių sąraše jis apibūdinamas kaip Lietuvos naujausių laikų istorikas ir rezistencinių kovų tyrėjas."
 ---
 # Arvydas Anušauskas
 
@@ -134,7 +141,8 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 - id: c-42397
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 266."
   citata_originali: |
     Tekstų apie mūšius i
 
@@ -162,7 +170,8 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 - id: c-42398
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     P. 238-239, „ŽYMIAUSI LIETUVOS PARTIZANU MUSIAI PRIEŠ SOVIETU PAJĖGAS“,
     Arvydas Anušauskas.
@@ -180,7 +189,8 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 - id: c-75923
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 274."
   citata_originali: |
     P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
 

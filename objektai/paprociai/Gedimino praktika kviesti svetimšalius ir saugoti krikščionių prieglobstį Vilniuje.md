@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-83135
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 35-36"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 35-36."
   citata_originali: |
     -  •  -
     19

@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2644339902e37ee689885fa9"
+canonical_name: "Liubekas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liubekas"]
+sameAs: []
+canonical_biography: "1261 m. balandžio 27 d. Livonijos ordino vicemagistras maldavo pagalbos iš Liubeko miesto, skųsdamasis, jog ordinas turėjęs daug nuostolių arkliais, ginklais ir kitokiomis gėrybėmis^174."
+place_authority: true
+historical_names: []
 ---
 # Liubekas
 
@@ -260,7 +269,8 @@ media_all_json: |-
 - id: c-159508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 21-22"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 21-22."
   citata_originali: |
     Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
     tai, net slaviškieji, ėmė prie jų šlietis. Prie karinės sąjungos, 1241 m.
@@ -283,7 +293,8 @@ media_all_json: |-
 - id: c-159509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 111."
   citata_originali: |
     To ant­
     spaudo tokį apibūdinimą turime raštininko aprašyme.
@@ -305,7 +316,8 @@ media_all_json: |-
 - id: c-159510
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 41."
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
     lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
@@ -347,7 +359,8 @@ media_all_json: |-
 - id: c-159511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 39."
   citata_originali: |
     Lietu­
     vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink
@@ -374,7 +387,8 @@ media_all_json: |-
 - id: c-159512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 115."
   citata_originali: |
     Tikriausiai Kotzebue
     vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs apkal­
@@ -398,7 +412,8 @@ media_all_json: |-
 - id: c-159515
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 195."
   citata_originali: |
     Turėdami
     Durbės patyrimą, riteriai šį kartą nebesidavė apsupami, ir jų tekrito
@@ -419,7 +434,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 266."
   citata_originali: |
     Vytautas sutiko jas grąžinti tik ta sąlyga, jei magistras
     grąžins lietuvių prekes^4 ). Dėl to rygiečiai kėlė balsą Hanzos
@@ -438,7 +454,8 @@ media_all_json: |-
 - id: c-159519
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
   citata_originali: |
     Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­
                                                  trą

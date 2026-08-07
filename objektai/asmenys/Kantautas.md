@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d46b53cb066a777a0f01672d"
+canonical_name: "Kantautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kantautas"]
+sameAs: []
+canonical_biography: "Žemaičiai mielai priėmė Kantautą seniūnu, nes jis buvo jų krašto žmogus ir Daumanto giminaitis. Kantautas buvo kilęs iš Žemaičių."
 ---
 # Kantautas
 
@@ -110,7 +117,8 @@ media_all_json: |-
 - id: c-169484
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 473"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 473."
   citata_originali: |
     Juos nesunku paveikti gerumu, paskyrus į se­
     niūnus žmogų, kurį žemaičiai mielai priimtų ir kuriam
@@ -139,7 +147,8 @@ media_all_json: |-
 - id: c-176558
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 125."
   citata_originali: |
     .M , nes Kantautas buvo kilęs
     iš Žemaičių. Ir didysis kunigaikštis Kazimieras labai

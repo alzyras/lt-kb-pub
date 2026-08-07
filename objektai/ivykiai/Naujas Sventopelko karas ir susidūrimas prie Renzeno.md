@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-60013
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
   citata_originali: |
     Po to patraukė iki
     pelkės, vardu Renzenas279, kur naktį ilsėjosi. Apie tai sužinoję, Kulmo pilies broliai pasekė
@@ -106,7 +107,8 @@ Nenurodyta
 - id: c-60014
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
   citata_originali: |
     Apie tai sužinoję, Kulmo pilies broliai pasekė
     juos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis

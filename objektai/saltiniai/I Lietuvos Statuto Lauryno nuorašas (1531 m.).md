@@ -60,7 +60,8 @@ Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra ver
 - id: c-75435
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 13-14"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 13-14."
   citata_originali: |
     Teritorija, kurioje lietuviai gy-
     veno kurdami valstybę (iš esmės tai šiandieninė Lietuva), ir vadinama

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fc9ff75158008b8d0ed17f3f"
+canonical_name: "Rusovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rusovas"]
+sameAs: []
+canonical_biography: "Rusovas, Narbuto perteikimu, teigė, kad latvių jaunimas garbino deivę Dahklą kaip laisvės ir vyriškumo globėją."
 ---
 # Rusovas
 
@@ -61,7 +68,8 @@ Rusovas, Narbuto perteikimu, teigė, kad latvių jaunimas garbino deivę Dahklą
 - id: c-173090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     Nuženk iš dangaus, pasigailėk)
     Mielai atidaviau savo laikrodį bajorui, kuris man tą daine­

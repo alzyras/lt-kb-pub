@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c4c5654854e987be02f69c47"
+canonical_name: "Vulfstanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vulfstanas"]
+sameAs: []
+canonical_biography: "Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pusėje apsilankė Estijoje. Narbuto pasakojime Vulfstanas dideliu laivu atplaukė prie Nogato žiočių ir pasiekė Druso miestą. Narbutas rašo, kad Vulfstanas jau minėjo Kodinėnų valdų ponus, kurių giminė, autoriaus teigimu, išliko iki jo laikų."
 ---
 # Vulfstanas
 
@@ -140,7 +147,8 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
 - id: c-174068
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 92."
   citata_originali: |
     Aprašinėdamas
     prie Baltijos jūros esančius kraštus, kuriuos dėl senama­
@@ -162,7 +170,8 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
 - id: c-174069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 157."
   citata_originali: |
     O kalbėdami apie
     Abalo salą, geriausi ¡senovės tyrinėtojai, ir tai labiausiai
@@ -192,7 +201,8 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
 - id: c-174071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 358"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 358."
   citata_originali: |
     Viena
     tokia apskritis į šiaurės rytus nuo Elbliongo vadinama
@@ -214,7 +224,8 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
 - id: c-175376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
   citata_originali: |
     Ki­
     ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
@@ -237,9 +248,9 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
     - t-005
 
 - id: c-184399
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 48"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
   citata_originali: |
     Pereidamas skaitytojas tas dabar minavotas šiau­
     rės pasakas, noris maž ką teranda tenai apie Lietu­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-268b26edbffe3ab061f9828f"
+canonical_name: "Rotušės aikštė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rotušės aikštė"]
+sameAs: []
+canonical_biography: "Balandžio 24 d. Vilniuje, Kovos Viln Rotušės aikštėje, buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudarytas vykdomosios valdžios organas - Lietuvos Tautinė aukščiausia taryba (Roda Naididžiausia Naradaus Lietuvos)."
+place_authority: true
+historical_names: []
 ---
 # Rotušės aikštė
 
@@ -51,7 +60,8 @@ Balandžio 24 d. Vilniuje, Kovos Viln Rotušės aikštėje, buvo paskelbtas 2328
 - id: c-45308
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 152."
   citata_originali: |
     užmuštų ir šešių sužeistų karių.
     Balandžio 24 d. Vilniuje,

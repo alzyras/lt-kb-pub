@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f16259b1f559b2b8a7bab768"
+canonical_name: "H. Lowmiański"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["H. Lowmiański"]
+sameAs: []
+canonical_biography: "H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitelkiami Lietuvos visuomenės ir valstybės pradžios, senųjų sienų ir gyventojų skaičiaus klausimams."
 ---
 # H. Lowmiański
 
@@ -90,7 +97,8 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
 - id: c-03980
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 19."
   citata_originali: |
     Knigi Zapisej, išl. I. I. Lappo (Russ­
     kaja Istoričeskaja Biblioteka, t. 27), Petrapilis 1910.
@@ -106,7 +114,8 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
 - id: c-03981
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 130."
   citata_originali: |
     —
     Liubavskij, M. : _Litva i slavjane u ich uzaemaadnosiniach u XI-XII st.,_
@@ -125,7 +134,8 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
 - id: c-03982
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 89."
   citata_originali: |
     J. Latkowskis buvo pirmasis, kuris bandė nustatyti
     Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus
@@ -146,7 +156,8 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
 - id: c-03984
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 143."
   citata_originali: |
     Apytikriu skaičiavimu apie 1000 m. po Kr. baltų plotas
     turėjęs apimti 255.000 km^2. Lietuvių gyvenamasis plotas tada turė­

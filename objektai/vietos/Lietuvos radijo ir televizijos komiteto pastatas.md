@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a4123b117ca8b33faa0c8628"
+canonical_name: "Lietuvos radijo ir televizijos komiteto pastatas (institucija)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lietuvos radijo ir televizijos komiteto pastatas","Lietuvos radijo ir televizijos komiteto pastatas (institucija)"]
+sameAs: []
+canonical_biography: "nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė daugiatūkstantinė taikių Lietuvos gyventojų minia."
+place_authority: true
+historical_names: []
 ---
 # Lietuvos radijo ir televizijos komiteto pastatas (institucija)
 
@@ -59,7 +68,8 @@ nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietu
 - id: c-24253
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 245."
   citata_originali: |
     Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare mi-
     nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie

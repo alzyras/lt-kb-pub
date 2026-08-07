@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-85c3cfcbddbe7085eb58e98b"
+canonical_name: "Liberijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liberijus"]
+sameAs: []
+canonical_biography: "Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoakrą tvarkant Italijos vidaus problemas."
 ---
 # Liberijus
 
@@ -54,7 +61,8 @@ Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoak
 - id: c-174320
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
   citata_originali: |
     Odoakras ne­
     trukus perleido šią provinciją visigotų karaliui Evarikui,

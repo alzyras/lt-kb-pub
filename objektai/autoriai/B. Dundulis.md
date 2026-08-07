@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7c40cbd5306bbfc0c0557115"
+canonical_name: "B. Dundulis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["B. Dundulis"]
+sameAs: []
+canonical_biography: "B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais XV amžiuje. B. Dundulis parašė straipsnį Lietuvos TSR istorijos pirmasis tomas. B. Dundulis 1958 m. paskelbė darbus apie Žemaitijos sienų konfliktą ir Lietuvos kovą prieš kryžiuočius Konstanco susirinkime."
 ---
 # B. Dundulis
 
@@ -133,7 +140,8 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
 - id: c-03976
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 49."
   citata_originali: |
     Drauge čia paliečiame, kaip vystėsi _Lietuvos isto­
     rijos mokslas_ jos aukštosiose mokyklose, ypač nepriklausomoje
@@ -154,7 +162,8 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
 - id: c-03977
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 85."
   citata_originali: |
     K. Sideravičius: _Nuo Durbės iki Žal­
     girio_ (1944). Bendrą tų kovų istoriją paruošė istorikų kolektyvas :
@@ -173,7 +182,8 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
 - id: c-70073
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 362"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 362."
   citata_originali: |
     (^12) **StVW, I, 140-144 p.; DlugO, XIII, 240-244 p.;** **_Deutsche Reichstags­
     akten_** **, hgg. D. Kerler, B, VII, 1878, 399 p. — Plg. B. Dundulis :** **_Lietuvos
@@ -192,7 +202,8 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
 - id: c-70074
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 359."
   citata_originali: |
     Berlin 1914. — Dundulis, B. :
     _Lietuvos konfliktas su ordinu dėl Žemaitijos sienų ir imperatoriaus atstovo
@@ -212,7 +223,8 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
 - id: c-70077
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 342."
   citata_originali: |
     Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius pavergėjus
     1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­

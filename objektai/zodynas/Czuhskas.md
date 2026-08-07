@@ -54,7 +54,8 @@ Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino
 - id: c-172177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Lasickis apie senovines apeigas sako: „Į tam tikrą šventę
     pakviestas aukotojas maldomis ir užkeikimais sušaukia nami­

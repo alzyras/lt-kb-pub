@@ -58,7 +58,8 @@ media_all_json: |-
 - id: c-33608
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 264."
   citata_originali: |
     — Kučinskas (Kučas), A. : _Kęstutis,_ Marijampolė 1938 (plati
     bibliogr.). — (”) _Kęstutis,_ LE, t. 11, 407-416 p. -— (”) _Kęstučio Brasta,_

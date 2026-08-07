@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-be9099ede164a77a350b3f69"
+canonical_name: "Joachimas fon Ribentropas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Joachimas fon Ribentropas"]
+sameAs: []
+canonical_biography: "Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo."
 ---
 # Joachimas fon Ribentropas
 
@@ -32,7 +39,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - id: c-21726
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 184."
   citata_originali: |
     Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą
     ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaci-

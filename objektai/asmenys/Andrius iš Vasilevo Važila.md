@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-889ac0d7d654a38cec6861de"
+canonical_name: "Andrius iš Vasilevo Važila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius iš Vasilevo Važila"]
+sameAs: []
+canonical_biography: "Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­ rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­ nuolį, Cereto vyskupą, kadaise Vengrijos karalienės."
 ---
 # Andrius iš Vasilevo Važila
 
@@ -52,7 +59,8 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 - id: c-83603
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127."
   citata_originali: |
     Iškilmingai,
     dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,

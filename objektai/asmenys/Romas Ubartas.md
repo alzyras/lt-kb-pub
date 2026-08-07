@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a355c5ca10742606f618c12d"
+canonical_name: "Romas Ubartas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Romas Ubartas"]
+sameAs: []
+canonical_biography: "Paguodė pirmieji laimėjimai – disko metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai."
 ---
 # Romas Ubartas
 
@@ -61,7 +68,8 @@ Paguodė pirmieji laimėjimai – disko metikas Romas Ubartas 1992 m. Barselonos
 - id: c-21957
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 254."
   citata_originali: |
     Tarptautinis olimpinis ko-
     mitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto

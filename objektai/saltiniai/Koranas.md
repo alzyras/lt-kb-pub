@@ -53,7 +53,8 @@ Anot Teodoro Narbuto minimų Korano aiškintojų, Ashabir-Ross buvo tauta prie R
 - id: c-174670
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Iš pono Hamerio tyrimų ir ištraukų apie
     Rytus2 matome, jog arabai Rass, arba Ross3, vadino Arak-

@@ -88,7 +88,8 @@ Nenurodyta
 - id: c-12342
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 212."
   citata_originali: |
     Tuo metu, kai lenkai veržėsi Ukmergės link ir vyko sunkios
     kovos ties Giedraičiais, mėginta pralaužti lietuvių pozicijas ir

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9ed422b0e0817e92ec56a04"
+canonical_name: "Mežuotnės pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mežuotnės pilis","Mežuotnės pilis (pilis)"]
+sameAs: []
+canonical_biography: "1346 m. balandį įsiveržę į Livoniją lietuviai sunaikino Mežuotnės pilį, nukovė komtūrą su keliais kitais broliais."
+place_authority: true
+historical_names: []
 ---
 # Mežuotnės pilis (pilis)
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-40429
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 38."
   citata_originali: |
     1346 m. balandį įsiveržę į Livoniją lietu-
     viai sunaikino Mežuotnės pilį, nukovė kom-

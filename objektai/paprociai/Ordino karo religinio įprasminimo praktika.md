@@ -60,7 +60,7 @@ Nenurodyta
 <a id="claim-t-67173"></a>
 - t-001
   teiginys: "Petras iš Dusburgo Ordino karą Prūsijoje ir Lietuvoje aiškino kaip Dievo kovą ir riterių ginklams suteikė religinę prasmę."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -85,7 +85,7 @@ Nenurodyta
 <a id="claim-t-67175"></a>
 - t-003
   teiginys: "Petras iš Dusburgo Ordino karą laikė vykdomu pagal Dievo valią, o Ordino priešus vadino Dievo priešais."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -158,7 +158,8 @@ Nenurodyta
 - id: c-67185
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos
     einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė
@@ -177,7 +178,8 @@ Nenurodyta
 - id: c-67186
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Dusburgietis bando pateikti savotišką
     karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
@@ -197,7 +199,8 @@ Nenurodyta
 - id: c-67187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29-30"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29-30."
   citata_originali: |
     Petras iš Dusburgo akcentuoja, kad Prūsijoje kariaujama prieš „tikybos ir bažnyčios
     priešus“ (II, 7), todėl kryžiaus žygių dalyviai eina į karą prieš prūsus ir lietuvius keršyti
@@ -226,7 +229,8 @@ Nenurodyta
 - id: c-67188
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 30."
   citata_originali: |
     Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo
     tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).
@@ -243,7 +247,8 @@ Nenurodyta
 - id: c-67189
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 30."
   citata_originali: |
     Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino
     riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus

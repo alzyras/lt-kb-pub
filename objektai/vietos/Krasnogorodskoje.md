@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac30379816e55f62ddd23802"
+canonical_name: "Krasnogorodskoje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krasnogorodskoje"]
+sameAs: []
+canonical_biography: "Komentare Krasnogorodskoje pateikiamas kaip Krasnyj gorod atitikmuo. Krasnogorodskoje lokalizuojamas 30 km į šiaurės vakarus nuo Opočkos."
+place_authority: true
+historical_names: []
 ---
 # Krasnogorodskoje
 
@@ -69,7 +78,8 @@ Komentare Krasnogorodskoje pateikiamas kaip Krasnyj gorod atitikmuo. Krasnogorod
 - id: c-170303
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 254."
   citata_originali: |
     7 Krasnyj gorod — tai Krasnogorodskoje, 30 km į šiaurės va­
     karus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­

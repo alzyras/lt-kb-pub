@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-26a4d2524b7eaf1c891b93c0"
+canonical_name: "Žemutinis Padnieprys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žemutinis Padnieprys"]
+sameAs: []
+canonical_biography: "Mūšio išvakarėse Parengiamieji žygiai buvo organizuoti dviem kryptims: nuo Žemutinio Padnieprio Dono link ir į Krymą."
+place_authority: true
+historical_names: []
 ---
 # Žemutinis Padnieprys
 
@@ -59,7 +68,8 @@ Mūšio išvakarėse Parengiamieji žygiai buvo organizuoti dviem kryptims: nuo 
 - id: c-40483
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     Mūšio išvakarėse
 

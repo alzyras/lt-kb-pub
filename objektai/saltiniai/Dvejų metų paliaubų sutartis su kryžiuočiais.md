@@ -122,7 +122,8 @@ Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą s
 - id: c-169670
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 395."
   citata_originali: |
     Jį netrukus paleido rusų sąmokslininkai, nu­
     žudę sargybos viršininką Konradą Frankenbergą. Atsi­
@@ -153,7 +154,8 @@ Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą s
 - id: c-169671
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 395."
   citata_originali: |
     397
 

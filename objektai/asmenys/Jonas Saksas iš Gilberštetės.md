@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-94e48444ed2c4893664d7560"
+canonical_name: "Jonas Saksas iš Gilberštetės"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Saksas iš Gilberštetės"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie nuostabų vieno vyro atsivertimą Tais metais Karaliaučiaus pilyje mirė brolis Jonas Saksas iš Gilberštetės, kuris, kol buvo pasaulietis, gyveno nedorovingai."
 ---
 # Jonas Saksas iš Gilberštetės
 
@@ -46,7 +53,8 @@ Dusburgietis teigia, kad apie nuostabų vieno vyro atsivertimą Tais metais Kara
 - id: c-60981
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
   citata_originali: |
     Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto,
     šventės (rugsėjo 22) atvyko į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo

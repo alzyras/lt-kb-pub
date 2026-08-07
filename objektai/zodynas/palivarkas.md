@@ -7,6 +7,7 @@ saltiniai:
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
   - '1610 m.'
+  - '1614 m.'
   - '1615 m.'
 date_start: '1610'
 date_end: '1615'
@@ -34,7 +35,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o aplink juos buvo duodama po valaką valstiečiams. Šiuos palivarkus miestiečiai valdė paveldimai, parduodavo juos ar pirkdavo, energingiausi plėsdavo dirbamos žemės plotus braudamiesi į miesto girią. 1614 m. Jonas Kojalavičius, eidamas miesto ūkvedžio pareigas, teisme aiškinosi nepasirengęs bylai dėl Fredoje esančio palivarko, nes buvo užsiėmęs miesto reikalais.
+Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o aplink juos buvo duodama po valaką valstiečiams.
 
 ## Teiginiai
 
@@ -67,12 +68,22 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
 <a id="claim-t-202349"></a>
 - t-003
   teiginys: "1614 m. Jonas Kojalavičius, eidamas miesto ūkvedžio pareigas, teisme aiškinosi nepasirengęs bylai dėl Fredoje esančio palivarko, nes buvo užsiėmęs miesto reikalais."
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Freda (vieta): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "palivarkas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Freda (vieta): mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"palivarkas\" parinktas kaip owner_note_path. Targetas \"Freda (vieta)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  temporaliniai_duomenys: "įvykio data: 1614 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Jono Kojalavičiaus pareigas, datą, teismo aplinkybes ir bylos objektą. Priežastis dėl nepasirengimo paimta tiesiogiai iš citatos."
   vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185696
@@ -82,7 +93,8 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
 - id: c-176024
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 260."
   citata_originali: |
     Miestų žemės irgi buvo atskirtos.
     Išmatavus žemę, geriausiose vietose buvo steigiami dvarai
@@ -98,9 +110,9 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
     - t-001
 
 - id: c-184851
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 301."
   citata_originali: |
     Už tokį žemės plotą reikėjo mokėti
     1 kapą grašių per metus.
@@ -117,11 +129,12 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
     - t-002
 
 - id: c-185696
+  autorius: "Zigmantas Kiaupa"
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 4"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 4."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:24"
   pagrindzia:
     - t-003

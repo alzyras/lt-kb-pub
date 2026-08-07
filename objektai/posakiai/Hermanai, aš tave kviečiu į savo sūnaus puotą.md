@@ -65,7 +65,8 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
 - id: c-59728
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 113."
   citata_originali: |
     85 (82). Apie tai, kaip iš anksto buvo išpranašautas šis mūšis
     Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su

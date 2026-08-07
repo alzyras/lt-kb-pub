@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-983df4d5588f71b9b8164cc1"
+canonical_name: "Chlepenis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Chlepenis"]
+sameAs: []
+canonical_biography: "Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaikštystei. Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas."
+place_authority: true
+historical_names: []
 ---
 # Chlepenis
 

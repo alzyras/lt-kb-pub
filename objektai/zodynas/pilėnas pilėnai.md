@@ -268,7 +268,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 - id: c-59429
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 199."
   citata_originali: |
     Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
 
@@ -293,7 +294,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 - id: c-59430
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
     Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
 
@@ -316,7 +318,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 - id: c-59432
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
   citata_originali: |
     Apie vieną brolių karo laivą
     Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
@@ -335,7 +338,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 - id: c-59433
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     280 (273). Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
     Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
@@ -358,7 +362,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 - id: c-59434
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
   citata_originali: |
     Su jais ir su visa Kulmo žemės bei gretimų
     žemių brolių kariuomene brolis Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, bei
@@ -382,7 +387,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 - id: c-59435
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
   citata_originali: |
     1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
     Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho  ir iš
@@ -410,7 +416,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 - id: c-59436
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
                                           lies bei miesto paėmimą
@@ -436,7 +443,8 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 - id: c-59437
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     Dar apie tą patį
     Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,

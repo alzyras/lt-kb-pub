@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d7b521a1a657377f3ca0affe"
+canonical_name: "Kotryna II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kotryna II"]
+sameAs: []
+canonical_biography: "Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus mirė carienė Elžbieta, caras Petras III buvo pašalintas nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė). Kotrynos II (1762—1796 m.) laikais Rusija jau pradėjo vadovauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir vakarų Europos konfliktus, ir jos žodis ten nusverdavo."
 ---
 # Kotryna II
 
@@ -154,7 +161,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-04159
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 37."
   citata_originali: |
     Tie panašumai, kiek jie lietė vakarų kaimyną
     Lietuvą, labiausiai krito į akis. Abu rusų valdovai stengėsi savo
@@ -174,7 +182,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-04160
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 47."
   citata_originali: |
     Septynerių metų karo (1756-1763) pradžioje carės
     Elzbietos (1741-1761) generolai traukė į Prūsus su savo pulkais per
@@ -196,7 +205,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-64767
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 409"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 409."
   citata_originali: |
     Tuo metu Čartoriskiai pasiun-
     tė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-
@@ -218,7 +228,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-64769
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 450"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 450."
   citata_originali: |
     Dabar tarp Prūsijos ir Rusijos jau ėjo derybos, ir
     Prūsija buvo įsitikinusi, kad po šito karo teks ir jai šis tas.
@@ -238,7 +249,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-64773
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 411"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 411."
   citata_originali: |
     Nuo Petro laikų su
     ja jau buvo skaitomasi, jos jau nebeaplenkė, sprendžiant
@@ -259,7 +271,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-177311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 125."
   citata_originali: |
     Be to, 1253 metų kryžiuočių kampanijos tikslas bu­
     vo pirmiausia nusiaubti Bartą ir Galindą. Tai lėmė, kad
@@ -287,7 +300,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-177312
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 128."
   citata_originali: |
     Rusai laimėjo tik tiek, kad savo ginklais nubaidė
     jotvingius toli nuo savo sienų, daugybė jų susitelkė prie

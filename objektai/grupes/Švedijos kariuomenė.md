@@ -81,7 +81,8 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 - id: c-42993
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 98."
   citata_originali: |
     Mūšio išvakarėse
 
@@ -104,7 +105,8 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 - id: c-44881
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 102."
   citata_originali: |
     J. K. Chodkevičius siekė neleisti švedams
     susijungti, tačiau to padaryti nepavyko ir

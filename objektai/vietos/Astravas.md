@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b3ee19cfef4b7990aea42ca"
+canonical_name: "Astravas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Astravas"]
+sameAs: []
+canonical_biography: "1392 m. rugpjūčio 4 d. Astrave, netoli Lydos, buvo rašyti du aktai dėl Vytauto padėties."
+place_authority: true
+historical_names: []
 ---
 # Astravas
 
@@ -37,7 +46,7 @@ media_all_json: |-
 <a id="claim-t-199241"></a>
 - t-001
   teiginys: "1392 m. rugpjūčio 4 d. Astrave, netoli Lydos, buvo rašyti du aktai dėl Vytauto padėties."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Sakinys pilnas, tikslus ir paremtas paaiškinimo citata."
@@ -46,6 +55,7 @@ media_all_json: |-
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Sakinys pilnas, tikslus ir paremtas paaiškinimo citata."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-181774
 

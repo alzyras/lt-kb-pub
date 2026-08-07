@@ -47,9 +47,9 @@ Nesutarimai dėl judėjimo keliais laisvės buvo kilę ir tarp dviejų didžiųj
 ## Citatos
 
 - id: c-185651
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 223"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 223."
   citata_originali: |
     Nesutarimai dėl judėjimo keliais laisvės buvo kilę ir tarp dviejų didžiųjų Lietuvos
     miestų Vilniaus ir Kauno. Vilniaus miestas, remdamasis 1605 m. Zigmanto Vazos

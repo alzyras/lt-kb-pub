@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ecca4a926a6059d8f144d8d"
+canonical_name: "Jonas Lasickis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Lasickis","Jonas Lasickis"]
+sameAs: []
+canonical_biography: "Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodžiai esą padaryti dievų vardais^41."
 ---
 # Jonas Lasickis
 
@@ -115,15 +122,22 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
 <a id="claim-t-188421"></a>
 - t-005
   teiginys: "Narbutas rašo, kad Lasickis pateikė po Ilgių šventės atliekamų mirusiųjų pagerbimo apeigų aprašymą."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lasickis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Lasickis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickis\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171310
+    - c-171311
 
 <a id="claim-t-188423"></a>
 - t-006
@@ -251,7 +265,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
 - id: c-32971
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 58."
   citata_originali: |
     Stanevičius apreiškė sveiką ir kritišką nusista­
     tymą link kai kurių abejotinos vertės šaltinių^40. Pvz., Stanevičius
@@ -272,7 +287,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
 - id: c-171305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
   citata_originali: |
     Burtininkė (Burte)
     Lietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­
@@ -290,7 +306,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
 - id: c-171308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 332"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 332."
   citata_originali: |
     Papjumenė (Papiumene)
     Pjūties šventė. Ji švenčiama liepos mėnesį, pradėjus rugiap­
@@ -310,7 +327,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
 - id: c-171309
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 334."
   citata_originali: |
     Žemdirbių šventė baigiasi vėly­
     vą naktį vaišėmis, muzika, dainomis. Tačiau senovėje, be šito
@@ -335,7 +353,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
 - id: c-171310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 340."
   citata_originali: |
     Vaižgantas mums bus maloningas, nes Baniutė, mū­
     sų kaimo gražiausia mergelė, be rikto išstovėjo ant vienos ko­
@@ -345,16 +364,15 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   citata_rodoma: "Vaižgantas mums bus maloningas, nes Baniutė, mū­\nsų kaimo gražiausia mergelė, be rikto išstovėjo ant vienos ko­\njos“. Lasickis, šių apeigų liudytojas, priduria, kad už tikėjimą\nsulaukdavę atpildo. Yra ir kitokių padavimų, kuriais pasinau­\ndojome šiame aprašyme."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
 - id: c-171311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 387"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 387."
   citata_originali: |
     Tai visiškai primena Antikos žmonių
     Circumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-
@@ -367,14 +385,17 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   citata_rodoma: "Tai visiškai primena Antikos žmonių\nCircumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-\nlonas bandė išnaikinti Atėnuose, o decemvirai -  Romoje. Be\nšitų iškilmių, kiekviena šventė, išskyrus Rasos šventę, baigda­\nvosi minėjimu mirusiųjų garbei: Lasickis iš savo žinių pateikia\napeigų mirusiųjų garbei, atliekamų po Ilgių šventės, aprašymą.\nTa diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai­\nmas visiems savo mirusiesiems pagerbti."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-171313
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 502"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 502."
   citata_originali: |
     Istorikas naudojosi ir lenkišku vertimu, dar
     1823 metais išspausdintu Vilniaus periodikoje (Mi­
@@ -393,7 +414,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
 - id: c-179117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 34."
   citata_originali: |
     Viduryje erd­
     vios trobos arba klojime statydavo kėdutę arba aukštą kilno­
@@ -416,7 +438,8 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
 - id: c-179118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 337"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 337."
   citata_originali: |
     Erdvios trobos viduryje arba klojime statyda­
     vo kėdutę arba aukštą kilnojamą suolą; gražioji aukotoja bal­

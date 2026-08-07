@@ -167,7 +167,8 @@ Nenurodyta
 - id: c-169884
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 97."
   citata_originali: |
     Didysis kunigaikštis Vytautas prieš Ria-
     zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
@@ -189,7 +190,8 @@ Nenurodyta
 - id: c-178911
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 98."
   citata_originali: |
     Šeši tūkstančiai devyni šimtai devintaisiais metais
     kunigaikštis Jurijus Svetoslavovičius bei Riazanės ku­

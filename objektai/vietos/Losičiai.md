@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae8e748252518995d485096d"
+canonical_name: "Losičiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Losičiai"]
+sameAs: []
+canonical_biography: "Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir Čirčinsko že­ mėmis ir visais Smolnėnų ir Čirčinsko žmonėmis, panašiai ir dvarą, vadinamą Horodišče, ir Losičius su visomis Horodiščės ir Losičių žemėmis ir, žinoma, su visais."
+place_authority: true
+historical_names: []
 ---
 # Losičiai
 
@@ -50,7 +59,8 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
 - id: c-82187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 377."
   citata_originali: |
     IV  KNYGA
     dvarams. Taip pat kitus kaimus prie Teterino dvaro, išsi­

@@ -43,7 +43,8 @@ Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė t
 - id: c-67331
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 638"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 638."
   citata_originali: |
     Šerno redaguojamoji „Lietuviška Ceitunga"
     net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat,

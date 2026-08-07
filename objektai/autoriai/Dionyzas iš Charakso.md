@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-897520da5e36fea87390d303"
+canonical_name: "Dionyzas iš Charakso"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dionyzas iš Charakso"]
+sameAs: []
+canonical_biography: "Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įteka į Šiaurės jūrą. Dionyzas iš Charakso Oktaviano Augusto laikais aprašinėdamas pasaulį minėjo Pantikapo ir Aldeskos upes prie gintaro pakrančių jūros."
 ---
 # Dionyzas iš Charakso
 
@@ -52,22 +59,30 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
 <a id="claim-t-191563"></a>
 - t-002
   teiginys: "Dionyzas iš Charakso Oktaviano Augusto laikais aprašinėdamas pasaulį minėjo Pantikapo ir Aldeskos upes prie gintaro pakrančių jūros."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dionyzas iš Charakso: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dionyzas iš Charakso\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-174444
+    - c-174445
 
 ## Citatos
 
 - id: c-174444
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
   citata_originali: |
     Bet turbūt
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
@@ -86,12 +101,12 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-174445
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
   citata_originali: |
     Dionyzas iš Charakso, imperatoriaus Oktaviano
     Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi
@@ -104,7 +119,8 @@ Dionyzas iš Charakso rašė apie gintarą, randamą ten, kur Aldeskos upė įte
   citata_rodoma: "Dionyzas iš Charakso, imperatoriaus Oktaviano\nAugusto laikais aprašinėjęs pasaulį geografiškai, mini dvi\nupes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,\njungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be\nabejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­\ntojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­\nnės sutampa. Sis geografas pastarosios aukštupyje kuo\naiškiausiai apgyvendina gelonų tautą2."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

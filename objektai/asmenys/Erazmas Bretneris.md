@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-16accab4b27fa29c41e99a92"
+canonical_name: "Erazmas Bretneris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Erazmas Bretneris"]
+sameAs: []
+canonical_biography: "Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas buvo Vilniaus burmistras ir auksaka­ lys (Proconsul et aurifex) Erazmas Bretneris."
 ---
 # Erazmas Bretneris
 
@@ -62,7 +69,8 @@ Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas b
 - id: c-83639
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 198."
   citata_originali: |
     Jono Kolegijos Vaistinės kronika
     1546. Žygimanto Augusto laikais to mūrinio namo vie­

@@ -55,7 +55,8 @@ Tūkstančiui rinktinių anglų 21 To įsidėmėtino žygio į Vilnių apra­ š
 - id: c-84398
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135."
   citata_originali: |
     Galop ta galinga kariauna išsiruošė į
     žygį vedama vyriausiojo vado Ordino maršalo Engelhardo

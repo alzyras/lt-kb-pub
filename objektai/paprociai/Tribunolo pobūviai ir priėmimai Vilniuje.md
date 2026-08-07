@@ -33,7 +33,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius. 1751 m. tribunolo maršalas Juozapas Antanas Solohubas ir Antanas Solohubas pakvietė Lopacinskį prie mažojo staliuko Paneriuose.
+XVIII a. vidurio Vilniuje tribunolo veikla tęsėsi ir po posėdžių: Jonas Dominykas Lopacinskis dalyvaudavo pobūviuose su tribunolo vadovais ir bajorų grupuočių lyderiais, buvo kviečiamas prie mažojo staliuko, o Tribunolo maršalo aplinka lankydavosi pietuose Antakalnyje.
 
 ## Laikotarpis ir datos
 
@@ -67,28 +67,29 @@ Nenurodyta
 
 <a id="claim-t-200555"></a>
 - t-001
-  teiginys: "1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Lopacinskį Antakalnyje prieš kelionę į Panerius."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "1752 m. Tribunolo maršalas Simonas Sirutis su žmona ir kolegomis pietavo pas Joną Dominyką Lopacinskį Antakalnyje prieš išvykdamas nakvynės į Panerius."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "keliavo_i -> Paneriai: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Simonas Sirutis (tribunolo maršalas, XVIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Paneriai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Simonas Sirutis turėjo išvykti nakvynei į Panerius."
+  ryšio_patikimumas: "susije_su -> Paneriai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tribunolo pobūviai ir priėmimai Vilniuje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Paneriai: mention_match, place, gap=134"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tribunolo pobūviai ir priėmimai Vilniuje\" parinktas kaip owner_note_path. Targetas \"Paneriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1752 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie 1752 m. pietus Antakalnyje. Jis tiesiogiai paremtas citata."
+  temporalinis_llm_pakomentavimas: "Veiksmas susietas su Lopacinskio namais Antakalnyje ir kelionės į Panerius aplinkybe. Išlaikytas citatoje nurodytas 1752 m. įvykis."
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
   pagrindžia:
     - c-183947
 
 <a id="claim-t-200556"></a>
 - t-002
-  teiginys: "1751 m. tribunolo maršalas Juozapas Antanas Solohubas ir Antanas Solohubas pakvietė Lopacinskį prie mažojo staliuko Paneriuose."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "1751 m. Paneriuose Tribunolo maršalas Juozapas Antanas Solohubas ir LDK artilerijos generolas Antanas Solohubas be ceremonijų pakvietė Joną Dominyką Lopacinskį prie mažojo staliuko."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Antanas Solohubas (LDK artilerijos generolas, XVIII a.): 0.85"
@@ -101,7 +102,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1751 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susieja tribunolo pareigūnus, Lopacinskį ir Panerių mažąjį staliuką. Kortų lošimas nepridėtas kaip tikras faktas."
+  temporalinis_llm_pakomentavimas: "Patikslinti pareigų pavadinimai, vieta ir pilnas Lopacinskio vardas. Neįrašyta citatoje tik hipotetiškai nurodyta veikla prie staliuko."
   pagrindžia:
     - c-183947
 
@@ -114,7 +115,7 @@ Nenurodyta
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 04:19"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
     - t-002

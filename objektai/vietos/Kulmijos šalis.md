@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6f083fd39541155e86157a96"
+canonical_name: "Kulmijos šalis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kulmijos šalis"]
+sameAs: []
+canonical_biography: "Daugiausia buvo varginama Kulmijos šalis."
+place_authority: true
+historical_names: []
 ---
 # Kulmijos šalis
 
@@ -51,7 +60,8 @@ Daugiausia buvo varginama Kulmijos šalis.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 153."
   citata_originali: |
     Tačiau šį kartą Vytautui neteko
     su Ordino kariuomene susitikti atvirame mūšyje, nes vokiečiai

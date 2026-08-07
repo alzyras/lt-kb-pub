@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c67e45485e645558115d0eca"
+canonical_name: "Rezlis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rezlis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258. Dusburgietis teigia, kad 258 D.— Resel (dab. Rešelis)— į šiaurės rytus nuo Olštino. Vardas kildinamas iš prūsų kalbos — GAO, p. 141; Rymut K., Nazwy.., p. 205. Iš pradžių kryžiuočių pilaitė, medžiožemių įtvirtinimai. Varmės vyskupo pilis statyta 1350—1450 m. Sudegusi XIII a. vidurio."
+place_authority: true
+historical_names: []
 ---
 # Rezlis
 
@@ -79,7 +88,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - id: c-59253
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     258 D.— Resel (dab. Rešelis)— į šiaurės rytus nuo Olštino. Vardas kildinamas iš prūsų
     kalbos — GAO, p. 141; Rymut K., Nazwy.., p. 205. Iš pradžių kryžiuočių pilaitė, medžio-
@@ -97,7 +107,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - id: c-167580
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
 

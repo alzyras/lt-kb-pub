@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ca6bf786d6acb6fdb925d1cb"
+canonical_name: "Maskolija (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Maskolija","Maskolija (vieta)"]
+sameAs: []
+canonical_biography: "Pasak J. Basanavičiaus, J. Miklašis buvo sulaikytas pasienyje grįždamas į Maskoliją dėl melagingo skundo."
+place_authority: true
+historical_names: []
 ---
 # Maskolija (vieta)
 

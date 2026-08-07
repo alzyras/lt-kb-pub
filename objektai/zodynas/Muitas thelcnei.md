@@ -50,7 +50,8 @@ Vilniaus miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­ je L
 - id: c-82480
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 49."
   citata_originali: |
     Ši ga­
     lūnė net labai panaši į dabartinių

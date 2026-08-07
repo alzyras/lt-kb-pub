@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b10aa3b1bc0a8a84eabb1106"
+canonical_name: "Vilniaus monetų kalykla"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["minca","U Wilni","Vilniaus monetų kalykla"]
+sameAs: []
+canonical_biography: "Vilniaus monetų kalykla Aleksandro laikų kontekste aprašoma kaip Ulriko Hozijaus prižiūrima įstaiga, teikusi karaliaus iždui nemaža pajamų. Lietuvos Metrikos išrašas pateikia jos pajamų apskaitos formulę Vilniuje."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus monetų kalykla
 
@@ -101,7 +110,8 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
 - id: c-55853
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
@@ -122,7 +132,8 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
 - id: c-55854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Lietuvos Metrikoje apie tai yra tokia
     žinia: U Wilni Jiunia 9 dien Indykt 2.
@@ -149,7 +160,8 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
 - id: c-81228
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­
     matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­

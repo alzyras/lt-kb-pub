@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9bf3f4eb55bed5a550b7959c"
+canonical_name: "Ennodius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ennodius"]
+sameAs: []
+canonical_biography: "Visa tai lėmė, jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis 1 Ennodius."
 ---
 # Ennodius
 
@@ -46,7 +53,8 @@ Visa tai lėmė, jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis 1 Enno
 - id: c-177272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
   citata_originali: |
     Visa tai lėmė,
     jog romėnai slapta nuvyko pas Zenoną prašyli, kad jis

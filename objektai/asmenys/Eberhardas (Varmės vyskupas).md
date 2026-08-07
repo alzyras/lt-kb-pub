@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cde330001755e20816cab46b"
+canonical_name: "Eberhardas (Varmės vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eberhardas (Varmės vyskupas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varmės vyskupas, brolio Fridricho iš Libencelės, savo fogto, pastangomis pastatydino pagonis lietuvius, nors turime duomenų, jog patys kryžiuočiai siaubė krikščionių žemes, netgi vyskupų valdas (žr."
 ---
 # Eberhardas (Varmės vyskupas)
 
@@ -79,7 +86,8 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
 - id: c-78759
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 108-109"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 108-109."
   citata_originali: |
     Pavyzdžiui, abatai iš Olivos ir Pel-
     plino 1323 metais praneša popiežiui: Ex nuper actis patefeci­
@@ -117,7 +125,8 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
 - id: c-78760
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 91."
   citata_originali: |
     I  KNYGA
     čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­

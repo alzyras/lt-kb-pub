@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e07923ca1670b1f08e545929"
+canonical_name: "Cartoryskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Cartoryskas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Cartoryskas
 

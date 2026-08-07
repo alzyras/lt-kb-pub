@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab1ca0b7843d8b02ff3f59b4"
+canonical_name: "Krautuvių Pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krautuvių Pilis"]
+sameAs: []
+canonical_biography: "Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28. Viena jų va­ dinama Krautuvių Pilimi, kurioje su­ sirinko keletas tūkstančių ginkluotų žmonių, vyresnieji bei abiejų lyčių prastuomenė, - ir pilies ginti, ir ieš­ kodami ten saugaus prieglobsčio. Ar išdaviko, ar priešo sumaniai padegta ugnis staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį."
+place_authority: true
+historical_names: []
 ---
 # Krautuvių Pilis
 
@@ -83,7 +92,8 @@ media_all_json: |-
 - id: c-81917
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139."
   citata_originali: |
     Svetimšalių ataka buvo
     smarki, tačiau ir lietuvių gynyba iš pradžių ne mažiau nar­
@@ -106,7 +116,8 @@ media_all_json: |-
 - id: c-81918
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 138."
   citata_originali: |
     Prie jos šliejosi
     pats miesto centras, nedidelis, su mediniais namais, bet su
@@ -131,7 +142,8 @@ media_all_json: |-
 - id: c-81919
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 138."
   citata_originali: |
     28
     Das Cromehus arba Kromhus - senuo­

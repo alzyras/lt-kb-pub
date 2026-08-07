@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8dcf1e8b75a1580f7c0cac6b"
+canonical_name: "Ovidijus Nazonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ovidijus Nazonas"]
+sameAs: []
+canonical_biography: "Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir Dunojaus prie Juodosios jūros. Narbutas rašė, kad imperatoriaus Augusto laikais Ovidijus Nazonas iki mirties gyveno „mūsų kraštuose“. Narbutas Ovidijų Nazoną priskyrė autoriams, kalbėjusiems apie vandens lygio kritimą ir pateikusiems jo įrodymų."
 ---
 # Ovidijus Nazonas
 
@@ -53,7 +60,7 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
 <a id="claim-t-191169"></a>
 - t-002
   teiginys: "Narbutas rašė, kad imperatoriaus Augusto laikais Ovidijus Nazonas iki mirties gyveno „mūsų kraštuose“."
-  atnaujinta: "2026-07-19 18:44"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -138,7 +145,8 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
 - id: c-174050
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
   citata_originali: |
     Iš tų senovės istorikų pateiktų žinių pa­
     aiškėja, ta tiesa, jog jotvingiai buvo sarmatą* kilmės
@@ -161,7 +169,8 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
 - id: c-174051
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 169."
   citata_originali: |
     Priminsiu tik, jog
     Ovidijus, garsus vyras, senatorius, išsilavinęs ir turtingas, be to,
@@ -191,7 +200,8 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
 - id: c-174052
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
@@ -222,7 +232,8 @@ Narbutas Ovidijaus Nazono tremties laiką siejo su jotvingių klajojimu tarp Dne
 - id: c-179340
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
   citata_originali: |
     Maždaug tuo metu, kai
     Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir

@@ -98,7 +98,8 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 - id: c-42861
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 238."
   citata_originali: |
     1948 m. sunkvežimio netoli Onuškio susprogdinimas su 19 vietinės įgulos
     karių. V. Voveris žuvo 1949 m. MGB užverbuotiems agentams K. Kubilinskui-
@@ -115,7 +116,8 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 - id: c-42862
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     X GULBINIŠKIŲ KAUTYNĖS
 
@@ -133,7 +135,8 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 - id: c-176237
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 214."
   citata_originali: |
     Nors partizaninis karas, kovojant vienų vieniems, ir pralaimėtas, jo
     reikšmė didelė. Visuotinį šio karo mastą rodo okupantų baudžiamųjų ak-

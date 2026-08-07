@@ -32,7 +32,7 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 <a id="claim-t-63147"></a>
 - t-001
   teiginys: "Nameda, Pasdraupučio motina iš Mantiminų giminės, paragino sūnus ginti savo gyvybę ir gentį nuo priešų."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Bartenšteinas: 0.83"
@@ -52,7 +52,8 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 - id: c-64122
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
     tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
@@ -71,7 +72,8 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 - id: c-64123
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
     Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-04be1d64761968dce1a97cf8"
+canonical_name: "A. Janulaitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Janulaitis"]
+sameAs: []
+canonical_biography: "Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936)."
 ---
 # A. Janulaitis
 
@@ -58,7 +65,8 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
 - id: c-03966
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 68."
   citata_originali: |
     Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923),
     «Vyriausias Lietuvos Tribunolas XVI-XVIII amž. » (1927), «Užne­

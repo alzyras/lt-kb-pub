@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d34d1e837a6144a11868d375"
+canonical_name: "Egidijus (arkivyskupas, XIV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Egidijus","Egidijus (arkivyskupas, XIV a.)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol."
 ---
 # Egidijus (arkivyskupas, XIV a.)
 
@@ -54,7 +61,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60903
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241."
   citata_originali: |
     „Ir dievas matė visa, ką buvo padaręs, ir buvo labai gera”, ir nebuvo
     nieko tokio, ko padaręs neapkęstų. Jis nepakenčia tik niekingos nuodėmės, jis tik ją

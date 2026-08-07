@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6824317e3af819fe11862300"
+canonical_name: "Ignas Danilavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ignas Danilavičius"]
+sameAs: []
+canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių (Danilowicz)^37 , kuris pirmasis sudarė Lietuvos istorijai reikalingų dokumentų ar jų santraukų (regestų) rinkinį lenkų kalba, pradedant nuo Herodoto. Janulaitis : Ignas Danilavičius, Kaunas 1932."
 ---
 # Ignas Danilavičius
 
@@ -162,7 +169,8 @@ media_all_json: |-
 - id: c-78439
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 57."
   citata_originali: |
     Lelevelis buvo ne tik labai populiarus
     dėstytojas, bet jis yra daręs įtakos ir kitiems jaunesniems istorijos
@@ -183,7 +191,8 @@ media_all_json: |-
 - id: c-78440
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 10."
   citata_originali: |
     Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi. Kita vertus, pirmoje
@@ -204,7 +213,8 @@ media_all_json: |-
 - id: c-78441
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 10."
   citata_originali: |
     Kita vertus, pirmoje
     dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
@@ -227,7 +237,8 @@ media_all_json: |-
 - id: c-171294
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     Išsamesnėms krašto praeities studijoms istoriką galė­
     jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
@@ -249,7 +260,8 @@ media_all_json: |-
 - id: c-177057
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Duomenų apie tai mums
     paliko Strijkovskis.
@@ -273,9 +285,9 @@ media_all_json: |-
     - t-005
 
 - id: c-184295
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 5"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 5."
   citata_originali: |
     Lietuviškų šaltinių Daukantas tuomet žinojo ma­
     žai. Vienintelį kartą jis mini Lietuvos metraščio Su-

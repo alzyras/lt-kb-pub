@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c9385bb00c6705bf4f489881"
+canonical_name: "Kurkliai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["iš Kurklių v.","Kurkliai"]
+sameAs: []
+canonical_biography: "Kurkliai 1931 m. Tautosakos komisijos suvestinėje minimi kaip pateikėjos kilmės vieta."
+place_authority: true
+historical_names: []
 ---
 # Kurkliai
 

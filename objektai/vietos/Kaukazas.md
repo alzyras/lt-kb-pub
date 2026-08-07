@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bee9dcbd610b45b001681d13"
+canonical_name: "Kaukazas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kaukazas"]
+sameAs: []
+canonical_biography: "Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ liavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą. Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie pasirodė apie trečio tūkstantmečio pr."
+place_authority: true
+historical_names: []
 ---
 # Kaukazas
 
@@ -72,7 +81,8 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 - id: c-33872
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 106."
   citata_originali: |
     Su tam tikru pagrindu virvelinės kera­
     mikos kultūros šaknų yra ieškoma pietų Rusijoje. Jos nešėjai
@@ -92,7 +102,8 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 - id: c-175439
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
   citata_originali: |
     Šioms tolimos senovės epo­
     choms priskirtina ir kolchų tauta, nors ji gerokai vėliau

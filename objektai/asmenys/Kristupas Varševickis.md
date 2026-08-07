@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e580485b9b2014f88d6ed23d"
+canonical_name: "Kristupas Varševickis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristupas Varševickis"]
+sameAs: []
+canonical_biography: "51 Šis pareiškimas buvo išsakytas ka­ pitulos susirinkime vyskupo rū­ muose 1572 metų žiemą, dalyvau­ jant kun. Varševickiui, jėzuitų rektoriui."
 ---
 # Kristupas Varševickis
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-83739
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 302."
   citata_originali: |
     Daugiausia
     žinių apie šį nepaprastą žmogų ga­

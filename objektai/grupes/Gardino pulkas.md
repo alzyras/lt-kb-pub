@@ -57,7 +57,8 @@ Kaime buvo įsikūręs lenkų brigados ir Gardino pulko štabas, lauko artilerij
 - id: c-75474
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 208."
   citata_originali: |
     Lietuviai sugulė greta kaimo esančio miš-
     kelio pakraštyje. Kaime buvo įsikūręs lenkų

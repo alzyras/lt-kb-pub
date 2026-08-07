@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a956e6e1cc594fb913ae13f0"
+canonical_name: "Panemunė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Panemunė"]
+sameAs: []
+canonical_biography: "Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė ir patsai Vilniaus miestas."
+place_authority: true
+historical_names: []
 ---
 # Panemunė
 
@@ -90,7 +99,8 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 31."
   citata_originali: |
     1380 metų vasario mėn. jis jau vienas
     pats padarė su Livonijos magistru Vilhelmu von Vrymersheimu
@@ -111,7 +121,8 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
 - id: c-68355
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 546"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 546."
   citata_originali: |
     Dau-
     gelis ūkininkų su šeimomis ir beveik visa inteligentija buvo iš-
@@ -129,9 +140,9 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
     - t-002
 
 - id: c-184999
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 243"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 243."
   citata_originali: |
     Šie ener-
     gingai ėmėsi girilĮ eksploatavimo, didžiausias jėgas suteIkdami į panemunilĮ girias

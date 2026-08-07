@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7a263367c3a4275928afe92e"
+canonical_name: "Karlas Riteris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karlas Riteris"]
+sameAs: []
+canonical_biography: "Narbutas rėmėsi Karlo Riterio veikalu aiškindamas, kad kolchai giminiavosi su indais ir davė pradžią budinų genčiai prie Dono."
 ---
 # Karlas Riteris
 
@@ -54,7 +61,8 @@ Narbutas rėmėsi Karlo Riterio veikalu aiškindamas, kad kolchai giminiavosi su
 - id: c-174132
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
   citata_originali: |
     Pernelyg išsiplėstume, jei įsigilintume į kolchų, beje,
     mums artimą gentį, tad remkimės tik moksliniu ir kruopš­

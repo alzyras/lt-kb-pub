@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a3a06097a268a63e980319fe"
+canonical_name: "Taučiūnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Taučiūnai"]
+sameAs: []
+canonical_biography: "Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių)."
+place_authority: true
+historical_names: []
 ---
 # Taučiūnai
 
@@ -74,7 +83,8 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 - id: c-156446
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 174."
   citata_originali: |
     Patruliui priskirtas kulkosvaidis
     su 5 vokiečių kulkosvaidininkais ir dviem
@@ -94,7 +104,8 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 - id: c-156447
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 174."
   citata_originali: |
     Raudonarmiečiai
     ėmė trauktis. Tačiau kitą akimirką į žval-

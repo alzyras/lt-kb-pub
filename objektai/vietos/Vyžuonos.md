@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5446e0a757555e5eaa2d2aaa"
+canonical_name: "Vyžuonos"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vyžuonos"]
+sameAs: []
+canonical_biography: "Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padaliniai prie kario diržo įsitvirtino Vyžuonose ir Vyžuonų dvare."
+place_authority: true
+historical_names: []
 ---
 # Vyžuonos
 
@@ -62,7 +71,8 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
 - id: c-45445
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 186."
   citata_originali: |
     Tolesnio puo-
     šovininės, tvirtinamos limo buvo atsisakyta. Kolonos padaliniai
@@ -82,7 +92,8 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
 - id: c-45446
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 186."
   citata_originali: |
     Prie Debeikių
     puolantieji susidūrė su priešo pėstininkais,

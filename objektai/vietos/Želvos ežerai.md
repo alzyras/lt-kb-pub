@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2d98ea919f1ec3a729f97b1f"
+canonical_name: "Želvos ežerai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Želvos ežerai"]
+sameAs: []
+canonical_biography: "toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo."
+place_authority: true
+historical_names: []
 ---
 # Želvos ežerai
 
@@ -74,7 +83,8 @@ toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe i
 - id: c-46874
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 565"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 565."
   citata_originali: |
     12 d. Maskvoje. Rusija pripažino Lietuvos atsiskyrimą
     ir visišką jos nepriklausomybę lietuvių gyvenamoje teritorijoje

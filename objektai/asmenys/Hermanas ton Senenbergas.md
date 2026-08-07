@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2d6b42833ca7558f0e40d793"
+canonical_name: "Hermanas ton Senenbergas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hermanas ton Senenbergas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Hermanas ton Senenbergas
 
@@ -64,7 +71,8 @@ Nenurodyta
 - id: c-169571
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 125."
   citata_originali: |
     Priešui at­
     remti magistro pasiųstas Hermanas ton Senenbergas,

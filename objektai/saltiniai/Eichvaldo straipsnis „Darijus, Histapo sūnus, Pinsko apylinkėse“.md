@@ -53,7 +53,8 @@ Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, Histapo sūn
 - id: c-174654
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
   citata_originali: |
     Ko
     gero, remdami Skitijos kolonistus graikus, persai palaikė

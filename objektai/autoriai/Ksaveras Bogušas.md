@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c1d316f0ee7e6a2c3bac2379"
+canonical_name: "Ksaveras Bogušas (kunigas, XIX a.)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ksaveras Bogušas","Ksaveras Bogušas (kunigas, XIX a.)","Ksavero Bogušo"]
+sameAs: []
+canonical_biography: "Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kurio knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą nuskambėjo mintis apie lietuvių kalbos tinkamumą atskirai aukštajai kultūrai."
 ---
 # Ksaveras Bogušas (kunigas, XIX a.)
 
@@ -219,7 +226,8 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 - id: c-22155
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę
     „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo
@@ -240,7 +248,8 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 - id: c-73208
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 110-111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 110-111."
   citata_originali: |
     Juolab kad kai kurie Eu-
     ropos mokslininkai lingvistai jau buvo nustatę, jog kalba, kuria kalba Lie-
@@ -264,7 +273,8 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 - id: c-171329
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
   citata_originali: |
     Pajūrio gyventojai šį dievaitį dar vadino Bangpūčiu (Bang-
     putis), mat manė, kad jis^iš lėto sūpuodamas jūros vandenis,
@@ -284,7 +294,8 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 - id: c-171330
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 449."
   citata_originali: |
     Bandymas kurti gryna lietuvių kalba:
     Ovidijaus „Metamorfozių“ fragmentas (II knygos 1-30 ei­
@@ -305,7 +316,8 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 - id: c-173635
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
   citata_originali: |
     Taigi ir lietuvių gentys, gyvenusios šiose že­
     mėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-
@@ -324,7 +336,8 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 - id: c-173636
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
   citata_originali: |
     95
     Pastabos. Mūsų mokslininkas, lietuvių istorijos tyri­

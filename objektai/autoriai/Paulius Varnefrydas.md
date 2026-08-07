@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9a1b7975344499c8559b8504"
+canonical_name: "Paulius Varnefrydas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Paulius Varnefrydas"]
+sameAs: []
+canonical_biography: "Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad pas herulus matęs žaliuojančius linų laukus ."
 ---
 # Paulius Varnefrydas
 
@@ -47,7 +54,8 @@ Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad p
 - id: c-177241
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
   citata_originali: |
     Kur tik buvo tos giminės žmonių, ten ma­
     tyta juos plačiai auginant linus. Paulius Varnefrydas, diako­

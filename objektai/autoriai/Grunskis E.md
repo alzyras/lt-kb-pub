@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5d72752f325914f8388a003f"
+canonical_name: "Grunskis E"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Grunskis E"]
+sameAs: []
+canonical_biography: "Grunskis E."
 ---
 # Grunskis E
 
@@ -61,7 +68,8 @@ Grunskis E.
 - id: c-22132
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Vilnius, 2006.
     Grunskis E. Lietuvos gyventojų trėmimai 1941, 1944–1953 metais. Vilnius,

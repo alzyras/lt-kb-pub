@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bccd9d493396f5b43ed64caf"
+canonical_name: "Antonievičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antonievičius"]
+sameAs: []
+canonical_biography: "Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsiėmė Antonievičius ir D. Vivulskį ir žuvus batalionų vadams majorams Antonievičiui, B."
 ---
 # Antonievičius
 
@@ -82,7 +89,8 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 - id: c-44286
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 163."
   citata_originali: |
     Merlino dalinio kariais ir ne-
     įvertino situacijos. Sukilėliai
@@ -107,7 +115,8 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 - id: c-44287
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 163."
   citata_originali: |
     Rusai forsavo upelį, su-
     kilėlių laikytą nepereinamu, ir
@@ -132,7 +141,8 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 - id: c-44288
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     sintus dalgius ir durtuvus. Batalionų vadais
 

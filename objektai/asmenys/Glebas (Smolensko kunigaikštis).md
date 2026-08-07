@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7af9dc05e7b10776a8b8174"
+canonical_name: "Glebas (Smolensko kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Glebas (Smolensko kunigaikštis)"]
+sameAs: []
+canonical_biography: "Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigaikštis Romanas ir jo sūnus Olegas, Smolensko kunigaikštis Glebas ir daug kitų, nes tuo metu rusėnų „visi kunigaikščiai totorių valioje buvo“."
 ---
 # Glebas (Smolensko kunigaikštis)
 
@@ -61,7 +68,8 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - id: c-44336
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 33."
   citata_originali: |
     1275 m. pradžioje chanas Mengu Timūras prieš Lietuvą pasiuntė
     kariuomenę, vadovaujamą Jagurčino, įsakęs eiti į žygį ir rusėnų

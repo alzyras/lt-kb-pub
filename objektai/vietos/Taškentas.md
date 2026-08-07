@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9b2ff99b5e2f03a42e8cb0a1"
+canonical_name: "Taškentas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Taškentas"]
+sameAs: []
+canonical_biography: "1975 ir 1979 m. Taškento konferencijų dalyviai sutarė dėl rusų kalbos stiprinimo SSRS – įvairaus lygio mokymo įstaigose papildomai dėstyti rusų kalbą, didinti rusų kalbos fakultatyvų valandų skaičių, sustiprinti aukštųjų mokyklų rusų kalbos katedrų kadrų."
+place_authority: true
+historical_names: []
 ---
 # Taškentas
 
@@ -59,7 +68,8 @@ media_all_json: |-
 - id: c-24508
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 223."
   citata_originali: |
     Vadovėliai, išskyrus lietuvių kalbos ir literatūros bei Lietuvos istorijos
     (jai buvo skirta mažai dėmesio, praeities įvykiai klastojami ir interpretuoja-

@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-41113
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Buvusi ten atėjusi Lietuvos kariuomenė, trys didžiausi pulkai. Vienas pulkas, Dolegos
     vedamas, antras kunigo Mackevičiaus, trečias kunigo Pežos-Palionio. Pirmajame visi

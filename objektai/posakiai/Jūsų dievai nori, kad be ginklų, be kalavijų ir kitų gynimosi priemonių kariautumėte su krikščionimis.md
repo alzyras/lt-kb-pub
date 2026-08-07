@@ -103,7 +103,8 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
 - id: c-85533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
   citata_originali: |
     Kai traukėsi atgal, kai kuriems belaisviams
     pavyko slapta pasprukti; šie, grįžę pas tikinčiuosius, papasakojo, kad netikėlių kariuomenė
@@ -125,7 +126,8 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
 - id: c-176944
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
   citata_originali: |
     Be kitų nuostolių, kurių ten pridarė, išsivarė su savimi grobį
     — nesuskaitomą daugybę žmonių ir gyvulių. Kai traukėsi atgal, kai kuriems belaisviams
@@ -147,7 +149,8 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
 - id: c-179018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
   citata_originali: |
     Būdami paprasti žmonės,  nestengė jo protu suvokti, o kadangi
     neturėjo rašto,  tai nė iš rašto jo negalėjo pažinti. Jie be galo stebėdavosi, sužinoję,

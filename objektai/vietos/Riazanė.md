@@ -36,6 +36,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cfb374c77598f3a9f19e8b59"
+canonical_name: "Riazanė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Riazanė"]
+sameAs: []
+canonical_biography: "Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėti joms didelę įtaką. 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi. Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos."
+place_authority: true
+historical_names: []
 ---
 # Riazanė
 
@@ -291,7 +300,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
 - id: c-32383
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 320."
   citata_originali: |
     Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
     ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
@@ -313,7 +323,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
 - id: c-32384
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 320."
   citata_originali: |
     Kai Vytautas ties Niekudavu (Ka­
     lugos gubern.) sutriuškino Riazanės kunigaikščio eiles, Vosyliui tai
@@ -332,7 +343,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 75."
   citata_originali: |
     Pily savo vietininkais Vytautas pali­
     ko kun. Jomantą ir Vosylių Boreikovičių (Boreiką) ir, neilgai
@@ -355,7 +367,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 282."
   citata_originali: |
     Palaikydamas labai gyvus politinius santykius
     su lenkais ir Ordinu, Vytautas turėjo visą laiką kreipti daug
@@ -378,7 +391,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
 - id: c-93189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 155-156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 155-156."
   citata_originali: |
     Paminėsime tad tik
     žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
@@ -412,7 +426,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
 - id: c-93192
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 320."
   citata_originali: |
     Maskvos valdovas
     tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar
@@ -430,7 +445,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
 - id: c-93193
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 174."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
@@ -458,7 +474,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
 - id: c-166476
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 156."
   citata_originali: |
     Be to, jis pats pasidarė
     savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu
@@ -476,7 +493,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
 - id: c-168484
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 201."
   citata_originali: |
     Be abejo, miestas ilgai būtų valiojęs stabdyti per­
     galingą lietuvių veržimąsi, jeigu Stanislovas būtų čia
@@ -500,7 +518,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
 - id: c-170592
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 98."
   citata_originali: |
     Šeši tūkstančiai devyni šimtai devintaisiais metais
     kunigaikštis Jurijus Svetoslavovičius bei Riazanės ku­

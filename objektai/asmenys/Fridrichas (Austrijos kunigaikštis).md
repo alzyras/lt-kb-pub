@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7173355df57d1c3eab192fdc"
+canonical_name: "Fridrichas (Austrijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas (Austrijos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti. Dusburgietis teigia, kad apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­ gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti."
 ---
 # Fridrichas (Austrijos kunigaikštis)
 
@@ -42,7 +49,7 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
 <a id="claim-t-194481"></a>
 - t-001
   teiginys: "Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,7 +75,8 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
 - id: c-60749
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 254."
   citata_originali: |
     Sis karalius neseniai buvo kunigaikštis,
     visai neseniai apaštališkasis sostas jį pakėlė į karalius, vildamasis, kad dėl to jis uoliau,
@@ -88,7 +96,8 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
 - id: c-60750
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
   citata_originali: |
     Nors
     apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai

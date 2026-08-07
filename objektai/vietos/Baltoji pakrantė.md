@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0406cd50fcbc15869ff3e26a"
+canonical_name: "Baltoji pakrantė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Baltoji pakrantė"]
+sameAs: []
+canonical_biography: "Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji pakrantė („Beloberežė“). Taigi galima teigti, kad senoji Baltoji pakrantė — tai šiaurinė Juodosios jūros pakrantė prie Dniepro-Bugo limano, besitęsianti nuo Dniepro žemupio iki Berezanės limano į vakarus nuo pietinio Bugo žiočių (su Dniepro pakrantėmis nuo žiočių kylant aukščiau."
+place_authority: true
+historical_names: []
 ---
 # Baltoji pakrantė
 
@@ -66,7 +75,8 @@ Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji p
 - id: c-45033
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 47."
   citata_originali: |
     Metraščių liudijimu, šalia
     Mėlynųjų Vandenų buvo nu-
@@ -94,7 +104,8 @@ Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji p
 - id: c-45034
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 47."
   citata_originali: |
     Tokia vietovė dar
     x a. viduryje minima Dniepro

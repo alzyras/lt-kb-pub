@@ -68,7 +68,8 @@ Politinė valstybė / politinis darinys.
 - id: c-170874
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 16."
   citata_originali: |
     Gilinantis į tau­
     tos ir asmenybės savitumą, išskirtinumą, atkreiptas dėmesys į

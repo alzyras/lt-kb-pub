@@ -154,7 +154,8 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
 - id: c-139019
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 147."
   citata_originali: |
     Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant is-
     torinę Lietuvos sostinę Vilnių Lenkijai, savotiškai lėmė, praleidęs progą pa-
@@ -174,7 +175,8 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
 - id: c-139020
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 152-153"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 152-153."
   citata_originali: |
     1923 m. sausio 17 d.
     VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
@@ -198,7 +200,8 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
 - id: c-139021
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 151."
   citata_originali: |
     VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
     teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
@@ -222,7 +225,8 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
 - id: c-166287
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 594"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 594."
   citata_originali: |
     **Derybos su didžiosiomis valstybėmis dėl Klaipėdos krašto
     perėmimo** buvo labai sunkios. Salia punktų, dėl kurių buvo

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4eff3025715cd8528a0b41f"
+canonical_name: "Hartmanas iš Grumbacho"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hartmanas iš Grumbacho"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartmanas iš Grumbacho, penktas Prūsijos žemės magistras, vadovavo trejus metus342."
 ---
 # Hartmanas iš Grumbacho
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartm
 - id: c-60932
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111."
   citata_originali: |
     Apie brolį Harimaną, Prūsijos magistrą
 

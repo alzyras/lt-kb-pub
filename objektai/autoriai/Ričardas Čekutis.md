@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b11c2af05244fa022918305d"
+canonical_name: "Ričardas Čekutis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ričardas Čekutis"]
+sameAs: []
+canonical_biography: "pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operacija 1919 Vytautas Lesčius 192 Augustavo-Suvalkų operacija 1920 Vytautas Lescius 196 Širvintų kautynės 1920 Vytautas Lesčius 204 Giedraičių kautynės 1920 Vytautas Lesčius 208 Klaipėdos."
 ---
 # Ričardas Čekutis
 
@@ -60,7 +67,8 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
 - id: c-44628
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 7-8"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 7-8."
   citata_originali: |
     Lietuvos karinė padėtis 1919 m. pavasarį - 1920 m. pradžioje
     Karolis Zikaras, Vytautas Lesčius 190

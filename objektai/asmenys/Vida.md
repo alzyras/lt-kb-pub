@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-51f6a4c1d9aa2770407573a4"
+canonical_name: "Vida"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vida"]
+sameAs: []
+canonical_biography: "Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė."
 ---
 # Vida
 
@@ -55,7 +62,8 @@ Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė.
 - id: c-177234
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
   citata_originali: |
     Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
     Jaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-62b470f78881ab048bc09b75"
+canonical_name: "Kupiškio apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kupiškio apskritis"]
+sameAs: []
+canonical_biography: "Priešo pajėgos 1949 m. lapkričio 1-2 dienomis MGB vidaus kariuomenės 137-0jo, 298-ojo šaulių pulkų kareivių pajėgomis buvo vykdomos karinės-čekistinės operacijos Kupiškio aps."
+place_authority: true
+historical_names: []
 ---
 # Kupiškio apskritis
 
@@ -59,7 +68,8 @@ Priešo pajėgos 1949 m. lapkričio 1-2 dienomis MGB vidaus kariuomenės 137-0jo
 - id: c-40300
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 245."
   citata_originali: |
     Priešo pajėgos
 

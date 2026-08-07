@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2c616316c58e9d389c105f0c"
+canonical_name: "Andrejus Sacharovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrejus Sacharovas"]
+sameAs: []
+canonical_biography: "Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus. Sacharovas ir 10 žymių rusų disidentų. Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių mokosi Rusijos ir kitų respublikų demokratai."
 ---
 # Andrejus Sacharovas
 
@@ -119,7 +126,8 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 - id: c-21578
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
     sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
@@ -142,7 +150,8 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 - id: c-21579
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     1979 m.
     rugpjūčio 23 d. LLL kreipėsi į JT Generalinę Asamblėją, reikalaudama
@@ -164,7 +173,8 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 - id: c-21580
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 246."
   citata_originali: |
     Šv. Mišios už Lietuvą buvo aukojamos Paryžiaus
     Dievo Motinos katedroje ir daugelyje pasaulio bažnyčių. Po 1991 m. sau-
@@ -183,7 +193,8 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 - id: c-73406
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 229-230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 229-230."
   citata_originali: |
     Tikinčiųjų teisių gynimo komitetas.
     Iš kairės kunigai: Vincentas Vėlavičius,

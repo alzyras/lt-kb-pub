@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b30ae758225f735c48cc6840"
+canonical_name: "Gardino apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gardino apskritis"]
+sameAs: []
+canonical_biography: "Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu. Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku rias dėdavo sudegintų žmonių pelenus."
+place_authority: true
+historical_names: []
 ---
 # Gardino apskritis
 
@@ -59,7 +68,8 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu. 
 - id: c-177159
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
   citata_originali: |
     Tokie sku­
     durai yra kobolių dovana.
@@ -78,7 +88,8 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu. 
 - id: c-179205
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
   citata_originali: |
     Vienoda jų sandara ir tokia pat radimo vieta įtikina,
     jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,

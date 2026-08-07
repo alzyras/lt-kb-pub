@@ -41,9 +41,9 @@ Teisingai taria išmintingas vyras, jog tikyba senovės lietuvių buvo džiaugsm
 ## Citatos
 
 - id: c-184611
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 141"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 141."
   citata_originali: |
     Pačios šven­
     tės tų dievų buvo su metų laikais ir jų linksmybė­

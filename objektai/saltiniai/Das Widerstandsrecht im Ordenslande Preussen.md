@@ -53,7 +53,8 @@ Weise : Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Eu
 - id: c-94046
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 98."
   citata_originali: |
     Jh.,_** **Leiden 1955 ;** **_Die deutsche Ostgrenze
     im 1937,_** **Köln-Graz 1967.**

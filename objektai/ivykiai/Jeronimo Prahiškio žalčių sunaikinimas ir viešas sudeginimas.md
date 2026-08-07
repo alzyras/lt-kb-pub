@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-172511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 454"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 454."
   citata_originali: |
     Tokiu pačiu būdu buvo pastatyti ir
     stulpai, ant kurių remiasi medinis tiltas, jungiantis abu Nemuno

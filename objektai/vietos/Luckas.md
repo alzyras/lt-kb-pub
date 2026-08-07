@@ -14,7 +14,10 @@ saltiniai:
 datos:
   - '1384 m.'
   - '1387 m.'
-  - '1429 m.'
+  - '1388 m.'
+  - '1392 m.'
+  - '1393 m.'
+  - '1394 m.'
   - '2005 m.'
   - '2026 m.'
 date_start: '1384'
@@ -33,13 +36,22 @@ media_primary_canonical_url: 'https://www.europeana.eu/item/2021802/LIMIS_889192
 media_primary_directness: 'direct'
 media_primary_relation_type: 'depicts'
 media_primary_json: |-
-  {"mediaId":"m-2a2072d0c63a0206e414b199","title":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","caption":"Lucko (Liubarto) pilies gynybinių įtvirtinimų panorama, 1967 m.","originalTitle":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","creator":"Karolis Mekas","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1967","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_889192132","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-889192132/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-889192132%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-889192132/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Luckas.md","title":"Luckas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:18:30.202311+03:00","reviewedAt":"2026-07-11T11:18:57.620150+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma ilga mūrinė pilies siena su keliais bokštais ir lauku pirmame plane; tai aiškus tvirtovės įtvirtinimų bendras vaizdas.","metadataEvidence":"Pavadinime ir apraše nurodyta „XIV a. Lucko (Liubarto) pilis (Ukraina)“, aprašyti Valdovų, Švitrigailos ir Liubarto bokštai, nugarėlėje užrašyta „Lucko pilis“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys konkrečiai identifikuoja Lucko, t. y. Liubarto, pilį, o vaizdas atitinka pilies įtvirtinimų panoramą; ryšys su target „Luckas“ yra tiesioginis.","isPrimary":1}
+  {"mediaId":"m-2a2072d0c63a0206e414b199","title":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","caption":"Lucko (Liubarto) pilies gynybinių įtvirtinimų panorama, 1967 m.","originalTitle":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","creator":"Karolis Mekas","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1967","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_889192132","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-889192132/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-889192132%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-889192132/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Luckas.md","title":"Luckas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:18:30.202311+03:00","reviewedAt":"2026-07-11T11:18:57.620150+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma ilga mūrinė pilies siena su keliais bokštais ir lauku pirmame plane; tai aiškus tvirtovės įtvirtinimų bendras vaizdas.","metadataEvidence":"Pavadinime ir apraše nurodyta „XIV a. Lucko (Liubarto) pilis (Ukraina)“, aprašyti Valdovų, Švitrigailos ir Liubarto bokštai, nugarėlėje užrašyta „Lucko pilis“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys konkrečiai identifikuoja Lucko, t. y. Liubarto, pilį, o vaizdas atitinka pilies įtvirtinimų panoramą; ryšys su target „Luckas“ yra tiesioginis.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-2a2072d0c63a0206e414b199","title":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","caption":"Lucko (Liubarto) pilies gynybinių įtvirtinimų panorama, 1967 m.","originalTitle":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","creator":"Karolis Mekas","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1967","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_889192132","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-889192132/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-889192132%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-889192132/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Luckas.md","title":"Luckas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:18:30.202311+03:00","reviewedAt":"2026-07-11T11:18:57.620150+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma ilga mūrinė pilies siena su keliais bokštais ir lauku pirmame plane; tai aiškus tvirtovės įtvirtinimų bendras vaizdas.","metadataEvidence":"Pavadinime ir apraše nurodyta „XIV a. Lucko (Liubarto) pilis (Ukraina)“, aprašyti Valdovų, Švitrigailos ir Liubarto bokštai, nugarėlėje užrašyta „Lucko pilis“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys konkrečiai identifikuoja Lucko, t. y. Liubarto, pilį, o vaizdas atitinka pilies įtvirtinimų panoramą; ryšys su target „Luckas“ yra tiesioginis.","isPrimary":1},{"mediaId":"m-d4c03962111d24d0540bee8e","title":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","caption":"Lucko (Liubarto) pilies gynybinių įtvirtinimų fragmentas, 1967 m.","originalTitle":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","creator":"Karolis Mekas","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1967","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_888973168","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-888973168/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-888973168%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-888973168/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Luckas.md","title":"Luckas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:18:30.203389+03:00","reviewedAt":"2026-07-11T11:18:57.630204+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma ant kalvos stovinti mūrinė pilis su gynybine siena, keliais bokštais, pastatais papėdėje ir lauku pirmame plane.","metadataEvidence":"Pavadinime ir apraše aiškiai įvardyta „XIV a. Lucko (Liubarto) pilis (Ukraina)“, nurodyti Švitrigailos, Valdovų ir Liubarto bokštai, taip pat užrašas „Lucko pilis“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys sutampa su konkrečiu Lucko istoriniu objektu, kuris target apraše minimas kaip Lucko pilis; todėl tai tiesioginis atitikimas.","isPrimary":0}]
+  [{"mediaId":"m-2a2072d0c63a0206e414b199","title":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","caption":"Lucko (Liubarto) pilies gynybinių įtvirtinimų panorama, 1967 m.","originalTitle":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","creator":"Karolis Mekas","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1967","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_889192132","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-889192132/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-889192132%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-889192132/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Luckas.md","title":"Luckas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:18:30.202311+03:00","reviewedAt":"2026-07-11T11:18:57.620150+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma ilga mūrinė pilies siena su keliais bokštais ir lauku pirmame plane; tai aiškus tvirtovės įtvirtinimų bendras vaizdas.","metadataEvidence":"Pavadinime ir apraše nurodyta „XIV a. Lucko (Liubarto) pilis (Ukraina)“, aprašyti Valdovų, Švitrigailos ir Liubarto bokštai, nugarėlėje užrašyta „Lucko pilis“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys konkrečiai identifikuoja Lucko, t. y. Liubarto, pilį, o vaizdas atitinka pilies įtvirtinimų panoramą; ryšys su target „Luckas“ yra tiesioginis.","isPrimary":1},{"mediaId":"m-d4c03962111d24d0540bee8e","title":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","caption":"Lucko (Liubarto) pilies gynybinių įtvirtinimų fragmentas, 1967 m.","originalTitle":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","creator":"Karolis Mekas","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1967","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_888973168","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-888973168/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-888973168%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-888973168/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Luckas.md","title":"Luckas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:18:30.203389+03:00","reviewedAt":"2026-07-11T11:18:57.630204+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma ant kalvos stovinti mūrinė pilis su gynybine siena, keliais bokštais, pastatais papėdėje ir lauku pirmame plane.","metadataEvidence":"Pavadinime ir apraše aiškiai įvardyta „XIV a. Lucko (Liubarto) pilis (Ukraina)“, nurodyti Švitrigailos, Valdovų ir Liubarto bokštai, taip pat užrašas „Lucko pilis“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys sutampa su konkrečiu Lucko istoriniu objektu, kuris target apraše minimas kaip Lucko pilis; todėl tai tiesioginis atitikimas.","isPrimary":0}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-2a2072d0c63a0206e414b199","title":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","caption":"Lucko (Liubarto) pilies gynybinių įtvirtinimų panorama, 1967 m.","originalTitle":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","creator":"Karolis Mekas","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1967","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_889192132","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-889192132/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-889192132%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-889192132/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Luckas.md","title":"Luckas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:18:30.202311+03:00","reviewedAt":"2026-07-11T11:18:57.620150+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma ilga mūrinė pilies siena su keliais bokštais ir lauku pirmame plane; tai aiškus tvirtovės įtvirtinimų bendras vaizdas.","metadataEvidence":"Pavadinime ir apraše nurodyta „XIV a. Lucko (Liubarto) pilis (Ukraina)“, aprašyti Valdovų, Švitrigailos ir Liubarto bokštai, nugarėlėje užrašyta „Lucko pilis“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys konkrečiai identifikuoja Lucko, t. y. Liubarto, pilį, o vaizdas atitinka pilies įtvirtinimų panoramą; ryšys su target „Luckas“ yra tiesioginis.","isPrimary":1},{"mediaId":"m-d4c03962111d24d0540bee8e","title":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","caption":"Lucko (Liubarto) pilies gynybinių įtvirtinimų fragmentas, 1967 m.","originalTitle":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","creator":"Karolis Mekas","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1967","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_888973168","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-888973168/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-888973168%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-888973168/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Luckas.md","title":"Luckas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:18:30.203389+03:00","reviewedAt":"2026-07-11T11:18:57.630204+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma ant kalvos stovinti mūrinė pilis su gynybine siena, keliais bokštais, pastatais papėdėje ir lauku pirmame plane.","metadataEvidence":"Pavadinime ir apraše aiškiai įvardyta „XIV a. Lucko (Liubarto) pilis (Ukraina)“, nurodyti Švitrigailos, Valdovų ir Liubarto bokštai, taip pat užrašas „Lucko pilis“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys sutampa su konkrečiu Lucko istoriniu objektu, kuris target apraše minimas kaip Lucko pilis; todėl tai tiesioginis atitikimas.","isPrimary":0}]
+  [{"mediaId":"m-2a2072d0c63a0206e414b199","title":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","caption":"Lucko (Liubarto) pilies gynybinių įtvirtinimų panorama, 1967 m.","originalTitle":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","creator":"Karolis Mekas","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1967","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_889192132","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-889192132/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-889192132%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-889192132/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Luckas.md","title":"Luckas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:18:30.202311+03:00","reviewedAt":"2026-07-11T11:18:57.620150+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma ilga mūrinė pilies siena su keliais bokštais ir lauku pirmame plane; tai aiškus tvirtovės įtvirtinimų bendras vaizdas.","metadataEvidence":"Pavadinime ir apraše nurodyta „XIV a. Lucko (Liubarto) pilis (Ukraina)“, aprašyti Valdovų, Švitrigailos ir Liubarto bokštai, nugarėlėje užrašyta „Lucko pilis“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys konkrečiai identifikuoja Lucko, t. y. Liubarto, pilį, o vaizdas atitinka pilies įtvirtinimų panoramą; ryšys su target „Luckas“ yra tiesioginis.","isPrimary":1},{"mediaId":"m-d4c03962111d24d0540bee8e","title":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","caption":"Lucko (Liubarto) pilies gynybinių įtvirtinimų fragmentas, 1967 m.","originalTitle":"Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.","creator":"Karolis Mekas","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1967","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_888973168","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-888973168/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-888973168%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-888973168/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Luckas.md","title":"Luckas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T11:18:30.203389+03:00","reviewedAt":"2026-07-11T11:18:57.630204+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma ant kalvos stovinti mūrinė pilis su gynybine siena, keliais bokštais, pastatais papėdėje ir lauku pirmame plane.","metadataEvidence":"Pavadinime ir apraše aiškiai įvardyta „XIV a. Lucko (Liubarto) pilis (Ukraina)“, nurodyti Švitrigailos, Valdovų ir Liubarto bokštai, taip pat užrašas „Lucko pilis“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys sutampa su konkrečiu Lucko istoriniu objektu, kuris target apraše minimas kaip Lucko pilis; todėl tai tiesioginis atitikimas.","isPrimary":0}]
+entity_id: "ent-c77136316f43781f19d3159d"
+canonical_name: "Luckas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Luckas","Lucko","Lucko pilį","Lucko vaškinyčios"]
+sameAs: []
+canonical_biography: "Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų suvažiavimo ir kunigaikštiško titulo vieta. Šiame šaltinyje Luckas taip pat siejamas su karaimų apgyvendinimu ir Lucko suvažiavimu 1429 m. 1434 m. Jurša gynė Lucko pilį nuo lenkų. 1504 m. į Lucko pilį artinosi platburniai."
+place_authority: true
+historical_names: []
 ---
 # Luckas
 
@@ -64,42 +76,21 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 <a id="claim-t-177646"></a>
 - t-001
   teiginys: "1432 m. Luckas iš Vladislovo Jogailos gavo Magdeburgo teisę."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   temporaliniai_duomenys: "įvykio data: 1432 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys glaustas, gramatiškas ir paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-161524
     - c-182321
 
-<a id="claim-t-177647"></a>
-- t-002
-  teiginys: "1393 m. Luckas perėjo tiesiogiai Vytauto žinion."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Luckas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Luckas tiesiogiai perėjo Vytauto žinion, todėl tai rodo jo valdymą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Luckas (0.92)"
-  temporaliniai_duomenys: "įvykio data: 1393 m.; įvykio data: 1394 m.; įvykio data: 1395 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, aiškus ir tiesiogiai susietas su Lucku."
-  pagrindžia:
-    - c-161512
-    - c-182334
-    - c-182336
-
 <a id="claim-t-177651"></a>
-- t-003
+- t-002
   teiginys: "1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -112,14 +103,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   temporaliniai_duomenys: "įvykio data: 1452 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia Švitrigailos mirties ir palaidojimo faktus."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-161507
     - c-182323
 
 <a id="claim-t-177652"></a>
-- t-004
+- t-003
   teiginys: "Žygimantas leido Vilniaus miestiečiams be muito gabenti prekes visoje Lietuvos žemėje, taip pat Lucke."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -129,31 +121,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=26"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-161521
     - c-182332
 
-<a id="claim-t-177653"></a>
-- t-005
-  teiginys: "Lucke buvo sušauktas daugelio monarchų ir kunigaikščių suvažiavimas, tariamai skirtas sąjungai prieš turkus sudaryti."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-161518
-    - c-182325
-
 <a id="claim-t-177655"></a>
-- t-006
+- t-004
   teiginys: "Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -163,33 +139,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-34241
     - c-182328
 
-<a id="claim-t-177656"></a>
-- t-007
-  teiginys: "Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Jogaila (kunigaikštis, XIV–XV a.): 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Skirgaila paminėtas kaip padėjęs Jogailai šiame kariniame veiksme."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Skirgaila rėmė Jogaila (kunigaikštis, XIV–XV a.) (0.64)"
-  pagrindžia:
-    - c-161504
-    - c-182306
-    - c-182319
-
 <a id="claim-t-177658"></a>
-- t-008
+- t-005
   teiginys: "Vytautas Volinijoje užvaldė dvi svarbiausias pilis - Lucką ir Vladimirą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Brasta: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -202,51 +160,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   temporaliniai_duomenys: "įvykio data: 1384 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-32203
     - c-182316
 
-<a id="claim-t-177660"></a>
-- t-009
-  teiginys: "1392 m. Astrave Vytautas ir Ona jau titulavosi Trakų ir Lucko kunigaikščiais."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Astravas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Astravas: mention_match, place, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Astravas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-24279
-    - c-182333
-    - c-182340
-
-<a id="claim-t-177661"></a>
-- t-010
-  teiginys: "Valentinas iš Pilzno buvo Vilniaus ir Lucko kanauninkas bei Pabaisko bažnyčios klebonas."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valentinas iš Pilzno: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Valentinas iš Pilzno: mention_match, person, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Valentinas iš Pilzno\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-161502
-    - c-182324
-
 <a id="claim-t-177662"></a>
-- t-011
+- t-006
   teiginys: "1429 m. sausio 9–29 d. Lucko suvažiavime Vytautas ir Jogaila susitiko su Zigmantu I aptarti Vidurio ir Rytų Europos politikos problemų."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -259,16 +181,35 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   temporaliniai_duomenys: "įvykio data: 1429 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys pernelyg ilgas; citata palaiko glaustesnį enciklopedinį sakinį."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-161503
-    - c-182312
     - c-161515
-    - c-182309
+    - c-182312
+    - c-186115
+
+<a id="claim-t-177663"></a>
+- t-007
+  teiginys: "Valentinas iš Pilzno buvo Vilniaus ir Lucko kanauninkas bei Pabaisko bažnyčios klebonas."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Valentinas iš Pilzno: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Valentinas iš Pilzno: mention_match, person, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Valentinas iš Pilzno\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-161502
+    - c-182324
 
 <a id="claim-t-177664"></a>
-- t-012
+- t-008
   teiginys: "1429 m. Vytautas sukvietė Lucko suvažiavimą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -281,14 +222,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   temporaliniai_duomenys: "įvykio data: 1429 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-24278
     - c-182320
 
 <a id="claim-t-177665"></a>
-- t-013
+- t-009
   teiginys: "1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams."
-  atnaujinta: "2026-07-19 19:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Žydai: 0.68"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -302,15 +244,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   temporaliniai_duomenys: "įvykio data: 1388 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą, pradiniame teiginyje yra antraštės ir puslapio triukšmo."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-161525
     - c-161523
-    - c-182342
 
 <a id="claim-t-177666"></a>
-- t-014
+- t-010
   teiginys: "Po Lietuvos krikšto LDK buvo suformuota Lucko katalikų vyskupija greta Vilniaus, Žemaičių ir Kijevo vyskupijų."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -320,15 +262,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=53"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-161522
     - c-182307
 
 <a id="claim-t-177668"></a>
-- t-015
+- t-011
   teiginys: "Daugelio monarchų ir kunigaikščių suvažiavimą buvo nutarta sušaukti Lucke."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -338,32 +280,14 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-161518
-    - c-182325
-
-<a id="claim-t-177670"></a>
-- t-016
-  teiginys: "Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-161504
-    - c-182306
-    - c-182319
 
 <a id="claim-t-177671"></a>
-- t-017
+- t-012
   teiginys: "Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -373,34 +297,14 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=62"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-161506
 
-<a id="claim-t-177674"></a>
-- t-018
-  teiginys: "1392 m. Astravo dokumentai rodo, kad Vytautas ir Ona titulavosi Trakų ir Lucko kunigaikščiais."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Astravas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Astravas: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Astravas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta pašalinant perteklinę formuluotę ir aiškiai įvardijant abu asmenis."
-  pagrindžia:
-    - c-24279
-    - c-182333
-    - c-182340
-
 <a id="claim-t-177675"></a>
-- t-019
+- t-013
   teiginys: "1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į Vilniaus katedrą."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -412,31 +316,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   temporaliniai_duomenys: "įvykio data: 1452 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-161507
     - c-182323
 
-<a id="claim-t-177676"></a>
-- t-020
-  teiginys: "Per žygį paimti karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-32204
-    - c-34243
-
 <a id="claim-t-177677"></a>
-- t-021
+- t-014
   teiginys: "Ivinskio teigimu, 1398 m. žygyje paimti karaimai veikiausiai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Trakai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -449,32 +337,14 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   temporaliniai_duomenys: "įvykio data: 1398 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citatoje faktas pateikiamas su atsargumo žyma, todėl reikia perteikti neapibrėžtumą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-34242
 
-<a id="claim-t-177678"></a>
-- t-022
-  teiginys: "Lucke būrėsi Jogaila nepatenkinti ir nuo jo nukentėję kunigaikščiai bei bajorai."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-161510
-    - c-175954
-    - c-182310
-    - c-182331
-
 <a id="claim-t-177679"></a>
-- t-023
+- t-015
   teiginys: "1388 m. Šv. Jono Krikštytojo dieną Lucke dalyvavo Lucko vaivada ir kiti liudytojai."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> vaivada: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -486,14 +356,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   temporaliniai_duomenys: "įvykio data: 1388 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-161499
     - c-182314
 
 <a id="claim-t-177680"></a>
-- t-024
+- t-016
   teiginys: "To žygio metu paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Trakai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -503,33 +374,14 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=22"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-32204
-    - c-34243
-
-<a id="claim-t-177681"></a>
-- t-025
-  teiginys: "1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1388 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-161523
-    - c-182342
 
 <a id="claim-t-177682"></a>
-- t-026
+- t-017
   teiginys: "Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes Lietuvos žemėje, įskaitant Lucką."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -539,14 +391,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=27"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-161521
     - c-182332
 
 <a id="claim-t-183860"></a>
-- t-027
+- t-018
   teiginys: "1388 m. Šv. Jono Krikštytojo dieną Lucke buvo išduotas antspaudu patvirtintas raštas."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -567,9 +420,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - c-182326
 
 <a id="claim-t-185030"></a>
-- t-028
+- t-019
   teiginys: "Prie Jaseldos upės sumuštas Mstislavas prarado kariuomenę ir vos gyvas paspruko į Lucką."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -586,9 +439,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - c-168391
 
 <a id="claim-t-185031"></a>
-- t-029
+- t-020
   teiginys: "Mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Treniotos broliai Pisimantas bei Liubartas."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -603,11 +456,12 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168392
+    - c-186114
 
 <a id="claim-t-185032"></a>
-- t-030
+- t-021
   teiginys: "Po senato posėdžio karalius skubiai išvyko iš Lucko, net neatsisveikinęs su imperatoriumi."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -624,9 +478,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - c-168393
 
 <a id="claim-t-185033"></a>
-- t-031
+- t-022
   teiginys: "Karo veiksmai artėjo prie Lucko, nes niekas nedrįso ginklu ginti Boleslovo."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -643,9 +497,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - c-168394
 
 <a id="claim-t-193210"></a>
-- t-032
+- t-023
   teiginys: "Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -655,9 +509,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - c-175954
 
 <a id="claim-t-193647"></a>
-- t-033
+- t-024
   teiginys: "Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -665,12 +519,11 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176317
-    - c-182311
 
 <a id="claim-t-193777"></a>
-- t-034
+- t-025
   teiginys: "Jogaila apsiautė Lucką, apgula tęsėsi, tačiau jo pajėgos buvo atremtos — lietuviai sėkmingai gynėsi."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -681,9 +534,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - c-182338
 
 <a id="claim-t-196712"></a>
-- t-035
+- t-026
   teiginys: "Algimantas ginklu aptramdyto Dovydo, Lucko kunigaikščio, ginčo dėl Poleksijos sienų pasekmes kartu su valdžia perdavė Rimgautui."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -694,9 +547,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - c-168392
 
 <a id="claim-t-196713"></a>
-- t-036
+- t-027
   teiginys: "Gediminas be kovos užėmė Lucką ir artimiausias pilis, o užimtame krašte paliko lietuvių įgulas bei vietininkus."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -707,9 +560,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - c-178859
 
 <a id="claim-t-196714"></a>
-- t-037
+- t-028
   teiginys: "Pasitraukęs į Lucką, Boleslovas įsakė padegti miestą, kad nugalėtojai nerastų grobio ir ugnis atitolintų pralaimėjimą."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -719,10 +572,52 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindžia:
     - c-178860
 
+<a id="claim-t-199547"></a>
+- t-029
+  teiginys: "Lucke buvo sušauktas daugelio monarchų ir kunigaikščių suvažiavimas, tariamai skirtas sąjungai prieš turkus sudaryti."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Fragmentas perrašytas į aiškų sakinį apie Lucko suvažiavimą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva"
+  ryšio_patikimumas: "susije_su -> Astravas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Astravas: mention_match, place, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Astravas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-186113
+
+<a id="claim-t-199549"></a>
+- t-030
+  teiginys: "1393 m. Luckas perėjo tiesiogiai Vytauto žinion."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra trumpas, aiškus ir tiesiogiai susietas su Lucku."
+  susije_objektai: "llm_object: Luckas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Podolė"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] valdė Luckas"
+  temporaliniai_duomenys: "įvykio data: 1393 m.; įvykio data: 1394 m.; įvykio data: 1395 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, aiškus ir tiesiogiai susietas su Lucku."
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-182334
+
 <a id="claim-t-199553"></a>
-- t-038
+- t-031
   teiginys: "Lietuvos metraštyje Vytautas, būdamas Lucke, sutarė išleisti dukterį Sofiją už Maskvos didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -737,126 +632,77 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=41"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-182322
 
-<a id="claim-t-199557"></a>
-- t-039
-  teiginys: "Lietuvos metraštyje Skirmantas prie Jieseldos upės sumušė Lucko ir Pinsko kunigaikštį Mstislavą, kuris pabėgo į Lucką."
-  atnaujinta: "2026-07-12 23:03"
+<a id="claim-t-199556"></a>
+- t-032
+  teiginys: "1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Reikia išplėsti Lucko ryšį ir atriboti metraščio titulą bei pasakojimą."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Pinskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva; mentioned_place: Turovas"
-  ryšio_patikimumas: "susije_su -> Pinskas: 0.85"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Melnikas; mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1388 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pinskas: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Pinskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=85"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-182339
+    - c-182342
 
 <a id="claim-t-199564"></a>
-- t-040
+- t-033
   teiginys: "Ostrovo taikos metu Jogaila grąžino Vytautui Trakus ir Gardiną, taip pat pridėjo Lucką."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Citata leidžia pridėti įvykio kontekstą ir padaryti teiginį aiškesnį."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Gardinas; mentioned_place: Ostrovas; mentioned_place: Trakai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-182313
 
 <a id="claim-t-199574"></a>
-- t-041
+- t-034
   teiginys: "1392 m. Jogailos privilegija buvo nukreipta prieš Vytauto pretenzijas į Lucką."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_person: [[objektai/asmenys/Vyguntas|Vyguntas]]; mentioned_place: Korčinas; mentioned_place: Lvovas"
   temporaliniai_duomenys: "įvykio data: 1392 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-182308
     - c-182337
 
-<a id="claim-t-199575"></a>
-- t-042
-  teiginys: "Lietuvos metraštyje Jogaila parsikvietė Vytautą iš Prūsų ir davė jam valdyti Lucką bei visą Volynės žemę."
-  atnaujinta: "2026-07-12 23:03"
+<a id="claim-t-199580"></a>
+- t-035
+  teiginys: "Lucke būrėsi Jogaila nepatenkinti ir nuo jo nukentėję kunigaikščiai bei bajorai."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pradiniame teiginyje yra OCR klaidų ir neaiškus įvardis."
-  susije_objektai: "mentioned_place: Volynė; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Prūsų žemė"
-  ryšio_patikimumas: "susije_su -> Volynė: 0.85"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Volynė: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Volynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-182335
-
-<a id="claim-t-199576"></a>
-- t-043
-  teiginys: "Ostrovo taika Jogaila grąžino Vytautui Trakus ir Gardiną, o prie kitų žemių pridėjo Lucką."
-  atnaujinta: "2026-07-12 23:03"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pirminis sakinys nutrūksta ir turi OCR triukšmo, bet citata remia glaustą faktą apie Lucką."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Gardinas; mentioned_place: Ostrovas; mentioned_place: Trakai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-182313
-
-<a id="claim-t-199579"></a>
-- t-044
-  teiginys: "Naujojo Korčino aktas trukdė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradinis teiginys turi gramatikos klaidų ir OCR nuorodos triukšmo."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Vyguntas|Vyguntas]]; mentioned_place: Korčinas; mentioned_place: Lietuva; mentioned_place: Lvovas"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi gramatikos klaidų ir OCR nuorodos triukšmo."
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-182308
-    - c-182337
-
-<a id="claim-t-199594"></a>
-- t-045
-  teiginys: "Vytautas Lucke keldavo puikias puotas, kai norėdavo parodyti savo galybę ir padaryti įspūdį."
-  atnaujinta: "2026-07-12 23:03"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-37516
+    - c-182331
 
 <a id="claim-t-200716"></a>
-- t-046
+- t-036
   teiginys: "Pasak Viljamo Pochliobkino, Genujos pasiuntiniai 1429 m. Lucko suvažiavime Jogailai ir Vytautui demonstravo distiliuotą alkoholį kaip vaistą."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -871,10 +717,152 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
   temporaliniai_duomenys: "įvykio data: 1429 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išlaikyta būtina atribucija Pochliobkinui, nes cituojamas kito tyrėjo teiginys. Pašalinta su Lucku nesusijusi 1387 m. Lietuvos krikšto detalė."
-  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
+  temporalinis_llm_pakomentavimas: "Išlaikyta būtina Viljamo Pochliobkino pozicijos atribucija ir aiškiai nurodytas įvykis Lucke."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-184061
+
+<a id="claim-t-202543"></a>
+- t-037
+  teiginys: "Motiejus Stryjkowskis kronikoje rašė, kad po Lucko suvažiavimo Vytautas imperatoriui Zigmantui padovanojo aukso apkalais ir brangakmeniais puoštą tauro ragą, kurį, pasak kronikos, Gediminas buvo sumedžiojęs."
+  atnaujinta: "2026-07-26 20:37"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gediminas (Lietuvos didysis kunigaikštis, XIV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Luckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas (Lietuvos didysis kunigaikštis, XIV a.): mention_match, person, gap=135"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Luckas\" parinktas kaip owner_note_path. Targetas \"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-185901
+
+<a id="claim-t-203029"></a>
+- t-038
+  teiginys: "Jogaila grąžino Vytautui Trakus ir Gardiną, o prie kitų žemių pridėjo Lucką."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pirminis sakinys nutrūksta ir turi OCR triukšmo, bet citata remia glaustą faktą apie Lucką."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Gardinas; mentioned_place: Ostrovas; mentioned_place: Trakai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-182313
+
+<a id="claim-t-203088"></a>
+- t-039
+  teiginys: "Lietuvos metraštyje pasakojama, kad kunigaikštis Skirmantas šiapus Jieseldos upės visiškai sumušė Lucko ir Pinsko kunigaikštį Mstislavą, o šis su nedidele palyda pabėgo į Lucką."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Reikia išplėsti Lucko ryšį ir atriboti metraščio titulą bei pasakojimą."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Pinskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva; mentioned_place: Turovas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-182339
+
+<a id="claim-t-203322"></a>
+- t-040
+  teiginys: "Alberto Vijūko-Kojelavičiaus „Lietuvos istorijoje“ rašoma, kad prie Jaseldos upės sumuštas Mstislavas prarado kariuomenę ir vos gyvas paspruko į Lucką."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys gramatiškas, aiškus ir tiksliai perteikia Mstislavo pasitraukimą į Lucką."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Jaselda"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168391
+
+<a id="claim-t-203358"></a>
+- t-041
+  teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ rašoma, kad, bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-175954
+
+<a id="claim-t-203443"></a>
+- t-042
+  teiginys: "Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio „Lietuvos istorijoje“ teigiama, kad Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-182311
+
+<a id="claim-t-203502"></a>
+- t-043
+  teiginys: "Knygoje „Lietuvos istorija“ teigiama, kad vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys su „ne tik“ yra neužbaigtas kaip savarankiškas sakinys."
+  susije_objektai: "mentioned_place: Krokuva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Prūsų žemė; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-161506
+
+<a id="claim-t-203509"></a>
+- t-044
+  teiginys: "Daugelio monarchų ir kunigaikščių suvažiavimas turėjo būti sušauktas Lucke."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-182325
+
+<a id="claim-t-203514"></a>
+- t-045
+  teiginys: "Alberto Vijūko-Kojelavičiaus „Lietuvos istorijoje“ teigiama, kad Algimantas, ginklu aptramdęs Lucko kunigaikščio Dovydo sukeltą ginčą dėl Poleksijos sienų, netrukus kartu su valdžia perdavė Rimgautui rūpesčius dėl gresiančio karo."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168392
+
+<a id="claim-t-203605"></a>
+- t-046
+  teiginys: "Zenono Ivinskio teigimu, 1392 m. Astrave Vytautas ir Ona jau titulavosi Trakų ir Lucko kunigaikščiais."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Astravas; mentioned_place: Trakai"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-182340
+
+<a id="claim-t-203606"></a>
+- t-047
+  teiginys: "Zenono Ivinskio teigimu, 1392 m. Astravo dokumentai rodo, kad Vytautas ir Ona titulavosi Trakų ir Lucko kunigaikščiais."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Perrašyta pašalinant perteklinę formuluotę ir aiškiai įvardijant abu asmenis."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Astravas; mentioned_place: Trakai"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta pašalinant perteklinę formuluotę ir aiškiai įvardijant abu asmenis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-182340
 
 ## Reikšmingi paminėjimai
 - c-027
@@ -951,7 +939,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - id: c-24278
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 379."
   citata_originali: |
     Susi­
     tvenkęs skaudulys tarp abiejų valstybių turėjo pratrukti Vytauto
@@ -963,12 +952,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-008
 
 - id: c-24279
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 315."
   citata_originali: |
     Vy­
     tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
@@ -976,17 +966,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Trakų ir Lucko kunigaikščiais2S.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
-    - t-018
-
 - id: c-32203
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 309."
   citata_originali: |
     1384 m. vasarą jis buvo gavęs dalį tėvo valdų, būtent, Gardiną,
     Lietuvos Brastą ir Palenkę su Drohičinu ir Mielniku^8. O mirus
@@ -999,30 +987,31 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005
 
 - id: c-32204
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 322."
   citata_originali: |
     Jono pilį)^21. Berods, to žygio metu paim­
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
     Iš tų dviejų žygių trūksta smulkesnių versmių.
   citata_rodoma: "Berods, to žygio metu paim­\ntieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.\nIš tų dviejų žygių trūksta smulkesnių versmių."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-024
+    - t-016
 
 - id: c-34241
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 304."
   citata_originali: |
     Netoliese nuo ten, būtent, Zaslavlyje (tarp
     Volinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su
@@ -1036,12 +1025,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-34242
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 322."
   citata_originali: |
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
     tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
@@ -1053,12 +1043,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-014
 
 - id: c-34243
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 322."
   citata_originali: |
     Jono pilį)^21. Berods, to žygio metu paim­
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
@@ -1066,18 +1057,16 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   citata_rodoma: "Berods, to žygio metu paim­\ntieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.\nIš tų dviejų žygių trūksta smulkesnių versmių."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
-    - t-024
-
 - id: c-37516
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 284."
   citata_originali: |
     Šiaip, kaip minėjom, labai paprastas ir neišlaidus privatiniame
     gyvenime, Vytautas nesigailėdavo jokių išlaidų, kad reikėdavo
@@ -1086,16 +1075,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Toks yra Vytautas kaip politikas, valstybės vyras.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-045
-
 - id: c-161499
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 215."
   citata_originali: |
     Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­
     mo 1388 metais. Prie liudytojų, tuo metu su mumis buvusių:
@@ -1108,12 +1096,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-015
 
 - id: c-161502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 257-258"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 257-258."
   citata_originali: |
     Ponas ir tėvonis. Šiuo raštu skelbiame visiems,
     kam dabar ar ateityje reikės tai žinoti. Kai garbusis Valenti­
@@ -1137,17 +1126,18 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     tis Reditikus dotatam.
   citata_rodoma: "Šiuo raštu skelbiame visiems, \nkam dabar ar ateityje reikės tai žinoti. Kai garbusis Valenti­\nnas iš Pilzno, Vilniaus ir Lucko kanauninkas, Pabaisko baž­\nnyčios, pastatytos šventos ir nedalomos Trejybės garbei ir, \nžinoma, švenčiausiosios Mergelės Marijos ėmimo į dangų \nir šventųjų Egidijaus, išpažinėjo, bei Jurgio, kankinio, at­\nminimui, klebonas, pranešė, kad dėl šios bažnyčios gaisro \nyra prarasta privilegija jos fundacijai ir pastatymui,'mes,\n--- • ----\n241\n\n## Puslapis 258\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nErectionis Suae, kujus Ecclesiae incendio esse perditum, Me­\nmores Olim Eam ak illustrissimo Olim Principe Domino Si­\ngismundo Magno Duce Litkvaniae Patruo Nostro desidera­\ntissimo, in Memoriam Celekerrimi Triumpki, quem in Loco \nillo ex Prutkenis et Livonikus Retulerat edificatam, et kones- \ntis Reditikus dotatam."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 - id: c-161503
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 51."
   citata_originali: |
     tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo
     svarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo
@@ -1171,12 +1161,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-006
 
 - id: c-161504
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 134."
   citata_originali: |
     Kai visa tai vyko, karalius, matydamas
     pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
@@ -1192,18 +1183,16 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Vilniaus diecezijos senųjų turto do- Vilnensis.
   citata_rodoma: "Pats tuo metu už­\nėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­\nražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­\nmu užėmė ano valdos sostinę Gardiną ir šiaip taip\npatvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau\nVilniaus diecezijos senųjų turto do- Vilnensis."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
-    - t-016
-
 - id: c-161506
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 39-40"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 39-40."
   citata_originali: |
     Taigi politinis
     lietuvių elitas – stačiatikiškos kultūros užsakovai. Vakarinė LDK dalis –
@@ -1215,17 +1204,19 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     40
     grūdais pagrindinį Europos duonos uostą  – Gdanską.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-012
+    - t-043
 
 - id: c-161507
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 242-243"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 242-243."
   citata_originali: |
     226
 
@@ -1246,13 +1237,14 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-019
+    - t-002
+    - t-013
 
 - id: c-161510
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 128-129"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 128-129."
   citata_originali: |
     Kadangi Jogaila
     į savo Vilniaus kunigaikštystę buvo atsiuntęs lenkų kariuomenės
@@ -1263,17 +1255,16 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     nuo jo nukentėjusieji kunigaikščiai ir bajorai.
   citata_rodoma: "Apie jį Lucke ėmė burtis visi Jogaila nepatenkintieji ir\nnuo jo nukentėjusieji kunigaikščiai ir bajorai."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-022
-
 - id: c-161512
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 44."
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
     kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
@@ -1283,16 +1274,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   citata_rodoma: "1393 m. Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-161515
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50-51"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50-51."
   citata_originali: |
     Atrodė,
     jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas  –
@@ -1319,12 +1309,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-006
 
 - id: c-161518
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 172-173"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 172-173."
   citata_originali: |
     156
 
@@ -1340,18 +1331,18 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinė-
     jo.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-015
+    - t-011
 
 - id: c-161521
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 233."
   citata_originali: |
     Šis teisingu­
     mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
@@ -1373,13 +1364,14 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-026
+    - t-003
+    - t-017
 
 - id: c-161522
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 54."
   citata_originali: |
     Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
     sukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
@@ -1394,12 +1386,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-010
 
 - id: c-161523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 210."
   citata_originali: |
     ## Puslapis 210
 
@@ -1420,18 +1413,18 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     nigaikštis.
   citata_rodoma: "## Puslapis 210\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nV\nPRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS\nKUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ\nVIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O\nŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,\nPIRMADIENI, PRIEŠ TRIS KARALIUS\nViešpaties vardu Amen."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-025
+    - t-009
 
 - id: c-161524
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 169."
   citata_originali: |
     Luckas - Magdeburgo teisę gavo iš Vladislovo Jogailos
     ...........:... 1432 m.
@@ -1446,7 +1439,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - id: c-161525
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 209-210"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 209-210."
   citata_originali: |
     Il KNYGA
     15. Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­
@@ -1472,12 +1466,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-009
 
 - id: c-167245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 215."
   citata_originali: |
     O kad visi išvardyti dalykai am­
     žinai savo galią turėtų, dėl to šį mano raštą su liudytojų pa­
@@ -1490,7 +1485,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-018
 
 - id: c-168391
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1526,12 +1521,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     kovaitį ir jo karius apdova­
     nojo puikiomis dovanomis.
   statusas: verified
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-019
+    - t-040
 
 - id: c-168392
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1547,13 +1543,14 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     gęs savo dienas, jis kartu su valdžia perdavė Rimgau­
     dui rūpesčius dėl gresiančio karo.
   statusas: verified
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
-    - t-035
+    - t-020
+    - t-026
+    - t-045
 
 - id: c-168393
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1582,7 +1579,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-021
 
 - id: c-168394
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1606,12 +1603,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-022
 
 - id: c-175954
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 127."
   citata_originali: |
     Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė su-
     siartindamas su Maskva. Bėgdamas iš totorių nelaisvės, Mask-
@@ -1619,18 +1617,19 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     susižadėjo su jo dukteria Sofija. Į Maskvą vykstantį sužadėtinį
     palydėjo Vytauto kariuomenės būrys.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
-    - t-032
+    - t-023
+    - t-041
 
 - id: c-176317
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 43-44"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 43-44."
   citata_originali: |
     LDK
     buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas
@@ -1645,12 +1644,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-024
 
 - id: c-176430
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     Prie Stirės
     įvyko Švitrigailos pajėgoms nesékmin-
@@ -1665,7 +1665,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-025
 
 - id: c-178859
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1689,7 +1689,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-027
 
 - id: c-178860
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1718,12 +1718,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-028
 
 - id: c-182306
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 134."
   citata_originali: |
     Kai visa tai vyko, karalius, matydamas
     pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
@@ -1739,18 +1740,16 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Vilniaus diecezijos senųjų turto do- Vilnensis.
   citata_rodoma: "Pats tuo metu už­\nėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­\nražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­\nmu užėmė ano valdos sostinę Gardiną ir šiaip taip\npatvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau\nVilniaus diecezijos senųjų turto do- Vilnensis."
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
-    - t-016
-
 - id: c-182307
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 54."
   citata_originali: |
     Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
     sukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
@@ -1765,13 +1764,14 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-010
 
 - id: c-182308
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 172."
   citata_originali: |
     Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą. Dar
     1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
@@ -1782,17 +1782,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   citata_rodoma: "Dar\n1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­\ntimo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­\nvilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai\nkelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta\nprieš jo pretenzijas į Lucką^1 )."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-041
-    - t-044
-
 - id: c-182309
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50-51"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50-51."
   citata_originali: |
     Atrodė,
     jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas  –
@@ -1814,17 +1812,16 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai.
   citata_rodoma: "Kadangi ryškėjo Lenkijos, o ne Lie-\n\n1 skyrius •  S E N O J I  L I E T U VA\n51\ntuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo \nsvarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo \nprojektas buvo aktualus ir tarptautiniu mastu, nes be Lietuvos nebuvo \ngalima išspręsti svarbesnių regiono klausimų. \nLietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su \nŠventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-\ngmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo \nskirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d."
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
-
 - id: c-182310
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 128-129"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 128-129."
   citata_originali: |
     Kadangi Jogaila
     į savo Vilniaus kunigaikštystę buvo atsiuntęs lenkų kariuomenės
@@ -1835,17 +1832,16 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     nuo jo nukentėjusieji kunigaikščiai ir bajorai.
   citata_rodoma: "Apie jį Lucke ėmė burtis visi Jogaila nepatenkintieji ir\nnuo jo nukentėjusieji kunigaikščiai ir bajorai."
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-022
-
 - id: c-182311
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 43-44"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 43-44."
   citata_originali: |
     LDK
     buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas
@@ -1855,17 +1851,18 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     imperiškai. Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia
     valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-042
 
 - id: c-182312
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 51."
   citata_originali: |
     tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo
     svarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo
@@ -1889,13 +1886,14 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-006
 
 - id: c-182313
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 174."
   citata_originali: |
     5 d. Ost­
     rovoje (Gard.) įvyko taika. Jogaila dovanojo Vytautui ir jo
@@ -1905,18 +1903,19 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     tų pačių metų bal. mėn.
   citata_rodoma: "Jogaila dovanojo Vytautui ir jo\nšalininkams jų nusikaltimus, paėmė iš visų ištikimybės priesai­\nką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar\npridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t."
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
-    - t-043
+    - t-033
+    - t-038
 
 - id: c-182314
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 215."
   citata_originali: |
     Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­
     mo 1388 metais. Prie liudytojų, tuo metu su mumis buvusių:
@@ -1929,12 +1928,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-015
 
 - id: c-182316
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 309."
   citata_originali: |
     1384 m. vasarą jis buvo gavęs dalį tėvo valdų, būtent, Gardiną,
     Lietuvos Brastą ir Palenkę su Drohičinu ir Mielniku^8. O mirus
@@ -1947,12 +1947,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-005
 
 - id: c-182319
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 134."
   citata_originali: |
     Kai visa tai vyko, karalius, matydamas
     pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
@@ -1969,17 +1970,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   citata_rodoma: "Pats tuo metu už­\nėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­\nražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­\nmu užėmė ano valdos sostinę Gardiną ir šiaip taip\npatvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau\nVilniaus diecezijos senųjų turto do- Vilnensis."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
-    - t-016
-
 - id: c-182320
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 379."
   citata_originali: |
     Susi­
     tvenkęs skaudulys tarp abiejų valstybių turėjo pratrukti Vytauto
@@ -1991,12 +1990,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-008
 
 - id: c-182321
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 169."
   citata_originali: |
     Luckas - Magdeburgo teisę gavo iš Vladislovo Jogailos
     ...........:... 1432 m.
@@ -2011,7 +2011,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - id: c-182322
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 88."
   citata_originali: |
     Paskui išvyko į Lenkiją1 9 , palikęs gubernato­
     riumi Vilniuje ir Lietuvos Didžiojoje Kunigaikštystėje
@@ -2027,12 +2028,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-031
 
 - id: c-182323
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 242-243"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 242-243."
   citata_originali: |
     226
 
@@ -2048,18 +2050,19 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     tu buvo palaidoti nelaimėlio jo sūnaus ir bendrininko kuni­
     gaikščio Mykolo palaikai.
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-019
+    - t-002
+    - t-013
 
 - id: c-182324
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 257-258"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 257-258."
   citata_originali: |
     Ponas ir tėvonis. Šiuo raštu skelbiame visiems,
     kam dabar ar ateityje reikės tai žinoti. Kai garbusis Valenti­
@@ -2083,17 +2086,18 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     tis Reditikus dotatam.
   citata_rodoma: "Šiuo raštu skelbiame visiems, \nkam dabar ar ateityje reikės tai žinoti. Kai garbusis Valenti­\nnas iš Pilzno, Vilniaus ir Lucko kanauninkas, Pabaisko baž­\nnyčios, pastatytos šventos ir nedalomos Trejybės garbei ir, \nžinoma, švenčiausiosios Mergelės Marijos ėmimo į dangų \nir šventųjų Egidijaus, išpažinėjo, bei Jurgio, kankinio, at­\nminimui, klebonas, pranešė, kad dėl šios bažnyčios gaisro \nyra prarasta privilegija jos fundacijai ir pastatymui,'mes,\n--- • ----\n241\n\n## Puslapis 258\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nErectionis Suae, kujus Ecclesiae incendio esse perditum, Me­\nmores Olim Eam ak illustrissimo Olim Principe Domino Si­\ngismundo Magno Duce Litkvaniae Patruo Nostro desidera­\ntissimo, in Memoriam Celekerrimi Triumpki, quem in Loco \nillo ex Prutkenis et Livonikus Retulerat edificatam, et kones- \ntis Reditikus dotatam."
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-007
 
 - id: c-182325
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 172-173"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 172-173."
   citata_originali: |
     156
 
@@ -2109,18 +2113,18 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinė-
     jo.
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-015
+    - t-044
 
 - id: c-182326
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 215."
   citata_originali: |
     O kad visi išvardyti dalykai am­
     žinai savo galią turėtų, dėl to šį mano raštą su liudytojų pa­
@@ -2133,12 +2137,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-018
 
 - id: c-182328
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 304."
   citata_originali: |
     Netoliese nuo ten, būtent, Zaslavlyje (tarp
     Volinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su
@@ -2152,12 +2157,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-182331
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 128-129"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 128-129."
   citata_originali: |
     Kadangi Jogaila
     į savo Vilniaus kunigaikštystę buvo atsiuntęs lenkų kariuomenės
@@ -2173,12 +2179,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-035
 
 - id: c-182332
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 233."
   citata_originali: |
     Šis teisingu­
     mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
@@ -2195,18 +2202,19 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     čio 19 d. Ind.
   citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-026
+    - t-003
+    - t-017
 
 - id: c-182333
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 315."
   citata_originali: |
     Vy­
     tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
@@ -2214,17 +2222,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     Trakų ir Lucko kunigaikščiais2S.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
-    - t-018
-
 - id: c-182334
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 44."
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
     kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
@@ -2233,17 +2239,18 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: "1393 m. Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-030
 
 - id: c-182335
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 84."
   citata_originali: |
     Didžiajam
     kunigaikščiui Jogailai ir Skirgailai neįmanoma buvo
@@ -2254,16 +2261,15 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     28.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-042
-
 - id: c-182336
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 44."
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
     kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
@@ -2272,18 +2278,17 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: "1393 m. Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-182337
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 172."
   citata_originali: |
     Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą. Dar
     1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
@@ -2298,13 +2303,13 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
-    - t-044
+    - t-034
 
 - id: c-182338
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     Prie Stirės
     įvyko Švitrigailos pajėgoms nesékmin-
@@ -2319,7 +2324,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-025
 
 - id: c-182339
   autorius: "Anoniminis metraštininkas"
@@ -2335,7 +2340,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     ėmė Pinsko miestą7  ir Turovo miestą".
   citata_rodoma: "Šiapus Jieseldos5  upės \nkunigaikštis Skirmantas visiškai sumušė Lucko ir Pins­\nko kunigaikštį bei visą rusų karo jėgą6 . Tiktai kuni­\ngaikštis Mstislavas su nedidele palyda spėjo pabėgti \nį Lucko miestą. O didysis kunigaikštis Skirmantas už­\nėmė Pinsko miestą7  ir Turovo miestą\"."
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2345,25 +2350,27 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 - id: c-182340
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 315."
   citata_originali: |
     Vy­
     tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
     duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
     Trakų ir Lucko kunigaikščiais2S.
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-018
+    - t-046
+    - t-047
 
 - id: c-182342
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 210."
   citata_originali: |
     ## Puslapis 210
 
@@ -2389,8 +2396,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-025
+    - t-032
 
 - id: c-184061
   autorius: "Rimvydas Laužikas"
@@ -2399,9 +2405,93 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
-    - t-046
+    - t-036
+
+- id: c-185901
+  autorius: "Rimvydas Laužikas"
+  šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
+  puslapiai: "PDF 11"
+  indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 11."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 20:29"
+  pagrindzia:
+    - t-037
+
+- id: c-186113
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Il KNYGA
+    atplėštų. Neva krikščioniškųjų valstybių sąjungos prieš tur­
+    kus sudarymo dėlei, jis pribaudė Jogailą ir Vytautą, kad anas
+    atmintinas daugelio monarchų ir kunigaikščių suvažiavimas
+    būtų sušauktas Lucke. Tačiau kai ten išaiškėjo, kad, užuot
+    aptarus turkų klausimą, imperatoriaus imamasi gudrių už­
+    mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat
+    pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinė-
+    jo.
+  citata_rodoma: "Il KNYGA\natplėštų. Neva krikščioniškųjų valstybių sąjungos prieš tur­\nkus sudarymo dėlei, jis pribaudė Jogailą ir Vytautą, kad anas \natmintinas daugelio monarchų ir kunigaikščių suvažiavimas \nbūtų sušauktas Lucke."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-029
+
+- id: c-186114
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Mažai vis dėlto ką pe­
+    šė nugalėtieji bėgdami, nes skitų užnugaryje buvusios
+    upės trukdė sprunkantiesiems ir juos skandino savo
+    verpetuose. Šiame mūšyje žuvo Drucko kunigaikštis
+    Michailas, Lucko valdovas Andrejus ir Pisimantas bei
+    Liubartas, Treniotos broliai. Šit todėl Treniota, neno­
+    rėdamas, kad po kunigaikščių mirties šiaurinėje Ru­
+    sioje kas pasikeistų, pavedė baigti karą su skitais ir
+  citata_rodoma: "Mažai vis dėlto ką pe­\nšė nugalėtieji bėgdami, nes skitų užnugaryje buvusios \nupės trukdė sprunkantiesiems ir juos skandino savo \nverpetuose. Šiame mūšyje žuvo Drucko kunigaikštis \nMichailas, Lucko valdovas Andrejus ir Pisimantas bei \nLiubartas, Treniotos broliai. Šit todėl Treniota, neno­\nrėdamas, kad po kunigaikščių mirties šiaurinėje Ru­\nsioje kas pasikeistų, pavedė baigti karą su skitais ir"
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
+
+- id: c-186115
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
+    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime
+    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
+    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
+    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
+    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-
+    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
+    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
+    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-
+    to apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
+    kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu
+    valdovu.
+  citata_rodoma: "Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su \nŠventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-\ngmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo \nskirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime \ntaip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio \npasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-\nčiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-\nnijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-\nmas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją \nįėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I \nir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-\nto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas, \nkad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu \nvaldovu."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

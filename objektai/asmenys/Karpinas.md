@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-61ea3f544147c4283a415f2c"
+canonical_name: "Karpinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karpinas"]
+sameAs: []
+canonical_biography: "Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą aprašė Kaukazo alanus, vadintus Jassi, Asses ir Aries."
 ---
 # Karpinas
 
@@ -62,7 +69,8 @@ Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą 
 - id: c-174310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 65."
   citata_originali: |
     Čingischano va­
     dai irgi kariavo 1223 metais toje pačioje ¡pusėje su ala­

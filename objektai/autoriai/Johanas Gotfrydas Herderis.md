@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e46e67431d75358a5554d581"
+canonical_name: "Johanas Gotfrydas Herderis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Johanas Gotfrydas Herderis"]
+sameAs: []
+canonical_biography: "Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kiekviena kalba ir kultūra yra vertingas visos žmonijos."
 ---
 # Johanas Gotfrydas Herderis
 
@@ -45,7 +52,8 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
 - id: c-176386
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 110."
   citata_originali: |
     Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Her-
     derio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų

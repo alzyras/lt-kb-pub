@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-149cf959845ea60830958582"
+canonical_name: "Baronas Darius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Baronas Darius"]
+sameAs: []
+canonical_biography: "Sud. Darius Baronas, Vilnius, 2006, p. 117-138; Prikockienė Asta."
 ---
 # Baronas Darius
 
@@ -49,9 +56,9 @@ Sud. Darius Baronas, Vilnius, 2006, p. 117-138; Prikockienė Asta.
 ## Citatos
 
 - id: c-185570
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 126."
   citata_originali: |
     Pirmieji pranciškonų žingsniai Lietuvoje XII-XVII a. Sud. Darius Baronas, Vilnius, 2006,
     p. 117-138; Prikockienė Asta.

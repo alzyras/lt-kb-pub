@@ -50,7 +50,8 @@ Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti V
 - id: c-24967
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 145."
   citata_originali: |
     Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
     tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos

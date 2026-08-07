@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9e3a7af32984ef060094afe7"
+canonical_name: "Jonas Biliaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Biliaras"]
+sameAs: []
+canonical_biography: "Daugiau pėdsakų šaltiniuose paliko Jonas Biliaras Uohannes Byler, BUJlHp)."
 ---
 # Jonas Biliaras
 
@@ -50,9 +57,9 @@ Daugiau pėdsakų šaltiniuose paliko Jonas Biliaras Uohannes Byler, BUJlHp).
 ## Citatos
 
 - id: c-185440
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 49."
   citata_originali: |
     Daugiau pėdsakų šaltiniuose paliko Jonas Biliaras Uohannes Byler, BUJlHp). Pirmą
     kartą jis vaitu pavadintas 1430 m. Dar anksčiau iš Vytauto buvo išsitarnavęs žemės

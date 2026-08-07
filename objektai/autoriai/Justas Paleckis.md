@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a57b2f428f8b25db06a4f7c6"
+canonical_name: "Justas Paleckis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Justas Paleckis"]
+sameAs: []
+canonical_biography: "Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis liaudininkas žurnalistas Justas Paleckis, o jo pavaduotoju ir užsienio reikalų ministru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas Galvanauskas, krašto. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasiprašė neva savanoriškai įeiti į SSRS sudėtį."
 ---
 # Justas Paleckis
 
@@ -102,7 +109,8 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
 - id: c-22150
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 192."
   citata_originali: |
     Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
     mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
@@ -122,7 +130,8 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
 - id: c-166736
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 190."
   citata_originali: |
     Taip birželio 17-ąją at-
     sirado gudriai sumanyta savotiška pereinamojo laikotarpio marionetinė

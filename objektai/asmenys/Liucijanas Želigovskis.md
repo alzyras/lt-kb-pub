@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac98cf7fbe492546a7863389"
+canonical_name: "Liucijanas Želigovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liucijanas Želigovskis"]
+sameAs: []
+canonical_biography: "Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vidurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi."
 ---
 # Liucijanas Želigovskis
 
@@ -61,7 +68,8 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 - id: c-21857
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Ši trijų dalių Lietuvos sampra-
     ta, pasitelkiama neva siekiant atkurti LDK tradiciją, buvo tik deklaracija,

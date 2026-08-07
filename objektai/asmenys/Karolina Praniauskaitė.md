@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c9429590107376d418833b45"
+canonical_name: "Karolina Praniauskaitė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolina Praniauskaitė"]
+sameAs: []
+canonical_biography: "Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­ rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais."
 ---
 # Karolina Praniauskaitė
 
@@ -51,7 +58,8 @@ Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
 - id: c-83727
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 15."
   citata_originali: |
     Iki pat gyvenimo pabaigos M. Balinskis liko kritinio meto­
     do, kurį jam dar jaunystėje įskiepijo istorikas J. Lelevelis, šali­

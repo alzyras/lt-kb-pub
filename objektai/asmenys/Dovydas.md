@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1f20bf79df6e1d18fcd7b06a"
+canonical_name: "Dovydas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dovydas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius, kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes, sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius, kurie privalėję nuolatos taip saugoti jo asmenį, kad. Dusburgietis teigia, kad kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia, kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus privalėsiąs. Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas."
 ---
 # Dovydas
 
@@ -118,7 +125,8 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 - id: c-78749
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 86."
   citata_originali: |
     Viename dokumen­
     te, apie kurį vėliau smulkiau kalbė­
@@ -152,7 +160,8 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 - id: c-167442
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
   citata_originali: |
     19. Apie Baigos pilį
 
@@ -175,7 +184,8 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 - id: c-168054
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 211."
   citata_originali: |
     Dėl vieno bajoro nepaprastos drąsos žuvo pulko
     vadas Dovydas, garsus sve-
@@ -205,7 +215,8 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 - id: c-176531
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 78-79"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78-79."
   citata_originali: |
     O didysis kunigaikštis Kęstutis, sutelkęs savo pajė­
     gas, skuba į Vilnių ir suima didįjį kunigaikštį Jogailą
@@ -230,7 +241,8 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 - id: c-179021
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 38."
   citata_originali: |
     Štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius,
     kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes,
@@ -255,7 +267,8 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 - id: c-179022
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 38."
   citata_originali: |
     Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto —
     „gelbėtojas“. Kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia,
@@ -278,9 +291,9 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     - t-005
 
 - id: c-184332
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 555"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 555."
   citata_originali: |
     Tuo
     tarpu karė su lenkais skaistyn vien reiškės, o Lie­

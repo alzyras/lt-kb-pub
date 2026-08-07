@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0c93202807c45d87de41ca92"
+canonical_name: "Valančius Motiejus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Valančius Motiejus"]
+sameAs: []
+canonical_biography: "Chicago, 1983; Valančius Motiejus."
 ---
 # Valančius Motiejus
 
@@ -50,9 +57,9 @@ Chicago, 1983; Valančius Motiejus.
 ## Citatos
 
 - id: c-185581
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 126."
   citata_originali: |
     Chicago, 1983; Valančius
     Motiejus. Pastabos pačiam sau. Iš lenkiškosios vyskupo Motiejaus rašliavos sulasė ir savo

@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ebc215ccf89bf72b5b54c158"
+canonical_name: "Zubas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zubas"]
+sameAs: []
+canonical_biography: "Narbutas IV lentelėje nurodo, kad Zubas 1480 m. prispaudė vieną iš aštuonių antspaudų su žalčiais."
 ---
 # Zubas
 
@@ -61,7 +68,8 @@ Narbutas IV lentelėje nurodo, kad Zubas 1480 m. prispaudė vieną iš aštuoni�
 - id: c-173132
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 404"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
   citata_originali: |
     IV
     lentelė, 18-asis piešinys. Astuoni antspaudai su žalčiais;

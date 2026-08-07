@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a13bda35065db1c13e22a9f6"
+canonical_name: "Memmingenas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Memmingenas"]
+sameAs: []
+canonical_biography: "leisto Lietuvių Bibliografinės Tarnybos Biu­ letenio Knygų Lentyna (pradėtas Vokietijos Memmingene, nuo 1949 m. Danville, III., JAV)."
+place_authority: true
+historical_names: []
 ---
 # Memmingenas
 
@@ -61,7 +70,8 @@ leisto Lietuvių Bibliografinės Tarnybos Biu­ letenio Knygų Lentyna (pradėta
 - id: c-33949
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 24."
   citata_originali: |
     Ruža-
     niec-Ružancovo 1948-1965 m. leisto Lietuvių Bibliografinės Tarnybos Biu­

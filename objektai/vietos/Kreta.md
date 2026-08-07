@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c7467219c8d69de2f4a7b32"
+canonical_name: "Kreta"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kreta"]
+sameAs: []
+canonical_biography: "Narbutas slaptų apeigų įvedimą Kretoje priskyrė Minui, o persų, graikų ir trakų tradicijose minėjo kitus jų įvedėjus."
+place_authority: true
+historical_names: []
 ---
 # Kreta
 
@@ -53,7 +62,8 @@ Narbutas slaptų apeigų įvedimą Kretoje priskyrė Minui, o persų, graikų ir
 - id: c-171898
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 196."
   citata_originali: |
     Egiptiečiai visiškai nesivadina
     jų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­

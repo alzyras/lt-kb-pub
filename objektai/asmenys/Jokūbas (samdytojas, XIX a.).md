@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4eb1c115f9d271d13bd42ae6"
+canonical_name: "Jokūbas (samdytojas, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokūbas","Jokūbas (samdytojas, XIX a.)"]
+sameAs: []
+canonical_biography: "Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragina imti Grigorą, kuris derasi dėl samdos sąlygų ir duoda rankpinigius, bet vėliau lieka ieškoti kito berno."
 ---
 # Jokūbas (samdytojas, XIX a.)
 

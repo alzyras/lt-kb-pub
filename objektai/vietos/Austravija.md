@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-45a430a7b44415c00ff817c7"
+canonical_name: "Austravija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Austravija"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Fosas Austraviją, arba Glesariją, tapatino su fryzų Amelando sala, nors pats tokį aiškinimą vadino nepatikimu."
+place_authority: true
+historical_names: []
 ---
 # Austravija
 
@@ -53,7 +62,8 @@ Narbutas rašo, kad Fosas Austraviją, arba Glesariją, tapatino su fryzų Amela
 - id: c-175687
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Kiek čia nepatikimumo!2
     Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­

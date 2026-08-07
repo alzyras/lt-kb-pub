@@ -93,7 +93,8 @@ Nenurodyta
 - id: c-62561
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     100 (95). Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių
 

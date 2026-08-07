@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f2e2a17a6654562c7961d1d0"
+canonical_name: "Bubnys A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bubnys A"]
+sameAs: []
+canonical_biography: "Bubnys A."
 ---
 # Bubnys A
 
@@ -61,7 +68,8 @@ Bubnys A.
 - id: c-20726
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Vilnius, 1996.
     Bubnys A. Vokiečių okupuota Lietuva (1941–1944). Vilnius, 1998.

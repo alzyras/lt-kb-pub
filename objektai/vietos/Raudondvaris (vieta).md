@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0aa55fb5d39ea82f0f85fdc2"
+canonical_name: "Raudondvaris (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Raudondvaris","Raudondvaris (vieta)"]
+sameAs: []
+canonical_biography: "Čia pralobę miško verslovininkai statėsi rezidentines pilis ir kartu verslo atraminius punktus Raudondvaryje, Raudonėje, Panemunėje."
+place_authority: true
+historical_names: []
 ---
 # Raudondvaris (vieta)
 
@@ -46,9 +55,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185089
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 243"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 243."
   citata_originali: |
     Šie ener-
     gingai ėmėsi girilĮ eksploatavimo, didžiausias jėgas suteIkdami į panemunilĮ girias

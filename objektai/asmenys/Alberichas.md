@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1d8f7495102ba7a28f45f384"
+canonical_name: "Alberichas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Alberichas"]
+sameAs: []
+canonical_biography: "Alberichas 1228 metų kronikoje tarp pagonių provincijų minėjo Prūsiją, Kuršą, Letoniją, Vitlandiją ir Sembą."
 ---
 # Alberichas
 
@@ -62,7 +69,8 @@ Alberichas 1228 metų kronikoje tarp pagonių provincijų minėjo Prūsiją, Kur
 - id: c-174816
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Taip pat apie skirtingas šalis ra­
     šo Alberichas savo 1228 metų kronikoje (Leibnitz: Access.

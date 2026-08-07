@@ -83,7 +83,8 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
 - id: c-159335
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 95."
   citata_originali: |
     Tuo tarpu Algirdas su didele
     kariuomene įsiveržė į Livoniją; nusiaubęs Žiemgalą, buvo ap-
@@ -104,7 +105,8 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
 - id: c-176107
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 646"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 646."
   citata_originali: |
     Tačiau tais
     metais nesudarė jokio susitarimo, nes Vasilijus, kaip

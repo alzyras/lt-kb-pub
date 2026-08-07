@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5cea806878354e2a788dc6ee"
+canonical_name: "J. Jakubovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Jakubovskis"]
+sameAs: []
+canonical_biography: "Jakubovskis : Tautiniai santykiai , Kaunas 1921. Jakubovskis : Tautybių santykiai Lietuvoje prieš Liublino uniją , Kaunas 1921, 11 p."
 ---
 # J. Jakubovskis
 
@@ -62,7 +69,8 @@ Jakubovskis : Tautiniai santykiai , Kaunas 1921. Jakubovskis : Tautybių santyki
 - id: c-32965
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 345."
   citata_originali: |
     Tačiau sąjungininkai nugalėjo kliūtis, ir Vy­
     tautui pasisekė jau liepos 1 d. ateiti iki Červinsko. Atskirų dalinių

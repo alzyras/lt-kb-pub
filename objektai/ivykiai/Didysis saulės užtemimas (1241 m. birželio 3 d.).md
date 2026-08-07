@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-62737
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229-230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229-230."
   citata_originali: |
     Apie didįjį saulės užtemimą
 

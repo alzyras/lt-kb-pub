@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4205eab954ed01284caf7bae"
+canonical_name: "Sterverkas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sterverkas"]
+sameAs: []
+canonical_biography: "Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyrio Starkatero tėvu."
 ---
 # Sterverkas
 
@@ -54,7 +61,8 @@ Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyr
 - id: c-174864
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
   citata_originali: |
     235
     Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,

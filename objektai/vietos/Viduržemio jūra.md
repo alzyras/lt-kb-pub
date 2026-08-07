@@ -24,6 +24,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-891955d269036e4063af3f82"
+canonical_name: "Viduržemio jūra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Viduržemio jūra"]
+sameAs: []
+canonical_biography: "Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris. Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai."
+place_authority: true
+historical_names: []
 ---
 # Viduržemio jūra
 
@@ -97,7 +106,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - id: c-166489
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 179."
   citata_originali: |
     **Prekyba.** Seniausiais laikais lietuviai prekiavo su skandina-
     vais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, to-
@@ -114,7 +124,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - id: c-166490
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 179-180"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 179-180."
   citata_originali: |
     Bet toto-
     riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
@@ -137,7 +148,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - id: c-175541
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
   citata_originali: |
     Ant­
     ra vertus, ryšiai su labiau išvystytomis tautomis senovė­

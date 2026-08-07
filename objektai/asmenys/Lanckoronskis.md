@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ed21ba70c3abfd9c41b1cb47"
+canonical_name: "Lanckoronskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lanckoronskis"]
+sameAs: []
+canonical_biography: "Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti valstybę užklupusią karinę grėsmę."
 ---
 # Lanckoronskis
 
@@ -60,7 +67,8 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti valstybę
 - id: c-169498
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 616"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 616."
   citata_originali: |
     Konstantinas su savaisiais įsitaisė dešiniajame
     sparne, o kairiajame — Mikalojus Kameneckis, rikiuo­

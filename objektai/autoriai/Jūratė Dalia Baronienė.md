@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2f8da57cab5bd500137cb420"
+canonical_name: "Jūratė Dalia Baronienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jūratė Dalia Baronienė"]
+sameAs: []
+canonical_biography: "Jūratė Dalia Baronienė nurodyta kaip „Vilniaus miesto istorijos“ vertėja iš lotynų kalbos 2007 m. leidime."
 ---
 # Jūratė Dalia Baronienė
 
@@ -59,7 +66,8 @@ Jūratė Dalia Baronienė nurodyta kaip „Vilniaus miesto istorijos“ vertėja
 - id: c-55572
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 4."
   citata_originali: |
     UDK 947.45
     Ba237

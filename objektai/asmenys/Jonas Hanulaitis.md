@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-be7c487718aedd8ab8e46f8f"
+canonical_name: "Jonas Hanulaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Hanulaitis"]
+sameAs: []
+canonical_biography: "Sūnėnų tvirtas laidavimo žo­ dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­ sį Kęstutį taip suklaidino, jog pats su Vytautu atvyko į priešo vienas vėliau buvo Trakų vaivada, o jo sūnus - Jonas Hanulaitis - Lie­ tuvos vėliavininkas; pastarasis."
 ---
 # Jonas Hanulaitis
 
@@ -50,7 +57,8 @@ Sūnėnų tvirtas laidavimo žo­ dis ir gudriai pareikštas noras eiti į deryb
 - id: c-83696
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53."
   citata_originali: |
     Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­
     gaila, esą pasirengęs taikytis. Sūnėnų tvirtas laidavimo žo­

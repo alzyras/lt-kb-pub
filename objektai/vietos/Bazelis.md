@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a4801b17c47701906e3aee5"
+canonical_name: "Bazelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bazelis"]
+sameAs: []
+canonical_biography: "Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas. Bazelio suvažiavimas, prasidėjęs 1431 m., tęsėsi iki 1449 m., t."
+place_authority: true
+historical_names: []
 ---
 # Bazelis
 
@@ -67,7 +76,8 @@ media_all_json: |-
 - id: c-175996
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 186."
   citata_originali: |
     **3. Bažnyčios suvažiavimas Bazely ir bažnytinės unijos**
         **klausimas**
@@ -86,7 +96,8 @@ media_all_json: |-
 - id: c-175997
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 186."
   citata_originali: |
     Tačiau patsai unijos klausimas nemirė. Juo ėmė rūpintis
     kiti kraštai. Bazelio suvažiavimas, prasidėjęs 1431 m., tęsėsi iki

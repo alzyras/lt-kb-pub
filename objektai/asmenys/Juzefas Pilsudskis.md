@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b59cc23f7a2e1c56ce9f0698"
+canonical_name: "Juzefas Pilsudskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juzefas Pilsudskis"]
+sameAs: []
+canonical_biography: "Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilusio Juzefo Pilsudskio (Józef Piłsudski) vadovaujama Lenkų socialistų partija. Pilsudskis – buvusios. Pilsudskis nebuvo kalbinio lenkinimo šalininkas, bet nerimtai žiūrėjo ir į lietuvių pretenzijas kurti nepriklausomą Lietuvą lietuvių istorinėje erdvėje, juolab kad daugelyje tos erdvės pakraščių (kur ir buvo jo gimtinė) lietuvių kalba buvo beprarandanti savo."
 ---
 # Juzefas Pilsudskis
 
@@ -219,7 +226,8 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - id: c-21800
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     Delegacija
     buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu da-
@@ -246,7 +254,8 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - id: c-95122
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     Taigi Maskva, nepaisydama Lenkijos nepasitenkinimo, pri-
     pažino Lietuvos suverenitetą Vilniuje.
@@ -268,7 +277,8 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - id: c-95123
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 125-126"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 125-126."
   citata_originali: |
     Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilu-
     sio Juzefo Pilsudskio (Józef Piłsudski) vadovaujama Lenkų socialistų par-
@@ -294,7 +304,8 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - id: c-95124
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 144."
   citata_originali: |
     Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
     Raudonąją armiją, nuo 1920 m. rudens atiteko Lenkijai. Nors 1920 m.
@@ -318,7 +329,8 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - id: c-95125
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 131-132"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 131-132."
   citata_originali: |
     Lietuviakalbės Lietuvos
     kūrėjai lenkiškai kalbantiesiems nesiūlė jokių papildomų privilegijų, o tik
@@ -343,7 +355,8 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - id: c-95126
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 151."
   citata_originali: |
     Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
     nistracija, remiama bataliono prancūzų pėstininkų. Prancūzai skelbė, kad
@@ -364,7 +377,8 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - id: c-95127
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 140."
   citata_originali: |
     Kadangi iki XX a. nė viena pusė neneigė,
     kad Vilnius yra istorinė LDK sostinė, lietuviai atkakliai kartojo istorinius
@@ -387,7 +401,8 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - id: c-95128
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 152."
   citata_originali: |
     Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
     o ne prieš Gabrielio Žano Petisnė (Gabriel Jean Petisne) administraciją.
@@ -408,7 +423,8 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - id: c-95131
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 159."
   citata_originali: |
     Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
     Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-

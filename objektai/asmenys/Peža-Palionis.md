@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba73df8793a1f20254f90cca"
+canonical_name: "Peža-Palionis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Peža-Palionis"]
+sameAs: []
+canonical_biography: "Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pežos-Palionio."
 ---
 # Peža-Palionis
 
@@ -50,7 +57,8 @@ Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pe�
 - id: c-41603
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Buvusi ten atėjusi Lietuvos kariuomenė, trys didžiausi pulkai. Vienas pulkas, Dolegos
     vedamas, antras kunigo Mackevičiaus, trečias kunigo Pežos-Palionio. Pirmajame visi

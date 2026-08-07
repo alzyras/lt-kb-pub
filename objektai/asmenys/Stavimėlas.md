@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cacb5a07f046bc8762e0f1fd"
+canonical_name: "Stavimėlas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stavimėlas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė."
 ---
 # Stavimėlas
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 - id: c-61071
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
   citata_originali: |
     Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
     vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos

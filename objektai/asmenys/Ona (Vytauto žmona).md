@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae59cddd4102d1f4f8833eef"
+canonical_name: "Ona (Vytauto žmona)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ona (Vytauto žmona)"]
+sameAs: []
+canonical_biography: "Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio duktė Julijo­ na -išpažino graikų apeigų tikėjimą ir Trakų pilyje, dar prieš Lietuvos krikštą, turėjo savo koplyčią, kurios pėdsakų šios pilies vienos sienos se­ novinėje tapyboje yra."
 ---
 # Ona (Vytauto žmona)
 
@@ -92,7 +99,8 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
 - id: c-83902
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 176-177"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 176-177."
   citata_originali: |
     Iš
     vieno Vytauto dovanojimo akto Tra­
@@ -132,7 +140,8 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
 - id: c-168171
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 271-272"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 271-272."
   citata_originali: |
     Kai
     jį vežė iš Vilniaus į Krėvą, jam rodė karališką pagar­
@@ -157,7 +166,8 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
 - id: c-168172
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 394"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 394."
   citata_originali: |
     Po to ir viena, ir kita šalis puldinėjo
     ir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti

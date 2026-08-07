@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1eafff5721c2fc1d65430a1e"
+canonical_name: "Kauno pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno pilis","Kauno pilis (pilis)"]
+sameAs: []
+canonical_biography: "Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m., Kęstučio sūnaus Butauto pabėgimą (Židi­ nys, 1932), apie bandymus pakrikštyti Lietuvą Algirdo ir Kęstučio laikais (TK, 1932, Nr. 12)."
+place_authority: true
+historical_names: []
 ---
 # Kauno pilis (pilis)
 
@@ -155,7 +164,8 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - id: c-43492
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 40."
   citata_originali: |
     Grįžęs namo, jis vėl
     organizavo žygį iš Įsruties į Kauną, „atnešė
@@ -175,7 +185,8 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - id: c-43493
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 41."
   citata_originali: |
     Kauno pilies apgula
 
@@ -202,7 +213,8 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - id: c-76419
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 76."
   citata_originali: |
     Suredagavęs monografiją apie Vytautą D., jis pats ten rašė
     du straipsnius apie Vytauto santykius su Lenkija ir apie jo kon­
@@ -224,7 +236,8 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - id: c-76420
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 41."
   citata_originali: |
     Kryžiuočių pajėgos
 
@@ -254,9 +267,9 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     - t-004
 
 - id: c-184967
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 36"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 36."
   citata_originali: |
     Kauno pilis buvusi dar
     visiškai nauja, gal net nebaigta statyti. Ji stovėjo kairiajame Neries krante apie 600 m
@@ -271,9 +284,9 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     - t-005
 
 - id: c-184968
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 102"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 102."
   citata_originali: |
     Besikuriančio Kauno miesto fone tai buvo tikrai
     gausus žmonių susibūrimas, galėjęs daryti teigiamą įtaką pačiam miestui atsirasti.
@@ -289,9 +302,9 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     - t-006
 
 - id: c-184969
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 158"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 158."
   citata_originali: |
     Pavieto ribos buvo taip nusakytos: iš vienos pusės Nevė­
     žio upe iki Upytės pavieto ribos; iš kitos pusės - nuo Vilkmergės ribos užgriebiant

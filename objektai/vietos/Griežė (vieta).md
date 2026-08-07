@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-58e7a66c5ce384cd7f4839b9"
+canonical_name: "Griežė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Griežė","Griežė (vieta)"]
+sameAs: []
+canonical_biography: "Kalavijonys, nerasdami Griežėj stiprios įgu lės, įsilaužė į pilį ir visa, ką gyvą rado, nugalavo, o turtus ir gėrybes išdrevėjo, pačią pilį su žeme sulygino."
+place_authority: true
+historical_names: []
 ---
 # Griežė (vieta)
 
@@ -46,9 +55,9 @@ Kalavijonys, nerasdami Griežėj stiprios įgu lės, įsilaužė į pilį ir vis
 ## Citatos
 
 - id: c-184495
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 427"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 427."
   citata_originali: |
     Kalavijonys, nerasdami Griežėj stiprios įgu­
     lės, įsilaužė į pilį ir visa, ką gyvą rado, nugalavo,

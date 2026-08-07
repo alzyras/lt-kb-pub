@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e0b8b6680b17f21d420c401"
+canonical_name: "Jadvyga"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jadvyga"]
+sameAs: []
+canonical_biography: "1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo. 1388–1389 m. Algirdaitis dviem raštais prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai. Liudviko Anjou duktė Jadvyga 1384 m. spalio 15 d. Krokuvoje buvo vainikuota Lenkijos „karaliumi“."
 ---
 # Jadvyga
 
@@ -140,7 +147,7 @@ media_all_json: |-
 <a id="claim-t-188538"></a>
 - t-006
   teiginys: "Narbutas vaizduoja, kad Lenkijos karalienės Jadvygos santuoka su Vladislovu per vieną dieną pasiekė Lietuvos krikščioninimo lūžį."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -155,7 +162,6 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171427
-    - c-177104
 
 <a id="claim-t-193623"></a>
 - t-007
@@ -217,7 +223,8 @@ media_all_json: |-
 - id: c-160423
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 310."
   citata_originali: |
     Rūpestingai išruoštas Algirdaitis priėmė stačiatikių tikėjimą ir
     toliau vadinosi « Semeon » arba « Lingwen ». Dviem raštais (1388-
@@ -237,7 +244,8 @@ media_all_json: |-
 - id: c-160424
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 288."
   citata_originali: |
     Čia abiejų pusių interesai labiau susiderino.
     Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti
@@ -255,7 +263,8 @@ media_all_json: |-
 - id: c-160426
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 316."
   citata_originali: |
     Dlu­
     gošas jį pavadino «Lietuvos žemės valdytoju », o žymus ordino
@@ -276,7 +285,8 @@ media_all_json: |-
 - id: c-160429
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236."
   citata_originali: |
     54. Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­
                                       vimą
@@ -295,7 +305,8 @@ media_all_json: |-
 - id: c-168075
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 328"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 328."
   citata_originali: |
     Siekdamas santarvės, pats
     nesiėmė tarpininkauti, nenorėdamas sukelti abipu­
@@ -319,7 +330,8 @@ media_all_json: |-
 - id: c-171427
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 395."
   citata_originali: |
     Pasakiau „stebuklingu būdu“, kadangi apaš­
     tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
@@ -345,7 +357,8 @@ media_all_json: |-
 - id: c-176294
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 64."
   citata_originali: |
     Šio karo
     pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
@@ -366,7 +379,8 @@ media_all_json: |-
 - id: c-177104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
   citata_originali: |
     Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių
     problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant­
@@ -383,7 +397,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
     - t-008
 
 ## Ryšiai

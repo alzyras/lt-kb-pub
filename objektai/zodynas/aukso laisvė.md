@@ -70,7 +70,8 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 - id: c-03195
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 329"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 329."
   citata_originali: |
     Tik dėl Maskvos nusilpimo tepavyko atgauti didelius žemių
     plotus.
@@ -91,7 +92,8 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 - id: c-166336
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 329"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 329."
   citata_originali: |
     Kaip tik Zigmanto laikais tiek Lenkijoje, tiek Lietuvoje įsi-
     galėjo vėliau dar labiau įsivyravusi vidaus netvarka. Didžiū-

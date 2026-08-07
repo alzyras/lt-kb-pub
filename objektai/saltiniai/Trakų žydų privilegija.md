@@ -62,7 +62,8 @@ media_all_json: |-
 - id: c-84463
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 163."
   citata_originali: |
     Il KNYGA
     nėtinai didelį skaičių žydų Lietuvoje ir Voluinėje, ir pačioje sosti­

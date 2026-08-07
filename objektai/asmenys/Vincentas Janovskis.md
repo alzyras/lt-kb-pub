@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3b024b32a756c850b8d07b2f"
+canonical_name: "Vincentas Janovskis (teisėjas, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vincentas Janovskis","Vincentas Janovskis (teisėjas, XIX a.)"]
+sameAs: []
+canonical_biography: "Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kronikos rankraštis iš Aleksandro Bychovco perėjo Teodorui Narbutui."
 ---
 # Vincentas Janovskis (teisėjas, XIX a.)
 
@@ -39,7 +46,7 @@ Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kron
 <a id="claim-t-198240"></a>
 - t-001
   teiginys: "Aleksandro Bychovco perduotą Bychovco kronikos rankraštį Vincentas Janovskis 1834 m. vasario 4 d. persiuntė Teodorui Narbutui į Saurus."
-  atnaujinta: "2026-07-12 22:59"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje nurodytą veiksmą."
@@ -47,6 +54,7 @@ Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kron
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą veiksmą."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-180057
 

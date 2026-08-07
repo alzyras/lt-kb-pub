@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ff691b1c2d3dd8c678e018e5"
+canonical_name: "Mikalojus Radvila II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Radvila II"]
+sameAs: []
+canonical_biography: "Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51. Tais pačiais metais Mikalojus Rad­ vila II, Goniondzo ir Medilo kuni­ gaikštis, Vilniaus vaivada, sugriovus tuos pastatus, savo lėšomis naujai pamūrijo bernardinų bažnyčią, pa­ vadintą Šv."
 ---
 # Mikalojus Radvila II
 
@@ -66,7 +73,8 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
 - id: c-83534
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
@@ -87,7 +95,8 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
 - id: c-83535
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Tais pačiais metais Mikalojus Rad­
     vila II, Goniondzo ir Medilo kuni­

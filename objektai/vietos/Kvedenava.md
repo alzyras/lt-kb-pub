@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0993213174b43a1ff849b9da"
+canonical_name: "Kvedenava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kvedenava"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir. Dusburgietis teigia, kad apie Karaliaučiaus, arba Tvankstės, pilies pastatymą Valdovui Čekijos karaliui išvykus, magistras ir broliai netruko paruošti visa, kas reikalinga pilių statybai, ir, pasitelkę jiems ištikimus prūsus, atžygiavo su didele kariuomene 1255 viešpaties metais ir."
+place_authority: true
+historical_names: []
 ---
 # Kvedenava
 
@@ -72,7 +81,8 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - id: c-59214
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
   citata_originali: |
     Apie Karaliaučiaus, arba Tvankstės, pilies pastatymą
     Valdovui Čekijos karaliui išvykus, magistras ir broliai netruko paruošti visa, kas
@@ -95,7 +105,8 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - id: c-59215
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
   citata_originali: |
     kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
     Paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten

@@ -107,7 +107,8 @@ Nenurodyta
 - id: c-82984
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 285."
   citata_originali: |
     Tačiau savo kai­
     lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje
@@ -131,7 +132,8 @@ Nenurodyta
 - id: c-82985
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 285-286"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 285-286."
   citata_originali: |
     Pagaliau
     karaliaus raštas ponui Abramui, iž­
@@ -207,7 +209,8 @@ Nenurodyta
 - id: c-82986
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284."
   citata_originali: |
     243,
     sqq.

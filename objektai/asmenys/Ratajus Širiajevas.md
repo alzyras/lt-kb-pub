@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-93601c308f66ae03780fcb39"
+canonical_name: "Ratajus Širiajevas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ratajus Širiajevas"]
+sameAs: []
+canonical_biography: "Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas."
 ---
 # Ratajus Širiajevas
 
@@ -51,7 +58,8 @@ Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
 - id: c-41605
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 82."
   citata_originali: |
     Didžiojo kunigaikš-
     čio dvaro pajėgoms vadovavo Ratajus Ši-
@@ -74,7 +82,8 @@ Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
 - id: c-167148
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 82."
   citata_originali: |
     bojarinų Grigorijaus Fiodorovičiaus
     Davidovo, Ivano Andrejevičiaus Čelia-

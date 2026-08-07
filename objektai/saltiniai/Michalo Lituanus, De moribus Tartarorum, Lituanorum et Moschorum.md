@@ -55,7 +55,8 @@ Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Na
 - id: c-174680
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 498"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 498."
   citata_originali: |
     De
     diis samagitarum caeterorumque Sarmatarum et falsorum Chris­

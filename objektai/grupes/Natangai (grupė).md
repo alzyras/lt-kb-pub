@@ -46,9 +46,9 @@ Lygia dalia kiti Vitevudo sūnūs: Šalavo, Natango, Barto, Galindo, Varmo, Ogo,
 ## Citatos
 
 - id: c-184586
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 70"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 70."
   citata_originali: |
     Ketvirtajam sūnui teko kraštas tarp upių Ska­
     ros, Boiko ir Kurteno, kursai įkūręs tenai pilį Stain-

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-91bfc82d2fcbbc181598e4c8"
+canonical_name: "Burchardas iš Hornhauzeno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Burchardas iš Hornhauzeno"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio kalno Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas ten Livonijos broliams iš Prūsijos žemės kaip magistras. Dusburgietis teigia, kad upės350, žuvo brolis Burchardas, Livonijos magistras351, ir brolis Henrikas Botelis, Prūsijos maršalas, su jais 150 brolių352, o dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų skaičiaus."
 ---
 # Burchardas iš Hornhauzeno
 
@@ -95,7 +102,8 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 - id: c-60726
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 112-113"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112-113."
   citata_originali: |
     Ilgą laiką sėkmei
     nekrypstant nei  į vieną, nei  į kitą pusę, galop broliai, viešpačiui leidžiant, pralaimėjo,
@@ -132,7 +140,8 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 - id: c-60727
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111."
   citata_originali: |
     Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno
     Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas

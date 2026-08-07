@@ -53,7 +53,8 @@ Narbutas Malte-Brunui priskiria nuomonę, kad Kaukazo pavadinimas išvedamas iš
 - id: c-173431
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Kijevo Plikasis kalnas garsėjo 1
     1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi­

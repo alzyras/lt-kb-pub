@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e210455890652caef9d2e9ab"
+canonical_name: "Olegas (Riazanės didysis kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Olegas (Riazanės didysis kunigaikštis)"]
+sameAs: []
+canonical_biography: "1396 m. Riazanės didysis kunigaikštis Olegas ir kiti „ėjo prieš Lietuvą ir daug pikto padarė“."
 ---
 # Olegas (Riazanės didysis kunigaikštis)
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-41424
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     1396 m. Riazanės didysis kunigaikš-
     tis Olegas ir kiti „ėjo prieš Lietuvą ir

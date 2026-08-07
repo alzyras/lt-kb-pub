@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8e4a29183b099bf5a2acc66f"
+canonical_name: "Turgaus aikštė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Turgaus aikštė"]
+sameAs: []
+canonical_biography: "Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikuriančio miesto Turgaus aikštės, matyt, greta uosto ir muitinės. Centre buvo išplanuota netaisyklingo keturkampio 2,6 ha Turgaus aikštė. Rotušė buvo pradėta statyti Turgaus aikštės viduryje."
+place_authority: true
+historical_names: []
 ---
 # Turgaus aikštė
 
@@ -113,9 +122,9 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
 ## Citatos
 
 - id: c-185032
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 120"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 120."
   citata_originali: |
     Pranciškonų parinkimą galima būtų aiškinti ir jų patyrimu
     Lietuvoje, ir tuo, kad du pirmieji Vilniaus vyskupai, į kurių vyskupiją įėjo ir Kaunas,
@@ -132,9 +141,9 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
     - t-001
 
 - id: c-185033
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 128"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 128."
   citata_originali: |
     Nors, kaip sakyta, nieko
     nežinome apie lokatorių, miesto kūrimosi organizatorių, jo darbo pasekmės aiškiai
@@ -149,9 +158,9 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
     - t-002
 
 - id: c-185034
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 202"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 202."
   citata_originali: |
     Kur
     minėti anksčiau išvardinti ponai tarėjai šio miesto amžinai atminčiai ir garbei pagal šventą,
@@ -169,9 +178,9 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
     - t-003
 
 - id: c-185035
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 254"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 254."
   citata_originali: |
     Turgus buvo viena iš svarbiausių Kauno vietų, jis turėjo net institucijos požymių.
     Turgaus aikštė buvo išties ankstyvas miesto urbanistinis elementas, atsiradęs pačiais
@@ -186,9 +195,9 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
     - t-004
 
 - id: c-185036
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 301."
   citata_originali: |
     Nuomojamos buvo ir miesto svarstyklės, prie jų esančios saikų (statinių) matavimo
     patalpos (pomierze beczkowe), vaškinė (topnica mieska, miesto vaško lydymo krosnis).
@@ -204,9 +213,9 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
     - t-005
 
 - id: c-185037
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 301."
   citata_originali: |
     Tame pat pastate galėjo būti tikrinami saikai ar matuoja-
     mos birios prekės. Turgaus aikštėje buvo ir vaškinė, bene 6 krosnys. Nuomos dydis vėlgi
@@ -220,9 +229,9 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
     - t-006
 
 - id: c-185038
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 328"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 328."
   citata_originali: |
     Kauno pavieto maršalo Aleksandro Masalskio
     pastangomis. Vienuolynui buvo iš Kauno miestiečių nupirkti ar kitaip įsigyti Turgaus

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3b46efc7f7d11320c8033a69"
+canonical_name: "Sudeikiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sudeikiai"]
+sameAs: []
+canonical_biography: "Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras, atsiliepė Airiogaloje, Kra­ žiuose, pasiekė net Medininkus, kur gyveno vyskupas, ir kitas Žemaičių vietas."
+place_authority: true
+historical_names: []
 ---
 # Sudeikiai
 
@@ -51,7 +60,8 @@ Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras,
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 130."
   citata_originali: |
     Prie jų prisidėjo taip pat ir uolesni seno
     lietuvių tikėjimo garbintojai, kurie buvo priešingi įvedamam ka­

@@ -69,7 +69,8 @@ media_all_json: |-
 - id: c-44818
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 211."
   citata_originali: |
     Viršila Antanas Šukys aprašo vieną nutikimą žvalgyboje.
     „Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į
@@ -87,7 +88,8 @@ media_all_json: |-
 - id: c-167056
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 211."
   citata_originali: |
     „Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į
     žvalgybą, jiems vadovavo vyresnysis puskarininkis. Žvalgyba susi-

@@ -59,7 +59,8 @@ Plačiai pasiremdamas Kauno vyskupijos kurijos archyvine medžiaga, jis išleido
 - id: c-33778
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 67."
   citata_originali: |
     Jau 1911 m. jis išleido «Lietuvos istoriją»,
     jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas

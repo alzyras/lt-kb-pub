@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-63400
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Apie daugybės Kulmenzės miestiečių žūtį
 
@@ -92,7 +93,8 @@ Nenurodyta
 - id: c-63403
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
   citata_originali: |
     Po to priėjo Torunę ir sudegino
     ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę

@@ -91,6 +91,7 @@ Nenurodyta
   temporaliniai_duomenys: "įvykio data: 1429 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako datą ir suvažiavimo paskirtį."
+  vertinimo_atnaujinta: "2026-07-26T17:35:53Z"
   pagrindžia:
     - c-23136
 
@@ -121,14 +122,21 @@ Nenurodyta
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Luckas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lucko suvažiavimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Luckas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lucko suvažiavimas\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176087
 
 <a id="claim-t-200708"></a>
 - t-005
-  teiginys: "Viljamas Pochliobkinas 1429 m. Lucko suvažiavimą siejo su Genujos pasiuntinių Jogailai ir Vytautui demonstruotu distiliuotu alkoholiu, bet Laužikas pažymi, kad to nepatvirtina nepriklausomi šaltiniai."
-  atnaujinta: "2026-07-14 18:18"
+  teiginys: "Pasak Viljamo Pochliobkino, 1429 m. Lucko suvažiavime Genujos pasiuntiniai Jogailai ir Vytautui demonstravo distiliuotą alkoholį kaip vaistą, tačiau šis teiginys nepriklausomais šaltiniais nepatvirtintas."
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -143,8 +151,8 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
   temporaliniai_duomenys: "įvykio data: 1429 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pritaikytas Lucko suvažiavimui ir išlaikyta dviguba atribucija. Nepridėta fakto, kad demonstravimas tikrai įvyko."
-  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
+  temporalinis_llm_pakomentavimas: "Išlaikyta atribucija, aiškiai nurodyta įvykio data ir pridėta šaltinyje pateikta pastaba apie nepriklausomo patvirtinimo stoką."
+  vertinimo_atnaujinta: "2026-07-26T17:35:53Z"
   pagrindžia:
     - c-184053
 
@@ -179,7 +187,8 @@ Nenurodyta
 - id: c-23136
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 51."
   citata_originali: |
     tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo
     svarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo
@@ -209,7 +218,8 @@ Nenurodyta
 - id: c-73097
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 51."
   citata_originali: |
     Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
     Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
@@ -237,7 +247,8 @@ Nenurodyta
 - id: c-176087
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 417"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 417."
   citata_originali: |
     Vytautui išėjus, senatas kuo rimčiau­
     siai paaiškino karaliui, kad, pritardamas pavojingiems ir
@@ -269,6 +280,6 @@ Nenurodyta
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:35"
   pagrindzia:
     - t-005

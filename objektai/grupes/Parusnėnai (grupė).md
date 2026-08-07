@@ -46,9 +46,9 @@ Nuo tų pergalių meldžionų apniko šiurpulys parusnėnus ir taip išguro, jog
 ## Citatos
 
 - id: c-184594
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 435"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 435."
   citata_originali: |
     Nuo tų pergalių meldžionų
     apniko šiurpulys parusnėnus ir taip išguro, jog nie­

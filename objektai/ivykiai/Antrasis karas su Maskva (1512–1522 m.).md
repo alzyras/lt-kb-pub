@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-01814
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 217."
   citata_originali: |
     Karas prasidėjo 1512 m. Visos Maskvos jėgos buvo nu-
     kreiptos į Smolenską. Jis buvo net 3 sykius apgultas ir pagaliau,

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8ef03a117b5020ac07ed0fd0"
+canonical_name: "Ottonas Luterbergas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ottonas Luterbergas"]
+sameAs: []
+canonical_biography: "Kovoje buvo nukautas Livonijos magistras Ottonas Luterbergas, taip pat 52 Ordino broliai (karo vadai)."
 ---
 # Ottonas Luterbergas
 
@@ -50,7 +57,8 @@ Kovoje buvo nukautas Livonijos magistras Ottonas Luterbergas, taip pat 52 Ordino
 - id: c-41202
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 31."
   citata_originali: |
     Kovoje buvo nukautas Livonijos ma-
     gistras Ottonas Luterbergas, taip pat

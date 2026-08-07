@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f149a395a8c11eaca9b82bd6"
+canonical_name: "Frotonas III"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Frotonas III"]
+sameAs: []
+canonical_biography: "Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. Teodoro Narbuto pasakojime Frotono III sūnus Fridleifas Rusioje augo pas Chunigardijos gimines ir susigrąžino Danijos sostą. Frotonas III kariavo su slavais, kurių karvedys Strunikas1 buvo nukautas."
 ---
 # Frotonas III
 
@@ -32,15 +39,22 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
 <a id="claim-t-191140"></a>
 - t-001
   teiginys: "Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Frotonas III: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frotonas III\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
-    - c-174023
+    - c-174022
 
 <a id="claim-t-191141"></a>
 - t-002
@@ -79,7 +93,8 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
 - id: c-174022
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     Tai patvir­
     tina Nestoro pateiktos žinios, kad skandinavams priklau­
@@ -95,14 +110,17 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   citata_rodoma: "Tai patvir­\ntina Nestoro pateiktos žinios, kad skandinavams priklau­\nsė daug kraštų ir tautų2. Torfėjas, chronologiškai vardijęs\ndanų istorijos įvykius, palygintus su tiksliausiais skaičia­\nvimais, Frotono III valdymą sieja su III krikščioniškosios\neros amžiumi.\n234\nIslandų sakmėse, vadinamose šiaurinėmis sagomis,\nesama žinių apie įžymų rusų karalių, vadinamą Zugurla-\nmu, kuris, anot Torfėjo chronologinių skaičiavimų, taip\npat gyveno III amžiuje3."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-174023
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
   citata_originali: |
     Visi Šie įvykiai siejami su III amžiumi.
     235
@@ -122,13 +140,13 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-179312
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
   citata_originali: |
     Pirmiausia jis kariavo su slavais, kurių
     karvedys Strunikas1 buvo nukautas. Pasak istorinių skai­

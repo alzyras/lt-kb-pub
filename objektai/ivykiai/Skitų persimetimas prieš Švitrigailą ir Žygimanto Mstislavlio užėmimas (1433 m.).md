@@ -108,7 +108,7 @@ Nenurodyta
 <a id="claim-t-196255"></a>
 - t-004
   teiginys: "Kojelavičius skitų keliamą pavojų aiškino kaip aukščiausiojo nukreiptą grėsmę prieš patį Boleslovą."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -151,7 +151,8 @@ Nenurodyta
 - id: c-169000
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 449"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 449."
   citata_originali: |
     Kur kas didesnį
     pavojų kėlė skitai, tačiau aukščiausiasis nukreipė šią
@@ -180,7 +181,8 @@ Nenurodyta
 - id: c-169001
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 449"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 449."
   citata_originali: |
     Pakviesta Boleslovo, pažadė­
     jusio gerą atlyginimą, susitel­
@@ -207,7 +209,8 @@ Nenurodyta
 - id: c-169002
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 449"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 449."
   citata_originali: |
     Tik rudens
     pabaigoje paliko Žygimantas

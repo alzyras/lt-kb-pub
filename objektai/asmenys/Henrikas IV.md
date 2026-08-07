@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8eaff0a094c7e16ecae49b5a"
+canonical_name: "Henrikas IV"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas IV"]
+sameAs: []
+canonical_biography: "Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (1399-1413), kuris paliko smulkias savo žygio sąskaitas^18."
 ---
 # Henrikas IV
 
@@ -61,7 +68,8 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
 - id: c-32736
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 313."
   citata_originali: |
     Vaka­
     ruose atlikus didelio masto propagandą, sugužėjo riterių ir piligrimų

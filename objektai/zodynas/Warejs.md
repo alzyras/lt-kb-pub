@@ -141,7 +141,8 @@ Etymologinis žodis, kuriuo Pretorijus aiškina variagų vardą.
 - id: c-175093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Tai, žinoma, vien panašumai, kuriuos
     pastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,

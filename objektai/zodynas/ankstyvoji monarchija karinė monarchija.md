@@ -96,7 +96,8 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 - id: c-24741
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32."
   citata_originali: |
     Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
     nas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-
@@ -116,7 +117,8 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 - id: c-24742
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 36."
   citata_originali: |
     Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs inten-
     syvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia
@@ -136,7 +138,8 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 - id: c-166791
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32."
   citata_originali: |
     Gediminas nebuvo pirmas šios dinastijos atsto-
     vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus. Valdant

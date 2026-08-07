@@ -98,7 +98,8 @@ Nenurodyta
 - id: c-174913
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 504"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 504."
   citata_originali: |
     Į ją ir buvo me­
     tami laužaviečių likučiai. Per daugelį metų taip išaugdavo pilka­
@@ -116,7 +117,8 @@ Nenurodyta
 - id: c-175280
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 504"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 504."
   citata_originali: |
     Per daugelį metų taip išaugdavo pilka­
     piai. Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d720b7393d5170ba95c12d9"
+canonical_name: "J. Puzyna"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Puzyna"]
+sameAs: []
+canonical_biography: "Puzyna, autorius disertacijos apie Švitrigailą, davė eilę studijų genealoginiais klausimais. Puzyna : Korjat i Korjatowicze , AW, t. Puzyna, J."
 ---
 # J. Puzyna
 
@@ -61,7 +68,8 @@ Puzyna, autorius disertacijos apie Švitrigailą, davė eilę studijų genealogi
 - id: c-32977
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 253."
   citata_originali: |
     Ivinskis, Z. : Liubartas Gediminaitis , LE, t. 16, 318-320 p. — Kra­
     sauskas, R. : Manivydas , LE, t. 17, 242 p. — Ljubavskij, M. : Obrazo-

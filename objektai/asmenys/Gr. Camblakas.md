@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d181f9fa6fb5ae3e7587b56b"
+canonical_name: "Gr. Camblakas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gr. Camblakas"]
+sameAs: []
+canonical_biography: "Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kėlė aptariamą klausimą. 1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką. Camblako stačiatikių delegaciją, turėjusią pagrįsti siekį gyventi unijoje su Katalikų bažnyčia."
 ---
 # Gr. Camblakas
 
@@ -85,7 +92,8 @@ Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kė
 - id: c-32732
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 383."
   citata_originali: |
     Dar Konstancos susirinkime Vytauto vardu
     tą klausimą rūpestingai kėlė metropolitas Gr. Camblakas.
@@ -105,7 +113,8 @@ Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kė
 - id: c-176114
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 390"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 390."
   citata_originali: |
     Nuo seno įpratę
     teikti šventuosius sakramentus pagal graikų papročius,
@@ -129,7 +138,8 @@ Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kė
 - id: c-176292
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 45."
   citata_originali: |
     1415 m. Naugarduke sušaukęs LDK stačiatikių
     vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
@@ -151,7 +161,8 @@ Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kė
 - id: c-176293
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     1418 m. Vytautas siunčia į
     Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-

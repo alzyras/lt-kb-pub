@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e8049f56a6b44281dee1c4e2"
+canonical_name: "Mikalojus Daukša"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Daukša","objektai/autoriai/Mikalojus Daukša"]
+sameAs: []
+canonical_biography: "1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišką knygą LDK – „Katekizmą“, o 1599 m. kitą lietuvišką leidinį – „Postilė“, kurios pratarmėje kreipėsi į Lietuvos visuomenę, ragindamas kurti raštiją lietuvių kalba: „Kurgi, sakau, pasaulyje yra tauta, tokia. Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalba sukurti oficialųjį kultūros modelį. Daukšos lietuviakalbė programa nebuvo įgyvendinta."
 ---
 # Mikalojus Daukša
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-75341
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 74."
   citata_originali: |
     aiškinami lotyniškai, o tik paskui lietuviškai. K.  Sirvydo lietuviški pa-
     mokslai, vėlesni giesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.)

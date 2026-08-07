@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-12b355574f209f4496220515"
+canonical_name: "Vincas Krėvė-Mickevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vincas Krėvė-Mickevičius"]
+sameAs: []
+canonical_biography: "Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt."
 ---
 # Vincas Krėvė-Mickevičius
 
@@ -67,7 +74,8 @@ Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironi
 - id: c-22056
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Kultūros suvienodinimas
     J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros
@@ -91,7 +99,8 @@ Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironi
 - id: c-22057
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Lietu-
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose

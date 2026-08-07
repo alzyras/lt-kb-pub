@@ -83,7 +83,8 @@ Nenurodyta
 - id: c-83165
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 277-278"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 277-278."
   citata_originali: |
     Tačiau miesto tary­
     ba, be tų pačių miestiečių leidimo, negalėjo įvesti jokių

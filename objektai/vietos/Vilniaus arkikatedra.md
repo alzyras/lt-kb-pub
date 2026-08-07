@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dd9ca3da53d3ca5d0e06ebd0"
+canonical_name: "Vilniaus arkikatedra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus arkikatedra"]
+sameAs: []
+canonical_biography: "Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pritaikytos uždarytos bažnyčios: Šv. Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus arkikatedrą."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus arkikatedra
 
@@ -32,7 +41,8 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 - id: c-68879
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
   citata_originali: |
     Už-
     darytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pri-
@@ -50,7 +60,8 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 - id: c-68880
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 236."
   citata_originali: |
     Kiekvienas žmogus, dalyvaujantis tokioje akcijoje,
     jautė, kad nuo jo priklauso Lietuvos ateitis. Per keletą mėnesių LPS pa-

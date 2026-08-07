@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3912f300989b44e52fc4b351"
+canonical_name: "Pernarava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pernarava"]
+sameAs: []
+canonical_biography: "Kojelavičiaus pasakojime Prūsų magistras, remiamas Bavarijos grafo Volfgango ir Livonijos kryžiuočių, sunaikino Ariogalos, Pernaravos ir Labūnavos žemes."
+place_authority: true
+historical_names: []
 ---
 # Pernarava
 
@@ -103,7 +112,8 @@ Kojelavičiaus pasakojime Prūsų magistras, remiamas Bavarijos grafo Volfgango 
 - id: c-168655
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 245-246"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 245-246."
   citata_originali: |
     Neatnešė ato­
     kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs

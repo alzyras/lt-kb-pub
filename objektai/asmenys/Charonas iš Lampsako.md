@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-143383e793aa0c7347991de6"
+canonical_name: "Charonas iš Lampsako"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Charonas iš Lampsako"]
+sameAs: []
+canonical_biography: "Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpino griūvančiu ąžuolu."
 ---
 # Charonas iš Lampsako
 
@@ -46,7 +53,8 @@ Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpi
 - id: c-172973
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
   citata_originali: |
     Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­
     nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek

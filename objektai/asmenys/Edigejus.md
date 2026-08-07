@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-60f68cae9d49776a9ebc4ff4"
+canonical_name: "Edigejus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Edigejus"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Edigejus
 
@@ -32,7 +39,8 @@ Nenurodyta
 - id: c-169559
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     Prasidėjo mūšis, ilgą laiką pergalė nekrypo nei
     į vieną, nei į kitą pusę, nes abi šalys turėjo tiek pat

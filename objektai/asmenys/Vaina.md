@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e938eb3712e8f5b09c784d04"
+canonical_name: "Vaina"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaina"]
+sameAs: []
+canonical_biography: "Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husarams buvo pasiųstas pastiprinimas — kelios kuršiečių reitarų kuopos."
 ---
 # Vaina
 
@@ -68,7 +75,8 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
 - id: c-44555
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 107."
   citata_originali: |
     @ J.K. Chodkevičius, pastebėjęs, kad švedų
     pėstininkų rikiuotė prarado darnumą,
@@ -86,7 +94,8 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
 - id: c-44556
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 108."
   citata_originali: |
     Lietuvos
     arkebuzieriai rėmė ugnimi husarų ataką,

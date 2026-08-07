@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a60dbc2f8c35b2ff7d133548"
+canonical_name: "Apaščia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Apaščia"]
+sameAs: []
+canonical_biography: "Žemaičiuose jos ėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo pratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli dabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos valdų."
+place_authority: true
+historical_names: []
 ---
 # Apaščia
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-33789
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 333"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 333."
   citata_originali: |
     Salyno akte pirmą kartą apytikriai
     buvo nužymėtos ordinui tenkančių žemių sienos. Žemaičiuose jos

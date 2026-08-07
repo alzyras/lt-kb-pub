@@ -37,7 +37,8 @@ Dusburgietis teigia, kad valančius M.
 - id: c-61968
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 275."
   citata_originali: |
     Valančius M. Raštai. T. 1.— V., 1972.
   citata_rodoma: "Valančius M. Raštai. T. 1.— V., 1972."

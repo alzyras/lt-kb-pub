@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-708e7810b7955e11465b1f37"
+canonical_name: "Varėnos, Valkininkų ir Merkinės miškai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varėnos, Valkininkų ir Merkinės miškai"]
+sameAs: []
+canonical_biography: "Pagaliau šie miškai, kaip ir tie, kur per keliolika mylių nusidriekę nuo Rūdninkų link Nemuno: Varėnos, Valkininkų, Merkinės ir kiti, - priklauso amžinosioms girioms, siekiančioms pačią žmonių atsiradimo žemės rutulyje pradžią."
+place_authority: true
+historical_names: []
 ---
 # Varėnos, Valkininkų ir Merkinės miškai
 
@@ -50,7 +59,8 @@ Pagaliau šie miškai, kaip ir tie, kur per keliolika mylių nusidriekę nuo Rū
 - id: c-82228
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 272."
   citata_originali: |
     Viena iš girių, esanti prie
     pat Rūdninkų, ir dabar tebevadinama Królewski ogród, lietu­

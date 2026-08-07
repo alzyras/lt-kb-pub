@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a596cdaeea0b024a7458a923"
+canonical_name: "Tavernjė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Tavernjė"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado pas čerkesų ir kumanų totorius."
 ---
 # Tavernjė
 
@@ -53,7 +60,8 @@ Narbutas rašo, kad Tavernjė tam tikrą Motinos žemės kulto panašybę rado p
 - id: c-173290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
   citata_originali: |
     Todėl apie ją šį bei tą rašo visi kronikininkai, ir beveik
     kiekvienas savitai.

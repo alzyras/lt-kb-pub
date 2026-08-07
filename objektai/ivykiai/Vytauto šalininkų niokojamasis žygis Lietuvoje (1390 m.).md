@@ -74,7 +74,8 @@ Nenurodyta
 - id: c-169194
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 311."
   citata_originali: |
     Tuo tarpu Vytautas, slėpdamas
     savo priešiškumą ir daug galvodamas apie karą, vėl

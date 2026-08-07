@@ -91,7 +91,8 @@ Papildomos aiškios formos neišskirtos.
 - id: c-09588
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 104-105"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 104-105."
   citata_originali: |
     Pasitiekus po kelių nedėlių^440 , kaip buvo sutarta, jaunasis sukvietęs savo gentis, susiedus ir
         prietelius, tarp kurių vienas buvo jų vyresniuoju, arba gaspadorium, vadinamas marčelga, nuo to,
@@ -109,9 +110,9 @@ Papildomos aiškios formos neišskirtos.
     - t-001
 
 - id: c-184301
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 339"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 339."
   citata_originali: |
     Tuo tarpu kariauna lietuvių kas dieną di­
     dinos, o kryžėjų stipdama mažinos. Tą matydamas,
@@ -131,9 +132,9 @@ Papildomos aiškios formos neišskirtos.
     - t-002
 
 - id: c-184302
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 511"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 511."
   citata_originali: |
     Nujau­
     tęs tą, Vytenis steigė, jog ne vien kryžėjus nuo pi­

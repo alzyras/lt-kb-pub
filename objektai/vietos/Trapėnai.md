@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-74b9fcfe1382c4d954006800"
+canonical_name: "Trapėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trapėnai"]
+sameAs: []
+canonical_biography: "Sužinoję apie Naujojo Kauno statybą, Ordino magistras su kariuomene 1363 m. balandį atplaukė Nemunu, priplaukęs Trapénus (žemiau Nevėžio žiočių), paliko laivus, juos apkasęs gynybiniu pylimu, ir atėjo prie Naujojo Kauno pilies, „pradėtos atstatinėti."
+place_authority: true
+historical_names: []
 ---
 # Trapėnai
 
@@ -61,7 +70,8 @@ Sužinoję apie Naujojo Kauno statybą, Ordino magistras su kariuomene 1363 m. b
 - id: c-45368
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 44."
   citata_originali: |
     Sužinoję apie Naujojo Kauno statybą,
     Ordino magistras su kariuomene 1363 m.

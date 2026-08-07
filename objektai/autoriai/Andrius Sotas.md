@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c9f868cb404e14558f83cc5"
+canonical_name: "Andrius Sotas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Andrius Sotas"]
+sameAs: []
+canonical_biography: "Andriui Sotui, dar vadinamam Schottu, priskiriamas 1738 m. veikalas „Prussia Christiana sive de introductione religionis Christiane in Prussia“."
 ---
 # Andrius Sotas
 
@@ -58,7 +65,8 @@ Andriui Sotui, dar vadinamam Schottu, priskiriamas 1738 m. veikalas „Prussia C
 - id: c-174514
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 433."
   citata_originali: |
     Turimas omenyje žymaus bibliografo Andriaus
     Soto

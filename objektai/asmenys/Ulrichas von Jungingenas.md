@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4335eed7fdf906801ff82c7"
+canonical_name: "Ulrichas von Jungingenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["didysis magistras Ulrichas fon Jungingenas","Jungingenas","Ulricbas von Jungingenas","Ulrichas von Jungingenas","Ulricho fon Jungingeno"]
+sameAs: []
+canonical_biography: "Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras, 1410 m. žuvęs Žalgirio mūšyje ir iki jo provokavęs kautynes nuogų kalavijų iššūkiu. Jis minimas ir platesniame Ordino vadovybės žūties bei pralaimėjimo kontekste."
 ---
 # Ulrichas von Jungingenas
 
@@ -97,7 +104,8 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 - id: c-166268
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 347."
   citata_originali: |
     Įvairių tautų tyrinėtojai skirtingai išryškino jose ir ati­
     tinkamų tautų (lietuvių, lenkų, Smolensko pulkų) vaidmenį.
@@ -117,7 +125,8 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 107."
   citata_originali: |
     Šešiolika kryžiuo­
     čių vėliavų dar visai mūšy nedalyvavusių, ėmė slinkti į kovos
@@ -136,7 +145,8 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 108."
   citata_originali: |
     Lenkai,
     pamatę sugrįžusius lietuvius, atgavo dvasią ir ėmė smarkiau

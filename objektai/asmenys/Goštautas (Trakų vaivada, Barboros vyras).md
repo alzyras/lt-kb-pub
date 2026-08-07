@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cffe282c343049641b56ae47"
+canonical_name: "Goštautas (Trakų vaivada, Barboros vyras)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Goštautas (Trakų vaivada, Barboros vyras)"]
+sameAs: []
+canonical_biography: "272 ## Puslapis 289 IV KNYGA Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­ teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­ lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio atrado kuklumą ir sulaukė prielankumo."
 ---
 # Goštautas (Trakų vaivada, Barboros vyras)
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-83659
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 288-289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 288-289."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I I  TOMAS
     29 to Augusto 1543 metais, numirė Vil-

@@ -100,7 +100,8 @@ Kojelavičiaus pasakojime Algirdas viešai laikėsi stabmeldžių apeigų, bet J
 - id: c-168755
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
   citata_originali: |
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
     vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
@@ -132,7 +133,8 @@ Kojelavičiaus pasakojime Algirdas viešai laikėsi stabmeldžių apeigų, bet J
 - id: c-168756
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 225."
   citata_originali: |
     Kryžiaus baž­
     nytėlė. Čia įsikūrę vienuo­

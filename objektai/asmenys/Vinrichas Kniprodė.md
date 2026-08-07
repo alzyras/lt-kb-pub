@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6fff212cbc1fed82442dc308"
+canonical_name: "Vinrichas Kniprodė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vinrichas Kniprodė"]
+sameAs: []
+canonical_biography: "Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­ sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­ liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė. Tąkart Vinrichas, vasario pradžioje kirtęs Lie­ tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­ binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių polaidžio."
 ---
 # Vinrichas Kniprodė
 
@@ -102,7 +109,8 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 - id: c-83569
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 46-47"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 46-47."
   citata_originali: |
     30
 
@@ -127,7 +135,8 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 - id: c-83570
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 46."
   citata_originali: |
     Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
     miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
@@ -150,7 +159,8 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 - id: c-171534
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
   citata_originali: |
     Turime kažkokį aprašymą šio medžio, kurį Bo­
     leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­

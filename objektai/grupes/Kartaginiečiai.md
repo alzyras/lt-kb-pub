@@ -67,7 +67,8 @@ Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio
 - id: c-175722
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 153."
   citata_originali: |
     158
     Gintaro geidė labiau apsišvietusios senovės tautos, to­
@@ -93,7 +94,8 @@ Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio
 - id: c-179223
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
   citata_originali: |
     Tuo metu Masilija pradėjo rungtyniauti su
     Kartagina; masiliečių laivai plaukdavo iki Tarteso tų pa­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6a881e4fbc1de87503882a65"
+canonical_name: "Spytekas iš Melštyno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Spytekas iš Melštyno"]
+sameAs: []
+canonical_biography: "Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 400 pavienių lenkų riterių, tokių kaip Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas bei kiti."
 ---
 # Spytekas iš Melštyno
 
@@ -51,7 +58,8 @@ media_all_json: |-
 - id: c-44513
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     O Vytautas atsakęs:
     „caro Tochtamišo neišduosiu, o su caru

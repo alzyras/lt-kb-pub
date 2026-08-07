@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-91a9729f119dde3ac531f11d"
+canonical_name: "Sofija (Švitrigailos žmona)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sofija (Švitrigailos žmona)"]
+sameAs: []
+canonical_biography: "Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą Ašmenoje, esą jis neįstengęs iš­ sivežti kartu - tai nėra tikslu, nes tais pat 1432 metais lapkričio 30 dieną Švitrigaila, rašydamas Livonijos ma­ gistrui, užsimena, kad žmona jam."
 ---
 # Sofija (Švitrigailos žmona)
 
@@ -61,7 +68,8 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
 - id: c-83834
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 232."
   citata_originali: |
     Taigi
     klysta Kojelavičius ir Strij-

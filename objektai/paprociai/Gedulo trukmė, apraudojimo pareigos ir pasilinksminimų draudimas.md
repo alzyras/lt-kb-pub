@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-172794
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     Erazmas Ste­
     la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina,

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f87de1acf8b37131be5f608f"
+canonical_name: "J. Posilge"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Posilge"]
+sameAs: []
+canonical_biography: "Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von Posilge."
 ---
 # J. Posilge
 
@@ -70,7 +77,8 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
 - id: c-29410
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 334."
   citata_originali: |
     Daug įdomių žinių iš to
     laikotarpio yra patiekęs kronikininkas Jonas von Posilge. Jis pa­
@@ -90,7 +98,8 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
 - id: c-167720
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 334."
   citata_originali: |
     Gi įkaitus
     kryžiuočiai ėmė šimtais iš įvairių vietų. Daug įdomių žinių iš to

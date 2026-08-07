@@ -45,7 +45,8 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
 - id: c-61682
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 207."
   citata_originali: |
     Ten suplaukė tokia galybė laivų, kad iš jų pasidarė tiltas per Nemuną,
     kuriuo kiekvienas galėjo saugiai pereiti į netikėlių krantą; šiuo tiltu lietuviai kur kas

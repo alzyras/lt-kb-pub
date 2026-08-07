@@ -50,7 +50,8 @@ Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą Nacionalinio 
 - id: c-44823
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 253."
   citata_originali: |
     Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą
     Nacionalinio gelbėjimo komitetą, kuris parengė prezidentinio

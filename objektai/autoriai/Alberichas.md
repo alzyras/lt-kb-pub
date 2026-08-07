@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9dffbfe50e58eadd9200b2b"
+canonical_name: "Alberichas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Alberichas"]
+sameAs: []
+canonical_biography: "Alberichas 1228 m. kronikoje, Narbuto perteikimu, tarp įgytinų pagonių provincijų minėjo Prūsiją, Kuršą, Lietuvą, Vitlandiją ir Sembą."
 ---
 # Alberichas
 
@@ -65,7 +72,8 @@ Alberichas 1228 m. kronikoje, Narbuto perteikimu, tarp įgytinų pagonių provin
 - id: c-174548
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Taip pat apie skirtingas šalis ra­
     šo Alberichas savo 1228 metų kronikoje (Leibnitz: Access.

@@ -53,9 +53,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184597
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 20-21"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 20-21."
   citata_originali: |
     Sigismuntas III Augustas 1540—1572.
     7-oji dalis

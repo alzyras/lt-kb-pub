@@ -39,6 +39,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bbfdc83d256792321090af57"
+canonical_name: "Ukmergė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ukmergė"]
+sameAs: []
+canonical_biography: "Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Ukmergės mūšis (1435 m.)."
+place_authority: true
+historical_names: []
 ---
 # Ukmergė
 
@@ -515,7 +524,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-43930
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Čia prisijungė Livonijos ma-
     gistro kariuomenė ir šios jungtinės pajė-
@@ -539,7 +549,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-43935
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 187."
   citata_originali: |
     Po mūšio
     Kadangi Ukmergės rinktinė buvo per daug
@@ -564,7 +575,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164295
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 187."
   citata_originali: |
     Birželio 3 d. buvo užimti Daugailiai,
     Tauragnai, birželio 4 d. Paberžė.
@@ -587,7 +599,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164296
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 180-181"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 180-181."
   citata_originali: |
     Buvo sukurtas
     generalinis Lietuvos teritorijos nuo bolše-
@@ -615,7 +628,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164297
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 184."
   citata_originali: |
     Telkdama į bolševikų frontą vis daugiau
     naujai suformuotų dalinių, Lietuvos ka-
@@ -637,7 +651,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164298
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 170."
   citata_originali: |
     Švietimui padėjo lenkų kultūros organiza-
     cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
@@ -657,7 +672,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164299
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 41-42"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 41-42."
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
     lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
@@ -707,7 +723,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164301
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 236."
   citata_originali: |
     Čia
     žuvo daugybė livoniečių, tarp jų - Frankas Kirskorffas, Ka­
@@ -730,7 +747,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164302
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 185."
   citata_originali: |
     1435 m. jis sukvietė visus savo sąjungininkus
     — Livonijos ordiną, totorius, rusų kunigaikščius — ir išsiruošė
@@ -750,7 +768,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164305
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 235-236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 235-236."
   citata_originali: |
     Tas įsimintinas mūšis
     20
@@ -775,7 +794,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164307
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 252."
   citata_originali: |
     Per sostinę įgydamas didžiojo kunigaikščio titulą, t. y. vyres­
     niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai
@@ -796,7 +816,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164309
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 235."
   citata_originali: |
     Naudodamasis visuotine neapykanta, kurią per sa­
     vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
@@ -824,7 +845,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164310
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 356."
   citata_originali: |
     Pijarai, niekuo daugiau neužsiimdami,
     kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
@@ -848,7 +870,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 61."
   citata_originali: |
     Prie jų atvykęs Vallenrodas, rado tik pelenų krūvą. Vy­
     tautas tuo tarpu veikė Bopartėnų (į šiaurės vakarus nuo Kau­
@@ -870,7 +893,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164313
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Prieš mūšį
 
@@ -893,7 +917,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164314
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 309."
   citata_originali: |
     Kavars­
     kas nuo Ukmergės nutolęs per 4 my­
@@ -914,7 +939,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-164316
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 180."
   citata_originali: |
     Gegužės 3 d. Panevėžio batalionas, re-
     miamas saksų savanorių, atliko sėkmingą
@@ -937,7 +963,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - id: c-171733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 377."
   citata_originali: |
     Vienoda jų sandara ir tokia pat radimo vieta įtikina,
     jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
@@ -956,9 +983,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-024
 
 - id: c-185013
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 131."
   citata_originali: |
     Kitas kelias į Vilnių driekėsi pietiniu miesto
     pakraščiu ir greičiausiai buvo susijęs su muitine, veikiančia netoli prie Nemuno esan-
@@ -977,9 +1004,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-025
 
 - id: c-185014
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 150."
   citata_originali: |
     Kaunas buvo jų kelyje vykstant į karą ar grįžtant iš jo. 1560 m. Petro
     Miklaševskio kuopai, kurią sudarė 100 karių, buvo nurodyta į Livoniją žygi uoti pro

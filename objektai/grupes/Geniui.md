@@ -66,7 +66,8 @@ Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-sk
 - id: c-175739
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Naru­
     ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
@@ -91,7 +92,8 @@ Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-sk
 - id: c-179221
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Tai pasakoja Amia-
     nas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­

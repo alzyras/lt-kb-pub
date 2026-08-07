@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-97bf244792c2ebf00bdbbeea"
+canonical_name: "Mahometas Aminas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mahometas Aminas"]
+sameAs: []
+canonical_biography: "Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis Lietuvai siūlė sąjungą prieš Maskvą."
 ---
 # Mahometas Aminas
 
@@ -50,7 +57,8 @@ Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis L
 - id: c-44449
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 81."
   citata_originali: |
     Mengli-Girėjus, gavęs žinią apie toto-
     riams fatališkai pasibaigusį mūšį, tuojau pat

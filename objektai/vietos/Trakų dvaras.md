@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d0ff357fce82ab1fd4b850ba"
+canonical_name: "Trakų dvaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trakų dvaras"]
+sameAs: []
+canonical_biography: "Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­ vo su kaimyninėmis valstybėmis, buvo tinkamiausia dirva Lie­ tuvos įžymiausiam kunigaikščiui išaugti."
+place_authority: true
+historical_names: []
 ---
 # Trakų dvaras
 
@@ -52,7 +61,8 @@ Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­ vo su kaimyninėmis 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 276."
   citata_originali: |
     Atkakli jo tėvo kova dėl gimtojo krašto turėjo žadinti ir
     Vytauto sieloje didelę tėvynės meilę — nors apie patriotizmą

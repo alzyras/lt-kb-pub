@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1db97ce4a6e8ef4238b833f2"
+canonical_name: "Helmoldas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Helmoldas"]
+sameAs: []
+canonical_biography: "Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokumentai, neužsimena apie krivį. Helmoldas, Narbuto perteikimu, Baltijos jūros pavadinimą kildino iš žodžio Balteus, reiškiančio „riterio diržą“."
 ---
 # Helmoldas
 
@@ -75,7 +82,8 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
 - id: c-173248
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 421"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 421."
   citata_originali: |
     Čia panagrinėsime dar trečią priekaištą, kuris galėjo būti
     iškeltas prieš krivio buvimą Prūsijoje praeityje, tai yra kad vi­
@@ -97,7 +105,8 @@ Narbutas nurodė, kad Helmoldas, kaip ir kiti užsienio kronikininkai bei dokume
 - id: c-173581
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
   citata_originali: |
     Senovės skandinavų, gal seniausių šios jūros šei­
     mininkų, kalba Balt arba Beet reiškė vandens telkinį; iš jo

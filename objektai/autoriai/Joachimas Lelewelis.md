@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f01032fd41510a1a998aa63e"
+canonical_name: "Joachimas Lelewelis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Joachimas Lelewelis"]
+sameAs: []
+canonical_biography: "Tokio griežto demokratinio tautos apibrėžimo nerasime nei minėtųjų Daukanto profesorių, nei tuometiniuose Joachimo Lelewelio veikaluose, kuriuose liaudis taip pat laikoma istorijos subjektu."
 ---
 # Joachimas Lelewelis
 
@@ -41,9 +48,9 @@ Tokio griežto demokratinio tautos apibrėžimo nerasime nei minėtųjų Daukant
 ## Citatos
 
 - id: c-184780
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 10"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 10."
   citata_originali: |
     Diduomenė, nutautusi bajorija, kuri bo­
     disi gimtosios ir savosios liaudies, valstiečių, Dau­

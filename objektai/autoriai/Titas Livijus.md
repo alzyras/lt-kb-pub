@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42692511a9de2252721074a1"
+canonical_name: "Titas Livijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Titas Livijus"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Titas Livijus
 

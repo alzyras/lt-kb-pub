@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8471edfd33d511b364e0a7dd"
+canonical_name: "Hugo Grocijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hugo Grocijus"]
+sameAs: []
+canonical_biography: "Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo Geropijų Bekaną. Hugas Grocijus, tyręs budinu ko lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs tyrimai paaiškina istorinę tiesą; tas autorius buvo Geropijus Bekanas3."
 ---
 # Hugo Grocijus
 
@@ -66,7 +73,8 @@ Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo Geropijų Bekaną. H
 - id: c-174454
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
   citata_originali: |
     Lietuvių protėviams atėjus į šiuos
     kraštus, Sambijoje įsikūrė daugiausia senovės budinus
@@ -89,7 +97,8 @@ Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo Geropijų Bekaną. H
 - id: c-179258
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
   citata_originali: |
     Hugas Grocijus, tyręs budinu ko­
     lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fcfb9c32d67251743572c391"
+canonical_name: "Lenkijos Plikasis kalnas prie Sandomiro"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lenkijos Plikasis kalnas prie Sandomiro"]
+sameAs: []
+canonical_biography: "Narbutas Lenkijos Plikąjį kalną prie Sandomiro įvardijo kaip garsų kalną, vėliau vadintą Šventojo Kryžiaus kalnu."
+place_authority: true
+historical_names: []
 ---
 # Lenkijos Plikasis kalnas prie Sandomiro
 
@@ -54,7 +63,8 @@ Narbutas Lenkijos Plikąjį kalną prie Sandomiro įvardijo kaip garsų kalną, 
 - id: c-171905
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Tenai Ku-
     polės šventės (Kupalnica) naktį senės -  jagos, kerėtojos, raga­

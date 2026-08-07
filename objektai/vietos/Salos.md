@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4f280a2d941eb9b6f259ef5"
+canonical_name: "Salos"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Salos"]
+sameAs: []
+canonical_biography: "Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje. „Štai vieną dieną bažnyčioje visais varpais skambina."
+place_authority: true
+historical_names: []
 ---
 # Salos
 
@@ -50,7 +59,8 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 - id: c-45317
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Z. Sierakausko nurodymu jie
 

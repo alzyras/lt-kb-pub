@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5eb7c8f5ce73679bc7a85d34"
+canonical_name: "D. Urbas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["D. Urbas"]
+sameAs: []
+canonical_biography: "D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Raštams“. D. Urbas išvertė 1959 m. Vilniuje išleistus L. A. Jucevičiaus „Raštus“."
 ---
 # D. Urbas
 
@@ -88,7 +95,8 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
 - id: c-173229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 19."
   citata_originali: |
     8 Žr.: Poška D. Raštai / Surinko V. Laurynaitis. Tekstą parengė
     D. Urbas. -  V, 1959. -  P. 330-417.
@@ -104,7 +112,8 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
 - id: c-173230
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 38."
   citata_originali: |
     22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.
     Komentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959.

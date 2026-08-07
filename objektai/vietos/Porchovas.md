@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b56bff28bdeadfa2dece9b77"
+canonical_name: "Porchovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Porchovas"]
+sameAs: []
+canonical_biography: "Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 1000 rublių už belaisvius."
+place_authority: true
+historical_names: []
 ---
 # Porchovas
 
@@ -57,7 +66,8 @@ Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 158."
   citata_originali: |
     Mat,
     Naugardo taikos prašymą parėmė Vytauto kariuomenės rusiš­

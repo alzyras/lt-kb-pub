@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b3fed26ce9f0da1bea8eac7"
+canonical_name: "Lenkų istorikai ir Lietuvos istoriografijos tyrėjai"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lenkų istorikai ir Lietuvos istoriografijos tyrėjai"]
+sameAs: []
+canonical_biography: "Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus Mindaugo laikus^126. Lovmianskis, kuris iki šiol nepaliauja rašęs ir iš Lietuvos istorijos srities, prieš 4 dešimt­ mečius išgarsėjo savo 2-jų tomų veikalu apie Lietuvos visuo­ menės ir valstybės pradžią (LowStud). LIETUVOS ISTORIOGRAFIJA 83 dinastija, nuo Gardino kilęs J."
 ---
 # Lenkų istorikai ir Lietuvos istoriografijos tyrėjai
 
@@ -361,7 +368,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - id: c-30678
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 90."
   citata_originali: |
     Lietuvos istorijai daug palankaus dėmesio skyrė lenkų Vilniaus
     universiteto Lietuvos istorijos katedros prof. St. Zajączkows­
@@ -379,7 +387,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - id: c-30681
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 91."
   citata_originali: |
     Prie žymėtinų Lietuvos istorijos tyrinėtojų priklauso svarbių
     jos istorijos šaltinių leidėjas Wł. Semkowiczius, kuris su
@@ -397,7 +406,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - id: c-163201
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 91."
   citata_originali: |
     Šio objektyvi studija «Tautybių santykiai
     Lietuvoje prieš Liublino uniją » Kaune Švietimo Ministerijos buvo
@@ -419,7 +429,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - id: c-163203
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 91."
   citata_originali: |
     Semkowiczius, kuris su
     lenkų Bažnyčios istoriku J. Fijałeku išleido Vilniaus vysku­
@@ -440,7 +451,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - id: c-163205
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 96."
   citata_originali: |
     Kiti svarbus mūsų istorijai vokiečių anksčiau leisti žur­
     nalai : AF, AM, HGbll, MiLG, kartu su lietuviais leistas MLLG.
@@ -462,7 +474,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - id: c-163206
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 90."
   citata_originali: |
     Zajączkows­
     kis, kuris žemaičių, jotvingių ir kitais Lietuvos XIII-XV amžių
@@ -484,7 +497,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - id: c-163207
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 91."
   citata_originali: |
     Kutrze­
     ba— Lenkijos ir Lietuvos unijos aktus (AUPL). Juos tyrinėjo
@@ -505,7 +519,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - id: c-163209
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 96."
   citata_originali: |
     Prūsų Kuni­
     gaikštystės santykiai su ja. Jie išleido žinomąsias ordino kronikas
@@ -529,7 +544,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - id: c-163210
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 96."
   citata_originali: |
     Iš senesniųjų isto­
     rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
@@ -552,7 +568,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - id: c-163211
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 89."
   citata_originali: |
     Bet ir kiti
     pirmaujantieji lenkų istorijos žurnalai (KH, PH) nuolat duodavo
@@ -575,7 +592,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - id: c-163214
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 90-91"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 90-91."
   citata_originali: |
     Essai de synthese
     historique,_** **Paris 1933 ;** **_Histoire de Pologne_** **, New York 1945 ;** **_From the Union
@@ -604,7 +622,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - id: c-163215
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 89."
   citata_originali: |
     Lenkų bibliografija įvairiais Lietuvos istorijos klausimais yra tokia
     gausi, jog čia reikia pasitenkinti tik pačiais svarbiausiais tyrinė­
@@ -624,7 +643,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - id: c-163216
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 92."
   citata_originali: |
     Beveik
     tą patį galima pasakyti ir apie reformacijos tyrinėtoją St. Kotą.

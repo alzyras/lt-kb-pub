@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e2558f5b88a23d2cc8496d29"
+canonical_name: "W. Kamienieckis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["W. Kamienieckis"]
+sameAs: []
+canonical_biography: "Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra iš 1947 m."
 ---
 # W. Kamienieckis
 
@@ -61,7 +68,8 @@ Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių
 - id: c-33194
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 91."
   citata_originali: |
     Šio objektyvi studija «Tautybių santykiai
     Lietuvoje prieš Liublino uniją » Kaune Švietimo Ministerijos buvo

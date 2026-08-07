@@ -60,7 +60,8 @@ Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiau
 - id: c-82751
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 174."
   citata_originali: |
     Vytautas, vienintelio
     troškimo apimtas, sukviečia pas save įžymiausius šiaurės

@@ -50,14 +50,23 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 <a id="claim-t-175106"></a>
 - t-001
   teiginys: "Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Vėluva: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vėluva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Jungtinėje kariuomenėje tiesiogiai minimi lietuviai, o veiksmas yra Vėluvos pilies apgula."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sūduviai apgulė Vėluva (0.94); Sūduviai kariavo prieš Kryžiuočių ordinas (0.90)"
   temporaliniai_duomenys: "mūšio data: 1262 m.; mūšio data: 1263 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Sūduviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Prieglius“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
   pagrindžia:
-    - c-159252
+    - c-159255
+    - c-159276
 
 <a id="claim-t-175107"></a>
 - t-002
@@ -188,15 +197,22 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 <a id="claim-t-175116"></a>
 - t-010
   teiginys: "Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jotvingiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sūduviai-jotvingiai: owner_note_path, group"
+  ryšio_targeto_parinkimas: "Jotvingiai: mention_match, group, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduviai-jotvingiai\" parinktas kaip owner_note_path. Targetas \"Jotvingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1245 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-159270
+    - c-159257
 
 <a id="claim-t-175117"></a>
 - t-011
@@ -285,12 +301,19 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 <a id="claim-t-175123"></a>
 - t-016
   teiginys: "Sūduviai pranoko kitus kilnumu, turtais ir galybe ir turėjo šešis tūkstančius raitelių bei daug kitokių karių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sūduviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sūduviai-jotvingiai: owner_note_path, group"
+  ryšio_targeto_parinkimas: "Sūduviai: mention_match, group, gap=1"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduviai-jotvingiai\" parinktas kaip owner_note_path. Targetas \"Sūduviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-159271
+    - c-159265
 
 <a id="claim-t-175124"></a>
 - t-017
@@ -348,11 +371,11 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 <a id="claim-t-175128"></a>
 - t-020
   teiginys: "Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159260
+    - c-159282
 
 <a id="claim-t-175129"></a>
 - t-021
@@ -569,30 +592,17 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 <a id="claim-t-194370"></a>
 - t-034
   teiginys: "Jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti."
-  atnaujinta: "2026-07-24 15:56"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159253
     - c-159274
 
-<a id="claim-t-196925"></a>
-- t-035
-  teiginys: "Ypač glaudžiai lietuviai bendradarbiavo su kaimynystėje gyvenusiais jotvingiais — dalis jų žemių įėjo į Mindaugo valstybės sudėtį31."
-  atnaujinta: "2026-07-24 14:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-159255
-
 <a id="claim-t-196926"></a>
-- t-036
+- t-035
   teiginys: "Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -694,7 +704,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159252
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
   citata_originali: |
     Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
     su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias
@@ -711,7 +722,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-009
     - t-018
     - t-031
@@ -719,7 +729,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159253
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 144-145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144-145."
   citata_originali: |
     Apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį
 
@@ -745,12 +756,12 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-023
-    - t-034
 
 - id: c-159254
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
     Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai
@@ -770,7 +781,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159255
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Priešiškuose lietuviams
     šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
@@ -786,12 +798,13 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-001
 
 - id: c-159257
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Lietuvių—prūsų bendradarbiavimą
     liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
@@ -799,14 +812,17 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   citata_rodoma: "Lietuvių—prūsų bendradarbiavimą\nliudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir\nlietuviai29."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 - id: c-159258
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Traidenis (1269—1282 m.), remdamas žiemgalius,
     telkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
@@ -827,7 +843,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159259
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Apie sūduvių pabėgimą
     Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
@@ -847,7 +864,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159260
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
   citata_originali: |
     Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
     pilies bei miesto sugriovimą
@@ -862,14 +880,14 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
     - t-029
     - t-032
 
 - id: c-159262
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Sitai padaręs,
     magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava,
@@ -889,7 +907,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159263
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61."
   citata_originali: |
     skalviai. Devinta — Sūduva199, kurioje [gyveno] sūduviai. Dešimta — Galinda200, kurioje
   statusas: verified
@@ -901,7 +920,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159264
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61."
   citata_originali: |
     Dešimta — Galinda200, kurioje
     199  D.— Sudowia, in qua Sudowite, Jer.— Sudowen. Dusburgietis šiuo kraštovardžiu
@@ -918,7 +938,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159265
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
     keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių. Sūduviai, patys tauriausieji,
@@ -927,14 +948,17 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   citata_rodoma: "Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti\nketuris tūkstančius raitelių ir keturiasdešimt tūkstančių karių. Sūduviai, patys tauriausieji,\npranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe. Mat jie turėjo šešis\ntūkstančius raitelių  ir galybę kitokių karių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
 - id: c-159266
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 160."
   citata_originali: |
     Apie karą su sūduviais ir apie paskutinį karą Prūsijos žemėje
 
@@ -954,7 +978,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159267
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 160."
   citata_originali: |
     kelią, užpuldavo juos ir sumušdavo, daugybę išžudydamas, o kitus išsklaidydamas; jis tiek
     kartų šitai padarė ir tiek jų išžudė, kad sūduviai daugiau nebedrįsdavo rodytis be didesnės
@@ -977,7 +1002,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159268
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį
     Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,
@@ -1000,7 +1026,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159270
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
     (t. y. 1209— 1210 m.)22. Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus
@@ -1016,13 +1043,13 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
     - t-026
 
 - id: c-159271
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     Sūduviai, patys tauriausieji,
     pranokdavo kitus ne tik papročių kilnumu, bet turtais bei galybe. Mat jie turėjo šešis
@@ -1034,13 +1061,13 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
     - t-019
 
 - id: c-159272
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
     mą
@@ -1062,7 +1089,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159274
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę
 
@@ -1085,7 +1113,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159276
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
@@ -1095,14 +1124,17 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   citata_rodoma: "Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,\nkovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,\n122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai\nsutriuškino kryžiuočius mūšio lauke (III, 123). Mindaugo valdoma Lietuva (ypač 1259—\n1263 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-159278
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
   citata_originali: |
     Apie Sembos žemės nusiaubimą
     Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami
@@ -1123,7 +1155,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159280
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį
 
@@ -1149,7 +1182,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159282
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
     Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
@@ -1160,14 +1194,17 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   citata_rodoma: "Apie antrąjį Bartenšteino pilies sugriovimą\n\n  Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,\nlabai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,\nbroliams iš jos pasitraukus, buvo įsikūrę bartai; jie sugriovė ją, išžudę ar išsivarę  į\nnelaisvę visus gyventojus, ir net pelenais pavertė.\n\n\n\n\n      174 (169)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
+
 - id: c-159286
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
   citata_originali: |
     Sūduviai, subūrę dar
     didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,
@@ -1189,7 +1226,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159287
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
   citata_originali: |
     Jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15. Kiti tyrinėtojai teigia, kad
     sunku esą įrodyti buvus skirtumų tarp prūsų ir jotvingių kalbų16, kad visiškai neaišku, ar
@@ -1207,7 +1245,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159288
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 161."
   citata_originali: |
     Apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje
     Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais
@@ -1230,7 +1269,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159289
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107."
   citata_originali: |
     73 (72). Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
     Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
@@ -1253,7 +1293,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159290
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
   citata_originali: |
     Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
                                 būtent: Eimsutis ir dar viena
@@ -1273,7 +1314,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-159291
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 125-126"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 125-126."
   citata_originali: |
     Apie Vizenburgo pilį ir 20 brolių bei daugybės krikščionių žūtį
 
@@ -1311,7 +1353,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - id: c-178983
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     Apie Marienburgo pilies pastatymą
     1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
@@ -1328,7 +1371,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-035
 
 ## Ryšiai
 - Sūduviai-jotvingiai gyveno [[objektai/vietos/Sūduva]]

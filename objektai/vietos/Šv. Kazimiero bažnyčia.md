@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-96d42c6e122e98053bd4283b"
+canonical_name: "Šv. Kazimiero bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Kazimiero bažnyčia"]
+sameAs: []
+canonical_biography: "Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pritaikytos uždarytos bažnyčios: Šv."
+place_authority: true
+historical_names: []
 ---
 # Šv. Kazimiero bažnyčia
 

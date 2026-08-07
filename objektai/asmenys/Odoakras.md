@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f985e9f0bb93385fcbcef80a"
+canonical_name: "Odoakras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Odoakras"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvusi upė Ross arba Russ vėliau vadinta Wessel. Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos. Teodoro Narbuto teigimu, Odoakras buvo krikščionis, o jo herulams buvo skelbiamas Kristaus mokslas."
 ---
 # Odoakras
 
@@ -104,7 +111,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
 <a id="claim-t-190943"></a>
 - t-004
   teiginys: "Teodoro Narbuto pasakojime Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -114,29 +121,8 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   pagrindžia:
     - c-173828
 
-<a id="claim-t-190944"></a>
-- t-005
-  teiginys: "Teodoro Narbuto pasakojime Odoakras sutelkė gausesnę ir geriau už Teodoriko kariuomenę ginkluotą kariuomenę ir patraukė jo pasitikti."
-  atnaujinta: "2026-07-24 15:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Teodorikas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Karinės konfrontacijos kontekste Odoakras telkia kariuomenę ir patraukia pasitikti Teodoriko."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-173823
-    - c-173826
-
 <a id="claim-t-190945"></a>
-- t-006
+- t-005
   teiginys: "Teodoro Narbuto pasakojime Odoakras naktį netikėtai puolė prie Ados stovyklavusius Teodoriko būrius, bet vėliau vos išsigelbėjo sprukdamas."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -156,7 +142,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-173827
 
 <a id="claim-t-190946"></a>
-- t-007
+- t-006
   teiginys: "Teodoro Narbuto pasakojime Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, bet 493 m. kovo 5 d. nužudė Odoakrą Ravenoje."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -180,7 +166,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-173828
 
 <a id="claim-t-197433"></a>
-- t-008
+- t-007
   teiginys: "Odoakras savo gerbėjams užtemdydavo vieną akį."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -192,7 +178,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-179184
 
 <a id="claim-t-197783"></a>
-- t-009
+- t-008
   teiginys: "Pagaliau kaip po Odoakro pralaimėjimo grįžtantys iš Italijos he rulai galėjo duoti pradžią lietuvių tautai, jei pa tys buvo iš jų kilę, išėję iš tų pačių sodybų, kur ir šiandien gyvena jų ainiai?"
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -204,7 +190,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-173822
 
 <a id="claim-t-197784"></a>
-- t-010
+- t-009
   teiginys: "Odoakras ne trukus perleido šią provinciją visigotų karaliui Evarikui, norėdamas taip pelnyti jo palankumą, o kiek anksčiau jis užmezgė draugiškus santykius su galingu Afrikos vandalų karaliumi Genseriku, iš kurio tam tikromis są lygomis gavo Siciliją."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -216,7 +202,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
     - c-173825
 
 <a id="claim-t-197785"></a>
-- t-011
+- t-010
   teiginys: "Odoakras buvo mūšio lauke nukovęs gepidų karalių Trazilą ir įveikęs Bazos vadovaujamus bulgarus, — pasikvietęs pagalbon visigotus, kai šiek tiek užtruko jo žygis, surengė savo kariuomenių vadų pasitarimą dėl tolesnių veiksmų; tuo pat metu jis gavo žinią, j°g Odoakras su visomis savo pajėgomis, atėjęs prie Sonzo upės netoli Akvilos, įsirengė stovyklą ir taip įsitvirtino vietovėje, tarsi laukdamas priešo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -260,7 +246,8 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
 - id: c-171488
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Kituose Lietu­
     vos pakraščiuose ir pas kitas tautas, kilusias iš jos kamieno,
@@ -284,7 +271,8 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
 - id: c-173821
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
   citata_originali: |
     Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
     riko įtaką Europos vakaruose gyvenančioms tautoms ir
@@ -306,7 +294,8 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
 - id: c-173822
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 200."
   citata_originali: |
     Odoakras buvo krikščionis, ir jo herulams
     buvo skelbiamas Kristaus mokslas, Teodorikas ir visi go­
@@ -340,12 +329,13 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-173823
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Taigi sąjungininkai pradėjo atvirai murmėti prieš savo
     vadą. Mažiausiai jam palankūs herulai kreipėsi į savo
@@ -360,12 +350,12 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-005
 
 - id: c-173825
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
   citata_originali: |
     Tuo
     metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
@@ -391,12 +381,13 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-173826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 321."
   citata_originali: |
     Odoakras savo ruožtu taip pat negaišo laiko; jis su­
     telkė gausesnę, geriau negu užpuoliko ginkluotą kariuo­
@@ -420,13 +411,13 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-011
+    - t-010
 
 - id: c-173827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
   citata_originali: |
     Tuo tar­
     pu Odoakras, skubiai surinkęs saviškius, tyliai ir taip
@@ -446,12 +437,13 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-173828
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
   citata_originali: |
     Tik žinoma tai, kad Teodorikas paža­
     dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam
@@ -471,12 +463,13 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-007
+    - t-006
 
 - id: c-179184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
   citata_originali: |
     Mitologinė
     šios upės ypatybė yra ta, kad teikiamos malonės ženklan ji sa­
@@ -494,7 +487,7 @@ Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Telanas]]

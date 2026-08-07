@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-de9ae502d836504225a915c1"
+canonical_name: "Druskininkų pilkapynas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Druskininkų pilkapynas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio smėlio atidengtą pilkapyną, kurį kaimiečiai siejo su stabmeldystės laikais. Narbutas mini chemiko raštelį, kuriame teigta, kad 1819 metais Druskininkų vandenyje aptikta bromo, bet pats šios žinios nepatvirtino."
+place_authority: true
+historical_names: []
 ---
 # Druskininkų pilkapynas
 
@@ -81,7 +90,8 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
 - id: c-171822
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 374"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
   citata_originali: |
     Senoviniuose kapuose su kaulais randama me­
     talinių daiktų, amato įrankių, šarvų, šalmų, kalavijų, pinigų.
@@ -106,7 +116,8 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
 - id: c-171823
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 376"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 376."
   citata_originali: |
     Kaulai tiek supuvę, kad neradau nė vienos svei­
     kos kaukolės; jos priklauso įvairaus amžiaus ir lyties asme­

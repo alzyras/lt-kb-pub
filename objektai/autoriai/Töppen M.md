@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dcd6d50550c76b164d07aa91"
+canonical_name: "Töppen M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Töppen M"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 139 Töppen M. Dusburgietis teigia, kad 613; Töppen M."
 ---
 # Töppen M
 
@@ -56,7 +63,8 @@ Dusburgietis teigia, kad 139 Töppen M. Dusburgietis teigia, kad 613; Töppen M.
 - id: c-61434
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     139 Töppen M. Geschichte der preussischen Historiographie, S. 266, 140; PKD, s.
     138.

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7775c99e9214c47aa3590fbc"
+canonical_name: "Geremferdenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Geremferdenas"]
+sameAs: []
+canonical_biography: "Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su sa­ vo varžovu Kerimberdėjumi, kuris, savo ruožtu, irgi buvo užmuštas brolio Geremferdeno, tad reikėjo inauguruoti Vil­ niuje naują chaną."
 ---
 # Geremferdenas
 
@@ -51,7 +58,8 @@ Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su s
 - id: c-83482
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166-167"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166-167."
   citata_originali: |
     150
 

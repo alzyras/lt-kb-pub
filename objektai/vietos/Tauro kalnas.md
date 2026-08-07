@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb977a77714691cc171940ce"
+canonical_name: "Tauro kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tauro kalnas"]
+sameAs: []
+canonical_biography: "Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyta rusų artilerija."
+place_authority: true
+historical_names: []
 ---
 # Tauro kalnas
 
@@ -141,7 +150,8 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
 - id: c-80968
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 65."
   citata_originali: |
     I  KNYGA
     Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
@@ -177,7 +187,8 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
 - id: c-80969
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 65."
   citata_originali: |
     „Tad tenai Gedimi­
     nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
@@ -216,9 +227,9 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
     - t-001
 
 - id: c-184457
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 578"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 578."
   citata_originali: |
     Trakų vieto­
     vę, savo gimtuvę, praplatino, perkėlė buveinę iš

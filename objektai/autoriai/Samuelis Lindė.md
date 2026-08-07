@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c986ef8313e97f63a64d2ec9"
+canonical_name: "Samuelis Lindė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Samuelio Lindės","Samuelis Lindė"]
+sameAs: []
+canonical_biography: "Įvadinis tekstas Samuelį Lindę mini tarp kalbininkų, kurių darbais naudojosi T. Narbutas."
 ---
 # Samuelis Lindė
 
@@ -51,7 +58,8 @@ media_all_json: |-
 - id: c-170934
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 23."
   citata_originali: |
     Kaip buvo įprasta, jis
     naudojosi senaisiais rašytiniais šaltiniais, savo ir kitų moksli­

@@ -50,7 +50,8 @@ media_all_json: |-
 - id: c-44209
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 209."
   citata_originali: |
     „Prasidėjo pozicinis karas. [...] Lenkai buvo įsitvirtinę anapus upelio aukštumoj, 0
     3 kuopa - šiapus upelio kitoj aukštumoj. Švilpė tik paskiri šūviai iš apkasų į apkasus. |...]

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dca0913d86a1175e11f212ca"
+canonical_name: "Bleikas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bleikas"]
+sameAs: []
+canonical_biography: "Anglų keliautojas mokslininkas Bleikas nurodė Baltojo Himalajų kalno aukštį kaip 28 000 angliškų pėdų."
 ---
 # Bleikas
 
@@ -54,7 +61,8 @@ Anglų keliautojas mokslininkas Bleikas nurodė Baltojo Himalajų kalno aukštį
 - id: c-174518
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 39."
   citata_originali: |
     Šios dvi tautos, gal ir
     skirtingos kilmės, turėjo artimų tarpusavio santykių ir

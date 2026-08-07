@@ -54,7 +54,8 @@ Iboristeniečiai pirkliavo prie Dnepro, kuriuo ėjo seniausias kelias per Aldesk
 - id: c-175765
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 165."
   citata_originali: |
     167
     Gintaras, alavas ir brangūs kailiai Pietų ir Rytų gy­

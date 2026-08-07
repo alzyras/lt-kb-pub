@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a22ffbb82e11f235343edc0b"
+canonical_name: "Egiptas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Egiptas"]
+sameAs: []
+canonical_biography: "Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė tapo jo antrąja tėvyne. Narbutas kolchų ryšius su egiptiečiais sieja su prielaida, kad kolchai išėjo į Egiptą. Narbutas rašo, kad egiptiečiai gintarą žinojo Sacal vardu."
+place_authority: true
+historical_names: []
 ---
 # Egiptas
 
@@ -102,7 +111,8 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
 - id: c-171883
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
   citata_originali: |
     Apie tai
     žiūrėk straipsnyje „Vaižganto šventė“.
@@ -123,7 +133,8 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
 - id: c-175425
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
   citata_originali: |
     Seniau į
     daugelį vaistų būdavo dedama skysto gintaro medžiagų,

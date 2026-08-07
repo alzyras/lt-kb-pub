@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fee75a0cbcc644446fab77fe"
+canonical_name: "Malėtai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Malėtai"]
+sameAs: []
+canonical_biography: "17) daug žemių Vilniaus apylinkėse (Malėtus, La­ banorus, Verkus), Tauragnų pilį, kelis namus Vilniaus mieste, vienus mūrinius namus didžiojo kunigaikščio pilyje ir ten pat keturis medinius namus^3 )."
+place_authority: true
+historical_names: []
 ---
 # Malėtai
 
@@ -61,7 +70,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 118."
   citata_originali: |
     Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­
     šė (1387. 11. 17) daug žemių Vilniaus apylinkėse (Malėtus, La­

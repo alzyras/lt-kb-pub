@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-18d385196d5f1ce2b6e8f4c7"
+canonical_name: "Gauja (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gauja","Gauja (vieta)"]
+sameAs: []
+canonical_biography: "Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietoves, bažnyčias ir naikindami suvoktus ja vus, o gyventojus vienus kirsdami, kitus vergdami, nuteriojo visą Turaidos kraštą."
+place_authority: true
+historical_names: []
 ---
 # Gauja (vieta)
 
@@ -46,9 +55,9 @@ Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietov
 ## Citatos
 
 - id: c-184485
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 232"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 232."
   citata_originali: |
     Gudai paliki­
     ni abažą vokyčių persikėlė per upį Gaują, deginda­

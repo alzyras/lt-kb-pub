@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d5ecf470110d11e98a9cc3ac"
+canonical_name: "P. Paprockis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. Paprockis"]
+sameAs: []
+canonical_biography: "Vilniaus akademijos profesorius P. Paprockis parašė trumpą Lietuvos istoriją lenkų kalba."
 ---
 # P. Paprockis
 
@@ -61,7 +68,8 @@ Vilniaus akademijos profesorius P. Paprockis parašė trumpą Lietuvos istoriją
 - id: c-169651
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 28."
   citata_originali: |
     Po šimto metų Vil­
     niaus akademijos profesorius P. Paprockis parašė trum­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f9aaa85ea1e95d492c289657"
+canonical_name: "Volkovysko apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Volkovysko apskritis"]
+sameAs: []
+canonical_biography: "Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskrityje, kairiajame Nemuno vidurupio krante."
+place_authority: true
+historical_names: []
 ---
 # Volkovysko apskritis
 
@@ -55,7 +64,8 @@ Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskr
 - id: c-171970
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Pas­
     kui ši tauta persikėlė į Europą ir susijungė su gelonais, gyve­

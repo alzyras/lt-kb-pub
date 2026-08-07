@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c37df7d3287e690a6a2914bd"
+canonical_name: "Pietų Rusija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pietų Rusija"]
+sameAs: []
+canonical_biography: "Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pietų Rusijoje. Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ liavę iš pietryčių, greičiausiai per pietų Rusijos stepes ir Kaukazą."
+place_authority: true
+historical_names: []
 ---
 # Pietų Rusija
 
@@ -66,7 +75,8 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
 - id: c-33995
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 106."
   citata_originali: |
     Nuosekliai tą medžia­
     gą stebint ir ją lyginant su kaimyninių sričių tais pačiais įrankiais,
@@ -86,7 +96,8 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
 - id: c-33996
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 106."
   citata_originali: |
     Su tam tikru pagrindu virvelinės kera­
     mikos kultūros šaknų yra ieškoma pietų Rusijoje. Jos nešėjai

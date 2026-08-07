@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7d20d57cd2e154ef05daa2b1"
+canonical_name: "Jurgis Lebedys"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Lebedys","Jurgis Lebedys"]
+sameAs: []
+canonical_biography: "Lebedžio, Vilnius 1957, 31-35 p."
 ---
 # Jurgis Lebedys
 
@@ -86,7 +93,8 @@ Lebedžio, Vilnius 1957, 31-35 p.
 - id: c-32973
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 51."
   citata_originali: |
     1 d., Kaunas 1934, 48-81 p.;
     jis kildino Rotundą iš Veliuonos ; Z. Ivinskis, LE, t. 26, 15 p.; J. Jurgi­
@@ -114,7 +122,8 @@ Lebedžio, Vilnius 1957, 31-35 p.
 - id: c-171314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 19."
   citata_originali: |
     9 Žr .-.Stanevičius S. Raštai / Parengė Jurgis Lebedys. -  V, 1967. -
     P. 216-303.

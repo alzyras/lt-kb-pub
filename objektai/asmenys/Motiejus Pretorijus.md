@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-665ba344be64f688caf78e82"
+canonical_name: "Motiejus Pretorijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus Pretorijus"]
+sameAs: []
+canonical_biography: "Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data galėjo būti klaidingai pakeista prieš 190 pridėjus vienetą. Narbuto pateikimu, Rozencveigo kronikos duomenys išliko Motiejaus Pretorijaus veikale „Preussische Schaubühne, sive Deliciae Prussiae“. Narbutas rašo, kad Pretorijus prūsus ir rusus laikė viena pradine gentimi, o variagų vardą kildino iš prūsiško žodžio „Warejs“."
 ---
 # Motiejus Pretorijus
 
@@ -145,7 +152,8 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
 - id: c-174096
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     Strijkovskis neabejotinai taiso šios vietos prieštaravimus
     ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
@@ -172,7 +180,8 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
 - id: c-174097
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     2 Pas Hartknochą.
     3 Rozencveigo kronika šiandien laikoma dingusia; čia iš jos pa­
@@ -189,7 +198,8 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
 - id: c-174098
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Tai, žinoma, vien panašumai, kuriuos
     pastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,
@@ -215,7 +225,8 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
 - id: c-174099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Ne Sarkės, o Šar­
     kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
@@ -240,7 +251,8 @@ Narbutas spėja, kad Hartknocho ir Pretorijaus turėtuose egzemplioriuose data g
 - id: c-179335
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369-370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369-370."
   citata_originali: |
     Ne Sarkės, o Šar­
     kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ebcfc4be5f07b604a566d2c7"
+canonical_name: "Dieboldo Schillingo"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dieboldo Schillingo"]
+sameAs: []
+canonical_biography: "(apie 1430-1486) iš šveicarų Dieboldo Schillingo Berno kronikos."
 ---
 # Dieboldo Schillingo
 
@@ -59,7 +66,8 @@ media_all_json: |-
 - id: c-41655
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 60."
   citata_originali: |
     Prieš kovą
 

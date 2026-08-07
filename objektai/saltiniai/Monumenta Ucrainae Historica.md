@@ -76,7 +76,8 @@ media_all_json: |-
 - id: c-33665
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 96."
   citata_originali: |
     (^149) **Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­
     niai padalinami dar į tokias serijas :** **_Documenta Pontificum Romanorum;
@@ -100,7 +101,8 @@ media_all_json: |-
 - id: c-33666
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 96."
   citata_originali: |
     likų Romoje išleisti šaltinių rinkiniai: A. Welykyj parūpino
     per 40 tomų tėvų bazilijonų leidžiamų knygų149 150 o kardinolas J.

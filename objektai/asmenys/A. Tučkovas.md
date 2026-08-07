@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fa4a8a8be14a29f2f5358ee9"
+canonical_name: "A. Tučkovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Tučkovas"]
+sameAs: []
+canonical_biography: "Tučkovui, vadovavusiam rusų artilerijos parkui Poguliankoje (dabartinės J."
 ---
 # A. Tučkovas
 
@@ -50,7 +57,8 @@ Tučkovui, vadovavusiam rusų artilerijos parkui Poguliankoje (dabartinės J.
 - id: c-44252
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 152."
   citata_originali: |
     Jį saugoję
     Lietuvos kariuomenės artileris-

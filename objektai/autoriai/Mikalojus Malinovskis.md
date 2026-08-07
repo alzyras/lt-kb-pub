@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d3050873416b32497cc820fb"
+canonical_name: "Mikalojus Malinovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mikalojus Malinovskis"]
+sameAs: []
+canonical_biography: "Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus. Nėra geresnio pavyzdžio, kaip būtų galima sutvarkyti ir ap saugoti miesto archyvą nuo sunyki mo, už tą, kaip Radvilų archyvą Kar dinamoje pagal puikiai parengtą schemą sutvarkė mokslininkas ir di džiai prityręs Lietuvos istorijos ži novas Mikalojus."
 ---
 # Mikalojus Malinovskis
 
@@ -58,7 +65,8 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
 - id: c-176906
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 27."
   citata_originali: |
     Įgudęs lietuvių istorijos žinovas Ig­
     nacas Onacevičius su retai sutinkamu palankumu atidavė man
@@ -85,7 +93,8 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
 - id: c-176907
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 276."
   citata_originali: |
     Neabejotina, kad tai nega­
     lėtų visiškai nedominti prezidento ir

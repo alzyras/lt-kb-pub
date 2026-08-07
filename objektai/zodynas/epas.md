@@ -69,7 +69,8 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
 - id: c-24818
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 25."
   citata_originali: |
     mirusiųjų kūnų deginimo mitologija. Valdovai buvo deginami iki pat
     krikšto: šaltiniuose išliko Lietuvos didžiųjų kunigaikščių Algirdo ir Kęs-
@@ -88,7 +89,8 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
 - id: c-166814
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 25."
   citata_originali: |
     Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius
     ir didvyrius. Pasakojimai užrašyti vėliau, atsiradus raštui. Galėtume ma-

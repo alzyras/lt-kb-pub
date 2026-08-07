@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4066deebe4d286224300e8b8"
+canonical_name: "A. Kotzebue"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Kotzebue"]
+sameAs: []
+canonical_biography: "Kotzebue : Preussens ältere Geschichte , III, 292 p. (^14) CEV, 78, 1034 p."
 ---
 # A. Kotzebue
 
@@ -57,7 +64,8 @@ Kotzebue : Preussens ältere Geschichte , III, 292 p. (^14) CEV, 78, 1034 p.
 - id: c-32871
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 335."
   citata_originali: |
     Tvirtindamas, kad laisvieji gali nevaržomai kilnotis^20 , Vytau­
     (^11) **CEV, 67-68 p. — CDPr, VI, 99, 105 p. — J. Voigt :** **_Gesch. Preuss.,_**

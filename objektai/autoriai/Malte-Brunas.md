@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b728b9c8b1f7c8b59df1dba3"
+canonical_name: "Malte-Brunas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Malte-Brunas"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško aiškinimo „plikasis kalnas“. Malte-Brunas, Narbuto vertinimu, teisingai pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė. Malte-Brunas Baltijos jūros pavadinimą kildino iš senovės skandinavų žodžio Balt arba Beet, reiškusio vandens telkinį."
 ---
 # Malte-Brunas
 
@@ -50,21 +57,8 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   pagrindžia:
     - c-173324
 
-<a id="claim-t-190758"></a>
-- t-002
-  teiginys: "Malte-Brunas, Narbuto vertinimu, teisingai pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė."
-  atnaujinta: "2026-07-24 15:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-173641
-
 <a id="claim-t-190759"></a>
-- t-003
+- t-002
   teiginys: "Malte-Brunas Baltijos jūros pavadinimą kildino iš senovės skandinavų žodžio Balt arba Beet, reiškusio vandens telkinį."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -84,7 +78,7 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
     - c-173641
 
 <a id="claim-t-197623"></a>
-- t-004
+- t-003
   teiginys: "Malte-Brunas susiliejo su kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsikūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtingų bruožų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -122,7 +116,8 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
 - id: c-173324
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Kijevo Plikasis kalnas garsėjo 1
     1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi­
@@ -143,7 +138,8 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
 - id: c-173640
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     Tai buvo miškinė gyvulių augintojų gentis.
     Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
@@ -157,12 +153,13 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-173641
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
   citata_originali: |
     180
     Išliko gal pats tinkamiausias Baltijos pavadinimas,
@@ -179,4 +176,3 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003

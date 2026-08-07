@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a8826adc740c08e8eae191d"
+canonical_name: "Albertas Beinartas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas Beinartas"]
+sameAs: []
+canonical_biography: "1606 m. Kauno pirklys Jonas Jodis apsidrausdamas parašė Kauno vaitui Albertui Beinartui pranešimą ir aiškino, kad Masis Mejeravičius, turįs tarnauti jam 2 metus ir išmokti lietuvių kalbos, ruošiasi pabėgti."
 ---
 # Albertas Beinartas
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185413
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 348"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 348."
   citata_originali: |
     Juo
     labiau kad, kaip liudija dar vienas lietuvių kalbos mokymosi atvejis, tokio mokymosi

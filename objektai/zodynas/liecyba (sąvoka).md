@@ -70,9 +70,9 @@ Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė at
 ## Citatos
 
 - id: c-184556
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 179"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 179."
   citata_originali: |
     Tuo tarpu Bertoldas, vyskupas Pa-
     daugavio, kaip viršiaus minavojau, skatino Teutoni-
@@ -101,9 +101,9 @@ Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė at
     - t-001
 
 - id: c-184557
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 368"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 368."
   citata_originali: |
     Įstatė, jog kry-
     žėjai vienos valdžios savo mistro ir kapitulos te­
@@ -125,9 +125,9 @@ Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė at
     - t-002
 
 - id: c-184558
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 441"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 441."
   citata_originali: |
     Bekariaujant lietuviams su lenkais, kryžėjai tuo
     tarpu rado sau bendrus, kurie juos pradėjo šelpti

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2041c185aad5190eaa4809af"
+canonical_name: "Kalniškės miškas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kalniškės miškas"]
+sameAs: []
+canonical_biography: "Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams kovoje su okupantais. Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusėje, tęsiasi 3-4 km pločio ir apie 8 km ilgio kalvotas, mišrus Kalniškės miškas. “ Mūšis 220-ojo pasienio pulko kariai apsupo Kalniškės mišką, kuriame buvo įrengta partizanų stovykla."
+place_authority: true
+historical_names: []
 ---
 # Kalniškės miškas
 
@@ -120,7 +129,8 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
 - id: c-156115
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 225-226"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 225-226."
   citata_originali: |
     Taip pat naudotas ir
     Lietuvos partizanų
@@ -150,7 +160,8 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
 - id: c-156116
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 226."
   citata_originali: |
     4 ginkluotų partizanų. 1945 m.
     gegužės 16 dienos mūšyje
@@ -176,7 +187,8 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
 - id: c-156117
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 9."
   citata_originali: |
     Grįžus
     sovietų okupacinėms pajėgoms, Jonas Neifalta buvo
@@ -214,7 +226,8 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
 - id: c-156119
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 226."
   citata_originali: |
     Prieš mūšį
 

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4907a8596b340c1ce1daa7e9"
+canonical_name: "Kuršo pasienis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kuršo pasienis"]
+sameAs: []
+canonical_biography: "Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą."
+place_authority: true
+historical_names: []
 ---
 # Kuršo pasienis
 
@@ -63,7 +72,8 @@ Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turė
 - id: c-02767
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 477"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 477."
   citata_originali: |
     Tada Kuršėnuose
     įvyko paskutinis vadų pa-
@@ -87,7 +97,8 @@ Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turė
 - id: c-175943
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 477"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 477."
   citata_originali: |
     Krašto
     bajorija buvo labai nepatenkinta generolais. Pagaliau generolai

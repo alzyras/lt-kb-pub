@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-11990ad56c9e5e5d82796a91"
+canonical_name: "Konradas Štangė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas Štangė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies, pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo. Dusburgietis teigia, kad konradas Štangė pasakė: „Nesunku atiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės, bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus apgins."
 ---
 # Konradas Štangė
 
@@ -105,7 +112,8 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
 - id: c-60791
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
   citata_originali: |
     “ Jiems
     atsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais. Jis pasakė: „Nesunku
@@ -125,7 +133,8 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
 - id: c-60792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
   citata_originali: |
     Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
     dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,
@@ -143,7 +152,8 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
 - id: c-179032
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
   citata_originali: |
     Tada jis padalijo
     savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f0169b0fc6485e5e335bcca5"
+canonical_name: "Bernardas (Jachnos sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bernardas (Jachnos sūnus)"]
+sameAs: []
+canonical_biography: "Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­ kviestas bernardinų ordinas, kuriam bažnyčiai ir vienuoly­ nui statytis atiduotas platus slėnis su keletu namų ir pieva, 31 Šis Jachna jau 1435 metais buvo."
 ---
 # Bernardas (Jachnos sūnus)
 
@@ -62,7 +69,8 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
 - id: c-83611
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 241."
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
     tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­

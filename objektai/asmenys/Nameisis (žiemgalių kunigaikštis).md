@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7925d7520a74424b51e64340"
+canonical_name: "Nameisis (žiemgalių kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nameisis (žiemgalių kunigaikštis)"]
+sameAs: []
+canonical_biography: "Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbiavimas, jų kunigaikštis Nameisis - Traidenio karvedys - vadovavo valdovo kariuomenei net tolimame Ordino vakarų fronte. Po šio Livonijos ordino sutriuškinimo žiemgaliai vėl sukilo prieš Ordiną, jų kunigaikščio Nameisio vadovaujami ir remiami lietuvių, atsiėmė Tervetės pilį, dalį belaisvių Ordino brolių žemgaliai pasiuntė lietuviams."
 ---
 # Nameisis (žiemgalių kunigaikštis)
 
@@ -90,7 +97,8 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
 - id: c-44473
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 34."
   citata_originali: |
     buvo atremti Aukso ordos, rusų kunigaikš
     čių bei Livonijos ordino antpuoliai. Po šio
@@ -113,7 +121,8 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
 - id: c-167144
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 30."
   citata_originali: |
     frontą, jungtinėmis pajėgomis atakuodami
     Ordiną ir jo sąjungininkę Lenkiją.

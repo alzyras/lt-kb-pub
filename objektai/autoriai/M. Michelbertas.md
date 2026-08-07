@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d2d10f4498a1ed78f48f7fe6"
+canonical_name: "M. Michelbertas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Michelbertas"]
+sameAs: []
+canonical_biography: "Michelbertas (AkMD, t."
 ---
 # M. Michelbertas
 
@@ -59,7 +66,8 @@ Michelbertas (AkMD, t.
 - id: c-33059
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 84."
   citata_originali: |
     liūnų ir Sargėnų kapinynus^101 , ir apie L _ietuvos X-XV a. kapinynų
     keramiką,_ (AkMD, t. 19, 1965, 41-57 p.). Iš Rudaičių ir Veliuonos

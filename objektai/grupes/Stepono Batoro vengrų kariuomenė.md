@@ -75,7 +75,8 @@ media_all_json: |-
 - id: c-82806
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 437"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 437."
   citata_originali: |
     ## Puslapis 437
 
@@ -121,7 +122,8 @@ media_all_json: |-
 - id: c-82807
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 436"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 436."
   citata_originali: |
     DATUOTA 1581 METŲ VASARIO 13 DIENĄ
     VARŠUVOS SEIME.

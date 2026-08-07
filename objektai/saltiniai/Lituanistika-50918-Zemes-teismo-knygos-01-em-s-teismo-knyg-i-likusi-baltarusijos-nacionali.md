@@ -1,6 +1,6 @@
 ---
 tipas: saltinis
-pavadinimas: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
+pavadinimas: 'Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją'
 saltinio_tipas: saltinio_dalis
 dalies_tipas: "work"
 tevinis_saltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"

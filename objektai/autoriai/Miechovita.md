@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2900a79e86b83af0517b9fcc"
+canonical_name: "Miechovita"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Miechovita"]
+sameAs: []
+canonical_biography: "22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s klysta sakyda­ mi, esą žygio vadovavimas buvo pa­ vestas Konradui Valenrodui, kurį jau tuo metu vadina didžiuoju ma­ gistru, kai Konradas Valenrodas 1382 metais, sekmadienį prieš Šv."
 ---
 # Miechovita
 
@@ -83,7 +90,8 @@ media_all_json: |-
 - id: c-84075
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135."
   citata_originali: |
     Dabartinis
     iš tiesų visiškai skiriasi nuo pirmes-
@@ -126,7 +134,8 @@ media_all_json: |-
 - id: c-171340
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Tas pats pastebima lietuvių mitologijoje; šventi buvo ištisi
     miško plotai, kur stovėjo aukurai ir šventyklos, žinoma, visuo­

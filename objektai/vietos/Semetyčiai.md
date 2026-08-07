@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df8dfde6ac988530beb654a5"
+canonical_name: "Semetyčiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Semetyčiai"]
+sameAs: []
+canonical_biography: "Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj."
+place_authority: true
+historical_names: []
 ---
 # Semetyčiai
 
@@ -58,7 +67,8 @@ Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuo
 - id: c-02986
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 357."
   citata_originali: |
     Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
     žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-

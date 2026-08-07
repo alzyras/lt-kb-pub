@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0b337a2159a07159242599d5"
+canonical_name: "Kotryna Jogailaitė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kotryna Jogailaitė"]
+sameAs: []
+canonical_biography: "Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi, santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­ gusto seserimi. Tad šių, mūsų valdų, ir dvarų, taip pat ir kito judamo ir nejudamo turto, kurį turime ir valdome, bet kokia teise mums priklausančio ir bet kokiu besivadi­ nančio, darome, skelbiame paveldėtojomis karalaites: jos di­ denybę Kotryną, Švedijos karalienę, jos. Kotryna Jogailaitė galėtų netekti tų išmo­ kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas."
 ---
 # Kotryna Jogailaitė
 
@@ -84,7 +91,8 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 - id: c-83378
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     La­
     biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-
@@ -104,7 +112,8 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 - id: c-83379
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 364-365"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 364-365."
   citata_originali: |
     Taip pat tikėjimu ir garbe prisaikdina­
     me visus mūsų pareigūnus, kurie tuos reikalus tvarkys kaip
@@ -147,7 +156,8 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 - id: c-83380
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 353-354"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 353-354."
   citata_originali: |
     Taip pat turime kai kurių mūsų dvarų, ir
     valdų, mums po kai kurių kilmingų asmenų ten pat, Lietu­

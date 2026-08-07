@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e81bb9b5d316486dcd248392"
+canonical_name: "Rogačiovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rogačiovas"]
+sameAs: []
+canonical_biography: "Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių, kuriuos priskiria skitams. Narbutas manė, kad aptariamas kraštas turėtų būti Rogačiovo apylinkėse ir aukščiau. Narbutas Rogačiovą laikė Gerų krašto viduriu, nes jo apylinkėse esą buvo gausiausi pilkapių rinkiniai."
+place_authority: true
+historical_names: []
 ---
 # Rogačiovas
 
@@ -180,7 +189,8 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 - id: c-171941
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
   citata_originali: |
     Kad Pavyslio, Padneprio senieji gyventojai
     ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų
@@ -201,7 +211,8 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 - id: c-175509
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
   citata_originali: |
     Tad šis kraštas turėtų
     būti Rogačiovo apylinkėse ir aukščiau. Buvo atkakliai
@@ -221,7 +232,8 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 - id: c-175510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
   citata_originali: |
     Taip pat Gero ir Hipa-
     kyrio upes atpažįstame Desnoje ir Seime, kurie susilieję
@@ -254,7 +266,8 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
 - id: c-175511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
   citata_originali: |
     Šio ploto centras yra Rogačiovo miestas, kurio apy­
     linkėse plyti nesuskaičiuojama gausybė šių senojo am­

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dc44e6019f8c76098f158f94"
+canonical_name: "Feliksas Vaitkus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Feliksas Vaitkus"]
+sameAs: []
+canonical_biography: "1935 m. gegužės 21–22 d. kitas JAV lietuvis, Feliksas Vaitkus, sėkmingai atliko S."
 ---
 # Feliksas Vaitkus
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-75360
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 174."
   citata_originali: |
     Savo laiške
     prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei

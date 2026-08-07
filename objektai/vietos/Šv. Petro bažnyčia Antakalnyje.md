@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2525c18d35f4fcde6efa92e6"
+canonical_name: "Šv. Petro bažnyčia Antakalnyje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Petro bažnyčia Antakalnyje"]
+sameAs: []
+canonical_biography: "Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk. Petro baž­ nyčia tikriausiai pastatydinta Vladis­ lovo Jogailos laikais, visuotinės re­ ligijos kaitos laikais, ano Goštauto sūnaus, tos šventovės, visiems die­ vaičiams pašvęstos, vietoje."
+place_authority: true
+historical_names: []
 ---
 # Šv. Petro bažnyčia Antakalnyje
 
@@ -66,7 +75,8 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
 - id: c-82109
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 46."
   citata_originali: |
     Tačiau Šv. Petro baž­
     nyčia tikriausiai pastatydinta Vladis­
@@ -88,7 +98,8 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
 - id: c-82110
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 45."
   citata_originali: |
     Anot
     kitų padavimų, Goštautas pastaty­

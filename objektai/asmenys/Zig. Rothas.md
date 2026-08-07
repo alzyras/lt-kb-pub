@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-705dda364c09fa47bfc27035"
+canonical_name: "Zig. Rothas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zig. Rothas"]
+sameAs: []
+canonical_biography: "Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautui supažindinti su įvairiais klausimais dėl karūnacijos ir išsklaidyt jo abejones^3 ). Rothu, kurie lenkų paleisti, tuoj per Prūsus atvyko į Lietuvą^1 ) painformuoti Vytautą apie karūnaciją, nes patys būdami legistai, nežiūrėjo popiežiaus sutikimo^2 )."
 ---
 # Zig. Rothas
 
@@ -52,7 +59,8 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 246."
   citata_originali: |
     Jas vežė iškilminga Zigmanto dele­
     gacija. Pirma jos važiavo kaip ciesoriaus reprezentantai

@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-83066
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 154-155"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 154-155."
   citata_originali: |
     Tačiau
     atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­

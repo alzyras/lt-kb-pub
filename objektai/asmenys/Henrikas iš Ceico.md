@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b3faa5776a7e2b1554524457"
+canonical_name: "Henrikas iš Ceico"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas iš Ceico"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheimo, o į pagalbininkus jam paskyrė brolį Konradą iš Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir."
 ---
 # Henrikas iš Ceico
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - id: c-60944
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 50."
   citata_originali: |
     Magistras,
     patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro

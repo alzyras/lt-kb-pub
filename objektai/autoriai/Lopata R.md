@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8be03c73c1667bcb46a5e732"
+canonical_name: "Lopata R"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lopata R"]
+sameAs: []
+canonical_biography: "Lopata R."
 ---
 # Lopata R
 
@@ -61,7 +68,8 @@ Lopata R.
 - id: c-20769
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Ams-
     terdam–New York, 2010.

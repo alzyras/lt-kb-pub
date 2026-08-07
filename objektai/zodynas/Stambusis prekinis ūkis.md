@@ -32,7 +32,8 @@ Kaime susiklostė sudėtinga gyventojų socialinė struktūra: žemdirbiai, įk�
 - id: c-24707
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 253."
   citata_originali: |
     Privatizuojamam turtui įsigyti
     kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta

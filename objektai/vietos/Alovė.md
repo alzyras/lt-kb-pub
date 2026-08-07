@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e65a27602b0aa3c9117be2c"
+canonical_name: "Alovė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alovė"]
+sameAs: []
+canonical_biography: "Varčios miške, tarp Alovės ir Daugų mstl."
+place_authority: true
+historical_names: []
 ---
 # Alovė
 
@@ -60,7 +69,8 @@ Varčios miške, tarp Alovės ir Daugų mstl.
 - id: c-40239
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 241."
   citata_originali: |
     DAINAVOS APYGARDA DIDZIOSIOS KOVOS APYGARDA
 

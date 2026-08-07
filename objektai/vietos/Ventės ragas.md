@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4bb872771c0c8bc433d00a2"
+canonical_name: "Ventės ragas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ventės ragas"]
+sameAs: []
+canonical_biography: "kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį Skalvos žemėje (netoli Tilžės), o kitą prie Nemuno žiočių — Ventės rage (Vindenburgą)."
+place_authority: true
+historical_names: []
 ---
 # Ventės ragas
 
@@ -80,7 +89,8 @@ kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį S
 - id: c-77119
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 40."
   citata_originali: |
     Livonijos magistras surengė didelį
     žygį prieš lietuvius į Papilės žemę. 1360 m.

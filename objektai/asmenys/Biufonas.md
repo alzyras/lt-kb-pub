@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae00acb7f13c0e4613a8dcfe"
+canonical_name: "Biufonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Biufonas"]
+sameAs: []
+canonical_biography: "Biufono sistema, kurią cituoja Teodoras Narbutas, organinio pasaulio pradžią siejo su ašigaliais."
 ---
 # Biufonas
 

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f3f1a9e210757be74adf9d1"
+canonical_name: "Perloja"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Perloja"]
+sameAs: []
+canonical_biography: "— 99 — (1393) Dievo Apveizdos bažnyčias, o kiek vėliau pastatė ir šiose vietose bažnyčias: Švenčionyse, Perlojoje, Trakuose, Gardine, Breste ir kt. Trakuose, Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­ bingiuose, Utenoje, Eišiškiuose, Gardine, Liet."
+place_authority: true
+historical_names: []
 ---
 # Perloja
 
@@ -83,7 +92,8 @@ media_all_json: |-
 - id: c-43737
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     pateko į iš anksto parengtą pasalą ir pa-
     tyrę nuostolių buvo priversti grįžti atgal.
@@ -106,7 +116,8 @@ media_all_json: |-
 - id: c-43738
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     Priešo pusėje žuvo 15 NKVD karių
     ir 2 stribai. Dar 5 stribai nukauti kitą dieną

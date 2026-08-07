@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f4658b95aa55408a6b589d33"
+canonical_name: "Kelnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kelnas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties metais, o palaidotas Kelne. Dusburgietis teigia, kad apie Alberto Didžiojo mirtį Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto kunigaikštis, nugalėjo Zigfridą iš Runkelės, Kelno arkivyskupą; neskaitant paprastų karių, abi šalys neteko nukautaisiais 1300."
+place_authority: true
+historical_names: []
 ---
 # Kelnas
 
@@ -39,11 +48,19 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 <a id="claim-t-58448"></a>
 - t-001
   teiginys: "Albertas Didysis mirė Kelne."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Kelnas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kelnas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Alberto Didžiojo mirties vietą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) mirė Kelnas (0.97)"
   pagrindžia:
-    - c-59080
+    - c-59082
 
 <a id="claim-t-58449"></a>
 - t-002
@@ -85,21 +102,22 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 <a id="claim-t-194532"></a>
 - t-004
   teiginys: "Apie Alberto Didžiojo mirtį Tais pačiais metais Kelne mirė Albertas Didysis (Ptol."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59080
+    - c-59082
 
 ## Citatos
 
 - id: c-59080
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
   citata_originali: |
     Apie Albertą Didįjį ir Tomą Akvinietį
 
@@ -114,14 +132,13 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
-    - t-004
 
 - id: c-59081
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     76. Apie mūšį netoli Kelno, prie Vurungeno kaimo
 
@@ -143,7 +160,8 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - id: c-59082
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Apie Alberto Didžiojo mirtį
 
@@ -155,14 +173,18 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   citata_rodoma: "Apie Alberto Didžiojo mirtį\n\n   Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. 22, 19).\n\n\n\n                67."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-004
+
 - id: c-167547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Tą dieną, kai priimamas dievo kūnas, šio kaimo klebonas jai davė nešventintą
     paplotėlį, tačiau  ji niekaip jo negalėjo nuryti, todėl,  jį atsiėmęs, davė jai pašventintą

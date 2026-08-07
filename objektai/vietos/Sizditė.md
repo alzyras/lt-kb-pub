@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-753dde3e9ebde06cee4ae088"
+canonical_name: "Sizditė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sizditė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje. Dusburgietis teigia, kad galimas dalykas, iškreiptas Sizditės pilies vardas sietinas su Spasčių kalno (prie Girgždūtės) vardu, plg., be to, netolimo Sprūdės piliakalnio vardą—LAA, 2, p. 161, Nr. 717)."
+place_authority: true
+historical_names: []
 ---
 # Sizditė
 
@@ -75,7 +84,8 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - id: c-59270
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     321 (314). Dar apie tą patį
     Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
@@ -98,7 +108,8 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - id: c-59271
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 211."
   citata_originali: |
     570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pilis, kaip spėjama, buvusi Girgždutės
     piliakalnyje (Valančius M., Raštai, 1, p. 379; Łowmiański H., Studja..., 2, p. 214); Telšių

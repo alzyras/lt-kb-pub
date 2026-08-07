@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-671c2f6e312c9cfba4c65988"
+canonical_name: "Napoleonas Bonapartas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Napoleonas Bonapartas"]
+sameAs: []
+canonical_biography: "Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai ji priklausė iki 1806 m., kai Napoleonas įkūrė Varšuvos kunigaikštiją; 1815 m. Užnemunė atiteko Rusijai). Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono Bonaparto įkurtai Varšuvos kunigaikštystei. 1812 m. birželį Napoleonas pradėjo karą su Rusija ir greitai didžioji dalis buvusių LDK žemių atsidūrė jo valdžioje."
 ---
 # Napoleonas Bonapartas
 
@@ -83,7 +90,8 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 - id: c-21912
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 97."
   citata_originali: |
     Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
     burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
@@ -102,7 +110,8 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 - id: c-21913
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 101."
   citata_originali: |
     Su-
     valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos.
@@ -120,7 +129,8 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 - id: c-21914
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 103."
   citata_originali: |
     Joje įvestas
     civilinis Napoleono kodeksas, valstiečiams suteikta asmens laisvė, tik be

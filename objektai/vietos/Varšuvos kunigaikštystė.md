@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e0443ad806ff998b2c2afea2"
+canonical_name: "Varšuvos kunigaikštystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varšuvos kunigaikštystė"]
+sameAs: []
+canonical_biography: "1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės. Vilniaus katedroje, dalyvaujant Varšuvos kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Lenkija, susigrąžinant LDK prarastas žemes."
+place_authority: true
+historical_names: []
 ---
 # Varšuvos kunigaikštystė
 
@@ -40,7 +49,7 @@ media_all_json: |-
 <a id="claim-t-77419"></a>
 - t-001
   teiginys: "Napoleono kariuomenės trečdalį sudarė Varšuvos kunigaikštystės pulkai."
-  atnaujinta: "2026-07-19 19:01"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -108,7 +117,8 @@ media_all_json: |-
 - id: c-24542
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 103."
   citata_originali: |
     1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pu-
     siau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos
@@ -127,7 +137,8 @@ media_all_json: |-
 - id: c-24543
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 103."
   citata_originali: |
     Napoleonas leido Vilniuje
     įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė
@@ -148,7 +159,8 @@ media_all_json: |-
 - id: c-74824
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 102-103"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 102-103."
   citata_originali: |
     Dail. Jean-Baptiste Madou, 1827 m.
 

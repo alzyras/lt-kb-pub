@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d49a17df9bd90cd015fbafb"
+canonical_name: "N. Küchmeisteris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["N. Küchmeisteris"]
+sameAs: []
+canonical_biography: "Küchmeisteris."
 ---
 # N. Küchmeisteris
 
@@ -50,7 +57,8 @@ Küchmeisteris.
 - id: c-32795
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 348."
   citata_originali: |
     Belaisviai
     buvo rakinami tomis pat grandinėmis, kurios buvo rastos ordino

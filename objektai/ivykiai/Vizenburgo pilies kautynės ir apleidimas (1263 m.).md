@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-62951"></a>
 - t-001
   teiginys: "1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Mazovija: 0.85"
@@ -70,7 +70,6 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Perrašyta į aiškesnį sakinį be neapibrėžto žodžio „broliai“."
   pagrindžia:
-    - c-63834
     - c-63835
 
 <a id="claim-t-62952"></a>
@@ -134,7 +133,8 @@ Nenurodyta
 - id: c-63834
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
   citata_originali: |
     117 (112). Apie tai, kaip buvo palikta Vizenburgo pilis
     Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
@@ -149,13 +149,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-63835
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
   citata_originali: |
     Apie tai, kaip buvo palikta Vizenburgo pilis
     Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
@@ -180,7 +180,8 @@ Nenurodyta
 - id: c-63836
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     Neilgai trukus broliai, pristigę
     maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
@@ -200,7 +201,8 @@ Nenurodyta
 - id: c-63837
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
   citata_originali: |
     Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391
     juos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto

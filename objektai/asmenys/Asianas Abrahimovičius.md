@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-810eaf1d3fc4e55aeee1ed48"
+canonical_name: "Asianas Abrahimovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Asianas Abrahimovičius"]
+sameAs: []
+canonical_biography: "Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­ sų Malonybės, pone vaivada, o jo malonybei nesant Vilniuje, Tavo Malonybei, pone vietininke ir pone vaite, liepsime, kad tąjį čiaušą ir jo tarnus, kurių jis turi."
 ---
 # Asianas Abrahimovičius
 
@@ -49,7 +56,8 @@ Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovič
 - id: c-83607
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 372."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA // TOMAS
     Jonui Boleslavovičiui Svirskiui, jo karališkosios malonybės

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ed6fd871d1b3cf0d4794ad04"
+canonical_name: "Martynas Knakfusas (vyskupas, XVIII–XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Martynas Knakfusas","Martynas Knakfusas (vyskupas, XVIII–XIX a.)"]
+sameAs: []
+canonical_biography: "1769 m. vienas iš klasicizmo architektūros L I E T U V O S I S T O R I J A 90 pradininkų Lietuvoje Martynas Knakfusas (Marcin Knackfus, apie 1740– 1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus vyskupo Ignoto Masalskio architektu ir."
 ---
 # Martynas Knakfusas (vyskupas, XVIII–XIX a.)
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-26679
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 89-90"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 89-90."
   citata_originali: |
     Klasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-
     jos stiliumi. Lietuvoje Apšvietos ir klasicizmo žingsniai iš esmės buvo to

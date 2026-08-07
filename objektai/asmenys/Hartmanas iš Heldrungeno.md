@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-741ec29161330b8001da32f9"
+canonical_name: "Hartmanas iš Heldrungeno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hartmanas iš Heldrungeno"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus. Dusburgietis teigia, kad autorius buvo aprašomų įvykių liudytojas (Hartmanas įstojo į Ordiną apie 1234 m.). Dusburgietis teigia, kad pirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs 1282 m.)."
 ---
 # Hartmanas iš Heldrungeno
 
@@ -110,7 +117,8 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 - id: c-60597
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
     Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.
     Pirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs
@@ -127,7 +135,8 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 - id: c-60598
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
   citata_originali: |
     Vis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.
     Šitaip brolis Konradas palinko į Teutonų namų ordiną. Vieną gražią dieną, bėgdamas
@@ -147,7 +156,8 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 - id: c-60599
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
   citata_originali: |
     Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė
     su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus

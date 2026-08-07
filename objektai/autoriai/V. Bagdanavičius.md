@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e30ff26ed7163db8499e8c00"
+canonical_name: "V. Bagdanavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Bagdanavičius"]
+sameAs: []
+canonical_biography: "Bagdanavičius, V."
 ---
 # V. Bagdanavičius
 
@@ -60,7 +67,8 @@ Bagdanavičius, V.
 - id: c-33164
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 49."
   citata_originali: |
     Drauge čia paliečiame, kaip vystėsi _Lietuvos isto­
     rijos mokslas_ jos aukštosiose mokyklose, ypač nepriklausomoje

@@ -61,7 +61,8 @@ p. 208, Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikšč
 - id: c-44800
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 272."
   citata_originali: |
     p. 208, Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko
     mokomoji kuopa. 1920 m. lapkričio 22 d. Giedraičių apylinkėse, pasibaigus mūšiui su lenkais, vDKM.

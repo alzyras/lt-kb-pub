@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-83090
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 65."
   citata_originali: |
     I  KNYGA
     Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­

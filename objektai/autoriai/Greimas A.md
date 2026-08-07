@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e8f9fdab408d5e98adc039c0"
+canonical_name: "Greimas A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Greimas A"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad turėdami omenyje prūsų dievų triadą (Patulas, Patrimpas, Perkūnas) ir dievus „žemininkus“ (Greimas A., Apie dievus..., p. 166—179; Топоров B."
 ---
 # Greimas A
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad turėdami omenyje prūsų dievų triadą (Patulas, Patr
 - id: c-61339
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
   citata_originali: |
     Turėdami omenyje prūsų dievų triadą (Patulas, Patrimpas, Perkūnas)  ir dievus
     „žemininkus“ (Greimas A., Apie dievus..., p. 166—179; Топоров B. H., Заметки по

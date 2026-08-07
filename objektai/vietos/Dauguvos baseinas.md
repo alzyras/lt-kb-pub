@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c66b893062a71295bebc0a78"
+canonical_name: "Dauguvos baseinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dauguvos baseinas"]
+sameAs: []
+canonical_biography: "Tai ne vietinės kilmės laivo tipas, perimtas iš Dauguvos baseino."
+place_authority: true
+historical_names: []
 ---
 # Dauguvos baseinas
 
@@ -41,9 +50,9 @@ Tai ne vietinės kilmės laivo tipas, perimtas iš Dauguvos baseino.
 ## Citatos
 
 - id: c-185075
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 247"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 247."
   citata_originali: |
     Aleksote buvo statomi ir strugai (strug, Strusse). Tai ne vietinės kilmės laivo tipas,
     perimtas iš Dauguvos baseino. Šie laivai didesni už vytines, bet paprasčiau įrengti, gre-

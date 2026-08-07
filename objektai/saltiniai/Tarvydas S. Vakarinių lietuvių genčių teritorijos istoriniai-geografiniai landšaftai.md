@@ -58,7 +58,8 @@ Dusburgietis teigia, kad tarvydas S.
 - id: c-61941
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Tarvydas S. Vakarinių lietuvių genčių teritorijos istoriniai-geografiniai landšaftai.—
     Geografinis metraštis, V., 1967, 8, p. 53—62.

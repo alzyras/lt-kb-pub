@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6b1daf3ff594333b80640a97"
+canonical_name: "Powierski J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Powierski J"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Dusburgietis teigia, kad kariavo su prūsais, turėjo bazę greičiausiai Kulme (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J."
 ---
 # Powierski J
 
@@ -104,7 +111,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 <a id="claim-t-60511"></a>
 - t-005
   teiginys: "J. Powierski cituojamas aiškinant 1218 m. Kristijono žygį ir jo sutartį su Mazovijos kunigaikščiu Konradu."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1218 m."
@@ -178,7 +185,8 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 - id: c-61138
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
   citata_originali: |
     Perkūnas — baltiškasis audros, griaustinio dievas. Jis susijęs su kalnu, ąžuolu. Naujausi
     mitologijos tyrinėjimai leidžia konstatuoti ryšį tarp S. Grunau šventojo trijų dalių ąžuolo
@@ -197,7 +205,8 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 - id: c-61139
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
   citata_originali: |
     Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
     Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32,
@@ -216,7 +225,8 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 - id: c-61141
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
   citata_originali: |
     271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
     Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis..,
@@ -234,7 +244,8 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 - id: c-61142
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
   citata_originali: |
     kaimynais, išpažįstančiais krikščionybę, netrukdė jiems garbinti gyvojo dievo ir apskritai
     jų nekliudė. Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui
@@ -253,7 +264,8 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 - id: c-61143
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 51."
   citata_originali: |
     Nesavos pilyje įsikūrė Ordino konventas ir krašto magistras Hermanas Balkas (PUB, 1,
     1, Nr. 76; Powierski J. Przekaz..., p. 389—391; to paties, Dobra ostrowicko-golubskie...,
@@ -271,7 +283,8 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 - id: c-61144
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
   citata_originali: |
     teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška
     dykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo
@@ -288,7 +301,8 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 - id: c-61145
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
   citata_originali: |
     178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
     a. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir
@@ -309,7 +323,8 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 - id: c-61146
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
   citata_originali: |
     Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip
     dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aa606e7e061532e39804306c"
+canonical_name: "Polonka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Polonka"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Polonka
 

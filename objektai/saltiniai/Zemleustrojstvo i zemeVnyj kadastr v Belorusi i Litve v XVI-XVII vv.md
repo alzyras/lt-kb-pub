@@ -59,7 +59,8 @@ media_all_json: |-
 - id: c-33774
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 95."
   citata_originali: |
     Kniaž. Litovskogo s otrabotošnoj renty na dienežnuja_** **(IZ, t. 37,
     1951);** **_Zemleustrojstvo i zemeVnyj kadastr v Belorusi i Litve v XVI-XVII

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d171d47c1eb638117b4b24b"
+canonical_name: "Janas Chodzka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Janas Chodzka"]
+sameAs: []
+canonical_biography: "Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netikrų krikščionių dievus, draugijos nariai pasivadino senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­ kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­ gantu, Juozapas."
 ---
 # Janas Chodzka
 
@@ -49,7 +56,8 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
 - id: c-83677
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 7."
   citata_originali: |
     Legaliai veikė įvai­
     rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­

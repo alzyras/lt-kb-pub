@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d51e3693364b1ebc50305573"
+canonical_name: "Steponas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Steponas"]
+sameAs: []
+canonical_biography: "Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009)."
 ---
 # Steponas
 
@@ -79,7 +86,8 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - id: c-22021
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 26."
   citata_originali: |
     Paminėkime tokią grandinę: Lenkijos valdovo
     Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988),
@@ -100,7 +108,8 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - id: c-64968
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     Apie didingus ženklus
     „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė

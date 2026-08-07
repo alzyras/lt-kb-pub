@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f6750639197d2bbbc679b2b2"
+canonical_name: "Vasilijus Vasiljevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vasilijus Vasiljevičius"]
+sameAs: []
+canonical_biography: "Į Trakus (1430 metais), kur didysis kunigaikštis paprastai gyvendavo di­ džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­ gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­ vos."
 ---
 # Vasilijus Vasiljevičius
 
@@ -81,7 +88,8 @@ media_all_json: |-
 - id: c-83911
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 174."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
@@ -108,7 +116,8 @@ media_all_json: |-
 - id: c-168215
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 693"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 693."
   citata_originali: |
     Maskvos didikų vardu atsakė to miesto vy­
     riausiasis dvasininkas. Esą visų didžiausi pasaulyje

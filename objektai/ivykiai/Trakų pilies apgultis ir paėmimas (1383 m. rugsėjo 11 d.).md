@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-82938
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 55."
   citata_originali: |
     Tačiau kiti, 1383 metai, atnešė Vilniui dar
     didesnę nelaimę. Didelė kryžiuočių kariauna, vadovauja­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-badd5ca3478444862b39a908"
+canonical_name: "Mykolas Kiełbasa"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Kiełbasa"]
+sameAs: []
+canonical_biography: "Vadas (Mykolas Kiełbasa) atsakęs, kad dabar ne laikas esąs karalių gelbėti."
 ---
 # Mykolas Kiełbasa
 
@@ -51,7 +58,8 @@ Vadas (Mykolas Kiełbasa) atsakęs, kad dabar ne laikas esąs karalių gelbėti.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 107."
   citata_originali: |
     Tasai kreipėsi į ar­
     timiausios vėliavos vadą. Vadas (Mykolas Kiełbasa) atsakęs,

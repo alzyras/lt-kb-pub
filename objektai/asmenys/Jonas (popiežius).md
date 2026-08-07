@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-28f7208be04c6b5b810b4802"
+canonical_name: "Jonas (popiežius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas (popiežius)"]
+sameAs: []
+canonical_biography: "Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiuntėme savo pasiuntinius su laišku mū­ sų tėvui, garsingajam viešpačiui popiežiui Jonui, kad jis mus apvilktų pirmuoju krikšto rūbu; jo pasiuntinių diena iš die­ nos laukiame su dideliu. Jonas (popiežius) padėtų mums drauge su kitomis savo avimis [įeiti] į gausumo ganyklą; tuo reikalu gavome atsakymą, jog greitai atvyksią jo pasiun­ tiniai; jų delsimas mums kelia begalinį susirūpinimą, [nes norime], kad greičiau būtų pabaigtas dievo darbas ir nie­ kais pavirstų klastinga apgaulė."
 ---
 # Jonas (popiežius)
 
@@ -69,7 +76,8 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
 - id: c-83501
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 70-71"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 70-71."
   citata_originali: |
     Hac littera lecta et exscripta a magistro et prioribus
     54
@@ -104,7 +112,8 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
 - id: c-83502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 79."
   citata_originali: |
     3) Gediminas, dieviškąja apvaizda lietuvių ir rusų kara­
     lius, Žemgalijos valdovas ir kunigaikštis, pasišventusiems

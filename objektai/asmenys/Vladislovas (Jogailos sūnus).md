@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5cb348ba5219750d03ab798c"
+canonical_name: "Vladislovas (Jogailos sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladislovas (Jogailos sūnus)"]
+sameAs: []
+canonical_biography: "Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislovą, Jogailos sūnų, kaip būsimą savo valdovą, karalių „de speciali consilio et voluntate Vitoldi ipsiusque praelatorum, baronum ac militum“^2 ). 1425 m. Bresto (Kujavijoj) seime lenkų didikai nuta­ rė, kad karalaitį Vladislovą pripažįsta sosto įpėdiniu pačiam Vytautui, jo bajorų tarybai ir riteriams patariant."
 ---
 # Vladislovas (Jogailos sūnus)
 
@@ -82,7 +89,8 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 219."
   citata_originali: |
     1425 m. Bresto (Kujavijoj) seime lenkų didikai nuta­
     rė, kad karalaitį Vladislovą pripažįsta sosto įpėdiniu pačiam
@@ -100,7 +108,8 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 215."
   citata_originali: |
     Kadangi vie­
     toj įpėdinystės teisės Lenkijoj gavo viršų elekcija, tai jos luomai,

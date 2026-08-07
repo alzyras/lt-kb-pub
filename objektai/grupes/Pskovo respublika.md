@@ -149,7 +149,8 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 155."
   citata_originali: |
     Al­
     girdo užkariautųjų Rusijos kraštų plotą Vytautas buvo jau per­
@@ -173,7 +174,8 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 160."
   citata_originali: |
     Naugardo ir Pskovo
     respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose
@@ -192,7 +194,8 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 - id: c-104472
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 171."
   citata_originali: |
     Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
     taip gana ilgam sudrumstęs namų ramybę, privertė lenkus
@@ -220,7 +223,8 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 - id: c-104473
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 230."
   citata_originali: |
     Palenkdamas rusų bojari-
     10
@@ -243,7 +247,8 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 - id: c-104475
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 129."
   citata_originali: |
     (^122) I SKYRIUS: LIETUVOS PROISTORĖ
     kodėl lietuvių kunigaikščiai nuvesdavo savo karinius būrius gana

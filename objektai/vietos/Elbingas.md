@@ -37,6 +37,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bc37d50c4b684506975948a1"
+canonical_name: "Elbingas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Elbingas"]
+sameAs: []
+canonical_biography: "Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų: jis minimas kaip 1237 m. prie Gėlo vandens marių įkurta pilis, karo ir aprūpinimo mazgas, puolimo taikinys ir vieta, kur 1303 m. didysis magistras Gotfridas atsisakė pareigų."
+place_authority: true
+historical_names: []
 ---
 # Elbingas
 
@@ -49,7 +58,7 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 <a id="claim-t-90342"></a>
 - t-001
   teiginys: "Elbingo broliai, stokodami išteklių ir laukdami laivų, siuntė atgal laivus bei žygūnus sužinoti padėties Kulmo žemėje."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -61,7 +70,6 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-86223
-    - c-179043
 
 <a id="claim-t-90343"></a>
 - t-002
@@ -115,11 +123,18 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 <a id="claim-t-90346"></a>
 - t-005
   teiginys: "Elbingo broliai pasiuntė į pagalbą 60 krikščionių vyrų, kurie po žinios apie sudegintą pilį ir miestą patraukė į Elbingą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brunsbergas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Elbingas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Brunsbergas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Brunsbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-86221
+    - c-86205
 
 <a id="claim-t-90347"></a>
 - t-006
@@ -175,7 +190,7 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 <a id="claim-t-90352"></a>
 - t-009
   teiginys: "Antrosios atskalūnybės metais keli Pagudės kilmingieji su namais ir šeimyna atvyko į Elbingą ir prisidėjo prie brolių."
-  atnaujinta: "2026-07-24 15:00"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Pagudė: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -186,7 +201,6 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbingas\" parinktas kaip owner_note_path. Targetas \"Pagudė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-86202
     - c-86220
 
 <a id="claim-t-90353"></a>
@@ -429,14 +443,13 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 <a id="claim-t-197169"></a>
 - t-024
   teiginys: "Dar kartų apie tą patį Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami, pasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-86223
     - c-179043
 
 <a id="claim-t-201058"></a>
@@ -584,7 +597,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86202
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
   citata_originali: |
     Apie karą su pagudėnais ir Elbingo pilies pastatymą
 
@@ -602,7 +616,6 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
     - t-011
     - t-013
     - t-015
@@ -611,7 +624,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86203
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
     Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems
     broliams. Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė,
@@ -630,7 +644,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86204
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
   citata_originali: |
     Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš rašytinių
     šaltinių, bet aprašė ir tuos įvykius, kuriuos pats buvo matęs, „apie kuriuos pasakojo juos
@@ -652,7 +667,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86205
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
   citata_originali: |
     Jiems atsitraukiant, atskubėjo priešpriešiais 60
     krikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas
@@ -662,14 +678,17 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   citata_rodoma: "Jiems atsitraukiant, atskubėjo priešpriešiais 60\nkrikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai. Išgirdę, kad pilis ir miestas\nsudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,\n1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur  ji ir dabar\ntebestovi415."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-86206
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas. Berlyno karališkosios
     bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
@@ -687,7 +706,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86207
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 93."
   citata_originali: |
     Apie Elbingo pilies ir miesto puolimą
     Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei
@@ -709,7 +729,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86208
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 76-77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 76-77."
   citata_originali: |
     Apie tai aiškiau Senojoje Olivos kronikoje (SRP, 1, p. 678).
 
@@ -728,7 +749,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86210
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
   citata_originali: |
     51 (50). Dar kartų apie tą patį
     Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,
@@ -747,7 +769,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86212
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Žiemą ši kariuomenė atžygiavo  į Elbingą,
     tačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo
@@ -771,7 +794,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86213
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
   citata_originali: |
     Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
     apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
@@ -787,7 +811,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86216
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 93."
   citata_originali: |
     Apie Elbingo pilies ir miesto puolimą
 
@@ -808,7 +833,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86217
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195."
   citata_originali: |
     283 (276). Apie brolio Gotfrido, didžiojo magistro, atvykimą,   apie tai, kaip jis atsisa­
     kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
@@ -831,7 +857,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86218
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
   citata_originali: |
     Apie laivų kautynes
 
@@ -851,7 +878,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86219
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     170 (165). Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
     1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
@@ -873,7 +901,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86220
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
                apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių
@@ -899,7 +928,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-86221
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
   citata_originali: |
     242 Elbingo (dab. Elbliongas) pilis Elbingo deltos saloje (1298 m dokumente rašoma:
     werder [...] der da heizet der alde elbinc — CDW, 1, Nr. 77, p. 133) iš pradžių buvo
@@ -914,13 +944,13 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-020
 
 - id: c-86223
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
   citata_originali: |
     Dar kartų apie tą patį
     Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,
@@ -937,12 +967,12 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-024
 
 - id: c-167536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
   citata_originali: |
     Todėl, sudeginę pilį bei
     miestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos
@@ -961,7 +991,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-175926
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 197."
   citata_originali: |
     1466 m. Torne buvo pasirašyta taika, kuria ordinas
     pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
@@ -978,7 +1009,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - id: c-179043
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
   citata_originali: |
     Dar kartų apie tą patį
     Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,
@@ -993,13 +1025,12 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-024
 
 - id: c-184408
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 48"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
   citata_originali: |
     Ten, sa­
     ko jis, Vysla, arba Ysla, yra didelė upis, vienoj pu­
@@ -1020,9 +1051,9 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     - t-025
 
 - id: c-184409
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 336"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 336."
   citata_originali: |
     Rėdytojas kryžėjų, jutęs tą notį savo karėjų,
     skubinos jų gelbėti, vienok pavėlavo ateiti ir neb-

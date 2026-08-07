@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-224e5fd077a81042e6a8bb1d"
+canonical_name: "Karališkasis malūnas Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karališkasis malūnas","Karališkasis malūnas Vilniuje","Karališkojo malūno","Molendinum Vilnense","Vilniaus malūnas"]
+sameAs: []
+canonical_biography: "Karališkasis malūnas Vilniuje buvo vietos orientyras palei Vilnią, šalia bernardinams skirto slėnio. Šaltinis jį sieja su Lietuvos Metrikos antrašte „Molendinum Vilnense“ ir 1515 m. leidimu Ulrikui Hošui statyti malūną savo lėšomis."
+place_authority: true
+historical_names: []
 ---
 # Karališkasis malūnas Vilniuje
 
@@ -116,7 +125,8 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - id: c-55849
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 283."
   citata_originali: |
     Iš Lietuvos Metrikos. Knyga, apimanti
     Metrikos archyvo sąrašą. Raidė S.
@@ -135,7 +145,8 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - id: c-177469
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 282-283"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 282-283."
   citata_originali: |
     40), matyti,
     266

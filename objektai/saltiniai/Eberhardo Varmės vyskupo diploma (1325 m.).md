@@ -58,7 +58,8 @@ Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 meta
 - id: c-84126
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 108-109"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 108-109."
   citata_originali: |
     (Slaptasis archyvas, Spinta
     XI, Nr. 19 ir 20). Tačiau apgaulė greitai išaiškėjo, jau Varmės

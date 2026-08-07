@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-199707e762833bc39fac344e"
+canonical_name: "Alsunga"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alsunga"]
+sameAs: []
+canonical_biography: "Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos tarme, gautą iš tenykščio klebono."
+place_authority: true
+historical_names: []
 ---
 # Alsunga
 
@@ -55,7 +64,8 @@ Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos
 - id: c-171864
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 448"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 448."
   citata_originali: |
     Kuršiškai arba latviškai; iš Branto, imta iš Ksavero Bogu­
     šo (ten pat):

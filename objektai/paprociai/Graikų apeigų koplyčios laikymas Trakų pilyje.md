@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-83246
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 176-177"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 176-177."
   citata_originali: |
     Iš
     vieno Vytauto dovanojimo akto Tra­

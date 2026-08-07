@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-33450
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 347."
   citata_originali: |
     Nesulauk­
     damas tačiau priešo atakos, Jungingenas atsiuntė Jogailai ir Vy­

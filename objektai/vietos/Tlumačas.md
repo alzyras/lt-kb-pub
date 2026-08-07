@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-717f80da1a91ee2d06b4e2f5"
+canonical_name: "Tlumačas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tlumačas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Tlumačas
 

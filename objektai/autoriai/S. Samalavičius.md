@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-015ac94332596671be5addd8"
+canonical_name: "S. Samalavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["S. Samalavičius"]
+sameAs: []
+canonical_biography: "Apie Vilniaus amatų pramonę, dar­ bininkų padėtį, amatininkų cechus XIX a. pabaigoje ir XX a. pradžioje apsčiai duomenų duoda V. Merkys 125 , S. Samala­ vičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19, 1965, 169-183 p.)."
 ---
 # S. Samalavičius
 
@@ -59,7 +66,8 @@ Apie Vilniaus amatų pramonę, dar­ bininkų padėtį, amatininkų cechus XIX a
 - id: c-33134
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     2, 1972). S. Matulaitytė rašo apie astro­
     nomijos mokslo įvedimą Vilniaus universitete XVIII a. (AkMD,

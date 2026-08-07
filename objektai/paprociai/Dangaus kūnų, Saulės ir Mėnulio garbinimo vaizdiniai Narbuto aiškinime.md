@@ -120,7 +120,8 @@ Nenurodyta
 - id: c-172701
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 187."
   citata_originali: |
     Toliau šiame veikale rasime kitas dangaus kūnų judėjimo
     pažinimo liekanas, daugiausia straipsniuose „Šventės“, „Iškil­
@@ -144,7 +145,8 @@ Nenurodyta
 - id: c-172702
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 187."
   citata_originali: |
     Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis
     perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami

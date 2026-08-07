@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-09946
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 151"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 151."
   citata_originali: |
     Žinoma taip pat yra visiems, jog lietuviai pagonys, laidodami savo numirėlius, taip
         giedojo: „Eik, – sako, – vargau, į antrą gyvenimą daug laimingesnį, kuriame ne tu vokiečiams, bet

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9cc4fd15bb69d249b17c1d48"
+canonical_name: "Leo"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Leo"]
+sameAs: []
+canonical_biography: "Leo nurodė, kad borusai 523 ar 530 metais persikėlė iš šiaurės į dabartinę Prūsiją."
 ---
 # Leo
 
@@ -54,7 +61,8 @@ Leo nurodė, kad borusai 523 ar 530 metais persikėlė iš šiaurės į dabartin
 - id: c-174495
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 259."
   citata_originali: |
     Pirmiausia
     taip manė Erazmas Stela1**. Jo išvadą pripažino daugelis,

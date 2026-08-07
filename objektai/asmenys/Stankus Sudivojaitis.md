@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b1581802ca81cb300158f722"
+canonical_name: "Stankus Sudivojaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stankus Sudivojaitis"]
+sameAs: []
+canonical_biography: "Į Kauną bernardinus kvietė buvusio Kauno seniūno Sudivojaus sūnus, valdovo maršalas ir Gardino seniūnas Stankus Sudivojaitis."
 ---
 # Stankus Sudivojaitis
 
@@ -50,9 +57,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185414
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 121"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 121."
   citata_originali: |
     1469 m. vienuolijos vadovybė patvirtino Kauno vienuolyno steigimą. Į Kauną ber-
     nardinus kvietė buvusio Kauno seniūno Sudivojaus sūnus, valdovo maršalas ir Gar-

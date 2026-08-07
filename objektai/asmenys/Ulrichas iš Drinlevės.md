@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-46415fcf6d479bca638ccb45"
+canonical_name: "Ulrichas iš Drinlevės"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ulrichas iš Drinlevės"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras, ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie."
 ---
 # Ulrichas iš Drinlevės
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulric
 - id: c-167520
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 215."
   citata_originali: |
     Apie 55 lietuvių žūtį 1319 metais
     Tais pačiais metais, kai dykrose smarkiai ištvino vandenys, Dovydas, Gardino pilininkas,

@@ -66,7 +66,8 @@ Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl 
 - id: c-172470
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 437"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 437."
   citata_originali: |
     Vilniuje lietuviškus pamokslus kunigai iš ambonų
     sakydavo iki XVII amžiaus pirmojo ketvirčio .
@@ -90,7 +91,8 @@ Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl 
 - id: c-179160
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 437"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 437."
   citata_originali: |
     Yra dokumen­
     tinių įrodymų, jog teismuose XVI amžiuje nuosprendžius saky­

@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5f33a59d63f1b0a5f7d5c946"
+canonical_name: "M. Kromeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Kromeris"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # M. Kromeris
 

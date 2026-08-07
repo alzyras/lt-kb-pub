@@ -101,7 +101,8 @@ Nenurodyta
 - id: c-85339
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
   citata_originali: |
     Vis dėlto
     broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių,
@@ -122,7 +123,8 @@ Nenurodyta
 - id: c-85340
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
   citata_originali: |
     Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
     Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos
@@ -150,7 +152,8 @@ Nenurodyta
 - id: c-178988
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
   citata_originali: |
     135 (130). Apie Herkaus Manto, notangų vado, žūtį
     Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė

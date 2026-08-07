@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-89e22d0357c10de2cd875641"
+canonical_name: "Naujasis Kaunas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujasis Kaunas"]
+sameAs: []
+canonical_biography: "Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis statydino pilį Nevėžio žiočių Vyrgalės saloje - Naująjį Kauną ir „tiltą per Nemuną“ (greičiausiai per Nemuno senvagę į salą). Sužinoję apie Naujojo Kauno statybą, Ordino magistras su kariuomene 1363 m. balandį atplaukė Nemunu, priplaukęs Trapénus (žemiau Nevėžio žiočių), paliko laivus, juos apkasęs gynybiniu pylimu, ir atėjo prie Naujojo Kauno pilies, „pradėtos atstatinėti."
+place_authority: true
+historical_names: []
 ---
 # Naujasis Kaunas
 
@@ -93,7 +102,8 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 - id: c-76795
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 43-44"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 43-44."
   citata_originali: |
     Kareiviai, pamatę, kad mūras sugriuvo,
 
@@ -138,7 +148,8 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 - id: c-76796
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 44."
   citata_originali: |
     Sužinoję apie Naujojo Kauno statybą,
     Ordino magistras su kariuomene 1363 m.

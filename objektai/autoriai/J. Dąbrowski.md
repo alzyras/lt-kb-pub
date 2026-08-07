@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-76a07f6a00e1f7b7bb2719c8"
+canonical_name: "J. Dąbrowski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Dąbrowski"]
+sameAs: []
+canonical_biography: "Dąbrowski : Rozbiór krytyczny Anna ­ lium Poloniae Jana Długosza z lat 1385-1444, I, Wroclaw-Warszawa-Kraków 1961, 53 p. (^31) DlugO, XII, 526 p. Dąbrowski : Rozbiór kryt., 53 p.)."
 ---
 # J. Dąbrowski
 
@@ -53,7 +60,8 @@ Dąbrowski : Rozbiór krytyczny Anna ­ lium Poloniae Jana Długosza z lat 1385-
 - id: c-32958
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 323."
   citata_originali: |
     1, 1909, 25 (12-28); zesz. 2, 121-132 p. — Plg. M. Goyski
     rec., KH, t. 26, 1912, 332-333 p. — J.** Dąbrowski **:** **_Rozbiór krytyczny Anna_** **­**

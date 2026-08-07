@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cca8fdcd0647fc91b83eb846"
+canonical_name: "Vladislovas Oporovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladislovas Oporovskis"]
+sameAs: []
+canonical_biography: "Būdamas pilnas nemalonės naujiems karūnos politikos vai­ rininkams, kancleriui Jonui Šafrancui, vėliau pakeltam pakanc­ leriui Vladislovui Oporovskiui, kurie darė kliūčių jo siekimams, — Vytautas grasino, neatsižiūrėdamas net gyviausių Lietuvos interesų, kad."
 ---
 # Vladislovas Oporovskis
 
@@ -51,7 +58,8 @@ Būdamas pilnas nemalonės naujiems karūnos politikos vai­ rininkams, kancleri
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 211."
   citata_originali: |
     Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­
     bėje ir jo politikai.

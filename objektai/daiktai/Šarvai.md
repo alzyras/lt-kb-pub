@@ -37,7 +37,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Ordino riterius, šarvuotus metaliniais šarvais, atvirame lauke kepino karšta liepos mėnesio saulė. Sunkiąją kavaleriją sudarė raiti kariai, apkaustyti tvirtais metaliniais šarvais nuo galvos iki kojų, šarvuodavę net arklius. Narbutas pasakoja, kad du paklydę priešų vadai buvo apsiginklavę šarvais ir buvo nukauti.
+Šarvai šiame šaltinyje apibūdina sunkiosios ir lengvosios kavalerijos apsaugą XV a. karo aplinkoje.
 
 ## Pavadinimai šaltiniuose
 
@@ -64,26 +64,26 @@ Nenurodyta
 <a id="claim-t-12345"></a>
 - t-001
   teiginys: "Ordino riterius, šarvuotus metaliniais šarvais, atvirame lauke kepino karšta liepos mėnesio saulė."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Reikia pašalinti OCR triukšmą ir sutrumpinti sakinį iki vieno aiškaus fakto apie šarvus."
   susije_objektai: "mentioned_group: [[objektai/grupes/Saulė|Saulė]]; mentioned_place: Viena"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-14350
+    - c-174940
 
 <a id="claim-t-12346"></a>
 - t-002
   teiginys: "Sunkiąją kavaleriją sudarė raiti kariai, apkaustyti tvirtais metaliniais šarvais nuo galvos iki kojų, šarvuodavę net arklius."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   susije_objektai: "mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-14351
+    - c-14350
 
 <a id="claim-t-192068"></a>
 - t-003
@@ -135,12 +135,22 @@ Nenurodyta
 <a id="claim-t-202345"></a>
 - t-006
   teiginys: "1567 m. Lietuvos Didžiosios Kunigaikštystės kariuomenės surašyme šeši Vijūkai iš Romainių nurodyti kaip ginkluoti ragotinėmis, o šarvus turėjo tik vienas."
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šarvai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=121"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šarvai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  temporaliniai_duomenys: "įvykio data: 1567 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir konkrečiai apibūdina šarvų turėjimą 1567 m. surašyme. Kartu pateiktas ragotinių kontekstas yra citatoje."
   vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185692
@@ -151,7 +161,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 97."
   citata_originali: |
     Kavalerija būdavo sunkiai ir lengvai ginkluota. Sunkiąją
     kavaleriją sudarydavo raiti kariai apkaustyti nuo galvos iki
@@ -167,13 +178,14 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-14351
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 97."
   citata_originali: |
     Lengvoji kavalerija buvo pa­
     našiai šarvuota, bet jos šarvai būdavo lengvesni, dengdavo tik
@@ -188,14 +200,14 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-005
 
 - id: c-174938
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 104."
   citata_originali: |
     Ordino ka­
     riuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­
@@ -215,7 +227,8 @@ Nenurodyta
 - id: c-174939
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Čia
     mūšis ir baigėsi. Kitą rytą pastebėta, jog kai kurie priešų
@@ -235,7 +248,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 104."
   citata_originali: |
     Abi priešininkų kariuomenės
     buvo netoli viena kitos. Visa Ordino kariuomenė stovėjo atvi­
@@ -247,16 +261,19 @@ Nenurodyta
   citata_rodoma: "Abi priešininkų kariuomenės\nbuvo netoli viena kitos. Visa Ordino kariuomenė stovėjo atvi­\nrame lauke ir riterius, šarvuotus metaliniais šarvais, kepino\nkaršta liepos mėnesio saulė, tuo tarpu sąjungininkų kariuo­\nmenės dalis slėpėsi medžių ūksmėje, galėjo ilsėtis. Ordino ka­\nriuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­\ngalėjo, nes ne viskas buvo sutvarkyta."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-185692
+  autorius: "Zigmantas Kiaupa"
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 5"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:24"
   pagrindzia:
     - t-006

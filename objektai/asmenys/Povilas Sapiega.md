@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b2724601a76fb2a033b4513"
+canonical_name: "Povilas Sapiega"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Povilas Sapiega"]
+sameAs: []
+canonical_biography: "Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada Povilas Sapiega, kuris veikė atskirai ir nuo rusų traukėsi Lenkijos link."
 ---
 # Povilas Sapiega
 
@@ -100,7 +107,8 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
 - id: c-42196
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
   citata_originali: |
     Prieš švedus ir jų sąjungininkus taip pat
     kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
@@ -120,7 +128,8 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
 - id: c-42197
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
   citata_originali: |
     1659 m. rusai užėmė
     Slanimą, Lydą ir Gardiną. Lietuvos didžiojo etmono Povilo Sapiegos
@@ -141,7 +150,8 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
 - id: c-76233
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
   citata_originali: |
     Lietuvos teritoriją, todėl 1656 m. kilo Žemaičių sukilimas, padaręs
     švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat

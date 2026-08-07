@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-143607231f7ff092ae2c57e9"
+canonical_name: "Miilleris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Miilleris"]
+sameAs: []
+canonical_biography: "kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, sudarytą pagal Maskvos archyvo torius, turėdamas pasitikėjimą, gavedėjo Miillerio Rusijos genealogivo iš Miillerio ir įdėjo į savo svarbų nes knygas."
 ---
 # Miilleris
 
@@ -58,7 +65,8 @@ kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, su
 - id: c-84055
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 61."
   citata_originali: |
     Tačiau teisus
     b veikalą Tables genealogiques de Koch

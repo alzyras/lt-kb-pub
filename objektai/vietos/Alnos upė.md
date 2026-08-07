@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-234b7397b898f7528a2b4c9d"
+canonical_name: "Alnos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alnos upė"]
+sameAs: []
+canonical_biography: "Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ sių plote iki Alnos upės."
+place_authority: true
+historical_names: []
 ---
 # Alnos upė
 
@@ -51,7 +60,8 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
 - id: c-33786
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 114."
   citata_originali: |
     Pvz., lietuvių kalboje šienas - estiškai
     sein, avinas - oinas, piemenauti - paimendama, ratas - rata, tvora

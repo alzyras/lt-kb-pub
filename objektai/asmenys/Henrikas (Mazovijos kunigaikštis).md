@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4e943137f5fc1c9483a68fa"
+canonical_name: "Henrikas (Mazovijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas (Mazovijos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henriką, su slaptu Vladislovo Jogailos pavedimu atvykusį pas Vytautą, kad, nepaisydamas padėties, kurią jau turėjo būdamas nomi­ nuotas į Plocko vyskupus, nė kiek nedvejojo imdamas į žmo­ nas."
 ---
 # Henrikas (Mazovijos kunigaikštis)
 
@@ -53,7 +60,8 @@ Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henrik�
 - id: c-83664
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 149-150"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 149-150."
   citata_originali: |
     133
 

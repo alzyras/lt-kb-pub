@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7fa280d8301bd24e0715ecbb"
+canonical_name: "Kazimiera Danutė Prunskienė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimiera Danutė Prunskienė"]
+sameAs: []
+canonical_biography: "Pretekstu tapo Lietuvos Vyriausybės, vadovaujamos Kazimieros Danutės Prunskienės, nepaisant AT prieštaravimo, išvakarėse pakeltos maisto produktų kainos."
 ---
 # Kazimiera Danutė Prunskienė
 
@@ -50,7 +57,8 @@ Pretekstu tapo Lietuvos Vyriausybės, vadovaujamos Kazimieros Danutės Prunskien
 - id: c-44421
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 252."
   citata_originali: |
     platformos), mitingo metu mėgino
     užimti AT rūmus. Pretekstu tapo Lietuvos

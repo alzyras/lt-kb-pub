@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e8a5bb1b758d59f951c14581"
+canonical_name: "Bazilius (Vasilius) II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bazilius (Vasilius) II"]
+sameAs: []
+canonical_biography: "1427 m. žygiavo į Maskvą padėti vaikaičiui Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą."
 ---
 # Bazilius (Vasilius) II
 
@@ -40,7 +47,8 @@ media_all_json: |-
 - id: c-21620
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     Atėjo metas Lietuvos ir Lenkijos santykių
     problemai. XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis

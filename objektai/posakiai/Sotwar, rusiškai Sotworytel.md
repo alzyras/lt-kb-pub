@@ -52,7 +52,8 @@ Narbutas pateikia kitų siūlymą tą patį užrašą skaityti kaip „Sotwar“
 - id: c-175019
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 488"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
   citata_originali: |
     93 /P.
     194,

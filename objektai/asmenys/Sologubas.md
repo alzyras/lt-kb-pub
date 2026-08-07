@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2b059fde3f8bb476872f13c8"
+canonical_name: "Sologubas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sologubas"]
+sameAs: []
+canonical_biography: "Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą neteršti dvylika metų gintos pilies šlovės."
 ---
 # Sologubas
 
@@ -46,7 +53,8 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
 - id: c-169440
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 624"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 624."
   citata_originali: |
     Tokių kalbų paskatinti
     ryžtingesni vyrai viešai pareikalavo, kad įgulos virši­

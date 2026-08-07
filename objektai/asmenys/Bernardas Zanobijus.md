@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-46c4ccf5487a0008294124b6"
+canonical_name: "Bernardas Zanobijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bernardas Zanobijus"]
+sameAs: []
+canonical_biography: "12 Vilniaus kapitulos archyve yra vysku­ po sutartis su Bernardu Zanobijumi, romiečiu, mūrijimo meistru, dėl Šv."
 ---
 # Bernardas Zanobijus
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-83613
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 282."
   citata_originali: |
     287.
     12

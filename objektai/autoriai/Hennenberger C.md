@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-99e5a19d8dcde8bd3ac33226"
+canonical_name: "Hennenberger C"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hennenberger C"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (Videvučio) sūnaus Samo pilis, čia prūsai uždegdavę pavojų skelbiančius laužus (SU, 1, Nr. 58, 182; 2, Nr. 304; PUB, 2, 2, Nr. 663; 3, 2, Nr. 644; 4, Nr. 26; Hennenberger C, Erclerung.., p. 136; Sch-K; Faber. Dusburgietis teigia, kad iII, 91, 3; be to, Hennenberger C, Erclerung.., p. 33) prie Aismarių, deš."
 ---
 # Hennenberger C
 
@@ -70,7 +77,8 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
 - id: c-65290
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
   citata_originali: |
     Apie tai, kaip buvo atkeršyta už šį sukilimą
 
@@ -93,7 +101,8 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
 - id: c-65291
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
   citata_originali: |
     382 D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau —
     Rinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus. Rinavos

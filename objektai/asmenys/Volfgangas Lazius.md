@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b0cf0d13249bc201a68d5152"
+canonical_name: "Volfgangas Lazius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Volfgangas Lazius"]
+sameAs: []
+canonical_biography: "Volfgangas Lazius, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis paskelbė heruliškąją maldą „Tėve mūsų“."
 ---
 # Volfgangas Lazius
 
@@ -67,7 +74,8 @@ Volfgangas Lazius, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis 
 - id: c-173103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 513"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 513."
   citata_originali: |
     - Išnaša, kuria T. Narbutas papildė paragrafą, reng­
     damas antrąjį LTI leidimą (PEĮ. - L. 304). Volf­

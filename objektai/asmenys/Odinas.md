@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7d638e59ca88bac0626c261a"
+canonical_name: "Odinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Odinas"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovės skitų dalies kelionę į Skandinaviją su Odinu priešakyje. Teodoras Narbutas spėja, kad šiaurės didvyriai iš pradžių vadinosi Wod, tai yra Vodino arba Odino bičiuliais."
 ---
 # Odinas
 
@@ -74,7 +81,8 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
 - id: c-174048
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 82."
   citata_originali: |
     Plutarchas Kjamilio gyveni­
     mo aprašyme išdėstė senovės padavimą apie keltų gen­
@@ -97,7 +105,8 @@ Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovė
 - id: c-174049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 83."
   citata_originali: |
     85
 

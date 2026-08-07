@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bed12c92df288bb3f4db4eff"
+canonical_name: "Rinda"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rinda"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja, kad rusų karalienės Rindos vyras Bojus kovėsi su Goteriu, buvo sužeistas ir trečią dieną mirė nuo žaizdų."
 ---
 # Rinda
 
@@ -54,7 +61,8 @@ Narbutas pasakoja, kad rusų karalienės Rindos vyras Bojus kovėsi su Goteriu, 
 - id: c-174341
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Maždaug to
     paties amžiaus pabaigoje švedų karalius Got'brodas irgi

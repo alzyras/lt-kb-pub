@@ -173,7 +173,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - id: c-157216
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284."
   citata_originali: |
     243,
     sqq.
@@ -195,7 +196,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - id: c-157217
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 345."
   citata_originali: |
     Šiuo patarimu remdamasis, Steponas
     Batoras įsakė pavesti iždininkams rinkti šiuos mokesčius.
@@ -214,7 +216,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - id: c-157218
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 343-344"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 343-344."
   citata_originali: |
     Baltramiejaus šventės, tūkstantis penki šimtai penkiasde­
     šimt devintaisiais Viešpaties metais, o mūsų valdymo tris­
@@ -252,7 +255,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - id: c-157219
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 311."
   citata_originali: |
     O s i ń s k i, O życiu i pismach X. Piot­
     ra Skargi, 1. 21.
@@ -292,7 +296,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - id: c-157220
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 285-286"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 285-286."
   citata_originali: |
     Pagaliau
     karaliaus raštas ponui Abramui, iž­
@@ -368,7 +373,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - id: c-157222
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284."
   citata_originali: |
     Ulrikas uoliai įvykdė karaliaus
     pavedimus; per upę stojo išmūrytas tiltas ir špitolės sienos
@@ -390,7 +396,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - id: c-157223
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 311."
   citata_originali: |
     Pirmiausia
     vaitas įrodė nieko savavališkai ne­
@@ -420,7 +427,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - id: c-157224
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 346-347"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 346-347."
   citata_originali: |
     O la­
     biausiai [pageidaujame], kad Jūsų Didenybė Vilniaus mies­

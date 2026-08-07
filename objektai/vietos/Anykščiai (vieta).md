@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bb21d3d7ad094c8096099d2c"
+canonical_name: "Anykščiai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Anykščiai","Anykščiai (vieta)"]
+sameAs: []
+canonical_biography: "To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmergę, Anykščius, kuris galėjo įsilieti į Vilniaus-Rygos kelią."
+place_authority: true
+historical_names: []
 ---
 # Anykščiai (vieta)
 
@@ -46,9 +55,9 @@ To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmer
 ## Citatos
 
 - id: c-185062
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 131."
   citata_originali: |
     Kitas kelias į Vilnių driekėsi pietiniu miesto
     pakraščiu ir greičiausiai buvo susijęs su muitine, veikiančia netoli prie Nemuno esan-

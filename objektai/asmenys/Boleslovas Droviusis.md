@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2aece66acd3813d87496523d"
+canonical_name: "Boleslovas Droviusis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslovas Droviusis"]
+sameAs: []
+canonical_biography: "Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui."
 ---
 # Boleslovas Droviusis
 
@@ -58,7 +65,8 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
 - id: c-83616
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24."
   citata_originali: |
     Benjaminas iš Tudelio, žydų kilmės ke­
     liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne

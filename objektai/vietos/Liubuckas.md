@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f5422a0016f5b6009fd9e97"
+canonical_name: "Liubuckas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liubuckas"]
+sameAs: []
+canonical_biography: "Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas lokalizuojamas į šiaurės vakarus nuo Tūlos ir apie 150 km į pietus nuo Maskvos."
+place_authority: true
+historical_names: []
 ---
 # Liubuckas
 
@@ -92,7 +101,8 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
 - id: c-170312
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 310."
   citata_originali: |
     '  Liubuckas — LDK ir MDK pasienio miestas (prie Okos, i Siau­
     ros vakarus nuo Tūlos, apie 150 km i pietus nuo Maskvos!.

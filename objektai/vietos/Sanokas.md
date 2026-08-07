@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-60cd3858d4b08543ff579a85"
+canonical_name: "Sanokas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sanokas"]
+sameAs: []
+canonical_biography: "Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Leopoldas, Austrijos erchercogas."
+place_authority: true
+historical_names: []
 ---
 # Sanokas
 
@@ -54,7 +63,8 @@ Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dal
 - id: c-168664
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 393"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 393."
   citata_originali: |
     Karalius, padrąsintas Vytauto tylėjimo, nu­
     mojo ranka į visokius nemalonumus, kurių ši santuoka

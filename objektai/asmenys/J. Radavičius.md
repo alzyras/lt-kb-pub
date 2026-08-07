@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bc3f908b6e6e8884329627a6"
+canonical_name: "J. Radavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Radavičius"]
+sameAs: []
+canonical_biography: "Radavičius, A."
 ---
 # J. Radavičius
 
@@ -50,7 +57,8 @@ Radavičius, A.
 - id: c-44363
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     sintus dalgius ir durtuvus. Batalionų vadais
 

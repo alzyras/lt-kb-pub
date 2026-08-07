@@ -88,7 +88,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 - id: c-67238
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 422"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 422."
   citata_originali: |
     Tuo būdu Rusijai
     buvo pripažinta teisė žiūrėti, kad nebūtų pakeistos kardinalinės
@@ -111,7 +112,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 - id: c-67239
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 419"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 419."
   citata_originali: |
     Antroji Čartoriskių svarbi
     reforma lietė seimą. Jie sva-
@@ -133,7 +135,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 - id: c-67240
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 428"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 428."
   citata_originali: |
     Jose buvo pakeistas tik vienas kitatikius (disi-
     dentus) lietęs punktas: jų teisės buvo suvaržytos, ir į seimą galėjo
@@ -156,7 +159,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 - id: c-67241
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 285."
   citata_originali: |
     Dažnai vienas ar
     keli papirkti atstovai pareikšdavo protestą prieš viso seimo nu-
@@ -178,7 +182,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 - id: c-67245
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 414"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 414."
   citata_originali: |
     Tuo būdu į seimą būdavo išrenkami
     tokie atstovai, kokių norėdavo didikai; jiems ir instrukcijos būdavo

@@ -75,7 +75,8 @@ Teodoro Narbuto aiškinime Plinijaus „Naturalis historia“ minima Carcine įl
 - id: c-174631
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 376"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 376."
   citata_originali: |
     Herodotas1 savo geografiniuose aprašymuose, kurie,
     nelaimei, mus pasiekė daug trumpesni, pasakodamas apie

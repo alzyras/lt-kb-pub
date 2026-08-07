@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e0ff553930dceb4df901105"
+canonical_name: "Konradas Rufus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas Rufus"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranašavo sau mirtį, kalbėdamasis su broliu Konradu Rufu, kuris jam žadėjo atiduoti savo žirgą, kai trauks atgal, o tas tarė: „Man pakanka savo žirgo, nes manęs netrukus gyvo nebematysi“."
 ---
 # Konradas Rufus
 
@@ -65,7 +72,8 @@ Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranaš
 - id: c-61000
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Tas brolis Ditrichas iš Ezbeko iš anksto išsipranašavo sau mirtį,
     kalbėdamasis su broliu Konradu Rufu, kuris jam žadėjo atiduoti savo žirgą, kai trauks

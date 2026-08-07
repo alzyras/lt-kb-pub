@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf845f768000716c76c1bb03"
+canonical_name: "Stanislovas Laurinavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Laurinavičius"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir prefektas, pateikė vietinių tyrinėjimų faktus apie jėzuitų perstatytą mūrą. Stanislovas Laurinavičius, Narbuto rankraščio liudijimu, mirė beveik devyniasdešimties metų amžiaus beveik prieš devynerius metus. Stanislovas Laurinavičius visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
 ---
 # Stanislovas Laurinavičius
 
@@ -124,7 +131,8 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
 - id: c-172960
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 269."
   citata_originali: |
     Tai ir buvo toji šventykla, vėliau paversta svirnu,
     tai yra prekių sandėliu. Vėliau, kai jėzuitai pasistatė naują baž­
@@ -150,7 +158,8 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
 - id: c-175373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 472"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 472."
   citata_originali: |
     Kalba ir apie S. Laurinavičių,
     „kuris mirė sulaukęs beveik devyniasdešimties metų, beveik prieš
@@ -168,7 +177,8 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
 - id: c-179190
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
   citata_originali: |
     Perrašau jį ištisai, ka­
     dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
@@ -191,7 +201,8 @@ Narbutas rašo, kad Stanislovas Laurinavičius, Kauno mokyklos profesorius ir pr
 - id: c-179351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 492"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 492."
   citata_originali: |
     Vieni sako, jog jis atsiradęs iš skiedrų, kurios buvo nau­
     dojamos stogams dengti, o kiti (remdamiesi tuo, kad joks pas­

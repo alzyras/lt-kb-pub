@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88a0d38ae8078ecfad79d970"
+canonical_name: "Rodūnios parapija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rodūnios parapija"]
+sameAs: []
+canonical_biography: "Narbutas Rodūnios parapiją mini kaip Lydos krašto vietą, kur netoli vienas kito buvo Leliušių ir Lelionių kaimai."
+place_authority: true
+historical_names: []
 ---
 # Rodūnios parapija
 
@@ -55,7 +64,8 @@ Narbutas Rodūnios parapiją mini kaip Lydos krašto vietą, kur netoli vienas k
 - id: c-171940
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
   citata_originali: |
     Vie­
     noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­

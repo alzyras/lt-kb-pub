@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f245759d53e581965aaf5144"
+canonical_name: "Vladislovas Hermanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladislovas Hermanas"]
+sameAs: []
+canonical_biography: "Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Boleslovo Drąsiojo, ne vien pamezonys, nes gu dai ir pamariai lenkų nebklausė ir duoklės nebdavė."
 ---
 # Vladislovas Hermanas
 
@@ -41,9 +48,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184776
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 150"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 150."
   citata_originali: |
     Įėjusiu į Juodgirė-
     nus (šiandien Baltaisiais Gudais vadinamus) pasis-

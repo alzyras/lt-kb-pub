@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3b1723094bddba76b6560d7f"
+canonical_name: "Šv. Jono pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Jono pilis"]
+sameAs: []
+canonical_biography: "Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv."
+place_authority: true
+historical_names: []
 ---
 # Šv. Jono pilis
 
@@ -46,7 +55,8 @@ Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv.
 - id: c-177373
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 412."
   citata_originali: |
     Elzbietos diena 348
     Šv. Jono diena 336

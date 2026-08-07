@@ -64,7 +64,8 @@ media_all_json: |-
 - id: c-33781
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 385."
   citata_originali: |
     — Semkowicz, W. : _Pierwsze przywileje
     fundacyjne Witolda dla Kościoła na Żmudzi_ , KH, t. 44, 1930, 348-355 p.

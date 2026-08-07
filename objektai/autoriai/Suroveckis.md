@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7e9e4a5690f86492814faa1a"
+canonical_name: "Suroveckis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Suroveckis"]
+sameAs: []
+canonical_biography: "Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdintoje 1812 m. Varšuvoje."
 ---
 # Suroveckis
 
@@ -64,7 +71,8 @@ Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdi
 - id: c-173339
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 250."
   citata_originali: |
     Apie tai byloja ir pats žibintas -
     aiškus šviesos atributas**.

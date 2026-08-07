@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1115d882e97e14ed60e79fb7"
+canonical_name: "Šv. Elena"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šv. Elena"]
+sameAs: []
+canonical_biography: "Elenos skulptūros ant katedros frontono."
 ---
 # Šv. Elena
 
@@ -82,7 +89,8 @@ Elenos skulptūros ant katedros frontono.
 - id: c-166971
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 90."
   citata_originali: |
     O 1792 m. buvo baigtos Lietuvos globėjo šv. Kazimiero, Lenkijos
     globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.

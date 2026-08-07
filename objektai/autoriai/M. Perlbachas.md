@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d7d96054b197657c95786fda"
+canonical_name: "M. Perlbachas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Perlbachas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Prūsijoje. Dusburgietis teigia, kad 597; Perlbach M. Dusburgietis teigia, kad 1.23 popiežiaus bulėmis (PUB 1, 1, Nr. 72, 87; Perlbach M."
 ---
 # M. Perlbachas
 
@@ -91,7 +98,8 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 - id: c-159299
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 51-52"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 51-52."
   citata_originali: |
     Pasakojimą apie didžiojo magistro Hermano iš Zalcos išprašytą teisę skelbti kryžiaus
 
@@ -129,7 +137,8 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 - id: c-159300
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
     Iš kronikos faktologinės medžiagos matyti, kad nuo 1289 m. veikale randasi daugiau
     detalių, tikslesnių datų, todėl kartais tvirtinama (M. Perlbachas), jog nuo tada Dusburgietis
@@ -146,7 +155,8 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 - id: c-159302
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     Petras iš Dusburgo akcentuoja, kad Prūsijoje kariaujama prieš „tikybos ir bažnyčios
     priešus“ (II, 7), todėl kryžiaus žygių dalyviai eina į karą prieš prūsus ir lietuvius keršyti

@@ -188,7 +188,8 @@ Nenurodyta
 - id: c-55964
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
   citata_originali: |
     Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a. pabaigoje,
     agresijos  į Artimuosius Rytus metu, atsikėlimas ir įsitvirtinimas pavyslyje XIII a.
@@ -210,7 +211,8 @@ Nenurodyta
 - id: c-55977
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
   citata_originali: |
     XIV a. trečiajame dešimtmetyje Lietuvos valstybei, Gedimino vyriausybei vedant
     sėkmingą karinę  ir diplomatinę kovą prieš Kryžiuočių ordino agresiją, Vakarų
@@ -231,7 +233,8 @@ Nenurodyta
 - id: c-55978
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
   citata_originali: |
     Dėl unikalių žinių apie vakarų baltų ir lietuvių politinę, socialinę, ūkio ir kultūros
     istoriją gausumo Petro iš Dusburgo kronika yra nepakeičiamai svarbi baltistikos,
@@ -252,7 +255,8 @@ Nenurodyta
 - id: c-55979
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
   citata_originali: |
     „Lituanistinės bibliotekos“ serijoje pateikiamu Petro iš Dusburgo kronikos teksto
     vertimu, jo aptarimu įžanginiame straipsnyje bei paaiškinimuose norima platesnei
@@ -273,7 +277,8 @@ Nenurodyta
 - id: c-55980
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
   citata_originali: |
     Įvade bandoma apibūdinti kronikos sukūrimo epochą, prūsų ir Lietuvos ryšius,
     kronikos rankraščius, jų tyrinėjimus, autoriaus politinius ir ideologinius tikslus,
@@ -293,7 +298,8 @@ Nenurodyta
 - id: c-55981
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
@@ -318,7 +324,8 @@ Nenurodyta
 - id: c-55982
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
   citata_originali: |
     Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius
     Torunės, Karaliaučiaus, Berlyno  ir kt. nuorašus parengė  ir 1861 m. „Scriptores

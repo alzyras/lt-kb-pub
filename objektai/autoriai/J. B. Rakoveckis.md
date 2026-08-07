@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6150d2cbd9a7a1b6dc16e9c1"
+canonical_name: "J. B. Rakoveckis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. B. Rakoveckis"]
+sameAs: []
+canonical_biography: "J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltinį apie kitų tautų antspaudus ir herbus."
 ---
 # J. B. Rakoveckis
 
@@ -54,7 +61,8 @@ J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltin�
 - id: c-173313
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 399."
   citata_originali: |
     5 Istorijos duomenų apie kitų tautų antspaudus ir herbus skaity­
     tojas ras Čackio veikale „Apie teises“ (t. I. - P. 71. - Prierašas nr. 347),

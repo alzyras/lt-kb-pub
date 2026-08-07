@@ -59,9 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184693
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 447"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 447."
   citata_originali: |
     Paskui antras kryžėjas, įgijęs valdžią, kruvinai te­
     nai atvejų atvejais kovės su sūdau jais su įvairia

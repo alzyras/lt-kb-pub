@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-19f5847474fe2ac19925a822"
+canonical_name: "E. Aleksandravičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["E. Aleksandravičius"]
+sameAs: []
+canonical_biography: "E. Aleksandravičius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys."
 ---
 # E. Aleksandravičius
 
@@ -101,7 +108,8 @@ Nenurodyta
 - id: c-170735
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 4."
   citata_originali: |
     R edaktorių kolegija:
     E. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,

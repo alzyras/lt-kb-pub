@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0ab25a3c7d56a617ebefbbba"
+canonical_name: "M. Muravjovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. Muravjovas"]
+sameAs: []
+canonical_biography: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vilniaus švietimo apygardos globėju. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis draudimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m. pavasario."
 ---
 # M. Muravjovas
 
@@ -116,7 +123,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 - id: c-25100
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 109."
   citata_originali: |
     Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
     nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė
@@ -139,7 +147,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 - id: c-75336
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 115."
   citata_originali: |
     Iš to gimė sumanymas pakeisti lietuvių raštijoje tradicinį
     lotyniškąjį raidyną rusišku raidynu, arba kirilika. 1864 m. M. Muravjovo
@@ -157,7 +166,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 - id: c-75337
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 227-228"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 227-228."
   citata_originali: |
     Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų,
     juos persekiojo, katalikai buvo ypač neparankūs dėl to, kad katalikybė
@@ -180,7 +190,8 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 - id: c-75338
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 114."
   citata_originali: |
     Juk separatizmas tarpo pirmiausia vietos bajoriškoje
     visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,

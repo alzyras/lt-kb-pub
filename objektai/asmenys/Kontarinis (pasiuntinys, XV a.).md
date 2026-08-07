@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9310d535f75e61f4a2bb75b"
+canonical_name: "Kontarinis (pasiuntinys, XV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kontarinis","Kontarinis (pasiuntinys, XV a.)"]
+sameAs: []
+canonical_biography: "1477 m. vasario 25 d. Venecijos atstovas Kontarinis, iš Maskvos keliavęs per užšalusias upes, atvyko į Trakus, o Kazimieras Jogailaitis pakvietė jį pusryčių."
 ---
 # Kontarinis (pasiuntinys, XV a.)
 

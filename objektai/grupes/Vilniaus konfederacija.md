@@ -38,7 +38,8 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
 - id: c-22806
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 96."
   citata_originali: |
     Taigi lemtis nedavė Lenkijai ir Lietuvai XVIII  a. pabaigoje garbin-
     gesnio valdovo, istorija dviem balsais atmetė kitokios raidos galimybę.

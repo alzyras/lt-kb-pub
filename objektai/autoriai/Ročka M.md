@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ce3155fe4a3c89ec77d44ee0"
+canonical_name: "Ročka M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ročka M"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vad., ir čia ryški tendencija susieti savo tautos praeitį su tikrais ar menamais senovės Romos istorijos įvykiais (Ročka M."
 ---
 # Ročka M
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad vad., ir čia ryški tendencija susieti savo tautos pra
 - id: c-61407
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
   citata_originali: |
     Viduramžių tradicijai artima humanizmo epochos versija, radusi atgarsio Kazimiero
     Jogailaičio pasiuntinio pas popiežių Jono Ostrorogo kalboje apie senovės lenkų bei lietuvių

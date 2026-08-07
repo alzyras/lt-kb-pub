@@ -76,7 +76,8 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
 - id: c-12577
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 130."
   citata_originali: |
     XVII a. viduryje Turkija savo ekspansiją kokiam nors žygiui Respublika išrikiuotų didesnę armiją, o kadangi šis skaičius niekad
     iš Viduržemio jūros pakrančių perkėlė į nebūna tikslus, kariuomenė būna tai stipresnė, tai silpnesnė - priklausomai nuo valstybės

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4078b0dd354b468d2fab33fe"
+canonical_name: "Lengvenis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lengvenis"]
+sameAs: []
+canonical_biography: "Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas."
 ---
 # Lengvenis
 
@@ -124,7 +131,8 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 - id: c-30252
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 314."
   citata_originali: |
     Lengvenis ten pastoviai neįsikūrė. Patyręs apie
     savo dviejų brolių (Karigailos, Viganto — Aleksandro) mirtį, jis
@@ -144,7 +152,8 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 - id: c-50281
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 283."
   citata_originali: |
     Kaip kita­
     dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
@@ -168,7 +177,8 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 - id: c-50282
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 310."
   citata_originali: |
     Vėl sustiprėjęs Jogaila į D. Naugardo kunigaikščius —
     « maitinimuisi » (« na kormlenije ») — nuskyrė savo brolį Lengvenį,

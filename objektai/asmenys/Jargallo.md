@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e877fe0cd56934b4d1c34d0"
+canonical_name: "Jargallo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jargallo"]
+sameAs: []
+canonical_biography: "Narbutas mini kritiko teiginį, kad Jargallo, Jaygello ir Pomoloys esą aiškiai lietuviški vardai."
 ---
 # Jargallo
 
@@ -53,7 +60,8 @@ Narbutas mini kritiko teiginį, kad Jargallo, Jaygello ir Pomoloys esą aiškiai
 - id: c-173112
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
   citata_originali: |
     433
 

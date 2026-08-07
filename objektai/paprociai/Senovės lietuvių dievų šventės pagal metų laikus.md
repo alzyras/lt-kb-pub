@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184737
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 141"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 141."
   citata_originali: |
     Kas buvo kitose tautose, tas pats nutiko su lie­
     tuviais, kalnėnais ir žemaičiais, kurie, gyvendami

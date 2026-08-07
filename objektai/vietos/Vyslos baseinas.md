@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-20a30d3ec307623c9364936c"
+canonical_name: "Vyslos baseinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vyslos baseinas"]
+sameAs: []
+canonical_biography: "Antra vertus, Vyslos baseine škutas buvo labai paplitęs laivas, dažniausiai naudotas grūdams į Gdanską gabenti."
+place_authority: true
+historical_names: []
 ---
 # Vyslos baseinas
 
@@ -41,9 +50,9 @@ Antra vertus, Vyslos baseine škutas buvo labai paplitęs laivas, dažniausiai n
 ## Citatos
 
 - id: c-185095
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 246"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 246."
   citata_originali: |
     Lietuvos muitinių knygose škutas neminimas, vyrauja vytinė ir tik
     retkarčiais pasitaiko strugas, botas ar perga. Antra vertus, Vyslos baseine škutas buvo

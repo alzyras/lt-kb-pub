@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4065f7dd92d182c843b942eb"
+canonical_name: "Nalšia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nalšia"]
+sameAs: []
+canonical_biography: "Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, žmona, kuri buvo karalienės sesuo. Daumantas buvo Nalšios kunigaikštis ir Mindaugo svainės vyras."
+place_authority: true
+historical_names: []
 ---
 # Nalšia
 
@@ -75,7 +84,8 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
 - id: c-168690
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 107."
   citata_originali: |
     Vargu ar prislėgti
     krikščionys būtų kada lengviau atsikvėpę, jeigu be­
@@ -102,7 +112,8 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
 - id: c-170567
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
   citata_originali: |
     O jos sesuo buvo ištekėjusi už
     Daumanto, už Nalšios kunigaikščiol0 . Ir Mindaugas

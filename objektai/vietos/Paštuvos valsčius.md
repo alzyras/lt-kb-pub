@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-425b75db94d85ce9808e7ee6"
+canonical_name: "Paštuvos valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Paštuvos valsčius"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo metu brolis Meinhardas, magistras, nesitenkindamas lietuviams pridarytais nuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius, viską čia didžiausiais gaisrais. Dusburgietis teigia, kad paštuvos valsčius buvo deš. Dusburgietis teigia, kad tada jis padalijo savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo."
+place_authority: true
+historical_names: []
 ---
 # Paštuvos valsčius
 
@@ -41,7 +50,7 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 <a id="claim-t-91251"></a>
 - t-001
   teiginys: "1316 m. žiemą maršalas Henrikas su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių, jį nusiaubė ir paėmė arba nukovė 500 žmonių."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -55,7 +64,6 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
   pagrindžia:
-    - c-86972
     - c-86973
 
 <a id="claim-t-91252"></a>
@@ -97,12 +105,19 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 <a id="claim-t-91254"></a>
 - t-004
   teiginys: "Paštuvos valsčius buvo deš."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paštuvos valsčius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paštuvos valsčius\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-86972
+    - c-86971
 
 <a id="claim-t-91255"></a>
 - t-005
@@ -166,7 +181,8 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 - id: c-86971
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau
     Nevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.
@@ -176,14 +192,17 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   citata_rodoma: "536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau\nNevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.\nValsčiaus centras — Paštuvos (Vilkijos) pilis (D. III, 347; Zajączkowski S., Studya..., p.\n40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72;\nMakarevičius A., Vilkijos..., p. 62)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-86972
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
   citata_originali: |
     Apie Paštuvos ir Gaižuvos valsčių nuniokojimą
     1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
@@ -198,15 +217,14 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
-    - t-004
     - t-005
 
 - id: c-86973
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Apie Paštuvos valsčiaus nusiaubimą
 
@@ -230,7 +248,8 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 - id: c-86974
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
   citata_originali: |
     Apie Paštuvos ir Gaižuvos valsčių apiplėšimą
 

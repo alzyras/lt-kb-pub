@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ffeb91d3ee7ad3b7281fe611"
+canonical_name: "Simonas (Maskvos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Simonas (Maskvos kunigaikštis)"]
+sameAs: []
+canonical_biography: "sieną, pabėgo ir pasislėpė pas didįRus., 1.168, ir K a r a m z i n: M cmopim jį Maskvos kunigaikštį Simoną ir TocygapcmBa PoccuūcKaro."
 ---
 # Simonas (Maskvos kunigaikštis)
 
@@ -51,7 +58,8 @@ sieną, pabėgo ir pasislėpė pas didįRus., 1.168, ir K a r a m z i n: M cmopi
 - id: c-83830
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42."
   citata_originali: |
     Jau apsipratęs su
     16

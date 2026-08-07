@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-82946
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 52-53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 52-53."
   citata_originali: |
     Re­
     gis, iš jo kilusi Hanulu giminė, kurių

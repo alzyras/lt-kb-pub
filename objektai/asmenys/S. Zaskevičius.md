@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-34abcabbaba52d8a13c9ef8b"
+canonical_name: "S. Zaskevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["S. Zaskevičius"]
+sameAs: []
+canonical_biography: "Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevičius su likusia rinktinės dalimi traukėsi Tverų kryptimi."
 ---
 # S. Zaskevičius
 
@@ -75,7 +82,8 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
 - id: c-44504
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 178."
   citata_originali: |
     Po nepavy-
     kusio vasario
@@ -94,7 +102,8 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
 - id: c-44505
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 177."
   citata_originali: |
     bus ruožas buvo silpnai pridengtas.
     Atsižvelgiant į minėtos krypties
@@ -117,7 +126,8 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
 - id: c-44506
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 177."
   citata_originali: |
     Pirmasis Jiezno puolimas pirmajai grupei vadovavęs išdavikas rusų
     kilmės karin. J. Cetuchinas savo vado-

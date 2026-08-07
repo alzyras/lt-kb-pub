@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-de45b2c203898f7c717a76c3"
+canonical_name: "Pašiaušė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pašiaušė"]
+sameAs: []
+canonical_biography: "Radvilos fundacija), Pašiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja), Vitebske (Smolensko vaivados A."
+place_authority: true
+historical_names: []
 ---
 # Pašiaušė
 
@@ -50,7 +59,8 @@ Radvilos fundacija), Pašiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-
 - id: c-02905
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     Tuo
     būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f85586fbbb35b755acd392e9"
+canonical_name: "Józef Wolff"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Józef Wolff","Wolff","Wolffas"]
+sameAs: []
+canonical_biography: "Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gediminą“ autorius. Jo nuomonė pasitelkiama aiškinant Kęstučio vaikų kilmę."
 ---
 # Józef Wolff
 
@@ -82,7 +89,8 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 12."
   citata_originali: |
     = Wołonczewskis, Motiejus K., Żemajtiu Wiskupiste, Vil­
     nius, 1848.
@@ -100,7 +108,8 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 24."
   citata_originali: |
     Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
     tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,

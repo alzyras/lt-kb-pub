@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184713
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 92"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 92."
   citata_originali: |
     Klausė jo valdžios ne vien lietu­
     viai ir žemaičiai, bet ir kitos dalys Lietuvos tautos,

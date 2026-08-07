@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7e3e8d2a2cfd04a6468066fc"
+canonical_name: "Jonas iš Lietuvos kunigaikščių"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas iš Lietuvos kunigaikščių"]
+sameAs: []
+canonical_biography: "Be to, sinodas kuo įsakmiausiai įsako vi­ siems klebonams miestuose ir kai­ muose laikyti tokius vikarus, kurie gerai moka lietuvių kalbą."
 ---
 # Jonas iš Lietuvos kunigaikščių
 
@@ -51,7 +58,8 @@ Be to, sinodas kuo įsakmiausiai įsako vi­ siems klebonams miestuose ir kai­ 
 - id: c-83410
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 287."
   citata_originali: |
     Be to,
     sinodas kuo įsakmiausiai įsako vi­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4f3fca41c3d4fbe3a7433ce1"
+canonical_name: "Taurija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Taurija"]
+sameAs: []
+canonical_biography: "229 ## Puslapis 246 VILNIAUS MIESTO ISTORIJA II TOMAS su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­ kreipė visą jo dėmesį į save."
+place_authority: true
+historical_names: []
 ---
 # Taurija
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-82221
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 245-246"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 245-246."
   citata_originali: |
     Rašyta Vilniu­
     je liepos 5 dieną, 2-me indikte, su

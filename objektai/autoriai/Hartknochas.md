@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-58ef6e3ae2c202f247f6e86c"
+canonical_name: "Hartknochas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hartknochas"]
+sameAs: []
+canonical_biography: "Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta vadinama Castrum Gedemini, yra visiškai atmestina."
 ---
 # Hartknochas
 
@@ -138,7 +145,8 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
 - id: c-84002
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     Jeigu mes net tarsime, kad ta pilis Vilniuje
     gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
@@ -164,7 +172,8 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
 - id: c-171290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 359."
   citata_originali: |
     Draugystės, svetingumo, santai­
     kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­
@@ -188,7 +197,8 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
 - id: c-171291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 412."
   citata_originali: |
     O
     kad šis palyginimas yra toks pat beprasmis ir netinkamas kaip
@@ -213,7 +223,8 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
 - id: c-173580
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Ten ji šiau­
     rėje ir rytuose ribojosi su Žemaitija ir iš dalies su Lie­
@@ -235,7 +246,8 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
 - id: c-179255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 270."
   citata_originali: |
     Anot Hartknocho, sudargų iš­
     ties būta, jų atminimas gyvas šios žemės padavimuose ir

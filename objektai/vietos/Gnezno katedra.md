@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f57190b02d399ef6766fdb26"
+canonical_name: "Gnezno katedra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gnezno katedra"]
+sameAs: []
+canonical_biography: "Paskesniai Bo leslovas, didindamas jo godą kaipo savo tarno, už žodį Dievo savo gyvybą padėjusį, pardangino su iškilme kūną jo iš klioštoriaus į Gnezno katedrą, kur stebuklus rodė ne vien lenkams, bet dar teuto nams ir italionims, kurią vietą ne vien žmonės."
+place_authority: true
+historical_names: []
 ---
 # Gnezno katedra
 
@@ -47,9 +56,9 @@ Paskesniai Bo leslovas, didindamas jo godą kaipo savo tarno, už žodį Dievo s
 ## Citatos
 
 - id: c-184510
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 139"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 139."
   citata_originali: |
     Bet kūnas mūčelnyko keis­
     tai lengvu pasidarė, kaipogi būk vienas skatikas

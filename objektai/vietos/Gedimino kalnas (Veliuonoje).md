@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1397da3159a4a0f9d133a6cc"
+canonical_name: "Gedimino kalnas (Veliuonoje)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gedimino kalnas (Veliuonoje)"]
+sameAs: []
+canonical_biography: "Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia stovėta pilies, nėra, nors ji buvo mūrinė. Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­ lies ir Gedimino kalno šlaitus."
+place_authority: true
+historical_names: []
 ---
 # Gedimino kalnas (Veliuonoje)
 
@@ -68,7 +77,8 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
 - id: c-82048
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 118."
   citata_originali: |
     Ant pilkapio nuo neatme­
     namų laikų visada būdavo statomas kryžius. Mažas upeliu­
@@ -89,7 +99,8 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
 - id: c-82049
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 117-118"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 117-118."
   citata_originali: |
     Visas kalnas parko dalyje nusėtas nuolaužomis, bet ki-
     lp pėdsakų, kad čia stovėta pilies, nėra, nors ji buvo mūrinė.

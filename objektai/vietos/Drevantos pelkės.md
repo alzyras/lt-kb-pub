@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-307c9505c0f323061c4d657f"
+canonical_name: "Drevantos pelkės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Drevantos pelkės"]
+sameAs: []
+canonical_biography: "Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelkių, lengvino kariaujančių su vo kiečiais lietuvių ryšius su Pamariu ir Prūsija."
+place_authority: true
+historical_names: []
 ---
 # Drevantos pelkės
 
@@ -54,7 +63,8 @@ Tai jie, klajodami tarp Mazovijos, Prūsijos ir Lietuvos net ligi Drevantos pelk
 - id: c-177322
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     126
 

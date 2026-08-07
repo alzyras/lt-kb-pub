@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6aba939847a44685d26742f1"
+canonical_name: "Albertas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas"]
+sameAs: []
+canonical_biography: "Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos arkivyskupas Albertas, nepaisydamas popiežiaus įsakymo, priėmė iš Kristijono priesaiką savo vardu. Albertas († 1229 m.), Livonijoje naujos vokiečių valstybės valdovas buvo jis."
 ---
 # Albertas
 
@@ -178,7 +185,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - id: c-76031
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 56."
   citata_originali: |
     Palestinoje,
     einant kryžiaus karams su turkais, krikščionims apsaugoti
@@ -199,7 +207,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - id: c-76033
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 56-57"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 56-57."
   citata_originali: |
     Vyskupui
     tuo būdu liko valdyti^2 /з krašto. Taip buvo pasidalytas jau už-
@@ -219,7 +228,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - id: c-76034
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 22."
   citata_originali: |
     Jersikos karalius
 
@@ -254,7 +264,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - id: c-173719
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 126."
   citata_originali: |
     Si
     vyskupija turėjo apimti Rusią, plytinčią kairiojoje Pele­
@@ -277,9 +288,9 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - t-004
 
 - id: c-184310
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 186"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 186."
   citata_originali: |
     To­
     dėl gi Albertas, dangstydamas savo tikyba, veizėjo
@@ -309,9 +320,9 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - t-005
 
 - id: c-184311
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 211"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 211."
   citata_originali: |
     Taip randantis kas kartą pavojesniai dėl voky­
     čių, Hermanas, urėdas lybiešų, suvadinęs perkrikš­
@@ -346,9 +357,9 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - t-006
 
 - id: c-184312
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 229"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 229."
   citata_originali: |
     Žemgaliai, kurie buvo persikrikš­
     tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su­
@@ -370,9 +381,9 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - t-007
 
 - id: c-184313
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 347"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 347."
   citata_originali: |
     Mintautas nuo vienos pu­
     sės gorinamas pavojum, nuo antros masinamas

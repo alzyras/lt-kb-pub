@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-05c49fa138f09334eac600c4"
+canonical_name: "Kristijonas Donelaitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kristijonas Donelaitis"]
+sameAs: []
+canonical_biography: "Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Donelaičio poema „Metai“ (apie 1750). Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poema „Metai“ (su vertimu į vokiečių kalbą)."
 ---
 # Kristijonas Donelaitis
 
@@ -69,7 +76,8 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
 - id: c-176379
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 15."
   citata_originali: |
     Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau
     pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradė-
@@ -90,7 +98,8 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
 - id: c-176380
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     Įspūdį padarė 1818 m. Karaliaučiuje žymaus
     mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio

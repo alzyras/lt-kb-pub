@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0bf6a98ea3684c945a0fbf1d"
+canonical_name: "Henrikas Leo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Leo"]
+sameAs: []
+canonical_biography: "Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptarti marienburgiškais vadinti žodžiai yra keltų kalbos žodžiai. Leidinio pastaboje Henrikas Leo apibūdinamas kaip vokiečių istorikas ir Hėgelio mokinys, kurio knyga parašyta 1842–1845 m."
 ---
 # Henrikas Leo
 
@@ -87,7 +94,8 @@ Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptart
 - id: c-174089
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 512"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 512."
   citata_originali: |
     Brunsbergae, 1725.
     192 /Prieš
@@ -115,7 +123,8 @@ Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptart
 - id: c-174090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 512"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 512."
   citata_originali: |
     , Tekstas, kuriuo T. Narbutas papildė LTI, rengdamas antrąjį leidi­
     mą (PEĮ. L. 294). Turima omenyje garsaus vokiečių istoriko, Hė­

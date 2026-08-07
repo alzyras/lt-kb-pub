@@ -16,9 +16,6 @@ date_start: '1505'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
-  - pilis
 amziai:
   - 'XVI'
   - 'XXI'
@@ -34,6 +31,18 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+tags:
+  - vieta
+  - pilis
+entity_id: "ent-1f8e9b2ddb7507d6fadae416"
+canonical_name: "Sluckas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sluckas"]
+sameAs: []
+canonical_biography: "Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny. Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė. Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
+place_authority: true
+historical_names: []
 ---
 # Sluckas
 
@@ -236,12 +245,14 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
+
 ## Citatos
 
 - id: c-43861
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     1506 m. vasarą totoriai įsiveržė į LDK valdas
     gerai nusiteikę. Prieš metus įvykęs jų žygis
@@ -264,7 +275,8 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - id: c-43862
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Jodami stepėmis tarp
     Lietuvos ir Maskvos valdų jie kasdien su-
@@ -286,7 +298,8 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - id: c-46722
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     Tuo
     būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
@@ -312,7 +325,8 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - id: c-46723
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 357."
   citata_originali: |
     Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
     žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
@@ -333,7 +347,8 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - id: c-80929
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248."
   citata_originali: |
     Miestiečiai prie jų
     dieną ir naktį turėjo eiti sargybą, jiems buvo suteikta laisvė
@@ -356,7 +371,8 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - id: c-80930
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 201."
   citata_originali: |
     Taip pat jis darė ir su kitomis mažesnėmis kunigaikštystėmis.
     Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
@@ -376,7 +392,8 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - id: c-80933
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 216."
   citata_originali: |
     Be to, Lietuvos po-
     nai, jo priešai, norėdami jį
@@ -401,7 +418,8 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - id: c-168508
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 586"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 586."
   citata_originali: |
     Karaliui atvykus į Lydą, vienas
     bajoras, šiaip taip pasprukęs iš niokotojų rankų, pra­

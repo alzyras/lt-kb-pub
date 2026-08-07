@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-173960
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 65."
   citata_originali: |
     Erbelotas* mini vieną
     alanų karaliuką, viešpatavusį savo genties ordoje, kuri

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4cd8050c912f18d2a9ea7b09"
+canonical_name: "Kuno von Hattenstein"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kuno von Hattenstein"]
+sameAs: []
+canonical_biography: "Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo maršalas Kuno von Hattenstein, padėjęs Jogailai įveikti dėdę."
 ---
 # Kuno von Hattenstein
 
@@ -51,7 +58,8 @@ Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo
 - id: c-32777
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 282."
   citata_originali: |
     Su paskutinio pagonio kunigaikščio Kęstučio iškilmingu sude­
     ginimu Lietuvos istorijoje turėjo prasidėti naujas laikotarpis. Tuo

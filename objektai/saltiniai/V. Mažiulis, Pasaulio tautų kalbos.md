@@ -54,7 +54,8 @@ Dusburgietis teigia, kad 14 Mažiulis V.
 - id: c-61964
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.
   citata_rodoma: "14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p."

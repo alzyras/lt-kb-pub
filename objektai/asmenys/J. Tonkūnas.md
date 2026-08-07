@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aafade6bb2a98e602af55615"
+canonical_name: "J. Tonkūnas (švietimo ministeris)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Tonkūnas","J. Tonkūnas (švietimo ministeris)","J. Tonkūnui","prof. J. Tonkūnas"]
+sameAs: []
+canonical_biography: "J. Tonkūnas minimas kaip švietimo ministeris, rūpinęsis veikalo bendradarbių sutelkimu ir teikęs paramą rengiamam darbui."
 ---
 # J. Tonkūnas (švietimo ministeris)
 
@@ -52,7 +59,8 @@ J. Tonkūnas minimas kaip švietimo ministeris, rūpinęsis veikalo bendradarbi�
 - id: c-00116
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 4."
   citata_originali: |
     |
   citata_rodoma: "|"

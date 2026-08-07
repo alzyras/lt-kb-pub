@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ccf79595723c6d2d33972e0"
+canonical_name: "Toropiec"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Toropiec"]
+sameAs: []
+canonical_biography: "Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt. 156 Toreida, upė 222 Tomas 167, 296, 334, 340, 343; Torno analai 277 Torno taika 325, 336, 342, 343, 345, 353, 355, 358, 360, 366 Toropiecas 264 Toržokas, vietovė 242 Totoraitis J."
+place_authority: true
+historical_names: []
 ---
 # Toropiec
 
@@ -62,7 +71,8 @@ Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropi
 - id: c-93865
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 271."
   citata_originali: |
     jo garnizonai įsikūrė Rževe ir Bialoje. Iki 1362 jis užėmė Smolensko
     kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt.

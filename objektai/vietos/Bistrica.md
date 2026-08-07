@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a6228562490dcf638e60de2b"
+canonical_name: "Bistrica"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bistrica"]
+sameAs: []
+canonical_biography: "Jogaila buvo pastatęs bažnyčias Aš­ menoje, Lydoje, Medininkuose (Vil.), Krėvėje, Nemenčyne, Bistricoje, Maišiogaloje, Ukmergėje1 2)."
+place_authority: true
+historical_names: []
 ---
 # Bistrica
 
@@ -51,7 +60,8 @@ Jogaila buvo pastatęs bažnyčias Aš­ menoje, Lydoje, Medininkuose (Vil.), Kr
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 120."
   citata_originali: |
     Jogaila buvo pastatęs bažnyčias Aš­
     menoje, Lydoje, Medininkuose (Vil.), Krėvėje, Nemenčyne,

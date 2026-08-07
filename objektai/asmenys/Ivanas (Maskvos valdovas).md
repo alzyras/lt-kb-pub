@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-116d7b0dcd5f5357e8be6fbc"
+canonical_name: "Ivanas (Maskvos valdovas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas (Maskvos valdovas)"]
+sameAs: []
+canonical_biography: "Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų nuskriausti jo globon paimti asmenys ar jų tėvonijos. Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo. Karalius žadėjo atiduoti Andrejų tik tada, jei Ivanas grąžintų kunigaikščius su jų šeimomis ir tėvonijomis."
 ---
 # Ivanas (Maskvos valdovas)
 
@@ -147,7 +154,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
 - id: c-169305
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 557"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 557."
   citata_originali: |
     Juk jis įsakęs Vilniaus vys­
     kupui Vaitiekui Taborui ir
@@ -181,7 +189,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
 - id: c-169306
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 559"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 559."
   citata_originali: |
     Po to visi it vienas pa­
     reikalavo vesti juos į priekį ir pulti priešą. Nesilsėjusi
@@ -200,7 +209,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
 - id: c-169308
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 735"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 735."
   citata_originali: |
     Mat šis, nepakęsdamas Ivano žiau­
     rumo, kartu su visa šeimyna šiek tiek anksčiau buvo
@@ -222,7 +232,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
 - id: c-169309
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 735"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 735."
   citata_originali: |
     Karalius
     taip paskirstė senatorių
@@ -258,7 +269,8 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
 - id: c-176115
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 734"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 734."
   citata_originali: |
     Sutiko ir priėmė
     maskvėnus pataurininkis Mikalojus Kiška, stalininkas

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd533fa2c150d814777be6ca"
+canonical_name: "Karačevas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karačevas"]
+sameAs: []
+canonical_biography: "Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais. Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą. Lietuvos metraštis pasakoja, kad Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
+place_authority: true
+historical_names: []
 ---
 # Karačevas
 
@@ -108,7 +117,8 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
 - id: c-170297
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
   citata_originali: |
     Su didžios pergalės
     šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus

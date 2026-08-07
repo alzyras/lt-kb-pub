@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-93373f3e915f5df3ff3857e1"
+canonical_name: "Aleksandras Gvaninis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Aleksandras Gvaninis","Aleksandro Gvaninio","Gvagninio","Gvaninio","Gvaninis","Gvanjinio"]
+sameAs: []
+canonical_biography: "Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos tradicija. Narbutas jį mini kaip kronikininką ir kaip pasakojimų apie lietuvių religinius vaizdinius bei žalčių garbinimo siužetus šaltinį."
 ---
 # Aleksandras Gvaninis
 
@@ -201,7 +208,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - id: c-170905
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 205."
   citata_originali: |
     Siauras (Siauras)
     Driežas. Lasickis, kalbėdamas apie fetišus, pamini tik kai
@@ -235,7 +243,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - id: c-170906
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­
     paprastai seni, ir apie juos pasakojo ypač keistų dalykų. Gva-
@@ -254,7 +263,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - id: c-170907
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 92."
   citata_originali: |
     Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
     šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
@@ -274,7 +284,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - id: c-173508
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
   citata_originali: |
     Sunkiai, labai steng­
     damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
@@ -296,7 +307,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - id: c-173509
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
   citata_originali: |
     Pabaisa atsakė: „Aš esu tas, kuris čia būsiu,
     kol atkeršysiu už tai, kad užmušei savo namų dievą. Tu būsi
@@ -315,7 +327,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - id: c-173571
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 109."
   citata_originali: |
     Ar mūsų latviai
     kažkada išėjo iš tų užkampių, ar buvo ten nuvesti toto­
@@ -337,7 +350,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - id: c-179098
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 92."
   citata_originali: |
     Žmogus, vadovaudamasis įgim­
     tu jausmu, pajutęs dievą savo širdyje, protu ieškojo jo aplin­

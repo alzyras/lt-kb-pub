@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b691792b3b3d7d9a58276aaf"
+canonical_name: "Mežotė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mežotė","Mežotė (vieta)"]
+sameAs: []
+canonical_biography: "Žemgaliai, kurie buvo persikrikš tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su sinėrę kariavo meldžionis, kaipogi, aptverę kuo stipresniai pilį Mežotę, traukė į Bažnyčios salą ir tenai, krikščionis nugalavę, visą kraštą nuteriojo."
+place_authority: true
+historical_names: []
 ---
 # Mežotė (vieta)
 
@@ -46,9 +55,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184497
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 229"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 229."
   citata_originali: |
     Žemgaliai, kurie buvo persikrikš­
     tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su­

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4f2f862fc9acd017aadda33"
+canonical_name: "Mnelea ir Rolandas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mnelea ir Rolandas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba mirusiųjų dievus."
 ---
 # Mnelea ir Rolandas
 
@@ -53,7 +60,8 @@ Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba m
 - id: c-173069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     Dabar sunku tinkamai atskleisti to mito prasmę: pirma,
     apeigos buvo slaptos, antra, painiava net senovės mitologų vei­

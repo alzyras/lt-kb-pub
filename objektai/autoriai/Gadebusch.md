@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b7f8cad106a5608da5570b56"
+canonical_name: "Gadebusch"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gadebusch"]
+sameAs: []
+canonical_biography: "335 ir Epito­ mator, Gadebusch Livl."
 ---
 # Gadebusch
 
@@ -49,7 +56,8 @@ media_all_json: |-
 - id: c-84035
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 84."
   citata_originali: |
     Energingas Garteno (Gar­
     dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse,

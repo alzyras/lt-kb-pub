@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-77b24e242c6600662eeea848"
+canonical_name: "Salaspilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Salaspilis"]
+sameAs: []
+canonical_biography: "Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota."
+place_authority: true
+historical_names: []
 ---
 # Salaspilis
 
@@ -91,7 +100,8 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
 - id: c-167025
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 75."
   citata_originali: |
     Bendras vidaus politinis
     gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
@@ -111,7 +121,8 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
 - id: c-176319
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 86."
   citata_originali: |
     Kova dėl Livonijos daugiausia buvo suin-
     teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
@@ -129,7 +140,8 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
 - id: c-176433
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 274."
   citata_originali: |
     P. 104-105, Salaspilio mūšis 1605 m. rugsėjo 27 d. Pirmasis etapas; antrasis etapas,
     Arvydas Pociūnas, Karolis Zikaras, Loreta Uzdraitė.

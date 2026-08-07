@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-de5370a52b566efadf8ff5e6"
+canonical_name: "J. K. Glaubitzas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. K. Glaubitzas"]
+sameAs: []
+canonical_biography: "Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje."
 ---
 # J. K. Glaubitzas
 
@@ -76,7 +83,8 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - id: c-25068
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 19."
   citata_originali: |
     O toliau – ištisa plejada modernaus meno, literatūros, architektūros
     kūrėjų, suspėjusių per du dešimtmečius pakeisti Lietuvos veidą ir krašto-

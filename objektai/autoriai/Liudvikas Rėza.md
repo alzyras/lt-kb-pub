@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d21aeb4f94eb7495d7d941df"
+canonical_name: "Liudvikas Rėza"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Liudvikas Rėza"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kronikininkų pasakojimų patikimumą. Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poema „Metai“ (su vertimu į vokiečių kalbą). Liudvikas Rėza nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš akių; kiti lydi mirusįjį iki laidojimo vietos."
 ---
 # Liudvikas Rėza
 
@@ -92,7 +99,8 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
 - id: c-176260
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     Įspūdį padarė 1818 m. Karaliaučiuje žymaus
     mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
@@ -110,7 +118,8 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
 - id: c-179128
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
   citata_originali: |
     Toje
     vietoje būna įkaltas stulpelis ir ant jo padėtas pinigas. Raite­

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf7f5899f4ce24f086381db0"
+canonical_name: "J. Jakubowski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Jakubowski"]
+sameAs: []
+canonical_biography: "Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t."
 ---
 # J. Jakubowski
 
@@ -81,7 +88,8 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 261."
   citata_originali: |
     Red.
     (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
@@ -99,7 +107,8 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
 - id: c-65306
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 135."
   citata_originali: |
     (^128) I SKYRIUS: LIETUVOS PROISTORĖ
     342 p. ; plg. _Südostbaltikum,_ ten pat, XIII, 1929. — Jakubowski, J.: _Opis

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2d615e3ff1c4c2b5452a1d9f"
+canonical_name: "Rittersverderis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rittersverderis"]
+sameAs: []
+canonical_biography: "Šie pirma jį nusiuntė į Rittersverderį pas Vytautą. Dar 1391 m. pabaigoj, matyt, nujausdamas, kad santykiai su Ordi­ nu turės kada nors vėl pasikeisti, ėmė Vytautas savo šalininkus rankioti į Rittersverderį iš kitų Ordino pilių. Vytautą rado jis Rittersverdery, berengiantį planus toli­ mesniems žygiams."
+place_authority: true
+historical_names: []
 ---
 # Rittersverderis
 
@@ -91,7 +100,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 63."
   citata_originali: |
     Tų pilių komtūrų klausiamas,
     kuriais reikalais čia atvykęs, pareiškė norįs Lenkijos karaliaus
@@ -113,7 +123,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 173."
   citata_originali: |
     To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
     kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
@@ -133,7 +144,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 64."
   citata_originali: |
     Todėl reikėjo didelio slaptumo ir atsargumo, kad
     ir antras jo atsimetimo planas vokiečių nebūtų pastebėtas. Dar

@@ -53,7 +53,8 @@ Pasak Teodoro Narbuto, Plinijus užrašė Kapadokijos karaliaus Archelajo pasako
 - id: c-174588
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Jūroje išilgai prūsų pakrančių slypi
     ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie

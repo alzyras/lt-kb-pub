@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2fb78ea46662aeb947f9a48a"
+canonical_name: "Jonas Friderikas Rivijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Friderikas Rivijus"]
+sameAs: []
+canonical_biography: "Narbutas laikė labiau tikėtina, kad Jonas Friderikas Rivijus kai kuriuos kronikos dalykus perėmė iš senelio užrašų, o ne iš turėtos Rotundo Lietuvos istorijos."
 ---
 # Jonas Friderikas Rivijus
 
@@ -53,7 +60,8 @@ Narbutas laikė labiau tikėtina, kad Jonas Friderikas Rivijus kai kuriuos kroni
 - id: c-172952
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 384"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 384."
   citata_originali: |
     Neįkainojamas Lietuvos
     istorijos paminklas. Sunku atspėti, ar tai Rivijus iš tikrųjų turėjo ran­

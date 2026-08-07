@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ec431e8ac69c825a44ef9675"
+canonical_name: "Stantekas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stantekas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai; vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas, atbėgo su kruvinu kalaviju rankose pranešti apie pasalą."
 ---
 # Stantekas
 
@@ -81,7 +88,8 @@ Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, 
 - id: c-61070
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
   citata_originali: |
     Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
     vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,

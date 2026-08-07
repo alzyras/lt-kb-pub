@@ -72,7 +72,8 @@ media_all_json: |-
 - id: c-00369
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 86."
   citata_originali: |
     Bet giliau į kraštą įsibrauti ordinui vis dėlto nepasisekė,
     nors ir dažnai jis susilaukdavo svečių iš Europos ir suruošdavo

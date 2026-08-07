@@ -71,7 +71,8 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 - id: c-153481
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 267."
   citata_originali: |
     Didžiausias protestantizmo
     rėmėjas dar liko M. Radvila Rudasis, o vėliau — jo sūnūs —
@@ -92,7 +93,8 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 - id: c-153485
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 353"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 353."
   citata_originali: |
     Apskritai karalių Vazų laikais jau visiškai paaiškėjo, kad
     protestantizmas Lietuvoje išnyks. Ypač jo būklė pasunkėjo,
@@ -112,7 +114,8 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 - id: c-175908
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 267."
   citata_originali: |
     Be to, labai daug pakenkė protestantizmui įvairių jo sektų
     savitarpio nesutikimai. Lietuvos didikų tarpe labiausiai buvo

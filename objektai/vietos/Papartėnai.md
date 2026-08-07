@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7bcaa04df879d441cfbf9b30"
+canonical_name: "Papartėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Papartėnai"]
+sameAs: []
+canonical_biography: "Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės)."
+place_authority: true
+historical_names: []
 ---
 # Papartėnai
 
@@ -52,7 +61,8 @@ Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 73."
   citata_originali: |
     O
     Vytautas, pasislėpęs miškuose, naikino atsiskyrusius Ordino

@@ -104,7 +104,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 <a id="claim-t-05442"></a>
 - t-003
   teiginys: "Popiežiaus Aleksandro IV bulėmis įsakyta intensyviau skelbti kryžiaus karus prieš pagonis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -116,7 +116,6 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05570
-    - c-167726
 
 <a id="claim-t-184356"></a>
 - t-004
@@ -172,7 +171,8 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - id: c-05568
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 189."
   citata_originali: |
     1254 m. pradžioje buvo skelbiamas ordinui apginti prieš totorius kryžiaus karas.
   citata_rodoma: "1254 m. pradžioje buvo skelbiamas ordinui apginti prieš totorius kryžiaus karas."
@@ -187,7 +187,8 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - id: c-05569
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 189."
   citata_originali: |
     popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus karo žygiui prieš totorius.
   citata_rodoma: "popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus karo žygiui prieš totorius."
@@ -202,7 +203,8 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - id: c-05570
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 191."
   citata_originali: |
     Pasveikęs magistras ėmė organizuoti didelę jėgą prieš Žemaičius.
     Iš to laikotarpio yra užsilikusios popiežiaus Aleksandro IV, didelio
@@ -220,7 +222,8 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - id: c-05571
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 202."
   citata_originali: |
     Lietuvos valstybės istorija butų pasukusi visai kitu keliu, jeigu
     nebūtų buvęs nužudytas karūnuotas valdovas. Eidami Mindaugo
@@ -237,7 +240,8 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - id: c-167726
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 191."
   citata_originali: |
     Iš to laikotarpio yra užsilikusios popiežiaus Aleksandro IV, didelio
     ordino geradario, kelios bulės. Jomis įsakoma dar intensyviau skelbti
@@ -249,5 +253,4 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-004

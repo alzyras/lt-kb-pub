@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1e87534d7b971d7770860d35"
+canonical_name: "Noliubas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Noliubas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o pirmiausia — prieš Kvedenavos valsčių Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies, be to, pernelyg pasikliaujantis savo jėgomis, manė, jog. Dusburgietis teigia, kad ilgainiui tas pats Noliubas, dažnų antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl savo įsitikinimų, ir dėl darbų."
 ---
 # Noliubas
 
@@ -32,11 +39,18 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 <a id="claim-t-89993"></a>
 - t-001
   teiginys: "Noliubas, Sklodo iš Kvedenavos sūnus, atsisakė paklusti Karaliaučiaus broliams ir nesekė savo tėvų pavyzdžiu."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kvedenava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Noliubas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kvedenava: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Noliubas\" parinktas kaip owner_note_path. Targetas \"Kvedenava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-85899
+    - c-85898
 
 <a id="claim-t-89994"></a>
 - t-002
@@ -80,7 +94,8 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 - id: c-85898
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
                             pirmiausia — prieš Kvedenavos valsčių
@@ -94,14 +109,17 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   citata_rodoma: "Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o\n                        pirmiausia — prieš Kvedenavos valsčių\n\n  Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,\nbe to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai\npaklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu. Kai dėl to supykę\nbroliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis\nšiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis\np."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-85899
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
     nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie
@@ -116,7 +134,6 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
     - t-003
 

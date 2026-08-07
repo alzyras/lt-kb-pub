@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-90290c5cb9d21bb8e0a59893"
+canonical_name: "Sirputis (Traidenio brolis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sirputis (Traidenio brolis)"]
+sameAs: []
+canonical_biography: "Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis Lietuvos valdovo pavedimu veikė prieš Lenkiją. Jos gynybai greičiausiai vadovavo Traidenio brolis Sirputis."
 ---
 # Sirputis (Traidenio brolis)
 
@@ -99,7 +106,8 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
 - id: c-42219
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 33."
   citata_originali: |
     Tačiau pati Naugarduko pilis nebuvo paimta. Jos gynybai grei-
     čiausiai vadovavo Traidenio brolis Sirputis. Totoriai ir jų sąjunginin-
@@ -116,7 +124,8 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
 - id: c-76235
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 30."
   citata_originali: |
     Senovės lietuvių tradicijų
     besilaikantis Traidenis didžiau-

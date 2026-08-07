@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-613b499927e55f47c6924717"
+canonical_name: "Revelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Revelis"]
+sameAs: []
+canonical_biography: "Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę (šiaurinę Estiją)."
+place_authority: true
+historical_names: []
 ---
 # Revelis
 
@@ -122,7 +131,8 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 - id: c-68559
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232."
   citata_originali: |
     1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs
     už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų
@@ -145,7 +155,8 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 - id: c-68560
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 36."
   citata_originali: |
     1323 m. šaltiniai mini dar platesnes kovas. Gardino pilininkas
     Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara-
@@ -163,7 +174,8 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 - id: c-171711
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
   citata_originali: |
     Iš Marienburgo, Karaliaučiaus, Revelio senienų
     aiškėja, kad lietuvių karo vėliavose paprastai būdavo pavaiz­
@@ -182,7 +194,8 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 - id: c-171712
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 507"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 507."
   citata_originali: |
     P. 383***** _ Kronika Niemiecka J. F. R. (Z rękopismu au-
     tentycznego, objašnil, tlómaczenie polskie doląc-
@@ -200,9 +213,9 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
     - t-003
 
 - id: c-184450
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 586"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 586."
   citata_originali: |
     Igumiai džiaugdamies
     nešiojo kruvinas kardas nuo namų lig namų, jog

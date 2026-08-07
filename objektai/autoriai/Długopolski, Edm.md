@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4a1665122abb452d3071e589"
+canonical_name: "Długopolski, Edm"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Długopolski, Edm"]
+sameAs: []
+canonical_biography: "Polska i Litwa, Warsza­ wa 1914, 1-36 p. — Długopolski, Edm. : Władysław Łokietek na tle swoich czasów, Wrocław 1951 (gausi bibliogr."
 ---
 # Długopolski, Edm
 
@@ -62,7 +69,8 @@ Polska i Litwa, Warsza­ wa 1914, 1-36 p. — Długopolski, Edm. : Władysław �
 - id: c-29366
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 245."
   citata_originali: |
     Polska i Litwa, Warsza­
     wa 1914, 1-36 p. — Długopolski, Edm. : _Władysław Łokietek na tle

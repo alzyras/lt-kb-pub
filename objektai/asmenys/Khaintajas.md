@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-00e9dd5871f828d8f5a7654f"
+canonical_name: "Khaintajas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Khaintajas"]
+sameAs: []
+canonical_biography: "Narbuto perpasakoto orientalisto aiškinimu, tauta prie Ross upės nepriėmė pranašo Khaintajo, Šafrano sūnaus, mokslo ir jį nukankino."
 ---
 # Khaintajas
 
@@ -54,7 +61,8 @@ Narbuto perpasakoto orientalisto aiškinimu, tauta prie Ross upės nepriėmė pr
 - id: c-174315
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Anot Korano
     aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie

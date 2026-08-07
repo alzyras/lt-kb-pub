@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba0702c0004705ab6705a7ab"
+canonical_name: "Jonas Markovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Markovičius"]
+sameAs: []
+canonical_biography: "1529 metais Vilniaus burmistras Jonas Markovičius jūroje buvo vokiečių sulaikytas, paskui dėl to bylinėtasi."
 ---
 # Jonas Markovičius
 
@@ -58,7 +65,8 @@ media_all_json: |-
 - id: c-83706
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 285."
   citata_originali: |
     Pagaliau
     karaliaus raštas ponui Abramui, iž­

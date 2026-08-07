@@ -59,9 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184657
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 139"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 139."
   citata_originali: |
     Paskesniai Bo­
     leslovas, didindamas jo godą kaipo savo tarno, už

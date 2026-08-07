@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-abce38e02ef294dde7e9ea9c"
+canonical_name: "Šventoji žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventoji žemė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės, vienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas, žiauriai įsiveržė į Šventąją žemę bei ją visą užėmė, ir šitaip. Dusburgietis teigia, kad po to daug karalių ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę, tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties viešpaties 1290 metais pagonys iš pamatų sugriovė Akono. Dusburgietis teigia, kad dejonė dėl šventosios žemės apleidimo Šitaip tu, o šventa žadėtoji žeme, pamilta dievo ir pagerbta šventųjų angelų, žadinanti viso pasaulio nuostabą, viešpaties išrinktoji ir išskirtoji, nes tavimi jis akivaizdžiai puošė savo buvimą, o tavo vadavimo mums."
+place_authority: true
+historical_names: []
 ---
 # Šventoji žemė
 
@@ -102,7 +111,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-59039
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 241-242"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241-242."
   citata_originali: |
     Šitaip jų nedraugai gavo viršų, o jie tapo pažeminti,
     nes jųjų priešai užgrobė ne tik žadėtąją žemę, bet beveik visas apygardas, miestus bei
@@ -128,7 +138,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-59040
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 242."
   citata_originali: |
     80. Šventoji žemė ragina krikščionis ją išvaduoti
 
@@ -153,7 +164,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-59041
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     78. Apie šventosios žemės reikalus
 
@@ -175,7 +187,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-59042
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 242."
   citata_originali: |
     79. Dejonė dėl šventosios žemės apleidimo
 

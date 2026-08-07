@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7205553de4528c76fbf8d9e1"
+canonical_name: "Michailas Jaroslavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Michailas Jaroslavičius"]
+sameAs: []
+canonical_biography: "Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėje lietuviai nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių."
 ---
 # Michailas Jaroslavičius
 
@@ -82,7 +89,8 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
 - id: c-76202
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 26."
   citata_originali: |
     24 DURBĖS MŪŠIS 1260 m. liepos 13 d.
 

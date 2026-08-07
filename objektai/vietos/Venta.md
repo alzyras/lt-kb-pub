@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1dbefdd8bdff4191ab4d8dd6"
+canonical_name: "Venta"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Venta"]
+sameAs: []
+canonical_biography: "Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius. 92 Vengrija 6, 83, 102, 103, 249, 259, 260, 267, 269, 275, 282-284, 287, 293, 312, 336 Venta 115, 127, 180, 187 Veredava 207 Verona 167 Versalio taika 30, 41 Veršvai 76, 106, 147 Vestfalija 202 Viazma 313, 320, 321 Vidas ar Vilkas, Traidenio tėvas 200."
+place_authority: true
+historical_names: []
 ---
 # Venta
 
@@ -51,7 +60,8 @@ media_all_json: |-
 - id: c-34076
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 134."
   citata_originali: |
     Beveik trečdalį savo
     kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­

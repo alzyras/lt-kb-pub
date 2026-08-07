@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5d74584edfed0f2ae9490ff8"
+canonical_name: "Abenda"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Abenda"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509 įsibrovė į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent: Abendą ir Pabečius510; nužudę 150 krikščionių, jie. Dusburgietis teigia, kad 510 D.— duo territoria [...] Abendam et Pubetam, Jer.— Pobêtin unde Bêtin. Dusburgietis teigia, kad manoma, kad Abendos vardas galėjęs būti Betin, t."
+place_authority: true
+historical_names: []
 ---
 # Abenda
 
@@ -112,7 +121,8 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 - id: c-59056
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Apie vienos Sembos dalies nusiaubimą
 
@@ -135,7 +145,8 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 - id: c-59057
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170-171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170-171."
   citata_originali: |
     510 D.— duo territoria [...] Abendam et Pubetam, Jer.— Pobêtin unde Bêtin. Abenda
     minima XIV a. vidurio Sembos vyskupo dokumentuose vakarinėje Semboje (SU, 2, Nr.
@@ -151,7 +162,8 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 - id: c-59058
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
   citata_originali: |
     Manoma, kad Abendos vardas galėjęs būti Betin, t. y. Pabečių (D.
     III, 107, 108) vertimas (GAO, p.

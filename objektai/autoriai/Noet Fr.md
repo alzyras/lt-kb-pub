@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47744ee94354743caa126fa8"
+canonical_name: "Noet Fr"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Noet Fr"]
+sameAs: []
+canonical_biography: "Kalbant apie mūsų žemės formavimąsi, ne 1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė jį iš Trakijos į Makedoniją (Noet Fr."
 ---
 # Noet Fr
 
@@ -46,7 +53,8 @@ Kalbant apie mūsų žemės formavimąsi, ne 1 Vienas milžinas, suspaudęs savo
 - id: c-177283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 145."
   citata_originali: |
     Kalbant apie mūsų žemės formavimąsi, ne­
     1 Vienas milžinas, suspaudęs savo rankoje Atos kalną, nusviedė

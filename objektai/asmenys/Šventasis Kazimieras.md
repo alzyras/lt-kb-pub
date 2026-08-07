@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-416e7f5e912ab6c410afba4b"
+canonical_name: "Šventasis Kazimieras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šventasis Kazimieras"]
+sameAs: []
+canonical_biography: "Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo gerumą ir kuklumą, miršta nuo džio­ vos Žemutinėje pilyje kovo 4-ą dieną."
 ---
 # Šventasis Kazimieras
 
@@ -62,7 +69,8 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
 - id: c-83878
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 243."
   citata_originali: |
     Ta­
     čiau 1484 metai tapo Vilniui ir visai Lietuvai dar labiau įsi­

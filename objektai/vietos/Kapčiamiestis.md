@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9b983e5dc42a1dd5d99a3fff"
+canonical_name: "Kapčiamiestis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kapčiamiestis"]
+sameAs: []
+canonical_biography: "Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapčiamiestį."
+place_authority: true
+historical_names: []
 ---
 # Kapčiamiestis
 
@@ -50,7 +59,8 @@ Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapč
 - id: c-77310
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 203."
   citata_originali: |
     Ir aple 14 val. 20 min. užima Kuodžius.
     my „Pilypavas ĮbinijųgF -Ovidūgiriai BE A ojo pėst. Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapčiamiestį.

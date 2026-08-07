@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7f28d8e6377a090e49f68f80"
+canonical_name: "Dr. Baptistas Cigala"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dr. Baptistas Cigala"]
+sameAs: []
+canonical_biography: "Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti nereikalingas popiežiaus patvirtinimas."
 ---
 # Dr. Baptistas Cigala
 
@@ -68,7 +75,8 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 241."
   citata_originali: |
     Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­
     leisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos
@@ -90,7 +98,8 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 241."
   citata_originali: |
     Bet Krokuvos profesoriai Romos karalių teisę kitų karū­
     nuot pripažino nepakankama, nes tuo atveju ji esanti žemesnė

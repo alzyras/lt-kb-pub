@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d21bc9db8944673e2e92d6eb"
+canonical_name: "Benediktas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Benediktas"]
+sameAs: []
+canonical_biography: "Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kariuomene atimti Haličą iš Vengrijos kašteliono Benedikto."
 ---
 # Benediktas
 
@@ -63,7 +70,8 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 167."
   citata_originali: |
     Vytautas, numalšinęs sukilimą, nebegrįžo į Krokuvą, bet
     pasiliko Lietuvoj ir darbavosi šalia Skirgailos: tvarkė krašto

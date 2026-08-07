@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8228fa1ee0168207b948ee34"
+canonical_name: "Sartovicų pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sartovicų pilis","Sartovicų pilis (pilis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1."
+place_authority: true
+historical_names: []
 ---
 # Sartovicų pilis (pilis)
 
@@ -66,7 +75,8 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 - id: c-59353
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Apie Svečės pilies pastatymą ir jos užpuolimą
 

@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-89403"></a>
 - t-001
   teiginys: "Sventopelko ir brolių taika buvo sudaryta 1243 m. pavasarį."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Sventopelkas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -68,13 +68,12 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai palaiko datą, o pradinis teiginys turi bibliografinio triukšmo."
   pagrindžia:
-    - c-85363
     - c-85365
 
 <a id="claim-t-89404"></a>
 - t-002
   teiginys: "Sventopelkas kaip užstatą turėjo atiduoti broliams Sartovicų pilį ir įkaitais atsiųsti Mstivojų, Vimarą bei Vojaką."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -117,7 +116,8 @@ Nenurodyta
 - id: c-85362
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 88."
   citata_originali: |
     Dėl to,
     brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių
@@ -144,7 +144,8 @@ Nenurodyta
 - id: c-85363
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 88."
   citata_originali: |
     Apie Sventopelko ir brolių susitaikymą
 
@@ -173,14 +174,14 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
     - t-004
 
 - id: c-85365
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
   citata_originali: |
     277 Taika sudaryta 1243 m. pavasarį (Ewald A. L., Die Eroberung..., 2, p. 99; Kujot
     S., Dzieje Prus..., 1, p. 713).

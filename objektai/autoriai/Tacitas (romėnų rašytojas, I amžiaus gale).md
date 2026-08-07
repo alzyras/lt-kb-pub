@@ -23,6 +23,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f69b7fca7f65a94599f960a3"
+canonical_name: "Tacitas (romėnų rašytojas, I amžiaus gale)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Tacitas (romėnų rašytojas, I amžiaus gale)"]
+sameAs: []
+canonical_biography: "Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam priskiriami darbai „Germania“."
 ---
 # Tacitas (romėnų rašytojas, I amžiaus gale)
 
@@ -134,15 +141,22 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 <a id="claim-t-190799"></a>
 - t-006
   teiginys: "Teodoras Narbutas rašo, kad Tacitas 46 skyriuje venedus skyrė nuo sarmatų ir germanų bei aprašė jų kaimynus."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Germanai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tacitas (romėnų rašytojas, I amžiaus gale): owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Germanai: mention_match, group, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tacitas (romėnų rašytojas, I amžiaus gale)\" parinktas kaip owner_note_path. Targetas \"Germanai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173680
+    - c-173681
 
 <a id="claim-t-190800"></a>
 - t-007
@@ -181,7 +195,8 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 - id: c-64410
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 32."
   citata_originali: |
     Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus
     galo romėnų rašytojas Tacitas savo veikale „Germania".
@@ -201,7 +216,8 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 - id: c-64411
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 39."
   citata_originali: |
     Pirmas, kurs duoda plates-
     nių žinių apie aisčius, yra I amž. gale gyvenęs romėnų istorikas
@@ -221,7 +237,8 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 - id: c-173678
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 83."
   citata_originali: |
     Skandinavijos gotai
     nuo neatmenamų laikų buvo jūrų keliautojai, kartais pre­
@@ -245,7 +262,8 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 - id: c-173679
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
   citata_originali: |
     Matyt, priežastis yra ta, kad
     tuomet nebuvo jokios tautos, su kuria tiesiogiai galima
@@ -268,7 +286,8 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 - id: c-173680
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 90."
   citata_originali: |
     Kai gintaras prikišamas prie ugnies, jis dega
     kaip dervingas medis dūmijančia, kvapnia liepsna ir kar­
@@ -285,12 +304,12 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-006
 
 - id: c-173681
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 98."
   citata_originali: |
     Tad atleiskime
     senovės autoriams, kurių geografinių žinių gavimo gali­
@@ -305,14 +324,17 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   citata_rodoma: "Tad atleiskime\nsenovės autoriams, kurių geografinių žinių gavimo gali­\nmybės buvo labiau ribotos negu mūsų; jos pražuvo, mums\nliko vien spausdintos Plinijaus ištraukos arba kitų geog­\nrafų traktatų fragmentai. Siek tiek labiau venedų reika­\nlus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­\nklauso nei sarmatams, nei germanams, turi daug žemių,\nvakaruose teka Vysla; jų kaimynai — estai bei gitonai\n(§§ 66—80), šiaurėje — finai, pietuose — peucinai, o\nrytuose yra nežinomos sritys."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-173682
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 111."
   citata_originali: |
     Plinijus teigia, kad jazigai gyveno prie Tisos
     upės. Tą pat sako ir Tacitas, nors jis anaiptol nepriskiria
@@ -333,7 +355,8 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 - id: c-179277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 90."
   citata_originali: |
     Atvirkščiai, jis niekam ne­
     rūpimas gulėjo kartu su kitomis jūros išmetamomis šiukš­

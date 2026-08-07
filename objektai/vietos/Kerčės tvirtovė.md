@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8cd71e60bb7e57b2e660c22e"
+canonical_name: "Kerčės tvirtovė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kerčės tvirtovė"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių."
+place_authority: true
+historical_names: []
 ---
 # Kerčės tvirtovė
 

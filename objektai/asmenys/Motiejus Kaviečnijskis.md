@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8c49a26398318c3b069ae9b3"
+canonical_name: "Motiejus Kaviečnijskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus Kaviečnijskis"]
+sameAs: []
+canonical_biography: "Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30 grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1 Junii [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo Karališkosios Didenybės paliepimu, po 25."
 ---
 # Motiejus Kaviečnijskis
 
@@ -50,7 +57,8 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 - id: c-83775
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 456"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 456."
   citata_originali: |
     Vilniaus universiteto bibliotekoje)
     Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30

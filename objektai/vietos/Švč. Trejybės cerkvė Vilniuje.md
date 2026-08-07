@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6c1df56b740297b1e97f7b86"
+canonical_name: "Švč. Trejybės cerkvė Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Švč. Trejybės cerkvė Vilniuje"]
+sameAs: []
+canonical_biography: "Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spaso) bažnyčia ir penktuosius - nuo Pilies. Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės 48 Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė metais, palaidota graikų apeigų kopdalį Švč."
+place_authority: true
+historical_names: []
 ---
 # Švč. Trejybės cerkvė Vilniuje
 
@@ -79,7 +88,8 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 - id: c-82113
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248."
   citata_originali: |
     Tad 1505 metais, kai tie barbarai buvo mažumėlę
     aprimę, karalius savo sprendimu atleido Vilniaus gyvento­
@@ -103,7 +113,8 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 - id: c-82114
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 251."
   citata_originali: |
     Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės
     48

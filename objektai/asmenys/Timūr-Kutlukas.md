@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-074a0c124b2e54c481218063"
+canonical_name: "Timūr-Kutlukas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Timūr-Kutlukas"]
+sameAs: []
+canonical_biography: "Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą. Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai."
 ---
 # Timūr-Kutlukas
 
@@ -106,7 +113,8 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 - id: c-44536
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Besirengdamas žygiui į Sarajų, Aukso
     ordos chanas Timūr-Kutlukas atsiuntė savo
@@ -132,7 +140,8 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 - id: c-44537
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Totorių pajėgos
     Aukso ordos chano Timūr-Kutluko,
@@ -158,7 +167,8 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 - id: c-167150
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Greičiausiai Vytauto
     iniciatyva per Maskvos didįjį kunigaikštį
@@ -183,7 +193,8 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 - id: c-167151
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Lietuvos jungtinės pajėgos
 

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-531f9edb17e9f7665a21d6ae"
+canonical_name: "Marija (pirmoji Vytauto žmona)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Marija (pirmoji Vytauto žmona)"]
+sameAs: []
+canonical_biography: "Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė. Marija (pirmoji Vytauto žmona) turėjo tada 33 metus, ir krikščionybė jam nebuvo svetima, nes savo tėvo Kęstučio dvare Trakuose susi­ tikdavo su svečiais katalikais iš Mozūrijos, kur buvo nutekė­ jusi jo sesuo Danuta, iš Malburgo ir kartais iš kitų Vakarų Eu­ ropos kraštų, o per abi savo žmonas stačiatikes suartėjo su jų tikėjimu, nes mirus pirmajai žmonai Marijai, Vytautas vedė Smolensko kunigaikštytę Oną, taip pat stačiatikę."
 ---
 # Marija (pirmoji Vytauto žmona)
 
@@ -52,7 +59,8 @@ Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė. Ma
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 26."
   citata_originali: |
     Vadinas, Vytautas
     augo ir pagoniško ir krikščioniško tikėjimų įtakoje. Jo pirmoji

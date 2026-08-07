@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0d2b81cad751548c8aabf7a7"
+canonical_name: "V. Kučius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Kučius"]
+sameAs: []
+canonical_biography: "Kučiui panaudojus spec."
 ---
 # V. Kučius
 
@@ -60,7 +67,8 @@ Kučiui panaudojus spec.
 - id: c-44549
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 245."
   citata_originali: |
     Prieš kautynes
 

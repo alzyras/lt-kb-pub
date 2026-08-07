@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d03fad4aaf85131f883f773"
+canonical_name: "Ivanas Vasiljevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas Vasiljevičius"]
+sameAs: []
+canonical_biography: "Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės. Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui. Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose."
 ---
 # Ivanas Vasiljevičius
 
@@ -136,7 +143,8 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 - id: c-83499
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 245-246"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 245-246."
   citata_originali: |
     Toks didžio­
     jo kunigaikščio Aleksandro rūpinimasis savo sostinės
@@ -199,7 +207,8 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 - id: c-83500
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247."
   citata_originali: |
     Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
@@ -218,7 +227,8 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 - id: c-168074
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 699"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 699."
   citata_originali: |
     Nieko nepešę, kara­
     liaus legatai iškeliavo iš Maskvos, o netrukus pas ka­
@@ -244,7 +254,8 @@ Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio
 - id: c-176538
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
   citata_originali: |
     54. APIE MASKVOS DIDŽIOJO KUNIGAIKŠČIO IVANO
     VAŠIUEVlCi AUS KARĄ SU SAVO ŽENTU, LIETUVOS

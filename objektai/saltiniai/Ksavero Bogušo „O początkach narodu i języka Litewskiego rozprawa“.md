@@ -66,7 +66,8 @@ Ksavero Bogušo studija „O początkach narodu i języka Litewskiego rozprawa�
 - id: c-174728
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 465"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 465."
   citata_originali: |
     11 /Ten
     pat,

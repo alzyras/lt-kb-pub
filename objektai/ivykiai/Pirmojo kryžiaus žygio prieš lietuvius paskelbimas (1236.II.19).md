@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-33422
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 174."
   citata_originali: |
     Vilhelmo Modeniečio paveiktas, popiežius Grigalius IX leido
     visoje šiaurės Vonietijoje paskelbti (1236.II.19) _pirmąjį_ kryžiaus

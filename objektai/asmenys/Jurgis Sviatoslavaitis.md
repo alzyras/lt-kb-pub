@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a7b7a365ca16c3526931d193"
+canonical_name: "Jurgis Sviatoslavaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Sviatoslavaitis"]
+sameAs: []
+canonical_biography: "Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą. Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I (1389-1425), su kuriuo oficialiai laikėsi taikos."
 ---
 # Jurgis Sviatoslavaitis
 
@@ -61,7 +68,8 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
 - id: c-32766
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 320."
   citata_originali: |
     Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
     ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse

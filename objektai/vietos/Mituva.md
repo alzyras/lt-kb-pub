@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d3f8f5db710e8c7faf180027"
+canonical_name: "Mituva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mituva"]
+sameAs: []
+canonical_biography: "Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą kartą 1259 m. prie Mituvos ir Imsrės žiočių į Nemuną (Karšuvos srityje) statėsi bendrą pilį Georgenburgą — Jurbarką."
+place_authority: true
+historical_names: []
 ---
 # Mituva
 
@@ -60,7 +69,8 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 - id: c-33954
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 190."
   citata_originali: |
     Ordinui toliau rūpėjo per nadruvių, sūduvių ir skal­
     vių plotus rasti kelią į šiaurę, t. y. į pietų Žemaičius. Livonijos ir

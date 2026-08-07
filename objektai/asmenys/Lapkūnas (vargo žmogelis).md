@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2213da83c280cdba6a0e7ac6"
+canonical_name: "Lapkūnas (vargo žmogelis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lapkūnas","Lapkūnas (vargo žmogelis)"]
+sameAs: []
+canonical_biography: "Lapkūnas aprašomas kaip vargingas kaimo žmogus, turėjęs gausią šeimą ir per Velykas lankęs pasakotojo šeimą su maišeliu bei vandens bonka apeiginiam pašlakstymui."
 ---
 # Lapkūnas (vargo žmogelis)
 

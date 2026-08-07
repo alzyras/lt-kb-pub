@@ -142,11 +142,18 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 <a id="claim-t-89546"></a>
 - t-006
   teiginys: "Dykrose brolis Gundramas su 9 ginklanešiais užpuolė iš Lietuvos atvykusius plėšikautojus."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gundramas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "dykra: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Gundramas: mention_match, person, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"dykra\" parinktas kaip owner_note_path. Targetas \"Gundramas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-85495
+    - c-85489
 
 <a id="claim-t-89547"></a>
 - t-007
@@ -269,7 +276,8 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - id: c-06414
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Ilgai ginčijama Sūduvos dykra 1422 m. tapo padalinta. Sūduvių
     gyvento vakarinio ploto dalis atiteko ordinui. Bet Melno sutartimi
@@ -286,7 +294,8 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - id: c-85486
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
 
@@ -308,7 +317,8 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - id: c-85489
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,
     persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo
@@ -322,14 +332,17 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   citata_rodoma: "Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,\npersekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo\npilies apylinkėse buvo pagrobę dešimt žmonių ir tiek pat arklių; kai juos dykrose užpuolė,\npirmajame susirėmime vienas lietuvis ietimi  jį taip sužeidė, kad išleido jam vidurius,\ntačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir\npasimirė. Kai  jį mirusį ginklanešiai gabeno  į Kristburgo pilį, moterys, kurias jis buvo\nišvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore\nvirš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip\nskridę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-85490
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Lietuvai atiteko žymi dalis
     Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
@@ -350,7 +363,8 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - id: c-85491
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos
     ėjo daugiausia per dykras bei miškų plotus be gyvenviečių. Aiškiau
@@ -369,7 +383,8 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - id: c-85492
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Šiauriau ji kilo stačiai per tyrus į pu­
     siau dalinamą Raigardo ežerą. Iš čia ji tęsėsi vėl per dykrą tiesiai
@@ -389,7 +404,8 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - id: c-85493
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Po tiek ilgų ginčų ir ginkluotų konfliktų pagaliau buvo sutarta
     siena, kuri nuostabiu būdu, nežiūrint įvairių mėginimų ją pakeisti,
@@ -408,7 +424,8 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - id: c-85494
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 206."
   citata_originali: |
     Ir šiame karo žygyje, ir ankstyvesniajame begėdiškai išniekino
     bažnyčias, šventuosius rūbus bei taures, bažnyčios tarnus bei sakramentus ir, neskaitant
@@ -431,7 +448,8 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - id: c-85495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     270 (263). Apie Straisbergo miesto sugriovimą 1298 metais
     Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo
@@ -447,6 +465,5 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
     - t-008
     - t-012

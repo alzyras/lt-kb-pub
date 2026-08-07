@@ -47,7 +47,8 @@ Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisa
 - id: c-176342
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 30."
   citata_originali: |
     Livonijos delegatų nuostabai popiežius patenkino Mindaugo prašymą.
     Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę –

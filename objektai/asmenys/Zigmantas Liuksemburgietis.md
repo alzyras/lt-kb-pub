@@ -2,13 +2,14 @@
 tipas: asmuo
 pavadinimas: 'Zigmantas Liuksemburgietis'
 saltiniai:
+  - 'Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1402 m.'
-  - '1422 m.'
+  - '1429 m.'
 date_start: '1402'
-date_end: '1422'
+date_end: '1429'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d53feb352bebdd4e78584dfb"
+canonical_name: "Zigmantas Liuksemburgietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zigmantas Liuksemburgietis"]
+sameAs: []
+canonical_biography: "Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyti užimtąsias žemes, o ciesorius Zigmantas savo sprendimu Breslave (1420) prisky­ rė jiems ir Žemaitiją. Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­ tus. Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (1423) panaikino Breslavo sprendimą, (^1) ) C."
 ---
 # Zigmantas Liuksemburgietis
 
@@ -235,13 +243,46 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   pagrindžia:
     - c-173887
 
+## Reikšmingi paminėjimai
+- c-010
+  santrauka: 'Narbutas nurodo, kad 1402–1403 m. Čekijoje ir 1404 m. Moravijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai su kumanais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tenykščiai kaimiečiai yra originalūs slavai, at­
+    sikėlę iš Rusios kitapus Bugo, o tai įrodo jų kalba, įpročiai
+    ir papročiai. Bet vietinius gyventojus jie pralenkia dvasine
+    kultūra, amatais ir gražesniu kūno sudėjimu. Šiuo at­
+    žvilgiu jie netgi gerokai pranoksta lietuvius polesiečius.
+    Istoriniai tyrinėjimai byloja, jog Vladislovas Lokietka, ap-
+    1 Leidinyje „Tygodnik Wilenski“ (1817.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-011
+  santrauka: '1429 m. Vytautas Didysis savo rezidencijoje Lucko pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro mos imperatorius Zigmantas Liuksemburgietis, popie žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni gaikščiai, be to, daugelio vokiečių miestų.'
+  šaltinis: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais
+  citata_originali: |
+    1429 m. Vytautas Didysis savo rezidencijoje Lucko
+    pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro­
+    mos imperatorius Zigmantas Liuksemburgietis, popie­
+    žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni­
+    gaikščiai, be to, daugelio vokiečių miestų ir kunigaikš­
+    čių atstovai, pasiuntiniai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-36622
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 153."
   citata_originali: |
     Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­
     tus. Jis pabijojo, kad Vytautas nepradėtų Čekijoje uoliai šei­
@@ -261,7 +302,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 194."
   citata_originali: |
     Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­
     da jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą,
@@ -286,7 +328,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 208."
   citata_originali: |
     Abi
     pusės išvažinėjo labai susierzinusios ir išsiskubino su skundais
@@ -307,7 +350,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 243."
   citata_originali: |
     Zigmantas dažnai klausinėja
     Vytautą apie karūnacijos terminą ir skatina jį negaišt. Jis rū­
@@ -328,7 +372,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 137."
   citata_originali: |
     Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet
     po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­
@@ -351,7 +396,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 130."
   citata_originali: |
     Kryžiuočiai vis dar nenorėjo pripažinti savo pra­
     laimėjimo Konstancijos susirinkime ir visokeriopais būdais sten­
@@ -372,7 +418,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 229."
   citata_originali: |
     Atsitiko taip.
     Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­
@@ -397,7 +444,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 197."
   citata_originali: |
     Kaip tik tuo laiku
     Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos
@@ -420,7 +468,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 153."
   citata_originali: |
     Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
     to raktus ir pavedė karo vadovybę.
@@ -438,7 +487,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 - id: c-173887
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
   citata_originali: |
     Turime akivaizdų įrodymą, jog jazigai dar XV amžiuje
     gyveno Vengrijoje arba gretimuose kraštuose. Juk žino­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c7d1b19239254e9f4926dcd3"
+canonical_name: "Pronskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pronskas"]
+sameAs: []
+canonical_biography: "Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė net 100 mylių už Smo­ lensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­ nų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už Pronsko (visai netoli dabartinės."
+place_authority: true
+historical_names: []
 ---
 # Pronskas
 
@@ -51,7 +60,8 @@ Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 156."
   citata_originali: |
     Šis daly­
     kas neleido Vytautui eiti prieš Maskvą, kurios jis, be abejo, ne­

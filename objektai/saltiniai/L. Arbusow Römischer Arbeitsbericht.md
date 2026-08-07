@@ -50,7 +50,8 @@ Arbusow : Römischer Arbeitsbericht (Acta Universitatis Latviensis) 1928, 386 p.
 - id: c-33616
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 236."
   citata_originali: |
     (^8) **SRP, I, 155 p.**
     (^9) **L. Arbusow :** **_Römischer Arbeitsbericht_** **(Acta Universitatis Latviensis)

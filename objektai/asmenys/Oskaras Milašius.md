@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4001bccfb12f7b1c95f5ba8"
+canonical_name: "Oskaras Milašius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Oskaras Milašius"]
+sameAs: []
+canonical_biography: "Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz). O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry (Romanas Gari) ar Kaune gimęs ir gimnaziją."
 ---
 # Oskaras Milašius
 
@@ -42,7 +49,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 - id: c-64894
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265."
   citata_originali: |
     PA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I
     „Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-
@@ -67,7 +75,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 - id: c-64895
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
     dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją

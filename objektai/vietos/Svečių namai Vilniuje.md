@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2fbe84679cbe194cbc296a74"
+canonical_name: "Svečių namai Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Svečių namai Vilniuje"]
+sameAs: []
+canonical_biography: "Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie savo atvykimą iškart pranešti pilininkui4 3 44. 44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18. Mat rašo, jog svečiai, tai yra, rusų pirkliai, atvykstantys su savo prekėmis į Vilnių, apsistoja įvairiuose namuose mieste, kur no­ ri, be jokio prisistatymo, o paskui, prekiaudami su vokiečiais ir kitais svetimšaliais pirkliais, niekam ne­ pranešę."
+place_authority: true
+historical_names: []
 ---
 # Svečių namai Vilniuje
 
@@ -99,7 +108,8 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 - id: c-81934
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247-248"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247-248."
   citata_originali: |
     Svečių namams skirta privilegija yra:
     D u b i ń s k i, 1.18. Ją skaitant atro­
@@ -136,7 +146,8 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 - id: c-81935
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247."
   citata_originali: |
     Tačiau Aleksandro ir Elenos santuoka išplė­
     tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
@@ -157,7 +168,8 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 - id: c-81936
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 285."
   citata_originali: |
     Tačiau savo kai­
     lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje
@@ -181,7 +193,8 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 - id: c-81937
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247."
   citata_originali: |
     At­
     rodo, kad šią nuomonę išplatino tie,

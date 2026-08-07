@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fc5126b05ff492141e8655cc"
+canonical_name: "J. Basanavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Basanavičius"]
+sameAs: []
+canonical_biography: "Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą."
 ---
 # J. Basanavičius
 
@@ -98,7 +105,8 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
 - id: c-21694
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 19."
   citata_originali: |
     O
     kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
@@ -121,7 +129,8 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
 - id: c-21695
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 21."
   citata_originali: |
     Rusija, Austrija ir Prūsija galutinai pasidalija Lenkijos ir Lietuvos valsty-
     bę. Didžioji Lietuvos dalis atitenka Rusijai.

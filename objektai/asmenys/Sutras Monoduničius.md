@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e58096799b220b5a769ad36b"
+canonical_name: "Sutras Monoduničius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sutras Monoduničius"]
+sameAs: []
+canonical_biography: "1227 metais prie Voluinės Vladimiro buvo suimti du jotvingių vadai: Sutras Monoduničius ir Stegutas Zebrovičius. Pasak Teodoro Narbuto, Sutras Monoduničius krito mūšio lauke nuo pačių kunigaikščių ginklo."
 ---
 # Sutras Monoduničius
 
@@ -76,7 +83,8 @@ media_all_json: |-
 - id: c-174206
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
   citata_originali: |
     Taip vadų rankose buvo su­
     kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­
@@ -103,7 +111,8 @@ media_all_json: |-
 - id: c-174207
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
   citata_originali: |
     Įvyko mūšis. Sutras krito mūšio lauke nuo pačių
     kunigaikščių ginklo. Tuo tarpu Stegutas tikriausiai žu­

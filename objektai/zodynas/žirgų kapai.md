@@ -50,7 +50,8 @@ media_all_json: |-
 - id: c-28521
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 117."
   citata_originali: |
     Šalia
     su įkapėmis sudegintų žmonių lavonų žirgai visada laidojami nede­

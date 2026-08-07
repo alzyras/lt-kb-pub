@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e5f1beff3468f186e2e5e1cd"
+canonical_name: "Radzejovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Radzejovas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Radzejovas
 

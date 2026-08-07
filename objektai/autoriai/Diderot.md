@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1bb49d687047333545fb7c1b"
+canonical_name: "Diderot"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Diderot"]
+sameAs: []
+canonical_biography: "Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Alembert († 1783 m.), Diderot († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais. Diderot suorganizuota enciklopedija, apie kurią buvo suburtos visos žymiausios to meto pajėgos, kūrė naują pasaulėžiūrą."
 ---
 # Diderot
 
@@ -55,7 +62,8 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
 - id: c-01266
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 412."
   citata_originali: |
     menkaverčiai, nepasižymį gilumu, o tik drąsių, viską neigiančių iš-
     vadų dialektika, bet to meto žmogui tai buvo viskas.

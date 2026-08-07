@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d628ef7e8555380449eb5e34"
+canonical_name: "Čižauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Čižauskas"]
+sameAs: []
+canonical_biography: "Čižausko, ltn."
 ---
 # Čižauskas
 
@@ -43,7 +50,8 @@ media_all_json: |-
 - id: c-41495
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 203."
   citata_originali: |
     Pulko vadas pasigedo 1 bataliono karininkų: ltn. Baniulio,
     ltn. Raibikio, ltn. Čižausko, ltn. Mickaičio ir kitų.

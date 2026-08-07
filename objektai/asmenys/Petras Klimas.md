@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6d713d9d72ff68c0a8b5c837"
+canonical_name: "Petras Klimas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Klimas"]
+sameAs: []
+canonical_biography: "Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso, 1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga."
 ---
 # Petras Klimas
 
@@ -83,7 +90,8 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 - id: c-48883
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 159-160"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 159-160."
   citata_originali: |
     Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
     Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
@@ -110,7 +118,8 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 - id: c-48884
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 132-133"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 132-133."
   citata_originali: |
     Vokietijai ir Austrijai paskelbus siekį atkurti Lenkijos valstybę, lietuvių
     atstovai ėmė kelti Lietuvos klausimą. Vokiečiams modernizuojant anek-

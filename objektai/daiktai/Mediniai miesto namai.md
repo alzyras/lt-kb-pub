@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-83063
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 56."
   citata_originali: |
     Jurgio vėliava puolė į mūšį Ordino
     riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­

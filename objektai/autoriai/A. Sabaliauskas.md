@@ -40,6 +40,13 @@ media_all_json: |-
 tags:
   - autorius
   - kunigas
+entity_id: "ent-076b4aedf43c6f6ee0f0d90e"
+canonical_name: "A. Sabaliauskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Sabaliauskas","kun. A. Sabaliauskas"]
+sameAs: []
+canonical_biography: "A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, minimas kaip kunigas, kurio dainų rinkinys 1912 m. leistas drauge su A. R. Niemio darbu, o 1913 m. jo vertime Tautosakos komisija spausdino „Lietuvių liaudies dainų tyrinėjimus“."
 ---
 # A. Sabaliauskas
 

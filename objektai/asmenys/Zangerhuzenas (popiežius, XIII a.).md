@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb2f06e6eded3af02d55d02a"
+canonical_name: "Zangerhuzenas (popiežius, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zangerhuzenas","Zangerhuzenas (popiežius, XIII a.)"]
+sameAs: []
+canonical_biography: "Didis mistras Zangerhuzenas steigė visa aitra suspaustus savo brostvius kaip įmanąs gelbėti; jau tą patį ru denį 1261, sutelkęs šen ten Teutonijoj stiprius bū rius meldžionų, tenai išsiuntė."
 ---
 # Zangerhuzenas (popiežius, XIII a.)
 
@@ -54,9 +61,9 @@ Didis mistras Zangerhuzenas steigė visa aitra suspaustus savo brostvius kaip į
 ## Citatos
 
 - id: c-184761
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 387"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 387."
   citata_originali: |
     Tuo tarpu paties Rymo rūmuose nusigaudė gar­
     sas nuokryčio kryžėjų ties Durbike, lygia dalia vi­

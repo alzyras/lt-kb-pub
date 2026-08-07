@@ -50,7 +50,8 @@ media_all_json: |-
 - id: c-02304
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 658"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 658."
   citata_originali: |
     Tačiau jis greitai žuvo. Jo vietoje lietuvių kunigų pastangomis
     tuojau buvo įkurtas kitas — Susivienijimas Visų

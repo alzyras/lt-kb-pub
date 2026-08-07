@@ -62,7 +62,8 @@ Narbutas nurodo, kad Retro ir Prilvico stabų tyrimai aprašyti Suroveckio studi
 - id: c-173445
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 250."
   citata_originali: |
     Apie tai byloja ir pats žibintas -
     aiškus šviesos atributas**.

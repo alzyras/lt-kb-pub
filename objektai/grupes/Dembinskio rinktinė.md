@@ -32,7 +32,7 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
 <a id="claim-t-72057"></a>
 - t-001
   teiginys: "Rusams atgabenus į Lietuvą daugiau kariuomenės, Dembinskio rinktinei tapo nebeįmanoma kariauti."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
@@ -61,7 +61,8 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
 - id: c-70483
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 478"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 478."
   citata_originali: |
     Rusai tuo tarpu atga-
     beno į Lietuvą daugiau savo kariuomenės, ir Dembinskiui nebe-
@@ -81,7 +82,8 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
 - id: c-70484
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 478"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 478."
   citata_originali: |
     Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
     lando būrys.

@@ -23,6 +23,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9bee7ec3cf9dd97f1378dea1"
+canonical_name: "Rasa Varsackytė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Rasa Varsackytė"]
+sameAs: []
+canonical_biography: "Varsackytės Kauno miesto ir bažnyčios kultūrų sąveika XVI a."
 ---
 # Rasa Varsackytė
 
@@ -47,9 +54,9 @@ Varsackytės Kauno miesto ir bažnyčios kultūrų sąveika XVI a.
 ## Citatos
 
 - id: c-185578
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 22"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 22."
   citata_originali: |
     Visi minėtų XIV-XVIII a. Kauno istorijos ir jo istoriografijos tyrinėtojų skelbti dar-
     bai ir dar rankraščių teisėmis egzistuojančios Vytauto Didžiojo universitete apgintos

@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bc9bd0068edecfcf9f5e4383"
+canonical_name: "Florencija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Florencija"]
+sameAs: []
+canonical_biography: "Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje."
+place_authority: true
+historical_names: []
 ---
 # Florencija
 
@@ -154,7 +163,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 - id: c-79693
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 232-233"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 232-233."
   citata_originali: |
     Tai, ką mūsų kronikininkai kal­
     ba apie Švitrigailos žmonos sugavi­
@@ -195,7 +205,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 - id: c-79695
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 186."
   citata_originali: |
     Imperatorius, norėdamas gauti Vakarų para-
     mos prieš turkus, taip pat pasiūlė Bazelio suvažiavimui sujungti
@@ -215,7 +226,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 - id: c-175430
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 309."
   citata_originali: |
     Vėliau, kai im­
     perijos rytuose po Alariko maišto prasidėjo kruvini su­

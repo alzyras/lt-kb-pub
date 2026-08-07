@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-99dd24ea2a9b318cbd208d8e"
+canonical_name: "Traidenis (Mazovijos kunigaikštis, 1325 m.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Traidenis (Mazovijos kunigaikštis, 1325 m.)"]
+sameAs: []
+canonical_biography: "98 ## Puslapis 115 I KNYGA dux Masovie Vanczko prie 1328 m. aptinkame, o kitose to kraš­ to žemėse 1325 metais viešpatavo kunigaikščiai - Ziemovi­ tas ir Traidenis."
 ---
 # Traidenis (Mazovijos kunigaikštis, 1325 m.)
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-83849
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 114-115"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 114-115."
   citata_originali: |
     C
     D r e y e r, Specimen jur. pubi p. 184, lavas, Mazovijos kunigaikštis]. Ar

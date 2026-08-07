@@ -64,7 +64,8 @@ Nenurodyta
 - id: c-02183
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 372."
   citata_originali: |
     Apie karaliavimą
     jis, žinoma, nė svajote nesvajojo, ir išrinkimas jam pačiam buvo

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a0432d300949e7092bbfcdc"
+canonical_name: "Kščeniškiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kščeniškiai"]
+sameAs: []
+canonical_biography: "Pabaiskas yra parapijos kaimas, priklausantis vie­ tiniam klebonui ir nutolęs nuo iš Vil­ niaus į Ukmergę einančio pašto trak­ to į kairę per 2 varstus, per pusę mylios už Kščeniškių."
+place_authority: true
+historical_names: []
 ---
 # Kščeniškiai
 
@@ -51,7 +60,8 @@ Pabaiskas yra parapijos kaimas, priklausantis vie­ tiniam klebonui ir nutolęs 
 - id: c-82181
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 236."
   citata_originali: |
     Žemė derlinga,
     Viktorijos upelis, nors mažas, bet

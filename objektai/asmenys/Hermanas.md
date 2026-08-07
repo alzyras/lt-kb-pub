@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bbdcece8a85b7a291816ebdc"
+canonical_name: "Hermanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hermanas"]
+sameAs: []
+canonical_biography: "Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą."
 ---
 # Hermanas
 
@@ -70,7 +77,8 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 - id: c-44346
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 53."
   citata_originali: |
     Po keturių savaičių apgulties, po dauge-
     lio susidūrimų meistras Hermanas vienoje
@@ -93,7 +101,8 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 - id: c-167128
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 53."
   citata_originali: |
     Tačiau
     lietuviai sunaikino pilies priešakinius įtvir-

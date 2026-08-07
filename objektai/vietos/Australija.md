@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a2f5cd1dfde548b6e547fd23"
+canonical_name: "Australija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Australija"]
+sameAs: []
+canonical_biography: "Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie 30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją."
+place_authority: true
+historical_names: []
 ---
 # Australija
 
@@ -80,7 +89,8 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 - id: c-26552
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     Per trejus–ketverius metus į JAV pasisekė atvykti
     visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
@@ -100,7 +110,8 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 - id: c-166977
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     Baltijos valstybių ir Lenkijos pa-
     bėgėlių bei tremtinių). Per trejus–ketverius metus į JAV pasisekė atvykti

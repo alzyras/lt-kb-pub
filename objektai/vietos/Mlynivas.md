@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4279d1f6a078fd6d92389a32"
+canonical_name: "Mlynivas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mlynivas"]
+sameAs: []
+canonical_biography: "tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (Mlynivas),."
+place_authority: true
+historical_names: []
 ---
 # Mlynivas
 
@@ -32,7 +41,8 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
 - id: c-24308
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 46."
   citata_originali: |
     laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
     naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-

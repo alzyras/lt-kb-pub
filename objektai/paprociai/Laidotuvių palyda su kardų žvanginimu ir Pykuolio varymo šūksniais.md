@@ -94,7 +94,8 @@ Nenurodyta
 - id: c-172808
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 364."
   citata_originali: |
     Deginti mirusiųjų kūnus buvo įprasta sekant graikų, ro­
     mėnų, skandinavų ’ ir kai kurių slavų kilčių papročiu. Šis pa­
@@ -115,7 +116,8 @@ Nenurodyta
 - id: c-179089
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 364."
   citata_originali: |
     Neturime jokio pa­
     tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka­

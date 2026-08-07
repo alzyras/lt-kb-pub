@@ -43,7 +43,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 <a id="claim-t-70059"></a>
 - t-001
   teiginys: "`Valdymierai` šiame tekste reiškia tautų valdovus."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
@@ -52,7 +52,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 <a id="claim-t-70060"></a>
 - t-002
   teiginys: "`Valdymieras` čia reiškia valdovą arba aukščiausią viešpatį."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
@@ -84,7 +84,8 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 - id: c-09754
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 48"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 48."
   citata_originali: |
     Jei netyčiomis jis tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi. Visi tie prietarai ant to eina, sako toliau, jog nuo ten prasidėjusi jų tauta, kame esąs visų valdymieras dievas, kurio kiti visi klausą ir tarnaują. Laimė žemaičių tą tvirtinanti.
   statusas: verified
@@ -98,7 +99,8 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 - id: c-09756
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 154"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 154."
   citata_originali: |
     nesgi anie tankiai regėjo per prityrimą, jog valdymierai tautų dėl to vien kartais įveda svetimus parėdymus^710 į savo ūkę, idant per tą galėtų padidinti savo valdžią ir svietą nuvergti.
   statusas: verified
@@ -111,9 +113,9 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
     - t-003
 
 - id: c-184309
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 197"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 197."
   citata_originali: |
     Ditrichas,
     noris plikas, nukeliavo į Pleskavą pas Vladimirą, bet

@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e57f09204a6c2f552000ca45"
+canonical_name: "Mykolas Glinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Glinskis"]
+sameAs: []
+canonical_biography: "Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį. Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių. Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius."
 ---
 # Mykolas Glinskis
 
@@ -43,48 +50,10 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 
 ## Teiginiai
 
-<a id="claim-t-82624"></a>
-- t-001
-  teiginys: "Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Glinskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Glinskis\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-42156
-    - c-79096
-    - c-179963
-    - c-179964
-
-<a id="claim-t-82625"></a>
-- t-002
-  teiginys: "Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mykolas Glinskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Mykolas Glinskis grįžo į Vilnių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Mykolas Glinskis keliavo į Vilnius (0.90)"
-  pagrindžia:
-    - c-79094
-    - c-179961
-    - c-179969
-
 <a id="claim-t-82626"></a>
-- t-003
+- t-001
   teiginys: "Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius."
-  atnaujinta: "2026-07-24 15:56"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Italija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -97,15 +66,14 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   temporaliniai_duomenys: "įvykio data: 1501 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, glaustas ir tiksliai apibendrina citatos faktus apie Glinskį."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-42155
-    - c-79096
-    - c-179963
 
 <a id="claim-t-82629"></a>
-- t-004
+- t-002
   teiginys: "Mykolas Glinskis davė komandą puolimui, po kurios LDK kariuomenė pakilo į ataką."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuvos kariuomenė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -118,45 +86,27 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   temporaliniai_duomenys: "įvykio data: 700 m"
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Glinskio veiksmą ir jo padarinį."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-42157
-    - c-179975
-
-<a id="claim-t-82630"></a>
-- t-005
-  teiginys: "Mykolas Glinskis kartu su Stanislovu Kiška buvo paskirtas vienu vyriausiųjų kariuomenės vadų."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kiška: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Glinskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kiška: mention_match, person, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Glinskis\" parinktas kaip owner_note_path. Targetas \"Kiška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1502 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-79096
-    - c-179963
 
 <a id="claim-t-184799"></a>
-- t-006
+- t-003
   teiginys: "Didžioji dauguma Smolensko žemės bajorų atvirai linko į Mykolą Glinskį."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-168164
 
 <a id="claim-t-184801"></a>
-- t-007
+- t-004
   teiginys: "Pagal sutarties sąlygas Mykolas Glinskis turėjo likti Maskvos kunigaikštystėje kaip tremtinys be vilties sugrįžti."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -169,46 +119,26 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=30"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Glinskis\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-168164
     - c-179974
 
-<a id="claim-t-184803"></a>
-- t-008
-  teiginys: "Mykolas Glinskis gailėjosi savo veiksmų ir per giminaitį laišku paprašė karaliaus atleidimo."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Glinskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Glinskis\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168164
-    - c-168165
-
 <a id="claim-t-184804"></a>
-- t-009
+- t-005
   teiginys: "Vasilijus įsakė surakinti Mykolą Glinskį grandinėmis ir išvežti iš stovyklos į Viazmą."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-168166
-    - c-168164
+    - c-186003
 
 <a id="claim-t-184805"></a>
-- t-010
+- t-006
   teiginys: "Vasilijus grąžino Mykolui Glinskiui laisvę ir pagarbą, o vėliau paskyrė jį savo mažamečio sūnaus globėju."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -223,12 +153,12 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   ryšio_targeto_parinkimas: "Mykolas Glinskis: llm_allowed_candidate, person"
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vasilijus paskyrė Mykolą Glinskį globėju."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-168166
 
 <a id="claim-t-184806"></a>
-- t-011
+- t-007
   teiginys: "Ovčina apkaltino Mykolą Glinskį antru mėginimu bėgti į Lietuvą, pasmerkė jį mirti ir įkalino apakintą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -248,7 +178,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168167
 
 <a id="claim-t-193399"></a>
-- t-012
+- t-008
   teiginys: "Mykolas Glinskis bodėjosi dabartine padėtimi, kai niekuo negalima pasitikėti; visur matydamas rusų barbariškumą, juto širdyje gailestį dėl savo veiksmų."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -256,42 +186,27 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-168164
 
-<a id="claim-t-193962"></a>
-- t-013
-  teiginys: "Kunigaikš tis Mykolas !3, matydamas su didikais ir su visa kariuo mene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems pulkams žengti abiem perėjimais per upę."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176587
-    - c-176589
-    - c-179978
-
 <a id="claim-t-193963"></a>
-- t-014
+- t-009
   teiginys: "O tada kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir, perėjęs per upę, smogė visiems totorių pulkams ir per skėlė juos į dvi dalis."
-  atnaujinta: "2026-07-24 15:56"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-176587
-    - c-176588
-    - c-179968
-    - c-179976
     - c-179978
+    - c-186001
 
 <a id="claim-t-196569"></a>
-- t-015
+- t-010
   teiginys: "Įniršęs ir suniektas Mykolas su barbarišku žiaurumu nusiaubė didelius Slucko ir Kopylio žemių plotus."
   atnaujinta: "2026-07-19 17:26"
   sprendimo_priezastis: "auto"
@@ -299,14 +214,14 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-168160
 
 <a id="claim-t-196570"></a>
-- t-016
+- t-011
   teiginys: "Mykolas Glinskis pareiškė karaliui norįs su juo sudaryti taiką ir dėl to galįs atsiųsti didesnių įgaliojimų turinčius legatus, jeigu karalius sutinkąs daugiau nebelieti krikščionių kraujo."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -317,23 +232,22 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     - c-168162
 
 <a id="claim-t-196571"></a>
-- t-017
+- t-012
   teiginys: "Valdovas įsakė laišku pažadėti Mykolui Glinskiui užmiršti praeities įvykius ir laiduoti prielankumą ateityje."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-168165
-    - c-168164
 
 <a id="claim-t-196859"></a>
-- t-018
+- t-013
   teiginys: "Mykolas Glinskis paaugo ir kol prie jo priprato žmonės."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -341,29 +255,11 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176586
-    - c-179966
-
-<a id="claim-t-198203"></a>
-- t-019
-  teiginys: "Mykolas Glinskis per ištikimą giminaitį laišku paprašė karaliaus atleidimo ir žadėjo ištikima tarnyba atpirkti savo veiklą."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Citata pagrindžia konkrečią Vasilijaus suteiktą padėtį Glinskiui."
-  susije_objektai: "llm_object: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva"
-  semantiniai_rysiai: "[[objektai/asmenys/Vasilijus|Vasilijus]] paskyrė [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168165
-    - c-168166
 
 <a id="claim-t-198204"></a>
-- t-020
+- t-014
   teiginys: "Glinskis buvo apkaltintas antru mėginimu pabėgti į Lietuvą, suimtas, apakintas, įkalintas ir kalėjime mirė."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -378,104 +274,61 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   ryšio_targeto_parinkimas: "Mykolas Glinskis: llm_allowed_candidate, person"
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vasilijus paskyrė Mykolą Glinskį globėju."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-168166
     - c-168167
 
-<a id="claim-t-198205"></a>
-- t-021
-  teiginys: "Vasilijus manė, kad Mykolas Glinskis galėtų padėti maskvėnams užimti pilį, kurios pats Vasilijus neįstengė paimti."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-198216"></a>
+- t-015
+  teiginys: "Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pašalinta kontekstinė pradžia ir aiškiai įvardytas asmuo."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]"
+  ryšio_patikimumas: "susije_su -> Kiška: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mykolas Glinskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kiška: mention_match, person, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Glinskis\" parinktas kaip owner_note_path. Targetas \"Kiška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179964
+
+<a id="claim-t-198220"></a>
+- t-016
+  teiginys: "Lietuvos metraštis pasakoja, kad Mykolas Glinskis su Lietuvos kariuomene prie Cepros paėmė arba nukovė daugybę totorių ir grįžo į stovyklą prie Klecko su belaisviais bei grobiu."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Išskleistas subjektas Mykolas Glinskis ir mūšio kontekstas prie Cepros bei Klecko. Priešo apibūdinimas paliktas kaip metraščio pasakojimas, nepridedant necitatuotų detalių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-186002
+
+<a id="claim-t-203039"></a>
+- t-017
+  teiginys: "Alberto Vijūko-Kojelavičiaus pasakojime Vasilijus manė, kad Glinskis galėtų padėti maskvėnams užimti pilį, kurios pats Vasilijus neįstengė paimti."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   sudarymo_pagrindimas: "Įvardytas neaiškus įvardis ir aiškiai išreikštas citatos turinys."
   susije_objektai: "mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Glinskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Glinskis\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168164
     - c-179974
 
-<a id="claim-t-198206"></a>
-- t-022
-  teiginys: "Mykolas Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę prieš menkas karaliaus pajėgas."
-  atnaujinta: "2026-07-19 18:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Nutrauktas fragmentas perrašytas į pilną sakinį."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168162
-    - c-168164
-
-<a id="claim-t-198208"></a>
-- t-023
-  teiginys: "1506 m. rugpjūtį Mykolas Glinskis vedė apie 10 000 bajorų, kareivių ir ginkluotų žmonių į kovą su Krymo ordos kariais ties Klecku."
-  atnaujinta: "2026-07-12 22:58"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, konkretus ir atitinka citatos informaciją."
-  susije_objektai: "mentioned_place: Krymas; mentioned_place: Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir atitinka citatos informaciją."
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mykolas Glinskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Mykolas Glinskis grįžo į Vilnių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-179970
-
-<a id="claim-t-198209"></a>
-- t-024
-  teiginys: "Kojelavičiaus pasakojime įniršęs Mykolas Glinskis nusiaubė didelius Slucko ir Kopylio žemių plotus."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168160
-
-<a id="claim-t-198214"></a>
-- t-025
-  teiginys: "Po Aleksandro mirties lietuviai bijojo vežti jo palaikus į Krokuvą dėl pavojingos Mykolo Glinskio puikybės."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Krokuva; mentioned_place: Vilnius"
-  ryšio_patikimumas: "susije_su -> Lietuvos kariuomenė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Glinskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuvos kariuomenė: mention_match, group, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Glinskis\" parinktas kaip owner_note_path. Targetas \"Lietuvos kariuomenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-179959
-    - c-179973
-
-<a id="claim-t-198215"></a>
-- t-026
-  teiginys: "Mykolas Glinskis vedė į kovą su priešais paskubomis surinktus 10 000 bajorų, kareivių ir ginkluotų žmonių."
-  atnaujinta: "2026-07-19 16:33"
+<a id="claim-t-203078"></a>
+- t-018
+  teiginys: "Michał Baliński rašo, kad paskubomis susirinkusius 10 000 bajorų, kareivių ir ginkluotų žmonių į kovą su priešais vedė Glinskis."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
   susije_objektai: "mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Vilnius"
@@ -483,18 +336,46 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   pagrindžia:
     - c-179970
 
-<a id="claim-t-198220"></a>
-- t-027
-  teiginys: "Lietuvos metraštis pasakoja, kad Mykolas Glinskis su Lietuvos kariuomene prie Cepros paėmė arba nukovė daugybę totorių ir grįžo į stovyklą prie Klecko su belaisviais bei grobiu."
-  atnaujinta: "2026-07-19 17:26"
+<a id="claim-t-203093"></a>
+- t-019
+  teiginys: "1506 m. rugpjūtį Glinskis vedė apie 10 000 bajorų, kareivių ir ginkluotų žmonių į kovą su Krymo ordos kariais ties Klecku."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, konkretus ir atitinka citatos informaciją."
+  susije_objektai: "mentioned_place: Krymas; mentioned_place: Lietuva"
+  temporaliniai_duomenys: "įvykio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir atitinka citatos informaciją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-179970
+
+<a id="claim-t-203106"></a>
+- t-020
+  teiginys: "Albertas Vijūkas-Kojelavičius rašė, kad Mykolas Glinskis per ištikimą giminaitį laišku paprašė karaliaus atleidimo ir pažadėjo ištikima tarnyba atpirkti savo veiklą."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Išskleistas subjektas Mykolas Glinskis ir mūšio kontekstas prie Cepros bei Klecko. Priešo apibūdinimas paliktas kaip metraščio pasakojimas, nepridedant necitatuotų detalių."
+  sudarymo_pagrindimas: "Citata pagrindžia konkrečią Vasilijaus suteiktą padėtį Glinskiui."
+  susije_objektai: "llm_object: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva"
+  semantiniai_rysiai: "[[objektai/asmenys/Vasilijus|Vasilijus]] paskyrė [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168164
+
+<a id="claim-t-203500"></a>
+- t-021
+  teiginys: "Bychovco kronikos teigimu, kunigaikštis Mykolas, kartu su didikais ir visa kariuomene matydamas totorių tyčiojimąsi ir pajuoką, greitai įsakė visiems pulkams abiem perėjimais žengti per upę."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
-    - c-176589
+    - c-179978
 
 ## Reikšmingi paminėjimai
 - c-008
@@ -526,6 +407,26 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   statusas: verified
 - t-013
 
+- c-015
+  santrauka: 'Lietuvos metraštis pasakoja, kad Mykolas Glinskis su Lietuvos kariuomene prie Cepros paėmė arba nukovė daugybę totorių ir grįžo į stovyklą prie Klecko su belaisviais bei grobiu.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
+    dievo gailestingumą, o Korano giminė — neapsakomą
+    kraujo praliejimą. Kunigaikštis Mykolas Glinskis ir
+    Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­
+    są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už
+    Cepros, paėmė arba nukovė daugybą totorių, sugrįžo
+    į kariuomenės stovyklą prie Klecko, vesdamiesi su sa­
+    vimi daug belaisvių ir turėdami rankas pilnas aukso,
+    ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų. Ku­
+    pini neapsakomo džiaugsmo ir linksmybės, ramiai pra­
+    leido tą naktį 2 S .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-025
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -553,7 +454,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
 - id: c-42155
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 79."
   citata_originali: |
     Kur
     kas geriau karybos meną išmanė totorių
@@ -579,17 +481,18 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     atviri Europos šalių valdovai ir jų geriausi
     karvedžiai.
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-001
 
 - id: c-42156
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 79."
   citata_originali: |
     Tuo pat metu
     Glinskis išsiuntė žvalgybinį husarų
@@ -603,17 +506,16 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     buvo vadinami priešo žmonės, iš kurių
     buvo kvočiama informacija).
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-42157
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 81."
   citata_originali: |
     Tada Glinskis davė komandą
     puolimui ir nuaidėjus trimitų garsams LDK
@@ -637,12 +539,13 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-002
 
 - id: c-79094
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 81."
   citata_originali: |
     stovyklavietę. Paskutiniai
 
@@ -657,16 +560,15 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   citata_rodoma: "Paskutiniai\n\ntotoriai buvo išgaudyti\n\nrugpjūčio 8 d. Mūšio\nnugalėtojas Mykolas\nGlinskis triumfuo-\ndamas grįžo į Vilnių\n\nYD rugpjūčio 12 d."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-79096
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 79."
   citata_originali: |
     Tą pačią
     dieną ten buvo atvykęs jau mirtinai nega-
@@ -681,15 +583,11 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     pavyko apginti Smolenską nuo maskvėnų,
     jam buvo patikėtos etmono pareigos).
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
-    - t-005
-
 - id: c-168160
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -709,8 +607,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
-    - t-024
+    - t-010
 
 - id: c-168162
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -745,13 +642,12 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     mus pranešė senatui, ir didikai, pareiškę savo nuomonę,
   citata_rodoma: "Iš dalies priešą sumušęs, iš dalies išvaikęs, Kiška, di­\ndžiuodamasis savo žygiu ir gausiu grobiu, bet nenorė­\ndamas, kad jam išeitų taip, kaip atsitiko Ostrogiškiui \nprie Vedrošos, tai yra vengdamas traukti atviromis vie­\ntomis ir bėgančiam priešui rodyti, kokia maža jo ka­\nriauna, nuvedė visus savo \nM a sk v o s \nk u n ig a ik š- \nvyrus atgal pas karalių. Va­\nžis \nV a siliju s \npra šo \nsilijus, Maskvos kunigaikštis, \nta ik o s \nišgąsdintas \nšitokios \nnesėk­\nmės, o labiausiai Viazmos, \nMožaisko, Belajos, Riazanės ir Rževo apylinkių nunio­\nkojimo, bematant primiršo buvusį narsumą. Neilgai \ntrukus pasiuntęs tarpininką, jis pareiškė karaliui norįs \nsu juo sudaryti taiką ir dėl to galįs atsiųsti didesnių \nįgaliojimų turinčius legatus, jeigu karalius sutinkąs \ndaugiau nebelieti krikščionių kraujo."
   statusas: verified
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-    - t-022
+    - t-011
 
 - id: c-168164
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -779,19 +675,14 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     ria atnešęs tėvynei tiek skausmo.
   citata_rodoma: "Tuo tarpu Glinskis suvo-\nT ia g išk a s\nM y k o lo\nkė, jog visos jo viltys bergž-\nG lin sk io  g a la s\ndžios ir tuščios, nes Vasili­\njus, žodžiu pažadėjęs jam ati­\nduoti Smolenską ir šitaip atsilyginti už paramą, nė\nnesirengė to daryti. Atsimindamas, kokia sėkmė jį\nanksčiau lydėjusi, jis bodėjosi dabartine padėtimi, kai\nniekuo negalima pasitikėti; visur matydamas rusų bar­\nbariškumą, juto širdyje gailestį dėl savo veiksmų. Kiek­\nvieną dieną krūtinę plėšė be paliovos stiprėjantis tė­\nvynės ilgesys ir didėjo viltis, jog karalius gali viską\natleisti. Pasiuntęs per ištikimą savo giminaitį laišką ka­\nraliui, jis nuolankiai paprašė atleidimo, pasižadėdamas\ništikima tarnyba atpirkti savo nusikalstamą veiklą, ku­\nria atnešęs tėvynei tiek skausmo."
   statusas: verified
-  atnaujinta: "2026-07-13 00:09"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-007
+    - t-003
     - t-008
-    - t-009
-    - t-012
-    - t-017
-    - t-021
-    - t-022
+    - t-020
 
 - id: c-168165
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -811,14 +702,12 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     miršti viską, kas dėjosi praeityje, bet laiduoti visišką
     valdovo prielankumą ateityje.
   statusas: verified
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-017
-    - t-019
+    - t-012
 
 - id: c-168166
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -846,15 +735,13 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     lėta ugnimi, grąžtais gręžė kiaušą bei nagus.
   citata_rodoma: "Tuo metu popiežiaus \nlegatas Pisonas, pasiųstas iš Romos sutaikyti Žygiman­\ntą su Vasilijumi, sustojo Vilniuje, ketindamas netrukus \nleistis į Maskvą, kur jo diena iš dienos laukė. Dėda­\nmasis jo žygūnu, lenkų bajoras Trepka, mokėjęs italų \nbei vengrų kalbas, išvyko kelionėn, pasižadėjęs akis į \nakį pranešti Glinskiui karaliaus valią. Pakelėje suimtas\nir siaubingai kankinamas, jis \nP u ik u s ištv e r m ė s p a - \nnieko nepasakė ir neišdavė \nv y z d y s \nkaraliaus jam patikėtos pas­\nlapties."
   statusas: verified
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-010
-    - t-019
-    - t-020
+    - t-005
+    - t-006
 
 - id: c-168167
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -879,8 +766,8 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-020
+    - t-007
+    - t-014
 
 - id: c-176586
   autorius: "Anoniminis metraštininkas"
@@ -912,7 +799,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-013
 
 - id: c-176587
   autorius: "Anoniminis metraštininkas"
@@ -927,13 +814,12 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     mene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems
     pulkams žengti abiem perėjimais per upę.
   statusas: verified
-  atnaujinta: "2026-07-12 22:57"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-014
+    - t-009
 
 - id: c-176588
   autorius: "Anoniminis metraštininkas"
@@ -950,41 +836,15 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     savo vardu, ir [davėj savo ranką.
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
-
-- id: c-176589
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
-    dievo gailestingumą, o Korano giminė — neapsakomą
-    kraujo praliejimą. Kunigaikštis Mykolas Glinskis ir
-    Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­
-    są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už
-    Cepros, paėmė arba nukovė daugybą totorių, sugrįžo
-    į kariuomenės stovyklą prie Klecko, vesdamiesi su sa­
-    vimi daug belaisvių ir turėdami rankas pilnas aukso,
-    ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų. Ku­
-    pini neapsakomo džiaugsmo ir linksmybės, ramiai pra­
-    leido tą naktį 2 S .
-  statusas: verified
-  atnaujinta: "2026-07-12 22:58"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
-    - t-027
-
 - id: c-179959
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 251."
   citata_originali: |
     Mirė karalius Žemu­
     tinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o
@@ -995,16 +855,15 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     sios Kunigaikštystės valdžią48.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
-
 - id: c-179961
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 81."
   citata_originali: |
     stovyklavietę. Paskutiniai
 
@@ -1019,16 +878,15 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   citata_rodoma: "Paskutiniai\n\ntotoriai buvo išgaudyti\n\nrugpjūčio 8 d. Mūšio\nnugalėtojas Mykolas\nGlinskis triumfuo-\ndamas grįžo į Vilnių\n\nYD rugpjūčio 12 d."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-179963
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 79."
   citata_originali: |
     Tą pačią
     dieną ten buvo atvykęs jau mirtinai nega-
@@ -1043,19 +901,16 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     pavyko apginti Smolenską nuo maskvėnų,
     jam buvo patikėtos etmono pareigos).
   statusas: verified
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
-    - t-005
-
 - id: c-179964
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 79."
   citata_originali: |
     Tuo pat metu
     Glinskis išsiuntė žvalgybinį husarų
@@ -1074,7 +929,7 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-015
 
 - id: c-179966
   autorius: "Anoniminis metraštininkas"
@@ -1102,12 +957,10 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     ir iždą, ir žirgyną, viską tą jis paėmė.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
-
 - id: c-179968
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1122,17 +975,16 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     jis taip pat davė žodį kunigaikščio Jogailos vardu ir
     savo vardu, ir [davėj savo ranką.
   statusas: verified
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
-
 - id: c-179969
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 81."
   citata_originali: |
     stovyklavietę. Paskutiniai
 
@@ -1146,17 +998,16 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     YD rugpjūčio 12 d. Džiugi
   citata_rodoma: "Paskutiniai\n\ntotoriai buvo išgaudyti\n\nrugpjūčio 8 d. Mūšio\nnugalėtojas Mykolas\nGlinskis triumfuo-\ndamas grįžo į Vilnių\n\nYD rugpjūčio 12 d."
   statusas: verified
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-179970
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 250."
   citata_originali: |
     Tas būrys, įveikęs Ne­
     muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
@@ -1168,18 +1019,19 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     užkirto šiems azijiečiams kelią į artimiausias šios valsty­
     bės vaivadijų sostines47.
   statusas: verified
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-026
+    - t-018
+    - t-019
 
 - id: c-179973
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 251."
   citata_originali: |
     Mirė karalius Žemu­
     tinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o
@@ -1189,13 +1041,11 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     garsintas, jiems nesant, kad kokios būtų užgrobęs Didžio­
     sios Kunigaikštystės valdžią48.
   statusas: verified
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-28 14:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
-
 - id: c-179974
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1214,18 +1064,19 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     vėnams užimti pilį.
   citata_rodoma: "Vasilijui, praradusiam, nesėkminguose antpuoliuo­\nse nemaža kariuomenės, nebeliko nieko kito, kaip nu­\ntraukti pilies apgulą ir gėdingai sugrįžti į Maskvos\nkunigaikštystę. Begalvojant apie susidariusią padėtį ir\nbesvarstant visokiausius planus, jam kilo mintis, jog\ntoks gabus žmogus, kaip Glinskis, galėtų padaryti tai,\nko pats neįstengė pasiekti. Štai todėl ir kreipėsi į jį,\nprisiekdamas visais šventaisiais prijungti prie jo tė­\nvonijos visą žemę su pilimi, jeigu šis padėsiąs mask-\nvėnams užimti pilį."
   statusas: verified
-  atnaujinta: "2026-07-13 00:09"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-021
+    - t-004
+    - t-017
 
 - id: c-179975
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 81."
   citata_originali: |
     Tada Glinskis davė komandą
     puolimui ir nuaidėjus trimitų garsams LDK
@@ -1245,12 +1096,10 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     kairės ir visu ypu įsirėžė į jų dešinįjį flangą.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-
 - id: c-179976
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1265,13 +1114,11 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     jis taip pat davė žodį kunigaikščio Jogailos vardu ir
     savo vardu, ir [davėj savo ranką.
   statusas: verified
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
-
 - id: c-179978
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1285,13 +1132,85 @@ Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidel�
     mene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems
     pulkams žengti abiem perėjimais per upę.
   statusas: verified
-  atnaujinta: "2026-07-12 22:58"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-014
+    - t-009
+    - t-021
+
+- id: c-186001
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Dešiniojo sparno kariuomenė paskubėjusi
+    pirmoji įveikė perėją ir atsidūrė už upės. Totoriai ma­
+    tė, kad lietuviai ne visi kartu keliasi per upę, patys
+    narsiausieji iš jų tarpo puolė lietuvius ir daugelį iš to
+    dešiniojo sparno nukovė ir vos jų nesumušė. O tada
+    kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir,
+    perėjęs per upę, smogė visiems totorių pulkams ir per­
+    skėlė juos į dvi dalis.
+  citata_rodoma: "Dešiniojo sparno kariuomenė paskubėjusi \npirmoji įveikė perėją ir atsidūrė už upės. Totoriai ma­\ntė, kad lietuviai ne visi kartu keliasi per upę, patys \nnarsiausieji iš jų tarpo puolė lietuvius ir daugelį iš to \ndešiniojo sparno nukovė ir vos jų nesumušė. O tada \nkunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir, \nperėjęs per upę, smogė visiems totorių pulkams ir per­\nskėlė juos į dvi dalis."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-186002
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    O tuos nedaugelį totorių, kurie pabėgo su chanai-
+    čiais, gaudė bebėgančius Slucko, Petrikovičių, Ovručo,
+    2itomiro, Volynės keliais į visas puses, lietuviai žudė
+    ir atiminėjo grobį. Labai maža jų grįžo į Ordą.
+    Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
+    dievo gailestingumą, o Korano giminė — neapsakomą
+    kraujo praliejimą. Kunigaikštis Mykolas Glinskis ir
+    Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­
+    są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už
+    Cepros, paėmė arba nukovė daugybą totorių, sugrįžo
+    į kariuomenės stovyklą prie Klecko, vesdamiesi su sa­
+    vimi daug belaisvių ir turėdami rankas pilnas aukso,
+    ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų.
+  citata_rodoma: "O tuos nedaugelį totorių, kurie pabėgo su chanai- \nčiais, gaudė bebėgančius Slucko, Petrikovičių, Ovručo, \n2itomiro, Volynės keliais į visas puses, lietuviai žudė \nir atiminėjo grobį. Labai maža jų grįžo į Ordą.\nIr patyrė Lietuvos Didžioji Kunigaikštystė begalinį \ndievo gailestingumą, o Korano giminė — neapsakomą \nkraujo praliejimą. Kunigaikštis Mykolas Glinskis ir \nLietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­\nsą dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už \nCepros, paėmė arba nukovė daugybą totorių, sugrįžo \nį kariuomenės stovyklą prie Klecko, vesdamiesi su sa­\nvimi daug belaisvių ir turėdami rankas pilnas aukso, \nir sidabro, ir ginklų, ir drabužių, ir brangių žirgų."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
+- id: c-186003
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Tuo
+    tarpu kitas žygūnas elgėsi perdėm neatsargiai: iš jo
+    atimtas karaliaus laiškas Glinskiui viską maskvėnams
+    atskleidė. Vasilijus įsakė surakinti Glinskį grandinėmis
+    ir išvežti iš stovyklos. Jį nugabeno į Viazmą, kur vy­
+    riausiasis karo vadas, mesdamas jam po kojomis gran­
+    dines, teisme tarė: „Mykolai, tu gerai žinai, kiek gera
+    tau padarė didysis kunigaikštis, kol buvai jam ištiki­
+    mas.
+  citata_rodoma: "Tuo \ntarpu kitas žygūnas elgėsi perdėm neatsargiai: iš jo \natimtas karaliaus laiškas Glinskiui viską maskvėnams \natskleidė. Vasilijus įsakė surakinti Glinskį grandinėmis \nir išvežti iš stovyklos. Jį nugabeno į Viazmą, kur vy­\nriausiasis karo vadas, mesdamas jam po kojomis gran­\ndines, teisme tarė: „Mykolai, tu gerai žinai, kiek gera \ntau padarė didysis kunigaikštis, kol buvai jam ištiki­\nmas."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Mykolas Glinskis keliavo į [[objektai/vietos/Vilnius]]

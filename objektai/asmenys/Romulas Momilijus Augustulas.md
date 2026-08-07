@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-65e6fca372c00609d7d15c3d"
+canonical_name: "Romulas Momilijus Augustulas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Romulas Momilijus Augustulas"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime 475 m. Orestas, vadovavęs samdytai kariuomenei, į imperatoriaus sostą pasodino jauną sūnų Romulą Momilijų Augustulą."
 ---
 # Romulas Momilijus Augustulas
 
@@ -57,7 +64,8 @@ Narbuto pasakojime 475 m. Orestas, vadovavęs samdytai kariuomenei, į imperator
 - id: c-174195
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Imperatoriaus
     sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­

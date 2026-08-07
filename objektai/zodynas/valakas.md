@@ -34,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Valakų reformos metu valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčiai ir einamos pareigos. Valstiečiams duodamieji valakai nebuvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo mažesni, o kur žemė būdavo prastesnė, — didesni. Vijūkai nuo 1580 m. minimi Romainių Vijūkų lauke, kur pirko ar parduodavo nedidelius žemės plotus, tarp jų pusę valako, valaką ar dirvą 2–3 statinėms rugių užsėti.
+Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūkį ir įvedantį valakų sistemą. Valstiečiams duodamieji valakai nebuvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo mažesni, o kur žemė būdavo prastesnė, — didesni. Su šia reforma valakas pasidarė ūkio vienetas: nuo jo buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
 
 ## Teiginiai
 
@@ -63,12 +63,22 @@ Valakų reformos metu valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčia
 <a id="claim-t-202351"></a>
 - t-003
   teiginys: "Vijūkai nuo 1580 m. minimi Romainių Vijūkų lauke, kur pirko ar parduodavo nedidelius žemės plotus, tarp jų pusę valako, valaką ar dirvą 2–3 statinėms rugių užsėti."
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romainiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "valakas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Romainiai: mention_match, place, gap=85"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"valakas\" parinktas kaip owner_note_path. Targetas \"Romainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Zigmantas Kiaupa"
+  temporaliniai_duomenys: "prekybos laikotarpis: po 1580 m.; prekybos laikotarpis: 1580 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip prekybos laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Vijūkų ryšį su Romainių Vijūkų lauku ir jų disponuotų žemės plotų dydį. Formuluotė atitinka šaltinio informaciją, nieko papildomai nepridėta."
   vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
   pagrindžia:
     - c-185698
@@ -78,7 +88,8 @@ Valakų reformos metu valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčia
 - id: c-71150
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 261."
   citata_originali: |
     Valstiečiams duodamieji valakai ne-
     buvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo
@@ -98,7 +109,8 @@ Valakų reformos metu valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčia
 - id: c-175914
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 261."
   citata_originali: |
     Kadangi dvaro bernai — vergai, kurie anksčiau apdirbdavo
     dvaro žemę, per brangiai atseidavo, tai jie iš dvarų buvo iškelti
@@ -115,11 +127,12 @@ Valakų reformos metu valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčia
     - t-002
 
 - id: c-185698
+  autorius: "Zigmantas Kiaupa"
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 6"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:24"
   pagrindzia:
     - t-003

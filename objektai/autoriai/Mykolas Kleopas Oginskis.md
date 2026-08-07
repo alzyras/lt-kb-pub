@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-76fcd4e61b900ad7996311f5"
+canonical_name: "Mykolas Kleopas Oginskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mykolas Kleopas Oginskis"]
+sameAs: []
+canonical_biography: "Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvyne“ autoriumi; iliustracijos antraštėje jis taip pat pristatomas kaip paskutinio LDK atkūrimo projekto autorius."
 ---
 # Mykolas Kleopas Oginskis
 
@@ -103,7 +110,8 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
 - id: c-22179
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 101."
   citata_originali: |
     Dvarus prara-
     do nedaugelis, juos atgauti galėjo
@@ -132,7 +140,8 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
 - id: c-22181
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 101."
   citata_originali: |
     Žinoma, bajorai savo valsty-
     bę prarado, bet gavo rusų bajorų
@@ -159,7 +168,8 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
 - id: c-25418
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 101."
   citata_originali: |
     Vienas
     iš tokių grįžusiųjų bus stambus
@@ -188,7 +198,8 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
 - id: c-73213
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 101."
   citata_originali: |
     Liko ga-
     lioti Lietuvos Statutas, lenkų kalba

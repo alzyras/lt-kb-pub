@@ -141,7 +141,8 @@ Nenurodyta
 - id: c-66946
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 86."
   citata_originali: |
     Neilgai trukus tas pats Sventopelkas, velnio išpera, iš naujo sutelkė nuo tikėjimo
     atsimetusius naujakrikščius ir, su ginklu rankose įsibrovęs į aukštutines žemes, būtent:
@@ -161,7 +162,8 @@ Nenurodyta
 - id: c-66947
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
   citata_originali: |
     271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
     Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis..,
@@ -179,7 +181,8 @@ Nenurodyta
 - id: c-66948
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
   citata_originali: |
     Apie žemutinių Prūsijos žemės dalių nusiaubimą
 
@@ -205,7 +208,8 @@ Nenurodyta
 - id: c-66949
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 84."
   citata_originali: |
     Sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje
 

@@ -99,7 +99,8 @@ Nenurodyta
 - id: c-28821
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 157."
   citata_originali: |
     _Socialiniu_ atžvilgiu ši epocha yra charakterizuojama išryškė­
     jusią luomine diferenciacija. Šalia stambiųjų didikų bei kunigaikš­
@@ -120,7 +121,8 @@ Nenurodyta
 - id: c-167715
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 157."
   citata_originali: |
     Šalia stambiųjų didikų bei kunigaikš­
     čių, bajorija ėmė išsivystyti į atskirą galingą visuomenės sluoksnį,

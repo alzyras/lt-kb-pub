@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09ab15a57cf02455daa4fd1f"
+canonical_name: "Vaitiekus Goštautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaitiekus Goštautas"]
+sameAs: []
+canonical_biography: "Vaitiekaus Goštauto, Lietuvos kanclerio, antkapio autoriumi laikomas Sienos skulptorius Giovanni Cini."
 ---
 # Vaitiekus Goštautas
 

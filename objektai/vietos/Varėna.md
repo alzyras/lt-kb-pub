@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f8281d2adc7efe2463b960ed"
+canonical_name: "Varėna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varėna"]
+sameAs: []
+canonical_biography: "1—2 d. lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4 d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį. 7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir. Lenkų vyriausybė apsimetė nieko apie tai nežinanti ir siūlė toliau tęsti derybas Varėnoj, nepabaigtiems klausimams išspręsti."
+place_authority: true
+historical_names: []
 ---
 # Varėna
 
@@ -109,7 +118,8 @@ media_all_json: |-
 - id: c-43964
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 204."
   citata_originali: |
     Lenkai su tuo nesutiko ir vilkino
     derybas. Galiausiai spalio 7 d. buvo nusta-
@@ -130,7 +140,8 @@ media_all_json: |-
 - id: c-43965
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 204."
   citata_originali: |
     Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-
     nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
@@ -147,7 +158,8 @@ media_all_json: |-
 - id: c-156467
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 204."
   citata_originali: |
     Rugsėjo 22 d. „Gediminas“ susirėmė su
     lenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-
@@ -166,7 +178,8 @@ media_all_json: |-
 - id: c-156468
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 203."
   citata_originali: |
     7-asis ir 2-asis pėst. p. priverstas trauktis į rytus.
     Už Lydos pavyksta aplenkti lenkų pajėgas ir

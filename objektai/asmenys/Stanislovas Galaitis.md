@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d37775988fac9846c0dcabd5"
+canonical_name: "Stanislovas Galaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Galaitis"]
+sameAs: []
+canonical_biography: "Jis teigė, kad Kauno kalvis Stanislovas Galaitis yra jo valdinys ir pabėgo su žmona ir vaikais."
 ---
 # Stanislovas Galaitis
 
@@ -49,9 +56,9 @@ Jis teigė, kad Kauno kalvis Stanislovas Galaitis yra jo valdinys ir pabėgo su 
 ## Citatos
 
 - id: c-185424
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 171"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 171."
   citata_originali: |
     Štai 1627 m. bajoras Adomas Stankevičius apeliavo į valdovo vardu
     bylas sprendžiantį Lietuvos asesorių teismą. Jis teigė, kad Kauno kalvis Stanislovas

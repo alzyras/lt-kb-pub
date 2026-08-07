@@ -54,7 +54,8 @@ Narbutas rašo, kad senovės vokiečiai garbino dievaites, vadintas Pilwith, Pil
 - id: c-172434
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     Lietuvos rusinai savo pasakojimuose taip pat mini
     Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­

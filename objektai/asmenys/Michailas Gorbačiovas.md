@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-05009eb4f8edffc6a602a160"
+canonical_name: "Michailas Gorbačiovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Michailas Gorbačiovas"]
+sameAs: []
+canonical_biography: "S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griškevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios vadžias. Pradiniame etape Sąjūdis iš esmės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų etapais siejo tik laisvos Lietuvos siekis. Gorbačiovo vizitas į Lietuvą neatbaidė LPS nuo šių planų."
 ---
 # Michailas Gorbačiovas
 
@@ -245,7 +252,8 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - id: c-21881
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 243."
   citata_originali: |
     Lietuvai
     laikantis tik savų įstatymų, 1990 m. balandžio 18 d. SSRS pradėjo Lie-
@@ -269,7 +277,8 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - id: c-21882
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 246."
   citata_originali: |
     Po 1991 m. sau-
     sio 13-osios įvykių į Vilnių atvykusi akademiko A. Sacharovo žmona ir
@@ -293,7 +302,8 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - id: c-21884
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 247."
   citata_originali: |
     Po šios ap-
     klausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė, kad Lie-
@@ -314,7 +324,8 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - id: c-42136
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 252."
   citata_originali: |
     1991 m.
     sausio 8 d. „penktoji kolona“, vadovaujama
@@ -346,7 +357,8 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - id: c-42137
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 265."
   citata_originali: |
     Prasidėjus perversmui Maskvoje, atostogaujantis
     M. Gorbačiovas buvo izoliuotas Kryme, tačiau kovai prieš ko-
@@ -368,7 +380,8 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - id: c-95132
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 243."
   citata_originali: |
     Euro-
     pos istoriją.
@@ -390,7 +403,8 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - id: c-95133
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 233-234"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 233-234."
   citata_originali: |
     O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
     nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
@@ -428,7 +442,8 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - id: c-95136
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 246."
   citata_originali: |
     Va-
     karų valstybės reagavo į įvykius, užjautė Lietuvą ir reikalavo, kad SSRS

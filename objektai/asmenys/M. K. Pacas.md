@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a7677680c6a31dce9ba68ab9"
+canonical_name: "M. K. Pacas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. K. Pacas"]
+sameAs: []
+canonical_biography: "M. K. Pacas žuvo 1665 metais prie Mogiliavo, kai miestą buvo apgulę lauko etmono M."
 ---
 # M. K. Pacas
 
@@ -63,7 +70,8 @@ M. K. Pacas žuvo 1665 metais prie Mogiliavo, kai miestą buvo apgulę lauko etm
 - id: c-44440
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 126."
   citata_originali: |
     J. Čerkaskis dalyvavo užimant
     Gardiną, Vilnių, kur sumušė J. Radvilos

@@ -64,7 +64,8 @@ Nenurodyta
 - id: c-10240
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 296"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 296."
   citata_originali: |
     Ant tokio savo apdaro tankiai patys antsimovė baltą trinytinį maišą su rankovėmis.
   citata_rodoma: "Ant tokio savo apdaro tankiai patys antsimovė baltą trinytinį maišą su rankovėmis."

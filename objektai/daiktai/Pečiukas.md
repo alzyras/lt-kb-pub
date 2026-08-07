@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-195328"></a>
 - t-001
   teiginys: "Akmenų krosnelė, kūrenama šviesai klojime."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"

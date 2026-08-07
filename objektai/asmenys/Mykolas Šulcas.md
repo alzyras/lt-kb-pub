@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cff1423ebd5afb380b2d6303"
+canonical_name: "Mykolas Šulcas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Šulcas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą. Narbutas nurodo, kad apie pilkapiuose randamus indelius, papuošalus ir akmenukus jam pasakojo Vilniaus universiteto profesorius Mykolas Šulcas. Mykolas Šulcas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
 ---
 # Mykolas Šulcas
 
@@ -108,7 +115,8 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
 - id: c-172937
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
   citata_originali: |
     Pats pavadinimas, iš­
     reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
@@ -128,7 +136,8 @@ Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį,
 - id: c-172938
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 374"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
   citata_originali: |
     Statinio viduje paprastai stovi maži mo­
     liniai indeliai (ašarinės arba buteliukai gėrimui), o su jais bū­

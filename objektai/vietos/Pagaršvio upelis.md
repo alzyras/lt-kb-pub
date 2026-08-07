@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-18c8dfd5b20185421c06bd59"
+canonical_name: "Pagaršvio upelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pagaršvio upelis"]
+sameAs: []
+canonical_biography: "Ašmintos km. Pagaršvio upelio šlaite MGB grupė apsupo partizanų bunkerį, kuriame slėpėsi 7 Birutės ir Geležinio Vilko rinktinės partizanai."
+place_authority: true
+historical_names: []
 ---
 # Pagaršvio upelis
 
@@ -59,7 +68,8 @@ Ašmintos km. Pagaršvio upelio šlaite MGB grupė apsupo partizanų bunkerį, k
 - id: c-40325
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     Staliorių, Rugienių
 

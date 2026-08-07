@@ -38,6 +38,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d679fe5a09120815d969ac7c"
+canonical_name: "Angerburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Angerburgas"]
+sameAs: []
+canonical_biography: "Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.."
+place_authority: true
+historical_names: []
 ---
 # Angerburgas
 
@@ -71,7 +80,8 @@ media_all_json: |-
 - id: c-02574
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 615"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 615."
   citata_originali: |
     Tarp toliausiai į rytus įsiterpusių ir vakarinių pilių tinklo,
     matome, yra tuščias plotas. Be to, ir čia parodytos kai kurios pilys buvo

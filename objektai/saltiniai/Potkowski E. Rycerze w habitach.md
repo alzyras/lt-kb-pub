@@ -58,7 +58,8 @@ Dusburgietis teigia, kad potkowski E.
 - id: c-61869
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Potkowski E. Rycerze w habitach.— Warszawa, 1974.
   citata_rodoma: "Potkowski E. Rycerze w habitach.— Warszawa, 1974."

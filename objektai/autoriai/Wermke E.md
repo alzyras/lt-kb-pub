@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f6ad27d19cbcca93548e2aac"
+canonical_name: "Wermke E"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Wermke E"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad wermke E."
 ---
 # Wermke E
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad wermke E.
 - id: c-63394
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 276."
   citata_originali: |
     Wermke E. Bibliographie der Geschichte von Ost- und West-preussen bis 1929— 1962
     (Königsberg, 1933); 1930—1938, Aalen, 1964; 1939—1970, Bonn, 1974.

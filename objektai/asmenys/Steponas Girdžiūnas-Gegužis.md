@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5f3286e3467ee294ada80acc"
+canonical_name: "Steponas Girdžiūnas-Gegužis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Steponas Girdžiūnas-Gegužis"]
+sameAs: []
+canonical_biography: "GirdžiūnuiGegužiui ir kitiems LLA organizatoriams pavyko sukurti Žaliosios girios Panevėžio apylinkių partizanai 5 a 4 jokias j oe — > ž + 4 © my i 7 & # 4 (Panevėžio) rinktinę. Steponas Girdžiūnas-Geguzis, pavaduotojas ir štabo viršininkas — ltn."
 ---
 # Steponas Girdžiūnas-Gegužis
 
@@ -53,7 +60,8 @@ GirdžiūnuiGegužiui ir kitiems LLA organizatoriams pavyko sukurti Žaliosios g
 - id: c-42246
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 223."
   citata_originali: |
     1945 m. vasario mėn. buvo įkurta 3-ioji
     Šiaurės LLA apygarda. Pirmasis apygardos

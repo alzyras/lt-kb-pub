@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-62742"></a>
 - t-001
   teiginys: "Grįždami nuo Junigedos, broliai įsiveržė į Aukaimio pilies apylinkes, jas nuniokojo, paėmė belaisvių ir parsivedė didelį grobį."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Aukaimis: 0.85"
@@ -67,7 +67,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63517
-    - c-63518
 
 <a id="claim-t-62743"></a>
 - t-002
@@ -148,7 +147,8 @@ Nenurodyta
 - id: c-63517
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Po to broliai,
     pasitraukę su kariuomene, kurį laiką ilsėjosi vienoje vietoje; ilgokai ten taręsi, galop visi
@@ -171,7 +171,8 @@ Nenurodyta
 - id: c-63518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis
     Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių  ir tūkstančiu penkiais
@@ -189,7 +190,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
     - t-003
     - t-004

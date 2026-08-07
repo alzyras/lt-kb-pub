@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f4dcf29878052ff4311f7f19"
+canonical_name: "Pranciškus Ferdinandas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pranciškus Ferdinandas"]
+sameAs: []
+canonical_biography: "N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriaudėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vokietijos ir."
 ---
 # Pranciškus Ferdinandas
 
@@ -61,7 +68,8 @@ N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m
 - id: c-21945
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 130."
   citata_originali: |
     KOVA DĖL NEPRIKLAUSOMYBĖS
     Lietuvos planai: nuo autonomijos

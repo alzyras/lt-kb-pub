@@ -59,7 +59,8 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 319."
   citata_originali: |
     14. J. Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. 575 pusl.
     Kaina buvo 15 litų, o dabar tik 10 litu.
@@ -75,7 +76,8 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 319."
   citata_originali: |
     Pats žodžiu vertimas padarytas gana atsargiai. Autoriaus su­
     naudota žodžiams aiškinti daugybė lietuvišku raštų (Širvydo, Kur­

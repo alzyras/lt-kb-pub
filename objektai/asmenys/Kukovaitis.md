@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c619e44b03e0c0a5784c7f40"
+canonical_name: "Kukovaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kukovaitis"]
+sameAs: []
+canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui. Narbutas pasakojo, kad kunigaikštis Kukovaitis prie Žaslių ežero pastatė stabą motinai, po mirties pripažintai deive. Narbutas Kukovaitį vadino sudvejintu lietuvių kunigaikščiu, Živinbudo II sūnumi, valdžiusiu Užnerio Lietuvoje ir mirusiu 1221 metais."
 ---
 # Kukovaitis
 
@@ -59,21 +66,8 @@ media_all_json: |-
   pagrindžia:
     - c-169494
 
-<a id="claim-t-188571"></a>
-- t-002
-  teiginys: "Narbutas pasakojo, kad kunigaikštis Kukovaitis prie Žaslių ežero pastatė stabą motinai, po mirties pripažintai deive."
-  atnaujinta: "2026-07-24 14:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171461
-
 <a id="claim-t-188572"></a>
-- t-003
+- t-002
   teiginys: "Narbutas Kukovaitį vadino sudvejintu lietuvių kunigaikščiu, Živinbudo II sūnumi, valdžiusiu Užnerio Lietuvoje ir mirusiu 1221 metais."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -93,7 +87,7 @@ media_all_json: |-
     - c-171461
 
 <a id="claim-t-193943"></a>
-- t-004
+- t-003
   teiginys: "Lietuvos metraštis pasakoja, kad Kukovaitis Pajautos atminimui pastatė jos išvaizdos stabą prie Žaslių ežero."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -106,7 +100,7 @@ media_all_json: |-
     - c-176568
 
 <a id="claim-t-196529"></a>
-- t-005
+- t-004
   teiginys: "Kojelavičius vaizduoja Kukovaitį prieš mirtį perdavus valdžią sūnui, kai jį atgaivino žinia apie priešo įveikimą ir sūnaus pergalę."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -119,7 +113,7 @@ media_all_json: |-
     - c-169494
 
 <a id="claim-t-196843"></a>
-- t-006
+- t-005
   teiginys: "Lietuvos metraštis pasakoja, kad Kukovaitis, mylėdamas motiną Pajautą, pastatė jos vardo stabą prie Žaslių ežero."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -132,7 +126,7 @@ media_all_json: |-
     - c-176568
 
 <a id="claim-t-197419"></a>
-- t-007
+- t-006
   teiginys: "Kukovaitis yra ant gana aukšto kalno, matomas toli iš jūros."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -192,7 +186,8 @@ media_all_json: |-
 - id: c-169494
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 83."
   citata_originali: |
     Prie Jaseldos upės
     abi šalys stojo į įnirtingą mūšį, Mstislavas, sumuš­
@@ -225,12 +220,13 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
+    - t-004
 
 - id: c-171460
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
     tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
@@ -249,12 +245,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-171461
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 222."
   citata_originali: |
     Apie tai dar bus mūsų is­
     torijos tęsinyje.
@@ -275,12 +272,12 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
 
 - id: c-176568
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
   citata_originali: |
     Ir didysis kunigaikštis Kukovaitis, mylėdamas
     savo motiną, jos atminimui pagerbti pagal jos išvaizdą
@@ -295,8 +292,8 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-006
+    - t-003
+    - t-005
 
 ## Ryšiai
 - Kukovaitis rėmė [[objektai/asmenys/Skirmantas]]

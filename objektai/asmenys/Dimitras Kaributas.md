@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a8e5856312eccd25d387625"
+canonical_name: "Dimitras Kaributas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dimitras Kaributas"]
+sameAs: []
+canonical_biography: "Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti Briansko ir Severijos (Naugardo Seversko ir Černigovo) kunigaikštijas, nes ten buvo ką tik miręs (1404) Kaributas (Dimitras) Algirdaitis."
 ---
 # Dimitras Kaributas
 
@@ -199,7 +206,8 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 301."
   citata_originali: |
     Bet Vytautas su jais nedarė ilgų ce­
     remonijų. Pritariamas Jogailos, jis pirmiausia atėmė valdomą
@@ -223,7 +231,8 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 - id: c-168052
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 283."
   citata_originali: |
     Po šios per­
     to karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir
@@ -252,7 +261,8 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 - id: c-168053
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 337"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 337."
   citata_originali: |
     Vytautas nutarė pirmiausia
     ištirti jų nuotaikas, todėl pasiuntė žygūnus, turėjusius
@@ -283,7 +293,8 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 - id: c-178690
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 340."
   citata_originali: |
     Liepsnos ir priešo puolami gy­
     nėjai, grūmęsi su dvigubu pavojumi, nieko nepajėgė pa­

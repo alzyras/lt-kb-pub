@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eb4a7b95aadec5c496ab6339"
+canonical_name: "Šešuolės miškas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šešuolės miškas"]
+sameAs: []
+canonical_biography: "Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios eina nuo Širvintos upės iki pat Šventosios ir yra juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės, kur prieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į."
+place_authority: true
+historical_names: []
 ---
 # Šešuolės miškas
 
@@ -50,7 +59,8 @@ Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios
 - id: c-82254
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 259."
   citata_originali: |
     Tada jie, tai atlikę, kaip reikėjo, rūpestingai ir kruopščiai,
     visa, ką iš prisiekusių liudininkų apie šios bažnyčios įkūri­

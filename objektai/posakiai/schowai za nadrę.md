@@ -32,7 +32,8 @@ Nadra aiškinama kaip vieta už drabužio ligi juostos, o ši frazė pateikiama 
 - id: c-175007
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
   citata_originali: |
     Nadra lenkiškai reiškia antį, vietą už drabužio ligi juostos.
     Dažnai sakoma: „schowai za nadrę“, t. y. paslėpė į antį.

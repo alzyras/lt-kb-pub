@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e1224bdc803323c12d8f5b0f"
+canonical_name: "Vaikiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vaikiai"]
+sameAs: []
+canonical_biography: "Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastatais per vieną naktį buvo sudeginta. Vieno žygio į Vaikių valsčių metu iš pasalų buvo nukauta daug kilmingųjų. 1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių."
+place_authority: true
+historical_names: []
 ---
 # Vaikiai
 
@@ -124,7 +133,8 @@ Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastat
 - id: c-81109
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 82."
   citata_originali: |
     Belaisvių ėmimas, krašto niokojimas bei
     plėšikavimas, kaip ir per ankstesnius puolimus, buvo vie­
@@ -144,7 +154,8 @@ Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastat
 - id: c-167595
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
     tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė į valsčių, vardu Vaikiai545, kur
@@ -161,7 +172,8 @@ Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastat
 - id: c-167596
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212-213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212-213."
   citata_originali: |
     Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
                                     kariuomenę
@@ -187,7 +199,8 @@ Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastat
 - id: c-168531
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 205."
   citata_originali: |
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
     nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,

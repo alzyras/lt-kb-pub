@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87c2f231bfff32e661e6113e"
+canonical_name: "Kazimiera Prunskienė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimiera Prunskienė"]
+sameAs: []
+canonical_biography: "Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi. Promaskviniai būriai turėjo įsiveržti į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskirties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas) ir."
 ---
 # Kazimiera Prunskienė
 
@@ -40,7 +47,7 @@ media_all_json: |-
 <a id="claim-t-19050"></a>
 - t-001
   teiginys: "Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -68,7 +75,7 @@ media_all_json: |-
 <a id="claim-t-183547"></a>
 - t-003
   teiginys: "1991 m. sausį promaskviniai būriai pasinaudojo Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas, siekdami nuversti teisėtą Lietuvos valdžią."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -86,7 +93,8 @@ media_all_json: |-
 - id: c-21809
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 235."
   citata_originali: |
     Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
@@ -105,7 +113,8 @@ media_all_json: |-
 - id: c-21810
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 243."
   citata_originali: |
     Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
     vuočiai. Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus
@@ -125,7 +134,8 @@ media_all_json: |-
 - id: c-166939
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 235."
   citata_originali: |
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
     ekonomikai. Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazi-

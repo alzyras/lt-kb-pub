@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-08979d4597561c4871c99867"
+canonical_name: "Miuleris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Miuleris"]
+sameAs: []
+canonical_biography: "Miulerio vadovaujama kolona įsiveržė į centrinę Aušros vartų gatvę."
 ---
 # Miuleris
 
@@ -50,7 +57,8 @@ Miulerio vadovaujama kolona įsiveržė į centrinę Aušros vartų gatvę.
 - id: c-41591
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 152."
   citata_originali: |
     Tuo metu kritinė situacija susidarė ties
     Aušros vartais. Plk. Miulerio vadovaujama

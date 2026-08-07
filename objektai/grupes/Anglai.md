@@ -182,7 +182,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - id: c-10105
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 318"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 318."
   citata_originali: |
     Ant galų galo, nebgalėdami nė nuo ko geležies gauti, nemintą metuose 1340 Kęstučiui, didžiajam Lietuvos kunigaikščiui, ūkę valdant, išleido
         siuntinius^1432 į Anglijos žemę, kurie tenai su anglais padarė sandarą^1433 , kurioje sutarė, jog lietuviai,
@@ -199,7 +200,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - id: c-10106
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 334"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 334."
   citata_originali: |
     Atentį metą anglai buvo įkūrę tenai prekės draugybą^1512.
   statusas: verified
@@ -211,7 +213,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - id: c-156493
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139."
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
     čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
@@ -230,7 +233,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - id: c-156494
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 146-147"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 146-147."
   citata_originali: |
     Anglija, Škotija ir Prancūzija gerokai papildė sa-
     duodama 12 pūdų vaško: duodecem
@@ -291,7 +295,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - id: c-156496
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139-140"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139-140."
   citata_originali: |
     Vis dėlto visi
     pasistengta rasti kelis išdavikus, ku- kryžiuočių raštai ir jų kronikininkų
@@ -325,7 +330,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - id: c-156497
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135-136"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135-136."
   citata_originali: |
     Tūkstančiui rinktinių anglų
     21
@@ -380,7 +386,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - id: c-156499
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135."
   citata_originali: |
     Vytauto rūpesčiu žemaičiai Karaliaučiuje
     sudarė sutartį su Ordinu, taigi Vytauto galia vėl sustiprėjo,

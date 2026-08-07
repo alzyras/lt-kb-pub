@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83844e3a05b1cd81efff8136"
+canonical_name: "Šiaurės miestelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šiaurės miestelis"]
+sameAs: []
+canonical_biography: "Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti Šiaurės miestelį."
+place_authority: true
+historical_names: []
 ---
 # Šiaurės miestelis
 
@@ -48,7 +57,8 @@ Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti 
 - id: c-176445
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 264."
   citata_originali: |
     Antroji gynėjų grupė
     toje sumaištyje turėjo prasiskverbti pro sovietų apsupimo žiedą ir, sovietams pajudė-

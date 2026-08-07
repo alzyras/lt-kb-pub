@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fd8d8d49febadbfd579a6bf5"
+canonical_name: "Ostermejeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ostermejeris"]
+sameAs: []
+canonical_biography: "Ostermejeris pavadinimą aiškino kildindamas jį iš „Cwalgiti“, reiškiančio gerai įsižiūrėti arba deramai ištirti."
 ---
 # Ostermejeris
 
@@ -46,7 +53,8 @@ Ostermejeris pavadinimą aiškino kildindamas jį iš „Cwalgiti“, reiškian�
 - id: c-173077
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 297."
   citata_originali: |
     Jų pavadinimas kilęs iš žodžioSwalgajt, kuris senovės prū­
     sų kalba reiškė tuoktis. Anot kitų, tas pavadinimas kilęs išCwal-

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-73077a5305a8fbf4a49c8803"
+canonical_name: "Nemėžis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nemėžis"]
+sameAs: []
+canonical_biography: "Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs šaunus pergalingas karys Vytautas; be jų pa­ grindinės gyvenvietės prie Vokės upės, be tų, kurie įsikūrė mieste ir kurie apsigyveno vietovėje, vadinto­ je Nemėžiu, per mylią nuo Vilniaus į. Ją sutiko pats Aleksandras per pusę mylios nuo miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­ tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­ bėjo."
+place_authority: true
+historical_names: []
 ---
 # Nemėžis
 
@@ -81,7 +90,8 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
 - id: c-82069
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 160."
   citata_originali: |
     Gana grėsmingai įsiliepsnojo pirmieji nesuta­
     rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos
@@ -121,7 +131,8 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
 - id: c-82070
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 246."
   citata_originali: |
     O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­
     terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­

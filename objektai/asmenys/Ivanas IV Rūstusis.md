@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9520242ef8dc0144ed3cbab9"
+canonical_name: "Ivanas IV Rūstusis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas IV Rūstusis"]
+sameAs: []
+canonical_biography: "1558 m. Ivanas IV Rūstusis užpuolė Livoniją ir užėmė dalį jos žemių, 1559 m. rusai siaubė gilesnes Livonijos sritis. pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusių Riurikaičių dinastija ir šią šalį ištiko gili krizė."
 ---
 # Ivanas IV Rūstusis
 
@@ -64,7 +71,8 @@ media_all_json: |-
 - id: c-44353
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 120."
   citata_originali: |
     Proga atsiimti Smolenską atsirado
     XVII a. pradžioje, kai mirus abiems Iva-

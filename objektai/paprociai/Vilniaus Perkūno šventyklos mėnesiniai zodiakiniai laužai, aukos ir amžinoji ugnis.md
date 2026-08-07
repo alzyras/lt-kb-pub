@@ -63,7 +63,8 @@ Nenurodyta
 - id: c-177221
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 270."
   citata_originali: |
     Kiekvienas laiptas buvo skirtas kuriam nors vienam
     Zodiako ženklui; kas mėnesį, tą dieną, kai saulė kildama ar

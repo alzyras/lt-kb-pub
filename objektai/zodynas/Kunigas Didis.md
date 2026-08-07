@@ -47,7 +47,8 @@ Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis
 - id: c-172192
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 251."
   citata_originali: |
     Tik jos radimas šalia vieti­
     nės primena, kad iki Mindaugo laikų, arba iki XIII amžiaus

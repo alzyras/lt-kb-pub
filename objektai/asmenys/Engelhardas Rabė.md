@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-516b446d37e815c094c2745f"
+canonical_name: "Engelhardas Rabė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Engelhardas Rabė"]
+sameAs: []
+canonical_biography: "Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie kurią užsimena F o i gt a s, V, 507, sudarytoje ties Kaunu 1388 metais, Scriptum prope Cowno in crastino b. Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino maršalo Engelhardo Rabės22, kadangi didysis magistras Konradas Ciolneris gu­ lėjo pakirstas sunkios ligos."
 ---
 # Engelhardas Rabė
 
@@ -103,7 +110,8 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
 - id: c-167790
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131."
   citata_originali: |
     Tik taikos sutartyje tarp Ordi­
     no maršalo Engelhardo Rabės ir
@@ -131,7 +139,8 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
 - id: c-167791
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 313."
   citata_originali: |
     Vytauto lydimi kryžiuočiai darė vieną po kito didelius žygius,
     kuriuose dalyvavo tūkstantiniai būriai. Veiklus ordino maršalas
@@ -150,7 +159,8 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
 - id: c-167792
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135."
   citata_originali: |
     Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
     vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar

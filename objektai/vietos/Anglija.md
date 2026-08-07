@@ -36,6 +36,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4bdc4985f51240825769f826"
+canonical_name: "Anglija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Anglija"]
+sameAs: []
+canonical_biography: "Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amerika (VII.28); Anglija, Prancūzija, Italija ir Japonija pripažino tiktai 1922 metų gruodžio 20 dieną, pateikusios sąlygą, kad Lietuva pripažintų Versalio sutarties nuostatus, liečiančius."
+place_authority: true
+historical_names: []
 ---
 # Anglija
 
@@ -192,7 +201,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 - id: c-24045
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 81."
   citata_originali: |
     fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-
     kymo principus ir didelius reikalavimus, intensyvaus mokymo sistemą, o
@@ -218,7 +228,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 - id: c-103081
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 150-151"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 150-151."
   citata_originali: |
     visų prekybos
     įmonių savininkų, lietuviai – vos 13 proc.
@@ -240,7 +251,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 - id: c-103082
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 88."
   citata_originali: |
     Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
     po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
@@ -262,7 +274,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 - id: c-103083
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     Viena priežasčių, dėl kurių Ispanija
     ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų
@@ -281,7 +294,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 - id: c-103084
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135-136"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135-136."
   citata_originali: |
     Miechovita, Strijkovskis
     ir K o j e 1 a v i č i u s klysta sakyda­
@@ -323,7 +337,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 - id: c-103085
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135."
   citata_originali: |
     Vytauto rūpesčiu žemaičiai Karaliaučiuje
     sudarė sutartį su Ordinu, taigi Vytauto galia vėl sustiprėjo,

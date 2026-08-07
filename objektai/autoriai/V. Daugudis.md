@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e3d05407192ded24dfc5feb"
+canonical_name: "V. Daugudis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Daugudis"]
+sameAs: []
+canonical_biography: "Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t."
 ---
 # V. Daugudis
 
@@ -79,7 +86,8 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
 - id: c-33166
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 112."
   citata_originali: |
     _Brūkšniuotosios keramikos išnykimo Lietuvoje klausimu_ , AkMD, t. 23,
     1967, 35-50 p. — Daugudis, V. : _Kai kurie duomenys apie grublėtosios
@@ -98,7 +106,8 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
 - id: c-33167
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 119."
   citata_originali: |
     Bd. I, Riga 1931
     (referatų rinkinys). — Danilaitė, E. : _Archeologiniai tyrinėjimai Kiau­

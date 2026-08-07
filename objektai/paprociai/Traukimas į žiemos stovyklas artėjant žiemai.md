@@ -47,7 +47,8 @@ Nenurodyta
 - id: c-169258
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 605"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 605."
   citata_originali: |
     Aukščiausiasis parė­
     mė šį sumanymą: maskvėnus pavyko porą kartų su­

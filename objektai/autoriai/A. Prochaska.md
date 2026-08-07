@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-193642a90102c6628a48de65"
+canonical_name: "A. Prochaska"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Prochaska"]
+sameAs: []
+canonical_biography: "A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Jogailos bei Vytauto monografijas. A. Prochaska parašė „Stosunki krzyżaków z Gediminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“. A. Prochaska parašė darbą „O prawdziwości listów Gedymina“, publikuotą 1893 m."
 ---
 # A. Prochaska
 
@@ -136,7 +143,8 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
 - id: c-30421
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 91."
   citata_originali: |
     Taip pat tik I tomas tebuvo išspausdintas ver­
     tingo veikalo apie Jogailaičius ir Maskvą. Jo autorius H. Paszki­
@@ -159,7 +167,8 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
 - id: c-50241
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 90-91"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 90-91."
   citata_originali: |
     Essai de synthese
     historique,_** **Paris 1933 ;** **_Histoire de Pologne_** **, New York 1945 ;** **_From the Union
@@ -186,7 +195,8 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
 - id: c-50242
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 238."
   citata_originali: |
     1908. — (”) _Pilkalnis na Litwie,_ Studja Staropolskie, księga ku czci
     Aleksandra Brucknera, Kraków 1928, 154-172 p. — Kučinskas, A. :
@@ -207,7 +217,8 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
 - id: c-50244
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 234."
   citata_originali: |
     Kadangi dėl tų laiškų autentiškumo ginčas tebesitęsia nuo pat
     jų atsiradimo iki šiol, yra susidariusi gausi literatūra. Daugumoje

@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9393627ab40c4f8e18dfdf90"
+canonical_name: "Andriejus Gostas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andriejus Gostas"]
+sameAs: []
+canonical_biography: "Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karvedžiui Lie tuvos atmonyti."
 ---
 # Andriejus Gostas
 
@@ -41,9 +48,9 @@ Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karv
 ## Citatos
 
 - id: c-184756
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 556"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 556."
   citata_originali: |
     Tenai belėbaujant lie­
     tuviams, du vyresniuoju susivaržė didžiai gražia

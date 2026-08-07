@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-33384
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 223."
   citata_originali: |
     1291 buvo pulta,
     Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315

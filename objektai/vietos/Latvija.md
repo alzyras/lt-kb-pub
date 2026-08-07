@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ff0cccae2d958a3058366a0"
+canonical_name: "Latvija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Latvija"]
+sameAs: []
+canonical_biography: "26 d. ties Kuršėnais iš Latvijos perėjo į Lietuvos teritoriją stipri jungtinė vo. Iš 8-tos ir 10-tos vokiečių armijų likučių Latvijoje buvo sudaryta tam reikalui speciali ka."
+place_authority: true
+historical_names: []
 ---
 # Latvija
 
@@ -43,7 +52,7 @@ media_all_json: |-
 <a id="claim-t-181427"></a>
 - t-001
   teiginys: "Lemiamų kovų su bolševikais metu Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -174,7 +183,8 @@ media_all_json: |-
 - id: c-43566
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 193."
   citata_originali: |
     ORiebiniai
 
@@ -192,7 +202,8 @@ media_all_json: |-
 - id: c-164981
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 149."
   citata_originali: |
     Vilniaus problema, įtempti santykiai su Lenkija iš dalies lėmė ir Lietu-
     vos demokratijos lygį – šalyje buvo karo padėtis, dėl to vykdyta spaudos
@@ -217,7 +228,8 @@ media_all_json: |-
 - id: c-164982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     Kairės demokratija ir
     1926 metų gruodžio perversmas
@@ -238,7 +250,8 @@ media_all_json: |-
 - id: c-164983
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 249."
   citata_originali: |
     Keliais, autostrada, geležinkeliais, galų
     gale žmonėmis į Lietuvą integruoti Klaipėdos kraštas ir Vilnius. Unitari-
@@ -260,7 +273,8 @@ media_all_json: |-
 - id: c-171620
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
   citata_originali: |
     Iš Marienburgo, Karaliaučiaus, Revelio senienų
     aiškėja, kad lietuvių karo vėliavose paprastai būdavo pavaiz­
@@ -279,7 +293,8 @@ media_all_json: |-
 - id: c-171621
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
   citata_originali: |
     Šios deivės yra tikra antikinių hamadriadžių kopija.
     Prietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,
@@ -300,7 +315,8 @@ media_all_json: |-
 - id: c-177130
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
   citata_originali: |
     Be to, mano pa­
     ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
@@ -322,7 +338,8 @@ media_all_json: |-
 - id: c-177131
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 183."
   citata_originali: |
     Juodas (Johds)
     Laukų arba miškų velnias, tam tikra dvasių gąsdintojų rū­

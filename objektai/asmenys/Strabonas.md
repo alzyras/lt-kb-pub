@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-25a79770681cb23930edeb0a"
+canonical_name: "Strabonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Strabonas"]
+sameAs: []
+canonical_biography: "Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnams dar buvo visiškai nežinomas. Narbutas mini spėjimą, kad Strabonas, kaip šališkas Pitėjo aiškintojas, daug ką jam priskyrė svetimo. Narbutas nurodo Straboną tarp autorių, kurie kalbėjo apie vandens lygio kritimą ir pateikė akivaizdžių įrodymų."
 ---
 # Strabonas
 
@@ -146,7 +153,8 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
 - id: c-174003
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 163."
   citata_originali: |
     Iš
     to Bazilija, arba šiandienė Semba, buvo vaizduojama čia
@@ -168,7 +176,8 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
 - id: c-174004
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
@@ -191,7 +200,8 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
 - id: c-174005
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
@@ -222,7 +232,8 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
 - id: c-179352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Fosas teigia, jog jis pasiekė tik Reiną ar
     toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­

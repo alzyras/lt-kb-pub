@@ -36,6 +36,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7a1f5e9fb6efda19474aeb96"
+canonical_name: "Mazovija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mazovija"]
+sameAs: []
+canonical_biography: "Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje duotame laiške skelbta, kad per Mazovijos kunigaikščio Boleslavo valdas galima saugiai atvykti į Lietuvą. Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, kaimyninė Mazovija ir artimos apylinkės."
+place_authority: true
+historical_names: []
 ---
 # Mazovija
 
@@ -48,15 +57,22 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
 <a id="claim-t-182832"></a>
 - t-001
   teiginys: "Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kristijonas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mazovija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kristijonas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mazovija\" parinktas kaip owner_note_path. Targetas \"Kristijonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: po 1222 m.; įvykio data: 1222 m."
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-167567
+    - c-166238
 
 <a id="claim-t-183862"></a>
 - t-002
@@ -299,7 +315,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
 - id: c-166238
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
   citata_originali: |
     Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino
     XIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame
@@ -307,14 +324,17 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   citata_rodoma: "Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino\nXIII a. 3—4 dešimtmečiais vyskupo Kristijono misijos bei kryžiuočių įkurdinimo šiame\nregione metu. Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-167247
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 77."
   citata_originali: |
     Šio antspaudo niekintojus šiuo savo laišku pasmerkiame
     kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios
@@ -334,7 +354,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
 - id: c-167248
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 85."
   citata_originali: |
     Tokios
     didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
@@ -357,7 +378,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
 - id: c-167249
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 113."
   citata_originali: |
     Pagaliau kodėl Ge­
     diminas būtų slėpęs tą priežastį nuo legatų, ypač jei ji būtų
@@ -380,7 +402,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
 - id: c-167567
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
   citata_originali: |
     „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio
     Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,
@@ -392,13 +415,13 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-005
 
 - id: c-167568
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     2. Prūsijos žemės aprašymas
 
@@ -418,7 +441,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
 - id: c-168404
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 248."
   citata_originali: |
     Tais pačiais metais
     Kazimieras,
@@ -460,7 +484,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
 - id: c-168405
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 275."
   citata_originali: |
     Prūsijos; atgavęs Gardino, Volkovysko bei Bresto val­
     das, užleistas jam pagal susitarimą Jogailos, jis vėl
@@ -496,7 +521,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
 - id: c-178863
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 157."
   citata_originali: |
     Žinoma, visada
     pavojinga telktis priešą į pa­
@@ -528,7 +554,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
 - id: c-178864
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 196-197"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 196-197."
   citata_originali: |
     Visi kryžiuočiai su vadu Henriku fon Ploc-
     ke, Prūsijos maršalu, buvo šioje tankmėje arba su­
@@ -563,7 +590,8 @@ Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje
 - id: c-179386
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 171."
   citata_originali: |
     Ten juos
     pažino Divonis; juos valdė kažkoks Mazovijos slavų ka­

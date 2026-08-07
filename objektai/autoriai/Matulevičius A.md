@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-121011fbd49553fa1e549b87"
+canonical_name: "Matulevičius A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Matulevičius A"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad matulevičius A."
 ---
 # Matulevičius A
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad matulevičius A.
 - id: c-63372
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Matulevičius A. Dėl lietuvių Prūsijoje etninės ribos XVIII a. pradžioje.—LMAD, 1972,
     t. 1 (38), p. 103—119.

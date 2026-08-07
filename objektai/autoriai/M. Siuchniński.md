@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-18fc60d352f51e013c29d8c1"
+canonical_name: "M. Siuchniński"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Siuchniński"]
+sameAs: []
+canonical_biography: "Siuchniński."
 ---
 # M. Siuchniński
 
@@ -43,7 +50,8 @@ Siuchniński.
 - id: c-22161
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Vilnius, 2009; Grunwald: 550 lat chwały. Oprac. J. S. Kopczewski,
     M.  Siuchniński.

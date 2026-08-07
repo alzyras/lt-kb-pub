@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2c3785e203c1a6a5a115def"
+canonical_name: "Pollakówna M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Pollakówna M"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pollakówna M."
 ---
 # Pollakówna M
 
@@ -40,7 +47,8 @@ Dusburgietis teigia, kad pollakówna M.
 - id: c-63381
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.
     78—79.
@@ -54,7 +62,8 @@ Dusburgietis teigia, kad pollakówna M.
 - id: c-63382
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Pollakówna M. Zanik ludności pruskiej.— Pomorze średniowieczne/Pod red. G. Labudy,
     Warszawa, 1958, s. 160—207.

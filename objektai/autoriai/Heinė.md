@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b415e7e2a705c6a1ef78fee8"
+canonical_name: "Heinė (poetas)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Heinė","Heinė (poetas)"]
+sameAs: []
+canonical_biography: "Heinė, remdamasis Homero eilėmis, aiškino, kad poetas tiesiogiai vaizdavo graikams Trojos karo metu žinomą žmogėdrystę."
 ---
 # Heinė (poetas)
 
@@ -54,7 +61,8 @@ Heinė, remdamasis Homero eilėmis, aiškino, kad poetas tiesiogiai vaizdavo gra
 - id: c-173308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 314."
   citata_originali: |
     Ši auka turi labai žilos senovės bruožų - dar iš tų
     barbarybės laikų, kai nugalėtojai surydavo karo belaisvius. Hei-

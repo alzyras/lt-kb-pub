@@ -27,19 +27,26 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0ff5c7a0fa9348afbca4f906"
+canonical_name: "Antanas Tadas Pšezdeckis (LDK referendorius, XVIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Tadas Pšezdeckis","Antanas Tadas Pšezdeckis (LDK referendorius, XVIII a.)","Antoni Tadeusz Przezdiecki"]
+sameAs: []
+canonical_biography: "Antanas Tadas Pšezdeckis buvo LDK referendorius. Antanas Tadas Pšezdeckis Veikė seimelių politikos aplinkoje."
 ---
 # Antanas Tadas Pšezdeckis (LDK referendorius, XVIII a.)
 
 ## Santrauka
 
-Antanas Tadas Pšezdeckis buvo LDK referendorius. 1756 m. J. D. Lopacinskio parama Smolensko pateisėjininkaičiui buvo nenaudinga jo draugystei su Antanu Tadu Pšezdeckiu.
+Antanas Tadas Pšezdeckis buvo LDK referendorius. Antanas Tadas Pšezdeckis Veikė seimelių politikos aplinkoje.
 
 ## Teiginiai
 
 <a id="claim-t-200483"></a>
 - t-001
   teiginys: "Antanas Tadas Pšezdeckis buvo LDK referendorius."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Sapiegos: 0.83"
@@ -55,8 +62,8 @@ Antanas Tadas Pšezdeckis buvo LDK referendorius. 1756 m. J. D. Lopacinskio para
 
 <a id="claim-t-200484"></a>
 - t-002
-  teiginys: "1756 m. J. D. Lopacinskio parama Smolensko pateisėjininkaičiui buvo nenaudinga jo draugystei su Antanu Tadu Pšezdeckiu."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "1756 m. J. D. Lopacinskis teigė, kad Smolensko pateisėjinaičio rėmimas buvo nenaudingas jo draugystei su LDK referendoriumi Antanu Tadu Pšezdeckiu."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Sapiegos: 0.83"
@@ -69,8 +76,8 @@ Antanas Tadas Pšezdeckis buvo LDK referendorius. 1756 m. J. D. Lopacinskio para
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1756 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Neapibrėžta seimelių aplinka pakeista konkrečiu citatos ryšiu su Starodubo seimeliu. Nepridėta platesnės politinės veiklos."
-  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
+  temporalinis_llm_pakomentavimas: "Patikslintas vertinamo teiginio subjektas ir išlaikyta J. D. Lopacinskio atribucija. Nepridėta kitų politinių ar motyvaciją aiškinančių faktų."
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
   pagrindžia:
     - c-183853
 
@@ -83,7 +90,7 @@ Antanas Tadas Pšezdeckis buvo LDK referendorius. 1756 m. J. D. Lopacinskio para
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 03:26"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
     - t-002

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9289f8311dbe9e334d9ef1cc"
+canonical_name: "Upytės žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Upytės žemė"]
+sameAs: []
+canonical_biography: "1363 m. pradžioje buvo siaubiama Upytės žemė Nevėžio aukštupyje ir gretimos apylinkės."
+place_authority: true
+historical_names: []
 ---
 # Upytės žemė
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-45382
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 44."
   citata_originali: |
     Padėtį komplikavo
     ir Livonijos ordino puolimai iš šiaurės.

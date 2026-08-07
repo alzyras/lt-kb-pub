@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a1253dde5015e44a1d61dfe8"
+canonical_name: "Josephi Mariae Fonseca ab Ebora"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Josephi Mariae Fonseca ab Ebora"]
+sameAs: []
+canonical_biography: "opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc."
 ---
 # Josephi Mariae Fonseca ab Ebora
 
@@ -55,7 +62,8 @@ opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc.
 - id: c-84049
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 44."
   citata_originali: |
     Žr.
     Annales Minorum seu trium ordinum

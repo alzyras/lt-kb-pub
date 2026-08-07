@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-27a8b041cc54dc64d9d4e2bf"
+canonical_name: "Popiežius Honorijus III"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Popiežius Honorijus III"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė, tvirtindamas, kad jam nieku būdu nedera."
 ---
 # Popiežius Honorijus III
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fr
 - id: c-61048
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Kartą, kai popiežius Honorijus III
     ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-db5d2aa77b6c6dd1c22bdc26"
+canonical_name: "Kerimberdėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kerimberdėjus"]
+sameAs: []
+canonical_biography: "Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­ tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo paklusti Lietuvos valdovui, ir Vytautas didžiosios. Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su sa­ vo varžovu Kerimberdėjumi, kuris, savo ruožtu, irgi buvo užmuštas brolio Geremferdeno, tad reikėjo inauguruoti Vil­ niuje naują chaną."
 ---
 # Kerimberdėjus
 
@@ -80,7 +87,8 @@ Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Viln
 - id: c-83512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166."
   citata_originali: |
     Tačiau Vilniaus vyskupas Petras tam
     prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
@@ -114,7 +122,8 @@ Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Viln
 - id: c-83513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166-167"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166-167."
   citata_originali: |
     150
 

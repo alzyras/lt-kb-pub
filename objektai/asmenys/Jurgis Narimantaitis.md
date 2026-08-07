@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1f30c2bc3933be5ec9e31314"
+canonical_name: "Jurgis Narimantaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Narimantaitis"]
+sameAs: []
+canonical_biography: "Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos karalius Kazimieras paliko visą Belzo kunigaikštystę Jurgiui Narimantaičiui. Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje, kai Liubartas valdė Lvovą, o Kęstutis kitas Rusios žemes."
 ---
 # Jurgis Narimantaitis
 
@@ -110,7 +117,8 @@ Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos kar
 - id: c-169479
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 229."
   citata_originali: |
     Tei­
     sėtas tų žemių paveldėtojas buvo Kazimieras, Lenkijos
@@ -135,7 +143,8 @@ Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos kar
 - id: c-169480
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 248."
   citata_originali: |
     Kęstutis mė­
     gino sutrukdyti, tačiau, du

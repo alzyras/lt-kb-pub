@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-172522
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 64."
   citata_originali: |
     Taip T. Narbuto parankiniame LTI
     egzemplioriuje, visose devyniose dalyse, atsirado daugybė pa­
@@ -121,7 +122,8 @@ Nenurodyta
 - id: c-172523
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 71."
   citata_originali: |
     T. Volianskio dėka senoji Lietu­
     vos istorija nušvito naujomis spalvomis. Poznanės kolekcio­

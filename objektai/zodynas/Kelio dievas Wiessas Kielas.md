@@ -70,7 +70,8 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
 - id: c-172041
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 165."
   citata_originali: |
     Antikos žmonės garbino Jupiterį, vadinamą svetinguoju,
     hospitalis, taip pat svetingąją Minervą. Jie turėjo panašaus pa­

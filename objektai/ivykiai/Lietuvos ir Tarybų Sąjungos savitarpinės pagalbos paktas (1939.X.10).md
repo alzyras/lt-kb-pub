@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-28744
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 48."
   citata_originali: |
     Metai pirmosios komunistų, lygiai kaip ir beveik vėl pilni
     treji metai antros vokiečių okupacijos, žinoma, buvo tiesioginė

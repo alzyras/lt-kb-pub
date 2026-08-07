@@ -56,7 +56,8 @@ Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­ biniame
 - id: c-84247
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 116."
   citata_originali: |
     Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­
     biniame pranešime (Notariats instrument), į kurį taip pat buvo

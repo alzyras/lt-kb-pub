@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-deac1973807878b0558c3d46"
+canonical_name: "Marija (Gedimino duktė)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Marija (Gedimino duktė)"]
+sameAs: []
+canonical_biography: "Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri reiškė Maskvai priešišką politiką, buvo pradėta politinėmis vedybomis, kai Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro (Mykolo sūnaus)."
 ---
 # Marija (Gedimino duktė)
 
@@ -77,7 +84,8 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 - id: c-79027
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 36."
   citata_originali: |
     Gediminas, užsitikrinęs sau-
     dybomis, buvo labai tvirti ir svarbūs.
@@ -103,7 +111,8 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 - id: c-79029
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 249."
   citata_originali: |
     Gediminas nurodė politinį — vedybinį kelią ir į tolimą Tverės
     kunikaikštiją. Per 150 metų toliau patverusi su Tverės kunigaikš­

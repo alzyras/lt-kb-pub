@@ -47,9 +47,9 @@ Sausuma Kauną pasiekdavo pirkliai iš Palenkės ir net tolimos Mažosios Lenkij
 ## Citatos
 
 - id: c-185228
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 234"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 234."
   citata_originali: |
     Sausuma Kauną pasiekdavo pirkliai iš Palenkės ir net tolimos Mažosios Lenkijos
     miestų. 1600 m. Cechanoveco Palenkėje pirkliai Adomas ir Stanislovas per Gardiną

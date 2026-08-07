@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bfd65c498febd22fe005179c"
+canonical_name: "H. Baueris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["H. Baueris"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad baueris86. Dusburgietis teigia, kad 95—119; Bauer H."
 ---
 # H. Baueris
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad baueris86. Dusburgietis teigia, kad 95—119; Bauer H.
 - id: c-61237
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Vėliau pasirodžiusios kitų Prūsijos kronikų, Ordino statutų, dokumentų publikacijos leido
     M. Perlbachui atskleisti kronikos šaltinius ir tiksliau suvokti šio veikalo struktūrą. XX a.

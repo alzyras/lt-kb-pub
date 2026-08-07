@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42d88aa41609c58028f799c6"
+canonical_name: "Teodoras Lenkas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teodoras Lenkas"]
+sameAs: []
+canonical_biography: "Vladislovas Jogaila pasiuntė dominikoną Teodorą Lenką į Konstancos susirinkimą išdėstyti skundų prieš kryžiuočius."
 ---
 # Teodoras Lenkas
 
@@ -63,7 +70,8 @@ Vladislovas Jogaila pasiuntė dominikoną Teodorą Lenką į Konstancos susirink
 - id: c-173129
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 398"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 398."
   citata_originali: |
     Jeronimą sudegino gyvą Konstancoje 1416 metais bir­
     želio 21 dieną2.

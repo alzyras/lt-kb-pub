@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c34e43fa1b4483f38ba72222"
+canonical_name: "Gerhardas (valdovas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gerhardas","Gerhardas (valdovas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis, garsėjęs kaip labai gabus račius ir didelis karo pabūklų. Dusburgietis teigia, kad gerhardas labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą baltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai ir užbaigė."
 ---
 # Gerhardas (valdovas)
 
@@ -112,7 +119,8 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
 - id: c-60753
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
   citata_originali: |
     Jis labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą
     baltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai
@@ -134,7 +142,8 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
 - id: c-60754
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
   citata_originali: |
     Apie vieną nuostabų atsivertimą
 

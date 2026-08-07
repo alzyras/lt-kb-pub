@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-63226
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
                                        na

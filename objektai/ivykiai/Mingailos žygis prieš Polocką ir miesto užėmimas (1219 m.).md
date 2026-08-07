@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-178587
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 82."
   citata_originali: |
     Arčiausiai puolančiųjų plytėjo Min-
     gailos valdinių žemės: norėdamas atkeršyta už jų nu­
@@ -102,7 +103,8 @@ Nenurodyta
 - id: c-178588
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 82."
   citata_originali: |
     Neilgai šia pergale džiaugėsi Mingai­
     la tais pačiais metais jis mirė, įpėdiniais palikdamas

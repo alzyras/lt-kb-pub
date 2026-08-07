@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c1a507dc20a6bc802ec6bb1b"
+canonical_name: "Baltoji Rusia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Baltoji Rusia"]
+sameAs: []
+canonical_biography: "Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
+place_authority: true
+historical_names: []
 ---
 # Baltoji Rusia
 
@@ -115,7 +124,8 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
 - id: c-24067
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 36."
   citata_originali: |
     Tai šiek tiek primena frankus Galijoje,
     t. y. germanų gentį, sukūrusią valstybę ir valdžios struktūras Galijoje ir
@@ -138,7 +148,8 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
 - id: c-79569
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131."
   citata_originali: |
     Po
     to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
@@ -159,7 +170,8 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
 - id: c-79570
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131."
   citata_originali: |
     Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
     gailos valdymas. Nuolatine savo buveine pasirinkęs Trakų
@@ -185,7 +197,8 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
 - id: c-79571
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131."
   citata_originali: |
     Tos pirmosios Lietuvoj teisės būtų ge­
     rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį

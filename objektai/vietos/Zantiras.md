@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-353f2d445e6cacdf12cc08b3"
+canonical_name: "Zantiras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zantiras"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksčiau vadinosi Zantiru."
+place_authority: true
+historical_names: []
 ---
 # Zantiras
 
@@ -54,7 +63,8 @@ Narbutas rašo, kad vietovė prie Nogato, kur vėliau buvo Marienburgas, anksči
 - id: c-171974
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 268."
   citata_originali: |
     Trečia šventykla buvo vietovėje, kur dabar Marienburgas,
     prie Nogato. Kryžiuočiai paėmė šią šventyklą pirmu puolimu,

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5ad3f18671ba074f9aaa9e68"
+canonical_name: "Maksimas Tirėjietis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Maksimas Tirėjietis"]
+sameAs: []
+canonical_biography: "Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais Jupiterio stabais iš ąžuolo."
 ---
 # Maksimas Tirėjietis
 
@@ -55,7 +62,8 @@ Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais 
 - id: c-173322
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 243."
   citata_originali: |
     Man
     atrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies

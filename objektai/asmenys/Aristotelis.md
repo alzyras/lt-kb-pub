@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-521829d7782a33a2af693311"
+canonical_name: "Aristotelis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aristotelis"]
+sameAs: []
+canonical_biography: "Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kritimą ir pateikė to įrodymų. Narbutas rašo, kad Aristotelis kartu su Herodotu, Taliu, Teofrastu ir Pitėju Masiliečiu žinojo gintarą, jo savybes ir gavybos vietas. Aristotelis gabenamas, nei kelio, kuriuo jį veždavo."
 ---
 # Aristotelis
 
@@ -111,7 +118,8 @@ Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kriti
 - id: c-174135
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
@@ -142,7 +150,8 @@ Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kriti
 - id: c-174823
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Priartinus mūsų tyrimus prie
     geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos

@@ -47,9 +47,9 @@ Jono Apokalipsis, 1000 metų sukakus, bus pabanga šio svieto.
 ## Citatos
 
 - id: c-184804
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 176"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 176."
   citata_originali: |
     Kiekvienas gal numanyti, jog keleiviai tokioj toli­
     moj kelionėj viso prityrę, tai yra: vargų, rūpesnių

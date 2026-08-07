@@ -28,28 +28,23 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8561766efde5479c112698e3"
+canonical_name: "Domininkas Burba"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Burba Domininkas","Domininkas Burba"]
+sameAs: []
+canonical_biography: "Domininkas Burba šiame šaltinyje pateikiamas kaip istorikas ir straipsnio apie XVIII a. vidurio Vilniaus bajorų gyvenimą autorius."
 ---
 # Domininkas Burba
 
 ## Santrauka
 
-Domininkas Burba yra šio straipsnio autorius.
+Domininkas Burba šiame šaltinyje pateikiamas kaip istorikas ir straipsnio apie XVIII a. vidurio Vilniaus bajorų gyvenimą autorius.
 
 ## Darbai
 
 - Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją
-
-## Teiginiai
-
-<a id="claim-t-200432"></a>
-- t-001
-  teiginys: "Domininkas Burba yra šio straipsnio autorius."
-  atnaujinta: "2026-07-24 14:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
-  pagrindžia:
-    - c-183823
 
 ## Citatos
 
@@ -60,7 +55,7 @@ Domininkas Burba yra šio straipsnio autorius.
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 1."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 02:56"
+  atnaujinta: "2026-07-26 17:37"
 
 - id: c-183823
   autorius: "Domininkas Burba"
@@ -69,6 +64,4 @@ Domininkas Burba yra šio straipsnio autorius.
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 21."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 02:56"
-  pagrindzia:
-    - t-001
+  atnaujinta: "2026-07-26 17:37"

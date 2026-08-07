@@ -28,19 +28,26 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fe71ad999dd8cc10ccd94264"
+canonical_name: "Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. Lopacinskis","Mikalojus Lopacinskis","Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778)","Mikalojus Lopacinskius"]
+sameAs: []
+canonical_biography: "Mikalojus Lopacinskis buvo Jono Dominyko Lopacinskio brolis. Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas. Mikalojaus Lopacinskio interesai Vilniuje buvo viena iš pagrindinių laiškų temų."
 ---
 # Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778)
 
 ## Santrauka
 
-Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas. Mikalojaus Lopacinskio interesai Vilniuje buvo viena pagrindinių Jono Dominyko Lopacinskio laiškų temų. Mikalojus Lopacinskis buvo Jono Dominyko Lopacinskio brolis.
+Mikalojus Lopacinskis buvo Jono Dominyko Lopacinskio brolis. Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas. Mikalojaus Lopacinskio interesai Vilniuje buvo viena iš pagrindinių laiškų temų.
 
 ## Teiginiai
 
 <a id="claim-t-200449"></a>
 - t-001
   teiginys: "Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Viena: 0.83"
@@ -57,7 +64,7 @@ Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas. Mikalojaus Lopac
 <a id="claim-t-200450"></a>
 - t-002
   teiginys: "Mikalojaus Lopacinskio interesai Vilniuje buvo viena pagrindinių Jono Dominyko Lopacinskio laiškų temų."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
@@ -75,7 +82,7 @@ Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas. Mikalojaus Lopac
 <a id="claim-t-200451"></a>
 - t-003
   teiginys: "Mikalojus Lopacinskis buvo Jono Dominyko Lopacinskio brolis."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Viena: 0.83"
@@ -88,6 +95,26 @@ Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas. Mikalojaus Lopac
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183840
+
+<a id="claim-t-202500"></a>
+- t-004
+  teiginys: "Jono Dominyko Lopacinskio laiškuose dažniausias adresatas buvo jo brolis Mikalojus Lopacinskis, būsimas LDK didysis raštininkas."
+  atnaujinta: "2026-07-26 17:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778)\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
+  pagrindžia:
+    - c-185861
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -115,8 +142,19 @@ Mikalojus Lopacinskis buvo būsimasis LDK didysis raštininkas. Mikalojaus Lopac
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 3."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 03:25"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
     - t-002
     - t-003
+
+- id: c-185861
+  autorius: "Domininkas Burba"
+  šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
+  puslapiai: "PDF 3"
+  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 3."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 17:37"
+  pagrindzia:
+    - t-004

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-34ee7e169849e857dccfd22b"
+canonical_name: "Georgas Fridrikas Valdekas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Georgas Fridrikas Valdekas"]
+sameAs: []
+canonical_biography: "Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kariuomenę sudarė 3500 raitarų ir dragūnų, 800 už švedus kariavusio Boguslavo Radvilos raitelių, 1000 pėstininkų ir 2000 Walenrodto vedamų pėstininkų. Valdekas gavo žinią, kad šiauriau Prostkų per upę keliasi totoriai."
 ---
 # Georgas Fridrikas Valdekas
 
@@ -66,7 +73,8 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
 - id: c-41923
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 129."
   citata_originali: |
     Tuo tarpu G. Valdekas gavo žinią,
     kad šiauriau Prostkų per upę keliasi toto-
@@ -95,7 +103,8 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
 - id: c-44335
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 129."
   citata_originali: |
     Krymo to-
     torių - samdinių. Jungtinę olando gen.

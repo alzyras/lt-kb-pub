@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d0284123a716610c362eb459"
+canonical_name: "Krokuvos karalystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krokuvos karalystė"]
+sameAs: []
+canonical_biography: "Lietuvos metraštis Krokuvos karalyste vadina politinę erdvę, kuri, Jogailai atsisėdus Krokuvoje, jį paėmė."
+place_authority: true
+historical_names: []
 ---
 # Krokuvos karalystė
 
@@ -52,7 +61,8 @@ Lietuvos metraštis Krokuvos karalyste vadina politinę erdvę, kuri, Jogailai a
 - id: c-170306
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 175."
   citata_originali: |
     Tačiau jie vertė ir
     mane priimti rusų tikėjimų, kad pasidaryčiau visų žmo­

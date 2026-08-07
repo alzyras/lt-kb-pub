@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b2bdd22600efc42bbefc8cd2"
+canonical_name: "Augsburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Augsburgas"]
+sameAs: []
+canonical_biography: "Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518 m."
+place_authority: true
+historical_names: []
 ---
 # Augsburgas
 

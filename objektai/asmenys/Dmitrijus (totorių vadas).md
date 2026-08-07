@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c94481334fc0656079bde26"
+canonical_name: "Dmitrijus (totorių vadas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dmitrijus (totorių vadas)"]
+sameAs: []
+canonical_biography: "Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų vadų-kunigaikščių Chadžibėjaus, Kutlugbugo, Dmitrijaus kariuomene."
 ---
 # Dmitrijus (totorių vadas)
 
@@ -69,7 +76,8 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
 - id: c-76059
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 47."
   citata_originali: |
     Istorinė tradicija (jai atstovauja
     M. Strijkovskis) teigia, kad Algirdas, su-
@@ -96,7 +104,8 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
 - id: c-76060
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 47."
   citata_originali: |
     Lietuvos kariuomenė buvo sudaryta
     iš Lietuvos valdovo Algirdo ir jo brolio

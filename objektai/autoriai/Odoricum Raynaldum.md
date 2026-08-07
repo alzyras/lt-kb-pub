@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-206df78fe7ec4679f8468825"
+canonical_name: "Odoricum Raynaldum"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Odoricum Raynaldum"]
+sameAs: []
+canonical_biography: "Hartknochas kaip įrodymą nurodo Grigaliaus IX laiškus, paskelbtus Odoricum Raynaldum „Annales ecclesiasticae“."
 ---
 # Odoricum Raynaldum
 
@@ -55,7 +62,8 @@ Hartknochas kaip įrodymą nurodo Grigaliaus IX laiškus, paskelbtus Odoricum Ra
 - id: c-173328
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
   citata_originali: |
     Kad nuramintume žmoniškumo gynėjus, turime
     16

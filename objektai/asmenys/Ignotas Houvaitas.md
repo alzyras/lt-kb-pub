@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3b2671e3481c8291026db240"
+canonical_name: "Ignotas Houvaitas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ignotas Houvaitas"]
+sameAs: []
+canonical_biography: "žemės teismo antspaudu, išduo­ tas Jo Malonybei kunigui Ignotui Houvaitui, Smolensko ka­ nauninkui, Pabaisko klebonui."
 ---
 # Ignotas Houvaitas
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-83671
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 268."
   citata_originali: |
     Ta pati fundacijos privilegija, šviesiausiojo
     Karaliaus Jo Didenybės Žygimanto sudaryta ir skirta Pabais­

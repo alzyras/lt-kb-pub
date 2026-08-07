@@ -91,7 +91,8 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 - id: c-47220
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 573"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 573."
   citata_originali: |
     Kai lenkai savo kovose su Rusais nu-
     ėjo net ligi Kijevo (1920 m. gegužės mėn.), ūmai pasikeitė karo
@@ -114,7 +115,8 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 - id: c-47221
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 578"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 578."
   citata_originali: |
     20 d., kaip
     diskusijų pagrindas, susidėjo iš 15 punktų. Svarbiausieji to projekto

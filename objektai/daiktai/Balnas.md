@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-05198
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 364."
   citata_originali: |
     Husitų pasiuntinius 1424.IV.25 d. jis
     priėmė anksti rytą prie Gardino, sėsdamas į balną, ir jiems nedrau­
@@ -91,7 +92,8 @@ Nenurodyta
 - id: c-10239
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 296"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 296."
   citata_originali: |
     Jojo ir grūmės su neprieteliais, ant arklių apžarga sėdėdami, ilgainiui, jei dėvėjo balnus, tad būtinai iš
         vieno medžio dirbtus, be šikšnų, be geležies, medžio kilpomis, ant virbgalių pasietomis, kokius balnus

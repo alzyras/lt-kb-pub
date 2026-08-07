@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c8987ac76ae3f870b09b8bd7"
+canonical_name: "Senn A. E"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Senn A. E"]
+sameAs: []
+canonical_biography: "Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European politics. The Years of the First Republic, 1918–1940. New York, 1997. Senn A. E. Lietuvos valstybės atkūrimas 1918–1920. Vilnius, 1992. Senn A. E. Bundanti Lietuva. Vilnius, 1992. Senn A. E. Gorbačiovo nesėkmė Lietuvoje, 1997."
 ---
 # Senn A. E
 
@@ -78,7 +85,8 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
 - id: c-22194
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Senn A. E. Lietuvos valstybės atkūrimas 1918–1920. Vilnius, 1992.
     Senn A. E. Bundanti Lietuva. Vilnius, 1992.
@@ -94,7 +102,8 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
 - id: c-166737
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
     politics. The Years of the First Republic, 1918–1940. New York, 1997.

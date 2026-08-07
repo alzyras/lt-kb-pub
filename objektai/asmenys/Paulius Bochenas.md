@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ad717350b9b5c2c933bf6eb"
+canonical_name: "Paulius Bochenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Paulius Bochenas"]
+sameAs: []
+canonical_biography: "Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų."
 ---
 # Paulius Bochenas
 
@@ -64,7 +71,8 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
 - id: c-83796
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 203."
   citata_originali: |
     Bet Vilniaus mūriniai namai, Valerijono bursai užrašyti
     vyskupo Valerijono Protasevičiaus, prieš 1670 metus, prie­

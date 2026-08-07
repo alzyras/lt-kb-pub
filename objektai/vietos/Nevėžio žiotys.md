@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-afecf02b66a81282a560fa4b"
+canonical_name: "Nevėžio žiotys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nevėžio žiotys"]
+sameAs: []
+canonical_biography: "Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis statydino pilį Nevėžio žiočių Vyrgalės saloje - Naująjį Kauną ir „tiltą per Nemuną“ (greičiausiai per Nemuno senvagę į salą)."
+place_authority: true
+historical_names: []
 ---
 # Nevėžio žiotys
 
@@ -51,7 +60,8 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 - id: c-45242
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 44."
   citata_originali: |
     Situacija Kauno regione bei visoje
     Lietuvoje ir toliau buvo labai sudėtinga.

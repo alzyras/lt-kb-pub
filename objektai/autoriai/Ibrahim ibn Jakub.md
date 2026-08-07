@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-33d6f81ec60e9b924b62cfee"
+canonical_name: "Ibrahim ibn Jakub"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ibrahim ibn Jakub"]
+sameAs: []
+canonical_biography: "Keliautojas ir pirklys iš arabiškos Ispanijos, žydas Ibrahim ibn Jakub, per vakarų Europą atvykęs iki Baltijos jūros (Wismar), 973 m. savo kelionių aprašyme prūsus vadino « Burūs »."
 ---
 # Ibrahim ibn Jakub
 
@@ -53,7 +60,8 @@ Keliautojas ir pirklys iš arabiškos Ispanijos, žydas Ibrahim ibn Jakub, per v
 - id: c-94016
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 122."
   citata_originali: |
     « Bavarijos Geografui » prūsai buvo žinomi « Bruci »
     vardu. Keliautojas ir pirklys iš arabiškos Ispanijos, žydas Ibrahim

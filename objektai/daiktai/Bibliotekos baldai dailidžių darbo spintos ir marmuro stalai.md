@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-83087
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 200-201"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 200-201."
   citata_originali: |
     F) Žinios apie Bibliotekai funduotus
     pradinius turtus ir pajamas

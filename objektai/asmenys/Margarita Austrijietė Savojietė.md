@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1ee20c65fb6a554a258a9b33"
+canonical_name: "Margarita Austrijietė Savojietė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Margarita Austrijietė Savojietė"]
+sameAs: []
+canonical_biography: "Margaritos Austrijietės Savojietės giminystė su paskutiniaisiais Jogailaičiais galėjo sietis su Niderlandų įtaka Šv. Onos bažnyčios fasadui."
 ---
 # Margarita Austrijietė Savojietė
 

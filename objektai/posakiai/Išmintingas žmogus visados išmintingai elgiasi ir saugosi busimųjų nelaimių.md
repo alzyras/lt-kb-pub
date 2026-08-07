@@ -49,7 +49,8 @@ Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintinga
 - id: c-59729
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 76."
   citata_originali: |
     15. Apie karo laivus ir markgrafo pasitraukimą
 

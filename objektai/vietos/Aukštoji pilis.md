@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d828f6329c4d0dbf2a59517"
+canonical_name: "Aukštoji pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aukštoji pilis"]
+sameAs: []
+canonical_biography: "Aukštoji pilis buvo pastatyta praktiniam apsigynimo reikalui, todėl Vorobjovas jos neaptarė kaip meno stiliaus pavyzdžio."
+place_authority: true
+historical_names: []
 ---
 # Aukštoji pilis
 

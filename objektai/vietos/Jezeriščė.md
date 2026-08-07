@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b0ce7748b59cc7de025bca28"
+canonical_name: "Jezeriščė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jezeriščė"]
+sameAs: []
+canonical_biography: "1580 m. buvo paimtos Veližo, Didžiųjų Lukų, Usviatų ir Jezeriščės tvirtovės."
+place_authority: true
+historical_names: []
 ---
 # Jezeriščė
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-77317
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 96."
   citata_originali: |
     K. Radvila savo netikėtais antpuo-
     liais kaustė rusų kariuomenės veiksmus, taip padė-

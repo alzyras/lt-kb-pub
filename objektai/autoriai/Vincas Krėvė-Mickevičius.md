@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e4a48838cf34d0cbcdce532"
+canonical_name: "Vincas Krėvė-Mickevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vincas Krėvė-Mickevičius"]
+sameAs: []
+canonical_biography: "Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad žydai tarpusavyje dažnai vartojo rusų kalbą. Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis liaudininkas žurnalistas Justas Paleckis, o jo pavaduotoju ir užsienio reikalų ministru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas Galvanauskas, krašto."
 ---
 # Vincas Krėvė-Mickevičius
 
@@ -58,7 +65,8 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 - id: c-176370
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 168."
   citata_originali: |
     Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
     žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius po-
@@ -86,7 +94,8 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 - id: c-176371
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 190."
   citata_originali: |
     Taip birželio 17-ąją at-
     sirado gudriai sumanyta savotiška pereinamojo laikotarpio marionetinė

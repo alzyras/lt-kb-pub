@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-802b1fd2d440481801b1025e"
+canonical_name: "Kauno VII fortas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno VII fortas"]
+sameAs: []
+canonical_biography: "Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų iš nacių Vokietijos ir plaukė jos politikos farvateryje. Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtųjų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte."
+place_authority: true
+historical_names: []
 ---
 # Kauno VII fortas
 
@@ -77,7 +86,8 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 - id: c-24168
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 199."
   citata_originali: |
     Talkinin-
     kų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba ban-
@@ -103,7 +113,8 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 - id: c-74043
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 199."
   citata_originali: |
     Ginkluoti partizanai
     nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai
@@ -130,7 +141,8 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 - id: c-166993
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 197."
   citata_originali: |
     Vokietijos okupaciniu režimu ir
     galėsianti manevruoti, kaip tai darė Lietuvos Taryba, nesuvokdama, jog

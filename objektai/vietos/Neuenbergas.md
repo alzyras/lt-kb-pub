@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6fd1598a26018747620c1cbd"
+canonical_name: "Neuenbergas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Neuenbergas"]
+sameAs: []
+canonical_biography: "Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos."
+place_authority: true
+historical_names: []
 ---
 # Neuenbergas
 
@@ -49,7 +58,8 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 - id: c-82197
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 92."
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­
     dangi Viešpats jūsų ginklą valdo ir narsos didybės suteiks,

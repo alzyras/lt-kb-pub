@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-63540
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 91-92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91-92."
   citata_originali: |
     Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis
 

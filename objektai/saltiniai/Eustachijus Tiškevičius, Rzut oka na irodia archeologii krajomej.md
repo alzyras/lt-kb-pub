@@ -65,7 +65,8 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
 - id: c-174655
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 385."
   citata_originali: |
     Ant­
     ra vertus, beveik visoje Siaurės Europoje tai šen, tai ten
@@ -86,7 +87,8 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
 - id: c-179289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 385."
   citata_originali: |
     Sis darbas tikriausiai yra vienas žymiau­
     sių ir dėl jame išdėstytų naujų faktų, ir dėl apimties. Ant­

@@ -102,7 +102,8 @@ Nenurodyta
 - id: c-172608
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 128."
   citata_originali: |
     Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
     suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­

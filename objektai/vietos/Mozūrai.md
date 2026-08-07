@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee8a27279ec323ea1752b316"
+canonical_name: "Mozūrai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mozūrai"]
+sameAs: []
+canonical_biography: "Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūrus."
+place_authority: true
+historical_names: []
 ---
 # Mozūrai
 
@@ -76,7 +85,8 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
 - id: c-46627
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 58."
   citata_originali: |
     Į pagalbą jam atvykdavo būriai
     kryžeivių. Bet vos tik jie išvykdavo namo, prūsai, išlindę iš
@@ -97,7 +107,8 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
 - id: c-54204
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 58."
   citata_originali: |
     Praėjo net keliolika metų, o vysk. Kristijonui vis ne-
     sisekė: pagonys ne tik naikino jo kuriamas krikščionių bendruo-

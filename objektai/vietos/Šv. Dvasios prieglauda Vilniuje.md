@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6f8605f437205e20e9ee39d3"
+canonical_name: "Šv. Dvasios prieglauda Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Dvasios prieglauda Vilniuje"]
+sameAs: []
+canonical_biography: "Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ėmėsi kito ob­ jekto - minėtos prieglaudos prie brolių pamokslininkų [dominikonų} vienuolyno. Dvasios esančią prieglaudą, kurią minėtasis Ulrikas Hozijus pradėjo mūryti, atnaujintų ir apžiūrėtų, kaip ją būtų galima pabaigti, kokią miesto teritoriją ir erdvę api­ brėžti, galutinai drauge su minėto vienuolyno tėvais susitar­ tų: jie, vykdydami mūsų. Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba vartų į prieglaudos namus, esančių iš gatvės priešais šv."
+place_authority: true
+historical_names: []
 ---
 # Šv. Dvasios prieglauda Vilniuje
 
@@ -133,7 +142,8 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 - id: c-81833
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 406"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 406."
   citata_originali: |
     Taip pat minėti prie­
     glaudos namai privalo turėti du įėjimus, tai yra, vieną iš tos
@@ -153,7 +163,8 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 - id: c-81834
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 403-404"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 403-404."
   citata_originali: |
     Šis garbingasis Ulrikas Hozijus,
     387
@@ -185,7 +196,8 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 - id: c-81835
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 407-408"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 407-408."
   citata_originali: |
     Mišias, klausyti išpažinčių ir dalinti švenčiausiąją
     Viešpaties Kūno komuniją prieglaudos gyventojams. Taip pat
@@ -217,7 +229,8 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 - id: c-81836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 405-406"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 405-406."
   citata_originali: |
     Tad norėdami tokį mūsų va­
     lios sprendimą pagaliau įgyvendinti ir vargą tų, kurie prašo
@@ -246,7 +259,8 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 - id: c-81837
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 406"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 406."
   citata_originali: |
     Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba
     vartų į prieglaudos namus, esančių iš gatvės priešais šv. Dva­
@@ -269,7 +283,8 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 - id: c-81838
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 406-407"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 406-407."
   citata_originali: |
     Taip pat
     atiduodame, dovanojame, skiriame ir užrašome pagal žemiau

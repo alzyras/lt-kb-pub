@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6a0d4ef42a788827adf45bae"
+canonical_name: "Daugėliškių miškas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Daugėliškių miškas"]
+sameAs: []
+canonical_biography: "Kazimieraicio : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES ) Leipalingis Armoniskis e OVolozynas Š 2 = AS ie o righ tinė Bastūnaio | rakelii Subatninkai J a 1950 m. liepos 22 d. ties Ariogalos ir Vilkijos raj."
+place_authority: true
+historical_names: []
 ---
 # Daugėliškių miškas
 
@@ -59,7 +68,8 @@ Kazimieraicio : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES ) Leipalingis Armoni
 - id: c-40256
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 241."
   citata_originali: |
     Kazimieraicio * : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES
     ) Leipalingis Armoniskis e OVolozynas Š 2 = AS ie

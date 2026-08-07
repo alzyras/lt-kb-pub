@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184680
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 166"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 166."
   citata_originali: |
     Taip nusiaubę visą kraštą, daugybes im­
     tinių į vergus parvarė. Norėjo dar Vsevolodas, ku­

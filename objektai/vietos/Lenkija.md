@@ -27,11 +27,6 @@ date_start: '1008'
 date_end: '1936'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - miestas
-  - valdovas
-  - valstybė
-  - vieta
 amziai:
   - 'XI'
   - 'XX'
@@ -47,6 +42,20 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+tags:
+  - miestas
+  - valdovas
+  - valstybė
+  - vieta
+entity_id: "ent-0403a3e77c0055f3610886b7"
+canonical_name: "Lenkija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lenkija"]
+sameAs: []
+canonical_biography: "Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai su šia prasidėjo Lietuvos santykiai. Tad Zigmantui nebeliko kito sąjungininko, kaip tik Lenkija, kuri jam padėjo net ruošiant sąmokslą. Senieji aktai, kuriais ji buvo surišta su Lenkija, jau nebegaliojo."
+place_authority: true
+historical_names: []
 ---
 # Lenkija
 
@@ -163,18 +172,18 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 <a id="claim-t-177344"></a>
 - t-007
   teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_patikimumas: "puole -> Lenkija: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad totoriai nuniokojo Lenkiją."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-161262
+    - c-161282
 
 <a id="claim-t-177345"></a>
 - t-008
@@ -736,18 +745,18 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 <a id="claim-t-177389"></a>
 - t-040
   teiginys: "Totoriai įsiveržė į Lenkiją, mūšyje nukovė Henriką, Lenkijos kunigaikštį, ir nuniokojo kraštą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_patikimumas: "puole -> Lenkija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo totorių įsiveržimą į Lenkiją."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-161262
+    - c-161281
 
 <a id="claim-t-177390"></a>
 - t-041
@@ -1374,28 +1383,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindžia:
     - c-179049
 
-<a id="claim-t-200713"></a>
-- t-079
-  teiginys: "Rimvydas Laužikas spėja, kad viduramžių Lenkijoje nežinomas „kumelių pienas“ galėjo būti užsienio keliautojams į pieną panašus alkoholinis gėrimas."
-  atnaujinta: "2026-07-14 18:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenkija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkija\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
-  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
-  pagrindžia:
-    - c-184058
-
 <a id="claim-t-201627"></a>
-- t-080
+- t-079
   teiginys: "Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regioną, į kurį įėjo Lietuva, Lenkija, Prūsija, Livonija, bet dažniausiai ir gausiausiai lankėsi Prūsų miestuose: Gdanske, Karaliaučiuje, Torunėje."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -1487,12 +1476,14 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
+
 ## Citatos
 
 - id: c-24237
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 278."
   citata_originali: |
     Užsienio politika buvo vienodinama tik paties
     karaliaus, nes visi santykiai su užsieniu buvo atliekami jo vardu.
@@ -1509,7 +1500,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-46570
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 282."
   citata_originali: |
     Generaliniai seime-
     liai. Sudarant Liublino
@@ -1538,7 +1530,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-46573
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 309."
   citata_originali: |
     Tuo tarpu Lenkijoj laimėjo Za-
     moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-
@@ -1558,7 +1551,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161210
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 71."
   citata_originali: |
     Tačiau XVII–XVIII a. bent jau Vilnius
     prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
@@ -1581,7 +1575,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161213
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 252."
   citata_originali: |
     Kaimynystėje vyravo ūkiai iki 5 ha (Len-
     kijoje tokie sudaro 72 proc., Latvijoje – 41 proc., Lietuvoje ir Estijoje šio
@@ -1597,7 +1592,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161214
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 134."
   citata_originali: |
     1390 metų sausio pradžioje visą savo šei­
     mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­
@@ -1625,7 +1621,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161215
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 144."
   citata_originali: |
     Lietuviai atmetė
     bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
@@ -1653,7 +1650,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 227."
   citata_originali: |
     Jei laisva, tai Vytautas turi teisę užsidėt karaliaus karūną; jei
     ne, tai jam ir toliau tenka pasilikti Lenkijos vasalu. Vytauto
@@ -1674,7 +1672,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161217
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 101."
   citata_originali: |
     Skaičiuojant nuo pirmųjų žmogaus pėdsakų
     ir baigiant istoriniais laikais, kada žilųjų laikų priešistorinius pa­
@@ -1696,7 +1695,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161218
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 107."
   citata_originali: |
     1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ or-
     ganizacijos sukilimui rengti. „Raudonieji“ – prodemokratiškai nusiteikęs
@@ -1713,7 +1713,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161219
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 256."
   citata_originali: |
     čio demografinė padėtis pasikeitė lietuvių naudai, lenkų Vilniuje liko
     20  proc. Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus
@@ -1737,7 +1738,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161220
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     Kai 1815 m. Vienos kongreso nu-
     tarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietu-
@@ -1756,7 +1758,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161221
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 42."
   citata_originali: |
     Dviejų šimtų metų istorija parodė: per Vokiečių ordinus to padaryti nebu-
     vo įmanoma. Artimiausia Lietuvos kaimynė buvo Lenkija ir Krėvos sutartis
@@ -1774,7 +1777,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161222
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     3. Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
 
@@ -1796,7 +1800,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161223
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 183."
   citata_originali: |
     O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
     kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
@@ -1817,7 +1822,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161225
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 179."
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     179
@@ -1838,7 +1844,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161226
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131."
   citata_originali: |
     Miestui teko būti liudytoju dviejų prašmatnių vestuvių:
     Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­
@@ -1859,7 +1866,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161227
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 186."
   citata_originali: |
     istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje,
     o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-
@@ -1882,7 +1890,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161228
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 256."
   citata_originali: |
     Abi valstybės įsipareigojo grįs-
     ti savo santykius tarpusavio pagarba, pasitikėjimu, lygiateisiškumu, gera
@@ -1902,7 +1911,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161230
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
   citata_originali: |
     2. Apie Lenkijos žemės nuniokojimą
 
@@ -1927,7 +1937,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161233
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 70."
   citata_originali: |
     Valstybinė religija ar dešimt konfesijų?
     Istorikai XVI–XVII a. Lenkijos religinę toleranciją yra api-
@@ -1944,7 +1955,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161236
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 177."
   citata_originali: |
     Todėl tik 1934 m. rugsėjo
     12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-
@@ -1968,7 +1980,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 146."
   citata_originali: |
     Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­
     dovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­
@@ -1989,7 +2002,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161240
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
                                       kovų
@@ -2013,7 +2027,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161241
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 40."
   citata_originali: |
     Lietuvos jėgos
     išseko ir vertė ieškoti sąjungininko. Išeitis buvo 1385 m. sudaryta Krėvos
@@ -2032,7 +2047,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 142."
   citata_originali: |
     Lietuviai pre-
     tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
@@ -2053,7 +2069,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161245
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 131."
   citata_originali: |
     Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
     valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
@@ -2078,7 +2095,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161246
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 12-13"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 12-13."
   citata_originali: |
     Lietuva juk ne
     kartą buvo okupuota ir prisijungta Rytų kaimynės.
@@ -2106,7 +2124,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161248
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 68."
   citata_originali: |
     Pavadinimas tarsi reiškė, kad
     tai – lygiateisė dviejų valstybių sąjunga. Iš tikrųjų šioje sąjungoje vyravo
@@ -2125,7 +2144,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161249
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 273."
   citata_originali: |
     Algirdui nepavyko sutramdyti kylančios Maskvos jėgos, kuri
     nuo XV amž. galo vis labiau iš rytų ims grasinti Lietuvai, pa­
@@ -2147,7 +2167,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161251
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 85."
   citata_originali: |
     Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
     mėnesiais aplenkusi Prancūzijos konstituciją.
@@ -2172,7 +2193,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161252
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 266."
   citata_originali: |
     Už tai Liudvikas jam turėjo iš popie­
     žiaus išrūpinti karaliaus karūną. Be to, Vengrija su Lenkija turėjo
@@ -2191,7 +2213,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161253
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 27."
   citata_originali: |
     Žinoma, kad
     1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
@@ -2212,7 +2235,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161254
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 17."
   citata_originali: |
     Lietuva krikštijosi katalikišku krikštu, o jos
     dalis Žemaitija tapo paskutiniu Europoje
@@ -2237,7 +2261,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161257
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 142."
   citata_originali: |
     Teritoriniai klausimai taip pat buvo sprendžiami palankiai. Lietuviai pre-
     tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
@@ -2257,7 +2282,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161259
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 381."
   citata_originali: |
     Kad savo metu nuveikti žmo­
     nių darbai iš mirtingųjų atminties neišnyktų, gilios išmin­
@@ -2278,7 +2304,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161260
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 364."
   citata_originali: |
     Tačiau erži­
     lai, Sviežepo kumeliai, kumeliukai, įvairūs jaunikliai ir tie,
@@ -2306,7 +2333,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 233."
   citata_originali: |
     Lenkija visa tai jautė ir matė. Reikėjo iš paskutiniųjų gelbėtis,
     kad unija pasiliktų nesuardyta.
@@ -2323,7 +2351,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161262
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Todėl kunigaikštis pasiuntė pas
     minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir
@@ -2341,15 +2370,14 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
     - t-021
-    - t-040
 
 - id: c-161263
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 233."
   citata_originali: |
     Jei dar pridėsime apsikarūnavusio Vytauto ir visiškai nu­
     trauktų unijos santykių perspektyvas, tai toks Lenkijos politikų
@@ -2367,7 +2395,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161265
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 214."
   citata_originali: |
     Tačiau kolektyviza-
     cija Lietuvoje strigo dėl partizaninio karo. Pagal naują tvarką į valstybinį
@@ -2389,7 +2418,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161267
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 134."
   citata_originali: |
     Kai visa tai vyko, karalius, matydamas
     pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
@@ -2415,7 +2445,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161269
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 53."
   citata_originali: |
     Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis
     išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
@@ -2434,7 +2465,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161270
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 60."
   citata_originali: |
     Tačiau viską nulė-
     mė dar viena aplinkybė – didžiausią įtaką Lietuvos kultūrai darė lenkiškoji
@@ -2452,7 +2484,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161271
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 70-71"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 70-71."
   citata_originali: |
     Nuo 1387 m.
     LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik
@@ -2473,7 +2506,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161274
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 105."
   citata_originali: |
     Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
     sosto ir perduodąs suverenitetą tautai. Tai reiškė Lenkijos karalystės ne-
@@ -2492,7 +2526,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161276
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 146."
   citata_originali: |
     Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
     jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose
@@ -2514,7 +2549,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161277
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 144."
   citata_originali: |
     Ko gero, tai buvo
     / m x Lo, nemalonus netikėtumas visoms ATR kon-
@@ -2555,7 +2591,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161279
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą
     valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.
@@ -2578,7 +2615,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161280
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 349."
   citata_originali: |
     Byla traukėsi 8 metus
     (1592—1600 m.), ir pagaliau Vilniaus vyskupu buvo paskirtas
@@ -2600,7 +2638,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161281
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
                                   lio, ir Henriko, Vroclavo kunigaikščio, žūtį
@@ -2612,14 +2651,17 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   citata_rodoma: "Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­\n                              lio, ir Henriko, Vroclavo kunigaikščio, žūtį\n\n   Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,\nkur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir\ngalybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių\nvieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-040
+
 - id: c-161282
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     22. Apie Vengrijos ir Lenkijos nusiaubimą
 
@@ -2627,14 +2669,17 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   citata_rodoma: "22. Apie Vengrijos ir Lenkijos nusiaubimą\n\n   Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-161284
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 461-462"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 461-462."
   citata_originali: |
     Visiems bendrai ir kiekvie­
     nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes,
@@ -2681,7 +2726,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161285
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 54."
   citata_originali: |
     Bo-
     leslovas jo misi-
@@ -2705,7 +2751,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161286
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 309."
   citata_originali: |
     Lietuviai
     pareiškė, jog nesutinką
@@ -2725,7 +2772,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161287
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 125-126"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 125-126."
   citata_originali: |
     Pagaliau Antakalnio vardas
     pirm tikriausiai buvo duotas tik tai
@@ -2761,7 +2809,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-161288
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 70."
   citata_originali: |
     Istorikai XVI–XVII a. Lenkijos religinę toleranciją yra api-
     būdinę kaip neturinčią analogo Europoje, o Lenkiją – kaip didžiausią Eu-
@@ -2778,7 +2827,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-166436
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 184."
   citata_originali: |
     Švitrigaila ne tik
     kad nenutraukė ryšių su savo
@@ -2806,7 +2856,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-167005
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     104
@@ -2830,7 +2881,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-167006
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 107."
   citata_originali: |
     Netrukus Varšuvoje ir Vilniuje
     kilo patriotinių manifestacijų banga, nuslūgusi tik po to, kai vasaros pa-
@@ -2848,7 +2900,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-167242
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 455-456"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 455-456."
   citata_originali: |
     Karalius Steponas
 
@@ -2875,7 +2928,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-171624
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 395."
   citata_originali: |
     Pasakiau „stebuklingu būdu“, kadangi apaš­
     tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
@@ -2901,7 +2955,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-171625
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Vienas kitas aiškiai lietuviškas her­
     bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
@@ -2922,7 +2977,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-175457
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Jūra dažnai išmeta gintarą, prikibusį prie
     supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
@@ -2947,7 +3003,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-175945
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 55."
   citata_originali: |
     Po šitų pirmųjų nepasisekusių misijų, buvo dar nemaža kitų,
     tačiau jų visų darbas niekais nueidavo. Aisčiai vengte vengdavo
@@ -2967,7 +3024,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-175946
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 180."
   citata_originali: |
     Ypač svarbus
     centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-
@@ -2988,7 +3046,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-175947
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 284-285"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 284-285."
   citata_originali: |
     **Seimų vieta.** Liublino seimas seimų vieta paskyrė Varšuvą
     arba kurį nors kitą Lenkijos miestą. Tačiau lietuviai visą laiką
@@ -3007,7 +3066,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-175948
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 289."
   citata_originali: |
     Į seimą
     bajorai atvykdavo ne kaip atstovai, siųsti tam tikro luomo ar
@@ -3026,7 +3086,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-176314
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 251."
   citata_originali: |
     Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš
     nestabilių Rytų rinkų į reiklesnes Vakarų rinkas. Lietuvos pagrindinėmis
@@ -3044,7 +3105,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-176426
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 20."
   citata_originali: |
     Šiam tikslui jis pasitelkė ne
     tik karines, bet ir informacines priemones, savo laiškais popie-
@@ -3064,7 +3126,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-176427
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 144."
   citata_originali: |
     Tai suerzino kaimyni-
     Ž i : nes monarchijas ir tapo pirmojo padalijimo pretekstu.
@@ -3083,7 +3146,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-177580
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 270."
   citata_originali: |
     Pirmiausia kurį nors Gediminaitį išsirinkdavo sau
     valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija.
@@ -3099,7 +3163,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - id: c-179049
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Minėtieji broliai, valdovės
     Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo į kovą,
@@ -3118,21 +3183,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindzia:
     - t-078
 
-- id: c-184058
-  autorius: "Rimvydas Laužikas"
-  šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
-  puslapiai: "PDF 2"
-  indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 2."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-07-14 18:15"
-  pagrindzia:
-    - t-079
-
 - id: c-184974
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 373"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 373."
   citata_originali: |
     Savaime suprantama, kad ėmę masiškai statydintis mūrnamius kauniečiai
     sekė matytais pavyzdžiais. Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regi-
@@ -3146,10 +3200,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-080
+    - t-079
 
 ## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Steponas Batoras]], [[objektai/asmenys/Žygimantas Senasis]]
+- Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Steponas Batoras]], [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis (Lenkijos karalius, XVI a.)]]
 - Buvo valdoma: [[objektai/grupes/Jogailaičių dinastija]]
 - Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Pilypas (Fermo vyskupas)]], [[objektai/asmenys/Stasys Raštikis]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Puolė Lenkiją: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42ca834be190e2e05fa99457"
+canonical_name: "Polianovkos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Polianovkos upė"]
+sameAs: []
+canonical_biography: "Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžinosios taikos“ sutartį."
+place_authority: true
+historical_names: []
 ---
 # Polianovkos upė
 
@@ -54,7 +63,8 @@ Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžin
 - id: c-176443
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 121."
   citata_originali: |
     Po mūšio
 

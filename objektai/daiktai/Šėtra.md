@@ -74,7 +74,8 @@ Nenurodyta
 - id: c-10312
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 154"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 154."
   citata_originali: |
     lietuvių krikštyti sako, jog Parusny radę jau šėtrą^715 po dideliu ąžuolu, visados žaliuojančiu, pas
         kurį žyniai, arba kunigai, amžiną ugnį kūrinę ąžuolo medžiais.

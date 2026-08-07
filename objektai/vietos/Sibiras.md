@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3171f75e671cab278fe00509"
+canonical_name: "Sibiras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sibiras"]
+sameAs: []
+canonical_biography: "Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą. Represinės institucijos, slopindamos partizaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse."
+place_authority: true
+historical_names: []
 ---
 # Sibiras
 
@@ -89,7 +98,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - id: c-68624
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 213."
   citata_originali: |
     Nemažai stribų
     buvo abejotinos moralės
@@ -120,7 +130,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - id: c-68625
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 194."
   citata_originali: |
     Liepos 10–17 dieną pirmųjų
     masinių areštų metu įkalinti žinomi nepriklausomos Lietuvos politikos
@@ -139,7 +150,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - id: c-68626
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 224."
   citata_originali: |
     Tad lietuvių inteligentija
     iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...
@@ -155,7 +167,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - id: c-68627
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 20."
   citata_originali: |
     Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
     1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi. Tačiau pergyvenusi
@@ -176,7 +189,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - id: c-167027
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 213."
   citata_originali: |
     Dislo-
     kuoti visuose valsčiuo-

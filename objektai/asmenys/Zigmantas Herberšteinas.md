@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1065f1609d86da10e5c93205"
+canonical_name: "Zigmantas Herberšteinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zigmantas Herberšteinas"]
+sameAs: []
+canonical_biography: "Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Čeliadnino žodžius, kuriuos jis pasakė sužinoję apie tai, kad Lietuvos kariuomenė jau keliasi per Dniepro upę: „Greitai, kai pusė [lietuvių] kariuomenės buvo persikėlusi per Dnieprą. Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos perteikia vėliau mūšį aprašęs diplomatas Zigmantas Herberšteinas, pasakytų, kai rusų vadas įsakė leisti persikelti visai Lietuvos kariuomenei."
 ---
 # Zigmantas Herberšteinas
 
@@ -67,7 +74,8 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
 - id: c-44581
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 85."
   citata_originali: |
     Maskvos kariuomenė persikė-
     limui netrukdė, nes buvo suklai-
@@ -95,7 +103,8 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
 - id: c-44582
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 85."
   citata_originali: |
     Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado
     Čeliadnino žodžius, kuriuos jis pasakė sužinoję apie tai, kad Lietuvos kariuo-

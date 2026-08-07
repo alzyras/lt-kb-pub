@@ -47,7 +47,8 @@ Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę s
 - id: c-176345
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     Nuo tada šio ordino agresija nebegalėjo tikėtis efektyvesnės Va-
     karų paramos. Krėvos sutarties nulemta sąjunga su Lenkija leido pasiekti

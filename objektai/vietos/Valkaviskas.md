@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-41bac8d03dc644ad009fcb5b"
+canonical_name: "Valkaviskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Valkaviskas"]
+sameAs: []
+canonical_biography: "Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda."
+place_authority: true
+historical_names: []
 ---
 # Valkaviskas
 
@@ -101,7 +110,8 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - id: c-32505
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 222."
   citata_originali: |
     Haličo — Volinijos kunigaikščiai plėtėsi į šiaurę,
     paimdami senas Mindaugines valdas, Slanimo ir kitas pilis. Taikai
@@ -121,7 +131,8 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - id: c-70440
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
     Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio

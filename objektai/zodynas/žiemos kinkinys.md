@@ -116,7 +116,8 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
 - id: c-175054
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
   citata_originali: |
     pirmuoju atveju pakako turėti šiokią tokią valtį, o antruo-
     ju — žiemos kinkinį, kad pasroviui arba tų vandens kelių
@@ -134,7 +135,8 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
 - id: c-175353
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
   citata_originali: |
     Tokioje žemėje didesnės
     upės buvo tarsi lengviau įveikiami keliai, jų vandenys

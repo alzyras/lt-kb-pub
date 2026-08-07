@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7cbe7da5164852142ffb3cf0"
+canonical_name: "Skaldonis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Skaldonis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas nuplaukė Nemunu žemyn; jį, pasroviui plaukiantį, lietuviai taip smarkiai užpuolė, kad, nors ir daug jų buvo sužeista, o Skaldonis, minėtojo Surmino brolis, užmuštas, paėmė laivą ir, nužudę 4 lankininkus, jį."
 ---
 # Skaldonis
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
 - id: c-167511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
   citata_originali: |
     Apie šio laivo sudeginimą 1313 metais
     Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa

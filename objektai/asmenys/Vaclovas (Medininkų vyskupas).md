@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a3f2d0fd9bfc134dfd32a43"
+canonical_name: "Vaclovas (Medininkų vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaclovas (Medininkų vyskupas)"]
+sameAs: []
+canonical_biography: "Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų................... Dalyvaujant didžiai gerbiamiems Kristu­ je tėvui Vilniaus vyskupui ir Alšėnų kunigaikščiui ponui Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vac­ lovui, garbiesiems ir prakilniesiems Polocko vaivadai Jonui Hlebavičiui, Naugarduko vaivadai Stanislovui. Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Vilniaus vyskupui Povilui, Lucko vyskupui Jurgiui, Medininkų vyskupui Vaclovui, prakil­ niesiems ir garbingiesiems Polocko seniūnui Jonui Hlebavičiui, Naugarduko seniūnui Stanislovui Goštautui, Vitebs­ ko."
 ---
 # Vaclovas (Medininkų vyskupas)
 
@@ -62,7 +69,8 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - id: c-83461
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 339"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 339."
   citata_originali: |
     To dalyko patiki­
     mumui patvirtinti prie šio rašto mūsų antspaudas yra pri­

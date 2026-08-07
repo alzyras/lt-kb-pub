@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-54cf696e5fbfe136a1be8ede"
+canonical_name: "Nemuno ir Neries santaka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nemuno ir Neries santaka"]
+sameAs: []
+canonical_biography: "Nemuno vandens kelias ir pirmoji gyvenvietė Santakoje."
+place_authority: true
+historical_names: []
 ---
 # Nemuno ir Neries santaka
 
@@ -41,9 +50,9 @@ Nemuno vandens kelias ir pirmoji gyvenvietė Santakoje.
 ## Citatos
 
 - id: c-185049
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 32"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 32."
   citata_originali: |
     Nemuno vandens kelias ir pirmoji gyvenvietė Santakoje. Aukštaičių kultūra susidarė
     Nemuno pakrantėse žemiau santakos su Nerimi ir šių upių santakos apylinkėse. Jų

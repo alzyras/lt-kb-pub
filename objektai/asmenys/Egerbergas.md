@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-64b65678433b1723e69b1cc9"
+canonical_name: "Egerbergas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Egerbergas"]
+sameAs: []
+canonical_biography: "Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas su stipriu pulku kilmingų karių ir vasalų iš Čekijos bei Pareinio žemių."
 ---
 # Egerbergas
 
@@ -61,7 +68,8 @@ Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas 
 - id: c-83637
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 83-84"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 83-84."
   citata_originali: |
     67
 

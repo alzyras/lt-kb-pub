@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5411e143695dcbc142348bcd"
+canonical_name: "Ritterswerderis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ritterswerderis"]
+sameAs: []
+canonical_biography: "1392 m. birželio gale, apsimes­ damas, iš Ritterswerderio patraukė Lietuvon į tariamą žygį."
+place_authority: true
+historical_names: []
 ---
 # Ritterswerderis
 
@@ -58,7 +67,8 @@ media_all_json: |-
 - id: c-34024
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 315."
   citata_originali: |
     Poli­
     tinis interesas apsprendė jo žygius. 1392 m. birželio gale, apsimes­

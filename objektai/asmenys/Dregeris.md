@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-79102d72790e0171871a5cb7"
+canonical_name: "Dregeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dregeris"]
+sameAs: []
+canonical_biography: "Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekti dėl blogai užrašytų pavadinimų ir vietos ženklų stokos. Dregerio paminėtoje Sambijos vyskupo Henriko sutartyje Vitlandsorto valdos perleistos Ordinui tvirtovei statyti."
 ---
 # Dregeris
 
@@ -66,7 +73,8 @@ Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekt
 - id: c-174147
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 354."
   citata_originali: |
     Beje, šiandien nelengva atrasti
     visas tvirtoves, kurias mini Dregerio skelbta sutartis (Nr.
@@ -84,7 +92,8 @@ Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekt
 - id: c-174829
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 349."
   citata_originali: |
     Aiškiausiai apie tai kalba
     Sambijos vyskupo Henriko sutartis, paminėta Dregerio*

@@ -85,7 +85,8 @@ Nenurodyta
 - id: c-85394
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
   citata_originali: |
     Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­
                                                  trą

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0443029616b5b0ec549967d3"
+canonical_name: "Martynas Mažvydas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Martynas Mažvydas"]
+sameAs: []
+canonical_biography: "Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspausdintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“. Visų pirma – tai Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui."
 ---
 # Martynas Mažvydas
 
@@ -57,7 +64,7 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
 <a id="claim-t-19126"></a>
 - t-002
   teiginys: "1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio programos dalimi."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: po 1525 m.; įvykio data: 1525 m.; įvykio data: 1542 m.; įvykio data: 1547 m."
@@ -90,7 +97,8 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
 - id: c-21874
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 58."
   citata_originali: |
     Prahoje parengęs ir išspausdinęs
     psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
@@ -111,7 +119,8 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
 - id: c-21875
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 61."
   citata_originali: |
     Vilniuje A. Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi
     60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė
@@ -135,7 +144,8 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
 - id: c-21876
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 72."
   citata_originali: |
     Ar viso to, kas
     pasakyta, nepakanka padaryti išvadą, kad Lietuva XVI a. viduryje buvo

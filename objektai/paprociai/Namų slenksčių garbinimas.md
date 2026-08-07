@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-174975
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
   citata_originali: |
     Mongolai labai garbino namų slenksčius: tas, kuris praeidamas pa-
     liesdpvo juos koja, būdavo baudžiamas. Už tokį neatsargumą jų
@@ -105,7 +106,8 @@ Nenurodyta
 - id: c-174976
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
   citata_originali: |
     Senovės slavai specialiai darydavo žemas duris, kad
     ateinantysis arba išeinantysis nusilenktų slenksčiui2.

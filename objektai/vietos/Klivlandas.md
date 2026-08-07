@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-61d7e721af4788e90def6f14"
+canonical_name: "Klivlandas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Klivlandas"]
+sameAs: []
+canonical_biography: "Smetona žuvo Klivlande per gaisrą."
+place_authority: true
+historical_names: []
 ---
 # Klivlandas
 
@@ -61,7 +70,8 @@ Smetona žuvo Klivlande per gaisrą.
 - id: c-18292
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
     geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-

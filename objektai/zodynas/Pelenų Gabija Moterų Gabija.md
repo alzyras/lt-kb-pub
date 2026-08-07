@@ -77,7 +77,8 @@ Narbutas Pelenų Gabiją (Polengabia) apibūdino kaip besikūrenantį židinį g
 - id: c-172158
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 124."
   citata_originali: |
     Pelenų Gabija (Polengabia)
     Anot Lasickio, tai deivė, globojusi besikūrenantį židinį.

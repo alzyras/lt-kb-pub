@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-89d7a3a2037a6795e01b8ca8"
+canonical_name: "Henriką von Rebdorf"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Henriką von Rebdorf"]
+sameAs: []
+canonical_biography: "Pagal kronikininką Henriką von Rebdorf 1358 m. liepos mėn."
 ---
 # Henriką von Rebdorf
 
@@ -60,7 +67,8 @@ Pagal kronikininką Henriką von Rebdorf 1358 m. liepos mėn.
 - id: c-32944
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 267."
   citata_originali: |
     Nors imperatoriui rimtai buvo parupęs
     Lietuvos atvertimas, tačiau ano meto politinėmis aplinkybėmis,

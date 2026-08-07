@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b1caa34a52c9828161671ceb"
+canonical_name: "Pabaiskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pabaiskas"]
+sameAs: []
+canonical_biography: "1435 m. rugsėjo 1 d. mūšis įvyko prie kelio į Vilnių, ten, kur vėliau stovėjo Pabaisko parapijos bažnyčia. Pabaiskas buvo parapijos kaimas, nutolęs nuo Vilniaus–Ukmergės pašto trakto per 2 varstus į kairę. Pabaiske vietos žmonės dar prisiminė šioje vietoje vykusį garsų mūšį ir jame žuvusį priešo kunigaikštį ar riterį."
+place_authority: true
+historical_names: []
 ---
 # Pabaiskas
 
@@ -160,7 +169,8 @@ media_all_json: |-
 - id: c-156379
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 236."
   citata_originali: |
     Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
     gaikščiu Jurgiu, išvengė sutriuškinimo21. Žygimantas, no­
@@ -184,7 +194,8 @@ media_all_json: |-
 - id: c-156380
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 236."
   citata_originali: |
     Kai
     kurie gyventojai, kad gimtosioms
@@ -216,7 +227,8 @@ media_all_json: |-
 - id: c-156381
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 236."
   citata_originali: |
     Slapt. archiv.
     22
@@ -246,7 +258,8 @@ media_all_json: |-
 - id: c-156384
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 235-236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 235-236."
   citata_originali: |
     Tas įsimintinas mūšis
     20
@@ -272,7 +285,8 @@ media_all_json: |-
 - id: c-176431
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 71."
   citata_originali: |
     Taip jos kelias paras stovėjo, susikaupę
     laukė mūšio. Šią kariuomenių išsidėstymo

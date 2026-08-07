@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-63464
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,
     kad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III,

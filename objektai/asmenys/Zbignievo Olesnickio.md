@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-915c6988f4a42719f2c38fc2"
+canonical_name: "Zbignievo Olesnickio"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zbignievo Olesnickio"]
+sameAs: []
+canonical_biography: "Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip Zbignievo Olesnickio."
 ---
 # Zbignievo Olesnickio
 
@@ -46,7 +53,8 @@ Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
 - id: c-177382
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 346."
   citata_originali: |
     Bet kronikininko tėvas buvo dalyvavęs kautynėse.
     Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip

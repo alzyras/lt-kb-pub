@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-363fc961d5bf8c548835d849"
+canonical_name: "Janovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Janovas"]
+sameAs: []
+canonical_biography: "Byševskis jau buvo Janove, jis gavo Karo tarybos prie karaliaus nurodymą vykti ne į Lietuvos Brastą, o neleisti Rusijos kariuomenei persikelti per Bugą šiauriau, nors ten tokio pavojaus nebuvo."
+place_authority: true
+historical_names: []
 ---
 # Janovas
 
@@ -51,7 +60,8 @@ Byševskis jau buvo Janove, jis gavo Karo tarybos prie karaliaus nurodymą vykti
 - id: c-45109
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 147."
   citata_originali: |
     Liepos 22 d., kai A. Byševskis jau buvo
     Janove, jis gavo Karo tarybos prie kara-

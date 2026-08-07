@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5f39259bab02d6f51c1384bd"
+canonical_name: "Volia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Volia"]
+sameAs: []
+canonical_biography: "2) Lietuvos siena eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios, toliau vėl Nemunu ligi Beržūnės, o nuo čia."
+place_authority: true
+historical_names: []
 ---
 # Volia
 
@@ -52,7 +61,8 @@ media_all_json: |-
 - id: c-03127
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 578"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 578."
   citata_originali: |
     20 d., kaip
     diskusijų pagrindas, susidėjo iš 15 punktų. Svarbiausieji to projekto

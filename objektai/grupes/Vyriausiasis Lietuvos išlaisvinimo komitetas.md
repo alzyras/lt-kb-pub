@@ -42,7 +42,7 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 <a id="claim-t-66324"></a>
 - t-001
   teiginys: "1943 m. gegužę–birželį gestapas suėmė šešis iš devynių Vyriausiojo Lietuvos išlaisvinimo komiteto vadovybės narių."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1943 m."
@@ -75,7 +75,8 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 - id: c-66607
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 226."
   citata_originali: |
     Atkūrus Lietuvos
     nepriklausomybę, 1991 m. rugsėjo 6 d. LDT savo darbą baigė.
@@ -97,7 +98,8 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 - id: c-66609
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 204."
   citata_originali: |
     Tai masiškiausia
     antinacinė organizacija, ji numatė bent dalyje teritorijos paskelbus ne-

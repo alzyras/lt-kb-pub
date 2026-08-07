@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df8091493ad5f3c475341d61"
+canonical_name: "Elžbieta (Ostrogo kunigaikštytė)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Elžbieta (Ostrogo kunigaikštytė)"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Elžbieta (Ostrogo kunigaikštytė)
 

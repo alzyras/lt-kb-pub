@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-55706
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 319."
   citata_originali: |
     Raštininkas Mikola
     Panašiai 1524 metais, kaip patvirtina ta pati Lietuvos Met­

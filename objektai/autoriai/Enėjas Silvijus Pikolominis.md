@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-65c362bcaa159b4438d808b7"
+canonical_name: "Enėjas Silvijus Pikolominis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Enea Silvio Piccolomini","Enėjas Silvijus Pikolominis"]
+sameAs: []
+canonical_biography: "Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato."
 ---
 # Enėjas Silvijus Pikolominis
 
@@ -45,7 +52,8 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
 - id: c-16787
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 52."
   citata_originali: |
     Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien
     kartais pavadinama imperija. Vėliau Lietuva silpnėjo, todėl, ištikus ne-

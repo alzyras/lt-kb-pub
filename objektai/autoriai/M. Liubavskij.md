@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-84c90b23a7ce9b72d8ba7962"
+canonical_name: "M. Liubavskij"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Liubavskij"]
+sameAs: []
+canonical_biography: "Liubavskij). Liubavskij, M."
 ---
 # M. Liubavskij
 
@@ -58,7 +65,8 @@ Liubavskij). Liubavskij, M.
 - id: c-33056
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 130."
   citata_originali: |
     —
     Liubavskij, M. : _Litva i slavjane u ich uzaemaadnosiniach u XI-XII st.,_
@@ -75,7 +83,8 @@ Liubavskij). Liubavskij, M.
 - id: c-33057
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 128."
   citata_originali: |
     Yra bandyta aiškinti, jog rusų kunigaikščiai esą XI-XII amž.
     tolimus ir sunkius karo žygius į Lietuvą darę ekonominiais sume­

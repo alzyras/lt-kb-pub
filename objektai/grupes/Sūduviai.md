@@ -219,11 +219,19 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 <a id="claim-t-89243"></a>
 - t-011
   teiginys: "Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kulmas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sūduviai įvardyti kariuomenėje, siaubusioje Kulmo žemę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sūduviai puolė Kulmas (0.88); Rusai puolė Kulmas (0.86)"
   pagrindžia:
-    - c-85226
+    - c-85218
 
 <a id="claim-t-89244"></a>
 - t-012
@@ -392,7 +400,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 <a id="claim-t-194366"></a>
 - t-022
   teiginys: "Jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti."
-  atnaujinta: "2026-07-24 15:56"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -400,7 +408,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85212
-    - c-85229
 
 <a id="claim-t-196924"></a>
 - t-023
@@ -507,7 +514,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85212
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę
 
@@ -530,7 +538,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85213
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
     mą
@@ -552,7 +561,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85214
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
     Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai
@@ -572,7 +582,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85215
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Apie sūduvių pabėgimą
     Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
@@ -592,7 +603,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85216
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Sitai padaręs,
     magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava,
@@ -612,7 +624,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85218
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
   citata_originali: |
     Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
                                 būtent: Eimsutis ir dar viena
@@ -623,14 +636,17 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   citata_rodoma: "Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,\n                            būtent: Eimsutis ir dar viena\n\n  Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas\nsiaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo Kulmenzę446, vienas\nkarys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
 - id: c-85219
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį
 
@@ -656,7 +672,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85220
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
   citata_originali: |
     Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
     pilies bei miesto sugriovimą
@@ -677,7 +694,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85221
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Traidenis (1269—1282 m.), remdamas žiemgalius,
     telkė jėgas ir kovai Prūsijoje. Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
@@ -698,7 +716,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85222
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
     Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
@@ -718,7 +737,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85223
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį
     Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,
@@ -741,7 +761,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85224
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 160."
   citata_originali: |
     kelią, užpuldavo juos ir sumušdavo, daugybę išžudydamas, o kitus išsklaidydamas; jis tiek
     kartų šitai padarė ir tiek jų išžudė, kad sūduviai daugiau nebedrįsdavo rodytis be didesnės
@@ -764,7 +785,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85225
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
   citata_originali: |
     Sūduviai, subūrę dar
     didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,
@@ -786,7 +808,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85226
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Štai Didžiojo prūsų sukilimo
     metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
@@ -804,12 +827,12 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-011
 
 - id: c-85227
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 161."
   citata_originali: |
     Apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje
     Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais
@@ -832,7 +855,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85228
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
   citata_originali: |
     Apie Sembos žemės nusiaubimą
     Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami
@@ -853,7 +877,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-85229
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 144-145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144-145."
   citata_originali: |
     Apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį
 
@@ -879,12 +904,12 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
-    - t-022
 
 - id: c-85230
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 160."
   citata_originali: |
     Apie karą su sūduviais ir apie paskutinį karą Prūsijos žemėje
 
@@ -904,7 +929,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-178982
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     Apie Marienburgo pilies pastatymą
     1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten,
@@ -926,7 +952,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - id: c-179229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
   citata_originali: |
     Gyventojai aistringai gynė savo lais­
     vę, dažnai maištavo; kryžiuočiai iškapojo beveik visus, o

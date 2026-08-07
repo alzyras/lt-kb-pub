@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-63784ee184abc8d0d5cc53fd"
+canonical_name: "Kražiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kražiai"]
+sameAs: []
+canonical_biography: "Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt."
+place_authority: true
+historical_names: []
 ---
 # Kražiai
 
@@ -132,7 +141,8 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
 - id: c-67884
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     Tuo
     būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
@@ -158,7 +168,8 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
 - id: c-171615
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 257."
   citata_originali: |
     Moneta, rasta Ballvyžių girioje.
     Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje
@@ -183,7 +194,8 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
 - id: c-171617
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 371"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
   citata_originali: |
     Nepai­
     sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
@@ -207,7 +219,8 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
 - id: c-175448
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
   citata_originali: |
     1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
     Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu

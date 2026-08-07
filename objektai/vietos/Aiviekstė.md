@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d26ac3b4dcbb69abb8917fec"
+canonical_name: "Aiviekstė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aiviekstė","Ewst"]
+sameAs: []
+canonical_biography: "Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta nuo Dauguvos žiočių, jos krantu tolyn į rytus, «iki vietos, kur iš Liubano ežero ištekanti upė (= Aiviekstė, Ewst) įteka į Dauguvą»."
+place_authority: true
+historical_names: []
 ---
 # Aiviekstė
 
@@ -52,7 +61,8 @@ Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta
 - id: c-93869
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 267."
   citata_originali: |
     Per Prūsus, Lietuvai
     paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės

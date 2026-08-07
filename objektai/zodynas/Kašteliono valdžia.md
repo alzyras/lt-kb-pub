@@ -58,7 +58,8 @@ Išsi­ laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­ tai, s
 - id: c-82612
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24."
   citata_originali: |
     Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
     1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus. Išsi­

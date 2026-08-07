@@ -37,6 +37,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-af3e0c67e513463cc69550e2"
+canonical_name: "Juška (kaimo daraktorius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juška","Juška (kaimo daraktorius)","Mūsų Juška"]
+sameAs: []
+canonical_biography: "Juška aprašomas kaip kaimo daraktorius ir nuomininkas, žiemomis mokęs vaikus, už mokslą ėmęs mokestį ir gaudavęs maistą iš mokinių šeimų."
 ---
 # Juška (kaimo daraktorius)
 

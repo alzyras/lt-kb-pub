@@ -54,7 +54,8 @@ Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apei
 - id: c-172241
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 297."
   citata_originali: |
     Žvalgonys (Swalgones)
     Tai buvo žyniai, atliekantys vedybų apeigas, arba tekančių

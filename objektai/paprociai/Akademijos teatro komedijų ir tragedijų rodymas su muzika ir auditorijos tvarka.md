@@ -62,7 +62,8 @@ Nenurodyta
 - id: c-83238
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 194-195"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 194-195."
   citata_originali: |
     Taip
     pat laiptai į teatrą, pradžioje 2 pakopos ir grindys plytelių.

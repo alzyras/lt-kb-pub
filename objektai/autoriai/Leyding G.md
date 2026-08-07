@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fd75c72b8fbe8419fe3ef870"
+canonical_name: "Leyding G"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Leyding G"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO, p. 69), Koelmsee (Sch-K, XVI), Kölmsee, Kolm (Leyding G."
 ---
 # Leyding G
 
@@ -53,7 +60,8 @@ Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO
 - id: c-61375
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
   citata_originali: |
     Šį hidronimą, kildinamą iš le. Chełm ir vok. See, lyginame su 1401 m. dokumentų
     Colmen/Kaelmen (GAO, p. 69), Koelmsee (Sch-K, XVI), Kölmsee, Kolm (Leyding G.

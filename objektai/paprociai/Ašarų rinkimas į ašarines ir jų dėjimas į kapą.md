@@ -115,7 +115,8 @@ Nenurodyta
 - id: c-172703
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
   citata_originali: |
     Ne­
     turtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net
@@ -137,7 +138,8 @@ Nenurodyta
 - id: c-172704
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
   citata_originali: |
     Radau keletą geležėlių, kurios man
     atrodė esančios mažų sagtelių liekanos. Dar pastebėjau su­
@@ -159,7 +161,8 @@ Nenurodyta
 - id: c-172705
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 377."
   citata_originali: |
     Ir
     šiandien ten randama daugybė nuolaužų, priklausančių ašari­
@@ -181,7 +184,8 @@ Nenurodyta
 - id: c-179086
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
   citata_originali: |
     1820
     metais mano kaimynas kaimietis, kasdamas duobę bulvėms,

@@ -61,7 +61,8 @@ Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgars
 - id: c-172205
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 55."
   citata_originali: |
     55
 

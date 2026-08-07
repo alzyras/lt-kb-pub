@@ -31,11 +31,12 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
 <a id="claim-t-61012"></a>
 - t-001
   teiginys: "V. Mažiulio „Senovės vakarų baltai“ cituojama nurodant 7 puslapį."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61644
+    - c-61645
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -54,7 +55,8 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
 - id: c-61644
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     19 Mažiulis V. Senovės vakarų baltai..., p. 7.
   citata_rodoma: "19 Mažiulis V. Senovės vakarų baltai..., p. 7."
@@ -69,14 +71,16 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
 - id: c-61645
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.
     7; Lietuvininkai.
   citata_rodoma: "14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.\n7; Lietuvininkai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

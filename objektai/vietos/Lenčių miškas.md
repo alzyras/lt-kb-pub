@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8e3a0037e39e4a4f47686347"
+canonical_name: "Lenčių miškas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lenčių miškas"]
+sameAs: []
+canonical_biography: "LENČIŲ KAUTYNES \\ aa 5 1unai > =) A 5 < o DAINAVOS j as e Fai pati He) 3 1949 m. sausio 26 d. MGB vidaus kariuomenės 298-asis A že inanis apygarda | aaa) Olššnai E šaulių pulkas Kėdainių apskt."
+place_authority: true
+historical_names: []
 ---
 # Lenčių miškas
 
@@ -59,7 +68,8 @@ LENČIŲ KAUTYNES \ aa 5 1unai > =) A 5 < o DAINAVOS j as e Fai pati He) 3 1949 
 - id: c-40306
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 241."
   citata_originali: |
     LENČIŲ KAUTYNES
     \ aa 5 1unai > =) * A 5

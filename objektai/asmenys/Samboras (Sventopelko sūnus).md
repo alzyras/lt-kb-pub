@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-672f707f02edba5e3c353135"
+canonical_name: "Samboras (Sventopelko sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Samboras (Sventopelko sūnus)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Dusburgietis teigia, kad apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję, turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą, Samborą. Dusburgietis teigia, kad samboras, matydamas, kad iš savo dalies negalėsiąs gyventi taip iškilniai, kaip dera jo padėties žmogui, atidavė ją broliams, kad šie jį bei jo šeimyną visa kuo aprūpintų."
 ---
 # Samboras (Sventopelko sūnus)
 
@@ -91,7 +98,7 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 <a id="claim-t-197153"></a>
 - t-004
   teiginys: "Samboras (Sventopelko sūnus) įsakė Kulmo broliams plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė traukti su kariuomene į šią vietą."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -143,7 +150,8 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 - id: c-60693
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     213 (208). Apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis
     Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,
@@ -164,7 +172,8 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 - id: c-60694
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Apie Svečės pilies pastatymą ir jos užpuolimą
 
@@ -184,7 +193,8 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 - id: c-60695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
   citata_originali: |
     Samboras, matydamas, kad iš savo dalies negalėsiąs gyventi
     taip iškilniai, kaip dera jo padėties žmogui, atidavė ją broliams, kad šie jį bei jo šeimyną

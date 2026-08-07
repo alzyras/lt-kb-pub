@@ -239,7 +239,8 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 - id: c-61520
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247."
   citata_originali: |
     109. Apie tamplierių ordino panaikinimą
 
@@ -260,7 +261,8 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 - id: c-61521
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
   citata_originali: |
     Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu
 
@@ -278,7 +280,8 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 - id: c-61522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 244."
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
 
@@ -301,7 +304,8 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 - id: c-61523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
   citata_originali: |
     Tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus
     bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.
@@ -318,7 +322,8 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 - id: c-61524
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
   citata_originali: |
     Apie tris saulės spindulius ir kolegijos suskilimą
 
@@ -341,7 +346,8 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 - id: c-61525
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
   citata_originali: |
     Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
     III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).
@@ -357,7 +363,8 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 - id: c-61526
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
   citata_originali: |
     2. Apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius
 
@@ -375,7 +382,8 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 - id: c-61527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229-230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229-230."
   citata_originali: |
     Apie didįjį saulės užtemimą
 
@@ -394,7 +402,8 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 - id: c-61528
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Apie gibelinus ir gvelfus
 

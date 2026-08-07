@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ea766dcdd8710a3239fa5f60"
+canonical_name: "A. Alekna"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Alekna","A. Aleknos","Alekna","Ant. Alekna","kan. A. Alekna"]
+sameAs: []
+canonical_biography: "Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patarimais ir buvo numatytas įžangos žodžio autorius. Zenonas Ivinskis vertino, kad A. Aleknos „Katalikų Bažnyčia Lietuvoje“ parodė jo gebėjimą kritiškai ir objektyviai vertinti šaltinius. A. Alekna, remdamasis Kauno vyskupijos kurijos archyvine medžiaga, 1923 m. išleido veikalą „Žemaičių vysk. M. Valančius“."
 ---
 # A. Alekna
 
@@ -170,7 +177,8 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
 - id: c-03954
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 15."
   citata_originali: |
     Gause, Karaliaučius - Marburgas 1936-
     1970.
@@ -189,7 +197,8 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 8."
   citata_originali: |
     Kartu taip pat norėtume padėti mūsų platesnei vi­
     suomenei pažinti tą didį Žmogų, kuri, tikime, šį darbą nuo­
@@ -212,7 +221,8 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 112."
   citata_originali: |
     Alekna, A., Lietuvos istorija. Antras leidimas. Tilžė, 1923.
   statusas: verified
@@ -227,7 +237,8 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 317."
   citata_originali: |
     Vytauto Didžiojo 500 jubiliejaus metu proga „Sakalo“ B-vė išleido apie
     Vytautą Didįjį plačią monografiją. Ją parašė istorikų būrelis, redagavo
@@ -244,7 +255,8 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
 - id: c-30385
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 67."
   citata_originali: |
     Kanauninkas Ant. Alekna buvo pirmasis (1922-1930) Lie­
     tuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d079e55b693615b852a8f631"
+canonical_name: "Erazmas Stela"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Erazmas Stela"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos paimtą faktą apie elnio laikymą dievuku fetišu. Narbutas nurodo, kad Erazmas Stela, remdamasis Lietuvos padavimais, laidojimo apeigų tvarką siejo su Vaidevučio laikais. Narbuto aiškinimu, Erazmas Stela lietuvių kilmę iš alanų siejo su į šias šalis atėjusių hunų antplūdžiu."
 ---
 # Erazmas Stela
 
@@ -108,7 +115,8 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
 - id: c-173231
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 210."
   citata_originali: |
     Žiūrėk II lentelės 4-ąjį piešinį.
     Elnias (Elnis)
@@ -127,7 +135,8 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
 - id: c-173232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
   citata_originali: |
     Žmona vyro gedėdavo trisdešimt dienų; tuo metu ji priva­
     lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
@@ -149,7 +158,8 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
 - id: c-173578
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 190."
   citata_originali: |
     Alanai buvo
     skitų blondinų gentis, jie davė pradžią roksolanams; gotai
@@ -175,7 +185,8 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
 - id: c-173579
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 259."
   citata_originali: |
     Veltui net ir ieškotume tų Ptolemėjo
     boruskų ar borusų kažkur prie Ritėjų kalnų, nes tokiu

@@ -41,9 +41,9 @@ Visur rodo lietuvius it 1 V o i g t, Geschięh.
 ## Citatos
 
 - id: c-184802
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 73"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 73."
   citata_originali: |
     Visur rodo lietuvius it
     1 V o i g t, Geschięh. Preus., B. 1, K. II, S. 183.

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-463b44607bd8e455c2e5cd95"
+canonical_name: "Ramygala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ramygala"]
+sameAs: []
+canonical_biography: "Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. - Ramygaloje, 4 val. Po pietų išžygiavome Ramygalos kryptimi."
+place_authority: true
+historical_names: []
 ---
 # Ramygala
 
@@ -59,7 +68,8 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
 - id: c-45301
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 181."
   citata_originali: |
     M. Katche. Rinktinės pajėgos gegužės 13 d.
     susitelkė Krekenavos-Ramygalos rajo-
@@ -82,7 +92,8 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
 - id: c-45302
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 182."
   citata_originali: |
     mosios kuopos, pusės 2-ojo pėst. pulko
     kuopos, su 4 kulkosvaidžiais ir 20 rai-

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c11317b910589df861abce3e"
+canonical_name: "K. Jaunius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Jaunius"]
+sameAs: []
+canonical_biography: "Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno, yra tą vardą pateisinančių vietovardžių (pav., Aistmarės Prūsuose). Jaunius; jo mokinys buvo ir poetas Vienažindys."
 ---
 # K. Jaunius
 
@@ -50,7 +57,8 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
 - id: c-65337
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 33."
   citata_originali: |
     Tas geografinis terminas reiš-
     kia Baltijos pajūrio tautas. Tik didieji mūsų kalbininkai Jaunius su

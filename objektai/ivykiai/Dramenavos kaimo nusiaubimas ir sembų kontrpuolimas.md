@@ -133,7 +133,8 @@ Nenurodyta
 - id: c-85311
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
   citata_originali: |
     107 (102). Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
     Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
@@ -155,7 +156,8 @@ Nenurodyta
 - id: c-85312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
   citata_originali: |
     Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
     Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai

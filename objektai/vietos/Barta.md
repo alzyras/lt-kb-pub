@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7fcadbff9e4e4701703807b1"
+canonical_name: "Barta"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Barta"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos. Dusburgietis teigia, kad šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т."
+place_authority: true
+historical_names: []
 ---
 # Barta
 
@@ -108,14 +117,22 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 <a id="claim-t-58341"></a>
 - t-005
   teiginys: "1251 m. dokumente Barta minima kaip Didžioji ir Mažoji Barta, kurioje gyveno bartai arba bartėnai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Barta: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bartai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Barta: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Bartoje gyveno bartai."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Bartai gyveno Barta (0.94)"
   temporaliniai_duomenys: "gyvenimo laikotarpis: 1251 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata remia faktą apie Bartos pavadinimus ir gyventojus."
   pagrindžia:
-    - c-58969
+    - c-58971
 
 <a id="claim-t-192623"></a>
 - t-006
@@ -201,7 +218,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-58969
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
@@ -219,12 +237,12 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-005
 
 - id: c-58970
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     Teritorija  į šiaurę nuo Galindos, tarp Alnos (dab. Lynos)
     vidupio vakaruose ir Mamrų ežero, Ašvenos (dab. Osvino) ežero ir upės rytuose ir šiaurės
@@ -241,7 +259,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-58971
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,
     Plicke Bartin, grôz Bartin unde kleine. 1251 m. dokumente — Barta major et minor
@@ -250,14 +269,17 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   citata_rodoma: "201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,\nPlicke Bartin, grôz Bartin unde kleine. 1251 m. dokumente — Barta major et minor\n\nDidžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-58972
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
   citata_originali: |
     XIII a. šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т. 2 (1908), стб.
     813, 877) bei kt. vakarinių baltų žemės.
@@ -272,7 +294,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-58973
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
     apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.
@@ -291,7 +314,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-175393
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     123
     Kai 1253 metų pradžioje susiklostė draugiški Pamario
@@ -315,7 +339,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-175394
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 360"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 360."
   citata_originali: |
     Šią vietą
     primena Šiandien Beisleideno kaimas pakeliui iš Barten­
@@ -341,7 +366,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - id: c-179367
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 360"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 360."
   citata_originali: |
     Pava­
     dinimas Plika Barte lietuvių kalba reiškia laukų Bartą.

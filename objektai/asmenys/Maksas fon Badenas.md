@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0b93fb9551cbcd4b3c6ace75"
+canonical_name: "Maksas fon Badenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Maksas fon Badenas"]
+sameAs: []
+canonical_biography: "Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą."
 ---
 # Maksas fon Badenas
 
@@ -62,7 +69,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-21872
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 137."
   citata_originali: |
     Valstybės Taryba vis atkak­
     liau siekė gauti konkrečias valdymo sritis į savo rankas, ruošėsi perimti

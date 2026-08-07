@@ -32,7 +32,7 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
 <a id="claim-t-189568"></a>
 - t-001
   teiginys: "Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojančiu ženklu ir Vytauto laikų rusiškomis raidėmis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -40,7 +40,7 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172457
+    - c-172456
 
 <a id="claim-t-189569"></a>
 - t-002
@@ -67,7 +67,8 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
 - id: c-172456
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 250."
   citata_originali: |
     249
 
@@ -80,14 +81,17 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
   citata_rodoma: "249\n\n## Puslapis 249\n\nlės 27-ajame piešinyje. Vaizduoja saulės veidą, aplinkui rusiš­\nkas užrašas Vytauto laikų senoviškomis raidėmis, kokias gali­\nma matyti to kunigaikščio dekretuose; galima perskaityti žo­\ndžius: Sotwor. Boh. NaszM."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-172457
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 249."
   citata_originali: |
     Apklausinėjus žydą ir kaimietį, paaiškėjo, kad dau­
     giausia buvo plonų monetų, visos vienodo antspaudo; dviejų
@@ -107,5 +111,4 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

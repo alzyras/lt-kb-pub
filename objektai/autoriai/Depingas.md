@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-60c0f7c583f87905c97ed2c1"
+canonical_name: "Depingas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Depingas"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto teigimu, Depingas be pagrįstų įrodymų Pavyslę priskyrė kraštui tarp Nemuno ir Dauguvos žemupių."
 ---
 # Depingas
 
@@ -53,7 +60,8 @@ Teodoro Narbuto teigimu, Depingas be pagrįstų įrodymų Pavyslę priskyrė kra
 - id: c-174487
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 248."
   citata_originali: |
     Sis kraštas tęsėsi nuo Nemuno žemupio dešiniosios
     pakrantės ligi Dauguvos žemupio. Tokios nuomonės yra

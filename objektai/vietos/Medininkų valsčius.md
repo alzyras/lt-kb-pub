@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6d8fc81f45af9d0aafe54b35"
+canonical_name: "Medininkų valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Medininkų valsčius"]
+sameAs: []
+canonical_biography: "Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a. pabaigos duomenys rodo ten buvus žemę iš kelių valsčių. 1316 m. Ragainės broliai Medininkų valsčiuje sudegino du kaimus, išžudė vyrus, o moteris ir vaikus paėmė į nelaisvę. 1314 m. brolis Henrikas su Sembos ir Notangos vyrais įsiveržė į Medininkų valsčių, jį nusiaubė ir paėmė ar nužudė 700 žmonių."
+place_authority: true
+historical_names: []
 ---
 # Medininkų valsčius
 
@@ -96,14 +105,21 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
 <a id="claim-t-58356"></a>
 - t-004
   teiginys: "1316 m. brolis Henrikas su Reino krašto maldininkais nusiaubė Medininkų valsčių ir paėmė ar nukovė 200 žmonių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Medininkų valsčius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medininkų valsčius\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1316 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata tiesiogiai remia Medininkų valsčiaus nusiaubimą 1316 m. ir jo padarinius."
   pagrindžia:
-    - c-58987
+    - c-58989
 
 <a id="claim-t-58357"></a>
 - t-005
@@ -230,7 +246,8 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
 - id: c-58985
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
 
@@ -253,7 +270,8 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
 - id: c-58986
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 214."
   citata_originali: |
     Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
 
@@ -275,7 +293,8 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
 - id: c-58987
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
     brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
@@ -293,12 +312,12 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
 
 - id: c-58988
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     Dar apie tą patį
     Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
@@ -322,7 +341,8 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
 - id: c-58989
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais
 
@@ -334,14 +354,17 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
   citata_rodoma: "Apie Medininkų valsčiaus apiplėšimą 1316 metais\n\n  Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių\niš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš\nElnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,\nį Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į\nnelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-168407
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 193."
   citata_originali: |
     Kai Chris-
     1316 m e ta i
@@ -367,7 +390,8 @@ Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a
 - id: c-178865
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 196."
   citata_originali: |
     Po kelerių
     taikos metų prasidėjęs žiaurus karas vėl pareikalavo

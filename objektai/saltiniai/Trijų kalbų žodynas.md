@@ -72,7 +72,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - id: c-23985
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 73."
   citata_originali: |
     Niurnbergas, 1741 m.
     vadinta „šauksmu tyruose“, nes vėlesni jo darbo tęsėjai nebekėlė tokių
@@ -92,7 +93,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - id: c-166778
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 73-74"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 73-74."
   citata_originali: |
     Nors sporadiškai lietuviškų knygų leidimas nenutrūko per visą Ba-
     roko epochą, jų būta gerokai mažiau nei lenkiškų ar lotyniškų. Iškalbin-

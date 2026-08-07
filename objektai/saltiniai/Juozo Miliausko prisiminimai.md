@@ -79,7 +79,7 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 <a id="claim-t-78852"></a>
 - t-003
   teiginys: "Juozo Miliausko prisiminimuose pasakojama, kad rusų puolimas prieš sukilėlių stovyklą truko apie keturias valandas ir baigėsi apie šeštą vakaro."
-  atnaujinta: "2026-07-19 17:29"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -123,7 +123,8 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - id: c-11237
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     „Stovykloje šovinius dirbam, blėkinėlėse kruopų košę verdam, valgome ir ilsimės. Sar-
     gyboje šūvis, antras, trečias. Atbėga sargybininkai. Einame į savo vietas poromis. Nuo
@@ -142,7 +143,8 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - id: c-11238
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     Antrą dieną per pusryčius vėl įvyko ataka nuo tos tankumyno pusės, kur pastatyti tokie
     šauliai, kurie būtų net ir lekiantį žvirblį nudėję, ne ik baimingai lendantį „kirilą“ Šauliams
@@ -162,7 +164,8 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - id: c-43256
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius
 
@@ -186,7 +189,8 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - id: c-75984
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     Rusija, Tula, XIX a. antroji pusė. Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius
 

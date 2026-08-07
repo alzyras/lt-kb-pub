@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-301a43584bb620b43a259339"
+canonical_name: "Karolis IV"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolio IV","Karolis IV","Šv. Romos imperatoriumi Karoliu IV"]
+sameAs: []
+canonical_biography: "Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir tapęs Algirdo derybų partneriu dėl kryžiuočių bei baltų žemių klausimo. Naujas šaltinio fragmentas jį aiškiai įrašo į 1358 m. Lietuvos diplomatijos kontekstą."
 ---
 # Karolis IV
 
@@ -118,7 +125,8 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 - id: c-11538
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 21."
   citata_originali: |
     Pasiekęs neregėtą galybę rytuose, Algirdas 1358 m. derybose su
     Šv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti
@@ -138,7 +146,8 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 - id: c-42063
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 21."
   citata_originali: |
     Pergalė prieš kryžiuočius. Lietuvos galybės maksimumas
 
@@ -158,7 +167,8 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 - id: c-85799
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 105."
   citata_originali: |
     Bet Kęs-
     tučio pažadas buvo duotas sunkaus karo metu; iš tikro jis nė
@@ -179,7 +189,8 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 - id: c-85800
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
     apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.

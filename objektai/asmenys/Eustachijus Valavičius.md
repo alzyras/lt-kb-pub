@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8ca5b9223ff81fcd1253f723"
+canonical_name: "Eustachijus Valavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eustachijus Valavičius"]
+sameAs: []
+canonical_biography: "[manu proprio - savo ranka] Eustachijus Valavičius, Vilniaus kaštelionas."
 ---
 # Eustachijus Valavičius
 
@@ -73,7 +80,8 @@ media_all_json: |-
 - id: c-83403
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 372."
   citata_originali: |
     [manu proprio -
     savo ranka]
@@ -90,9 +98,9 @@ media_all_json: |-
     - t-001
 
 - id: c-184867
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 332"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 332."
   citata_originali: |
     Tiesa, tokių
     išpuolių pasitaikė nedaug, kiti konfliktai buvo sprendžiami teismuose.

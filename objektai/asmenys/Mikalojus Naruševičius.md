@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a8aa836430f2cc7254bf102a"
+canonical_name: "Mikalojus Naruševičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Naruševičius"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Mikalojus Naruševičius
 

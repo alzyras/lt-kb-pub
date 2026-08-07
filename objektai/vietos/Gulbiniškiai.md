@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-525949254ebfbf1723e3f2a7"
+canonical_name: "Gulbiniškiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gulbiniškiai"]
+sameAs: []
+canonical_biography: "X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps."
+place_authority: true
+historical_names: []
 ---
 # Gulbiniškiai
 
@@ -59,7 +68,8 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps.
 - id: c-40273
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     X GULBINIŠKIŲ KAUTYNĖS
 

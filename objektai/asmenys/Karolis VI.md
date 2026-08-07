@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2a10d4dab772d5ed7d36d011"
+canonical_name: "Karolis VI"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis VI"]
+sameAs: []
+canonical_biography: "Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą."
 ---
 # Karolis VI
 
@@ -52,7 +59,8 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 149."
   citata_originali: |
     Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
     Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
@@ -74,7 +82,8 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 149."
   citata_originali: |
     Todėl Makras,
     įteikdamas jį imperatoriui Zigmantui, pažymėjo, kad Ordinas

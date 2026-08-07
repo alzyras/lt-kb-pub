@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4da249f0914174bd2cac19e"
+canonical_name: "Jonas (Suomijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas (Suomijos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi, santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­ gusto seserimi."
 ---
 # Jonas (Suomijos kunigaikštis)
 
@@ -51,7 +58,8 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 - id: c-83691
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     La­
     biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-

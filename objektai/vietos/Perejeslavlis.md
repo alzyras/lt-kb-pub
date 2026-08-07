@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ad2a0253994ef0d90533c986"
+canonical_name: "Perejeslavlis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Perejeslavlis"]
+sameAs: []
+canonical_biography: "Jis pasidavė Maskvai, gaudamas Perejeslavlį."
+place_authority: true
+historical_names: []
 ---
 # Perejeslavlis
 
@@ -80,7 +89,8 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
 - id: c-93892
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 279."
   citata_originali: |
     Nuvykęs Maskvon, jis prikalbėjo
     kunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379-
@@ -101,7 +111,8 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
 - id: c-168444
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Gediminas, pasilsėjęs čia, kol artimiausios pi­
     lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­

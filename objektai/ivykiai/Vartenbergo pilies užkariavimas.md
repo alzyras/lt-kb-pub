@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-63208
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
   citata_originali: |
     Apie Vartenbergo pilies užkariavimą
     Pagonys, tiek kartų ir taip gausiai lieję krikščionių kraują, ir toliau nesiliovė jų

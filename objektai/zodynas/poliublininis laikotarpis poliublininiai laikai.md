@@ -128,7 +128,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - id: c-32680
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 53."
   citata_originali: |
     Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­
     kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­
@@ -150,7 +151,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - id: c-32682
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 71."
   citata_originali: |
     Istorikams tad, vystant savą istoriografiją, pirmiausia
     rūpėjo « surasti lietuvius Lietuvos istorijoje »^86. Ypač jų reikėjo
@@ -168,7 +170,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - id: c-96904
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 74."
   citata_originali: |
     Atidavęs savo duoklę dviem straipsniais «jaunųjų istorikų bū­
     relio » rinkinyje apie Vytautą D., labiausiai Šapoka tyrinėjo valsty­
@@ -191,7 +194,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - id: c-96906
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 55."
   citata_originali: |
     Palyginti, objektyviai išdės­
     tė jis ir 2-jį tomą. Baigdamas jį Žygimanto Augusto mirtimi

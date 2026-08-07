@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-44f3309a6a11d1ae00eb59fd"
+canonical_name: "Argentina"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Argentina"]
+sameAs: []
+canonical_biography: "De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias tada jau buvo pripažinusi de jure 21 valstybė)."
+place_authority: true
+historical_names: []
 ---
 # Argentina
 
@@ -61,7 +70,8 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 - id: c-49074
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 175."
   citata_originali: |
     Per 20 metų iš
     šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,

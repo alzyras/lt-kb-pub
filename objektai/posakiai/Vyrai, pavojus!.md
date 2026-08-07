@@ -55,7 +55,8 @@ media_all_json: |-
 - id: c-43204
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 243."
   citata_originali: |
     Atėjo ryšininkas
     Dangus ir pasakė, kad apylinkėje ramu, mama ruošia pusryčius, kuriuos netrukus atneš.
@@ -72,7 +73,8 @@ media_all_json: |-
 - id: c-43205
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 243."
   citata_originali: |
     Kalbėdamas su ryšininku pastebėjau, kad stovyklą supa čekistai ir sušukau: „Vyrai, pavo-
     jus!“ Dangus nubėgo į tą pusę, kur buvo čekistai. Kovos draugai, pašokę iš miego, griebėsi

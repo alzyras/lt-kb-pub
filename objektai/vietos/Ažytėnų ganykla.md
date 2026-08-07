@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e07b5d107c3f9a51478aadb"
+canonical_name: "Ažytėnų ganykla"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ažytėnų ganykla"]
+sameAs: []
+canonical_biography: "Ažytėnų ganykla apibūdinama kaip didelis mišku apaugęs plotas, turėjęs du vardus."
+place_authority: true
+historical_names: []
 ---
 # Ažytėnų ganykla
 
@@ -40,13 +49,12 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
 <a id="claim-t-195478"></a>
 - t-001
   teiginys: "Ažytėnų ganykla anuomet buvo vadinama dviem vardais: Pridotku ir Radviliškiu."
-  atnaujinta: "2026-07-12 04:09"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177899
-    - c-177900
 
 ## Citatos
 
@@ -76,8 +84,7 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
   citata_rodoma: "„Pridotkas ir Radviliškis.“"
   statusas: verified
   atnaujinta: "2026-07-12 04:09"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

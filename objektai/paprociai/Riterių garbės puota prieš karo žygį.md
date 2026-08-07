@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-83262
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 146-147"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 146-147."
   citata_originali: |
     Anglija, Škotija ir Prancūzija gerokai papildė sa-
     duodama 12 pūdų vaško: duodecem

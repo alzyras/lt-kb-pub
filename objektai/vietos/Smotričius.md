@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ca0ad8d24f85d9648b164f5"
+canonical_name: "Smotričius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Smotričius"]
+sameAs: []
+canonical_biography: "XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo mirties 1375 m. - Aleksandrui Karijotaičiui. Smotričių 1240 m. sunaikino totoriai. Smotričius yra sena Podolės gyvenvietė, minima jau XII a."
+place_authority: true
+historical_names: []
 ---
 # Smotričius
 
@@ -130,7 +139,8 @@ XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo 
 - id: c-170357
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 217."
   citata_originali: |
     Smotričius — sena Podolės gyvenvietė, minima jau XII a.,
     totorių sunaikinta 1240 m. Dabar UTSR Chmelnickio (buvusios Ka-

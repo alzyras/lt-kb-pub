@@ -168,7 +168,8 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
 - id: c-175097
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 617"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 617."
   citata_originali: |
     Kitas aukštesnysis luo-
     mas buvo atėjūnai vokiečiai bajorai, kurie čia gavo
@@ -188,7 +189,8 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
 - id: c-175098
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     tinės valdžios. Prireikus jie vadovavo ginkluotiems žmo­
     nėms, be to, iš jų buvo renkamas vyriausias karvedys,
@@ -210,7 +212,8 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
 - id: c-175099
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 368."
   citata_originali: |
     Turbūt
     šio krašto didikai buvo skandinavų kariai, avantiūristai

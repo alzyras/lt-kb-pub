@@ -63,7 +63,8 @@ Teodoras Narbutas 1835 m. Vilniuje išleido dviejų tomų veikalą „Horacego o
 - id: c-173416
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
   citata_originali: |
     5 Narbutt T. Wyborowe Ody i kantaty Jana Batisty Rousseau. -
     Wilno, 1832; Narbutt T. Horacego ody wszystkie. -  Wilno, 1835. -

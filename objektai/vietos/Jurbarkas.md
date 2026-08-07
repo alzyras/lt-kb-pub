@@ -37,6 +37,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dda9126bc6dcf93923cf11e5"
+canonical_name: "Jurbarkas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jurbarkas"]
+sameAs: []
+canonical_biography: "Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurios žemaičiai taip pat neįstengė išgriauti."
+place_authority: true
+historical_names: []
 ---
 # Jurbarkas
 
@@ -150,21 +159,21 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 <a id="claim-t-188701"></a>
 - t-007
   teiginys: "Narbutas Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, minėjo labai seną mūro pilį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumas: "susije_su -> Kiduliai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Jurbarkas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurbarkas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Kiduliai: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurbarkas\" parinktas kaip owner_note_path. Targetas \"Kiduliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171591
+    - c-171590
 
 <a id="claim-t-188702"></a>
 - t-008
@@ -294,7 +303,8 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - id: c-46509
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 72."
   citata_originali: |
     Durbės mūšis (1260 m.) ir jo padariniai. Pasistatęs Klai-
     pėdos pilį, Livonijos ordinas vėl ėmė pulti žemaičius. Po ilgų
@@ -312,7 +322,8 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - id: c-46510
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 77."
   citata_originali: |
     Bet
     dabar, po Durbės pralaimėjimo, jis buvo išvytas iš visos Žemai-
@@ -333,7 +344,8 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - id: c-79746
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 118."
   citata_originali: |
     Seniau jos sudarė ketvirtainį, kampuose su­
     tvirtintą bokštais, vienas jų, aukštesnis už kitus, stovi išlai­
@@ -355,7 +367,8 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - id: c-168326
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 194."
   citata_originali: |
     Vis dėlto, kai, pilyje užkūrus laužą ir šitaip
     7*
@@ -391,7 +404,8 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - id: c-171590
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
   citata_originali: |
     Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
     me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
@@ -404,14 +418,17 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   citata_rodoma: "Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­\nme, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­\n125\n\n## Puslapis 125\n\nko sienoje mačiau tos Dangaus karalienės bareljefinę figūrą iš\nnedailaus, bet labai patvaraus gipso."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-171591
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     Skaityk žemiau atitinkamus straipsnius.
     Ji turėjo savo šventyklą vietovėje, kuri iki šiol tebesivadina
@@ -423,13 +440,12 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
     - t-008
 
 - id: c-184950
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 235"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 235."
   citata_originali: |
     Ir vėl taip iki laivybos sezono pabaigos.
     1613 m. Jurbarko muitinės knyga pateikia detalesnius vežamų prekių aprašus.
@@ -442,9 +458,9 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
     - t-009
 
 - id: c-184951
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 389"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 389."
   citata_originali: |
     Kiti miestai turėjo mokėti kur kas mažiau, daugiausia Brestas ir Kije-
     vas, - po 200 kapų grašių, Minskas, Mogiliavas, Pinskas - po 150 kapų grašių, Gar-

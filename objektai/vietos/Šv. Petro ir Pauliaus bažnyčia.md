@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cbe0487cdce17851c76a1758"
+canonical_name: "Šv. Petro ir Pauliaus bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Petro ir Pauliaus bažnyčia"]
+sameAs: []
+canonical_biography: "Petro ir Pauliaus bažnyčią su įsikūrusiomis susidarančiuose priemiesčiuose trimis jai pavaldžiomis bažnytėlėmis-koplyčiomis (Šv."
+place_authority: true
+historical_names: []
 ---
 # Šv. Petro ir Pauliaus bažnyčia
 
@@ -41,9 +50,9 @@ Petro ir Pauliaus bažnyčią su įsikūrusiomis susidarančiuose priemiesčiuos
 ## Citatos
 
 - id: c-185098
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 318"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 318."
   citata_originali: |
     Kaunas iš viduramžių
     paveldėjo parapinę Šv. Petro ir Pauliaus bažnyčią su įsikūrusiomis susidarančiuose

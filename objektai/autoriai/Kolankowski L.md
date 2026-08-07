@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1da0be33e03ec703fc094c99"
+canonical_name: "Kolankowski L"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kolankowski L"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kolankowski L."
 ---
 # Kolankowski L
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad kolankowski L.
 - id: c-61360
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     Kolankowski L. Litwini a Prusacy.— Pamiętnik V powszechnego zjazdu historyków
     polskich w Warszawie 1930 r., Lwów, 1931, t. 2, s. 158—162.

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df8bd790abecf743cea2c1bd"
+canonical_name: "Konradas von Jungingen"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas von Jungingen"]
+sameAs: []
+canonical_biography: "1394 m. vasarą pats vyriausias magistras Konradas von Jungingen su gau­ siais svečiais suruošė didelį žygį Lietuvon^3. Jungingenas galutinai patvir­ tino sutartį^6."
 ---
 # Konradas von Jungingen
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-32776
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 332"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 332."
   citata_originali: |
     Jogailos jam pavestą valdyti Lietuvą. 1394 m.
     vasarą pats vyriausias magistras Konradas von Jungingen su gau­

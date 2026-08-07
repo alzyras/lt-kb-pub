@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-39dd3b7bc7bc458bfe389eab"
+canonical_name: "Jasai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jasai"]
+sameAs: []
+canonical_biography: "1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės. Lenkijos kariuomenė buvo sunaikinta, žuvo pats didysis karūnos etmonas, kadaise užėmęs Maskvą, S."
+place_authority: true
+historical_names: []
 ---
 # Jasai
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-45110
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 114."
   citata_originali: |
     1620 m. Lenkijos kariuomenė įžengė
     į Valakiją ir mūšyje prie Cecoro ne-

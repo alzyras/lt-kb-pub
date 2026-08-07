@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-266423d03d5cd491b032a04e"
+canonical_name: "Jonas Kropidla"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Kropidla"]
+sameAs: []
+canonical_biography: "Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­ liaus bei Mozūrų Ziemovito. Jonas Kropidla galėtų, kurtų pačius Vytautus^1 )."
 ---
 # Jonas Kropidla
 
@@ -62,7 +69,8 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 311."
   citata_originali: |
     Tai buvo, tiesa, tik didelio darbo pradmens, bet tuo metu nie­
     kas Europoje negalėjo net bandyti prilygti savo darbais didžia­
@@ -86,7 +94,8 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 220."
   citata_originali: |
     Bet buvo ir tokių reikalų, kur Vytautas pasireikšdavo ne
     vien patarėju, bet ir teisėju. Kartą buvo kilęs ginčas tarp Vloc­

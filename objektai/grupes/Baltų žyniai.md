@@ -66,7 +66,8 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
 - id: c-59626
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
   citata_originali: |
     Todėl turbūt galima manyti,
     jog vyriausieji žyniai tikrai buvo, šalia jų egzistavo, matyt, ir žemesnio rango žyniai,
@@ -84,7 +85,8 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
 - id: c-59627
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 67-68"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67-68."
   citata_originali: |
     63—
 

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-136d514adb58ffc40dbb5a8d"
+canonical_name: "Vilhelmas Fiurstenbergas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vilhelmas Fiurstenbergas"]
+sameAs: []
+canonical_biography: "Karalius sutiko neprieštarauti taikai, jei magistras Vilhelmas Fiurstenbergas pats jos paprašys ir grąžins arkivyskupą į sostą."
 ---
 # Vilhelmas Fiurstenbergas
 
@@ -47,7 +54,8 @@ Karalius sutiko neprieštarauti taikai, jei magistras Vilhelmas Fiurstenbergas p
 - id: c-169448
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 698"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 698."
   citata_originali: |
     Iš žvalgų sužino­
     jęs, kokia didžiulė karaliaus kariuomenė, bemat paliovė

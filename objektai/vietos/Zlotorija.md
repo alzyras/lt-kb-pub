@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-783ee3dd7b317d9c326c4cef"
+canonical_name: "Zlotorija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zlotorija"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Zlotorija
 

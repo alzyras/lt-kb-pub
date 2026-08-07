@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e62f941534dab05a34fba804"
+canonical_name: "Romanovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Romanovas"]
+sameAs: []
+canonical_biography: "Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame galėjęs augti šventasis ąžuolas arba būti šventykla."
+place_authority: true
+historical_names: []
 ---
 # Romanovas
 
@@ -54,7 +63,8 @@ Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame
 - id: c-171942
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
   citata_originali: |
     Pasak vietos padavimų, jis buvo
     laikomas šventu. Priėjo, vaizdingoje vietoje, yra kaimas, vadi­

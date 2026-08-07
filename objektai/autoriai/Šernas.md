@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15876fc2058f9d303459ab5a"
+canonical_name: "Šernas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Šernas"]
+sameAs: []
+canonical_biography: "Tik vienas Šernas savo „Lietuviškoje Ceitungoje\" buvo pradėjęs spausdinti patriotiškus straipsnius - apie garbingą lietuvių praeitį ir apie sunkų dabartinį svetimųjų jungą. 1878 m. Šerno redaguojamoji „Lietuviška Ceitunga\" net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat, joje buvo pradėję rašyti ir vėlesnieji „Aušros\" bendradarbiai)."
 ---
 # Šernas
 
@@ -50,7 +57,8 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
 - id: c-01411
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 514."
   citata_originali: |
     Visi jie buvo vien informacinio pobūdžio, ir tautiškosios
     sąmonės ugdymu nesirūpino. Tik vienas Šernas savo „Lie-

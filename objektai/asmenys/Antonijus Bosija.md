@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-86f19e8fb89b958b5e680a82"
+canonical_name: "Antonijus Bosija"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antonijus Bosija"]
+sameAs: []
+canonical_biography: "Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapio statulą su į kryžių panašiu ženklu."
 ---
 # Antonijus Bosija
 
@@ -53,7 +60,8 @@ Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapi
 - id: c-173012
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 381."
   citata_originali: |
     Joną, šone, atgręžtame į
     šventuosius laiptus (ad scala sancta), tarp hieroglifų yra pana­

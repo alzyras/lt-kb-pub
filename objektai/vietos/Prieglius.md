@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ec89e4fffbaf3d470667a22"
+canonical_name: "Prieglius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Prieglius"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitinkamų prūsiškų žodžių caymis, ape, garbis,— į vakarus. Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m. Dusburgietis teigia, kad 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t."
+place_authority: true
+historical_names: []
 ---
 # Prieglius
 
@@ -143,7 +152,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - id: c-59000
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
     apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.
@@ -162,7 +172,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - id: c-59002
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     Becenbergeris nustatė, kad
     vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
@@ -186,7 +197,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - id: c-59003
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
     Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas
@@ -212,7 +224,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - id: c-59004
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
@@ -229,7 +242,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - id: c-167578
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 121-122"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121-122."
   citata_originali: |
     Šioje vietoje, apie
 

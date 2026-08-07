@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-305131ace271e148ea73ebb6"
+canonical_name: "V. Maciūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Maciūnas"]
+sameAs: []
+canonical_biography: "Maciūnas : Orzechowski, LE, t."
 ---
 # V. Maciūnas
 
@@ -55,7 +62,8 @@ Maciūnas : Orzechowski, LE, t.
 - id: c-177236
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 18."
   citata_originali: |
     Susidomėjimas
     lietuvių mitologija plito tarp Vilniaus universiteto studentų ir

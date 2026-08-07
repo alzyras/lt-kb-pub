@@ -203,7 +203,8 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
 - id: c-16376
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 29."
   citata_originali: |
     Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
     tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
@@ -224,7 +225,8 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
 - id: c-16377
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 29."
   citata_originali: |
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
     jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
@@ -243,7 +245,8 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
 - id: c-16380
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 30."
   citata_originali: |
     tarsi užbaigia valstybės susikūrimą, nes Lietuvą pripažino to meto pasau-
     lis. Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai dau-
@@ -286,7 +289,8 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
 - id: c-25426
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 29."
   citata_originali: |
     Mindaugo vainikavimas
     Mindaugo karūnacija.

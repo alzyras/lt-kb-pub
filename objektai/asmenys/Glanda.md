@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3ff1e77f6e4630f73c611ad2"
+canonical_name: "Glanda"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Glanda"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo."
 ---
 # Glanda
 
@@ -67,7 +74,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-60926
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
     netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug

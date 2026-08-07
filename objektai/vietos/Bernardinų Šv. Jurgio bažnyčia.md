@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c5e624f864ad78c38bf6f3c"
+canonical_name: "Bernardinų Šv. Jurgio bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bernardinų Šv. Jurgio bažnyčia"]
+sameAs: []
+canonical_biography: "Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Raižinio kairėje dalyje virš masyvaus pastato su bokšteliu per vidurį užrašyta Monast minorum de observantia, tai reiškia bernardinų vienuolyną."
+place_authority: true
+historical_names: []
 ---
 # Bernardinų Šv. Jurgio bažnyčia
 
@@ -59,9 +68,9 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Raižinio k
 ## Citatos
 
 - id: c-185051
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 197"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 197."
   citata_originali: |
     Tokį kelią Kaune nuėjo laivavedžiai. Jų Angelo Sargo brolija 1617 m. ėmė rink-
     tis prie bernardinų Šv. Jurgio bažnyčios.
@@ -74,9 +83,9 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Raižinio k
     - t-001
 
 - id: c-185052
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 386"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 386."
   citata_originali: |
     Raižinio kairėje dalyje virš masyvaus pastato su bokšteliu per
     vidurį užrašyta Monast minorum de observantia, tai reiškia bernardinų vienuolyną.

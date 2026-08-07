@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b3661111099a84b7a3ecd4ca"
+canonical_name: "Psiolas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Psiolas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Psiolas
 

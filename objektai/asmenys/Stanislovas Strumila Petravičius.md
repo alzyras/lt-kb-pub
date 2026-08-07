@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cfa48e7248839519191c7586"
+canonical_name: "Stanislovas Strumila Petravičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Strumila Petravičius"]
+sameAs: []
+canonical_biography: "Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių protestuoti dėl paliaubų sulaužymo. Stanislovas Strumila Petravičius, Smolensko vietininkas, derėjosi su Ivanu ir reikalavo atlyginti skriaudas."
 ---
 # Stanislovas Strumila Petravičius
 
@@ -73,7 +80,8 @@ Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių p
 - id: c-169526
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 535"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 535."
   citata_originali: |
     Mat prieš keletą mėnesių labai turtingi
     ir kilmingi kunigaikščiai Belskiai, Boratinskiai ir Voro-
@@ -104,7 +112,8 @@ Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių p
 - id: c-169527
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 557"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 557."
   citata_originali: |
     Sutelkę jėgas, visi kartu užpuolė
     Brianską ir dėl rusų klastingos išdavystės be vargo

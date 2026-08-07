@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6530b1f1b7fd50f71e2fb800"
+canonical_name: "Rosliakovas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Rosliakovas"]
+sameAs: []
+canonical_biography: "Gydytojas Rosliakovas apie 1809 m. surašė nenurodyto Kaukazo dialekto rankraštinį žodynėlį."
 ---
 # Rosliakovas
 
@@ -64,7 +71,8 @@ Gydytojas Rosliakovas apie 1809 m. surašė nenurodyto Kaukazo dialekto rankraš
 - id: c-173334
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Tokios nuomo­
     nės yra Malte-Brunas (Vocabulaire de mots génériques). Bet labiau

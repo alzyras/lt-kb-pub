@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c3e2de5254bf672875b6a42b"
+canonical_name: "Aleksas Jefremovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksas Jefremovičius"]
+sameAs: []
+canonical_biography: "146 - prieraš.) pasakoja, kad 1432 metais vietininkai Joachimas ir Alek­ sas Jefremovičius su Pskovo bojari­ nais atvyko pas Švitrigailą ir sudarė su juo sutartį, kurioje patvirtinta se­ novinės sienos, kaip buvę Vytauto laikais."
 ---
 # Aleksas Jefremovičius
 
@@ -59,7 +66,8 @@ media_all_json: |-
 - id: c-83596
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 230."
   citata_originali: |
     Palenkdamas rusų bojari-
     10

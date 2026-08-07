@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f4f2fac5cfb7e71081b8a7d6"
+canonical_name: "Vredė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vredė"]
+sameAs: []
+canonical_biography: "Profesorius Vredė pastabose apie Vitlandiją nurodė, kad vandens užtvindytas atstumas tarp Kolhauzo ir Kamstigao sudarė apie 1900 rykščių."
 ---
 # Vredė
 
@@ -59,7 +66,8 @@ Profesorius Vredė pastabose apie Vitlandiją nurodė, kad vandens užtvindytas 
 - id: c-174570
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 351."
   citata_originali: |
     Tiek daug žinių apie Vitlandijos žemės egzistavimą
     galima pasisemti iš šios sutarties. Prie to dar pridurki­

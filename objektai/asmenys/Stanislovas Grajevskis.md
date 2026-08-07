@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-892262910f540ea756f66457"
+canonical_name: "Stanislovas Grajevskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Grajevskis"]
+sameAs: []
+canonical_biography: "Dar 1537 m. Kauno seniūniją valdžiusio Jono Radvilos vietininkas Stanislovas Grajevskis nagrinėjo Ukmergės bajoro Motiejaus Gintautavičiaus bylą su Kauno miestiečiais Laurynu ir Petru Nestiukais dėl valstiečių Jakubavičių kartu su teisėju Teodoru Klimavičiumi."
 ---
 # Stanislovas Grajevskis
 
@@ -49,9 +56,9 @@ Dar 1537 m. Kauno seniūniją valdžiusio Jono Radvilos vietininkas Stanislovas 
 ## Citatos
 
 - id: c-185548
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 157"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 157."
   citata_originali: |
     Lietuvos Statute numatytą vadinamųjų žemės teismų organizavimą.
     Dar 1537 m. Kauno seniūniją valdžiusio Jono Radvilos vietininkas Stanislovas Gra-

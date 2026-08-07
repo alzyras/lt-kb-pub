@@ -87,7 +87,8 @@ Nenurodyta
 - id: c-05436
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 218."
   citata_originali: |
     Neramiame
     pomindauginiame laikotarpyje smulkios Žemaičių sritinės kuni­
@@ -109,7 +110,8 @@ Nenurodyta
 - id: c-67236
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 193."
   citata_originali: |
     **2. Žemaičių kunigaikštystės privilegija**
     Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų

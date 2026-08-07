@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3ae55fbb927481766490ad1c"
+canonical_name: "Arnoldas iš Elnerio"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Arnoldas iš Elnerio"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų."
 ---
 # Arnoldas iš Elnerio
 
@@ -84,7 +91,8 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - id: c-60871
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais
 

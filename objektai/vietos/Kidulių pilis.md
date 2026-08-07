@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b25c6ed5dadf51f9e2b83b7"
+canonical_name: "Kidulių pilis (pilis, XIX a.)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kidulių pilis","Kidulių pilis (pilis, XIX a.)"]
+sameAs: []
+canonical_biography: "Narbutas Kidulių kaime, netoli Jurbarko, Nemuno kairiajame krante, minėjo labai seną mūro pilį. Narbutas iliustracijų sąraše nurodė, kad Kidulių pilyje rasta lipdyta jo vadintos dievaitės Perkūnaitėlės statulėlė."
+place_authority: true
+historical_names: []
 ---
 # Kidulių pilis (pilis, XIX a.)
 
@@ -80,7 +89,8 @@ Narbutas Kidulių kaime, netoli Jurbarko, Nemuno kairiajame krante, minėjo laba
 - id: c-171841
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
   citata_originali: |
     Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
     me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­
@@ -102,7 +112,8 @@ Narbutas Kidulių kaime, netoli Jurbarko, Nemuno kairiajame krante, minėjo laba
 - id: c-171842
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 465"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 465."
   citata_originali: |
     458
 

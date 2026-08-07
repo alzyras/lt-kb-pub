@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ddc4fd4229dd8d714ce0b03f"
+canonical_name: "Eustachijus Tiškevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eustachijus Tiškevičius"]
+sameAs: []
+canonical_biography: "Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė institucija, sutelkusi krašto visuomenę."
 ---
 # Eustachijus Tiškevičius
 
@@ -119,7 +126,8 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
 - id: c-83644
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 13."
   citata_originali: |
     Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
     mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
@@ -141,7 +149,8 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
 - id: c-173735
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 385."
   citata_originali: |
     Taip buvo pasakyta apie baltarusių pilkapius. In­
     formaciją apie

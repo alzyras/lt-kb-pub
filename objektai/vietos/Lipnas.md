@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-585fe10ac448e2978bf74091"
+canonical_name: "Lipnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lipnas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Lipnas
 

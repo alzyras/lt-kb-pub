@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d594ad6110c7839be18666fa"
+canonical_name: "Z. Raulinaitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Z. Raulinaitis"]
+sameAs: []
+canonical_biography: "Raulinaitis, Z."
 ---
 # Z. Raulinaitis
 
@@ -61,7 +68,8 @@ Raulinaitis, Z.
 - id: c-33212
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 119."
   citata_originali: |
     — (”) _Kovos kirviai Lietuvoje anksty­
     vojo feodalizmo laikotarpiu_ , AkMD, t. 16, 1964, 101-114 p. — (”) _Anksty­

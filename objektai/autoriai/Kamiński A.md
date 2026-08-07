@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9c21cf58ae8a89c349330612"
+canonical_name: "Kamiński A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kamiński A"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro upių; Zilijos valsčius tuo metu greičiausiai buvo į šiaurę nuo Bebro—Elko santakos, jis galėjo aprėpti ir Raigardo (Rajgród) apylinkes, eiti link Augustavo (Kamiński A., Jaćwież, p. 46— 47, 96—98; to paties."
 ---
 # Kamiński A
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro u
 - id: c-87571
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     baltai gyveno  į šiaurę nuo Narevo  ir, matyt, Bebro
     upių; Zilijos valsčius tuo metu greičiausiai buvo  į šiaurę nuo Bebro—Elko santakos, jis
@@ -80,7 +88,8 @@ Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro u
 - id: c-178998
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 162."
   citata_originali: |
     Trumpai
     drūtai kalbant, jis nelyginant Gedeonas iš daugybės karių tepasiėmė 300 vyrų, su kuriais

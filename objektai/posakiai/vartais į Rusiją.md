@@ -61,7 +61,8 @@ CHOTINO MŪŠIS 117 ## Puslapis 120 E -KURSO KUNIGAIKŠTYSTĖ S res Livontios KU
 - id: c-44970
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 119-120"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 119-120."
   citata_originali: |
     1621 m. rugsėjo 22-spalio 10 d. CHOTINO MŪŠIS 117
 

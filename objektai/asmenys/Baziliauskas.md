@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bdcb3af855b912abbc5f8f03"
+canonical_name: "Baziliauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Baziliauskas"]
+sameAs: []
+canonical_biography: "Būrininkas Baziliauskas nusmeigė dar kelis komisarus, ir tuo būdu per minutę buvo likviduotas divizijos štabas."
 ---
 # Baziliauskas
 
@@ -50,7 +57,8 @@ Būrininkas Baziliauskas nusmeigė dar kelis komisarus, ir tuo būdu per minutę
 - id: c-41869
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 189."
   citata_originali: |
     Leitenantas Barkauskas puolė į bolševikų štabą, kur miegojo aštuoni komisarai. Kai
     pašvietė lempute ir įsakė stoti ir kelti rankas aukštyn, tai vienas komisarų, gulėjęs prie

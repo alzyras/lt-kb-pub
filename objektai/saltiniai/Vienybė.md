@@ -58,7 +58,8 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
 - id: c-02545
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 537"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 537."
   citata_originali: |
     įkurta Šv. Kazimiero Draugija knygoms ir laikraš-
     čiams leisti (ji leido „Ned. Skaitymą", iš kurio vėliau atsirado

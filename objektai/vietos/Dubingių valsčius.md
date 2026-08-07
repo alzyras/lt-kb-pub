@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-863e3622e5cbb3bbfc98d266"
+canonical_name: "Dubingių valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dubingių valsčius"]
+sameAs: []
+canonical_biography: "(Dovanojame) mūsų dvarą Me­ dininkų valsčiuje; kurį kitados val­ dė broliai Ivaška ir Fedka, vadina­ mi Korevičiais, ir vieną žemę, taip pat mūsų valdinio, vadinamo Andriušiu, prie to paties dvaro esančią."
+place_authority: true
+historical_names: []
 ---
 # Dubingių valsčius
 
@@ -51,7 +60,8 @@ media_all_json: |-
 - id: c-82158
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 239."
   citata_originali: |
     [Dievobaimin­
     ga širdimi apsvarstę pirmuosius

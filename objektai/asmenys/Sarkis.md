@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-03c4059e9a0dd53357ccabe0"
+canonical_name: "Sarkis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sarkis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas galingas skalvių vyras, vardu Sarkis, pilininkas Sarkų pilies473, šitaip pavadintos nuo jo vardo ir stovėjusios toje Skalvos dalyje, kuri Lietuvos žemės pasienyje474. Dusburgietis teigia, kad sarkis pasiuntė savo žygūnus pas Klaipėdos komtūrą, nuolankiai ir pamaldžiai jį prašydamas atžygiuoti su savo ginklanešiais ir jį, norintį su visais namais ir šeimyna išsižadėti stabmeldystės ir priimti krikšto malonę, smurtu išsivesti, nes jis išvengsiąs netikėlių rankų tada, kai atsidursiąs galingo žmogaus globoje. Dusburgietis teigia, kad tačiau pačią pirmąją naktį, kai broliai ilsėjosi savo palapinėse, Sarkis, be galo stiprus vyras, sutraukė pančius, kuriais buvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius, o kitam nukirto ranką, tačiau ir pats šioje."
 ---
 # Sarkis
 
@@ -98,7 +105,8 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
 - id: c-60696
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 157."
   citata_originali: |
     Šitai
     išgirdęs, komtūras, nenorėdamas, kad Sarkis turėtų kokios naudos iš tos nedorybės,
@@ -120,7 +128,8 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
 - id: c-60697
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 157."
   citata_originali: |
     Apie tai, kaip norėta išduoti brolius
 
@@ -140,7 +149,8 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
 - id: c-60698
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 156-157"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 156-157."
   citata_originali: |
     474 D. — que tangit lerram Lethowie. Lietuvos žeme Dusburgietis čia vadina Karšuvą
 

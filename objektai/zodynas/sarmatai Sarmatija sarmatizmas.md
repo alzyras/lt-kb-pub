@@ -62,7 +62,8 @@ Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo 
 - id: c-168729
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 755"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 755."
   citata_originali: |
     Iš sarmatų save kildino Lenkijos šlėktos, tuo rem­
     dami pažiūrą, kad būtent jų protėviai ir lėmė daugelio Europos tau­

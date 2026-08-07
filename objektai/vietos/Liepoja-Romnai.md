@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-904e81c1964726395d61b999"
+canonical_name: "Liepoja-Romnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liepoja-Romnai"]
+sameAs: []
+canonical_biography: "Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai."
+place_authority: true
+historical_names: []
 ---
 # Liepoja-Romnai
 
@@ -31,7 +40,8 @@ Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterbur
 - id: c-24244
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 120."
   citata_originali: |
     Absoliučią tautos daugumą sudarė valstiečiai, apie 26 000 lietuvių
     dirbo pramonės įmonėse ir vertėsi amatais, inteligentijai santykinai

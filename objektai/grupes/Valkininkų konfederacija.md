@@ -114,7 +114,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - id: c-42969
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 141."
   citata_originali: |
     Jų alga - trisdešimt livry už ketvirtį.“
 
@@ -142,7 +143,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - id: c-42970
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 141."
   citata_originali: |
     Priėmusi nutarimą respubli-
     konų kariuomenė nužygiavo į Vilnių, kur
@@ -171,7 +173,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - id: c-75802
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 393"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 393."
   citata_originali: |
     Tas raštas pasirašytas visų žymesniųjų Sapiegų priešų, bajorijos
     vadų (Višniaveckio, Oginskio, Katilo, Radvilos, Pociejaus ir kt.). Jis
@@ -190,7 +193,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - id: c-175891
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 390"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 390."
   citata_originali: |
     Tačiau Sapiegų priešų jėgos
     buvo didesnės: prieš Sapiegas buvo susirinkusi beveik visos

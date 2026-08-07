@@ -114,7 +114,8 @@ Nenurodyta
 - id: c-172674
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Tačiau ir man
     pačiam yra tekę girdėti, kad kai kuriuose kaimuose šliaužo
@@ -135,7 +136,8 @@ Nenurodyta
 - id: c-172675
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
     jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
@@ -157,7 +159,8 @@ Nenurodyta
 - id: c-179096
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 204."
   citata_originali: |
     Lietuviai tam tikriems burtams naudodavo žvakes, paga­
     mintas iš žalčio taukų, nes, tokią žvakę uždegus, atvykdavo žal­

@@ -103,7 +103,8 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
 - id: c-67342
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 309."
   citata_originali: |
     Bet visos valdžios valstybėje Skirgaila neturėjo. O Vilnių
     Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
@@ -123,7 +124,8 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
 - id: c-67343
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 100."
   citata_originali: |
     **1. Akmens amžiaus laikai iki indoeuropiečiu pasirodymo**^1
 
@@ -147,7 +149,8 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
 - id: c-67344
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
   citata_originali: |
     P. 72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123.
   statusas: verified
@@ -161,7 +164,8 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
 - id: c-176411
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
   citata_originali: |
     P. 79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175.
   statusas: verified

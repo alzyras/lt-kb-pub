@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-189872"></a>
 - t-001
   teiginys: "Narbutas rašė, kad lietuvių genčių dainiai kai kuriose giesmėse šaukdavosi Santvaro, kartais ir Lėlio."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-172755
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
   citata_originali: |
     Vyskupo Petro rankraštyje aptinkame: „jie garbi­
     no vandenį, vadindami Atropos, kurį laikė kilniu elementu“.
@@ -109,7 +110,8 @@ Nenurodyta
 - id: c-179093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
   citata_originali: |
     Užkalbėjimai nuo gyva­
     čių įkandimo, augalų gydomųjų savybių atradimas, žodžiu, visa

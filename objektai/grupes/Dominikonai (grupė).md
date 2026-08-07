@@ -59,9 +59,9 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
 ## Citatos
 
 - id: c-184587
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 543"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 543."
   citata_originali: |
     Visi atėjimai gaus liecyba®, arba pri-
     vilijas, Rygos miesto, jei jie kitų geresnių neišma­
@@ -83,9 +83,9 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
     - t-001
 
 - id: c-184822
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 375"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 375."
   citata_originali: |
     Jurgio bažny-
     čios altoriai. Vienintelė didesnė statyba, kurios plane ir išorėje galėjo būti naudoja-

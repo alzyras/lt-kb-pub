@@ -58,9 +58,9 @@ Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugoda
 ## Citatos
 
 - id: c-184554
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 146"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 146."
   citata_originali: |
     § XV
     Kernius ir Gimbutas Lietuvos ir Žemaičių
@@ -93,9 +93,9 @@ Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugoda
     - t-001
 
 - id: c-184555
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 150"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 150."
   citata_originali: |
     Įėjusiu į Juodgirė-
     nus (šiandien Baltaisiais Gudais vadinamus) pasis-

@@ -110,7 +110,8 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
 - id: c-168741
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 271."
   citata_originali: |
     Šiaip ar taip, visada pavojinga karo
     vadui, patikėjus jam duotu garbės žodžiu, atsidurti
@@ -147,7 +148,8 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
 - id: c-168742
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 272."
   citata_originali: |
     Ši
     aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­

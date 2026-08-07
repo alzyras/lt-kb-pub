@@ -72,7 +72,8 @@ Nenurodyta
 - id: c-82936
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 290-291"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 290-291."
   citata_originali: |
     Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
     lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus

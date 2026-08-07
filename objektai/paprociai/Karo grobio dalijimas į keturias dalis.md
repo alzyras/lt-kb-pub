@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-09936
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 299-300"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 299-300."
   citata_originali: |
     Sugrietąjį nuo neprietelių grobį karėj visados į keturias dalis dalijo. Visų gerąją atdavė savo
         dievams. Antroji teko kūrėjų kūrėjui ar kunigaikščiui ir jo tarnams arba kunigams. Trečiąją gavo
@@ -95,9 +96,9 @@ Nenurodyta
     - t-001
 
 - id: c-184294
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 68"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 68."
   citata_originali: |
     Kaipogi Brutenis sukvietęs visus kareivius ties
     savo rūmais, idant savo dievams padėkavotų ir mei­

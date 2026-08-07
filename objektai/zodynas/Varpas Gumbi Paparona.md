@@ -32,7 +32,7 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
 <a id="claim-t-194691"></a>
 - t-001
   teiginys: "Jos draugas arba vyras buvo Varpas (Warpas), šaukiąs keltis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -40,7 +40,7 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-179156
+    - c-177088
 
 <a id="claim-t-197378"></a>
 - t-002
@@ -84,7 +84,8 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
 - id: c-177088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 147."
   citata_originali: |
     Budintoja (Budintoja)
     Budėjimui prielanki deivė, pratusi reikiamu momentu pa­
@@ -95,14 +96,17 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
   citata_rodoma: "Budintoja (Budintoja)\nBudėjimui prielanki deivė, pratusi reikiamu momentu pa­\nžadinti miegančiuosius. Tik tiek težinome iš Lasickio.\nTačiau iš žmonių pasakojimų aiškėja, kad ji buvo Brėkštos\npriešingybė, kitaip sakant, nekentė tamsos ir miegalių. Jos\ndraugas arba vyras buvo Varpas (Warpas), šaukiąs keltis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-179156
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 162."
   citata_originali: |
     Tai yra jis buvo atsikartojantis
     garsas, vadinasi, aidas.
@@ -115,5 +119,4 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

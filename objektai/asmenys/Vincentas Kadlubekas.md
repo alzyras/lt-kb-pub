@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5e658a673e934311902c27b8"
+canonical_name: "Vincentas Kadlubekas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vincentas Kadlubekas"]
+sameAs: []
+canonical_biography: "Narbutas, cituodamas Kadlubeką, rašė, kad Maslavo kariuomenėje prieš lenkų karalių Kazimierą jotvingiai kovojo šalia mozūrų ir prūsų."
 ---
 # Vincentas Kadlubekas
 
@@ -55,7 +62,8 @@ Narbutas, cituodamas Kadlubeką, rašė, kad Maslavo kariuomenėje prieš lenkų
 - id: c-174133
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 115."
   citata_originali: |
     Lais­
     vų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-557ed70149468d032ed5649e"
+canonical_name: "Jonas Spudulis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Spudulio","Jonas Spudulis"]
+sameAs: []
+canonical_biography: "Jonas Spudulis minimas kaip laiško Adomui Dambrauskui-Jakštui autorius aušrininkų santykio su XIX a. pirmosios pusės Lietuvos bajorų lenkiška romantine kūryba kontekste."
 ---
 # Jonas Spudulis
 
@@ -67,7 +74,8 @@ Jonas Spudulis minimas kaip laiško Adomui Dambrauskui-Jakštui autorius aušrin
 - id: c-170755
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
   citata_originali: |
     Jonas Basanavičius 1897 m. išvertė į lietuvių kalbą ir išlei­
     do „Grovo Kyburgo kelionę“. XIX a. pirmosios pusės Lietu­

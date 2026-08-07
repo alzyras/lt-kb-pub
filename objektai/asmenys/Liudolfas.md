@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-febb5715a5e042473b11dea4"
+canonical_name: "Liudolfas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudolfas"]
+sameAs: []
+canonical_biography: "Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado protą ir netrukus mirė."
 ---
 # Liudolfas
 
@@ -78,7 +85,8 @@ Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado prot�
 - id: c-169502
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 230."
   citata_originali: |
     Pasinaudoję ta proga, surengė žygį lietuviai ir
     žemaičiai, gal patys šitai sugalvoję ar prisiminę senas

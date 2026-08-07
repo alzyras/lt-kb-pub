@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-722a098bb4f2760ba95e388d"
+canonical_name: "Juozefas Mianovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozefas Mianovskis"]
+sameAs: []
+canonical_biography: "Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi­ rurgijos Akademijos adjunkto pono Juzefo Mianovskio užmiesčio na­ mas, pramintas Belvederiu."
 ---
 # Juozefas Mianovskis
 
@@ -50,7 +57,8 @@ Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi
 - id: c-83716
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 291"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291."
   citata_originali: |
     Sklypas, skir­
     tas fabrikui statyti, buvo „prie Vil­

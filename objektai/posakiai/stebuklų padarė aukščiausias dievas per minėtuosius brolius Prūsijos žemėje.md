@@ -32,7 +32,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 <a id="claim-t-89604"></a>
 - t-001
   teiginys: "Pratarmėje pirmųjų Ordino brolių veikla Prūsijoje apibūdinta žodžiais, kad per juos „stebuklų padarė aukščiausias dievas“."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 <a id="claim-t-89606"></a>
 - t-003
   teiginys: "Petras Dusburgietis kronikos pratarmėje rašė, kad aukščiausias Dievas per Ordino brolius Prūsijoje padarė stebuklų."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -83,7 +83,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 <a id="claim-t-197054"></a>
 - t-005
   teiginys: "Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems broliams."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -130,7 +130,8 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 - id: c-85545
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
     Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,
     atsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius
@@ -151,7 +152,8 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 - id: c-85546
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
     Toliau
     Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne
@@ -167,7 +169,8 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 - id: c-85548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
     Toliau
     Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne
@@ -188,7 +191,8 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 - id: c-167425
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
     Štai tokių didžiulių
     „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“. Toliau

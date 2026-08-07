@@ -59,7 +59,8 @@ XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus univer
 - id: c-173397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 18."
   citata_originali: |
     Susidomėjimas
     lietuvių mitologija plito tarp Vilniaus universiteto studentų ir

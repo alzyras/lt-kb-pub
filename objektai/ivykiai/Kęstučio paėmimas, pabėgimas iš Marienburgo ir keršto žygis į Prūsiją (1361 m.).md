@@ -65,7 +65,8 @@ Nenurodyta
 - id: c-168964
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 242."
   citata_originali: |
     Kadangi čia, pabjurus dėl nuolatinių liūčių keliams,
     suvokė nelaimėsią to, ko norėjo, be to, nenorėdami iš

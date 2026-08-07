@@ -61,7 +61,8 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 - id: c-24699
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 172."
   citata_originali: |
     1938 m. lapkričio 1 d. įkurtas Antano
     Smetonos lituanistikos institutas – mokslo įstaiga, kuri turėjo tirti lietuvių

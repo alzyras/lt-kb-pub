@@ -58,7 +58,8 @@ PVL = Povest’ vremennych let, cast’ pervaja.
 - id: c-30085
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 21."
   citata_originali: |
     PVL = Povest’ vremennych let, cast’ pervaja. Tekst i perevod.
     Leningradas 1951.

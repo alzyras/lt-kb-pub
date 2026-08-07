@@ -82,7 +82,8 @@ Nenurodyta
 - id: c-83205
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166-167"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166-167."
   citata_originali: |
     Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
     su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,

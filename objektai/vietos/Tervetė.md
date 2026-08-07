@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d674aff33801ce3d57f2184d"
+canonical_name: "Tervetė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tervetė"]
+sameAs: []
+canonical_biography: "Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę nuo Žagarės)^164 , jie pasistatė minėtą Dobę, kurią tuoj, sukilėliams talkininkaudami, puolė žemaičiai^165."
+place_authority: true
+historical_names: []
 ---
 # Tervetė
 
@@ -59,7 +68,8 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
 - id: c-34049
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 192."
   citata_originali: |
     Tų žygių įtakoje jau 1259 m. sukilo žiemgaliai, išvarydami or­
     dino ir Rygos arkivyskupo pastatytus viršininkus. Kai kryžiuočiams

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-50235c4dff05439f7d17a9f2"
+canonical_name: "Šventamiestis Heiligenbeilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventamiestis Heiligenbeilis"]
+sameAs: []
+canonical_biography: "Narbutas Šventamiestyje, vėliau Heiligenbeilyje, mini žiemą ir vasarą žaliavusį nepaprasto storumo ąžuolą."
+place_authority: true
+historical_names: []
 ---
 # Šventamiestis Heiligenbeilis
 
@@ -54,7 +63,8 @@ Narbutas Šventamiestyje, vėliau Heiligenbeilyje, mini žiemą ir vasarą žali
 - id: c-171977
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
   citata_originali: |
     Vis dėlto galimas
     daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl

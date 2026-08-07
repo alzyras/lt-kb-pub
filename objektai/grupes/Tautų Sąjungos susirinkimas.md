@@ -58,7 +58,8 @@ Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, 
 - id: c-47261
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 590"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 590."
   citata_originali: |
     Pirmasis visuotinis Tautų S-gos susirinkimas (1920. XI. 15 —
     XII. 18) ilgai svarstė Lietuvos (o taip pat ir Latvių bei Estų)

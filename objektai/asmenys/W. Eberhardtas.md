@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-37cd581f7ca897ee85bfccd9"
+canonical_name: "W. Eberhardtas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["W. Eberhardtas"]
+sameAs: []
+canonical_biography: "Eberhardtu."
 ---
 # W. Eberhardtas
 
@@ -60,7 +67,8 @@ Eberhardtu.
 - id: c-44577
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 192."
   citata_originali: |
     1919 m. spalio 12 d. gen. R. von der Goltzas buvo pakeis-
     tas gen. W. Eberhardtu. Dalis vokiečių grįžo į Vokietiją, ta-

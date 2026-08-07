@@ -59,7 +59,8 @@ Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veik
 - id: c-172042
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 423"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 423."
   citata_originali: |
     Ogi Dusburgietis buvo už­
     sibrėžęs rašyti tai, quae vidi, alia quae audivi ab his, qui vide­
@@ -91,7 +92,8 @@ Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veik
 - id: c-179151
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 412."
   citata_originali: |
     Ar toji
     istorinė tiesa dėl to tapo abejotina? Ar krivio buvimas dėl to

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47781f1d6e66ddc992e4664f"
+canonical_name: "Myro pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Myro pilis","Myro pilis (pilis)"]
+sameAs: []
+canonical_biography: "Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Europos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvoje, tai yra europinės reikšmės riba."
+place_authority: true
+historical_names: []
 ---
 # Myro pilis (pilis)
 
@@ -50,7 +59,8 @@ Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (M
 - id: c-24312
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 56."
   citata_originali: |
     Čia gotika tapo
     net ir stačiatikių ar būsimųjų graikų katalikų cerkvių stiliumi.

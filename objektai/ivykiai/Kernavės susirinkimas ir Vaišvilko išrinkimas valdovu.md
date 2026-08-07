@@ -63,21 +63,29 @@ Nenurodyta
 <a id="claim-t-185590"></a>
 - t-002
   teiginys: "Kernavės susirinkime dėl Vaišvilko valdžios abi ginčo pusės triukšmavo ir užsipuldinėjo viena kitą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kernavė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kernavė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu\" parinktas kaip owner_note_path. Targetas \"Kernavė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168950
+    - c-168951
 
 ## Citatos
 
 - id: c-168950
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 112."
   citata_originali: |
     Kernavėje buvo sukviestas susirinkimas,
     ten susirinko galybė diduomenės. Visi lietuviai rėmė
@@ -97,12 +105,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-168951
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 112."
   citata_originali: |
     Susirinkime ir ta, ir kita ša­
     lis be galo triukšmavo, užsipuldinėdama viena kitą.
@@ -117,7 +125,8 @@ Nenurodyta
   citata_rodoma: "Susirinkime ir ta, ir kita ša­\nlis be galo triukšmavo, užsipuldinėdama viena kitą.\nNaugardukiečiai bei kiti Lietuvai priklausę, bet iš ru­\nsų kilę didikai skelbėsi valstybės labui neremsią nė\nvienos pusės: jie būsią paklusnūs tam valdovui, kurį\nsutardamos abi tautos išrinksią. Vis dėlto jeigu tary­\nboje laisva valia nebus rastas geriausias būdas taikai\npasiekti sau nepakenkiant, jie tikrai pirmieji pasiūly­\nsią susirasti kokį svetimšalį valdovą, kuris, paėmęs\nvaldžią, bus bešališkas ir nelinkstąs nė į vieną pusę."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

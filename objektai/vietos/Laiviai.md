@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f28dceb8b3ba7ad4cf1b6d95"
+canonical_name: "Laiviai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Laiviai"]
+sameAs: []
+canonical_biography: "Apie laidoseną Laivių kapinyne rašė ir E."
+place_authority: true
+historical_names: []
 ---
 # Laiviai
 
@@ -56,7 +65,8 @@ Apie laidoseną Laivių kapinyne rašė ir E.
 - id: c-33919
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 84."
   citata_originali: |
     **pasagines seges Lietuvoje (AkMD, t. 24, 1967, 61-72 p. ; t. 30, 1969, 111-
     119 p.), apie Graužiu lobi (AkMD, t. 34, 1970, 77-83 p.).—Apie laidoseną

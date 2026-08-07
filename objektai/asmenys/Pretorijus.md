@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-45aaf4ace592fc5aafeb76e7"
+canonical_name: "Pretorijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pretorijus"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriwe aiškino kaip žynį ar tautos teisėją. Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, tyrusių juos pagal paprastų žmonių sakytinius padavimus. Narbutas rašo, kad Pretorijus, atpasakodamas Dusburgiečio kronikos vietą apie žynio lazdą, ją vadino krivūle."
 ---
 # Pretorijus
 
@@ -284,7 +291,8 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
 - id: c-172924
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 283."
   citata_originali: |
     Vadinasi, šito pavadinimo etimolo­
     gija dar neištirta.
@@ -306,7 +314,8 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
 - id: c-172926
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
   citata_originali: |
     Daugeliu požiūrių
     šios žynės buvo Antikos bakchančių pamėgdžiojimas.
@@ -327,7 +336,8 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
 - id: c-172927
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 430"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 430."
   citata_originali: |
     Tą
     lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy­
@@ -349,7 +359,8 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
 - id: c-173843
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     Strijkovskis neabejotinai taiso šios vietos prieštaravimus
     ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
@@ -376,7 +387,8 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
 - id: c-173844
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     2 Pas Hartknochą.
     3 Rozencveigo kronika šiandien laikoma dingusia; čia iš jos pa­
@@ -393,7 +405,8 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
 - id: c-173845
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Tai, žinoma, vien panašumai, kuriuos
     pastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,
@@ -419,7 +432,8 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
 - id: c-173846
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Ne Sarkės, o Šar­
     kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
@@ -444,7 +458,8 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
 - id: c-177115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 300."
   citata_originali: |
     Latviuose tai buvo žynys ir pranašautojas. Paimdavo į
     saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31
@@ -470,7 +485,8 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
 - id: c-179349
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369-370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369-370."
   citata_originali: |
     Ne Sarkės, o Šar­
     kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­

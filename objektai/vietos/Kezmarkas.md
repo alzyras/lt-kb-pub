@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-acb457cb69fabb5f66a239c0"
+canonical_name: "Kezmarkas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kezmarkas"]
+sameAs: []
+canonical_biography: "Su juo tartis į Vengrijos pasienio miestą Kezmarką nuvyko pats Vytautas."
+place_authority: true
+historical_names: []
 ---
 # Kezmarkas
 
@@ -56,7 +65,8 @@ Su juo tartis į Vengrijos pasienio miestą Kezmarką nuvyko pats Vytautas.
 - id: c-33887
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 343."
   citata_originali: |
     Zigmantas galėjo tapti rimtu kryžiuočių sąjungininku ir pavo­
     jingu pusbrolių priešų. Su juo tartis į Vengrijos pasienio miestą

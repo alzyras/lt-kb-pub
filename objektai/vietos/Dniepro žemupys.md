@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-634cb30a88577a6c9735cc1a"
+canonical_name: "Dniepro žemupys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dniepro žemupys"]
+sameAs: []
+canonical_biography: "iš Dniepro žemupio išjudėjo slavai, siekdami įsikurti pratuštėjusiuose germanų plotuose (buvusioje « Hermanariko valstybėje »), jie užėmė ir pamažu asimiliavo, nors ir būdami žemesnio kultūros laipsnio, dalį rytinių baltų žemių."
+place_authority: true
+historical_names: []
 ---
 # Dniepro žemupys
 
@@ -51,7 +60,8 @@ iš Dniepro žemupio išjudėjo slavai, siekdami įsikurti pratuštėjusiuose ge
 - id: c-33827
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 114."
   citata_originali: |
     Begyvendamos kaimynystėje, abi protautės įgijo bendrų
     žodžių ir kalbos ypatybių, kurios jas atskyrė nuo kitų indoeuropie­

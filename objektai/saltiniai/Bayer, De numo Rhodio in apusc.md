@@ -47,9 +47,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184797
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 29"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 29."
   citata_originali: |
     1 N a r b u 11, "Tygodn. Wile6.'\ 1817, Nr. 71.
     2 B a y e r, De numo Rhodio in apusc., p. 496; V a t e r.

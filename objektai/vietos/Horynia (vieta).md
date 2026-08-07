@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-46d757c334decc65fb975383"
+canonical_name: "Horynia (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Horynia","Horynia (vieta)"]
+sameAs: []
+canonical_biography: "Horynios Tiškevičienės mirtis aprašyta kaip nuskurdusios, nekilnojamąjį turtą iššvaisčiusios moters, o pati moteris pavadinta „baidykle“."
+place_authority: true
+historical_names: []
 ---
 # Horynia (vieta)
 
@@ -47,9 +56,10 @@ Horynios Tiškevičienės mirtis aprašyta kaip nuskurdusios, nekilnojamąjį tu
 ## Citatos
 
 - id: c-185749
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 19"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 19."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 19."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

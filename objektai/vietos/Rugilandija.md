@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dd36c8c86957057444d2f9ad"
+canonical_name: "Rugilandija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rugilandija"]
+sameAs: []
+canonical_biography: "Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi Noriko dalyje, kurią pavadino Rugilandija. Didžiausia herulų dalis pasitraukė prie Dunojaus, kur ketino apsigyventi šalia rugių arba toje Noriko dalyje, kurią pavadino Rugilandija."
+place_authority: true
+historical_names: []
 ---
 # Rugilandija
 
@@ -85,7 +94,8 @@ Narbuto pasakojimu, didžiausia herulų dalis prie Dunojaus ketino apsigyventi N
 - id: c-175667
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
   citata_originali: |
     Didžiausia herulų dalis pasitraukė
     prie Dunojaus, kur ketino apsigyventi šalia rugių arba

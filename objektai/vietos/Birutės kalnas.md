@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f825d43ed23fbf116ed7184f"
+canonical_name: "Birutės kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Birutės kalnas"]
+sameAs: []
+canonical_biography: "Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palaidota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios)."
+place_authority: true
+historical_names: []
 ---
 # Birutės kalnas
 
@@ -57,7 +66,8 @@ Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo kri
 - id: c-73827
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 25."
   citata_originali: |
     Visų pirma atsirado
     herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad

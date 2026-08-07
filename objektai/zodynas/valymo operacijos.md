@@ -39,7 +39,7 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 <a id="claim-t-22338"></a>
 - t-001
   teiginys: "Pirmą nacių okupacijos savaitę keli tūkstančiai gyventojų buvo sunaikinti per SD Einsatzgruppen pradėtas „valymo operacijas“."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1940 m."
@@ -72,7 +72,8 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 - id: c-25027
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 198."
   citata_originali: |
     Staigus antižydiškų nuotai-
     kų sustiprėjimas vertė rūpintis ir Maskvos statytinius: 1940 m. birželio
@@ -97,7 +98,8 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 - id: c-166879
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 198-199"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 198-199."
   citata_originali: |
     Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas
     leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina

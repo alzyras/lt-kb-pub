@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c63b9ffb851a2e45828c4be2"
+canonical_name: "Vendeno pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vendeno pilis","Vendeno pilis (pilis)"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Dangerutis buvo Livonijos riterių suimtas ir surakintas Vendeno pilyje, kur nusidūrė savo kalaviju."
+place_authority: true
+historical_names: []
 ---
 # Vendeno pilis (pilis)
 
@@ -55,7 +64,8 @@ Narbutas rašė, kad Dangerutis buvo Livonijos riterių suimtas ir surakintas Ve
 - id: c-171964
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
   citata_originali: |
     Tose pačiose pastabose dar yra užuomina apie vie­
     ną lietuvių vadą ar kunigaikštį, vardu Dangerutis; ten sako­

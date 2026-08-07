@@ -51,7 +51,8 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
 - id: c-59705
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
   citata_originali: |
     Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš rašytinių
     šaltinių, bet aprašė ir tuos įvykius, kuriuos pats buvo matęs, „apie kuriuos pasakojo juos
@@ -73,7 +74,8 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
 - id: c-167408
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
   citata_originali: |
     Visa tai rodo
     nemažą Dusburgiečio žinių originalumą, savarankiškumą.

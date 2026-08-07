@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-72c181fd5635c2f5f7dfd29a"
+canonical_name: "Kolainiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kolainiai"]
+sameAs: []
+canonical_biography: "Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį prie Nemuno pakrantės arčiausiai Prūsijos. Kojelavičiaus pasakojime, iš baimės išsibėgiojus gynėjams, Kolainių pilis buvo užimta ir sudeginta, o septyni šimtai žmonių išvaryti į vergiją."
+place_authority: true
+historical_names: []
 ---
 # Kolainiai
 
@@ -110,7 +119,8 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
 - id: c-166423
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 478"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 478."
   citata_originali: |
     Visa tai buvo daroma rusiškajam gaivalui su-
     stiprinti.
@@ -130,7 +140,8 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
 - id: c-168350
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 161."
   citata_originali: |
     Už žalą, padarytą per šį niokojamą iš­
     puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
@@ -155,7 +166,8 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
 - id: c-178848
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 164."
   citata_originali: |
     Iš baimės išsibė­
     giojus gynėjams, buvo užimta ir sudeginta Kolainių

@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-223fbe752af779f9f76f3684"
+canonical_name: "Grigoras (našlys samdinys)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Grigoras","Grigoras (našlys samdinys)"]
+sameAs: []
+canonical_biography: "Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užaugintais vaikais, mėgstantis degtinėlę, besiderantis dėl samdos drabužių ir vėliau nesilaikantis duoto žodžio."
 ---
 # Grigoras (našlys samdinys)
 

@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-189642"></a>
 - t-001
   teiginys: "Narbutas aiškina, kad alus senovės lietuviams buvo svarbiausias svaiginamasis gėrimas ir įėjo į slapiasias aukas arba vaišes."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -54,7 +54,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-177007
+    - c-172525
 
 <a id="claim-t-189644"></a>
 - t-002
@@ -94,7 +94,8 @@ Nenurodyta
 - id: c-172525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 308."
   citata_originali: |
     Tą
     patį dalyką plačiai dėstė mokslininkai Van-Dalė (Van-Dale)lr
@@ -111,14 +112,17 @@ Nenurodyta
   citata_rodoma: "Tą\npatį dalyką plačiai dėstė mokslininkai Van-Dalė (Van-Dale)lr\ntaip pat grobiantis iš jo Fontenelis (Fontenete), kurio vertimą\nturime gimtąja kalba.\nIV\nskyrius\nAPIE AUKAS\nŠventieji gėrimai\nAlus (Alus) senovės lietuviams visuomet buvo pirmutinis\nir mėgstamiausias svaiginamasis gėrimas; jis įeidavo į slapią­\nsias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę\nkilme."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-172527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 310."
   citata_originali: |
     Tačiau visų aukų pagrindas buvo
     duona ir alus. Ar sutinkant ką nors, ar išleidžiant, duoną ir alų
@@ -137,7 +141,8 @@ Nenurodyta
 - id: c-177007
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
   citata_originali: |
     Įvairiai ruošiant javus, lengva ap­
     tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
@@ -154,5 +159,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003

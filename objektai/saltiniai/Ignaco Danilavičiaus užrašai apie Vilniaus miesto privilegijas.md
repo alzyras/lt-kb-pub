@@ -49,7 +49,8 @@ Tai buvęs Vilniaus Universiteto profeso­ rius, o dabar Kijeve vadovaujantis Te
 - id: c-84405
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 27."
   citata_originali: |
     Tačiau jaučiu malonią pareigą prisipažinti sa­
     vo skaitytojams, kam iš mokslo vyrų, rėmusių mane užsibrėžus

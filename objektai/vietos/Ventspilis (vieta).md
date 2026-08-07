@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1c5f5c97434ad7474237ddcd"
+canonical_name: "Ventspilis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ventspilis","Ventspilis (vieta)"]
+sameAs: []
+canonical_biography: "(Čia skaitytojas tenedūmoja, jog Kuršas, tai yra Kuresarai, taip didis buvo kaip šiandien; Kuršu tuo kartu vadinos apykaitos Ventspilio (Goldingen), Tukumo ir įtakos Ventos, kur kuresarai gyveno, kiti visi kraštai šios dienos Kuršo vadinos Žemgaliais, tai yra."
+place_authority: true
+historical_names: []
 ---
 # Ventspilis (vieta)
 
@@ -46,9 +55,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184491
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 377"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 377."
   citata_originali: |
     Bengiantis paliauboms, kunigaikštis Žemaičių už­
     sakė sueimą, į kurį susirinkę sutarė tenai,, kaip ra­

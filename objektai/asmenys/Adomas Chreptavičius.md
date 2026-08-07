@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3066cf692509d2bd3db58d10"
+canonical_name: "Adomas Chreptavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adomas Chreptavičius"]
+sameAs: []
+canonical_biography: "Grafas Ado­ mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų biblio­ tekos turtus."
 ---
 # Adomas Chreptavičius
 
@@ -50,7 +57,8 @@ Grafas Ado­ mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bi
 - id: c-83585
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 10."
   citata_originali: |
     Vilniaus praeities žinovas Mikalojus Malinovskis padėjo
     istorikui pasinaudoti Radvilų Nesvyžiaus archyvu. Grafas Ado­

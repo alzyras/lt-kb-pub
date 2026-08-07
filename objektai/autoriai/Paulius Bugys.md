@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2df562372fc23b5a4e96c562"
+canonical_name: "Paulius Bugys"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Paulius Bugys"]
+sameAs: []
+canonical_biography: "p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89, „DVIRANKIAI LANDSKNECHTŲ KALAVIJAI“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras."
 ---
 # Paulius Bugys
 
@@ -49,7 +56,8 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
 - id: c-44626
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 275."
   citata_originali: |
     p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras.
 

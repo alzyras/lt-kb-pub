@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cfce08990e2cc7bc6a9d7af7"
+canonical_name: "Embutė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Embutė"]
+sameAs: []
+canonical_biography: "Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su piliadaužėmis puolė Ordino anksčiau užvaldytą Embutės pilį, tačiau jos užimti nepavyko."
+place_authority: true
+historical_names: []
 ---
 # Embutė
 
@@ -59,7 +68,8 @@ Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su 
 - id: c-45093
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 26."
   citata_originali: |
     1244 m.
     Mindaugo - „Lietuvos galingo karaliaus“

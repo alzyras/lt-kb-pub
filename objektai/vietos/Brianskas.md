@@ -35,6 +35,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88c332758d04d4ae23fa4edc"
+canonical_name: "Brianskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Brianskas"]
+sameAs: []
+canonical_biography: "1263 m. jis išsiuntė savo kariuomenę prieš Briansko kunigaikštį."
+place_authority: true
+historical_names: []
 ---
 # Brianskas
 
@@ -107,7 +116,8 @@ media_all_json: |-
 - id: c-163423
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 188."
   citata_originali: |
     Iš viso Mindaugo laikotarpyje po Saulės kautynių
     (1237-1263 m.) iš 33 lietuvių karo žygių į kaimynus tik 5 tėra buvę
@@ -126,7 +136,8 @@ media_all_json: |-
 - id: c-163424
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 318."
   citata_originali: |
     Su Jogailos žinia,
     Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską. Dėl neaiškios
@@ -145,7 +156,8 @@ media_all_json: |-
 - id: c-168298
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Gediminas, pasilsėjęs čia, kol artimiausios pi­
     lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­

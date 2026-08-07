@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c506776f57c40e6b499f51c"
+canonical_name: "Mykolas Sleževičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Sleževičius"]
+sameAs: []
+canonical_biography: "Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,. Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“. Sleževičius pabrėžė, kad lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dvarininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę."
 ---
 # Mykolas Sleževičius
 
@@ -73,7 +80,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 <a id="claim-t-75989"></a>
 - t-003
   teiginys: "Mykolas Sleževičius žadėjo dalyti lenkų dvarininkų žemę bežemiams ir mažažemiams, todėl dauguma gyventojų parėmė vyriausybę."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: po 1920 m.; įvykio data: 1920 m."
@@ -133,7 +140,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 <a id="claim-t-75993"></a>
 - t-007
   teiginys: "1920 m. rugsėjį ministras pirmininkas Mykolas Sleževičius Seime ragino griebtis ginklo prieš lenkų puolimą."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1920 m."
@@ -145,7 +152,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 <a id="claim-t-75994"></a>
 - t-008
   teiginys: "Mykolas Sleževičius laikėsi šūkio „Kova eina, ji eis iki Seimas bus sušauktas“."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -156,7 +163,8 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 - id: c-21908
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     Prezidentu išrinktas valstiečių liaudininkų
     lyderis Kazys Grinius. Socialdemokratai jį parėmė tik su sąlyga, kad jis
@@ -174,7 +182,8 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 - id: c-73647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 166."
   citata_originali: |
     sąjungą (LTS), kuriai A. Smetona neleido persitvarkyti į partiją, o tik
     remti jo režimą – iš pirmo žvilgsnio opozicinių partijų veiklos lyg ir ne-
@@ -193,7 +202,8 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 - id: c-73648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 143-144"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 143-144."
   citata_originali: |
     Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
     cialinį atspalvį – 1920 m. rugsėjį ministras pirmininkas M. Sleževičius
@@ -224,7 +234,8 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 - id: c-73649
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 143."
   citata_originali: |
     Atsilaikė prieš bolševikus ir kaimynės – Lenkija, Suomija, Latvija
     ir Estija, jos taip pat apgynė savo nepriklausomybę.
@@ -247,7 +258,8 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 - id: c-73650
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 156."
   citata_originali: |
     diktatoriumi, tačiau netrukus pasiūlė šį savo postą pirmajam Lietuvos
     valstybės prezidentui A. Smetonai. Šis sutiko, nes karininkai įvykdė jo
@@ -267,7 +279,8 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 - id: c-73651
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 144."
   citata_originali: |
     nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą,
     konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pa-
@@ -289,7 +302,8 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 - id: c-73652
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 137-138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 137-138."
   citata_originali: |
     Vokietija pateikė
     ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
@@ -314,7 +328,8 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 - id: c-73653
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 137."
   citata_originali: |
     1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną,
     kur pasirašė 100 mln. markių paskolą ginklams įsigyti. Vokietija pateikė

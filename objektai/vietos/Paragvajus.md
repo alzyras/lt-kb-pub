@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b489309e2b014a0c05f09dbe"
+canonical_name: "Paragvajus"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Paragvajus"]
+sameAs: []
+canonical_biography: "Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portugalijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais iš to einančiais padariniais."
+place_authority: true
+historical_names: []
 ---
 # Paragvajus
 
@@ -50,7 +59,8 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 - id: c-02900
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 590"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 590."
   citata_originali: |
     15 —
     XII. 18) ilgai svarstė Lietuvos (o taip pat ir Latvių bei Estų)

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47122800674fcdf1e607a9fd"
+canonical_name: "Vinrichas von Kniprodė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vinrichas von Kniprodė"]
+sameAs: []
+canonical_biography: "Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.)."
 ---
 # Vinrichas von Kniprodė
 
@@ -98,7 +105,8 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 26."
   citata_originali: |
     Kęstučiui dar smarkiau, negu pirmtakū­
     nams, tenka gintis nuo Ordino įsiveržimų, nes tada magistro
@@ -118,7 +126,8 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 26."
   citata_originali: |
     Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius
     žemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­
@@ -145,7 +154,8 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 288."
   citata_originali: |
     Nuo
     1237 mt. abu Ordinai buvo susijungę į vieną, veikė vienos va­

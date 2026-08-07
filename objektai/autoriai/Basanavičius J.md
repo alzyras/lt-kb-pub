@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-347701e4ee043a978cfa0664"
+canonical_name: "Basanavičius J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Basanavičius J"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII). Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių."
 ---
 # Basanavičius J
 
@@ -75,7 +82,8 @@ Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J
 - id: c-65262
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 150."
   citata_originali: |
     Išliko padavimas apie kunigaikštį Katenoviškj, palaidotą aukštame Katenavos kape,
     jo dukrą, palaidotą didžiajame kape Gentkutkampiuose (Jetkutkampiuose, per 6 km
@@ -93,7 +101,8 @@ Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J
 - id: c-65263
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
   citata_originali: |
     Vangrapės krante,
     upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių..,

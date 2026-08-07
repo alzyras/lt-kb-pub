@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b106b04cfdfe931d5f3e364b"
+canonical_name: "Akonas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Akonas"]
+sameAs: []
+canonical_biography: "Akonas šiame šaltinyje minimas kaip Jeruzalės karalystės sostinė, Vokiečių ordino ankstyvosios pradžios vieta ir paskutinis likęs Šventosios žemės miestas prieš jo žlugimą."
+place_authority: true
+historical_names: []
 ---
 # Akonas
 
@@ -255,7 +264,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 - id: c-163398
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
   citata_originali: |
     Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs
     Akone greičiausiai 1204—1211 m. ankstesnių (XII a. pabaigos) dokumentų pagrindu,
@@ -271,7 +281,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 - id: c-163400
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241."
   citata_originali: |
     Taigi šitaip dievas nubaudė
     savo tautą ir paniekino jos paveldą. Šitaip jų nedraugai gavo viršų, o jie tapo pažeminti,
@@ -293,7 +304,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 - id: c-163402
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 241-242"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241-242."
   citata_originali: |
     Šitaip jų nedraugai gavo viršų, o jie tapo pažeminti,
     nes jųjų priešai užgrobė ne tik žadėtąją žemę, bet beveik visas apygardas, miestus bei
@@ -319,7 +331,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 - id: c-163404
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
     (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai
@@ -345,7 +358,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 - id: c-163406
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
   citata_originali: |
     Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
     Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
@@ -374,7 +388,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 - id: c-163407
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     77. Apie Akono miesto sugriovimą
 
@@ -393,7 +408,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 - id: c-163408
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
   citata_originali: |
     Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­
                                                  trą

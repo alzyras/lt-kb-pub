@@ -82,7 +82,8 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
 - id: c-174737
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
   citata_originali: |
     Tai turėjo įvykti anks­
     čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­
@@ -105,7 +106,8 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
 - id: c-179296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
   citata_originali: |
     Tai turėjo įvykti anks­
     čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­

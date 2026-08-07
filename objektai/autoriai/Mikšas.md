@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9a07919d5060bc1683bc083e"
+canonical_name: "Mikšas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mikšas"]
+sameAs: []
+canonical_biography: "Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra\" iš pradžių buvo spausdinama Ragainėje, o paskui Tilžėje, paties Mikšo įsteigtoje spaustuvėje."
 ---
 # Mikšas
 
@@ -62,7 +69,8 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
 - id: c-01353
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 515"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 515."
   citata_originali: |
     Bet
     kadangi jis tuo metu gyveno užsieny, daugiausia Bulgarijoje

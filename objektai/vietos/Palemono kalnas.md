@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0c69ee70f86d9dc35f138673"
+canonical_name: "Palemono kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Palemono kalnas"]
+sameAs: []
+canonical_biography: "Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos žiočių, su pylimu arba senos piliavietės liekana."
+place_authority: true
+historical_names: []
 ---
 # Palemono kalnas
 
@@ -54,7 +63,8 @@ Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos 
 - id: c-171928
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
   citata_originali: |
     218
 

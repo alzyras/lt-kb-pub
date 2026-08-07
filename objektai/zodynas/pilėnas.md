@@ -145,7 +145,7 @@ media_all_json: |-
 <a id="claim-t-184636"></a>
 - t-006
   teiginys: "Vytauto kariams įsiveržus į žemutinę Vitebsko pilį, kovojant dėl miesto sienos žuvo vienas kitas pilėnas."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -159,7 +159,6 @@ media_all_json: |-
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pilėnas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-167995
     - c-167997
 
 <a id="claim-t-194462"></a>
@@ -279,7 +278,8 @@ media_all_json: |-
 - id: c-59515
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     280 (273). Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
     Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
@@ -302,7 +302,8 @@ media_all_json: |-
 - id: c-59516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 199."
   citata_originali: |
     Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
 
@@ -327,7 +328,8 @@ media_all_json: |-
 - id: c-167995
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 182."
   citata_originali: |
     Smarkios liū-
     I š v y k u s
@@ -361,13 +363,13 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-006
     - t-008
 
 - id: c-167996
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 189."
   citata_originali: |
     Iš tos išdavystės išėjo visai kas kita, nei vy­
     lėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,
@@ -401,7 +403,8 @@ media_all_json: |-
 - id: c-167997
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
   citata_originali: |
     Apgula užtruko ištisą mėnesį,
     tačiau ne dėl to, kad nebuvo

@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-01c75b33c1acbff61e2f427d"
+canonical_name: "Sakalas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sakalas","Sakalas (vieta)"]
+sameAs: []
+canonical_biography: "Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraštą, vadinamą Sakalą, gavo kalavijonys."
+place_authority: true
+historical_names: []
 ---
 # Sakalas (vieta)
 
@@ -46,9 +55,9 @@ Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraš
 ## Citatos
 
 - id: c-184501
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 202"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 202."
   citata_originali: |
     Albertas, norėdamas, idant brostviai ka-
     lavijaus jo klausytų ir jį kaipo savo valdymierą go­

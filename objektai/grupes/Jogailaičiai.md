@@ -147,7 +147,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - id: c-22426
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 264."
   citata_originali: |
     Pabaiga arba išbarstyti
     Lietuvos veidai
@@ -171,7 +172,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - id: c-102461
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 315."
   citata_originali: |
     IV KNYGA
     didžponiai, nors jų norą keltis į puikybę ir visur vadovauti
@@ -200,7 +202,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - id: c-102463
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 87."
   citata_originali: |
     To suartė-
     jimo ryškiausia manifestacija buvo 1515 m.
@@ -224,7 +227,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - id: c-176217
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 264."
   citata_originali: |
     Okupacijos ir aneksijos, tremtys, genocidai ir
     Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-

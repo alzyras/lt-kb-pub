@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e81b921abd97ee057944962"
+canonical_name: "Rudolfas Habsburgas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rudolfas Habsburgas"]
+sameAs: []
+canonical_biography: "Viešpats Vokietijos Rudol fas Habsburgas, kariaudamas su Otokaru, viešpa čiu Čekų, nespėjo kryžėjams taikinėti."
 ---
 # Rudolfas Habsburgas
 
@@ -41,9 +48,9 @@ Viešpats Vokietijos Rudol fas Habsburgas, kariaudamas su Otokaru, viešpa čiu 
 ## Citatos
 
 - id: c-184773
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 448"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 448."
   citata_originali: |
     Popiežius Mikalojus III, įsėdęs į baž­
     nyčios suolą, turėjo rūpintis didesniais reikalais

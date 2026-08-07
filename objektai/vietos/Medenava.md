@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-868d53d7e4db0c35e4cfa9fa"
+canonical_name: "Medenava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Medenava"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas Medenava, ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs į nelaisvę ir išžudęs, ten pat ir pernakvojo. Dusburgietis teigia, kad — Medenouwe; Medenava (vėliau — Medenau, dab."
+place_authority: true
+historical_names: []
 ---
 # Medenava
 
@@ -51,7 +60,8 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
 - id: c-59224
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Kitą dieną patraukė į Rudavos valsčių ir ten
     pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų,

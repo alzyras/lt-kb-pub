@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-408fa8ea387f0af930fc5956"
+canonical_name: "Antanas Liesys-Idenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Liesys-Idenas"]
+sameAs: []
+canonical_biography: "Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo viršininkas Vytautas GužasKardas, penktas - Tauro apygardos vadas Aleksandras Grybinas-Faustas, septintas — Vakarų Lietuvos srities vadas Aleksandras MilaševičiusRuonis, devintas -."
 ---
 # Antanas Liesys-Idenas
 
@@ -50,7 +57,8 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - id: c-44278
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     į suvažiavimą susitikę Vakarų
     Lietuvos (Jūros) ir Pietų Lietuvos

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-86d802c1568a39559ff8ad66"
+canonical_name: "Liudvikas (Vengrijos karalius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas (Vengrijos karalius)"]
+sameAs: []
+canonical_biography: "1345 m. sausį į Prūsiją atvyko Čekijos karalius Jonas su savo sūnumi, Moravijos markgrafu Karoliu, Vengrijos karalius Liudvikas, Olandijos, Švarcburgo, Burbonės, Niurnbergo grafai - 200 valdovų ir kilmingųjų."
 ---
 # Liudvikas (Vengrijos karalius)
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-41391
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 38."
   citata_originali: |
     1345 m. sausį į Prūsiją atvyko Čekijos
     karalius Jonas su savo sūnumi, Moravijos

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf7b0f7e5404a5e84ed5325d"
+canonical_name: "Žemaičių kraštas (kraštas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Austurland","Oestland","Ritland","Sambija","Samland","Samländer","Žemaičių kraštas","Žemaičių kraštas (kraštas)","Žemaičių pajūris"]
+sameAs: []
+canonical_biography: "Žemaičių kraštas ir jo pajūris buvo vadinami Sambija ir Samland. Žemaičių kraštui buvo taikomi ir Ritland, Austurland bei Oestland vardai."
+place_authority: true
+historical_names: []
 ---
 # Žemaičių kraštas (kraštas)
 
@@ -62,7 +71,8 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
 - id: c-10528
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 49"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 49."
   citata_originali: |
     Vadino dar ir paskiau tą kraštą vardu, iš dviejų žodžių sudėtu, iš žemaitiško ir teutoniško, ir taip
         _Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau, o gyventojus to
@@ -78,7 +88,8 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
 - id: c-10529
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 49"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 49."
   citata_originali: |
     Kiti raštininkai vadino Žemaičių kraštą _Ritland_ , taip pat vardu, iš lietuviško rytai ir
         teutoniško žodžio _land_ – kraštas sudėtu, tai yra rytų kraštas, arba _Austurland_ , taip pat iš

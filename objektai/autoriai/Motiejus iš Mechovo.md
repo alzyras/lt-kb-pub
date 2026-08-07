@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-44d3e2f06a99d4d933b504d0"
+canonical_name: "Motiejus iš Mechovo"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Motiejus iš Mechovo"]
+sameAs: []
+canonical_biography: "Motiejus iš Mechovo citatoje įvardijamas kaip Miechowita, Mechovita, gyvenęs 1456-1523 m."
 ---
 # Motiejus iš Mechovo
 
@@ -62,7 +69,8 @@ Motiejus iš Mechovo citatoje įvardijamas kaip Miechowita, Mechovita, gyvenęs 
 - id: c-173238
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 502"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 502."
   citata_originali: |
     - Francofurti, 1709; Mie-
     chowita (Motiejus iš Mechovo, Mechovita, 1456-

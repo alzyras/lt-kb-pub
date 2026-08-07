@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d69eb90967a8048538ed7195"
+canonical_name: "Jonas iš Liuksemburgo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas iš Liuksemburgo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo."
 ---
 # Jonas iš Liuksemburgo
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Pr
 - id: c-60979
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 253-254"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 253-254."
   citata_originali: |
     9. Apie Medvėgalio pilėnus
 

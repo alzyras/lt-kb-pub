@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cc0b83961b48cf57c39e3c70"
+canonical_name: "Nerčinskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nerčinskas"]
+sameAs: []
+canonical_biography: "Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia pridėti dar vieną, pastebėtą jau išspausdinus lanką: lai Nerčia (Nercz), Rytų Sibiro upė, prie kurios yra Nerčinsko miestas."
+place_authority: true
+historical_names: []
 ---
 # Nerčinskas
 
@@ -48,7 +57,8 @@ Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia prid�
 - id: c-177163
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 426"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 426."
   citata_originali: |
     II priedas
     Apie N erčios upę

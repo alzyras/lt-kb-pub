@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-08c5a5c5228e345162912daa"
+canonical_name: "Užnerio žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Užnerio žemė"]
+sameAs: []
+canonical_biography: "Vytautas apkrikštijo visą Užnerio žemę."
+place_authority: true
+historical_names: []
 ---
 # Užnerio žemė
 
@@ -31,13 +40,13 @@ Vytautas apkrikštijo visą Užnerio žemę.
 <a id="claim-t-199951"></a>
 - t-001
   teiginys: "Vytautas, įsteigęs Žemaičių vyskupiją, apkrikštijo visą Užnerio žemę ir, metraščio teigimu, įkūrė daug bažnyčių."
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Patikslinta pagal citatą ir atribuuota metraščio papildoma religinė formuluotė."
   susije_objektai: "mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Varniai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-182939
 

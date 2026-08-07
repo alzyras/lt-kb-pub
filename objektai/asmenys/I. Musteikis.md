@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3fefe3ee3edefe0fe8a539fd"
+canonical_name: "I. Musteikis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["I. Musteikis"]
+sameAs: []
+canonical_biography: "Musteikis. Musteikio vadovaujama 3-ioji divizija (3-iasis, 6-asis ir 9-asis pulkai) saugojo Lietuvos ribą rytuose su bolševikais ir Latvija."
 ---
 # I. Musteikis
 
@@ -50,7 +57,8 @@ Musteikis. Musteikio vadovaujama 3-ioji divizija (3-iasis, 6-asis ir 9-asis pulk
 - id: c-44347
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 199."
   citata_originali: |
     kariuomenėje buvo apie 26 tūkst. kareivių
     ir apie 970 karininkų, ją sudarė 3 divizijos.

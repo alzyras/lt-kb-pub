@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7f4d6f05c0957bf1645e3423"
+canonical_name: "Jonas Gradovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Gradovskis"]
+sameAs: []
+canonical_biography: "Žinoma, kad 1587 m. Kauno miesto taryba išrinko 2 statybų prižiūrėtojus (aediles seu architecti) Joną Gradovskį ir Jodoką Veselį, numanu, kad jie dirbo prie rotušės statybos."
 ---
 # Jonas Gradovskis
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185430
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 370"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 370."
   citata_originali: |
     Kauno miestiečių tokia rotušė netenkino, nes beveik 30 metų ji vis dar buvo stato-
     ma. Žinoma, kad 1587 m. Kauno miesto taryba išrinko 2 statybų prižiūrėtojus (aedi-

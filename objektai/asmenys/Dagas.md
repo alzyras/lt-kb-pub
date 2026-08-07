@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eaaa1ebaca295fe8b719ca84"
+canonical_name: "Dagas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dagas"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja, kad Dagas liko gyvas po kautynių, kuriose žuvo kiti rusų vadai, ir su Umaru bei Onevu perėjo į priešo pusę."
 ---
 # Dagas
 
@@ -54,7 +61,8 @@ Narbutas pasakoja, kad Dagas liko gyvas po kautynių, kuriose žuvo kiti rusų v
 - id: c-174145
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
   citata_originali: |
     Pasakoji­
     mui apie šį neabejotinai seną įvykį būdingi istoriškumo

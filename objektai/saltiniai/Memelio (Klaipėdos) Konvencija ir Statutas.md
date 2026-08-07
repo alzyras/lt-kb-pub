@@ -59,7 +59,7 @@ media_all_json: |-
 <a id="claim-t-67489"></a>
 - t-002
   teiginys: "1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1924 m."
@@ -95,7 +95,8 @@ media_all_json: |-
 - id: c-67373
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 153."
   citata_originali: |
     Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
     šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
@@ -114,7 +115,8 @@ media_all_json: |-
 - id: c-67374
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 181."
   citata_originali: |
     1938 m. pabaigoje, po Miuncheno susitarimo, karo padėtis Klaipėdos
     krašte buvo atšaukta ir Lietuva jau nebevaldė situacijos. Nors Lietuvos
@@ -135,7 +137,8 @@ media_all_json: |-
 - id: c-166770
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 181."
   citata_originali: |
     Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investici-
     joms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja... 1939 m.

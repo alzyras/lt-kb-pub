@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7f73615bf489154b148c527"
+canonical_name: "Rimša Edmundas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Rimša Edmundas"]
+sameAs: []
+canonical_biography: "Chicago, 1983; Rimša Edmundas."
 ---
 # Rimša Edmundas
 
@@ -50,9 +57,9 @@ Chicago, 1983; Rimša Edmundas.
 ## Citatos
 
 - id: c-185554
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 65."
   citata_originali: |
     Chicago, 1983; Rimša Edmundas. Kauno miesto herbas XV-xx a. Vilnius, 1994; Rimša
     E. Lietuvos Didžiosios Kunigaikštystės miestų antspaudai. Vilnius, 1999; Vytautas Didysis.

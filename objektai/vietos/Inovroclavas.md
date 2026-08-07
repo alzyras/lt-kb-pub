@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9f1e6fd102ffadbb9115705b"
+canonical_name: "Inovroclavas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Inovroclavas"]
+sameAs: []
+canonical_biography: "Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­ nanės, o du architektai ir raižytojai - Jonas Marija ir Jonas 34 Privilegija, duota Paleckiui steigti šią liejyklą, yra rašyta."
+place_authority: true
+historical_names: []
 ---
 # Inovroclavas
 
@@ -50,7 +59,8 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 - id: c-82169
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 291"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291."
   citata_originali: |
     Šio karaliaus laikais Vilnius buvo aprūpintas geriausiais
     amatininkais iš Krokuvos, kurie, apsigyvenę mieste, daug

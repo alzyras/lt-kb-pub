@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3df9c7c430b7afcd0b830c80"
+canonical_name: "Albinas Kubilius-Rūgštymas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albinas Kubilius-Rūgštymas"]
+sameAs: []
+canonical_biography: "preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas Albinas Kubilius-Rūgštymas ir Vytenio būrio partizanas Alfonsas Vildžiūnas-Vijoklis."
 ---
 # Albinas Kubilius-Rūgštymas
 
@@ -62,7 +69,8 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
 - id: c-44261
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 245."
   citata_originali: |
     Prieš kautynes
 

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eef893e50c5e1f32b34d6b59"
+canonical_name: "Mikalojus Kopernikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Kopernikas"]
+sameAs: []
+canonical_biography: "Be to, rengė astronomo Mikalojaus Ko­ perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­ mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį."
 ---
 # Mikalojus Kopernikas
 
@@ -61,7 +68,8 @@ Be to, rengė astronomo Mikalojaus Ko­ perniko raštus, dalyvavo leidžiant sen
 - id: c-83764
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     1841 m. jis tapo vienu iš enciklopedinio
     pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir

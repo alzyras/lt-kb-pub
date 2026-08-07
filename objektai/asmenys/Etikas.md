@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a776aaba267bfff4bc880e15"
+canonical_name: "Etikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Etikas"]
+sameAs: []
+canonical_biography: "Etiko „Kosmografija“ buvo Ksavero Bogušo naudotas pagrindas įrodymams apie estus ir jiems priskiriamas lietuvių gentis."
 ---
 # Etikas
 
@@ -53,7 +60,8 @@ Etiko „Kosmografija“ buvo Ksavero Bogušo naudotas pagrindas įrodymams apie
 - id: c-174274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
   citata_originali: |
     Taigi ir lietuvių gentys, gyvenusios šiose že­
     mėse, buvo priskiriamos prie estų. Nors Ksaveras Bogu-

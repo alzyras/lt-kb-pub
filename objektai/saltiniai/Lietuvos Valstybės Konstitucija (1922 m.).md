@@ -73,7 +73,8 @@ Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įt
 - id: c-154586
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 148."
   citata_originali: |
     Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-
     tucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos

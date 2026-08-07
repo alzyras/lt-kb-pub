@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ffa8448ee093625090331197"
+canonical_name: "Vyhandė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vyhandė"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad XVII a. Livonijoje dėl užtvenkto Vyhandės upelio, ant kurio norėta įrengti malūną, buvo prieita prie kraujo praliejimu malšinto maišto."
+place_authority: true
+historical_names: []
 ---
 # Vyhandė
 
@@ -54,7 +63,8 @@ Narbutas rašo, kad XVII a. Livonijoje dėl užtvenkto Vyhandės upelio, ant kur
 - id: c-171972
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 230."
   citata_originali: |
     6. Latviai karštai tikėjo, kad kai kurios upės yra šventos.
     Paprasti žmonės taip smarkiai tikėjo jų šventumu, kad dar

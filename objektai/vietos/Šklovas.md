@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0dedf018466d55d5a78d9317"
+canonical_name: "Šklovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šklovas"]
+sameAs: []
+canonical_biography: "Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės fragmentas, jame iškalti žymiausių lietuvių karo pergalių pavadinimai („1236 2 Mm, Šiauliai“; „1260 Durbė“; „1410 Griunvaldas“; „1506 Kleckas\": „1514 Orša“; „1554 Ula”; „ 1605."
+place_authority: true
+historical_names: []
 ---
 # Šklovas
 
@@ -61,7 +70,8 @@ Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės
 - id: c-45472
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 10."
   citata_originali: |
     1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės fragmentas, jame iškalti žymiausių lietuvių karo pergalių pavadinimai („1236
 

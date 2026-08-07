@@ -56,7 +56,8 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
 - id: c-61615
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
   citata_originali: |
     Gedimino sutartis su Ordinu rodo, kad
     Lietuvos valstybės lietuviškosios žemės susidėjo iš dviejų dalių: Aukštaičių ir Žemaičių

@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-358995e43d65ce43d58d11d6"
+canonical_name: "Viena"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Viena"]
+sameAs: []
+canonical_biography: "Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio."
+place_authority: true
+historical_names: []
 ---
 # Viena
 
@@ -158,7 +167,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - id: c-24560
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 378."
   citata_originali: |
     didatūrą į sostą. Bet nepasisekė nė čia. Padarius sąjungą su
     Austrija, turkai užpuolė šią ir pasiekė net Vieną.
@@ -174,7 +184,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - id: c-24561
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 379."
   citata_originali: |
     Pacai vienas
     po kito pagaliau išmirė, ir jų turėtieji urėdai atiteko kitiems.
@@ -196,7 +207,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - id: c-87155
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
   citata_originali: |
     Kaip ir anksčiau mūsų minėtas
     (Henriko iš Hohenlohės) taip ir šis „Pranešimas...“ aptiktas Vokiečių ordino archyve
@@ -213,7 +225,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - id: c-87157
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Berlyno karališkosios
     bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
@@ -232,7 +245,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - id: c-171737
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 399."
   citata_originali: |
     Štai iš šito židinio Jeronimas pasiėmė ugnies, kadangi,
     apie 1405 metus grįždamas tuo pačiu keliu į tėvynę, parsinešė

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9b44073600ce4419c4f66895"
+canonical_name: "Gregoravičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gregoravičius"]
+sameAs: []
+canonical_biography: "Narbuto aprašytame eiliuotame pasakojime antrasis Vilniaus gaisras prasidėjo Gregoravičiaus dvarelyje. Narbuto cituojamame kūrinio pavadinime 1749 m. birželio 8 d. Vilniaus gaisras kildinamas iš pono Gregoravičiaus dvarelio Subačiaus priemiestyje."
 ---
 # Gregoravičius
 
@@ -85,7 +92,8 @@ Narbuto aprašytame eiliuotame pasakojime antrasis Vilniaus gaisras prasidėjo G
 - id: c-172978
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 149."
   citata_originali: |
     Toliau jis pateikia ilgą su­
     degusių namų sąrašą. Paskui vėl graudžios eilės. Po šito, tary­
@@ -103,7 +111,8 @@ Narbuto aprašytame eiliuotame pasakojime antrasis Vilniaus gaisras prasidėjo G
 - id: c-172979
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 149."
   citata_originali: |
     Powiedz przešliczne boztwo Wiliej rzeki
     Nimfom (b) twym siostrom, boginiom podwodnym:

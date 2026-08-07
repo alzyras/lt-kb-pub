@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-04985
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 251."
   citata_originali: |
     Yra tikra tiek,
     jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per

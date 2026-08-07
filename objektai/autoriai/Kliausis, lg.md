@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92de6d7648984b4cc8b01269"
+canonical_name: "Kliausis, lg"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kliausis, lg"]
+sameAs: []
+canonical_biography: "Kliausis, lg."
 ---
 # Kliausis, lg
 
@@ -59,7 +66,8 @@ Kliausis, lg.
 - id: c-33006
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 360"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 360."
   citata_originali: |
     —
     Kliausis, lg. : Die Kircheupolitik in Litauen unter Jogaila und Vytautas

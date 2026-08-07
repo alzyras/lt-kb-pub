@@ -51,7 +51,8 @@ Susižavėjęs šviečiamąja literatūra, jis darė reformas, viską, net Bažn
 - id: c-03258
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 412."
   citata_originali: |
     Prie jų dar prisidėjo Austrijos Juozapas II. Susižavėjęs švie-
     čiamąja literatūra, jis darė reformas, viską, net Bažnyčią, pajungda-

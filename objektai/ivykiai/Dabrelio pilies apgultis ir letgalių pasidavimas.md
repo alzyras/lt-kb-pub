@@ -65,9 +65,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184630
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 220"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 220."
   citata_originali: |
     Tą išgirdęs, Albertas sukėlė kalavijonis, mel­
     džionis ir perkrikštus, traukė į Turaidą patrakusiųjų
@@ -90,9 +90,9 @@ Nenurodyta
     - t-001
 
 - id: c-184631
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 220"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 220."
   citata_originali: |
     Letgaliai bekariaudami
     buvo naują bokštą pilėj padirbę, kurį ant jos nelai-

@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-169937
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 220."
   citata_originali: |
     1 7  Teodoro Karijotaičio pašalinimas Iš Podolės (jį pašalino Vy­
     tautas 1393 m.) laikytinas vienu iš valstybės centralizavimo aktų.

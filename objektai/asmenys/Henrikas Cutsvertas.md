@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ec598c02c5204f36b75d0ee6"
+canonical_name: "Henrikas Cutsvertas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Cutsvertas"]
+sameAs: []
+canonical_biography: "Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies. Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą. Magistras pasiuntė Henriką Cutsvertą, 29 brolius ir 1200 vyrų tykoti dykrose tarp Luko ir Narevo."
 ---
 # Henrikas Cutsvertas
 
@@ -78,7 +85,7 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
 <a id="claim-t-59917"></a>
 - t-003
   teiginys: "Magistras pasiuntė Henriką Cutsvertą, 29 brolius ir 1200 vyrų tykoti dykrose tarp Luko ir Narevo."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -327,7 +334,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
 - id: c-60547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 181."
   citata_originali: |
     Minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su
     tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai
@@ -349,7 +357,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
 - id: c-60548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką
     Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Vis dėlto
@@ -368,7 +377,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
 - id: c-60549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Apie Aukaimio valsčiaus nusiaubimą
 
@@ -391,7 +401,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
 - id: c-60550
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
     kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
@@ -410,7 +421,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
 - id: c-60551
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184."
   citata_originali: |
     Čia vienas prūsas atėjo pas brolį Henriką Cutsvertą ir
     pasakė: „Ir tu būsi išduotas, ir tavo broliai bus išduoti, jeigu įeisite  į lietuvių žemę;
@@ -429,7 +441,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
 - id: c-168073
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 164-165"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 164-165."
   citata_originali: |
     Pasivijęs jį, atsitraukiantį su dideliu grobiu,
     Jazbutas įniko persekioti už-
@@ -466,7 +479,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
 - id: c-178710
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 163."
   citata_originali: |
     Nuo Liudviko
     Libencelės karių rankos tais pačiais metais krito dvi­
@@ -495,7 +509,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
 - id: c-178711
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 172-173"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 172-173."
   citata_originali: |
     Tačiau Baigos komtūras Zigf­
     ridas su dviem šimtais belaisvių jau buvo iš Lietuvos
@@ -529,7 +544,8 @@ Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų
 - id: c-179025
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184."
   citata_originali: |
     Šitai išgirdę, broliai ir kiti,
     labai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?“ Jiems

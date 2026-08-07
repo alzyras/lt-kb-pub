@@ -41,9 +41,9 @@ Lažo, arba baudžiavos, ir vergybos nežinojo, at nešė tas nelaimas vokyčiai
 ## Citatos
 
 - id: c-184574
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 95"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 95."
   citata_originali: |
     Šiandien liku­
     sieji vadinas bajorais taip pat be kokios šviesybės,

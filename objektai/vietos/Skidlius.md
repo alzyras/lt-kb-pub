@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5bd43916f3e95dbd8fec631f"
+canonical_name: "Skidlius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Skidlius"]
+sameAs: []
+canonical_biography: "Prie Skidliaus cerkvės rastas 1553 metų užrašas liudijo, kad joje tuo metu buvo krikštijami Jotvingijos pagonys."
+place_authority: true
+historical_names: []
 ---
 # Skidlius
 
@@ -59,7 +68,8 @@ Prie Skidliaus cerkvės rastas 1553 metų užrašas liudijo, kad joje tuo metu b
 - id: c-175669
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
   citata_originali: |
     Tai aiškūs dviejų skirtingų religijų kolonistų, at­
     vestų iš Jotvingijos, pėdsakai. Taip pat pavyko rasti prie

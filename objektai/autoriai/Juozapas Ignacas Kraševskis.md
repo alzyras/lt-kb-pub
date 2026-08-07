@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1c37da2d080ecd63da8950ce"
+canonical_name: "Juozapas Ignacas Kraševskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Juozapas Ignacas Kraševskis"]
+sameAs: []
+canonical_biography: "Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“. Narbutui priskiriamame spėjime Kraševskio recenzija siejama su šaltais T. Narbuto ir J. I. Kraševskio santykiais."
 ---
 # Juozapas Ignacas Kraševskis
 
@@ -132,7 +139,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - id: c-173315
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
   citata_originali: |
     Tada aprengia drabužiais, pritinkančiais luomui ir ly­
     čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša
@@ -153,7 +161,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - id: c-173628
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 446"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 446."
   citata_originali: |
     Enciklopedinės žinios, šviesus protas, publicistiniai suge­
     bėjimai, darbštumas — tai bruožai, kurie buvo būdingi
@@ -176,7 +185,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - id: c-173629
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 451"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 451."
   citata_originali: |
     Galima
     spėti, jog būtent ši recenzija
@@ -197,7 +207,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - id: c-176258
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 106-107"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 106-107."
   citata_originali: |
     Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
     kalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo in-

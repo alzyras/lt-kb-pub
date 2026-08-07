@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c97fe23a2e940b69f991d8b3"
+canonical_name: "Juozas Arnulfas Giedraitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Juozas Arnulfas Giedraitis"]
+sameAs: []
+canonical_biography: "Žemaičių tautiškojo ir kultūriškojo judėjimo centras buvo vyskupo Juozo Arnulfo Giedraičio rezidencija — Alsėdžiai; pats vykupas buvo karštas žemaičių patriotas ir uolus švietimo rėmėjas."
 ---
 # Juozas Arnulfas Giedraitis
 
@@ -55,7 +62,8 @@ media_all_json: |-
 - id: c-01308
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 470"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 470."
   citata_originali: |
     Žemaičių tautiškojo ir kultūriškojo judėjimo centras buvo
     vyskupo Juozo Arnulfo Giedraičio rezidencija — Alsė-

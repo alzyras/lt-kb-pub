@@ -61,7 +61,7 @@ Nenurodyta
 <a id="claim-t-64970"></a>
 - t-002
   teiginys: "Abu seneliai galiausiai sudegė kartu su malkine."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-10258
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 241"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 241."
   citata_originali: |
     palipus ir Vaidovyčiui, seneliui rykiui, ant tos pačios malkinės, liepęs Brutenis uždegti ją. Tad vėl ėmęs
         pats svietui sakyti: „Dievai mudu pakvietė į puotą linksmintis antrame gyvenime su mudviejų
@@ -94,7 +95,8 @@ Nenurodyta
 - id: c-10259
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 241"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 241."
   citata_originali: |
     Tad abudu
         seneliu susikibusiu, pragydusiu ir giedodamu lygiai su malkine sugruzdėjusiu. Nes visa tas, ką čia

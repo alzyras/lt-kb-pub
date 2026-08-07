@@ -53,7 +53,8 @@ Narbutas rašė, kad kronikininkai Svaistiką arba Svaitestiksą mini kaip švie
 - id: c-175119
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 100."
   citata_originali: |
     Apie tai plačiai kalba
     ponas Riteris savo Siaurės senovės tyrimuose15.

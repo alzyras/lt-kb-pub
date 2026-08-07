@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-22d18a73732ab09de582e170"
+canonical_name: "Didžioji gatvė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Didžioji gatvė"]
+sameAs: []
+canonical_biography: "Klebonas, tik neaišku kuris ir kada, karčemą perstatė ir įrengė kleboniją Didžiojoje gatvėje."
+place_authority: true
+historical_names: []
 ---
 # Didžioji gatvė
 
@@ -41,9 +50,9 @@ Klebonas, tik neaišku kuris ir kada, karčemą perstatė ir įrengė kleboniją
 ## Citatos
 
 - id: c-185076
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 116."
   citata_originali: |
     Pagaliau Aleksandras Jogailaitis perleido klebonui vieną karčemą Kaune. Klebonas,
     tik neaišku kuris ir kada, karčemą perstatė ir įrengė kleboniją Didžiojoje gatvėje.

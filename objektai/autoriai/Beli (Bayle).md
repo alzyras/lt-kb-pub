@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-841c64204d4900f5df5e4226"
+canonical_name: "Beli (Bayle)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Beli (Bayle)"]
+sameAs: []
+canonical_biography: "Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip vieną iš naudotų šaltinių. Beli (Bayle) buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
 ---
 # Beli (Bayle)
 
@@ -45,7 +52,8 @@ Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip
 - id: c-173297
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
   citata_originali: |
     Taip anot pono Foigto tyrimų.
     Tautinė senovės prūsų vėliava, kurią nešdavo karo žygiuo­

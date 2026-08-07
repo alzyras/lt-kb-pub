@@ -27,8 +27,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ed147706bc24d9e3b6d1465d"
+canonical_name: "Janas Józefas Kauschas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Janas Józefas Kauschas"]
+sameAs: []
+canonical_biography: "Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825)."
 ---
 # Janas Józefas Kauschas
+
+## Santrauka
+
+Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825).
 
 ## Santrauka
 
@@ -39,7 +50,7 @@ Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Ja
 <a id="claim-t-200744"></a>
 - t-001
   teiginys: "Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Janas Józefas Kauschas (1751–1825)."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,6 +75,6 @@ Gėrimo iš vienos taurės nehigieniškumą pastebėjo ir Silezijos gydytojas Ja
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 16."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:13"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-001

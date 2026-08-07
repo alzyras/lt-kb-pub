@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7eeab619d1e31e74b81e8ffe"
+canonical_name: "Boleslovas Kreivaburnis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslovas Kreivaburnis"]
+sameAs: []
+canonical_biography: "Narbutas nurodo kronikininkų liudijimą, kad Boleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti Romovės ąžuolą."
 ---
 # Boleslovas Kreivaburnis
 
@@ -54,7 +61,8 @@ Narbutas nurodo kronikininkų liudijimą, kad Boleslovas Kreivaburnis, užpuolę
 - id: c-173020
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
   citata_originali: |
     Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
     bių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­

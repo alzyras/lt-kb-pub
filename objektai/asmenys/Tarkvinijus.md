@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6ed7429ecafab696591b0c97"
+canonical_name: "Tarkvinijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tarkvinijus"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs visokių kankinimo būdų, šitokio nesugalvojo."
 ---
 # Tarkvinijus
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs vis
 - id: c-61077
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Vartyk
     nevartęs visus šventųjų kankinių gyvenimo aprašus, niekur neužtiksi, kad kas būtų

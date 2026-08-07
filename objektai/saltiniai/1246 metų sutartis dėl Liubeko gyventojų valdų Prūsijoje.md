@@ -86,7 +86,7 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
 <a id="claim-t-191737"></a>
 - t-003
   teiginys: "1246 m. sutartyje Liubeko kolonistams numatyta pusė Ordino trečdalio Sambijoje ir 2500 mansų Varmijoje."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -151,7 +151,8 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
 - id: c-174617
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Ligi šiol žinoma seniausia sutartis, primenanti dingu­
     sios Sambijos dalies egzistavimą senovėje; ji esanti 1246
@@ -173,7 +174,8 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
 - id: c-174618
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Šioje
     sutartyje yra viena detalė, atskleidžianti visą esmę. Ten
@@ -196,7 +198,8 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
 - id: c-174619
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
   citata_originali: |
     Labiau priartėsime prie tikslo, kai pasitelksime kitą
     sutarties vietą. Tam, kad naujiems šio pajūrio miesto

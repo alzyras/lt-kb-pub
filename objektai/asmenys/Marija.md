@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-472528489ec05e912f8798a3"
+canonical_name: "Marija"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Marija"]
+sameAs: []
+canonical_biography: "Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgrafu, vėliau tapusiu ciesoriumi Zigmantu. Marija jau buvo iš Drohičino atvykęs į Gardiną."
 ---
 # Marija
 
@@ -65,7 +72,8 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 163."
   citata_originali: |
     Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
     įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
@@ -85,7 +93,8 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
 - id: c-176579
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 78-79"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78-79."
   citata_originali: |
     O didysis kunigaikštis Kęstutis, sutelkęs savo pajė­
     gas, skuba į Vilnių ir suima didįjį kunigaikštį Jogailą

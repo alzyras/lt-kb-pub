@@ -81,7 +81,7 @@ Nenurodyta
 <a id="claim-t-62691"></a>
 - t-002
   teiginys: "Vytenio valdymo metu Lietuva su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdama pralaužti ekonominę blokadą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -97,6 +97,7 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir neleistinas autorinis įvadas."
   pagrindžia:
     - c-63439
+    - c-63440
 
 <a id="claim-t-62692"></a>
 - t-003
@@ -123,7 +124,8 @@ Nenurodyta
 - id: c-63439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 13."
   citata_originali: |
     XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti
     Livonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę
@@ -145,7 +147,8 @@ Nenurodyta
 - id: c-63440
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 13."
   citata_originali: |
     Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
     užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
@@ -157,14 +160,17 @@ Nenurodyta
   citata_rodoma: "Kryžiuočių ordino brolis kunigas Petras iš Dusburgo\nužbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.\n   XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti\nLivonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę\nkovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą\nekonominę Lietuvos blokadą. Kiek vėliau, jau valdant Gediminui, Lietuvos—Rygos\nsąjunga buvo atnaujinta47."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-63441
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
   citata_originali: |
     Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
     Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
@@ -187,7 +193,8 @@ Nenurodyta
 - id: c-63442
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
   citata_originali: |
     Kovodama su Vokietijos karaliumi Liudviku Bavaru, vėliau tapusiu imperatoriumi, 1323
     m. popiežiaus kurija pradėjo prieš jį organizuoti koaliciją, į kurią įėjo Austrija, Vengrija ir

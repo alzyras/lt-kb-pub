@@ -65,7 +65,8 @@ Nenurodyta
 - id: c-178569
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 244."
   citata_originali: |
     Neilgai trukus,
     sumanumu išsivadavęs, jis pabėgo į Lietuvą; priešams

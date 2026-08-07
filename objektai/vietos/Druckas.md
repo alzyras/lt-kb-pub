@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f2bd77aec3e9c67aae54d5f4"
+canonical_name: "Druckas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Druckas"]
+sameAs: []
+canonical_biography: "Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko."
+place_authority: true
+historical_names: []
 ---
 # Druckas
 
@@ -142,7 +151,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 - id: c-43408
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     1506 m. vasarą totoriai įsiveržė į LDK valdas
     gerai nusiteikę. Prieš metus įvykęs jų žygis
@@ -164,7 +174,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 - id: c-43409
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     Viena jų, vadovaujama
     kunigaikščio Baziliaus Serebriano, pajudėjo
@@ -194,7 +205,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 69."
   citata_originali: |
     Su­
     žinojęs apie tai Vytautas, drauge su Skirgaila pasiryžo suval­
@@ -212,7 +224,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 - id: c-168308
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
   citata_originali: |
     Vytautui ir pačiam rūpėjo šis karas, nes troško, kad
     Baltarusijos žemės būtų pa-
@@ -247,7 +260,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 - id: c-170522
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 94."
   citata_originali: |
     Didysis kunigaikštis Vytautas pasiėmė su sa­
     vimi kunigaikštį Skirgailą, ir surinko didelę kariuome­

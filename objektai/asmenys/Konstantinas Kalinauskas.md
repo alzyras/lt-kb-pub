@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8028d65a024496f38d402c3b"
+canonical_name: "Konstantinas Kalinauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konstantinas Kalinauskas"]
+sameAs: []
+canonical_biography: "Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas Lietuvos patriotas ir baltarusių tautinio atgimimo šalininkas Konstantinas Kalinauskas), sukilimas ėmė blėsti. Kalinauskas, abu netrukus buvo viešai pakarti."
 ---
 # Konstantinas Kalinauskas
 
@@ -81,7 +88,8 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 - id: c-21830
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 109."
   citata_originali: |
     Nors liepos mėn. Lenkijos sukilėlių vyriausybė į Lietu-
     vos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas
@@ -101,7 +109,8 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 - id: c-42086
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 160."
   citata_originali: |
     Varšuvoje įsikūręs sukilimo rengimo
     Nacionalinis Centro komitetas, pasiva-
@@ -125,7 +134,8 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 - id: c-42087
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 165."
   citata_originali: |
     Egzekucijos buvo įvykdytos B. Kolyškai,
     Z. Sierakauskui, T. Dalevskiui, K. Kalinaus-

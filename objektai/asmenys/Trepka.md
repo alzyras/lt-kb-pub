@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e63796fdacdd5314d7cfa45c"
+canonical_name: "Trepka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Trepka"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Trepka
 

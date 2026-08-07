@@ -100,7 +100,8 @@ Nenurodyta
 - id: c-169974
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 306"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 306."
   citata_originali: |
     Išskyrus ViaznuĮ. visi aukščiau išvardytieji LDK rytų pasienio
     miestai, kaip maskvėnų užimti, y ra minimi Aleksandro 1492.IX 27

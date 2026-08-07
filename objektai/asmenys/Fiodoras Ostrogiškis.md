@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5bebede664176dee099768a2"
+canonical_name: "Fiodoras Ostrogiškis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fiodoras Ostrogiškis"]
+sameAs: []
+canonical_biography: "Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams atskuba didelės pagalbos pajėgos."
 ---
 # Fiodoras Ostrogiškis
 
@@ -76,7 +83,8 @@ Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad len
 - id: c-169398
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 442"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 442."
   citata_originali: |
     Dėl šių iškilmių
     didžiai susikrimto Liudvikas, Toninės komtūras, kuris
@@ -106,7 +114,8 @@ Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad len
 - id: c-169399
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 444"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 444."
   citata_originali: |
     Lenkai atgavo drąsą ir ūpą, tuo
     tarpu rusai, liovęsi ieškoję grobio ir puolę į kovą, ne­

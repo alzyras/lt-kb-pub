@@ -49,7 +49,8 @@ Danielius čia formuluoja karo maksimos pavidalo pastabą apie krikščionio ir 
 - id: c-175001
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Kai jie persikėlė per Othos upę, norėjo užimtose žemėse pasi-
       skirstyti pareigomis, bet Danielius tarė: „Vyrai, riteriai!

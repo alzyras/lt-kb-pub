@@ -171,7 +171,8 @@ Nenurodyta
 - id: c-173894
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 297."
   citata_originali: |
     Šią
     liesą patvirtina ir vėlesnė šio krašto istorija. III amžiaus
@@ -196,7 +197,8 @@ Nenurodyta
 - id: c-173896
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
   citata_originali: |
     Tas pats Jaroslavas 1041
     metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų
@@ -219,7 +221,8 @@ Nenurodyta
 - id: c-174751
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
   citata_originali: |
     294
     Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad
@@ -247,7 +250,8 @@ Nenurodyta
 - id: c-179237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 297."
   citata_originali: |
     Gotams persikėlus į deši­
     nįjį Dnestro krantą, tai žinoma iš gotų istorijos ir Bizan­
@@ -273,7 +277,8 @@ Nenurodyta
 - id: c-179238
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
   citata_originali: |
     Tačiau jis negalėjo įkurti jokių kolonijų
     krašte, esančiame prie Rosės, nes ten gyveno pečenegai

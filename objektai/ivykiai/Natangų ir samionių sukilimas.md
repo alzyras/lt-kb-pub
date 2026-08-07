@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184690
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 484"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 484."
   citata_originali: |
     Nujautęs tą, mistras
     didžiai supyko ir ketėjo vėl pilį suardyti, bet vil­

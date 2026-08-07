@@ -103,7 +103,8 @@ Nenurodyta
 - id: c-168931
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 57."
   citata_originali: |
     Dėl to be perstojo kildavo karas po
     karo. Taigi iš tiesų galėjo ši-
@@ -133,7 +134,8 @@ Nenurodyta
 - id: c-176083
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 58."
   citata_originali: |
     Galimas daiktas, alanai, arba herulai (kurie,
     istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­

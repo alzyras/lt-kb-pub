@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-30c428021c10f645a451f2bb"
+canonical_name: "Rotušė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rotušė","Rotušė (vieta)"]
+sameAs: []
+canonical_biography: "Tarp pilies ir parapinės bažnyčios pavaizduota jau baigta statyti rotušė (Praetorium)."
+place_authority: true
+historical_names: []
 ---
 # Rotušė (vieta)
 
@@ -46,9 +55,9 @@ Tarp pilies ir parapinės bažnyčios pavaizduota jau baigta statyti rotušė (P
 ## Citatos
 
 - id: c-185090
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 386"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 386."
   citata_originali: |
     Kryžiaus bažnyčia su prie jos prigludusiu bokštu,
     kuris turėjo būti mūrinis.

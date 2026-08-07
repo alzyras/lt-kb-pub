@@ -50,7 +50,8 @@ Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo
 - id: c-84484
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 155."
   citata_originali: |
     Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­
     odą, toli buvo nukeltos valstybės sienos, jo narsa sutramdyti

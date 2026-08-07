@@ -75,7 +75,8 @@ media_all_json: |-
 - id: c-33364
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 54."
   citata_originali: |
     Stryjkovskio Kroniką aukštai vertino ir jėzuitas Albertas Vijū­
     kas Kojalavičius. Šis iš Kauno kilęs gausių religinių-pasto­
@@ -98,7 +99,8 @@ media_all_json: |-
 - id: c-33365
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 54."
   citata_originali: |
     Šis iš Kauno kilęs gausių religinių-pasto­
     racinių, asketinių, poleminių ir filosofinių raštų autorius, Lietuvos

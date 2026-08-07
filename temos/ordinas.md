@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 112
+tema_objektu_skaicius: 113
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 112.
+Objektų skaičius: 113.
 
 ## Kaip naudoti
 
@@ -35,6 +35,7 @@ Objektų skaičius: 112.
 - [[objektai/asmenys/Inocentas IV]]
 - [[objektai/asmenys/Julijus Cezaris|Julijus Cezaris (vyskupas)]]
 - [[objektai/asmenys/Konradas iš Foichtvangeno]]
+- [[objektai/asmenys/Ulrichas fon Jungingenas]]
 - [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/asmenys/Vilhelmas iš Modenos|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]
@@ -54,7 +55,7 @@ Objektų skaičius: 112.
 - [[objektai/grupes/Dobrinės ordinas]]
 - [[objektai/grupes/Dobryniaus riterių brolija]]
 - [[objektai/grupes/Dobrynės broliai]]
-- [[objektai/grupes/Dominikonų ordinas]]
+- [Dominikonų ordinas](../objektai/grupes/Dominikon%C5%B3%20ordinas)
 - [Domininkonų ordinas](../objektai/grupes/Domininkon%C5%B3%20ordinas)
 - [Edukacinė Komisija](../objektai/grupes/Edukacin%C4%97%20Komisija)
 - [Europos kryžininkai](../objektai/grupes/Europos%20kry%C5%BEininkai)

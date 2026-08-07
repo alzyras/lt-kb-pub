@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dc22ccb14c0113cc25447f3c"
+canonical_name: "Vasilijus Tatiščevas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vasilijus Tatiščevas"]
+sameAs: []
+canonical_biography: "Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėje, bet klaidingai jį sutapatino su pilaite prie Osteros žiočių. Narbutas atmetė Tatiščevo krivių pavadinimo kildinimą iš sarmatų žodžio „Krirsae“ ir labiau siejo jį su bendru vyriausiuoju kunigu."
 ---
 # Vasilijus Tatiščevas
 
@@ -74,7 +81,8 @@ Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėj
 - id: c-174240
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Be to, tvirto­
     vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
@@ -97,7 +105,8 @@ Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėj
 - id: c-174241
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Taip manyti
     galima pagal jų krašto padėtį“. Jei jo prielaida teisinga,

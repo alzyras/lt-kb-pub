@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e32a774eea9c825e9a77120e"
+canonical_name: "Heraklio stulpai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Heraklio stulpai"]
+sameAs: []
+canonical_biography: "Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir Heraklio stulpus. Romėnai, sužinoję apie pūnų laivus už Heraklio stulpų keliaujant į šiaurines jūras, pasiuntė jūrų keliautoją sekti vieną tokį laivą."
+place_authority: true
+historical_names: []
 ---
 # Heraklio stulpai
 
@@ -81,7 +90,8 @@ Jūros kelias, lygintas su keliu per Galiją, ėjo pro šv. Vincento kyšulį ir
 - id: c-175609
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
   citata_originali: |
     Taip mūsų kraštų prekės lengvai patekdavo arba
     į Tartesą, arba prie Galijos krantų, o per Galiją arkliais

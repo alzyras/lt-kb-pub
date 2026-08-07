@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d89a06160012f93a8bb3df3a"
+canonical_name: "Vidugiriai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vidugiriai"]
+sameAs: []
+canonical_biography: "“ | | 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisimena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyvavusį to paties pulko I batalioną Vidugirių kaime. „Vidugirių kaimą pasiekėme po pietų. Tuojau pasirodė ir pulko vadas pulkininkas 1920 m. rugsėjo 22 d. 6-ojo pėstininkų pulko kariai prie žuvusio mūšyje netoli Vidugirio kaimo Itn."
+place_authority: true
+historical_names: []
 ---
 # Vidugiriai
 
@@ -92,7 +101,8 @@ media_all_json: |-
 - id: c-43983
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 203."
   citata_originali: |
     „Vidugirių kaimą pasiekėme po pietų. Čia radome ką tik
     atvykusius iš Eglainės 6 pėst. [pulko] Pilėnų Kunigaikščio
@@ -108,7 +118,8 @@ media_all_json: |-
 - id: c-45404
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 203."
   citata_originali: |
     | mir bataliono kariai sustoję žiūrėjo į seniai bematy-
     | tąjį 1 batalioną. Tuojau pasirodė ir pulko vadas pulkininkas
@@ -129,7 +140,8 @@ media_all_json: |-
 - id: c-45405
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 203."
   citata_originali: |
     1 batalionas irgi
     buvo nuvestas pailsėti pievoj.“ |

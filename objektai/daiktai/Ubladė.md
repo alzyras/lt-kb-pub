@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-10296
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 72"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 72."
   citata_originali: |
     Šeštasis trobesys vadinamas buvo ublade, kurioje buvo^ duonkepis kakalys, nuo to
         vadinamas, jog po juo ne vien duoną ir pyragus, bet stėkius^235 , guires^236 , puokius^237 ir kitas žuvis
@@ -100,7 +101,8 @@ Nenurodyta
 - id: c-10297
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 72"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 72."
   citata_originali: |
     Šalip tos ubladės po vienu stogu buvo kamarėlė,
         kurioje minkytuviai, muldos^238 , muldelės, rėčiai, sietai, sėtuvės, saikai, rakandos ir tas, kas prie

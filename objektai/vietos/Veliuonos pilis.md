@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b4171cf347c75726f7d3ad64"
+canonical_name: "Veliuonos pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Veliuonos pilis","Veliuonos pilis (pilis)"]
+sameAs: []
+canonical_biography: "Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų, kad turėtų sugriauti Veliuonos pilį ir šią žemę grąžinti Ordinui, Vytautas atkirtęs: „Jūs norite man išplėšti tėvų palikimą ir Veliuonos pilį atimti; bet kol aš jums atiduosiu, ne."
+place_authority: true
+historical_names: []
 ---
 # Veliuonos pilis (pilis)
 
@@ -55,7 +64,8 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
 - id: c-171818
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
   citata_originali: |
     Vėliau, pagal 1331 metų rugsėjo 17
     dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys

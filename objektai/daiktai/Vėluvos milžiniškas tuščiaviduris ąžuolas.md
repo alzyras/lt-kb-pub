@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-172587
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
   citata_originali: |
     Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
     jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame

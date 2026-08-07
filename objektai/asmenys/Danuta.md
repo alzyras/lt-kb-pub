@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8e137a73421530f8c09781d9"
+canonical_name: "Danuta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Danuta"]
+sameAs: []
+canonical_biography: "Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama taip pat Marijos vardu. Jis turėjo tada 33 metus, ir krikščionybė jam nebuvo svetima, nes savo tėvo Kęstučio dvare Trakuose susi­ tikdavo su svečiais katalikais iš Mozūrijos, kur buvo nutekė­ jusi jo sesuo Danuta, iš Malburgo ir kartais iš kitų Vakarų Eu­ ropos kraštų, o per abi."
 ---
 # Danuta
 
@@ -80,7 +87,8 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 25."
   citata_originali: |
     Kęstučio duktė Miklausa 1375 metais ištekėjo už Tverio
     kunigaikščio Jono ir apsikrikštijo Marijos vardu. Danuta 1380
@@ -99,7 +107,8 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 115."
   citata_originali: |
     21 d. Tapiau mieste­
     lyje Prūsuose. Jo krikštatėviu buvo Ragainės komtūras Vy­

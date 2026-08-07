@@ -59,7 +59,8 @@ Vil­ niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą iki 
 - id: c-93946
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 335."
   citata_originali: |
     Vil­
     niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą

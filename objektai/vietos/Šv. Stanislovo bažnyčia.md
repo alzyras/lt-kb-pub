@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c9515e82de68354090860c75"
+canonical_name: "Šv. Stanislovo bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Stanislovo bažnyčia"]
+sameAs: []
+canonical_biography: "Stanislovo bažny­ čioje, deja, dėl kapitulos priekaištingo aplaidumo vėliau, XVIII amžiuje, tie antkapiai visiems laikams pražuvo seno­ sios Katedros griuvėsiuose."
+place_authority: true
+historical_names: []
 ---
 # Šv. Stanislovo bažnyčia
 
@@ -50,7 +59,8 @@ Stanislovo bažny­ čioje, deja, dėl kapitulos priekaištingo aplaidumo vėlia
 - id: c-82297
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 291-292"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291-292."
   citata_originali: |
     — • —
     275

@@ -109,7 +109,8 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
 - id: c-168699
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     Todėl ir Jerim Berdį iškilmingai paskelbė
     teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
@@ -130,7 +131,8 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
 - id: c-168700
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
   citata_originali: |
     Štai
     todėl pasirūpino, kad popiežius Inocentas paskelbtų
@@ -167,7 +169,8 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
 - id: c-168701
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
   citata_originali: |
     Tada
     karalius ir liovėsi kėlęs bet kokius reikalavimus. Netru­
@@ -195,7 +198,8 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
 - id: c-168702
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 579"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 579."
   citata_originali: |
     Karalius, supratęs, kad jo sumanymai visiems žinomi,
     sutiko parodyti malonę, patariamas to paties kancle­

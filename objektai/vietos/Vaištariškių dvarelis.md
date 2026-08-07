@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5882e93aff5ca6153271b2a9"
+canonical_name: "Vaištariškių dvarelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vaištariškių dvarelis"]
+sameAs: []
+canonical_biography: "Už miesto bažnyčiai priklausė Vaištariškių dvarelis su 8 valstiečių šeimomis."
+place_authority: true
+historical_names: []
 ---
 # Vaištariškių dvarelis
 
@@ -41,9 +50,9 @@ Už miesto bažnyčiai priklausė Vaištariškių dvarelis su 8 valstiečių še
 ## Citatos
 
 - id: c-185093
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 116."
   citata_originali: |
     Buvo įvardyta klebonija,
     dar 2 namai su sklypu mieste, plytinė su daržu, nameliu ir sklypu miesto pakraštyje.

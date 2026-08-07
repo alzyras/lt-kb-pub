@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-368a89cfa702b7b9e6eba58f"
+canonical_name: "Wespats"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Wespats"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Danijos karaliaus priešai. Wespats sudarė su juo sąjungą ir vedė jo dukrą."
 ---
 # Wespats
 
@@ -66,7 +73,8 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
 - id: c-174368
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
   citata_originali: |
     Rusų karvedys, vardu
     Ranonas, žuvo mūšyje, o jo valdų sostinė Rotala perėjo
@@ -90,7 +98,8 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
 - id: c-179360
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
   citata_originali: |
     Bet tam, kad visiškai užimtų Rusią, Frotonui dar reikėjo
     nugalėti turtingą tenykštį karaliuką, vardu Ganduvanas2,

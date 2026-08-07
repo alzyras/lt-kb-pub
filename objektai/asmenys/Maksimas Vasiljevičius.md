@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3a3aa495ae607c49949ccda7"
+canonical_name: "Maksimas Vasiljevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Maksimas Vasiljevičius"]
+sameAs: []
+canonical_biography: "Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą palei tavo malūną prie kelio, vedan­ čio iš miesto į Užupį, už Vilnelės."
 ---
 # Maksimas Vasiljevičius
 
@@ -50,7 +57,8 @@ Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą pal
 - id: c-83748
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 373."
   citata_originali: |
     PATS ALEKSANDRAS,
     DIEVO MALONE DIDYSIS LIETUVOS,

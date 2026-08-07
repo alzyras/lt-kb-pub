@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df3412e4c15a60c5ca4a273a"
+canonical_name: "Priepado ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Priepado ežeras"]
+sameAs: []
+canonical_biography: "Jie žinojo apie slaptą išėjimą iš bunkerio, kuris buvo įrengtas prie ežero melduose, ir ten išdėstė savo kareivius, tokiu būdu nepalikdami jokių vilčių partizanams atsitraukti Mūšis 1949 m. lapkričio 1 d. Šimonių girioje, prie Priepado ež., MGB 298-ojo šaulių."
+place_authority: true
+historical_names: []
 ---
 # Priepado ežeras
 
@@ -59,7 +68,8 @@ Jie žinojo apie slaptą išėjimą iš bunkerio, kuris buvo įrengtas prie eže
 - id: c-45287
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 246."
   citata_originali: |
     Ruošdamiesi šturmui iš
     suimtų partizanų rusai buvo surinkę pakankamai informa-

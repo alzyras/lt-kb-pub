@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b1aa9c61da7508437ad52624"
+canonical_name: "Dominykas Radvila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dominykas Radvila"]
+sameAs: []
+canonical_biography: "Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau įsigijo kaip nuosavybę."
 ---
 # Dominykas Radvila
 
@@ -61,7 +68,8 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 - id: c-83634
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 6."
   citata_originali: |
     Terespolis nebuvo Balinskių
     giminės paveldima nuosavybė. 1811 m. I. Balinskis perėmė iš

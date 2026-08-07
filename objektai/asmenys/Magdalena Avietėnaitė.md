@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3351493db5bc659918455c27"
+canonical_name: "Magdalena Avietėnaitė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Magdalena Avietėnaitė"]
+sameAs: []
+canonical_biography: "Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo ir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos skyrių, atskleidusį meno, tautodailės, ekonomikos."
 ---
 # Magdalena Avietėnaitė
 
@@ -40,7 +47,8 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 - id: c-21871
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 10."
   citata_originali: |
     archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-
     saulį pasklidusių išeivių veikloje.

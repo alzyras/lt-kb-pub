@@ -51,7 +51,8 @@ Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­ nių dar nebuvo n
 - id: c-82568
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 205."
   citata_originali: |
     Stanislo­
     vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­

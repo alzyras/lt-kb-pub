@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-03b1f134382d05ad0114eea3"
+canonical_name: "Petras Suchenwirt"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Petras Suchenwirt"]
+sameAs: []
+canonical_biography: "Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vadovavo pats magistras, daug įdomių smulkmenų. Stipriai šarvuoti riteriai sunkiai susidorodavo Lietuvos miškuose ir raistuose, kurių teikiamus pavojus ir kliūtis taip vaizdingai savo eilėse iškėlė Suchenwirtas."
 ---
 # Petras Suchenwirt
 
@@ -74,7 +81,8 @@ Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vad
 - id: c-33105
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 261."
   citata_originali: |
     (^21) **SRP, II, 96, 565-568 p. ; III, 596 p.**
     (^22) **P8RL, VIII, 17 ; DlugO, XII 330-331 p. ; SRP, II, 568 p.**
@@ -102,7 +110,8 @@ Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vad
 - id: c-33106
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 263."
   citata_originali: |
     Eilė rūpestingai pa­
     ruoštų žygių Lietuvon liko neužbaigti, ištikus staigiems atlydžiams,

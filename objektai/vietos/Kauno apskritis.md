@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e40dada9ac59da3cb2aa7219"
+canonical_name: "Kauno apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno apskritis"]
+sameAs: []
+canonical_biography: "Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkastas Kauno apskrityje prie Lukoinių dvaro greta skeleto. Vilniaus akademijos mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens, šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę rasti Lydos apskrityje."
+place_authority: true
+historical_names: []
 ---
 # Kauno apskritis
 
@@ -46,7 +55,8 @@ Kosakovskio senienų rinkinyje buvo stiklinis tuščiaviduris rutuliukas, atkast
 - id: c-171896
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
   citata_originali: |
     Vilniaus akademijos
     mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens,

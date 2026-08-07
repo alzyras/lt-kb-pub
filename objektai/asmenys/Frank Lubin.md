@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-acfda31864eef311fcece762"
+canonical_name: "Frank Lubin"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Frank Lubin"]
+sameAs: []
+canonical_biography: "Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čempionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas), boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo garsenybė Johnny Unitas (Jonas."
 ---
 # Frank Lubin
 
@@ -41,7 +48,8 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
 - id: c-21669
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265."
   citata_originali: |
     O beveik
     kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar

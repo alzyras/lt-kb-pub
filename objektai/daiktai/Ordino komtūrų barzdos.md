@@ -51,7 +51,8 @@ Nenurodyta
 - id: c-22281
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 48."
   citata_originali: |
     Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį. Nors
     reikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai,

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7b5f14f1d0c5777cc9350bf9"
+canonical_name: "Barbora Cyleikaitė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Barbora Cyleikaitė"]
+sameAs: []
+canonical_biography: "Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių."
 ---
 # Barbora Cyleikaitė
 
@@ -53,7 +60,8 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 228."
   citata_originali: |
     Į šį nepaprastą Vytauto kviečiamą susirinkimą gausiai su­
     plaukė svečių tiek iš Vakarų, tiek ir iš Rytų Europos. Atvyko

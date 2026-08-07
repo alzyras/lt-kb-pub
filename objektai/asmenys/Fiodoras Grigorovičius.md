@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8e731befa97c43246d5327bc"
+canonical_name: "Fiodoras Grigorovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fiodoras Grigorovičius"]
+sameAs: []
+canonical_biography: "Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiumi derėjosi su Ivanu dėl skriaudų atlyginimo."
 ---
 # Fiodoras Grigorovičius
 
@@ -53,7 +60,8 @@ Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiu
 - id: c-169562
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 557"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 557."
   citata_originali: |
     Sutelkę jėgas, visi kartu užpuolė
     Brianską ir dėl rusų klastingos išdavystės be vargo

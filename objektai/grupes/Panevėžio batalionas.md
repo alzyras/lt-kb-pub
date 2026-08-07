@@ -59,7 +59,8 @@ BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kov
 - id: c-42891
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 183."
   citata_originali: |
     BE Bolševikų gynybinės pozicijos
     iesteliai

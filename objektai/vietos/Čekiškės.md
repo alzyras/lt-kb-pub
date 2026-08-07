@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2052a469fe06d3385eeb4ac2"
+canonical_name: "Čekiškės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Čekiškės"]
+sameAs: []
+canonical_biography: "Taip atsirado Čekiškės (Czekiszki) pa vadinimas; dabar taip vadinamas miestelis."
+place_authority: true
+historical_names: []
 ---
 # Čekiškės
 

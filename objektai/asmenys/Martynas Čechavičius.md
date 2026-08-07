@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d202a5e82a0d85f65cf8b1c8"
+canonical_name: "Martynas Čechavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Martynas Čechavičius"]
+sameAs: []
+canonical_biography: "1633 m. Kauno miestas skundėsi Vladislovui Vazai, kad Kauno pavieto gėralų mokesčio rinkikas Martynas Čechavi čius išgavo Kauno pavieto kaptūrinio (tarpkaralmečio) teismo sprendimą, kuriuo Kauno miestas buvęs įpareigotas sumokėti rinkikui 1 500 auksinų baudą."
 ---
 # Martynas Čechavičius
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185494
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 314"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 314."
   citata_originali: |
     Sudėtinga buvo kita byla dėl gėralų mokesčio. 1633 m. Kauno miestas skundėsi
     Vladislovui Vazai, kad Kauno pavieto gėralų mokesčio rinkikas Martynas Čechavi­

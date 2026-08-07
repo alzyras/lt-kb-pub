@@ -57,7 +57,8 @@ Rėklaitis : Einführung in die Kunstgeschichtsforschung des Groß- iürstentums
 - id: c-33563
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 25."
   citata_originali: |
     Z. Ivinskis :** **_Vytautas D. istorinėje literatūroje ir jo periodo bibliografija,_**
     **Athenaeum, t. 2, Nr. 1, Kaunas 1931, p. 89-141.

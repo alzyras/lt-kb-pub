@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dff00ffad7384b43c867a1dc"
+canonical_name: "Engūrės ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Engūrės ežeras"]
+sameAs: []
+canonical_biography: "Narbutas spėja, kad Lela-Upė galėjo būti viena iš upių, įtekančių į Engūrės ežerą. Tačiau, nepaisant latviško pavadinimo, ši upė, tiesą sakant, šiandien mums nežinoma, bet ma nome, jog tai turėjo būti kažkuri į Engūrės ežerą įtekanti upė. Visa tai rodo, kad minėtų agazirų žemė buvusi prie Engūrės ežero, pavadinto jų vardu, o jie patys buvo lietu vių gentis ir, kaip rodo pavadinimas, šaka hirių kartos, kuri buvo tokia sena kaip ir jų kaimynystė Uždneprėje su gelonais ir budinais (. 268)."
+place_authority: true
+historical_names: []
 ---
 # Engūrės ežeras
 
@@ -85,7 +94,8 @@ Narbutas spėja, kad Lela-Upė galėjo būti viena iš upių, įtekančių į En
 - id: c-175606
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Žodis Upe lietu­
     vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių
@@ -110,7 +120,8 @@ Narbutas spėja, kad Lela-Upė galėjo būti viena iš upių, įtekančių į En
 - id: c-179376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
   citata_originali: |
     Tu­
     riu po ranka lotynų kalba parašytą rankraštį apie mūšį,

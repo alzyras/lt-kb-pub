@@ -51,7 +51,8 @@ media_all_json: |-
 - id: c-40730
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 207."
   citata_originali: |
     Spalio 26 d. lenkai puola visu frontu, tačiau tiesioginė
     ataka nerezultatyvi. 13 ulonų pulkas apeina kairįjį lietu-

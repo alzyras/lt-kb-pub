@@ -50,7 +50,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - id: c-166573
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 125."
   citata_originali: |
     Daugiausia dėmesio jie skyrė katalikišką
     doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai. Kartu su

@@ -59,7 +59,8 @@ Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė 
 - id: c-22537
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 197."
   citata_originali: |
     Vyriausybės pir-
     mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo

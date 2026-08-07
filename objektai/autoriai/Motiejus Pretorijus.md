@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7552de3d0d7d1297db0fc7f7"
+canonical_name: "Motiejus Pretorijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Motiejus Pretorijus"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasis savo paties matytais pastebėjimais. Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais. Pasak Pretorijaus, Poiein ziemme senovės prūsams turėjo reikšti galingos genties žemę."
 ---
 # Motiejus Pretorijus
 
@@ -221,7 +228,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173212
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 300."
   citata_originali: |
     Latviuose tai buvo žynys ir pranašautojas. Paimdavo į
     saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31
@@ -247,7 +255,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
   citata_originali: |
     Daugeliu požiūrių
     šios žynės buvo Antikos bakchančių pamėgdžiojimas.
@@ -268,7 +277,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173642
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
   citata_originali: |
     Pavadinimą gavo nuo Jesse, ar­
     ba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­
@@ -290,7 +300,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173643
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Tai, žinoma, vien panašumai, kuriuos
     pastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,
@@ -316,7 +327,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173644
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369-370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369-370."
   citata_originali: |
     Ne Sarkės, o Šar­
     kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
@@ -344,7 +356,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-179265
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 262."
   citata_originali: |
     Si provincija
     plytėjo prie Vyslos, arčiausiai ribojosi su slavų gentimis,

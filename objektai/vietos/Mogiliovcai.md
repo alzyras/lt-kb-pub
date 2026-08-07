@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f86c13192a3b10e5492f3674"
+canonical_name: "Mogiliovcai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mogiliovcai"]
+sameAs: []
+canonical_biography: "Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klimaševskis aptiko Bychovco kronikos rankraštį. Prieš 1830 m. Ipolitas Klimaševskis Bychovco kronikos rankraštį aptiko Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje."
+place_authority: true
+historical_names: []
 ---
 # Mogiliovcai
 
@@ -87,7 +96,8 @@ Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klima
 - id: c-170318
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
   citata_originali: |
     I RANKRAŠTIS IR JO  SKELBIMAS
     Bychovco kronika, palyginus su Trumpuoju ir Pla-

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7c06ab62a83e7cf06af72258"
+canonical_name: "A. Venclova"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Venclova"]
+sameAs: []
+canonical_biography: "A. Venclova šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys."
 ---
 # A. Venclova
 
@@ -76,7 +83,8 @@ A. Venclova šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
 - id: c-169787
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 3."
   citata_originali: |
     REDAKCINE KOMISIJA
     K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,

@@ -50,19 +50,7 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 <a id="claim-t-185346"></a>
 - t-002
   teiginys: "Legatams pareikalavus Seversko ir Smolensko, Maskvos didikai atsisakė tartis dėl užimtų žemių grąžinimo."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-178652
-
-<a id="claim-t-193459"></a>
-- t-003
-  teiginys: "Legatams reikalaujant Seversko ir Smolensko, Maskvos didikai atsakė, kad nesą kunigaikščio įgalioti tartis dėl užimtų žemių sugrąžinimo."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,7 +58,18 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168707
-    - c-178652
+
+<a id="claim-t-193459"></a>
+- t-003
+  teiginys: "Legatams reikalaujant Seversko ir Smolensko, Maskvos didikai atsakė, kad nesą kunigaikščio įgalioti tartis dėl užimtų žemių sugrąžinimo."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168707
 
 <a id="claim-t-196376"></a>
 - t-004
@@ -139,7 +138,8 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 - id: c-168706
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 698"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 698."
   citata_originali: |
     Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
     apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
@@ -162,7 +162,8 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 - id: c-168707
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 698"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 698."
   citata_originali: |
     Tuo
     tarpu priešas, apsvaigęs nuo šitokių laimėjimų ir pra­
@@ -195,12 +196,14 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003
 
 - id: c-178652
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 704"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 704."
   citata_originali: |
     M aža to, jie išd rįsę v iešai grasinti,
     jo g iš viso atsisak y sią k lau sy ti k araliau s, pam atę, k ad
@@ -227,6 +230,4 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-003
     - t-004

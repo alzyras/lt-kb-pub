@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-703ce8d156808d3e9eb9660c"
+canonical_name: "Pilypavas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pilypavas"]
+sameAs: []
+canonical_biography: "Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B."
+place_authority: true
+historical_names: []
 ---
 # Pilypavas
 
@@ -60,7 +69,8 @@ Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių
 - id: c-40442
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 129."
   citata_originali: |
     Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-
     vių pajėgų. Pasinaudodami tuo švedai ir brandendburgiečiai, surinkę papildomas pajėgas, pasivijo lietuvius ties Pilypavu (netoli Suvalkų) ir juos sumušė.

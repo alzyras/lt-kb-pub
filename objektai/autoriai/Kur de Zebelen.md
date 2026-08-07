@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fb89221fd21be3af4156e16d"
+canonical_name: "Kur de Zebelen"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kur de Zebelen"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino iš graikiško pavadinimo. Pagal tas pačias taisykles Kur de Zebelen (Court de Gebelins) savo „Monde pri mitif“ žodį Peruką kildino iš jtVQQaÇ; Puantine de Sivrej (Poinsinet de Sivry."
 ---
 # Kur de Zebelen
 
@@ -65,7 +72,8 @@ Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino i
 - id: c-174561
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
   citata_originali: |
     Pagal tas pačias taisykles
     Kur de Zebelen (Court de Gebelins) savo „Monde pri­

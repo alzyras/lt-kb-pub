@@ -77,7 +77,8 @@ media_all_json: |-
 - id: c-82508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 203-204"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 203-204."
   citata_originali: |
     1756. Akademijos Rektorius t. Juraha taip pat prie kole­
     gijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,
@@ -107,7 +108,8 @@ media_all_json: |-
 - id: c-82509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 202-203"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 202-203."
   citata_originali: |
     Insuper 750 auksinų sumą užrašė,
     prie kurios prisidėjo Vilniaus kanauninkai Marcelis Sucho-

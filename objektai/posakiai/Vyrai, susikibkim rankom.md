@@ -68,7 +68,8 @@ media_all_json: |-
 - id: c-12492
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 255."
   citata_originali: |
     Čia bokšto
     gynėjų buvo žymiai mažiau. Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom
@@ -85,7 +86,8 @@ media_all_json: |-
 - id: c-176415
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 255."
   citata_originali: |
     Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom
     ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“. Tada vyrai sustojo ant kelio.

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fda3f628ab17a13d30bbff59"
+canonical_name: "Umolis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Umolis"]
+sameAs: []
+canonical_biography: "Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už Slucko."
+place_authority: true
+historical_names: []
 ---
 # Umolis
 

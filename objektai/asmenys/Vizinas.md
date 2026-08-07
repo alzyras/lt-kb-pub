@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c249a3d76a3e3ee67b24724"
+canonical_name: "Vizinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vizinas"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vien žvilgsniu nugalėti prieš jį pakeltą ginklą. Narbuto pasakojime Starkateras Rusioje iškvietė Viziną į dvikovą ir nukovė jį, oda apsaugojęs kalaviją nuo burtininko žvilgsnio. Narsusis Starkateras, tai sužino jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė jį, pasitelkęs ¡gudrybę."
 ---
 # Vizinas
 
@@ -31,7 +38,7 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
 <a id="claim-t-191237"></a>
 - t-001
   teiginys: "Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vien žvilgsniu nugalėti prieš jį pakeltą ginklą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,12 +55,11 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174119
-    - c-174120
 
 <a id="claim-t-191238"></a>
 - t-002
   teiginys: "Narbuto pasakojime Starkateras Rusioje iškvietė Viziną į dvikovą ir nukovė jį, oda apsaugojęs kalaviją nuo burtininko žvilgsnio."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,13 +74,12 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-174119
     - c-174120
 
 <a id="claim-t-197840"></a>
 - t-003
   teiginys: "Narsusis Starkateras, tai sužino jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė jį, pasitelkęs ¡gudrybę."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,14 +87,14 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174119
-    - c-174120
 
 ## Citatos
 
 - id: c-174119
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
   citata_originali: |
     Jį vadindavo plėšriuoju slibi­
     nu2, be to, jis turėjęs stiprią burtų galią, nes kiekvieną
@@ -111,13 +116,13 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
     - t-003
 
 - id: c-174120
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
   citata_originali: |
     Pirkliavę Danijoje rusai
     guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
@@ -133,6 +138,4 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
-    - t-003

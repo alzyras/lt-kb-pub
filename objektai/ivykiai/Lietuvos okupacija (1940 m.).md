@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-28746
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 39."
   citata_originali: |
     Tos tradicinės periodizacijos tačiau buvo atsisakyta, kai tik
     Lietuva buvo komunistų okupuota (1940). Buvo charakteringa,

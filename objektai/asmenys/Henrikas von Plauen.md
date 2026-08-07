@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e9153d0bbc6c59beacacd9e"
+canonical_name: "Henrikas von Plauen"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas von Plauen"]
+sameAs: []
+canonical_biography: "Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės jau nebeįstengė paimti."
 ---
 # Henrikas von Plauen
 
@@ -52,7 +59,8 @@ Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyr
 - id: c-32737
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 349."
   citata_originali: |
     Po
     pirmo katastrofos smūgio ordinas tačiau ėmė atsipeikėti. Kai

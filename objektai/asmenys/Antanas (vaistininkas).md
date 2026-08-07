@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cfea2ddab7b961d8a1217440"
+canonical_name: "Antanas (vaistininkas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas (vaistininkas)"]
+sameAs: []
+canonical_biography: "Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną vaistininką Antaną a die 10 Julii ad diem 18 Aug."
 ---
 # Antanas (vaistininkas)
 
@@ -42,7 +49,8 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
 - id: c-83884
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 458-459"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 458-459."
   citata_originali: |
     18 dienos] už tris šimtus flor. Nuo to
     20 flor. palūkanų. Taip pat buvo trys sidabriniai dubenys

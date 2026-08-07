@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d0404ab2a1b61ab780680e93"
+canonical_name: "S. M. Kuczynskl"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["S. M. Kuczynskl"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # S. M. Kuczynskl
 

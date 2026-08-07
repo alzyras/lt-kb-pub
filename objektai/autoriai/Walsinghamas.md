@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83852ca6fe141dae95e8419a"
+canonical_name: "Walsinghamas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Walsinghamas"]
+sameAs: []
+canonical_biography: "IV, p. 68, rašo, kad anglų kronikininkas Walsinghamas savo kronikoje 1390 m. Vilniaus užėmimo garbę priskiria Derbio grafui, o užmuštų ir sužeistų lietuvių nurodo buvus apie 4 000."
 ---
 # Walsinghamas
 
@@ -63,7 +70,8 @@ IV, p. 68, rašo, kad anglų kronikininkas Walsinghamas savo kronikoje 1390 m. V
 - id: c-84064
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 140."
   citata_originali: |
     Registrant, p. 70), F o i g t o
     įdėtas V, p. 545, byloja, kad „per

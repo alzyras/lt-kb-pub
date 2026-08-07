@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5fa60020f6b293ced21bb26"
+canonical_name: "Švenčionėliai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Švenčionėliai"]
+sameAs: []
+canonical_biography: "Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenčionėlių linijoje. (3 Spalio 17 d. lenkai puola, užima Švenčionėlius, tačiau batalionai iki vakaro ginasi ties Merkiu prieš dvi lenkų brigadas, galiausiai atsitraukia į pietines Vilniaus prieigas."
+place_authority: true
+historical_names: []
 ---
 # Švenčionėliai
 
@@ -67,7 +76,8 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 - id: c-45475
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 207."
   citata_originali: |
     @ Spalio 8 d. Želigovskis pradeda puolimą. Du 4-ojo pėst. p. (3 Spalio 17 d. lenkai puola, užima Švenčionėlius, tačiau
 
@@ -85,7 +95,8 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 - id: c-45476
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 206."
   citata_originali: |
     jau E. Adamkavičiaus vado-
     vaujama 1-oji divizija spalio

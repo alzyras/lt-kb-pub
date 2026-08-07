@@ -84,7 +84,8 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 - id: c-70762
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 612"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 612."
   citata_originali: |
     Dabartinė Latvija yra atsiradusi taip pat po didžiojo karo,
     kaip ir Lietuva. Kai Rusijoje kilo revoliucija, beveik visa Lat-
@@ -103,7 +104,8 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 - id: c-70763
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 612"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 612."
   citata_originali: |
     Kai Rusijoje kilo revoliucija, beveik visa Lat-
     vija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią
@@ -123,7 +125,8 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 - id: c-70764
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 612"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 612."
   citata_originali: |
     Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
     sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių

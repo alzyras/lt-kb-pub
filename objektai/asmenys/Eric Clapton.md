@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4f3db7b7113c9c7bfd88541"
+canonical_name: "Eric Clapton"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eric Clapton"]
+sameAs: []
+canonical_biography: "O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison ir Paul McCartney, Keith Richards ir Ronnie Wood, David Gilmour ir Bruce Springsteen?"
 ---
 # Eric Clapton
 
@@ -49,7 +56,8 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 - id: c-21661
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 266."
   citata_originali: |
     nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
     Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.

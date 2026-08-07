@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9d728436898eb2784e91856"
+canonical_name: "Jokūbas Lencicijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokūbas Lencicijus"]
+sameAs: []
+canonical_biography: "1583 metais jėzuitai kunigą Jokūbą Lencicijų ir du jo bičiulius pasiuntė misionieriais į Žemaičius ir Livoniją. 1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė kunigą Jokūbą Lencicijų su dviem bičiuliais misionieriais."
 ---
 # Jokūbas Lencicijus
 
@@ -87,7 +94,8 @@ media_all_json: |-
 - id: c-172986
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     Ten jis buvo pa­
     stebėtas praėjus daugiau nei pusantro šimto metų po krikščiony­
@@ -106,7 +114,8 @@ media_all_json: |-
 - id: c-173776
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 501"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 501."
   citata_originali: |
     Ten jis buvo pastebėtas pra­
     ėjus daugiau nei pusantro šimto metų po krikščionybės įvedimo.

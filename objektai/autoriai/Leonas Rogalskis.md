@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7049771c09ad9128d4787a71"
+canonical_name: "Leonas Rogalskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Leonas Rogalskis"]
+sameAs: []
+canonical_biography: "Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas Rogalskis uoliai prisidėjo kuo galėdamas prie mano darbo."
 ---
 # Leonas Rogalskis
 
@@ -46,7 +53,8 @@ Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas
 - id: c-176909
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 27."
   citata_originali: |
     Negaliu taip
     pat nutylėti, kad gerbiamas grafas Adomas Chreptavičius, pri­

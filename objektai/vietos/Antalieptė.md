@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-25ab1f61e5b4136a155514bd"
+canonical_name: "Antalieptė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Antalieptė"]
+sameAs: []
+canonical_biography: "| O po to Užpalius ir birželio 5 d. Antalieptę."
+place_authority: true
+historical_names: []
 ---
 # Antalieptė
 
@@ -51,7 +60,8 @@ media_all_json: |-
 - id: c-40240
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 185."
   citata_originali: |
     Birželio 3 d. P. Genys užima
 

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9cd9962805ccbfae00675f8"
+canonical_name: "Rudolfas (Pamedės vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rudolfas (Pamedės vyskupas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas, Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto pilį, vardu Plutai589, o Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą."
 ---
 # Rudolfas (Pamedės vyskupas)
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
 - id: c-61060
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 223."
   citata_originali: |
     Tuo tarpu pirmoje pilyje, tai yra Girdavuose, kur
     taip pat buvo laikomos mišios, po visam pasirodė du balandžiai, kurie skraidė ir

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-412775bcc0b64b4204140b22"
+canonical_name: "O. Urbonas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["O. Urbonas"]
+sameAs: []
+canonical_biography: "Urbonas, O."
 ---
 # O. Urbonas
 
@@ -60,7 +67,8 @@ Urbonas, O.
 - id: c-33084
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 351."
   citata_originali: |
     Ge-
     scnichtsvereins, t. 16, Danzig 1886, 37-104 p. — Urbonas, O. : _1410

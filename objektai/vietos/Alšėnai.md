@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-407aee9550e0d08974ebdd58"
+canonical_name: "Alšėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alšėnai"]
+sameAs: []
+canonical_biography: "Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pirma Lucko, paskui, nuo 1536 m., Vilniaus vyskupas, mirė 1553 m. Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų..................."
+place_authority: true
+historical_names: []
 ---
 # Alšėnai
 
@@ -63,7 +72,8 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 - id: c-82037
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 267."
   citata_originali: |
     Dalyvaujant didžiai
     gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­
@@ -80,7 +90,8 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 - id: c-170513
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 124."
   citata_originali: |
     Didysis
     kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku

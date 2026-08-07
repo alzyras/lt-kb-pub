@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-916f7bb068d8fbcc07b18c62"
+canonical_name: "Taurakalnis (Pilies kalnas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Taurakalnis (Pilies kalnas)"]
+sameAs: []
+canonical_biography: "Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio vilko » sapno yra nebeįsivaizduojama. 158, 169, 170, 208, 210 Tauragė 91 ; Tauragės pučas 40 VARDYNAS^407 Taurakalnis, Pilies kalnas 244 Tauta ir žodis 127, 128, 148, 180, 347 Tautavičius A."
+place_authority: true
+historical_names: []
 ---
 # Taurakalnis (Pilies kalnas)
 
@@ -58,7 +67,8 @@ Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios
 - id: c-34048
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 251."
   citata_originali: |
     Geležinio vilko legenda, be abejo, primena
     Romos vilkę, kai jau lietuviai buvo įsisąmoninę apie savo kilmę

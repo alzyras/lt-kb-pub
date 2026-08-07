@@ -143,14 +143,21 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 <a id="claim-t-192484"></a>
 - t-006
   teiginys: "Lotynų kalbą slavai venedai ir lietuviai var tojo kaip diplomatinę kalbą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Venedai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Venedai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-179233
+    - c-175278
 
 <a id="claim-t-197526"></a>
 - t-007
@@ -269,7 +276,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-82752
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 28-29"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 28-29."
   citata_originali: |
     12
 
@@ -309,7 +317,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-82753
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 33."
   citata_originali: |
     Mūsų kaimiečiai
     lietuviai taria „Niaris" ir sako, esą
@@ -340,7 +349,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-175274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
   citata_originali: |
     Venedai tą kraštą vadino Ulmigeria, o te­
     nykščius žmones — Ulmigeri. Tad jų padedami tęsė savo
@@ -357,7 +367,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-175275
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
   citata_originali: |
     Pakviestas į pagal­
     bą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti
@@ -377,7 +388,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-175276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
   citata_originali: |
     Lietuviai, gyvenę toliau nuo jūros, dalyva­
     vo įvairiuose sarmatų maištuose, būdavo įtraukiami į
@@ -412,7 +424,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-175277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 487"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 487."
   citata_originali: |
     Nedailus, vos galima suprasti, jog tai raitelis su sa­
     kalu. Raidės užrašytos ratu: lotyniškas užrašas, venedų runomis,
@@ -435,7 +448,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-175278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 487"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 487."
   citata_originali: |
     Todėl, mano nuomone, reikėtų
     skaityti: Kurcho, optimo maximo. O tai yra toks pat užrašas kaip
@@ -447,14 +461,17 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   citata_rodoma: "Todėl, mano nuomone, reikėtų\nskaityti: Kurcho, optimo maximo. O tai yra toks pat užrašas kaip\nir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO\nMAXIMO. Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito\nskydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo\nmaximo Jurowito\". Lotynų kalbą slavai venedai ir lietuviai var­\ntojo kaip diplomatinę kalbą."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-179232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
   citata_originali: |
     Senovės tyrinėtojai ne­
     abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
@@ -479,7 +496,8 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - id: c-179233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 303."
   citata_originali: |
     Taip apie IV amžiaus vidurį gotų valdžia paplito
     iki Baltijos jūros. Iš ankstesnio šios temos dėstymo ži­
@@ -500,13 +518,12 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
     - t-010
 
 - id: c-184280
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 37"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 37."
   citata_originali: |
     Upis tenai didesniąsias minavoja,
     Ysla (Vistula), Nemunu (Kronas), Venta (Rubonas),

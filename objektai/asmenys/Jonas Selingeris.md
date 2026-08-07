@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b55a8b1efd159a07d1b9036"
+canonical_name: "Jonas Selingeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Selingeris"]
+sameAs: []
+canonical_biography: "Su jiedviem Volkvinas, mistras kalavi jonų, atleido tris savo zokano brostvius: Joną Selingerį, marčelgą zokano, Raimundą, kamendotą Kesės, ir Joną v."
 ---
 # Jonas Selingeris
 
@@ -41,9 +48,9 @@ Su jiedviem Volkvinas, mistras kalavi jonų, atleido tris savo zokano brostvius:
 ## Citatos
 
 - id: c-184769
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 276"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 276."
   citata_originali: |
     Dorfą, kamendotą Nagelštadto, į
     Padaugavį, kuriuodu, atėjusiu vasarai bengiantis,

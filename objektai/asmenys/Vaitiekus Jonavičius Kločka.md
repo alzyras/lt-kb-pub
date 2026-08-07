@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6bad3ce7417acc433bf76971"
+canonical_name: "Vaitiekus Jonavičius Kločka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaitiekus Jonavičius Kločka"]
+sameAs: []
+canonical_biography: "Po jo iki 1498 m. Kauno seniūnu ar vietininku, kaip dažniau vadinamas, buvo valdovo maršalas Stankus Kostevičius, jį pakeitė minėtas Vaitiekus Jonavičius, Kauno vietininko pareigas ėjęs 1498-1514 m. Be šių pareigų, jis 1495-1512 m. dar buvo Lietuvos."
 ---
 # Vaitiekus Jonavičius Kločka
 
@@ -51,9 +58,9 @@ Po jo iki 1498 m. Kauno seniūnu ar vietininku, kaip dažniau vadinamas, buvo va
 ## Citatos
 
 - id: c-185456
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 112."
   citata_originali: |
     Po jo iki
     1498 m. Kauno seniūnu ar vietininku, kaip dažniau vadinamas, buvo valdovo maršalas

@@ -102,7 +102,8 @@ Nenurodyta
 - id: c-174973
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 382"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 382."
   citata_originali: |
     Vis dėlto pilkapius visuomet gaubė dabartinės mū-
     sų kraštiečių kartos pagarba. Šiandien kaimiečiai nors

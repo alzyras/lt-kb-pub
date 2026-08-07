@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2c2962c9f4fd2e68dd9e3909"
+canonical_name: "Salavija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Salavija"]
+sameAs: []
+canonical_biography: "Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma Skalvos arba Rusios vardu. Narbutas Salaviją vadino vienuolikta Prūsijos provincija ir pažymėjo, kad jos sienas sunku nustatyti. Ptolemėjas žinojo Salavijos gyvento jus slavinu vardu; iš to galima spręsti, kad Rusios egzis tavimo laikais didelė dalis šios žemės II krikščioniškosios eros amžiuje buvo žinoma Skalvos arba Rusios vardu, kuriuo ją ir vadino svetimšaliai."
+place_authority: true
+historical_names: []
 ---
 # Salavija
 
@@ -103,7 +112,8 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
 - id: c-175571
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
   citata_originali: |
     Ptolemėjas žinojo Salavijos gyvento­
     jus slavinu vardu; iš to galima spręsti, kad Rusios egzis­
@@ -125,7 +135,8 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
 - id: c-175572
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Prireikus jie vadovavo ginkluotiems žmo­
     nėms, be to, iš jų buvo renkamas vyriausias karvedys,
@@ -148,7 +159,8 @@ Narbutas sprendė, kad II a. didelė Salavijos dalis svetimšaliams buvo žinoma
 - id: c-179398
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
   citata_originali: |
     Tačiau, kai joje dar prieš bendrą
     prūsų tautos žlugimą įvyko politinių pokyčių, ten apsi­

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1c4044dedef835fcfd847e44"
+canonical_name: "M. Tepenas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Tepenas","Toeppen M.","Toppen M.","Töppen M.","Тоерреn M."]
+sameAs: []
+canonical_biography: "M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio leidimo parengėjas ir paskelbėjas. Išnašos jį taip pat tiesiogiai sieja su Prūsijos istoriografijos, įvadiniais ir istoriškai lyginamaisiais darbais."
 ---
 # M. Tepenas
 
@@ -150,7 +157,8 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
 - id: c-56017
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
   citata_originali: |
     Kronikos mokslinį leidimą originalo (lotynų) kalba pagal išlikusius vėlesnius
     Torunės, Karaliaučiaus, Berlyno  ir kt. nuorašus parengė  ir 1861 m. „Scriptores
@@ -174,7 +182,8 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
 - id: c-56018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 275."
   citata_originali: |
     Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K.
     Schütz.—Berlin, 1853.
@@ -190,7 +199,8 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
 - id: c-56019
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     139 Töppen M. Geschichte der preussischen Historiographie, S. 266, 140; PKD, s.
     138.
@@ -205,7 +215,8 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
 - id: c-65376
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
   citata_originali: |
     Ieškodamas centrinės baltų Romovės resp. Romuvos Nadruvoje, M. Pretorijus (1664—
     1684 m. gyvenęs Nibudžiuose, į šiaurės rytus nuo Gumbinės) rašęs, kad, jo nuomone,
@@ -225,7 +236,8 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
 - id: c-65378
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     Savo ruožtu dar XIX a. M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais,
     priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9. A. Becenbergeris nustatė, kad
@@ -243,7 +255,8 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
 - id: c-65379
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 275."
   citata_originali: |
     Toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858.
   citata_rodoma: "Toeppen M. Historisch-comparative Geographie von Preussen. — Gotha, 1858."

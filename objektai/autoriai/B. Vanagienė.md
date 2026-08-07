@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ac225b10fb7a3c7a32e3988"
+canonical_name: "B. Vanagienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["B. Vanagienė"]
+sameAs: []
+canonical_biography: "B. Vanagienė bibliografinėse nuorodose siejama su Simono Daukanto „Raštų“ teksto parengimu."
 ---
 # B. Vanagienė
 
@@ -80,7 +87,8 @@ Nenurodyta
 - id: c-170737
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 38."
   citata_originali: |
     21 Daukantas S. Raštai / Tekstą parengė B. Vanagienė. Sudarė,
     įvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-
@@ -97,7 +105,8 @@ Nenurodyta
 - id: c-170738
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 19."
   citata_originali: |
     14 Daukantas S. Raštai. -  T. 1/ Tekstą parengė B. Vanagienė. Su­
     darė, įvadą ir paaiškinimus parašė V. Merkys. -  V, 1976. -  P. 81-99,

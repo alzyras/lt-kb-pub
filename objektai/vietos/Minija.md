@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6ddd77445de5e1075c5ac9ee"
+canonical_name: "Minija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Minija"]
+sameAs: []
+canonical_biography: "Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius."
+place_authority: true
+historical_names: []
 ---
 # Minija
 
@@ -51,7 +60,8 @@ media_all_json: |-
 - id: c-33953
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 134."
   citata_originali: |
     Beveik trečdalį savo
     kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­

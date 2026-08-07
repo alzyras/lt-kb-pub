@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-baa93ec5fa713425ed4575bc"
+canonical_name: "Fridrichas fon Vildenbergas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas fon Vildenbergas"]
+sameAs: []
+canonical_biography: "Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir daug kitų riterių. Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kurį magistras Fridrichas fon Vildenbergas Meve 1324 m., daly­ vaujant Pelplino abatui Jordanui, liepė parengti, yra Slapt."
 ---
 # Fridrichas fon Vildenbergas
 
@@ -80,7 +87,8 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 - id: c-83480
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 93."
   citata_originali: |
     Minėti
     pasiuntiniai, be abejonės, iš Liube­
@@ -105,7 +113,8 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 - id: c-83481
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 82."
   citata_originali: |
     Atskirus pulkus vedė: Silezijos
     kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš

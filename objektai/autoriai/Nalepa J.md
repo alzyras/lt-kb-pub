@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4f44841285d4d6314faf2efe"
+canonical_name: "Nalepa J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Nalepa J"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos, Poleksijos, ieškoma apie Sūduonią, Šešupės aukštupyje (Nalepa J., Jaćwięgowe, p, 41— 42), kartais —apie Vangrapės aukštupį, dab. Dusburgietis teigia, kad 165—176; Tarvydas S., Vakarinių..., p. 55—59; [Nalepa J.] Polekszanie, p. 212— 213; to paties, [Dėl A. Dusburgietis teigia, kad kalbama, matyt, apie 1278—1279 m. antpuolį (Būga K., 2, p. 103; 3, p. 136, 145, 152; Kamiński A., Jaćwież..., p. 105— 106; Nalepa J., Przyczynek do znajomości..., p. 128; to paties, Stabo..., p. 146—148; CV, t."
 ---
 # Nalepa J
 
@@ -91,7 +98,8 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
 - id: c-61148
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61."
   citata_originali: |
     Pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos,
     Poleksijos, ieškoma apie Sūduonią, Šešupės aukštupyje (Nalepa J., Jaćwięgowe, p, 41—
@@ -109,7 +117,8 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
 - id: c-61149
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
   citata_originali: |
     Nauji vietovardžių tyrimai (ež. Stabo — dab. Kamienne  ir
     kt.) Mėrūniškių regione (į šiaurės vakarus nuo Suvalkų) rodo, kad nusiaubtose savose
@@ -126,7 +135,8 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
 - id: c-61150
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 162."
   citata_originali: |
     Kalbama, matyt, apie 1278—1279 m. antpuolį (Būga K., 2, p. 103; 3, p. 136,
     145, 152; Kamiński A., Jaćwież..., p. 105— 106; Nalepa J., Przyczynek do znajomości...,

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-819919722b3430cc8aaa1b96"
+canonical_name: "Sosnos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sosnos upė"]
+sameAs: []
+canonical_biography: "Vakaruose miestą prie Sosnos upės, dešiniojo Dono tęsėsi diplomatinė kova, o karinės pajėgos, intako, jau prie pat totorių stepių valdų."
+place_authority: true
+historical_names: []
 ---
 # Sosnos upė
 
@@ -60,7 +69,8 @@ Vakaruose miestą prie Sosnos upės, dešiniojo Dono tęsėsi diplomatinė kova,
 - id: c-45340
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 46."
   citata_originali: |
     Nuo Aukso ordos valdomis, pradžia. Toliau ry-
     1357 m. nežinomi didesni Lietuvos puoli- tuose 1363 m. „Lietuva paėmė Korševą“ -

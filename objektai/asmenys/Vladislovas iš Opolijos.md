@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6cf299f934d28dd7a05ca401"
+canonical_name: "Vladislovas iš Opolijos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladislovas iš Opolijos"]
+sameAs: []
+canonical_biography: "Kandidatu į jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo, dar Vladislovas iš Opolijos, kadaise mylimas karaliaus Liudviko, bet lenkams jis nepatiko todėl, kad paėjo iš jiems nemėgiamų Si­ lezijos kunigaikščių giminės; reiškė savo pretenzijas."
 ---
 # Vladislovas iš Opolijos
 
@@ -52,7 +59,8 @@ Kandidatu į jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo, dar
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 164."
   citata_originali: |
     Dabar tam „jaunam karaliui“ reikėjo paieškoti atitinkamo
     vyro. Nors ji ir buvo sužieduota dar kūdikystėj (4 metų) su

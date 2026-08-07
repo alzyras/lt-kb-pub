@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-185564"></a>
 - t-001
   teiginys: "Kaidanas įrengė karo stovyklą prie Pripetės žiočių ir išsiuntė daug būrių krašto niokoti."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -76,14 +76,21 @@ Nenurodyta
 <a id="claim-t-185566"></a>
 - t-003
   teiginys: "Lietuviai išvijo Kaidano karius iš stovyklos, daug jų nukovė mūšyje ir persekiojo bėgančius prie Dnepro bei Pripetės."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Kaidanas: 0.65"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kaidanas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Lietuviai nugalėjo Kaidano kariuomenę; Kaidanas yra kandidatas, nors tiesioginis objektas tekste yra jo kariai/barbarai."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168925
+    - c-168927
 
 <a id="claim-t-196142"></a>
 - t-004
@@ -130,7 +137,8 @@ Nenurodyta
 - id: c-168925
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 80."
   citata_originali: |
     Pirmiausia Erdvilas leido savie­
     siems, pavargusiems iš kelionės, šiek tiek giriose pa­
@@ -159,13 +167,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-004
 
 - id: c-168926
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 80."
   citata_originali: |
     Tuo tarpu Erdvilas, vesdamas lietuvių ir žemaičių ka­
     riaunas, be to, pasitelkęs iš Naugarduko ir Slonimo
@@ -192,7 +200,8 @@ Nenurodyta
 - id: c-168927
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 81."
   citata_originali: |
     Tiesa, kai buvę toliau
     nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
@@ -218,7 +227,8 @@ Nenurodyta
   citata_rodoma: "Tiesa, kai buvę toliau\nnuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­\nvina kova. Galop nugalėję lietuviai išvijo barbarus iš\nstovyklos: galybė priešų krito mūšyje, kur kas dau­\ngiau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­\ngėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo\nD u o k lės p ra ša n tiem s\nsk ita m s E rd vila s siu n ­\nčia  d v i strė le s\nšaukęs pasiuntinius, jis atsi­\nsakė duoklės, paskelbė karą\nir įteikė jų kunigaikščiui do­\nvaną— dvi strėles. Atleidęs\npasiuntinius, įsakė juos klyst-\n82\n\n## Puslapis 81\n\nitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių\nvaldovui ne tik didesnę pagarbą bei palankumą, bet\nir pastovesnę ištikimybę."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

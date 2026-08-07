@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-86e08cf7e3d4c4392febdf19"
+canonical_name: "Petras iš Rozenbergo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras iš Rozenbergo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė."
 ---
 # Petras iš Rozenbergo
 
@@ -81,7 +88,8 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - id: c-61040
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
   citata_originali: |
     1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
     iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei

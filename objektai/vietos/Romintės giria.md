@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e498081f216eb8c2f8fd638"
+canonical_name: "Romintės giria"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Romintės giria"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad nadruvos pietryčiuose, Pisos intako Romintės (dab."
+place_authority: true
+historical_names: []
 ---
 # Romintės giria
 
@@ -54,7 +63,8 @@ Dusburgietis teigia, kad nadruvos pietryčiuose, Pisos intako Romintės (dab.
 - id: c-59351
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
   citata_originali: |
     Turime pagrindo manyti, kad Nadruvoje buvusi ne viena vieta, susijusi su pagonišku
     kultu. Nadruvos  pietryčiuose,  Pisos  intako Romintės (dab. Krasnaja) aukštupyje,

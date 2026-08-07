@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184648
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 638"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 638."
   citata_originali: |
     Pats Kęstu­
     tis nukilo tenai, kurį kryžėjai vaišino ir godojo

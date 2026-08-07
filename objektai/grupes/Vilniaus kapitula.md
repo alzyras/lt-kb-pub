@@ -624,7 +624,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160129
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 164."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     vangėti. Didysis kunigaikštis betgi dosnia ranka vis didesnes
@@ -660,7 +661,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160130
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 145."
   citata_originali: |
     Ir Lietuvos dvasininkija nebuvo karaliaus dosnumo
     apeita, mat tuo metu jis išties stengėsi visokiais būdais už­
@@ -687,7 +689,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160131
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 405"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 405."
   citata_originali: |
     Nederėtų, be
     to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš
@@ -718,7 +721,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160132
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 202-203"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 202-203."
   citata_originali: |
     Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
     das už fundatoriaus sielą. Insuper 750 auksinų sumą užrašė,
@@ -748,7 +752,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160133
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 299."
   citata_originali: |
     Iškalbingais
     pamokslais iš sakyklos jis patraukė į savo pusę daug klau­
@@ -775,7 +780,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160134
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 444-445"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 444-445."
   citata_originali: |
     Cuius qui­
     dem Collegii DEI beneficio, per nos fundati, et dotati
@@ -826,7 +832,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160135
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 189-190"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 189-190."
   citata_originali: |
     1581 metų birželio 9 dieną. Kad bažnyčia būtų geriau
     tvarkoma ir būtų parinktas tinkamas asmuo užimti nuolati­
@@ -851,7 +858,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160136
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     O Jurgio brolis, kunigaikštis Mi­
     kalojus Kristupas, Lietuvos Didžio­
@@ -886,7 +894,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160137
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 301."
   citata_originali: |
     Dar nupirko du sklypus
     priešais savo rūmus ir patvirtino nemažas fundacijas toles­
@@ -911,7 +920,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160138
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 302-303"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 302-303."
   citata_originali: |
     Tačiau šio karaliaus val­
     dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­
@@ -958,7 +968,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160139
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 184."
   citata_originali: |
     Livoniae)
     TI, p. 136, N533
@@ -980,7 +991,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160140
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 282."
   citata_originali: |
     287.
     12
@@ -1001,7 +1013,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160143
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 156-157"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156-157."
   citata_originali: |
     Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
     data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
@@ -1054,7 +1067,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160146
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 145-146"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 145-146."
   citata_originali: |
     Be to, dar leidžia kapitulai
     imti kas dešimtą sugautą žuvį ka­
@@ -1106,7 +1120,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160147
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 206-207"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 206-207."
   citata_originali: |
     Tą
     herbą turėjo perimti Krokuvos ka­
@@ -1140,7 +1155,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160150
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 300-301"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 300-301."
   citata_originali: |
     284
 
@@ -1171,7 +1187,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160153
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 189."
   citata_originali: |
     Jono bažnyčios
     užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.
@@ -1192,7 +1209,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160157
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Šis činšas buvo mokamas
     vienuolika metų, bet paskui liautasi
@@ -1219,7 +1237,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160158
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 397."
   citata_originali: |
     Savo ir minėto miesto vardu [ta­
     rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos
@@ -1260,7 +1279,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160160
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 301-302"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 301-302."
   citata_originali: |
     285
 
@@ -1288,7 +1308,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160161
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 189-190"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 189-190."
   citata_originali: |
     173
 
@@ -1312,7 +1333,8 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
 - id: c-160162
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 399."
   citata_originali: |
     Nusprendėme ir šiuo raštu nu­
     sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­

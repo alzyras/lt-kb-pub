@@ -118,7 +118,8 @@ Nenurodyta
 - id: c-168959
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 196."
   citata_originali: |
     Apie rugpjūčio
     pirmąją didelė kryžiuočių ka­
@@ -147,7 +148,8 @@ Nenurodyta
 - id: c-168960
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 196."
   citata_originali: |
     Lietuviai, nujautę, jog priešas šitaip ir
     elgsis, iš anksto slaptai apstojo miškuose takus, visur

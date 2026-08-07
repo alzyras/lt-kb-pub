@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1d7f7b426fb453f09e51d4a2"
+canonical_name: "Lakariz"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lakariz"]
+sameAs: []
+canonical_biography: "Lakariz, pasak Teodoro Narbuto, įrodinėjo, kad gotai, gotonai ir gotinai buvo skitų-keltų palikuonys."
 ---
 # Lakariz
 
@@ -54,7 +61,8 @@ Lakariz, pasak Teodoro Narbuto, įrodinėjo, kad gotai, gotonai ir gotinai buvo 
 - id: c-174319
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 82."
   citata_originali: |
     84
 

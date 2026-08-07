@@ -49,9 +49,9 @@ Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir 1649 m. Jono
 ## Citatos
 
 - id: c-185628
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 144."
   citata_originali: |
     Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir
     1649 m. Jono Kazimiero, taip pat vėlesnių Abiejų Tautų Respublikos valdovų Kauno

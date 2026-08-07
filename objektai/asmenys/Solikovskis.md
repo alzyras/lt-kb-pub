@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df5c774def5e38aebfe4302c"
+canonical_name: "Solikovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Solikovskis"]
+sameAs: []
+canonical_biography: "Solikovskis, padėjęs ją pastatyti, niekada nebu­ vo Vilniaus, bet Lvovo arkivysku­ pas, o svarbiausia, kad nei jis, nei jo kolega kardinolas Radvila 1501 m. dar nebuvo gimę."
 ---
 # Solikovskis
 
@@ -61,7 +68,8 @@ Solikovskis, padėjęs ją pastatyti, niekada nebu­ vo Vilniaus, bet Lvovo arki
 - id: c-83835
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 315."
   citata_originali: |
     Miestiečių luomas,
     dviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­

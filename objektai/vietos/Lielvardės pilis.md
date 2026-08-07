@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-51a779aa3027028a5b70d7e3"
+canonical_name: "Lielvardės pilis (pilis, XIII a.)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lielvardės pilis","Lielvardės pilis (pilis, XIII a.)"]
+sameAs: []
+canonical_biography: "Mindaugo karvedžių siaubiamoje Livonijoje vyko kovos prie Lielvardės pilies Dauguvos pakrantėse."
+place_authority: true
+historical_names: []
 ---
 # Lielvardės pilis (pilis, XIII a.)
 
@@ -63,7 +72,8 @@ Mindaugo karvedžių siaubiamoje Livonijoje vyko kovos prie Lielvardės pilies D
 - id: c-168688
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 106."
   citata_originali: |
     Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
     latos siaubė Mindaugo karvedžiai, ten vyko kovos prie

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-34a61de31902680f4292741f"
+canonical_name: "Lukas Davidas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lukas Davidas"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Lukas Davidas prūsus kildino iš gotų ir Romonės šventyklą su Krivių Krivaičiu siejo su gotų ar švedų papročiu. Narbutas svarsto, kad Lukas Davidas žinią apie vyriausiuosius žynius galėjo imti iš vyskupo Kristijono kronikos ištraukų."
 ---
 # Lukas Davidas
 
@@ -74,7 +81,8 @@ Narbutas nurodo, kad Lukas Davidas prūsus kildino iš gotų ir Romonės šventy
 - id: c-172990
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 415"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
   citata_originali: |
     Prie šių svetimų įrodymų galima būtų pridurti dar kitus,
     išplaukiančius iš paties dalyko. Lukas Davidas, kuris prūsus
@@ -93,7 +101,8 @@ Narbutas nurodo, kad Lukas Davidas prūsus kildino iš gotų ir Romonės šventy
 - id: c-172991
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 432"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
   citata_originali: |
     Žinią apie vyriausiuosius žy­
     nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes

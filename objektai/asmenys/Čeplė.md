@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-714d16a92e7045628a631049"
+canonical_name: "Čeplė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Čeplė"]
+sameAs: []
+canonical_biography: "Narbutas IV lentelėje nurodo, kad Čeplė 1541 m. prispaudė vieną iš aštuonių antspaudų su žalčiais."
 ---
 # Čeplė
 
@@ -61,7 +68,8 @@ Narbutas IV lentelėje nurodo, kad Čeplė 1541 m. prispaudė vieną iš aštuon
 - id: c-173133
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 404"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
   citata_originali: |
     IV
     lentelė, 18-asis piešinys. Astuoni antspaudai su žalčiais;

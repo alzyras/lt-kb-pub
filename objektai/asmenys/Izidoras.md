@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-74532d1a50e92ef146d3b370"
+canonical_name: "Izidoras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Izidoras"]
+sameAs: []
+canonical_biography: "Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė šventu."
 ---
 # Izidoras
 
@@ -46,7 +53,8 @@ Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumo
 - id: c-177229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 233."
   citata_originali: |
     Tie trys medžiai suaugę į vieną medį, kuris
     buvęs panaudotas Saliamono šventyklos statybai. Izidoras, gy­

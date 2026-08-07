@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-872956989a89ca8e54673ca3"
+canonical_name: "Tauridė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tauridė"]
+sameAs: []
+canonical_biography: "Tauridė, Teodoro Narbuto pasakojimu, 1540 m. pr. Kr. priklausė gausiems ir galingiems skitams kartu su Dnepro žiotimis."
+place_authority: true
+historical_names: []
 ---
 # Tauridė
 
@@ -63,7 +72,8 @@ Tauridė, Teodoro Narbuto pasakojimu, 1540 m. pr. Kr. priklausė gausiems ir gal
 - id: c-175626
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 50."
   citata_originali: |
     Anksčiau jau minėjome, kad skitai
     yra kone seniausia Europos tauta, kurios atėjimas iš Azi­

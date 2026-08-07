@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf038ba23d1673b38f1aa4b2"
+canonical_name: "Stryjkowski Strijkovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Stryjkowski Strijkovskis"]
+sameAs: []
+canonical_biography: "7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn. Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk. 31 Strijkovskis, 1.465, o juo sekda­ mas ir K o j e 1 a v i č i u s, p. 361, plačiai aprašo, kokių gudrybių tą­ kart ėmėsi Kęstutis, puldamas Vilnių."
 ---
 # Stryjkowski Strijkovskis
 
@@ -122,7 +129,8 @@ media_all_json: |-
 - id: c-83984
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64-66"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64-66."
   citata_originali: |
     48
 
@@ -180,7 +188,8 @@ media_all_json: |-
 - id: c-83985
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 45."
   citata_originali: |
     20
     G r z y b o w s k i, Sk. XI, 1. 90. Anot
@@ -199,7 +208,8 @@ media_all_json: |-
 - id: c-83986
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 68."
   citata_originali: |
     Nuo neat­
     menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­
@@ -221,7 +231,8 @@ media_all_json: |-
 - id: c-83987
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 51."
   citata_originali: |
     Strijkovskis ir Koje-
     1  a v i č i u s supainiojo Andrių, Al­
@@ -249,7 +260,8 @@ media_all_json: |-
 - id: c-83988
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 34."
   citata_originali: |
     7
     Šventaragio vardo kilmę aiškina

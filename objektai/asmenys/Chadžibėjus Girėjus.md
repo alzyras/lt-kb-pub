@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d60e03dfe702489bec1bffc7"
+canonical_name: "Chadžibėjus Girėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Chadžibėjus Girėjus"]
+sameAs: []
+canonical_biography: "Chadžibėjus Girėjus buvo vienas iš trijų kunigaikščių, vedusių į tris dalis padalytą kariuomenę prie Mėlynųjų Vandenų."
 ---
 # Chadžibėjus Girėjus
 
@@ -70,7 +77,8 @@ Chadžibėjus Girėjus buvo vienas iš trijų kunigaikščių, vedusių į tris 
 - id: c-169551
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 219."
   citata_originali: |
     Pražygiavęs Kanevą ir Čerka­
     sus, jis priėjo vietą, kurią žmonės vadina Mėlynaisiais

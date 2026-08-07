@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ad1ff2a3b5d7c76f49e9742b"
+canonical_name: "Konradas iš Tirbergo Vyresnysis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas iš Tirbergo Vyresnysis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo Vyresnysis. Dusburgietis teigia, kad apie brolį Konradą, devintą Prūsijos magistrą Brolis Konradas iš Tirbergo Vyresnysis, devintas Prūsijos žemės magistras, vadovavo šešerius metus nuo 1273 viešpaties metų409. Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį."
 ---
 # Konradas iš Tirbergo Vyresnysis
 
@@ -129,11 +136,18 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 <a id="claim-t-89917"></a>
 - t-006
   teiginys: "Konradas iš Tirbergo Vyresnysis subūrė 1500 raitelių, puolė Sasavos pilį, ją užėmė ir sudegino."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas iš Tirbergo Vyresnysis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas iš Tirbergo Vyresnysis\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-85828
+    - c-85824
 
 <a id="claim-t-89918"></a>
 - t-007
@@ -235,7 +249,8 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 - id: c-85823
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 159."
   citata_originali: |
     Konradas iš Tirbergo, magistras, ir broliai, subūrę didelę kariuomenę, įsiveržė į Pagudės
     žemę ir, išžudę nesuskaičiuojamą galybę vyrų, ugnimi nusiaubę visą žemę bei ją apiplėšę,
@@ -256,7 +271,8 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 - id: c-85824
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
   citata_originali: |
     Apie Sasavos pilies užkariavimą
 
@@ -268,14 +284,17 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   citata_rodoma: "Apie Sasavos pilies užkariavimą\n\n  Sužinojęs apie tai, brolis Konradas iš Tirbergo, magistras, labai susijaudino ir, subūręs\ntūkstantį penkis šimtus raitelių, o kitiems išplaukus  į priekį su 15 laivų, atitraukė prie\nSasavos, skalvių pilies475, kurią pradėjo smarkiai pulti; po ilgų grumtynių ją užėmė ir\nsudegino, dalį priešų paėmęs į nelaisvę, o kitus išžudęs kalaviju.\nir apskritai vakarines žemaičių žemes, su kuriomis ribojasi Nemuno deš."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-85825
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
 
@@ -296,7 +315,8 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 - id: c-85826
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 161."
   citata_originali: |
     194 (189). Apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje
     Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais
@@ -318,7 +338,8 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 - id: c-85827
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     201 (196). Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
     Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
@@ -338,7 +359,8 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 - id: c-85828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
   citata_originali: |
     Apie brolį Konradą, devintą Prūsijos magistrą
     Brolis Konradas iš Tirbergo Vyresnysis, devintas Prūsijos žemės magistras, vadovavo
@@ -351,14 +373,14 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
     - t-008
     - t-010
 
 - id: c-85829
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Apie brolį Konradą iš Tirbergo, Prūsijos magistrą
 
@@ -380,7 +402,8 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 - id: c-85830
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
     Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
@@ -401,7 +424,8 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 - id: c-167486
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
   citata_originali: |
     Apie brolį Ditrichą, aštuntą Prūsijos magistrą
 

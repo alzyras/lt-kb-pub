@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f22f2c05d2743471af4551e"
+canonical_name: "Eduardas Eichvaldas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eduardas Eichvaldas"]
+sameAs: []
+canonical_biography: "Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, Histapo sūnus, Pinsko apylinkėse“ apie Darijaus žygį prieš skitus. Eduardo Eichvaldo tyrinėjimais Narbutas rėmėsi rengdamas antrojo leidimo papildymą apie Darijaus Histapo žygį Pinsko apylinkių link."
 ---
 # Eduardas Eichvaldas
 
@@ -84,7 +91,8 @@ Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, His
 - id: c-174225
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
   citata_originali: |
     Ko
     gero, remdami Skitijos kolonistus graikus, persai palaikė
@@ -118,7 +126,8 @@ Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, His
 - id: c-174226
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 410"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 410."
   citata_originali: |
     — Išnaša, kuria autorius papildė paragrafą, reng­
     damas antrąjį leidimą (PEĮ. P. 32—33). T.

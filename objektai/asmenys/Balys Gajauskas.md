@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7c6f2553a50b593199a1a9dd"
+canonical_name: "Balys Gajauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Balys Gajauskas"]
+sameAs: []
+canonical_biography: "Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras."
 ---
 # Balys Gajauskas
 
@@ -69,7 +76,8 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
 - id: c-21617
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Lietuvos Helsinkio
     grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
@@ -91,7 +99,8 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
 - id: c-166920
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Taip
     demokratiniai Vakarai sužinojo apie tikrąją padėtį, žmogaus teisių pažei-

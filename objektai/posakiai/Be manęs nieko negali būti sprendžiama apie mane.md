@@ -58,7 +58,8 @@ media_all_json: |-
 - id: c-00242
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 285."
   citata_originali: |
     Dažnai vienas ar
     keli papirkti atstovai pareikšdavo protestą prieš viso seimo nu-
@@ -79,7 +80,8 @@ media_all_json: |-
 - id: c-00243
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 414"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 414."
   citata_originali: |
     Tuo būdu į seimą būdavo išrenkami
     tokie atstovai, kokių norėdavo didikai; jiems ir instrukcijos būdavo

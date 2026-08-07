@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-766e366c2e1abaff4fbb9dbf"
+canonical_name: "Moldavija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Moldavija"]
+sameAs: []
+canonical_biography: "Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kryžiuočių magistras (jam imperatorius uždraudė prisiekti Zigmantui vasalystę; tatai magistras turėjo padaryti pagal 1466 m. Torno sutartį, — žiūr."
+place_authority: true
+historical_names: []
 ---
 # Moldavija
 
@@ -86,7 +95,8 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - id: c-156307
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Lenkijai suartėjus su
     čekų husitais, Ordinui kilo didelė grėsmė.

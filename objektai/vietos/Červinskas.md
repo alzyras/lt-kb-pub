@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-beb3daba4e9e1f16ed3eb60f"
+canonical_name: "Červinskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Červinskas"]
+sameAs: []
+canonical_biography: "Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos)."
+place_authority: true
+historical_names: []
 ---
 # Červinskas
 
@@ -79,7 +88,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 100."
   citata_originali: |
     Tuo metu ir įvyko lietuvių puolimas iš
     Žemaičių, o lenkų — netoli Sviečės.
@@ -102,7 +112,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 151."
   citata_originali: |
     Padarytos pa­
     liaubos buvo kelis kartus pailgintos, vis atidedant pastovią tai­

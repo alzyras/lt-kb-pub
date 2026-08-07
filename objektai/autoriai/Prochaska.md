@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-adb23974157c6f00f9c9de5a"
+canonical_name: "Prochaska"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Prochaska"]
+sameAs: []
+canonical_biography: "Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip autentišką."
 ---
 # Prochaska
 
@@ -51,7 +58,8 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 46."
   citata_originali: |
     Dėl šitos sutarties autentiškumo keliama abejonių. Is­
     torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;

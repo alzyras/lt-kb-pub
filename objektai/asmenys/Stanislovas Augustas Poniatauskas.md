@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f4d69d6efa0deed6d5c66069"
+canonical_name: "Stanislovas Augustas Poniatauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Augustas Poniatauskas"]
+sameAs: []
+canonical_biography: "Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pasiuntė į Petrapilį savo sesers sūnų Stanislovą Augustą Poniatauską. Stanislovas Augustas buvo priverstas atsisakyti nuo sosto."
 ---
 # Stanislovas Augustas Poniatauskas
 
@@ -64,7 +71,8 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 - id: c-64938
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 409"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 409."
   citata_originali: |
     Augusto III val-
     dymo gale Rusiją valdė carienė Elžbieta, o jos mirties nekantriai
@@ -85,7 +93,8 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 - id: c-64940
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 11."
   citata_originali: |
     - 3. Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos
           - 4. Čartoriskių reformos
@@ -103,7 +112,8 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 - id: c-64942
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 417"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 417."
   citata_originali: |
     Taip
     pat jos įsipareigojo priversti seimą, kad kitatikių, t. y. pravosla-

@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6ad64ceecf5134ef0346c01d"
+canonical_name: "Fominos Berezuja"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Fominos Berezuja"]
+sameAs: []
+canonical_biography: "Nusigandę Fominos Berezujos kunigaikš­ čiai, patys geruoju prisidėjo prie Vytauto."
+place_authority: true
+historical_names: []
 ---
 # Fominos Berezuja
 
@@ -50,7 +59,8 @@ Nusigandę Fominos Berezujos kunigaikš­ čiai, patys geruoju prisidėjo prie V
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 84."
   citata_originali: |
     Viaz­
     ma atiteko Vytautui. Nusigandę Fominos Berezujos kunigaikš­

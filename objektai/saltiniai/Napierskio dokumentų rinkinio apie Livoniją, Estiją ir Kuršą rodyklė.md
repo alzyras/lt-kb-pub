@@ -50,7 +50,8 @@ Napiersk i s, išleidęs tik dokumentų rinkinio apie Livoniją, Estiją ir Kur�
 - id: c-84435
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 37."
   citata_originali: |
     Kotzebue,
     Foigto pirmtako, Prūsijos istorija yra

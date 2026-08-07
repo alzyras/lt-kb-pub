@@ -50,7 +50,8 @@ Onos bažnyčia / p. 297 • Faksimilės, paimtos iš dekretų ir laiškų, esan
 - id: c-84450
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 483"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 483."
   citata_originali: |
     Mikalojaus bažnyčia (vaizdas
     iš kairės pusės) /p. 205

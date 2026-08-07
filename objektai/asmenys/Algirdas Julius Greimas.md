@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d378620302afe6e1a7d5e505"
+canonical_name: "Algirdas Julius Greimas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Algirdas Julius Greimas"]
+sameAs: []
+canonical_biography: "O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry (Romanas Gari) ar Kaune gimęs ir gimnaziją."
 ---
 # Algirdas Julius Greimas
 
@@ -63,7 +70,8 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
 - id: c-75352
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 264-265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 264-265."
   citata_originali: |
     Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinke-
     vičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos

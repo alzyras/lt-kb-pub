@@ -27,6 +27,15 @@ media_all_json: |-
   []
 tags:
   - vieta
+entity_id: "ent-89bf316c7ba654e98c5a753e"
+canonical_name: "Lemu parapija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lemu parapija","Lemu parapijoj"]
+sameAs: []
+canonical_biography: "Lemu parapija šiame šaltinyje minima kaip Augusto Roberto Niemio gimimo vietos administracinė aplinka."
+place_authority: true
+historical_names: []
 ---
 # Lemu parapija
 

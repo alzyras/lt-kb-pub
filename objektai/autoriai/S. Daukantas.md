@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d7814f7cace61bc42d020295"
+canonical_name: "S. Daukantas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Daukantas","Daukanto","S. Daukantas"]
+sameAs: []
+canonical_biography: "S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi. S. Daukantas atsiuntė Teodorui Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną“ - Lietuvos bajorų giminių genealogijų rinkinį. S. Daukantas „Darbų“ pratarmėje rašė, kad kūrinį skyrė ne mokytiems vyrams, o motinoms, pasakojančioms vaikams apie protėvius."
 ---
 # S. Daukantas
 
@@ -204,7 +211,8 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
 - id: c-48384
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 112."
   citata_originali: |
     1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
     buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
@@ -225,7 +233,8 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
 - id: c-171363
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
   citata_originali: |
     Pradžia jau buvo padaryta:
     išleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-
@@ -245,7 +254,8 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
 - id: c-171364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 51."
   citata_originali: |
     Galbūt geriausiai šį faktą paaiškintų paties
     S. Daukanto „Darbų“ pratarmės žodžiai: „<...> aš ne dėl mo­
@@ -264,7 +274,8 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
 - id: c-176099
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 29."
   citata_originali: |
     Žymiausi Lietu­
     vos istorikai romantikai — Teodoras Narbutas (1784—
@@ -282,7 +293,8 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
 - id: c-176262
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     Jau tuomet pripažinta, kad
     tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
@@ -312,7 +324,8 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
 - id: c-176263
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
     parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
@@ -334,7 +347,8 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
 - id: c-176809
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     Iš
     tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet

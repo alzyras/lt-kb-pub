@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f434e6386b3d2fb4c3b620d8"
+canonical_name: "Vilniaus Plikasis kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus Plikasis kalnas"]
+sameAs: []
+canonical_biography: "Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas rusinų kolonistų, atgabentų kuriant miestą. Narbutas rašė, kad pirmieji misionieriai pranciškonai ant Vilniaus Plikojo kalno pastatė tris kryžius kaip savo misijos ženklą."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus Plikasis kalnas
 
@@ -38,15 +47,22 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
 <a id="claim-t-188940"></a>
 - t-001
   teiginys: "Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas rusinų kolonistų, atgabentų kuriant miestą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusinai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus Plikasis kalnas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Rusinai: mention_match, group, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus Plikasis kalnas\" parinktas kaip owner_note_path. Targetas \"Rusinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171830
+    - c-171829
 
 <a id="claim-t-188941"></a>
 - t-002
@@ -74,7 +90,8 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
 - id: c-171829
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Kal­
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
@@ -85,14 +102,17 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
   citata_rodoma: "Kal­\nnas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -\nšventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,\nturėjo būti pramintas rusinu -  miesto kolonistų, atgabentų iš\nLietuvos Rusios kuriant miestą. Jo viršaus didelė dalis nuslin-\nkusi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-171830
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     Taigi nėra pėdsakų, kad ten turėjo būti kas nors
     susijusio su senąja lietuvių religija. Pirmieji misionieriai - pran­
@@ -107,5 +127,4 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

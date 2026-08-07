@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a7904d68718fc47f812b1eb8"
+canonical_name: "Tverės sritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tverės sritis"]
+sameAs: []
+canonical_biography: "1284 jie vėl žygiavo Lenkijon; 1285 pavasarį plėšė Tverės sritį."
+place_authority: true
+historical_names: []
 ---
 # Tverės sritis
 
@@ -84,7 +93,8 @@ media_all_json: |-
 - id: c-34063
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 220."
   citata_originali: |
     1284 jie vėl žygiavo Lenkijon; 1285 pavasarį plėšė
     Tverės sritį. Ir toliau jie pastoviai puldinėjo ordino žemes Livo­
@@ -103,7 +113,8 @@ media_all_json: |-
 - id: c-167770
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 220."
   citata_originali: |
     1282 drauge su jotvingiais lietuviai teriojo Liublino ir Sandomie­
     riaus žemes; kitais metais, atjoję per Kuršių Neringą, lietuviai

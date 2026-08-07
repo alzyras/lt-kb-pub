@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e97ffe8b3d920db74e308e1e"
+canonical_name: "Volos kaimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Volos kaimas"]
+sameAs: []
+canonical_biography: "Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta, kad elekcija turinti įvykti lauke tarp Varšuvos ir Volos kaimo; o elekcijoj dalyvauti ir balsuoti galįs kiekvienas bajoras (taigi buvo sakoma, kad į elekciją bajorai vykstą."
+place_authority: true
+historical_names: []
 ---
 # Volos kaimas
 
@@ -50,7 +59,8 @@ Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta
 - id: c-03130
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 292"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 292."
   citata_originali: |
     Tame seime, be to, galutinai visiems
     laikams buvo pripažinta, kad karaliui mirus aukščiausioji valdžia

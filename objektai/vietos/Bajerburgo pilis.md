@@ -35,6 +35,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-13472c6083e6e6986e3497ef"
+canonical_name: "Bajerburgo pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bajerburgas Bajerburgo pilis","Bajerburgo pilis"]
+sameAs: []
+canonical_biography: "Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­ nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis, 13 Rygos miestas buvo."
+place_authority: true
+historical_names: []
 ---
 # Bajerburgo pilis
 
@@ -74,7 +83,8 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
 - id: c-177436
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 118-119"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 118-119."
   citata_originali: |
     Pilies kieme kadaise buvo gilus šulinys, gau­
     siai vandens tiekiantis, - dabar visai užkastas, o po centri­
@@ -102,7 +112,8 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
 - id: c-177437
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 41."
   citata_originali: |
     Betgi toje epochoje, kai naujos civilizacijos
     spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,
@@ -141,7 +152,8 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
 - id: c-177438
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 118."
   citata_originali: |
     Dabar Veliuona priklauso dvari­
     ninkui Mykolui Zaleskiui.

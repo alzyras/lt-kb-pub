@@ -62,7 +62,8 @@ Narbutas citavo Vaterio veikalą „Sprache der alten Preussen“, 1821 m. išle
 - id: c-175334
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 194."
   citata_originali: |
     200
     Pasak šiandien daug kalbai nusipelniusių lingvistų,

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-636d9ca18053c4a6bd9c35b1"
+canonical_name: "Korčiakas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Korčiakas"]
+sameAs: []
+canonical_biography: "Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą."
 ---
 # Korčiakas
 
@@ -79,7 +86,8 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 - id: c-83515
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Pa-
     49
@@ -105,7 +113,8 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 - id: c-83516
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Daugelis jų garsėjo su­
     manumu ir turtais, bet labiausiai buvo žinomas Onka Hrice-

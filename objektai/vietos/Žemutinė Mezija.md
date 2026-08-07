@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-59eef84474d747522851c615"
+canonical_name: "Žemutinė Mezija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žemutinė Mezija"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad skiriat su sudargais kūrėsi Žemutinėje Mezijoje, arčiau Dunojaus žemupio, vadovaujami Kandakoso."
+place_authority: true
+historical_names: []
 ---
 # Žemutinė Mezija
 
@@ -55,7 +64,8 @@ Narbutas rašo, kad skiriat su sudargais kūrėsi Žemutinėje Mezijoje, arčiau
 - id: c-175630
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
   citata_originali: |
     282
 

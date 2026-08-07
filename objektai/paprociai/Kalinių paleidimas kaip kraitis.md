@@ -64,9 +64,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184725
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 553"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 553."
   citata_originali: |
     Po
     motriškųjų Lietuvos diduomenė jojo, kurios skais­

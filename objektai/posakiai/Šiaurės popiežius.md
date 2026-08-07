@@ -90,7 +90,8 @@ Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popie�
 - id: c-172438
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 423"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 423."
   citata_originali: |
     Ar svetimšalis, prekiaudamas krašte, matydavo
     vyriausiąjį žynį, kuris net tautiečiams retai pasirodydavo, o nuo­

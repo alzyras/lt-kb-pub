@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e0680800698258101edbd7da"
+canonical_name: "Po"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Po"]
+sameAs: []
+canonical_biography: "Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro bei Dono."
+place_authority: true
+historical_names: []
 ---
 # Po
 
@@ -55,7 +64,8 @@ Pasak Narbuto, pelazgai plačiai pasklido Juodosios ir Viduržemio jūrų pakran
 - id: c-175663
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
   citata_originali: |
     Būtent dėl šių priežasčių įvairios
     pelazgų kartos perėjo į helenų tautą, ir iš pelazgų kal­

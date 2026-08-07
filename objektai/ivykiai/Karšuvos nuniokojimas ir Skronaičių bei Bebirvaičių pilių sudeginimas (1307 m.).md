@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-28728
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 226."
   citata_originali: |
     Nesisekė tada lietuviams ir Karšuvos srityje. Kai karšuviai
     «su didele kariuomene » išžygiavo prieš Klaipėdos pilį, Ragainės

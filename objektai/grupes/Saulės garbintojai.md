@@ -54,7 +54,8 @@ Narbutas pasakojo, kad Jeronimas keliaudamas rado saulės garbintojus, ypač gar
 - id: c-172421
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 455."
   citata_originali: |
     Jeronimas įtikino, kad tai apgavystė, sugriovė
     šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-454e6804b2b9e5a3802d83ab"
+canonical_name: "Zenonas Butkus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Zenonas Butkus"]
+sameAs: []
+canonical_biography: "Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, skaičiusiems pradinius tekstus, ypač Jauniui Petraičiui, taip pat dr. Vytautui Žaliui, Romanui Judinui, labai ačiū recenzavusiems šią knygą prof. dr. Zenonui Butkui ir doc."
 ---
 # Zenonas Butkus
 
@@ -40,7 +47,8 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
 - id: c-22210
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 11."
   citata_originali: |
     Skaitytojui jie būtų neabejotinai įdomūs ir pravartūs, bet
     tebūnie tai ta auka ir kaina, kurią šios knygos autoriai pasiryžo sumokėti,

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a769db43b0df6fd033992bf3"
+canonical_name: "Lietuvos valdos Lietuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lietuvos valdos Lietuva"]
+sameAs: []
+canonical_biography: "Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųsti į Prūsijos pasienį ir vežti grūdus į Lietuvą. Po Švitrigailos puolimo ir maisto stokos Vytauto kariai pasiekė Lietuvos valdas, kur, pasak Kojelavičiaus, pailsėjo ir atsigavo. Po Švitrigailos puolimo ir maisto stokos Vytauto kariai pasiekė Lietuvos valdas, kur, pasak Kojelavičiaus, pailsėjo ir atsigavo."
+place_authority: true
+historical_names: []
 ---
 # Lietuvos valdos Lietuva
 
@@ -67,7 +76,8 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
 - id: c-168605
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 370."
   citata_originali: |
     Lietuva juto baisią maisto sto­
     ką. Norėdamas palengvinti nuniokotos tėvynės dalią,
@@ -90,7 +100,8 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
 - id: c-176144
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 368."
   citata_originali: |
     Mat, nors
     maskvėnai, kaip su Vasiliju-

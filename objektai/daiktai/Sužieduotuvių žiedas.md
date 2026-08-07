@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-177336
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 310."
   citata_originali: |
     Tuo pasipiktinęs barbaras įsakė viešai paskelbti, jog nuo
     tol laiko abu imperatorius savo belaisviais, o tuo tarpu

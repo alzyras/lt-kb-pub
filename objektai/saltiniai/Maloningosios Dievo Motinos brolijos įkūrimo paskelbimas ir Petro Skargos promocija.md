@@ -62,7 +62,8 @@ Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d. buvo paskelbta Maloning
 - id: c-84429
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 191-192"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 191-192."
   citata_originali: |
     Mūrinius namus, kurie buvo skirti tos koplyčios paja­
     moms, privilegijomis nuo mokesčių atleido Lenkijos kara­

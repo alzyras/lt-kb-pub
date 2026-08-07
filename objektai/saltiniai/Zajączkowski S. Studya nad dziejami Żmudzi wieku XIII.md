@@ -41,21 +41,35 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 <a id="claim-t-60862"></a>
 - t-001
   teiginys: "Zajączkowskio veikalas nurodomas tarp šaltinių, Bebirvaitės pilį lokalizuojančių prie Bebirvyčio upelio netoli Bebirvų kaimo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=119"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-61495
+    - c-61498
 
 <a id="claim-t-60863"></a>
 - t-002
   teiginys: "S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Paštuvos valsčius: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilkija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Paštuvos valsčius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste Vilkijos pilis pateikiama kaip Paštuvos valsčiaus centras, todėl vieta siejama su valsčiumi."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vilkija priklausė Paštuvos valsčius (0.76); Paštuvos valsčius priklausė Nemunas (0.64)"
   pagrindžia:
-    - c-61495
-    - c-61499
+    - c-61500
 
 <a id="claim-t-60864"></a>
 - t-003
@@ -93,23 +107,38 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 <a id="claim-t-60866"></a>
 - t-005
   teiginys: "Zajączkowskio veikalas nurodomas tarp šaltinių, Pieštvės pilį lokalizuojančių Seredžiaus vakariniame pakraštyje prie Pieštvės upelio."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Nemunas: 0.65"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pieštvė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas lokalizuoja Pieštvės pilį Nemuno krante, todėl ryšys laikomas geografiniu, bet ne nuosavybiniu."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pieštvė priklausė Nemunas (0.65)"
   pagrindžia:
-    - c-61495
+    - c-61496
 
 <a id="claim-t-60867"></a>
 - t-006
   teiginys: "S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ siejama su Kalsheimo lauko lokalizavimu į vakarus nuo Veliuonos."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Veliuona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Veliuona: mention_match, place, gap=111"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII\" parinktas kaip owner_note_path. Targetas \"Veliuona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1415 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata patvirtina, kad šaltinis minimas prie Kalsheimo lauko lokalizacijos."
   pagrindžia:
-    - c-61499
+    - c-61501
 
 <a id="claim-t-60868"></a>
 - t-007
@@ -149,7 +178,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - id: c-61494
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 200."
   citata_originali: |
     Patikimesni atrodo bandymai ją
     lokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante
@@ -167,7 +197,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - id: c-61495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
   citata_originali: |
     532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius  ir  pilis  (žr.
     paaiškinimus D. III, 244, 1); vėliau, kitose kronikose, jau Veliuona (Zajączkowski S.,
@@ -180,15 +211,13 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-002
-    - t-005
     - t-008
 
 - id: c-61496
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto
     kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio
@@ -196,14 +225,17 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   citata_rodoma: "541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto\nkyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio\n(Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-61497
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 207."
   citata_originali: |
     Ordino pilis buvusi greičiausiai Maštaičių (Norkūnų) piliakalnyje kair. Nemuno krante
     žemiau dab. Gelgaudiškio, priešais Skirsnemunę. Greta piliakalnio išlikę keli įtvirtinti
@@ -219,7 +251,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - id: c-61498
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 204."
   citata_originali: |
     561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos
     intakas — Bebirva, į jį įteka Bebirvytis. Prie to upelio, prie Raseinių—Šilinės (Skirsnemunės)
@@ -228,14 +261,17 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   citata_rodoma: "561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos\nintakas — Bebirva, į jį įteka Bebirvytis. Prie to upelio, prie Raseinių—Šilinės (Skirsnemunės)\nkelio yra Bebirvų k. Čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p.\n35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-61499
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
   citata_originali: |
     Apie brolio Ernekės, Ragainės pilies komtūro, žūtį
       529 D.— Colayne, Jer.— Kalaine. Tiksliau kol kas nelokalizuota Kolainių pilis dažniausiai
@@ -249,14 +285,13 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-004
-    - t-006
 
 - id: c-61500
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau
     Nevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.
@@ -266,14 +301,17 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   citata_rodoma: "536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau\nNevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.\nValsčiaus centras — Paštuvos (Vilkijos) pilis (D. III, 347; Zajączkowski S., Studya..., p.\n40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72;\nMakarevičius A., Vilkijos..., p. 62)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-61501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 204."
   citata_originali: |
     560 D.— in campo Calsheim, ad campum Calsen, Jer. — zu Kalsem ûf daz velt,
     Kalsim; plg. 1415 m.— villa dicta Calsina (SRP, 2, p. 540). Laukas, buvęs  į vakarus
@@ -281,7 +319,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   citata_rodoma: "560 D.— in campo Calsheim, ad campum Calsen, Jer. — zu Kalsem ûf daz velt,\nKalsim; plg. 1415 m.— villa dicta Calsina (SRP, 2, p. 540). Laukas, buvęs  į vakarus\nnuo Veliuonos (Zajączkowski S., Studya..., p. 37—38; SZM, p. 216)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

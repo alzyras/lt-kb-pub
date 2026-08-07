@@ -54,7 +54,8 @@ Narbutas metempsichozę lietuvių tikėjimuose aiškina kaip vėlės klajojimą 
 - id: c-172148
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 391."
   citata_originali: |
     Pekla lietuviškai turi originalų pavadinimą Pragaras; tai su­
     siję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­

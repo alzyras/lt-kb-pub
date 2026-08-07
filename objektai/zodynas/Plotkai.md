@@ -58,17 +58,18 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
 <a id="claim-t-195639"></a>
 - t-001
   teiginys: "Plotkai šiame šaltinyje laužomi, dalijami ir dedami į barščius."
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-178042
 
-<a id="claim-t-195640"></a>
+<a id="claim-t-203031"></a>
 - t-002
-  teiginys: "Plotkus dieną atneša bažnyčios maršalka, o atsiskaitoma už juos kalėdojant."
-  atnaujinta: "2026-07-12 08:46"
+  teiginys: "Plotkus dieną atnešė bažnyčios maršalka, o už juos buvo numatyta atsiskaityti kalėdojant."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -87,7 +88,7 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
     Užmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių gorčių.
   citata_rodoma: "„Plotkai“ atėjo dieną, juos atnešė bažnyčios maršalka ir paliko be užmokesčio.\nUžmokėta bus kalėdojant. Zakristijonas gaus už tai kviečių gorčių."
   statusas: verified
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

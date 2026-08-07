@@ -54,7 +54,8 @@ Narbutas, remdamasis Lasickiu, nuleidimu vadina pirmos alaus statinės pradėjim
 - id: c-172204
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 348."
   citata_originali: |
     347
 

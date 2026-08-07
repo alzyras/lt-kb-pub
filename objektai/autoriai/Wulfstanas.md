@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e0c57b9537ab888c43b86d82"
+canonical_name: "Wulfstanas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Wulfstanas"]
+sameAs: []
+canonical_biography: "Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies. Įdomiai Wulfstanas pasakojo apie prūsų laidojimo papročius."
 ---
 # Wulfstanas
 
@@ -93,7 +100,8 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 13."
   citata_originali: |
     Be
     daug kitų autorių IX amž. apie aisčius apščiai žinių duoda
@@ -117,7 +125,8 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 - id: c-91712
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 118."
   citata_originali: |
     Jų metu žymioji dalis turto,
     kuris į 5-6 dalis 5-6 mylių atstume išskirstomas, tekdavusi tam,
@@ -138,7 +147,8 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 - id: c-91713
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 118."
   citata_originali: |
     Dažnai miglotos ankstyvesnių autorių žinios
     apie rytų Pabaltijį buvo atėjusios netikrais ir vingiuotais keliais.
@@ -156,7 +166,8 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 - id: c-91714
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 118."
   citata_originali: |
     Tad alaus « ais­
     čiai » nedarą.

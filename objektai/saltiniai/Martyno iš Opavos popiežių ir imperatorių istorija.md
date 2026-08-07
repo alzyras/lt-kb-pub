@@ -231,7 +231,8 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 - id: c-61511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     16. Apie tai, kaip Burgundijoje dėl žemės drebėjimo kalnas nuslinko į kitą vietą
 
@@ -250,7 +251,8 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 - id: c-61512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
   citata_originali: |
     Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu
 
@@ -268,7 +270,8 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 - id: c-61513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga
 
@@ -291,7 +294,8 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 - id: c-61514
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
   citata_originali: |
     Čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje,
     po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl
@@ -309,7 +313,8 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 - id: c-61515
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 244."
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
 
@@ -332,7 +337,8 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 - id: c-61516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
   citata_originali: |
     2. Apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius
 
@@ -350,7 +356,8 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 - id: c-61517
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
   citata_originali: |
     Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
     III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).
@@ -366,7 +373,8 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 - id: c-61518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249."
   citata_originali: |
     119. Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą
 
@@ -385,7 +393,8 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 - id: c-61519
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245-246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245-246."
   citata_originali: |
     99. Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
 

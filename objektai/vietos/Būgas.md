@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6c3ec03310cfcd19e339be5b"
+canonical_name: "Būgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Būgas"]
+sameAs: []
+canonical_biography: "Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė Būgą."
+place_authority: true
+historical_names: []
 ---
 # Būgas
 
@@ -86,7 +95,8 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
 - id: c-170266
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 149."
   citata_originali: |
     dove, jeigu tu neatskleisi mums savo minties ir tikslo,
     mes neisime už Bugo."
@@ -100,7 +110,8 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
 - id: c-175396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
   citata_originali: |
     Vadina­
     si, būta skitų gerų—kapakasių genties, kažkokios skitų
@@ -126,7 +137,8 @@ Melnikas lokalizuojamas Palenkėje prie Bugo. Ties Braclavu Aleksandras pasiekė
 - id: c-175397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
   citata_originali: |
     121
     Mazovijos kunigaikštis Konradas XIII amžiaus pra­

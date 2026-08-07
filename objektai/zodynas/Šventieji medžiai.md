@@ -71,7 +71,8 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
 - id: c-172079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 233."
   citata_originali: |
     Hamad-
     riadė Chrisopelėja, būdama netoli mirties, nes upė paplovė
@@ -91,7 +92,8 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
 - id: c-177090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 233."
   citata_originali: |
     Šios meilės vaisius buvo dvejetas įpėdinių.
     Lietuvių religija medžių atžvilgiu mokė tokio pat pamal­
@@ -110,7 +112,8 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
 - id: c-179159
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
   citata_originali: |
     Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
     bių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­

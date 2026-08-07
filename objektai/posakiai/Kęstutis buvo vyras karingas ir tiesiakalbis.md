@@ -68,7 +68,8 @@ Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie Lietuvos kun
 - id: c-91786
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 256."
   citata_originali: |
     Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie
     Lietuvos kunigaikščius ištaria gerą žodį, yra pažymėjęs : « Kęstutis,
@@ -88,7 +89,8 @@ Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie Lietuvos kun
 - id: c-91787
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 256."
   citata_originali: |
     Nuolatiniai susidūrimai karuose su vakarų Europos
     riteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi.

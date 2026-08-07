@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e371f09e4ada56f53722ecf9"
+canonical_name: "Danutė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Danutė"]
+sameAs: []
+canonical_biography: "Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykusį tėvą ir padėjo jam grįžti į Lietuvą. Narbutas Danutę mini kaip Kęstučio ir jo žmonos dukterį, gimusią kartu su sūnumis Patriku, Vytautu, Tautvilu ir Sigailu, arba Žygimantu."
 ---
 # Danutė
 
@@ -100,7 +107,8 @@ Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykus
 - id: c-169554
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 243."
   citata_originali: |
     Mat
     vienas lietuvis (jis, priėmęs
@@ -147,7 +155,8 @@ Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykus
 - id: c-171409
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Žemaičių ir Trakų kuni­
     gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­

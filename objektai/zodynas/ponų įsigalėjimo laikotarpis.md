@@ -61,7 +61,8 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
 - id: c-72115
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 7-8"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 7-8."
   citata_originali: |
     Bažnyčios suvažiavimas Bazely ir bažnytinės unijos
     klausimas 172

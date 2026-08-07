@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6f46bcfccb39214e0c0cbbc5"
+canonical_name: "M. Oehler"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Oehler"]
+sameAs: []
+canonical_biography: "Oehler : Der Krieg zwischen dem Deutschen Orden und PolenLitauen 1409-1411, Elbing 1910. Oehler, M."
 ---
 # M. Oehler
 
@@ -57,7 +64,8 @@ Oehler : Der Krieg zwischen dem Deutschen Orden und PolenLitauen 1409-1411, Elbi
 - id: c-33060
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 351."
   citata_originali: |
     2, 1960, 9-33 p. — Oehler, M. : _Der Krieg zwischen den
     Deutschen und Polen-Litauen 1409-11_ , Elbing 1910. — Prochaska, A. :

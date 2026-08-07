@@ -49,7 +49,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 <a id="claim-t-192138"></a>
 - t-001
   teiginys: "Teodoras Narbutas Prūsų kronikininkus vaizduoja palikusius įspūdingą paminklų lobį, bet daug ką nutylėjusius."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
@@ -63,7 +63,6 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175027
-    - c-175346
 
 <a id="claim-t-192139"></a>
 - t-002
@@ -86,7 +85,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 <a id="claim-t-192567"></a>
 - t-003
   teiginys: "Teodoras Narbutas rašo, kad prarasti paminklai palaidojo neįkainojamą tautos istoriją."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -99,7 +98,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 <a id="claim-t-192568"></a>
 - t-004
   teiginys: "Teodoras Narbutas teigia, kad Prūsų kronikininkai paliko įspūdingą paminklų lobį, bet daug nutylėjo ir praleido."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -114,7 +113,6 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175027
     - c-175346
 
 ## Reikšmingi paminėjimai
@@ -149,7 +147,8 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - id: c-175025
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
   citata_originali: |
     Buvo sudaužytos gimtųjų dievų statulos, su­
     griautos šventyklos, iškirsti šventieji šilai, įvesta kita
@@ -176,7 +175,8 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - id: c-175026
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
   citata_originali: |
     Ginkluoti krikštyto­
     jai, turėdami laukines širdis ir atlikdami baisius darbus,
@@ -203,7 +203,8 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - id: c-175027
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Prūsų kronikininkai pa­
     liko mums įspūdingą paminklų lobį, bet jie daug ką nu­
@@ -216,12 +217,12 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
 
 - id: c-175346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Iš tikrųjų jis negailėjo darbo, bet
     nemokėjo juo laimingai naudotis. Prūsų kronikininkai pa­
@@ -236,6 +237,5 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
     - t-004

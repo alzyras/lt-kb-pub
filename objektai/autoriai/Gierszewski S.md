@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-66e509f9e2759ddf33d6fb71"
+canonical_name: "Gierszewski S"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gierszewski S"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad upės krante, greta pilies, augo miestas, 1246 m. gavęs Liubeko teises (Gierszewski S., Elbląg, p. 22, 25)."
 ---
 # Gierszewski S
 
@@ -60,7 +67,8 @@ Dusburgietis teigia, kad upės krante, greta pilies, augo miestas, 1246 m. gavę
 - id: c-87590
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
   citata_originali: |
     Elbingo pilis
     buvusi apie dab. Služevskos g-vę (plačiau žr. Massalski R., Zamek Elbląski..., p. 39—41,

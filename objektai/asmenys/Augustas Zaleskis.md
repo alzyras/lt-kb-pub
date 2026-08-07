@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8f8bb60dfe9fd810ea989300"
+canonical_name: "Augustas Zaleskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Augustas Zaleskis"]
+sameAs: []
+canonical_biography: "Po susitikimo Paryžiuje su Lenkijos užsienio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną A."
 ---
 # Augustas Zaleskis
 
@@ -62,7 +69,8 @@ Po susitikimo Paryžiuje su Lenkijos užsienio reikalų ministru Augustu Zaleski
 - id: c-21610
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 159."
   citata_originali: |
     A. Voldemaras užsienio politiką
     stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesi-

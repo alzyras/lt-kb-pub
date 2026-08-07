@@ -51,7 +51,8 @@ Jadvyga savo „wiesz­ czym duchem“ (pranašingu nujautimu), kaip sako Procha
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 81."
   citata_originali: |
     Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
     jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su

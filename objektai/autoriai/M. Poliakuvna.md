@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cc9fa2098b6c51fa02de8db3"
+canonical_name: "M. Poliakuvna"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Poliakuvna"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Zanik ludności pruskiej.— Pomorze średniowieczne/Pod red. G. Labudy, Warszawa, 1958, s. 160—207. Dusburgietis teigia, kad pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s. 78—79."
 ---
 # M. Poliakuvna
 
@@ -127,7 +134,8 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
 - id: c-65358
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Pollakówna M. Galindia.— SSS, Wrocław—Warszawa—Kraków, 1964, t. 2, cz. 1, s.
     78—79.
@@ -141,7 +149,8 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
 - id: c-65359
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
   citata_originali: |
     78—79.
     Pollakówna M. Kronika Piotra z Dusburga.— Wrocław— Warszawa—Kraków, 1968.
@@ -157,7 +166,8 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
 - id: c-65360
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Pollakówna M. Zanik ludności pruskiej.— Pomorze średniowieczne/Pod red. G. Labudy,
     Warszawa, 1958, s. 160—207.
@@ -173,7 +183,8 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
 - id: c-65361
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
     Tyrinėtojai siejo Dusburgietį
     iš pradžių su Ragaine, po to su Karaliaučiumi. Kelta mintis, kad jis rašęs Marienburge,

@@ -57,7 +57,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 - id: c-82746
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247."
   citata_originali: |
     Krymo totorių
     orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d2ecf7cc842a1fdc014d8746"
+canonical_name: "E. Tuskenis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["E. Tuskenis"]
+sameAs: []
+canonical_biography: "Tuskenis."
 ---
 # E. Tuskenis
 
@@ -43,7 +50,8 @@ Tuskenis.
 - id: c-22127
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
     politics.

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cf74db6e871e486a931b6030"
+canonical_name: "Girdavai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Girdavai"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 vienas tikėjimą bei tikinčiuosius rėmęs žmogus, vardu Girdavas, kurio palikuonys po šiai dienai vadinami Rendaliais, turėjo Bartos žemėje pilį, nuo jo vardo pavadintą Girdavai388. Dusburgietis teigia, kad zeleznodorožnas) — Girdavai, gyvenvietė Bartoje, prie Alnos deš."
+place_authority: true
+historical_names: []
 ---
 # Girdavai
 
@@ -71,7 +80,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
 - id: c-59184
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     388  D.— Girdaw, Jer.— Girdawin; vėliau — Gerdauen (dab. Zeleznodorožnas) —
     Girdavai, gyvenvietė Bartoje, prie Alnos deš. intako Ometo.
@@ -86,7 +96,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
 - id: c-59185
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     113 (108). Apie tai, kaip buvo palikta Girdavų pilis
     Tuo metu387 vienas tikėjimą bei tikinčiuosius rėmęs žmogus, vardu Girdavas, kurio

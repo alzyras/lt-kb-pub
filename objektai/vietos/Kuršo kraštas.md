@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c956fcc49fbb9c84d1684f7"
+canonical_name: "Kuršo kraštas (kraštas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kuršo kraštas","Kuršo kraštas (kraštas)"]
+sameAs: []
+canonical_biography: "Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska ziemia ir vokišku Kuhrland."
+place_authority: true
+historical_names: []
 ---
 # Kuršo kraštas (kraštas)
 
@@ -54,7 +63,8 @@ Narbutas Kuršo krašto pavadinimą siejo su forma Kur-zeeme, lenkišku Kuronska
 - id: c-171843
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 110."
   citata_originali: |
     Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­
     mę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-

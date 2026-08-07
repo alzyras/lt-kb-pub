@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-818d3539d8072f24df7cc2e3"
+canonical_name: "Samboras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Samboras"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaikštis Odoničius bei daug kitų kilmingų bei galingų vyrų, gyvenančių tarp Oderio ir Vyslos upių ir tarp Bebro ir Netos upių, be to, Sventopelkas, Pomeranijos kunigaikštis230, su savo broliu Samboru. Dusburgietis teigia, kad tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius."
 ---
 # Samboras
 
@@ -76,7 +83,8 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
 - id: c-60833
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74."
   citata_originali: |
     Narsiai ją
     užpuolę, privertė bėgti. Tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau
@@ -98,7 +106,8 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
 - id: c-60834
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 73-74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 73-74."
   citata_originali: |
     Apie Marienverderio miesto pastatymą
 

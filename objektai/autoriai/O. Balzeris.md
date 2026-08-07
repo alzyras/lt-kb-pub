@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b94f06294805265cd4e8cd34"
+canonical_name: "O. Balzeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["O. Balzeris"]
+sameAs: []
+canonical_biography: "Balzeris."
 ---
 # O. Balzeris
 
@@ -50,7 +57,8 @@ Balzeris.
 - id: c-33074
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 91."
   citata_originali: |
     Semkowiczius, kuris su
     lenkų Bažnyčios istoriku J. Fijałeku išleido Vilniaus vysku­

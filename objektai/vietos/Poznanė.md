@@ -38,6 +38,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-11d0376afaec9090f8762bec"
+canonical_name: "Poznanė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Poznanė"]
+sameAs: []
+canonical_biography: "1925 m. Poznanė siejama su IV visuotiniu Lenkijos istorikų suvažiavimu. Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises. Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
+place_authority: true
+historical_names: []
 ---
 # Poznanė
 
@@ -255,7 +264,8 @@ media_all_json: |-
 - id: c-24404
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 68."
   citata_originali: |
     Iš tikrųjų šioje sąjungoje vyravo
     Lenkija. Aukščiausia (šalia valdovo) valdžios institucija – bendras Sei-
@@ -274,7 +284,8 @@ media_all_json: |-
 - id: c-105859
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 205."
   citata_originali: |
     Il KNYGA
     IV
@@ -303,7 +314,8 @@ media_all_json: |-
 - id: c-105860
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 23."
   citata_originali: |
     Ibid. Capit VIII, p. 51. Martinas
     Galias pasakoja, kad Poznanė duo­
@@ -326,7 +338,8 @@ media_all_json: |-
 - id: c-105861
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 20."
   citata_originali: |
     Varšuva 1933.
     PamZH = Pamiętnik (IV, V, VI) Powszechnego Zjazdu Historyków
@@ -342,7 +355,8 @@ media_all_json: |-
 - id: c-105862
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24."
   citata_originali: |
     Tad jau
     nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
@@ -366,7 +380,8 @@ media_all_json: |-
 - id: c-105863
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     Woyt Wileński, i Albertus Przetocki: ar­
     cis Vilnensis Procurator [Nepaprasta­
@@ -397,7 +412,8 @@ media_all_json: |-
 - id: c-105865
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
     ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino
@@ -420,7 +436,8 @@ media_all_json: |-
 - id: c-105868
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 22-23"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 22-23."
   citata_originali: |
     Jau jam valdant Krušvica, Poznanė ir kiti
     b)
@@ -449,7 +466,8 @@ media_all_json: |-
 - id: c-177372
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 21."
   citata_originali: |
     RAU = Rozprawy Akademji Umiejętności, Wydział filozoficzno-
     historyczny, leidžiamas PAU Krokuvoje.

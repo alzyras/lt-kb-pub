@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-459ea2a7d8bc5f75cc037b91"
+canonical_name: "Mėrūniškis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mėrūniškis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492, kur nukovė 18 šio valsčiaus. Dusburgietis teigia, kad 492 D.— territorium dictum Meruniskam, Jer.— gebît[...] Meruniskin; Mėrūniškis (dab."
+place_authority: true
+historical_names: []
 ---
 # Mėrūniškis
 
@@ -32,7 +41,7 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
 <a id="claim-t-58600"></a>
 - t-001
   teiginys: "Ordino magistras Konradas su raitija įsiveržė į Mėrūniškio valsčių, jį nusiaubė ir nukovė arba paėmė į nelaisvę 600 žmonių."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Mėrūniškis: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -45,7 +54,6 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   semantiniai_rysiai: "Mėrūniškis priklausė Sūduva (0.82)"
   pagrindžia:
     - c-59232
-    - c-59233
 
 <a id="claim-t-58601"></a>
 - t-002
@@ -80,7 +88,8 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
 - id: c-59232
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą
 
@@ -107,7 +116,8 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
 - id: c-59233
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 162."
   citata_originali: |
     492 D.— territorium dictum Meruniskam, Jer.— gebît[...] Meruniskin; Mėrūniškis (dab.
     Mieruniszki), per 29 km į šiaurės vakarus nuo Suvalkų, to pat vardo valsčiaus įtvirtintas
@@ -118,5 +128,4 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a689a60a84e8c2f2f31acf1e"
+canonical_name: "Constantino Tencalli"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Constantino Tencalli"]
+sameAs: []
+canonical_biography: "Italų architektorius Constantino Tencalli laikomas Šv. Kazimiero koplyčios autoriumi."
 ---
 # Constantino Tencalli
 

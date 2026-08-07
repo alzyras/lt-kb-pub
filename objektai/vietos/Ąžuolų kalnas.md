@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a7e945e072cea8edfa648d8a"
+canonical_name: "Ąžuolų kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ąžuolų kalnas"]
+sameAs: []
+canonical_biography: "Kalvos į šiaurę nuo miesto stūkso plikos, jas rytiniame pakraštyje perrėžia kelias į Vilnių (Via versus Vilnam), o ant Antakalnio (Ąžuolų kalno?) matyti kartuvės."
+place_authority: true
+historical_names: []
 ---
 # Ąžuolų kalnas
 
@@ -41,9 +50,9 @@ Kalvos į šiaurę nuo miesto stūkso plikos, jas rytiniame pakraštyje perrėž
 ## Citatos
 
 - id: c-185069
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 385"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 385."
   citata_originali: |
     Matome didelį spiečių pastatų dešiniajame Nemuno krante, upės slė­
     nyje. Kalvos į šiaurę nuo miesto stūkso plikos, jas rytiniame pakraštyje perrėžia kelias

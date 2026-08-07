@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47498a35901f8f7986550042"
+canonical_name: "Mamajus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mamajus"]
+sameAs: []
+canonical_biography: "Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puldinėjo ir sugriovė poloviečių-lietuvių sostinę Beloserką. Ar tai nebuvo tas pats miestas, kurį sugriovė Mamajus?"
 ---
 # Mamajus
 
@@ -85,7 +92,8 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
 - id: c-174323
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 108."
   citata_originali: |
     Tyrimai visiškai neatsako į šiuos
     klausimus teigiamai, nes nėra įrodymų, kad Mamajus

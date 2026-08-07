@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ffd03218bedea0f66d571bda"
+canonical_name: "Paulius Oderbornas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Paulius Oderbornas"]
+sameAs: []
+canonical_biography: "Kauno liuteronų bendruomenei šitame pasitarime atstovavo kunigas Paulius Oderbornas."
 ---
 # Paulius Oderbornas
 
@@ -41,9 +48,9 @@ Kauno liuteronų bendruomenei šitame pasitarime atstovavo kunigas Paulius Oderb
 ## Citatos
 
 - id: c-185454
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 321"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 321."
   citata_originali: |
     Kristupo
     Radvilos Perkūno Vilniuje sukviestame abiejų protestantų tikėjimų teologų pasitari-

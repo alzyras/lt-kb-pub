@@ -65,9 +65,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184624
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 566"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 566."
   citata_originali: |
     Todėl karvedžiu lie­
     tuvių ir žemaičių Algirdas ir Kęstutis, atilsinusįu
@@ -89,9 +89,9 @@ Nenurodyta
     - t-001
 
 - id: c-184625
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 566"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 566."
   citata_originali: |
     Pirmajame susirėmime totoriai ga­
     lėjo manyti lietuvius pergalėtojais tapsiant, kaipogi

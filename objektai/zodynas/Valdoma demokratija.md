@@ -50,7 +50,8 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
 - id: c-24713
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 257."
   citata_originali: |
     Nors Rusija Lietuvai išliko svarbi ekonominė partnerė,
     artimesni santykiai tarp šių valstybių nesusiklostė. Pagrindinė kliūtis –

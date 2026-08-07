@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-10d84f8de7b7021394b60055"
+canonical_name: "Aleksandras Milaševičius-Ruonis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Milaševičius-Ruonis"]
+sameAs: []
+canonical_biography: "Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo viršininkas Vytautas GužasKardas, penktas - Tauro apygardos vadas Aleksandras Grybinas-Faustas, septintas — Vakarų Lietuvos srities vadas Aleksandras MilaševičiusRuonis, devintas -."
 ---
 # Aleksandras Milaševičius-Ruonis
 
@@ -50,7 +57,8 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - id: c-44266
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     į suvažiavimą susitikę Vakarų
     Lietuvos (Jūros) ir Pietų Lietuvos

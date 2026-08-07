@@ -97,7 +97,8 @@ Nenurodyta
 - id: c-168941
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 344."
   citata_originali: |
     Negi kur esti tokia kalno viršūnė, kurios
     nepasiektų nesantarvė? Gal dėl Vytauto klastingumo,
@@ -123,7 +124,8 @@ Nenurodyta
 - id: c-168942
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 344."
   citata_originali: |
     Vargu ar būtų sėkmingai įveikęs pilį, kuri, pačios gam­
     tos, rodos, sukurta tvirtovei, ligi tol atrėmė bet kokias

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a41d2c95f16a0baad19c33a"
+canonical_name: "Nikonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nikonas"]
+sameAs: []
+canonical_biography: "Narbutas Nikono pataisytą Bibliją ir liturgiją sieja su rusų sentikių atsiradimu Lietuvoje valdant Jonui Kazimierui."
 ---
 # Nikonas
 
@@ -54,7 +61,8 @@ Narbutas Nikono pataisytą Bibliją ir liturgiją sieja su rusų sentikių atsir
 - id: c-173007
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 398"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 398."
   citata_originali: |
     Nuo
     amžių sektantus vadina raskolnikais, tai yra atskalūnais. Pas

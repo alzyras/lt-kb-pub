@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-256a23c7f2c0904393279005"
+canonical_name: "Jurgis Sniadeckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Sniadeckis"]
+sameAs: []
+canonical_biography: "Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą."
 ---
 # Jurgis Sniadeckis
 
@@ -62,7 +69,8 @@ Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.
 - id: c-83723
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 7-8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 7-8."
   citata_originali: |
     M. Balinskis daugelį iš jų asmeniškai pažinojo,
     VII

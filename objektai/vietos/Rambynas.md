@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-402b35e4ca1837d396bda0f8"
+canonical_name: "Rambynas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rambynas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad panemunėje esama Rambyno (žr."
+place_authority: true
+historical_names: []
 ---
 # Rambynas
 
@@ -52,7 +61,8 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
 - id: c-59346
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
   citata_originali: |
     Panemunėje esama Rambyno (žr. paaiškinimą III, 183; ant Rambyno po akmeniu yra
     „velnio buveinė” — Remeika J., Ką kalneliai..., p. 19; mitologinis personažas su šaknim

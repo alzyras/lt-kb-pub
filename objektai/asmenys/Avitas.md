@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a8dc37989b3f0b0483ffbc3f"
+canonical_name: "Avitas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Avitas"]
+sameAs: []
+canonical_biography: "Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., Ricimerui įsakius, atsisakė aukšto posto. Einanti savo politinio gyvenimo saulė lydžio link galinga Cezarių valstybė 457 metais, kai aukščiausias svebų samdytas karvedys Ricimeras, pa ėmęs valdžią į savo rankas, pademonstravo ypatingą silpnumą; tuo metu soste sėdėjo imperatorių vaizduojąs Avitas."
 ---
 # Avitas
 
@@ -69,7 +76,8 @@ Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., 
 - id: c-174253
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
   citata_originali: |
     Einanti savo politinio gyvenimo saulė­
     lydžio link galinga Cezarių valstybė 457 metais, kai

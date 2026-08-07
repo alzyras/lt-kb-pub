@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d672d6ed9bef03289d5bcb32"
+canonical_name: "Mindaugas Šapoka"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mindaugas Šapoka"]
+sameAs: []
+canonical_biography: "The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle of Grünwald in 1410 / translated by Albina Strunga; edited by Joseph Everatt, Mindaugas Šapoka. e of Grünwald: in commemoration of the 600th anniversary of the Battle of Grünwald in 1410 / translated by Albina Strunga; edited by Joseph Everatt, Mindaugas Šapoka. Šapoka, Vilnius, 2009;."
 ---
 # Mindaugas Šapoka
 
@@ -61,7 +68,8 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
 - id: c-70095
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Vilnius, 1976; Millennium of Lithuania:
     Millennium Lithuaniae. Ed. M. Šapoka, Vilnius, 2009; H. Olszewski.

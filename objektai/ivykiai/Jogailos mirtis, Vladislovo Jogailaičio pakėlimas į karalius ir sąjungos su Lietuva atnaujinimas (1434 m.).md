@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-168883
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 449-450"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 449-450."
   citata_originali: |
     Ga­
     lop, pajutęs, kad jam visai užėmė kvapą, paliepė nu­

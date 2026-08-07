@@ -74,7 +74,8 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
 - id: c-61642
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 204."
   citata_originali: |
     Kai šitaip
     paklaidžiojo dvi dienas ir kai lietuviai sugrįžo namo, broliai įsibrovė į Gardino valsčių,
@@ -96,7 +97,8 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
 - id: c-61643
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928.
   citata_rodoma: "Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928."

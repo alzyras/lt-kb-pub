@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f5615fc452c0eb20af9d0de2"
+canonical_name: "Voigt J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Voigt J"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 1-os pusės dokumentuose vadinama Rommowe, Romaynis; ten buvęs šventas laukas, miškas-kulto vieta (CDP, 2, Nr. 113, p. 151—152; SU, 2, Nr. 238, p. 159—160; Voigt J., Geschichte..., 1, p. 639—649; GAO, p. 146). Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami, jie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius, subėgusius į kaimą, kitados vadinamą Kalija, o dabar —. Dusburgietis teigia, kad 421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas (Alyem— 1250 m.) prie Nogato ir to pat valsčiaus centras; manoma, vėliau bei dabar — Štumas (PUB, 1, Nr. 233; GAO, p. 8; Łowmiański H., Studja.., 2, p. 25). Aliamo valsčiaus."
 ---
 # Voigt J
 
@@ -60,7 +67,8 @@ Dusburgietis teigia, kad 1-os pusės dokumentuose vadinama Rommowe, Romaynis; te
 - id: c-65456
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
   citata_originali: |
     D. Romovės resp. Romuvos nuo XVI a. ieškota Varmėje, Notangoje, Semboje  ir
     kitur. Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės

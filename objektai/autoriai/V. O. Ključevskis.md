@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-256ed8f40cb56ec4793ee581"
+canonical_name: "V. O. Ključevskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. O. Ključevskis"]
+sameAs: []
+canonical_biography: "V. O. Ključevskis šitą faktą laiko ir svarbiausiu visos rusų istorijos periodizacijos rodikliu, pagal jį išskirstydamas rusų tautos istoriją į atskirus jos kolonizacijos periodus^2."
 ---
 # V. O. Ključevskis
 
@@ -66,7 +73,8 @@ V. O. Ključevskis šitą faktą laiko ir svarbiausiu visos rusų istorijos peri
 - id: c-91710
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 28."
   citata_originali: |
     Rytiniai
     slavai šimtmečių bėgyje taip buvo pamėgę kraustytis bei koloni­

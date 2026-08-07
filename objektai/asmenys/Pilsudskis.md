@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-38327e06bb8daac4cbf2af7a"
+canonical_name: "Pilsudskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pilsudskis"]
+sameAs: []
+canonical_biography: "Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo jo iškilmingus pareiškimus, kad Lenkija pripažįstanti ir gerbsianti Lietuvos nepriklausomybę ir teritorijos integralumą, ir pasiūlė vėl tiesiogines derybas geriems santykiams užmegzti. Tų metų balandžio mėnesį Pilsudskio vadovaujama Lenkijos kariuomenė, pasinaudodama mūsų kariuomenės silpnumu ir josios kovomis su rusais bolševikais, užėmė pietinę ir rytinę Letuvos dalį nuo Gardino iki Vilniaus (balandžio 19 d.)."
 ---
 # Pilsudskis
 
@@ -67,7 +74,8 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
 - id: c-04261
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 39."
   citata_originali: |
     Kai
     vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-
@@ -90,7 +98,8 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
 - id: c-64907
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 598"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 598."
   citata_originali: |
     Tam pat tikslui
     prie demarkacijos linijos buvo pradėtos grupuoti Lenkų ka-

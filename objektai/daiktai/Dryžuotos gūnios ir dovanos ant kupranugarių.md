@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-83088
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 167."
   citata_originali: |
     Vytauto
     didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios

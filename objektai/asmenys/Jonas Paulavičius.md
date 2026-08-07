@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-117179a7160f12fc89d7b95a"
+canonical_name: "Jonas Paulavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Paulavičius"]
+sameAs: []
+canonical_biography: "Tai parapinės bažnyčios mokykla, su ja sietinas 1537 m. Kaune žinomas Jonas Paulavičius (Joannes Pawlowycz baccalaurus arcium altarista)."
 ---
 # Jonas Paulavičius
 
@@ -50,9 +57,9 @@ Tai parapinės bažnyčios mokykla, su ja sietinas 1537 m. Kaune žinomas Jonas 
 ## Citatos
 
 - id: c-185452
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 63"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 63."
   citata_originali: |
     Šaltiniuose ji pirmą kartą paminėta 1509 m., nors
     galėjo atsirasti gerokai anksčiau. Tai parapinės bažnyčios mokykla, su ja sietinas

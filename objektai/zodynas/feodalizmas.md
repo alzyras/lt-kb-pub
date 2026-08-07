@@ -150,7 +150,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - id: c-78549
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 25."
   citata_originali: |
     Dar Kaunas, gilios senovės laikais įkur­
     tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
@@ -171,7 +172,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - id: c-78550
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 176-177"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 176-177."
   citata_originali: |
     Lietuvos bajorijos pareigos valstybei priklausydavo nuo jų val-
     domosios žemės. Taigi ir pas mus buvo maždaug tokia pat santvarka,
@@ -190,7 +192,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - id: c-78551
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 20."
   citata_originali: |
     Visi
     be išimties kentėdavo nuo dažnų puldinėjimų ir smurto: tik vieni
@@ -218,7 +221,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - id: c-78552
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 19."
   citata_originali: |
     Jų įtaka
     mūsuose ir Rytuose buvo neapsakoma, o pasekmės davė žmo­
@@ -240,7 +244,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - id: c-78553
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 177."
   citata_originali: |
     Todėl jos
     buvo nepastovios: kunigaikščiai galėjo būti kilnojami iš vienos vie-
@@ -260,7 +265,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - id: c-78554
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 25."
   citata_originali: |
     Tačiau, tiesą sakant, ir visoje Lie­
     tuvos žemėje, ir Žemaitijoje tik šen bei ten kilo vienišos pilys,
@@ -281,7 +287,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - id: c-166346
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 177."
   citata_originali: |
     Tuo tarpu Vakaruose vasalų valstybės buvo pastovios ir neliečiamos;
     jos buvo kunigaikščių gaunamos iš tėvų, o ne iš suvereno malonės.

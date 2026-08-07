@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d08aa97e9188b724dc24872c"
+canonical_name: "Cepros upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Cepros upė"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Cepros upė
 

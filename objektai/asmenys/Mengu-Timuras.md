@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a52c906e1539c4b7b88bdf45"
+canonical_name: "Mengu-Timuras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mengu-Timuras"]
+sameAs: []
+canonical_biography: "1276 m. Hipčiakų kanas Mengu-Timuras surengė žygį prieš jazigus, kuriuos Narbutas vadina jotvingių tauta, gyvenusia tarp Dnepro ir Pinsko pelkių."
 ---
 # Mengu-Timuras
 

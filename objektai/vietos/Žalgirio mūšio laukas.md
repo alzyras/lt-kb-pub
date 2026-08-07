@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1ab3abeb00ed6e70cbc5e741"
+canonical_name: "Žalgirio mūšio laukas (mūšis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žalgirio mūšio laukas","Žalgirio mūšio laukas (mūšis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad dzežgonis) Žalgirio mūšio laukas (dab."
+place_authority: true
+historical_names: []
 ---
 # Žalgirio mūšio laukas (mūšis)
 
@@ -43,7 +52,8 @@ Dusburgietis teigia, kad dzežgonis) Žalgirio mūšio laukas (dab.
 - id: c-59387
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 322."
   citata_originali: |
     Dzežgonis)
     Žalgirio mūšio laukas (dab. Grunvaldo k. apyl.)

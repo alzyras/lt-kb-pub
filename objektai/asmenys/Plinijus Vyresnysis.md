@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7caad15d37083fe684b7983c"
+canonical_name: "Plinijus Vyresnysis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Plinijus Vyresnysis"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų palikuonis prie Dono žemupio ir Juodosios jūros. Plinijus rašė, kad spaliai buvo kairiojoje Dono pakrantėje, prie Kimerijos Bosporo, o Narbutas šį teiginį laikė jų senumo ženklu. Plinijus rašė, kad Hilleviones, jo apibūdinti kaip labai gausūs žmonės, gyveno Skandinavijoje."
 ---
 # Plinijus Vyresnysis
 
@@ -349,7 +356,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
 - id: c-173971
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
   citata_originali: |
     71
     Siame žygyje jie ėjo per spalių kraštą, kurio gyvento­
@@ -371,7 +379,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
 - id: c-173972
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
   citata_originali: |
     Ta­
     citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
@@ -392,7 +401,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
 - id: c-173973
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     Pagaliau, papildydamas aprašymą, cituoju tą
     patį autorių: Welti, Hossii ir Karbony, — tai toliau į
@@ -412,7 +422,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
 - id: c-173974
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Jūroje išilgai prūsų pakrančių slypi
     ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie
@@ -436,7 +447,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
 - id: c-173975
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 161."
   citata_originali: |
     Šio labai tikslaus istoriko
     ir garbingo senovės krašto tyrinėtojo nuomonė verstų mus
@@ -461,7 +473,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
 - id: c-173977
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
@@ -484,7 +497,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
 - id: c-173978
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 367."
   citata_originali: |
     kraštą, vadinamą vulgo Balta, id est terra albescens, at­
     plaukia neaprėpiama daugybė žuvų ir silkių, vandens
@@ -517,7 +531,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
 - id: c-173979
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 376"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 376."
   citata_originali: |
     Herodotas1 savo geografiniuose aprašymuose, kurie,
     nelaimei, mus pasiekė daug trumpesni, pasakodamas apie
@@ -549,7 +564,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
 - id: c-174851
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 275."
   citata_originali: |
     Senovės tyrinėtojai, pradedant Plinijaus kom­
     piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
@@ -577,7 +593,8 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
 - id: c-179346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 366-367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 366-367."
   citata_originali: |
     Joje
     yra labai įdomios detalės: 1) Frische Haff, alias recens

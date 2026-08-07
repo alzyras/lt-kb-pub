@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5d82723109047ea6de9d7f03"
+canonical_name: "Heneris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Heneris"]
+sameAs: []
+canonical_biography: "Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų tyrinėtoju, Baltarusijoje buvo išgyvenęs per keturiasdešimt metų."
 ---
 # Heneris
 
@@ -76,7 +83,8 @@ Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų
 - id: c-174295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 383."
   citata_originali: |
     Kai
     pažadėdavau didžiausią apdovanojimą tam, kuris atneš­

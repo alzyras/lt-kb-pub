@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ca771e1e644990c53d48861d"
+canonical_name: "Slucko bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Slucko bažnyčia"]
+sameAs: []
+canonical_biography: "Pasak Lietuvos statuto, įrodymai daugiausia remdavosi priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir 18 Komisijos dekretas apie valstiečių ginčą su Slucko bažnyčios klebonu (Wizerunki Naukowe."
+place_authority: true
+historical_names: []
 ---
 # Slucko bažnyčia
 
@@ -52,7 +61,8 @@ Pasak Lietuvos statuto, įrodymai daugiausia remdavosi priesaika, nes šis aktas
 - id: c-177169
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 321."
   citata_originali: |
     Pasak Lietuvos statuto, įrodymai daugiausia remdavosi
     priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir

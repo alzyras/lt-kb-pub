@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a67f2f9b7d12e21e0d05e43c"
+canonical_name: "M. Dejevas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. Dejevas"]
+sameAs: []
+canonical_biography: "Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardinų bokštą ir Spaso vartus. Dejevas."
 ---
 # M. Dejevas
 
@@ -85,7 +92,8 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
 - id: c-42108
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 152."
   citata_originali: |
     Gen. ltn. B. Knorringas, norėdamas ap-
     eiti lietuvių įtvirtinimus, pasiuntė kelis
@@ -108,7 +116,8 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
 - id: c-42110
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 152."
   citata_originali: |
     Besitraukiantį priešą iš apdegusių pastatų
     apšaudė ir Užupio gyventojai. Šios ata-
@@ -124,7 +133,8 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
 - id: c-44439
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 152."
   citata_originali: |
     J. Mejeno
     divizija buvo priversta palikti

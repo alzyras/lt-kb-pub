@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c822f942ea15ab38601883a5"
+canonical_name: "Kristupas Hartknochas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristupas Hartknochas"]
+sameAs: []
+canonical_biography: "Narbutas teigė, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko kronikose išlikusius raštiškus paminėjimus."
 ---
 # Kristupas Hartknochas
 
@@ -62,7 +69,8 @@ Narbutas teigė, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko 
 - id: c-173058
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 278."
   citata_originali: |
     Todėl plačios galimybės maitintis visuomenės lengvatikiš­
     kumu leido laikyti daug žynių.

@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2bce624a680e8c2b17442f00"
+canonical_name: "Dobrynės žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dobrynės žemė","Dobrynės žemė kunigaikštystė"]
+sameAs: []
+canonical_biography: "Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik 1323 ir 1324 metais su plėšikaujančia ir viską naikinančia 97 ## Puslapis 114 VILNIAUS MIESTO ISTORIJA I TOMAS ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės."
+place_authority: true
+historical_names: []
 ---
 # Dobrynės žemė
 
@@ -72,7 +81,8 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
 - id: c-177467
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 85."
   citata_originali: |
     Tokios
     didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
@@ -96,7 +106,8 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
 - id: c-177468
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 113-114"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 113-114."
   citata_originali: |
     Trečias ir itin svarbus laiškų netikrumo įrodymas yra
     užuomina juose apie Mazoviją, kaip apie kraštą, per kurį

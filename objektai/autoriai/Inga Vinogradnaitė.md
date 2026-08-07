@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7417a2e1ffd0518d51236081"
+canonical_name: "Inga Vinogradnaitė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Inga Vinogradnaitė"]
+sameAs: []
+canonical_biography: "Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų."
 ---
 # Inga Vinogradnaitė
 
@@ -58,7 +65,8 @@ Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerij
 - id: c-26698
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 3-5"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 3-5."
   citata_originali: |
     Alfonsas Eidintas, Alfredas Bumblauskas,
     Antanas Kulakauskas, Mindaugas Tamošaitis

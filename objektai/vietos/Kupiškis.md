@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1e3194a6169fed13abdff1f7"
+canonical_name: "Kupiškis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kupiškis"]
+sameAs: []
+canonical_biography: "Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pasitraukė Subačiaus kryptimi ir įsitvirtino Kupiškyje. Galiausiai bolševikai gegužės 30-31 d. atsitraukė ir iš Kupiškio."
+place_authority: true
+historical_names: []
 ---
 # Kupiškis
 
@@ -65,7 +74,8 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 - id: c-45162
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 183."
   citata_originali: |
     Biržus jau 26 d. buvo išvadavęs Šiaurės
     Lietuvoje veikęs partizanų batalionas.
@@ -84,7 +94,8 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 - id: c-45163
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 183."
   citata_originali: |
     Persitvarkę ir sulaukę pastiprinimų,
     bolševikai puolė miestą. Jiems pavyko

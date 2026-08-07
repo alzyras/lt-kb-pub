@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae7680ef34ad6ea37f79a284"
+canonical_name: "Sofija Šimonova"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sofija Šimonova"]
+sameAs: []
+canonical_biography: "Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Šimonovos ir ypač Viesos kai­ me duotas privilegijas, nesvarbu, ar jos mūsų naujai duotos ir paskelbtos, ar vėliau gali būti duotos ir paskelbtos, šiuo atšaukiame ir norime, kad būtų. Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­ tinę kviečių iš visų laukų; taip ir bajorė Ona Tarnavska iš savo dvaro nuo visų javų, o iš Stanislovo Vaitkavičiaus tik nuo kviečių....................Įprastą dešimtinę privalo mokė­ ti."
 ---
 # Sofija Šimonova
 
@@ -59,7 +66,8 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
 - id: c-83556
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 263."
   citata_originali: |
     Be tö, ir ba­
     jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­
@@ -80,7 +88,8 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
 - id: c-83557
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 261."
   citata_originali: |
     Jeigu
     kas išdrįstų tai pažeisti ar veikti jėga prieš smuklininką ar jo

@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-28771
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 278."
   citata_originali: |
     Savo padažnintuose žygiuose nepaliaujamai teriodami Kęstu­
     čio žemes (1378-79) ir siekdami net Palenkės gyvenviečių (Drohi­

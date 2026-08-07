@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dd502a728e2b3de558f64996"
+canonical_name: "Kalnėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kalnėnai"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad 1805 m. vieną sekmadienį Kalnėnuose prie vainikais papuoštos blindės matė besimeldžiančias ir besikalbančias moteris."
+place_authority: true
+historical_names: []
 ---
 # Kalnėnai
 

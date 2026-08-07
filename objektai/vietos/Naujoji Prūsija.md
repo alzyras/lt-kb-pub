@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-170f1a7d316ae3fd70860251"
+canonical_name: "Naujoji Prūsija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujoji Prūsija"]
+sameAs: []
+canonical_biography: "Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai ji priklausė iki 1806 m., kai Napoleonas įkūrė Varšuvos kunigaikštiją; 1815 m. Užnemunė atiteko Rusijai)."
+place_authority: true
+historical_names: []
 ---
 # Naujoji Prūsija
 
@@ -63,7 +72,8 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 - id: c-24321
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 97."
   citata_originali: |
     Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
     burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos

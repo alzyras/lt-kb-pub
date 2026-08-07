@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b7a33101fb92bc8b022bf172"
+canonical_name: "Soltykovičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Soltykovičius"]
+sameAs: []
+canonical_biography: "Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus iš Gožkovo, nuo Akademijos perkėlimo į Kroku­ vą Kazimiero laikais, buvo trečiasis jos rektorius ir taip pat trečiasis nuo Vilniaus katedros įsteigimo Lietuvos vvskupas\"."
 ---
 # Soltykovičius
 
@@ -50,7 +57,8 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
 - id: c-84077
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 207."
   citata_originali: |
     Ant­
     spaude turėjo Stumbro ženklą.

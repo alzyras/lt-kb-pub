@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1d63a15fcae939de618fb219"
+canonical_name: "Markvardas iš Revelingės"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Markvardas iš Revelingės"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė viename lauke ir 25 iš jų nukovė."
 ---
 # Markvardas iš Revelingės
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
 - id: c-61015
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Tuo
     tarpu Ragainės broliai, sunerimę dėl savo žmonių naikinimo ir norėdami apsisaugti nuo

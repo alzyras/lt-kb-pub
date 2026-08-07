@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4382131f86ec176f8c6f19e3"
+canonical_name: "Kauno Vilniaus pirklių prekių sandėlis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno Vilniaus pirklių prekių sandėlis"]
+sameAs: []
+canonical_biography: "Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol."
+place_authority: true
+historical_names: []
 ---
 # Kauno Vilniaus pirklių prekių sandėlis
 
@@ -57,7 +66,8 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
 - id: c-82174
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 285-286"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 285-286."
   citata_originali: |
     Pagaliau
     karaliaus raštas ponui Abramui, iž­

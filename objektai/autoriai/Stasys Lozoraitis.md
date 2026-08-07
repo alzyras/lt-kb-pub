@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c866fa9c8dfc1472b3f90e67"
+canonical_name: "Stasys Lozoraitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Stasys Lozoraitis"]
+sameAs: []
+canonical_biography: "Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuomenės vadas gen."
 ---
 # Stasys Lozoraitis
 
@@ -55,7 +62,8 @@ Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuom
 - id: c-176395
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 177-178"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 177-178."
   citata_originali: |
     Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m.
     liepą pasirašius SSRS ir Lenkijos nepuolimo paktą iš esmės subliuško so-

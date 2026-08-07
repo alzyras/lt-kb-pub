@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a751ef6b8dc44e994647df3e"
+canonical_name: "Erazmas Stela"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Erazmas Stela"]
+sameAs: []
+canonical_biography: "Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, lietuvių kilmės iš alanų pagrindą siejusį su prūsų kildinimu iš gotų. Erazmas Ste la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina, kad laidojimo apeigų tvarka buvo labai senas, šventas daly kas, siekiantis Vaidevučio laikus; jos šventai laikėsi visos lietu vių genties tautos."
 ---
 # Erazmas Stela
 
@@ -67,7 +74,8 @@ Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, liet
 - id: c-174029
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 190."
   citata_originali: |
     Alanai buvo
     skitų blondinų gentis, jie davė pradžią roksolanams; gotai
@@ -93,7 +101,8 @@ Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, liet
 - id: c-177097
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     O
     vyras gedėdavo žmonos tiktai astuonias dienas. Erazmas Ste­

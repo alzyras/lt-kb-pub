@@ -41,9 +41,9 @@ Nėra senų dienų dai nos, kurioje žirgas nebūt garbinamas, kaipogi jis buvo 
 ## Citatos
 
 - id: c-184607
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 85"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 85."
   citata_originali: |
     Nėra senų dienų dai­
     nos, kurioje žirgas nebūt garbinamas, kaipogi jis

@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6a9e530142f907d08c45777b"
+canonical_name: "Jašiūnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jašiūnai"]
+sameAs: []
+canonical_biography: "Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau įsigijo kaip nuosavybę. Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare."
+place_authority: true
+historical_names: []
 ---
 # Jašiūnai
 
@@ -119,7 +128,8 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 - id: c-81909
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 6."
   citata_originali: |
     Būsimo
     istoriko motina - Ona Balevičiūtė. Terespolis nebuvo Balinskių
@@ -137,7 +147,8 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 - id: c-81910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 15."
   citata_originali: |
     Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas. Po sukilimo
     vykusios represijos sustabdė istoriko planų įgyvendinimą, nors
@@ -156,7 +167,8 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 - id: c-81911
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 12."
   citata_originali: |
     1848 m. M. Balinskis sugrįžta į Lietuvą ir apsigyvena savo
     Jašiūnų dvare. Sugrįžimą pagreitino nelaimės šeimoje: sūnaus
@@ -172,7 +184,8 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 - id: c-81912
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 272."
   citata_originali: |
     Pati vietovė, su­
     pama pelkių ir raistų, netinkama gyventi, lėmė tai, kad žmo­

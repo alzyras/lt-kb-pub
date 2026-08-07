@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-373bf85bcc6578cd8aea664e"
+canonical_name: "Kreiviai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kreiviai"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad akmenos krante, Kreivių kaime (Jucaičių apyl."
+place_authority: true
+historical_names: []
 ---
 # Kreiviai
 
@@ -56,7 +65,8 @@ Dusburgietis teigia, kad akmenos krante, Kreivių kaime (Jucaičių apyl.
 - id: c-59331
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
   citata_originali: |
     Analogiškų faktų randame Lietuvoje. Žemaitijoje apie 9— 10 km  į pietryčius nuo
     Šilalės, kair. Akmenos krante, Kreivių kaime (Jucaičių apyl. Šilalės rj.) yra kalva Pilė,

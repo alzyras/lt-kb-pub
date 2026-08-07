@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba460d81c6b8a34abb44de0f"
+canonical_name: "Ramunė Šmigelskytė-Stukienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ramunė Šmigelskytė-Stukienė"]
+sameAs: []
+canonical_biography: "Bibliografijoje Ramunė Šmigelskytė-Stukienė nurodyta kaip tomo „XVIII amžiaus studijos. LDK: tarp tradicijų ir naujovių“ sudarytoja."
 ---
 # Ramunė Šmigelskytė-Stukienė
 
@@ -44,7 +51,7 @@ Bibliografijoje Ramunė Šmigelskytė-Stukienė nurodyta kaip tomo „XVIII amž
 <a id="claim-t-200594"></a>
 - t-001
   teiginys: "Bibliografijoje Ramunė Šmigelskytė-Stukienė nurodyta kaip tomo „XVIII amžiaus studijos. LDK: tarp tradicijų ir naujovių“ sudarytoja."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "gap::authors"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
@@ -78,6 +85,6 @@ Bibliografijoje Ramunė Šmigelskytė-Stukienė nurodyta kaip tomo „XVIII amž
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 18."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 06:28"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001

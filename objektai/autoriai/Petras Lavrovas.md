@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ecdbd7544977f9af836b7655"
+canonical_name: "Petras Lavrovas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Petras Lavrovas"]
+sameAs: []
+canonical_biography: "Petras Lavrovas buvo Lydos bajorų mokyklos vyresnysis mokytojas ir Vilniaus gubernijos statistikos komiteto narys."
 ---
 # Petras Lavrovas
 
@@ -53,7 +60,8 @@ Petras Lavrovas buvo Lydos bajorų mokyklos vyresnysis mokytojas ir Vilniaus gub
 - id: c-174496
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 12."
   citata_originali: |
     Korespondentas — Lydos bajorų mokyklos
     vyresnysis mokytojas, Vilniaus gubernijos statistikos ko­

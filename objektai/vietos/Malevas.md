@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aae435587669df35ca42d368"
+canonical_name: "Malevas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Malevas"]
+sameAs: []
+canonical_biography: "Malevas yra kaimas kairiajame Ušos krante. Malevas yra apie 18 km į šiaurę nuo Klecko."
+place_authority: true
+historical_names: []
 ---
 # Malevas
 

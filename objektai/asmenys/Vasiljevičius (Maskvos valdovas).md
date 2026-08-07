@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15e733f065e6de3eb6c6e069"
+canonical_name: "Vasiljevičius (Maskvos valdovas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vasiljevičius (Maskvos valdovas)"]
+sameAs: []
+canonical_biography: "Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryti žalos Lietuvos valdoms."
 ---
 # Vasiljevičius (Maskvos valdovas)
 
@@ -63,7 +70,8 @@ Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryt
 - id: c-169380
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 531"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 531."
   citata_originali: |
     Kitais metais jie palydėjo seno­
     vės Lietuvos kunigaikščių at-
@@ -92,7 +100,8 @@ Vasiljevičius, paisydamas paliaubų, atviro karo nepradėjo, bet nevengė daryt
 - id: c-169381
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 532"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 532."
   citata_originali: |
     To­
     dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­

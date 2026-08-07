@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aee2de3bb65e0bb22f1ea318"
+canonical_name: "Vladimiras Dubeneckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladimiras Dubeneckis"]
+sameAs: []
+canonical_biography: "Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikščio paveikslas Vytauto Didžiojo karo muziejus, atidarytas 1935 m. Architektas Vladimiras Dubeneckis (V."
 ---
 # Vladimiras Dubeneckis
 
@@ -62,7 +69,8 @@ Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikšči
 - id: c-75379
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 162-163"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 162-163."
   citata_originali: |
     Vytauto Didžiojo kulto kūrimo momentas: 1930 m. Pasvalyje
     ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą

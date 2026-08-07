@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-021daa86d79f7c923367a628"
+canonical_name: "Jonas Komninas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Komninas"]
+sameAs: []
+canonical_biography: "Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo pečenegus, ir nuo tada prasidėjo jų vardo smukimas. Pasak Narbuto, Jonui Komninui 1121 m. nugalėjus pečenegus, hiriai išsikėlė į kairįjį Dnepro krantą pas poloviečius."
 ---
 # Jonas Komninas
 
@@ -90,7 +97,8 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
 - id: c-174166
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 105."
   citata_originali: |
     Pasakysime tik tiek, kad pečenegus, po
     hunų ir avarų įsikūrusius krašte, esančiame Dunojaus ir
@@ -112,7 +120,8 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
 - id: c-174167
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
   citata_originali: |
     294
     Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad

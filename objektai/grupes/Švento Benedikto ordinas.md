@@ -53,7 +53,8 @@ Dusburgietis teigia, kad apie vienuolijų kilmę ir pradžią Švento Benedikto 
 - id: c-59679
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     Apie vienuolijų kilmę ir pradžią
 

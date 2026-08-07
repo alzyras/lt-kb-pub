@@ -75,7 +75,8 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
 - id: c-03385
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 327."
   citata_originali: |
     Visi gerai ži-
     nojo, kad jis apgavikas, bet vis dėlto atsirado ir jį remiančių.
@@ -94,7 +95,8 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
 - id: c-03386
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 327."
   citata_originali: |
     Vieni jį rėmė dėl to, kad neapkentė Šuiskio, o kiti už pinigus.
     Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenki-

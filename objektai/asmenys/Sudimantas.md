@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2a59ada4a99ffdb782dfd25d"
+canonical_name: "Sudimantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sudimantas"]
+sameAs: []
+canonical_biography: "Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19. Vienas tik Sudimantas, lietuvių vadas, sučiuptas per puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­ das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė nuteisdami jį pakarti kaip išdaviką."
 ---
 # Sudimantas
 
@@ -77,7 +84,8 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
 - id: c-83561
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 133."
   citata_originali: |
     Pastarieji, gurguolei atvykus iki Žemu­
     tinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo,
@@ -104,7 +112,8 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
 - id: c-83562
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 154."
   citata_originali: |
     Tačiau veltui Švit­
     rigaila ėmėsi tos suktybės; mat vienas vienuolis, kuriam

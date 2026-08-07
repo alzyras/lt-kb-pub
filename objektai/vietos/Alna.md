@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fa3ad5839e85cbf0c2a43c68"
+canonical_name: "Alna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alna","Alnos upė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos ir Alnos (kair. Dusburgietis teigia, kad 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t."
+place_authority: true
+historical_names: []
 ---
 # Alna
 
@@ -76,7 +85,8 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
 - id: c-59147
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
     apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.
@@ -95,7 +105,8 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
 - id: c-59148
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais,
     priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9. A. Becenbergeris nustatė, kad

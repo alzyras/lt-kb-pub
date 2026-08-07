@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a4e2adc3e7bdd2211b85956"
+canonical_name: "Kernius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kernius"]
+sameAs: []
+canonical_biography: "Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui. Narbutas Kernių vaizduoja kaip Vidurio, arba Užnerio, Lietuvos kunigaikštį, kurio sostinė buvo Kernavė."
 ---
 # Kernius
 
@@ -279,7 +286,8 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
 - id: c-169366
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 62."
   citata_originali: |
     Kokius jis nuveikė paminėtinus darbus,
     vėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­
@@ -300,7 +308,8 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
 - id: c-169367
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 67."
   citata_originali: |
     Galbūt šitaip ir bū­
     tų atsitikę, jeigu, jam mirus,
@@ -327,7 +336,8 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
 - id: c-171453
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Nereikia tapatinti Medziojnos
     su Medžiojma, kurią laikėme medžiotojų deive, vadinama
@@ -354,7 +364,8 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
 - id: c-171454
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
   citata_originali: |
     Tai liudija Strijkovskis. Ant
     Kukovaičio kalno jau nebėra nei šventyklos, nei stabo pėdsa­
@@ -374,7 +385,8 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
 - id: c-173787
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 274."
   citata_originali: |
     Ka­
     dangi Panerių gentys pūtė dūdas ant Neries krantų, ku­
@@ -402,9 +414,9 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
     - t-006
 
 - id: c-184351
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 146"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 146."
   citata_originali: |
     § XV
     Kernius ir Gimbutas Lietuvos ir Žemaičių

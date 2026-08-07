@@ -57,7 +57,8 @@ Jį reikia laikyti pirmuoju lietuvių teisės istoriku, nes, sekdamas St.
 - id: c-33648
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 68."
   citata_originali: |
     Janulaitis, nors dar labiau daugiadarbis.
     Jį reikia laikyti pirmuoju lietuvių teisės istoriku, nes, sekdamas

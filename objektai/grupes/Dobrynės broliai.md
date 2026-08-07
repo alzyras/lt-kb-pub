@@ -218,7 +218,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - id: c-65602
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
   citata_originali: |
     „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio
     Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,
@@ -235,7 +236,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - id: c-65603
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
   citata_originali: |
     Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
     Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra
@@ -256,7 +258,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - id: c-65604
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką
     karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
@@ -275,7 +278,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - id: c-65605
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
 
@@ -300,7 +304,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - id: c-65606
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44-45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44-45."
   citata_originali: |
     Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
       165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
@@ -343,7 +348,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - id: c-175169
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
   citata_originali: |
     Tad Danielius, palikęs Neb-
     rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
@@ -368,9 +374,9 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - t-007
 
 - id: c-184266
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 286"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 286."
   citata_originali: |
     Bet ne taip veikiai nusibengė kerštai mozūrų
     kunigaikščio Konrado su kryžėjais. Sunėrimas brost-
@@ -387,9 +393,9 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - t-008
 
 - id: c-184267
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 296"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 296."
   citata_originali: |
     Tuo tarpu kunigaikštis Pamario Sviatopelkas,
     taikinėjęs ilgą laiką kryžėjams,' kaip minavo jau,

@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8c7dc0961f6c766c251b0464"
+canonical_name: "Vytautas Landsbergis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vytautas Landsbergis"]
+sameAs: []
+canonical_biography: "Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio 25 d. išrinktas muzikologas Vytautas Landsbergis. Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai. Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „kas buvo pavogta, turi būti grąžinta“."
 ---
 # Vytautas Landsbergis
 
@@ -174,7 +181,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - id: c-42328
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     p. 260, Aukščiausiosios Tarybos pirmininkas ir šalies vadovas Vytautas Lansbergis 1991 m.
     sausio 13 d. saugomas ATAS (Aukščiausiosios Tarybos Apsaugos skyriaus) pareigūnų,
@@ -190,7 +198,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - id: c-154919
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 245-246"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 245-246."
   citata_originali: |
     1991 m. sausio
     13 d. valstybės vadovas V. Landsbergis, kreipdamasis į susirinkusius prie
@@ -212,7 +221,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - id: c-154921
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 252."
   citata_originali: |
     su Vilniumi. Sausio 12 d. Aukščiausioji
     Taryba - Atkuriamasis Seimas, vadovau-
@@ -235,7 +245,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - id: c-154922
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 250."
   citata_originali: |
     Planinės
     ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus
@@ -255,7 +266,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - id: c-154923
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 253."
   citata_originali: |
     Paaiškėjus, kad dauguma buvusių ko-
     lūkiečių nesugeba ar neturi galimybių vieni ūkininkauti, pradėtos steigti
@@ -280,7 +292,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - id: c-154924
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 250."
   citata_originali: |
     socialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-
     tais ir taps LSDP) ir iš Sąjūdžio daugumos 1993 m. susidariusi Tėvynės
@@ -301,7 +314,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - id: c-154926
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 256."
   citata_originali: |
     Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
     Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir

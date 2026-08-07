@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-375cf8d5a59708fcca07c2e0"
+canonical_name: "Vytautas Radžvilas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vytautas Radžvilas"]
+sameAs: []
+canonical_biography: "Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos grupės „Antis“ lyderis Algirdas Kaušpėdas, koncertuose-mitinguose patriotines kalbas sakė Arvydas L I E T U V O S I S T O R I J A 236 Juozaitis, Vytautas Radžvilas ir kiti sąjūdininkai."
 ---
 # Vytautas Radžvilas
 
@@ -61,7 +68,8 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
 - id: c-26693
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 235-236"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 235-236."
   citata_originali: |
     Tokie jaunimo muzikos koncertų žygiai per Lietuvą
     vyko 1987, 1988 ir 1989 m. vasarą – jie buvo skirti LPS idėjoms skleisti ir

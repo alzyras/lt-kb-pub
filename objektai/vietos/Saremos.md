@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-434d013903b4dd8993d6df7d"
+canonical_name: "Saremos"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Saremos"]
+sameAs: []
+canonical_biography: "Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos (Eželio) vyskupystę."
+place_authority: true
+historical_names: []
 ---
 # Saremos
 
@@ -82,7 +91,8 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 - id: c-47144
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 230."
   citata_originali: |
     Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-
     klausomos iki 1582 m., kada jį nukariavo Steponas Batoras.
@@ -103,7 +113,8 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 - id: c-47145
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 230."
   citata_originali: |
     Visai Livonijai bu-
     vo pripažinta tikėjimo laisvė (mat, ji buvo protestantiška) ir

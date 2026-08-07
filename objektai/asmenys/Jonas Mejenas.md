@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee1f6daf8b6302630afc1315"
+canonical_name: "Jonas Mejenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Mejenas"]
+sameAs: []
+canonical_biography: "Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos brigados, mjr. Liepos ir rugpjūčio mėnesiais Vilniaus gynybai tiesiogiai vadovavo generolas majoras Jonas Mejenas."
 ---
 # Jonas Mejenas
 
@@ -76,7 +83,8 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 - id: c-42021
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 150."
   citata_originali: |
     Vėliau Vilnių nuo rusų puolimo gynė
     gen. mjr. Jono Mejeno divizija, kurią sudarė
@@ -103,7 +111,8 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 - id: c-167132
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 151."
   citata_originali: |
     Naujasis Lietuvos
 

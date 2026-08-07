@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6caa61438d9694d60b34f261"
+canonical_name: "Baniulis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Baniulis"]
+sameAs: []
+canonical_biography: "Baniulio, ltn."
 ---
 # Baniulis
 
@@ -43,7 +50,8 @@ Baniulio, ltn.
 - id: c-41297
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 203."
   citata_originali: |
     Pulko vadas pasigedo 1 bataliono karininkų: ltn. Baniulio,
     ltn. Raibikio, ltn. Čižausko, ltn. Mickaičio ir kitų.

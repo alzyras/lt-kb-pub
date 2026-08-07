@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cdb7dd355b0a7ad18d52b696"
+canonical_name: "Štarkenbergas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Štarkenbergas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį, pažadėdamas gausiai. Dusburgietis teigia, kad tada perpykę prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą; vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais. Po. Dusburgietis teigia, kad kai prūsai šią pilį sunaikino, 1326 m. buvo pastatyta antroji Štarkenbergo pilis kair."
+place_authority: true
+historical_names: []
 ---
 # Štarkenbergas
 
@@ -41,14 +50,21 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
 <a id="claim-t-58490"></a>
 - t-001
   teiginys: "1326 m. antroji Štarkenbergo pilis buvo pastatyta kairiajame Osos krante, tarp upės ir Meino ežero."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Marija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Štarkenbergas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Marija: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Štarkenbergas\" parinktas kaip owner_note_path. Targetas \"Marija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "pastatymo data: 1326 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata remia užbaigtą faktą apie antrosios pilies vietą."
   pagrindžia:
-    - c-59123
+    - c-59122
 
 <a id="claim-t-58491"></a>
 - t-002
@@ -105,7 +121,8 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
 - id: c-59122
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 141."
   citata_originali: |
     Apie  jį sklido neabejotinų žinių, kad švenčiausioji mergelė Marija
     pasirodžiusi vienam pavargėliui ir jam įdavusi laišką nunešti šiam vyskupui; perskaitęs
@@ -119,14 +136,17 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   citata_rodoma: "Apie  jį sklido neabejotinų žinių, kad švenčiausioji mergelė Marija\npasirodžiusi vienam pavargėliui ir jam įdavusi laišką nunešti šiam vyskupui; perskaitęs\nlaišką, vyskupas rado jame aprašytą visą savo gyvenimą, be to, ten buvę pridurta, kad\n\n  430  Pirmoji Ordino Starkenbergo pilis, statyta 1263 (1256— 1272) m, buvo prie\nOsos, deš. upės krante, tarp dab. Lasino ir Osos, kur į pietus nuo gyvenvietės Sčepankai\n(Szczepanki)  išliko ovalus  piliakalnis. Kai prūsai šią  pilį sunaikino, 1326 m. buvo\npastatyta antroji Štarkenbergo pilis kair. Osos krante, tarp upės ir Meino ežero, kur išliko\nketurkampis piliakalnis."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-59123
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
     Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
 
@@ -142,13 +162,13 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-59124
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
     Tada perpykę
     prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;

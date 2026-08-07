@@ -50,7 +50,8 @@ Lietuviai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skaičius
 - id: c-03273
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 526"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 526."
   citata_originali: |
     Per 40 spaudos draudimo
     metų paaiškėjo, kad lietuviškoji spauda auga, nepaisydama jo-

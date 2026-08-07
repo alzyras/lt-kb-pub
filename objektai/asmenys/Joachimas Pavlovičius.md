@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e237edfcdae0b0ce9c19967"
+canonical_name: "Joachimas Pavlovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Joachimas Pavlovičius"]
+sameAs: []
+canonical_biography: "Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­ mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną Sidorovičių, kurie, pakloję 1 000 sidabro."
 ---
 # Joachimas Pavlovičius
 
@@ -63,7 +70,8 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
 - id: c-83889
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 171."
   citata_originali: |
     Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
     taip gana ilgam sudrumstęs namų ramybę, privertė lenkus

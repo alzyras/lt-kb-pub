@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7aec99d6ecab1edcf88fa6a5"
+canonical_name: "Dmitrijus Ivanovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dmitrijus Ivanovičius"]
+sameAs: []
+canonical_biography: "Žygių išvakarėse Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią, remiamas Ordos, puolė Tverę. „Lietuvos metraštis“ ypač vaizdžiai aprašo Maskvos didžiojo kunigaikščio Dmitrijaus reakciją 1368 m. išvydus Algirdą su jo kariuomene prie Maskvos: „išvydęs tai [."
 ---
 # Dmitrijus Ivanovičius
 
@@ -64,7 +71,8 @@ media_all_json: |-
 - id: c-44318
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 48."
   citata_originali: |
     Žygių išvakarėse
 
@@ -91,7 +99,8 @@ media_all_json: |-
 - id: c-167122
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 48."
   citata_originali: |
     Rytuose
     (senose baltų žemėse), kur vis stiprėjo

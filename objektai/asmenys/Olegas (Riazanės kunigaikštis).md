@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0c09625ca3f02da5a5ae58cf"
+canonical_name: "Olegas (Riazanės kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Olegas (Riazanės kunigaikštis)"]
+sameAs: []
+canonical_biography: "Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur gana ilgai buvo saugomas sargybos, kol, atkakliai prašant ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo 139 ## Puslapis 156 VILNIAUS MIESTO ISTORIJA /."
 ---
 # Olegas (Riazanės kunigaikštis)
 
@@ -52,7 +59,8 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
 - id: c-83787
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 155-156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 155-156."
   citata_originali: |
     Paminėsime tad tik
     žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-08c5bcbfd31aa5ebca52f27c"
+canonical_name: "Jurgis Simonaitis Alšėniškis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Simonaitis Alšėniškis"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Jurgis Simonaitis Alšėniškis
 

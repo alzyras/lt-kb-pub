@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-04a5d9d029e97c46471d02db"
+canonical_name: "Heiridė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Heiridė"]
+sameAs: []
+canonical_biography: "Narbuto perteikiamose šiaurinėse sagose Heiraudo dukra Heiridė ištekėjo už norvego Augmundo ir kraičiu gavo nemažą Rusios valdą."
 ---
 # Heiridė
 
@@ -56,7 +63,8 @@ Narbuto perteikiamose šiaurinėse sagose Heiraudo dukra Heiridė ištekėjo už
 - id: c-174293
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     234
     Islandų sakmėse, vadinamose šiaurinėmis sagomis,

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f2f15c239971532791d0430"
+canonical_name: "Stinigutas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stinigutas"]
+sameAs: []
+canonical_biography: "Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš kurių buvo renkami vyriausieji vadai. Iš šių galingų žmonių buvo renkami vyriausieji vadai, kurių vienas buvo Stinigutas."
 ---
 # Stinigutas
 
@@ -59,7 +66,8 @@ Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš ku
 - id: c-174352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 370."
   citata_originali: |
     Bet
     kita piliavietė, kuri mums rūpi, ko gero, buvo ant vienos

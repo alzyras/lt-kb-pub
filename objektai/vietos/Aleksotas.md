@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0867901c0fa420e2b6a90dac"
+canonical_name: "Aleksotas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aleksotas"]
+sameAs: []
+canonical_biography: "Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrimais ir lygino jį su nimfos Alexothe vardu. Pasak Narbuto užrašyto pasakojimo, Aleksoto priemiestyje ant kalno stovėjusi šventykla arba aukuras meilės dievybėms. Aleksote buvo statomi ir strugai (strug, Strusse)."
+place_authority: true
+historical_names: []
 ---
 # Aleksotas
 
@@ -151,7 +160,8 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
 - id: c-171810
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
   citata_originali: |
     Iškilmės“.
     O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
@@ -170,7 +180,8 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
 - id: c-171811
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 160."
   citata_originali: |
     Šią vietą iki šiol
     vadina šilu, nors joje nematyti jokio medžio. Taip pat pasako­
@@ -194,9 +205,9 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
     - t-002
 
 - id: c-184929
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 247"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 247."
   citata_originali: |
     Aleksote buvo statomi ir strugai (strug, Strusse). Tai ne vietinės kilmės laivo tipas,
     perimtas iš Dauguvos baseino. Šie laivai didesni už vytines, bet paprasčiau įrengti, gre-
@@ -210,9 +221,9 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
     - t-003
 
 - id: c-184930
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 271."
   citata_originali: |
     Bet šios įmonės buvo nedidelės ir nelabai
     pastebimos viso Kauno miesto ūkinės veiklos fone.
@@ -227,9 +238,9 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
     - t-004
 
 - id: c-184931
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 301."
   citata_originali: |
     Ypatinga miesto nuosavybės rūšis buvo laivų statykla (plačiau žr. sk. Dirbanti Res-
     publika posk. Laivai ir upeiviai), buvusi kairiojo Nemuno kranto žemutinėje terasoje,

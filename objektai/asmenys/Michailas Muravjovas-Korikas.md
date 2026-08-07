@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-96460cb1afc3dcf66c3523bf"
+canonical_name: "Michailas Muravjovas-Korikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Michailas Muravjovas-Korikas"]
+sameAs: []
+canonical_biography: "Po sukilimo vykusios represijos sustabdė istoriko planų įgyvendinimą, nors jis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­ lo Muravjovo - Koriko represijas krašte."
 ---
 # Michailas Muravjovas-Korikas
 
@@ -62,7 +69,8 @@ Po sukilimo vykusios represijos sustabdė istoriko planų įgyvendinimą, nors j
 - id: c-83758
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 15."
   citata_originali: |
     Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas. Po sukilimo
     vykusios represijos sustabdė istoriko planų įgyvendinimą, nors

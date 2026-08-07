@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f3a4ae281239c97f0a4506d"
+canonical_name: "Vilniaus pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus pilis"]
+sameAs: []
+canonical_biography: "Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai. Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams. Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus pilis
 
@@ -244,7 +253,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
 - id: c-158407
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42."
   citata_originali: |
     Be to, dar nerimą kėlė Gedimino valia ra­
     dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
@@ -268,7 +278,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
 - id: c-158408
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 249."
   citata_originali: |
     Nepagelbėjo jam ir iš Kroku­
     vos pakviestas tuose kraštuose pagarsėjęs ano meto alche­
@@ -303,7 +314,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
 - id: c-158409
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 39."
   citata_originali: |
     Savo
     ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
@@ -324,7 +336,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
 - id: c-158411
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248-249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248-249."
   citata_originali: |
     Tačiau šis karaliaus nurodymas gal taip greitai ne­
     būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
@@ -353,7 +366,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
 - id: c-158412
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 251."
   citata_originali: |
     Tačiau netrukus į Vilnių at­
     vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio
@@ -378,7 +392,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
 - id: c-158413
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 300."
   citata_originali: |
     Apie tai sužinojęs Vilniaus vysku­
     pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­
@@ -401,7 +416,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
 - id: c-158414
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 354."
   citata_originali: |
     Tad šių, mūsų valdų, ir dvarų, taip pat
     ir kito judamo ir nejudamo turto, kurį turime ir valdome,
@@ -431,7 +447,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
 - id: c-158415
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 292"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 292."
   citata_originali: |
     Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
     čios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus
@@ -456,7 +473,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
 - id: c-158417
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 292-294"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 292-294."
   citata_originali: |
     276
 
@@ -484,7 +502,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
 - id: c-158418
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 35-36"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 35-36."
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
     je buvo keletas tokių šventų vieto­
@@ -520,7 +539,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
 - id: c-158419
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 250-251"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 250-251."
   citata_originali: |
     681-687, plačiai ir ganėtinai žais-
     karaliaus mirties sėdėjo kalėjime Vii- mingai eilėmis aprašo šią svarbią
@@ -548,7 +568,8 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
 - id: c-176860
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 330-331"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 330-331."
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau
     žaibus,

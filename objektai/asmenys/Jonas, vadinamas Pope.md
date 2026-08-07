@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-41d72f655001ad13e11f4c57"
+canonical_name: "Jonas, vadinamas Pope"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas, vadinamas Pope"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė atsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį Joną, vadinamą Pope, o daug kitų sužeidė."
 ---
 # Jonas, vadinamas Pope
 
@@ -72,7 +79,8 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
 - id: c-60983
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 211-212"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 211-212."
   citata_originali: |
     Apie Ragainės pilies užpuolimą
 

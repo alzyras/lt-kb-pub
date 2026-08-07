@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9e77458bb873f0c72064f96a"
+canonical_name: "Lvovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lvovas"]
+sameAs: []
+canonical_biography: "Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes."
+place_authority: true
+historical_names: []
 ---
 # Lvovas
 
@@ -46,7 +55,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 <a id="claim-t-121908"></a>
 - t-001
   teiginys: "1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -59,14 +68,14 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   temporaliniai_duomenys: "įvykio data: 1392 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie Lvove išduotą privilegiją, o pradinis teiginys buvo nutrūkęs."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-37520
-    - c-182380
 
 <a id="claim-t-121909"></a>
 - t-002
   teiginys: "Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Haličas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -79,15 +88,14 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   temporaliniai_duomenys: "pastatymo data: 1280 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Lvovą ir remiasi citata."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-111634
-    - c-182385
 
 <a id="claim-t-121910"></a>
 - t-003
   teiginys: "Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Gniezno: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -98,15 +106,15 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vilniaus vyskupijos priklausymą Gniezno metropolijai."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Vilniaus vyskupija priklausė Gniezno (0.90)"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-111632
-    - c-182383
+    - c-186116
 
 <a id="claim-t-185036"></a>
 - t-004
   teiginys: "Lvovo arkivyskupui ir Vilniaus vyskupui laišku buvo patikėta įsteigti Žemaičių vyskupystę."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -126,7 +134,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 <a id="claim-t-193211"></a>
 - t-005
   teiginys: "Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -134,46 +142,24 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175955
-    - c-182386
 
 <a id="claim-t-199596"></a>
 - t-006
   teiginys: "Tuo metu, kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai įvažiavo į Lvovą ir suteikė tam miestui privilegiją."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra gramatiškas, konkretus ir pagrįstas citata."
   susije_objektai: "llm_object: Lvovas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius"
   semantiniai_rysiai: "[[objektai/asmenys/Jadvyga|Jadvyga]] keliavo į Lvovas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182381
 
-<a id="claim-t-199603"></a>
-- t-007
-  teiginys: "Moldavijos vaivada Steponas ir turkų sultono paša Malkočas kariavo Lenkijos žemėje nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių."
-  atnaujinta: "2026-07-12 23:03"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Citata remia tikslesnį veiksmą „kariavo“, o ne vien „nusiaubė“."
-  susije_objektai: "mentioned_place: Krokuva; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lvovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lvovas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-182384
-
 <a id="claim-t-199604"></a>
-- t-008
+- t-007
   teiginys: "Kazimieras 1485 m. liepos 9 d. atvyko į Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų kariuomenė."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -183,22 +169,15 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   temporaliniai_duomenys: "kelionės data: 1485 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys perteikia datą, atvykimą į Lvovą ir kariuomenės sušaukimo aplinkybę. Citata yra aiškinamoji chronologinė pastaba, todėl legendos ar poleminės atribucijos čia neprireikė."
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lvovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lvovas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-182377
+    - c-186117
 
 <a id="claim-t-199605"></a>
-- t-009
+- t-008
   teiginys: "Kazimieras 1485 m. spalio pradžioje grįžo į Lvovą ir ten buvo tarp spalio 11 ir 25 dienos."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -216,9 +195,21 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   ryšio_targeto_parinkimas: "Petrakavas: mention_match, place"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lvovas\" parinktas kaip owner_note_path. Targetas \"Petrakavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182379
+
+<a id="claim-t-203555"></a>
+- t-009
+  teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-182386
 
 ## Reikšmingi paminėjimai
 - c-007
@@ -239,7 +230,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 172."
   citata_originali: |
     Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą. Dar
     1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
@@ -260,7 +252,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 131."
   citata_originali: |
     Vilniaus vyskupija būtų metropolija.
     Tokiems Vytauto planams stojo skersai kelio lenkai. Jų
@@ -280,7 +273,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - id: c-111634
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24."
   citata_originali: |
     Poznanė dar anksčiau už Krokuvą - 1253 metais,
     Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
@@ -338,7 +332,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - id: c-175955
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 373."
   citata_originali: |
     Kadangi jo didieji priešai buvo susirišę su Prancūzija, tai
     jis pats tuojau užmezgė ryšius su Austrų Habsburgais ir iš jų
@@ -359,7 +354,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - id: c-182377
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 302."
   citata_originali: |
     17 Kazimieras su sūnumis A lbertu ir Aleksandru išvyko iš Kro­
     kuvos 1485.V.18. bet ne su visos Lenkijos pajėgomis, o  su Mažo­
@@ -367,13 +363,11 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     j Lvovą, k u r buvo sušaukta Rusų vaivadijos ir Podolės bajorų ka­
     riuomenė.
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
-
 - id: c-182379
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -391,13 +385,14 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-182380
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 172."
   citata_originali: |
     Vygunto mirtis privertė kviestis ir Vytautą į Lietuvą. Dar
     1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
@@ -408,16 +403,15 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   citata_rodoma: "Dar\n1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­\ntimo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­\nvilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai\nkelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta\nprieš jo pretenzijas į Lucką^1 )."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-182381
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 295."
   citata_originali: |
     Iš ten buvo išva­
     rinėjami vengrų seniūnai, ir kraštas prijungtas Lenkijai. Tuo metu,
@@ -439,7 +433,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 131."
   citata_originali: |
     Vilniaus vyskupija būtų metropolija.
     Tokiems Vytauto planams stojo skersai kelio lenkai. Jų
@@ -449,17 +444,16 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     susirinkimo įgaliotinis, prisidėjo prie Žemaičių vyskupijos įkū­
     rimo.
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-182384
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
   citata_originali: |
     Tais pačiais metais Lietuvos žemę ištiko baisus ba­
     das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
@@ -471,16 +465,15 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
-
 - id: c-182385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24."
   citata_originali: |
     Poznanė dar anksčiau už Krokuvą - 1253 metais,
     Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
@@ -494,16 +487,15 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     zacijos požiūriu.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-182386
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 373."
   citata_originali: |
     Kadangi jo didieji priešai buvo susirišę su Prancūzija, tai
     jis pats tuojau užmezgė ryšius su Austrų Habsburgais ir iš jų
@@ -514,9 +506,51 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     sisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir
     veržėsi į Lvovo apylinkes.
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-009
+
+- id: c-186116
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tokiems Vytauto planams stojo skersai kelio lenkai. Jų
+    Gniezno metropolijai priklausė Vilniaus vyskupija, o Lvovo ar­
+    kivyskupas, kuris jau turėjo savo valdžioj Vladimiro vyskupiją,
+    galėjo dar tikėtis gauti ir Žemaičius, nes jis, kaip Konstancijos
+    susirinkimo įgaliotinis, prisidėjo prie Žemaičių vyskupijos įkū­
+    rimo. Be to, Vytauto noras atimti iš jo Vladimiro vyskupiją
+    buvo sujungtas su ginču dėl Volynijos žemių, kur ta vyskupija
+    buvo įkurta.
+  citata_rodoma: "Jų\nGniezno metropolijai priklausė Vilniaus vyskupija, o Lvovo ar­\nkivyskupas, kuris jau turėjo savo valdžioj Vladimiro vyskupiją,\ngalėjo dar tikėtis gauti ir Žemaičius, nes jis, kaip Konstancijos\nsusirinkimo įgaliotinis, prisidėjo prie Žemaičių vyskupijos įkū­\nrimo. Be to, Vytauto noras atimti iš jo Vladimiro vyskupiją\nbuvo sujungtas su ginču dėl Volynijos žemių, kur ta vyskupija\nbuvo įkurta."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-186117
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    17 Kazimieras su sūnumis Albertu ir Aleksandru išvyko iš Kro­
+    kuvos 1485.V.18. bet ne su visos Lenkijos pajėgomis, o su Mažo­
+    sios Lenkijos savanoriais ir algininkais. Su jais liepos 9 d. atvyko
+    j Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų ka­
+    riuomenė.
+  citata_rodoma: "17 Kazimieras su sūnumis Albertu ir Aleksandru išvyko iš Kro­\nkuvos 1485.V.18. bet ne su visos Lenkijos pajėgomis, o su Mažo­\nsios Lenkijos savanoriais ir algininkais. Su jais liepos 9 d. atvyko \nj Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų ka­\nriuomenė."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

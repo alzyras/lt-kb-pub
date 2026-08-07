@@ -53,7 +53,8 @@ Schie­ mann, be kitko, išsp. Historische Darstellungen und archivalische Studi
 - id: c-29756
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 96."
   citata_originali: |
     Schie­
     mann, be kitko, išsp. _Historische Darstellungen und archivalische

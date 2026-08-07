@@ -51,7 +51,8 @@ media_all_json: |-
 - id: c-82755
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 153-154"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 153-154."
   citata_originali: |
     Pagaliau tokia be nau­
     dos apgultis įkyrėjo vokiečiams ir Švitrigailai, kuris, ma­

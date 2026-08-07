@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2666ec152ad4553e264afb32"
+canonical_name: "M. Lukšienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Lukšienė"]
+sameAs: []
+canonical_biography: "Lukšienė (BBK, t."
 ---
 # M. Lukšienė
 
@@ -57,7 +64,8 @@ Lukšienė (BBK, t.
 - id: c-30731
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     Apie bibliotekas Lietuvoje XIX a.
     pradžioje rašė M. Lukšienė (BBK, t. 5, 1966, 109-136 p.), ji

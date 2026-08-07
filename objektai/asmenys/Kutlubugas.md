@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8ac7c5fc7b2c2e155423f866"
+canonical_name: "Kutlubugas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kutlubugas"]
+sameAs: []
+canonical_biography: "Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dalis padalytą kariuomenę prie Mėlynųjų Vandenų."
 ---
 # Kutlubugas
 
@@ -71,7 +78,8 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
 - id: c-169591
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 219."
   citata_originali: |
     Pražygiavęs Kanevą ir Čerka­
     sus, jis priėjo vietą, kurią žmonės vadina Mėlynaisiais

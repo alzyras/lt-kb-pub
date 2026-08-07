@@ -105,7 +105,8 @@ Nenurodyta
 - id: c-175779
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
   citata_originali: |
     Esama
     neabejotinų įrodymų, nes,
@@ -137,7 +138,8 @@ Nenurodyta
 - id: c-179244
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
   citata_originali: |
     Šito įrodymų aptikta ant atrastų auksinių ir sidabri­
     nių medalių1. Šie numizmatiniai užrašai nemini gotų,

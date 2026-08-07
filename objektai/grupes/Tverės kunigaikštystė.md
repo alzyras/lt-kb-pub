@@ -59,7 +59,8 @@ Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo (Aleksandro sūnau
 - id: c-33360
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 272."
   citata_originali: |
     Vieni jų ieškojo Lietuvos pagalbos, kiti rėmėsi Maskva.
     Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo

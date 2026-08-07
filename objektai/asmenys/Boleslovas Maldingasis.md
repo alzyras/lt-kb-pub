@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d19f509c76d9a5e31ff9b3c"
+canonical_name: "Boleslovas Maldingasis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslovas Maldingasis"]
+sameAs: []
+canonical_biography: "ir lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­ džiu."
 ---
 # Boleslovas Maldingasis
 
@@ -63,7 +70,8 @@ ir lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­ džiu.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 308."
   citata_originali: |
     Vytautas su­
     teikė Brastos ir Trakų, o 1389 met. ir Gardino žydams privilegiją.

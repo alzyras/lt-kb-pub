@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5383b61a8d7b422654d3d791"
+canonical_name: "Limantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Limantas"]
+sameAs: []
+canonical_biography: "Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie­ tuvos ir daugelio kitų patikimų liudytojų, ten buvusių."
 ---
 # Limantas
 
@@ -61,7 +68,8 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
 - id: c-83895
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 215."
   citata_originali: |
     Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­
     mo 1388 metais. Prie liudytojų, tuo metu su mumis buvusių:

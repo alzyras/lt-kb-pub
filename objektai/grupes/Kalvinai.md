@@ -82,7 +82,8 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
 - id: c-01580
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 352"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 352."
   citata_originali: |
     1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kaž-
     kas įšovė pro langą į pranciškonių vienuolyno bažnyčią. Mieste
@@ -102,7 +103,8 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
 - id: c-01581
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 352"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 352."
   citata_originali: |
     Protestantai buvo silpnesni, todėl jie daugiau ir nu-
     kentėdavo. Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-

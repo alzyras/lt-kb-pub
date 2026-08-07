@@ -159,7 +159,8 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
 - id: c-175125
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 492"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 492."
   citata_originali: |
     Si skrynia būdavo naudojama ir kelionės daiktams, ginklams susidėti; tai buvo pačių vertingiausių daiktų saugykla (хранилище).
   citata_rodoma: "Si skrynia būdavo naudojama ir kelionės daiktams, ginklams susidėti; tai buvo pačių vertingiausių daiktų saugykla (хранилище)."
@@ -175,7 +176,8 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
 - id: c-175126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 492"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 492."
   citata_originali: |
     Aš pats piliečių sutartyse, parašytose Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Контьma — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis.
   citata_rodoma: "Aš pats piliečių sutartyse, parašytose Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Контьma — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis."
@@ -191,7 +193,8 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
 - id: c-175344
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 492"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 492."
   citata_originali: |
     Aš pats piliečių sutartyse, parašytose
     Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон-

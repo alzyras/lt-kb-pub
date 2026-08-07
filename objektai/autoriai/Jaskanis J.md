@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-afe94bf0aceb4a359a617442"
+canonical_name: "Jaskanis J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jaskanis J"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai kas mano, kad prūsiškieji ir rytiniai galindai giminingi tik vardais, kaip Vartos vidupio ir padneprės polianai (Jaskanis J., Rec."
 ---
 # Jaskanis J
 
@@ -32,7 +39,8 @@ Dusburgietis teigia, kad kai kas mano, kad prūsiškieji ir rytiniai galindai gi
 - id: c-61352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 62."
   citata_originali: |
     Kai kas mano, kad prūsiškieji ir rytiniai galindai giminingi tik vardais, kaip Vartos
     vidupio ir padneprės polianai (Jaskanis J., Rec. ...—ABS, 2, p. 367).

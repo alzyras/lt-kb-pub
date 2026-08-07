@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9a1d9e370f87338c4cf92965"
+canonical_name: "Falk K.-O"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Falk K.-O"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tai rodo Vygrių krašto vietovardžiai (Falk K.-O., Wody wigierskie..., p. 3)."
 ---
 # Falk K.-O
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad tai rodo Vygrių krašto vietovardžiai (Falk K.-O., Wo
 - id: c-87588
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
   citata_originali: |
     517 D. teiginys, kad Sūduva (taip pat  ir kitos Ordino nusiaubtos žemės) likusios
     negyvenamos, vargu ar  teisingas.  Jotvingių  dalis  turėjo gyventi  ir  toliau sunkiai

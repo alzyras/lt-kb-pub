@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e11dbb7bd4b230accf9c16b2"
+canonical_name: "Bičkus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bičkus"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Bičkus 1604 metais pridėjo antspaudą su driežiuko piešiniu."
 ---
 # Bičkus
 
@@ -61,7 +68,8 @@ Narbutas nurodo, kad Bičkus 1604 metais pridėjo antspaudą su driežiuko pieš
 - id: c-173110
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 406"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 406."
   citata_originali: |
     Gal tai fetišas Regie-
     ziowan, kurį Lasickis priskiria Kęsgailų giminei.

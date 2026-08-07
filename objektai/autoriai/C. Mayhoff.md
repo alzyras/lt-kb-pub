@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b011e041f3a4960550cf87c"
+canonical_name: "C. Mayhoff"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["C. Mayhoff"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad mayhoff."
 ---
 # C. Mayhoff
 
@@ -58,7 +65,8 @@ Dusburgietis teigia, kad mayhoff.
 - id: c-61313
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
   citata_originali: |
     Plinius C. Secundus Naturalis historiae libri XXXVII/Ed. C. Mayhoff. Vol. V. Libri XXXI—
     XXXVII,—Lipsiae, 1897.

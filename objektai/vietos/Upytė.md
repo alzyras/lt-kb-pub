@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8808c77d3cb65438f5d6f66c"
+canonical_name: "Upytė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Upytė"]
+sameAs: []
+canonical_biography: "Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų buvo išskirti net keli pavietai; pav., iš Vilniaus vaivadijos buvo išskirta Ašmenos, Lydos, Ukmergės ir Breslaujos, o iš Trakų vaivadijos — Gardino, Kauno ir Upytės pavietai."
+place_authority: true
+historical_names: []
 ---
 # Upytė
 
@@ -62,7 +71,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 - id: c-43942
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Rugpjūčio pabaigoje į Žemaitiją paeiliui
     įsibrovė trys Livonijos daliniai, jie niokojo
@@ -86,7 +96,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 - id: c-167198
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Magistras grįžo į savo žemę, o Švitrigaila -
     į Polocką, ir, vėl paleidęs kariuomenę, iš-

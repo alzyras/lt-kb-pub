@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eec890d7137f96b2f88fc9cb"
+canonical_name: "Ferdinandas (Kastilijos karalius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ferdinandas (Kastilijos karalius)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių, 596 1241 m. įvykiai. Dusburgietis teigia, kad be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart."
 ---
 # Ferdinandas (Kastilijos karalius)
 
@@ -113,7 +120,8 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
 - id: c-60745
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Be to, ten buvo
     parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. p. 400; Ptol. 21,34).
@@ -129,7 +137,8 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
 - id: c-60746
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
 

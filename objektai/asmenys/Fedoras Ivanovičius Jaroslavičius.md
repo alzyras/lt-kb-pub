@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9400ff393ab382fdc16cf30f"
+canonical_name: "Fedoras Ivanovičius Jaroslavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fedoras Ivanovičius Jaroslavičius"]
+sameAs: []
+canonical_biography: "Fedoras Ivanovičius Jaroslavičius LDK valdė Klecką, Davidgorodoką, Rogačiovą ir Pinską, kurį gavo vedęs Oleną Aleksandrą."
 ---
 # Fedoras Ivanovičius Jaroslavičius
 

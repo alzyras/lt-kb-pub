@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-94aa0bb959031759fa8def0e"
+canonical_name: "Konradas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas"]
+sameAs: []
+canonical_biography: "Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą."
 ---
 # Konradas
 
@@ -153,7 +160,8 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - id: c-42083
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 22."
   citata_originali: |
     jauti su prūsais 1226-1228 m.
     pakvietė Mozūrijos kunigaikš-
@@ -174,7 +182,8 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - id: c-76178
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 58."
   citata_originali: |
     Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet
     iš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-
@@ -196,7 +205,8 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - id: c-173788
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
   citata_originali: |
     Ma­
     tyti, jog lietuvių padedami jie išsivadavo iš svetimųjų
@@ -225,7 +235,8 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - id: c-173789
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
   citata_originali: |
     Tad Danielius, palikęs Neb-
     rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
@@ -250,9 +261,9 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - t-004
 
 - id: c-184352
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 227"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 227."
   citata_originali: |
     Pajutę tą gudai, kurie tuo pačiu
     laiku letgalius teriojo, palikini juos pargrįžo namo,
@@ -285,9 +296,9 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - t-005
 
 - id: c-184353
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 247"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 247."
   citata_originali: |
     Silezijos su vyskupais ir jo-
     mylistomis savo ūkės, visų pirma užėmė į savo už­
@@ -306,9 +317,9 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - t-006
 
 - id: c-184354
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 253"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 253."
   citata_originali: |
     Regis, vylės, jog brostviai Dobrynės
     sudraus lietuvius ir žemaičius netikėlius, dėl to gi

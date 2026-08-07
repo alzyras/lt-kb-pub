@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b7b5282173e69a70771a7538"
+canonical_name: "Giaros sala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Giaros sala"]
+sameAs: []
+canonical_biography: "Senuosiuose pasakojimuose Giaros saloje gyvenę romėnų tremtiniai esą buvo Nerono kviečiami į karo žygį."
+place_authority: true
+historical_names: []
 ---
 # Giaros sala
 
@@ -54,7 +63,8 @@ Senuosiuose pasakojimuose Giaros saloje gyvenę romėnų tremtiniai esą buvo Ne
 - id: c-175608
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
   citata_originali: |
     (Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina
     žemaičiais) protėviai buvę italai. Imperatorius Neronas, ketindamas

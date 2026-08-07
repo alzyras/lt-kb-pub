@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-289e758229b4712a8fb9cd8c"
+canonical_name: "Eustachijus Daškevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eustachijus Daškevičius"]
+sameAs: []
+canonical_biography: "Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stovyklą."
 ---
 # Eustachijus Daškevičius
 
@@ -53,7 +60,8 @@ Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stov
 - id: c-169560
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 606"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 606."
   citata_originali: |
     Šitokie žmonės taip ilgai esti klusnūs, kaip
     ilgai klausosi šeimininko prijaukinti žvėrys, žodžiu sa­

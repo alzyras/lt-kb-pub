@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb22bcfd0e7aa71d6979a497"
+canonical_name: "Paulius Straszynski"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Paulius Straszynski"]
+sameAs: []
+canonical_biography: "Basanavičius Paulių Straszynskį vaizdavo kaip Seinų vyskupą, draudusį lietuvių kalbą bažnyčiose ir menkinusį lietuviškumą."
 ---
 # Paulius Straszynski
 

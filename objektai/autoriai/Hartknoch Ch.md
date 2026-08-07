@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-93811aa3835f572403a06faf"
+canonical_name: "Hartknoch Ch"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hartknoch Ch"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad hartknochas, pirmas D."
 ---
 # Hartknoch Ch
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad hartknochas, pirmas D.
 - id: c-61476
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
   citata_originali: |
     Ch. Hartknochas, pirmas D. kronikos leidėjas, galvojo, kad tuo vardu čia vadinami
     Riugeno salos gyventojai (Hartknoch Ch., Selectae.., p. 64). Manyta, jog Dusburgiečio

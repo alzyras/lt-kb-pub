@@ -118,7 +118,8 @@ Nenurodyta
 - id: c-169099
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 255."
   citata_originali: |
     Po to, patraukęs prie Nemuno, Prū­
     sijos maršalas su dešimčia
@@ -156,7 +157,8 @@ Nenurodyta
 - id: c-169100
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 256."
   citata_originali: |
     Mat jis neturėjo pakankamai jėgų atsispirti šito­
     kiai karo galybei, o iš dėdžių, Lietuvos kunigaikščių,

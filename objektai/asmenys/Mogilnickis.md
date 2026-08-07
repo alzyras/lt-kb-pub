@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0314793e8430162e9c0ae64d"
+canonical_name: "Mogilnickis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mogilnickis"]
+sameAs: []
+canonical_biography: "Mogilnickis išleido 5 flor."
 ---
 # Mogilnickis
 
@@ -49,7 +56,8 @@ Mogilnickis išleido 5 flor.
 - id: c-83772
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 456"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 456."
   citata_originali: |
     Jiems Lukove
     L. Mogilnickis išleido 5 flor. 7 gr.

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dcaf354d21aebe8837e860d1"
+canonical_name: "Bogdanas Knorringas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bogdanas Knorringas"]
+sameAs: []
+canonical_biography: "Rusijos kariuomenės korpusui, puolusiam Vilnių, vadovavo generolas leitenantas Bogdanas Knorringas. Knorringo vadovaujamas Rusijos kariuomenės korpusas, padalintas į tris kolonas, pasiekė Vilnių."
 ---
 # Bogdanas Knorringas
 
@@ -61,7 +68,8 @@ Rusijos kariuomenės korpusui, puolusiam Vilnių, vadovavo generolas leitenantas
 - id: c-44310
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 152."
   citata_originali: |
     Antroji kovų fazė:
 

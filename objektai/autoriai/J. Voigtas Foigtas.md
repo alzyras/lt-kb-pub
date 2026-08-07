@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3430ffde379cc2a0292d4d00"
+canonical_name: "J. Voigtas Foigtas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Voigtas Foigtas"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su kaimais ir Liubeko pirklių pastatytu Lipsos uostu. Narbutas pašaipiai perteikė Reinchardo, paremto Foigtu, teiginį, kad Stavanija buvo į pietus nuo Galindos ir Sūduvos ir priklausė Lenkijai. Narbutas teigė, kad Foigtas pasiklydo prielaidose apie skirių ir hirių gentis ir padarė visiškai netaiklių išvadų."
 ---
 # J. Voigtas Foigtas
 
@@ -137,7 +144,8 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
 - id: c-174434
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 186."
   citata_originali: |
     1669 metais didžiulė audra visiškai išgriovė šio pastato
     sienas.
@@ -161,7 +169,8 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
 - id: c-174435
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 273."
   citata_originali: |
     Tačiau vokiečių senovės tyrinėtojai prira­
     šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti
@@ -182,7 +191,8 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
 - id: c-174436
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 275."
   citata_originali: |
     Senovės tyrinėtojai, pradedant Plinijaus kom­
     piliacijomis ir baigiant nuodugniai mąstančiu Uphage-

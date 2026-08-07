@@ -46,9 +46,9 @@ Yra tai jų žabangai, kuriuose nori mus nuspęsti, užsimovę lyčyna savo tiky
 ## Citatos
 
 - id: c-184575
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 358"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 358."
   citata_originali: |
     Už ką tie kraugeriai vadina
     mus bedieviais, netikėliais, piktesniais už žvėris, ar

@@ -47,15 +47,22 @@ Nenurodyta
 <a id="claim-t-189859"></a>
 - t-001
   teiginys: "Aprašytas prūsų pilkapis turėjo akmenų aptvarą, žvaigždės pavidalo statinį ir pietų pusėje įrengtą vietą urnai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsų pilkapių rengimas pagal mirusiojo luomą ir šeimos kapo naudojimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsų pilkapių rengimas pagal mirusiojo luomą ir šeimos kapo naudojimas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172744
+    - c-172742
 
 <a id="claim-t-189860"></a>
 - t-002
@@ -115,7 +122,8 @@ Nenurodyta
 - id: c-172742
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 374"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
   citata_originali: |
     Aplink visą pilkapį ratu eina didokų
     akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­
@@ -129,14 +137,17 @@ Nenurodyta
   citata_rodoma: "Aplink visą pilkapį ratu eina didokų\nakmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­\ntinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­\nnų eilės, nukreiptos nuo viršūnės tiesiai į apačią. Vieta, kurio­\nje stovėdavo urna, beveik visuomet yra pietų pusėje, priešais\nugniaviete, skirtą deginti; vieta dailiai apdėta kyšančiais ak­\nmenimis ir gerai apsaugota, kad urnos viduje niekas nesuges­\ntų. Angą į šį rūsį uždaro milžiniškas akmeninis skydas (žiūrėk\nVIII lentelės« raidę)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-172743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
   citata_originali: |
     Be abejo,
     tai vėliau mirusių artimų velionio giminaičių arba drauge su
@@ -156,7 +167,8 @@ Nenurodyta
 - id: c-172744
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
   citata_originali: |
     Urnas su pelenais labai dažnai pakasdavo žemė­
     je plikame lauke arba miškuose ir virš jų supildavo daugiau ar
@@ -174,13 +186,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
 
 - id: c-177028
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
   citata_originali: |
     Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs
     asmuo. Žymiausius laidojo ant kalnelių, greta jų namų. Net

@@ -59,7 +59,8 @@ pietiniame Pabaltijyje, tarp Danijos ir Lietuvos plotų, išryškėjo gana savit
 - id: c-32677
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 102."
   citata_originali: |
     Pradedant 4000 m. pr. Kr. pietiniame Pabaltijyje, tarp Danijos
     ir Lietuvos plotų, išryškėjo gana savita kultūra. Jai charakteringi

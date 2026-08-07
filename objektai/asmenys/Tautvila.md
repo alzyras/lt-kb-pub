@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-07c4c87a34db387fd8c363bb"
+canonical_name: "Tautvila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tautvila"]
+sameAs: []
+canonical_biography: "Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­ fas Algardas34."
 ---
 # Tautvila
 
@@ -101,7 +108,8 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 - id: c-83580
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 142-143"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 142-143."
   citata_originali: |
     - • —
     126
@@ -152,7 +160,8 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 - id: c-171509
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Žemaičių ir Trakų kuni­
     gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
@@ -175,7 +184,8 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 - id: c-171510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     Šiojo sūnus Liu­
     tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.

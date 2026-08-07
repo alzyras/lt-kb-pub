@@ -27,19 +27,26 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5229a780b7c335bcea6f3795"
+canonical_name: "Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Salomea Franckewiczowa","Salomėja Franckevičovova","Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.)"]
+sameAs: []
+canonical_biography: "Salomėjos Franckevičovovos vedybos pradėjo seimelių savaitę. Salomėja Franckevičovova Buvo Ašmenos žemės teisėjienė."
 ---
 # Salomėja Franckevičovova (Ašmenos žemės teisėjienė, XVIII a.)
 
 ## Santrauka
 
-1755 m. seimelių savaitė prasidėjo Salomėjos Franckevičovos vedybomis su Lydos pavieto stalininku Jonu Tadu Božimovskiu. Salomėja Franckevičovova buvo Ašmenos žemės teisėjienė.
+Salomėjos Franckevičovovos vedybos pradėjo seimelių savaitę. Salomėja Franckevičovova Buvo Ašmenos žemės teisėjienė.
 
 ## Teiginiai
 
 <a id="claim-t-200517"></a>
 - t-001
-  teiginys: "1755 m. seimelių savaitė prasidėjo Salomėjos Franckevičovos vedybomis su Lydos pavieto stalininku Jonu Tadu Božimovskiu."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "1755 m. seimelių savaitė, pasak Jono Dominyko Lopacinskio, prasidėjo Ašmenos žemės teisėjienės Salomėjos Franckevičovos ir Lydos pavieto stalininko Jono Tado Božimovskio vestuvėmis."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
@@ -52,15 +59,15 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1755 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys išplėstas citatoje nurodytu sutuoktiniu ir data. Nepridėta daugiau apie ceremonijos eigą, nes ši citata to neaprašo."
-  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
+  temporalinis_llm_pakomentavimas: "Išlaikyta šaltinio atribucija ir aiškiai nurodyti abu santuokos dalyviai bei įvykio laikas. Papildomų aplinkybių, kurių citatoje nėra, neįtraukta."
+  vertinimo_atnaujinta: "2026-07-26T14:49:25Z"
   pagrindžia:
     - c-183871
 
 <a id="claim-t-200518"></a>
 - t-002
   teiginys: "Salomėja Franckevičovova buvo Ašmenos žemės teisėjienė."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Ašmena: 0.85"
@@ -84,7 +91,7 @@ media_all_json: |-
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 10."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 03:26"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
     - t-002

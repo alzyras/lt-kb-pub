@@ -51,7 +51,8 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
 - id: c-84301
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     Goslickio gyvenimą ap­
     rašė mokslininkas Ossoliński.
@@ -67,7 +68,8 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
 - id: c-84302
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 298."
   citata_originali: |
     Bandymo pabėgti atveju būtų ištremtas,
     savo eilėmis girdamas ir liaupsinda­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9e77063f1643ce31cd0147a7"
+canonical_name: "Heziodas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Heziodas"]
+sameAs: []
+canonical_biography: "Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba pašventinimo apeigas kalba Heziodas. Heziodas tuoj pat vykdavo pas tam tikrą signotą arba vaidilą, tai yra pas žynį, kuris paprastai būdavo beturtis neregys arba šlubis."
 ---
 # Heziodas
 
@@ -66,7 +73,8 @@ Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba paš
 - id: c-173309
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 347."
   citata_originali: |
     Bet kol stabmeldystė tebebuvo
     savo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo
@@ -87,7 +95,8 @@ Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba paš
 - id: c-179112
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 347."
   citata_originali: |
     Buvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­
     mui ir atskleisti slaptam. Hartknochas pagal vietinius padavi­

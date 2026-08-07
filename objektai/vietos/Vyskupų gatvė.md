@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e9e6c4e84524b62261b2d3ea"
+canonical_name: "Vyskupų gatvė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vyskupų gatvė"]
+sameAs: []
+canonical_biography: "Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius namus, vieną Bernardinų gatvėje, o du Vyskupų gatvėje, 1579 metų kovo 6 dieną, fundacijos teise, užrašė Akademijai ir Collegio, nustatydamas sąlygas: lmo: kad keliems studentams. Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų. Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų gatve nuo Jo Didenybės Vil­ niaus vyskupo dvaro link prieglau­ dos ir Šv."
+place_authority: true
+historical_names: []
 ---
 # Vyskupų gatvė
 
@@ -101,7 +110,8 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
 - id: c-81951
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 202."
   citata_originali: |
     lėšų, prie Akademijos aikštės dar kai kuriuos
     funduotus mūrus prijungę, puikiai apstatydino ir išpuošė.
@@ -122,7 +132,8 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
 - id: c-81952
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 203."
   citata_originali: |
     Bet Vilniaus mūriniai namai, Valerijono bursai užrašyti
     vyskupo Valerijono Protasevičiaus, prieš 1670 metus, prie­
@@ -153,7 +164,8 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
 - id: c-81953
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Tačiau 1573 metais
     kovo 26 dieną su kapitula įsigaliojo

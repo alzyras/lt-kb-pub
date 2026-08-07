@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-697f63d73d4ee43435288f9b"
+canonical_name: "Dreyer"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dreyer"]
+sameAs: []
+canonical_biography: "Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik dominikonų ordinui, Mažesniesiems broliams (minoritams) ir Šiaurės Vokietijos pajūrio miestams; laiškas pajūrio mies­ tams įdėtas dar irDreyerio veikale (Specimen Juris pubi."
 ---
 # Dreyer
 
@@ -49,7 +56,8 @@ Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik dominikonų ordinui, Mažes
 - id: c-84034
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 99."
   citata_originali: |
     (Vertimas iš F o i g t o
     Prūsijos istorijos, T. IV, priedas Nr. 6, p. 627)

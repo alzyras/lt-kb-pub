@@ -45,7 +45,8 @@ Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK
 - id: c-176341
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 103."
   citata_originali: |
     Napoleonas leido Vilniuje
     įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė

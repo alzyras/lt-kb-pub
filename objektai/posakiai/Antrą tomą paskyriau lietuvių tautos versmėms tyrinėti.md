@@ -76,7 +76,8 @@ T. Narbutas sako, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti
 - id: c-174988
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 4."
   citata_originali: |
     T. Narbutas laiške Ignui Onacevičiui rašė: „Antrą to­
     mą paskyriau lietuvių tautos versmėms tyrinėti“1. Savo

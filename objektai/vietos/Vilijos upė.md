@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a1a4482646ff02a81d05b081"
+canonical_name: "Vilijos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilijos upė"]
+sameAs: []
+canonical_biography: "Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­."
+place_authority: true
+historical_names: []
 ---
 # Vilijos upė
 
@@ -68,7 +77,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 - id: c-82137
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 405"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 405."
   citata_originali: |
     Nederėtų, be
     to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš
@@ -98,7 +108,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 - id: c-82138
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 402-403"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 402-403."
   citata_originali: |
     Šiuo raštu
     skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar

@@ -173,7 +173,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 - id: c-82713
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 174."
   citata_originali: |
     Vytautas, vienintelio
     troškimo apimtas, sukviečia pas save įžymiausius šiaurės
@@ -205,7 +206,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 - id: c-82714
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 113."
   citata_originali: |
     Pagaliau kodėl Ge­
     diminas būtų slėpęs tą priežastį nuo legatų, ypač jei ji būtų
@@ -228,7 +230,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 - id: c-82715
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 114-115"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 114-115."
   citata_originali: |
     Niekur nevaliojome rasti Ma­
     zovijos kunigaikščio tokiu vardu, tik žinome, kad tuo tarps­
@@ -261,7 +264,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 - id: c-170670
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 281."
   citata_originali: |
     * Mykolo Žygimantaičlo Ir Palenkės (Drohičino) žemės klausi­
     mas Kazimiero valdymo pradžioje BK supainiotas,
@@ -281,7 +285,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 - id: c-175227
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
   citata_originali: |
     Tad Danielius, palikęs Neb-
     rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
@@ -308,7 +313,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 - id: c-175228
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 132."
   citata_originali: |
     Dėl to jis pradėjo derėtis su Kujavijos Kazimie­
     ru, pagaliau po ilgo delsimo sudarė taikos sutartį su

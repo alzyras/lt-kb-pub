@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7606952750b8fb45f3ef875"
+canonical_name: "Petrapilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Petrapilis"]
+sameAs: []
+canonical_biography: "Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė Narvą, Tartus ir Nevos paupy pradėjo statyti būsimąją Rusijos sostinę — Petrapilį (dabartinį Leningradą). Ypač jiems padėjo artimi ryšiai su Petrapilio rūmais. Tuo metu Čartoriskiai pasiuntė į Petrapilį savo sesers sūnų Stanislovą Augustą Poniatauską."
+place_authority: true
+historical_names: []
 ---
 # Petrapilis
 
@@ -98,7 +107,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - id: c-32322
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 19."
   citata_originali: |
     LMS = Litovskaja Metrika. Knigi sudnich del, išl. P. A. Hil’tebrant
     (Russkaja Istoričeskaja Biblioteka, t. 20), Petrapilis 1903.
@@ -113,7 +123,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - id: c-68373
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 409"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 409."
   citata_originali: |
     Augusto III val-
     dymo gale Rusiją valdė carienė Elžbieta, o jos mirties nekantriai
@@ -134,7 +145,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - id: c-166463
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 409"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 409."
   citata_originali: |
     Bet Augusto III
     karaliavimo gale partijų kovose persvara jau aiškiai linko į Čarto-

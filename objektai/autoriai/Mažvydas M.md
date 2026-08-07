@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bcbd7fe030a93d342cd9e4f5"
+canonical_name: "Mažvydas M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mažvydas M"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvydas M., Pirmoji lietuviška knyga, p. 104—105). Dusburgietis teigia, kad mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M., Pirmoji.., p. 251, 257)."
 ---
 # Mažvydas M
 
@@ -78,7 +85,8 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
 - id: c-61246
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
   citata_originali: |
     M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
     Pirmoji.., p. 251, 257). Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
@@ -96,7 +104,8 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
 - id: c-61247
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
   citata_originali: |
     M. Mažvydas
     (1547) burtininkę vadina šventąja (Mažvydas M., Pirmoji lietuviška knyga, p. 104—105).

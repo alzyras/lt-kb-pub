@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9f915a25120c94da4108b005"
+canonical_name: "Liubutskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liubutskas"]
+sameAs: []
+canonical_biography: "Čia jam pasidavė Liubutsko, Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit."
+place_authority: true
+historical_names: []
 ---
 # Liubutskas
 
@@ -52,7 +61,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 298."
   citata_originali: |
     Vytautas užėmė Smolenską antrąsyk
     ir galutinai^1 ). Tuo pat metu jis praplėtė savo valdžią Okos

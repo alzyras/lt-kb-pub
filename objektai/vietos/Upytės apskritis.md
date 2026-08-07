@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-859a78a497b89555dad9853a"
+canonical_name: "Upytės apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Upytės apskritis"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejamų su hirių ir hendų gyvenama Žemaitijos dalimi. Upinė (Uppinė ) Upių, šaltinių, apskritai tekančio vandens deivė."
+place_authority: true
+historical_names: []
 ---
 # Upytės apskritis
 
@@ -65,7 +74,8 @@ Narbutas rašė, kad Raseinių ir Upytės apskrityse buvo rasta akmenų, siejam�
 - id: c-171962
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 143."
   citata_originali: |
     Gondu
     suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka

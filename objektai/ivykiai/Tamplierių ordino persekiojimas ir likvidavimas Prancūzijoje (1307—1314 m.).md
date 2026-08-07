@@ -103,7 +103,7 @@ Nenurodyta
 <a id="claim-t-196974"></a>
 - t-003
   teiginys: "Jo statute padaryta atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos, apribojama pasaulietiniai brolių poreikiai, aprangos ir ginklų puošnumas, finansiniai ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -135,7 +135,8 @@ Nenurodyta
 - id: c-63809
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
     padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
@@ -154,7 +155,8 @@ Nenurodyta
 - id: c-63810
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
     m.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310

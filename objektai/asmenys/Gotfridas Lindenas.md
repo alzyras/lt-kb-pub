@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aae6076275422a448833d3dc"
+canonical_name: "Gotfridas Lindenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gotfridas Lindenas"]
+sameAs: []
+canonical_biography: "Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­ meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­ pavykus staiga užimti gerai ginamo miesto, grįžo atgalios plėšti aplinkinių žemių23. Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis magistras pasiuntė užimti tą miestą Ordino maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu Elneriu."
 ---
 # Gotfridas Lindenas
 
@@ -75,7 +82,8 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
 - id: c-83487
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 47."
   citata_originali: |
     Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
     tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos
@@ -98,7 +106,8 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
 - id: c-83488
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 47."
   citata_originali: |
     Vis dėlto Algirdo valdymo pa­
     baigoje Vilnius neišvengė seniai jam grėsusio pavojaus. Pra­

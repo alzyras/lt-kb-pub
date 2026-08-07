@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-070336c57427216b47441105"
+canonical_name: "Ossoliński"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ossoliński"]
+sameAs: []
+canonical_biography: "Goslickio gyvenimą ap­ rašė mokslininkas Ossoliński."
 ---
 # Ossoliński
 
@@ -51,7 +58,8 @@ Goslickio gyvenimą ap­ rašė mokslininkas Ossoliński.
 - id: c-84027
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     60
     Laurynas Goslickis, pirmiausia ka­

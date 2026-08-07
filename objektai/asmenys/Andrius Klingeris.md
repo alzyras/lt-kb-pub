@@ -18,6 +18,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee809461c679d19fde53877a"
+canonical_name: "Andrius Klingeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Klingeris"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Andrius Klingeris
 

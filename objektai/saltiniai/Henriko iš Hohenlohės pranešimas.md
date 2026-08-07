@@ -83,20 +83,36 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 <a id="claim-t-175158"></a>
 - t-003
   teiginys: "Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elbingas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Elbingas tiesiogiai įvardytas kaip Ordino pilis."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Baiga priklausė Kryžiuočių ordinas (0.87); Elbingas priklausė Kryžiuočių ordinas (0.87)"
   pagrindžia:
-    - c-159311
+    - c-159316
 
 <a id="claim-t-175159"></a>
 - t-004
   teiginys: "Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Elbingas: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Elbingas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje pateikiama kryžiuočių pilių statybos seka, kurioje Elbingas minimas kaip vėliau statyta pilis."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Elbingas (0.74); Kryžiuočių ordinas pastatė Baiga (0.72); Kryžiuočių ordinas pastatė Marienverderis (0.63)"
   pagrindžia:
-    - c-159312
+    - c-159314
 
 <a id="claim-t-175160"></a>
 - t-005
@@ -137,7 +153,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 <a id="claim-t-175162"></a>
 - t-007
   teiginys: "Vidurio Henriko iš Hohenlohės pranešimas — tik 500 vyrų (SRP, 5, p. 166)."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1244 m.; įvykio data: 1245 m."
@@ -145,7 +161,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-159312
+    - c-159309
 
 ## Reikšmingi paminėjimai
 - c-007
@@ -167,21 +183,25 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 - id: c-159309
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
   citata_originali: |
     292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas
     — tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje.
   citata_rodoma: "292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas\n— tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-159310
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     166 Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu,
     įkūrimą paremtas Hohenlohės pranešimu. Pirmosios žinios apie Dobrynės ordiną išliko
@@ -197,7 +217,8 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 - id: c-159311
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
     suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
@@ -216,13 +237,13 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-005
 
 - id: c-159312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
     jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir
@@ -238,13 +259,12 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
-    - t-007
 
 - id: c-159313
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 46."
   citata_originali: |
     172  Dusburgietis kaip ir Hohenlohės reliacija (SRP, 5, p. 160) teigia, kad Konradas
     dovanojęs Ordinui Kulmo bei Lubavos žemes, suteikdamas visas teises, taip pat žemes,
@@ -262,7 +282,8 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 - id: c-159314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 99."
   citata_originali: |
     Dusburgiečio šaltinis
     — Henriko iš Hohenlohės pranešimas — pateikia kiek kitokią kryžiuočių pilių statybos
@@ -271,14 +292,17 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   citata_rodoma: "Dusburgiečio šaltinis\n— Henriko iš Hohenlohės pranešimas — pateikia kiek kitokią kryžiuočių pilių statybos\nseką: po Marienverderio buvęs statytas Cristhborgk, o tik po to — Elbingas, Honeda —\nBaiga (SRP, 5, p. 160; PKD, p. 37)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-159316
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95."
   citata_originali: |
     Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną
 
@@ -288,7 +312,8 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   citata_rodoma: "Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną\n\n  288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,\n5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino\npilis — Elbingą ir Baigą. Visą operaciją jis priskiria išimtinai Ordino broliams."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

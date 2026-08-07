@@ -123,7 +123,8 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
 - id: c-174596
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
   citata_originali: |
     Tuo tarpu Stegutas tikriausiai žu­
     vo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­
@@ -147,7 +148,8 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
 - id: c-174800
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
   citata_originali: |
     Taip vadų rankose buvo su­
     kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­
@@ -174,7 +176,8 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
 - id: c-174801
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     1247 metais jotvin­
     giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
@@ -197,7 +200,8 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
 - id: c-176269
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 23."
   citata_originali: |
     Ilgainiui pasakojimas
     apie prūsų dievų trejybę papildytas naujomis smulkmenomis ar intar-

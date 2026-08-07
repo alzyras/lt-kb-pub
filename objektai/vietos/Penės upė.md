@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ea9034a278c48c21293416a"
+canonical_name: "Penės upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Penės upė"]
+sameAs: []
+canonical_biography: "Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau gyveno herulai."
+place_authority: true
+historical_names: []
 ---
 # Penės upė
 
@@ -47,7 +56,8 @@ Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runo
 - id: c-177165
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
   citata_originali: |
     Si
     maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­

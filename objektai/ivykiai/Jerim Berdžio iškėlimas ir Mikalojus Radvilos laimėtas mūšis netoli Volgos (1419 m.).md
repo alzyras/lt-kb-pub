@@ -71,7 +71,7 @@ Nenurodyta
 <a id="claim-t-185574"></a>
 - t-002
   teiginys: "Mūšiui ilgai nesikreipiant nė į vieną pusę, Mikalojus Radvila smogė priešams į sparną ir nulėmė pergalę."
-  atnaujinta: "2026-07-24 14:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -111,7 +111,8 @@ Nenurodyta
 - id: c-168933
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     2uvus Tochtamyšui, tre­
     čias brolis Jerim Berdis, neišgąsdintas brolio likimo ir
@@ -140,7 +141,8 @@ Nenurodyta
 - id: c-168935
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     Todėl ir Jerim Berdį iškilmingai paskelbė
     teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo

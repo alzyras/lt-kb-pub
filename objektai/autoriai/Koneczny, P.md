@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d63eecabfdec61b47ab0e653"
+canonical_name: "Koneczny, P"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Koneczny, P"]
+sameAs: []
+canonical_biography: "Koneczny, P."
 ---
 # Koneczny, P
 
@@ -59,7 +66,8 @@ Koneczny, P.
 - id: c-33008
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 286."
   citata_originali: |
     : _Jogaila_ , Židinys,
     nr. 8-10, 1934 ; nr. 5-7, 10, 1935. — Koneczny, P. : _Jagiełło i Witold,_

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7dd4e809ab9fa28f4d24804"
+canonical_name: "Lasickis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lasickis"]
+sameAs: []
+canonical_biography: "Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar pilkapį, klaidingai palaikė dievaičio pavadinimu."
 ---
 # Lasickis
 
@@ -46,7 +53,8 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
 - id: c-173320
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
   citata_originali: |
     Jokiu bū­
     du nederėjo paliesti antkapinių statinių; buvo meldžiamasi net

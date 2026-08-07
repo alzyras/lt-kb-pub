@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab87a65f068267f296f345b2"
+canonical_name: "Jurijus Boratinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurijus Boratinskis"]
+sameAs: []
+canonical_biography: "Šklovo mūšyje taip pat dalyvavo ir kunigaikščio Jurijaus Boratinskio vadovaujamos pajėgos."
 ---
 # Jurijus Boratinskis
 
@@ -52,7 +59,8 @@ media_all_json: |-
 - id: c-44395
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 126."
   citata_originali: |
     Smolenske caras Alekse-
     jus Michailovičius jį pa-

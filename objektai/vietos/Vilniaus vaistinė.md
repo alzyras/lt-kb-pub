@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-944d227c7d9e0b80a1640e54"
+canonical_name: "Vilniaus vaistinė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus vaistinė"]
+sameAs: []
+canonical_biography: "Nors jų ginčai dėl karaliaus gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­ nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­ miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus vaistinė
 
@@ -50,7 +59,8 @@ Nors jų ginčai dėl karaliaus gydymo būdo, kaip žinome ne vieną atvejį, pa
 - id: c-82241
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 254."
   citata_originali: |
     Tik kai Aleksandrą kelerius metus nuolat ka­
     mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­

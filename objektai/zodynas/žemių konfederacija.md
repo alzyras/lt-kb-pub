@@ -60,7 +60,8 @@ Taigi matyti, kad 1219 m. Lietuva buvo dar ne valstybė, o tik žemių konfedera
 - id: c-25044
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 27."
   citata_originali: |
     Taigi matyti, kad 1219 m. Lietuva buvo dar ne valstybė, o tik žemių konfe-
     deracija, neturėjusi vieno valdovo. Žemė buvo to meto politinės organiza-

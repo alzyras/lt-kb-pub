@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ececc5e27baed9f40bf77742"
+canonical_name: "Povilas Plechavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Povilas Plechavičius"]
+sameAs: []
+canonical_biography: "Povilas Plechavičius pasiskelbė vyriausiuoju perversmo vadu ir laikinu L I E T U V O S I S T O R I J A 156 diktatoriumi, tačiau netrukus pasiūlė šį savo postą pirmajam Lietuvos valstybės prezidentui A."
 ---
 # Povilas Plechavičius
 
@@ -50,7 +57,8 @@ Povilas Plechavičius pasiskelbė vyriausiuoju perversmo vadu ir laikinu L I E T
 - id: c-26684
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 155-156"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 155-156."
   citata_originali: |
     43 min. į Seimo salę įsiveržę ginkluoti kariškiai
     nutraukė posėdį dėl kitų metų biudžeto, išvaikė Seimą, suėmė preziden-

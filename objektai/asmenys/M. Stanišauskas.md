@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-337052e72cdcbd7333ecdc1a"
+canonical_name: "M. Stanišauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. Stanišauskas"]
+sameAs: []
+canonical_biography: "Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonievičius ir D."
 ---
 # M. Stanišauskas
 
@@ -59,7 +66,8 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
 - id: c-44446
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 163."
   citata_originali: |
     Merlino dalinio kariais ir ne-
     įvertino situacijos. Sukilėliai
@@ -84,7 +92,8 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
 - id: c-44447
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     sintus dalgius ir durtuvus. Batalionų vadais
 

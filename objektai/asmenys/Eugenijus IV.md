@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac22c3e36cd101650852f8cf"
+canonical_name: "Eugenijus IV"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eugenijus IV"]
+sameAs: []
+canonical_biography: "Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėliau pateko Žygimanto galion; nes popiežius Eugenijus IV užtarė ją laiške Žygimantui Kęstutaičiui, rašytame iš Florencijos 1434 metų spalio 20 dieną."
 ---
 # Eugenijus IV
 
@@ -63,7 +70,8 @@ Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėlia
 - id: c-83640
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 232-233"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 232-233."
   citata_originali: |
     Tai, ką mūsų kronikininkai kal­
     ba apie Švitrigailos žmonos sugavi­

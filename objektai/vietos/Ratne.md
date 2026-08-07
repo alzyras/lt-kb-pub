@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bdc19ee5b2e47f267cc55d69"
+canonical_name: "Ratne"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ratne"]
+sameAs: []
+canonical_biography: "Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi­ tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras († 1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394)."
+place_authority: true
+historical_names: []
 ---
 # Ratne
 
@@ -57,7 +66,8 @@ Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi­ tras († 1399), Če
 - id: c-28436
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 304."
   citata_originali: |
     Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
     sodino iš pirmųjų vedybų savo sūnus. Jie visi buvo priėmę graikų

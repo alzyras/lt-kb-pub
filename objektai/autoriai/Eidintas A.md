@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d50a5072fef0b95b528e0b5"
+canonical_name: "Eidintas A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Eidintas A"]
+sameAs: []
+canonical_biography: "Eidintas A. Eidintas A., Senn A."
 ---
 # Eidintas A
 
@@ -84,7 +91,8 @@ Eidintas A. Eidintas A., Senn A.
 - id: c-22128
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     1 t., Vil-
     nius, 1999.
@@ -101,7 +109,8 @@ Eidintas A. Eidintas A., Senn A.
 - id: c-166733
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
     politics. The Years of the First Republic, 1918–1940. New York, 1997.

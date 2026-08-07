@@ -59,7 +59,8 @@ Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis, Lietuvos stačiatiki�
 - id: c-33324
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 271."
   citata_originali: |
     Konstan­
     tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­

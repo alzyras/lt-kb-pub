@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e3b0939fa6c8708cccd715ef"
+canonical_name: "Bartlomiejus Ciešinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bartlomiejus Ciešinskis"]
+sameAs: []
+canonical_biography: "Kauno klebonas Bartlomiejus Ciešinskis pasinaudodamas proga išprašė iš iždo 2 000 auksinų paramą bažnyčios statybai."
 ---
 # Bartlomiejus Ciešinskis
 
@@ -41,9 +48,9 @@ Kauno klebonas Bartlomiejus Ciešinskis pasinaudodamas proga išprašė iš ižd
 ## Citatos
 
 - id: c-185465
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 144."
   citata_originali: |
     Išvažiuodamas iš miesto,
     valdovas aplankė dar tebestatomą parapinę Šv. Petro bažnyčią. Kauno klebonas Bartlo-

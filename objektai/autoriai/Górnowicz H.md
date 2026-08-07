@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bddfa6d3a4d48815a9aa0e6f"
+canonical_name: "Górnowicz H"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Górnowicz H"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., Toponimia..., p. 85—86, 11, 13). Dusburgietis teigia, kad dzierzgoń — GAO, p. 158; Būga K., 3, p. 539; Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo (dab. Dusburgietis teigia, kad górnowicz R., Średniowieczne..., p. 99—100; Nazwy miast Pomorza Gdańskiego, p. 199—202 (Górnowicz H.); Vanagas A., Lietuvių hidronimų..., p. 100)."
 ---
 # Górnowicz H
 
@@ -89,7 +96,8 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
 - id: c-61186
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74."
   citata_originali: |
     232 Zirgūna (D.— Sirgune, XIII—XIV a. dokumentuose — Sirgun, Syrgen, plg. pr.
     zirgis, lie. žirgas, Žirgupė; vok. Sorge, dab. Dzierzgoń — GAO, p. 158; Būga K., 3, p. 539;
@@ -106,7 +114,8 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
 - id: c-61187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
   citata_originali: |
     Kai
     jau rengėsi stoti į kovą, visi prūsai išsibėgiojo, išskyrus vieną, kurį paėmė į nelaisvę.
@@ -124,7 +133,8 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
 - id: c-61188
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 73."
   citata_originali: |
     225 Kvedino (plg. pr. Quidin — GAO, p. 78) sala buvo Vyslos ir Senojo Nogato tėkmėje
     ties Livos žiotimis. Senoji pilis, atrodo, pastatyta dab. Marezos kaimo vietoje, prieš

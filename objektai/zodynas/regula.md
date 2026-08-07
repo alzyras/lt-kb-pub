@@ -51,7 +51,8 @@ Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių
 - id: c-78589
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 45."
   citata_originali: |
     Algirdas viešai nubaudė to žiauraus poelgio vadei­
     vas ir liepė paskelbti visame krašte valią nevaržomiems

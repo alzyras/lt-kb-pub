@@ -59,7 +59,8 @@ Smetona stengėsi laikytis „vidurainės [A.
 - id: c-26574
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 158-159"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 158-159."
   citata_originali: |
     Kol kas viešojoje erdvėje dominuoja ekstrava-
     gantiškas, dėl savo oratorinių sugebėjimų geriausiai Vakaruose žinomas

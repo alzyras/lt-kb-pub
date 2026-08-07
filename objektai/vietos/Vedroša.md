@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c30d3cad3d12860ca6242122"
+canonical_name: "Vedroša"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vedroša"]
+sameAs: []
+canonical_biography: "šaltieji ginklai) Skyrių įvadų autorius Karolis Zikaras Istorijos šaltinių citatas rinko: Auksė Ūsienė, Karolis Zikaras Antras pataisytas leidimas O UAB „ALIO“, Vilnius ISBN 978-9986-827-05-4 ## Puslapis 7 Turinys Apie šią knygą 6 Mūšiai už Lietuvą: pergalės."
+place_authority: true
+historical_names: []
 ---
 # Vedroša
 
@@ -40,31 +49,31 @@ media_all_json: |-
 <a id="claim-t-185251"></a>
 - t-001
   teiginys: "Po paliaubų Lietuva neatgavo prie Vedrošos į nelaisvę paimtų didikų, kurie liko Maskvos rankose."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-176156
+    - c-168612
 
 <a id="claim-t-193442"></a>
 - t-002
   teiginys: "Pavyko atgauti vieną kitą nereikšmingą pilį, bet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa galiau didikų, prie Vedrošos paimtų į nelaisvę, kurie pasiliko Maskvos rankose."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-176156
+    - c-168612
 
 <a id="claim-t-193443"></a>
 - t-003
   teiginys: "Kojelavičiaus pasakojime Stanislovas Kiška vengė traukti atviromis vietomis, kad nepakartotų Ostrogiškio nesėkmės prie Vedrošos."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -156,7 +165,8 @@ media_all_json: |-
 - id: c-168610
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 558"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 558."
   citata_originali: |
     Žymiausi luomų vadovai, garsūs pareigomis ir
     didžiomis privilegijomis, nuskubėjo pas Ostrogiškį. Kai
@@ -183,7 +193,8 @@ media_all_json: |-
 - id: c-168612
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 571"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 571."
   citata_originali: |
     Vargais negalais abi pusės sutarė dėl šešerių
     metų paliaubų, tiesa, gana bjauriomis Lietuvai sąly­
@@ -197,14 +208,18 @@ media_all_json: |-
   citata_rodoma: "Vargais negalais abi pusės sutarė dėl šešerių\nmetų paliaubų, tiesa, gana bjauriomis Lietuvai sąly­\ngomis. Pavyko atgauti vieną kitą nereikšmingą pilį,\nbet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa­\ngaliau didikų, prie Vedrošos paimtų į nelaisvę, kurie\npasiliko Maskvos rankose. Derantis dėl Livonijos, var­\ngais negalais pavyko pasiekti, kad Naugardo ir Psko­\nvo vaivadoms buvo įsakyta tartis su magistro atsto­\nvais dėl taikos."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-002
+
 - id: c-176156
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 605"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 605."
   citata_originali: |
     Štai todėl Jonui Sapiegai, val­
     dančiam karaliaus vardu Vi-
@@ -218,9 +233,7 @@ media_all_json: |-
   citata_rodoma: "Štai todėl Jonui Sapiegai, val­\ndančiam karaliaus vardu Vi-\nT a ik a  su  m a sk v ė n a is\ntebską, buvo pavesta susitar­\nti su kunigaikščio Vasilijaus\npasiuntiniais dėl taikos sąlygų. Jie susitarė šitaip. Ir\nviena, ir kita šalis be jokių išlygų paleisianti į laisvę\nbelaisvius, pirmiausia tuos, kurie paimti prie Vedro-\nšos."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002

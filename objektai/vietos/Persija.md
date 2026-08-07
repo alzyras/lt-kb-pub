@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-915007002f05167f875601c2"
+canonical_name: "Persija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Persija"]
+sameAs: []
+canonical_biography: "Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portugalijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais iš to einančiais padariniais."
+place_authority: true
+historical_names: []
 ---
 # Persija
 
@@ -50,7 +59,8 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 - id: c-02908
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 590"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 590."
   citata_originali: |
     15 —
     XII. 18) ilgai svarstė Lietuvos (o taip pat ir Latvių bei Estų)

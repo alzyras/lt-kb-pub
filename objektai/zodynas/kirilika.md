@@ -50,7 +50,8 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 - id: c-75109
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 116."
   citata_originali: |
     Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
     tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-

@@ -54,7 +54,8 @@ Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, kai ap
 - id: c-168769
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 348."
   citata_originali: |
     Ši aplinkybė daugiausia ir lėmė jų greitą žūtį. Juo
     daugiau žmonių, vaikų bei moterų, suplūdo į pilį, juo

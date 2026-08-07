@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-acfcded6a9c597b28b53fc7c"
+canonical_name: "Edividas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Edividas"]
+sameAs: []
+canonical_biography: "Tuo pat metu Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­ das, o Vitebske jų dėdė, motinos brolis, Vikintas. Bet tos sritys vėliau vėl perėjo rusų kunigaikščių valdžion, ir Poloc­ kas."
 ---
 # Edividas
 
@@ -59,7 +66,8 @@ Tuo pat metu Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno Min
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 17."
   citata_originali: |
     Tuo pat metu
     Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno

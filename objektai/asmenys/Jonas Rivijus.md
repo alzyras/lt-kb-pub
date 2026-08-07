@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2926cf0cb8c4f72caf93e4f6"
+canonical_name: "Jonas Rivijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Rivijus"]
+sameAs: []
+canonical_biography: "Narbutas laikė labiau tikėtina, kad Jonas Rivijus kai kuriuos kronikos dalykus perėmė iš senelio užrašų, o ne iš turėtos Rotundo Lietuvos istorijos."
 ---
 # Jonas Rivijus
 

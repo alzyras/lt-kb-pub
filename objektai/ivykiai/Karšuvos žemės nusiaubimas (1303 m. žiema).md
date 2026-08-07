@@ -88,7 +88,8 @@ Nenurodyta
 - id: c-63635
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
   citata_originali: |
     Kai vėliau
     traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką. Ledas
@@ -106,7 +107,8 @@ Nenurodyta
 - id: c-63636
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 198."
   citata_originali: |
     Apie Karšuvos žemės nusiaubimą
 

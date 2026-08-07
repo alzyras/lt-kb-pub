@@ -60,7 +60,8 @@ media_all_json: |-
 - id: c-84287
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 165."
   citata_originali: |
     71
     Horodlės seime Lietuvai išduotas

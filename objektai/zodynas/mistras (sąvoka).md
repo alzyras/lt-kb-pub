@@ -76,9 +76,9 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
 ## Citatos
 
 - id: c-184547
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 359"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 359."
   citata_originali: |
     Ateinantį metą, kaip buvo sakyta, Otokaras, ka­
     ralius Čekų, atkeliavo į Parusnį netikėlių lietuvių
@@ -101,9 +101,9 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
     - t-001
 
 - id: c-184548
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 365"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 365."
   citata_originali: |
     Tuojau irklavo didi daugė sami anų lai­
     vų pajūriais, gandindami įgulę Klaipėdos ir dan­
@@ -135,9 +135,9 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
     - t-002
 
 - id: c-184549
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 428"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 428."
   citata_originali: |
     Lietuviai ne vien toj mūšoj savo grobį
     paturėjo, bet dar visą abažą kalavijonų įgiję pa­

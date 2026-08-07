@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5a604f58be4b2331ffc6acf"
+canonical_name: "Algardas Hohenšteino grafas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Algardas Hohenšteino grafas"]
+sameAs: []
+canonical_biography: "Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­ fas Algardas34."
 ---
 # Algardas Hohenšteino grafas
 
@@ -51,7 +58,8 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 - id: c-83597
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 142-143"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 142-143."
   citata_originali: |
     - • —
     126

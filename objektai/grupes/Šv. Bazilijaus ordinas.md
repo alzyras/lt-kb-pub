@@ -51,7 +51,8 @@ Bazilijaus ordi­ no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytė
 - id: c-82820
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 42-43"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42-43."
   citata_originali: |
     26
 

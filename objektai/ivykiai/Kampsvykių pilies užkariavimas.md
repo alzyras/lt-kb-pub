@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-62849
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 151."
   citata_originali: |
     178 (173). Apie Kampsvykių pilies užkariavimą
     Paskui magistras su didele kariuomene perėjo Nadruvos žemę, plėšdamas ir

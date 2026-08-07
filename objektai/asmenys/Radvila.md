@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e7bea5cffda7b3378935706e"
+canonical_name: "Radvila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Radvila"]
+sameAs: []
+canonical_biography: "Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas imperatorių. Jo įkėli mui į chano sostą drauge su juo pasiuntė krašto mar šalą Radvilą 3 2 . Radvila, raitelių būrio vadas, patarė kariams persikelti per patvinusią Vyslą prie Zavichosto pilies."
 ---
 # Radvila
 
@@ -123,7 +130,8 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
 - id: c-169532
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 374"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 374."
   citata_originali: |
     Vis dėlto buvo pamato būgštauti, kad jie gali
     nepaisyti teisėto susitarimo iš palankumo žmonėms, su
@@ -151,7 +159,8 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
 - id: c-178780
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 275."
   citata_originali: |
     Kitame Vyslos
     krante buvo Zavichosto pilis, kur aplinkinių žemių

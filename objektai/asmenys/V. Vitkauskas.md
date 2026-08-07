@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-37fb8d4d90e1a24968054715"
+canonical_name: "V. Vitkauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Vitkauskas"]
+sameAs: []
+canonical_biography: "Vitkauskas, gen."
 ---
 # V. Vitkauskas
 
@@ -50,7 +57,8 @@ Vitkauskas, gen.
 - id: c-22043
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 187."
   citata_originali: |
     Tačiau ministro pirmininko
     Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-

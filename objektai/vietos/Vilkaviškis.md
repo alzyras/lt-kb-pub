@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47a3828c465f0e5e5d333fef"
+canonical_name: "Vilkaviškis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilkaviškis"]
+sameAs: []
+canonical_biography: "Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių, kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuomene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą."
+place_authority: true
+historical_names: []
 ---
 # Vilkaviškis
 
@@ -62,7 +71,8 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
 - id: c-68870
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 459"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 459."
   citata_originali: |
     Todėl Lietu-
     vos atgaivinimo klausimas nebuvo paliestas nė 1812 m. carui at-

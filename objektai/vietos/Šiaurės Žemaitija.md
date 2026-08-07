@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ba71c33fe4999d079a8273f"
+canonical_name: "Šiaurės Žemaitija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šiaurės Žemaitija"]
+sameAs: []
+canonical_biography: "Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaičių), Dubysos (Bubių) ir kažkurias kitas pilis, o Prūsijos ordinas maršalo vadovaujamas vėlesniais mėnesiais siaubė Ariogalos kraštą."
+place_authority: true
+historical_names: []
 ---
 # Šiaurės Žemaitija
 
@@ -61,7 +70,8 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
 - id: c-45467
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     nebūsi“ ir liepė pilies kieme nukirsti jam galvą.“
 

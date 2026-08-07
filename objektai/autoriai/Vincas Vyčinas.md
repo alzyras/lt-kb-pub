@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-da42d7afebb2828c98455534"
+canonical_name: "Vincas Vyčinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vincas Vyčinas"]
+sameAs: []
+canonical_biography: "Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vilnių, 2001 Žygimantas Liauksminas Rinktiniai raštai, 2004 Teodoras Narbutas Lietuvių tautos istorija, I-V tomai, 1995-2001 Stasys Šalkauskis Raštai, I-VIII tomai, 1990-2005 Vincas. M unchas: Melancholija ir šviesa Stasys Šalkauskis Raštai, IX tomas Vincas Vyčinas Raštai, III tomas ## Puslapis 496 MYKOLAS BALINSKIS galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki mūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios."
 ---
 # Vincas Vyčinas
 
@@ -43,7 +50,7 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
 <a id="claim-t-88083"></a>
 - t-001
   teiginys: "Vinco Vyčino „Raštų“ III tomas buvo nurodytas tarp spaudai rengiamų leidinių."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
@@ -73,7 +80,8 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
 - id: c-84062
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 495-496"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 495-496."
   citata_originali: |
     Antologija. I knyga
     Teodoras Narbutas
@@ -121,7 +129,8 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
 - id: c-84063
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 494-495"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 494-495."
   citata_originali: |
     Mykolas Balinskis
     VILNIAUS MIESTO ISTORIJA

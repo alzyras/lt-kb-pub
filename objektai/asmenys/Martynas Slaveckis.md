@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-78663cf2d73ffe1f55df5a51"
+canonical_name: "Martynas Slaveckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Martynas Slaveckis"]
+sameAs: []
+canonical_biography: "1627 m. Kauno suolininkas Martynas Slaveckis skundėsi Kauno vaitui, kad upėje palikta į Aleksotą neiškelta Henriko Bantkės vytinė, potvynio metu upės nešama, nevaldoma sugriovė dalį Nemuno krantinės."
 ---
 # Martynas Slaveckis
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185493
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 214."
   citata_originali: |
     Kauno miestietis Andrius Or-
     šuliškis Kauno vaito teisme apskundė savo vytinės laivavedį Motiejų Židelį, kad šis,

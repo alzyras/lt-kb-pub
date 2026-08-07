@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a78a2007734f87a7f0be33ee"
+canonical_name: "Aukštaitija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aukštaitija","Aukštaitijos","Aukštaičių žemė"]
+sameAs: []
+canonical_biography: "Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas. Platus Nemuno ir Neries baseinas sudarė Aukštaičių žemės pagrindą, pradinė Lietuva buvo tik jos dalis, o apie 1259 m. Aukštaitiją nusiaubė Burundajaus ir Danieliaus pajėgos."
+place_authority: true
+historical_names: []
 ---
 # Aukštaitija
 
@@ -147,7 +156,8 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
 - id: c-175143
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 283."
   citata_originali: |
     Baigiant šios antros srities aprašymą, negalima ne­
     paminėti jos padalijimo į dvi dalis; apie tai ne sykį rei­
@@ -179,7 +189,8 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 152."
   citata_originali: |
     Vytautas ir Jogaila, išgirdę iš savo pasiuntinių tokį sprendimą,
     anot Dlugošo, graudžiai apsiverkė^1 ) ir tuojau pasiuntė ki­

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5b80f25092890d6c88d73a4"
+canonical_name: "Mackus Kosterevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mackus Kosterevičius"]
+sameAs: []
+canonical_biography: "1488 m. Kazimieras Jogailaitis atleido nuo muitų Kaune savo prekybos agentą Minsko miestietį Luką Tereškovičių, o su Gardinu kažkaip susijęs Mackus Kosterevičius samdė Kaune laivus grūdams gabenti."
 ---
 # Mackus Kosterevičius
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185492
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 76"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 76."
   citata_originali: |
     Labiausiai tikėtina, kad jie grūdus irgi gabeno per Kauną.
     1488 m. Kazimieras Jogailaitis atleido nuo muitų Kaune savo prekybos agentą Mins-

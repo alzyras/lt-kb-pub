@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c5d634253b89d3f68147e90"
+canonical_name: "Emanuelis Vega"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Emanuelis Vega"]
+sameAs: []
+canonical_biography: "Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kninskis."
 ---
 # Emanuelis Vega
 
@@ -48,7 +55,8 @@ Atvyko du misionieriai jėzuitai: kunigas Emanuelis Vega ir kunigas Jeronimas Kn
 - id: c-177227
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 371"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
   citata_originali: |
     Po ketverto metų Žemaičių vyskupas Melchioras
     Giedraitis vėl išsikvietė jėzuitus, nes jo diecezijoje daugelis kai­

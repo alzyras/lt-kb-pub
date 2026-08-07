@@ -79,7 +79,8 @@ media_all_json: |-
 - id: c-03221
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 239."
   citata_originali: |
     Tuo metu Lenkų valstybė stengėsi susigrąžinti sau visus bajo-
     rų kuriuo nors būdu pasisavintus dvarus ir atiminėjo visas žemes,
@@ -100,7 +101,8 @@ media_all_json: |-
 - id: c-03222
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 239."
   citata_originali: |
     Šita politika buvo
     vadinama įstatymų vykdymu, arba — iš lotyniško — egzekucija.
@@ -122,7 +124,8 @@ media_all_json: |-
 - id: c-175895
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 239."
   citata_originali: |
     Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
     ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be

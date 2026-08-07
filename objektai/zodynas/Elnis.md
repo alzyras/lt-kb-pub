@@ -47,7 +47,8 @@ Narbutas elnią (Elnį) aprašo kaip dievuką fetišą, kuris, manyta, šalino l
 - id: c-172179
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 210."
   citata_originali: |
     Žiūrėk II lentelės 4-ąjį piešinį.
     Elnias (Elnis)

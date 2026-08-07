@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d35d516009cda05433486eeb"
+canonical_name: "Peter van der Lyxten"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Peter van der Lyxten"]
+sameAs: []
+canonical_biography: "Peter van der Lyxten dabar grįžęs man pranešė, kad Švitrigaila yra laisvėje, ir kad bu­ vo čionai du kunigaikščiu su žmonių pajėgomis, ir pasta­ rieji išpjovė visus aną saugojusius (užmušė visus, kurie buvo ten, kur jisai sėdėjo nelaisvėje)."
 ---
 # Peter van der Lyxten
 
@@ -49,7 +56,8 @@ Peter van der Lyxten dabar grįžęs man pranešė, kad Švitrigaila yra laisvė
 - id: c-83801
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 180-181"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 180-181."
   citata_originali: |
     164
 

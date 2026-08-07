@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-87553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 129-130"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 129-130."
   citata_originali: |
     Kartą, jam pasilikus su kitais prie minėtųjų laivų, atplaukė penkiais laivais ginkluoti
     prūsai; kai jie priplaukė su savo laivais arčiau, kėsindamiesi sunaikinti mūsiškius, brolis

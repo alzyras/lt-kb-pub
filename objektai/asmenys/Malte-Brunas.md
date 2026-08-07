@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-23f859fbe24c670e9aa7fb4b"
+canonical_name: "Malte-Brunas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Malte-Brunas"]
+sameAs: []
+canonical_biography: "Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė. Malte-Brunas susiliejo su kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsikūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtingų bruožų."
 ---
 # Malte-Brunas
 
@@ -45,7 +52,8 @@ Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo
 - id: c-174176
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     Tai buvo miškinė gyvulių augintojų gentis.
     Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-10b2aad2ca61dfc66e0779b4"
+canonical_name: "Liublino kraštas (kraštas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liublino kraštas","Liublino kraštas (kraštas)"]
+sameAs: []
+canonical_biography: "Kojelavičiaus pasakojime priešas, nuniokojęs Liublino žemes, siaubė Sandomiro kraštą. Kojelavičiaus pasakojime lietuvių kariaunos, nesutikdamos pasipriešinimo, niokojo Liublino kraštą po bajorijos sutriuškinimo prie Bogucino."
+place_authority: true
+historical_names: []
 ---
 # Liublino kraštas (kraštas)
 
@@ -99,7 +108,8 @@ Kojelavičiaus pasakojime priešas, nuniokojęs Liublino žemes, siaubė Sandomi
 - id: c-168630
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 134."
   citata_originali: |
     Boleslovo Droviojo sos-
     (mat priešai dažniausiai pradeda karus, kai prie val­
@@ -126,7 +136,8 @@ Kojelavičiaus pasakojime priešas, nuniokojęs Liublino žemes, siaubė Sandomi
 - id: c-178856
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 129."
   citata_originali: |
     Lietuvių kariaunos, pakviestos iš sodybų, nesutik-
     damos pasipriešinimo, niokojo Liublino kraštą, nes

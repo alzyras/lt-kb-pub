@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a5e5432c3924c1e969ee867"
+canonical_name: "Kunonas (Brandenburgo komtūras)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kunonas (Brandenburgo komtūras)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 metais Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės pilis ir iki pamatų sudegino jų. Dusburgietis teigia, kad apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius ir keletą dienų jos."
 ---
 # Kunonas (Brandenburgo komtūras)
 
@@ -171,7 +178,8 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
 - id: c-60795
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
 
@@ -199,7 +207,8 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
 - id: c-60796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
     Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus. Jis
@@ -226,7 +235,8 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
 - id: c-168121
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 177."
   citata_originali: |
     Kai
     Nemune vyko šios laivų grumtynės, šeši šimtai raite­

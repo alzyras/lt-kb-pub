@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-39adeb031f205a914d85fafe"
+canonical_name: "Darius Kuolys"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Darius Kuolys"]
+sameAs: []
+canonical_biography: "2, sudarė Darius Kuolys."
 ---
 # Darius Kuolys
 
@@ -41,9 +48,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185553
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 336"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 336."
   citata_originali: |
     A. Vijūkas-Kojalavičius. Lietuvos istorijos ivairenybės. T. 2, sudarė Darius Kuolys.
   statusas: verified

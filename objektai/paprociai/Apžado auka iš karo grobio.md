@@ -84,7 +84,8 @@ Nenurodyta
 - id: c-171001
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 319."
   citata_originali: |
     15. Apžado auka. Kartais žygiuojant į svetimą žemę gro­
     bio, būrio vadas duodavo apžadą, kad gražiausią grobį paau­
@@ -109,7 +110,8 @@ Nenurodyta
 - id: c-171002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 319."
   citata_originali: |
     Kro­
     nikos tyli, ar sudegindavo gyvą, ar pirma užmušdavo. Tikra tik

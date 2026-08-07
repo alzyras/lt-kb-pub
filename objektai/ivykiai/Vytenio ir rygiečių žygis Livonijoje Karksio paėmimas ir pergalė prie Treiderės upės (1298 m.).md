@@ -141,7 +141,8 @@ Nenurodyta
 - id: c-169033
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 175."
   citata_originali: |
     1298 m e ta i
     L ie tu v ia i
@@ -181,7 +182,8 @@ Nenurodyta
 - id: c-169034
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 175."
   citata_originali: |
     Iš pradžių Vytenio padėtis rodėsi sunkoka gal
     dėl to, kad neturėjo po ranka kariuomenės (paprastai
@@ -206,7 +208,8 @@ Nenurodyta
 - id: c-169035
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 175."
   citata_originali: |
     Kadangi iš užpakalio buvo jūra,
     vienoje pusėje trukdė Treiderės upė, o kitoje pusėje

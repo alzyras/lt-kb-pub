@@ -115,7 +115,8 @@ Nenurodyta
 - id: c-55675
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 47."
   citata_originali: |
     I  KNYGA
     degindamas ir siaubdamas miesto apylinkės22. Kita ekspe­
@@ -136,7 +137,8 @@ Nenurodyta
 - id: c-55676
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 47."
   citata_originali: |
     Kita ekspe­
     dicija iš Prūsijos 1375 metais irgi buvo sukėlusi Vilniui pa­
@@ -160,7 +162,8 @@ Nenurodyta
 - id: c-78375
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 47."
   citata_originali: |
     Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
     tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos

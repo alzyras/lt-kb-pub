@@ -113,7 +113,8 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 - id: c-22628
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     LLL įkūrėjas ir vadovas Antanas Terleckas save vadino
     rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos
@@ -134,7 +135,8 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 - id: c-72771
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Sovietinė valdžia represijas prieš disidentus derino su dalinių
     nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-
@@ -157,7 +159,8 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 - id: c-72772
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Skirtingai nei
     katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
@@ -179,7 +182,8 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 - id: c-176234
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 233."
   citata_originali: |
     Kol kas jų buvo mažuma.
     Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu

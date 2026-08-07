@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c6c78cf649a122480a5f84e"
+canonical_name: "Konradas (Fridricho II sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas (Fridricho II sūnus)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus, mirtį 1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį."
 ---
 # Konradas (Fridricho II sūnus)
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
 - id: c-60991
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232."
   citata_originali: |
     36. Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,
                                                 mirtį

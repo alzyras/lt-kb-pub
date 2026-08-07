@@ -83,7 +83,8 @@ Nenurodyta
 - id: c-62533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 156."
   citata_originali: |
     Apie Labguvos pilies sunaikinimą
 

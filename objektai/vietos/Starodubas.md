@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab02424ea07f454fb05cfd87"
+canonical_name: "Starodubas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Starodubas"]
+sameAs: []
+canonical_biography: "Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo. Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai. Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai."
+place_authority: true
+historical_names: []
 ---
 # Starodubas
 
@@ -56,27 +65,14 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   ryšio_targeto_parinkimas: "Kaidanovas: mention_match, place"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Starodubas\" parinktas kaip owner_note_path. Targetas \"Kaidanovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-168517
 
-<a id="claim-t-193233"></a>
-- t-002
-  teiginys: "Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-175970
-    - c-182791
-
 <a id="claim-t-199855"></a>
-- t-003
+- t-002
   teiginys: "Lietuvos metraštis Skirmantą vadina didžiuoju kunigaikščiu ir pasakoja, kad po pergalės prie Kaidanovo jis Rusų žemėje paėmė Starodubą."
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -92,24 +88,9 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   ryšio_targeto_parinkimas: "Starodubas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Skirmantas paėmė Starodubo miestą."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-182789
-
-<a id="claim-t-199858"></a>
-- t-004
-  teiginys: "1379-1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Starodubą ir Trubčevską."
-  atnaujinta: "2026-07-12 23:04"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradinis teiginys per ilgas, su įvardžiais ir šalutiniu kontekstu."
-  susije_objektai: "mentioned_place: Trubčevskas; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perejeslavlis"
-  temporaliniai_duomenys: "įvykio data: po 1377 m.; įvykio data: 1377 m.; įvykio data: 1379-1380; įvykio data: 1380 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas, su įvardžiais ir šalutiniu kontekstu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-182790
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -173,7 +154,8 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
 - id: c-175970
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 209."
   citata_originali: |
     Tačiau amžinosios taikos
     jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
@@ -182,16 +164,15 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
     rą.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-182789
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
   citata_originali: |
     50
 
@@ -212,12 +193,13 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-182790
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 279."
   citata_originali: |
     Laikydamas save tikruoju tėvo sosto paveldėtoju, Andrius
     tuoj po 1377 m. virto Jogailos priešu ir sąjungon prieš jį traukė
@@ -229,16 +211,15 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   citata_rodoma: "Nuvykęs Maskvon, jis prikalbėjo\nkunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379-\n1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir\nTrubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo\nvaldą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-
 - id: c-182791
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 209."
   citata_originali: |
     Tačiau amžinosios taikos
     jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
@@ -246,9 +227,8 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
     rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
     rą.
   statusas: verified
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

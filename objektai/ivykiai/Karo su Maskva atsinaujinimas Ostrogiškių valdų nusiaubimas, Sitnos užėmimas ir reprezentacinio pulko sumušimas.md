@@ -61,19 +61,6 @@ Nenurodyta
   pagrindžia:
     - c-168945
 
-<a id="claim-t-196174"></a>
-- t-002
-  teiginys: "Per derybas maskvėnai pareikalavo amžinam Maskvos valdymui perduoti didžiojo kunigaikščio užimtas žemes."
-  atnaujinta: "2026-07-24 15:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168945
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Taikos pasiuntiniams nieko nepasiekus, maskvėnai atnaujino karą nelaukdami paliaubų pabaigos.'
@@ -109,7 +96,8 @@ Nenurodyta
 - id: c-168945
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 735"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 735."
   citata_originali: |
     Kad jie galop patys suprastų, kokie
     neprotingi jų reikalavimai, karalius pažadėjo atiduoti
@@ -134,4 +122,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

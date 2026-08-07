@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-00240
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 49."
   citata_originali: |
     Kaip visoje gamtoje buvo pilna dievybių, taip jų buvo apstu
     ir aisčių namuose. Be namų dvasios, kuri saugojusi visus namus,

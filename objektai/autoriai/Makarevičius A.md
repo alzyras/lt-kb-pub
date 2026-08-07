@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eaeedd7a73fec6696f0a7639"
+canonical_name: "Makarevičius A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Makarevičius A"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad iII, 347; Zajączkowski S., Studya..., p. 40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72; Makarevičius A., Vilkijos..., p. 62)."
 ---
 # Makarevičius A
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad iII, 347; Zajączkowski S., Studya..., p. 40—41; SZM,
 - id: c-61377
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau
     Nevėžio žiočių; pavadinimą išsaugojo to pat vardo kaimas tarp Kulautuvos ir Vilkijos.

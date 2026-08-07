@@ -59,7 +59,8 @@ Dar žr.: Vytauto pareiš­ kimas asmeninių derybų dėl taikos tarp jo ir Lenk
 - id: c-84482
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 165."
   citata_originali: |
     Dar žr.: Vytauto pareiš­
     kimas asmeninių derybų dėl taikos

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-141344fd4e8cd6b169edb76b"
+canonical_name: "Kolomanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kolomanas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­ lio, ir Henriko, Vroclavo kunigaikščio, žūtį Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė į Vengriją ir Lenkiją, kur mūšyje nukovė Kolomaną, Vengrijos."
 ---
 # Kolomanas
 
@@ -75,7 +82,8 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
 - id: c-60989
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
                                   lio, ir Henriko, Vroclavo kunigaikščio, žūtį

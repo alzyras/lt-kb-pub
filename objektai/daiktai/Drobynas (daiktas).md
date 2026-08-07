@@ -61,9 +61,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184715
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 465"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 465."
   citata_originali: |
     Vasarop
     persikėlęs per Nemuną, įsigrūdo staiga į Lietuvą ir

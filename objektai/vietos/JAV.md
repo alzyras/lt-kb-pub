@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d1cba36e5303ec4229f30cf2"
+canonical_name: "JAV"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["JAV"]
+sameAs: []
+canonical_biography: "Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lietuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m. Rygoje tapo Europos čempionais. Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Su stipriausiais finansiškai ir organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminingas politines organizacijas, profesiškai ar tiesiog asmeniškai."
+place_authority: true
+historical_names: []
 ---
 # JAV
 
@@ -161,7 +170,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - id: c-101297
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     Baltijos valstybių ir Lenkijos pa-
     bėgėlių bei tremtinių). Per trejus–ketverius metus į JAV pasisekė atvykti
@@ -178,7 +188,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - id: c-101298
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     1944 m. sausį A. Smetona žuvo Klivlande per gaisrą. Tad
     lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi
@@ -198,7 +209,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - id: c-101299
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 175."
   citata_originali: |
     Sportas tapo
     integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olim-
@@ -218,7 +230,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - id: c-101300
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
     225
@@ -239,7 +252,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - id: c-101302
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 226."
   citata_originali: |
     Tai padėjo
     užmegzti naujų ryšių ir palaikyti senus, išlaikyti pasiuntinybių pastatus, Va-
@@ -261,7 +275,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - id: c-101303
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 175."
   citata_originali: |
     taičio, 1934 m. aplankė faktiškai visas Europos sostines, nuskrido per
     10  000  km. Kūrybingai panaudodami vokiečių motorus ir prancūzų

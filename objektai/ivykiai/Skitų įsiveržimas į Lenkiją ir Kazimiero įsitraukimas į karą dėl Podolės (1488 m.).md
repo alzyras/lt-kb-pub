@@ -74,7 +74,7 @@ Nenurodyta
 <a id="claim-t-193364"></a>
 - t-002
   teiginys: "Kojelavičiaus pasakojime karalius Kazimieras, teisindamasis paliaubomis su Vasiljevičiumi, vengė karo ir nieko tvirto nepasiūlė Tverės pabėgėliui."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -110,7 +110,8 @@ Nenurodyta
 - id: c-169132
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
   citata_originali: |
     Štai
     todėl pasirūpino, kad popiežius Inocentas paskelbtų
@@ -148,7 +149,8 @@ Nenurodyta
 - id: c-176091
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 532"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 532."
   citata_originali: |
     Netru­
     kus liautasi grasinti ginklu:

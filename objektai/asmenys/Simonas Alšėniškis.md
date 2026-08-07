@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d2ca4de76a1fe824923ca83a"
+canonical_name: "Simonas Alšėniškis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Simonas Alšėniškis"]
+sameAs: []
+canonical_biography: "Ir didysis kunigaikštis Vytautas paskyrė jiems vietininku savo svainį, kunigaikštį Si moną Alšėniškį, vadinamą Rūsčiuoju 9 ."
 ---
 # Simonas Alšėniškis
 
@@ -46,7 +53,8 @@ Ir didysis kunigaikštis Vytautas paskyrė jiems vietininku savo svainį, kuniga
 - id: c-176736
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 105."
   citata_originali: |
     Naugardiečiai, matydami pskoviečius jam pasidavus
     ir priėmus jo vietininką, nebenorėdami, kad jų žemė

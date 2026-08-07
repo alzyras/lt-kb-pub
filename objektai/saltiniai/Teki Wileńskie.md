@@ -59,7 +59,8 @@ Adomas Honorijus Kir­ koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplank
 - id: c-84460
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 13."
   citata_originali: |
     Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
     mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­

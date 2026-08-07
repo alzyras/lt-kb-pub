@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-571a27a4b8b12d91c3e86e2d"
+canonical_name: "Bolloysos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bolloysos"]
+sameAs: []
+canonical_biography: "Narbutas polemikoje mini Bolloysos kaip vieną vyriausiųjų žynių vardų, kurie kritikui kėlė įtarimą ir skambėjo neprūsiškai."
 ---
 # Bolloysos
 
@@ -53,7 +60,8 @@ Narbutas polemikoje mini Bolloysos kaip vieną vyriausiųjų žynių vardų, kur
 - id: c-173021
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
   citata_originali: |
     Kritikui visai ne pagal skonį tų vyriausiųjų žynių vardai,
     todėl jam kelia įtarimą. Pavyzdžiui, iš kur atsirado Marco Ro-

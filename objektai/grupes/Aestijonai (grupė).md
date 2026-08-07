@@ -46,9 +46,9 @@ Toliaus dar tasai Pitėjas taip pasakoja: tenai attakotame bei išgraužotame j�
 ## Citatos
 
 - id: c-184598
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 27"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 27."
   citata_originali: |
     Stokodami tenai giedrų, javus kulian-
     tys rejose, o kišimą džioviną duobose; kitaip, sako

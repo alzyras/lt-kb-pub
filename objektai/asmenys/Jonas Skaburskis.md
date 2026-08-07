@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-afe4320f158079d3e72257e8"
+canonical_name: "Jonas Skaburskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Skaburskis"]
+sameAs: []
+canonical_biography: "Apie šį įvykį savo prisiminimuose pasakoja 4-ojo pėstininkų pulko eilinis Jonas Skaburskis: „Mus aplankė kariuomenės vadas gen."
 ---
 # Jonas Skaburskis
 
@@ -50,7 +57,8 @@ Apie šį įvykį savo prisiminimuose pasakoja 4-ojo pėstininkų pulko eilinis 
 - id: c-42027
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 187."
   citata_originali: |
     Apie šį įvykį savo prisiminimuose pasakoja 4-ojo pėstininkų pulko eilinis
     Jonas Skaburskis: „Mus aplankė kariuomenės vadas gen. Žukauskas. Jis padėkojo mums

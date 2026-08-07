@@ -32,7 +32,7 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 <a id="claim-t-22330"></a>
 - t-001
   teiginys: "Tripartitio christiana samprata siejama su Viduramžių luomų idėja ir visuomenės skirstymu į karius, dvasininkus bei dirbančiuosius."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -56,7 +56,8 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 - id: c-25019
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 43."
   citata_originali: |
     Petro Naujosios bažnyčios
     freska, XV a. pr.
@@ -76,7 +77,8 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 - id: c-176287
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 43."
   citata_originali: |
     Su tripartitio christiana (visuomenės skirstymas į
     karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti

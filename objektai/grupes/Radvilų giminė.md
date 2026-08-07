@@ -36,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai. Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo 20 kapų lietuviškų grašių. Radvilų giminės galia ir turtai augo, o jų pėdsakai autoriui dar atrodė stebinantys savo didybe.
+Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir kaupėsi nauji jų turtai, kurių pėdsakai, net ir prie visiško sunykimo ribos, po tiek amžių trukusios val­ džios ir pasisekimo, stebina savo didybe. Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį. Taigi, išreikšdami jam didžiau­ sią mūsų palankumą, už akivaizdžius jo nuopelnus Respub­ likai ir jos valdovams, už tai, kad Radvilų šeima visada buvo labiausiai pasišventusi Respublikai ir vadovams, mes nu­ sprendėme jį - kurio pastovia ištikimybe jau nuo jo.
 
 ## Teiginiai
 
@@ -129,11 +129,18 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
 <a id="claim-t-202312"></a>
 - t-006
   teiginys: "Radvilų manufaktūrose Nesvyžiuje buvo audžiamas linas, Minske buvo audžiami gobelenai, o Slucke buvo gaminama gelumbė ir audžiamos Slucko juostos."
-  atnaujinta: "2026-07-19 11:47"
+  atnaujinta: "2026-07-26 19:27"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gelumbė (daiktas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Radvilų giminė: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gelumbė (daiktas): mention_match, thing, gap=110"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radvilų giminė\" parinktas kaip owner_note_path. Targetas \"Gelumbė (daiktas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
   vertinimo_atnaujinta: "2026-07-19T08:47:37Z"
   pagrindžia:
@@ -144,7 +151,8 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
 - id: c-157126
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 343-344"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 343-344."
   citata_originali: |
     Baltramiejaus šventės, tūkstantis penki šimtai penkiasde­
     šimt devintaisiais Viešpaties metais, o mūsų valdymo tris­
@@ -182,7 +190,8 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
 - id: c-157127
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 289-290"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 289-290."
   citata_originali: |
     Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų
     giminės galybė ir kaupėsi nauji jų turtai, kurių pėdsakai, net
@@ -253,7 +262,8 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
 - id: c-157129
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 372-373"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 372-373."
   citata_originali: |
     Teodoras Sku­
     minas, LDK iždininkas.
@@ -282,7 +292,8 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
 - id: c-157130
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Jono bažnyčią, visą mū­
     rinį. O Jurgio brolis, kunigaikštis Mi­
@@ -312,7 +323,8 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
 - id: c-157131
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 324-325"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 324-325."
   citata_originali: |
     Praesentibus Reverendis illustribus
     308
@@ -355,11 +367,12 @@ Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kuniga
     - t-001
 
 - id: c-185659
-  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
+  autorius: "Marija Matušakaitė"
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)"
   puslapiai: "p. 61 (PDF 4)"
-  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 61 (PDF 4)."
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 61 (PDF 4)."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-19 11:47"
+  atnaujinta: "2026-07-26 19:20"
   pagrindzia:
     - t-006

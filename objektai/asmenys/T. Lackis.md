@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a7416860ebf010a3d18bf841"
+canonical_name: "T. Lackis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["T. Lackis"]
+sameAs: []
+canonical_biography: "Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į besikaunančių švedų raitelių kairįjį sparną."
 ---
 # T. Lackis
 
@@ -66,7 +73,8 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
 - id: c-42255
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 107."
   citata_originali: |
     ® Švedų gvardijos kavaleriją pasitinka
     T. Lackio husarai ir ryžtingu puolimu nu-
@@ -84,7 +92,8 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
 - id: c-44530
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 108."
   citata_originali: |
     nas suprato, kad pats laikas mesti į mūšį
     dvi paskutines husarų vėliavas. Rotmistro

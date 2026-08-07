@@ -54,7 +54,8 @@ Narbutas iš padavimų spėjo, kad lietuviai įsivaizdavo rojų ir peklą, o žo
 - id: c-172206
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 391."
   citata_originali: |
     Lieka tik
     spėlioti iš įvairių padavimų, pateiktų čia įvairiuose straips­

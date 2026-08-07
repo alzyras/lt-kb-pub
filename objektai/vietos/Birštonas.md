@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-35d125880ae591b6fe7c9d35"
+canonical_name: "Birštonas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Birštonas"]
+sameAs: []
+canonical_biography: "Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono išėjo į plentą ir sustojo."
+place_authority: true
+historical_names: []
 ---
 # Birštonas
 
@@ -66,7 +75,8 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
 - id: c-40151
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 179."
   citata_originali: |
     „Rinktinė už Birštono išėjo į plentą ir sustojo. Tada pro rinktinę pravažiavo keturios vokiečių
     patrankos. Kareivių ūpas pakilo. Noras buvo ko greičiau atkeršyti už aną dieną. Visų lūpos
@@ -82,7 +92,8 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
 - id: c-40152
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 178."
   citata_originali: |
     Vėliau nuspręsta trauktis iki Prienų ir
     ten pailsėti. Netoli Birštono Zaskevičiaus

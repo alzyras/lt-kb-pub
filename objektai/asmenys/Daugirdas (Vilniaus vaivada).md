@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ce7e755d2e26067fa06d85ad"
+canonical_name: "Daugirdas (Vilniaus vaivada)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Daugirdas (Vilniaus vaivada)"]
+sameAs: []
+canonical_biography: "1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26."
 ---
 # Daugirdas (Vilniaus vaivada)
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-83629
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 238."
   citata_originali: |
     Trakuose jo sušauktas seimas, turėjęs parengti pasku­
     tinį smūgį Rusios ir Lietuvos bajorijai, paspartino tą kruviną

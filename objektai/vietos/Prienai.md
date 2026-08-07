@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2c6af0d836deb5ede0057f11"
+canonical_name: "Prienai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Prienai"]
+sameAs: []
+canonical_biography: "Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai palankus."
+place_authority: true
+historical_names: []
 ---
 # Prienai
 
@@ -130,7 +139,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 - id: c-43760
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 8."
   citata_originali: |
     ‘ tikslu perėjus per Nemuną
     pulti Vilkaviškio kryptimi
@@ -153,7 +163,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 - id: c-43761
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 175-176"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 175-176."
   citata_originali: |
     173
 
@@ -212,7 +223,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 - id: c-43763
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     Iš lauko atsakė automato serija. Ją paleido prie durų stovėjęs Prienų NKGB tardytojas
     Kruglov Arkadij. Bet pasirodė, kad Tigro oda buvo per kieta.
@@ -227,7 +239,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 - id: c-167187
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 175-176"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 175-176."
   citata_originali: |
     Atgarsis apie šią
     pergalę plačiai pasklido po visą Lietuvą,
@@ -283,7 +296,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 - id: c-167188
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     Tigras, nieko nelaukdamas, truktelėjo iš savo kulkosvaidžio.
 
@@ -300,7 +314,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 - id: c-171695
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
   citata_originali: |
     Už Tilžės, žemiau Vingio (Winge) dvaro, prie
     Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­
@@ -322,7 +337,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 - id: c-171696
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 366."
   citata_originali: |
     Šiuo atveju, kadangi tokių atsitikimų dažniausiai
     pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­

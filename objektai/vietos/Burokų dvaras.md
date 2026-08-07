@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8246b119b541816b406238c8"
+canonical_name: "Burokų dvaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Burokų dvaras"]
+sameAs: []
+canonical_biography: "1836 m. gegužę Burokų dvare, esančiame už 10 varstų nuo Kražių, Bonaventūras Milevskis ardamas žemę iškasė figūrą."
+place_authority: true
+historical_names: []
 ---
 # Burokų dvaras
 
@@ -64,7 +73,8 @@ media_all_json: |-
 - id: c-175637
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
   citata_originali: |
     1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
     Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu

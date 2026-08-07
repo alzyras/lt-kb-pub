@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-98da99489240d3f9da2705d3"
+canonical_name: "Nestanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nestanas"]
+sameAs: []
+canonical_biography: "Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių."
 ---
 # Nestanas
 
@@ -66,7 +73,8 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
 - id: c-169603
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 229."
   citata_originali: |
     Kadangi Teodoras buvo išvykęs (įkurdinęs pily­
     se stiprias valachų įgulas, jis leidosi iš Podolės pas

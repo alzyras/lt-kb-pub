@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-40c92393e1530c770298dfa8"
+canonical_name: "Tanenbergas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tanenbergas"]
+sameAs: []
+canonical_biography: "Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (žiūr."
+place_authority: true
+historical_names: []
 ---
 # Tanenbergas
 
@@ -65,7 +74,8 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
 - id: c-169760
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 347."
   citata_originali: |
     Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
     magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
@@ -84,7 +94,8 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
 - id: c-175972
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 614"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 614."
   citata_originali: |
     Ordino siena su Lietuva nusistojo tik po Tanenbergo mū-
     šio ir Torno taikos (žiūr. 129 psl.). Tada jau išnyko ir nuola-

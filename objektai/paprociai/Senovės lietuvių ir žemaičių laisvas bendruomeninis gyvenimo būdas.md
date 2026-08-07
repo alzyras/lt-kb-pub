@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184729
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 134"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 134."
   citata_originali: |
     Čia vyrai aure motriškosios, bal­
     tai apsidarę, trūsinėdami it gulbiai svyravo, kurių

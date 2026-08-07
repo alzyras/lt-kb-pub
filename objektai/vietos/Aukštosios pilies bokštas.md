@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-23c8780e202bb65b62a12df8"
+canonical_name: "Aukštosios pilies bokštas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aukštosios pilies bokštas"]
+sameAs: []
+canonical_biography: "Aukštosios pilies bokštas citatoje lokalizuojamas ant Gedimino kalno kaip Katedros varpinės architektūrinis antrininkas."
+place_authority: true
+historical_names: []
 ---
 # Aukštosios pilies bokštas
 

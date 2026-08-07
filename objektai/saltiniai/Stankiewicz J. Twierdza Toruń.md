@@ -58,7 +58,8 @@ Dusburgietis teigia, kad stankiewicz J.
 - id: c-61929
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Stankiewicz J. Twierdza Toruń.—ZHPB, 1972, t. 37, z. 4, s. 9—68.
   citata_rodoma: "Stankiewicz J. Twierdza Toruń.—ZHPB, 1972, t. 37, z. 4, s. 9—68."

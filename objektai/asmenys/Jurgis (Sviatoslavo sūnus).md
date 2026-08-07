@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-611a50798e6d09618d947b15"
+canonical_name: "Jurgis (Sviatoslavo sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis (Sviatoslavo sūnus)"]
+sameAs: []
+canonical_biography: "Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą."
 ---
 # Jurgis (Sviatoslavo sūnus)
 
@@ -50,7 +57,8 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
 - id: c-32764
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 294."
   citata_originali: |
     Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
     prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo

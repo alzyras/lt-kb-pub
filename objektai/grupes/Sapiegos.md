@@ -38,7 +38,7 @@ media_all_json: |-
 
 ## Santrauka
 
-A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenzoriai šių dedikacijų neskaitė. Kojelavičius Sapiegų šeimos šlovę siejo su valstybės tarnyba, Jono Sapiegos žygiais ir adresato tėvo dešimtmečio darbais Dievui bei valstybei. Jonas Dominykas Lopacinskis nenutraukė ryšių su Sapiegų gimine net tapęs vyskupu.
+Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapiegos palaikė Prancūzijos kandidatą; jų priešai palaikė Augustą. Tada Sapiegos vėl pradėjo drąsiai šeimininkauti Lietuvoje, su niekuo nebesiskaitydami; jų priešų kurstoma bajorija ir vėl ėmė bruzdėti.
 
 ## Teiginiai
 
@@ -75,28 +75,8 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   pagrindžia:
     - c-176066
 
-<a id="claim-t-200690"></a>
-- t-003
-  teiginys: "Jonas Dominykas Lopacinskis nenutraukė ryšių su Sapiegų gimine net tapęs vyskupu."
-  atnaujinta: "2026-07-14 11:41"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Jonas Dominykas Lopacinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sapiegos: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Jonas Dominykas Lopacinskis: mention_match, author, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sapiegos\" parinktas kaip owner_note_path. Targetas \"Jonas Dominykas Lopacinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
-  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
-  pagrindžia:
-    - c-184039
-
 <a id="claim-t-200760"></a>
-- t-004
+- t-003
   teiginys: "Sapiegos kartu su Pacais ir Radvilomis minimi kaip vietiniai lietuvių didikai, suvaidinę žymų vaidmenį Vilniaus baroko plėtotėje."
   atnaujinta: "2026-07-14 21:36"
   sprendimo_priezastis: "auto"
@@ -116,15 +96,21 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
     - c-184105
 
 <a id="claim-t-202313"></a>
-- t-005
+- t-004
   teiginys: "Sapiegos Kodenyje organizavo gelumbės, lininių ir šilkinių audinių, kontušų juostų bei šilkinių apmušalų gamybą."
-  atnaujinta: "2026-07-19 11:47"
+  atnaujinta: "2026-07-26 19:27"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sapiegos: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sapiegos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
-  vertinimo_atnaujinta: "2026-07-19T08:47:37Z"
   pagrindžia:
     - c-185660
 
@@ -182,7 +168,8 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
 - id: c-167942
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 8."
   citata_originali: |
     Cenzoriai neskaitė autoriaus pirmo ir antro tomų
     dedikacijų Sapiegoms. Antrą tomą A. Kojelavičius pa­
@@ -201,7 +188,8 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
 - id: c-176066
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 296-297"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 296-297."
   citata_originali: |
     Šiuos ir kitus garsiuosius Tavo Tėvo nuopelnus valsty­
     bei, taip pat Tavo senelio Jono Sapiegos, pelniusio
@@ -239,17 +227,6 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   pagrindzia:
     - t-002
 
-- id: c-184039
-  autorius: "Domininkas Burba"
-  šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
-  puslapiai: "PDF 4"
-  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 4."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-07-14 11:39"
-  pagrindzia:
-    - t-003
-
 - id: c-184105
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -276,17 +253,18 @@ A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenz
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-185660
-  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
+  autorius: "Marija Matušakaitė"
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)"
   puslapiai: "p. 61 (PDF 4)"
-  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 61 (PDF 4)."
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 61 (PDF 4)."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-19 11:47"
+  atnaujinta: "2026-07-26 19:20"
   pagrindzia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Lietuvos bajorija]]

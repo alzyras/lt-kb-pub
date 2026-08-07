@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2590a1035f5f6e0312595f4c"
+canonical_name: "Rietavas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rietavas"]
+sameAs: []
+canonical_biography: "Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reikšmę lietuvišku žodžiu „senovinis“."
+place_authority: true
+historical_names: []
 ---
 # Rietavas
 

@@ -36,6 +36,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a0975275c9564a481afa5ac2"
+canonical_name: "Butrimonys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Butrimonys"]
+sameAs: []
+canonical_biography: "O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus."
+place_authority: true
+historical_names: []
 ---
 # Butrimonys
 
@@ -91,7 +100,8 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 - id: c-24089
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265."
   citata_originali: |
     Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
     tauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad
@@ -120,7 +130,8 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 - id: c-43356
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 193."
   citata_originali: |
     Tokiu būdu iki liepos pabaigos lenkai užgrobė Merkine@®, Dau-
     gus Us), Butrimonis, Stakliskes (yp, Aukštadvarį @. Vievj, Kerna-
@@ -141,7 +152,8 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 - id: c-167166
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 193."
   citata_originali: |
     Sutelkę
     visas pajėgas prieš bolševikus lietuviai galėjo apsisaugojimui nuo

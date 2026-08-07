@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab36ff9dbbd2fdc75d0649f8"
+canonical_name: "Pažaislis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pažaislis"]
+sameAs: []
+canonical_biography: "Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gražųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas Mykolas pastatė taip pat gražiausią Vilniuje barokinę šv."
+place_authority: true
+historical_names: []
 ---
 # Pažaislis
 
@@ -47,7 +56,8 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 - id: c-176006
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 373."
   citata_originali: |
     Už jų
     pečių tuomet jau stovėjo visa Lietuva, nes, grįždamas iš elek-

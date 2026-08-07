@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-844e86899c189825e19adda4"
+canonical_name: "Karalius Kazimieras (1483 m. privilegijos davėjas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karalius Kazimieras (1483 m. privilegijos davėjas)"]
+sameAs: []
+canonical_biography: "Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katinas lietuviams buvo Lietuvos simbolis."
 ---
 # Karalius Kazimieras (1483 m. privilegijos davėjas)
 
@@ -40,17 +47,24 @@ Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katin
 <a id="claim-t-190668"></a>
 - t-001
   teiginys: "Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katinas lietuviams buvo Lietuvos simbolis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   sudarymo_pagrindimas: "Narbuto interpretacija apie simbolį palikta su autoriaus atribucija. Nepridėtos detalės apie Rimvydą ir Merkinės valstiečių maištą."
   susije_objektai: "mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Rimvydas|Rimvydas]]; mentioned_place: Merkinė; mentioned_place: Trakai; mentioned_place: Upės (Oppen) kaimas; mentioned_place: Viena"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karalius Kazimieras (1483 m. privilegijos davėjas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karalius Kazimieras (1483 m. privilegijos davėjas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-179172
+    - c-173551
 
 <a id="claim-t-190669"></a>
 - t-002
@@ -119,7 +133,8 @@ Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katin
 - id: c-173551
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 129."
   citata_originali: |
     Įrodymą, kad lietuviams katinas buvo Lietuvos simbolis,
     radau vienoje 1483 metų karaliaus Kazimiero privilegijoje, ra­
@@ -146,13 +161,15 @@ Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-002
     - t-003
 
 - id: c-179172
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 396."
   citata_originali: |
     Tuo tarpu yra tik­
     ras dalykas, jog Rusijoje, taip pat besiribojančiuose su ja kraš­
@@ -170,5 +187,4 @@ Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-004

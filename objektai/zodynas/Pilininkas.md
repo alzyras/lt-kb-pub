@@ -139,7 +139,8 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 - id: c-55815
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 40-41"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 40-41."
   citata_originali: |
     Valstybėje nusistovėjus leninio valdymo
     principams, Gedimino veiklumo ir didžių jo politinių sie­
@@ -168,7 +169,8 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 - id: c-55816
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53."
   citata_originali: |
     I  KNYGA
     Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­
@@ -191,7 +193,8 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 - id: c-85513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
   citata_originali: |
     75).
 
@@ -213,9 +216,9 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
     - t-003
 
 - id: c-184853
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 113"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 113."
   citata_originali: |
     Kauno seniūnai pavietą ir pilį tvarkė padedami savo administracijos. Svarbiausias pa-
     reigūnas buvo Kauno pilininkas (ZOpOOHU'1UU), kurį skirdavo pats valdovas, kaip liudija

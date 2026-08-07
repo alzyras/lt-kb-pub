@@ -68,19 +68,28 @@ Nenurodyta
 <a id="claim-t-62797"></a>
 - t-002
   teiginys: "Popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos atgauti krikščionims priklausančias žemes."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
+  ryšio_patikimumas: "sudare_sutarti_su -> Teutonai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Grigalius IX: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai mini popiežiaus patvirtintą susitarimą su Teutonų ordino broliais."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Grigalius IX sudarė sutartį su Teutonai (0.82); Grigalius IX paskyrė Teutonai (0.72)"
   pagrindžia:
-    - c-63600
+    - c-63599
 
 ## Citatos
 
 - id: c-63599
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
     Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
@@ -95,14 +104,17 @@ Nenurodyta
   citata_rodoma: "Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie\nLenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,\nužjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino\nviešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai\nsudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už\nkančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims\npriklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite\nir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš\nmus sunaikinti mūsų  ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti\nmūsų tautos ir šventovės nelaimes14."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-63600
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
                                       kovų
@@ -122,12 +134,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-63601
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite
     ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš

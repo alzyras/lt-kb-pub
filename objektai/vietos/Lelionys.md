@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9687103c2bd9ba0027ee0880"
+canonical_name: "Lelionys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lelionys"]
+sameAs: []
+canonical_biography: "Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito yra du kaimai: Leliušių (Lelusze) ir Lelionių (Lelaiice); taip pat Trakų apskrityje, ponų Gorskių dvare, yra Lelionių milžinka pis."
+place_authority: true
+historical_names: []
 ---
 # Lelionys
 
@@ -47,7 +56,8 @@ Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito yra du kaimai: Leliu
 - id: c-177161
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
   citata_originali: |
     Vie­
     noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­

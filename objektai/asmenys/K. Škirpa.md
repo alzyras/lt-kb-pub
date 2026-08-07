@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c35f2c7bcd1399b29cc85ca7"
+canonical_name: "K. Škirpa"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["K. Škirpa"]
+sameAs: []
+canonical_biography: "Škirpos vadovaujamai kolonai (Vilniaus atskirasis batalionas ir 3-iosios baterijos vienas būrys), laikiusiai poziciją VolungėsŠaltmalkių-LungeliųVoversių-Morkūnų-Vainiūnų linijoje, įsakyta, palaikant ryšį su kaimynystėje kairėje buvusios It brigados 2-uoju. Škirpos vadovaujamam Vilniaus batalionui buvo įsakyta saugoti PaltynųŽaiginio barą iki 1919 m. Škirpos rezervas siunčiamas pulti Suvalkus pro Krasnapolį, lietuviai sutinka stiprų lenkų pasipriešinimą."
 ---
 # K. Škirpa
 
@@ -129,7 +136,8 @@ media_all_json: |-
 - id: c-42053
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 201."
   citata_originali: |
     Lietuviams nepavyksta užimti Suvalkų iš šiaurės K. Škir-
     pos rezervas siunčiamas pulti Suvalkus pro Krasnapolį,
@@ -148,7 +156,8 @@ media_all_json: |-
 - id: c-42054
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 201."
   citata_originali: |
     Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos su-
     naikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos
@@ -171,7 +180,8 @@ media_all_json: |-
 - id: c-51392
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 195."
   citata_originali: |
     E. Adamkavičiaus va-
     dovaujamas Kauno batalionas.
@@ -191,7 +201,8 @@ media_all_json: |-
 - id: c-51393
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 190."
   citata_originali: |
     K. Ladyga suskirstė savo pajėgas
     į 3 kolonas. Kairiajai karin. K. Škirpos
@@ -215,7 +226,8 @@ media_all_json: |-
 - id: c-167135
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 201."
   citata_originali: |
     Čaplikas puola Jestšembną, tai sustabdo len-
     kus ir jis gali atsitraukti į Gruškų-Liepynės liniją.

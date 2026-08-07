@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e7ccd69f3166e75aea8f118d"
+canonical_name: "Aleksandras Gvaninis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Gvaninis"]
+sameAs: []
+canonical_biography: "Narbutas remiasi Aleksandru Gvaniniu, kuris Klerkei, arba Bialohrodo, pilį siejo su Belgorodo totorių vardu."
 ---
 # Aleksandras Gvaninis
 
@@ -53,7 +60,8 @@ Narbutas remiasi Aleksandru Gvaniniu, kuris Klerkei, arba Bialohrodo, pilį siej
 - id: c-174244
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 109."
   citata_originali: |
     Ar mūsų latviai
     kažkada išėjo iš tų užkampių, ar buvo ten nuvesti toto­

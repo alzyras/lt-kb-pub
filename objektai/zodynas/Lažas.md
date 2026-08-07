@@ -60,7 +60,8 @@ Vartojamos formos: `lažu`.
 - id: c-09700
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 330-331"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 330-331."
   citata_originali: |
     Kas Lietuvoj lenkiškai nekalbėjo, tas neb žmogum bebuvo, nes vergu to, kurs lenkiškai
         kalbėjo; kaipogi lenkai, įsiveržę į Lietuvą, piktino lietuvių diduomenę savo darbais ir rėdės savo daba,

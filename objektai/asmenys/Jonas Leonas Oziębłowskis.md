@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9e83b099221b5c3bcea3f1c8"
+canonical_name: "Jonas Leonas Oziębłowskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Leonas Oziębłowskis"]
+sameAs: []
+canonical_biography: "Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus stalininkas, turėjo valdų Ukmergės paviete ties Vidiškiais ir Riešėje prie Vilniaus. 1694 m. liepos 27 d. Jonas Leonas Oziębłowskis išvyko iš Radiškio į Gdanską, rugpjūčio 7 d. ten atvyko, iki rugpjūčio 16 d. viešėjo, o 25 d. grįžo."
 ---
 # Jonas Leonas Oziębłowskis
 
@@ -84,9 +91,10 @@ Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus st
 ## Citatos
 
 - id: c-185759
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 8"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 8."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 8."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
@@ -94,9 +102,10 @@ Jonas Leonas Oziębłowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus st
     - t-001
 
 - id: c-185760
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 11"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 11."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 11."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

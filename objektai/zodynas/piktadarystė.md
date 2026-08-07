@@ -67,7 +67,8 @@ A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad d
 - id: c-168751
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 26."
   citata_originali: |
     A. Kojelavičiui šitai nerū­
     pėjo. Jo tekste nauja kitkas: kad tariama brolžudystė
@@ -87,7 +88,8 @@ A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad d
 - id: c-178658
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 26."
   citata_originali: |
     Kol Traidenis prausėsi, žudikai tykojo;
     kai išėjo iš pirties su tarnais ir kraujo nuleidėjų, ta­

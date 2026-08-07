@@ -81,7 +81,8 @@ reikšmė čia pateikiama tik kaip Narbuto išvada, todėl viešame įraše ją 
 - id: c-175076
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 278."
   citata_originali: |
     Taip pat yra antra išvada apie šio
     pavadinimo kilmę iš lietuviško žodžio Neromus, nera­

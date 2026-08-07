@@ -74,7 +74,7 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
 <a id="claim-t-101573"></a>
 - t-003
   teiginys: "Sąjungininkų pokario tvarkos architektai įsivaizdavo Lietuvą buferine valstybe, turėjusia sudaryti saugumo kordoną nuo bolševizmo."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
@@ -102,7 +102,8 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
 - id: c-24770
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 141."
   citata_originali: |
     Į to dvejeto sferą įžengė atsikūrusi
     Lenkijos valstybė. Ji tikėjosi užpildyti atsiradusį vakuumą Rytų Europoje.
@@ -121,7 +122,8 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
 - id: c-24771
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 145."
   citata_originali: |
     Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
     tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
@@ -142,7 +144,8 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
 - id: c-95097
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 144-145"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 144-145."
   citata_originali: |
     Persigrupavusi Lietuvos
     kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie

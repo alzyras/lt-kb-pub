@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b72d7b330d008354389e5af"
+canonical_name: "Henrikas von Plauenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas von Plauenas"]
+sameAs: []
+canonical_biography: "Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo surinkti jėgų, ir sąjungininkams nebepasisekė paimti Marijenburgo; ypač nepasisekė dėl to, kad Vytautas, dėl gerai nežinomų priežasčių, netrukus su savo kariuomene grįžo namo. 47) Švitco komtūro Henriko v."
 ---
 # Henrikas von Plauenas
 
@@ -102,7 +109,8 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 149."
   citata_originali: |
     Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
     Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
@@ -124,7 +132,8 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 199."
   citata_originali: |
     Kad turėtų jis
     tam laisvas rankas ir materialinės paramos, reikėjo apsidrausti
@@ -148,7 +157,8 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
 - id: c-160420
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 694"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 694."
   citata_originali: |
     Lichtenšteino, 17) Nešavos komturi-
     jos, 18) Vestfalijoje samdytų karių, 19) Rogosnos miesto ir vaito, 20) El-
@@ -182,7 +192,8 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 149."
   citata_originali: |
     Todėl Makras,
     įteikdamas jį imperatoriui Zigmantui, pažymėjo, kad Ordinas

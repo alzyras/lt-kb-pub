@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-caaf00b548ff8fb4f3d0a91c"
+canonical_name: "Lindenblattas Johannes Lindenblatt"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lindenblattas Johannes Lindenblatt"]
+sameAs: []
+canonical_biography: "Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Nerye ir Neria. 33 Lindenblatt Jahrbücher etc., p. 76, kryžiuočių persikėlimą per Viliją nu­ rodo buvus per Šv. Mergelės Marijos bažnyčios Smėlynėje ir pran­ ciškonų vienuolyno, tačiau, viena, išvydę atkakliai gintis pa­ siruošusias tvirtoves, antra, numanydami, jog bus neįma- 43 Lindenblatto kronikoje yra - Boparthen, pagal panašų skambėji­ mą, regis, tarsi būtų."
 ---
 # Lindenblattas Johannes Lindenblatt
 
@@ -124,7 +131,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 - id: c-83954
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 142."
   citata_originali: |
     33
     Lindenblatt Jahrbücher etc., p. 76,
@@ -143,7 +151,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 - id: c-83955
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 148."
   citata_originali: |
     Olesnickis,
     užbėgdamas kryžiuočiams už akių, buvo priverstas paau­
@@ -181,7 +190,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 - id: c-83957
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 33."
   citata_originali: |
     Upė Nerige, dažnai minima senovi­
     niame Lietuvos kelių aprašyme,
@@ -203,7 +213,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 - id: c-83958
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 148."
   citata_originali: |
     45
     Lindenblatto kronikos leidėjai
@@ -221,7 +232,8 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 - id: c-83959
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 153."
   citata_originali: |
     Iš­
     stovėjo jis tris savaites ir dvi dienas prie Vilniaus pilių be

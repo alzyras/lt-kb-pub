@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4cf6c4dce19304182517cda4"
+canonical_name: "Saimsas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Saimsas"]
+sameAs: []
+canonical_biography: "Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klodų Avos karalystėje. Saimsas skatina transpiraciją, smilkdamas išskiria maloniai kvepiančių, orą gryninančių dūmų, padeda gydyti reumato ligas."
 ---
 # Saimsas
 
@@ -45,7 +52,8 @@ Anglas Saimsas, Narbuto perteikiama žinia, neseniai atrado didelių gintaro klo
 - id: c-174196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
   citata_originali: |
     Lengvumas ir žinomos
     cheminės savybės liepia priskirti jį sakų klasei; patrintas

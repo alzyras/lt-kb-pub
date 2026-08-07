@@ -53,10 +53,10 @@ Terminas vartojamas blaivybės ir gėrimo grįžimo kontekste.
 
 ## Teiginiai
 
-<a id="claim-t-195622"></a>
+<a id="claim-t-203057"></a>
 - t-001
-  teiginys: "Šioje apybraižoje žydai žmonėms aiškino, kad likeris yra ne degtinė, bet vynas."
-  atnaujinta: "2026-07-12 08:46"
+  teiginys: "„Mūsų tautosakoje“ rašoma, kad žydai ėmė sakyti, jog likeris yra ne degtinė, bet vynas."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -81,7 +81,7 @@ Terminas vartojamas blaivybės ir gėrimo grįžimo kontekste.
     tai teisybė, — ir vienas kitas ėmė gerti likerį.
   citata_rodoma: "Žydai ėmė sakyti, kad tai ne degtinė, bet vynas; žmonės, išsiilgę stiprumo, buvo linkę tikėti, kad tai teisybė, — ir vienas kitas ėmė gerti likerį."
   statusas: verified
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4acdfc8105795179972f9e3"
+canonical_name: "Eustachijus (raštininkas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eustachijus (raštininkas)"]
+sameAs: []
+canonical_biography: "Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka­ raliaus Žygimanto Augusto laiškas, rašytas rusų kalba iš Liublino, datuo­ tas 1538 metų rugsėjo 1 dieną, su Lietuvos antspaudu ir raštininko Ostafiejaus [Eustachijaus] parašu, įspė­."
 ---
 # Eustachijus (raštininkas)
 
@@ -62,7 +69,8 @@ Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka
 - id: c-83641
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 279."
   citata_originali: |
     Žr. Miesto archyve: Žygimanto Seno­
     jo privilegija, datuota Rūdninkuose,

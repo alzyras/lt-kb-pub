@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-411656841dddf0ca786f2fa6"
+canonical_name: "Mozyrius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mozyrius"]
+sameAs: []
+canonical_biography: "Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė. Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
+place_authority: true
+historical_names: []
 ---
 # Mozyrius
 
@@ -42,7 +51,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 <a id="claim-t-68718"></a>
 - t-001
   teiginys: "Maišto vadui pavyko užimti tik Mozyrių ir Turovą, o Sluckas ir Minskas jam nepasidavė."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Minskas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -54,7 +63,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   temporaliniai_duomenys: "įvykio data: 1535 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-68225
     - c-182415
@@ -62,7 +71,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 <a id="claim-t-68719"></a>
 - t-002
   teiginys: "Maišto vadui pavyko užimti Mozyrių ir Turovą, bet Sluckas ir Minskas jam nepasidavė."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Minskas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -105,46 +114,22 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 <a id="claim-t-199615"></a>
 - t-004
   teiginys: "Ties Lojevu žygio dalyviai persikėlė į dešinįjį Dniepro krantą ir pasuko vakarų kryptimi Mozyriaus bei Slucko link."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Įvardytas neaiškus įvardis ir sutrumpintas teiginys."
   susije_objektai: "mentioned_place: Sluckas; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Maskva"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182414
-
-<a id="claim-t-199617"></a>
-- t-005
-  teiginys: "Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
-  atnaujinta: "2026-07-12 23:03"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Kronikos valdovo titului ir pasakojimo faktui reikia atribucijos."
-  susije_objektai: "llm_object: Mozyrius; llm_object: Karačevas; llm_object: Starodubas; mentioned_place: Karačevas; mentioned_place: Starodubas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Minskas; mentioned_place: Sluckas"
-  semantiniai_rysiai: "[[objektai/asmenys/Skirmantas|Skirmantas]] užėmė Mozyrius"
-  temporaliniai_duomenys: "įvykio data: 1535 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Kronikos valdovo titului ir pasakojimo faktui reikia atribucijos."
-  ryšio_patikimumas: "uzeme -> Mozyrius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mozyrius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Skirmantas paėmė Mozyrių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-182412
 
 ## Citatos
 
 - id: c-68225
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 216."
   citata_originali: |
     Be to, Lietuvos po-
     nai, jo priešai, norėdami jį
@@ -202,7 +187,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 - id: c-182412
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
   citata_originali: |
     50
 
@@ -219,16 +205,15 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
 - id: c-182414
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Jodami stepėmis tarp
     Lietuvos ir Maskvos valdų jie kasdien su-
@@ -250,7 +235,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 - id: c-182415
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 216."
   citata_originali: |
     Be to, Lietuvos po-
     nai, jo priešai, norėdami jį
@@ -265,7 +251,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
   citata_rodoma: "Maskvos pasienio\nsritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-\nzyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė."
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

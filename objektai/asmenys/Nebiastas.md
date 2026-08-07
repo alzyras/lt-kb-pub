@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-181461176690ea5cf0e537dc"
+canonical_name: "Nebiastas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nebiastas"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu prašė Danielių taikiai išeiti iš jų žemės ir nebendradarbiauti su lenkais."
 ---
 # Nebiastas
 
@@ -54,7 +61,8 @@ Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu praš�
 - id: c-174328
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
   citata_originali: |
     Taip buvo pradėtas
     mūšis, kuris visą dieną užpuolikams buvo labai sėkmin­

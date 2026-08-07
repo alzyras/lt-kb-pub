@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-52427ee94e37e9b342b584af"
+canonical_name: "Elžbieta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Elžbieta"]
+sameAs: []
+canonical_biography: "Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­ niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­ ralienės Elžbietos, Jadvygos motinos. Karalienė Elžbieta su tuo reikalavimu sutiko ir pažadėjo po 1383 m. Velykų ją išsiųsti, bet su ta sąlyga, kad ji apsikarū­ navusi vėl grįžtų trims metams į Vengriją. Ka­ ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­ riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­ gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­ jos karalium“."
 ---
 # Elžbieta
 
@@ -42,14 +49,14 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 <a id="claim-t-82291"></a>
 - t-001
   teiginys: "Šventa Elžbieta mirė 1231 m. lapkričio 19 d."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1231 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
   pagrindžia:
-    - c-78775
+    - c-78776
 
 <a id="claim-t-82292"></a>
 - t-002
@@ -296,7 +303,8 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - id: c-78770
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     15. Kelerių metų šventa Elžbieta ištekėjo už vyro
 
@@ -318,7 +326,8 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 164."
   citata_originali: |
     Nuo to laiko spėjo prabėgti apie pusantrų metų, bet karalie­
     nė Elžbieta savo pažadų vis neištesėjo. Lenkai ėmė nekantrauti
@@ -339,7 +348,8 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - id: c-78772
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     12. Apie šventos Elžbietos gimimą
 
@@ -360,7 +370,8 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - id: c-78773
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
   citata_originali: |
     25. Apie šventos Elžbietos kanonizavimą
 
@@ -382,7 +393,8 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - id: c-78774
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 246-247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 246-247."
   citata_originali: |
     _  .
     230
@@ -409,7 +421,8 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - id: c-78775
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 228."
   citata_originali: |
     17. Apie Šventos Elžbietos vyro mirtį
 
@@ -426,13 +439,13 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-007
 
 - id: c-78776
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Apie šventos Elžbietos mirtį
 
@@ -444,15 +457,18 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   citata_rodoma: "Apie šventos Elžbietos mirtį\n\n  1231 viešpaties metais, lapkričio 19 dieną, mirė šventa Elžbieta.\n\n\n\n                     22."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-78778
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 119."
   citata_originali: |
     Vilniaus vyskupu paskirtas vysk. Andrius Vosylius Jas­
     trzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­
@@ -474,7 +490,8 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 163."
   citata_originali: |
     Bet kai atsirado nesu­
     sipratimų su Marijos sužieduotiniu, vėliau jos vyru, ir kai paaiš­
@@ -494,7 +511,8 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - id: c-168057
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 670"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 670."
   citata_originali: |
     1543 m e ta i
     Ž y g im a n ta s
@@ -524,7 +542,8 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - id: c-179023
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Rytą, patyręs, jog anksčiau minėtuosius Hartmaną
     bei Ditrichą kamavo panašios mintys, nuėjo su jais basomis ir su ašutinėmis į švento

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-989c124e56046c9bede8decd"
+canonical_name: "Olimaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Olimaras"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime Olimaras buvo vienas iš dviejų rusų vadų, išlikusių gyvų po kautynių, kuriose žuvo kiti rusų vadai."
 ---
 # Olimaras
 
@@ -54,7 +61,8 @@ Narbuto pasakojime Olimaras buvo vienas iš dviejų rusų vadų, išlikusių gyv
 - id: c-174183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
   citata_originali: |
     Pasakoji­
     mui apie šį neabejotinai seną įvykį būdingi istoriškumo

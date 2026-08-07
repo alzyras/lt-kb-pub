@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-22a0d35df6e132ce555e68d6"
+canonical_name: "Glumeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Glumeris"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad XVII a. kunigas Glumeris Henriko Latvio kronikos pastabose 1243 m. lietuvių karo šūkį aiškino kaip kreipinį į karo dievą."
 ---
 # Glumeris
 
@@ -65,7 +72,8 @@ Narbutas rašė, kad XVII a. kunigas Glumeris Henriko Latvio kronikos pastabose 
 - id: c-173307
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
   citata_originali: |
     Henriko Latvio kronikos prierašuose, arba pastabose, ku­
     rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias

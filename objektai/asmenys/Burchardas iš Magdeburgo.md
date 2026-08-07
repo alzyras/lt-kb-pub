@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ecda0407400c1c069ba71d6a"
+canonical_name: "Burchardas iš Magdeburgo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Burchardas iš Magdeburgo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenės ir ginklanešių lydimas kilnusis vyras ir kariauti įgudęs Saksonijos karys Magdeburgo burggrafas224, pravarde Trumparankis, jis per vienus metus, kuriuos ten praleido, atplaukė čia ir perkėlė su magistru bei. Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš tos pačios giminės kaip ir Brunonas iŠ Kverfurfo (mir."
 ---
 # Burchardas iš Magdeburgo
 
@@ -75,7 +82,8 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
 - id: c-60728
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 73."
   citata_originali: |
     Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo
     įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir broliai, norėdami, kad
@@ -100,7 +108,8 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
 - id: c-60729
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 73."
   citata_originali: |
     224  Burggrafas Burchardas iš Magdeburgo, kilęs iš tos pačios giminės kaip ir Brunonas
     iŠ Kverfurfo (mir. 1009), vienas pirmųjų misionierių, veikusių prūsų žemėse.

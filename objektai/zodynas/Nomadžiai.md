@@ -75,7 +75,8 @@ Vartojamos formos: `nomadžiais`.
 - id: c-09567
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 63-64"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 63-64."
   citata_originali: |
     Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo prašaleičių nomadžiais buvo vadinama, beje, žmonės, namuose gyvenantys.
   citata_rodoma: "Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo prašaleičių nomadžiais buvo vadinama, beje, žmonės, namuose gyvenantys."

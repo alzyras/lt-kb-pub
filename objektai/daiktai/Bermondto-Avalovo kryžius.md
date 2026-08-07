@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-44641
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 272."
   citata_originali: |
     p. 190, Bermondto-Avalovo kryžius, teiktas pasižymėjusiems bermontininkams.
     http://shopuuu.ru/images/item. pics/krestzapdobrarmiifrach-o.jpg

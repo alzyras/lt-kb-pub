@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-28d12a8cf76f0f84db2b6d9f"
+canonical_name: "Duburys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Duburio","Duburys"]
+sameAs: []
+canonical_biography: "Duburys apibūdinamas kaip upuokšnis, susiliejantis su Ažyte ir gilėjantis savo krioklio tėkme."
+place_authority: true
+historical_names: []
 ---
 # Duburys
 

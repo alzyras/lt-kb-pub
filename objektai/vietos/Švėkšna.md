@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-94110f56586881cf1555c63b"
+canonical_name: "Švėkšna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Švėkšna"]
+sameAs: []
+canonical_biography: "123 Švarnas, Danieliaus sūnus 155, 157, 172, 179, 197, 199-201 Švedija 67, 72, 101, 107, 116, 184 Šveicarija 70 ; Šveicarijos Friburgas 57, 59, 153 Švėkšna 184 Švč."
+place_authority: true
+historical_names: []
 ---
 # Švėkšna
 
@@ -61,7 +70,7 @@ media_all_json: |-
 <a id="claim-t-194760"></a>
 - t-002
   teiginys: "Apie šio lobio suradimą Švėkšnos klebono kunigo kanau ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš to gyventojams."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -69,14 +78,15 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171831
+    - c-177156
 
 ## Citatos
 
 - id: c-171831
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 218."
   citata_originali: |
     Kartą man pasitaikė nupirkti auksinę monetą, kuri pavaiz­
     duota natūralaus dydžio III lentelės 17-ajame piešinyje. Ji iš
@@ -92,12 +102,12 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-177156
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
     užkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­
@@ -111,7 +121,8 @@ media_all_json: |-
   citata_rodoma: "Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo\nužkariauta skandinavų -  tai patvirtins tolesnis šios istorijos tę­\nsinys, -  todėl tos šalys galėjo turėti tarpusavio ryšių, -  taigi ir\nauksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem\nkraštams.\nApie šio lobio suradimą Švėkšnos klebono kunigo kanau­\nninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­\nto gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris\nturėjo keletą tokių auksinių monetų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

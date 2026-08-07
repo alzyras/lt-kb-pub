@@ -117,7 +117,8 @@ Tiksli įkūrimo data šioje citatoje nenurodyta. Vieta aiški iš įvykio pavad
 - id: c-78378
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 12-13"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 12-13."
   citata_originali: |
     1855 m., po caro Nikolajaus I mirties ir
     XII

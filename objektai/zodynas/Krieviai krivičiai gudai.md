@@ -60,7 +60,8 @@ Narbutas pateikia Faterio priekaištą, kad Dusburgiečio žinia apie krivį kil
 - id: c-172114
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 420"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 420."
   citata_originali: |
     Dusburgiečio kronikos žinia apie krivį, pasak Faterio (ci­
     tuota vieta), „paremta veikiau nesusipratimu, kilusiu iš to, kad

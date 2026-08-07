@@ -90,7 +90,8 @@ Archeologijos ir mokslo komisija.
 - id: c-78240
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 15."
   citata_originali: |
     Iki pat gyvenimo pabaigos M. Balinskis liko kritinio meto­
     do, kurį jam dar jaunystėje įskiepijo istorikas J. Lelevelis, šali­

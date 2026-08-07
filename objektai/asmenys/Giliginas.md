@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e77456e0d0fbb43922a7021c"
+canonical_name: "Giliginas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Giliginas"]
+sameAs: []
+canonical_biography: "Giliginui mirė sūnus ir sosto įpėdinis Romuntas."
 ---
 # Giliginas
 
@@ -57,7 +64,8 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
 - id: c-169402
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 132."
   citata_originali: |
     Kaip tei­
     giama įvairių rašytojų, Ro­

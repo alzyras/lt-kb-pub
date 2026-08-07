@@ -127,7 +127,8 @@ Nenurodyta
 - id: c-169010
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 109."
   citata_originali: |
     Iš tiesų Treniota vėles­
     nėms kartoms tapo žinomas daugiau dėl to, kad nusi­

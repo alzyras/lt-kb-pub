@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09a44c3da2181cb452dadb6f"
+canonical_name: "Praga"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Praga"]
+sameAs: []
+canonical_biography: "Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante, ir laikydavosi vieningai."
+place_authority: true
+historical_names: []
 ---
 # Praga
 
@@ -175,7 +184,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 - id: c-32350
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 13."
   citata_originali: |
     J. Pfitzneris 1930 m. Pragoję išleistame įdomiame veikale
     «Grossfürst Witold als Staatsmann» (lietuv. Jurgio Talmanto
@@ -192,7 +202,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 - id: c-32351
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 259."
   citata_originali: |
     Kadangi Būtauto kėslai pačioje
     Lietuvoje pritarimo nerado, jis ordinui tapo nebereikalingas. Ilgą
@@ -214,7 +225,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 122."
   citata_originali: |
     Iš pra­
     džių tai nebuvo tiek žymu, bet vėliau lenkišką kunigų politiką
@@ -237,7 +249,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 210."
   citata_originali: |
     Be abejo, Vytautui susiartinus su Praga, pa­
     darius su ja uniją, apsikarūnavus jos karaliaus karūna, Lenkija
@@ -259,7 +272,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 210."
   citata_originali: |
     Ši
     aplinkybė ir meta šiek tiek šviesos, kodėl Vytautas taip mielai
@@ -280,7 +294,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 - id: c-166467
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 273."
   citata_originali: |
     Bet į elekciją, žinoma, susirinkdavo ne visi, o tik arti-
     mųjų sričių ir, be to, tik turtingesnieji bajorai. Iš tolimosios Lietu-

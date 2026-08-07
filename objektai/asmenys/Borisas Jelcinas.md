@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0fddba102ae26cb1ac43fa0b"
+canonical_name: "Borisas Jelcinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Borisas Jelcinas"]
+sameAs: []
+canonical_biography: "Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos. Jelcinas – ją pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų)."
 ---
 # Borisas Jelcinas
 
@@ -100,7 +107,8 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
 - id: c-21629
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 256."
   citata_originali: |
     Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo-
     se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
@@ -123,7 +131,8 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
 - id: c-21630
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 256."
   citata_originali: |
     Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
     Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir
@@ -145,7 +154,8 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
 - id: c-41877
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 265."
   citata_originali: |
     Prasidėjus perversmui Maskvoje, atostogaujantis
     M. Gorbačiovas buvo izoliuotas Kryme, tačiau kovai prieš ko-

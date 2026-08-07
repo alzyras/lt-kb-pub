@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b814b70d4f4406eb462478bb"
+canonical_name: "Tochtamyšas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tochtamyšas"]
+sameAs: []
+canonical_biography: "Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo atsisakyti nuo Rusijos ir Vytautui dar suteikti pagalbos. Pas Vytautą buvo atbėgęs baisaus Tamerlano išvytas iš savo valstybės totorių chanas Tochtamyšas."
 ---
 # Tochtamyšas
 
@@ -80,14 +87,21 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 <a id="claim-t-184841"></a>
 - t-003
   teiginys: "Tochtamyšas, negalėdamas įveikti Kerim Berdžio, su svarbiausiais savo šalininkais pabėgo pas Vytautą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tochtamyšas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tochtamyšas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-168204
+    - c-168202
 
 <a id="claim-t-184842"></a>
 - t-004
@@ -135,7 +149,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 158."
   citata_originali: |
     Nepavykęs Vorsklos mūšis kuriam laikui buvo
     sustabdęs šį Vytauto įsigalėjimą Rusų pietuose. Bet jau 1409
@@ -156,7 +171,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 - id: c-168202
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Kerim Berdis,
     galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
@@ -171,14 +187,17 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   citata_rodoma: "Kerim Berdis,\ngalingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo\npasiekti geruoju. Jo brolis Tochtamyšas, nesitikėdamas\nsavo jėgomis nieko laimėti ir nepajėgdamas susitaikyti\nsu likimu ar pašalinti varžovą, pabėgo pas Vytautą kar­\ntu su svarbiausiais savo šalininkais. Vytautas, ne vieną\nkartą ligi tol patyręs šios tautos tvirtą palankumą ir\nsulaukęs karo metais pagalbos, suprato, jog valstybei\nbūsianti didelė nauda, jeigu palenks į save šios tautos\nvadą, jį užstodamas."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-168203
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Vytautas, ne vieną
     kartą ligi tol patyręs šios tautos tvirtą palankumą ir
@@ -203,7 +222,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 - id: c-168204
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Nie­
     ko gero nesusilaukė Tochtamyšas, mat tas, kuris,
@@ -225,7 +245,6 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-005
 
 ## Ryšiai

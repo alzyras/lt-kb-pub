@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cd263948b9065064e0f8c239"
+canonical_name: "Gebhardas iš Manstfeldo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gebhardas iš Manstfeldo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­ mėje 1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus."
 ---
 # Gebhardas iš Manstfeldo
 
@@ -58,7 +65,8 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - id: c-60916
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 250."
   citata_originali: |
     122. Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
                                      mėje

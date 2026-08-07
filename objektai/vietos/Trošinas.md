@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4501aaf83515e1dd57a08f54"
+canonical_name: "Trošinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trošinas"]
+sameAs: []
+canonical_biography: "Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingijos gynybos."
+place_authority: true
+historical_names: []
 ---
 # Trošinas
 
@@ -63,7 +72,8 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
 - id: c-175677
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 132."
   citata_originali: |
     Tuo atveju, jei iš sve­
     timos šalies būtų surengtas koks ¡priešiškas žygis į Jot-

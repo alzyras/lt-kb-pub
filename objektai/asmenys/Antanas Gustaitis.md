@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b7e0635b96bd9c634719efb3"
+canonical_name: "Antanas Gustaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Gustaitis"]
+sameAs: []
+canonical_biography: "Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių). Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse pagamintas lengvasis bombonešis ANBO VIII (1939 m.)."
 ---
 # Antanas Gustaitis
 
@@ -103,7 +110,8 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 - id: c-73407
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 175-176"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 175-176."
   citata_originali: |
     Per 20 metų iš
     šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
@@ -128,7 +136,8 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 - id: c-73408
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 174."
   citata_originali: |
     1935 m. gegužės 21–22 d. kitas JAV lietuvis, Fe-
     liksas Vaitkus, sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.
@@ -149,7 +158,8 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 - id: c-166918
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 174."
   citata_originali: |
     Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-
     tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,

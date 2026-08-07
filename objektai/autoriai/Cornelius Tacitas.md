@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cfcd9ffc9645e9e19ffceca3"
+canonical_name: "Cornelius Tacitas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Cornelius Tacitas"]
+sameAs: []
+canonical_biography: "patvirtina ir romėnų istorikas Cornelius Tacitas (52-117 m. po Kr.) savo Germanijoje (45 skyr.)."
 ---
 # Cornelius Tacitas
 
@@ -53,7 +60,8 @@ patvirtina ir romėnų istorikas Cornelius Tacitas (52-117 m. po Kr.) savo Germa
 - id: c-29216
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 110."
   citata_originali: |
     Tai, berods, 98 m. po Kr. patvirtina ir romėnų istorikas Cornelius
     Tacitas (52-117 m. po Kr.) savo Germanijoje (45 skyr.).

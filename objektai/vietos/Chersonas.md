@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c13de4b79739bd5f3a58f32d"
+canonical_name: "Chersonas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Chersonas"]
+sameAs: []
+canonical_biography: "citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra turėjusi su tolimais kraštais, kurių pirmieji vardai, nuo lietuvių, kalnėnų ir žemaičių, pramanyti^55 , lig šiai dienai užsiturėjo^56. ## vocabulary-pazines-003 - status: unused -."
+place_authority: true
+historical_names: []
 ---
 # Chersonas
 
@@ -68,7 +77,8 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
 - id: c-175639
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
   citata_originali: |
     33
     Jau labai senais laikais graikai užmezgė santykius su
@@ -88,9 +98,9 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
     - t-001
 
 - id: c-184403
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 59"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 59."
   citata_originali: |
     Tuo tarpu radimičiai, apkyrėjus donį bemokėti
     Vladimirui, patrakę, kuriuos vienok jis sudraudęs

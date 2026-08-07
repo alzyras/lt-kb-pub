@@ -46,9 +46,9 @@ Nes kaip per neteisybę kryžėjai į Žemaičių pajūrius buvo įsiveisę, tai
 ## Citatos
 
 - id: c-184593
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 514"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 514."
   citata_originali: |
     Patys kryžėjai jau
     užsiturėjimu užimtuosiuose kraštuose Žemaičių, ne

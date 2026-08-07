@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-904281d3f839c740e52df54a"
+canonical_name: "H. Biezais"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["H. Biezais"]
+sameAs: []
+canonical_biography: "Biezais, H."
 ---
 # H. Biezais
 
@@ -61,7 +68,8 @@ Biezais, H.
 - id: c-32936
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 153."
   citata_originali: |
     — Ber-
     tuleit, A. : _Das Religionswesen der alten Preussen mit lettisch-litauischen

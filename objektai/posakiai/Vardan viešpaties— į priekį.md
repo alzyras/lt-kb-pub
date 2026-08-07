@@ -38,7 +38,7 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
 <a id="claim-t-59165"></a>
 - t-001
   teiginys: "Henrikas, pentinais spausdamas arklį, ištarė: „Vardan viešpaties — į priekį“; po šių žodžių velnias pasakė, kad Dievo vardas jį išgelbėjo."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -81,7 +81,8 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
 - id: c-59797
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
   citata_originali: |
     Todėl ir žmonės tarpais kopė ledu sakytum į
     kalną, tarpais leidosi žemyn nelyginant į klonį, tačiau, viešpaties globojami, nė vienas
@@ -105,7 +106,8 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
 - id: c-167427
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
   citata_originali: |
     Mat arklys matė pavojų, kurio raitelis nakties
     tamsoje negalėjo išvysti. Galop Henrikas tarė savo arkliui, stipriai  jį paspausdamas

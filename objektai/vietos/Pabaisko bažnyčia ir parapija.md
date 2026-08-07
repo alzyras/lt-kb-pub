@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b927f57dc76cf7c2373fe1e0"
+canonical_name: "Pabaisko bažnyčia ir parapija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pabaisko bažnyčia ir parapija"]
+sameAs: []
+canonical_biography: "238 ## Puslapis 255 PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS TREČIOSIOS KNYGOS I PABAISKO BAŽNYČIOS FUNDACIJA Išrašas iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygų, tvarkytų Vilniuje Metais tūkstantis septyni šimtai aštuoniasdešimt penktais kovo mėnesio. Kai garbusis Valenti­ nas iš Pilzno, Vilniaus ir Lucko kanauninkas, Pabaisko baž­ nyčios, pastatytos šventos ir nedalomos Trejybės garbei ir, žinoma, švenčiausiosios Mergelės Marijos ėmimo į dangų ir šventųjų Egidijaus, išpažinėjo, bei Jurgio, kankinio, at­. Tai­ gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­ sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­ rų sužinojome, dabartiniam bažnyčios klebonui, minėtam Valentinui iš Pilzno."
+place_authority: true
+historical_names: []
 ---
 # Pabaisko bažnyčia ir parapija
 
@@ -107,7 +116,8 @@ media_all_json: |-
 - id: c-158109
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 260-261"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 260-261."
   citata_originali: |
     Item Decima in Wieprze om­
     nis Grani praeter Avenam et Strenam, Sive Columbationem
@@ -141,7 +151,8 @@ media_all_json: |-
 - id: c-158111
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 259-260"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 259-260."
   citata_originali: |
     Tai­
     gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­
@@ -177,7 +188,8 @@ media_all_json: |-
 - id: c-158112
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 257-258"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 257-258."
   citata_originali: |
     Taigi
     mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis
@@ -213,7 +225,8 @@ media_all_json: |-
 - id: c-158113
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 254-256"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 254-256."
   citata_originali: |
     Po Aleksandro atėjusiems Lietuvos valdovams teko kuo rim­
     čiausiai pasistengti, kad Lietuvos miestiečių luomui būtų

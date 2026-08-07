@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9b3e9f4c17a316b5e654ff6f"
+canonical_name: "V. Kamantauskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Kamantauskas"]
+sameAs: []
+canonical_biography: "Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA."
 ---
 # V. Kamantauskas
 
@@ -50,7 +57,8 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 320."
   citata_originali: |
     22. V. Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS
     CHRESTOMATIJA. Kirčius patikrino Dr. Pr. Skardžius.

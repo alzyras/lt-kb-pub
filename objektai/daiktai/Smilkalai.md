@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-10286
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 156"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 156."
   citata_originali: |
     kunigas turėjęs tris dienas pasninkauti, ant plikos žemės gulęs, ir į šventą ugnį smilkalus
         mėčioti.

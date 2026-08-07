@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bbb50cc26ca09d75374c4a34"
+canonical_name: "A. Stapulionis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Stapulionis"]
+sameAs: []
+canonical_biography: "Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas."
 ---
 # A. Stapulionis
 
@@ -50,7 +57,8 @@ Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėži
 - id: c-44251
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 181."
   citata_originali: |
     Nuo gegužės 17 d. pra-
     dėti „sustiprintą žvalgybą“, priešui pradė-

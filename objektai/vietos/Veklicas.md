@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0ef76366b58f15f661569b20"
+canonical_name: "Veklicas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Veklicas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą, pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė."
+place_authority: true
+historical_names: []
 ---
 # Veklicas
 
@@ -51,7 +60,8 @@ Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patrauk
 - id: c-59378
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     kur Veisika įteka į Drūsinės ežerą452, ir po neilgo antpuolio ją sudegino, žmones paėmė
     į nelaisvę ar nužudė, išskyrus tuos, kurie valtimis paspruko per Drūsinės ežerą. Po to,

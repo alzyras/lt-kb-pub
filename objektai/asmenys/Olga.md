@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c9e38514cfd480fe79c8d84f"
+canonical_name: "Olga"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Olga"]
+sameAs: []
+canonical_biography: "Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęstučio motina. Taip nukropusi Olga juodgirėnus, tapo jų viešpate. Atgiežusi Olga taip apmaudą ant juodgirėnų per veizėjo visą savo ūkę važinėdamos, sūnui vienok liepusi Kijeve būti, paskaidžiusi kraštą į valsčius, rinkliavas padėjusi nuo žemės."
 ---
 # Olga
 
@@ -105,7 +112,8 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
 - id: c-173074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
   citata_originali: |
     Iš jos sūnūs: Manvydas
     (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
@@ -124,9 +132,9 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
     - t-001
 
 - id: c-184368
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 56"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 56."
   citata_originali: |
     Paukščiai,
     mindami savo gultas, sugrįžo namo ir į pastoges
@@ -145,9 +153,9 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
     - t-002
 
 - id: c-184369
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 56"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 56."
   citata_originali: |
     Atgiežusi Olga taip apmaudą ant juodgirėnų per­
     veizėjo visą savo ūkę važinėdamos, sūnui vienok

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aa0ede4cfe29691d77545bba"
+canonical_name: "Hesichijas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hesichijas"]
+sameAs: []
+canonical_biography: "Hesichijas, kaip ir vėlesni Bizantijos tyrinėtojai, vartojo formą ’Iv8ixvję."
 ---
 # Hesichijas
 
@@ -53,7 +60,8 @@ Hesichijas, kaip ir vėlesni Bizantijos tyrinėtojai, vartojo formą ’Iv8ixvj�
 - id: c-174492
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 394"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 394."
   citata_originali: |
     Si pataisa prieštarauja visiems rankraščiams (Co-
     dices)i1, be to, yra tik paprasta prielaida, anot Veselnigo,

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8acda87029bfaf162dcbb5c9"
+canonical_name: "Karšuvos žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karšuvos žemė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kitą žemę, be to, dėl lipšnaus būdo vienodai vieniems ir kitiems malonus, jis patvarkė, kad, lygiomis dalimis panaudojant Livonijos ir Prūsijos brolių lėšas ir darbą, Karšuvos žemėje343, ant švento Jurgio. Dusburgietis teigia, kad 343 Karšuvos (D.— terra Carsovie) žemė pietvakarių Žemaitijoje pietuose apie Nemuno—Mituvos santaką siekė Nemuną, pietvakariuose ribojosi su Skalva (apie Sešuvies—Jūros santaką), vakaruose siekė Minijos žemupį, šiaurėje apėmė Jūros ir Akmenos vidupius su dab."
+place_authority: true
+historical_names: []
 ---
 # Karšuvos žemė
 
@@ -112,7 +121,8 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
 - id: c-86348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
   citata_originali: |
     343 Karšuvos (D.— terra Carsovie) žemė pietvakarių Žemaitijoje pietuose apie
     Nemuno—Mituvos santaką siekė Nemuną, pietvakariuose  ribojosi su Skalva (apie
@@ -130,7 +140,8 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
 - id: c-86350
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111."
   citata_originali: |
     Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno
     Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas

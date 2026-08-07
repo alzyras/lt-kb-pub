@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-960a000fc16ff688349a3efc"
+canonical_name: "Sigitas Tamkevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["objektai/asmenys/Sigitas Tamkevičius","Sigitas Tamkevičius"]
+sameAs: []
+canonical_biography: "Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius. 1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio žurnalistams pranešė, kad lapkričio 13 dieną Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas (TTGK) (jam dar."
 ---
 # Sigitas Tamkevičius
 
@@ -86,7 +93,8 @@ Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius. 19
 - id: c-64350
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 228."
   citata_originali: |
     Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai
     valdžios politikai, reikalauti tikintiesiems ir bažnyčiai konstitucinių teisių.
@@ -105,7 +113,8 @@ Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius. 19
 - id: c-64351
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 229."
   citata_originali: |
     Tai buvo kone vienintelis leidinys, be pertraukos net 17
     metų (nors ir nereguliariai) leistas Sovietų Sąjungoje. Nors „Kronika“ skirta

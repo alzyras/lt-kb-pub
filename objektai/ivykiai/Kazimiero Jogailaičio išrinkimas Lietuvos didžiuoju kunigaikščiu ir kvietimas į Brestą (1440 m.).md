@@ -69,7 +69,7 @@ Nenurodyta
 <a id="claim-t-185587"></a>
 - t-002
   teiginys: "Lietuvos didikai Breste skubiai sušaukė seimą, nes Kazimierui kelias į Brestą buvo artimas."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -95,7 +95,8 @@ Nenurodyta
 - id: c-168947
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 466"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
   citata_originali: |
     Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
     gimine ir sąjungą su lenkais. Manvydas susitarė su
@@ -126,7 +127,8 @@ Nenurodyta
 - id: c-168948
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 466"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
   citata_originali: |
     Esąs tik vienas būdas suteikti valstybei saugią ramybę,
     tas pats, kuriuo pavyko išplėsti jos valdas, būtent iš­
@@ -148,7 +150,8 @@ Nenurodyta
 - id: c-168949
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 466"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
   citata_originali: |
     Galop po karštų ginčų dauge­
     lis nutarė rinkti į valdovus Alšėnų kunigaikščio Jurgio

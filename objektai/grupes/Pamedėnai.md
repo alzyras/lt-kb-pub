@@ -41,13 +41,19 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 <a id="claim-t-78414"></a>
 - t-001
   teiginys: "Antra — Pamedė192, kurioje [gyveno] pamedėnai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pagudėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pamedėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Pagudėnai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pamedėnai\" parinktas kaip owner_note_path. Targetas \"Pagudėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-75709
-    - c-75712
+    - c-75699
 
 <a id="claim-t-78415"></a>
 - t-002
@@ -61,7 +67,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 <a id="claim-t-78417"></a>
 - t-003
   teiginys: "Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,6 +79,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-75698
+    - c-75702
 
 <a id="claim-t-78419"></a>
 - t-004
@@ -95,18 +102,19 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 <a id="claim-t-78420"></a>
 - t-005
   teiginys: "Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Brandenburgas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pamedėnai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Brandenburgas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pamedėnai\" parinktas kaip owner_note_path. Targetas \"Brandenburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_patikimumas: "priklause -> Pamedėnai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Belichovas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Pamedėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Belichovo pilis tiesiogiai įvardyta kaip priklausiusi kilmingam pamedėnui; leidžiamas artimiausias savininko objektas yra pamedėnai."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Belichovas priklausė Pamedėnai (0.84)"
   pagrindžia:
-    - c-75704
+    - c-75711
 
 <a id="claim-t-78421"></a>
 - t-006
@@ -165,7 +173,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 <a id="claim-t-78424"></a>
 - t-009
   teiginys: "Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bartai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -256,7 +264,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75698
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     Ilgainiui pilyje vėl kilo toks baisus badas,
     kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie
@@ -278,7 +287,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75699
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
   citata_originali: |
     Lubavos191 [žemė], kuri prieš Teutonų ordino brolių atkilimą, galima sakyti, buvo
     visiškai nusiaubta. Antra — Pamedė192, kurioje [gyveno] pamedėnai. Trečia — Pagudė193,
@@ -286,14 +296,17 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   citata_rodoma: "Lubavos191 [žemė], kuri prieš Teutonų ordino brolių atkilimą, galima sakyti, buvo\nvisiškai nusiaubta. Antra — Pamedė192, kurioje [gyveno] pamedėnai. Trečia — Pagudė193,\nkurioje [gyveno] pagudėnai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-75700
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Ordino pajėgos
     1260 m. Klaipėdoje prieš Lietuvą buvo
@@ -322,7 +335,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75701
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Apie maldininkus ir Prūsijos žemei sugrąžintą taiką
     Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos
@@ -347,7 +361,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75702
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Šitai sužinoję, prūsai
     įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
@@ -360,14 +375,17 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   citata_rodoma: "Šitai sužinoję, prūsai\nįtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,\ntol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,\nten jis, ilgesnį laiką pasirgęs, galop pagijo. Ilgainiui pilyje vėl kilo toks baisus badas,\nkad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie\njų prisidėjusius, pasitraukti iš čia  į kitas vietas, žadėdami palikti jiems visas teises bei\nlaisves, kad galėtų ten prasimaitinti ir čia badu nenumirtų. Todėl jie visi ir pasitraukė,\no pasiliko tik vienas kitas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-75704
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Apie antrąjį minėtojo Marienverderio miesto sugriovimą
     Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio
@@ -382,16 +400,15 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   citata_rodoma: "Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio\nmiestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė\nprie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam\npamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš\nElbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi\nšalys patyrė didelių nuostolių sužeistaisiais. Po to priešai priartėjo prie Marienverderio\nmiesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė\nžūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji\nbuvo arba paimti į nelaisvę, arba užmušti."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
 - id: c-75705
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 159."
   citata_originali: |
     Mat velnias, žmonių giminės
     nedraugas ir tikėjimo priešas, apsigyvenęs jų širdyje, iš neapykantos taikai pakurstė
@@ -412,7 +429,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75706
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Įvyko šitaip todėl, kad pats Kristus,
     kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
@@ -436,7 +454,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - id: c-75709
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
   citata_originali: |
     14. Apie daugelio pilių sunaikinimą ir pamedėnų pavergimą
 
@@ -452,13 +471,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-004
 
 - id: c-75711
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
     148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą
 
@@ -471,14 +490,17 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   citata_rodoma: "148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą\n\n  Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio\nmiestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė\nprie Belichovo pilies427, pastatytos Osos pakrantėje ir priklausiusios vienam kilmingam\npamedėnui, vardu Jonas, Sarginio sūnui. Iš šios pilies išėjo brolis Konradas Švabas iš\nElbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi\nšalys patyrė didelių nuostolių sužeistaisiais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-75712
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
   citata_originali: |
     Šis regėjimas taip juos nugąsdino, taip
     palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
@@ -494,13 +516,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-171183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
   citata_originali: |
     Tad vėl atsiduota tų dievų valios aiškintojų valdžiai. Šie užkei­
     kė aitvarus, kad išnyktų, o pamedėnai turėjo iškilmingiausiai

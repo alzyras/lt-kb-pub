@@ -56,7 +56,8 @@ Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai i
 - id: c-175746
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
   citata_originali: |
     1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro
     šios temos pagrindą.

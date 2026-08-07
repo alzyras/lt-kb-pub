@@ -83,7 +83,8 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
 - id: c-69848
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
   citata_originali: |
     Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų
     smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;
@@ -101,7 +102,8 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
 - id: c-69849
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 40."
   citata_originali: |
     Kitą lietuvių vaidmens rusėnų visuomenėje aspektą slepia socialinė
     ekonominė sritis. Atėję iš ryškią individualią alodinę nuosavybės struk-
@@ -120,7 +122,8 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
 - id: c-69850
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 40."
   citata_originali: |
     Atėję iš ryškią individualią alodinę nuosavybės struk-
     tūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujan-

@@ -59,7 +59,7 @@ Nenurodyta
 <a id="claim-t-75191"></a>
 - t-001
   teiginys: "Rengiantis Lietuvos pirmininkavimui ES, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti glaustą Lietuvos istorijos veikalą."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1990 m.; įvykio data: 2004 m."
@@ -90,7 +90,7 @@ Nenurodyta
 <a id="claim-t-75193"></a>
 - t-003
   teiginys: "2013 m. Lietuva turėjo imtis pirmininkauti Europos Sąjungai kaip laisvų ir demokratinių Europos valstybių susivienijimui."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1990 m.; įvykio data: 2004 m.; įvykio data: 2013 m."
@@ -104,7 +104,8 @@ Nenurodyta
 - id: c-73068
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 10."
   citata_originali: |
     Tai iš-
     skirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį,
@@ -139,7 +140,8 @@ Nenurodyta
 - id: c-73069
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 10."
   citata_originali: |
     1990 m. kovo 11 d. atkūrusi nepriklausomybę,
     2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
@@ -166,7 +168,8 @@ Nenurodyta
 - id: c-73070
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 10."
   citata_originali: |
     Šiandien yra bene geriausia proga šią gražią diplomatinę tradici-
     ją pratęsti ir sustiprinti. 1990 m. kovo 11 d. atkūrusi nepriklausomybę,

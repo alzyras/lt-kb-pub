@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a27fc98b6e18558fe1f67a1e"
+canonical_name: "Volradas Nuostabusis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Volradas Nuostabusis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginimą Tuo metu, kai prūsai buvo įtariami atskalūnybe, brolis Volradas, Notangos ir Varmės fogtas, vadinamas Volradu Nuostabiuoju355 (jis iš tiesų toks buvo), vakarieniavo su minėtosios žemės kilmingaisiais."
 ---
 # Volradas Nuostabusis
 
@@ -52,7 +59,8 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
 - id: c-61101
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
   citata_originali: |
     Apie Lencenbergo pilies bei daugybės prūsų sudeginimą
 

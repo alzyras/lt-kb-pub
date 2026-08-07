@@ -109,7 +109,8 @@ Nenurodyta
 - id: c-62792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
   citata_originali: |
     Apie 72 lietuvius, nukautus Notangoje
     Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai

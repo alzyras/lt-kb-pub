@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6ffc19c1410de1ce2866deb9"
+canonical_name: "Sofija Vytautaitė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sofija Vytautaitė"]
+sameAs: []
+canonical_biography: "Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuoniams sudarys tiek daug rūpesčio!"
 ---
 # Sofija Vytautaitė
 
@@ -52,7 +59,8 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
 - id: c-76237
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     Kafos apy-
     linkės buvo pavestos valdyti į Lietuvos
@@ -82,7 +90,8 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
 - id: c-76238
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     Prieš mūšį
 

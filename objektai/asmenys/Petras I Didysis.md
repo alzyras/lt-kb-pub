@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a72f8cde712bdabf3839ea41"
+canonical_name: "Petras I Didysis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras I Didysis"]
+sameAs: []
+canonical_biography: "Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė Narvą, Tartus ir Nevos paupy pradėjo statyti būsimąją Rusijos sostinę — Petrapilį (dabartinį Leningradą). Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Tuo pat metu Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą."
 ---
 # Petras I Didysis
 
@@ -153,7 +160,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - id: c-167783
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 393"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 393."
   citata_originali: |
     Karo pradžia. Kai Augustas II su Petru I padarė sutartį
     atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
@@ -172,7 +180,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - id: c-167784
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 389"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 389."
   citata_originali: |
     Tuo pat metu Maskvos caras Petras I Didysis ruošėsi pra-
     siveržti į Baltijos jūrą. Tam tikslui reikėjo išvyti švedus, val-
@@ -191,7 +200,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - id: c-167785
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 37."
   citata_originali: |
     Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
     garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
@@ -215,7 +225,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - id: c-167786
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 88."
   citata_originali: |
     apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
     Lietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-
@@ -236,7 +247,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - id: c-167787
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 45."
   citata_originali: |
     Nuo Gediminaičių dinastijos išmirimo (1572) « abiejų tautų »
     (« obojga narodów ») politinė istorija vystėsi bendroje respublikoje
@@ -258,7 +270,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - id: c-167789
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 142."
   citata_originali: |
     Todėl Augustas 11 nusprendė
     išvyti iš Livonijos švedus ir ją užvaldyti.

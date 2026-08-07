@@ -58,7 +58,8 @@ media_all_json: |-
 - id: c-33644
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 72."
   citata_originali: |
     Z. I v i n s k i s, 1933 m. rudenį perėmęs po A. Aleknos mirties
     vakuojančią visuotinės istorijos katedrą Teologijos-Filosofijos fa­

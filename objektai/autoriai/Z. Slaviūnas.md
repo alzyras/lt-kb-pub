@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-762b756b07f7c72ebdbd4b73"
+canonical_name: "Z. Slaviūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Z. Slaviūnas"]
+sameAs: []
+canonical_biography: "Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ komentarus 1959 m. leidime."
 ---
 # Z. Slaviūnas
 
@@ -57,7 +64,8 @@ Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ ko
 - id: c-173292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 38."
   citata_originali: |
     22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.
     Komentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959.

@@ -58,7 +58,8 @@ Dusburgietis teigia, kad vanagas A.
 - id: c-61971
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 275."
   citata_originali: |
     Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.
     185—189.

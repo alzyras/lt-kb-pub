@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a6e09e934ed3ece8f792d72b"
+canonical_name: "Vartislavas (Sventopelko sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vartislavas (Sventopelko sūnus)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anksčiau minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų ordino broliams Prūsijoje."
 ---
 # Vartislavas (Sventopelko sūnus)
 
@@ -103,7 +110,8 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
 - id: c-61092
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
   citata_originali: |
     Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
     minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
@@ -120,9 +128,9 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
     - t-001
 
 - id: c-184392
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 252"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 252."
   citata_originali: |
     Valdymie-
     rais jos buvo sūnūs kunig. Mestvino: Sviatopelkas,
@@ -139,9 +147,9 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
     - t-002
 
 - id: c-184393
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 555"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 555."
   citata_originali: |
     Negana dar nė to buvo. Mistras, jutęs
     Vartislavą, kunigaikštį Pamario, sukerštus su Vla­

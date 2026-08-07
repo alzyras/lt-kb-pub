@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6c4f8596c8ad46a202f7d999"
+canonical_name: "Jurgis (Vilniaus kaštelionas, Barboros tėvas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis (Vilniaus kaštelionas, Barboros tėvas)"]
+sameAs: []
+canonical_biography: "VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbieta, Vengrijos ir Čekijos karaniuje 1545 metais, palaidota katedliaus, vėliau imperatoriaus Ferdiros bažnyčioje, koplyčioje, šalia kanando, duktė, ištekinta už Žygimanraliaus."
 ---
 # Jurgis (Vilniaus kaštelionas, Barboros tėvas)
 
@@ -60,7 +67,8 @@ VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbie
 - id: c-83718
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 288-289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 288-289."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I I  TOMAS
     29 to Augusto 1543 metais, numirė Vil-

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-18536e14e6e876b7cee50944"
+canonical_name: "O. Laskowski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["O. Laskowski"]
+sameAs: []
+canonical_biography: "Laskowski, O."
 ---
 # O. Laskowski
 
@@ -60,7 +67,8 @@ Laskowski, O.
 - id: c-33080
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 351."
   citata_originali: |
     Nauk w Toruniu, t. 18, 1911, 157-159 p. — Laskowski,
     O. : _Grunwald_ , Warszawa 1929 (išsamus strateginis tyrinėjimas). —

@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7a2c590b891959b8082b7c0b"
+canonical_name: "Linkmenys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Linkmenys"]
+sameAs: []
+canonical_biography: "Livonijos kariuomenės 1433.I.30—II.9 reidas ėjo per Linkmenų valsčių."
+place_authority: true
+historical_names: []
 ---
 # Linkmenys
 
@@ -37,7 +46,7 @@ Livonijos kariuomenės 1433.I.30—II.9 reidas ėjo per Linkmenų valsčių.
 <a id="claim-t-199528"></a>
 - t-001
   teiginys: "1433 m. sausio 30–vasario 9 d. Livonijos kariuomenės reidas per šiaurės rytų Lietuvą ėjo ir per Linkmenų valsčių."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Sakinys yra aiškus faktinis teiginys apie Linkmenų valsčiaus paminėjimą reide."
@@ -46,7 +55,7 @@ Livonijos kariuomenės 1433.I.30—II.9 reidas ėjo per Linkmenų valsčių.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Sakinys yra aiškus faktinis teiginys apie Linkmenų valsčiaus paminėjimą reide."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182276
 

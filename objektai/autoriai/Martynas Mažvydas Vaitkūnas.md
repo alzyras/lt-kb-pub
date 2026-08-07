@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f4e2e7371475788c33eb98cb"
+canonical_name: "Martynas Mažvydas Vaitkūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Martynas Mažvydas Vaitkūnas","Martyno Mažvydo Vaitkūno","Mažvydas","Mažvydo"]
+sameAs: []
+canonical_biography: "Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštininkas; jam priskiriami darbai lietuviškos protestantiškos knygos, 1547 m. lietuviškas katekizmas ir kiti darbai."
 ---
 # Martynas Mažvydas Vaitkūnas
 
@@ -103,7 +110,8 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 - id: c-00081
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 266."
   citata_originali: |
     Tuo pat metu protestantizmas labai uoliai buvo platinamas
     ir Mažojoje Lietuvoje. Ten buvo pradėta rūpintis liaudim, ku-
@@ -123,7 +131,8 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 - id: c-00082
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 623"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 623."
   citata_originali: |
     Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir
     kai kurias giesmes, kurių dalis buvo versta Rapagelionio ir Kul-
@@ -140,7 +149,8 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 - id: c-00083
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 623"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 623."
   citata_originali: |
     1570 m. Mažvydo giesmynas.
   statusas: verified

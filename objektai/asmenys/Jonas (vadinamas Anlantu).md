@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8309eb1316fd5809fb186211"
+canonical_name: "Jonas (vadinamas Anlantu)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas (vadinamas Anlantu)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Albrechto, Romos karaliaus, nužudymą 1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs Austrijos kunigaikštystę, nors tas ir buvo."
 ---
 # Jonas (vadinamas Anlantu)
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad apie Albrechto, Romos karaliaus, nužudymą 1308 viešp
 - id: c-60976
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
   citata_originali: |
     104. Apie Albrechto, Romos karaliaus, nužudymą
 

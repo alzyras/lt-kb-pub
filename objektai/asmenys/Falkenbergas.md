@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3d764dac471599db5b35fed5"
+canonical_name: "Falkenbergas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Falkenbergas"]
+sameAs: []
+canonical_biography: "Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok."
 ---
 # Falkenbergas
 
@@ -51,7 +58,8 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 128."
   citata_originali: |
     Vienas
     iš kryžiuočių, Falkenbergas, stengėsi dar Vok. Ordinui padėti,

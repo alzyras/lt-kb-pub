@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-137107ebb3c9cc74aa974918"
+canonical_name: "Loreta Asanavičiūtė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Loreta Asanavičiūtė"]
+sameAs: []
+canonical_biography: "1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje."
 ---
 # Loreta Asanavičiūtė
 
@@ -40,7 +47,8 @@ media_all_json: |-
 - id: c-21862
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 245."
   citata_originali: |
     Aplink
     AT-AS pastatą statomos betoninės sienos ir spygliuotų vielų užtvaros. Apie

@@ -32,12 +32,16 @@ media_all_json: |-
 
 Antano Astrausko knyga „Per barzdą varvėjo: svaigiųjų gėrimų istorija Lietuvoje“ 2008 m. išleista Vilniuje leidykloje „Baltos lankos“.
 
+## Santrauka
+
+Antano Astrausko knyga „Per barzdą varvėjo: svaigiųjų gėrimų istorija Lietuvoje“ 2008 m. išleista Vilniuje leidykloje „Baltos lankos“.
+
 ## Teiginiai
 
 <a id="claim-t-200753"></a>
 - t-001
   teiginys: "Antano Astrausko knyga „Per barzdą varvėjo: svaigiųjų gėrimų istorija Lietuvoje“ 2008 m. išleista Vilniuje leidykloje „Baltos lankos“."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,6 +67,6 @@ Antano Astrausko knyga „Per barzdą varvėjo: svaigiųjų gėrimų istorija Li
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 18."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-001

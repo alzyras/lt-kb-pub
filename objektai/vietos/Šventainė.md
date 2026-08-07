@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-badfa21516ad47a354b26f4d"
+canonical_name: "Šventainė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventainė"]
+sameAs: []
+canonical_biography: "Šventainė (Szwentejne) Prūsuose minima kaip upė, ties Baičių kaimu įtekanti į Peisę; anksčiau ji vadinta Galbe."
+place_authority: true
+historical_names: []
 ---
 # Šventainė
 
@@ -55,7 +64,8 @@ media_all_json: |-
 - id: c-171860
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
   citata_originali: |
     Atrodo, Žemaitijoje šitaip vadinami dar keli ma­
     žesni upeliai.

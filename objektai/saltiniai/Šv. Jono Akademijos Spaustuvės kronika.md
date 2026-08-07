@@ -79,7 +79,8 @@ Jono Ak ademi jos Spaustuvės kronika 1547. Vilniaus kanauninkas Vilčiopolskis 
 - id: c-84340
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196-197"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196-197."
   citata_originali: |
     D) Šv. Jono Ak ademi jos Spaustuvės kronika
     1547. Sklypas tas ir mūrinis namas, kuriame yra spaustu­
@@ -119,7 +120,8 @@ Jono Ak ademi jos Spaustuvės kronika 1547. Vilniaus kanauninkas Vilčiopolskis 
 - id: c-84341
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196-197"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196-197."
   citata_originali: |
     Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­
     mą su sklypu, savo paskutinę valią pareikšdamas, užrašė

@@ -17,8 +17,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d3ed8ec59b52c2de98ed0cc"
+canonical_name: "Grigas Mikalaitis Vijūkas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Grigas Mikalaitis Vijūkas"]
+sameAs: []
+canonical_biography: "Zigmantas Kiaupa daro prielaidą, kad Grigas Mikalaitis Vijūkas buvo Jono Kojalavičiaus antros eilės pusbrolis."
 ---
 # Grigas Mikalaitis Vijūkas
+
+## Santrauka
+
+Zigmantas Kiaupa daro prielaidą, kad Grigas Mikalaitis Vijūkas buvo Jono Kojalavičiaus antros eilės pusbrolis.
 
 ## Santrauka
 
@@ -29,7 +40,7 @@ Zigmantas Kiaupa daro prielaidą, kad Grigas Mikalaitis Vijūkas buvo Jono Kojal
 <a id="claim-t-202387"></a>
 - t-001
   teiginys: "Zigmantas Kiaupa daro prielaidą, kad Grigas Mikalaitis Vijūkas buvo Jono Kojalavičiaus antros eilės pusbrolis."
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -42,11 +53,12 @@ Zigmantas Kiaupa daro prielaidą, kad Grigas Mikalaitis Vijūkas buvo Jono Kojal
 ## Citatos
 
 - id: c-185734
+  autorius: "Zigmantas Kiaupa"
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 6"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:24"
   pagrindzia:
     - t-001

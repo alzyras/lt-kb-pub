@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-68b3a0a3df6af5f1b47a4a65"
+canonical_name: "Seimo upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Seimo upė"]
+sameAs: []
+canonical_biography: "Narbutas teigė, kad Hipakyris dabar vadinamas Seimo upe, o nerastą Herodoto upę jis siejo su dabartine Desna."
+place_authority: true
+historical_names: []
 ---
 # Seimo upė
 
@@ -55,7 +64,8 @@ Narbutas teigė, kad Hipakyris dabar vadinamas Seimo upe, o nerastą Herodoto up
 - id: c-175623
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
   citata_originali: |
     Herodotas
     teigia, kad iki šio krašto nuo Dnepro žiočių reikia plauk­

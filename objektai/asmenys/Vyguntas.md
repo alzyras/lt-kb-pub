@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5e5ae3b8c982b78b77fb14f5"
+canonical_name: "Vyguntas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vyguntas"]
+sameAs: []
+canonical_biography: "Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­."
 ---
 # Vyguntas
 
@@ -51,7 +58,8 @@ Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 290."
   citata_originali: |
     Dar didesnio Lietuvos nuovargio liudijimas yra 1382 mt.,
     po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­

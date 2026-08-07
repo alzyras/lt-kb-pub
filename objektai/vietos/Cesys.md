@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-967149b70d5390d5a03c4899"
+canonical_name: "Cesys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Cesys"]
+sameAs: []
+canonical_biography: "Padaręs sąjungą su Aleksandru Nevskiu (Didž. Naugarde)^183 , drauge su Treniota, Mindaugas išžygiavo Livonijon ir nesėkmingai puolė Cesio (Wendeno) pilį. Prie žygio nepasisekimo prisidėjo tai, kad iš Naugardo neatėjo laiku prieš kryžiuočius žadė­ toji."
+place_authority: true
+historical_names: []
 ---
 # Cesys
 
@@ -51,7 +60,8 @@ Padaręs sąjungą su Aleksandru Nevskiu (Didž. Naugarde)^183 , drauge su Treni
 - id: c-31987
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 196."
   citata_originali: |
     Padaręs sąjungą su Aleksandru Nevskiu (Didž.
     Naugarde)^183 , drauge su Treniota, Mindaugas išžygiavo Livonijon

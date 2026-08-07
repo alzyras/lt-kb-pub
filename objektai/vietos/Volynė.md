@@ -35,6 +35,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-73d95951340f95611b7366b1"
+canonical_name: "Volynė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Volynė"]
+sameAs: []
+canonical_biography: "1219 m. priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir greičiausiai siekiant apginti prūsų kraštą. 1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę. Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio."
+place_authority: true
+historical_names: []
 ---
 # Volynė
 
@@ -66,14 +75,22 @@ media_all_json: |-
 <a id="claim-t-58657"></a>
 - t-002
   teiginys: "1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Auksinė Orda: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Volynė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Auksinė Orda: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Volynė buvo pavaldi Aukso ordai."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Volynė priklausė Auksinė Orda (0.90)"
   temporaliniai_duomenys: "įvykio data: 1323 m.; įvykio data: 1324 m.; įvykio data: 1325 m.; įvykio data: apie 1325 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą Gedimino Lietuvos žygį į Volynę ir Bresto žemės užėmimą."
   pagrindžia:
-    - c-59288
+    - c-59289
 
 <a id="claim-t-185206"></a>
 - t-003
@@ -313,7 +330,8 @@ media_all_json: |-
 - id: c-59288
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
     ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
@@ -332,12 +350,12 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-59289
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
   citata_originali: |
     Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
     m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
@@ -345,14 +363,17 @@ media_all_json: |-
   citata_rodoma: "Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324\nm. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę\n(Brestą, Kamenecą, Kobriną, Melniką, Drohičiną)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-168567
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Gediminas, pasilsėjęs čia, kol artimiausios pi­
     lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
@@ -376,7 +397,8 @@ media_all_json: |-
 - id: c-168568
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 248."
   citata_originali: |
     Kęstutis mė­
     gino sutrukdyti, tačiau, du
@@ -408,7 +430,8 @@ media_all_json: |-
 - id: c-168569
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 417-418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 417-418."
   citata_originali: |
     Atvykęs į Lenkiją, jis sukvie-
     Išsiskiisto Lucko su-
@@ -435,7 +458,8 @@ media_all_json: |-
 - id: c-168571
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 682"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 682."
   citata_originali: |
     Rugsėjo pabaigoje luomai susirinko Vilniuje į
     seimą, kuriame karalius pareikalavo, kad liautųsi pa­
@@ -462,7 +486,8 @@ media_all_json: |-
 - id: c-170627
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 126."
   citata_originali: |
     Važiuodamas per Rūdininkų girią7 , jis toje
     girioje susidūrė su didžiuoju kunigaikščiu Kazimieru
@@ -489,7 +514,8 @@ media_all_json: |-
 - id: c-178896
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Šitaip ilgai­
     niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi

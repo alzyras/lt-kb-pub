@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6f43a74d92a283c961a7898e"
+canonical_name: "Ruhro sritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ruhro sritis"]
+sameAs: []
+canonical_biography: "Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietijos dalies (Ruhro srities) okupacija, sujaudintos tų įvykių Klaipėdoje, įtarė Lietuvos vyriausybę dalyvavus paties sukilimo ruošime ir pasiuntė nepaprastą komisiją tvarkai grąžinti."
+place_authority: true
+historical_names: []
 ---
 # Ruhro sritis
 
@@ -60,7 +69,8 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
 - id: c-43818
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 214."
   citata_originali: |
     Ambasadorių
     konferencija netrukus turėjo priimti

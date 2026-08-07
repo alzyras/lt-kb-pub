@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d13d13fc457fe86ade6d6368"
+canonical_name: "Mendli Girėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mendli Girėjus"]
+sameAs: []
+canonical_biography: "229 ## Puslapis 246 VILNIAUS MIESTO ISTORIJA II TOMAS su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­ kreipė visą jo dėmesį į save. Šach Ach­ medas, apleistas sąjungininko, Mendli Girėjaus sumuštas, 43 Žinome, kad Maskvoje iki šiol dar išlikęs priežodis: Kto w Wilnie nie by­ wał, tot czudes nie widał [Kas Vilniuje nebuvo, tas stebuklų neregėjo]. Kad įtiktų apgailėtinai politikai ir kad būtų suimtas bei įbaugintas Mendli Girėjus, nelaimingasis Šach Achmedas buvo iki gyvos galvos įkalintas Kauno ka­ lėjime."
 ---
 # Mendli Girėjus
 
@@ -67,7 +74,8 @@ media_all_json: |-
 - id: c-83422
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 249."
   citata_originali: |
     Aplink
     miestą su savo palyda palapinėse klajojo Šach Achmedas, o
@@ -90,7 +98,8 @@ media_all_json: |-
 - id: c-83423
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247-248"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247-248."
   citata_originali: |
     Šach Ach­
     medas, apleistas sąjungininko, Mendli Girėjaus sumuštas,

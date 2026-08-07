@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-578e2ca3d48af6e0b699a244"
+canonical_name: "Rusa (Russ) upė Naugardo gubernijoje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rusa (Russ) upė Naugardo gubernijoje"]
+sameAs: []
+canonical_biography: "Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė variagų atgabenta lietuvių tautos kolonija."
+place_authority: true
+historical_names: []
 ---
 # Rusa (Russ) upė Naugardo gubernijoje
 
@@ -55,7 +64,8 @@ Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė var
 - id: c-171946
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Net Vokietijoje,
     kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,

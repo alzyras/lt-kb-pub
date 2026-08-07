@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-610258a9ea7b963c52042387"
+canonical_name: "Augustas Liudvigas Šleceris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. L. Schlozer","A. L. Šleceris","Augustas Liudvigas Šleceris"]
+sameAs: []
+canonical_biography: "J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Šviečiamosios epochos istorikas ir Getingeno mokyklos kūrėjas. Ten pat nurodoma, kad jis paskyrė atskirą veikalą Lietuvai kaip savarankiškai valstybei, o aptardamas Alberto Vijūko-Kojelavičiaus darbą laikė jį geriausiu ano meto istorijos rašytoju."
 ---
 # Augustas Liudvigas Šleceris
 
@@ -118,7 +125,8 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
 - id: c-167818
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 28."
   citata_originali: |
     Vieną knygą jis
     skyrė Lietuvos, Kuršo ir Livonijos istorijai, o kitą —
@@ -138,7 +146,8 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
 - id: c-173574
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 342."
   citata_originali: |
     Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
     84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
@@ -158,7 +167,8 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
 - id: c-173575
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra

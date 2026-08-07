@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-99537fd24b8300ea4c28f4f0"
+canonical_name: "Medininkai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Medininkai"]
+sameAs: []
+canonical_biography: "Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ."
+place_authority: true
+historical_names: []
 ---
 # Medininkai
 
@@ -57,7 +66,8 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 65."
   citata_originali: |
     Apie
     gegužės m. 20 d. jis įsiveržė į Vilniaus srities Medininkus ir,

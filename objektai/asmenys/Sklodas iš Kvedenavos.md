@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9e7a1dc4e5d35853bc76144f"
+canonical_name: "Sklodas iš Kvedenavos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sklodas iš Kvedenavos"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius, vienas iš jų, sembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius, pasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių, ir, užuot. Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o pirmiausia — prieš Kvedenavos valsčių Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies, be to, pernelyg pasikliaujantis savo jėgomis, manė, jog."
 ---
 # Sklodas iš Kvedenavos
 
@@ -49,11 +56,18 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
 <a id="claim-t-60206"></a>
 - t-002
   teiginys: "Sklodas iš Kvedenavos buvo Noliubo tėvas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kvedenava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sklodas iš Kvedenavos: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kvedenava: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sklodas iš Kvedenavos\" parinktas kaip owner_note_path. Targetas \"Kvedenava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60838
+    - c-60837
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,7 +93,8 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
 - id: c-60837
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
                             pirmiausia — prieš Kvedenavos valsčių
@@ -90,14 +105,17 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
   citata_rodoma: "Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o\n                        pirmiausia — prieš Kvedenavos valsčių\n\n  Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,\nbe to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai\npaklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-60838
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
   citata_originali: |
     Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
     ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš
@@ -119,7 +137,6 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Noliubas]]

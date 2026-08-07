@@ -70,7 +70,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 <a id="claim-t-190469"></a>
 - t-003
   teiginys: "Narbutas rašo, kad Lasickis Varpelį laikė ore sklindančio aido dievaičiu, sukeldavusiu griausmą po perkūno trenksmo."
-  atnaujinta: "2026-07-19 19:43"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -103,15 +103,22 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 <a id="claim-t-190471"></a>
 - t-005
   teiginys: "Narbutas rašo, kad, pasak Lasickio, kaukai pasirodydavę tik jais tikėjusiems žmonėms."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lasickis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Lasickio veikalas apie žemaičių dievus: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickio veikalas apie žemaičių dievus\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-177075
+    - c-173354
 
 <a id="claim-t-190472"></a>
 - t-006
@@ -285,7 +292,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-173348
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
   citata_originali: |
     Tų deivių karalienės vardas buvo
     Jūratė .
@@ -306,7 +314,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-173351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 159."
   citata_originali: |
     Datonas (Datonus)
     Dievaitis, žemių arba visokio turto dalytojas. Tik tiek apie
@@ -323,7 +332,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-173352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 163."
   citata_originali: |
     Niekas
     neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
@@ -349,7 +359,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-173353
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
   citata_originali: |
     Markopoliai (Markopole)
     Požemio dievaičiai, kuriuos ypač garbino didikai ir bajo­
@@ -368,7 +379,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-173354
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
   citata_originali: |
     Kitų supratimu, tai buvu­
     sios lietuviškos Silfos . Pasak Lasickio pasakojimų, kaukai pa-
@@ -379,14 +391,17 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   citata_rodoma: "Kitų supratimu, tai buvu­\nsios lietuviškos Silfos . Pasak Lasickio pasakojimų, kaukai pa-\nsi rodydavę tiems, kurie jais tikėjo, kiti jų visiškai negalėję ma­\ntyti. Siu kaukų garbintojai nakčiai tam tikrose vietose padėda­\nvo jiems maisto; iš jo suvalgymo pranašaudavo panašiai kaip\nsu barstukais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-173355
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 197-198"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 197-198."
   citata_originali: |
     Vis dėlto išliko neabejotinų
     faktų apie jų buvimą senovėje. Lasickis sako, kad lietuviai slėp­
@@ -410,7 +425,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-173356
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 208."
   citata_originali: |
     Simonaitė (Simonajte)
     Moteriškos giminės fetišas, jį garbino Mikuckių giminė.
@@ -435,7 +451,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-173357
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 344."
   citata_originali: |
     Matėme aukojimų aprašyme, kad
     aukų paplotėliai buvo kepami mėtant juos per ugnį - tai buvo
@@ -459,7 +476,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-173358
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 348."
   citata_originali: |
     Už pir­
     mą vagystę bausdavo nuplakdami rykštėmis; įrodytąjį pavo­
@@ -488,7 +506,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-177075
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
   citata_originali: |
     Lazdona (Lazdona)
     Tai buvo ypatinga hamadriadė, pasak Lasickio, globojusi
@@ -504,13 +523,13 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-009
 
 - id: c-179143
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
   citata_originali: |
     Mirė maždaug prieš 1220
     metus. Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa­
@@ -529,7 +548,8 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
 - id: c-179144
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
   citata_originali: |
     Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­
     paprastai seni, ir apie juos pasakojo ypač keistų dalykų. Gva-

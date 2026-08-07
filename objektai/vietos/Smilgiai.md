@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-62ac3c3b31eba8a19ef19f6f"
+canonical_name: "Smilgiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Smilgiai"]
+sameAs: []
+canonical_biography: "Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką stengėsi išsiveržti iš apsupties zonos (miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės)."
+place_authority: true
+historical_names: []
 ---
 # Smilgiai
 
@@ -52,7 +61,8 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
 - id: c-40356
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 224."
   citata_originali: |
     Mūšis prasi-
     dėjo ankstų rytą. Mūsiškiai į juos šaudė iš
@@ -72,7 +82,8 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
 - id: c-167195
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 224."
   citata_originali: |
     Nebebuvo laiko slėp-
     tis, reikėjo ruoštis gynybai. Mūšis prasi-

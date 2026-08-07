@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-56b39c0d8b0d0c4323ff41c4"
+canonical_name: "Andrius Kopernikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Kopernikas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Andrius Kopernikas
 
@@ -67,7 +74,8 @@ Nenurodyta
 - id: c-83462
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 389-390"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 389-390."
   citata_originali: |
     Ten pat dalyvaujant Vilniaus vyskupui di­
     džiai gerbiamam Kristuje tėvui ponui Albertui ir didingie­

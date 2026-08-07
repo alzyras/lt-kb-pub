@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-827e67fd504f3c1820f6e85d"
+canonical_name: "Gorodiščės kaimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gorodiščės kaimas"]
+sameAs: []
+canonical_biography: "1780 metais Narbutas sename apkase arba pilies pylime prie Gorodiščės kaimo rado didžiuliam varpui priklausiusį gabalą."
+place_authority: true
+historical_names: []
 ---
 # Gorodiščės kaimas
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-171891
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
   citata_originali: |
     Padavimai išsaugojo paprastų žmonių atminimą, kad lie­
     tuvių garduose, arba pilyse, vadintose Tweras, būta varpų ka­

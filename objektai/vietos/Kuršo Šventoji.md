@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b303232c70788e89fd3bd90"
+canonical_name: "Kuršo Šventoji"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kuršo Šventoji"]
+sameAs: []
+canonical_biography: "Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios."
+place_authority: true
+historical_names: []
 ---
 # Kuršo Šventoji
 
@@ -50,7 +59,8 @@ Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Š
 - id: c-33915
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 367."
   citata_originali: |
     Teoretiškai
     jos buvo siekusios Žemaičių valdžioje esančių Minijos aukštupių.

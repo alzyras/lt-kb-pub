@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-70ba3a673d3e12406a36e9cf"
+canonical_name: "Giunteris iš Regenšteino"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Giunteris iš Regenšteino"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių, sugriovė šią pilaitę, o visą įgulą išžudė arba paėmė į nelaisvę."
 ---
 # Giunteris iš Regenšteino
 
@@ -60,7 +67,8 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
 - id: c-167456
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
   citata_originali: |
     Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
     Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos

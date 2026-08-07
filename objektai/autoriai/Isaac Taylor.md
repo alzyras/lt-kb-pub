@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3eeffb0dd1b6aaee11097fe8"
+canonical_name: "Isaac Taylor"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Isaac Taylor"]
+sameAs: []
+canonical_biography: "„Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to laikotarpio, kaip seniausia indų literatūra, galėtume su didesniu tikrumu teigti, jog arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“ Isaac Taylor (1787–1865) Iš „The Origins."
 ---
 # Isaac Taylor
 
@@ -40,7 +47,8 @@ media_all_json: |-
 - id: c-22136
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 189."
   citata_originali: |
     V s k y r i u s
     LIETUVA: SOVIETŲ IR

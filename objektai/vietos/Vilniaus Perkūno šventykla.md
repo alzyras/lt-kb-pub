@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-94fca2c661a3158e6e38053e"
+canonical_name: "Vilniaus Perkūno šventykla"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["didžioji Perkūno šventykla","Jupiterio Griausmavaldžio, arba Perkūno, šventykla","Vilniaus Perkūno šventykla","Vilniaus šventykla"]
+sameAs: []
+canonical_biography: "Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabartinės Katedros vietoje prie Vilnios ir Neries santakos. Pasakojime ji siejama su 1265 m. statyba, atvira mūrine konstrukcija, koplyčia, aukuru ir Amžinąja ugnimi; pats Narbutas ją lygina su graikų piratėjomis."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus Perkūno šventykla
 
@@ -125,7 +134,8 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
 - id: c-171798
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
   citata_originali: |
     Gyvatė (Giwojte)
     Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
@@ -146,7 +156,8 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
 - id: c-179212
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
   citata_originali: |
     Prie šventyklos įėjimo buvo Krivių
     Krivaičio - žynių žynio rūmas. Tas rūmas turėjo apvalų bokš­
@@ -171,7 +182,8 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
 - id: c-179213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
   citata_originali: |
     Tas rūmas turėjo apvalų bokš­
     tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­
@@ -200,7 +212,8 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
 - id: c-179214
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
   citata_originali: |
     Orakulas žadėjo, kad ji gyvuosianti tol, kol gyva bus
     pati stabmeldystė, ir įsakė pagaminti 122 apvalainas plytas

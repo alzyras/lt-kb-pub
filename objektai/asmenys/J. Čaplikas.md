@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b51e9591422aa3de5463ebfe"
+canonical_name: "J. Čaplikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Čaplikas"]
+sameAs: []
+canonical_biography: "Čapliko pagrindinės pajėgos vakare priartėja iki Augustavo. Čaplikas puola Jestšembną, tai sustabdo lenkus ir jis gali atsitraukti į Gruškų-Liepynės liniją."
 ---
 # J. Čaplikas
 
@@ -67,7 +74,8 @@ media_all_json: |-
 - id: c-41970
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 201."
   citata_originali: |
     Viduriniosios kolonos 2-asis pėst. p. II bn. užima Skerskilą.
     Sutemus vidurinioji kolona pasiekia Augustavo apylinkes.
@@ -83,7 +91,8 @@ media_all_json: |-
 - id: c-44368
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 201."
   citata_originali: |
     Čaplikas puola Jestšembną, tai sustabdo len-
     kus ir jis gali atsitraukti į Gruškų-Liepynės liniją.

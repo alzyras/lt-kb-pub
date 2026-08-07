@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f107fbd4a9e5935739294e34"
+canonical_name: "Kemlickis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kemlickis"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Kemlickis
 

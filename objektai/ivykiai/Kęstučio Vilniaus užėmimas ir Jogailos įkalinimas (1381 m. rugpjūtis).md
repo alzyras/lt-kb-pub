@@ -90,7 +90,8 @@ Nenurodyta
 - id: c-82897
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 51."
   citata_originali: |
     Strijkovskis, 1.465, o juo sekda­
     mas ir K o j e 1  a v i č i u s, p. 361,
@@ -124,7 +125,8 @@ Nenurodyta
 - id: c-82898
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50-51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50-51."
   citata_originali: |
     Dėl to sudarė slaptą, be
     Kęstučio žinios, sutartį su Livoni­

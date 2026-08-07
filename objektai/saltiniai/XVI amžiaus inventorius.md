@@ -58,7 +58,8 @@ Kruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune) ir eilės kitų 
 - id: c-33761
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 69."
   citata_originali: |
     Kulvietį, M.
     Mažvydą ir kt.^85.

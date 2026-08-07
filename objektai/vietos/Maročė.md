@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cd27bfac4aa21ec7a3b0d675"
+canonical_name: "Maročė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Maročė"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja, kad į vakarus keliavusi tauta, laikydamasi kairiojo Pripetės kranto, pasiekė Maročės ir Punios žiotis."
+place_authority: true
+historical_names: []
 ---
 # Maročė
 
@@ -54,7 +63,8 @@ Narbutas pasakoja, kad į vakarus keliavusi tauta, laikydamasi kairiojo Pripetė
 - id: c-175613
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
   citata_originali: |
     Iš čia, tęsdami kelionę į
     vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-21528e8f59215f01d9cf5c28"
+canonical_name: "Dominyko Gabrieliaus Šybinskio"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dominyko Gabrieliaus Šybinskio"]
+sameAs: []
+canonical_biography: "Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą buvo išvertęs Dominykas Šybinskis. Narbutas rašo, kad Šybinskis mitologijos žodyne Lucinos vardą pripažino Junonai, bet dėl to klydo."
 ---
 # Dominyko Gabrieliaus Šybinskio
 
@@ -52,7 +59,7 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
 <a id="claim-t-190335"></a>
 - t-002
   teiginys: "Narbutas rašo, kad Šybinskis mitologijos žodyne Lucinos vardą pripažino Junonai, bet dėl to klydo."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -60,14 +67,15 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173217
+    - c-173218
 
 ## Citatos
 
 - id: c-173217
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 25."
   citata_originali: |
     Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
     ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­
@@ -81,12 +89,12 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-173218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 120."
   citata_originali: |
     5 Šybinskis drauge su kitais mitologais mitologijos žodyne pripa­
     žįsta Lucinos vardą Junonai, bet klysta, nes Horacijus Eileitiją, Luci-
@@ -95,7 +103,8 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
   citata_rodoma: "5 Šybinskis drauge su kitais mitologais mitologijos žodyne pripa­\nžįsta Lucinos vardą Junonai, bet klysta, nes Horacijus Eileitiją, Luci-\nną ir Genitalę vadina Diana. (Carmen Saeculare. -  V. 14 et segu.)\n6 Dainos, arba lietuvių liaudies dainos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

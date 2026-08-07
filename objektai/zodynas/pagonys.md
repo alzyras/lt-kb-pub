@@ -32,15 +32,23 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
 <a id="claim-t-187542"></a>
 - t-001
   teiginys: "Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuojant prieš Maskvą, sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Pranciškonų ordinas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pranciškonų ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginyje Vilniaus miestiečiai pagonys tiesiogiai siejami su pranciškonų vienuolių nužudymu."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Vilniaus miestiečių luomas puolė Pranciškonų ordinas (0.86)"
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
-    - c-170493
+    - c-170492
 
 <a id="claim-t-187543"></a>
 - t-002
@@ -67,7 +75,8 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
 - id: c-170492
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 76."
   citata_originali: |
     APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ
     VILNIUJE
@@ -84,14 +93,17 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
   citata_rodoma: "APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ \nVILNIUJE\nTuo melu kai didysis kunigaikštis Algirdas žy­\ngiavo prieš Maskvą, o su juo buvo jo vaivada Petras \nGoštautas, susirinko Vilniaus miesliečiai pagonys ir di­\ndeliu būriu atėjo prie vienuolyno; nenorėdami, kad \nbūtų Romos tikėjimo krikščionių, vienuolyną sudegino \nir septynis vienuolius sukapojo, o kitus septynis vie­\nnuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­\nkydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­\nkite. Kam mūsų dievus naikinote.\" 2 O vyskupo sode, \nkur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 ."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-170493
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 75."
   citata_originali: |
     Ir parvyksta didysis kunigaikštis Algirdas į Vilnių.
     Goštautas žemai lenkdamasis prašė didįjį kunigaikštį
@@ -107,5 +119,4 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

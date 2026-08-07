@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bffae870a25d72ddae65b0c8"
+canonical_name: "E. Mnišek"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["E. Mnišek"]
+sameAs: []
+canonical_biography: "Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P."
 ---
 # E. Mnišek
 
@@ -51,7 +58,8 @@ Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 317."
   citata_originali: |
     4. E. Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.
     Jurgelevičius. Kiekvienos dalies kaina. Lt. 3,50. Išleista gerame popieriu­

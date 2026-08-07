@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cfb0c5e1f1ac95faf0caf94c"
+canonical_name: "Rudinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rudinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės arba paimti į nelaisvę, arba išžudyti. Dusburgietis teigia, kad kai galop visi krikščionys ir prūsai jau gulėjo nukauti, sargybinis, kuris buvo pririštas prie medžio, sutraukė raiščius, nuėjo į kovos vietą, surado čia Martyną, smarkiai sužeistą, bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge."
+place_authority: true
+historical_names: []
 ---
 # Rudinas
 
@@ -84,7 +93,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 - id: c-87074
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Apie Rudino brolių kovą ir tenykščio miesto sugriovimą
 
@@ -105,7 +115,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 - id: c-87075
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Prusai jį
     taip siaubingai kapojo, taip žeidė, kad daugelyje vietų nuo jo kūno tiesiog karojo dideli
@@ -127,7 +138,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 - id: c-87076
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Pasak
     kai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės

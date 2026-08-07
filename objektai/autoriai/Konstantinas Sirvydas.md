@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-938f8a5e0e7209966d16b064"
+canonical_name: "Konstantinas Sirvydas (kunigas)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Konstantinas Sirvydas","Konstantinas Sirvydas (kunigas)"]
+sameAs: []
+canonical_biography: "Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie lietuvių tautos ir kalbos kilmę. Narbutas rašo, kad kunigas Sirvydas savo žodyne Vilijos upę lietuviškai vadina Nerimi. Narbutas nurodo, kad kunigas Sirvydas savo žodyne Aitvarą vadina Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec."
 ---
 # Konstantinas Sirvydas (kunigas)
 
@@ -61,15 +68,22 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 <a id="claim-t-190293"></a>
 - t-002
   teiginys: "Narbutas nurodo, kad kunigas Sirvydas savo žodyne Aitvarą vadina Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Sirvydas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konstantinas Sirvydas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Sirvydas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinas Sirvydas\" parinktas kaip owner_note_path. Targetas \"Sirvydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173175
+    - c-173176
 
 <a id="claim-t-190294"></a>
 - t-003
@@ -162,7 +176,8 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 - id: c-173175
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 150."
   citata_originali: |
     Tai buvo piktųjų dvasių apgaulė; ty-
     kodamos prie vandens, suvedžiodamos žmones, jos stengėsi
@@ -177,12 +192,12 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-173176
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
   citata_originali: |
     Dainos.
     177
@@ -198,14 +213,17 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   citata_rodoma: "Dainos.\n177\n\n## Puslapis 177\n\nAitvaras (Ajtwaros)\nVyrų paleistuvavimo dievaitis, arba viršgulis, incubus, ku­\nris paprastai užgula miegančias moteris, tykoja jų už tvorų,\ntodėl pavadintas Aitvaru (Ajtweras), pagal žodį „užtvorinis“.\nKunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai\nIncubus, lenkiškai Latawiec."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-173177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 326"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 326."
   citata_originali: |
     11. Vasaris (Wassaris) -pavasarinis, arba veikiau Pawassa-
     ris. Kitaip pasak kunigo Sirvydo: Lutis (liūtis) -  lietingas, arba
@@ -222,7 +240,8 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 - id: c-173630
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 258."
   citata_originali: |
     1 Bogušo disertacija. P. 45; K. Sirvydo žodynas. P. 3 11. Čia dyk­
     ra — Solitudo, Giria.
@@ -238,7 +257,8 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 - id: c-173631
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 261."
   citata_originali: |
     Tačiau ši prielaida žlunga, jei atkreipsime dė­
     mesį, jog tikroji Lietuva, nors ją ir laikytų rusų slavų nu­
@@ -256,7 +276,8 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 - id: c-176259
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 73-74"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 73-74."
   citata_originali: |
     Nors sporadiškai lietuviškų knygų leidimas nenutrūko per visą Ba-
     roko epochą, jų būta gerokai mažiau nei lenkiškų ar lotyniškų. Iškalbin-
@@ -277,7 +298,8 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
 - id: c-179123
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
   citata_originali: |
     Tai buvo 1258 metais“ .
     Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­

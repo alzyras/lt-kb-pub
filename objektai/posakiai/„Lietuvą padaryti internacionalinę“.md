@@ -62,7 +62,8 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 - id: c-25844
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 233-234"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 233-234."
   citata_originali: |
     O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
     nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-

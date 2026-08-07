@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e15dc5f3df45c23421de0569"
+canonical_name: "Zofija Algimantaitė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zofija Algimantaitė"]
+sameAs: []
+canonical_biography: "ją Algimantaitę, Vytauto dvare išauklėtą ir, be to, giminaitę, bet jos karūnacijoj kažkodėl Vytautas nedalyvavo; nebuvo jis ir Vladislovo karalaičio krikštynose, tik atsiuntė jam dovanų — sidabrinį lopšelį."
 ---
 # Zofija Algimantaitė
 
@@ -61,7 +68,8 @@ ją Algimantaitę, Vytauto dvare išauklėtą ir, be to, giminaitę, bet jos kar
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 216-217"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 216-217."
   citata_originali: |
     Nors Jogaila ir vedė jo pripirštą Alšėnų kunig. Zofi-
 

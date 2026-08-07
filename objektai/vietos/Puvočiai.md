@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-937d1bb9b2d83805104f1e0e"
+canonical_name: "Puvočiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Puvočiai"]
+sameAs: []
+canonical_biography: "Jis pranešė liūdną naujieną: Puvočių kaime, poilsio metu netikėtai priešo užkluptas, žuvo Marcinkonių bataliono vadas Šernas (Itn."
+place_authority: true
+historical_names: []
 ---
 # Puvočiai
 
@@ -50,7 +59,8 @@ Jis pranešė liūdną naujieną: Puvočių kaime, poilsio metu netikėtai prie�
 - id: c-43787
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 232."
   citata_originali: |
     Netikėtai atvyko mano adjutantas Gegutis. Jis pranešė liūdną naujieną: Puvočių
     kaime, poilsio metu netikėtai priešo užkluptas, žuvo Marcinkonių bataliono vadas Šernas

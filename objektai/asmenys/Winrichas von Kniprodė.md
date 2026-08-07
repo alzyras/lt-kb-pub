@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f78c4f32a4ac2fe0f7e41b42"
+canonical_name: "Winrichas von Kniprodė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Winrichas von Kniprodė"]
+sameAs: []
+canonical_biography: "Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo maršalas Kuno von Hattenstein, padėjęs Jogailai įveikti dėdę."
 ---
 # Winrichas von Kniprodė
 
@@ -51,7 +58,8 @@ Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo
 - id: c-32850
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 282."
   citata_originali: |
     Su paskutinio pagonio kunigaikščio Kęstučio iškilmingu sude­
     ginimu Lietuvos istorijoje turėjo prasidėti naujas laikotarpis. Tuo

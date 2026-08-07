@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3830870365e8f861f69e6798"
+canonical_name: "Revelio žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Revelio žemė"]
+sameAs: []
+canonical_biography: "Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse, jas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­ ką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių, sudegino visą miestą ir. [Taip pat pagonys lietuviai Viešpaties me­ tais 1323-iais per Užgavėnes įsiver­ žė į Danijos karalystės Revelio že­ mę Livonijos srityse ir net Dorpato vyskupiją, kurias piešdami ir degin­ dami iki pamatų sugriovę sunaiki­ no ir pagrobė 4 000 vyrų ir moterų."
+place_authority: true
+historical_names: []
 ---
 # Revelio žemė
 
@@ -78,7 +87,8 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
 - id: c-82080
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 84."
   citata_originali: |
     Tačiau greitai užėjo tokie baisūs šalčiai, kad ne tik
     Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o jūra 15 my­
@@ -107,7 +117,8 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
 - id: c-82081
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 84."
   citata_originali: |
     MCCCXXIII, in carniprivio
     intraverunt Revaliam terram regis Da­

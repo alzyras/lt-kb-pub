@@ -48,7 +48,8 @@ Jaščioldas mūšio metu siūlo nulipti nuo žirgų ir garbę ginti krauju.
 - id: c-175000
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Jaščioldas tuomet pasakė: „Ar nebūtų geriau mums
       nulipti nuo žirgų? Jeigu Jūs, Kunigaikšti, gailitės mūsų,

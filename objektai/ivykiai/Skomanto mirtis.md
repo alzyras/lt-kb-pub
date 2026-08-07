@@ -99,7 +99,8 @@ Nenurodyta
 - id: c-63794
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 173."
   citata_originali: |
     Apie Skomanto mirtį
     Štai koks iš aukščiausiojo malonės nuostabus atsivertimas ir pasikeitimas, štai

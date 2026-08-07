@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-25fae3a4ff7f1a0c9487e9ca"
+canonical_name: "Janas Kropidła"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Janas Kropidła"]
+sameAs: []
+canonical_biography: "Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­ nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas Janas Kropidła iš Jogailos svitos."
 ---
 # Janas Kropidła
 
@@ -62,7 +69,8 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
 - id: c-83680
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166."
   citata_originali: |
     Kai
     Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­

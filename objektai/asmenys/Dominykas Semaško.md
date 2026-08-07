@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c9c0e4ae6a47379bb02a8645"
+canonical_name: "Dominykas Semaško"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dominykas Semaško"]
+sameAs: []
+canonical_biography: "Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz). Semaško) argumentus, lietuviai patenkino dar vieną A."
 ---
 # Dominykas Semaško
 
@@ -37,7 +44,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 - id: c-64546
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
     dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją
@@ -63,7 +71,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 - id: c-64547
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 142."
   citata_originali: |
     Lietuvai pripažinta teritorija buvo gana
     artima 1795 m. teritorijai. Tačiau už tai A. Jofė paprašė karinės sąjungos

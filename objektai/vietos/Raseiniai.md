@@ -36,6 +36,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7951874d2dd0c78a7cedd6b0"
+canonical_name: "Raseiniai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Raseiniai"]
+sameAs: []
+canonical_biography: "Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt. Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar."
+place_authority: true
+historical_names: []
 ---
 # Raseiniai
 
@@ -211,7 +220,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - id: c-32377
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 257."
   citata_originali: |
     Bet jau 1352.II. Kniprodė smarkiai
     teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus
@@ -227,7 +237,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - id: c-32378
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 313."
   citata_originali: |
     Viso Žemaičių krašto vardu pavardėmis surašyti
     31 atstovas iš septynių Žemaičių aukštumos sričių (Ariogalos, Kal­
@@ -248,7 +259,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - id: c-166232
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 82."
   citata_originali: |
     Vaikių krašte buvo šventoji giria, ku­
     ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­
@@ -269,7 +281,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - id: c-166475
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 356."
   citata_originali: |
     Pijarai, niekuo daugiau neužsiimdami,
     kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
@@ -291,7 +304,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - id: c-167189
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 194."
   citata_originali: |
     Lietuvos
     kariuomenės
@@ -319,7 +333,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 130."
   citata_originali: |
     Prie jų prisidėjo taip pat ir uolesni seno
     lietuvių tikėjimo garbintojai, kurie buvo priešingi įvedamam ka­
@@ -339,7 +354,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - id: c-168482
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 205."
   citata_originali: |
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
     nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
@@ -367,7 +383,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - id: c-171707
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Taip tvirtina ponas Simo­
     nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio

@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-12333
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 173."
   citata_originali: |
     Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-
     jėgi aprūpinti pirmųjų savanorių būtiniausiomis priemonėmis - trūko ginklų, nebuvo

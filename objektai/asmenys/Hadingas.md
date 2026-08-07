@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f888610bd1ccd995d58e56a3"
+canonical_name: "Hadingas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hadingas"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs daug laivų, maldavo dievo Fra malonės juodosiomis aukomis."
 ---
 # Hadingas
 
@@ -55,7 +62,8 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
 - id: c-173038
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 106."
   citata_originali: |
     Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­
     pu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­

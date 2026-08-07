@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0713e482c5e7c31d2dd612dc"
+canonical_name: "Sekalys"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sekalys"]
+sameAs: []
+canonical_biography: "Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais, pasak Kojelavičiaus, smarkiai nusiaubė visą Rusią."
 ---
 # Sekalys
 
@@ -65,7 +72,8 @@ Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais, pasak Koj
 - id: c-169612
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 63."
   citata_originali: |
     Polovcai, veda­
     mi kunigaikščio Sekalio, keliais iš eilės antpuoliais

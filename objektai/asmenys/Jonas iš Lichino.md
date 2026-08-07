@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9a178e28609011bb59c1336"
+canonical_name: "Jonas iš Lichino (vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas iš Lichino","Jonas iš Lichino (vyskupas)"]
+sameAs: []
+canonical_biography: "Bresto vaivada Jonas iš Lichino buvo įtrauktas į pasiuntinybę, kuri turėjo vykti į Lietuvą pas Žygimantą."
 ---
 # Jonas iš Lichino (vyskupas)
 
@@ -54,7 +61,8 @@ Bresto vaivada Jonas iš Lichino buvo įtrauktas į pasiuntinybę, kuri turėjo 
 - id: c-169576
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,

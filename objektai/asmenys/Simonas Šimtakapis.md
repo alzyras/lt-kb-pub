@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-602c834d45cef355871c96ac"
+canonical_name: "Simonas Šimtakapis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Simonas Šimtakapis"]
+sameAs: []
+canonical_biography: "1551 m. Kauno miestietis ir šiporius Simonas Šimtakapis sudarė tokią Kauno miesto vaito aktų knygoje įrašytą samdos sutartį: Petras Butkevičius asmeniškai stojęs savanoriškai pareiškė, kad skolingas ponui Simonui Šimtakapiui 11 kapų lietuviškųjų grašių bei 14."
 ---
 # Simonas Šimtakapis
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185412
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 251"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 251."
   citata_originali: |
     Pasitaikydavo neįprastų laivavedžių samdymo būdų. 1551 m. Kauno miestietis ir
     šiporius Simonas Šimtakapis sudarė tokią Kauno miesto vaito aktų knygoje įrašytą

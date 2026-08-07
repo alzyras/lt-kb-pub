@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-189906"></a>
 - t-001
   teiginys: "Narbutas rašo, kad šventuosiuose miškeliuose nederėjo medžioti ar gaudyti gyvūnų, o persekiojami žmonės ten rasdavę prieglobstį."
-  atnaujinta: "2026-07-24 11:45"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,7 +56,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172789
-    - c-177040
 
 <a id="claim-t-189907"></a>
 - t-002
@@ -96,7 +95,8 @@ Nenurodyta
 - id: c-172789
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 263."
   citata_originali: |
     Miškelių garbinimas buvo taip sureikšmintas, kad juose
     jokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­
@@ -122,7 +122,8 @@ Nenurodyta
 - id: c-172790
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 264."
   citata_originali: |
     263
 
@@ -154,7 +155,8 @@ Nenurodyta
 - id: c-177040
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 263."
   citata_originali: |
     Seniausiais amžiais, kai miškai, dengiantys žemę, buvo
     žmonių buveinė, kai kurios jų vietos, garsėjančios medžių gra­
@@ -176,5 +178,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b28ce8e76480220d8416c13c"
+canonical_name: "Šiaulių žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šiaulių žemė"]
+sameAs: []
+canonical_biography: "as Šia 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę, sugriovė „puikiai pastatytą“ Dubysos pilį (Bubius), kur kronikininko Hermano Vartbergiškio liudijimu, žuvo šimtas gynėjų."
+place_authority: true
+historical_names: []
 ---
 # Šiaulių žemė
 
@@ -61,7 +70,8 @@ as Šia 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę, sugriovė „
 - id: c-44080
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 40."
   citata_originali: |
     as
     Šia

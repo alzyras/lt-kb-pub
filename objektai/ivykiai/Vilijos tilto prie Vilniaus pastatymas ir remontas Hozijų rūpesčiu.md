@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-82906
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 403-404"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 403-404."
   citata_originali: |
     Šis garbingasis Ulrikas Hozijus,
     387

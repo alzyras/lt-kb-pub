@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-26cb312a6821f64df5dabe82"
+canonical_name: "D. Maleckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["D. Maleckis"]
+sameAs: []
+canonical_biography: "Maleckis, K. Maleckis, dešiniajame sparne stovėjo P."
 ---
 # D. Maleckis
 
@@ -66,7 +73,8 @@ Maleckis, K. Maleckis, dešiniajame sparne stovėjo P.
 - id: c-44315
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     sintus dalgius ir durtuvus. Batalionų vadais
 
@@ -89,7 +97,8 @@ Maleckis, K. Maleckis, dešiniajame sparne stovėjo P.
 - id: c-44316
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 163."
   citata_originali: |
     Merlino dalinio kariais ir ne-
     įvertino situacijos. Sukilėliai

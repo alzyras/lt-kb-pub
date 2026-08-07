@@ -50,7 +50,8 @@ Tuo pat metu pasigirdo ir sukilėlių (lenkų) 1-ojo ulonų pulko eskadronų vad
 - id: c-40795
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 158."
   citata_originali: |
     Tuo pat metu pasigirdo ir sukilėlių
     (lenkų) 1-ojo ulonų pulko eskadronų vadų

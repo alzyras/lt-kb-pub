@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ad0687836019028f82c8f37d"
+canonical_name: "Naborovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Naborovskis"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Naborovskis 1629 m. minėjo Lietuvoje žinotą Gedimino kapo tradiciją."
 ---
 # Naborovskis
 
@@ -64,7 +71,8 @@ Narbutas nurodo, kad Naborovskis 1629 m. minėjo Lietuvoje žinotą Gedimino kap
 - id: c-173326
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
   citata_originali: |
     Man sakė, kad vieno vienuolyno biblio­
     tekoje buvo XV amžiaus lotyniškas rankraštis - svarstymas

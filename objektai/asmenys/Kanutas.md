@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-703a33473006cd6d155bbd0d"
+canonical_name: "Kanutas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kanutas"]
+sameAs: []
+canonical_biography: "Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijoje karaliui Kanutui (Cnud), kai dėl pragaištingo nederliaus visiems gyventojams trū­ ko grūdų, buvo įsakyta kas trečią žmogų išvaryti iš valsčiaus visiems laikams."
 ---
 # Kanutas
 
@@ -61,7 +68,8 @@ Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijo
 - id: c-83726
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 32."
   citata_originali: |
     Man vis dėlto atrodo,
     kad įvykis, aprašytas Petro Olai

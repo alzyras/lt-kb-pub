@@ -46,7 +46,8 @@ Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto vei
 - id: c-173391
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 455."
   citata_originali: |
     Veikalą, iš kario paėmiau šį vertimą, turiu po ranka. Ant puikiai
     litografuoto viršelio užrašytas toks pavadinimas: „ Civitates Or­

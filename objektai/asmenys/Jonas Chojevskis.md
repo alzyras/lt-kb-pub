@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ba3f425c26f114c151d0283"
+canonical_name: "Jonas Chojevskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Chojevskis"]
+sameAs: []
+canonical_biography: "Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­ niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­ kai, taip pat."
 ---
 # Jonas Chojevskis
 
@@ -63,7 +70,8 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
 - id: c-83694
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 401-402"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 401-402."
   citata_originali: |
     Šio rašto patikimumui mūsų antspaudas yra prikabintas.
     Duota Vilniuje, liepos dvidešimt šeštąją, tūkstantis penki

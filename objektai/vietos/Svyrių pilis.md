@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4415635a7f60b256a57df27f"
+canonical_name: "Svyrių pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Svyrių pilis","Svyrių pilis (pilis)"]
+sameAs: []
+canonical_biography: "Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį. Kai kurių Kojelavičiaus minimų šaltinių duomenimis, Daumantas įkūrė Svyrių pilį, o Svyrių kunigaikščių giminė pavadinta jo vardu."
+place_authority: true
+historical_names: []
 ---
 # Svyrių pilis (pilis)
 
@@ -67,7 +76,8 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
 - id: c-168671
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 138."
   citata_originali: |
     Giedriui buvo
     duotos plačios valdos šiaurės pusėje: jis davė pradžią
@@ -94,7 +104,8 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
 - id: c-178885
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 138."
   citata_originali: |
     Daumantui buvo duota Utenos kuni­
     gaikštystė: kurie ne kurie šaltiniai mini, jog jis įkūrė

@@ -104,7 +104,8 @@ Nenurodyta
 - id: c-170022
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 76."
   citata_originali: |
     Tuo melu kai didysis kunigaikštis Algirdas žy­
     giavo prieš Maskvą, o su juo buvo jo vaivada Petras

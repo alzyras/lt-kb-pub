@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-23fa2156fbf255d426b94d1f"
+canonical_name: "Pragaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pragaras"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Pragaras
 
@@ -58,7 +67,8 @@ Nenurodyta
 - id: c-171852
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 391."
   citata_originali: |
     Vienas liaudies padavimas sa­
     ko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,

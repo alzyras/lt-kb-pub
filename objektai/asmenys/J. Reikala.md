@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fb6d021df7e6e64cc06e21f4"
+canonical_name: "J. Reikala"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Reikala"]
+sameAs: []
+canonical_biography: "Reikala."
 ---
 # J. Reikala
 
@@ -49,7 +56,8 @@ Reikala.
 - id: c-41549
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 183."
   citata_originali: |
     J. Nastopka. Rezervas parėmė šią koloną,
     o vadovavimą perėmė karin. J. Reikala.

@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-172598
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
   citata_originali: |
     Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
     matomas užpuola miegančias moteris, kitą kartą prijaukintas

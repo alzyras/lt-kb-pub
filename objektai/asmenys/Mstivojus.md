@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3186b0601b94363490aa261c"
+canonical_name: "Mstivojus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mstivojus"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą]. Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis. Dusburgietis teigia, kad šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus."
 ---
 # Mstivojus
 
@@ -96,12 +103,19 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 <a id="claim-t-59897"></a>
 - t-004
   teiginys: "Mstivojus, Pomeranijos kunigaikštis, po savo žemių nusiaubimo paprašė magistro atnaujinti taikos susitarimą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Pomeranija: 0.85"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mstivojus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pomeranija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Mstivojus tiesiogiai įvardytas Pomeranijos kunigaikščiu."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mstivojus buvo valdovas Pomeranija (0.85)"
   pagrindžia:
-    - c-60527
-    - c-60531
+    - c-60528
 
 <a id="claim-t-59898"></a>
 - t-005
@@ -161,7 +175,8 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 - id: c-60526
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
   citata_originali: |
     45(44). Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis
     Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop
@@ -183,7 +198,8 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 - id: c-60527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 88."
   citata_originali: |
     Kita vertus, jis
     suprato, kad nereikia atstumti prašančio atleidimo, tad pasirinko šitai, kas jam rodėsi
@@ -207,12 +223,12 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
 
 - id: c-60528
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
   citata_originali: |
     Mstivojus, Pomeranijos kunigaikštis, anksčiau
     nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas,
@@ -226,14 +242,17 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   citata_rodoma: "Mstivojus, Pomeranijos kunigaikštis, anksčiau\nnelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas,\npaliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą\ntarp jo ir magistro bei brolių taikos susitarimą.\n\n\n\n\n               130 (125)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-60529
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     213 (208). Apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis
     Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,
@@ -253,7 +272,8 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 - id: c-60530
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     Tą patį padarė ir ketvirtas brolis, o kad šis dovanojimas butų teisėtas
     ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių
@@ -277,7 +297,8 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 - id: c-60531
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 130."
   citata_originali: |
     Dėl to jums patariu niekad jiems nesipriešinti, bet
     nuolankiai juos gerbti“. Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus. Tėvui
@@ -295,7 +316,6 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sventopelkas]]

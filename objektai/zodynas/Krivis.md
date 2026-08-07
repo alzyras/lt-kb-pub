@@ -98,7 +98,8 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
 - id: c-175693
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 361"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 361."
   citata_originali: |
     Salia šio
     miško stūkso supilta kita stati kalva, ant kurios ir turėjo
@@ -123,7 +124,8 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
 - id: c-177299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
   citata_originali: |
     Taip
     pat šioje provincijoje būva pilaičių, iš dalies pastatytų

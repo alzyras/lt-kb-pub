@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184736
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 421"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 421."
   citata_originali: |
     Yra rašytojų, kurie sako Šventaragį buvus di­
     džiuoju Lietuvos kunigaikščiu, bet aš, nerasdamas

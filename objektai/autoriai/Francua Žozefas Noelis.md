@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-86772191622bf381eb78ddf1"
+canonical_name: "Francua Žozefas Noelis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Francua Žozefas Noelis"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia ėmė ir iš Francua Žozefo Noelio mitologinio žodyno. Francua Žozefas Noelis manė, kad kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje buvusi seniausia jų šventykla. Francua Žozefo Noelio 1803 m. Paryžiuje išleistas mitologinis žodynas buvo istoriko Šaurų dvaro bibliotekoje."
 ---
 # Francua Žozefas Noelis
 
@@ -42,15 +49,22 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
 <a id="claim-t-190295"></a>
 - t-001
   teiginys: "Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia ėmė ir iš Francua Žozefo Noelio mitologinio žodyno."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Francua Žozefas Noelis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Francua Žozefas Noelis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173180
+    - c-173178
 
 <a id="claim-t-190297"></a>
 - t-002
@@ -92,7 +106,8 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
 - id: c-173178
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 25."
   citata_originali: |
     Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
     ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­
@@ -101,14 +116,17 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   citata_rodoma: "Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­\nginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­\npuliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų\nkalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-173179
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     Tačiau lygindami tuos padavimus vieną
     su kitu ir aiškindamiesi tų dievybių prigimtį, Mnelea, o vėliau
@@ -133,7 +151,8 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
 - id: c-173180
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 472"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 472."
   citata_originali: |
     Francua Žozefo Noelio (1751-1841), prancūzų po­
     litinio veikėjo ir mokslininko, veikalas (Noel Fran­
@@ -148,5 +167,4 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

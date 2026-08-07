@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ccc16c42240f94ceca724858"
+canonical_name: "Konradas Valenrodas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas Valenrodas"]
+sameAs: []
+canonical_biography: "Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir maršalo Konrado Valen­ rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­ kų pilį. 22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s klysta sakyda­ mi, esą žygio vadovavimas buvo pa­ vestas Konradui Valenrodui, kurį jau tuo metu vadina didžiuoju ma­ gistru, kai Konradas Valenrodas 1382 metais, sekmadienį prieš Šv. Po visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­ do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­ ties narsa, o pirmiausia nesulaikomas potraukis į riterystę vėl subūrė iš visų Europos šalių gausius ir pajėgius kryžininkų pulkus."
 ---
 # Konradas Valenrodas
 
@@ -116,7 +123,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 - id: c-83374
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 146."
   citata_originali: |
     Vilniui bemat jos prirei­
     kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti
@@ -152,7 +160,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 - id: c-83375
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 146."
   citata_originali: |
     Lietuvoj labai paplitęs pa­
     protys gyvenvietes prie upių vadin­
@@ -179,7 +188,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 - id: c-83376
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 55."
   citata_originali: |
     Didelė kryžiuočių kariauna, vadovauja­
     ma Ordino didžiojo magistro ir maršalo Konrado Valen­
@@ -202,7 +212,8 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 - id: c-83377
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135."
   citata_originali: |
     Dabartinis
     iš tiesų visiškai skiriasi nuo pirmes-

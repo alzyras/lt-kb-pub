@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-79d179a801865c4b48e84b56"
+canonical_name: "Šv. Mikalojaus bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Mikalojaus bažnyčia"]
+sameAs: []
+canonical_biography: "Rytinėje miesto dalyje matome dar 3 bažnyčias."
+place_authority: true
+historical_names: []
 ---
 # Šv. Mikalojaus bažnyčia
 
@@ -41,9 +50,9 @@ Rytinėje miesto dalyje matome dar 3 bažnyčias.
 ## Citatos
 
 - id: c-185070
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 386"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 386."
   citata_originali: |
     Rytinėje miesto dalyje matome dar 3 bažnyčias. Pirmoji, pažymėta raide S, yra
     Šv. Mikalojaus bažnyčia, parodyta su varpine ir bokšteliu virš bažnyčios.

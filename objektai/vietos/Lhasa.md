@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dbdcf03760ce91755a7c9cbd"
+canonical_name: "Lhasa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lhasa"]
+sameAs: []
+canonical_biography: "Čia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven Hedino kelionė i Azijos širdį — Tibetą, įvairūs nuotykiai, kovos su vie­ tos tautelėmis, kurios žūt būt neįsileidžia nė vieno europiečio, nė vie­ no ne savo krašto žmogaus į savo krašto gilumą, į jų."
+place_authority: true
+historical_names: []
 ---
 # Lhasa
 
@@ -52,7 +61,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 318."
   citata_originali: |
     4. —
     Čia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven He-

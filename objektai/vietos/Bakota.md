@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-608850fff54afe6d2662483f"
+canonical_name: "Bakota"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bakota"]
+sameAs: []
+canonical_biography: "Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smotryčą, Bakotą ir kt.), užvesti ūkinį gyvenimą."
+place_authority: true
+historical_names: []
 ---
 # Bakota
 
@@ -52,7 +61,8 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
 - id: c-33803
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 269."
   citata_originali: |
     Šalia kitų,
     kurių vardai apytikriai tenustatomi, rodos, Karijoto sūnus buvo ir

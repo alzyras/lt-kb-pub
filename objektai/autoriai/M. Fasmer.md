@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1818b6bd900a701768297963"
+canonical_name: "M. Fasmer"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Fasmer"]
+sameAs: []
+canonical_biography: "Fasmer : Otryvki V."
 ---
 # M. Fasmer
 
@@ -51,7 +58,8 @@ Fasmer : Otryvki V.
 - id: c-33050
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 248."
   citata_originali: |
     (^5) **PSRL, III, 75 p.**
     (^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-

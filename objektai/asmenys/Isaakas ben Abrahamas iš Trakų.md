@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43574a0a43c7e362a7d983ec"
+canonical_name: "Isaakas ben Abrahamas iš Trakų"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Isaakas ben Abrahamas iš Trakų"]
+sameAs: []
+canonical_biography: "Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės iškilęs asmuo, dažnai minimas tolerancijos tyrėjų."
 ---
 # Isaakas ben Abrahamas iš Trakų
 
@@ -78,7 +85,8 @@ Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės
 - id: c-16716
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 71."
   citata_originali: |
     Tačiau XVII–XVIII a. bent jau Vilnius
     prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e61339f51a192ee5040ba3a0"
+canonical_name: "Vancka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vancka"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos kunigaikštystėje kraštą, vardu Vancka, kur."
+place_authority: true
+historical_names: []
 ---
 # Vancka
 
@@ -75,7 +84,8 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
 - id: c-59374
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Išklausęs abiejų šalių įrodymų,
     tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos

@@ -91,7 +91,8 @@ Nenurodyta
 - id: c-63530
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 130."
   citata_originali: |
     Sitai pamatę, kiti, apimti baimės, atsitraukė.
     127 (122). Apie Brandenburgo pilies pastatymą

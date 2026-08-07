@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c254c38c3bf54b7bb8dd26d1"
+canonical_name: "Aleksandras Narimantaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Narimantaitis"]
+sameAs: []
+canonical_biography: "Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius. Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad Rusioje aukščiausią galią turės Lenkijos karalius."
 ---
 # Aleksandras Narimantaitis
 
@@ -78,7 +85,8 @@ Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukšči
 - id: c-169536
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 248."
   citata_originali: |
     Kęstutis mė­
     gino sutrukdyti, tačiau, du

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fc53ad51dccdd89ddeb3004b"
+canonical_name: "Ulos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ulos upė"]
+sameAs: []
+canonical_biography: "Šuiskis pats pasirinko mūšio vietą - lauką tarpumiškyje prie Ulos upės netoli Čašnikų."
+place_authority: true
+historical_names: []
 ---
 # Ulos upė
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-45380
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 89."
   citata_originali: |
     sio 26 d. Žygyje gavęs žinių apie tai, kad lie-
     tuviai ruošiasi jam užkirsti kelią, P. Šuiskis

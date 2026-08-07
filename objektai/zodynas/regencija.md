@@ -52,7 +52,8 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
 - id: c-69352
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 218."
   citata_originali: |
     Kai 1533 m. mirė Vosylius III, Maskvos
     kunigaikščiu tapo Jonas IV Žiaurusis. Kadangi jis tuomet buvo
@@ -74,7 +75,8 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
 - id: c-69353
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 218."
   citata_originali: |
     (Senas nežinomojo autoriaus paveikslas).
     muosius du karus Zigmanto laikais pradėjo Maskva, bet šį

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c9dc5f4cd6bd2b236745a3d"
+canonical_name: "Radlofas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Radlofas"]
+sameAs: []
+canonical_biography: "Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų ar Žemės palydovų žuvimo fenomeną. Narbutas rašė, kad Cigno mito turinys sutampa su Radlofo požiūriu ir iš padavimų pateko į graikų poetų kūrinius. Narbutas mini Radlofo nuomonę, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos."
 ---
 # Radlofas
 
@@ -98,7 +105,8 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
 - id: c-174499
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
   citata_originali: |
     Taip įsivaizduojame mūsų žemyno susifor­
     mavimą.
@@ -123,7 +131,8 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
 - id: c-174500
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 152."
   citata_originali: |
     Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­
     delis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­

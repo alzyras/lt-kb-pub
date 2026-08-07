@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-948c28420970fdeeb341a189"
+canonical_name: "Mūša"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mūša"]
+sameAs: []
+canonical_biography: "Žemaičiuose jos ėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo pratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli dabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos valdų. Gaudamas Žemaičius iki Nevėžio, ordinas pirmą."
+place_authority: true
+historical_names: []
 ---
 # Mūša
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-33960
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 333"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 333."
   citata_originali: |
     Salyno akte pirmą kartą apytikriai
     buvo nužymėtos ordinui tenkančių žemių sienos. Žemaičiuose jos

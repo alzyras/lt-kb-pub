@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3d914c77891e4f45fad03fb0"
+canonical_name: "Vorotinskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vorotinskas"]
+sameAs: []
+canonical_biography: "Čia jam pasidavė Liubutsko, Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit. Tos ke­ lionės metu jam prisiekė ištikimybę bei pagalbą Maskvos hege­ monijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit."
+place_authority: true
+historical_names: []
 ---
 # Vorotinskas
 
@@ -68,7 +77,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 298."
   citata_originali: |
     Sako
     jis buvęs nukeliavęs 100 mylių į rytus nuo Smolensko. Tos ke­
@@ -89,7 +99,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 298."
   citata_originali: |
     Vytautas užėmė Smolenską antrąsyk
     ir galutinai^1 ). Tuo pat metu jis praplėtė savo valdžią Okos

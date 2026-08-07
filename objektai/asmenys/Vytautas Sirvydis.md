@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-399e7673f9d7f0f5e9a3346a"
+canonical_name: "Vytautas Sirvydis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vytautas Sirvydis"]
+sameAs: []
+canonical_biography: "Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vytauto Sirvydžio kardiochirurgijos mokykla."
 ---
 # Vytautas Sirvydis
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-75380
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265."
   citata_originali: |
     Europos čem-
     pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),

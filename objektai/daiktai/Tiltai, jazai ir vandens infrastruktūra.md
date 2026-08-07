@@ -100,7 +100,8 @@ Nenurodyta
 - id: c-55704
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 283."
   citata_originali: |
     Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­
     tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­
@@ -122,7 +123,8 @@ Nenurodyta
 - id: c-55705
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284."
   citata_originali: |
     Suteikdamas Hozijui teisę pasta­
     tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria

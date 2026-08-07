@@ -49,7 +49,8 @@ XII amž. pradžioje surašytai seniausiai Anonimo, vad. Mar­ tyno Galio, kroni
 - id: c-33526
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 126."
   citata_originali: |
     Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus
     į rusų žemes, atsirado vis daugiau žinių, kurios kartojamos įvai­

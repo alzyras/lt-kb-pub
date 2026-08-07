@@ -72,7 +72,8 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
 - id: c-168730
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 679"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 679."
   citata_originali: |
     Nerasdamas kitos dings­
     ties laiškų rašyti, nusiskundė dėl pasieniuose daromų
@@ -96,7 +97,8 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
 - id: c-168731
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 687"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 687."
   citata_originali: |
     Vildamiesi, jog ta proga galės
     šį bei tą naudinga padaryti Lietuvai, jie noriai sugrįžo

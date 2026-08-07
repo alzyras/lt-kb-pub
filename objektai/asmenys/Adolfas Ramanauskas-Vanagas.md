@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c38001678d30e3b90b09df0b"
+canonical_name: "Adolfas Ramanauskas-Vanagas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adolfas Ramanauskas-Vanagas"]
+sameAs: []
+canonical_biography: "1956 m. suimtas ir vienas iš paskutinių partizanų vadų, buvęs mokytojas Adolfas Ramanauskas-Vanagas, nepaprastai žiauriai kankintas ir kitais metais Sovietų išniekinti Dainavos apygardos partizanų kūnai Adolfas Ramanauskas-Vanagas su ištikimais draugais."
 ---
 # Adolfas Ramanauskas-Vanagas
 
@@ -79,7 +86,8 @@ media_all_json: |-
 - id: c-41794
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     Dar 5 stribai nukauti kitą dieną
     Perlojoje Marcinkonių bataliono vyrų
@@ -107,7 +115,8 @@ media_all_json: |-
 - id: c-64442
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 213-214"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 213-214."
   citata_originali: |
     Kodėl kameroje J. Žemaitį lankė
     SSRS saugumo maršalas L. Be-

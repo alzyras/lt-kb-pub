@@ -103,7 +103,8 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
 - id: c-84098
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 75."
   citata_originali: |
     Jei jie [se­
     noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi­
@@ -136,7 +137,8 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
 - id: c-84099
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 77."
   citata_originali: |
     Šio antspaudo niekintojus šiuo savo laišku pasmerkiame
     kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios
@@ -156,7 +158,8 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
 - id: c-84100
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 77."
   citata_originali: |
     ## Puslapis 77
 
@@ -187,7 +190,8 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
 - id: c-84101
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 75-76"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 75-76."
   citata_originali: |
     Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­
     vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­

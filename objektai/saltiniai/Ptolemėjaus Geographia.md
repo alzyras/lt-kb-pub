@@ -105,7 +105,8 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
 - id: c-174603
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
   citata_originali: |
     Tačiau Ptolemėjas turi tam tikrų žinių apie
     šią, toje pačioje vietoje esančią provinciją, be to, neabe­
@@ -133,7 +134,8 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
 - id: c-174604
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
   citata_originali: |
     Ten, miškuose, yra akmeninių pas­
     tatų griuvėsių ir ant kalvų piliaviečių, primenančių žilą
@@ -155,7 +157,8 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
 - id: c-174605
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 273."
   citata_originali: |
     270
     Lietuvos provincijos. Stavanus Ptolemėjas vadina Sta-

@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-179240
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
   citata_originali: |
     Atvirkščiai, galima sutikti, kad jie at­
     klydo iki Baltijos jūros pakrančių tais laikais, kai Eraz­

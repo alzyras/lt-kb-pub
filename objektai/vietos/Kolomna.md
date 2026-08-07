@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-785be3484efa8c761bc47d14"
+canonical_name: "Kolomna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kolomna"]
+sameAs: []
+canonical_biography: "Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas Kolomnoj."
+place_authority: true
+historical_names: []
 ---
 # Kolomna
 
@@ -51,7 +60,8 @@ Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas K
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 76."
   citata_originali: |
     Brangūs kailiniai ir
     rytų audeklai, brangios juostos, aukso indai ir bachmatai

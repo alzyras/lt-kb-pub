@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184727
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 22"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 22."
   citata_originali: |
     Tolesniai dar apie jų laidojimus taip jis pasakoja.
     Skitai savo nustipusius ligonis, tuos, kurie nedorai

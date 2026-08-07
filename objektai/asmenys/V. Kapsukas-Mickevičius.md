@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83407e2f9bdd3e4508fbbef8"
+canonical_name: "V. Kapsukas-Mickevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Kapsukas-Mickevičius"]
+sameAs: []
+canonical_biography: "Kapsukas-Mickevičius."
 ---
 # V. Kapsukas-Mickevičius
 
@@ -49,7 +56,8 @@ Kapsukas-Mickevičius.
 - id: c-44548
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 176."
   citata_originali: |
     rusų bei lietuvių kalbomis, pasveikino ir
     palydėjo „buržujų“ mušti pats „Lietuvos

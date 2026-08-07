@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cac9eac3919ec07851d02054"
+canonical_name: "B. Nerman"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["B. Nerman"]
+sameAs: []
+canonical_biography: "Nerman, B.: Die Verbindungen zwischen Skandinavien und dem Ostbaltikum in der jüngeren Eisenzeit , Stockholm 1929."
 ---
 # B. Nerman
 
@@ -61,7 +68,8 @@ Nerman, B.: Die Verbindungen zwischen Skandinavien und dem Ostbaltikum in der j�
 - id: c-32903
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 116."
   citata_originali: |
     1964, 63-82 p. — (”) _Šilutės raj., Vilkų Kampo kaimo « Kapų kalno »
     tyrinėjimai,_ AkMD, t. 34, 1970, 43-56 p. — (”) _Jurgaičių kapinyno VII-

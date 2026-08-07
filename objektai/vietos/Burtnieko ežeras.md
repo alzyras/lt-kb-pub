@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7da6e0b9f5b43f121869c476"
+canonical_name: "Burtnieko ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Burtnieko ežeras"]
+sameAs: []
+canonical_biography: "XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­ krauklės prie Dauguvos iki Burtnieko ežero."
+place_authority: true
+historical_names: []
 ---
 # Burtnieko ežeras
 
@@ -51,7 +60,8 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
 - id: c-33811
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 125."
   citata_originali: |
     Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
     _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»

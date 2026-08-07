@@ -46,9 +46,9 @@ Patys kryžėjai jau užsiturėjimu užimtuosiuose kraštuose Žemaičių, ne pl
 ## Citatos
 
 - id: c-184588
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 514"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 514."
   citata_originali: |
     Pereidamas dabar skaitytojas tą 13 amžių mato
     aiškiai, jog aitra platinimo tikybos krikščionų buvo

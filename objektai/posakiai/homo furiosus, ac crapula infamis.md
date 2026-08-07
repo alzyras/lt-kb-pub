@@ -50,7 +50,8 @@ media_all_json: |-
 - id: c-82836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 226."
   citata_originali: |
     Šis kunigaikštis, dar nuo pirmųjų kivir-
     1

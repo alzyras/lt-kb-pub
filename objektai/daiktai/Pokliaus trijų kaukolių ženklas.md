@@ -82,7 +82,8 @@ Nenurodyta
 - id: c-170990
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 108."
   citata_originali: |
     Pokliaus ženklas buvo trys kaukolės: žmogaus, jaučio ir
     arklio.

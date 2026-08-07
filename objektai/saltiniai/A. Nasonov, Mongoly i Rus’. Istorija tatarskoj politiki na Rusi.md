@@ -58,7 +58,8 @@ Nasonov, A.
 - id: c-29646
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 330"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 330."
   citata_originali: |
     — Nasonov, A. N. : _Mongoly i Rus’. Istorija tatarskoj politiki na
     Rusi,_ Maskva 1940. — _Očerki istorii SSSR.

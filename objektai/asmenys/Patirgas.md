@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a1033ae1d170cd05c3d820e5"
+canonical_name: "Patirgas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Patirgas"]
+sameAs: []
+canonical_biography: "Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, Butautas, Vaidotas, Vytautas, Tautvila ir Zigmantas; dukte­ rys : Miklausa, Danuta, Ringailė ir vienos vardas nežinomas."
 ---
 # Patirgas
 
@@ -63,7 +70,8 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 24."
   citata_originali: |
     Kęstutis, matyt, buvo buvęs du kartu
     vedęs. Pirmoji Kęstučio žmona mums nežinoma, ir turėjo būti

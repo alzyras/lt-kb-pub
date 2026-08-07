@@ -45,14 +45,21 @@ Nenurodyta
 <a id="claim-t-185642"></a>
 - t-001
   teiginys: "Imperatorius Zigmantas ir Vytautas kelerius metus slapta derėjosi dėl Lietuvos paskelbimo karalyste."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-169004
+    - c-169003
 
 <a id="claim-t-185643"></a>
 - t-002
@@ -117,7 +124,8 @@ Nenurodyta
 - id: c-169003
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 390-391"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 390-391."
   citata_originali: |
     Kartu
     jis būgštavo, kad iš garbėtroškos šis nesukeltų naujos
@@ -134,14 +142,17 @@ Nenurodyta
   citata_rodoma: "Kartu\njis būgštavo, kad iš garbėtroškos šis nesukeltų naujos\nnesantaikos tarp tautų, kurios didžiam krikščioniškojo\npasaulio labui glaudžiai suaugo į vieną valstybę. Mat\nimperatorius Zigmantas ir Vytautas jau kelerius metus\nslapta derėjosi dėl Lietuvos\nV y ta u ta s  nori p a sk el-\nkaralystės paskelbimo. Kai\nhti L ietu vą  k a ra ly ste\napie šias derybas pradėjo\nkalbėti kiti žmonės, viską su­\nžinojo ir Romos kurija."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-169004
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 391"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 391."
   citata_originali: |
     Smarkiai palaikė
     Vytauto atsidavimą tikėjimo reikalams popiežius Mar­
@@ -161,6 +172,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
     - t-003

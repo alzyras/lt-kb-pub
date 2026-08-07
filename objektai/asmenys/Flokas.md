@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8c5362b7c91ba30643da55cf"
+canonical_name: "Flokas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Flokas"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš rūmų ir pasisavino jo aukso bei sidabro lobius."
 ---
 # Flokas
 
@@ -55,7 +62,8 @@ Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš 
 - id: c-174279
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
   citata_originali: |
     Šio nenaudėlio sukaupti ant Anapilio kalno tur­
     tai atiteko Danijos karaliui ir padėjo rengiant karo žy­

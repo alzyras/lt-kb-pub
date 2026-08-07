@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-66726
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 326"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 326."
   citata_originali: |
     Jį rėmė kai kurie
     Lenkijos ponai, o Sandomiero vaivada Mniškas (Mniszek)
@@ -96,7 +97,8 @@ Nenurodyta
 - id: c-66729
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 327."
   citata_originali: |
     Caru
     buvo paskelbtas bajoras Vasylius Šuiskis. Tačiau
@@ -114,7 +116,8 @@ Nenurodyta
 - id: c-66730
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 326"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 326."
   citata_originali: |
     Teodoro jaunutis brolis Dimitrijas bu-
     vo nužudytas, o Teodoras mirė bevaikis, ir po jo caru pasiskelbė

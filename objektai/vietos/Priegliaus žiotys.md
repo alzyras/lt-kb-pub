@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba0783605a10506235dd3662"
+canonical_name: "Priegliaus žiotys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Priegliaus žiotys"]
+sameAs: []
+canonical_biography: "Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis priplaukė krantą Priegliaus žiotyse."
+place_authority: true
+historical_names: []
 ---
 # Priegliaus žiotys
 
@@ -64,7 +73,8 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
 - id: c-68454
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 53."
   citata_originali: |
     Ten pagyvenęs kelerius metus benediktinų vienuolyne ir
     negalėdamas grįžti į savo vyskupiją, jis išsirengė misijų į Euro-
@@ -84,7 +94,8 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
 - id: c-175966
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 53."
   citata_originali: |
     Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
     gavo apsaugą ir išvyko į aisčių kraštą. Išplaukęs Vysla į jūrą,

@@ -49,7 +49,8 @@ media_all_json: |-
 - id: c-84492
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 229."
   citata_originali: |
     Prekybos sutartis su Pskovu, kaip ir prieš metus
     sudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano

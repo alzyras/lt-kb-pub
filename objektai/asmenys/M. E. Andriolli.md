@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-544de4022fab781a9a966454"
+canonical_name: "M. E. Andriolli"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. E. Andriolli"]
+sameAs: []
+canonical_biography: "Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų draugą iš mūšio lauko prie Dubičių (gegužės 5 d.) L I E T U V O S I S T O R I J A 110 Kariniu požiūriu 60 tūkst."
 ---
 # M. E. Andriolli
 
@@ -60,7 +67,8 @@ Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų dr
 - id: c-26678
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 109-110"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 109-110."
   citata_originali: |
     Lenkijos sukilėlių vyriausybė į Lietu-
     vos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas

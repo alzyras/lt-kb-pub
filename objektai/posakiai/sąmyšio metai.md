@@ -59,7 +59,8 @@ Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «są
 - id: c-33496
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 37."
   citata_originali: |
     jos valdomas rytų slavų žemes. Šituo atžvilgiu XV amž. gale
     Lietuvos ir Rusijos istorijos naujos epochos susiliečia.

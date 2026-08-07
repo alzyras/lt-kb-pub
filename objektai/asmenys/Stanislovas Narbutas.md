@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42770512e31c717bc43d9456"
+canonical_name: "Stanislovas Narbutas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Narbutas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Stanislovas Narbutas
 

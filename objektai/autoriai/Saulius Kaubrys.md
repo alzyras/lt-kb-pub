@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d35b1c3756980110ae781f33"
+canonical_name: "Saulius Kaubrys"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Saulius Kaubrys"]
+sameAs: []
+canonical_biography: "dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių atrinkimo. Kaubrys S."
 ---
 # Saulius Kaubrys
 
@@ -62,7 +69,8 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
 - id: c-22191
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 11."
   citata_originali: |
     Skaitytojui jie būtų neabejotinai įdomūs ir pravartūs, bet
     tebūnie tai ta auka ir kaina, kurią šios knygos autoriai pasiryžo sumokėti,
@@ -91,7 +99,8 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
 - id: c-22192
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Vilnius, 2010.
     Kaubrys S. Lietuvos mokykla 1918–1939 m.: galios gimtis. Vilnius, 2000.

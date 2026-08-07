@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae53e69f09b53796eeab5dd6"
+canonical_name: "Bumblauskas A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bumblauskas A"]
+sameAs: []
+canonical_biography: "Bumblauskas A."
 ---
 # Bumblauskas A
 
@@ -81,7 +88,8 @@ Bumblauskas A.
 - id: c-22124
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Vilnius, 1998.
     Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,
@@ -98,7 +106,8 @@ Bumblauskas A.
 - id: c-42402
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
   citata_originali: |
     P. 62, „ANONIMO LAIŠKAS“, Bumblauskas A. Senosios Lietuvos istorija 1009-1795,
     Vilnius, 2005, p. 151 (Jučas M. Žalgirio mūšis, Vilnius, 1999, p. 230).

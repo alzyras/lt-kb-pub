@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3466606e39e266bdb230f9f2"
+canonical_name: "Liudvikas XVI"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas XVI"]
+sameAs: []
+canonical_biography: "1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio 23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą."
 ---
 # Liudvikas XVI
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-21860
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 96."
   citata_originali: |
     Rugsėjo 11 dieną Targovicos ir Vilniaus
     konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir

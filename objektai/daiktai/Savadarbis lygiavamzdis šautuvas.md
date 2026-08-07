@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-41085
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 261."
   citata_originali: |
     Savadarbis lygiavamzdis šautuvas, kalibras - 16,5 mm.
     Pagamintas savanorio I. Drakšos 1991 m. Vienas iš LR seimo

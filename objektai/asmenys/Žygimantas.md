@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9e0c03a3c576664ef6e58a10"
+canonical_name: "Žygimantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Žygimantas"]
+sameAs: []
+canonical_biography: "Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas. Žygimantas kartu su Vytautu ir Švitrigaila nakties tamsoje pabėgo po kautynių tolimose stepėse. Karalius Žygimantas pirmas perbrido ir perplaukė upę, be nuostolių pervesdamas visus raitelius."
 ---
 # Žygimantas
 
@@ -305,7 +312,8 @@ media_all_json: |-
 - id: c-167749
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 285."
   citata_originali: |
     Naujojon jo rezidencijon ėmė rinktis
     Kęstučio ir jo paties šalininkai, ar Jogailos persekiojamieji. Čia
@@ -322,7 +330,8 @@ media_all_json: |-
 - id: c-167750
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 325"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 325."
   citata_originali: |
     Savo galvas tolimose stepėse
     paliko ir vieninteliai du lietuviai-kryžiuočiai Jonas ir Tomas Sur­
@@ -342,7 +351,8 @@ media_all_json: |-
 - id: c-168266
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 602"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 602."
   citata_originali: |
     Vėliau nušuoliavo prie upės ir iš užpakalio
     užpuolė pakrantėje išstatytas saugas, atverdami savo
@@ -365,7 +375,8 @@ media_all_json: |-
 - id: c-168267
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 622"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 622."
   citata_originali: |
     Tačiau Vasilijus, negalėda­
     mas užmiršti imperatoriaus bei kryžiuočių pažadų ir
@@ -393,7 +404,8 @@ media_all_json: |-
 - id: c-168268
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 625"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 625."
   citata_originali: |
     Prie Smolensko įkūręs stovyklą ir pasilikęs čia su dvi­
     dešimt tūkstančių karių, pasiuntė į Lietuvą aštuonias­
@@ -423,7 +435,8 @@ media_all_json: |-
 - id: c-168269
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 655"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 655."
   citata_originali: |
     Galop jis pa­
     prašė leisti laisvai sugrįžti į Maskvą tiems pirkliams
@@ -450,7 +463,8 @@ media_all_json: |-
 - id: c-171544
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
   citata_originali: |
     Iš tikrųjų tais me­
     tais vyko Lenkijos seimas Piotrkove, trukęs ilgai
@@ -474,7 +488,8 @@ media_all_json: |-
 - id: c-171545
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
   citata_originali: |
     Nors karalius
     nenutraukė karo veiksmų, už kuriuos stojo San­
@@ -501,7 +516,8 @@ media_all_json: |-
 - id: c-176845
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 25."
   citata_originali: |
     Antra, kad susikūrė iš trijų skirtingų
     bendruomenės klasių, tai yra: nelaisvųjų, dirbusių žemę, susi­

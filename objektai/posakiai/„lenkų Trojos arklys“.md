@@ -32,7 +32,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 - id: c-23636
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 146."
   citata_originali: |
     Dabar abi derybų šalys stengėsi, kad susitarimas neį-
     vyktų, tik kad ne jos liktų dėl to kaltos.

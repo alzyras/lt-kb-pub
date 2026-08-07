@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-173922
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
   citata_originali: |
     Vien Sembos pakrantėje esame turtingiausių kasyklų, ir
     jūra išmeta daugiausia tikro ir labiausiai blizgančio gin­
@@ -100,7 +101,8 @@ Nenurodyta
 - id: c-179234
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
   citata_originali: |
     Lengvumas ir žinomos
     cheminės savybės liepia priskirti jį sakų klasei; patrintas

@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8793c9f2ef7b72fabef7d951"
+canonical_name: "Avinjonas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Avinjonas"]
+sameAs: []
+canonical_biography: "Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patogesnę būklę tolimesnei kovai Volinijoje, Lenkijos Kazimieras informavo Klemensą VI apie Kęstučio norą krikštytis. Kęstučiui ir jo įpėdiniams po krikšto popiežius žadėjo suteikti ka­."
+place_authority: true
+historical_names: []
 ---
 # Avinjonas
 
@@ -81,7 +90,8 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
 - id: c-157664
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 266."
   citata_originali: |
     Lietuvos valdovai tačiau, progai pasitaikius, nesikraty­
     davo pasvarstyti krikšto pasiūlymų, juo labiau, kad jie ėjo ne iš
@@ -102,7 +112,8 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
 - id: c-157665
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 94-95"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 94-95."
   citata_originali: |
     Popiežių, regis, pergudravo, įrodydamas jam, kokie
     nepatikimi esą Lietuvos valdovo sumanymai, o kad dar la­

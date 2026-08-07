@@ -81,7 +81,8 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
 - id: c-61594
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     1235 m. Dobrynės ordinas susijungė su kryžiuočiais. Prūsijos pasienyje bandė kurdintis
     ir joanitai (XII a. pabaigoje —Regesta historico-diplomatica Ordinis..., Nr. 2), taip pat
@@ -98,7 +99,8 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
 - id: c-61596
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     159 D. — Wurcza. Burcos žemė Transilvanijoje. Joje Vengrijos karalius Andrius 11
     1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4),

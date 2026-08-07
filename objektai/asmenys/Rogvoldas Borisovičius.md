@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83cc6c617b54c3d7955e9031"
+canonical_name: "Rogvoldas Borisovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rogvoldas Borisovičius"]
+sameAs: []
+canonical_biography: "Kunigaikštis Rostislavas, kunigaikščio Rogvoldo Borisovičiaus sūnus."
 ---
 # Rogvoldas Borisovičius
 
@@ -58,7 +65,8 @@ Kunigaikštis Rostislavas, kunigaikščio Rogvoldo Borisovičiaus sūnus.
 - id: c-83825
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 61."
   citata_originali: |
     I  KNYGA
     knygoje, 223 lape ( P o a o c a o b h h k b  KHH 3eö BeAHKHXb h

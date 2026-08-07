@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-82997
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 289."
   citata_originali: |
     31
     Dar prieš kelerius metus Vilnių puo­
@@ -136,7 +137,8 @@ Nenurodyta
 - id: c-82998
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 288-289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 288-289."
   citata_originali: |
     272
 

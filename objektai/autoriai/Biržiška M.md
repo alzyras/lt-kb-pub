@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-28b5f1d113d3119253b3e18e"
+canonical_name: "Biržiška M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Biržiška M"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaičių..., p. 20, 40(47); Dundulienė P., Medžiai.., p. 99), liaudyje žinomos aukos Ragiui, Ragei (Dovydaitis Pr., Biržiška M., Auka, p. 153—154)."
 ---
 # Biržiška M
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
 - id: c-87586
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
   citata_originali: |
     Ragaina — miškų deivė
     (Lasickis J., Apie žemaičių..., p. 20, 40(47); Dundulienė P., Medžiai.., p. 99), liaudyje

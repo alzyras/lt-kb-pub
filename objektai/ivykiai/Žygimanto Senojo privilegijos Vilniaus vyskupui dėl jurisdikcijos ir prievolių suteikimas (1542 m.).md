@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-82957
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 419"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 419."
   citata_originali: |
     Be to, suteikiame dvasiškiams pilną ir ne­
     ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­

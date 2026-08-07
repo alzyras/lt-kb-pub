@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d61fa303dac0c27c395e6831"
+canonical_name: "Saksonija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Saksonija"]
+sameAs: []
+canonical_biography: "Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos valdžios."
+place_authority: true
+historical_names: []
 ---
 # Saksonija
 
@@ -90,7 +99,8 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - id: c-43826
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 142."
   citata_originali: |
     Šiaurės karas
 
@@ -111,7 +121,8 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - id: c-158258
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 39."
   citata_originali: |
     Lietu­
     vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink
@@ -137,7 +148,8 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - id: c-158261
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 389"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 389."
   citata_originali: |
     Augustas irgi pasi-
     ryžo prie jo prisidėti; Petrui palikęs Estiją, jis svajojo nusika-

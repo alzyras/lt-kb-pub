@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-08c891b5ec2874a5320fa8c8"
+canonical_name: "Dusetos"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dusetos","iš Dusetų v.","iš Dusetų v/"]
+sameAs: []
+canonical_biography: "Dusetos 1931 m. Tautosakos komisijos suvestinėje minimos kaip kelių pateikėjų kilmės vieta."
+place_authority: true
+historical_names: []
 ---
 # Dusetos
 

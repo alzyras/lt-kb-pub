@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b6f05ac7c7e09a66eca0169f"
+canonical_name: "Jurgis (Danieliaus sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis (Danieliaus sūnus)"]
+sameAs: []
+canonical_biography: "Kai dėl įtakos Naugarde varžėsi Tverės ir Maskvos kunigaikščiai, Gediminas taip pat vykdė savo politinį spaudimą, ypač kai totorių ordoje 1325 m. žuvo Maskvos kunigaikštis Jurgis (Danieliaus sūnus)."
 ---
 # Jurgis (Danieliaus sūnus)
 
@@ -62,7 +69,8 @@ Kai dėl įtakos Naugarde varžėsi Tverės ir Maskvos kunigaikščiai, Gedimina
 - id: c-32763
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 248."
   citata_originali: |
     Naugardą, kuris,
     pykdamas už Pskovo palaikymą, buvo sudaręs prieš Gediminą

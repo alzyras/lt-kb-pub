@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-573c2ea0738640c02bed941b"
+canonical_name: "Žiemgalos vyskupija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žiemgalos vyskupija"]
+sameAs: []
+canonical_biography: "Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­ pijos dalybų (1254 m.)^139."
+place_authority: true
+historical_names: []
 ---
 # Žiemgalos vyskupija
 
@@ -58,7 +67,8 @@ Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­ pijos dalybų (1254 m.)^1
 - id: c-34126
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 187."
   citata_originali: |
     Tos sritys figūravo kaip nu­
     kariautos^138. Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­

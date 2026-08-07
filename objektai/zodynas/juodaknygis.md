@@ -31,14 +31,14 @@ media_all_json: |-
 
 ## Santrauka
 
-1754 m. žodis „juodaknygis“ pavartotas Jono Dominyko Lopacinskio humoristiniame palyginime apie slaptai knygas skaičiusį Antaną Mykolą Pacą.
+1754 m. žodis „juodaknygis“ pavartotas kaip humoristinis slapto skaitytojo palyginimas.
 
 ## Teiginiai
 
 <a id="claim-t-200675"></a>
 - t-001
   teiginys: "1754 m. žodis „juodaknygis“ pavartotas Jono Dominyko Lopacinskio humoristiniame palyginime apie slaptai knygas skaičiusį Antaną Mykolą Pacą."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Mykolas Pacas: 0.85"
@@ -51,7 +51,7 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1754 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas, kieno palyginime ir apie ką vartotas žodis. Nepridėta žodyno reikšmė ar etimologija, kurios citata nepateikia."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir konkrečiai apibūdina žodžio „juodaknygis“ pavartojimą bei su juo susijusį humoristinį palyginimą."
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183973
@@ -65,6 +65,6 @@ media_all_json: |-
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 12."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 11:39"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001

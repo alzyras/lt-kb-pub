@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-53f342d7c4495ee237053e0e"
+canonical_name: "Sofija Alšėniškė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sofija Alšėniškė"]
+sameAs: []
+canonical_biography: "1454 m. per Kazimiero Jogailaičio vestuves Dlugošas nurodo, kad karaliaus motina Sofija Alšėniškė su Elžbieta Habsburgaite į rūmus grįžo karieta, lydima trimitų."
 ---
 # Sofija Alšėniškė
 

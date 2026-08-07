@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-676f4d20e309835f2d8a253d"
+canonical_name: "Bysleida"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bysleida"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai užpuolė. Dusburgietis teigia, kad bartoszyce) prie Bysleidos upelio."
+place_authority: true
+historical_names: []
 ---
 # Bysleida
 
@@ -90,7 +99,8 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
 - id: c-59168
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     457 D.— castrum Beseledam, Jer.— Beseledâ; vėliau Beisleiden, dab. Bezledai
     (Bezledy) — gyvenvietė per 10 km į šiaurės vakarus nuo Bartenšteino (dab. Bartoszyce)
@@ -108,7 +118,8 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
 - id: c-59169
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
     Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai

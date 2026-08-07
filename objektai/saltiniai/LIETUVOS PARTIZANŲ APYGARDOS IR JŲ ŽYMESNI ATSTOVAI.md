@@ -58,7 +58,8 @@ media_all_json: |-
 - id: c-77412
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 274."
   citata_originali: |
     p. 213, Sukilėlių žygis į Klaipėdos kraštą ir sukilimo eiga 1923 m. sausio 9-15 d.,
 

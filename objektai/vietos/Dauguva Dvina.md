@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2f7618be7f6588ce40540c4a"
+canonical_name: "Dauguva Dvina"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dauguva Dvina"]
+sameAs: []
+canonical_biography: "Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“. Narbutas dainelės žodį „dewine“ aiškino kaip „Dwine upe“ ir siejo jį su devintąja upe, Dvina arba Dauguva."
+place_authority: true
+historical_names: []
 ---
 # Dauguva Dvina
 

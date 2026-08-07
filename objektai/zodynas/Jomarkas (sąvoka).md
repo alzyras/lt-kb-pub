@@ -52,9 +52,9 @@ Iki šiol dar nuvargusio žemai čio visų didžiausias įrankis buvo arklį paa
 ## Citatos
 
 - id: c-184568
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 125"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 125."
   citata_originali: |
     Jau metuose 1562
     Abromaitis parašė knygą, mokančią, kaip reikia su

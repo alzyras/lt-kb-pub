@@ -61,7 +61,8 @@ Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenk�
 - id: c-26715
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 74-75"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 74-75."
   citata_originali: |
     Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai,
     lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą. Len-

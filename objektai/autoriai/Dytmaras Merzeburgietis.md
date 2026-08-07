@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b6cc31454b8eda651f30a3fb"
+canonical_name: "Dytmaras Merzeburgietis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dytmaras Merzeburgietis"]
+sameAs: []
+canonical_biography: "Dytmaras Merzeburgietis, pasakodamas apie Boleslovo Narsiojo karus, 1009 metais minėjo lietuvius."
 ---
 # Dytmaras Merzeburgietis
 
@@ -62,7 +69,8 @@ Dytmaras Merzeburgietis, pasakodamas apie Boleslovo Narsiojo karus, 1009 metais 
 - id: c-174551
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
   citata_originali: |
     Iš
     mums žinomų originalių istorikų pirmasis, Lietuvą pa­

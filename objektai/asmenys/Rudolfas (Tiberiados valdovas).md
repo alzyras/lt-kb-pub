@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d864f98a3aa99edba8c5c7fd"
+canonical_name: "Rudolfas (Tiberiados valdovas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rudolfas (Tiberiados valdovas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad rudolfas (Tiberiados valdovas) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti."
 ---
 # Rudolfas (Tiberiados valdovas)
 
@@ -34,7 +41,8 @@ Dusburgietis teigia, kad rudolfas (Tiberiados valdovas) sušakosiąs ir ateityje
 - id: c-61061
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
   citata_originali: |
     Nors
     apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai

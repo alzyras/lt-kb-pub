@@ -59,7 +59,8 @@ Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albe
 - id: c-82554
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 382-383"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 382-383."
   citata_originali: |
     366
 

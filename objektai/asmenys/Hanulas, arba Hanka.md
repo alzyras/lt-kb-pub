@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2910fdf85e1f0d08406b7898"
+canonical_name: "Hanulas, arba Hanka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hanulas, arba Hanka"]
+sameAs: []
+canonical_biography: "Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo žirgus/' 32 Hanulas tasai, keletą kartu paminė­ tas ano meto Lietuvos istorijos įvvkiuose, iš tikrųjų buvo vardu Han­ ka, nes Vladislovo Jogailos auten­ tiškame laiške: Datum in Krewferia."
 ---
 # Hanulas, arba Hanka
 
@@ -62,7 +69,8 @@ Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo �
 - id: c-83490
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 52."
   citata_originali: |
     Ta­
     da visa tai paėmė į savo valdžią - ir

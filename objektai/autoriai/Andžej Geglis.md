@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-37b0eef6530a47b47dcd0eaa"
+canonical_name: "Andžej Geglis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Andžej Geglis","Andžej Géglis","Andžej Gėglis"]
+sameAs: []
+canonical_biography: "Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blokų autorius. Bibliografiniame bloke jis taip pat įrašytas kaip ginkluotės ir taktikos raidos konsultantas."
 ---
 # Andžej Geglis
 
@@ -120,7 +127,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 - id: c-42390
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 274."
   citata_originali: |
     p- 139, „XVIII A. LINIJINĖ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis.
   statusas: verified
@@ -134,7 +142,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 - id: c-42391
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 274."
   citata_originali: |
     P. 157, „PAKEITIMAI KARYBOJE XIX A. PRADŽIOJE“, Andžej Geglis, dail. Andžej Geglis.
     p. 163, „PAKEITIMAI KARYBOJE XIX A. VIDURYJE“, Andžej Geglis.
@@ -150,7 +159,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 - id: c-42392
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 274."
   citata_originali: |
     NEPRIKLAUSOMYBĖS KOVOS
     P. 172, „XX A. PRADŽIOS PĖSTININKŲ TAKTIKA“, Andžej Geglis,
@@ -166,7 +176,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 - id: c-42393
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 275."
   citata_originali: |
     P. 179, „ŠAUTUVŲ RAIDA XX A. PRADŽIOJE“, Andžej Gėglis.
   statusas: verified
@@ -180,7 +191,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 - id: c-42395
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 275."
   citata_originali: |
     p. 228, „PUSIAU AUTOMATINIAI ŠAUTUVAI“, Andžej Geglis, Karolis Zikaras.
     p. 229, „AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras, Andžej Gėglis.
@@ -199,7 +211,8 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 - id: c-42396
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 275."
   citata_originali: |
     LIETUVOS ATSIKŪRIMAS
 

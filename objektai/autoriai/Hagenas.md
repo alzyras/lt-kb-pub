@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83dd5b9d27a5e027c5c585bf"
+canonical_name: "Hagenas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hagenas"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Hageno dar neišleistame veikale chemiškai įrodinėta, jog gintaras priklauso augalų pasauliui ir yra medžio sakai."
 ---
 # Hagenas
 

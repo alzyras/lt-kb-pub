@@ -18,6 +18,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-032014d69582489991af7968"
+canonical_name: "Cimbarka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Cimbarka"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Cimbarka
 

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-48e4c793a2965767a8a8e632"
+canonical_name: "Vaclovas (Čekijos karalius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaclovas (Čekijos karalius)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems 1307 viešpaties metais mirė Vaclovas, Čekijos karalius, o jo sūnus buvo vainikuotas karaliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol."
 ---
 # Vaclovas (Čekijos karalius)
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto at
 - id: c-61086
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
   citata_originali: |
     102. Apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems
 

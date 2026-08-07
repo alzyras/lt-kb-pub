@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b1964fbe9c6fb5cff7a01cb7"
+canonical_name: "Zenonas Ivinskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bražėnas","Ivinskis, Z.","Ivinskis, Z. (Bražėnas)","objektai/autoriai/Ivinskis, Z","Z. Ivinskio","Z. Ivinskis","Zenonas Ivinskis"]
+sameAs: []
+canonical_biography: "Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam priskiriama veikalo dalis apie laikotarpį iki Gediminaičių dinastijos galo, kitame jis pats pasirašo knygos pratarmę ir nurodomas kaip darbų apie Jogailą, Lietuvos istoriografiją, Gedimino laiškų aiškinimą, Lietuvos ir Rygos santykius XIV a. bei Vytauto jaunystę autorius, o 1930 m. kolektyvinės knygos įžangoje jis rodomas kaip jaunųjų istorikų telkėjas."
 ---
 # Zenonas Ivinskis
 
@@ -144,7 +151,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - id: c-00108
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 3."
   citata_originali: |
     |
   citata_rodoma: "|"
@@ -157,7 +165,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - id: c-163247
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 234."
   citata_originali: |
     Kadangi dėl tų laiškų autentiškumo ginčas tebesitęsia nuo pat
     jų atsiradimo iki šiol, yra susidariusi gausi literatūra. Daugumoje
@@ -179,7 +188,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - id: c-163248
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 69."
   citata_originali: |
     Pr. Penkauskas_** **, LASD, 1961, IV t., 264-267 p.**
     (^85) **K. Žukas :** **_Prof. K. Jablonskio bibliografija_** **, Bibliotekininkystės ir
@@ -196,7 +206,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - id: c-163250
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 49."
   citata_originali: |
     Bagdanavičius, V. : _Sovietinė Lietuvos istoriografija_. _Kritiškas
     LTSR Istorijos I tomo įvertinimas,_ TaPr, I, 1, 1959, 3-24 p. —Dundu­
@@ -220,7 +231,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 7."
   citata_originali: |
     Ypač tai buvo jaučiama, kai pradėta
     rūpintis švęsti Vytauto sukaktuves. Apie jį savo kalba pa­
@@ -239,7 +251,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - id: c-163252
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     P. Dusburgietis pažymi, kad „keturi
     tūkstančiai lietuvių“ niokojo Kuršo žemę,
@@ -262,7 +275,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - id: c-163253
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 45."
   citata_originali: |
     1492-ieji metai sudaro tad piūvį tarp dviejų epochų. Nors
     1492-94 m. karas baigėsi « amžinąja taika » didžiojo Lietuvos kuni­

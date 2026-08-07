@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-64fbba46a6fcf3f4b2596011"
+canonical_name: "Pogezanija"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pogezanija"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė savo pranašystes ir sprendimus. Be to, ir kitose vietose turėjo būti įtvirtinimų, skirtų krašto gynybai ir turtingesnių valdžiai stiprinti, bet jų pėdsakai visiškai išnyko; net nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė savo pranašystes ir sprendimus."
 ---
 # Pogezanija
 
@@ -85,7 +92,8 @@ Narbutas rašė, kad nežinoma, kur mitinė kunigaikštytė Pogezanija skelbė s
 - id: c-174190
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 358"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 358."
   citata_originali: |
     Senovinė Kiedinių tvirtovė, kur
     vėliau įsikūrė vienuolynas, kita stovėjo tarp Tolkmito ir

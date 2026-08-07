@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-732100cda190db3509a3b68f"
+canonical_name: "Albertas (Karaliaučiaus komtūras)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas (Karaliaučiaus komtūras)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232)."
 ---
 # Albertas (Karaliaučiaus komtūras)
 
@@ -67,7 +74,8 @@ Dusburgietis teigia, kad žygio prieš Lietuvą metu Karaliaučiaus komtūrui br
 - id: c-60860
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
     Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu

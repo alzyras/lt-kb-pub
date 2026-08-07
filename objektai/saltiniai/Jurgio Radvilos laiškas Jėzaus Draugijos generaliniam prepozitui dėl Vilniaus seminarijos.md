@@ -49,7 +49,8 @@ Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiama
 - id: c-84412
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 447"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 447."
   citata_originali: |
     Tai jų sąžinei griežtai
     pavedame. Klierikų mokymo reikalus ir vadovavimą kole­

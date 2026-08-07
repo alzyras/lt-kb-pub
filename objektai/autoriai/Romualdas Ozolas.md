@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4ffaab83ddc9afadc32300d"
+canonical_name: "Romualdas Ozolas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Romualdas Ozolas"]
+sameAs: []
+canonical_biography: "LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti laikraštis „Atgimimas“ (red. Romualdas Ozolas)."
 ---
 # Romualdas Ozolas
 
@@ -46,7 +53,8 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
 - id: c-176392
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 236."
   citata_originali: |
     LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsi-
     lankymas Lietuvoje rugpjūčio 11–12 dienomis. LKP vadovybei Aleksan-

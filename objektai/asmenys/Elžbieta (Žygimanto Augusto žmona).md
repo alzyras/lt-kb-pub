@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba6ea2819b132a77862629be"
+canonical_name: "Elžbieta (Žygimanto Augusto žmona)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Elžbieta (Žygimanto Augusto žmona)"]
+sameAs: []
+canonical_biography: "Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos seimo kartu su karaliene Elžbieta ir didele dvariškių svita, tais pačiais metais ir su geriausiomis pranašystėmis perėmė valdžios vadžias. VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbieta, Vengrijos ir Čekijos karaniuje 1545 metais, palaidota katedliaus, vėliau imperatoriaus Ferdiros bažnyčioje, koplyčioje, šalia kanando, duktė, ištekinta už Žygimanraliaus. Italai, čia nuolat dirbdami šešerius metus, iš brangaus marmuro pastatė du puikius antkapius kara­ liaus žmonoms - Elžbietai ir Barborai Šv."
 ---
 # Elžbieta (Žygimanto Augusto žmona)
 
@@ -98,7 +105,8 @@ media_all_json: |-
 - id: c-157477
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 288-289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 288-289."
   citata_originali: |
     Tačiau jaunasis karalius nejau­
     tė tokios netekties, kokios buvo vertos iš tiesų retos Elžbie­
@@ -128,7 +136,8 @@ media_all_json: |-
 - id: c-157478
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 288."
   citata_originali: |
     Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos
     seimo kartu su karaliene Elžbieta ir didele dvariškių svita,
@@ -149,7 +158,8 @@ media_all_json: |-
 - id: c-157480
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 291-292"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291-292."
   citata_originali: |
     — • —
     275

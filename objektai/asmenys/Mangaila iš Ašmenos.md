@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ceafb5030fbe9f5ec523134c"
+canonical_name: "Mangaila iš Ašmenos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mangaila iš Ašmenos"]
+sameAs: []
+canonical_biography: "Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie­ tuvos ir daugelio kitų patikimų liudytojų, ten buvusių."
 ---
 # Mangaila iš Ašmenos
 
@@ -61,7 +68,8 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
 - id: c-83749
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 215."
   citata_originali: |
     Tai vyko Lucke Šv. Jono Krikštytojo dieną Viešpaties gimi­
     mo 1388 metais. Prie liudytojų, tuo metu su mumis buvusių:

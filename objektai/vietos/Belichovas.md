@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-50705d631ac782944c8fabd3"
+canonical_name: "Belichovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Belichovas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos. Dusburgietis teigia, kad 427 D. ir Jer.— Belichow; Bialachovas, Białachowo (SZCh, p. 5), gyvenvietė Osos žemupio deš. krante per 9 km į šiaurės rytus nuo Grudziondzo; žr. D. III, 14."
+place_authority: true
+historical_names: []
 ---
 # Belichovas
 
@@ -79,7 +88,8 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 - id: c-59159
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
     427  D. ir Jer.— Belichow; Bialachovas, Białachowo (SZCh, p. 5), gyvenvietė Osos
     žemupio deš. krante per 9 km į šiaurės rytus nuo Grudziondzo; žr. D. III, 14.
@@ -95,7 +105,8 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 - id: c-59160
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
     Apie antrąjį minėtojo Marienverderio miesto sugriovimą
 

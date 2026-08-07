@@ -60,7 +60,8 @@ media_all_json: |-
 - id: c-82574
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 297."
   citata_originali: |
     IV KNYGA
     Vilnius ir pasinaudojo savo prerogatyva abiejų tautų Unijos

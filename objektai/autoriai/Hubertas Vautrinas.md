@@ -27,8 +27,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-039a9c378e5189fcb197bd0a"
+canonical_name: "Hubertas Vautrinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hubertas Vautrinas"]
+sameAs: []
+canonical_biography: "Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respubliką, aprašė vengriško vyno gėrimą iš vienos taurės."
 ---
 # Hubertas Vautrinas
+
+## Santrauka
+
+Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respubliką, aprašė vengriško vyno gėrimą iš vienos taurės.
 
 ## Santrauka
 
@@ -39,7 +50,7 @@ Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respu
 <a id="claim-t-200743"></a>
 - t-001
   teiginys: "Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respubliką, aprašė vengriško vyno gėrimą iš vienos taurės."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,6 +76,6 @@ Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respu
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 14."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-001

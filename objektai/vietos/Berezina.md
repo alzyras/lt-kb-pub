@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-69adafe8245bc6258c4f557d"
+canonical_name: "Berezina"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Berezina"]
+sameAs: []
+canonical_biography: "Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui, — per Vilnių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių rinkti naujų jėgų."
+place_authority: true
+historical_names: []
 ---
 # Berezina
 
@@ -71,7 +80,8 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - id: c-02597
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 461"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 461."
   citata_originali: |
     Be to, netrukus žuvo ir visa Napoleono galybė. Tuojau
     po unijos atnaujinimo iškilmių jis išžygiavo iš Vilniaus į
@@ -91,7 +101,8 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - id: c-168293
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 85."
   citata_originali: |
     Valdo­
     mo krašto žmones jis be galo patraukė į savo pusę

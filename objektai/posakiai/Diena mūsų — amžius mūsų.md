@@ -41,9 +41,9 @@ Rodės, jog toj rūstoj dienoj nebliks nė veis lės lietuvių ir žemaičių, k
 ## Citatos
 
 - id: c-184608
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 510"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 510."
   citata_originali: |
     Rodės, jog toj rūstoj dienoj nebliks nė veis­
     lės lietuvių ir žemaičių, kaipogi kur pirma linksmi

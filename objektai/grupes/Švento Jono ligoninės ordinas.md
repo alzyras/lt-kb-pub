@@ -62,7 +62,8 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
 - id: c-59680
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
     Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino

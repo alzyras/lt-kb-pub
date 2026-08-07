@@ -116,7 +116,8 @@ Nenurodyta
 - id: c-174919
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 24."
   citata_originali: |
     PRATARME
     Vos tik buvo išspausdinta religijos, papročių ir kitų
@@ -148,7 +149,8 @@ Nenurodyta
 - id: c-174920
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 26."
   citata_originali: |
     Rašyta gauruose
     1835 m. gegužės 8 dieną.

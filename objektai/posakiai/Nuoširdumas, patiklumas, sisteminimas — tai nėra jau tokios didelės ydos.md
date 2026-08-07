@@ -53,7 +53,8 @@ media_all_json: |-
 - id: c-175014
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 451"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 451."
   citata_originali: |
     Ten buvo rašoma: „Nuoširdumas,
       patiklumas, sisteminimas — tai nėra jau tokios didelės

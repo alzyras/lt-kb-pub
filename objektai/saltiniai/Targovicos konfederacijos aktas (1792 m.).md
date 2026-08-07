@@ -72,7 +72,8 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 - id: c-02528
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 447"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 447."
   citata_originali: |
     Priimtoje konsti-
     tucijoje buvo pasakyta, kad ji galėsianti būti pataisyta tik po 25
@@ -93,7 +94,8 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 - id: c-02529
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 449"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 449."
   citata_originali: |
     Tuojau visi didieji reformų priešininkai
     buvo sukviesti į Petrapilį, kur buvo nutarta suorganizuoti re-

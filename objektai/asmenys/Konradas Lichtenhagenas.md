@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-26c28438d0fcf07142a9853e"
+canonical_name: "Konradas Lichtenhagenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas Lichtenhagenas"]
+sameAs: []
+canonical_biography: "Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, kuriame stovėjo Gedimino pilis, ir, regis, netoli nuo Garteno, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano atėjo Brandenburgo komtūras Konradas Lichtenhagenas."
 ---
 # Konradas Lichtenhagenas
 
@@ -59,7 +66,8 @@ Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, kuriame stovė
 - id: c-83738
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 63."
   citata_originali: |
     Pirmą kartą jį Dusburgas mini prie 1304 metų
     (356 lape), pasakodamas, kaip brolis Eberhardas de Virnem-

@@ -9,6 +9,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Lituanistika-3-Kazimiero-Jogailaicio-dvaras'
+  - 'Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -45,6 +46,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7d664ed0c82df9af7daeed4d"
+canonical_name: "Kijevas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kijevas"]
+sameAs: []
+canonical_biography: "Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo. Vytautas rėmė Kijevo prekybą, nes miestas Dniepru jungėsi su Juodosios jūros kryptimi ir sausuma su Volynės bei Podolės miestais. Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos."
+place_authority: true
+historical_names: []
 ---
 # Kijevas
 
@@ -57,7 +67,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 <a id="claim-t-180000"></a>
 - t-001
   teiginys: "Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,32 +77,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=35"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163661
-    - c-181800
-
-<a id="claim-t-180001"></a>
-- t-002
-  teiginys: "Vytautas rėmė Kijevo prekybą, nes miestas Dniepru jungėsi su Juodosios jūros kryptimi ir sausuma su Volynės bei Podolės miestais."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dniepras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dniepras: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-163646
-    - c-181826
 
 <a id="claim-t-180002"></a>
-- t-003
+- t-002
   teiginys: "Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Skirgaila: 0.87"
   ryšio_patikimumo_lygis: "aukstas"
@@ -103,14 +95,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_paaiskinimas: "Vytautas pasižada padėti Skirgailai, todėl ryšys yra parama."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Skirgaila (0.87); Skirgaila užėmė Kijevas (0.74)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163639
     - c-181804
 
 <a id="claim-t-180003"></a>
-- t-004
+- t-003
   teiginys: "Po LDK krikšto buvo suformuota Kijevo katalikų vyskupija šalia jau veikusių stačiatikių vyskupijų."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Stačiatikiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -120,14 +113,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Stačiatikiai: mention_match, group, gap=45"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Stačiatikiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163669
     - c-181787
 
 <a id="claim-t-180004"></a>
-- t-005
+- t-004
   teiginys: "Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krymas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -137,31 +131,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Krymas: mention_match, place, gap=124"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163674
-    - c-181802
-
-<a id="claim-t-180005"></a>
-- t-006
-  teiginys: "Gedimino ar Algirdo laikais Kijevas buvo Lietuvos politinėje įtakoje."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-163648
-    - c-181805
+    - c-186085
 
 <a id="claim-t-180006"></a>
-- t-007
+- t-005
   teiginys: "Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, bet nuolat rezidavo Vilniuje."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -171,14 +149,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=41"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163635
     - c-181822
 
 <a id="claim-t-180008"></a>
-- t-008
+- t-006
   teiginys: "Ignacas Danilavičius, buvęs Vilniaus universiteto profesorius, Kijeve vadovavo Teisės katedrai."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -188,14 +167,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163642
     - c-181789
 
 <a id="claim-t-180010"></a>
-- t-009
+- t-007
   teiginys: "Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Lietuvos ekspansiją laiko veiksniu, Kijevo Rusios erdvę perskyrusiu į Kijevo ir Maskvos dalis."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevo Rusia: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -205,14 +185,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Kijevo Rusia: mention_match, place, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Kijevo Rusia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163672
     - c-181810
 
 <a id="claim-t-180012"></a>
-- t-010
+- t-008
   teiginys: "1411 metų pavasarį Vytautas su Jogaila keliavo per Lietuvos rytų pakraščius iki Kijevo."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Kijevas: 0.89"
   ryšio_patikimumo_lygis: "aukstas"
@@ -223,14 +204,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_paaiskinimas: "Teiginys nurodo, kad Vytautas keliavo iki Kijevo."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kijevas (0.89); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Kijevas (0.82)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163633
-    - c-181808
 
 <a id="claim-t-180013"></a>
-- t-011
+- t-009
   teiginys: "Maskvos metropolitas Fotijas siekė išprašyti Kijevo metropolijos prijungimą prie Maskvos, bet nieko nelaimėjęs išvyko."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -240,14 +221,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=45"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163661
-    - c-181800
 
 <a id="claim-t-180014"></a>
-- t-012
+- t-010
   teiginys: "Gediminas, užkariavimais pasiekęs žemes už Kijevo, įsakė pastatyti pilį Vilniuje ir perkėlė savo buveinę iš Trakų."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Trakai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -257,14 +238,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=65"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-163677
-    - c-181796
 
 <a id="claim-t-180016"></a>
-- t-013
+- t-011
   teiginys: "Po Mykolo mirties Lietuvos ponai Lietuvos valdovu siūlė Kijevo kunigaikštį Simaną."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -277,14 +258,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporaliniai_duomenys: "įvykio data: 1452 m.; įvykio data: 1461 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinė formuluotė gramatiškai netiksli, todėl ją reikia sutrumpinti ir pataisyti."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163665
     - c-181821
 
 <a id="claim-t-180017"></a>
-- t-014
+- t-012
   teiginys: "1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Kijevas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -298,34 +280,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporaliniai_duomenys: "įvykio data: 1395 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Išplėstas neaiškus įvardis ir sakinys padarytas savarankiškas."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163654
-    - c-181825
     - c-163641
-    - c-181815
-
-<a id="claim-t-180019"></a>
-- t-015
-  teiginys: "Vytautas rėmė Kijevo miestą, siekdamas atgaivinti prekybą rusiškuose kraštuose."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dniepras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dniepras: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-163646
-    - c-181826
 
 <a id="claim-t-180020"></a>
-- t-016
+- t-013
   teiginys: "Lietuvos ekspansija Kijevo Rusios erdvę perskėlė į Kijevo ir Maskvos dalis, kurių istorija kelis amžius klostėsi atskirai."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevo Rusia: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -335,14 +298,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Kijevo Rusia: mention_match, place, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Kijevo Rusia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163672
-    - c-181810
 
 <a id="claim-t-180021"></a>
-- t-017
+- t-014
   teiginys: "Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją ir kitas dideles Lietuvos Didžiosios Kunigaikštijos teritorijas."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -352,14 +315,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163638
     - c-181791
 
 <a id="claim-t-180022"></a>
-- t-018
+- t-015
   teiginys: "1414–1416 metais Edygos vadovaujami totoriai smarkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Kijevas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -373,14 +337,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporaliniai_duomenys: "įvykio data: 1416 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir tiksliai nusako citatoje minimą Kijevo nuniokojimą."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163655
     - c-181806
 
 <a id="claim-t-180026"></a>
-- t-019
+- t-016
   teiginys: "Po Brastos bažnytinės unijos Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -390,14 +355,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=37"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163635
-    - c-181822
+    - c-186092
 
 <a id="claim-t-180027"></a>
-- t-020
+- t-017
   teiginys: "Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją kartu su Palenke, Voluine ir Podole."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Podolė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -407,14 +373,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=46"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163638
     - c-181791
 
 <a id="claim-t-180030"></a>
-- t-021
+- t-018
   teiginys: "Po Lietuvos krikšto LDK buvo suformuota Kijevo katalikų vyskupija kartu su Vilniaus, Žemaičių ir Lucko vyskupijomis."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Luckas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -424,15 +391,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Luckas: mention_match, place, gap=57"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-163669
     - c-181787
 
 <a id="claim-t-180033"></a>
-- t-022
+- t-019
   teiginys: "1461 m. Lietuvos ponai kandidatu į Lietuvos valdovus siūlė Kijevo kunigaikštį Simaną."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -445,15 +412,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporaliniai_duomenys: "įvykio data: 1452 m.; įvykio data: 1461 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Sakinys patikslintas pagal citatoje nurodytą pasiūlymą ir datą."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163665
-    - c-181821
 
 <a id="claim-t-180038"></a>
-- t-023
+- t-020
   teiginys: "Gerokai prieš XIII amžių pietų Rusioje klestėjo senasis Kijevas, vadintas Rytų apeigų tikėjimo lopšiu ir buvęs garsios monarchijos sostine."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -463,14 +429,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-163645
-    - c-181818
 
 <a id="claim-t-180039"></a>
-- t-024
+- t-021
   teiginys: "1240 m. Kijevą nusiaubė mongolai, nuo to laiko politiškai svarbiausia rusėnų žeme tapo Vladimiro kunigaikštystė."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevo Rusia: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -483,14 +449,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporaliniai_duomenys: "įvykio data: 1132 m.; įvykio data: 1240 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Kijevą ir jo politinės reikšmės pokytį."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163682
     - c-181829
 
 <a id="claim-t-180040"></a>
-- t-025
+- t-022
   teiginys: "Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevo kunigaikštystė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -500,18 +467,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Kijevo kunigaikštystė: mention_match, group, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Kijevo kunigaikštystė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163640
-    - c-163687
-    - c-181823
-    - c-181832
-    - c-163645
-    - c-181818
 
 <a id="claim-t-180044"></a>
-- t-026
+- t-023
   teiginys: "Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Kijevas: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -521,15 +484,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Gedimino kariuomenė atėmė Kijevą iš Aukso ordos."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163649
-    - c-181809
+    - c-186091
 
 <a id="claim-t-180046"></a>
-- t-027
+- t-024
   teiginys: "Cituojamame metraštyje teigiama, kad Lietuvos miestai buvo valdomi Kijevo, Černigovo, Smolensko ir Polocko kunigaikščių."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Polockas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -541,31 +504,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-163687
-    - c-181823
-    - c-163640
-    - c-181832
-
-<a id="claim-t-180047"></a>
-- t-028
-  teiginys: "Kijevas buvo tarp Lietuvos politinėje įtakoje buvusių Rusios erdvės centrų."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-163648
-    - c-181805
 
 <a id="claim-t-180048"></a>
-- t-029
+- t-025
   teiginys: "1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą gavo Skirgaila."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Luckas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -578,14 +521,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporaliniai_duomenys: "įvykio data: 1393 m.; įvykio data: 1394 m.; įvykio data: 1395 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, aiškus ir tiesiogiai paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163678
     - c-181824
 
 <a id="claim-t-180052"></a>
-- t-030
+- t-026
   teiginys: "1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą perdavė Skirgailai."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Kijevas: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -601,12 +545,12 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporalinis_llm_pakomentavimas: "Pradinis teiginys apima perteklinius faktus apie Lucką ir Podolę."
   pagrindžia:
     - c-163678
-    - c-181824
+    - c-186090
 
 <a id="claim-t-180055"></a>
-- t-031
+- t-027
   teiginys: "Vytautui vykstant iki Kijevo, pakeliui esančių kraštų kunigaikščiai reiškė jam paklusnumą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -616,14 +560,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=32"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163633
     - c-181808
 
 <a id="claim-t-180056"></a>
-- t-032
+- t-028
   teiginys: "Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Kijevas: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -637,14 +582,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporaliniai_duomenys: "įvykio data: 1325 m.; įvykio data: 1325-1326; įvykio data: 1326 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys konkrečiai nusako Gedimino veiksmus Kijevo atžvilgiu."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163683
-    - c-181819
 
 <a id="claim-t-180057"></a>
-- t-033
+- t-029
   teiginys: "Per Kijevą Vilnius palaikė prekybinius ryšius su Rytais."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevo kunigaikštystė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -654,15 +599,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Kijevo kunigaikštystė: mention_match, group, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Kijevo kunigaikštystė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-163640
-    - c-181832
 
 <a id="claim-t-183028"></a>
-- t-034
+- t-030
   teiginys: "Po sąmokslininkų puolimo Švitrigaila paspruko į Polocką ir perėmė Kijevo bei kelias kitas sritis."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -676,14 +620,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Švitrigaila paspruko į Polocką."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   semantiniai_rysiai: "Švitrigaila keliavo į Polockas (0.90); Švitrigaila valdė Kijevas (0.88); Švitrigaila valdė Polockas (0.83)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-166420
-    - c-181813
 
 <a id="claim-t-184985"></a>
-- t-035
+- t-031
   teiginys: "Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -696,14 +640,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citata nurodo, kad Kijevo luomai prisiekė paklusti Gedimino valdžiai."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-168346
 
 <a id="claim-t-184986"></a>
-- t-036
+- t-032
   teiginys: "Užkariavus Kijevą, Volynę ir didelę Seversko dalį, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -716,13 +660,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=57"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-168347
 
 <a id="claim-t-184987"></a>
-- t-037
+- t-033
   teiginys: "Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -736,34 +681,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas patraukė į Azovą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Azovas (0.90)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-168348
 
-<a id="claim-t-187582"></a>
-- t-038
-  teiginys: "Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  pagrindžia:
-    - c-170529
-    - c-181786
-
 <a id="claim-t-188724"></a>
-- t-039
+- t-034
   teiginys: "Narbutas Perkūno stabo garsumą X a. siejo su Vladimiro pastatytais tokiais pat stabais Kijeve ir Naugarde."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -779,14 +704,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporaliniai_duomenys: "pastatymo data: 1452 m.; pastatymo data: 1461 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Mitologinė ir kilmės interpretacija suformuluota kaip Narbuto aiškinimas. Palikta tik tai, ką tiesiogiai remia citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-171613
     - c-181811
 
 <a id="claim-t-192671"></a>
-- t-040
+- t-035
   teiginys: "Teodoras Narbutas Karkinito miestą tapatino su dabartiniu Kijevu prie Dnepro kairiosios vagos ar seno užutekio."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -802,12 +728,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175441
-    - c-181814
 
 <a id="claim-t-192672"></a>
-- t-041
+- t-036
   teiginys: "Teodoro Narbuto prielaidoje chionitai gyveno dešiniajame Dnepro krante, kur yra Kijevas, o kitapus Dnepro jų kaimynai buvo alanai."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -827,23 +752,30 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - c-181827
 
 <a id="claim-t-192673"></a>
-- t-042
+- t-037
   teiginys: "Naruševičius, Narbuto perteikimu, Ptolemėjo chunų koloniją siejo su vieta, kur yra Kijevas, ir laikė juos graikų-skitų gentimi."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175442
-    - c-181827
+    - c-175443
+    - c-181793
 
 <a id="claim-t-192675"></a>
-- t-043
+- t-038
   teiginys: "Teodoro Narbuto aprašyme Kijevo miesto istorija laikoma ypatinga, nes jo praeities žinios dar įžvelgiamos."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -855,9 +787,9 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - c-181798
 
 <a id="claim-t-192676"></a>
-- t-044
+- t-039
   teiginys: "Teodoras Narbutas teigė, kad dabartinio Kijevo žemė pirmiausia tapo pastovia skitų gyvenamąja vieta prie Dnepro."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -876,9 +808,9 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - c-181831
 
 <a id="claim-t-192677"></a>
-- t-045
+- t-040
   teiginys: "Padavime, kurį perteikia Narbutas, Kijus, Sčekas ir Choryvas laikomi Kijevo įkūrėjais arba atnaujintojais."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -897,9 +829,9 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - c-181803
 
 <a id="claim-t-193190"></a>
-- t-046
+- t-041
   teiginys: "Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykstantiems kryžeiviams paruoštus stalus."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -907,12 +839,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175934
-    - c-181830
 
 <a id="claim-t-193191"></a>
-- t-047
+- t-042
   teiginys: "Tiesa, totoriai dažnai nusiaubdavo Kijevo apylinkes, tačiau pačios Lietuvos niekas nepalietė."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -923,9 +854,9 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - c-181794
 
 <a id="claim-t-193192"></a>
-- t-048
+- t-043
   teiginys: "Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -936,9 +867,9 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - c-181795
 
 <a id="claim-t-193765"></a>
-- t-049
+- t-044
   teiginys: "Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -949,7 +880,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - c-181817
 
 <a id="claim-t-196694"></a>
-- t-050
+- t-045
   teiginys: "Visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -961,9 +892,9 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - c-168346
 
 <a id="claim-t-196695"></a>
-- t-051
+- t-046
   teiginys: "Šitaip ilgai niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija, patyrusi visokių sėkmių ir nesėk mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val džioje."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -971,11 +902,12 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168347
+    - c-186088
 
 <a id="claim-t-197172"></a>
-- t-052
+- t-047
   teiginys: "Kijevo patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -983,12 +915,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-163649
-    - c-181809
 
 <a id="claim-t-197882"></a>
-- t-053
+- t-048
   teiginys: "Kijevo • miesto istorija ypatinga, tuo, kad žinios, sly pinčios kitapus tamsios praeities skraistės, vis dėlto įž velgiamos ir tarsi teikia vilties, jog galima dar daug ką sužinoti."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -996,12 +927,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179379
-    - c-181792
 
 <a id="claim-t-197883"></a>
-- t-054
+- t-049
   teiginys: "Tokiomis aplinkybėmis dabartinio Kijevo žemė pir miausia tapo skitų pastovia gyvenamąja vieta, nes ši vieta buvo pati tinkamiausia visame šios Dnepro pakran tės plote."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1009,12 +939,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175446
-    - c-181831
 
 <a id="claim-t-197884"></a>
-- t-055
+- t-050
   teiginys: "Padavimas teigia, jog jie buvę įkūrėjai ar atnaujintojai Kijevo, be to, ga lėjo būti, jog pirmojo vardas buvo šiek tiek panašus į senovinį miesto pavadinimą; iš čia ir atsirado naujas Kijev horod, Kijev perevoz na Dnepre pavadinimas."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1022,12 +951,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175447
-    - c-181803
 
 <a id="claim-t-199251"></a>
-- t-056
+- t-051
   teiginys: "1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Žitomiro ir Ovručio valsčius pasiliko sau."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata."
   susije_objektai: "llm_object: Kijevas; llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Žitomiras; llm_object: Žitomiras; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Podolė; mentioned_place: Polockas"
@@ -1036,13 +964,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181820
 
 <a id="claim-t-199255"></a>
-- t-057
+- t-052
   teiginys: "1300 m. visos Rusios metropolitas perkėlė sostinę iš nuolatinių totorių puolimų grėsmėje buvusio Kijevo į šiaurinės Rusios Vladimirą."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Perrašyta į glaustesnį faktinį sakinį be perteklinės interpretacinės įžangos."
   susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Maskva; llm_object: Kijevas"
@@ -1051,13 +980,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Perrašyta į glaustesnį faktinį sakinį be perteklinės interpretacinės įžangos."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181784
 
 <a id="claim-t-199256"></a>
-- t-058
+- t-053
   teiginys: "Kijevo kunigaikštystė buvo įjungta į Lietuvos valstybę drauge su Podole."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata."
   susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bakota"
@@ -1069,13 +999,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Luckas: mention_match, place"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-32127
+    - c-186086
 
 <a id="claim-t-199259"></a>
-- t-059
+- t-054
   teiginys: "1300 m. visos Rusios metropolitas perkėlė sostinę iš totorių puolimų grėsmėje buvusio Kijevo į Vladimirą."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys, sutampantis su citatos turiniu."
   susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Maskva"
@@ -1083,36 +1014,76 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, sutampantis su citatos turiniu."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181784
 
 <a id="claim-t-199267"></a>
-- t-060
+- t-055
   teiginys: "Skirgailai buvo paliktas Polockas ir pažadėta Kijevo kunigaikštystė."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus, gramatiškas ir pagrįstas citata."
   susije_objektai: "llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Polockas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-32127
 
+<a id="claim-t-199268"></a>
+- t-056
+  teiginys: "Gedimino ar Algirdo laikais Kijevas buvo Lietuvos politinėje įtakoje."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys daugiausia kalba apie Lietuvą, todėl susiaurintas iki fakto apie Kijevą."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Polockas; mentioned_place: Voluinė"
+  ryšio_patikimumas: "uzeme -> Kijevas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai pasako, kad Vytautas atėmė Kijevą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-186087
+
 <a id="claim-t-199270"></a>
-- t-061
+- t-057
   teiginys: "Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pradinis teiginys per ilgas ir beveik pažodžiui atkartoja citatą; glaustesnė forma geriau tinka KB."
   susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Bakota"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-32127
+    - c-186086
+
+<a id="claim-t-199274"></a>
+- t-058
+  teiginys: "Vytautas rėmė Kijevo miestą, siekdamas atgaivinti prekybą rusiškuose kraštuose."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Sutrumpinta iki aiškaus enciklopedinio fakto apie Kijevą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Krokuva"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-186089
 
 <a id="claim-t-199278"></a>
-- t-062
+- t-059
   teiginys: "1399 m. birželį Kijeve buvo sutelkta didelė Vytauto kariuomenė."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Ragainė"
   temporaliniai_duomenys: "įvykio data: 1399 m."
@@ -1125,35 +1096,25 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=32"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-181797
     - c-181807
 
-<a id="claim-t-199285"></a>
-- t-063
-  teiginys: "Teodoras Narbutas spėjo, kad Herodotas buvo nukeliavęs ne toliau kaip iki dabartinio Kijevo."
-  atnaujinta: "2026-07-19 16:46"
+<a id="claim-t-199288"></a>
+- t-060
+  teiginys: "Vytautas rėmė Kijevo prekybą, nes miestas Dniepru jungėsi su Juodosios jūros kryptimi ir sausuma su Volynės bei Podolės miestais."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Hipotezinis „turbūt“ perrašytas kaip Narbuto spėjimas. Moralizuojantis Herodoto apibūdinimas ir platesnis pasakojimas neperkelti."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Boristeniečiai|Boristeniečiai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Dnepras; mentioned_place: Europa; mentioned_place: Semba; mentioned_place: Upės (Oppen) kaimas"
-  ryšio_patikimumas: "reme -> Skirgaila: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Vytautas pasižada padėti Skirgailai, todėl ryšys yra parama."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  susije_objektai: "mentioned_place: Dniepras; mentioned_place: Podolė; mentioned_place: Volynė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-181812
+    - c-186089
 
 <a id="claim-t-199293"></a>
-- t-064
+- t-061
   teiginys: "1300 m. visos Rusios metropolitas perkėlė savo sostinę iš totorių puolimų grėsmėje buvusio Kijevo į Vladimirą."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją."
   susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Maskva"
@@ -1168,24 +1129,26 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181784
 
 <a id="claim-t-199303"></a>
-- t-065
+- t-062
   teiginys: "Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir pagrįstas citata apie Kijevo kunigaikštystę."
   susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bakota"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-32127
+    - c-186086
 
 <a id="claim-t-199304"></a>
-- t-066
+- t-063
   teiginys: "1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Kijevas buvo atiduotas Skirgailai mainais už Polocką."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas, konkretus ir paremtas citata."
   susije_objektai: "llm_object: Kijevas; llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Podolė; mentioned_place: Žitomiras"
@@ -1194,14 +1157,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir paremtas citata."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181820
 
 <a id="claim-t-199305"></a>
-- t-067
+- t-064
   teiginys: "Vytauto vadovaujamos LDK ir sąjungininkų pajėgos 1399 m. liepos pabaigoje išžygiavo iš Kijevo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1219,35 +1182,12 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Gedimino kariuomenė atėmė Kijevą iš Aukso ordos."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-170531
-
-<a id="claim-t-199308"></a>
-- t-068
-  teiginys: "Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pašalintos OCR klaidos ir fragmentiška sakinio pradžia."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Podolė; mentioned_place: Vitebskas; mentioned_place: Vladimiras"
-  ryšio_patikimumas: "susije_su -> Jonas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jonas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Jonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-170528
-    - c-181799
+    - c-186093
 
 <a id="claim-t-201066"></a>
-- t-069
+- t-065
   teiginys: "Gediminas, palikęs ir te nai savo įgulę, traukė į gilumą krašto gudų toli mesnių ir, leisdamas į visas puses rimtas virtines sarioti, artinos Kijevan, buveinėn gudų, kurioje jų didysis kunigaikštis, caru, arba viešpačiu, visos Gu dijos vadinamas, gyveno."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -1259,7 +1199,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - c-184416
 
 <a id="claim-t-201067"></a>
-- t-070
+- t-066
   teiginys: "Lietuviai, nakčia pagal palaidoję kū nus, auštant ties mūrais Kijevo pasirodė."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -1271,7 +1211,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - c-184417
 
 <a id="claim-t-201623"></a>
-- t-071
+- t-067
   teiginys: "Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Brestas, Kijevas, Mogiliavas, Pinskas, Polockas, Vitebskas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -1283,7 +1223,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     - c-184970
 
 <a id="claim-t-202442"></a>
-- t-072
+- t-068
   teiginys: "Kijeve karalius turėjo priimti LDK pasiuntinio ranką, kaip Kontarinio pasakojimą perteikia Lituanistika-3-Kazimiero-Jogailaicio-dvaras."
   atnaujinta: "2026-07-24 14:22"
   sprendimo_priezastis: "auto"
@@ -1300,6 +1240,223 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-3-Kazimiero-Jogailaicio-dvaras"
   pagrindžia:
     - c-185789
+
+<a id="claim-t-202517"></a>
+- t-069
+  teiginys: "1500 m. Tripolio kaimą gavusiam Kijevo bajorui Danieliui Dadikovičiui nustatytas metinis mokestis – penki vežimai šieno ir dvi lapenos."
+  atnaujinta: "2026-07-26 19:27"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lapena (daiktas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kijevas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lapena (daiktas): mention_match, thing, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kijevas\" parinktas kaip owner_note_path. Targetas \"Lapena (daiktas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
+  vertinimo_atnaujinta: "2026-07-26T16:20:30Z"
+  pagrindžia:
+    - c-185876
+
+<a id="claim-t-203199"></a>
+- t-070
+  teiginys: "Kijevas atsidūrė Lietuvos kunigaikščio valdžioje."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie Kijevo politinę priklausomybę ir remiasi citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Severskas; mentioned_place: Volynė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Brianskas; mentioned_place: Perejeslavlis"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168347
+
+<a id="claim-t-203220"></a>
+- t-071
+  teiginys: "Teodoras Narbutas spėjo, kad Herodotas turbūt buvo nukeliavęs ne toliau kaip iki dabartinio Kijevo."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Hipotezinis „turbūt“ perrašytas kaip Narbuto spėjimas. Moralizuojantis Herodoto apibūdinimas ir platesnis pasakojimas neperkelti."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Boristeniečiai|Boristeniečiai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Dnepras; mentioned_place: Europa; mentioned_place: Semba; mentioned_place: Upės (Oppen) kaimas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-181812
+
+<a id="claim-t-203228"></a>
+- t-072
+  teiginys: "Knygos „Lietuvos istorija“ autoriai teigia, kad Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į Kijevo ir Maskvos dalis, kurių istorija kelis amžius klostėsi atskirai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_place: Kijevo Rusia; mentioned_place: Maskva; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Europa; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-181810
+
+<a id="claim-t-203237"></a>
+- t-073
+  teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad po sąmokslininkų puolimo Švitrigaila paspruko į Polocką ir paėmė savo valdžion Kijevo bei kelias kitas sritis."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Nutrūkęs sakinys perrašytas į pilną, citata paremtą teiginį."
+  susije_objektai: "llm_object: Polockas; llm_object: Kijevas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas"
+  semantiniai_rysiai: "[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė Kijevas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-181813
+
+<a id="claim-t-203248"></a>
+- t-074
+  teiginys: "Šaltinyje „Albertas Vijūkas-Kojelavičius, Lietuvos istorija“ rašoma, kad visi luomai išėjo iš miesto, pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168346
+
+<a id="claim-t-203253"></a>
+- t-075
+  teiginys: "1395 m. Kijevas buvo atimtas iš Vladimiro, o Vytautas jį atidavė Skirgailai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Išplėstas neaiškus įvardis ir sakinys padarytas savarankiškas."
+  susije_objektai: "llm_object: Kijevas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] užėmė Kijevas"
+  temporaliniai_duomenys: "įvykio data: 1395 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas neaiškus įvardis ir sakinys padarytas savarankiškas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-163641
+
+<a id="claim-t-203254"></a>
+- t-076
+  teiginys: "1395 m., atėmus Kijevą iš Vladimiro, Vytautas jį perdavė Skirgailai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "llm_object: Kijevas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Alšėnai"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] užėmė Kijevas"
+  temporaliniai_duomenys: "įvykio data: 1395 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-181815
+
+<a id="claim-t-203294"></a>
+- t-077
+  teiginys: "Michał Baliński teigimu, Kijevui tarpininkaujant Vilnius palaikė prekybinius ryšius su Rytais."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata aiškiai teigia, kad Kijevas tarpininkavo Vilniaus prekybai su Rytais."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltarusija; mentioned_place: Dniepras; mentioned_place: Dniestras"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-181832
+
+<a id="claim-t-203345"></a>
+- t-078
+  teiginys: "Teodoras Narbutas rašė, kad, pasak padavimo, trys broliai slavai – Kijus, Sčekas ir Choryvas – buvę Kijevo įkūrėjai ar atnaujintojai, o pirmojo vardas galėjo būti panašus į senovinį miesto pavadinimą, iš kurio atsiradę pavadinimai „Kijev horod“ ir „Kijev perevoz na Dnepre“."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-181803
+
+<a id="claim-t-203357"></a>
+- t-079
+  teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ rašoma, kad kariuomenė buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykstantiems kryžeiviams paruoštus stalus."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-181830
+
+<a id="claim-t-203505"></a>
+- t-080
+  teiginys: "Teodoras Narbutas rašė, kad dabartinio Kijevo žemė pirmiausia tapo nuolatine skitų gyvenamąja vieta, nes ji buvusi tinkamiausia visame šiame Dnepro pakrantės plote."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-181831
+
+<a id="claim-t-203534"></a>
+- t-081
+  teiginys: "Michał Baliński veikale „Vilniaus miesto istorija“ rašo, kad Maskvos metropolitas Fotijas ketino išprašyti Kijevo metropolijos prijungimą prie Maskvos, bet nieko nelaimėjęs išvyko į Maskvą."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys aiškiai perteikia citatoje nurodytą Fotijaus tikslą ir nesėkmę."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Maskva; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-181800
+
+<a id="claim-t-203535"></a>
+- t-082
+  teiginys: "Michał Baliński veikale „Vilniaus miesto istorija“ teigia, kad Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o Kijevui tarpininkaujant Vilnius palaikė prekybinius ryšius su Rytais."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas ir pagrįstas citatos informacija apie prekybos ryšius per Kijevą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Podolė; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltarusija; mentioned_place: Dniepras; mentioned_place: Dniestras"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-181832
+
+<a id="claim-t-203544"></a>
+- t-083
+  teiginys: "Pasak Michał Baliński veikalo „Vilniaus miesto istorija“, Maskvos metropolitas Fotijas ketino išprašyti Kijevo metropolijos prijungimą prie Maskvos, tačiau dėl Vytauto ligos nieko nelaimėjo."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata pagrindžia Fotijaus tikslą ir nesėkmingą rezultatą."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Maskva; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-181800
+
+<a id="claim-t-203550"></a>
+- t-084
+  teiginys: "Teodoras Narbutas „Lietuvių tautos istorijoje“ Kijevo miesto istoriją vadina ypatinga: pro tamsios praeities skraistę įžvelgiamos žinios, anot jo, tarsi teikia vilties dar daug ką sužinoti."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-175445
+
+<a id="claim-t-203586"></a>
+- t-085
+  teiginys: "Prūsijos žemės kronikoje teigiama, kad Kijevo patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos įtakos Kryžiuočių valstybei ir jos ekonomikai, o Lietuvos valstybė iš Aukso ordos atimtose slaviškose žemėse rado naujų rezervų kovai su agresija iš Vakarų."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-181809
 
 ## Reikšmingi paminėjimai
 - c-026
@@ -1372,6 +1529,28 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
     nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
     auksiniais indais ir bachmatais ls.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-031
+  santrauka: 'Vytauto vadovaujamos LDK ir sąjungininkų pajėgos 1399 m. liepos pabaigoje išžygiavo iš Kijevo.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Nuo PS nuorašų skiriasi, nes juose pasa­
+    kojimo apie Vorkslos mūšj pradžia y ra kitokia ir sujungta su
+    ankstesniu pasakojimu apie kunigaikščio Glebo Svetoslavovičiaus
+    pašalinimą iš Smolensko.
+    1 8  LDK ir jos sąjungininkų pajėgos, vadovaujamos Vytauto, iš­
+    žygiavo iš Kijevo 1399 m, liepos pabaigoje.
+    256
+
+    ## Puslapis 249
+
+    M LDK ir Aukso ordos totorių pajėgos susidūrė 1399 m rug­
+    pjūčio 5 d , bet Timur-Kutlukas nepradėjo kovos, laukdamas emiro
+    Edigėjaus su papildomomis totorių {»jėgomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1450,7 +1629,8 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 - id: c-32127
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 315."
   citata_originali: |
     Iš tikro, Skirgailai bebuvo palik­
     tas Polockas ir pažadėta Kijevo kunigaikštija.
@@ -1462,16 +1642,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-058
-    - t-060
-    - t-061
-    - t-065
+    - t-055
 
 - id: c-163633
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 147."
   citata_originali: |
     Tos žinios kėlė Vytauto
     garbę, aukštino jį vietinių gyventojų akyse. Ir kada Vytautas,
@@ -1489,13 +1667,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-031
+    - t-008
+    - t-027
 
 - id: c-163635
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 71."
   citata_originali: |
     Nuo Brastos bažnytinės unijos
     graikais katalikais tapo dauguma Lenkijos ir Lietuvos valstybės stačiatikių.
@@ -1504,18 +1683,19 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
   citata_rodoma: "Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-\nlitai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai \nkatalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-019
+    - t-005
+    - t-016
 
 - id: c-163638
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 65."
   citata_originali: |
     Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
     Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
@@ -1529,14 +1709,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-014
     - t-017
-    - t-020
 
 - id: c-163639
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 176."
   citata_originali: |
     Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­
     taikinti ir su Skirgaila^2 ), didžiausiu Vytauto priešu, kas jam ir
@@ -1551,12 +1732,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-163640
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 169."
   citata_originali: |
     Privilegija Mogiliavui, kuria gavo Magdeburgo teisę, išspausdinta su prie­
     du apie tam miestui suteiktą herbą Baltarusijos Archyve, leistame garbin­
@@ -1583,15 +1765,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
-    - t-027
-    - t-033
+    - t-022
+    - t-029
 
 - id: c-163641
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 70."
   citata_originali: |
     Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė
     savo žodį ir jį atidavė Skirgailai (1395). Bet pastarajam čia ne­
@@ -1600,17 +1782,19 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     pasodino savo vietininką, Alšėnų kun. Algimanto sūnų Joną^1 ).
   citata_rodoma: "Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė\nsavo žodį ir jį atidavė Skirgailai (1395). Bet pastarajam čia ne­\nilgai teko viešpatauti; tais pačiais metais jis pabaigė savo gy­\nvenimo dienas — buvo nunuodytas. I jo vietą Kijeve Vytautas\npasodino savo vietininką, Alšėnų kun."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-012
+    - t-075
 
 - id: c-163642
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 27."
   citata_originali: |
     Tačiau jaučiu malonią pareigą prisipažinti sa­
     vo skaitytojams, kam iš mokslo vyrų, rėmusių mane užsibrėžus
@@ -1628,12 +1812,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-163645
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24."
   citata_originali: |
     Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji
     rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi
@@ -1645,19 +1830,19 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     vių, kad galėtų bent kiek paveikti kaimyninius kraštus.
   citata_rodoma: "Maskva tuomet dar tebuvo menka\ngyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų\ntikėjimo lopšys ir kurį laiką garsios monarchijos sostinė. Visi\nkiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų\nkunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­\nvių, kad galėtų bent kiek paveikti kaimyninius kraštus."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-025
+    - t-020
 
 - id: c-163646
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 269."
   citata_originali: |
     Kroku­
     vos pirkliams Vytautas (1403) užtikrino visoje savo valstybėje
@@ -1672,17 +1857,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   citata_rodoma: "Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,\nremdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą\nsu Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­\njos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.\nĮ Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­\ncijos pirkliai."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-015
-
 - id: c-163648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32."
   citata_originali: |
     Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
     visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
@@ -1693,14 +1876,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
   citata_rodoma: "Lietuva tapo \npolitinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-\ntos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje \nbuvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių \npolitinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
-    - t-028
-
 - id: c-163649
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -1719,14 +1899,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
-    - t-052
+    - t-023
+    - t-047
 
 - id: c-163654
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 70."
   citata_originali: |
     O
     kol ji atims iš Vladimiro, jam buvo atiduoti keli miestai Volyni­
@@ -1740,13 +1921,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-012
 
 - id: c-163655
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 151."
   citata_originali: |
     Visi šie rūpesčiai reikalavo
     taikos, o jos nebuvo matyti. Be Vok. Ordino trukdė dar
@@ -1760,12 +1942,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-015
 
 - id: c-163661
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 175-176"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 175-176."
   citata_originali: |
     Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį
     159
@@ -1791,12 +1974,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-011
+    - t-009
 
 - id: c-163665
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 200."
   citata_originali: |
     Bet einant karštoms
     lietuvių lenkų kovoms dėl Voluinės ir Podolės, Kazimieras, skir-
@@ -1816,13 +2000,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-022
+    - t-011
+    - t-019
 
 - id: c-163669
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 54."
   citata_originali: |
     Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
     sukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
@@ -1837,13 +2022,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-021
+    - t-003
+    - t-018
 
 - id: c-163672
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 45."
   citata_originali: |
     LDK būtent Vytauto
     laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
@@ -1860,13 +2046,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-016
+    - t-007
+    - t-013
 
 - id: c-163674
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247."
   citata_originali: |
     Tarp Aleksan­
     dro ir jo uošvio vyko nuolatinės rietenos. Krymo totorių
@@ -1884,12 +2071,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-163677
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 35-36"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 35-36."
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
     je buvo keletas tokių šventų vieto­
@@ -1920,12 +2108,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-010
 
 - id: c-163678
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 44."
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
     kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
@@ -1939,13 +2128,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
-    - t-030
+    - t-025
+    - t-026
 
 - id: c-163682
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 22."
   citata_originali: |
     plotus valdžiusi Kijevo
     Rusios valstybė į atskiras
@@ -1965,12 +2155,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-021
 
 - id: c-163683
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 36."
   citata_originali: |
     Kijeviečiams gi-
     nantis, „Gediminas stovyklavo
@@ -1994,12 +2185,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-028
 
 - id: c-163687
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 60."
   citata_originali: |
     Otcem
     że jeho mnoho łaskasze i mukami pre-
@@ -2030,13 +2222,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
-    - t-027
+    - t-024
 
 - id: c-166420
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 184."
   citata_originali: |
     Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vyk-
     damas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.
@@ -2052,7 +2244,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-030
 
 - id: c-168346
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2079,13 +2271,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     valdžiai.
   citata_rodoma: "Nors rusai dar nebuvo\n2 03\n\n## Puslapis 202\n\nVerčiau pasiduodant išsaugoti šiokią tokią valstybę,\nkad ir nugalėtojo valdomą, nei viską atkakliu prie­\nšinimusi prarasti. Todėl pa­\nsitarę nusprendė patys ati­\nduoti pilį ir miestą. Visi luo­\nmai, išėję iš miesto, sveikino\nnugalėtoją\nGediminą\nkaip\nKijevo ir Rusios didįjį kuni­\ngaikštį, prisiekdami su visomis žemėmis paklusti jo\nvaldžiai."
   statusas: verified
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
-    - t-050
+    - t-031
+    - t-045
+    - t-074
 
 - id: c-168347
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2112,13 +2305,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     dė, jog atsisakė paklusti lenkams.
   citata_rodoma: "Šitaip ilgai­\nniui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi \nKijevo monarchija, patyrusi visokių sėkmių ir nesėk­\nmių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­\ndžioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių \nkivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi \nsenomis Boleslovo Narsiojo pergalėmis ir naujais gi­\nminystės ryšiais. Nors kitados Boleslovas, nugalėjęs \nrusus, ir buvo užėmęs Kijevą bei privertęs kijeviečius \nduoklę duoti, tačiau nė vienam lenkų karaliui dar ne­\nbuvo pavykę nei gauti Kijevo kunigaikščio vardo, nei \nišvyti iš šių valdų teisėtų valdovų, nei nugalėtų tautų \npaversti savo -valdiniais; mat rusai vėliau kovose įro­\ndė, jog atsisakė paklusti lenkams."
   statusas: verified
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
-    - t-051
+    - t-032
+    - t-046
+    - t-070
 
 - id: c-168348
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2140,7 +2334,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-033
 
 - id: c-170528
   autorius: "Anoniminis metraštininkas"
@@ -2160,12 +2354,10 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   citata_rodoma: "APIE ALGIRDO ŠONŲ JOGAILA IR JO  PINKLES PRIEŠ SAVO \nDĖDĘ KĘSTUTI\nDidysis kunigaikštis Algirdas turėjo dvylika sūnų \nO štai jo sūnūs, sugyventi su ta žmona, kurią jis buvo \npaėmęs pas Vitebsko kunigaikštį2  su kuria ir Vitebs­\nką buvo gavęs; Įsu ja] turėjo šešis sūnus 3 . Pirmas bu­\nvo Vladimiras4 , kuris dalies gavo Kijevą. Antras —  \nkunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­\nmę."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-068
-
 - id: c-170529
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2185,38 +2377,10 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   citata_rodoma: "Pas jį iš \nKijevo atvyko kunigaikštis Vladimiras. Tais pačiais \nmetais rudenį didysis kunigaikštis Vytautas iškėlė jį \niš Kijevo 1 3  ir davė jam Kopylį M , o Kijeve pasodino \nSkirgailą Algirdaitį; pats didysis kunigaikštis Vytautas \nišžygiavo į Podolės žemę l5 , o kunigaikščiui Skirgailai \nliepė iš Kijevo žygiuoti į Čerkasus ir į Zvenigorodą l6 .  \nDidysis kunigaikštis Skirgaila, dievui padėjus ir didžia­\njam kunigaikščiui Vytautui įsakius, paėmė Čerkasus \nir Zvenigorodą ir sugrįžo atgal į Kijevą l7."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-038
-
-- id: c-170531
-  autorius: "Anoniminis metraštininkas"
-  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
-  citata_originali: |
-    Nuo PS nuorašų skiriasi, nes juose pasa­
-    kojimo apie Vorkslos mūšj pradžia y ra kitokia ir sujungta su
-    ankstesniu pasakojimu apie kunigaikščio Glebo Svetoslavovičiaus
-    pašalinimą iš Smolensko.
-    1 8  LDK ir jos sąjungininkų pajėgos, vadovaujamos Vytauto, iš­
-    žygiavo iš Kijevo 1399 m, liepos pabaigoje.
-    256
-
-    ## Puslapis 249
-
-    M LDK ir Aukso ordos totorių pajėgos susidūrė 1399 m rug­
-    pjūčio 5 d , bet Timur-Kutlukas nepradėjo kovos, laukdamas emiro
-    Edigėjaus su papildomomis totorių {»jėgomis.
-  statusas: verified
-  atnaujinta: "2026-07-12 23:02"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-067
-
 - id: c-171613
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2239,7 +2403,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-034
 
 - id: c-175441
   autorius: "Teodoras Narbutas"
@@ -2263,7 +2427,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-035
 
 - id: c-175442
   autorius: "Teodoras Narbutas"
@@ -2289,8 +2453,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
-    - t-042
+    - t-036
 
 - id: c-175443
   autorius: "Teodoras Narbutas"
@@ -2309,10 +2472,12 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   citata_rodoma: "Prajus** vėlgi kalba apie tą patį, žiūrė­\ndamas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti\nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip\nir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­\nnoma, kad Dnepro pakrantėje buvo tvirtovė, vadinama\nChue, Chunnigard-, ji priklausė minėtai tautai."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-037
+
 - id: c-175445
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2338,12 +2503,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     nynas, buvo šalia šios tylios gyvenvietės1.
   citata_rodoma: "Kijevo • miesto istorija ypatinga, tuo, kad žinios, sly­\npinčios kitapus tamsios praeities skraistės, vis dėlto įž­\nvelgiamos ir tarsi teikia vilties, jog galima dar daug ką\nsužinoti.\nŽemė, kur įsikūręs Kijevas, priklausė Skitijai; ji su­\ndarė svarbesnę šiaurės vakarų krašto dalį, buvo derlinga,\nsveika, išraižyta įvairiomis kryptimis sruvenančių van­\ndenų, turtinga įvairių gyvenimo gėrybių, kurias gamta\nteikė žmonėms. Artimiausi ir gausiausi šio krašto gyven­\ntojai buvo skiri ai, kurie vertėsi žem dirbyste, nes čia buvo\npalankiausias klimatas ir geriausios sąlygos žemdirbys­\ntei, todėl ir Gerų kraštas, tas didingas skitų tautos kapi­\nnynas, buvo šalia šios tylios gyvenvietės1."
   statusas: verified
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-043
+    - t-038
+    - t-084
 
 - id: c-175446
   autorius: "Teodoras Narbutas"
@@ -2371,8 +2537,8 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
-    - t-054
+    - t-039
+    - t-049
 
 - id: c-175447
   autorius: "Teodoras Narbutas"
@@ -2397,13 +2563,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-045
-    - t-055
+    - t-040
+    - t-050
 
 - id: c-175934
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 136-137"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 136-137."
   citata_originali: |
     Popiežius leido paskelbti Lenkijoj kryžiaus žygį prieš totorius,
     ir daugelis Lenkų ponų mielai sutiko prisidėti prie Vytauto
@@ -2417,12 +2584,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-041
 
 - id: c-175935
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 201."
   citata_originali: |
     Neskaitant trumpų vidaus kovų jo
     įsigalėjimo metu ir keleto žygių į rusų sritis, visas jo valdymo
@@ -2435,12 +2603,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-047
+    - t-042
 
 - id: c-175936
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 279."
   citata_originali: |
     Jų kiekvienas
     pavietas turėjo tokių pat, kaip ir visa valstybė: čia buvo ir
@@ -2460,12 +2629,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
+    - t-043
 
 - id: c-176421
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 20."
   citata_originali: |
     Pasiekimai vakaruose Gediminui leido
     plėsti savo valstybę rytuose. Prie jau anksčiau lietuvių užvaldytų
@@ -2478,7 +2648,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-049
+    - t-044
 
 - id: c-179379
   autorius: "Teodoras Narbutas"
@@ -2505,12 +2675,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-053
+    - t-048
 
 - id: c-181784
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 270."
   citata_originali: |
     Ir Algirdas, ir Maskvos kunigaikštis tuo
     pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo
@@ -2522,14 +2693,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Akstiną tam davė naujas didelis Kijevo apiplėšimas (1299).
   citata_rodoma: "Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos\nRusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių\npuolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.\nAkstiną tam davė naujas didelis Kijevo apiplėšimas (1299)."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-057
-    - t-059
-    - t-064
+    - t-052
+    - t-054
+    - t-061
 
 - id: c-181786
   autorius: "Anoniminis metraštininkas"
@@ -2550,16 +2721,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   citata_rodoma: "Pas jį iš \nKijevo atvyko kunigaikštis Vladimiras. Tais pačiais \nmetais rudenį didysis kunigaikštis Vytautas iškėlė jį \niš Kijevo 1 3  ir davė jam Kopylį M , o Kijeve pasodino \nSkirgailą Algirdaitį; pats didysis kunigaikštis Vytautas \nišžygiavo į Podolės žemę l5 , o kunigaikščiui Skirgailai \nliepė iš Kijevo žygiuoti į Čerkasus ir į Zvenigorodą l6 .  \nDidysis kunigaikštis Skirgaila, dievui padėjus ir didžia­\njam kunigaikščiui Vytautui įsakius, paėmė Čerkasus \nir Zvenigorodą ir sugrįžo atgal į Kijevą l7."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-038
-
 - id: c-181787
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 54."
   citata_originali: |
     Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
     sukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
@@ -2569,18 +2739,19 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
   citata_rodoma: "Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos \nsukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-\npijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, \nLucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-021
+    - t-003
+    - t-018
 
 - id: c-181789
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 27."
   citata_originali: |
     Tačiau jaučiu malonią pareigą prisipažinti sa­
     vo skaitytojams, kam iš mokslo vyrų, rėmusių mane užsibrėžus
@@ -2598,12 +2769,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-006
 
 - id: c-181791
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 65."
   citata_originali: |
     Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
     Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
@@ -2612,13 +2784,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
     prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-014
     - t-017
-    - t-020
 
 - id: c-181792
   autorius: "Teodoras Narbutas"
@@ -2640,13 +2812,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     denų, turtinga įvairių gyvenimo gėrybių, kurias gamta
     teikė žmonėms.
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-053
-
 - id: c-181793
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2664,14 +2834,17 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   citata_rodoma: "Prajus** vėlgi kalba apie tą patį, žiūrė­\ndamas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­\nševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­\njoja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti\nten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip\nir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­\nnoma, kad Dnepro pakrantėje buvo tvirtovė, vadinama\nChue, Chunnigard-, ji priklausė minėtai tautai."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-037
+
 - id: c-181794
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 201."
   citata_originali: |
     Neskaitant trumpų vidaus kovų jo
     įsigalėjimo metu ir keleto žygių į rusų sritis, visas jo valdymo
@@ -2684,12 +2857,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-047
+    - t-042
 
 - id: c-181795
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 279."
   citata_originali: |
     Jų kiekvienas
     pavietas turėjo tokių pat, kaip ir visa valstybė: čia buvo ir
@@ -2709,12 +2883,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
+    - t-043
 
 - id: c-181796
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 35-36"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 35-36."
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
     je buvo keletas tokių šventų vieto­
@@ -2741,16 +2916,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
-
 - id: c-181797
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 323."
   citata_originali: |
     Pats Vytautas, Krokuvoje praleidęs 1399 pavasarį^28 , vykdė
     plačius pasiruošimus. Kijeve jau birželio mėn. prie gausių stalų
@@ -2759,13 +2933,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     riterių ir su 1600 raitelių Ragainės komtūras Markvardas Salzba­
     chas^30.
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-062
-
 - id: c-181798
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2796,7 +2968,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-043
+    - t-038
 
 - id: c-181799
   autorius: "Anoniminis metraštininkas"
@@ -2815,17 +2987,16 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     mę.
   citata_rodoma: "APIE ALGIRDO ŠONŲ JOGAILA IR JO  PINKLES PRIEŠ SAVO \nDĖDĘ KĘSTUTI\nDidysis kunigaikštis Algirdas turėjo dvylika sūnų \nO štai jo sūnūs, sugyventi su ta žmona, kurią jis buvo \npaėmęs pas Vitebsko kunigaikštį2  su kuria ir Vitebs­\nką buvo gavęs; Įsu ja] turėjo šešis sūnus 3 . Pirmas bu­\nvo Vladimiras4 , kuris dalies gavo Kijevą. Antras —  \nkunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­\nmę."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-28 14:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-068
-
 - id: c-181800
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 175-176"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 175-176."
   citata_originali: |
     Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį
     159
@@ -2845,13 +3016,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     tė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­
     ju.
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-011
+    - t-081
+    - t-083
 
 - id: c-181801
   autorius: "Anoniminis metraštininkas"
@@ -2871,7 +3042,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     lia šventojo Pečeros Teodozijaus1 9  grabo.
   citata_rodoma: "O \nkunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas \nFoma davęs kunigaikščiui Skirgailai išgerti nuodų. Ir \npo puotos kunigaikštis Skirgaila jojo už Dnepro, į Mi- \nloslavičius, ten susirgo ir, parvykęs į Kijevą, septintą \ndieną mirė ,8. Šventikai su žvakėmis, giedodami laido­\ntuvių giesmes, nunešė jį, užsidėję ant galvų, iš Kijevo \nmiesto į šventąjį dievo motinos katakombų vienuolyną, \nir paguldė gerąjį, palaimintąjį kunigaikštį Skirgailą ša­\nlia šventojo Pečeros Teodozijaus1 9  grabo."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:11"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2879,7 +3050,8 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 - id: c-181802
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247."
   citata_originali: |
     Tarp Aleksan­
     dro ir jo uošvio vyko nuolatinės rietenos. Krymo totorių
@@ -2892,13 +3064,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     naudoti savo galios ir susidoroti su savo priešais.
   citata_rodoma: "Krymo totorių\norda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,\npaklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.\nVeltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus\nMendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -\nAleksandro veiksmams stigo ryžto ir, nors buvo išrinktas\nLenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­\nnaudoti savo galios ir susidoroti su savo priešais."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-
 - id: c-181803
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2917,19 +3087,20 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     senovinį miesto pavadinimą; iš čia ir atsirado naujas
     Kijev horod, Kijev perevoz na Dnepre pavadinimas.
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-045
-    - t-055
+    - t-040
+    - t-078
 
 - id: c-181804
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 176."
   citata_originali: |
     Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­
     taikinti ir su Skirgaila^2 ), didžiausiu Vytauto priešu, kas jam ir
@@ -2939,17 +3110,18 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     juos sutaikino Jadvyga.
   citata_rodoma: "Vytautas pasižadėjo padėti Skirgailai pa­\nimti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų\nkunigaikštijos. Po metų, kai vėl kilo tarp jų nesusipratimai,\njuos sutaikino Jadvyga."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-181805
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32."
   citata_originali: |
     Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
     visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
@@ -2960,19 +3132,17 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
   citata_rodoma: "Lietuva tapo \npolitinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-\ntos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje \nbuvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių \npolitinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
-    - t-028
-
 - id: c-181806
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 151."
   citata_originali: |
     Visi šie rūpesčiai reikalavo
     taikos, o jos nebuvo matyti. Be Vok. Ordino trukdė dar
@@ -2986,12 +3156,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-015
 
 - id: c-181807
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 323."
   citata_originali: |
     Pats Vytautas, Krokuvoje praleidęs 1399 pavasarį^28 , vykdė
     plačius pasiruošimus. Kijeve jau birželio mėn. prie gausių stalų
@@ -3005,13 +3176,14 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-062
+    - t-059
 
 - id: c-181808
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 147."
   citata_originali: |
     Tos žinios kėlė Vytauto
     garbę, aukštino jį vietinių gyventojų akyse. Ir kada Vytautas,
@@ -3029,8 +3201,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-031
+    - t-027
 
 - id: c-181809
   autorius: "Petras Dusburgietis"
@@ -3045,18 +3216,18 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas, pasiekė
     Frankfurtą prie Oderio (III, 361).
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
-    - t-052
+    - t-085
 
 - id: c-181810
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 45."
   citata_originali: |
     LDK būtent Vytauto
     laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
@@ -3068,13 +3239,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     išteklius.
   citata_rodoma: "„Senovės nekeitimo“ tezė tėra istoriografi-\nnis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė \nį dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-\nrankiškais keliais. \nVytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje \ništeklius."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-016
+    - t-007
+    - t-072
 
 - id: c-181811
   autorius: "Teodoras Narbutas"
@@ -3098,12 +3269,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-034
 
 - id: c-181812
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
   citata_originali: |
     153
 
@@ -3126,17 +3298,18 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     jis taip baigia savo pasakojimą: „Apie toliausias Europos
     vietoves neturiu 'ką pasakyti.
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-063
+    - t-071
 
 - id: c-181813
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 184."
   citata_originali: |
     Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vyk-
     damas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.
@@ -3147,12 +3320,12 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
     Zigmanto ryšiai su Lenkija.
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-073
 
 - id: c-181814
   autorius: "Teodoras Narbutas"
@@ -3172,17 +3345,16 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     nas.
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-040
-
 - id: c-181815
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 70."
   citata_originali: |
     Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė
     savo žodį ir jį atidavė Skirgailai (1395). Bet pastarajam čia ne­
@@ -3191,17 +3363,18 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     pasodino savo vietininką, Alšėnų kun. Algimanto sūnų Joną^1 ).
   citata_rodoma: "Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė\nsavo žodį ir jį atidavė Skirgailai (1395). Bet pastarajam čia ne­\nilgai teko viešpatauti; tais pačiais metais jis pabaigė savo gy­\nvenimo dienas — buvo nunuodytas. I jo vietą Kijeve Vytautas\npasodino savo vietininką, Alšėnų kun."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-076
 
 - id: c-181817
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 20."
   citata_originali: |
     Pasiekimai vakaruose Gediminui leido
     plėsti savo valstybę rytuose. Prie jau anksčiau lietuvių užvaldytų
@@ -3214,12 +3387,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-049
+    - t-044
 
 - id: c-181818
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24."
   citata_originali: |
     Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji
     rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi
@@ -3232,17 +3406,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   citata_rodoma: "Maskva tuomet dar tebuvo menka\ngyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų\ntikėjimo lopšys ir kurį laiką garsios monarchijos sostinė. Visi\nkiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų\nkunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­\nvių, kad galėtų bent kiek paveikti kaimyninius kraštus."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-023
-    - t-025
-
 - id: c-181819
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 36."
   citata_originali: |
     Kijeviečiams gi-
     nantis, „Gediminas stovyklavo
@@ -3262,16 +3434,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   citata_rodoma: "Po to išgirdę,\n\nnugalėjęs rusų ir totorių kariuomenę, nu-\n\nvijo totorius ir Kijevą paėmė į savo valdžią.\nGedimino valdžią tuo metu pripa-\n\nžino ir Kijevo priemiesčiai Vyšgorodas\n\nįvykių į vakarus nuo Lietuvos analizė rodo,\nkad Lietuvai palankiausia situacija buvo\n1325-1326 m."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-032
-
 - id: c-181820
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 319."
   citata_originali: |
     Kaip bėglys, prie jo pri­
     sijungė ir trečias Gedimino anūkas, buvęs Podolės kunigaikštis
@@ -3282,18 +3453,19 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Polocką.
   citata_rodoma: "Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio\natėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius\nvalsčius (« volosti »). Kijevas buvo atiduotas Skirgailai mainais už\nPolocką."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-056
-    - t-066
+    - t-051
+    - t-063
 
 - id: c-181821
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 200."
   citata_originali: |
     Bet einant karštoms
     lietuvių lenkų kovoms dėl Voluinės ir Podolės, Kazimieras, skir-
@@ -3308,18 +3480,18 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     venti į Lietuvą, tačiau Kazimieras nei šiaip nei taip nepadarė.
   citata_rodoma: "Tačiau\nKazimieras nesutiko skirti Lietuvai atskiro valdovo ir po My-\nkolo mirties (1452 m.), kada Lietuvos ponai iškėlė kandidatu\nAlgirdo palikuonį, Kijevo kunigaikštį Simaną (Olelkos, arba\nAleksandro, sūnų). Lietuviai, siūlydami Simaną (1461 m."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-022
+    - t-011
 
 - id: c-181822
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 71."
   citata_originali: |
     Nuo Brastos bažnytinės unijos
     graikais katalikais tapo dauguma Lenkijos ir Lietuvos valstybės stačiatikių.
@@ -3328,18 +3500,18 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
   citata_rodoma: "Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-\nlitai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai \nkatalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-019
+    - t-005
 
 - id: c-181823
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 60."
   citata_originali: |
     Otcem
     że jeho mnoho łaskasze i mukami pre-
@@ -3366,17 +3538,15 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   citata_rodoma: "[Lietuvos valdovų pradžia - į Poloc­\nko kunigaikščius, j Rogvoldo vietą\natėjo didysis Mstislavas Vladimiro- \nvičius ir užėmė Polocką, o Rogvol- \ndovičiai išbėgo į Cargradą [Konstan­\ntinopolį]. Lietuva tuo laiku duoklę \nmokėjo Polocko kunigaikščiams, o \nvaldoma savo etmonų, o Lietuvos \nmiestai jau buvo valdomi Kijevo ku­\nnigaikščių: vieni - Černigovo, kiti - \nSmolensko, kiti - Polocko. Ir Vilnia \n[Vilnius] buvo priverstas duoti \nduoklę Ugrų karaliui (tikriausiai Ha­\nličo) už saugojimą nuo didžiojo ku­\nnigaikščio Mstislavo Rogvoldovi- \nčiaus."
   statusas: verified
   atnaujinta: "2026-07-12 23:02"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
-    - t-027
-
 - id: c-181824
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 44."
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
     kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
@@ -3385,19 +3555,19 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: "1393 m. Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
-    - t-030
+    - t-025
 
 - id: c-181825
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 70."
   citata_originali: |
     O
     kol ji atims iš Vladimiro, jam buvo atiduoti keli miestai Volyni­
@@ -3406,18 +3576,17 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     ilgai teko viešpatauti; tais pačiais metais jis pabaigė savo gy­
     venimo dienas — buvo nunuodytas.
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
-
 - id: c-181826
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 269."
   citata_originali: |
     Kroku­
     vos pirkliams Vytautas (1403) užtikrino visoje savo valstybėje
@@ -3431,14 +3600,11 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     cijos pirkliai.
   citata_rodoma: "Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,\nremdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą\nsu Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­\njos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.\nĮ Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­\ncijos pirkliai."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-015
-
 - id: c-181827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -3463,13 +3629,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
-    - t-042
+    - t-036
 
 - id: c-181829
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 22."
   citata_originali: |
     plotus valdžiusi Kijevo
     Rusios valstybė į atskiras
@@ -3489,12 +3655,13 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-021
 
 - id: c-181830
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 136-137"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 136-137."
   citata_originali: |
     Popiežius leido paskelbti Lenkijoj kryžiaus žygį prieš totorius,
     ir daugelis Lenkų ponų mielai sutiko prisidėti prie Vytauto
@@ -3503,12 +3670,12 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     Atėjo į pagalbą ir ordino kariuomenė, ir pagaliau visa didžiulė
     armija ištraukė į totorių kraštus.
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-079
 
 - id: c-181831
   autorius: "Teodoras Narbutas"
@@ -3531,18 +3698,19 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     lonijų, kur galbūt buvo svarbesnis jų žemdirbystės cent­
     ras ir žymesnių žmonių buveinė.
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
-    - t-054
+    - t-039
+    - t-080
 
 - id: c-181832
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 169."
   citata_originali: |
     Privilegija Mogiliavui, kuria gavo Magdeburgo teisę, išspausdinta su prie­
     du apie tam miestui suteiktą herbą Baltarusijos Archyve, leistame garbin­
@@ -3564,19 +3732,18 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     gė muitinę, vadintą Vytauto pirtimi.
   citata_rodoma: "27.\n79\nKijevo kunigaikštystė ir Podolė, \nanais laikais nusidriekusi iki pat \nDniepro ir Dniestro žiočių, priklau­\nsė Lietuvai; Kafos* miestas prie Juo­\ndosios jūros buvo svarbiausias Lie­\ntuvos prekybinis uostas, jungęs su \nRytais, iš kur prekės būdavo gabe­\nnamos į Kijevą; pastarajam tarpinin­\nkaujant Vilnius, kaip valstybės sos­\ntinė, palaikė prekybinius ryšius su \nRytais. Lietuvių Tavano pilyje, sto­\nvinčioje prie Dniepro, Vytautas įstei­\ngė muitinę, vadintą Vytauto pirtimi."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
-    - t-027
-    - t-033
+    - t-077
+    - t-082
 
 - id: c-184416
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 531"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 531."
   citata_originali: |
     Negalėjo dar
     numanyti, į kurią pusę Gediminas su tokia galybe
@@ -3600,12 +3767,12 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-069
+    - t-065
 
 - id: c-184417
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 533"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 533."
   citata_originali: |
     Krito tą dieną ne vien di­
     džios daugybės gudų karėjų, bet ir pačių kunigaikš­
@@ -3620,12 +3787,12 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-070
+    - t-066
 
 - id: c-184970
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 389"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 389."
   citata_originali: |
     Pagal jį Vilniui buvo skirta 500 kapų grašių norma. Kaunas šį kartą turėjo
     mokėti mažiau - 100 kapų grašių. Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Bres-
@@ -3636,7 +3803,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-071
+    - t-067
 
 - id: c-185789
   autorius: "Rowell, Stephen Christopher"
@@ -3658,7 +3825,213 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-072
+    - t-068
+
+- id: c-185876
+  autorius: "Marija Matušakaitė"
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)"
+  puslapiai: "p. 59 (PDF 2)"
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 19:20"
+  pagrindzia:
+    - t-069
+
+- id: c-186085
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44. Tarp Aleksan­
+    dro ir jo uošvio vyko nuolatinės rietenos. Krymo totorių
+    orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,
+    paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
+  citata_rodoma: "Tarp Aleksan­\ndro ir jo uošvio vyko nuolatinės rietenos. Krymo totorių \norda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, \npaklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-186086
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo
+    kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos
+    kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
+    brolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių
+    įtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398).
+    Dar būdamas daliniu kunigaikščiu, 1342 m.
+  citata_rodoma: "Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo\nkunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos\nkunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino\nbrolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių\nįtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398).\nDar būdamas daliniu kunigaikščiu, 1342 m."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-053
+    - t-057
+    - t-062
+
+- id: c-186087
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuva tuo metu jau
+    turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
+    civilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas.
+  citata_rodoma: "Lietuva tuo metu jau \nturėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro \ncivilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta \nvisa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, \nKrėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo \npolitinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-\ntos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje \nbuvę Voluinė ir Haličas, Kijevas, Pskovas."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-056
+
+- id: c-186088
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Gediminas, pasilsėjęs čia, kol artimiausios pi­
+    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
+    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje.
+  citata_rodoma: "Užėmęs Brianską \nir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­\nkariavęs Kijevą, Volynę ir didelę Seversko dalį, jis \nišplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­\nniui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi \nKijevo monarchija, patyrusi visokių sėkmių ir nesėk­\nmių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­\ndžioje."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-046
+
+- id: c-186089
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,
+    remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą
+    su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­
+    jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
+    Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
+    cijos pirkliai. Tiktai totorių chano Edygos užpuolimai (1416)
+    naikino šį miestą ir trukdė jo prekybą.
+  citata_rodoma: "Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,\nremdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą\nsu Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­\njos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.\nĮ Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­\ncijos pirkliai. Tiktai totorių chano Edygos užpuolimai (1416)\nnaikino šį miestą ir trukdė jo prekybą."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-058
+    - t-060
+
+- id: c-186090
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1393 m. Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje. Iš-
+    liko tik mažesnės kunigaikštijos.
+  citata_rodoma: "Luckas \nperėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-\ntiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje. Iš-\nliko tik mažesnės kunigaikštijos."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-026
+
+- id: c-186091
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Apie 1325 m. Gedimino kariuomenė
+    nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos. Kijevas ir tuo metu
+    buvo stambus tarptautinės prekybos centras, per kurį Rytų prekės keliavo ir Kryžiuočių
+    ordinui bei į Vakarų Europą.
+  citata_rodoma: "Apie 1325 m. Gedimino kariuomenė \nnužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos. Kijevas ir tuo metu \nbuvo stambus tarptautinės prekybos centras, per kurį Rytų prekės keliavo ir Kryžiuočių \nordinui bei į Vakarų Europą."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
+
+- id: c-186092
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Todėl XV–XVI a.
+    būtent LDK koncentravosi gausūs bažnytinės unijos bandymai, galutinai
+    nulėmę Brastos bažnytinę uniją 1596 m. Nuo Brastos bažnytinės unijos
+    graikais katalikais tapo dauguma Lenkijos ir Lietuvos valstybės stačiatikių.
+    Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
+    litai, tik jau nuolat reziduojantys Vilniuje.
+  citata_rodoma: "Todėl XV–XVI a. \nbūtent LDK koncentravosi gausūs bažnytinės unijos bandymai, galutinai \nnulėmę Brastos bažnytinę uniją 1596 m. Nuo Brastos bažnytinės unijos \ngraikais katalikais tapo dauguma Lenkijos ir Lietuvos valstybės stačiatikių. \nTačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-\nlitai, tik jau nuolat reziduojantys Vilniuje."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
+- id: c-186093
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    13 6906 m-=1398 m., o skaičiuojant metus nuo 1.1 — 1399 m.
+    13 BK
+    pasakojimas apie Vorkslos mūši sutampa su Lietuvos
+    metraščių TS Supraslio nuorašo ir yj»ač su Uvarovo nuorašo teks­
+    tu, bet, palyginus su pastaraisiais, BK tekstas yra vietomis suga­
+    dintas ir turi papildymų. Nuo PS nuorašų skiriasi, nes juose pasa­
+    kojimo
+    apie
+    Vorkslos mūšj pradžia yra kitokia ir sujungta su
+    ankstesniu
+    pasakojimu apie kunigaikščio Glebo Svetoslavovičiaus
+    pašalinimą iš Smolensko.
+    18 LDK ir jos sąjungininkų pajėgos, vadovaujamos Vytauto, iš­
+    žygiavo iš Kijevo 1399 m, liepos pabaigoje.
+  citata_rodoma: "13 6906 m-=1398 m., o skaičiuojant metus nuo 1.1 — 1399 m.\n13 BK \npasakojimas apie Vorkslos mūši sutampa su Lietuvos \nmetraščių TS Supraslio nuorašo ir yj»ač su Uvarovo nuorašo teks­\ntu, bet, palyginus su pastaraisiais, BK tekstas yra vietomis suga­\ndintas ir turi papildymų. Nuo PS nuorašų skiriasi, nes juose pasa­\nkojimo \napie \nVorkslos mūšj pradžia yra kitokia ir sujungta su \nankstesniu \npasakojimu apie kunigaikščio Glebo Svetoslavovičiaus \npašalinimą iš Smolensko.\n18 LDK ir jos sąjungininkų pajėgos, vadovaujamos Vytauto, iš­\nžygiavo iš Kijevo 1399 m, liepos pabaigoje."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-064
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Švitrigaila]]

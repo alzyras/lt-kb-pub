@@ -62,15 +62,15 @@ Nenurodyta
 <a id="claim-t-200401"></a>
 - t-001
   teiginys: "Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis."
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys pilnai nusako Bychovco kronikos rankraščio pobūdį kaip transkripciją, o ne vertimą. Citatos lenkiškas užrašas neperkeliamas, nes teiginiui pakanka paaiškinamosios dalies."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Bychovco kronikos rankraštis|Bychovco kronikos rankraštis]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-183739
+    - c-186193
 
 ## Citatos
 
@@ -93,7 +93,35 @@ Nenurodyta
     paties transkribuotojo prirašytos — neišaiškinta.
   citata_rodoma: "lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame \nrankraščio puslapyje, XVII a. rašysena buvę lenkiškai \nužrašyta: „Kronika Litewska z ruskiego języka na pols- \nki przettumaczona\", nors iš tikrųjų rankraštis buvo ne \nvertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­\nčio, kirilica rašyto teksto transkripcija lotyniškai len­\nkiškais rašmenimis. Rankraščio pradžioje (1 . 1 —8) teks­\nto paraštėse būta tos pačios rašysenos trumpų pastabų \napie turinį lenkų kalba, bet ar jų jau būta toje kopi­\njoje, iš kurios transkribuotas rastasis lankraštis, ar jos \npaties transkribuotojo prirašytos — neišaiškinta."
   statusas: verified
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-07-29 11:11"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-186193
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame
+    rankraščio puslapyje, XVII a. rašysena buvę lenkiškai
+    užrašyta: „Kronika Litewska z ruskiego języka na pols-
+    ki przettumaczona", nors iš tikrųjų rankraštis buvo ne
+    vertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­
+    čio, kirilica rašyto teksto transkripcija lotyniškai len­
+    kiškais rašmenimis. Rankraščio pradžioje (1. 1—8) teks­
+    to paraštėse būta tos pačios rašysenos trumpų pastabų
+    apie turinį lenkų kalba, bet ar jų jau būta toje kopi­
+    joje, iš kurios transkribuotas rastasis lankraštis, ar jos
+    paties transkribuotojo prirašytos — neišaiškinta.
+    Taigi rastasis Bychovco kronikos rankraštis nebuvo
+    paties autoriaus rašytas tekstas, ir net ne vienalaikė
+    kopija, nurašyta dar XVI a., o vėlesnis nuorašas iš blo­
+    gai išlikusios kopijos; tekstas be pradžios ir pabaigos,
+    su daugeliu spragų ir iškraipymų.
+  citata_rodoma: "lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame \nrankraščio puslapyje, XVII a. rašysena buvę lenkiškai \nužrašyta: „Kronika Litewska z ruskiego języka na pols- \nki przettumaczona\", nors iš tikrųjų rankraštis buvo ne \nvertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­\nčio, kirilica rašyto teksto transkripcija lotyniškai len­\nkiškais rašmenimis. Rankraščio pradžioje (1. 1—8) teks­\nto paraštėse būta tos pačios rašysenos trumpų pastabų \napie turinį lenkų kalba, bet ar jų jau būta toje kopi­\njoje, iš kurios transkribuotas rastasis lankraštis, ar jos \npaties transkribuotojo prirašytos — neišaiškinta.\nTaigi rastasis Bychovco kronikos rankraštis nebuvo \npaties autoriaus rašytas tekstas, ir net ne vienalaikė \nkopija, nurašyta dar XVI a., o vėlesnis nuorašas iš blo­\ngai išlikusios kopijos; tekstas be pradžios ir pabaigos, \nsu daugeliu spragų ir iškraipymų."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

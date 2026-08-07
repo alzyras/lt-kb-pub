@@ -103,7 +103,8 @@ Nenurodyta
 - id: c-66827
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163-164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163-164."
   citata_originali: |
     Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
 
@@ -123,7 +124,8 @@ Nenurodyta
 - id: c-66828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
     Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.

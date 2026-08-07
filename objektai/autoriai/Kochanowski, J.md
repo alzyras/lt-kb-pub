@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1aa81d302310bceaf52ba500"
+canonical_name: "Kochanowski, J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kochanowski, J"]
+sameAs: []
+canonical_biography: "Kochanowski, J."
 ---
 # Kochanowski, J
 
@@ -77,7 +84,8 @@ Kochanowski, J.
 - id: c-55075
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 316."
   citata_originali: |
     : Vytauto šeimyna, Praeitis,
     t. 2, 1933, 183-224 p. (Vytauto sūnų klausimas). — Kochanowski, J. :

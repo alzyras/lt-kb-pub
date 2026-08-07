@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-51fa2e4ef7add269a12633f4"
+canonical_name: "J. Cetuchinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Cetuchinas"]
+sameAs: []
+canonical_biography: "Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti, o vėliau tiesiog įsakydamas jiems pasiduoti."
 ---
 # J. Cetuchinas
 
@@ -50,7 +57,8 @@ Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti,
 - id: c-44358
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 177."
   citata_originali: |
     |
     Taip savanoriai veržėsi į mūšį su Lietuvos priešais bolševikais.“

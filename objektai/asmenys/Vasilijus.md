@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-905894375d4402586a3e0005"
+canonical_name: "Vasilijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vasilijus"]
+sameAs: []
+canonical_biography: "Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų. Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo. Lietuvos metraštis Vasilijų įvardija šeštuoju Algirdo ir Julijonos Oljevnos sūnumi."
 ---
 # Vasilijus
 
@@ -180,7 +187,8 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
 - id: c-169339
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 646"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 646."
   citata_originali: |
     Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
     nislovo Daugirdo, susitarė su
@@ -208,7 +216,8 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
 - id: c-169340
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 651"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 651."
   citata_originali: |
     Kad šitokiam tvirtini­
     mui nėra jokio pagrindo, tarpininkai puikiausiai ži­
@@ -239,7 +248,8 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
 - id: c-176127
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 626"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 626."
   citata_originali: |
     Atsimindamas, kokia sėkmė jį
     anksčiau lydėjusi, jis bodėjosi dabartine padėtimi, kai
@@ -260,7 +270,8 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
 - id: c-178804
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 624"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 624."
   citata_originali: |
     Begalvojant apie susidariusią padėtį ir
     besvarstant visokiausius planus, jam kilo mintis, jog
@@ -285,7 +296,8 @@ Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą 
 - id: c-178805
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 661"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 661."
   citata_originali: |
     Esą nemažą dingstį nesantaikai ne­
     seniai davęs pats Vasilijus, karaliui atsiųstame laiške

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5111d43f3e0673f35190497e"
+canonical_name: "I. Drakša"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["I. Drakša"]
+sameAs: []
+canonical_biography: "Drakšos 1991 m. Vienas iš LR seimo rūmuose budėjusių savanorių šaunamųjų ginklų ssRS gamybos lygiavamzdis 16-to kalibro medžioklinis šautuvas Iž-17."
 ---
 # I. Drakša
 
@@ -60,7 +67,8 @@ Drakšos 1991 m. Vienas iš LR seimo rūmuose budėjusių savanorių šaunamųj�
 - id: c-41240
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 261."
   citata_originali: |
     Savadarbis lygiavamzdis šautuvas, kalibras - 16,5 mm.
     Pagamintas savanorio I. Drakšos 1991 m. Vienas iš LR seimo

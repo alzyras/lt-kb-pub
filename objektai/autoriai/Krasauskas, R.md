@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f9b363d24cfab07e0634e36a"
+canonical_name: "Krasauskas, R"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Krasauskas, R"]
+sameAs: []
+canonical_biography: "Krasauskas, R."
 ---
 # Krasauskas, R
 
@@ -58,7 +65,8 @@ Krasauskas, R.
 - id: c-33010
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 360"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 360."
   citata_originali: |
     VII + 117 p.). — Krasauskas,
     R. : Medininkų diecezijos įsteigimus ir aprūpinimas, LE, t. 18, 93-95 p.

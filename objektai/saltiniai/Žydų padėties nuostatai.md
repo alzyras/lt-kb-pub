@@ -37,7 +37,7 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 <a id="claim-t-21334"></a>
 - t-001
   teiginys: "LV sudarė Žydų padėties nuostatus kaip deklaruojamo antisemitizmo priemonę ir siekė nuolaidų iš nacių Vokietijos."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1918 m."
@@ -70,7 +70,8 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 - id: c-24032
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 197."
   citata_originali: |
     Laikinoji vyriausybė manė
     turėsianti reikalą su žinomu 1918 m. Vokietijos okupaciniu režimu ir
@@ -90,7 +91,8 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 - id: c-166784
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 197."
   citata_originali: |
     Vokietijos okupaciniu režimu ir
     galėsianti manevruoti, kaip tai darė Lietuvos Taryba, nesuvokdama, jog

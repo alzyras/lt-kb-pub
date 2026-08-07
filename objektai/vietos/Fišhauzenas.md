@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eca96c57339549188f684af6"
+canonical_name: "Fišhauzenas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Fišhauzenas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu tebuvo du vyrai: vienas brolis bei jo tarnas. Dusburgietis teigia, kad 383 D.— Vischusen, Jer.— Vischhûsin; vėliau — Fischhausen (dab. Primorskas) — gyvenvietė pietvakarių Semboje."
+place_authority: true
+historical_names: []
 ---
 # Fišhauzenas
 
@@ -83,7 +92,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - id: c-59180
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
   citata_originali: |
     383  D.— Vischusen, Jer.— Vischhûsin; vėliau — Fischhausen (dab. Primorskas) —
     gyvenvietė pietvakarių Semboje.
@@ -98,7 +108,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - id: c-167538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
   citata_originali: |
     Apie Rinavos valsčiaus sembų naują atskalūnybę
     Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
@@ -116,7 +127,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - id: c-177127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
   citata_originali: |
     Signotai (Sigonottaį
     Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos

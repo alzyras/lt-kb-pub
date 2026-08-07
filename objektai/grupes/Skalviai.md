@@ -108,11 +108,19 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-89215"></a>
 - t-005
   teiginys: "Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Minija: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Minija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad skalviai gyveno Minijos žemupyje."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Skalviai gyveno Minija (0.94); Skalviai gyveno Nemunas (0.78)"
   pagrindžia:
-    - c-85190
+    - c-85191
 
 <a id="claim-t-89216"></a>
 - t-006
@@ -133,11 +141,19 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-89217"></a>
 - t-007
   teiginys: "Prie Nemuno buvo pastatyta Skalvių pilis, skirta į Kristaus tikėjimą atsivertusiems skalviams gyventi."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Nemunas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Skalvių pilis buvo pastatyta prie Nemuno, kad ten gyventų atsivertę skalviai."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Skalviai gyveno Nemunas (0.70)"
   pagrindžia:
-    - c-85201
+    - c-85193
 
 <a id="claim-t-89218"></a>
 - t-008
@@ -160,11 +176,19 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-89219"></a>
 - t-009
   teiginys: "Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Labguva: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Labguva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad skalvių pasiųsti vyrai užėmė Labguvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Skalviai užėmė Labguva (0.98); Skalviai surengė žygį į Labguva (0.95); Skalviai puolė Labguva (0.86)"
   pagrindžia:
-    - c-85194
+    - c-85192
 
 <a id="claim-t-89220"></a>
 - t-010
@@ -186,7 +210,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-89221"></a>
 - t-011
   teiginys: "Pereinamosiomis tarmėmis laikomi ir nadruviai, ypač skalviai."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kuršiai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -198,7 +222,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-85197
     - c-85199
 
 <a id="claim-t-89222"></a>
@@ -254,14 +277,22 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-183897"></a>
 - t-015
   teiginys: "Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Labguva: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Labguva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad skalviai užėmė Labguvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Skalviai užėmė Labguva (0.98); Skalviai puolė Labguva (0.86)"
   pagrindžia:
-    - c-85196
+    - c-85192
 
 <a id="claim-t-183898"></a>
 - t-016
@@ -329,7 +360,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-196923"></a>
 - t-020
   teiginys: "Tuo metu Stinigutas472, skalvių vadas, ėmė juos vytis su didele kariuomene, o magistras ir broliai, šitai pastebėję, slaptai paspendė pasalas, užpuolė žygiuojančią skalvių kariuomenę, daug jų nukovė, o kitus privertė bėgti."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -394,7 +425,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-85190
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 60."
   citata_originali: |
     198  D.— Scalowia, in qua Scalowite, Jer.— Schalowen. Teritorija abipus Nemuno
     žemupio — rytuose maždaug  iki  Viešvilės, vakaruose  iki Atmatos, šiaurėje siekė
@@ -406,13 +438,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-013
 
 - id: c-85191
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
   citata_originali: |
     Į šiaurę nuo Nemuno žiočių, Minijos
     žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
@@ -422,14 +454,17 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   citata_rodoma: "Į šiaurę nuo Nemuno žiočių, Minijos\nžemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.\nLietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,\np. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,\nžemėl.)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-85192
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 156."
   citata_originali: |
     Apie Labguvos pilies sunaikinimą
 
@@ -449,12 +484,15 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-009
+    - t-015
     - t-018
 
 - id: c-85193
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
   citata_originali: |
     Apie Ragainės ir Skalvių pilių pastatymą
 
@@ -479,11 +517,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+    - t-007
 
 - id: c-85194
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107."
   citata_originali: |
     73 (72). Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
     Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
@@ -501,13 +541,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
     - t-014
 
 - id: c-85195
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
     Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir
@@ -526,7 +566,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-85196
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 156."
   citata_originali: |
     Apie Skalvos žemės nusiaubimą
     Kadangi lengvai pelnomas atleidimas skatina dar daugiau nusidėti, reikėjo, kad skalviai
@@ -545,13 +586,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   pagrindzia:
     - t-003
     - t-012
-    - t-015
     - t-020
 
 - id: c-85197
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
   citata_originali: |
     Kol kas nepakankamai aiški baltiškųjų galindų  ir
     Sasnos sričių genezė. Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
@@ -566,12 +607,12 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-008
-    - t-011
 
 - id: c-85198
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
   citata_originali: |
     Apie tai, kaip buvo apleista Skalvos žemė
     Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai
@@ -594,7 +635,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-85199
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
   citata_originali: |
     Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
     Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai
@@ -614,7 +656,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-85201
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
   citata_originali: |
     Apie Ragainės pilies užkariavimą
     Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir
@@ -625,16 +668,15 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   citata_rodoma: "Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir\ntūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose\nNemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar\nyra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.\nKai skalviai ryžosi priešintis, brolių lankininkai, leisdami strėlę po strėlės, juos nustūmė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
-
 - id: c-85204
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     Savo ruožtu dar XIX a. M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais,
     priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9. A. Becenbergeris nustatė, kad
@@ -652,7 +694,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-85205
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 60."
   citata_originali: |
     Archeologijos duomenys rodo, jog skalvių gentinė kultūra buvusi ryški (ypač Nemuno
     ir Jūros santakos rajone) nuo mūsų eros pradžios (LAA, 3, p. 10, 17—18 ir žemėlapiai
@@ -669,7 +712,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-175249
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 213."
   citata_originali: |
     Bū-
     lent tokiuose kraštuose radome daugiau negu tikėjomės

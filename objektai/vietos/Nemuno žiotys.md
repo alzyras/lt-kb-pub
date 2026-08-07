@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1317a9ded972cbd564ae11e2"
+canonical_name: "Nemuno žiotys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nemuno žiotys"]
+sameAs: []
+canonical_biography: "Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą."
+place_authority: true
+historical_names: []
 ---
 # Nemuno žiotys
 
@@ -51,7 +60,8 @@ Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Liet
 - id: c-02867
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 180."
   citata_originali: |
     Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą
     pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.

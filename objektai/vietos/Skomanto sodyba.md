@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9572a30d7029839cd2fb1b01"
+canonical_name: "Skomanto sodyba"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Skomanto sodyba"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p. (Skomantburg) Skorpiono žvaigždynas Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas) Skronaitė (Scroneyte, Scroneiten), p."
+place_authority: true
+historical_names: []
 ---
 # Skomanto sodyba
 
@@ -50,7 +59,8 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
 - id: c-59360
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
   citata_originali: |
     Skokiai žr. Zioka
     Skomackas

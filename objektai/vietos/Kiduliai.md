@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5be4b987540aa8dbb271834b"
+canonical_name: "Kiduliai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kiduliai"]
+sameAs: []
+canonical_biography: "Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, Narbutas mini labai seną mūro pilį."
+place_authority: true
+historical_names: []
 ---
 # Kiduliai
 
@@ -60,7 +69,8 @@ Kidulių kaime, netoli Jurbarko kairiajame Nemuno krante, Narbutas mini labai se
 - id: c-171840
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
   citata_originali: |
     Netoli Jurbarko, Nemuno kairiajame krante. Kidulių kai­
     me, yra labai sena mūro pilis. 1805 metais vieno bokštelio lau­

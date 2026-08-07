@@ -99,7 +99,8 @@ Nenurodyta
 - id: c-63838
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Apie Rygos miestiečių kivirčus su Teutonų ordino broliais Livonijoje
     1297 viešpaties metais kilo begaliniai Rygos miestiečių ir Teutonų ordino brolių

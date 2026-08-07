@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eca18b7bf0e22e093381aa46"
+canonical_name: "Ginvila (Jurgis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ginvila (Jurgis)"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Ginvila (Jurgis)
 

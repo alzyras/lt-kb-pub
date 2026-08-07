@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-67116
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 359."
   citata_originali: |
     Daug kam būdavo lengva
     gauti tokias vietas, nes jas dalindavo valdovas arba ponai. O
@@ -95,7 +96,8 @@ Nenurodyta
 - id: c-67119
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 264-265"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 264-265."
   citata_originali: |
     Be to, dar reikia
     priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje

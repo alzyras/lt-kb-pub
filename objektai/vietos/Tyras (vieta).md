@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-494785b6da54d490f1d6adcd"
+canonical_name: "Tyras (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tyras","Tyras (vieta)"]
+sameAs: []
+canonical_biography: "Kaipogi pats Tyras, jų buveinė ir žilos senovės pilė, visų gar siausia savo turtais ir savo prekyba visoj pasaulėj, buvo įduota globti dievui, taip vadinamam Tyro bo čiui, arba viešpačiui, kursai glemžė jį nuo pavoju mo ir laimino jo prekybą, kurį penicijonys."
+place_authority: true
+historical_names: []
 ---
 # Tyras (vieta)
 
@@ -46,9 +55,9 @@ Kaipogi pats Tyras, jų buveinė ir žilos senovės pilė, visų gar siausia sav
 ## Citatos
 
 - id: c-184528
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 26"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 26."
   citata_originali: |
     Regis, jog tą vaisių žemaičių žemės gavo saulė­
     tekio tautos nuo penicijonų, kurie, pagirti senovėj

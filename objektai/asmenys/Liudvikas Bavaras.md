@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-48755865e6977b590e86af5e"
+canonical_name: "Liudvikas Bavaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas Bavaras"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėliau tapusiu imperatoriumi, 1323 m. popiežiaus kurija pradėjo prieš jį organizuoti koaliciją, į kurią įėjo Austrija, Vengrija ir Vengrijos sąjungininkė Lenkija. Dusburgietis teigia, kad taigi 1325— 1326 m. Centrinėje bei Rytų Europoje buvo dvi jėgų grupuotės: vienoje pusėje popiežiaus kurija, Vengrija, Lenkija, Lietuva, o kitoje — Vokietijos valdovas Liudvikas Bavaras, Brandenburgas, Kryžiuočių ordinas ir prie jo prisijungusi Galičo—Volynės. Dusburgietis teigia, kad apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­ gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti."
 ---
 # Liudvikas Bavaras
 
@@ -113,7 +120,8 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
 - id: c-60684
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
   citata_originali: |
     Kovodama su Vokietijos karaliumi Liudviku Bavaru, vėliau tapusiu imperatoriumi, 1323
     m. popiežiaus kurija pradėjo prieš jį organizuoti koaliciją, į kurią įėjo Austrija, Vengrija ir
@@ -132,7 +140,8 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
 - id: c-60685
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
   citata_originali: |
     Taigi 1325— 1326 m. Centrinėje bei Rytų
     Europoje buvo dvi jėgų grupuotės: vienoje pusėje popiežiaus kurija, Vengrija, Lenkija,
@@ -151,7 +160,8 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
 - id: c-60686
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249."
   citata_originali: |
     Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
                                gaikštis, buvo išrinkti Romos karaliais
@@ -177,7 +187,8 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
 - id: c-167493
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
   citata_originali: |
     Tuo būdu
     Lietuva prisijungė prie mūsų minėtos koalicijos. Taigi 1325— 1326 m. Centrinėje bei Rytų

@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-668f22297aa40962fca5eb5d"
+canonical_name: "Mergelė Marija"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mergelė Marija"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje. Dusburgietis teigia, kad mergelė Marija trečią dieną, kaip buvo sakęs, pasimirė, o visi žmonės patikėjo jos žodžiais. Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu į Ordiną ir darančiu vieną dorovingą darbą po kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis."
 ---
 # Mergelė Marija
 
@@ -75,7 +82,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 <a id="claim-t-59890"></a>
 - t-003
   teiginys: "Dusburgiečio aprašytame regėjime Mergelė Marija, šventosios mergelės ir angelai kilo į dangų su žuvusių brolių sielomis."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -220,7 +227,8 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - id: c-60520
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
   citata_originali: |
     Galop atėjo švenčiausioji mergelė
     Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam
@@ -240,7 +248,8 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - id: c-60521
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 114."
   citata_originali: |
     Visa tai leidžia daryti išvadą ir nedvejojant tikėti,
     kad pats Kristus, be kurio valios nieko žemėje negali įvykti, užleido ant savo tautos
@@ -267,7 +276,8 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - id: c-60522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
   citata_originali: |
     Tačiau kitą naktį jam pasirodė švenčiausioji mergelė Marija, kuri jį
     taip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą
@@ -287,7 +297,8 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - id: c-60523
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
   citata_originali: |
     Dar apie tą patį
 
@@ -312,7 +323,8 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - id: c-60524
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 113."
   citata_originali: |
     Apie tai, kaip iš anksto buvo išpranašautas šis mūšis
     Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su
@@ -332,7 +344,8 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - id: c-60525
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
   citata_originali: |
     41. Apie vieną stebuklą
 
@@ -362,7 +375,8 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - id: c-167498
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
   citata_originali: |
     Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
     Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
@@ -384,7 +398,8 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - id: c-179036
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
   citata_originali: |
     Pakėlusi kiekvienam broliui apsiaustą, ji parodė jų žaizdas ir
     randus, kurių jiems nešykštėjo netikėliai, kai gynė tikėjimą, ir pasakė: „Ar tau dabar

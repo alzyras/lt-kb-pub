@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2f6cf86f26fc21cc73211b3c"
+canonical_name: "Radikoniai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Radikoniai"]
+sameAs: []
+canonical_biography: "Kairioji vora puolimą pradėjo ## Puslapis 183 sėkmingai, tačiau ties Radikonių dvaru sutiko stiprų bolševikų pasipriešinimą, kurio metu žuvo kolonos vadas karin."
+place_authority: true
+historical_names: []
 ---
 # Radikoniai
 
@@ -50,7 +59,8 @@ Kairioji vora puolimą pradėjo ## Puslapis 183 sėkmingai, tačiau ties Radikon
 - id: c-45294
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 182-183"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 182-183."
   citata_originali: |
     Viduriniajai vorai po atkaklių kautynių
     pavyko užimti Užkalnius, Ėriškėlius ir

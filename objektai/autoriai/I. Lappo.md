@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-34eb2fc848fc24b613f3b616"
+canonical_name: "I. Lappo"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["I. Lappo"]
+sameAs: []
+canonical_biography: "Lappo: 1588 Lietuvos Statutas, It. Lappo, t."
 ---
 # I. Lappo
 
@@ -59,7 +66,8 @@ Lappo: 1588 Lietuvos Statutas, It. Lappo, t.
 - id: c-30535
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 51."
   citata_originali: |
     Kokioje dvasioje buvo parašyta ta istorija, autoriaus
     persiėmusio humanizmo dvasia ir labai pamėgusio lotynų kalbą,

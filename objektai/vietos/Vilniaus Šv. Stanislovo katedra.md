@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-303c8762da54abdab228bcd0"
+canonical_name: "Vilniaus Šv. Stanislovo katedra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus Šv. Stanislovo katedra"]
+sameAs: []
+canonical_biography: "1 9 1 ## Puslapis 208 VILNIAUS MIESTO ISTORIJA / TOMAS 8. Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus Šv. Stanislovo katedra
 
@@ -77,7 +86,8 @@ media_all_json: |-
 - id: c-82141
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 226."
   citata_originali: |
     Jogaila taip pat
     nesvyravo, ar jam, tikram broliui, pavesti savo valdžią Lie­
@@ -99,7 +109,8 @@ media_all_json: |-
 - id: c-82142
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 207-208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 207-208."
   citata_originali: |
     1 9 1
 

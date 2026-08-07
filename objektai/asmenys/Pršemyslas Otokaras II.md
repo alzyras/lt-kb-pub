@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c08aadcb2951d33b6286a0a0"
+canonical_name: "Pršemyslas Otokaras II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pršemyslas Otokaras II"]
+sameAs: []
+canonical_biography: "1255 m. Ordinui į pagalbą atvyko Pršemyslas Otokaras II, Čekijos karalius, valdęs ir Moraviją, Austriją, Brandenburgo markgrafas, daugybė riterių iš įvairių Vokietijos žemių."
 ---
 # Pršemyslas Otokaras II
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-41434
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 27."
   citata_originali: |
     1255 m. Ordinui į pagalbą atvyko Prše-
     myslas Otokaras II, Čekijos karalius, val-

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4185e5c6910b94e8a06fe144"
+canonical_name: "Povilas Ksaveras Bžostovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["P. K. Bžostovskio","Povilas Ksaveras Bžostovskis","Povilas Ksaveras Bžostovskis (reformų veikėjas)","Povilo Ksavero Bžostovskio"]
+sameAs: []
+canonical_biography: "Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jos įstatus 1791 m. patvirtino Ketverių metų seimas."
 ---
 # Povilas Ksaveras Bžostovskis
 
@@ -101,7 +108,8 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
 - id: c-21942
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 68."
   citata_originali: |
     Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
     XVIII a. pabaigoje. Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
@@ -123,7 +131,8 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
 - id: c-21943
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 89."
   citata_originali: |
     Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo
     iš baudžiavos, suteikiant jiems asmeninę laisvę, atvejus. Ryškiausiu iš jų

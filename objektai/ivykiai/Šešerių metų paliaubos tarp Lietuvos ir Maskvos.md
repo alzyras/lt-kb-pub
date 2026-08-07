@@ -63,7 +63,7 @@ Nenurodyta
 <a id="claim-t-185680"></a>
 - t-002
   teiginys: "Lietuva ir Maskva sutarė paliaubų metu derėtis dėl amžinos taikos."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -144,7 +144,8 @@ Nenurodyta
 - id: c-169039
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 570-571"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 570-571."
   citata_originali: |
     Ivanas atsakė, jog ir jis di­
     džiai trokšta, kad visi krikš­
@@ -185,7 +186,8 @@ Nenurodyta
 - id: c-169040
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 571"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 571."
   citata_originali: |
     Išvykstantiems pasiuntiniams buvo
     nurodyta, kad amžina taika galinti būti sudaryta, jei­
@@ -220,7 +222,8 @@ Nenurodyta
 - id: c-169041
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 571"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 571."
   citata_originali: |
     Kai šis iškeliavo iš
     Maskvos, Ivanas pasiuntė savo sūnų Dimitrijų su stip­

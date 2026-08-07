@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7f4c8d1f1642986c8916c8ca"
+canonical_name: "Biorntelis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Biorntelis"]
+sameAs: []
+canonical_biography: "Biorntelis, Narbuto vadinamas švedų autoriumi, manė, kad prie Veronos ir Trento gyvena iki 60 000 senovės kimbrų palikuonių."
 ---
 # Biorntelis
 
@@ -53,7 +60,8 @@ Biorntelis, Narbuto vadinamas švedų autoriumi, manė, kad prie Veronos ir Tren
 - id: c-174259
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
   citata_originali: |
     Italijoje, netoli Veronos, slėnyje tarp
     Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių

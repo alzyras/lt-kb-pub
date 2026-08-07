@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9486d1ff07a4591546acaebb"
+canonical_name: "Partigala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Partigala"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250. Dusburgietis teigia, kad 250 D.— castrum dictum Partegal, Jer.— hûs [...] Partegal. Vėliau — Partheinen (Parteiniai) į pietryčius nuo Balgos. Išliko pilies kalnas (HE, p. 110; GAO, p. 131, 116); plg. Bateinen (Bateiniai—Weber L., Preussen..., p. 491; dėl pastarojo vardo žr. GAO, p.. Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami."
+place_authority: true
+historical_names: []
 ---
 # Partigala
 
@@ -76,7 +85,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 - id: c-59098
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     250 D.— castrum dictum Partegal, Jer.— hûs [...] Partegal. Vėliau — Partheinen
     (Parteiniai) į pietryčius nuo Balgos. Išliko pilies kalnas (HE, p. 110; GAO, p. 131, 116);
@@ -93,7 +103,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 - id: c-59099
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     Pomando patariami, susirinko visi Varmės, Notangos, Bartos galingesnieji bei kiti kariauti
     pasirengę vyrai ir apsupo Baigos pilį, įsitaisę čia karo stovyklas, tačiau broliai, iš anksto
@@ -116,7 +127,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 - id: c-59100
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     23. Apie Partigalos pilies ir Skrando kuoro pastatymą
 

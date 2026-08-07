@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-427d4153922161e9e950f3f3"
+canonical_name: "Lietuvos Naugardukas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lietuvos Naugardukas"]
+sameAs: []
+canonical_biography: "Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke."
+place_authority: true
+historical_names: []
 ---
 # Lietuvos Naugardukas
 
@@ -32,7 +41,8 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
 - id: c-168629
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 390"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 390."
   citata_originali: |
     Šios siuntos,
     upėmis pavandeniui nuplukdytos į Juodąją jūrą, iš Cha-

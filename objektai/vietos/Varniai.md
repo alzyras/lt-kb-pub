@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9288260cef4c6eded00bbdea"
+canonical_name: "Varniai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varniai"]
+sameAs: []
+canonical_biography: "Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur."
+place_authority: true
+historical_names: []
 ---
 # Varniai
 
@@ -111,7 +120,8 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 129."
   citata_originali: |
     Tad tris mėnesius pasiuntiniai darbavosi Žemaiti­
     joje krikštydami žmones ir tvarkydami bažnytinius jos reika­
@@ -132,7 +142,8 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
 - id: c-93370
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 233."
   citata_originali: |
     Ordinas teturėjo vieną tikslą : savo nepaliaujamais teriojimo
     žygiais, kurie labiausiai kankino Žemaičius, paklupdyti pagonių
@@ -153,7 +164,8 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
 - id: c-93371
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     St. Radvilos fundacija), Pa-
     šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
@@ -172,9 +184,9 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
     - t-003
 
 - id: c-184460
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 511"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 511."
   citata_originali: |
     Nujau­
     tęs tą, Vytenis steigė, jog ne vien kryžėjus nuo pi­

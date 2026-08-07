@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-31d5cdf278c26b6ebdc70278"
+canonical_name: "Mantvila Gimbutaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mantvila Gimbutaitis"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Mantvila Gimbutaitis
 

@@ -62,7 +62,8 @@ Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Du
 - id: c-61733
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 24."
   citata_originali: |
     Vadinasi, kronikininkas Dusburgietis formavo magistrų registrą121.
     Rašydamas kroniką, Dusburgietis naudojosi dokumentais, tačiau kokiais ir kaip —

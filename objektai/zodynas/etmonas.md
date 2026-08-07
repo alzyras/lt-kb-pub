@@ -111,7 +111,8 @@ Greta didžiojo etmono M.
 - id: c-45514
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     buvo geriausi kariai, kuriuos tuo metu
     buvo galima surinkti. Greta didžiojo
@@ -143,7 +144,8 @@ Greta didžiojo etmono M.
 - id: c-170472
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
   citata_originali: |
     Ir didysis kunigaikštis Aleksandras, maty­
     damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­

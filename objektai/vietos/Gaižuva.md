@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b8d11fff78d800291f2fb8b0"
+canonical_name: "Gaižuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gaižuva"]
+sameAs: []
+canonical_biography: "1292 ir 1294 m. Ordino kariuomenė nusiaubė Gaižuvos sritį prie Nemuno dešiniojo kranto tarp Dubysos ir Nevėžio. Magistras Meinhardas su kariauna, kurioje buvo tūkstantis kryžiuočių riterių, įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius."
+place_authority: true
+historical_names: []
 ---
 # Gaižuva
 
@@ -76,7 +85,8 @@ media_all_json: |-
 - id: c-33839
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 223."
   citata_originali: |
     Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės
     (Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo
@@ -98,7 +108,8 @@ media_all_json: |-
 - id: c-178837
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 164."
   citata_originali: |
     Vėliau su didesne kariauna,
     kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver­

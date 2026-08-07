@@ -57,7 +57,8 @@ Biržiška : Senųjų lietuviškų knygų istorija , I, Chicago, Ill.
 - id: c-33716
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 301."
   citata_originali: |
     —** **_Christburgo taika_** **, LE, t. 3, 541 p.**
     (^2) **Plg. Vcl. Biržiška :** **_Senųjų lietuviškų knygų istorija_** **, I, Chicago, Ill.

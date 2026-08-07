@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ace9b06a8b472c50929df585"
+canonical_name: "Morta (pasakotojo sesuo, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Morta","Morta (pasakotojo sesuo, XIX a.)"]
+sameAs: []
+canonical_biography: "Morta pasakojime pristatoma kaip penkiolikmetė pasakotojo sesuo, rugiapjūtėje rinkusi paskui tėvą, saugojusi paldienius ir drąsiai įsiterpdavusi į darbininkų kalbas."
 ---
 # Morta (pasakotojo sesuo, XIX a.)
 

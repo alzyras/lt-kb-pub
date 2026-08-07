@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92d4cb1170f0d54855cbe042"
+canonical_name: "Fridrichas Ketleris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas Ketleris"]
+sameAs: []
+canonical_biography: "Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, matydamas besirikiuojančius lietuvius, savo 300 raitelių įsakė persikelti į dešinįjį krantą. Jam iš kairės Kuršo kunigaištis Fridrichas Ketleris."
 ---
 # Fridrichas Ketleris
 
@@ -67,7 +74,8 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
 - id: c-41911
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 108."
   citata_originali: |
     Lietuvos kariuomenės vadovybė. Priekyje ant
     balto žirgo, didysis etmonas J. K. Chodkevičius.
@@ -83,7 +91,8 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
 - id: c-44330
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 107."
   citata_originali: |
     Kairiajame Dauguvos krante buvęs
     Kuršo kunigaikštis Fridrichas Ketleris, ma-

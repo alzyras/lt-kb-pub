@@ -48,7 +48,7 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 <a id="claim-t-86555"></a>
 - t-002
   teiginys: "Szosowe buvo viena iš rinkliavų, kurias Vilniaus piliečiai ir pirkliai turėjo mokėti kartu su nustatytais muitais."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
@@ -59,7 +59,8 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 - id: c-82533
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 345-346"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 345-346."
   citata_originali: |
     329
 
@@ -83,7 +84,8 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 - id: c-82534
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 345."
   citata_originali: |
     Dėl Vilniaus Batoras pareikalavo
     iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­

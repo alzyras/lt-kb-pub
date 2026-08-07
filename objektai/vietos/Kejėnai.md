@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-942890aac77ba8de3e20ed65"
+canonical_name: "Kejėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kejėnai"]
+sameAs: []
+canonical_biography: "Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr."
+place_authority: true
+historical_names: []
 ---
 # Kejėnai
 
@@ -45,7 +54,8 @@ media_all_json: |-
 - id: c-176442
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 269."
   citata_originali: |
     p. 26-27, Kalavijai. xm a. Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr.
   statusas: verified

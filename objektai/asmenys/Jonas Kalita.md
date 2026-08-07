@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-043bcc2f18080b8f9e6da8d0"
+canonical_name: "Jonas Kalita"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Kalita"]
+sameAs: []
+canonical_biography: "Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį. Gedimino laimėjimai dar labiau buvo skersai kelio didžiajam Maskvos kunigaikščiui Jonui Kalitai."
 ---
 # Jonas Kalita
 
@@ -83,7 +90,8 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
 - id: c-32757
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 249."
   citata_originali: |
     Kai 1324 m. gegužės
     gale Vilniuje lankėsi popiežiaus legatų įgaliotiniai, tada ten buvo
@@ -104,7 +112,8 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
 - id: c-32758
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 248."
   citata_originali: |
     Kai dėl įtakos Naugarde varžėsi
     Tverės ir Maskvos kunigaikščiai, Gediminas taip pat vykdė savo

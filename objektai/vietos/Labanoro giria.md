@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09cc7fc0ff5d1336e554e18d"
+canonical_name: "Labanoro giria"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Labanoro giria"]
+sameAs: []
+canonical_biography: "Labanoro giri- (e) 4 = Maišiagala eliškės i > S oe t; sk k ‘ KAUNAS Nunsiškė |."
+place_authority: true
+historical_names: []
 ---
 # Labanoro giria
 
@@ -60,7 +69,8 @@ Labanoro giri- (e) 4 = Maišiagala eliškės i > S oe t; sk k ‘ KAUNAS Nunsiš
 - id: c-45173
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 241."
   citata_originali: |
     PASTOVIAIO)
 

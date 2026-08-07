@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b7fa2d87f7c69494d70b10c"
+canonical_name: "Krušvica"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krušvica"]
+sameAs: []
+canonical_biography: "Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk."
+place_authority: true
+historical_names: []
 ---
 # Krušvica
 
@@ -50,7 +59,8 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
 - id: c-82060
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 22-23"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 22-23."
   citata_originali: |
     Jau jam valdant Krušvica, Poznanė ir kiti
     b)

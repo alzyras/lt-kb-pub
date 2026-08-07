@@ -59,7 +59,8 @@ Lyginant įvairius laiko tekstus, kur vengrų kanceliarijoje buvo vartojamas ter
 - id: c-34138
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 293."
   citata_originali: |
     Kryžiuočiai ne kartą akcentavo, jog jie tik
     su Lietuva tekariaują. Lyginant įvairius laiko tekstus, kur vengrų

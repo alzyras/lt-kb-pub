@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1077ebc79aeb93bf6d07a0ee"
+canonical_name: "Šindekopfas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šindekopfas"]
+sameAs: []
+canonical_biography: "Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, kad būtų ginama Gotesverderio pilis. Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė. Magistras Henrikas, grįžęs į Prūsiją, paragino kariuomenės vadą Šindekopfą vėl žygiuoti į Lietuvą ginti naujos pilies."
 ---
 # Šindekopfas
 
@@ -88,7 +95,8 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
 - id: c-169451
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 249."
   citata_originali: |
     mėnesių darbo pastatė čia didelę tvirtovę. Šią naują
     pilį, esančią per vieną mylią nuo Kauno, pavadino
@@ -117,7 +125,8 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
 - id: c-169452
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 249."
   citata_originali: |
     Su­
     grįžęs po to į Prūsiją, paragino maršalą Šindekopfą, ne­

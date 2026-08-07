@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a3982f5258e85252b3564876"
+canonical_name: "Galija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Galija"]
+sameAs: []
+canonical_biography: "Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būdavo gabenamos į Masiliją."
+place_authority: true
+historical_names: []
 ---
 # Galija
 
@@ -55,7 +64,8 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
 - id: c-175641
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
   citata_originali: |
     Siaurės sagose daug žinių apie
     jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais

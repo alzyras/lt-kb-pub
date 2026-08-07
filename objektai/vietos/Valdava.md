@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4413da06bd0cb227d5bac940"
+canonical_name: "Valdava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Valdava"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir. Dusburgietis teigia, kad 325 D.— Waldow, Jer.— Waldowe; Valdava (plg."
+place_authority: true
+historical_names: []
 ---
 # Valdava
 
@@ -67,7 +76,8 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - id: c-59278
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
   citata_originali: |
     325 D.— Waldow, Jer.— Waldowe; Valdava (plg. lie. Valduva, kaimas prie Biržų),
     valsčiaus centras į rytus nuo dab. Kaliningrado, pilis buvusi greičiausiai kiek toliau į
@@ -84,7 +94,8 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - id: c-59279
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
   citata_originali: |
     kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
     Paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten

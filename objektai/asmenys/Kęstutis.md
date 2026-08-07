@@ -35,13 +35,20 @@ media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ASeal_of_
 media_primary_directness: 'direct'
 media_primary_relation_type: 'seal_of'
 media_primary_json: |-
-  {"mediaId":"m-c79c415494b34c34fdce84de","title":"Seal of Kęstutis, 1379.jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis, 1379.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Visuotinė lietuvių enciklopedija","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":927,"height":1080,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis%2C_1379.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860200+03:00","reviewedAt":"2026-07-18T20:45:38.111858+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apskritas antspaudas su raitelio figūra, skydo ir kardo atributais bei lotynišku įrašu aplink kraštą.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta, kad tai Kęstučio antspaudas; nurodyta 1379 m. data ir įrašas S[igilum] KYNSTVTTE DVX.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja konkretų Kęstučio antspaudą.","isPrimary":1}
+  {"mediaId":"m-c79c415494b34c34fdce84de","title":"Seal of Kęstutis, 1379.jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis, 1379.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Visuotinė lietuvių enciklopedija","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":927,"height":1080,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis%2C_1379.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860200+03:00","reviewedAt":"2026-07-18T20:45:38.111858+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apskritas antspaudas su raitelio figūra, skydo ir kardo atributais bei lotynišku įrašu aplink kraštą.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta, kad tai Kęstučio antspaudas; nurodyta 1379 m. data ir įrašas S[igilum] KYNSTVTTE DVX.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja konkretų Kęstučio antspaudą.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-c79c415494b34c34fdce84de","title":"Seal of Kęstutis, 1379.jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis, 1379.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Visuotinė lietuvių enciklopedija","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":927,"height":1080,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis%2C_1379.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860200+03:00","reviewedAt":"2026-07-18T20:45:38.111858+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apskritas antspaudas su raitelio figūra, skydo ir kardo atributais bei lotynišku įrašu aplink kraštą.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta, kad tai Kęstučio antspaudas; nurodyta 1379 m. data ir įrašas S[igilum] KYNSTVTTE DVX.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja konkretų Kęstučio antspaudą.","isPrimary":1},{"mediaId":"m-08162f9e2359c5fbbf998617","title":"Authentic Seal of Kęstutis.jpg","caption":"Autentiško Kęstučio antspaudo atvaizdas.","originalTitle":"Authentic Seal of Kęstutis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Transferred from the Lithuanian Wikipedia","dateDisplay":"14 th century date QS:P,+1350-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":816,"height":848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAuthentic_Seal_of_K%C4%99stutis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860415+03:00","reviewedAt":"2026-07-18T20:45:38.117282+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas nespalvotas apskrito antspaudo piešinys su raiteliu, kardu, skydu ir aplinkiniu lotynišku įrašu.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo autentišką Kęstučio antspaudą; data priskiriama XIV amžiui.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Nors tai reprodukcija, ji tiesiogiai vaizduoja konkretų Kęstučio antspaudą.","isPrimary":0},{"mediaId":"m-588daecc90ae2278a3bfeaa8","title":"Seal of Kęstutis (1379).jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis (1379).jpg","creator":"Kęstutis","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Hubert-herald.nl","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":503,"height":516,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis_%281379%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860932+03:00","reviewedAt":"2026-07-18T20:45:38.121489+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas spalvotas vaškinio antspaudo atvaizdas su Kęstučio raiteliu, skydu, kardu ir lotynišku įrašu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta, kad tai Kęstučio antspaudas; nurodyta 1379 m. data.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai patvirtina tiesioginį ryšį su Kęstučiu.","isPrimary":0}]
+  [{"mediaId":"m-c79c415494b34c34fdce84de","title":"Seal of Kęstutis, 1379.jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis, 1379.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Visuotinė lietuvių enciklopedija","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":927,"height":1080,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis%2C_1379.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860200+03:00","reviewedAt":"2026-07-18T20:45:38.111858+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apskritas antspaudas su raitelio figūra, skydo ir kardo atributais bei lotynišku įrašu aplink kraštą.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta, kad tai Kęstučio antspaudas; nurodyta 1379 m. data ir įrašas S[igilum] KYNSTVTTE DVX.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja konkretų Kęstučio antspaudą.","isPrimary":1},{"mediaId":"m-08162f9e2359c5fbbf998617","title":"Authentic Seal of Kęstutis.jpg","caption":"Autentiško Kęstučio antspaudo atvaizdas.","originalTitle":"Authentic Seal of Kęstutis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Transferred from the Lithuanian Wikipedia","dateDisplay":"14 th century date QS:P,+1350-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":816,"height":848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAuthentic_Seal_of_K%C4%99stutis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860415+03:00","reviewedAt":"2026-07-18T20:45:38.117282+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas nespalvotas apskrito antspaudo piešinys su raiteliu, kardu, skydu ir aplinkiniu lotynišku įrašu.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo autentišką Kęstučio antspaudą; data priskiriama XIV amžiui.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Nors tai reprodukcija, ji tiesiogiai vaizduoja konkretų Kęstučio antspaudą.","isPrimary":0},{"mediaId":"m-588daecc90ae2278a3bfeaa8","title":"Seal of Kęstutis (1379).jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis (1379).jpg","creator":"Kęstutis","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Hubert-herald.nl","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":503,"height":516,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis_%281379%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860932+03:00","reviewedAt":"2026-07-18T20:45:38.121489+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas spalvotas vaškinio antspaudo atvaizdas su Kęstučio raiteliu, skydu, kardu ir lotynišku įrašu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta, kad tai Kęstučio antspaudas; nurodyta 1379 m. data.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai patvirtina tiesioginį ryšį su Kęstučiu.","isPrimary":0}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-c79c415494b34c34fdce84de","title":"Seal of Kęstutis, 1379.jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis, 1379.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Visuotinė lietuvių enciklopedija","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":927,"height":1080,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis%2C_1379.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860200+03:00","reviewedAt":"2026-07-18T20:45:38.111858+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apskritas antspaudas su raitelio figūra, skydo ir kardo atributais bei lotynišku įrašu aplink kraštą.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta, kad tai Kęstučio antspaudas; nurodyta 1379 m. data ir įrašas S[igilum] KYNSTVTTE DVX.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja konkretų Kęstučio antspaudą.","isPrimary":1},{"mediaId":"m-08162f9e2359c5fbbf998617","title":"Authentic Seal of Kęstutis.jpg","caption":"Autentiško Kęstučio antspaudo atvaizdas.","originalTitle":"Authentic Seal of Kęstutis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Transferred from the Lithuanian Wikipedia","dateDisplay":"14 th century date QS:P,+1350-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":816,"height":848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAuthentic_Seal_of_K%C4%99stutis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860415+03:00","reviewedAt":"2026-07-18T20:45:38.117282+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas nespalvotas apskrito antspaudo piešinys su raiteliu, kardu, skydu ir aplinkiniu lotynišku įrašu.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo autentišką Kęstučio antspaudą; data priskiriama XIV amžiui.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Nors tai reprodukcija, ji tiesiogiai vaizduoja konkretų Kęstučio antspaudą.","isPrimary":0},{"mediaId":"m-588daecc90ae2278a3bfeaa8","title":"Seal of Kęstutis (1379).jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis (1379).jpg","creator":"Kęstutis","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Hubert-herald.nl","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":503,"height":516,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis_%281379%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860932+03:00","reviewedAt":"2026-07-18T20:45:38.121489+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas spalvotas vaškinio antspaudo atvaizdas su Kęstučio raiteliu, skydu, kardu ir lotynišku įrašu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta, kad tai Kęstučio antspaudas; nurodyta 1379 m. data.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai patvirtina tiesioginį ryšį su Kęstučiu.","isPrimary":0}]
+  [{"mediaId":"m-c79c415494b34c34fdce84de","title":"Seal of Kęstutis, 1379.jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis, 1379.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Visuotinė lietuvių enciklopedija","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":927,"height":1080,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis%2C_1379.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860200+03:00","reviewedAt":"2026-07-18T20:45:38.111858+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas apskritas antspaudas su raitelio figūra, skydo ir kardo atributais bei lotynišku įrašu aplink kraštą.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta, kad tai Kęstučio antspaudas; nurodyta 1379 m. data ir įrašas S[igilum] KYNSTVTTE DVX.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja konkretų Kęstučio antspaudą.","isPrimary":1},{"mediaId":"m-08162f9e2359c5fbbf998617","title":"Authentic Seal of Kęstutis.jpg","caption":"Autentiško Kęstučio antspaudo atvaizdas.","originalTitle":"Authentic Seal of Kęstutis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Transferred from the Lithuanian Wikipedia","dateDisplay":"14 th century date QS:P,+1350-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":816,"height":848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAuthentic_Seal_of_K%C4%99stutis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860415+03:00","reviewedAt":"2026-07-18T20:45:38.117282+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas nespalvotas apskrito antspaudo piešinys su raiteliu, kardu, skydu ir aplinkiniu lotynišku įrašu.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo autentišką Kęstučio antspaudą; data priskiriama XIV amžiui.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Nors tai reprodukcija, ji tiesiogiai vaizduoja konkretų Kęstučio antspaudą.","isPrimary":0},{"mediaId":"m-588daecc90ae2278a3bfeaa8","title":"Seal of Kęstutis (1379).jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis (1379).jpg","creator":"Kęstutis","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Hubert-herald.nl","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":503,"height":516,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis_%281379%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1379 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"1379 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Duchy of Trakai","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Kęstutis","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860932+03:00","reviewedAt":"2026-07-18T20:45:38.121489+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas spalvotas vaškinio antspaudo atvaizdas su Kęstučio raiteliu, skydu, kardu ir lotynišku įrašu.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta, kad tai Kęstučio antspaudas; nurodyta 1379 m. data.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai patvirtina tiesioginį ryšį su Kęstučiu.","isPrimary":0}]
+entity_id: "ent-eadb3cc06f1984f20378bc86"
+canonical_name: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kiejstut","Kęstutis","Kęstutis (vakarų pasienio valdovas, XIV a.)","Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","Kęstutį","Kęstučio","Kęstučiui","LDK Kęstutis"]
+sameAs: []
+canonical_biography: "Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis Lietuvos gynėjas nuo kryžiuočių. Jis siejamas su Trakų pilimi, kovomis su ordinu, derybomis dėl krikšto, herojiškais pagoniškojo patriotizmo laikais, Jogailos pergale prieš jį ir nužudymu Krėvoje."
 ---
 # Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
 
@@ -131,17 +138,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - c-00156
 
-<a id="claim-t-10689"></a>
-- t-006
-  teiginys: "Kęstutis pastatė mūro pilį Trakų ežero saloje."
-  atnaujinta: "2026-07-24 15:57"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-160519
-
 <a id="claim-t-10692"></a>
-- t-007
+- t-006
   teiginys: "Kęstutis kartu su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -159,7 +157,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160524
 
 <a id="claim-t-10693"></a>
-- t-008
+- t-007
   teiginys: "Po penkių dienų kalinimo Krėvoje Kęstutis buvo nužudytas."
   atnaujinta: "2026-06-13 18:29"
   sprendimo_priezastis: "auto"
@@ -175,7 +173,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160519
 
 <a id="claim-t-176515"></a>
-- t-009
+- t-008
   teiginys: "Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -191,7 +189,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160538
 
 <a id="claim-t-176516"></a>
-- t-010
+- t-009
   teiginys: "Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -207,7 +205,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160536
 
 <a id="claim-t-176517"></a>
-- t-011
+- t-010
   teiginys: "Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -224,7 +222,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160516
 
 <a id="claim-t-176518"></a>
-- t-012
+- t-011
   teiginys: "1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -243,7 +241,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160527
 
 <a id="claim-t-176519"></a>
-- t-013
+- t-012
   teiginys: "1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -263,7 +261,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160521
 
 <a id="claim-t-176520"></a>
-- t-014
+- t-013
   teiginys: "Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -279,7 +277,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160535
 
 <a id="claim-t-176523"></a>
-- t-015
+- t-014
   teiginys: "Kęstučio palaikai Skirgailos rūpesčiu buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį."
   atnaujinta: "2026-06-13 17:01"
   sprendimo_priezastis: "auto"
@@ -295,7 +293,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160523
 
 <a id="claim-t-176524"></a>
-- t-016
+- t-015
   teiginys: "Balińskis Kęstutį laiko pagrindine kliūtimi Jogailos siekiui sustiprinti vienvaldystę dėl jo autoriteto, karo šlovės ir nepalenkiamo būdo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -311,7 +309,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160515
 
 <a id="claim-t-176525"></a>
-- t-017
+- t-016
   teiginys: "Kęstutis krikštu kaip priemone gintis nuo Vokiečių ordino karų daug nepasitikėjo."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -327,7 +325,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160537
 
 <a id="claim-t-176528"></a>
-- t-018
+- t-017
   teiginys: "Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -345,7 +343,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160520
 
 <a id="claim-t-176529"></a>
-- t-019
+- t-018
   teiginys: "Jogaila pažadėjo Žemaičius kryžiuočiams, kai jų remiamas nugalėjo Kęstutį."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -361,7 +359,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160531
 
 <a id="claim-t-176530"></a>
-- t-020
+- t-019
   teiginys: "Manoma, kad Kęstutis iki 1377 m. pastatė pilį, kuri 1414–1430 m. buvo perstatyta ir baigta Vytauto valdymo metu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -380,7 +378,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160533
 
 <a id="claim-t-176531"></a>
-- t-021
+- t-020
   teiginys: "Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -396,7 +394,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160534
 
 <a id="claim-t-176532"></a>
-- t-022
+- t-021
   teiginys: "Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -415,9 +413,9 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160520
 
 <a id="claim-t-184761"></a>
-- t-023
+- t-022
   teiginys: "Kojelavičius Kęstutį laikė didžiausios autoriaus pagarbos nusipelniusiu Lietuvos istorijos veikėju."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -434,7 +432,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-178750
 
 <a id="claim-t-184763"></a>
-- t-024
+- t-023
   teiginys: "Algirdas su broliu Kęstučiu skubiai aptarė žygūno atneštą reikalą ir slapta pasirengė karui."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -453,7 +451,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168124
 
 <a id="claim-t-184764"></a>
-- t-025
+- t-024
   teiginys: "Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -472,7 +470,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168125
 
 <a id="claim-t-184766"></a>
-- t-026
+- t-025
   teiginys: "Kęstutis paspruko iš kalėjimo ir su broliu Liubartu įvedė kariuomenę į karaliaus užimtas Rusios žemes."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -491,7 +489,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168127
 
 <a id="claim-t-184768"></a>
-- t-027
+- t-026
   teiginys: "Kęstutis rengė didesnį žygį prieš Prūsiją ir telkė Lietuvos, Žemaitijos, Rusios bei totorių pajėgas."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -510,7 +508,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168129
 
 <a id="claim-t-184769"></a>
-- t-028
+- t-027
   teiginys: "Sugrįžęs į Lietuvą, Kęstutis vedė vaidilutę Birutę, bet netrukus kryžiuočiai užpuolė Žemaitiją."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -529,7 +527,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168130
 
 <a id="claim-t-184770"></a>
-- t-029
+- t-028
   teiginys: "Kęstutis Žemaitijoje surinko kariuomenę, persikėlė per Nerį, susijungė su Vytautu ir pradėjo pulti Trakus."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -549,7 +547,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168131
 
 <a id="claim-t-184771"></a>
-- t-030
+- t-029
   teiginys: "Kęstutis žinojo, kad Jogailos kariuomenė pranoksta jo pajėgas ginkluote ir karių skaičiumi."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -568,7 +566,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168132
 
 <a id="claim-t-184772"></a>
-- t-031
+- t-030
   teiginys: "Kojelavičius rašo, kad Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, Vytautą įkalinti Vilniuje."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -588,7 +586,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168133
 
 <a id="claim-t-188574"></a>
-- t-032
+- t-031
   teiginys: "Narbutas rašė, kad Kęstutis su Birute turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą arba Žygimantą ir dukterį Danutę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -607,7 +605,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-171463
 
 <a id="claim-t-188575"></a>
-- t-033
+- t-032
   teiginys: "Narbutas rašė, kad Kęstutis, Gedimino ir Smolensko kunigaikštytės Olgos sūnus, gimė 1297 metais."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -628,7 +626,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-171464
 
 <a id="claim-t-188576"></a>
-- t-034
+- t-033
   teiginys: "Narbutas taisė Okolskį ir Strijkovskį, teigdamas, kad Naujuosius Trakus įkūrė Gediminas, o ne Kęstutis."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -651,7 +649,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-171465
 
 <a id="claim-t-193947"></a>
-- t-035
+- t-034
   teiginys: "O šiuos du sa vo sūnus paliko didžiaisiais kunigaikščiais: Jaunulį0 savo sostinėje Vilniuje ir Lietuvos Didžiojoje Kuni gaikštystėje, o Kęstutį1 0 Trakuose bei visoje Žemaičių žemėje."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -664,7 +662,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-176572
 
 <a id="claim-t-193948"></a>
-- t-036
+- t-035
   teiginys: "Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil niaus pilies, o kunigaikštis Algirdas negalėjo atvykti."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -677,7 +675,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-176573
 
 <a id="claim-t-193949"></a>
-- t-037
+- t-036
   teiginys: "Kęstutis taip pat davė žodį kunigaikščio Jogailos vardu ir savo vardu, ir [davėj savo ranką."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "auto"
@@ -690,7 +688,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-176574
 
 <a id="claim-t-193950"></a>
-- t-038
+- t-037
   teiginys: "1 0 Kęstutis — ketvirtas a r penktas Gedimino sūnus, gimęs apie 1300 m. Nuo kada pradėjo valdyti Trakus ir koks buvo pradinis jo dalies plotas — tikslesnių žinių nėra."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -702,7 +700,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-176575
 
 <a id="claim-t-194947"></a>
-- t-039
+- t-038
   teiginys: "Kęstutis vėliau taip pasižymėjo."
   atnaujinta: "2026-07-06 12:57"
   sprendimo_priezastis: "auto"
@@ -714,7 +712,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-177343
 
 <a id="claim-t-196530"></a>
-- t-040
+- t-039
   teiginys: "Didžiausios autoriaus pagarbos nusipelnė Kęstutis."
   atnaujinta: "2026-07-12 22:17"
   sprendimo_priezastis: "auto"
@@ -726,7 +724,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-178750
 
 <a id="claim-t-196532"></a>
-- t-041
+- t-040
   teiginys: "Kęstutis, Trakuose tvarkęs sąmokslą prieš Jaunutį, lapkričio 22 dieną slapta įvedė kariuomenę į Vilnių ir paryčiu užėmė abi pilis."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -739,7 +737,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-178751
 
 <a id="claim-t-196533"></a>
-- t-042
+- t-041
   teiginys: "Kojelavičius rašo, kad Algirdo broliai valdė Rusios žemes: Liubartas Lvovą, Kęstutis dideles žemes kitur Rusioje, Jurgis Narimantaitis Kremenecą."
   atnaujinta: "2026-07-13 01:28"
   sprendimo_priezastis: "auto"
@@ -752,7 +750,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168125
 
 <a id="claim-t-196535"></a>
-- t-043
+- t-042
   teiginys: "Kęstutis rengė didesnį žygį prieš Prūsiją su Lietuvos, Žemaitijos, Rusios ir pakviestais totorių pulkais."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -765,7 +763,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168129
 
 <a id="claim-t-196536"></a>
-- t-044
+- t-043
   teiginys: "Kojelavičius rašo, kad Kęstutis, grįžęs į Lietuvą ir vedęs vaidilutę Birutę, neilgai džiaugėsi ramiu gyvenimu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -778,7 +776,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168130
 
 <a id="claim-t-196537"></a>
-- t-045
+- t-044
   teiginys: "Kęstutis, sužinojęs apie Jogailos veiksmus Trakuose, skubiai grįžo į Žemaitiją, surinko kariuomenę ir susijungė su Vytautu."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -791,7 +789,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168131
 
 <a id="claim-t-196538"></a>
-- t-046
+- t-045
   teiginys: "Kojelavičius rašo, kad Kęstutis žinojo Jogailą vedantis didžiulę kariuomenę, kuriai jo pajėgos neprilygo nei ginkluote, nei karių skaičiumi."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -804,7 +802,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-168132
 
 <a id="claim-t-196848"></a>
-- t-047
+- t-046
   teiginys: "Lietuvos metraštyje Kęstutis vadinamas didžiuoju kunigaikščiu ir pasakojama, kad jis užėmė Vilnių, kai Algirdas nespėjo atvykti iš Vitebsko."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -817,7 +815,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-176572
 
 <a id="claim-t-196849"></a>
-- t-048
+- t-047
   teiginys: "Lietuvos metraštyje Kęstutis vadinamas didžiuoju kunigaikščiu ir vaizduojamas Vilniuje įsodinęs Algirdą į didžiojo kunigaikščio sostą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -830,7 +828,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-178942
 
 <a id="claim-t-196850"></a>
-- t-049
+- t-048
   teiginys: "Lietuvos metraštis vaizduoja Kęstutį skundžiantis Vytautui, kad Jogaila jį įskaudino ir esą sudarė sandėrį su vokiečiais prieš juos."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -843,7 +841,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-178943
 
 <a id="claim-t-196851"></a>
-- t-050
+- t-049
   teiginys: "Lietuvos metraštyje Vytautas per vieną dieną atskuba iš Gardino pas savo tėvą Kęstutį."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -856,7 +854,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-178944
 
 <a id="claim-t-197420"></a>
-- t-051
+- t-050
   teiginys: "Kęstutis visiškai atitiko Pergrubę."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -868,7 +866,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-179176
 
 <a id="claim-t-201008"></a>
-- t-052
+- t-051
   teiginys: "Kryžėjai, norėdami ta dimgsčia naudoti, nuleido siuntinius pas Kęstutį, tardami, jei jis persikrikštys, galės su kryžėjų talka brolį nuveikti ir vienas valdžioniu tapti."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -880,7 +878,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-184358
 
 <a id="claim-t-201009"></a>
-- t-053
+- t-052
   teiginys: "Lietuvių dešinuoju sparnu rykavo Algirdas, o kairiuoju Kęstutis."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -1021,7 +1019,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - id: c-00156
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 94."
   citata_originali: |
     Greta Algirdo, svarbiausią vaidmenį vaidino Kęstutis, nes
     jis valdė pavojingiausią ir priešo dažniausiai puolamą sritį. Jo
@@ -1039,7 +1038,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - id: c-04615
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 266."
   citata_originali: |
     Darydamas taiką su Vengrijos karaliumi Liudviku Anjou,
     Kęstutis žadėjo jam pagalbą ir sutiko pats su savo broliais ir
@@ -1056,7 +1056,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - id: c-21848
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 282."
   citata_originali: |
     Didysis kovotojas savo gyvenimą baigė ne kautynių lauke, o
     kalėjime sūnėno, kurio tėvui visą amžių buvo ištikimai talkinęs.
@@ -1075,7 +1076,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - id: c-160515
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 49."
   citata_originali: |
     Galingesni vasalai grasino suvaržyti didžiojo ku­
     nigaikščio valdžią, tad Jogailai kilo mintis visus tiesio­
@@ -1100,12 +1102,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-015
 
 - id: c-160516
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53-54"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53-54."
   citata_originali: |
     Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­
     gaila, esą pasirengęs taikytis. Sūnėnų tvirtas laidavimo žo­
@@ -1164,12 +1167,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-010
 
 - id: c-160517
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     Trakų pusiasalio pilis, XIV a. pab. XV a. pr.
     Manoma, kad pilį pastatė LDK Kęstutis iki 1377 m.
@@ -1184,7 +1188,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - id: c-160518
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 92."
   citata_originali: |
     Be to, jis buvo pačiam valstybės branduolio cen-
     tre. Todėl čia greit išaugo didelis miestas, kurs tapo amžinąja
@@ -1200,7 +1205,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - id: c-160519
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 112-113"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 112-113."
   citata_originali: |
     Tas pakvietė juos į Vilnių, kur abudu
     suėmė, nors kviesdamas Skirgaila buvo davęs žodį, kad jiems
@@ -1214,13 +1220,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-008
+    - t-007
 
 - id: c-160520
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 34-35"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 34-35."
   citata_originali: |
     Dail A. Penkowskis, 1838 m.
     Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti
@@ -1240,13 +1246,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-022
+    - t-017
+    - t-021
 
 - id: c-160521
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42."
   citata_originali: |
     Be to, dar nerimą kėlė Gedimino valia ra­
     dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
@@ -1265,12 +1272,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-012
 
 - id: c-160523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 54."
   citata_originali: |
     Tačiau, apsuptas išdavikų,
     buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­
@@ -1290,12 +1298,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-014
 
 - id: c-160524
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 102-103"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 102-103."
   citata_originali: |
     Žuvusiam maršalkai Schindekopui pamin-
     klinis kryžius buvo pastatytas tuojau po
@@ -1313,12 +1322,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-160525
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 232."
   citata_originali: |
     Prie Gedimino
     įpėdinių tik tas, kas valdė Vilnių, skaitėsi vyresniu už kitus, t. y.
@@ -1337,7 +1347,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - id: c-160527
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
   citata_originali: |
     1365 m. Kęstutis,
     Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
@@ -1352,12 +1363,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-011
 
 - id: c-160530
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 34."
   citata_originali: |
     « Lietuvos diecezijai » buvo lemta greitai žlugti,
     ypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai
@@ -1379,7 +1391,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - id: c-160531
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 332"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 332."
   citata_originali: |
     Taip kar­
     tojosi per 36 metus (1382-1418).
@@ -1393,12 +1406,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-018
 
 - id: c-160533
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     XV a. pr.
     Manoma, kad pilį pastatė LDK Kęstutis iki 1377 m.
@@ -1410,12 +1424,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-019
 
 - id: c-160534
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42."
   citata_originali: |
     Tik neilgai Lietuvos
     sostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­
@@ -1434,12 +1449,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-020
 
 - id: c-160535
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 67."
   citata_originali: |
     Trakų pilis, reikia many­
     ti, taip pat yra buvusi sena, galbūt
@@ -1467,12 +1483,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-013
 
 - id: c-160536
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 67."
   citata_originali: |
     Lietuvių kalboje
     iki šiol girdime žmonių vartojamą
@@ -1493,13 +1510,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-009
 
 - id: c-160537
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 115."
   citata_originali: |
     Pastarasis dalykas Lietuvai buvo labai svarbus, ir todėl
     jai krikštas buvo reikalingas ne tik dėl jo kilnumo ir kultūri­
@@ -1515,12 +1533,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-016
 
 - id: c-160538
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 129-130"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 129-130."
   citata_originali: |
     Buvo juk to­
     kia visuotinė pirmykščių krikščionių
@@ -1545,12 +1564,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-168122
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 26."
   citata_originali: |
     Krikščio­
     nis Daumantas padaręs piktadarystę, iš pavydo nužu­
@@ -1575,7 +1595,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - id: c-168124
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 221-222"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 221-222."
   citata_originali: |
     Atsakydamas Algirdas neužmiršo savi­
     tvardos, nenorėdamas ūmiu pykčio protrūkiu prarasti
@@ -1606,12 +1627,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-023
 
 - id: c-168125
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 229."
   citata_originali: |
     Tei­
     sėtas tų žemių paveldėtojas buvo Kazimieras, Lenkijos
@@ -1630,13 +1652,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
-    - t-042
+    - t-024
+    - t-041
 
 - id: c-168127
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 237."
   citata_originali: |
     Pastarąjį
     šaukė Bogdanu iš Ivanicos: gūdžią naktį įsėlinęs į len­
@@ -1661,12 +1684,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-025
 
 - id: c-168128
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 242."
   citata_originali: |
     Ne­
     ilgai leido lietuviai vokiečiams laisvai siautėti; veda­
@@ -1704,7 +1728,8 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - id: c-168129
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 250."
   citata_originali: |
     Norėdamas į šitai atsakyti kalaviju,
     o ne žodžiais, maršalas, magistro palieptas, tais pačiais
@@ -1731,13 +1756,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
-    - t-043
+    - t-026
+    - t-042
 
 - id: c-168130
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 251."
   citata_originali: |
     Užėmęs kovos lau­
     ką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­
@@ -1760,13 +1786,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
-    - t-044
+    - t-027
+    - t-043
 
 - id: c-168131
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268."
   citata_originali: |
     Vytautas, iš draugų apie
     viską sužinojęs, spėjo su pamote Birute pasitraukti į
@@ -1800,13 +1827,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
-    - t-045
+    - t-028
+    - t-044
 
 - id: c-168132
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 268-269"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268-269."
   citata_originali: |
     Mat tuo metu
     paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
@@ -1838,13 +1866,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
-    - t-046
+    - t-029
+    - t-045
 
 - id: c-168133
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 271."
   citata_originali: |
     leidosi į Vilnių, nes atsisakyti kelionės irgi buvo pa­
     vojinga; abi kariuomenės ramiai pasitraukė į stovyk­
@@ -1879,12 +1908,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-030
 
 - id: c-171463
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Birutė (Biruta)
     Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
@@ -1904,12 +1934,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-031
 
 - id: c-171464
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
   citata_originali: |
     Iš jos sūnūs: Manvydas
     (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
@@ -1925,12 +1956,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-032
 
 - id: c-171465
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
   citata_originali: |
     Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
     kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui
@@ -1946,12 +1978,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-033
 
 - id: c-176572
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 69."
   citata_originali: |
     nučio. Didysis kunigaikštis Algirdas nespėjo skirtu lai­
     ku 2 iš Vitebsko atvykti j Vilnių, o didysis kunigaikštis
@@ -1966,13 +1999,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
-    - t-047
+    - t-034
+    - t-046
 
 - id: c-176573
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 175."
   citata_originali: |
     Man tai buvo
     labai skaudu. Dėl to aš skundžiausi dažnai kunigaikš­
@@ -1988,12 +2022,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-035
 
 - id: c-176574
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 177."
   citata_originali: |
     Ir man pačiam
     jis taip pat davė žodį kunigaikščio Jogailos vardu ir
@@ -2008,12 +2043,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-036
 
 - id: c-176575
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 218."
   citata_originali: |
     1 0  Kęstutis — ketvirtas a r penktas Gedimino sūnus, gimęs apie
     1300 m. Nuo kada pradėjo valdyti Trakus ir koks buvo pradinis
@@ -2026,13 +2062,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-037
 
 - id: c-177343
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 276."
   citata_originali: |
     Taigi Kęstučio dvaras buvo vie­
     ta, kur daugiausia turėta žinių apie visus kaimynus. Netenka
@@ -2048,12 +2085,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-038
 
 - id: c-178750
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 25."
   citata_originali: |
     Didžiausios autoriaus
     pagarbos nusipelnė Kęstutis.
@@ -2070,13 +2108,14 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-040
+    - t-022
+    - t-039
 
 - id: c-178751
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 216."
   citata_originali: |
     Ilgą laiką šiaip ne
     taip tramdoma nesantaika pavirto tikru sąmokslu: Kęs­
@@ -2099,12 +2138,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-040
 
 - id: c-178942
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 69."
   citata_originali: |
     Ir didysis kunigaikštis Kęstutis tarė savo bro­
     liui, didžiajam kunigaikščiui Algirdui: ,,Tau dera būti
@@ -2121,12 +2161,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-048
+    - t-047
 
 - id: c-178943
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78."
   citata_originali: |
     Didysis kunigaikš­
     tis Jogaila buvo davęs Polocką savo broliui Skirgailai,
@@ -2145,12 +2186,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-049
+    - t-048
 
 - id: c-178944
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 78-79"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78-79."
   citata_originali: |
     Tas žygūnas suranda didįjį ku-
     SJ
@@ -2166,12 +2208,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-050
+    - t-049
 
 - id: c-179176
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
   citata_originali: |
     Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
     gėlių ir vaismedžių sodas.
@@ -2187,12 +2230,12 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-051
+    - t-050
 
 - id: c-184358
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 608"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 608."
   citata_originali: |
     Kryžėjai, norėdami ta dimgsčia
     naudoti, nuleido siuntinius pas Kęstutį, tardami,
@@ -2212,12 +2255,12 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-052
+    - t-051
 
 - id: c-184359
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 640"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 640."
   citata_originali: |
     Timpso-
     jo jau abi pusi rindose, o karėjai jau ilgėjos lauk­
@@ -2231,7 +2274,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-053
+    - t-052
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Birutė]]

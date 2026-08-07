@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-baa1a15e2bc98c831e24461a"
+canonical_name: "Žemutinė pilis Kreivoji pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žemutinė pilis Kreivoji pilis","Žemutinė pilis Kreivoji pilis (pilis)"]
+sameAs: []
+canonical_biography: "Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių rasta iš I tūkstantmečio vidurio. Seniausieji Žemutinės pilies įtvirtinimai tebebuvo neištirti, o jų pastatymo data nenustatyta. Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų."
+place_authority: true
+historical_names: []
 ---
 # Žemutinė pilis Kreivoji pilis (pilis)
 
@@ -155,7 +164,8 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
 - id: c-170267
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 92."
   citata_originali: |
     Ir dievas padėjo didžiajam kunigaikš­
     čiui Vytautui u, ir jis Lietuvos kariuomenę sumušė vi­
@@ -180,7 +190,8 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
 - id: c-170269
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 123."
   citata_originali: |
     Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
     nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,
@@ -205,7 +216,8 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
 - id: c-170271
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 123-124"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 123-124."
   citata_originali: |
     Kunigaikščio rūmų pastatai,
     kuriuose buvo ir iždas, ir arklidės, užėmė daugiausia vietos1;

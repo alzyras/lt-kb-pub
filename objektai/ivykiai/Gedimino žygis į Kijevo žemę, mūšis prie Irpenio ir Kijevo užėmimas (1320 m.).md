@@ -198,7 +198,8 @@ Nenurodyta
 - id: c-168854
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 199."
   citata_originali: |
     Iškilęs pavojus paskatino
     daugelį kunigaikščių, o ypač Seversko, griebtis ginklo:
@@ -245,7 +246,8 @@ Nenurodyta
 - id: c-168855
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 201-202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 201-202."
   citata_originali: |
     Nors rusai dar nebuvo
     2 03
@@ -279,7 +281,8 @@ Nenurodyta
 - id: c-168856
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Užėmęs Brianską
     ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
@@ -304,7 +307,8 @@ Nenurodyta
 - id: c-178557
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Nors kitados Boleslovas, nugalėjęs
     rusus, ir buvo užėmęs Kijevą bei privertęs kijeviečius

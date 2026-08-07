@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-26aa758dbc1fcdb5a5dbf6b9"
+canonical_name: "Sirutavičius V"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Sirutavičius V"]
+sameAs: []
+canonical_biography: "Laurinavičius Č., Sirutavičius V."
 ---
 # Sirutavičius V
 
@@ -50,7 +57,8 @@ Laurinavičius Č., Sirutavičius V.
 - id: c-22195
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Laurinavičius Č., Sirutavičius V. Sąjūdis: nuo „persitvarkymo“ iki Kovo
     11-osios, Lietuvos istorija.

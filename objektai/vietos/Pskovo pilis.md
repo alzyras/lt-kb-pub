@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-983e8c37b3454546c200c346"
+canonical_name: "Pskovo pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pskovo pilis","Pskovo pilis (pilis)"]
+sameAs: []
+canonical_biography: "Pačią Pskovo pilį jis apjuosė akmens mūrais, kurie ligi šiol tebevadinami « Daumanto sienomis »."
+place_authority: true
+historical_names: []
 ---
 # Pskovo pilis (pilis)
 
@@ -58,7 +67,8 @@ Pačią Pskovo pilį jis apjuosė akmens mūrais, kurie ligi šiol tebevadinami 
 - id: c-34016
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 205."
   citata_originali: |
     Per 35 metus rūpestin­
     gai tarnaudamas naujai tėvynei (Daumantas mirė 1299 m.), jis su­

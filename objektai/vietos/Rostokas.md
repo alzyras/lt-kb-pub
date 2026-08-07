@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d0ac7072345221d82156fdeb"
+canonical_name: "Rostokas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rostokas"]
+sameAs: []
+canonical_biography: "O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­ konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui, Greifswaldni, Stettinui ir Gotlando salai)."
+place_authority: true
+historical_names: []
 ---
 # Rostokas
 
@@ -91,7 +100,8 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 266."
   citata_originali: |
     Vytautas sutiko jas grąžinti tik ta sąlyga, jei magistras
     grąžins lietuvių prekes^4 ). Dėl to rygiečiai kėlė balsą Hanzos
@@ -110,7 +120,8 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 - id: c-158256
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 234."
   citata_originali: |
     Vienas tų
     laiškų (1323.1.24), skirtas «visai krikščionijai», buvo išsiuntinėtas
@@ -128,9 +139,9 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     - t-001
 
 - id: c-185009
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 358"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 358."
   citata_originali: |
     Rostoko universitete studijavo 4 kauniečiai:
     1577 m. Kristoforas Egertas (Eggerdius), 1576 m. buvęs Karaliaučiaus universiteto

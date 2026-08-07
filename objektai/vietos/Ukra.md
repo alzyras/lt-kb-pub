@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-465f811f0200a6743e9c7555"
+canonical_name: "Ukra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ukra"]
+sameAs: []
+canonical_biography: "Atėję prie Ukros upės kranto, sąjungininkai sustojo. Čia Vytautas ėmė tvarkyti savo kariuomenę: padalino vėliavomis, geriau ginkluotus ri­ terius pastatė kraštuose, silpniau ginkluotus pastatė vidury. Apie kariuomenės darytus persitvarkymus pirmutinis."
+place_authority: true
+historical_names: []
 ---
 # Ukra
 
@@ -52,7 +61,8 @@ Atėję prie Ukros upės kranto, sąjungininkai sustojo. Čia Vytautas ėmė tva
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 100."
   citata_originali: |
     Atėję prie Ukros
     upės kranto, sąjungininkai sustojo. Čia Vytautas ėmė tvarkyti

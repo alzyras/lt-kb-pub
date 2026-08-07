@@ -61,7 +61,8 @@ Lietuvos diplomatijos istorija (1925–1940).
 - id: c-21057
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Žalys V. Lietuvos diplomatijos istorija (1925–1940). I tomas. Vilnius, 2007.
   citata_rodoma: "Žalys V. Lietuvos diplomatijos istorija (1925–1940). I tomas. Vilnius, 2007."

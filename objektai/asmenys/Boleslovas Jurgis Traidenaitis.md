@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d67e50c90d4b2b770f7bfa1d"
+canonical_name: "Boleslovas Jurgis Traidenaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslovas Jurgis Traidenaitis"]
+sameAs: []
+canonical_biography: "pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­ mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­ nigaikščio."
 ---
 # Boleslovas Jurgis Traidenaitis
 
@@ -61,7 +68,8 @@ pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos s
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 294."
   citata_originali: |
     Tai ir buvo vienas iš faktorių, vertusių Lenkijos ponus
     savo karaliumi pasikviesti plačiosios Lietuvos valdovą Jo­

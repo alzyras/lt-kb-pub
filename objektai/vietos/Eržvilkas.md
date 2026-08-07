@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a94b1e8e128549ebd6495dbf"
+canonical_name: "Eržvilkas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Eržvilkas","iš Eržvilk. v."]
+sameAs: []
+canonical_biography: "Eržvilkas 1931 m. Tautosakos komisijos suvestinėje minimas kaip pateikėjo kilmės vieta."
+place_authority: true
+historical_names: []
 ---
 # Eržvilkas
 

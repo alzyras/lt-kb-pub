@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43b6aeaa4e861ef19f7500d4"
+canonical_name: "J. Šarauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Šarauskas"]
+sameAs: []
+canonical_biography: "Šarauskas mieste jau buvo suorganizavęs savąjį savanorių būrį. Šarauskas paskelbė apgulos padėtį ir uždraudė mieste rulių budėjimą mieste. Šarauskas į Paobelių kaimą pasiuntė patyrusius vyresniuosius karius V."
 ---
 # J. Šarauskas
 
@@ -67,7 +74,8 @@ media_all_json: |-
 - id: c-44369
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 173."
   citata_originali: |
     Tuo metu Kėdainių srities apsau-
     gos viršininkas J. Šarauskas mieste jau
@@ -90,7 +98,8 @@ media_all_json: |-
 - id: c-44370
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 174."
   citata_originali: |
     miestą, raudonarmiečiai nusprendė apeiti
     kimą keliu Kėdainiai-Kaunas ir nutraukti

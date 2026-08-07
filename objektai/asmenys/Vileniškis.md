@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4991ca7e75d6ef16bb0c4348"
+canonical_name: "Vileniškis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vileniškis"]
+sameAs: []
+canonical_biography: "Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais."
 ---
 # Vileniškis
 
@@ -71,7 +78,8 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
 - id: c-41472
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 204."
   citata_originali: |
     Priedangai buvo
     paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais. Jie dar kelias
@@ -88,7 +96,8 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
 - id: c-167154
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 204."
   citata_originali: |
     „Gedimino“ įgula atmušė dar kelias lenkų atakas, kovoms aprimus, traukinio vadas įsakė
     įgulai nuimti ginkluotę, ir palikus traukinio vagonus, trauktis pėsčiomis. Priedangai buvo

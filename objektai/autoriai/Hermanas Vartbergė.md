@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2d0970fc91867d33c5e6e758"
+canonical_name: "Hermanas Vartbergė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hermanas Vartbergė"]
+sameAs: []
+canonical_biography: "balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ apie 1236 m. Saulės mūšį ir jo pasekmes Kalavijuočių ordinui. “ LIETUVIAI PRIE RYGOS Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį. p. 48, „LYGIAGREČIOS KOVOS SU KRYŽIUOČIAIS, Latvis H., Vartbergė H., p. 192- 193."
 ---
 # Hermanas Vartbergė
 
@@ -64,7 +71,8 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
 - id: c-156016
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 25."
   citata_originali: |
     Lietuvoje karių
     kapuose rastos

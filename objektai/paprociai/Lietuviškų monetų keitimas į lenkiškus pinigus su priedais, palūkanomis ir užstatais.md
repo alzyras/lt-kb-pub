@@ -97,7 +97,8 @@ Nenurodyta
 - id: c-83116
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 459"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 459."
   citata_originali: |
     In Anno 1572 ad Diem 17 Aprilis
     [1572 metais iki balandžio 17 dienos]
@@ -123,7 +124,8 @@ Nenurodyta
 - id: c-83117
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 457"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 457."
   citata_originali: |
     Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lu-
     kove prie 20 lietuviškų kapų pridėjo 2 flor. 20 grašių. Slups-

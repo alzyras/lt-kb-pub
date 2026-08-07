@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ebf5790be3c26cf2b69a6510"
+canonical_name: "Giurgevo tvirtovė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Giurgevo tvirtovė"]
+sameAs: []
+canonical_biography: "Giurgevo tvirtovės vieta, Narbuto teigimu, rusų istorikams buvo nesutariamas klausimas. Narbutas rašė, kad Tatiščevas Giurgevo ieškojo kairiajame Dnepro krante, bet klaidingai ją sutapatino su pilaite prie Osteros žiočių. Narbutas Giurgevo ramovės pavadinimą kildino ne iš vardo Jurgis, o veikiausiai iš hirų genties vardo."
+place_authority: true
+historical_names: []
 ---
 # Giurgevo tvirtovė
 
@@ -107,7 +116,8 @@ Giurgevo tvirtovės vieta, Narbuto teigimu, rusų istorikams buvo nesutariamas k
 - id: c-175591
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Tačiau jis prieštarauja sau ir savo tiksliai
     išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­
@@ -132,7 +142,8 @@ Giurgevo tvirtovės vieta, Narbuto teigimu, rusų istorikams buvo nesutariamas k
 - id: c-175592
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Be to, tvirto­
     vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
@@ -155,7 +166,8 @@ Giurgevo tvirtovės vieta, Narbuto teigimu, rusų istorikams buvo nesutariamas k
 - id: c-175593
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 75."
   citata_originali: |
     Būtent
     prie šio žemupio, netoli žiočių, turėjo būti kažkokiais pil­

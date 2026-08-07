@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a7a29b512d649f908f6bf8e"
+canonical_name: "Žemaičių seniūnija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žemaičių seniūnija"]
+sameAs: []
+canonical_biography: "Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį Žemaičių ir « Lietuvos » (Aukštaičių) skiriamąja siena, kuris vėliau tapo ilgiems laikams administracine upe tarp Trakų vaivadijos ir Žemaičių seniūnijos, ilgai išsaugojusios savo politines."
+place_authority: true
+historical_names: []
 ---
 # Žemaičių seniūnija
 
@@ -59,7 +68,8 @@ Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį Žemaičių ir
 - id: c-34124
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 134."
   citata_originali: |
     Todėl pats
     Vytautas 1420 m. imperatoriui Zigmantni įrodinėjo, jog Žemaičiai

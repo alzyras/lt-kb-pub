@@ -73,11 +73,18 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 <a id="claim-t-60854"></a>
 - t-003
   teiginys: "Olivos kronikoje atitinkama vieta perteikta žodžiais „tradidit illis“, reiškiančiais „jiems perdavė“."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Oliva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Olivos kronika: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Oliva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Olivos kronika\" parinktas kaip owner_note_path. Targetas \"Oliva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-61485
+    - c-61493
 
 <a id="claim-t-60855"></a>
 - t-004
@@ -185,7 +192,8 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 - id: c-61484
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 76."
   citata_originali: |
     240  Dusburgietis aprašo ne vien tik Reisių (Riseno) valsčiaus, bet visos Pamedės
     niokojimą. Apie tai aiškiau Senojoje Olivos kronikoje (SRP, 1, p. 678).
@@ -200,7 +208,8 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 - id: c-61485
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
   citata_originali: |
     Pamario bei Ordino valstybės analistiką, be kitų
     to meto šaltinių analizavo ir Dusburgiečio kroniką91. Polemizuodamas su kai kuriomis M.
@@ -218,13 +227,13 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-008
 
 - id: c-61486
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     249 D.— viri, didi Gobotini, Jer.— dî Gobotinin. Senesnėje Olivos kronikoje: generatio
     [...] Bogatini (SRP, 1, p. 680).
@@ -239,7 +248,8 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 - id: c-61487
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 108."
   citata_originali: |
     Pilėnai, gyvenę kitose trijose
     332 D.— Wohenstorph, Jer.— Wûnsdorf; Olivos kronikoje — Wonsdorff (SRP, 5, p.
@@ -256,7 +266,8 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 - id: c-61488
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107."
   citata_originali: |
     330 D.— Tirsko (III, 175), Jer — Tirske, Dirske; Olivos kronika— Kirske (SRP, 5, p.
     602), Kirsko (SRP, 1, p. 685). Tirška (Salys A.).
@@ -271,7 +282,8 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 - id: c-61490
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
   citata_originali: |
     Apie Kulmo miesto perkėlimą
     299 D.— Cristburgk, Jer.— Crislburc. Olivos kronikoje — Kirsburg (SRP, 5, p. 600),
@@ -288,7 +300,8 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 - id: c-61491
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
   citata_originali: |
     280 Kautynės įvyko 1243 (1242?) m. birželio 15 d. Senojoje Olivos kronikoje (joje
     įrašyti originalūs Olivos papildymai bei Pamedės tradicija — PKD, p. 100—101) aiškiai
@@ -309,7 +322,8 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 - id: c-61492
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
   citata_originali: |
     279 D.— Rensen, Jer.— Rensin; Torunės analai: circa aquam, quc dicitur Rens,
     circa Grudentz (SRP, 3, 59); Olivos kronikoje: ad lacum qui dicitur Rensin (SRP, 1,
@@ -327,13 +341,15 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 - id: c-61493
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     167 D.— edificavit; Olivos kronika — tradidit illis (SRP, 1, p. 676) — jiems perdavė.
   citata_rodoma: "167 D.— edificavit; Olivos kronika — tradidit illis (SRP, 1, p. 676) — jiems perdavė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

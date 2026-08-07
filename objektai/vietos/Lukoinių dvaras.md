@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-632cc536cacfbec8e4ab2fef"
+canonical_name: "Lukoinių dvaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lukoinių dvaras"]
+sameAs: []
+canonical_biography: "Netoli Lukoinių dvaro Kauno apskrityje buvo atkastas stiklinis tuščiaviduris rutuliukas greta sidabro grandine apjuosto skeleto."
+place_authority: true
+historical_names: []
 ---
 # Lukoinių dvaras
 
@@ -54,7 +63,8 @@ Netoli Lukoinių dvaro Kauno apskrityje buvo atkastas stiklinis tuščiaviduris 
 - id: c-171907
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
   citata_originali: |
     Didesnę dalį jis atidavė
     Lvovo Osolinskių bibliotekai, taip pat ponams Žageliui ir Potockiui*.

@@ -83,7 +83,8 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
 - id: c-33620
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 56."
   citata_originali: |
     Pradėjus leisti originalius tekstus buvo galima sistemingiau
     tirti savo krašto praeitį. Plačiai užgriebdamas ir Lietuvos istoriją,
@@ -104,7 +105,8 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
 - id: c-174808
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
   citata_originali: |
     Septynių miestų žemėje*, pa­
     skutiniame amžiuje prieš krikščioniškosios eros pradžią.

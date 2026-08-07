@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e05ec136b4e2d2ac56b1fca6"
+canonical_name: "Aleksandras Makedonietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Makedonietis"]
+sameAs: []
+canonical_biography: "Aleksandro Makedoniečio užkariavimai lėmė politines permainas Azijoje, po kurių Tyras pradėjo priklausyti svetimtaučiams."
 ---
 # Aleksandras Makedonietis
 

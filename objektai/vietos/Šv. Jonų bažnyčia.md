@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-efa6098de301bada153cf8da"
+canonical_name: "Šv. Jonų bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Jonų bažnyčia"]
+sameAs: []
+canonical_biography: "Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pritaikytos uždarytos bažnyčios: Šv."
+place_authority: true
+historical_names: []
 ---
 # Šv. Jonų bažnyčia
 
@@ -32,7 +41,8 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 - id: c-24636
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
   citata_originali: |
     Už-
     darytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pri-

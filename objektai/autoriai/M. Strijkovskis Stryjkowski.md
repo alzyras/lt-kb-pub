@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-048fe528819bcfddd48acd73"
+canonical_name: "M. Strijkovskis Stryjkowski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Strijkovskis Stryjkowski"]
+sameAs: []
+canonical_biography: "7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn. Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk. 31 Strijkovskis, 1.465, o juo sekda­ mas ir K o j e 1 a v i č i u s, p. 361, plačiai aprašo, kokių gudrybių tą­ kart ėmėsi Kęstutis, puldamas Vilnių."
 ---
 # M. Strijkovskis Stryjkowski
 
@@ -324,7 +331,8 @@ media_all_json: |-
 - id: c-157271
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 137-138"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 137-138."
   citata_originali: |
     27
     Stryjkowski,ed. Królewiec, 1.487
@@ -360,7 +368,8 @@ media_all_json: |-
 - id: c-157272
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 125."
   citata_originali: |
     Strijkovskis klysta tvir­
     tindamas, esą miškas lietuviškai va­
@@ -386,7 +395,8 @@ media_all_json: |-
 - id: c-157273
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 133."
   citata_originali: |
     Vytautas, žlugus viltims, vėl buvo priverstas ieškoti
     19
@@ -424,7 +434,8 @@ media_all_json: |-
 - id: c-157274
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 136."
   citata_originali: |
     Prancūzams ir kitiems kariams vadovavo narsusis
     riteris Boucicaut24. Prie Kauno su jais susijungė, be Žemai-
@@ -454,7 +465,8 @@ media_all_json: |-
 - id: c-157275
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 154."
   citata_originali: |
     Vienas tik Sudimantas, lietuvių vadas, sučiuptas per
     puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­
@@ -487,7 +499,8 @@ media_all_json: |-
 - id: c-157276
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135."
   citata_originali: |
     Dabartinis
     iš tiesų visiškai skiriasi nuo pirmes-
@@ -530,7 +543,8 @@ media_all_json: |-
 - id: c-157277
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 144."
   citata_originali: |
     35
     Stryjkowski loco cit., plačiai
@@ -581,7 +595,8 @@ media_all_json: |-
 - id: c-157278
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 68."
   citata_originali: |
     Nuo neat­
     menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­
@@ -603,7 +618,8 @@ media_all_json: |-
 - id: c-157279
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 45."
   citata_originali: |
     20
     G r z y b o w s k i, Sk. XI, 1. 90. Anot
@@ -622,7 +638,8 @@ media_all_json: |-
 - id: c-157280
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 125."
   citata_originali: |
     Jono bažnyčia, o Ant­
     akalnyje, kaip tik ten, kur dabar Šv. Petro bažnyčia, buvo iš­
@@ -644,7 +661,8 @@ media_all_json: |-
 - id: c-157281
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 205-206"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 205-206."
   citata_originali: |
     Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
     tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
@@ -674,7 +692,8 @@ media_all_json: |-
 - id: c-157282
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 119."
   citata_originali: |
     Gedimi­
     nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno
@@ -698,7 +717,8 @@ media_all_json: |-
 - id: c-157284
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 143."
   citata_originali: |
     Šitaip Kryžiuočių ordino kruvina politika
     34
@@ -737,7 +757,8 @@ media_all_json: |-
 - id: c-157285
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 129."
   citata_originali: |
     Tuo
     pačiu aktu Vilniaus vyskupas savo
@@ -766,7 +787,8 @@ media_all_json: |-
 - id: c-157286
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 34."
   citata_originali: |
     7
     Šventaragio vardo kilmę aiškina
@@ -787,7 +809,8 @@ media_all_json: |-
 - id: c-157287
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64-66"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64-66."
   citata_originali: |
     48
 
@@ -845,7 +868,8 @@ media_all_json: |-
 - id: c-157288
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 51."
   citata_originali: |
     Strijkovskis ir Koje-
     1  a v i č i u s supainiojo Andrių, Al­

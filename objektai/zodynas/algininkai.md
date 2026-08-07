@@ -46,7 +46,6 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
   ryšio_targeto_parinkimas: "Minskas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citatoje Maskvėnų pulkai kartu su Glinskiu tiesiogiai įvardyti kaip puolę Minską."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Maskvėnai puolė Minskas (0.86)"
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-168725
@@ -102,7 +101,8 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
 - id: c-168725
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 601"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 601."
   citata_originali: |
     Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­
     puolė Minską, bet visos jo pastangos nuėjo perniek,
@@ -130,7 +130,8 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
 - id: c-168726
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 616"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 616."
   citata_originali: |
     Kai iš visur suplaukę žmonės
     įniko lėbauti ir siautėti, džiaugdamiesi dvigubomis iš­

@@ -112,7 +112,8 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
 - id: c-78536
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 59-60"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 59-60."
   citata_originali: |
     Didžiųjų bei dalinių kunigaikščių Riuriko ainių, kilmės
     a
@@ -141,7 +142,8 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
 - id: c-78538
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 62."
   citata_originali: |
     Nors Voskresensko
     Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip
@@ -169,7 +171,8 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
 - id: c-78539
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 47."
   citata_originali: |
     Mėlynųjų Vandenų įvykių pagrindi-
     niai šaltiniai: žinios xv a. pirmosios pusės
@@ -195,7 +198,8 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
 - id: c-176814
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 62."
   citata_originali: |
     Ar ga­
     lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką

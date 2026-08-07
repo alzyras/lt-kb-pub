@@ -59,7 +59,8 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
 - id: c-33703
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 127."
   citata_originali: |
     Čia tačiau iškyla neaiškumas,
     ar « Lettowia » Čia tereiškia kokią sritį, kur buvo Mindaugo pilis,

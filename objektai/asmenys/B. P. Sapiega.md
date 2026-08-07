@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-233cc985df961e5e975bb4cd"
+canonical_name: "B. P. Sapiega"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["B. P. Sapiega"]
+sameAs: []
+canonical_biography: "Sapiega ir maršalas A."
 ---
 # B. P. Sapiega
 
@@ -50,7 +57,8 @@ Sapiega ir maršalas A.
 - id: c-44302
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 140."
   citata_originali: |
     Užnugaryje buvę Sapiegas rėmę
     bajorų pašauktiniai pasitraukė iš

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-07ec03e520e4705cf2793fb2"
+canonical_name: "Henne"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Henne"]
+sameAs: []
+canonical_biography: "Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ). Jau minėtas vokietis Henne rašė Ordino ma gistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu."
 ---
 # Henne
 
@@ -66,7 +73,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 157."
   citata_originali: |
     Pasidavusieji
     mokėjo Vytautui duoklę.
@@ -88,7 +96,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 160."
   citata_originali: |
     Ir tikrai, kada Gilbert de Lannoy, Ang­
     lijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą),

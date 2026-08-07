@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-51f5336d774e2bc3315c1b74"
+canonical_name: "Olafas Dalinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Olafas Dalinas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kristaus gimimo Baltijos jūra nuseko 13 sieksnių."
 ---
 # Olafas Dalinas
 
@@ -75,7 +82,8 @@ Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kr
 - id: c-174389
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Iš tikrųjų kai ku­
     rias sausumas galima laikyti buvusiomis salomis po to,

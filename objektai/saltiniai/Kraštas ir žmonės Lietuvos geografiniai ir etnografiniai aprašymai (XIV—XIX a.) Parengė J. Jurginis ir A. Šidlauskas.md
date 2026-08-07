@@ -73,7 +73,8 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
 - id: c-61738
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
   citata_originali: |
     97—114.
     Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /

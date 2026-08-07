@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6729b9dfdecb2b8f9584c5fb"
+canonical_name: "Prūsijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Prūsijus"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi (II a."
 ---
 # Prūsijus
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas 
 - id: c-61052
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 55."
   citata_originali: |
     Problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi
     (II a. pr. m. e.) Prūsijumi (Długossii J. Annales..., kn. II, p. 216); kitur Prūsijos pradžia

@@ -69,7 +69,8 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
 - id: c-24679
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 251."
   citata_originali: |
     Norėta sovietinės ekonomikos pagrindais pasiekti
     Vakarų Europos ekonomikos lygį, bet realybė pasirodė kitokia. Griuvus
@@ -93,7 +94,8 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
 - id: c-24680
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 253."
   citata_originali: |
     dauguma sovietmečiu įkurtų ūkių gyventojų tiesiog išsidalijo jų turtą ir
     pradėjo savarankiškai ūkininkauti. Paaiškėjus, kad dauguma buvusių ko-

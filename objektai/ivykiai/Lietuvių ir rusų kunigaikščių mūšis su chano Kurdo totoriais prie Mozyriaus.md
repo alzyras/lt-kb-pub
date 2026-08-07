@@ -118,7 +118,8 @@ Nenurodyta
 - id: c-169928
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 198."
   citata_originali: |
     Tuo vardu, matyt, buvo
     vadinamas kuris nors Pripetės žemupio Intakas.

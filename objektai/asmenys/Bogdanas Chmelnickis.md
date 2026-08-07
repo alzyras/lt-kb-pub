@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6504ce43ca26bd17eca1a7fa"
+canonical_name: "Bogdanas Chmelnickis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bogdanas Chmelnickis"]
+sameAs: []
+canonical_biography: "1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę. Kojelavičius Bogdano Chmelnickio vadovautą ukrainiečių sukilimą vadino Rusios baudžiauninkų sukilimu."
 ---
 # Bogdanas Chmelnickis
 
@@ -83,7 +90,8 @@ media_all_json: |-
 - id: c-169460
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 30."
   citata_originali: |
     Iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio­
     navo Ukrainos prijungimą prie Lenkijos, pripažino ka­
@@ -110,7 +118,8 @@ media_all_json: |-
 - id: c-169461
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 758"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 758."
   citata_originali: |
     Iš to aiškėja,
     kad pagonybės jis nelaikė vieninga, kokios nors dvasininkų hierar­

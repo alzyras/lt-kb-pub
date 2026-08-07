@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-60c8e4bb4cd96fd1311bdaeb"
+canonical_name: "Jeronimas Prahiškis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jeronimas Prahiškis"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę parsinešė Viklifo raštus. Jeronimas Prahiškis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakanka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažnyčioje. Čia Jeronimas ilgai mokė žmones, aiškino jiems šventąsias tikėjimo paslaptis, o mišką liepė iškirsti."
 ---
 # Jeronimas Prahiškis
 
@@ -90,7 +97,8 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
 - id: c-173205
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 399."
   citata_originali: |
     Tie­
     sa, aukštasis dvasininkas gėdingai nužudė lordą, bet įpūtė po
@@ -115,7 +123,8 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
 - id: c-177058
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 399."
   citata_originali: |
     Tenai nors tarėsi su Husu, sa­
     vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
@@ -150,7 +159,8 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
 - id: c-179114
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 454"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 454."
   citata_originali: |
     Paskui aptiko šventąjį mišką; kuris jo medis buvo didesnis, tas
     buvo laikomas labiau garbintinas. Čia Jeronimas ilgai mokė

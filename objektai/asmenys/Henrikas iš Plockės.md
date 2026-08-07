@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0824540e39e301aa225f28d0"
+canonical_name: "Henrikas iš Plockės"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas iš Plockės"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir. Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du. Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje."
 ---
 # Henrikas iš Plockės
 
@@ -79,15 +86,21 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 <a id="claim-t-59866"></a>
 - t-003
   teiginys: "1316 m. žiemą Henrikas iš Plockės su daugybe raitelių įsiveržė į Paštuvos valsčių ir jį nusiaubė."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas iš Plockės\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1316 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą žygį ir jo rezultatą."
   pagrindžia:
-    - c-60500
-    - c-60502
+    - c-60496
 
 <a id="claim-t-59867"></a>
 - t-004
@@ -112,14 +125,22 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 <a id="claim-t-59868"></a>
 - t-005
   teiginys: "1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Medininkai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas iš Plockės: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Henrikas su kariuomene patraukė į Medininkų valsčių ir jį nusiaubė."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas iš Plockės puolė Medininkai (0.88)"
   temporaliniai_duomenys: "įvykio data: 1316 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinis teiginys išvardija šalutinius asmenis, o citata palaiko glaustesnį faktą apie veiksmą."
   pagrindžia:
-    - c-60500
+    - c-60497
 
 <a id="claim-t-59869"></a>
 - t-006
@@ -164,7 +185,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 <a id="claim-t-197096"></a>
 - t-008
   teiginys: "Dusburgietis teigia, kad henrikas iš Plockės atsiduso, pakėlė akis į dangų ir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą, pavedė save dievo bei švenčiausiosios mergelės globai ir tuo pat keliu, kuriuo buvo atvykęs, patraukė į Ragainę."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -237,7 +258,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - id: c-60496
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Apie Paštuvos valsčiaus nusiaubimą
 
@@ -252,14 +274,17 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   citata_rodoma: "Apie Paštuvos valsčiaus nusiaubimą\n\n  1316 viešpaties metais, žiemą, brolis Henrikas, maršalas, su daugybe raitelių netikėtai\nįsiveržė  į Paštuvos valsčių ir jį nusiaubė, degindamas bei plėšdamas, o penkis šimtus\nžmonių paėmė į nelaisvę ar nukovė.\n\n\n\n\n           327 (320)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-60497
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais
 
@@ -271,14 +296,17 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   citata_rodoma: "Apie Medininkų valsčiaus apiplėšimą 1316 metais\n\n  Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių\niš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš\nElnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,\nį Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į\nnelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-60498
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 214."
   citata_originali: |
     Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
                                     kariuomenę
@@ -301,7 +329,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - id: c-60499
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     321 (314). Dar apie tą patį
     Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
@@ -324,7 +353,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - id: c-60500
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 215."
   citata_originali: |
     338 (331). Apie maršalo, 29 brolių ir daugybės sembų žūtį
     1320 viešpaties metų liepos 27 dieną, tai yra trečią dieną po švento Jokūbo, apaštalo,
@@ -342,14 +372,13 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-004
-    - t-005
 
 - id: c-60501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
   citata_originali: |
     1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
     brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
@@ -370,7 +399,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - id: c-60502
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
   citata_originali: |
     Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
     visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,
@@ -385,7 +415,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
     - t-008
 
 ## Ryšiai

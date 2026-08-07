@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5e71efca86b590581d3a4832"
+canonical_name: "Aloyzas Sakalas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aloyzas Sakalas"]
+sameAs: []
+canonical_biography: "Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-AS vadovai: centre – Tarybos pirmininkas Vytautas Landsbergis, kairėje – jo pavaduotojai – Kazimieras Motieka ir Bronislovas Kuzmickas, dešinėje – pirmininko pavaduotojas Česlovas."
 ---
 # Aloyzas Sakalas
 
@@ -40,7 +47,8 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
 - id: c-21577
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 241."
   citata_originali: |
     Tapo aišku, kad Lietuva pasuko nauju keliu,
     komunistų partija neteko vienvaldystės, o dauguma žmonių yra aiškiai

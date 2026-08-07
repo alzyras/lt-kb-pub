@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c212ac6755e9e9e9adbb3bcc"
+canonical_name: "Steinavas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Steinavas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Dusburgietis teigia, kad tuo tarpu Steinavas nuvyko pas Karaliaučiaus komtūrą ir išdavė šią paslaptį, patardamas šiam traukti su savo kariuomene drauge su juo."
 ---
 # Steinavas
 
@@ -81,7 +88,8 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
 - id: c-60840
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
   citata_originali: |
     Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
 
@@ -99,7 +107,8 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
 - id: c-167513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 133-134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133-134."
   citata_originali: |
     Aismarių šiauriniame krante, per 5 km į vakarus nuo
 

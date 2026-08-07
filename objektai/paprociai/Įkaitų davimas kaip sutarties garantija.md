@@ -112,11 +112,18 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 <a id="claim-t-67239"></a>
 - t-004
   teiginys: "Unzatrapio, Gundavos ir Angetetos pilių žmonės atsiuntė įkaitų ir pasidavė krikščionių tikėjimui bei broliams."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Angeteta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Įkaitų davimas kaip sutarties garantija (sutartis): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Angeteta: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Įkaitų davimas kaip sutarties garantija (sutartis)\" parinktas kaip owner_note_path. Targetas \"Angeteta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-67235
+    - c-67232
 
 <a id="claim-t-67241"></a>
 - t-005
@@ -169,7 +176,8 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 45."
   citata_originali: |
     Šiame žygyje žemaičiai pakei­
     tė savo nusistatymą su Vokiečių Ordinu: atsitraukdami nuo
@@ -188,7 +196,8 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 50."
   citata_originali: |
     Po visų tų iškilmių įvyko dar vienas faktas. Būtent, lenkai
     pareikalavo Vytauto, Skirgailos ir kitų kunigaikščių įkaitais,
@@ -206,7 +215,8 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 64."
   citata_originali: |
     Neabejotina, kad Vytautas būtų tai
     padaręs, jei iš tikrųjų jo vaikai būtų buvę nužudyti. Gi 1390
@@ -225,7 +235,8 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 78."
   citata_originali: |
     Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
     Magistras patiekė tokius reikalavimus Vytautui: 1) Lietuva
@@ -245,7 +256,8 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 - id: c-67232
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 109."
   citata_originali: |
     pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja
     už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir
@@ -258,14 +270,17 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   citata_rodoma: "pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja\nuž brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir\nnuolankiai pasidavė krikščionių tikėjimui ir broliams.\n\n\n\n\n               76 (75). Apie vienos Notangos dalies nuniokojimą"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-67233
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
   citata_originali: |
     kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
     Paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
@@ -285,7 +300,8 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 - id: c-67235
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
   citata_originali: |
     Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau
     priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais,
@@ -298,5 +314,4 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-005

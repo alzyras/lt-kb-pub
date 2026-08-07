@@ -38,6 +38,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f8700d3fa243af737535c3dc"
+canonical_name: "Vilniaus katedra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus katedra"]
+sameAs: []
+canonical_biography: "Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas katedros rūsyje, po šv. Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą; bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas. Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo 1610 m. gaisro."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus katedra
 
@@ -499,7 +508,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-24572
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 160."
   citata_originali: |
     Vytauto kapas. Didžiojo valdovo lavonas buvo laikomas 8 die-
     nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
@@ -516,7 +526,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-24573
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 160."
   citata_originali: |
     Mykolo Arkangelo altorium. 1530 m. ka-
     tedrai sudegus, altorius žuvo. Tada Zigmanto Augusto motina, ka-
@@ -534,7 +545,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-24574
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 162."
   citata_originali: |
     Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo
     1610 m. gaisro. Tik 1853 m. grafas E. Tiškevičius toje vietoje, kur
@@ -552,7 +564,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-24575
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 82."
   citata_originali: |
     Susiformavo barokinis kraštovaizdis, kuriam bū-
     dinga bažnyčios, vienuolynai, kalvarijos, koplyčios, koplytstulpiai, kryžiai –
@@ -574,7 +587,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 118."
   citata_originali: |
     Be esančių jau Vilniuje nuo seniau šv.
     Mikalojaus, šv. Petro ir šv. Panelės bažnyčių, dabar buvo padė­
@@ -592,7 +606,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 119."
   citata_originali: |
     Kadangi katedra jau buvo užbaigta statyti, tai sugrįžus
     pasiuntiniams, pirmiausia ji buvo ir pašventinta, suteikiant jai
@@ -609,7 +624,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 119."
   citata_originali: |
     Stanislovas —
     lenkų tautos šventasis) ir trečias priminė Jogailą Vladislovą,
@@ -628,7 +644,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-102046
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 286-287"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 286-287."
   citata_originali: |
     Kai kurias
     Žygimantų bibliotekos knygas dar
@@ -658,7 +675,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-102048
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 288-289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 288-289."
   citata_originali: |
     Tačiau jaunasis karalius nejau­
     tė tokios netekties, kokios buvo vertos iš tiesų retos Elžbie­
@@ -690,7 +708,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-102049
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156."
   citata_originali: |
     O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
     Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis
@@ -716,7 +735,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-102050
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 300."
   citata_originali: |
     Apie tai sužinojęs Vilniaus vysku­
     pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­
@@ -739,7 +759,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-102051
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 291-292"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291-292."
   citata_originali: |
     — • —
     275
@@ -765,7 +786,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-102052
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 133."
   citata_originali: |
     Ne­
     paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­
@@ -789,7 +811,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-102056
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 282."
   citata_originali: |
     287.
     12
@@ -810,7 +833,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-102057
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 184-185"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 184-185."
   citata_originali: |
     Lietuvos
     istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­
@@ -852,7 +876,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-102058
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 292"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 292."
   citata_originali: |
     Italai, čia nuolat dirbdami šešerius metus,
     iš brangaus marmuro pastatė du puikius antkapius kara­
@@ -874,7 +899,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-167260
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 133."
   citata_originali: |
     Rogėse pasislėpusiems žmonėms pavyko patekti į
     pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­
@@ -898,7 +924,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - id: c-171747
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
   citata_originali: |
     Gyvatė (Giwojte)
     Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos

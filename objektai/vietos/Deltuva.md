@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-205ea1bae884012d4fa098e0"
+canonical_name: "Deltuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Deltuva"]
+sameAs: []
+canonical_biography: "Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų ."
+place_authority: true
+historical_names: []
 ---
 # Deltuva
 
@@ -78,7 +87,8 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
 - id: c-111138
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 204."
   citata_originali: |
     Tada Vaišvilkas traukė prieš pagrindinius
     priešus. Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų
@@ -98,7 +108,8 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
 - id: c-171573
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 222."
   citata_originali: |
     Apie tai dar bus mūsų is­
     torijos tęsinyje.

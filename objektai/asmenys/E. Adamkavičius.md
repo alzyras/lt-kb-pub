@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6d70cd82361aed4263e0d4db"
+canonical_name: "E. Adamkavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["E. Adamkavičius"]
+sameAs: []
+canonical_biography: "Adamkavičiaus vadovaujamas Kauno batalionas."
 ---
 # E. Adamkavičius
 
@@ -51,7 +58,8 @@ Adamkavičiaus vadovaujamas Kauno batalionas.
 - id: c-44321
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 195."
   citata_originali: |
     Itn. J. Butkaus
     vadovaujamas Marijampolės

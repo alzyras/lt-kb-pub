@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8194939c11349e11b7e0e624"
+canonical_name: "Fransua Miteranas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fransua Miteranas"]
+sameAs: []
+canonical_biography: "Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą."
 ---
 # Fransua Miteranas
 
@@ -71,7 +78,8 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
 - id: c-25067
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 250."
   citata_originali: |
     Seimo rinkimų, kuriuose nė vienai partijai nepavyko pasiekti
     įtikinamos pergalės, todėl atėjo nauja koalicinių vyriausybių era.
@@ -92,7 +100,8 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
 - id: c-176290
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 250."
   citata_originali: |
     Planinės
     ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus

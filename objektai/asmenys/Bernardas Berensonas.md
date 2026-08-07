@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-102ad8bc6909ff4c7d31ac17"
+canonical_name: "Bernardas Berensonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bernardas Berensonas"]
+sameAs: []
+canonical_biography: "nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berensonas (Bernhard Valvrojenski, g."
 ---
 # Bernardas Berensonas
 
@@ -76,7 +83,8 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
 - id: c-95117
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265."
   citata_originali: |
     Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
     tauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad

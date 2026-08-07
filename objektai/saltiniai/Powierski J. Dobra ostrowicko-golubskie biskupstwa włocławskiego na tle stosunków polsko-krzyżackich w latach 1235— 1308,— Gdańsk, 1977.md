@@ -54,7 +54,8 @@ Dusburgietis teigia, kad powierski J.
 - id: c-61871
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków
     polsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977.

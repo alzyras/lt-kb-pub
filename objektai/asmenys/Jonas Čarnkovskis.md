@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c562ffcb1b72172b99509efb"
+canonical_name: "Jonas Čarnkovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Čarnkovskis"]
+sameAs: []
+canonical_biography: "Jonas Čarnkovskis nepatvirtintas jokia priesaika."
 ---
 # Jonas Čarnkovskis
 
@@ -46,7 +53,8 @@ Jonas Čarnkovskis nepatvirtintas jokia priesaika.
 - id: c-169579
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 422"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 422."
   citata_originali: |
     Į tai Vytautas
     tarė: ,,Su dėkingumu priimu

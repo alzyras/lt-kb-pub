@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-175291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
   citata_originali: |
     Pirkliavę Danijoje rusai
     guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­

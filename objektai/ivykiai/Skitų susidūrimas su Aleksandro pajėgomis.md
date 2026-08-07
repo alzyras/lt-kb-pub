@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-173956
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 58."
   citata_originali: |
     Jiems giminin­
     gi trakai taip pat IV amžiuje prieš Kristaus giminių

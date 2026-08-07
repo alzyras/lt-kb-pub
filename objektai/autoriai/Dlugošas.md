@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88d7cfae2b3f3effafc01c98"
+canonical_name: "Dlugošas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dlugošas"]
+sameAs: []
+canonical_biography: "Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir norėję savo Jadvygą išleisti už Jogailos, didžiojo Lietuvos kunigaikščio, bet jų tarpe radosi ir tokių, kurių akys buvo nu kreiptos į Vytautą, kaip į „gudresnį“."
 ---
 # Dlugošas
 
@@ -47,7 +54,8 @@ Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 166."
   citata_originali: |
     To­
     dėl ir nenuostabu, kad jis, kiek tai teisinga, yra parėmęs norus

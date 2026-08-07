@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-159cd7a782c9bac070d9a68c"
+canonical_name: "Steponas (Vengrijos valdovas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Steponas (Vengrijos valdovas)"]
+sameAs: []
+canonical_biography: "Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988), kankinyste pasibaigusi šv. Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu."
 ---
 # Steponas (Vengrijos valdovas)
 
@@ -62,7 +69,8 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 - id: c-22007
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 26."
   citata_originali: |
     Paminėkime tokią grandinę: Lenkijos valdovo
     Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988),
@@ -81,7 +89,8 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 - id: c-22008
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     G. Camblako ekume-
     ninės mišios Konstanco katedroje amžininkams paliko tokį įspūdį, kad
@@ -105,7 +114,8 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 - id: c-166965
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lie-
     tuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju

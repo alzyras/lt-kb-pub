@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e15502d60967d80e3e769ead"
+canonical_name: "M. Sleževičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. Sleževičius"]
+sameAs: []
+canonical_biography: "M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius. Šio antrojo kabineto pirmininku buvo M. Sleževičius. Kabinetas tuojau paskelbė visų piliečių šaukimą į savanorių pulkus ginti nepriklausomybės. Valstybės prezidentu buvo išrinktas d r. Kazys Grinius, o ministerių pirmininku buvo paskirtas valstiečių liaudininkų lyderis M. Sleževičius."
 ---
 # M. Sleževičius
 
@@ -63,7 +70,8 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
 - id: c-42117
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 191."
   citata_originali: |
     Zarasų operacija 1919 m. rugpjūtį
 
@@ -86,7 +94,8 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
 - id: c-76194
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 547"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 547."
   citata_originali: |
     Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas,
     vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J.

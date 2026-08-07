@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d377681fa6455e63554b9355"
+canonical_name: "Vingrių šaltiniai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vingrių šaltiniai"]
+sameAs: []
+canonical_biography: "Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo kalvų 38 V o i g t, V, 415 į savo istoriją yra įdėjęs labai svarbų Jogailos laišką di­ džiajam magistrui, kur teisingai ir pabrėžtinai prikaišioja kryžiuočiams nedorus Ordino poelgius. Aleksandro Jogailaičio nerūpestingumas ir išlaidumas vė­ liau, valdant Žygimantui, sukėlė diskusiją apie Vilniaus sau­ gumui ir patogumui svarbų objektą, kurio vardas - Vingrių šaltiniai. Pirmąją iš griuvėsių prikėlė karalius ir pa­ vertė patogiais savo apartamentais11, antrosios atstatymu 10 Po didelių ginčų Vingrių Šaltiniai, šiandien vadinami Vingriais arba Vengriais, pagaliau sugrįžo miesto nuosavybėn."
+place_authority: true
+historical_names: []
 ---
 # Vingrių šaltiniai
 
@@ -80,7 +89,8 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 - id: c-82011
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 278."
   citata_originali: |
     Aleksandro Jogailaičio nerūpestingumas ir išlaidumas vė­
     liau, valdant Žygimantui, sukėlė diskusiją apie Vilniaus sau­
@@ -98,7 +108,8 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 - id: c-82012
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 55-56"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 55-56."
   citata_originali: |
     Didysis magistras į Vilnių išsiuntė
     komtūrus: iš Elbliongo, Baigos, Brandenburgo ir Kristbur-

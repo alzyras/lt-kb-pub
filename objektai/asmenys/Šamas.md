@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-851683a593f32be8232ab77a"
+canonical_name: "Šamas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šamas"]
+sameAs: []
+canonical_biography: "Anot Narbuto perteikiamų padavimų, Vaidevučio sūnus Šamas įkūrė savo rezidenciją Gailgarbio, arba Galgarbeno, pilyje ant Rinavos kalno."
 ---
 # Šamas
 

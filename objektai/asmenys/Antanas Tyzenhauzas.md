@@ -30,12 +30,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1e2b44ab3135041dbe7a799f"
+canonical_name: "Antanas Tyzenhauzas (ūkio reformų veikėjas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Tyzenhauzas","A. Tyzenhauzo","Antanas Tyzenhauzas","Antanas Tyzenhauzas (ūkio reformų veikėjas)","Antano Tyzenhauzo"]
+sameAs: []
+canonical_biography: "Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomis karališkosiose ekonomijose."
 ---
 # Antanas Tyzenhauzas (ūkio reformų veikėjas)
 
 ## Santrauka
 
-Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a. Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia.
+Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomis karališkosiose ekonomijose.
 
 ## Teiginiai
 
@@ -232,11 +239,18 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
 <a id="claim-t-202314"></a>
 - t-012
   teiginys: "XVIII a. Lietuvoje LDK rūmų iždininkas Antanas Tyzenhauzas įsteigė lino gamyklas Šiauliuose ir Pastovyse bei karališkųjų manufaktūrų kompleksą Horodnicoje ir Lososnoje netoli Gardino."
-  atnaujinta: "2026-07-19 11:47"
+  atnaujinta: "2026-07-26 19:27"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "pastate -> Šiauliai: 0.99"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Šiauliai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai nurodyta, kad Antanas Tyzenhauzas įsteigė lino gamyklas Šiauliuose."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Marija Matušakaitė"
   vertinimo_atnaujinta: "2026-07-19T08:47:37Z"
   pagrindžia:
@@ -247,7 +261,8 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
 - id: c-21603
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 68."
   citata_originali: |
     Baroką pamažu keitė klasicizmas, tačiau šis stilius suklestės tik pačioje
     XVIII a. pabaigoje. Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
@@ -270,7 +285,8 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
 - id: c-25412
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 89."
   citata_originali: |
     Dail. P. Smuglevičius, 1800 m.
     įsteigė tekstilės, popieriaus, galanterijos, ginklų, vežimų manufaktūras
@@ -289,7 +305,8 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
 - id: c-26900
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 88."
   citata_originali: |
     For-
     mavosi nauji fizikos, biologijos ir medicinos mokslai, astronomija tapo ats-
@@ -310,7 +327,8 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
 - id: c-26901
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 88."
   citata_originali: |
     Nors lietuvių kalba buvo mokoma tik pradinėje mokykloje,
     o vidurinė mokykla ir universitetas perėjo nuo lotynų kalbos prie lenkų, vis
@@ -333,7 +351,8 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
 - id: c-26902
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 88."
   citata_originali: |
     Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
     po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
@@ -356,7 +375,8 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
 - id: c-48648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 88-89"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 88-89."
   citata_originali: |
     Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
     steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
@@ -378,12 +398,13 @@ Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį. Tyzenhau
     - t-009
 
 - id: c-185661
-  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a."
+  autorius: "Marija Matušakaitė"
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)"
   puslapiai: "p. 61 (PDF 4)"
-  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.) — Iš LDK gyventojų aprangos istorijos: XVI–XVIII a., p. 61 (PDF 4)."
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 61 (PDF 4)."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-19 11:47"
+  atnaujinta: "2026-07-26 19:20"
   pagrindzia:
     - t-012
 

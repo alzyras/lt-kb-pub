@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e5ab9dd29c00718bf0aeefd7"
+canonical_name: "Frankas Kirskorffas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Frankas Kirskorffas"]
+sameAs: []
+canonical_biography: "Čia žuvo daugybė livoniečių, tarp jų - Frankas Kirskorffas, Ka­ lavijuočių riterių ordino magistras."
 ---
 # Frankas Kirskorffas
 
@@ -50,7 +57,8 @@ media_all_json: |-
 - id: c-83651
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 236."
   citata_originali: |
     Mūšis buvo įnirtingas ir žiaurus, kol pagaliau pralaužtos
     vokiečių ir rusų rikiuotės pradėjo bėgti iš mūšio lauko. Čia

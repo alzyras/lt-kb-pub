@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-962ea51b7089a9c504dc4700"
+canonical_name: "Dimitras (Maskvos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dimitras (Maskvos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algirdo ir Maskvos kunigaikščio Dimitro."
 ---
 # Dimitras (Maskvos kunigaikštis)
 
@@ -72,7 +79,8 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 298."
   citata_originali: |
     Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi,
     puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
@@ -90,7 +98,8 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 298."
   citata_originali: |
     Daugelis rusų
     kunigaikščių tebemokėjo jiems duoklę dar ir Vytauto laikais.

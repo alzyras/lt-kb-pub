@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cf5cb8b06749e8bddcdc5afd"
+canonical_name: "Elko upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Elko upė"]
+sameAs: []
+canonical_biography: "Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės."
+place_authority: true
+historical_names: []
 ---
 # Elko upė
 
@@ -50,7 +59,8 @@ Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.
 - id: c-45092
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 129."
   citata_originali: |
     Mūšis
     Spalio 8 d. kariuomenės suartėjo ties

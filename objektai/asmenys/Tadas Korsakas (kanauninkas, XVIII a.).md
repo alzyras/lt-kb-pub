@@ -19,19 +19,26 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-910d1a62d2b42a74b7894df6"
+canonical_name: "Tadas Korsakas (kanauninkas, XVIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tadas Korsakas","Tadas Korsakas (kanauninkas, XVIII a.)"]
+sameAs: []
+canonical_biography: "Tadas Korsakas šiame straipsnyje minimas kaip kanauninkas, Šv. Mykolo bažnyčioje suteikęs santuoką Salomėjai Franckevičovovai ir Jonui Tadui Božimovskiui."
 ---
 # Tadas Korsakas (kanauninkas, XVIII a.)
 
 ## Santrauka
 
-Tadas Korsakas buvo kanauninkas. Kanauninkas Tadas Korsakas Šv. Mykolo bažnyčioje suteikė Salomėjos Franckevičovos ir Jono Tado Božimovskio santuoką.
+Tadas Korsakas šiame straipsnyje minimas kaip kanauninkas, Šv. Mykolo bažnyčioje suteikęs santuoką Salomėjai Franckevičovovai ir Jonui Tadui Božimovskiui.
 
 ## Teiginiai
 
 <a id="claim-t-200592"></a>
 - t-001
   teiginys: "Tadas Korsakas buvo kanauninkas."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "gap::people"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Tadas Korsakas: 0.85"
@@ -48,7 +55,7 @@ Tadas Korsakas buvo kanauninkas. Kanauninkas Tadas Korsakas Šv. Mykolo bažnyč
 <a id="claim-t-200593"></a>
 - t-002
   teiginys: "Kanauninkas Tadas Korsakas Šv. Mykolo bažnyčioje suteikė Salomėjos Franckevičovos ir Jono Tado Božimovskio santuoką."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "gap::people"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Tadas Korsakas: 0.85"
@@ -72,7 +79,7 @@ Tadas Korsakas buvo kanauninkas. Kanauninkas Tadas Korsakas Šv. Mykolo bažnyč
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 10."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 06:06"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
     - t-002

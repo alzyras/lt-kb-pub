@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b0e9e7f1defd11435574384"
+canonical_name: "Krivis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Krivis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų207 bei. Dusburgietis teigia, kad dėl šitų mirusiųjų nutikdavo tokių velniškų patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus, ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas nedvejodamas pasakydavo, kokie buvo. Dusburgietis teigia, kad po pergalės jie aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį atiduodami minėtajam kriviui, kuris tą dalį degino."
 ---
 # Krivis
 
@@ -66,7 +73,7 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
 <a id="claim-t-60048"></a>
 - t-003
   teiginys: "Dusburgiečio pasakojime krivis mirusiojo tėvams nurodydavo mirusiojo drabužius, ginklus, žirgus ir šeimyną."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -89,7 +96,8 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
 - id: c-60678
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
   citata_originali: |
     tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
     ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas,
@@ -109,7 +117,8 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
 - id: c-60679
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
   citata_originali: |
     Dėl šitų mirusiųjų nutikdavo tokių velniškų
     patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
@@ -134,7 +143,8 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
 - id: c-179033
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
   citata_originali: |
     Dėl šitų mirusiųjų nutikdavo tokių velniškų
     patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,

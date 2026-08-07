@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c279e74963618b2149ef8401"
+canonical_name: "Ivanas Kornilovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas Kornilovas"]
+sameAs: []
+canonical_biography: "Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vilniaus švietimo apygardos globėju."
 ---
 # Ivanas Kornilovas
 
@@ -32,7 +39,8 @@ Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, 
 - id: c-21692
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 114."
   citata_originali: |
     Rusinimo politika 1864–1904 metais
     Šios politikos ėmėsi sukilimo slopintojas ir vienas jos su-

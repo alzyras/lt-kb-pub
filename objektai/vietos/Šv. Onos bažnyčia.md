@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5f3244d1ffb30b7f9b0e4e5"
+canonical_name: "Šv. Onos bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Onos bažnyčia"]
+sameAs: []
+canonical_biography: "Onos bažnyčios atsiradimo žr."
+place_authority: true
+historical_names: []
 ---
 # Šv. Onos bažnyčia
 
@@ -51,7 +60,8 @@ Onos bažnyčios atsiradimo žr.
 - id: c-82266
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 315."
   citata_originali: |
     Patartume peri­
     odinių leidinių leidėjams rūpestin­

@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fdae4dafb222328dd1a57672"
+canonical_name: "Volkoviskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Volkoviskas"]
+sameAs: []
+canonical_biography: "Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime."
+place_authority: true
+historical_names: []
 ---
 # Volkoviskas
 
@@ -90,7 +99,8 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
 - id: c-170389
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 282."
   citata_originali: |
     Tie generaliniai seimeliai neišnyko nė įvedus bend-
     rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
@@ -110,7 +120,8 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 140."
   citata_originali: |
     Pane­
     lės paveikslas, žmonių laikomas stebuklingu), Sen. Trakuose,
@@ -134,7 +145,8 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
 - id: c-175985
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 69."
   citata_originali: |
     Sutartis buvo susti-
     printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-

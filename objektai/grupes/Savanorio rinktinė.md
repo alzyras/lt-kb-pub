@@ -59,7 +59,8 @@ Po rinktinės vado suėmimo J.
 - id: c-40808
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 239."
   citata_originali: |
     Po rinktinės vado suėmimo J. Paliūnui
     pavyko pakrikusius partizanus suorganizuoti į Savano-

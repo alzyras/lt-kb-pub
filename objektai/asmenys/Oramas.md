@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9dd9f1362b65985750cafcc1"
+canonical_name: "Oramas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Oramas"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime Oramas, hano sūnėnas ir Krymo valdovas, vadovavo žygiui, kuriam padėjo Kijevo rusinai."
 ---
 # Oramas
 

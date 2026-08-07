@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5153fbaa74af5f47fbef9128"
+canonical_name: "Jevstafijus (kunigaikštis, XIV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jevstafijus","Jevstafijus (kunigaikštis, XIV a.)"]
+sameAs: []
+canonical_biography: "Negal žinoti, dėl ko naugardžionys apydijo didįjį Lietuvos kunigaikštį Algirdą, kaipogi jų rė dytojas Jevstafijus išvadino jį akivaizdoj šuniu."
 ---
 # Jevstafijus (kunigaikštis, XIV a.)
 
@@ -54,9 +61,9 @@ Negal žinoti, dėl ko naugardžionys apydijo didįjį Lietuvos kunigaikštį Al
 ## Citatos
 
 - id: c-184759
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 590"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 590."
   citata_originali: |
     Taip sudraudę lietuviai ir žemaičiai savo neprie-
     1345 telius Padaugavy ir Parusny ateinantį metą sukos į

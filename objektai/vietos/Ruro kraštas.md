@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d2a2108c042d2903c2045967"
+canonical_name: "Ruro kraštas (kraštas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ruro kraštas","Ruro kraštas (kraštas)"]
+sameAs: []
+canonical_biography: "Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą."
+place_authority: true
+historical_names: []
 ---
 # Ruro kraštas (kraštas)
 
@@ -52,7 +61,8 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
 - id: c-24440
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 152."
   citata_originali: |
     Tarp jų į Klaipėdą žygiavo 40 regu-
     liariosios kariuomenės karininkų ir 584 kariai, kiti – šauliai, studentai ir
@@ -73,7 +83,8 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
 - id: c-167021
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 152."
   citata_originali: |
     Žygio dalyviai įspėti susidūrimų metu
     stengtis nukauti kuo mažiau prancūzų. Akcija pradėta laiku: Vakaruose

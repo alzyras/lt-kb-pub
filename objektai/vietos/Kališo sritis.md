@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d92d26b2d709f282e89ec513"
+canonical_name: "Kališo sritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kališo sritis"]
+sameAs: []
+canonical_biography: "Drauge su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes, o 1307 buvo įsiveržę į Kališo sritį^5."
+place_authority: true
+historical_names: []
 ---
 # Kališo sritis
 
@@ -60,7 +69,8 @@ Drauge su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes, o 
 - id: c-33862
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 224."
   citata_originali: |
     1300 jie vėl pasirodė Dobry­
     niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge

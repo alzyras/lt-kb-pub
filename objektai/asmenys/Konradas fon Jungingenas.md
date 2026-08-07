@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-49948537808e6551fa83a6d7"
+canonical_name: "Konradas fon Jungingenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas fon Jungingenas"]
+sameAs: []
+canonical_biography: "Munkaviškės Didysis Ordino magistras, vyriausiasis Ordino kariuomenės vadas Ulrichas fon Jungingenas asmeniškai vadovavo kryžiuočių pajėgoms."
 ---
 # Konradas fon Jungingenas
 
@@ -58,7 +65,8 @@ Munkaviškės Didysis Ordino magistras, vyriausiasis Ordino kariuomenės vadas U
 - id: c-41384
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 61."
   citata_originali: |
     Munkaviškės
 

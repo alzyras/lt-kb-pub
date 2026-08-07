@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-60342
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     247 D.— pontem paludis juxta stratam, Jer.— brucke; D. III, 24 — per pontem. Čia
     minimas prie Baigos per vandenis, pelkę ėjęs grįstas kelias, greičiausiai panašus į garsias

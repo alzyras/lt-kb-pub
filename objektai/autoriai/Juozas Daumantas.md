@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6dddaab188c1ece51f5430d0"
+canonical_name: "Juozas Daumantas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Juozas Daumantas"]
+sameAs: []
+canonical_biography: "Maksimaliai išvystyti sėkmę puolimo metu partizanams sutrukdė menka daugelio puolimo dalyvių patirtis tokio pobūdžio operacijose ir labai silpna koordinacija ŠAUDYMAS PER DURIS Juozas Daumantas savo prisiminimuose pasakoja apie Tauro apygardos partizanų."
 ---
 # Juozas Daumantas
 
@@ -54,7 +61,8 @@ Maksimaliai išvystyti sėkmę puolimo metu partizanams sutrukdė menka daugelio
 - id: c-176470
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     Maksimaliai išvystyti sėkmę puolimo metu
     partizanams sutrukdė menka daugelio

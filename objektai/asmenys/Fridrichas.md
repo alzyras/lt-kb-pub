@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-368800bc97dc9695e6a45b33"
+canonical_name: "Fridrichas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas"]
+sameAs: []
+canonical_biography: "230 ## Puslapis 247 III KNYGA pavasario, kai Aleksandro motina karalienė Elžbieta su duk­ terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­ vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste."
 ---
 # Fridrichas
 
@@ -100,7 +107,8 @@ media_all_json: |-
 - id: c-83652
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 246-247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 246-247."
   citata_originali: |
     _  .
     230
@@ -126,7 +134,8 @@ media_all_json: |-
 - id: c-168059
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 53."
   citata_originali: |
     Žygiuodamas toliau su kariuomene,
     jis užėmė Romą ir, nukėlęs
@@ -155,9 +164,9 @@ media_all_json: |-
     - t-002
 
 - id: c-184334
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 431"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 431."
   citata_originali: |
     Visų pirma rūpinos jis kaip įmanąs
     kame noris pagalbos gauti. Jau nuo kelių metų

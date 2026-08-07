@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-169279
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 344."
   citata_originali: |
     Gal dėl Vytauto klastingumo,
     gal dėl kokios kitos priežasties tarp Podolės ir Valachi-

@@ -54,7 +54,8 @@ Narbutas rašo, kad kaukų garbintojai nakčiai palikdavo jiems maisto ir iš jo
 - id: c-172039
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
   citata_originali: |
     Siu kaukų garbintojai nakčiai tam tikrose vietose padėda­
     vo jiems maisto; iš jo suvalgymo pranašaudavo panašiai kaip

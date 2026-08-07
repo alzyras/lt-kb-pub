@@ -86,7 +86,8 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
 - id: c-69851
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
     suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
@@ -102,7 +103,8 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
 - id: c-69852
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     Kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje
     prieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių
@@ -126,7 +128,8 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
 - id: c-179010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
     ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai

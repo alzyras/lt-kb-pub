@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-191007"></a>
 - t-001
   teiginys: "Narbuto pasakojimu, 514 m. pr. Kr. Darijus patraukė prieš Indatirą, kai skitai neketino žemintis."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -162,7 +162,8 @@ Nenurodyta
 - id: c-173889
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     Kadangi priešo būriai buvo narsūs ir puikiai gink­
     luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
@@ -189,7 +190,8 @@ Nenurodyta
 - id: c-173890
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     Taip Darijus buvo
     priverstas greitai pereiti visą Skitiją, persikelti per to­
@@ -212,7 +214,8 @@ Nenurodyta
 - id: c-173892
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
   citata_originali: |
     Dėl įvairių trūkumų
     reikėjo trauktis tuo pat keliu, kuriuo kariuomenė buvo
@@ -237,7 +240,8 @@ Nenurodyta
 - id: c-173893
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
   citata_originali: |
     Ko
     gero, remdami Skitijos kolonistus graikus, persai palaikė

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-787df6fd4ace6faddc295f0b"
+canonical_name: "E. Wermke"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["E. Wermke"]
+sameAs: []
+canonical_biography: "Wermke : Bibliographie der Geschichte von Ostund Westpreußen (bis 1929). Wermke ėmė rūpestingiau apžvelgti ir lietuvių kalba rašytus darbus, nevengdamas sužymėti ir LE rašytų straipsnių : 1) Bibliographie d. Geschichte von Ostund Westpreußen für die Jahre 1930-1938, Aalen 1964."
 ---
 # E. Wermke
 
@@ -59,7 +66,8 @@ Wermke : Bibliographie der Geschichte von Ostund Westpreußen (bis 1929). Wermke
 - id: c-32919
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 24."
   citata_originali: |
     Santykių Lietuvos ir vokiečių (ypač su ordinu) bibliografija plačiai yra
     apžvelgta :

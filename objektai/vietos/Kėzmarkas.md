@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7991aa6a49fe9416e8610871"
+canonical_name: "Kėzmarkas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kėzmarkas"]
+sameAs: []
+canonical_biography: "Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (1423) panaikino Breslavo sprendimą, (^1) ) C. Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­ da jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą, norėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija. Praėjus dvidešimt metų nuo Kėzmarko su­ važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į viešumą ir sujudinti visą Europą."
+place_authority: true
+historical_names: []
 ---
 # Kėzmarkas
 
@@ -81,7 +90,8 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 194."
   citata_originali: |
     Toks neteisingas klausimo iš­
     sprendimas tiek lietuvių, tiek ir lenkų atstovų griežtai buvo at­
@@ -104,7 +114,8 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 226."
   citata_originali: |
     Vytautui tada daug
     labiau nekaip karūna rūpėjo pabaigt mūšio lauke nuolatinius

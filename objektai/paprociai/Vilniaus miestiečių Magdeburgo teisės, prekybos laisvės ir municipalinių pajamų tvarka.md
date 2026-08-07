@@ -150,7 +150,8 @@ Nenurodyta
 - id: c-83110
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 241."
   citata_originali: |
     Dar būdamas
     didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­
@@ -175,7 +176,8 @@ Nenurodyta
 - id: c-83111
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 240."
   citata_originali: |
     Kadangi pilietinis karas po Vytauto Didžiojo mir­
     ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
@@ -210,7 +212,8 @@ Nenurodyta
 - id: c-83112
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 233."
   citata_originali: |
     Šis teisingu­
     mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
@@ -237,7 +240,8 @@ Nenurodyta
 - id: c-83113
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 234."
   citata_originali: |
     Privilegijose Žygimantas pareiškė, kad
     atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
@@ -271,7 +275,8 @@ Nenurodyta
 - id: c-83114
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 245."
   citata_originali: |
     III KNYGA
     Iki tol (1492 m.) didžiųjų Lietuvos kunigaikščių Vilniui

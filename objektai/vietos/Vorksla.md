@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8255c41dd35e916bfce9d39c"
+canonical_name: "Vorksla"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vorksla"]
+sameAs: []
+canonical_biography: "Vorksla apibūdinta kaip upė, tekanti pro Poltavą ir iš kairės pusės įtekanti į Dneprą apie 300 km žemiau Kijevo."
+place_authority: true
+historical_names: []
 ---
 # Vorksla
 
@@ -63,7 +72,8 @@ Vorksla apibūdinta kaip upė, tekanti pro Poltavą ir iš kairės pusės įteka
 - id: c-170637
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 252."
   citata_originali: |
     256
 

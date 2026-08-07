@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cd1d7388f94aa6d703887eec"
+canonical_name: "Mendzižečės giria"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mendzižečės giria"]
+sameAs: []
+canonical_biography: "Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gražus šilas, Žgviždos Vienos iš Rūdninkų girios dalies bu­ vęs pavadinimas (vert."
+place_authority: true
+historical_names: []
 ---
 # Mendzižečės giria
 
@@ -51,7 +60,8 @@ Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gra
 - id: c-82190
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 271-272"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 271-272."
   citata_originali: |
     Per pusantros mylios nuo Rūdninkų Men-
     dzižečės* link stūksojo nuostabiai gražus šilas, Žgviždos

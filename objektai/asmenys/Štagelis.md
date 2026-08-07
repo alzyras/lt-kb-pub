@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-73c4ccceeee3d36ed66a41a0"
+canonical_name: "Štagelis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Štagelis"]
+sameAs: []
+canonical_biography: "Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m."
 ---
 # Štagelis
 
@@ -62,7 +69,8 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
 - id: c-83914
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 286."
   citata_originali: |
     Rašyta Vilniaus mieste, 1507 me­
     tų gegužės 1 dieną].

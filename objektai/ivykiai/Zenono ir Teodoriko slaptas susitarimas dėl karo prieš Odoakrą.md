@@ -126,7 +126,8 @@ Nenurodyta
 - id: c-173938
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
   citata_originali: |
     Rytų imperatorius, silpstant jo galiai, blaškėsi pavy­
     dėdamas, sudarinėjo su Odoakru sutartis ir vėl pažeidi­
@@ -157,7 +158,8 @@ Nenurodyta
 - id: c-173939
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
   citata_originali: |
     Nors Teodorikas gerai
     perprato ketinimus visuomet klastingo Zenono, kuris jau

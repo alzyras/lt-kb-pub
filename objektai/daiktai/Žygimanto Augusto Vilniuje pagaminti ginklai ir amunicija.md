@@ -117,7 +117,8 @@ Nenurodyta
 - id: c-82987
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 329-330"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 329-330."
   citata_originali: |
     Bent jau vertingiausi ginklai (toliau rašo Golembiovskis)
     turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­
@@ -151,7 +152,8 @@ Nenurodyta
 - id: c-82988
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 328"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 328."
   citata_originali: |
     ## Puslapis 328
 
@@ -183,7 +185,8 @@ Nenurodyta
 - id: c-82989
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 331"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 331."
   citata_originali: |
     Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­
     dinęs ginklus ir pilis) tik Lietuvos provincijoje. Čia tektų pri­

@@ -78,7 +78,8 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
 - id: c-172014
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     Dabar sunku tinkamai atskleisti to mito prasmę: pirma,
     apeigos buvo slaptos, antra, painiava net senovės mitologų vei­
@@ -106,7 +107,8 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
 - id: c-172016
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 113."
   citata_originali: |
     Domintis vėliau,
     po dešimt metų, neaptikta nė pėdsako, kur toji liekana dingo;
@@ -129,7 +131,8 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
 - id: c-177079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 113."
   citata_originali: |
     Domintis vėliau,
     po dešimt metų, neaptikta nė pėdsako, kur toji liekana dingo;

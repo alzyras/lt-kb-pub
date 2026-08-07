@@ -50,7 +50,8 @@ Dusburgietis teigia, kad crome H.
 - id: c-61695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 261."
   citata_originali: |
     Crome H. Verzeichnis der Wehranlagen Ostpreussens.— Prussia, Königsberg (Pr.), Bd.
     32, Teil 1 (1938), S. 173—209; Teil 2 (1939), S.. 297—324; Bd. 33, Heft 1—2 (1939),

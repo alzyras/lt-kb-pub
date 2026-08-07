@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ddded609be2bb3d9b7a09677"
+canonical_name: "Deimena"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Deimena"]
+sameAs: []
+canonical_biography: "Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo plaukiama Deimena pro Labguvą į Prieglių, juo — pro Karaliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą."
+place_authority: true
+historical_names: []
 ---
 # Deimena
 
@@ -51,7 +60,8 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - id: c-02644
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 258."
   citata_originali: |
     183 psl.), jis pasi-
     darė svarbiausias Lenkijos žemės produktų eksporto centras.

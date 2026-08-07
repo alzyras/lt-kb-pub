@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d10e42781068501c347ab76a"
+canonical_name: "Novosielsko"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Novosielsko"]
+sameAs: []
+canonical_biography: "Čia jam pasidavė Liubutsko, Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit."
+place_authority: true
+historical_names: []
 ---
 # Novosielsko
 
@@ -51,7 +60,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 298."
   citata_originali: |
     Vytautas užėmė Smolenską antrąsyk
     ir galutinai^1 ). Tuo pat metu jis praplėtė savo valdžią Okos

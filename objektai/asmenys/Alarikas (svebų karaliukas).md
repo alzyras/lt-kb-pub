@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3882647731509f7155976cc4"
+canonical_name: "Alarikas (svebų karaliukas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Alarikas (svebų karaliukas)"]
+sameAs: []
+canonical_biography: "Narbutas vaizduoja svebų karaliukus Hunimundą ir Alariką kaip gotų plėšikiškų žygių bendrininkus, sukėlusius pilietinį karą. Tačiau atsitiko taip, kad svebų kara liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių bendrininkai, kažin kokio pavydo šiai pagrindinei tautai paskatinti, ėmė maištauti ir sukėlė pilietinį karą."
 ---
 # Alarikas (svebų karaliukas)
 
@@ -91,7 +98,8 @@ Narbutas vaizduoja svebų karaliukus Hunimundą ir Alariką kaip gotų plėšiki
 - id: c-174218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
   citata_originali: |
     Tas pats istorikas Jorda­
     nas, pasakodamas apie gotų kivirčus, pirmiausia mini

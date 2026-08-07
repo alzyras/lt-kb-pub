@@ -33,7 +33,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
 <a id="claim-t-189203"></a>
 - t-001
   teiginys: "Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti kaip „mildauninkas“ ir iš jo padaryti deivės Mildos vardą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -41,7 +41,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172094
+    - c-172091
 
 <a id="claim-t-189204"></a>
 - t-002
@@ -66,15 +66,22 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
 <a id="claim-t-189205"></a>
 - t-003
   teiginys: "Narbutas rašė, kad Kauno apylinkėse mildauninkais vadinti meilėje padedantys kerėtojai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Milda mildauninkai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Milda mildauninkai\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172094
+    - c-172093
 
 <a id="claim-t-189206"></a>
 - t-004
@@ -121,7 +128,8 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
 - id: c-172091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 31."
   citata_originali: |
     O
     šią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse
@@ -133,14 +141,17 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   citata_rodoma: "O\nšią deivę dar pavadina ir Milda, kadangi „Kauno apylinkėse\ntam tikros rūšies kerėtojas ir kerėtojus, padedančius meilėje,\nkauniečiai vadina mildauninkais“. Tokio lietuviško žodžio iš\nviso nėra užfiksuota. Lietuvišką žodį maldauninkas T. Narbu­\ntas bus nugirdęs kaip mildauninkas ir iš jo padaręs deivės var­\ndą Milda."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-172092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
   citata_originali: |
     Milda (Milda)
     Meilės ir piršlybų deivė, kitaip Aleksotą (Alexota). Kroni­
@@ -162,7 +173,8 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
 - id: c-172093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
   citata_originali: |
     O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
     deivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­
@@ -174,14 +186,17 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   citata_rodoma: "O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji\ndeivė, matyt, buvo ypač garbinama; vienas iš to labai seno mies­\nto priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais\nbuvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3. Kaip\npastebėjau, Kauno apylinkėse tam tikros rūšies kerėtojas ar\nkerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-\nkais (Mildawnikas)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-172094
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
   citata_originali: |
     Kitaip vadinosi Pizio.
     Iš pasakojimų, surinktų Kauno apylinkėse, aiškėja, kaip
@@ -198,6 +213,4 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-003
     - t-004

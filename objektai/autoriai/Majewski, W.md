@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac119f869efe02e85a89867c"
+canonical_name: "Majewski, W"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Majewski, W"]
+sameAs: []
+canonical_biography: "Majewski, W."
 ---
 # Majewski, W
 
@@ -52,7 +59,8 @@ Majewski, W.
 - id: c-33068
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 351."
   citata_originali: |
     —
     Majewski, W. : _Kilka uwag o bitwie pod Grunwaldem,_ Zapiski Historycz­

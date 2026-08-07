@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fc1f94d8741cb80af7e5937d"
+canonical_name: "Simonas Grunau"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Simonas Grunau"]
+sameAs: []
+canonical_biography: "Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus."
 ---
 # Simonas Grunau
 
@@ -115,7 +122,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 <a id="claim-t-188610"></a>
 - t-005
   teiginys: "Narbutas perteikė Grunau pasakojimą, kad šis atsitiktinai pateko į kaimą per ožio aukojimą ir turėjo prisiekti Perkūnui neišduoti apeigų vyskupui."
-  atnaujinta: "2026-07-24 14:26"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -132,12 +139,11 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171499
-    - c-171505
 
 <a id="claim-t-188611"></a>
 - t-006
   teiginys: "Grunau pasakojime apie išpažintį vyrai klaupdavosi prieš vaidilą, išpažindavo nuodėmes ir kaip atgailą patirdavo fizines bausmes."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -145,7 +151,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171499
     - c-171500
 
 <a id="claim-t-188612"></a>
@@ -171,15 +176,22 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 <a id="claim-t-188613"></a>
 - t-008
   teiginys: "Narbutas nurodė, kad Henenbergeris ir Hartknochas iš Grunau perėmė žinią apie ypatingą senovės prūsų vėliavos užrašą nežinomomis raidėmis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Simonas Grunau: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonas Grunau\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171501
+    - c-171502
 
 <a id="claim-t-188614"></a>
 - t-009
@@ -204,7 +216,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 <a id="claim-t-188615"></a>
 - t-010
   teiginys: "Narbutas Simoną Grunau vadino seniausiu žinomu šio pasakojimo šaltiniu ir gynė jį kaip didesnės pagarbos vertą kronikininką."
-  atnaujinta: "2026-07-24 11:45"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -220,7 +232,6 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171504
-    - c-171505
 
 <a id="claim-t-188616"></a>
 - t-011
@@ -279,7 +290,8 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 - id: c-21972
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 23."
   citata_originali: |
     Atsikirsdami kritikams romantikai pasitelkdavo XVI–XVII  a. Prū-
     sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak
@@ -298,7 +310,8 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 - id: c-64920
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.
     3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
@@ -318,7 +331,8 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 - id: c-166961
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 23."
   citata_originali: |
     Prū-
     sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak
@@ -338,7 +352,8 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 - id: c-171498
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
   citata_originali: |
     Šio milžiniš­
     ko medžio kelmo skersmuo buvo šešios uolektys, šakos suda­
@@ -362,7 +377,8 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 - id: c-171499
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 321."
   citata_originali: |
     Kronikininkas
     Grunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai
@@ -380,12 +396,12 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-006
 
 - id: c-171500
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 321."
   citata_originali: |
     Tą išpažintį jis
     taip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­
@@ -407,7 +423,8 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 - id: c-171501
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
   citata_originali: |
     Taip anot pono Foigto tyrimų.
     Tautinė senovės prūsų vėliava, kurią nešdavo karo žygiuo­
@@ -421,12 +438,12 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
-    - t-008
 
 - id: c-171502
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Ant tos vėliavos
     buvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­
@@ -435,14 +452,17 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   citata_rodoma: "Ant tos vėliavos\nbuvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­\ntelės 41-ą piešinį. Iš Grunau perėmė Henenbergeris irHartkno-\n6 Hartknoch."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-171503
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 415"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
   citata_originali: |
     O pats
     krivis visoje jų istorijoje atlieka tokį svarbų vaidmenį ir yra
@@ -467,7 +487,8 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 - id: c-171504
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 433."
   citata_originali: |
     1.
     Seniausias žinomas šito šaltinis yra Simonas Grunau,
@@ -491,7 +512,8 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 - id: c-171505
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 432"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
   citata_originali: |
     Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
     nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
@@ -511,14 +533,13 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-010
     - t-011
 
 - id: c-173850
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
   citata_originali: |
     Iš imperatoriaus Augusto valdy­
     mo Romos valstybėje epochos išliko geografijos—istorijos
@@ -544,7 +565,8 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 - id: c-179039
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
     variantas. Moksliškai šį veikalą tyrinėti XIX a. 3-ame dešimtmetyje ėmėsi J. Foigtas83. M.

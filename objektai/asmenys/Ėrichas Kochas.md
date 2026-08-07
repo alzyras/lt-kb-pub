@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5f9a7d4735b4b6effa260fc7"
+canonical_name: "Ėrichas Kochas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ėrichas Kochas"]
+sameAs: []
+canonical_biography: "Hess), Rytų Prūsijos oberprezidentas Ėrichas Kochas (Erich Koch) ir Vokietijos konsulatas Klaipėdoje."
 ---
 # Ėrichas Kochas
 
@@ -32,7 +39,8 @@ Hess), Rytų Prūsijos oberprezidentas Ėrichas Kochas (Erich Koch) ir Vokietijo
 - id: c-22090
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 180."
   citata_originali: |
     Dauguma kaltinamųjų sakė,
     kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b9e78ff03ae37831ca85aa5b"
+canonical_name: "Ašmenos pavietas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ašmenos pavietas"]
+sameAs: []
+canonical_biography: "Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Ašmenos paviete."
+place_authority: true
+historical_names: []
 ---
 # Ašmenos pavietas
 
@@ -60,7 +69,8 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
 - id: c-77316
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 139."
   citata_originali: |
     1700 m. į respublikonų judėjimą
     aktyviai įsijungė broliai Jonušas ir Myko-

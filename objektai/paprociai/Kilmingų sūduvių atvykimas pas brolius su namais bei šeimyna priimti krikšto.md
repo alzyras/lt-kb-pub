@@ -58,11 +58,18 @@ Nenurodyta
 <a id="claim-t-59736"></a>
 - t-001
   teiginys: "Skomantas su visais savo namais bei šeimyna pasidavė krikščionių tikėjimui ir broliams."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skomantas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Skomantas: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)\" parinktas kaip owner_note_path. Targetas \"Skomantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60370
+    - c-60369
 
 <a id="claim-t-59737"></a>
 - t-002
@@ -83,7 +90,7 @@ Nenurodyta
 <a id="claim-t-59738"></a>
 - t-003
   teiginys: "Kimenavos sūduvių vadas Gedetas su savo namais, šeimyna ir 1500 vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -159,7 +166,8 @@ Nenurodyta
 - id: c-60368
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 172."
   citata_originali: |
     Priešingais atvejais broliai irgi tinkamai elgėsi. Dėl to Prūsijoje daug naujakrikščių,
     kurių protėviai gimę iš kilmingų šeimų, tačiau jie patys dėl nusikaltimų, padarytų tikėjimui
@@ -183,7 +191,8 @@ Nenurodyta
 - id: c-60369
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     Apie Skomanto, sūduvių vado, atsivertimą
 
@@ -196,14 +205,17 @@ Nenurodyta
   citata_rodoma: "Apie Skomanto, sūduvių vado, atsivertimą\n\n  Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia  ir turtais, vis dėlto,\nnegalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios\nžemę503 su visa šeimyna ir bičiuliais. Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas\ntremties,  į savo gimtąją žemę. Šitai sužinoję, broliai vėl ėmė su juo kariauti  ir taip\ndažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė\ntikėjimui ir broliams."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-60370
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
   citata_originali: |
     Apie vieno sūduvio atsivertimą ir nuostabų įvykį
     Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir
@@ -219,7 +231,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
     - t-003
     - t-004

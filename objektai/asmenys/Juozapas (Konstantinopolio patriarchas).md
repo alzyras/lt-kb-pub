@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d0b5f98f3b63fd02cc72604b"
+canonical_name: "Juozapas (Konstantinopolio patriarchas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozapas (Konstantinopolio patriarchas)"]
+sameAs: []
+canonical_biography: "Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės."
 ---
 # Juozapas (Konstantinopolio patriarchas)
 
@@ -53,7 +60,8 @@ Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame
 - id: c-169582
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 537"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 537."
   citata_originali: |
     Beje, d a r vienas dalykas užgavo jiems širdis:
     k a raliu s mat buvo išleidęs

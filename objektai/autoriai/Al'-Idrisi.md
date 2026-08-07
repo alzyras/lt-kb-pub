@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a151708a68247c5c1dbc71fa"
+canonical_name: "Al''''-Idrisi"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Al''''-Idrisi","Al'-Idrisi"]
+sameAs: []
+canonical_biography: "Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-66 m.), kuris, gyvendamas Sicilijos Rogero II dvare, susirankiojęs žinių iš pirklių, keliautojų ir piligrimų, esąs savo vei­ kale (« Rogero knygoje »), skyriuje apie rytų Pabaltijį."
 ---
 # Al''-Idrisi
 
@@ -62,7 +69,8 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
 - id: c-32898
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 127."
   citata_originali: |
     Čia tačiau iškyla neaiškumas,
     ar « Lettowia » Čia tereiškia kokią sritį, kur buvo Mindaugo pilis,

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d94f2a298a147c9d5bdc8f2c"
+canonical_name: "Remeika J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Remeika J"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose — tai laumių gyvenvietė (Remeika J., Ką kalneliai..., p. 15). Dusburgietis teigia, kad 34, p. 107, 112; Remeika J., Ką kalneliai.., p. 88; Matusas J., Senovės prūsų..., p. 54; LAA, 2, p. 143—144, 42; Lietuvininkai, p. 229—230; Basanavičius J., Iš gyvenimo vėlių..., p. 181—2)."
 ---
 # Remeika J
 
@@ -66,7 +73,8 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
 - id: c-87574
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 155."
   citata_originali: |
     pirmoje pusėje kalne išlikusį pylimą žmonės vadino
     pilimi, pilate. Padavimuose minimas Rambyno kunigaikštis Skraudopus (Hennenberger
@@ -84,7 +92,8 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
 - id: c-87575
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
   citata_originali: |
     99), liaudyje
     žinomos aukos Ragiui, Ragei (Dovydaitis Pr., Biržiška M., Auka, p. 153—154). Nemuno

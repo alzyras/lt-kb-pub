@@ -153,15 +153,23 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
 <a id="claim-t-192398"></a>
 - t-007
   teiginys: "Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 metais gotai su karaliumi Filimeru per Vyslos žemupį kėlėsi iš Germanijos į Sarmatiją."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Sarmatija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gotai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sarmatija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje gotų judėjimas aiškiai nurodytas į Sarmatiją."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Gotai keliavo į Sarmatija (0.88); Filimeras keliavo į Sarmatija (0.74)"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175190
+    - c-175192
 
 <a id="claim-t-192401"></a>
 - t-008
@@ -371,7 +379,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
 - id: c-33261
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 114."
   citata_originali: |
     Pvz., lietuvių kalboje šienas - estiškai
     sein, avinas - oinas, piemenauti - paimendama, ratas - rata, tvora
@@ -395,7 +404,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
 - id: c-171082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
   citata_originali: |
     Tas tikėjimas
     V amžiaus pabaigoje arba VI amžiaus pradžioje kažkokiu bū­
@@ -419,7 +429,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
 - id: c-171084
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -437,7 +448,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
 - id: c-171085
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Galbūt neįsižeis slavų seno­
     vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
@@ -464,7 +476,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
 - id: c-175189
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 82."
   citata_originali: |
     Sis pasako­
     jimas patvirtina mūsų padavimą apie dalies senovės ski­
@@ -496,7 +509,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
 - id: c-175190
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 83."
   citata_originali: |
     Jų karingu­
     mas buvo taip susipynęs su žiaurumu, kad jų vardas tapo
@@ -515,12 +529,12 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-007
 
 - id: c-175191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 84."
   citata_originali: |
     Atvykusių iš Skandinavijos gotų galia toly­
     džio vis didėjo, iš gimtosios žemės kėlėsi vis nauji gy­
@@ -545,7 +559,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
 - id: c-175192
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
   citata_originali: |
     161 krikščioniško­
     sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
@@ -560,14 +575,17 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
   citata_rodoma: "161 krikščioniško­\nsios eros metais, pasak Naruševičiaus tyrimų1, gotai su\nsavo karaliumi Filimeru, pereidami iš Germanijos į Sar-\nmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­\nmet ribojo senovės geografų taip pavadintus kraštus. Bet\natsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir\nbuvo nuneštas srovės. Yra senovės istorikų prielaidų, jog\nFilimeras, baimindamasis didelio žmonių susigrūdimo,\nnes visi žmonės norėjo iškeliauti, tyčia pagreitino šį įvy­\nkį. Taip pusė gotų gyventojų šįsyk liko kitapus Vyslos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-175195
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 238."
   citata_originali: |
     Tam padėjo jų žemės
     dirbimas, mokėjimas auginti gyvulius, laivuoti, ir visa,
@@ -589,7 +607,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
 - id: c-175196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 248."
   citata_originali: |
     Jame sa­
     vo valdymą plėtė gotai, todėl kraštas ir buvo vadinamas
@@ -617,7 +636,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
 - id: c-175197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
   citata_originali: |
     298
     Netrukus po to, apie 269 metus, gotai, surinkę milži­
@@ -639,7 +659,8 @@ Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į ryt
 - id: c-176965
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
   citata_originali: |
     Bet jos principai visiškai
     nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­

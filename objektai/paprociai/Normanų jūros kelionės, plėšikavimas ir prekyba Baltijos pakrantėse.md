@@ -108,7 +108,8 @@ Nenurodyta
 - id: c-83156
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 31."
   citata_originali: |
     Atšiaurus klimatas, nenaši, uolėta
     žemė, pagaliau tvarkos stoka ir tar­
@@ -138,7 +139,8 @@ Nenurodyta
 - id: c-83157
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 30-31"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 30-31."
   citata_originali: |
     2
     Apie Lietuvos ir Žemaitijos tapatu­
@@ -182,7 +184,8 @@ Nenurodyta
 - id: c-83158
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 32."
   citata_originali: |
     Scriptor, rerum Danicarum.
     T. II. Laikui bėgant tie atėjūnai uo­

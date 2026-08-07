@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ebf1af349f80012a136e74b"
+canonical_name: "Jurgis Geldgaudas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Geldgaudas"]
+sameAs: []
+canonical_biography: "Ši žemaičių delegacija, kuriai vadovavo paties Vytauto sekretorius Mykolas Sapienskis, vaivada Jurgis Geldgaudas ir žemaičių didikas Jurgis Boliminas, atvy­ kusi į Konstanciją 1415 m. gale, susirinkimui padarė didžiau­ sią įspūdį ir buvo tai geriausias."
 ---
 # Jurgis Geldgaudas
 
@@ -61,7 +68,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 127."
   citata_originali: |
     Bet Vytautas atėjo dar į pagalbą, pasiųsdamas susirinkimui
     gyvą Lietuvos apsikrikštijimo įrodymą — 60 žemaičių, bajorų

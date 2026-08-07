@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-464c653074a0efbe965e048c"
+canonical_name: "Riazanės kunigaikštystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Riazanės kunigaikštystė"]
+sameAs: []
+canonical_biography: "Vytautas vystė puolimą į Riazanės kunigaikštystę, gindamas savo pozicijas Smolenske."
+place_authority: true
+historical_names: []
 ---
 # Riazanės kunigaikštystė
 
@@ -80,7 +89,8 @@ Vytautas vystė puolimą į Riazanės kunigaikštystę, gindamas savo pozicijas 
 - id: c-76974
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     Riazanės didysis kunigaikš-
     tis Olegas ir kiti „ėjo prieš Lietuvą ir

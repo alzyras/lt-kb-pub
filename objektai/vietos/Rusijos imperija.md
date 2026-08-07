@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3712a86a2334b1475b00d8a6"
+canonical_name: "Rusijos imperija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rusijos imperija"]
+sameAs: []
+canonical_biography: "Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių rezultatų, kokių tikėjosi. 1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija netruko pasiekti ir Lietuvos miestus."
+place_authority: true
+historical_names: []
 ---
 # Rusijos imperija
 
@@ -111,7 +120,8 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
 - id: c-24447
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 116."
   citata_originali: |
     Kaip neprivaloma disciplina lietuvių
     kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-
@@ -134,7 +144,8 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
 - id: c-24448
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 122."
   citata_originali: |
     Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
     atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus
@@ -154,7 +165,8 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
 - id: c-49692
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 117."
   citata_originali: |
     Ta-
     čiau pirmasis visuotinis Rusijos
@@ -176,9 +188,9 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
     - t-002
 
 - id: c-185010
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 11"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 11."
   citata_originali: |
     Abiejų Tautų Respubliką ar kitaip vadinamą jungtinę Lenkijos
     ir Lietuvos valstybę sugriovė trys kaimynės - Rusija, Prūsija ir Austrija, Kaunas su

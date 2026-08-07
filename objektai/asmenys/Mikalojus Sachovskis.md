@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-67c06f0761e8c32919f409d9"
+canonical_name: "Mikalojus Sachovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Sachovskis"]
+sameAs: []
+canonical_biography: "Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Šimonovos ir ypač Viesos kai­ me duotas privilegijas, nesvarbu, ar jos mūsų naujai duotos ir paskelbtos, ar vėliau gali būti duotos ir paskelbtos, šiuo atšaukiame ir norime, kad būtų."
 ---
 # Mikalojus Sachovskis
 
@@ -42,7 +49,8 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
 - id: c-83766
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 261."
   citata_originali: |
     Jeigu
     kas išdrįstų tai pažeisti ar veikti jėga prieš smuklininką ar jo

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2fe38a1636eca4fb87701a77"
+canonical_name: "Dragonių kaimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dragonių kaimas"]
+sameAs: []
+canonical_biography: "Pirmiausia buvo pulta viena vietinių vyrų, daugiausia iš Dragonių k."
+place_authority: true
+historical_names: []
 ---
 # Dragonių kaimas
 
@@ -50,7 +59,8 @@ Pirmiausia buvo pulta viena vietinių vyrų, daugiausia iš Dragonių k.
 - id: c-45078
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 224."
   citata_originali: |
     Kovo 27 d. mūšis prasidėjo 7 val. ryto.
     Pirmiausia buvo pulta viena vietinių vyrų,

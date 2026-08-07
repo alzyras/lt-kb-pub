@@ -77,18 +77,26 @@ Nenurodyta
 <a id="claim-t-05355"></a>
 - t-002
   teiginys: "Jogaila dokumente įsipareigojo lietuvius priversti paklusti Romos Bažnyčiai, įvedant privalomą lotynišką krikštą ir draudžiant mišrias santuokas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-05450
+    - c-123136
 
 ## Citatos
 
 - id: c-05450
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 298."
   citata_originali: |
     Stiprindamas lotyniškąjį kryžių Lietuvoje, Algirdaitis trečiuoju
     dokumentu (II.22) uždraudė naujakrikštams tikybiniu atžvilgiu
@@ -105,12 +113,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-123136
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 298."
   citata_originali: |
     Prie to jie « gali
     būti verčiami net kūno bausmėmis »^20.
@@ -123,7 +131,8 @@ Nenurodyta
     (^18) **CDV, I, 29-30 (nr.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

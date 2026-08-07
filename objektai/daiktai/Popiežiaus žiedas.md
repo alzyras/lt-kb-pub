@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184718
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 316"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 316."
   citata_originali: |
     Vilhelmas į Parusnį pagrįžęs iš Ry­
     mo, tuojau popiežius išleido raštą, skelbdamas kry­

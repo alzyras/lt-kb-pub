@@ -108,7 +108,8 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
 - id: c-175063
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 248."
   citata_originali: |
     Jie taip pat ¡savo kalba vadino šias žemes bendriniais
     pavadinimais Ausiurland, Austarreich, Austurmeg, o tai

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c0b9887d4e3ece20cfad6fc0"
+canonical_name: "Lenčica"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lenčica"]
+sameAs: []
+canonical_biography: "Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas išspręstas, gavo viršų bendradarbiavimo idė­ ja su Lietuva. Atvykę jie į Lenčicą (1429 VI. Paskum Vy­ tauto pasiuntiniai greit išvyko iš Lenčicos."
+place_authority: true
+historical_names: []
 ---
 # Lenčica
 
@@ -170,7 +179,8 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 237."
   citata_originali: |
     Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
     tauto laišką. Jogaila, užimtas pasitarimais su kryžiuočiais, nesi­
@@ -187,7 +197,8 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 237."
   citata_originali: |
     Kai sužinojo, kad kryžiuočių
     pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­
@@ -207,7 +218,8 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 194."
   citata_originali: |
     Tada jie
     kreipėsi į Jogailą, klausdami: ar jis padės „išgamai“ Vytautui,
@@ -229,7 +241,8 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 237."
   citata_originali: |
     Jogaila dar kartą pasitaręs su savo didikais,
     atsakė, kad apie tokį svarbų reikalą, kuris liečia Lenkiją ir Lie­
@@ -249,7 +262,8 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 - id: c-168364
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 169."
   citata_originali: |
     Mat bemaž tuo
     pačiu metu Vytenis lyg niekur nieko, tarytum tėvynė

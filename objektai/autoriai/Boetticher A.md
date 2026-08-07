@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac70229f5741752d0205b625"
+canonical_name: "Boetticher A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Boetticher A"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastatė mūrinę pilį, o šalia jos rytų pusėje — didelį papilį (Тоерреn M., HCCP, p. 203; Boetticher A., Die Bau.., 2, p. 17—18). Dusburgietis teigia, kad kaustros (D.— Caustere, Jer.— tiliz [...] Kauxtere; GAO, p. 58) krante (Boetticher A., Die Bau...., 2, p. 65; CV, t."
 ---
 # Boetticher A
 
@@ -59,7 +66,8 @@ Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastat�
 - id: c-65265
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
 

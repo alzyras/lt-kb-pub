@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-64ef54e8b830b080baeddc5f"
+canonical_name: "Gvaželutis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gvaželutis"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Gvaželutis gimė 1295 metais kaip Vytenio ir jo antrosios žmonos sūnus."
 ---
 # Gvaželutis
 
@@ -63,7 +70,8 @@ Narbutas nurodo, kad Gvaželutis gimė 1295 metais kaip Vytenio ir jo antrosios 
 - id: c-173037
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
   citata_originali: |
     214
 

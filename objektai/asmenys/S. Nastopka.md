@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bc4797603ca25cb0ff34554e"
+canonical_name: "S. Nastopka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["S. Nastopka"]
+sameAs: []
+canonical_biography: "Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje. Nastopką ir Generalinio štabo viršininką gen."
 ---
 # S. Nastopka
 
@@ -86,7 +93,8 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 - id: c-42208
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 190."
   citata_originali: |
     Karin. S. Nastopkos vadovaujamos 11 bri-
 
@@ -108,7 +116,8 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 - id: c-42210
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 199."
   citata_originali: |
     S. Nastopkos vadovaujama 1-oji pėstininkų
     divizija (1-asis, 4-asis ir 7-asis pulkai), įžen-
@@ -126,7 +135,8 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 - id: c-44503
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 199."
   citata_originali: |
     Konstantinas Žukas. Atleidus iš
     pareigų armijos vadą gen. S. Nastopką

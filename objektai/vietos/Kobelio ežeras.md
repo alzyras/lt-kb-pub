@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-64d70eccac77dfff18131e76"
+canonical_name: "Kobelio ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kobelio ežeras"]
+sameAs: []
+canonical_biography: "Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu."
+place_authority: true
+historical_names: []
 ---
 # Kobelio ežeras
 
@@ -47,7 +56,8 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu.
 - id: c-177160
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
   citata_originali: |
     Tokie sku­
     durai yra kobolių dovana.

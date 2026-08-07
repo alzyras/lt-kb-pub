@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-091f7c7ba83c43210888a9ac"
+canonical_name: "Stanislovas Liubomirskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Liubomirskis"]
+sameAs: []
+canonical_biography: "Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenorėjo paklusti karalystės didžiajam etmonui Stanislovui Liubomirskiui, tik karalaičiui Vladislovui įkalbėjus LDK kariuomenė sutiko jam laikinai paklusti."
 ---
 # Stanislovas Liubomirskis
 
@@ -51,7 +58,8 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - id: c-44520
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 118."
   citata_originali: |
     Visi įsa-
     kymai vis dar tebebuvo duodami jo vardu,

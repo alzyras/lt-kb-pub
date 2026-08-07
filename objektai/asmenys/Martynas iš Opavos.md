@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d87cc0c8a2058ac2b1df94f6"
+canonical_name: "Martynas iš Opavos (arkivyskupas, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Martynas iš Opavos","Martynas iš Opavos (arkivyskupas, XIII a.)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje, po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl „Polonus“), bet mirė ten nenuvykęs."
 ---
 # Martynas iš Opavos (arkivyskupas, XIII a.)
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 - id: c-61017
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
   citata_originali: |
     Čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje,
     po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl

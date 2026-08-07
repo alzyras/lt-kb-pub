@@ -96,7 +96,7 @@ Nenurodyta.
 <a id="claim-t-05450"></a>
 - t-003
   teiginys: "1389 m. Lietuvos metropolija nutrūko, o 1415 m. buvo trumpam atnaujinta."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1389 m.; įvykio data: 1415 m."
@@ -200,7 +200,8 @@ Nenurodyta.
 - id: c-05575
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 250."
   citata_originali: |
     Šio intrygų ir sudarytų kliūčių siūlai vedė
     į Maskvą.
@@ -222,7 +223,8 @@ Nenurodyta.
 - id: c-05576
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 270."
   citata_originali: |
     Kiekvienas iš veiklių varžovų, norėdamas nurungti
     konkurentą, stengėsi išplėsti savo įtaką Pskove, Didž. Naugarde,
@@ -240,7 +242,8 @@ Nenurodyta.
 - id: c-05577
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 271."
   citata_originali: |
     1354 m. Konstan-
     tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau-
@@ -255,7 +258,8 @@ Nenurodyta.
 - id: c-05578
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 271."
   citata_originali: |
     Lietuvos stačiatikių metropolija nebebuvo
     atnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-
@@ -271,7 +275,8 @@ Nenurodyta.
 - id: c-05579
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 271."
   citata_originali: |
     Patriarchas Lietuvos stačiatikių metro-
     politu 1375 paskyrė vienuolį Kiprijoną († 1381), kuris pastoviai
@@ -287,7 +292,8 @@ Nenurodyta.
 - id: c-05580
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 271."
   citata_originali: |
     Nuo 1389 m. Lietuvos metropolija vėl paliovė egzistavusi iki pat 1415, kai Gri-
     gorijaus Camblako asmenyje Vytautas trumpam laikui išsirūpino
@@ -304,7 +310,8 @@ Nenurodyta.
 - id: c-91771
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 250."
   citata_originali: |
     žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
     naujas įpėdinis. Lietuvos metropolijos Gediminui nepasisekė išlai­

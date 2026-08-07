@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a8406703fb8c5615ba659feb"
+canonical_name: "Aleksandras (Mykolo sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras (Mykolo sūnus)"]
+sameAs: []
+canonical_biography: "Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų). Greičiausiai dėl artimų ryšių su Gediminu, Aleksandras su sūnumi totorių ordoje buvo nužudyti."
 ---
 # Aleksandras (Mykolo sūnus)
 
@@ -78,7 +85,8 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
 - id: c-30097
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 249."
   citata_originali: |
     Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių
     chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo
@@ -95,7 +103,8 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
 - id: c-32703
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 249."
   citata_originali: |
     Volgos totorių
     chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo
@@ -117,7 +126,8 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
 - id: c-167739
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 249."
   citata_originali: |
     Šiaip jau Kalita vengė atviro susitikimo su Gediminu karo
     lauke, pastoviai tačiau stengdamasis prieš Lietuvos sąjungininkus

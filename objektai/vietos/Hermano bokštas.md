@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c25254902c861a820dfb471c"
+canonical_name: "Hermano bokštas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Hermano bokštas"]
+sameAs: []
+canonical_biography: "trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo pakto pasirašymo sukaktuves – per protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių ir estų susikibo rankomis sudarydami gyvą, daugiau kaip 650 km ilgio."
+place_authority: true
+historical_names: []
 ---
 # Hermano bokštas
 
@@ -39,7 +48,8 @@ trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo 
 - id: c-24138
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 238."
   citata_originali: |
     tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-
     bos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-

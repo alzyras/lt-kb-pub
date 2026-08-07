@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e34c46d538b81fbb7a747eb4"
+canonical_name: "Fridrichas fon Quitzas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas fon Quitzas"]
+sameAs: []
+canonical_biography: "Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su trisdešimt šešiais kariais nužudė8."
 ---
 # Fridrichas fon Quitzas
 
@@ -51,7 +58,8 @@ Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo n
 - id: c-83655
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 84-85"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 84-85."
   citata_originali: |
     J a r o-
     68

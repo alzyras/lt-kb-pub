@@ -124,7 +124,8 @@ Nenurodyta
 - id: c-169269
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 246."
   citata_originali: |
     Sėkmingai išsigabenus vi­
     są grobį ir išsivedus visus belaisvius, grėsmingai įsi­
@@ -168,7 +169,8 @@ Nenurodyta
 - id: c-169270
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 246."
   citata_originali: |
     Štai todėl, norėdami
     ir priešą sutramdyti, ir su-

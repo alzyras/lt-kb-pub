@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8686725a1e31a5e5de7144ba"
+canonical_name: "M. Priselkov"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Priselkov"]
+sameAs: []
+canonical_biography: "Priselkova, Maskva 1950. Priselkov, M."
 ---
 # M. Priselkov
 
@@ -77,7 +84,8 @@ Priselkova, Maskva 1950. Priselkov, M.
 - id: c-33061
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 248."
   citata_originali: |
     (^5) **PSRL, III, 75 p.**
     (^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-
@@ -95,7 +103,8 @@ Priselkova, Maskva 1950. Priselkov, M.
 - id: c-33062
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 22."
   citata_originali: |
     ToS = J. Totoraitis : Sūduvos-Suvalkijos istorija, t. 1, Kaunas
     1938.

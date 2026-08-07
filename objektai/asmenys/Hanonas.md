@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ff16374987b4cc1826d529c3"
+canonical_name: "Hanonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hanonas"]
+sameAs: []
+canonical_biography: "Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir palei Afrikos krantus nuplaukė iki Bajadoro kyšulio."
 ---
 # Hanonas
 
@@ -65,7 +72,8 @@ Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir
 - id: c-174288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 154."
   citata_originali: |
     Buvo nutarta patiems daryti
     atradimus tolimose Vakarų pasaulio pakrantėse. Dėl to

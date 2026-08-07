@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-67d4ad1be18e3c0df2775577"
+canonical_name: "Jokubavo miškas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jokubavo miškas"]
+sameAs: []
+canonical_biography: "Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo prasiveržti Pakruojo link."
+place_authority: true
+historical_names: []
 ---
 # Jokubavo miškas
 
@@ -50,7 +59,8 @@ Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo 
 - id: c-45113
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 224."
   citata_originali: |
     Tai vienoje, tai kitoje miško vietoje
     vyko atkaklios kautynės. Dienos pabaigoje,

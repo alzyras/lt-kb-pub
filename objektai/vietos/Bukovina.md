@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-55470135d7bc8a6967142344"
+canonical_name: "Bukovina"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bukovina"]
+sameAs: []
+canonical_biography: "Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina čia yra mūšio vieta."
+place_authority: true
+historical_names: []
 ---
 # Bukovina
 
@@ -37,52 +46,52 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
 <a id="claim-t-199242"></a>
 - t-001
   teiginys: "Lietuvos metraštyje Bukovina vaizduojama kaip akmeninga, uolėta ir sunkiai pereinama vietovė Lenkijos sienos link."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys apibūdina šaltinio vaizdavimą, todėl tinka aiški atribucija."
   susije_objektai: "mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lietuva; mentioned_place: Moldavija; mentioned_place: Sučiava"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-181776
 
 <a id="claim-t-199243"></a>
 - t-002
   teiginys: "Lietuvos metraštis pasakoja, kad Olbrachto kariuomenė buvo Bukovinoje, kai ją užpuolė Moldavijos vaivada Steponas."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Kariniam priešo veiksmų vaizdavimui šiame šaltinio profilyje reikia atribucijos."
   susije_objektai: "mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181777
 
 <a id="claim-t-199244"></a>
 - t-003
   teiginys: "Po sutarties su Moldavijos vaivada Olbrachtas traukė per Bukoviną ir kalnus Lenkijos sienos link."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Išskleistas kontekstas, kad žygis vyko po sutarties su Moldavijos vaivada, ir palikta aiški kryptis per Bukoviną. Nepridėta vertinimo apie kelio sunkumą."
   susije_objektai: "mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_place: Sučiava"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-181776
 
 <a id="claim-t-199245"></a>
 - t-004
   teiginys: "Lietuvos metraštis pasakoja, kad Bukovinos miškuose ir bukynuose Steponas užpuolė Olbrachtą ir jo kariuomenę."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Priešo užpuolimo vaizdavimui reikia šaltinio atribucijos."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Moldavija"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181777
 
@@ -115,7 +124,7 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
     gas kelias Lenkijos sienos linkui3 3 .
   citata_rodoma: "Mūsų valdo­\nvas vaivada Steponas su savo kariuomene yra lauke: \njei nori — eik ir nugalėk jj, ir tuomet jo miestai ir visa \nžemė iš karto atsidurs tavo rankose.\"\nKaralius Olbrachtas pasitraukė nuo Sučiavos mies­\nto ir žygiuoja gilyn, iš visos širdies trokšdamas susi­\nkauti su juo 3 I. O Moldavijos vaivada, matydamas, kad \nnegalės jam atsispirti, pasiuntė pas jį savo pasiuntinius \nir sudarė su juo taiką, teikėsi su savo žeme duoti jam \nvasalo ištikimybės priesaiką, kaip buvo prisiekęs jo \ntėvui, karaliui Kazimierui, ir surašė raštus, prisiekė \ngriežtai to prisilaikysiąs3 2 .\nIr, sudaręs tokią sutartį, karalius Olbrachtas išėjo \niš jo žemės, bet, nenorėdamas grįžti tuo pačiu keliu, \nkuriuo buvo atžygiavęs, o norėdamas greičiau ir tie­\nsiau išeiti iš [moldavų] žemės, traukė stačiai per Buko­\nviną ir kalnus, per uolėtus, sunkiai pereinamus miškus, \nnes per tas akmeningas vietas ėjo tiesus, bet labai blo­\ngas kelias Lenkijos sienos linkui3 3 ."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -147,7 +156,7 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
     vaivada su visais savo žmonėmis pasuko atgalios.
   citata_rodoma: "savo žmonėmis — raiteliais ir pėstininkais. Ir kai ka­\nralius Olbrachtas su visa kariuomene jau buvo Buko­\nvinoje ir žygiavo be baimės dėl sudarytos amžinosios \ntaikos ir priesaikos, nesitikėdamas iš niekur smūgio, \ntuo metu Moldavijos vaivadai Steponui labai skaudėjo \nkojos, bet, norėdamas įvykdyti savo sumanymą, jis \nužmiršo net savo ligą, ¡sakė vežti save rogėse ir atvy­\nko su visais savo žmonėmis, ir su turkais, ir su veng­\nrais, ir su valachais, ir tuose miškuose bei bukynuose \nužpuolė karalių Olbrachtą bei jo kariuomenę* * , dau­\ngelį iš jo kariuomenės nukovė, o kitus paėmė gyvus; \natėmė daug gurguolių su dideliu turtu ir kelias garsias \npatrankas, o pačiam karaliui Olbrachtui ir daugeliui \njo ponų bei karių nieko nepakenkė.\nKai karalius perėjo miškus ir Bukoviną, Moldavijos \nvaivada su visais savo žmonėmis pasuko atgalios."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d9a8a12d43ed06e14904100b"
+canonical_name: "Aristotelis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Aristotelis"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, žinojo gintarą, jo savybes ir tyrinėjo jo gavybos vietas. Teodoras Narbutas Aristotelį mini tarp autorių, kurie, jo teigimu, kalbėjo apie vandens lygio kritimą ir pateikė įrodymų. Aristotelis gabenamas, nei kelio, kuriuo jį veždavo."
 ---
 # Aristotelis
 
@@ -111,7 +118,8 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
 - id: c-174515
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Priartinus mūsų tyrimus prie
     geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
@@ -137,7 +145,8 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
 - id: c-174516
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo

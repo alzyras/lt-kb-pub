@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-56faac313d5f29a4d7a7b115"
+canonical_name: "Piero della Francesca"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Piero della Francesca"]
+sameAs: []
+canonical_biography: "Mikalojus Vorobjovas Piero della Francescą mini tarp italų tapytojų, sprendusių šviesos, šešėlių ir atmosferos problemas."
 ---
 # Piero della Francesca
 

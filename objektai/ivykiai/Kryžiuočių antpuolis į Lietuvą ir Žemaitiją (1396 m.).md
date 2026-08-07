@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-185724"></a>
 - t-001
   teiginys: "Švitrigaila kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą, o vasario 6 d. kryžiuočiai nuniokojo Lietuvą ir Žemaitiją."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -66,7 +66,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169085
-    - c-169086
 
 <a id="claim-t-185725"></a>
 - t-002
@@ -153,7 +152,8 @@ Nenurodyta
 - id: c-169085
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 345."
   citata_originali: |
     Tuo metu jau galima buvo
     manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau
@@ -180,7 +180,8 @@ Nenurodyta
 - id: c-169086
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 345."
   citata_originali: |
     Vasario 6 šie žiauriai nuniokojo Lietuvą, o po
     to Žemaitiją. Vytautas, ligi šiol laikęs savo kariuomenę
@@ -204,5 +205,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87d71d6da4700350bdd9a16a"
+canonical_name: "Komestorius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Komestorius"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi ir tuo metu, kai mirė Julijus Cezaris, o po jo mirties suskilo senatas (Ptol."
 ---
 # Komestorius
 
@@ -58,7 +65,8 @@ Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi 
 - id: c-61362
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
   citata_originali: |
     Sitai ir buvo ženklas bei požymis,
     rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija. Vis dėlto šis skilimas

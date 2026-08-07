@@ -49,7 +49,8 @@ P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
 - id: c-77410
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     p- 31, „PAVOJAI TRAIDENIO LIETUVAI IS RYTŲ“, Romas Batūra.
 

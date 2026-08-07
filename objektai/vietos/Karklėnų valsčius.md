@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ecefe2250045211f0370150b"
+canonical_name: "Karklėnų valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karklėnų valsčius"]
+sameAs: []
+canonical_biography: "Kai 1626 m. Karklėnų valsčiaus vaitas Povilas Juozapavičius sugrąžino sulaikytus Kauno miestiečio Andriaus Steponavičiaus būdos įnagius, tarp jų buvo 40 kirvių, 2 drožtuvai, 1 pjūklas, kelios būdos geležys, 1 kubilas, taip pat 1laštas pelenų."
+place_authority: true
+historical_names: []
 ---
 # Karklėnų valsčius
 
@@ -47,9 +56,9 @@ Kai 1626 m. Karklėnų valsčiaus vaitas Povilas Juozapavičius sugrąžino sula
 ## Citatos
 
 - id: c-185078
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 242"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 242."
   citata_originali: |
     Kauno kalvis Motiejus Bičebe­
     ris pagamino 40 būdos geležų (želaza budne, taip buvo vadinami būdoje naudojami

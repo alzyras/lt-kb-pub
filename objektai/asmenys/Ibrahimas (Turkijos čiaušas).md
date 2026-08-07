@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f74d57cf5b00f2abf0e5280c"
+canonical_name: "Ibrahimas (Turkijos čiaušas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ibrahimas (Turkijos čiaušas)"]
+sameAs: []
+canonical_biography: "354 ## Puslapis 371 IV KNYGA B) ATVIRAS LIETUVOS PONŲ TARYBOS LAIŠKAS DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ TURKIJOS ČLAUŠUI IBRAHIMUI, SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T, O JO NESANT VILNIUJE. Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­ sų Malonybės, pone vaivada, o jo malonybei nesant Vilniuje, Tavo Malonybei, pone vietininke ir pone vaite, liepsime, kad tąjį čiaušą ir jo tarnus, kurių jis turi."
 ---
 # Ibrahimas (Turkijos čiaušas)
 
@@ -77,7 +84,8 @@ media_all_json: |-
 - id: c-83491
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 370-372"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 370-372."
   citata_originali: |
     354
 
@@ -142,7 +150,8 @@ media_all_json: |-
 - id: c-83492
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 372."
   citata_originali: |
     Todėl, jo pageidavimu, jam leidome kurį laiką pagy­
     venti Vilniaus mieste, kol jų malonybės tarybos ponai visi čia,

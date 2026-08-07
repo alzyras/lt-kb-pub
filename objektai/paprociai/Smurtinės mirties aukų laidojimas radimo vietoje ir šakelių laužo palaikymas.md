@@ -68,7 +68,7 @@ Nenurodyta
 <a id="claim-t-189898"></a>
 - t-002
   teiginys: "Narbutas pateikia vietos padavimą, kad prie Išlaužo esantis šakelių laužas dengęs plėšikų nužudyto svetimšalio palaikus."
-  atnaujinta: "2026-07-19 20:03"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -81,7 +81,7 @@ Nenurodyta
 <a id="claim-t-194633"></a>
 - t-003
   teiginys: "Lietuviai turėjo paprotį skenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje, kur atrado."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -89,7 +89,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-179094
+    - c-177031
 
 <a id="claim-t-197265"></a>
 - t-004
@@ -120,7 +120,8 @@ Nenurodyta
 - id: c-172780
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 366."
   citata_originali: |
     Šiuo atveju, kadangi tokių atsitikimų dažniausiai
     pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
@@ -142,7 +143,8 @@ Nenurodyta
 - id: c-172781
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     O
     vyras gedėdavo žmonos tiktai astuonias dienas. Erazmas Ste­
@@ -164,7 +166,8 @@ Nenurodyta
 - id: c-177031
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     Romėnai
     tą tvirtindavo visuotinai tikėdami20. Lietuviai turėjo paprotį
@@ -176,14 +179,17 @@ Nenurodyta
   citata_rodoma: "Romėnai\ntą tvirtindavo visuotinai tikėdami20. Lietuviai turėjo paprotį\nskenduolių arba plėšikų nužudytųjų kūnus laidoti toje vietoje,\nkur atrado. Šiuo atveju, kadangi tokių atsitikimų dažniausiai\npasitaikydavo miške, kapą pridengia laužu iš kokių nors me­\ndžių šakelių ir jį kasmet tam tikrą dieną kas nors padegdavo;\nsako, kad tai būdavo daroma niekam nematant."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-179094
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     Pasak rusų metraščių, šiaurės slavai, arba nau-
     gardiečiai, severskiečiai, viatičiai, radimičiai, turėjo triznos
@@ -203,5 +209,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
     - t-004

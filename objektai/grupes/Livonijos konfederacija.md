@@ -65,7 +65,8 @@ Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos kon
 - id: c-44806
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 89."
   citata_originali: |
     1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-
     toratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,

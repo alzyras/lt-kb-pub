@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ddacfb94c00e50e6683ef8cf"
+canonical_name: "Belčica"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Belčica"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Belčica
 

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-765b7221cf7ce5ed3e2c4805"
+canonical_name: "J. Caro"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Caro"]
+sameAs: []
+canonical_biography: "HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p."
 ---
 # J. Caro
 
@@ -55,7 +62,8 @@ HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
 - id: c-94017
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 371"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 371."
   citata_originali: |
     — HrlU,
     **IV, 127 p. — J.** Caro **:** **_Geschichte Polens,_** **III, 1869, 211** p.

@@ -55,7 +55,8 @@ Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreik�
 - id: c-82829
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 105-106"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 105-106."
   citata_originali: |
     Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame
     aiškiai išreikštą norą priimti krikščionių tikėjimą ir viršesnę

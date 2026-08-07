@@ -44,13 +44,22 @@ media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AMap_of_t
 media_primary_directness: 'direct'
 media_primary_relation_type: 'map_of'
 media_primary_json: |-
-  {"mediaId":"m-b4d05157156f3bacad09e5cc","title":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","caption":"1753 m. Žemaitijos kunigaikštystės žemėlapis.","originalTitle":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","creator":"Leonhard Euler (1707–1783), Johann Christoph Rhode (1713–1786)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"DavidRumsey.com","dateDisplay":"1753","dateStart":null,"dateEnd":null,"width":1187,"height":903,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1750s maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"18th-century maps of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Johann Christoph Rhode","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps by Leonhard Euler","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Žemaitija.md","title":"Žemaitija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:38.553862+03:00","reviewedAt":"2026-07-11T02:38:56.619530+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis žemėlapis su aiškiai pažymėta teritorija „Hertzogthum Samaiten“ ir aplinkinėmis vietovėmis, įskaitant Kuršą, Kauną, Tilžę ir Prūsijos pasienį.","metadataEvidence":"Pavadinimas nurodo „Map of the Duchy of Samogitia (Žemaitija), 1753.jpg“, aprašas teigia, kad tai Žemaitijos kunigaikštystės žemėlapis, žemėlapyje įvardytas kaip „Hertzogthum Samaiten“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Kandidatas tiesiogiai vaizduoja target Žemaitiją kaip istorinį jos teritorijos žemėlapį; tapatybę patvirtina ir vaizdo užrašas, ir metaduomenys.","isPrimary":1}
+  {"mediaId":"m-b4d05157156f3bacad09e5cc","title":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","caption":"1753 m. Žemaitijos kunigaikštystės žemėlapis.","originalTitle":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","creator":"Leonhard Euler (1707–1783), Johann Christoph Rhode (1713–1786)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"DavidRumsey.com","dateDisplay":"1753","dateStart":null,"dateEnd":null,"width":1187,"height":903,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1750s maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"18th-century maps of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Johann Christoph Rhode","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps by Leonhard Euler","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Žemaitija.md","title":"Žemaitija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:38.553862+03:00","reviewedAt":"2026-07-31T05:49:24.738802+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis spalvotas žemėlapis su aiškiai pažymėta Žemaitijos teritorija ir užrašu „Hertzogthum Samaiten“.","metadataEvidence":"Kandidato pavadinime ir apraše tiesiogiai nurodyta „Map of the Duchy of Samogitia (Žemaitija)“, data – 1753 m.; kūrėjai Leonhard Euler ir Johann Christoph Rhode.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų Žemaitijos istorinį žemėlapį.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-b4d05157156f3bacad09e5cc","title":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","caption":"1753 m. Žemaitijos kunigaikštystės žemėlapis.","originalTitle":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","creator":"Leonhard Euler (1707–1783), Johann Christoph Rhode (1713–1786)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"DavidRumsey.com","dateDisplay":"1753","dateStart":null,"dateEnd":null,"width":1187,"height":903,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1750s maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"18th-century maps of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Johann Christoph Rhode","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps by Leonhard Euler","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Žemaitija.md","title":"Žemaitija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:38.553862+03:00","reviewedAt":"2026-07-11T02:38:56.619530+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis žemėlapis su aiškiai pažymėta teritorija „Hertzogthum Samaiten“ ir aplinkinėmis vietovėmis, įskaitant Kuršą, Kauną, Tilžę ir Prūsijos pasienį.","metadataEvidence":"Pavadinimas nurodo „Map of the Duchy of Samogitia (Žemaitija), 1753.jpg“, aprašas teigia, kad tai Žemaitijos kunigaikštystės žemėlapis, žemėlapyje įvardytas kaip „Hertzogthum Samaiten“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Kandidatas tiesiogiai vaizduoja target Žemaitiją kaip istorinį jos teritorijos žemėlapį; tapatybę patvirtina ir vaizdo užrašas, ir metaduomenys.","isPrimary":1}]
+  [{"mediaId":"m-b4d05157156f3bacad09e5cc","title":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","caption":"1753 m. Žemaitijos kunigaikštystės žemėlapis.","originalTitle":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","creator":"Leonhard Euler (1707–1783), Johann Christoph Rhode (1713–1786)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"DavidRumsey.com","dateDisplay":"1753","dateStart":null,"dateEnd":null,"width":1187,"height":903,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1750s maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"18th-century maps of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Johann Christoph Rhode","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps by Leonhard Euler","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Žemaitija.md","title":"Žemaitija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:38.553862+03:00","reviewedAt":"2026-07-31T05:49:24.738802+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis spalvotas žemėlapis su aiškiai pažymėta Žemaitijos teritorija ir užrašu „Hertzogthum Samaiten“.","metadataEvidence":"Kandidato pavadinime ir apraše tiesiogiai nurodyta „Map of the Duchy of Samogitia (Žemaitija)“, data – 1753 m.; kūrėjai Leonhard Euler ir Johann Christoph Rhode.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų Žemaitijos istorinį žemėlapį.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-b4d05157156f3bacad09e5cc","title":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","caption":"1753 m. Žemaitijos kunigaikštystės žemėlapis.","originalTitle":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","creator":"Leonhard Euler (1707–1783), Johann Christoph Rhode (1713–1786)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"DavidRumsey.com","dateDisplay":"1753","dateStart":null,"dateEnd":null,"width":1187,"height":903,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1750s maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"18th-century maps of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Johann Christoph Rhode","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps by Leonhard Euler","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Žemaitija.md","title":"Žemaitija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:38.553862+03:00","reviewedAt":"2026-07-11T02:38:56.619530+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis žemėlapis su aiškiai pažymėta teritorija „Hertzogthum Samaiten“ ir aplinkinėmis vietovėmis, įskaitant Kuršą, Kauną, Tilžę ir Prūsijos pasienį.","metadataEvidence":"Pavadinimas nurodo „Map of the Duchy of Samogitia (Žemaitija), 1753.jpg“, aprašas teigia, kad tai Žemaitijos kunigaikštystės žemėlapis, žemėlapyje įvardytas kaip „Hertzogthum Samaiten“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Kandidatas tiesiogiai vaizduoja target Žemaitiją kaip istorinį jos teritorijos žemėlapį; tapatybę patvirtina ir vaizdo užrašas, ir metaduomenys.","isPrimary":1}]
+  [{"mediaId":"m-b4d05157156f3bacad09e5cc","title":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","caption":"1753 m. Žemaitijos kunigaikštystės žemėlapis.","originalTitle":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","creator":"Leonhard Euler (1707–1783), Johann Christoph Rhode (1713–1786)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"DavidRumsey.com","dateDisplay":"1753","dateStart":null,"dateEnd":null,"width":1187,"height":903,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1750s maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"18th-century maps of Latvia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Johann Christoph Rhode","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps by Leonhard Euler","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of the Duchy of Samogitia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Žemaitija.md","title":"Žemaitija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:38.553862+03:00","reviewedAt":"2026-07-31T05:49:24.738802+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis spalvotas žemėlapis su aiškiai pažymėta Žemaitijos teritorija ir užrašu „Hertzogthum Samaiten“.","metadataEvidence":"Kandidato pavadinime ir apraše tiesiogiai nurodyta „Map of the Duchy of Samogitia (Žemaitija)“, data – 1753 m.; kūrėjai Leonhard Euler ir Johann Christoph Rhode.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų Žemaitijos istorinį žemėlapį.","isPrimary":1}]
+entity_id: "ent-ec18043300bb2bf1160d3325"
+canonical_name: "Žemaitija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["objektai/vietos/Zemaitija","Samogitija","Zemaitija","Žemaitija","Žemaičiai"]
+sameAs: []
+canonical_biography: "Žemaitija šiame šaltinyje vaizduojama kaip pagrindinis Lietuvos ginčo su Ordinu kraštas, kurio dėl Ordino pretenzijų vyko nuolatinės kovos, o vietos gyventojai ne kartą sukilo."
+place_authority: true
+historical_names: []
 ---
 # Žemaitija
 
@@ -702,7 +711,7 @@ media_all_json: |-
 <a id="claim-t-123039"></a>
 - t-037
   teiginys: "Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Žemaitija: 0.67"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -715,7 +724,6 @@ media_all_json: |-
   semantiniai_rysiai: "Kryžiuočių ordinas puolė Žemaitija (0.67)"
   pagrindžia:
     - c-112507
-    - c-112518
 
 <a id="claim-t-123041"></a>
 - t-038
@@ -792,11 +800,19 @@ media_all_json: |-
 <a id="claim-t-123046"></a>
 - t-042
   teiginys: "Žemaitijoje plėšikavusios kryžiuočių kariuomenės karys, atsilikęs po kritimo nuo žirgo, pėsčiomis grįžo į Ragainę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Žemaitija: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kryžiuočių kariuomenės plėšikavimas Žemaitijoje rodo karinį puolimą, nors formuluotė nėra tiesioginė „puolė“."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Žemaitija (0.70)"
   pagrindžia:
-    - c-179055
+    - c-112522
 
 <a id="claim-t-123047"></a>
 - t-043
@@ -1370,7 +1386,7 @@ media_all_json: |-
 <a id="claim-t-188891"></a>
 - t-072
   teiginys: "Narbutas perteikia Jucevičiaus pastabą, kad Žemaitijoje prie merdinčio žmogaus garsiai kartota frazė „Gegeile, begaite!“."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1384,7 +1400,7 @@ media_all_json: |-
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytauto susitarimą su kryžiuočiais."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171776
+    - c-171780
 
 <a id="claim-t-190665"></a>
 - t-073
@@ -1427,7 +1443,7 @@ media_all_json: |-
 <a id="claim-t-192791"></a>
 - t-075
   teiginys: "1583 m. jėzuitai, apaštalaudami Žemaitijoje, aptiko didelių akmenų garbinimo pėdsakų."
-  atnaujinta: "2026-07-24 13:40"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1446,7 +1462,6 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175561
-    - c-179410
 
 <a id="claim-t-192792"></a>
 - t-076
@@ -1490,7 +1505,7 @@ media_all_json: |-
 <a id="claim-t-194762"></a>
 - t-079
   teiginys: "Nepai sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni gų stygių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1498,12 +1513,12 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-173549
+    - c-177158
 
 <a id="claim-t-196764"></a>
 - t-080
   teiginys: "Kojelavičiaus pasakojime iš Vokietijos sutraukta kariuomenė buvo skirta Prūsijos ir Žemaitijos žemdirbiams išžudyti."
-  atnaujinta: "2026-07-24 15:00"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1984,7 +1999,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 26."
   citata_originali: |
     Istorikai nurodo, kad Vy­
     tautas turėjo tris žmonas^1 ). Trečios žmonos vardas buvęs Ju­
@@ -2009,7 +2025,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 140."
   citata_originali: |
     Trakuose,
     Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
@@ -2035,7 +2052,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 151."
   citata_originali: |
     Bet kadangi veržimasis
     į rytus jau nuo Otono D. (X a.) laikų buvo visų vokiečių tenden­
@@ -2063,7 +2081,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 180."
   citata_originali: |
     Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­
     sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
@@ -2088,7 +2107,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 259."
   citata_originali: |
     lius ir kaip tas ūkis buvo Lietuvoj platus, aišku jau iš to, kad
     keliaujant jam 1427 m. po Rusiją, dar nepasiekus Smolensko, pa­
@@ -2114,7 +2134,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 290."
   citata_originali: |
     Matydamas, kad Lietuva metais vėliau ar anksčiau taps
     krikščioniška ir kad jos visos užgrobti nesuskubs, Ordinas da­
@@ -2136,7 +2157,8 @@ media_all_json: |-
 - id: c-112487
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 116-117"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 116-117."
   citata_originali: |
     IX).
     100
@@ -2166,7 +2188,8 @@ media_all_json: |-
 - id: c-112489
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 30."
   citata_originali: |
     Ta lietuvių tauta, išsis­
     kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
@@ -2205,7 +2228,8 @@ media_all_json: |-
 - id: c-112490
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 83."
   citata_originali: |
     Tas valdovas po pergalingų žygių, tikriausiai todėl, kad
     kryžiuočiai tolydžio artinosi, nuo Rytų atsigręžė į Vakarus
@@ -2232,7 +2256,8 @@ media_all_json: |-
 - id: c-112491
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 46."
   citata_originali: |
     Todėl LDK į istoriją
     įėjo ne kaip tautų kalėjimas ar lydymosi katilas, o kaip tautų lopšys – tai
@@ -2254,7 +2279,8 @@ media_all_json: |-
 - id: c-112492
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     1397 m.
     Vytauto pajėgos pasiekė pagrindinę totorių
@@ -2278,7 +2304,8 @@ media_all_json: |-
 - id: c-112494
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 29."
   citata_originali: |
     Per jį 1251 m. pavasarį (ar
     vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
@@ -2297,7 +2324,8 @@ media_all_json: |-
 - id: c-112495
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50."
   citata_originali: |
     Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
     dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
@@ -2321,7 +2349,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 260."
   citata_originali: |
     Taip pat ir kitais sumetimais Vytautas stengdavosi įkur­
     dinti neužimtose, bet jam priklausomose žemėse, plėsdamas jose
@@ -2343,7 +2372,8 @@ media_all_json: |-
 - id: c-112499
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos priori-
     tetą – 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją
@@ -2360,7 +2390,8 @@ media_all_json: |-
 - id: c-112500
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     Tačiau vėliau
     jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
@@ -2382,7 +2413,8 @@ media_all_json: |-
 - id: c-112501
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 105."
   citata_originali: |
     Todėl sukilėlių būriuose, kuriems vadovavo vieti-
     niai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net
@@ -2404,7 +2436,8 @@ media_all_json: |-
 - id: c-112502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 32."
   citata_originali: |
     Laikui bėgant tie atėjūnai uo­
     liai ėmėsi prekybos ir, atverdami jai
@@ -2435,7 +2468,8 @@ media_all_json: |-
 - id: c-112503
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 49."
   citata_originali: |
     Tai
     padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-
@@ -2457,7 +2491,8 @@ media_all_json: |-
 - id: c-112504
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 31."
   citata_originali: |
     Mindaugo krikštas nepa-
     šalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Že-
@@ -2477,7 +2512,8 @@ media_all_json: |-
 - id: c-112505
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 61."
   citata_originali: |
     Daukan­
     tas savo _«_ Būdą » daug kur pagrindė tautosaka (patarlėmis, prie­
@@ -2497,7 +2533,8 @@ media_all_json: |-
 - id: c-112507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
   citata_originali: |
     Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
     ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
@@ -2522,7 +2559,8 @@ media_all_json: |-
 - id: c-112508
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 29."
   citata_originali: |
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
     jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
@@ -2538,7 +2576,8 @@ media_all_json: |-
 - id: c-112509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 134-135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 134-135."
   citata_originali: |
     870.
     Poloniae factam, et erectionem Antistis
@@ -2568,7 +2607,8 @@ media_all_json: |-
 - id: c-112511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,
     pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina
@@ -2589,7 +2629,8 @@ media_all_json: |-
 - id: c-112513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 25."
   citata_originali: |
     Dar Kaunas, gilios senovės laikais įkur­
     tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
@@ -2612,7 +2653,8 @@ media_all_json: |-
 - id: c-112517
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 17."
   citata_originali: |
     1387 m.
     Lietuva krikštijosi katalikišku krikštu, o jos
@@ -2635,7 +2677,8 @@ media_all_json: |-
 - id: c-112518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
   citata_originali: |
     XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
     ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
@@ -2656,12 +2699,12 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
-    - t-037
 
 - id: c-112520
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 105."
   citata_originali: |
     Tai reiškė Lenkijos karalystės ne-
     priklausomybės paskelbimą ir karo su Rusija pradžią. Lietuvoje sukilimas
@@ -2682,7 +2725,8 @@ media_all_json: |-
 - id: c-112521
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 32."
   citata_originali: |
     Juk šis kroniki­
     ninkas pasakoja, kad apie 880 me­
@@ -2709,7 +2753,8 @@ media_all_json: |-
 - id: c-112522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
     vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
@@ -2721,14 +2766,17 @@ media_all_json: |-
   citata_rodoma: "Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,\nvidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos\nglobojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės\nglobojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje\nplėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo  į Ragainę (III, 333). Tai\njau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo\npagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
+
 - id: c-112523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 31."
   citata_originali: |
     B. P. 11. Tai reiškia:
     „Žemaitijos žemė yra ir visada bu­
@@ -2754,7 +2802,8 @@ media_all_json: |-
 - id: c-112527
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 117."
   citata_originali: |
     Pats miestelis dali­
     jamas į aukštutinį ir žemutinį: pirmajame stovi aukšta goti­
@@ -2776,7 +2825,8 @@ media_all_json: |-
 - id: c-112531
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53."
   citata_originali: |
     Tas
     Vilniaus gyventojų palankumas didžia dalimi nulėmė eigą
@@ -2800,7 +2850,8 @@ media_all_json: |-
 - id: c-112533
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 48."
   citata_originali: |
     Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį. Nors
     reikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai,
@@ -2820,7 +2871,8 @@ media_all_json: |-
 - id: c-112535
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     Šis komitetas turėjo organizuoti sukilimą va­
     karinėse Rusijos imperijos gubernijose. Tačiau pavasarį
@@ -2840,7 +2892,8 @@ media_all_json: |-
 - id: c-167038
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 17."
   citata_originali: |
     Vis dėlto tai liko istorinis epi-
     zodas, nors pagoniška valstybė pamažu
@@ -2862,7 +2915,8 @@ media_all_json: |-
 - id: c-167039
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 31."
   citata_originali: |
     Tačiau praėjus keletui
     metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje
@@ -2882,7 +2936,8 @@ media_all_json: |-
 - id: c-167040
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 48."
   citata_originali: |
     Žuvo pats didysis magis-
     tras Ulrichas von Jungingenas, didžioji dalis vadovybės, per 200 Ordino
@@ -2903,7 +2958,8 @@ media_all_json: |-
 - id: c-167041
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     Kadangi Vy-
     tautui iš tikrųjų teko didžiulė užduotis įvykdyti konversiją – ne tik atvesti
@@ -2924,7 +2980,8 @@ media_all_json: |-
 - id: c-168579
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 104."
   citata_originali: |
     105
 
@@ -2952,7 +3009,8 @@ media_all_json: |-
 - id: c-168580
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 104."
   citata_originali: |
     Ka­
     dangi miestą gynė rinktinių karių įgula, apsuptis
@@ -2979,7 +3037,8 @@ media_all_json: |-
 - id: c-168582
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 157."
   citata_originali: |
     Žemaitijoje tuo metu ne­
     buvo priešų, tačiau šį kraštą užgriuvo kitokios bėdos.
@@ -3011,7 +3070,8 @@ media_all_json: |-
 - id: c-168583
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 168-169"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 168-169."
   citata_originali: |
     Iš Piešt-
     vės apygardos išvarė visus gyvulius, išžudė čia dau­
@@ -3043,7 +3103,8 @@ media_all_json: |-
 - id: c-168584
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 185."
   citata_originali: |
     Sutelktu būriu užgriuvę iš pasalų nieko nenu-
     jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,
@@ -3065,7 +3126,8 @@ media_all_json: |-
 - id: c-168585
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 205."
   citata_originali: |
     Mat popiežius krikščionių žemėse buvo paskelbęs edik­
     tą, kuriuo krikščionys, žadant nuodėmių atleidimą, bu­
@@ -3098,7 +3160,8 @@ media_all_json: |-
 - id: c-168586
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 355"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 355."
   citata_originali: |
     Pirmiausia jis susitarė su
     kryžiuočiais, kurie ne tik pasižadėjo laikytis taikos, kai
@@ -3124,7 +3187,8 @@ media_all_json: |-
 - id: c-168587
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 371"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 371."
   citata_originali: |
     Nenorėdami, kad atrody-
     1409 m e ta i
@@ -3153,7 +3217,8 @@ media_all_json: |-
 - id: c-168588
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 393"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 393."
   citata_originali: |
     Be
     galo ryžtingas žmogus, jis
@@ -3197,7 +3262,8 @@ media_all_json: |-
 - id: c-170633
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 23."
   citata_originali: |
     Tačiau iš viso Žemaitijos ir karų su kry­
     žiuočiais istorijai pažinti Bychovco kronika yra men­
@@ -3218,7 +3284,8 @@ media_all_json: |-
 - id: c-171769
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 125."
   citata_originali: |
     Žemdirbiai garbino šią deivę kaip oro per­
     mainų valdovę; ypač valstietės maldaudavo jos, kad apgintų
@@ -3239,7 +3306,8 @@ media_all_json: |-
 - id: c-171770
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
     tinkame mūsų kaimiečių padavimuose. Turiu jį savajame se­
@@ -3259,7 +3327,8 @@ media_all_json: |-
 - id: c-171772
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
     viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
@@ -3281,7 +3350,8 @@ media_all_json: |-
 - id: c-171773
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 208."
   citata_originali: |
     Amerikos indėnai išsaugojo at­
     mintį apie akmenų garbinimą, nes jie, kaip sako vienas keliau­
@@ -3304,7 +3374,8 @@ media_all_json: |-
 - id: c-171774
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
   citata_originali: |
     Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
     tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o
@@ -3322,7 +3393,8 @@ media_all_json: |-
 - id: c-171775
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     O Lietu­
     vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
@@ -3344,7 +3416,8 @@ media_all_json: |-
 - id: c-171776
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 218."
   citata_originali: |
     Kartą man pasitaikė nupirkti auksinę monetą, kuri pavaiz­
     duota natūralaus dydžio III lentelės 17-ajame piešinyje. Ji iš
@@ -3360,12 +3433,12 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-068
-    - t-072
 
 - id: c-171777
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
   citata_originali: |
     3. Tarp Palangos ir Liepojos yra Šventoji (Šwięta) upė, įte­
     kanti į jūrą. Atrodo, Žemaitijoje šitaip vadinami dar keli ma­
@@ -3381,7 +3454,8 @@ media_all_json: |-
 - id: c-171778
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 231."
   citata_originali: |
     Šventų ežerų yra taip pat Nemuno kairiajame krante,
     kur ir miestelis [Šventežeris] turi tokį vardą.
@@ -3399,7 +3473,8 @@ media_all_json: |-
 - id: c-171779
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
   citata_originali: |
     Neseniai buvo aptiktas kadaise milžiniškas ir labai senas
     jau benudžiūstantis ąžuolas; kadangi jis išliko, todėl teisingai
@@ -3421,7 +3496,8 @@ media_all_json: |-
 - id: c-171780
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 364."
   citata_originali: |
     Jucevičius pataiso Strijkovskį: „ Gegei-
     le, begaite!“, vietoje „ Ginkiet, Biekiet, Pikole!“, ir priduria, kad
@@ -3430,14 +3506,17 @@ media_all_json: |-
   citata_rodoma: "Jucevičius pataiso Strijkovskį: „ Gegei-\nle, begaite!“, vietoje „ Ginkiet, Biekiet, Pikole!“, ir priduria, kad\nšiandien (Žemaitijoje?), kai tik žmogus ima merdėti, visi ten su­\nsirinkę garsiai kalba tą frazę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-072
+
 - id: c-173548
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 388"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 388."
   citata_originali: |
     Kam patinka, gali pasiimti, kas palikta. Sis
     paprotys turėjo būti paplitęs tik Žemaitijoje, kadangi tik čia tu­
@@ -3460,7 +3539,8 @@ media_all_json: |-
 - id: c-173549
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
   citata_originali: |
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
     tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
@@ -3484,12 +3564,12 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-074
-    - t-079
 
 - id: c-175561
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 479"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 479."
   citata_originali: |
     Net pasikeitus apšvietai ir religijai,
     indėnai akmenis laikė talismanais1. 1583 metais jėzuitai, apašta­
@@ -3511,7 +3591,8 @@ media_all_json: |-
 - id: c-175562
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 503"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 503."
   citata_originali: |
     O tai, autoriaus žo­
     džiais tariant, turėjo būti velnias. Nepaisant visų šių pastangų,
@@ -3533,7 +3614,8 @@ media_all_json: |-
 - id: c-175994
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 125."
   citata_originali: |
     Lietuvos
     valdovams tas ypačiai ir rūpėjo.
@@ -3552,7 +3634,8 @@ media_all_json: |-
 - id: c-175995
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 269."
   citata_originali: |
     Be to, vienas iš didžiausių jėzuitų nuopelnų buvo tas, kad
     jie pirmieji susirūpino liaudimi. Jie skelbė katalikybę dar pago-
@@ -3570,7 +3653,8 @@ media_all_json: |-
 - id: c-177157
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 143."
   citata_originali: |
     Iszskalbk man amzuliali.
     Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
@@ -3588,7 +3672,8 @@ media_all_json: |-
 - id: c-177158
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 371"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
   citata_originali: |
     O tai, autoriaus žodžiais tariant, turėjo būti velnias. Nepai­
     sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
@@ -3601,14 +3686,17 @@ media_all_json: |-
   citata_rodoma: "O tai, autoriaus žodžiais tariant, turėjo būti velnias. Nepai­\nsant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje\nŽemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo­\nma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni­\ngų stygių. Todėl 1618 metais Jėzuitų ordino vienuoliai, gana skait­\nlingi Kražiuose, kai tik įsitvirtino, tais pačiais metais savo misi­\njoje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­\ntiečių, tarp kurių buvo ir nemažai šimtamečių senolių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-079
+
 - id: c-178901
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 194."
   citata_originali: |
     Kai galop sutraukė visos jėgos,
     tada atvirai per Žemaitiją nužygiavo prie Žeimelės
@@ -3629,7 +3717,8 @@ media_all_json: |-
 - id: c-179055
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
   citata_originali: |
     Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
     feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes,
@@ -3650,13 +3739,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
     - t-083
 
 - id: c-179218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
   citata_originali: |
     Lietuvos ponai 1316 metų sausio mėnesį
     Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš
@@ -3676,7 +3765,8 @@ media_all_json: |-
 - id: c-179410
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 399."
   citata_originali: |
     Ne visur yra tokios didelės šių [akmenų] sangrūdos,
     ir tai reikia turėti omenyje. Taigi pietų kryptimi (Suomių
@@ -3693,7 +3783,6 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-075
     - t-085
 
 ## Ryšiai

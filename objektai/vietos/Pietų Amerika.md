@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b7cf4c39410d8c751507d61a"
+canonical_name: "Pietų Amerika"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pietų Amerika"]
+sameAs: []
+canonical_biography: "Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų)."
+place_authority: true
+historical_names: []
 ---
 # Pietų Amerika
 
@@ -60,7 +69,8 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
 - id: c-24383
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 175."
   citata_originali: |
     Sportas tapo
     integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olim-

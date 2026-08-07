@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d5e465a0a70e68647193b179"
+canonical_name: "Solonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Solonas"]
+sameAs: []
+canonical_biography: "Narbutas lietuvių gėrimą ratu lygino su Antikos Circumpotatio ir rašė, kad Solonas ją bandė išnaikinti Atėnuose."
 ---
 # Solonas
 
@@ -53,7 +60,8 @@ Narbutas lietuvių gėrimą ratu lygino su Antikos Circumpotatio ir rašė, kad 
 - id: c-173125
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 387"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 387."
   citata_originali: |
     Išmaldos dalytojui grįžus į namus, vaišinamasi ir geriama dvi-
     386

@@ -49,38 +49,39 @@ Nenurodyta
 <a id="claim-t-199220"></a>
 - t-001
   teiginys: "Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   sudarymo_pagrindimas: "Sakinys pilnas, aiškus ir tinkamai atribuuotas metraščiui."
   susije_objektai: "mentioned_object: [[objektai/zodynas/prastieji žmonės|prastieji žmonės]]; mentioned_place: Smolenskas; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181723
 
 <a id="claim-t-199221"></a>
 - t-002
   teiginys: "Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   sudarymo_pagrindimas: "Sakinys sutrumpintas ir tiksliau remiasi citatos įvardijimu."
   susije_objektai: "mentioned_object: [[objektai/zodynas/prastieji žmonės|prastieji žmonės]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Smolenskas; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-181723
 
 <a id="claim-t-199222"></a>
 - t-003
   teiginys: "Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu."
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   sudarymo_pagrindimas: "Palikta metraščio atribucija, nes teiginys perteikia sukilėlių sumanymą ir kronikos pasakojimą. Išskleisti veikėjai ir veiksmai, nepridėta susirėmimo baigtis."
   susije_objektai: "mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_object: [[objektai/zodynas/prastieji žmonės|prastieji žmonės]]; mentioned_place: Smolenskas; mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-181723
 
@@ -113,7 +114,7 @@ Nenurodyta
     žeisti, liko gyvi.
   citata_rodoma: "Ir Smolensko vyskupas Semionas2 , ir kunigaikš­\nčiai, ir bajorai, ir miestiečiai, ir prastieji žmonės prisie­\nkė Andriui laikysią jį pas save Smolensko vaivada, \nkaip pridera. Po Velykų, Šventosios savaitės trečiadie­\nnį 3 , Smolensko prastieji žmonės — kalviai, odminiai, \nbatsiuviai, mėsininkai, katiliai — sumanė Andrių varu \niš miesto išvaryti, o priesaiką paminti, ir apsiginklavo \nietimis bei strėlėmis, ir dalgiais, ir kirviais, ir ėmė \nskambinti varpu.\nAndrius ėmė tartis su Smolensko bajorais, ir bajo­\nrai jam tarė: „Liepk savo dvariškiams ginkluotis, o \nmes — su tavimi; argi geriau pasiduoti į jų rankas?\" \nIr pasileido prieš juos raiti su ietimis, ir susikirto mies­\nte prie švento Boriso ir Glebo cerkvės4 , ir daugelį \nprastųjų žmonių ietys mirtinai persmeigė, o kiti, su­\nžeisti, liko gyvi."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

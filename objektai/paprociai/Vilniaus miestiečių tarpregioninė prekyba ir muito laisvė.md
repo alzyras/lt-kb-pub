@@ -97,7 +97,8 @@ Nenurodyta
 - id: c-83167
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 48-49"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48-49."
   citata_originali: |
     Betgi yra ir
     Rudamina, miestelis, arba bažnyt­
@@ -143,7 +144,8 @@ Nenurodyta
 - id: c-83168
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48."
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
     plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­

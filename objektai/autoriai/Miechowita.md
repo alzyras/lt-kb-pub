@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fcd07bc263e3dcd426685d27"
+canonical_name: "Miechowita"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Miechowita"]
+sameAs: []
+canonical_biography: "Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio ir M."
 ---
 # Miechowita
 
@@ -58,7 +65,8 @@ Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio ir M.
 - id: c-65383
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 52."
   citata_originali: |
     Laikydama pagrindu Lietuvos valstybės žemes, ji
     apžvelgė per kelioliką šimtmečių didelį rytų Europos plotą. Ji buvo

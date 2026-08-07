@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-97bf8227adfe6fbd9b031c39"
+canonical_name: "Šv. Augustino koplyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Augustino koplyčia"]
+sameAs: []
+canonical_biography: "Vorobjovas Šv. Augustino koplyčių apšvietimo efektus apibūdina kaip tokius rafinuotus, kad jie nustelbia skulptūros savarankiškumą."
+place_authority: true
+historical_names: []
 ---
 # Šv. Augustino koplyčia
 

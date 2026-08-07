@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-faf6979259e25bbeb0f4d894"
+canonical_name: "Labguva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Labguva"]
+sameAs: []
+canonical_biography: "Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo plaukiama Deimena pro Labguvą į Prieglių, juo — pro Karaliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą."
+place_authority: true
+historical_names: []
 ---
 # Labguva
 
@@ -79,7 +88,8 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - id: c-67974
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 275."
   citata_originali: |
     Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p.
     185—189.
@@ -93,9 +103,9 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     - t-001
 
 - id: c-184428
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 444"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 444."
   citata_originali: |
     Tam pavykus, Lidelau ap-'
     sidrąsinęs persikėlė į antrą pusę Nemuno ir tenai

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2deb5397a091d35b610435d"
+canonical_name: "Friederici W"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Friederici W"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad intako Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romove resp. Romuva (Friederici W., Über die Lage Romow’s..., p. 227— 253)."
 ---
 # Friederici W
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad intako Auksinės žemupio vietovardžius Kreiwutschen i
 - id: c-61332
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
   citata_originali: |
     Mėginta
     sieti Priegliaus kair. intako Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen

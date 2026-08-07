@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fc53397505235a8874e26612"
+canonical_name: "Ona (Zigmanto Augusto sesuo)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ona (Zigmanto Augusto sesuo)"]
+sameAs: []
+canonical_biography: "Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatinių dvarų. Ona (Zigmanto Augusto sesuo): po jo mirties neliko jokių vyriškų įpėdinių (liko tik seserys, kurių viena — Ona — tebebuvo netekėjusi), tad turėjo prasidėti laisvai renkamųjų valdovų periodas. Ona (Zigmanto Augusto sesuo): zigmanto Augusto sesuo Ona (ta pati, kuri buvo numatyta žmona karaliui Henrikui ir kurią vedė Stp. Batoras)."
 ---
 # Ona (Zigmanto Augusto sesuo)
 
@@ -43,7 +50,8 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
 - id: c-64890
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 241."
   citata_originali: |
     Mirė savo mėgiamajame Knišine, Palenkėje. Jam tada dar te-
     buvo tik 52 m., tačiau jis jau buvo visiškai pasenęs, silpnas

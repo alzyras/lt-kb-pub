@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5b6970667111d502f3f1d91"
+canonical_name: "Amelandas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Amelandas"]
+sameAs: []
+canonical_biography: "Pasak Narbuto, Fosas Austraviją, arba Glesariją, tapatino su fryzų sala Amelandu."
+place_authority: true
+historical_names: []
 ---
 # Amelandas
 
@@ -53,7 +62,8 @@ Pasak Narbuto, Fosas Austraviją, arba Glesariją, tapatino su fryzų sala Amela
 - id: c-175686
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Kiek čia nepatikimumo!2
     Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­

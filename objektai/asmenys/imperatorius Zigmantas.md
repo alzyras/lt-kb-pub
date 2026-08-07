@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-70b29ab6e0f33cd12ace686f"
+canonical_name: "imperatorius Zigmantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["imperatorius Zigmantas"]
+sameAs: []
+canonical_biography: "Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas imperatoriui Zigmantui, kurs laiško nuorašą tuojau nusiuntė Vytautui."
 ---
 # imperatorius Zigmantas
 
@@ -62,7 +69,8 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
 - id: c-65189
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 158."
   citata_originali: |
     Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į
     Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-

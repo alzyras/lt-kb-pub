@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-02cfe5c57c87f615a75078bc"
+canonical_name: "Bajorų pilaitė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bajorų pilaitė"]
+sameAs: []
+canonical_biography: "Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė."
+place_authority: true
+historical_names: []
 ---
 # Bajorų pilaitė
 
@@ -80,7 +89,8 @@ media_all_json: |-
 - id: c-168639
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 249."
   citata_originali: |
     Su­
     grįžęs po to į Prūsiją, paragino maršalą Šindekopfą, ne­

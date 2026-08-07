@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-97ec04ff15b493dde675e13b"
+canonical_name: "P. Liatukas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["P. Liatukas"]
+sameAs: []
+canonical_biography: "Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įsakė Kaune esančio 2-ojo pėstininkų pulko vadui karin."
 ---
 # P. Liatukas
 
@@ -68,7 +75,8 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
 - id: c-41426
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 176."
   citata_originali: |
     Vasario 3 d. Krašto
     apsaugos ministerijos štabo viršininkas
@@ -87,7 +95,8 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
 - id: c-41427
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 177."
   citata_originali: |
     Kariuomenės štabo virši-
     ninkas P. Liatukas vasario

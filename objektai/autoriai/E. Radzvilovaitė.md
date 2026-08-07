@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-014b1b929c7a420f8b0d497d"
+canonical_name: "E. Radzvilovaitė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["E. Radzvilovaitė"]
+sameAs: []
+canonical_biography: "Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvilovaitė, E."
 ---
 # E. Radzvilovaitė
 
@@ -74,7 +81,8 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
 - id: c-32916
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 84."
   citata_originali: |
     Lietuvoje (AkMD, t. 16, 1964, 63-80 p.), apie sidabrą kaip vertės
     matą (AkMD, t. 20, 1966, 33-45 p.), apie sidabro dirbinius ir auk­
@@ -97,7 +105,8 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
 - id: c-32917
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 147."
   citata_originali: |
     : _Polska i Litwa
     na przełomie wieków średnich_ , I, Krokuva 1904. — Pašuto, V. : _Cho-

@@ -68,7 +68,8 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
 - id: c-59512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
   citata_originali: |
     244 D.— invaserunt vilias (be to, III, 66, 68, 98, 143, 260, 276, 291, 330, 332
     ir kt.); Jer.— dorfir. Žodis interpretuojamas dvejopai: jis galėjo reikšti tiek valstiečių
@@ -92,7 +93,8 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
 - id: c-59513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
   citata_originali: |
     Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
     pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių. Tačiau
@@ -110,7 +112,8 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
 - id: c-167406
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
   citata_originali: |
     Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė
     Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams.

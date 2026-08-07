@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1e2b5e37b498eb3471156a3d"
+canonical_name: "Pranciškus Dmochovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Pranciškus Dmochovskis"]
+sameAs: []
+canonical_biography: "Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dmochovskio „Iliados“ varian tas (Dziela Homerą."
 ---
 # Pranciškus Dmochovskis
 
@@ -60,7 +67,8 @@ Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dm
 - id: c-173332
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 470"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 470."
   citata_originali: |
     Tai galėtų būti ir paties T. Nar­
     buto vertimas į lenkų kalbą, nes tuo metu buvo pa­

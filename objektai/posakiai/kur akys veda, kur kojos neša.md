@@ -70,7 +70,8 @@ Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link
 - id: c-59752
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195."
   citata_originali: |
     30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės
     ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas,

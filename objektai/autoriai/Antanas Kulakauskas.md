@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a27ea1f50fe181875988c794"
+canonical_name: "Antanas Kulakauskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Antanas Kulakauskas","Kulakauskas A.","objektai/autoriai/Kulakauskas A","Vytauto Didžiojo universiteto prof. Antanas Kulakauskas"]
+sameAs: []
+canonical_biography: "Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių. Redaktoriaus žodyje jam priskiriamas III skyrius apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m.; bibliografijoje jis siejamas su veikalu „Carų valdžioje. Lietuva XIX amžiuje“."
 ---
 # Antanas Kulakauskas
 
@@ -103,7 +110,8 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
 - id: c-16343
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Literatūra
     tolesniam skaitymui
@@ -120,7 +128,8 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
 - id: c-154570
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 10-11"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 10-11."
   citata_originali: |
     Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
     reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
@@ -163,7 +172,8 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
 - id: c-154571
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 4-5"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 4-5."
   citata_originali: |
     Redakcinė kolegija:
     Prof. dr. Raimundas Lopata – pirmininkas

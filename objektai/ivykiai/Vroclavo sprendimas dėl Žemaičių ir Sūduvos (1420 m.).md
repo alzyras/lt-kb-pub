@@ -148,7 +148,8 @@ Nenurodyta
 - id: c-05001
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 362"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 362."
   citata_originali: |
     Tokis imperatoriaus sprendimas, kuris kryžiuočiams daugiau
     pripažino, negu jie patys per paskutines derybas buvo užsiprašę,
@@ -168,7 +169,8 @@ Nenurodyta
 - id: c-05002
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 363."
   citata_originali: |
     Abu valdovai tačiau kratėsi tokio sprendimo. Jogaila tuojau
     apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo
@@ -184,7 +186,8 @@ Nenurodyta
 - id: c-163156
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 367."
   citata_originali: |
     Kilusius nesusipratimus turėjo spręsti
     drauge abiejų pusių atstovai.
@@ -205,7 +208,8 @@ Nenurodyta
 - id: c-163157
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 367."
   citata_originali: |
     Ordinas tačiau, tikėdamas atgauti prarastas pozicijas, neno­
     rėjo vykdyti susitarimų, juo labiau kad aiškų nepasitenkinimą

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-63387234274e55f2bdf735b1"
+canonical_name: "Davaina"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Davaina"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Davaina
 

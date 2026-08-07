@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-56532cb9f308c5320557b021"
+canonical_name: "Grabova"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Grabova"]
+sameAs: []
+canonical_biography: "Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susitarimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demarkacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną."
+place_authority: true
+historical_names: []
 ---
 # Grabova
 
@@ -79,7 +88,8 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 269."
   citata_originali: |
     Darydamas su jais atskiras sutartis, jis didino savo iždą
     auksu, sidabru, audimais, brangiais kailiais, ką vėliau duosniai
@@ -102,7 +112,8 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
 - id: c-67692
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 573"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 573."
   citata_originali: |
     Tuo tarpu lenkai, prancūzų padedami, sutvar-
     kė savo kariuomenę, atsigavo ir pradėjo stumti atgal bolševikus,

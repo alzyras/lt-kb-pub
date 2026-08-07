@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e04d05056da104f45198262"
+canonical_name: "Clevelandas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Clevelandas"]
+sameAs: []
+canonical_biography: "- Clevelande) tik fizinio darbo sąlygas, Jakš­ tas produktyviai pasireiškė Lietuvos istorijos lauke."
+place_authority: true
+historical_names: []
 ---
 # Clevelandas
 
@@ -59,7 +68,8 @@ media_all_json: |-
 - id: c-28218
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 72."
   citata_originali: |
     Jakštas pirmasis iš lietuvių su pagrindu kildino Gedimino dinas­
     tiją iš Aukštaičių (LP, t. 1). Nors ir teturėdamas emigracijoje

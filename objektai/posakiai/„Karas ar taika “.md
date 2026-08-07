@@ -60,7 +60,8 @@ Voldemarui klausimą „Karas ar taika?“ A.
 - id: c-26573
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 159-160"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 159-160."
   citata_originali: |
     Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
     Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-

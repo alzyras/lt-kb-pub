@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eefb3819159c78fa681cddd9"
+canonical_name: "Tvankstė (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tvankstė (pilis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr."
+place_authority: true
+historical_names: []
 ---
 # Tvankstė (pilis)
 
@@ -51,7 +60,8 @@ Dusburgietis teigia, kad prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tu
 - id: c-59400
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 320."
   citata_originali: |
     Tropai)
     Traupis

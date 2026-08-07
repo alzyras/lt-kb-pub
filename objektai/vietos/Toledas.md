@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-99afe2d08d459966098312dc"
+canonical_name: "Toledas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Toledas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga 1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą akmenyje ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai ir lotyniškai."
+place_authority: true
+historical_names: []
 ---
 # Toledas
 
@@ -59,7 +68,8 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
 - id: c-59370
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga
 

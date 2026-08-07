@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eabd035427faa6c71b2fb256"
+canonical_name: "Dubrovno pavietas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dubrovno pavietas"]
+sameAs: []
+canonical_biography: "I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno."
+place_authority: true
+historical_names: []
 ---
 # Dubrovno pavietas
 
@@ -52,7 +61,8 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
 - id: c-82160
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127-128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127-128."
   citata_originali: |
     I1l
 

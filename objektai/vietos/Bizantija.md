@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aa86fa915e5cf02622324b12"
+canonical_name: "Bizantija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bizantija"]
+sameAs: []
+canonical_biography: "Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­ niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­ riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­ niai^2 )."
+place_authority: true
+historical_names: []
 ---
 # Bizantija
 
@@ -51,7 +60,8 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 228."
   citata_originali: |
     Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
     čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­

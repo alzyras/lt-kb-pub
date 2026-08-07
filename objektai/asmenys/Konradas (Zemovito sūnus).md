@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3535b037f6568ef97dea030d"
+canonical_name: "Konradas (Zemovito sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas (Zemovito sūnus)"]
+sameAs: []
+canonical_biography: "Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelaisvę ir vėliau grąžino į tėvo valdas."
 ---
 # Konradas (Zemovito sūnus)
 
@@ -53,7 +60,8 @@ Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelais
 - id: c-169489
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 106."
   citata_originali: |
     Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
     latos siaubė Mindaugo karvedžiai, ten vyko kovos prie

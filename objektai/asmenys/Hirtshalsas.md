@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1c974a05937f1d5f94eca7e7"
+canonical_name: "Hirtshalsas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hirtshalsas"]
+sameAs: []
+canonical_biography: "Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, trečią kartą burtams kritus, sudegino pririštą ant žirgo."
 ---
 # Hirtshalsas
 
@@ -51,7 +58,8 @@ Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, t
 - id: c-159349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
   citata_originali: |
     Po šių skerdynių
     notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų

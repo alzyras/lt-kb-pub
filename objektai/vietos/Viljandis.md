@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c1036f7a2c923b45367e1ea3"
+canonical_name: "Viljandis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Viljandis"]
+sameAs: []
+canonical_biography: "Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuoknesę (Kokenhausen) ir Viljandį (Fellin). 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
+place_authority: true
+historical_names: []
 ---
 # Viljandis
 
@@ -81,7 +90,8 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 - id: c-45407
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112."
   citata_originali: |
     1608 m. rudenį numalšinus rokošą Len-
     kijos karalystėje, Jonas Karolis Chodke-
@@ -106,7 +116,8 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 - id: c-45408
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112."
   citata_originali: |
     laivams iplaukti j Rygos uosta. Per trumpa
     “| laiką Švedijos kariuomenė užėmė Paidę

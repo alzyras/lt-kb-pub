@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-73c436106e01eb3408d5351b"
+canonical_name: "V. Jatulis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Jatulis"]
+sameAs: []
+canonical_biography: "Jatulis."
 ---
 # V. Jatulis
 
@@ -61,7 +68,8 @@ Jatulis.
 - id: c-33170
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 96."
   citata_originali: |
     (^149) **Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­
     niai padalinami dar į tokias serijas :** **_Documenta Pontificum Romanorum;

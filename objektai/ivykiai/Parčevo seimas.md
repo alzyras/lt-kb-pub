@@ -130,7 +130,8 @@ Nenurodyta
 - id: c-169911
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 146."
   citata_originali: |
     Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
     taus gimimo tūkstantis keturi šimtai devyniasdešimt

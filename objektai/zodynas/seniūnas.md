@@ -44,30 +44,31 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 <a id="claim-t-12581"></a>
 - t-001
   teiginys: "Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje."
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/urėdas|urėdas]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-14711
 
 <a id="claim-t-12582"></a>
 - t-002
   teiginys: "Seniūnas turėjo teismo valdžią ir vietininko teises."
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/organas|organas]]"
   temporaliniai_duomenys: "įvykio data: 1411 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-14712
 
 <a id="claim-t-187529"></a>
 - t-003
   teiginys: "Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai."
-  atnaujinta: "2026-07-19 17:29"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -90,7 +91,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 <a id="claim-t-193157"></a>
 - t-004
   teiginys: "Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -103,7 +104,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 <a id="claim-t-200400"></a>
 - t-005
   teiginys: "1411 m. Vytautas pats paskyrė seniūną iš Ordino atgautai Žemaitijai."
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Citata leidžia tiksliau nurodyti, kad Žemaitija buvo atgauta iš Ordino."
   susije_objektai: "mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/organas|organas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
@@ -111,8 +112,9 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau nurodyti, kad Žemaitija buvo atgauta iš Ordino."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-14712
+    - c-186192
 
 <a id="claim-t-201507"></a>
 - t-006
@@ -150,7 +152,8 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 302."
   citata_originali: |
     Pirmas lenkų urėdas atsiradęs Lietuvoje vadinosi seniūnu
     (lenk. starosta). Tai buvo 1386 met. Jogailos Vilniun atsiųstas
@@ -167,7 +170,8 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 302."
   citata_originali: |
     1411 m. jis
     pats paskyrė seniūną iš Ordino atgautai Žemaitijai^1 ). Tai buvo
@@ -176,18 +180,18 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     nyčios dvaruose. Jis naudojosi visomis vietininko teisėmis ir
     paprastomis jo pajamomis.
   statusas: verified
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-005
 
 - id: c-175909
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 246-247"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 246-247."
   citata_originali: |
     Pagaliau baudžiamosios (kriminalinės) bylos
     buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
@@ -209,7 +213,8 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - id: c-183731
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 246-247"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 246-247."
   citata_originali: |
     Pagaliau baudžiamosios (kriminalinės) bylos
     buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
@@ -250,9 +255,9 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     - t-003
 
 - id: c-184854
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 108"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 108."
   citata_originali: |
     Tenka aptarti šio administracinio vieneto pavadinimą. Jį administravo įvairiai va-
     dinami valdovo skirti pareigūnai - vietininkai, seniūnai. Jų galias ir santykį su Kauno
@@ -265,3 +270,22 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-186192
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Savo pašonėje svetimo agento jis be abejo
+    pakęsti negalėjo. Bet Vytauto visiškai nebūta priešingo pa­
+    čiam tam lenkiškos institucijos principui bei vardui. 1411 m. jis
+    pats paskyrė seniūną iš Ordino atgautai Žemaitijai^1 ).
+  citata_rodoma: "Bet Vytauto visiškai nebūta priešingo pa­\nčiam tam lenkiškos institucijos principui bei vardui. 1411 m. jis\npats paskyrė seniūną iš Ordino atgautai Žemaitijai^1 )."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

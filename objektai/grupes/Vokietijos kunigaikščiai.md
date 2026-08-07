@@ -58,7 +58,8 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
 - id: c-33366
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 350."
   citata_originali: |
     Pvz., Zig­
     manto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė

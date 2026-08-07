@@ -18,6 +18,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fdcb13e34ee612a6e5792adf"
+canonical_name: "Burnaš Girėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Burnaš Girėjus"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Burnaš Girėjus
 

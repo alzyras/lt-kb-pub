@@ -57,7 +57,8 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
 - id: c-93945
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 36."
   citata_originali: |
     Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­
     sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą,

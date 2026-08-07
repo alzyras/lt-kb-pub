@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-229ad97f401fad52dcf95a0e"
+canonical_name: "Breslauja"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Breslauja"]
+sameAs: []
+canonical_biography: "Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų buvo išskirti net keli pavietai; pav., iš Vilniaus vaivadijos buvo išskirta Ašmenos, Lydos, Ukmergės ir Breslaujos, o iš Trakų vaivadijos — Gardino, Kauno ir Upytės pavietai."
+place_authority: true
+historical_names: []
 ---
 # Breslauja
 
@@ -139,7 +148,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 - id: c-170276
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 252."
   citata_originali: |
     Per sostinę įgydamas didžiojo kunigaikščio titulą, t. y. vyres­
     niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai
@@ -161,7 +171,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 - id: c-170277
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Tais metais
     Švitrigaila su LDK ry-
@@ -186,7 +197,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 - id: c-170278
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 41-42"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 41-42."
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
     lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­

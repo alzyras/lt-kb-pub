@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f4849712a8c0344cf7e7c0d8"
+canonical_name: "Konradas, vadinamas Tušenfeldu"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas, vadinamas Tušenfeldu"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu."
 ---
 # Konradas, vadinamas Tušenfeldu
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad ten žuvo nukautas brolis Konradas, vadinamas Tušenfel
 - id: c-61002
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 186-187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 186-187."
   citata_originali: |
     Livonijos atstovų prieštaravimo originale rašoma: van
     des koninges wegene van Lettowen dat lant do Ousteyten und Sameyten, Plessekowe

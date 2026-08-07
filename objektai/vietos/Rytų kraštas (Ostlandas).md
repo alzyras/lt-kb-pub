@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2d8d327bafc6b564e6858a8f"
+canonical_name: "Rytų kraštas (Ostlandas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rytų kraštas (Ostlandas)"]
+sameAs: []
+canonical_biography: "Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas."
+place_authority: true
+historical_names: []
 ---
 # Rytų kraštas (Ostlandas)
 
@@ -61,7 +70,8 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
 - id: c-24460
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 202."
   citata_originali: |
     Ištremtųjų
     vietas turėjo užimti atkelti milijonai vokiečių.

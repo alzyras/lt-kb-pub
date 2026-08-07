@@ -81,7 +81,8 @@ Karaliaus ir luomų vardu jam šitaip buvo atsa kyta.
 - id: c-176045
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 579"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 579."
   citata_originali: |
     Pakviestas į se­
     nato posėdį, jis, be galo išraiškingai kalbėdamas, nusi­

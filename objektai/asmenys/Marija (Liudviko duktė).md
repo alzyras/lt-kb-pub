@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-798e7712a432d2b07270d7bf"
+canonical_name: "Marija (Liudviko duktė)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Marija (Liudviko duktė)"]
+sameAs: []
+canonical_biography: "Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai."
 ---
 # Marija (Liudviko duktė)
 
@@ -51,7 +58,8 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 163."
   citata_originali: |
     Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
     įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­

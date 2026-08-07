@@ -61,7 +61,8 @@ Narbutas, tikėtina, rėmėsi Aleksandro von Humboldto ir A. Bonplando kelionių
 - id: c-173419
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 489"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 489."
   citata_originali: |
     Tik­
     riausiai T. Narbutas šią informaeiją paėmė iš ke­

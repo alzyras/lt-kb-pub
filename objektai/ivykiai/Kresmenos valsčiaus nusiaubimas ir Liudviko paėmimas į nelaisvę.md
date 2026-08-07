@@ -82,23 +82,29 @@ Nenurodyta
 <a id="claim-t-66639"></a>
 - t-002
   teiginys: "Grabnyčių dieną magistras Mangoldas su kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį nusiaubė."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kresmena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kresmena: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę\" parinktas kaip owner_note_path. Targetas \"Kresmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-66835
+    - c-66836
 
 <a id="claim-t-194398"></a>
 - t-003
   teiginys: "Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-66835
     - c-66836
 
 ## Reikšmingi paminėjimai
@@ -127,7 +133,8 @@ Nenurodyta
 - id: c-66835
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166-167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166-167."
   citata_originali: |
     Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per
     šią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė
@@ -167,13 +174,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
-    - t-003
 
 - id: c-66836
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
   citata_originali: |
     Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
 
@@ -192,4 +198,5 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-003

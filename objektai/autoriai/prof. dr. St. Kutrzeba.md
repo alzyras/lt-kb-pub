@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43387ed52d539104acca7b68"
+canonical_name: "prof. dr. St. Kutrzeba"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["prof. dr. St. Kutrzeba"]
+sameAs: []
+canonical_biography: "Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako."
 ---
 # prof. dr. St. Kutrzeba
 
@@ -66,7 +73,8 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 295."
   citata_originali: |
     Nuo šito prasideda visa Lietuvių —
     Lenkų santykių pynė. Bet terminas „prijungti” (applicare),

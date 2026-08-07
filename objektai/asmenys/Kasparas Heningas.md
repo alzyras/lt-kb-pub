@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5f68ebee2cea3e69bda84d9b"
+canonical_name: "Kasparas Heningas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kasparas Heningas"]
+sameAs: []
+canonical_biography: "1584 m. Kauno miesto taryba, turėda ma leidimą miesto girioje ruošti miško medžiagą ir pelenus, paskyrė atsakingu už tai Kasparą Heningą."
 ---
 # Kasparas Heningas
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185532
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 238"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 238."
   citata_originali: |
     Stepo-
     nas Batoras leido miestui išdegti girioje 50 laštų pelenų, o už juos gautus pinigus

@@ -58,7 +58,8 @@ media_all_json: |-
 - id: c-00375
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 84."
   citata_originali: |
     Rusiškosios sritys pagrasino, kad jo nebeklau-
     sysiančios, o žemaičiai žadėjo net susidėti su ordinu ir iš-

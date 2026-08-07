@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-34d5787baac3f8a5c370a576"
+canonical_name: "Abraomas Kulvietis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Abraomas Kulvietis"]
+sameAs: []
+canonical_biography: "Abraomas Kulvietis dar išleido keletą kitų reikalingų tikybinių knygučių. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą."
 ---
 # Abraomas Kulvietis
 
@@ -51,7 +58,8 @@ Abraomas Kulvietis dar išleido keletą kitų reikalingų tikybinių knygučių.
 - id: c-176378
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 61."
   citata_originali: |
     Vilniuje A. Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi
     60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė

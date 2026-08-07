@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-172649
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 257."
   citata_originali: |
     Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš
     senovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios

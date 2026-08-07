@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14079c0fc5c5f70b6bf7aefe"
+canonical_name: "Anicetas Renjė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Anicetas Renjė"]
+sameAs: []
+canonical_biography: "(Medicinos daktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos dalykus."
 ---
 # Anicetas Renjė
 
@@ -54,7 +61,8 @@ media_all_json: |-
 - id: c-177237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 272."
   citata_originali: |
     Toji šventykla turėjo būti su kariniais
     įtvirtinimais, nes senoviniuose XVI amžiaus dokumentuose mi­

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2bee651a4fd0bf2e676c49bc"
+canonical_name: "K. Śląski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Śląski"]
+sameAs: []
+canonical_biography: "Śląski, K."
 ---
 # K. Śląski
 
@@ -39,7 +46,8 @@ media_all_json: |-
 - id: c-33001
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 130."
   citata_originali: |
     — Szymański, W. : _Kontakty handlowe Wielkopolski
     w IX-XI w._ Poznań 1958. — Śląski, K. : _Stosunki Prusów z innymi

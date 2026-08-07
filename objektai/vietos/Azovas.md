@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9406f1263595f73e2a2ab6a5"
+canonical_name: "Azovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Azovas"]
+sameAs: []
+canonical_biography: "Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais Gediminu ir Algirdu61, bemaž tuo metu užka­ riavęs neramias šios tautos ordas, buvo užėmęs ištisą jų ulusą, palikęs jiems valią išpažinti senąjį tikėjimą, davęs daug žemės valdų ir."
+place_authority: true
+historical_names: []
 ---
 # Azovas
 
@@ -71,7 +80,8 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
 - id: c-82148
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 158-159"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 158-159."
   citata_originali: |
     142
 
@@ -98,7 +108,8 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
 - id: c-168285
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 353"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 353."
   citata_originali: |
     Šiek tiek užgaišęs Lietu­
     voje, kur tvarkė visokius reikalus, pats taip pat leidosi

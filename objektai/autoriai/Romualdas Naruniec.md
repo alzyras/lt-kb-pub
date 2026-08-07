@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-39354149734707ba4997ef42"
+canonical_name: "Romualdas Naruniec"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Romualdas Naruniec"]
+sameAs: []
+canonical_biography: "Kaip rašo istorikas Romualdas Naruniecas, „Mykolo Balinskio išlaisvinimo iš kalėjimo problema lieka pa­ slaptinga\"."
 ---
 # Romualdas Naruniec
 
@@ -61,7 +68,8 @@ Kaip rašo istorikas Romualdas Naruniecas, „Mykolo Balinskio išlaisvinimo iš
 - id: c-84021
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     Gegužės mėnesį buvo areštuotas M. Balinskis, bet
     netrukus paleistas. Kaip rašo istorikas Romualdas Naruniecas,

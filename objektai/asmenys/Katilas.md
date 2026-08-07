@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-933bf5e136360fbd1757f2d0"
+canonical_name: "Katilas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Katilas"]
+sameAs: []
+canonical_biography: "Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasirodė. Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) — Mykolas Višniaveckis."
 ---
 # Katilas
 
@@ -44,7 +51,6 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
   ryšio_targeto_parinkimas: "Katilas: llm_allowed_candidate, person"
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad antspaudas priklausė Katilui."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Antspaudas priklausė Katilas (0.98)"
   pagrindžia:
     - c-173115
 
@@ -53,7 +59,8 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
 - id: c-173115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 406"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 406."
   citata_originali: |
     IV lentelė, 22-asis piešinys. Indas, panašus į taurę, virš ku­
     rio trikampis; virš skydo šalmas apex, kaip virš karalių karūnų.
@@ -66,6 +73,3 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Antspaudas]]

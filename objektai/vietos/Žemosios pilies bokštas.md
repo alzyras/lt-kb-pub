@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-01630afdbe94abb875f73e07"
+canonical_name: "Žemosios pilies bokštas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žemosios pilies bokštas"]
+sameAs: []
+canonical_biography: "Vilniaus katedros varpinė pastatyta ant vieno Žemosios pilies bokšto liekanų."
+place_authority: true
+historical_names: []
 ---
 # Žemosios pilies bokštas
 

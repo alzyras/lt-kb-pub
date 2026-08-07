@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2acc77215d9a997b6cf4b99d"
+canonical_name: "Gilbert de Lannoy"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gilbert de Lannoy"]
+sameAs: []
+canonical_biography: "Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą), tai jo kelionėje užteko Vytauto kepurės, kaip „lydimojo rašto“ per totorių žemes."
 ---
 # Gilbert de Lannoy
 
@@ -53,7 +60,8 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 160."
   citata_originali: |
     bet ir visi kiti totoriai^1 ). Ir tikrai, kada Gilbert de Lannoy, Ang­
     lijos karaliaus Henriko VI pasiuntinys važinėjo į Krymą (Kaffą),

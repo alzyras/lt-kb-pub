@@ -139,7 +139,8 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
 - id: c-176167
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 182."
   citata_originali: |
     Smarkios liū-
     I š v y k u s
@@ -177,7 +178,8 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
 - id: c-176168
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 189."
   citata_originali: |
     Iš tos išdavystės išėjo visai kas kita, nei vy­
     lėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,
@@ -211,7 +213,8 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
 - id: c-176940
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
   citata_originali: |
     Apie vieną brolių karo laivą
     Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
@@ -230,7 +233,8 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
 - id: c-176941
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     321 (314). Dar apie tą patį
     Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
@@ -252,7 +256,8 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
 - id: c-179013
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
   citata_originali: |
     Su jais ir su visa Kulmo žemės bei gretimų
     žemių brolių kariuomene brolis Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, bei

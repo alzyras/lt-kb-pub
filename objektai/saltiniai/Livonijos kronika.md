@@ -59,7 +59,7 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
 <a id="claim-t-186295"></a>
 - t-002
   teiginys: "Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -73,7 +73,6 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos kronika\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-169655
     - c-169656
 
 ## Citatos
@@ -81,7 +80,8 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
 - id: c-169655
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 99."
   citata_originali: |
     Kai
     Jo k a ra i k a rtu su Li-
@@ -107,12 +107,12 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-169656
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
   citata_originali: |
     Vis dėl­
     to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­

@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184721
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 107"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 107."
   citata_originali: |
     Ne vien me­
     džiai patys godojami buvo, bet dar jų amalai ste­

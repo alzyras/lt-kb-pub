@@ -65,7 +65,8 @@ Valachų dalyvavimas Vytauto būriuose leidžia spręsti, kad Vytautas Dniepro �
 - id: c-28576
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 322."
   citata_originali: |
     Iš tų dviejų žygių trūksta smulkesnių versmių. Yra tikra tačiau,
     kad Vytautas tvirčiau siekė atsistoti prie Juodosios jūros. Dalyva­
@@ -82,7 +83,8 @@ Valachų dalyvavimas Vytauto būriuose leidžia spręsti, kad Vytautas Dniepro �
 - id: c-178546
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 555"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 555."
   citata_originali: |
     Ka­
     dangi Ivanas rėmė Valachiją, pasiuntiniai, kad ir labai

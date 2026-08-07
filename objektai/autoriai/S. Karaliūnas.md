@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7a5f19be3f830b9489de6494"
+canonical_name: "S. Karaliūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["S. Karaliūnas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad karaliūnui, istorikui R."
 ---
 # S. Karaliūnas
 
@@ -43,7 +50,8 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
 - id: c-61411
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
     S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,

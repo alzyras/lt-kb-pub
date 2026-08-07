@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dca31d53a6ee5ba0ec62705e"
+canonical_name: "Lelevelis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lelevelis"]
+sameAs: []
+canonical_biography: "Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, įrodinėjo Baužos lietuvių kildinimo iš gerulių nemoksliškumą. Tą nuotaiką ugdė ir pats universitetas, o ypač iškalbingas ir gabus istorijos profesorius Lelevelis, kurio paskaitų susirinkdavo klausyti ne vien studentai, bet ir daugybė vilniečių."
 ---
 # Lelevelis
 
@@ -63,7 +70,8 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
 - id: c-01333
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 475"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 475."
   citata_originali: |
     siryžo, kad ir maišto keliu, išvaduoti savo kraštą iš Rusų jungo.
     Tą nuotaiką ugdė ir pats universitetas, o ypač iškalbingas ir

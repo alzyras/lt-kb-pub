@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-90a310e7783a914bf18b8259"
+canonical_name: "Kauno Lietuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno Lietuva"]
+sameAs: []
+canonical_biography: "Kauno Lietuva pateikiama kaip lenkiškos Lietuvos sampratos vartotas Lietuvos Respublikos pavadinimas."
+place_authority: true
+historical_names: []
 ---
 # Kauno Lietuva
 
@@ -58,7 +67,7 @@ Nenurodyta
 <a id="claim-t-13535"></a>
 - t-001
   teiginys: "Lietuvos Respublika lenkiškoje Lietuvos sampratoje buvo vadinama Kauno Lietuva."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1920 m."
@@ -108,7 +117,8 @@ Nenurodyta
 - id: c-16587
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
     suformuota „Vidurinė Lietuva“. Remiantis tokia lenkiška Lietuvos sam-
@@ -128,7 +138,8 @@ Nenurodyta
 - id: c-74041
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Tiesa,
     nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
@@ -146,7 +157,8 @@ Nenurodyta
 - id: c-74042
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Būtent ši samprata iškilo 1920 m.
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo

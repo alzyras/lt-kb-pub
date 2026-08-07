@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-38b5301b5cc0d7754f35c82f"
+canonical_name: "Bachidas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bachidas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą, kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio."
 ---
 # Bachidas
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
 - id: c-60875
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
   citata_originali: |
     Skaitome ir apie Makabėjų, kad
     jo vyrai šaukėsi į dangų melsdamiesi ir išvaikė priešų stovyklas. Apie Judą Makabėjų

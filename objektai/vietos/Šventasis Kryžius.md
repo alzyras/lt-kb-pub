@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-755ba7ea533c8b1af3068e57"
+canonical_name: "Šventasis Kryžius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventasis Kryžius"]
+sameAs: []
+canonical_biography: "Šventasis Kryžius yra 593 m aukščio viršūnė prie Opatovo. Šventajame Kryžiuje XII a. buvo įkurtas benediktinų vienuolynas ir bažnyčia. Šventasis Kryžius yra 593 m aukščio Lysa Gora viršūnė Lenkijos Kielcų vaivadijos Šventojo Kryžiaus kalnuose."
+place_authority: true
+historical_names: []
 ---
 # Šventasis Kryžius
 
@@ -137,7 +146,8 @@ media_all_json: |-
 - id: c-170403
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 233."
   citata_originali: |
     Šventasis Kryžius — 593 m aukščio viršūnė ,.Lysa Gora” (apie
     20 km I vakarus nuo Opatovo) Lenkijos Kielcų vaivadijos kalnų

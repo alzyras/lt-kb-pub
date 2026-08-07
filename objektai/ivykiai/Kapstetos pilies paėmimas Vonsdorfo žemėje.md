@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-87556
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 107-108"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107-108."
   citata_originali: |
     Apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies
                                   paėmimą

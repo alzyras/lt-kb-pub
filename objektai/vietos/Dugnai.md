@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4ca541fd53c5cafa87b5f36a"
+canonical_name: "Dugnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dugnai"]
+sameAs: []
+canonical_biography: "Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise užlietose vandeniu."
+place_authority: true
+historical_names: []
 ---
 # Dugnai
 
@@ -47,7 +56,8 @@ Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise u
 - id: c-171881
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
   citata_originali: |
     Nebent pripažintume,
     jog ta išimtis glūdi pačioje lietuvių mitologijoje, pagal kurią

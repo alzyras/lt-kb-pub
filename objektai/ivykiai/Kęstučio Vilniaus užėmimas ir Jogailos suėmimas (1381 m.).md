@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-28739
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 281."
   citata_originali: |
     Jogailai nenujaučiant, Kęstutis, staiga užėmęs sostinę, nelais­
     vėn paėmė Jogailą su jo broliais ir motina. Perversmo pasėkoje

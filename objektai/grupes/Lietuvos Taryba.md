@@ -158,7 +158,8 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 - id: c-22583
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 560"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 560."
   citata_originali: |
     Prezidiumas savo valdžią turėjo vykdyti per ministe-
     rių kabinetą, atsakingą prieš Valstybės Tarybą. Ši pastaroji tu-
@@ -175,7 +176,8 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 - id: c-166124
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 135."
   citata_originali: |
     Tačiau kitoje dalyje
     Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą
@@ -195,7 +197,8 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 - id: c-166125
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 133-134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 133-134."
   citata_originali: |
     Konferencijoje išrinkta 20 asmenų Lietuvos Taryba (ji pradėjo veikti
     rugsėjo 24 dieną) kaip vykdomasis Lietuvos žmonių organas, o jos pirmi-
@@ -222,7 +225,8 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 - id: c-166127
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 21."
   citata_originali: |
     Didžioji Lietuvos dalis atitenka Rusijai.
     1918 II 16
@@ -243,7 +247,8 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 - id: c-166308
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 553-554"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 553-554."
   citata_originali: |
     Konferencijos sudarytai programai vykdyti buvo išrinkta
     Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti
@@ -267,7 +272,8 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 - id: c-166309
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 559-560"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 559-560."
   citata_originali: |
     Vyriausybė pradėjo veikti, vaduodamasi vadinamaisiais
     laikinės konstitucijos pamatiniais dėsniais, kuriuos išleido Vals-

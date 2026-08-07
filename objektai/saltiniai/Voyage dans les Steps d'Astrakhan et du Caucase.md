@@ -49,7 +49,8 @@ Kas norėtų labiau įsigilinti, teskaito: Vo­ yage dans les Steps d'Astrakhan 
 - id: c-84476
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 158."
   citata_originali: |
     60
     Nors tie, kuriuos mes vadiname to­

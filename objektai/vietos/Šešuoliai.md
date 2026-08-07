@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d6acc0f2870adb399ddacf8e"
+canonical_name: "Šešuoliai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šešuoliai"]
+sameAs: []
+canonical_biography: "1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o 1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­ niaus."
+place_authority: true
+historical_names: []
 ---
 # Šešuoliai
 
@@ -63,7 +72,8 @@ media_all_json: |-
 - id: c-28413
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 240."
   citata_originali: |
     1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o
     1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­

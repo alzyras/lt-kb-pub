@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2eea45638034b2b1dd4ac1ed"
+canonical_name: "Romanas (Briansko kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Romanas (Briansko kunigaikštis)"]
+sameAs: []
+canonical_biography: "Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigaikštis Romanas ir jo sūnus Olegas, Smolensko kunigaikštis Glebas ir daug kitų, nes tuo metu rusėnų „visi kunigaikščiai totorių valioje buvo“."
 ---
 # Romanas (Briansko kunigaikštis)
 
@@ -118,7 +125,8 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - id: c-44496
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 33."
   citata_originali: |
     1275 m. pradžioje chanas Mengu Timūras prieš Lietuvą pasiuntė
     kariuomenę, vadovaujamą Jagurčino, įsakęs eiti į žygį ir rusėnų
@@ -140,7 +148,8 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - id: c-176125
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 201."
   citata_originali: |
     Kova
     įsiplieskė iš naujo, kai atžygiavo rusų pagalbiniai da­
@@ -172,7 +181,8 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - id: c-176599
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 100."
   citata_originali: |
     Bet kunigaikštis Jurijus susisiekė su smo-
     lenskiečiais, tie priėmė jį ir atidarė jam miesto vartus.
@@ -191,7 +201,8 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - id: c-178781
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 199."
   citata_originali: |
     Tada ru­
     sai ir suprato, kad lietuviai kariauja, norėdami ne gro­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee58a93b01e8f33e0e6368f6"
+canonical_name: "Ricimeras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ricimeras"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdžią į savo rankas, Avitui sėdint imperatoriaus soste. Narbutas pasakoja, kad Ricimeras, atsikratęs Majorijano, neteko vieningos imperijos valdžios ir imperijos vadovu iškėlė Severą. Imperatoriaus sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su darė beveik vien Italija, vadovu Severą ir šaukėsi pa galbos iš Konstantinopolio."
 ---
 # Ricimeras
 
@@ -109,7 +116,8 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
 - id: c-174193
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
   citata_originali: |
     Einanti savo politinio gyvenimo saulė­
     lydžio link galinga Cezarių valstybė 457 metais, kai
@@ -138,7 +146,8 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
 - id: c-174857
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Įvairiose šalyse atsirado
     įvairių imperatorių ir barbarų karaliukų. Imperatoriaus

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a18bedf75a43b0f2e325a877"
+canonical_name: "Severas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Severas"]
+sameAs: []
+canonical_biography: "Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškėlė Severą beveik vien Italija virtusios imperijos vadovu."
 ---
 # Severas
 
@@ -54,7 +61,8 @@ Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškė
 - id: c-174346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Įvairiose šalyse atsirado
     įvairių imperatorių ir barbarų karaliukų. Imperatoriaus

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9efcc96beb6221d43672c00d"
+canonical_name: "Tauragnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tauragnai"]
+sameAs: []
+canonical_biography: "Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė."
+place_authority: true
+historical_names: []
 ---
 # Tauragnai
 
@@ -57,7 +66,8 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 - id: c-45353
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 187."
   citata_originali: |
     Karin. K. Ladyga su lie-
     tuvių kariais toliau persekiojo bolševi-
@@ -73,7 +83,8 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 - id: c-45354
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 187."
   citata_originali: |
     K. Ladyga birželio 2 d.
     su raitininkais slinko paskui atsi-

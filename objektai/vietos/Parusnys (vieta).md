@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ea3ace33f0b49e2e17caf93"
+canonical_name: "Parusnys (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Parusnys","Parusnys (vieta)"]
+sameAs: []
+canonical_biography: "Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar užgynė tokius darbus kne binėti, nuo kurių žmogus gal kokį tokį akylumą įgyti."
+place_authority: true
+historical_names: []
 ---
 # Parusnys (vieta)
 
@@ -52,9 +61,9 @@ Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar u
 ## Citatos
 
 - id: c-184479
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 517"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 517."
   citata_originali: |
     Nemintąs Erikas, viešpats danų, re­
     gėdamas tokias neteisybes, vokyčių daromas per­

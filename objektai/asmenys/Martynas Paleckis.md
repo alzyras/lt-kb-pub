@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e663f360fa001c581706aff5"
+canonical_name: "Martynas Paleckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Martynas Paleckis"]
+sameAs: []
+canonical_biography: "Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­ šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­ tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig- 32 33 Žr. Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­ nanės, o du architektai ir raižytojai - Jonas Marija ir Jonas 34 Privilegija, duota Paleckiui steigti šią liejyklą, yra rašyta. 1619 m. 56 Miesto aktuose yra: karaliaus Stepo­ no patvirtinimas sutarties tarp po­ no Martyno Paleckio ir jo žmonos, dabar ponios Rainos Sluščiankos, ir miesto dėl stiklo liejyklos ir stiklo su­ pirkimo."
 ---
 # Martynas Paleckis
 
@@ -98,7 +105,8 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 - id: c-83384
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 305"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 305."
   citata_originali: |
     1572, mir.
     1619 m.
@@ -126,7 +134,8 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 - id: c-83385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 291"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291."
   citata_originali: |
     Trys į
     Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­
@@ -158,7 +167,8 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 - id: c-83386
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 290."
   citata_originali: |
     Taip pat, kad miesto
     gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­

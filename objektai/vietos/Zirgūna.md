@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d450bfffb54389aec8c321f3"
+canonical_name: "Zirgūna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zirgūna"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai susijungė ir įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su savo kariuomene apsistojo priešais. Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių, jei nebūtų spėjęs ateiti su pagalba vienas Pamedės."
+place_authority: true
+historical_names: []
 ---
 # Zirgūna
 
@@ -86,7 +95,8 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
 - id: c-59292
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Per apgulą ir bėgant žuvo daug prūsų,
     daug buvo mirtinai sužeista, jų vadas Kaltis taip pat krito nukautas kalaviju, nes
@@ -110,7 +120,8 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
 - id: c-59293
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
     Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be

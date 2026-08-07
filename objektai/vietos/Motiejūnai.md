@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-847946cc3758adab9802f180"
+canonical_name: "Motiejūnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Motiejūnai"]
+sameAs: []
+canonical_biography: "Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir išsiskleidę pasuko Motiejūnų link."
+place_authority: true
+historical_names: []
 ---
 # Motiejūnai
 
@@ -51,7 +60,8 @@ Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir išsiskleidę pasuko Mo
 - id: c-45224
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 208."
   citata_originali: |
     Apie 12 val.
     T. Balno kariai pasiekė Motiejūnų-Giedraičių

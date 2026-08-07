@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f766da7b461d16225326c011"
+canonical_name: "Ignotas Masalskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ignotas Masalskis"]
+sameAs: []
+canonical_biography: "Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Masalskis. Masalskis ir Livonijos vyskupas J."
 ---
 # Ignotas Masalskis
 
@@ -138,7 +145,8 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 - id: c-21687
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 88."
   citata_originali: |
     Nors jis ne iš tų valdovų, kurie lemia istorijos
     vyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai
@@ -161,7 +169,8 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 - id: c-21688
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 96."
   citata_originali: |
     Dėl savo
     ambicijų užsiėmė smulkiomis intrigėlėmis, susipyko su visa savo aplin-
@@ -186,7 +195,8 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 - id: c-21689
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 97."
   citata_originali: |
     Su-
     kilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė
@@ -209,7 +219,8 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 - id: c-73530
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 89-90"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 89-90."
   citata_originali: |
     Klasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-
     jos stiliumi. Lietuvoje Apšvietos ir klasicizmo žingsniai iš esmės buvo to
@@ -233,7 +244,8 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 - id: c-73531
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 88."
   citata_originali: |
     Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m.
     išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pir-

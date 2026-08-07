@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2abcf7d1f9aa352a702a598c"
+canonical_name: "Bausmių aikštė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bausmių aikštė"]
+sameAs: []
+canonical_biography: "Aikštė, kur bausti nusikaltėliai."
+place_authority: true
+historical_names: []
 ---
 # Bausmių aikštė
 
@@ -50,7 +59,8 @@ Aikštė, kur bausti nusikaltėliai.
 - id: c-82150
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 217."
   citata_originali: |
     22. Aikštė, kur bausti nusikaltėliai.
     23. Kelias į Medininkų pilį ir Ašmenos dvarą.

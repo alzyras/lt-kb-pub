@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184682
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 423"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 423."
   citata_originali: |
     Aiškiai jau regėjo lietuviai, jog didžiai naudin­
     gu ir reikalingu daiktu Paysly su krikščionimis vo­

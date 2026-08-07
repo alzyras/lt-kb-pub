@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-22bf0cc69a810c8b3ddce62d"
+canonical_name: "Robert Gordon Latham"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["objektai/asmenys/Robert Gordon Latham","Robert Gordon Latham"]
+sameAs: []
+canonical_biography: "„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“ („Aprašomoji etnologija“)."
 ---
 # Robert Gordon Latham
 
@@ -82,7 +89,8 @@ media_all_json: |-
 - id: c-73214
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 11-12"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 11-12."
   citata_originali: |
     Alfonsas Eidintas,
        redaktorius
@@ -113,7 +121,8 @@ media_all_json: |-
 - id: c-73215
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 11-12"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 11-12."
   citata_originali: |
     Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams
     istorinis pasakojimas pasirodys vienodai priimtinas bei darnus, primin-

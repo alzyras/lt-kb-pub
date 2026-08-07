@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-814a68e79fd04635c3c055f7"
+canonical_name: "Liubano ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liubano ežeras"]
+sameAs: []
+canonical_biography: "Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta nuo Dauguvos žiočių, jos krantu tolyn į rytus, «iki vietos, kur iš Liubano ežero ištekanti upė (= Aiviekstė, Ewst) įteka į Dauguvą»."
+place_authority: true
+historical_names: []
 ---
 # Liubano ežeras
 
@@ -52,7 +61,8 @@ Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta
 - id: c-93883
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 267."
   citata_originali: |
     Per Prūsus, Lietuvai
     paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės

@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a4c2cdbcb1d47916b41fea13"
+canonical_name: "Juodoji Rusija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Juodoji Rusija"]
+sameAs: []
+canonical_biography: "vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi Voluinė, jau tapo nebeginčijamu Lietuvos kraštu."
+place_authority: true
+historical_names: []
 ---
 # Juodoji Rusija
 
@@ -72,7 +81,8 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
 - id: c-166273
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 171."
   citata_originali: |
     Savo pali­
     kuoniams jis nurodė ekspansijos kryptį, kuri pastoviai buvo palai­
@@ -93,7 +103,8 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
 - id: c-175930
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 90."
   citata_originali: |
     Taip būdavo ir vėlesniaisiais laikais; pavyzdžiui,
     kai kurios Gedimino prijungtos sritys paskum buvo vėl laikinai

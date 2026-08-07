@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a58b00d7cb9cf509319255d8"
+canonical_name: "Jeronimas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jeronimas"]
+sameAs: []
+canonical_biography: "Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šventojo vainiko. Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos. Kojelavičiaus pasakojime kunigas Jeronimas, skaldydamas Perkūno atvaizdą, įsikirto koją, o žmonės tai palaikė dievybės įžeidimo pasekme."
 ---
 # Jeronimas
 
@@ -106,7 +113,8 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
 - id: c-60782
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
   citata_originali: |
     Jeronimas priduria: „Negi gali būti kas vainikuotas
     šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
@@ -123,7 +131,8 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
 - id: c-167478
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
   citata_originali: |
     Apie maldininkus ir Kulmo pilies bei miesto įkūrimą
 
@@ -150,7 +159,8 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
 - id: c-178720
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 286."
   citata_originali: |
     Mat pagarba die­
     vams ir baimė, iš mažens įskiepyta širdyje ir tolydžio

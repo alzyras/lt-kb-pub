@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fb4f5df44e6495d6a88b1ddd"
+canonical_name: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas Didysis","Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)"]
+sameAs: []
+canonical_biography: "Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, dirbęs Kelne ir miręs 1280 m."
 ---
 # Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)
 
@@ -124,7 +131,8 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
 - id: c-57669
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
   citata_originali: |
     Apie Albertą Didįjį ir Tomą Akvinietį
 
@@ -146,7 +154,8 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
 - id: c-177304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
   citata_originali: |
     Hartknochas2 pa­
     teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
@@ -169,7 +178,8 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
 - id: c-177305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 202."
   citata_originali: |
     207
     Vėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar
@@ -195,7 +205,8 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
 - id: c-179299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 202."
   citata_originali: |
     Mirus
     Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­

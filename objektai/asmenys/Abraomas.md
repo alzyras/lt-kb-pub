@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-68b23899cae456b721039a8b"
+canonical_name: "Abraomas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Abraomas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus metus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai jis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas."
 ---
 # Abraomas
 
@@ -84,7 +91,8 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 - id: c-60858
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 38."
   citata_originali: |
     Štai ir senajame
     testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus
@@ -111,7 +119,8 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 - id: c-171398
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 233."
   citata_originali: |
     Nimfa, pagauta davusi žodį, nebegalė­
     jo atsisakyti, tad pažadėjo pasimatyti su juo vienu, tik su sąly­
@@ -134,7 +143,8 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 - id: c-171399
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 233."
   citata_originali: |
     Tie trys medžiai suaugę į vieną medį, kuris
     buvęs panaudotas Saliamono šventyklos statybai. Izidoras, gy­

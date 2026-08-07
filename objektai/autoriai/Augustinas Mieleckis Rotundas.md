@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-78336170f0f13b32d0f41355"
+canonical_name: "Augustinas Mieleckis Rotundas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Augustinas Mieleckis Rotundas"]
+sameAs: []
+canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką man derėjo parašyti, nutariau išdėstyti jums, ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ — Rotundas (Augustinas Mieleckis), Vilniaus vaitas, Mikalojui Radvilai 1560 m. vasario 12 dieną. „Visa, ką maniau kūsiant reikalinga tėvynei ir ką man derėjo parašyti, nutariau išdėstyti jums, ket meldžiu įvertinti ne mano ketinimus, o pačią knygą,“ — Rotundas (Augustinas Mieleckis), Vilniaus vaitas, Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas. Augustas Rotundas Milesijus arba Mielickis, kaip jį vadina Igna­ cas Potockis, buvo kilęs iš bajorų, nes kur tik miesto aktuose sutikau jo pa­ vardę, visur buvo pridėta Nobilis [bajoras]."
 ---
 # Augustinas Mieleckis Rotundas
 
@@ -96,7 +103,8 @@ media_all_json: |-
 - id: c-83977
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 298."
   citata_originali: |
     Augustas Rotundas Milesijus
     arba Mielickis, kaip jį vadina Igna­
@@ -121,7 +129,8 @@ media_all_json: |-
 - id: c-83978
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 16-17"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 16-17."
   citata_originali: |
     13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
     p. 128.
@@ -153,7 +162,8 @@ media_all_json: |-
 - id: c-83979
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 447-448"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 447-448."
   citata_originali: |
     Da­
     lyvaujant didžiai gerbiamam Metonės vyskupui, mūsų
@@ -187,7 +197,8 @@ media_all_json: |-
 - id: c-83980
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 221-223"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 221-223."
   citata_originali: |
     M* ČK,« J cu>-too JttaUcXctu*. w fUUnie/,
 

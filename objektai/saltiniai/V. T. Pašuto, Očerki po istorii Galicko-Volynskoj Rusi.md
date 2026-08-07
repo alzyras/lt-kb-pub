@@ -76,7 +76,8 @@ Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
 - id: c-33731
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 180."
   citata_originali: |
     Tokiame sūnaus ir tėvo santykyje, kaip rodo Livonijos Hen­
     riko kronika, skaitėsi Padauguvio kunigaikšcinkai Rygos vyskupo
@@ -97,7 +98,8 @@ Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
 - id: c-33732
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 216."
   citata_originali: |
     — (”) PaRL. — Pašuto, V. T. : _Očerki
     po istorii Galicko-Volynskoj Rusi,_ Moskva 1950. — (”) _O vozniknovenii

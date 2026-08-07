@@ -81,14 +81,22 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 <a id="claim-t-59010"></a>
 - t-003
   teiginys: "1316 m. Reino krašto maldininkai su broliu Henriku žygiavo į Medininkų valsčių ir jį nusiaubė."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Medininkai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokietijos maldininkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai aprašo žygį į Medininkų valsčių."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vokietijos maldininkai surengė žygį į Medininkai (0.90)"
   temporaliniai_duomenys: "įvykio data: 1316 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys perrašytas kaip vientisas sakinys apie maldininkų veiksmą."
   pagrindžia:
-    - c-59641
+    - c-59640
 
 <a id="claim-t-194372"></a>
 - t-004
@@ -107,7 +115,8 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - id: c-59640
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais
 
@@ -121,14 +130,17 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
   citata_rodoma: "Apie Medininkų valsčiaus apiplėšimą 1316 metais\n\n  Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių\niš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš\nElnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,\nį Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į\nnelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai\ndėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į\nriterius."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-59641
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 200."
   citata_originali: |
     296 (289). Apie maldininkų atvykimą
     Pirmaisiais šio magistro vadovavimo metais, būtent 1307 viešpaties metais, atvyko
@@ -147,12 +159,12 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
 
 - id: c-59642
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
   citata_originali: |
     Apie maldininkų atvykimą
 

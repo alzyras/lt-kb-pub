@@ -83,7 +83,7 @@ Nenurodyta
 <a id="claim-t-89400"></a>
 - t-003
   teiginys: "Sartovicų pilį užėmę broliai pasiėmė šv. Barboros relikviją ir džiūgaudami išėjo iš rūsio."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -139,7 +139,8 @@ Nenurodyta
 - id: c-85357
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 86."
   citata_originali: |
     Štai dėl to broliai, šitai matydami  ir dėl to būgštaudami, ryžosi verčiau žūti kovoje,
     nei regėti šitokias nelaimes, užgriuvusias jų tautą bei šventuosius. Vienas jų, būtent
@@ -169,7 +170,8 @@ Nenurodyta
 - id: c-85358
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 86."
   citata_originali: |
     Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
     išėjo iš rūsio. Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
@@ -188,7 +190,8 @@ Nenurodyta
 - id: c-85359
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 87."
   citata_originali: |
     kad jos relikvijas nusineštumėte į Prūsijos žemę, o ten jas užlaikytumėte didesnėje
     pagarboje nei čia“. Po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius
@@ -207,7 +210,8 @@ Nenurodyta
 - id: c-85361
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 86."
   citata_originali: |
     Piliakalnyje, kur buvo Sventopelko
     pilis, pastatyta šv. Barboros koplyčia.

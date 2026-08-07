@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b73671d7fa6659fe1e9ffe77"
+canonical_name: "Paestumas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Paestumas","Paestumas (vieta)"]
+sameAs: []
+canonical_biography: "Klasicizmas žavėjosi dorėniškomis Paestumo šventyklomis kaip graikų ir romėnų architektūros paminklais."
+place_authority: true
+historical_names: []
 ---
 # Paestumas (vieta)
 

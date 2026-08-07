@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4bc7826312518ccca6261d9c"
+canonical_name: "Kauno vyskupija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno vyskupija"]
+sameAs: []
+canonical_biography: "Plačiai pasiremdamas Kauno vyskupijos kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk."
+place_authority: true
+historical_names: []
 ---
 # Kauno vyskupija
 
@@ -58,7 +67,8 @@ Plačiai pasiremdamas Kauno vyskupijos kurijos archyvine medžiaga, jis išleido
 - id: c-33884
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 67."
   citata_originali: |
     Jau 1911 m. jis išleido «Lietuvos istoriją»,
     jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas

@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2041853930dae0d7986fedf"
+canonical_name: "Glapas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Glapas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo. Dusburgietis teigia, kad viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė Varmių vadui Glapui, kad broliai esą iš čia išvykę. Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo."
 ---
 # Glapas
 
@@ -149,7 +156,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 <a id="claim-t-197083"></a>
 - t-007
   teiginys: "Šis, paklausęs patarimo, susikvietė daug brolių bei ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga juos užpuolė ir visus išžudė."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -220,7 +227,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-85724
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
   citata_originali: |
     Šis, paklausęs patarimo, susikvietė daug brolių bei
     ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
@@ -240,7 +248,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-85725
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
   citata_originali: |
     Viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė
     Varmių vadui Glapui, kad broliai esą iš čia išvykę. Šis su daugybe karių atvyko ir užėmė
@@ -259,7 +268,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-85727
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
   citata_originali: |
     Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
 
@@ -282,7 +292,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-85728
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
     netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
@@ -305,7 +316,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-167457
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
   citata_originali: |
     Kai
     traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta
@@ -321,9 +333,9 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-006
 
 - id: c-184341
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 386"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 386."
   citata_originali: |
     Ant didesnės laimos perkrikštų, pasitiko tarp jų
     sumanančių karvedžių ir gudrių vyrų, kurie mo­
@@ -348,9 +360,9 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-008
 
 - id: c-184342
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 416"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 416."
   citata_originali: |
     Tokiu pragumu moteriškė iš pilies pranešė Glapui,
     karvedžiui lietuvių, jog pilis yra tuščia, į kurią be
@@ -369,9 +381,9 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-009
 
 - id: c-184343
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 436"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 436."
   citata_originali: |
     Daug
     kartų jo smurtą karda gandino meldžionis, ant di­

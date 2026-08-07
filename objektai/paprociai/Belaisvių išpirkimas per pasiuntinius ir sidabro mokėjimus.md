@@ -113,7 +113,8 @@ Nenurodyta
 - id: c-83184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 171-172"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 171-172."
   citata_originali: |
     Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
     vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­

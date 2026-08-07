@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9451581cb00ac2a34a549728"
+canonical_name: "Moldova"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Moldova"]
+sameAs: []
+canonical_biography: "Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, o Po­ dolėje - su Švitrigailos šalininkais, remiamais Moldovos ku­ nigaikščių."
+place_authority: true
+historical_names: []
 ---
 # Moldova
 
@@ -51,7 +60,8 @@ Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, 
 - id: c-82194
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 235."
   citata_originali: |
     Šį karą kurstė neblėstantis
     Prūsijos ir Livonijos kryžiuočių įniršis. Tuo pat metu Lenki­

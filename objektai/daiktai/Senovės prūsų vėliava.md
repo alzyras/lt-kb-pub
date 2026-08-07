@@ -68,22 +68,31 @@ Nenurodyta
 <a id="claim-t-189714"></a>
 - t-002
   teiginys: "Narbutas Perkūno, Patelo ir Atrimpo atvaizdus siejo su senovės prūsų vėliava ir nukreipė į jos piešinį bei aprašymą apie herbus."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Prūsai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Senovės prūsų vėliava: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Vėliava tiesiogiai įvardyta kaip senovės prūsų vėliava."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Senovės prūsų vėliava priklausė Prūsai (0.84)"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172596
+    - c-172597
 
 ## Citatos
 
 - id: c-172596
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 105."
   citata_originali: |
     Pasak kitų
     tyrinėtojų, tas stabas turėjo vaizduoti Žalčių karalių (Žalcziu
@@ -100,12 +109,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-172597
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 257."
   citata_originali: |
     Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš
     senovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios
@@ -113,7 +122,8 @@ Nenurodyta
   citata_rodoma: "Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš\nsenovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios\nvėliavos aprašymas yra straipsnyje apie herbus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

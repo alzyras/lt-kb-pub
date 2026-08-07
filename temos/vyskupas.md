@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 248
+tema_objektu_skaicius: 249
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 248.
+Objektų skaičius: 249.
 
 ## Kaip naudoti
 
@@ -278,3 +278,6 @@ Objektų skaičius: 248.
 
 ### Vietos
 - [Pamedė](../objektai/vietos/Pamed%C4%97)
+
+### Žodynas
+- [koadjutorius](../objektai/zodynas/koadjutorius)

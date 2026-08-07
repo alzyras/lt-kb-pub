@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-49be5dac0c2b93705d74de90"
+canonical_name: "Naujasis Dolskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujasis Dolskas"]
+sameAs: []
+canonical_biography: "Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar."
+place_authority: true
+historical_names: []
 ---
 # Naujasis Dolskas
 
@@ -62,7 +71,8 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - id: c-02863
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 356."
   citata_originali: |
     Pijarai, kaip ir jėzuitai, steigė savo mokyklas iš atskirų didžiū-
     nų ir bajorijos fundacijų. Pijarai, niekuo daugiau neužsiimdami,

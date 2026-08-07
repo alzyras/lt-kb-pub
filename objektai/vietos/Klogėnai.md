@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dd1f91d352b078e7cc1944e1"
+canonical_name: "Klogėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Klogėnai"]
+sameAs: []
+canonical_biography: "Kojelavičiaus pasakojime iš Prūsijos patraukęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius."
+place_authority: true
+historical_names: []
 ---
 # Klogėnai
 
@@ -62,7 +71,8 @@ Kojelavičiaus pasakojime iš Prūsijos patraukęs priešas Žemaitijoje sulygin
 - id: c-168649
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 205."
   citata_originali: |
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
     nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,

@@ -100,7 +100,8 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
 - id: c-45014
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 102."
   citata_originali: |
     Apie 1619 m. nutapyto Pieterio
     Snayerso paveikslo „Salaspilio
@@ -131,7 +132,8 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
 - id: c-167093
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 106."
   citata_originali: |
     A
 

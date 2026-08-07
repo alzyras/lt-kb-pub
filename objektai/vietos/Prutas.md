@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cdf59f61df1086cb5bb65217"
+canonical_name: "Prutas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Prutas"]
+sameAs: []
+canonical_biography: "Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariuomene; tik papirkęs sultono ministerius, išsigelbėjo ir padarė gana palankią sau taiką."
+place_authority: true
+historical_names: []
 ---
 # Prutas
 
@@ -67,7 +76,8 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
 - id: c-80701
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 376-377"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 376-377."
   citata_originali: |
     nec non cum omnibus Kmetb oni-
     bus, quae Bona quondam erant Siemion Ducis Bielski, om­

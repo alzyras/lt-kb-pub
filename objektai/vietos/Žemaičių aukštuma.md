@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-24a4fe0114277f05cd513dc9"
+canonical_name: "Žemaičių aukštuma"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žemaičių aukštuma"]
+sameAs: []
+canonical_biography: "Žemaičius įveikti kryžiuočiams buvo sunku."
+place_authority: true
+historical_names: []
 ---
 # Žemaičių aukštuma
 
@@ -52,7 +61,8 @@ media_all_json: |-
 - id: c-34123
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 219."
   citata_originali: |
     Žemaičiai į Lietuvos valstybę labiau buvo įjungti
     Vytauto laikais, nors savo skirtingas privilegijas išlaikė iki pat

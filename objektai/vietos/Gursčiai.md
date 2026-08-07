@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-33fa667ced455f70f66c0c5e"
+canonical_name: "Gursčiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gursčiai"]
+sameAs: []
+canonical_biography: "GURSČIŲ KAUTYNĖS 1946 m. sausio 22 d. Ukmergės aps."
+place_authority: true
+historical_names: []
 ---
 # Gursčiai
 
@@ -59,7 +68,8 @@ GURSČIŲ KAUTYNĖS 1946 m. sausio 22 d. Ukmergės aps.
 - id: c-40274
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 241."
   citata_originali: |
     GURSČIŲ KAUTYNĖS
     1946 m. sausio 22 d. Ukmergės aps. Želvos vis. Gursčių k. apylinkėse apie 50 Plieno būrio

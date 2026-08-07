@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dfff8d3bf4eb9c2604efe870"
+canonical_name: "St. Yla"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["St. Yla"]
+sameAs: []
+canonical_biography: "Yla, St. : Krikščionybės įvedimas Lietuvoje, Kaunas 1938. — Kolankowski, L."
 ---
 # St. Yla
 
@@ -60,7 +67,8 @@ Yla, St. : Krikščionybės įvedimas Lietuvoje, Kaunas 1938. — Kolankowski, L
 - id: c-33152
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 300."
   citata_originali: |
     — Yla, St. : _Krikščionybės įvedimas Lietuvoje,_ Kaunas 1938.
     — Kolankowski, L. : _Dzieje Wielkiego Księstwa Litewskiego za Ja­

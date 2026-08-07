@@ -58,7 +58,8 @@ media_all_json: |-
 - id: c-02485
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 631"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 631."
   citata_originali: |
     Pačioje Mažojoje Lietuvoje XIX amžiaus pradžioje atsi-
     rado įžymių žmonių nelietuvių, kurie rūpinosi lietuviais ir jų kal-

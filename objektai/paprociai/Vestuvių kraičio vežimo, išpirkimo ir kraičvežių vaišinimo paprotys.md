@@ -83,12 +83,11 @@ Nenurodyta
 <a id="claim-t-195383"></a>
 - t-003
   teiginys: "Atlyginti kraičvežiai išveždavo skrynią ir ryšulį į jaunikio namus, kur jų laukdavo sukviesti svečiai."
-  atnaujinta: "2026-07-12 02:18"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177798
     - c-177799
 
 ## Reikšmingi paminėjimai
@@ -128,12 +127,10 @@ Nenurodyta
   citata_rodoma: "Kraičvežiai, parvažiavę su kraičiu, randa pilną grįčią sukviestų svečių."
   statusas: verified
   atnaujinta: "2026-07-12 02:18"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-177799
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

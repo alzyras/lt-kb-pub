@@ -75,7 +75,8 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
 - id: c-82549
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 41."
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
     lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
@@ -116,7 +117,8 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
 - id: c-82550
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 41."
   citata_originali: |
     Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas
     atstojo gyventojams teisės normas ir anų amžių neįmantriam

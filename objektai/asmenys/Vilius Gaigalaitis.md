@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae1bf0238628f8ae17f050d7"
+canonical_name: "Vilius Gaigalaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vilius Gaigalaitis"]
+sameAs: []
+canonical_biography: "Vokiečiai atsiliepė rugpjūčio 1-ąją – Prūsijos Landtage parlamentaras lietuvis Vilius (Vilhelmas) Gaigalaitis lietuvių vardu pareiškė, kad tikimasi Didžiosios Lietuvos prijungimo prie Vokietijos..."
 ---
 # Vilius Gaigalaitis
 
@@ -50,7 +57,8 @@ Vokiečiai atsiliepė rugpjūčio 1-ąją – Prūsijos Landtage parlamentaras l
 - id: c-26689
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 130."
   citata_originali: |
     Vo-
     kiečiai atsiliepė rugpjūčio 1-ąją – Prūsijos Landtage parlamentaras lietuvis

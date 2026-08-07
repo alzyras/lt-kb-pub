@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cf32ba3bd8d3399b2cd65822"
+canonical_name: "Manfredas Verneris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Manfredas Verneris"]
+sameAs: []
+canonical_biography: "Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pageidauja tapti šios organizacijos nare."
 ---
 # Manfredas Verneris
 
@@ -62,7 +69,8 @@ Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui (Manfred 
 - id: c-20597
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 259."
   citata_originali: |
     Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie
     Šiaurės Atlanto bendradarbiavimo tarybos. 1994 m. sausį Lietuvos Res-

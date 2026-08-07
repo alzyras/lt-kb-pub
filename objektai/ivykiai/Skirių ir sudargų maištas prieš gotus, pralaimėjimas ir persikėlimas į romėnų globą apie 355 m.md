@@ -198,7 +198,8 @@ Nenurodyta
 - id: c-173898
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
   citata_originali: |
     Tai vyko jau tuo metu, kai, IV amžiaus pradžioje
     iki valiai prisiklajoję gotai, apsikrovę grobiu ir karų iš­
@@ -227,7 +228,8 @@ Nenurodyta
 - id: c-173899
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
   citata_originali: |
     Skiriai, dar turėję čia savo kėslų, sudarė sąjungą
     su sukilėliais ir išvien su jais puolė gotus. Bet Siaurės
@@ -246,7 +248,8 @@ Nenurodyta
 - id: c-173900
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
   citata_originali: |
     Ir vėl
     laimės žvaigždė lydėjo gotus, kurie niekais pavertė vi­
@@ -267,7 +270,8 @@ Nenurodyta
 - id: c-173901
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
   citata_originali: |
     Šis kraustymasis
     kartu su kitomis dėl šių politinių įvykių persekiojamomis
@@ -287,7 +291,8 @@ Nenurodyta
 - id: c-179241
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
   citata_originali: |
     Tačiau atsitiko taip, kad svebų kara­
     liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių
@@ -312,7 +317,8 @@ Nenurodyta
 - id: c-179242
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
   citata_originali: |
     Šios vilties ir narsos, ku­
     rią suteikia keršto troškimas, skatinami, skiri ai skubėjo

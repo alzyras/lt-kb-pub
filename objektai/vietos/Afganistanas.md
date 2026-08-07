@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-17e817090c1026c114d90a38"
+canonical_name: "Afganistanas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Afganistanas"]
+sameAs: []
+canonical_biography: "Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercegovinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių. 2004 m. pabaigoje Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – atkūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione."
+place_authority: true
+historical_names: []
 ---
 # Afganistanas
 
@@ -56,7 +65,8 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 - id: c-24034
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 260."
   citata_originali: |
     Kadangi Lietuva neturi tinkamų priemonių apsaugoti savo oro erdvę,
     nuo įstojimo į Aljansą pradžios tuo užsiima NATO senbuvės. Narystė
@@ -76,7 +86,8 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 - id: c-24035
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 260."
   citata_originali: |
     Narystė
     NATO – ne tik didesnės saugumo garantijos, bet ir įsipareigojimai prisidėti

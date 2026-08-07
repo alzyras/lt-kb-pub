@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2c99670caf4a3f83af4a6da4"
+canonical_name: "Henrikas (Meiseno markgrafas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas (Meiseno markgrafas)"]
+sameAs: []
+canonical_biography: "Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „didžiuliais turtais“, kartu su Kryžiuočių ordino riteriais jie niokojo Pamedę, sunaikino daug prūsų pilių, žudė žmones."
 ---
 # Henrikas (Meiseno markgrafas)
 
@@ -111,7 +118,8 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
 - id: c-64618
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
   citata_originali: |
     Apie Meiseno markgrafo atvykimą
 
@@ -137,7 +145,8 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
 - id: c-64619
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 23."
   citata_originali: |
     Siekiant nukreipti dėmesį nuo pagrin-
     dinio puolimo prieš Lietuvą iš šiaurės,

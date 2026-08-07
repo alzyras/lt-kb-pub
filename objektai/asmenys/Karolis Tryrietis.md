@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-23b0324c3386b910532bef8b"
+canonical_name: "Karolis Tryrietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis Tryrietis"]
+sameAs: []
+canonical_biography: "Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­ manančių teisę vyrų, didelio būrio savo riterių ir buvo po­ piežiaus maloniai bei pagarbiai priimtasy. Karolis Tryrietis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali būti pateisinti, o kai kurie priekaištai suvis prasimanyti33."
 ---
 # Karolis Tryrietis
 
@@ -71,7 +78,8 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
 - id: c-83414
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 94-95"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 94-95."
   citata_originali: |
     78
 
@@ -96,7 +104,8 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
 - id: c-167226
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 95-96"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 95-96."
   citata_originali: |
     79
 

@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-174974
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 449."
   citata_originali: |
     Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i
     Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo

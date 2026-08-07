@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b38bc7bf174b55e5fae16a7"
+canonical_name: "Strėva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Strėva"]
+sameAs: []
+canonical_biography: "Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo kunigaikštijos, t. Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 km atstu nuo Kęstučio Trakų, prie dešinio Nemuno prie­ upio Strėvos (arti Žiežmarių). Tačiau Strėvos kau­ tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet."
+place_authority: true
+historical_names: []
 ---
 # Strėva
 
@@ -135,7 +144,8 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 - id: c-32445
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 257."
   citata_originali: |
     Tačiau Strėvos kau­
     tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
@@ -154,7 +164,8 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 - id: c-106011
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 252."
   citata_originali: |
     Istorijoje
     niekur daugiau nebesutinkamas Manvydas (Manivydas) savo dalį
@@ -175,7 +186,8 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 - id: c-106012
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 257."
   citata_originali: |
     Vadovavo ordino vyr.
     maršalas ir Karaliaučiaus komtūras Siegfridas von Dahnenfeld ir
@@ -195,7 +207,8 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 - id: c-106013
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 154-155"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 154-155."
   citata_originali: |
     Tačiau
     atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­
@@ -249,7 +262,8 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 - id: c-167768
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 257."
   citata_originali: |
     Tuomet ir Algirdo valdos buvo ak­
     tyviai įsijungusios į vakarų Lietuvos gynybą. Tačiau Strėvos kau­

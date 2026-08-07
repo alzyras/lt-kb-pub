@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-189788"></a>
 - t-001
   teiginys: "Narbutas alų vadina senovės lietuvių pirmutiniu ir mėgstamiausiu svaiginamuoju gėrimu, įėjusiu į slapiąsias aukas arba vaišes."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -120,7 +120,8 @@ Nenurodyta
 - id: c-172671
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 308."
   citata_originali: |
     Bodajbym žyl dostatnie i przez moję czyny,
     Zaslužyl bydž mieszkancem szczęšliwej krainy,
@@ -146,7 +147,8 @@ Nenurodyta
 - id: c-177037
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 309."
   citata_originali: |
     Degintą degtinę su
     medumi žmonės lenkiškai vadina krupniku (Knipniczek); tas
@@ -169,7 +171,8 @@ Nenurodyta
 - id: c-177038
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 309."
   citata_originali: |
     Tai buvo skystas javų kruopų
     nuoviras, paskanintas midumi, tam tikrų žolių šaknimis ir kva­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-63c885aaf4bdf592a5e32218"
+canonical_name: "S. Stanevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["S. Stanevičius"]
+sameAs: []
+canonical_biography: "Stanevičius — lietuviškų dainų rinkinį."
 ---
 # S. Stanevičius
 
@@ -50,7 +57,8 @@ Stanevičius — lietuviškų dainų rinkinį.
 - id: c-01370
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 470"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 470."
   citata_originali: |
     Įsitraukę į tą sąjūdį, žemaičiai pirmiausia susirūpino kalba.
     D. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui

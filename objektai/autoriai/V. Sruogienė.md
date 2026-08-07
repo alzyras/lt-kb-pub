@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-20e48816c3e42ce3ac918f1c"
+canonical_name: "V. Sruogienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Sruogienė"]
+sameAs: []
+canonical_biography: "Sruogienė, V."
 ---
 # V. Sruogienė
 
@@ -32,7 +39,8 @@ Sruogienė, V.
 - id: c-33179
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 253."
   citata_originali: |
     — Puzyna, J. : Korjat i Korjatowicze , AW, t. 7, 1930,
     425-455 p. (papildymai ten pat t. 11,1936, 61-97 p.). — (”) Nary munt Gie-

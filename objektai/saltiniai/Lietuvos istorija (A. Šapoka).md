@@ -55,7 +55,8 @@ Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­ menėje yra surišta 
 - id: c-33643
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 74."
   citata_originali: |
     Ėmęs dėstyti Vilniaus universitete, Šapoka specialiau savo
     paskaitose susidomėjo sostinės istorija ir tremtyje paskelbė tyri­

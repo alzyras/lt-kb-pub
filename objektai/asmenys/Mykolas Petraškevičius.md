@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-48b70ccb77f1216086839a1e"
+canonical_name: "Mykolas Petraškevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Petraškevičius"]
+sameAs: []
+canonical_biography: "Mykolas Petraškevičius savo pusbernį su rykūne naktį siuntė į klėtį alaus."
 ---
 # Mykolas Petraškevičius
 
@@ -28,27 +35,11 @@ Mykolas Petraškevičius savo pusbernį su rykūne naktį siuntė į klėtį ala
 
 Mykolas Petraškevičius savo pusbernį su rykūne naktį siuntė į klėtį alaus.
 
-## Teiginiai
+## Reikšmingi paminėjimai
 
-<a id="claim-t-203619"></a>
-- t-001
-  teiginys: "Mykolas Petraškevičius savo pusbernį su rykūne naktį siuntė į klėtį alaus."
-  atnaujinta: "2026-08-01 12:36"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-61725-Bajoro-sodybos-tarnai-ir-seimynykciai"
-  pagrindžia:
-    - c-186223
-
-## Citatos
-
-- id: c-186223
-  autorius: "Neringa Dambrauskaitė"
-  šaltinis: "34_.pdf — Ką sutikume pravėrę bajoro sodybos vartus? Tarnai ir šeimynykščiai Lietuvos Didžiosios Kunigaikštystės bajorų namų ūkyje XVI amžiuje ir XVII amžiaus pirmoje pusėje"
-  puslapiai: "PDF 8"
-  indeksas: "Neringa Dambrauskaitė, 34_.pdf — Ką sutikume pravėrę bajoro sodybos vartus? Tarnai ir šeimynykščiai Lietuvos Didžiosios Kunigaikštystės bajorų namų ūkyje XVI amžiuje ir XVII amžiaus pirmoje pusėje, PDF 8."
+- c-001
+  santrauka: 'Mykolas Petraškevičius savo pusbernį su rykūne naktį siuntė į klėtį alaus.'
+  šaltinis: Lituanistika-61725-Bajoro-sodybos-tarnai-ir-seimynykciai
   citata_originali: |
     smurtą56. Kituose dvaruose ponai siunti-
     nėdavo savo pusbernį. Minėtas Novose-
@@ -58,11 +49,8 @@ Mykolas Petraškevičius savo pusbernį su rykūne naktį siuntė į klėtį ala
     savo pusbernį su rykūne naktį siuntė į klė-
     tį alaus57, Sčastnas Liūlys pusbernį buvo
     palikęs saugoti žmoną ir turtą58.
-  citata_rodoma: "Mykolas Petraškevičius \nsavo pusbernį su rykūne naktį siuntė į klė-\ntį alaus"
-  statusas: verified
-  atnaujinta: "2026-08-01 12:36"
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  statusas: verified

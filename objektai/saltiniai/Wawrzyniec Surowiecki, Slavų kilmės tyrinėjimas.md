@@ -53,7 +53,8 @@ Narbutas rašo, kad Wawrzyniecas Surowieckis venedų kraštuose lokalizavo senų
 - id: c-174700
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 98."
   citata_originali: |
     Sis aprašymas ap­
     ima plačius ir labai didžiulius kraštus. Žymusis mūsų

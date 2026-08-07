@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c7a8cb0e23f88a94ab259059"
+canonical_name: "Kristupas Karolis Mykolas Butleris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristupas Karolis Mykolas Butleris"]
+sameAs: []
+canonical_biography: "1694 m. Kristupas Karolis Mykolas Butleris Vilniuje išbuvo nuo birželio 11 iki rugpjūčio 18 d. ir išsamiai aprašė beveik kasdienius susitikimus."
 ---
 # Kristupas Karolis Mykolas Butleris
 
@@ -60,9 +67,10 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185761
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 18"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 18."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 18."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

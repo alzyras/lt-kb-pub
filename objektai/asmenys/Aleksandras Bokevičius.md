@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-222267906e1a426a32ca3eb3"
+canonical_name: "Aleksandras Bokevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Bokevičius"]
+sameAs: []
+canonical_biography: "Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai. Aleksandras Bokevičius buvo apvainikuotas karaliaus vainiku ir paskelbtas Lenkijos karaliumi."
 ---
 # Aleksandras Bokevičius
 
@@ -45,7 +52,8 @@ Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks
 - id: c-169454
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 659"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 659."
   citata_originali: |
     Kai Vasilijus
     teismų sudarymo dieną nukėlė ligi Velykų, karalius su

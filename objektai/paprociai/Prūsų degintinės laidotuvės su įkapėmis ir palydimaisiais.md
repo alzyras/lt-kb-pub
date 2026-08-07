@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-67193"></a>
 - t-001
   teiginys: "Per prūsų degintines laidotuves kilmingiesiems degino ginklus, žirgus, tarnus, drabužius, šunis ir sakalus, o nekilmingiesiems – darbo reikmenis."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -93,7 +93,8 @@ Nenurodyta
 - id: c-67205
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
   citata_originali: |
     Savo svečiams jie rodo nepaprastą lipšnumą, ir vargu ar kada
 
@@ -113,7 +114,8 @@ Nenurodyta
 - id: c-67207
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
   citata_originali: |
     Dėl šitų mirusiųjų nutikdavo tokių velniškų
     patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,

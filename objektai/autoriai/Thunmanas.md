@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7bef6072c2311489d570cd97"
+canonical_name: "Thunmanas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Thunmanas"]
+sameAs: []
+canonical_biography: "i Kol istorikai neįstengė rasti patiki­ mos išvados apie lietuvių tautos kilmę, kol kas to dar neketinu šia­ me veikale aptarti; vis dėlto turiu pripažinti, kad švedų mokslininko Thunmano tyrinėjimai ir prie­ laidos panašiausios į tiesą."
 ---
 # Thunmanas
 
@@ -50,7 +57,8 @@ i Kol istorikai neįstengė rasti patiki­ mos išvados apie lietuvių tautos ki
 - id: c-84061
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 30."
   citata_originali: |
     Prūsai - apie jų kalbą pasakytina,
     kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu

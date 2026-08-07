@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e396f624efea401e1404ee09"
+canonical_name: "Nalšėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nalšėnai"]
+sameAs: []
+canonical_biography: "Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai. Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­ tas, pabūgęs pakliūti Vaišvilkni į rankas, išbėgo į Pskovą su savo šeima, bajorais ir palydovais (družina). Gerdenis pralaimėjo ir tik su likučiais išsigelbėjo, o kitame Daumanto žygyje į Nalšėnus (1267 m. žiemą) ir pats žuvo^219."
+place_authority: true
+historical_names: []
 ---
 # Nalšėnai
 
@@ -117,7 +126,8 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
 - id: c-32260
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 205."
   citata_originali: |
     Tarp judviejų iki Gerdenio žuvimo
     (1267 m.) užsiliepsnojo karas. Radęs pilį išplėštą ir pagrobtą šeimą,
@@ -137,7 +147,8 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
 - id: c-32261
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 205."
   citata_originali: |
     Vaišvilkui persekiojant tėvo nužudymo sąmokslininkus ir jo
     suvienytos Lietuvos priešus, Livonijon pabėgo kitas žymus Nalšėnų
@@ -157,7 +168,8 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
 - id: c-33961
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 204."
   citata_originali: |
     Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų
     opozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai.
@@ -178,7 +190,8 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
 - id: c-33962
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 204."
   citata_originali: |
     Tada Vaišvilkas traukė prieš pagrindinius
     priešus. Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų

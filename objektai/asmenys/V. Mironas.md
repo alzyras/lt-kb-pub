@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6fb9027ce1907505603d22d5"
+canonical_name: "V. Mironas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Mironas"]
+sameAs: []
+canonical_biography: "Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusio gen."
 ---
 # V. Mironas
 
@@ -77,7 +84,8 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 - id: c-22041
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 179."
   citata_originali: |
     Lietuva tai laikė taktiniu atsi-
     traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
@@ -98,7 +106,8 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 - id: c-22042
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 182."
   citata_originali: |
     Lietuvos
     teritorijos ir 5 proc. gyventojų, prarasta trečdalis ekonomikos, o 70 proc.

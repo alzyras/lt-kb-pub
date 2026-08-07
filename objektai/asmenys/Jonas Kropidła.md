@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ecabb6454c1d58c78c23714"
+canonical_name: "Jonas Kropidła"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Kropidła"]
+sameAs: []
+canonical_biography: "Dėl to savo laikų Europos visuomenės viršūnes gerai pažįstąs Kujavų vyskupas, kunigaikštis Jonas Kropidła, Breslave per puotą prie daugybės kunigaikščių ir atstovų drą­ siai galėjo pasakyti imperatoriui Zigmantui į akis, kad, jo nuo­ mone, karaliaus vardo."
 ---
 # Jonas Kropidła
 
@@ -53,7 +60,8 @@ Dėl to savo laikų Europos visuomenės viršūnes gerai pažįstąs Kujavų vys
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 311."
   citata_originali: |
     Tai buvo, tiesa, tik didelio darbo pradmens, bet tuo metu nie­
     kas Europoje negalėjo net bandyti prilygti savo darbais didžia­

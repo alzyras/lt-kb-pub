@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a8d68b6012d2804f63a49a8b"
+canonical_name: "Voložino ponas Suchta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Voložino ponas Suchta"]
+sameAs: []
+canonical_biography: "Pasak Bychovco kronikos, Voložino ponas Suchta per pasikėsinimą į Žygimantą Kęstutaitį mėgino nužudyti valdovą."
 ---
 # Voložino ponas Suchta
 

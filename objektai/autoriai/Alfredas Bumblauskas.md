@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-20e120b2631bfa0e0bcf6559"
+canonical_name: "Alfredas Bumblauskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Bumblauskas","Alfredas Bumblauskas","Bumblauskas A.","prof. dr. Alfredas Bumblauskas","Vilniaus universiteto prof. Alfredas Bumblauskas"]
+sameAs: []
+canonical_biography: "Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniame šaltinyje; šiame šaltinyje fiksuojamas jo bibliografinis darbas."
 ---
 # Alfredas Bumblauskas
 
@@ -101,7 +108,8 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
 - id: c-26849
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 4-5"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 4-5."
   citata_originali: |
     Redakcinė kolegija:
     Prof. dr. Raimundas Lopata – pirmininkas
@@ -145,7 +153,8 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
 - id: c-154568
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Iliustracijų šaltiniai
     A. Bumblauskas. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius, 2010;

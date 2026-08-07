@@ -53,7 +53,8 @@ media_all_json: |-
 - id: c-02403
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 664"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 664."
   citata_originali: |
     **Dabartinė lietuviškosios spaudos būklė J. Amerikos Valsty-
     bėse.** Dabar J. Amerikos V-se išeina 30 su viršum lietuviškų laik-

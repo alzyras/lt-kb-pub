@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-092f75f5790178f0468e8e1e"
+canonical_name: "Gelonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gelonas"]
+sameAs: []
+canonical_biography: "Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį, išnaikinusį žmogėdras bei įgijusį vadų vado vardą. Narbutas teigia perrašęs fragmentą norėdamas įrodyti, kad pasakų Gelonas buvo, ir paaiškinti nepakankamai nušviestus įvykius. Gelonas šukuodavo jam plaukus ir barzdą vėjinio malūno sparno dydžio šukomis."
 ---
 # Gelonas
 
@@ -79,7 +86,8 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
 - id: c-172948
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     Pagaliau atsirado lietuvių didvyris,
     Elonos, arba Iglonos, sūnus, vardu Gelonas. Sis, pašauktas iš­
@@ -101,7 +109,8 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
 - id: c-172949
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
   citata_originali: |
     Prie Vilnios ir Neries santakos pradėjo statyti dvi pilis, o
     prie jų - miestą, apie kurį Lizdeika teisingai išpranašavo: jei­
@@ -122,7 +131,8 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
 - id: c-179167
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 216."
   citata_originali: |
     Alcis ją stipriai mylėjo, ji šukuo­
     davo jam plaukus ir barzdą vėjinio malūno sparno dydžio šu­

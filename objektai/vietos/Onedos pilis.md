@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a19246920b2a69c0cfc2dc86"
+canonical_name: "Onedos pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Onedos pilis"]
+sameAs: []
+canonical_biography: "Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio kariauna susinė ręs, turėjo daugiaus nei ©0 000 karėjų; su ta galy be įgulęs į Parusnį, užėmė Onedos, arba Baigos, pilį su visa ąpykarta."
+place_authority: true
+historical_names: []
 ---
 # Onedos pilis
 
@@ -41,9 +50,9 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
 ## Citatos
 
 - id: c-184524
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 359"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 359."
   citata_originali: |
     Ateinantį metą, kaip buvo sakyta, Otokaras, ka­
     ralius Čekų, atkeliavo į Parusnį netikėlių lietuvių

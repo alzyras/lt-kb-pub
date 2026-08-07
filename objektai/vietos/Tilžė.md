@@ -36,6 +36,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-40b6566e75aaba9991258e98"
+canonical_name: "Tilžė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tilžė"]
+sameAs: []
+canonical_biography: "Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi nusikratyti Rusijos valdžios Lietuvoje. Tarnaudamas Rusijos kariuomenėje, T. Narbutas 1807 m. dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. Narbutas rašo, kad už Tilžės, prie Sancinės, buvo apkasas arba piliakalnis, vietinių vadintas Kroniszkas-Pilnis, tai yra Kruonio pilimi."
+place_authority: true
+historical_names: []
 ---
 # Tilžė
 
@@ -160,7 +169,8 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
 - id: c-166480
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 456"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 456."
   citata_originali: |
     Varšuvos kunigaikštijos įkūrimas sukėlė vilčių nusikratyti
     Rusų valdžia ir Lietuvoje. Tuo tikslu pas Napoleoną į Tilžę
@@ -179,7 +189,8 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
 - id: c-171727
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
     vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­
@@ -196,7 +207,8 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
 - id: c-171728
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
   citata_originali: |
     Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
     ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
@@ -219,7 +231,8 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 10."
   citata_originali: |
     Al. = Alekna, Ant., Prof., Lietuvos istorija. Antras pataisytas
     leidimas. Tilžė, 1923.
@@ -234,7 +247,8 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
 - id: c-178886
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 247."
   citata_originali: |
     Kurį laiką Kęstutis laikėsi ramiai, tačiau
     žemėmis. Kryžiuočiai, vedami Sembos fogto, savo ruož­

@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-10290
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 199"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 199."
   citata_originali: |
     Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas
         vaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju

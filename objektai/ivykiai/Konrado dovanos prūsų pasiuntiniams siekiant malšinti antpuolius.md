@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-62886
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
 
@@ -101,7 +102,8 @@ Nenurodyta
 - id: c-62888
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     Mazovijos kunigaikštis Konradas galėjęs bandyti atsipirkti nuo prūsų antpuolių po
     1216—1217 m. iki Mazovijos nusiaubimo 1222 ar 1224—1225 m. (PKD, p. 29—30;

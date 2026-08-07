@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-41ec5b78267bf783106c195f"
+canonical_name: "M. Katche"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. Katche"]
+sameAs: []
+canonical_biography: "Katche."
 ---
 # M. Katche
 
@@ -43,7 +50,8 @@ Katche.
 - id: c-41251
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 181."
   citata_originali: |
     Panevėžio bataliono instruktorius karin.
 

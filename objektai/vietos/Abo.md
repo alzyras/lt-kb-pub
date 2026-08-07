@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-597fde7442786aba2a673561"
+canonical_name: "Abo"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Abo"]
+sameAs: []
+canonical_biography: "Per 1808–1809 m. Rusijos–Švedijos karą Teodoras Narbutas buvo kontūzytas mūšyje prie Abo miesto."
+place_authority: true
+historical_names: []
 ---
 # Abo
 
@@ -64,7 +73,8 @@ Per 1808–1809 m. Rusijos–Švedijos karą Teodoras Narbutas buvo kontūzytas 
 - id: c-171863
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     T. Nar­
     butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.

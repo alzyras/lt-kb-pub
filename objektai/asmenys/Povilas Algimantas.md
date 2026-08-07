@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1e5d5c34418c69b078c72e7c"
+canonical_name: "Povilas Algimantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Povilas Algimantas"]
+sameAs: []
+canonical_biography: "Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pirma Lucko, paskui, nuo 1536 m., Vilniaus vyskupas, mirė 1553 m. Karštas katalikų tikėjimo nuo disi­ dentų gynėjas, visa širdim atsidavęs Bažnyčiai."
 ---
 # Povilas Algimantas
 
@@ -64,7 +71,8 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 - id: c-83814
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto
     I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o

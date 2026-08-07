@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-77d069595160e8c09bc5d1ae"
+canonical_name: "Simonas Kosakovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Simonas Kosakovskis"]
+sameAs: []
+canonical_biography: "Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis ir Vilniaus vyskupas I."
 ---
 # Simonas Kosakovskis
 
@@ -40,7 +47,8 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
 - id: c-21973
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 96."
   citata_originali: |
     Dėl savo
     ambicijų užsiėmė smulkiomis intrigėlėmis, susipyko su visa savo aplin-

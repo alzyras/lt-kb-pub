@@ -83,7 +83,8 @@ Vartojama kaip trumpas senovės vokiečių dievaičių sąrašas.
 - id: c-175122
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 471"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 471."
   citata_originali: |
     Senovės vokiečiai garbino dievaites Pilmith, Pilmis, Belewitt.
     Sakinys, kuriuo autorius papildė tekstą, rengdamas antrąjį leidi­

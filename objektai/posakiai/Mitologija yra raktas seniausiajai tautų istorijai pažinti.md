@@ -114,7 +114,8 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
 - id: c-172439
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 79."
   citata_originali: |
     Tiesa, daugybė to paveiks­
     lo detalių yra dingusių, tačiau išliko visuma, išsamesnė už vi­
@@ -143,7 +144,8 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
 - id: c-172440
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
   citata_originali: |
     Be to, mano pa­
     ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė

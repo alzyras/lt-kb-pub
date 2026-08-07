@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6fc660a801adac275a2d9369"
+canonical_name: "Šiluva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šiluva"]
+sameAs: []
+canonical_biography: "Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj."
+place_authority: true
+historical_names: []
 ---
 # Šiluva
 
@@ -59,7 +68,8 @@ Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuo
 - id: c-49964
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 228."
   citata_originali: |
     J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-
     kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-

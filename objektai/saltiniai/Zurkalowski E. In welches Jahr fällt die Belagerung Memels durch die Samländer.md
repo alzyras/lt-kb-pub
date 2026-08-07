@@ -54,7 +54,8 @@ Dusburgietis teigia, kad zurkalowski E.
 - id: c-62020
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 277"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 277."
   citata_originali: |
     Zurkalowski E. In welches Jahr fällt die Belagerung Memels durch die Samländer? —
     AM, Königsberg i Pr 1907 Bd 44, S. 479—486.

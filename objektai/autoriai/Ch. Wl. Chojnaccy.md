@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-95f7866580f330ef93c0c04f"
+canonical_name: "Ch. Wl. Chojnaccy"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ch. Wl. Chojnaccy"]
+sameAs: []
+canonical_biography: "Chojnaccy : Materiały do bibliografii bitwy pod Grunwaldem, Rocznik Olsztyński, t."
 ---
 # Ch. Wl. Chojnaccy
 
@@ -61,7 +68,8 @@ Chojnaccy : Materiały do bibliografii bitwy pod Grunwaldem, Rocznik Olsztyński
 - id: c-29361
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 25."
   citata_originali: |
     Iš bibliografinių darbų atskirais Lietuvos istorijos klausimais, paminė­
     tina :

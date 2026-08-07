@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a4721ba704f9aaf78009dc73"
+canonical_name: "K. Chodynickis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Chodynickis"]
+sameAs: []
+canonical_biography: "Chodynickis ir J."
 ---
 # K. Chodynickis
 
@@ -50,7 +57,8 @@ Chodynickis ir J.
 - id: c-32991
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 91."
   citata_originali: |
     Kutrze­
     ba— Lenkijos ir Lietuvos unijos aktus (AUPL). Juos tyrinėjo

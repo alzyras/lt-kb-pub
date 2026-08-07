@@ -70,7 +70,8 @@ Dusburgietis teigia, kad pakarklis P.
 - id: c-61845
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje.— K., 1935.
   citata_rodoma: "Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje.— K., 1935."

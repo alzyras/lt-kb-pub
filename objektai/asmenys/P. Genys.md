@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0bb177982e37be2e188aaa78"
+canonical_name: "P. Genys"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["P. Genys"]
+sameAs: []
+canonical_biography: "Birželio 3 d. P. Genys užima Svėdasus. | O po to Užpalius ir birželio 5 d. Antalieptę."
 ---
 # P. Genys
 
@@ -51,7 +58,8 @@ Birželio 3 d. P. Genys užima Svėdasus. | O po to Užpalius ir birželio 5 d. 
 - id: c-41598
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 185."
   citata_originali: |
     Birželio 3 d. P. Genys užima
 

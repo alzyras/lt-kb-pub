@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-44691
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 270."
   citata_originali: |
     1568 m., dail. Mathias Zūndt (fragmentas). vr, Antano Lukšėno nuotr.
     p. 88, Rusijos kariuomenė užgrobtoje Livonijoje. http://commons.wikimedia.org/wiki/

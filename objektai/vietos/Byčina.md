@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-90336cd1909da7d245e9a602"
+canonical_name: "Byčina"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Byčina"]
+sameAs: []
+canonical_biography: "Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo priverstas atsisakyti nuo sosto."
+place_authority: true
+historical_names: []
 ---
 # Byčina
 
@@ -50,7 +59,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - id: c-02630
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 309."
   citata_originali: |
     Tuo tarpu Lenkijoj laimėjo Za-
     moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-

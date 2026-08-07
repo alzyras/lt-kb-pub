@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-443142ae76a82f0cd511be48"
+canonical_name: "Mykolas Balinskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Balinskis M.","Baliński","M. Balinskio","M. Balinskis","Michał Baliński","Michała Balińskiego","Mykolas B A L I N S K I S","Mykolas Balinskis"]
+sameAs: []
+canonical_biography: "Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Vilniaus miesto istorija“, pirmą kartą lietuviškai išleista 2007 m. Jo darbai apėmė Vilniaus akademijos istoriją, „Senovės Lenkiją“, biografijas, istorinius leidinius ir publicistiką. „Vilniaus miesto istorijos“ rengimas rėmėsi kronikomis, archyviniais rankraščiais, dokumentų paieška ir pagalbininkų teikta medžiaga."
 ---
 # Mykolas Balinskis
 
@@ -281,7 +288,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-55264
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     Šie vie­
     nuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­
@@ -303,7 +311,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-55265
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
     rinkti su miesto istorija susijusius dokumentus. M. Balinskis pa­
@@ -323,7 +332,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-55266
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     Šiame darbe suregistruoti LDK miestai ir miesteliai,
     jų geografinė padėtis, trumpa istorinė apžvalga. Laiške Joachi­
@@ -342,7 +352,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-55267
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 5."
   citata_originali: |
     Gimęs Lenkijos-Lie­
     tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
@@ -367,7 +378,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-55268
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
     čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
@@ -387,7 +399,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-55269
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 10."
   citata_originali: |
     Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi. Kita vertus, pirmoje
@@ -407,7 +420,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-55270
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 4."
   citata_originali: |
     UDK 947.45
     Ba237
@@ -446,7 +460,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-55271
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 14."
   citata_originali: |
     užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­
     džiausiai dėkojame"12.
@@ -467,7 +482,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-55272
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53."
   citata_originali: |
     Sūnėnų tvirtas laidavimo žo­
     dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­
@@ -493,7 +509,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-171346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 59."
   citata_originali: |
     Šių „laiškų“ dauguma buvo skirta 1856 metais pa­
     sirodžiusių T. Narbuto „Mažesniųjų istorijos raštų“ kritikai26.
@@ -513,7 +530,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-173650
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 449."
   citata_originali: |
     4 4 0
 
@@ -537,7 +555,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - id: c-173651
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 449-450"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 449-450."
   citata_originali: |
     Vadinasi, jis galėjo būti ir anoni­
     minės „Lietuvių mitologijos“ recenzijos autorius. Bet tai

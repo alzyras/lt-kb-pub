@@ -60,7 +60,8 @@ media_all_json: |-
 - id: c-33635
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 25."
   citata_originali: |
     J. Balys čia sužymėjo ir visus Vilniuje
     periodiškai leidžiamus Mokslų Akademijos darbuotojų spausdinių biblio­

@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-63778
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     1298 viešpaties
     metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur

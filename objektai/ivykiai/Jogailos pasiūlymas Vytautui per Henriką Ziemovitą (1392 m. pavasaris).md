@@ -74,7 +74,8 @@ Nenurodyta
 - id: c-33394
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 315."
   citata_originali: |
     Per jauną Mozūrijos kuni­
     gaikštį, Płocko nominatą Henriką Ziemovitą Vytautui ir buvo

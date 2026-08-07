@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5d6c56910ee23771133596d"
+canonical_name: "Kužiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kužiai"]
+sameAs: []
+canonical_biography: "@ Geležinkelio linija tarp Klaipėdos ir Šiaulių (Kretinga-Kužiai) buvo baigta tiesti tik 1936 m., >“ Klovainiai Kris RADVILIŠKIS Smilgiai a A V — m —— DA Griškabūdis 4 todėl sukilėliai turėjo traukiniu iki sienos su Klaipėdos kraštu vykti per Latviją (tai."
+place_authority: true
+historical_names: []
 ---
 # Kužiai
 
@@ -59,7 +68,8 @@ media_all_json: |-
 - id: c-40303
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 215."
   citata_originali: |
     @ Geležinkelio linija tarp Klaipėdos ir Šiaulių
     (Kretinga-Kužiai) buvo baigta tiesti tik 1936 m.,

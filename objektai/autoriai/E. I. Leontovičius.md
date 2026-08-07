@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-48ff2fade5451309af3a32b9"
+canonical_name: "E. I. Leontovičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["E. I. Leontovičius"]
+sameAs: []
+canonical_biography: "Leontovičių ir M."
 ---
 # E. I. Leontovičius
 
@@ -50,7 +57,8 @@ Leontovičių ir M.
 - id: c-32915
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 94."
   citata_originali: |
     Užtat rusų istorikai davė ir Lietuvai pavadinimą «Litovsko —
     russkoje gosudarstvo» (Lietuviu ir rusu valstybė). Jiems rūpėjo

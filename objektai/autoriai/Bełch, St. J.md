@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dec87f0fc5f3b36769680f73"
+canonical_name: "Bełch, St. J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bełch, St. J"]
+sameAs: []
+canonical_biography: "Bełch, St."
 ---
 # Bełch, St. J
 
@@ -62,7 +69,8 @@ Bełch, St.
 - id: c-29211
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 359."
   citata_originali: |
     — Bełch,
     St. J. : _Falkenberg_ , SaPoM, t. 2, 1956, 165-192 p. — (”) _Paulus Vladimiri

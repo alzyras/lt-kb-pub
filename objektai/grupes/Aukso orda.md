@@ -273,7 +273,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
 - id: c-31031
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 318."
   citata_originali: |
     Pagal rusų met­
     raščius, Vytautas žadėjo Perekopo (Krymo) vad. Aukso ordos
@@ -293,7 +294,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
 - id: c-42637
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 36."
   citata_originali: |
     1325 m. Aukso orda surengė puolimą
     prieš Lietuvą: „caras Uzbekas pasiuntė ku-
@@ -313,7 +315,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
 - id: c-42638
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 37."
   citata_originali: |
     Kryžiuočių ordinui, remiamam kryži-
     ninkų, nuo 1328 m. atnaujinus Lietuvos
@@ -335,7 +338,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
 - id: c-170420
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 324"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 324."
   citata_originali: |
     žentas Vasilius, ir todėl jis laikėsi pasyviai, kai Konstantinopolio
     patriarchas ragino visos Rusios metropolitą Kiprijoną skelbti kry­
@@ -357,7 +361,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
 - id: c-170422
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 13."
   citata_originali: |
     (^6) PRATARMĖ
     vokiečių ordinu. Kai nuo XIV amž. galo totorių valstybė (Aukso
@@ -378,7 +383,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
 - id: c-170423
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 36."
   citata_originali: |
     Gedimino žygis, mūšis prie Irpenės ir
     Kijevo užėmimas istoriografijoje datuotas
@@ -404,7 +410,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
 - id: c-170424
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 321."
   citata_originali: |
     Atrodo, kad Sich-Achmetas atvyko j Kijevą ne betarpiškai po
     pralaimėto mūšio, bet vėliau, 1503 m rudenį; Mengli-Girėjaus
@@ -427,7 +434,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
 - id: c-170425
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 37."
   citata_originali: |
     Paprastai perimama ir žlu-
     gusios imperijos administracinė struktūra bei kultūros paveldas.

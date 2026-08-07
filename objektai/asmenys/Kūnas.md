@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5cb7b1956e3376fc58afe198"
+canonical_name: "Kūnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kūnas"]
+sameAs: []
+canonical_biography: "Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dubysa, Nevėžis ir Neris. Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio. Lietuvos metraštis pasakoja, kad Kūnas prie Nevėžio žiočių įkūrė miestą ir pagal savo vardą pavadino jį Kaunu."
 ---
 # Kūnas
 
@@ -174,7 +181,8 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - id: c-169495
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 61."
   citata_originali: |
     Kūno, arba
     Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
@@ -194,7 +202,8 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - id: c-169496
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 62."
   citata_originali: |
     Kokius jis nuveikė paminėtinus darbus,
     vėlesnės kartos nežino. Gyvas būdamas, nusprendė ne­
@@ -215,7 +224,8 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - id: c-176576
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 40-41"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 40-41."
   citata_originali: |
     Vyriausias sūnus Barkus įkūrė mies­
     tą prie Jūros upės, ir to kunigaikščio vardas susijungė
@@ -244,7 +254,8 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - id: c-176577
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 41."
   citata_originali: |
     Neilgai trukus, mirė jo brolis Barkus, kuris gyveno
     Jurbarke, neturėdamas vaikų; jo brolis Kūnas perėmė
@@ -266,7 +277,8 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - id: c-178946
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 41."
   citata_originali: |
     Beviešpataudamas Žemaičių
     žemėje, ėmė stiprėti, plėstis ir pereidinėti per Neries

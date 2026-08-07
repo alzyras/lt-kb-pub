@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-672ab7af856592c89e710a84"
+canonical_name: "Kazimieras Pyplys-Mažytis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras Pyplys-Mažytis"]
+sameAs: []
+canonical_biography: "1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno partizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų."
 ---
 # Kazimieras Pyplys-Mažytis
 
@@ -40,7 +47,8 @@ media_all_json: |-
 - id: c-21818
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 211."
   citata_originali: |
     Pereita prie įprasto
     partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir

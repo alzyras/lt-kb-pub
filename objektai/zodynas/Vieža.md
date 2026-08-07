@@ -68,7 +68,8 @@ Vartojamos formos: `viežą`, `viežos`.
 - id: c-09641
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 260-261"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 260-261."
   citata_originali: |
     Kaltininkus taip kankino: vienus korė į sausą medį, kaip šiandien dar tariama yra į paiką žmogų:
         „Tas, – sako, – pašoks į sausą medį“ arba: „Tas sulauks sausos šakos“; kitus dybavojo^1126 , prie dybo^1127

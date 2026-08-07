@@ -136,7 +136,8 @@ Nenurodyta
 - id: c-83026
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 161."
   citata_originali: |
     Tačiau šie politiniai kivirčai nebuvo Vilniui tokie skaudūs (1399
     m.), kaip toji didelė nelaimė, ištikusi kitais metais žiemai bai­
@@ -157,7 +158,8 @@ Nenurodyta
 - id: c-175283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
   citata_originali: |
     Tačiau su tuo miestu susiję dalykai išnyksta prieš­
     istorinėje praeityje, jog net nežinome, ar buvo šio seno­
@@ -186,7 +188,8 @@ Nenurodyta
 - id: c-179245
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
   citata_originali: |
     Tačiau su tuo miestu susiję dalykai išnyksta prieš­
     istorinėje praeityje, jog net nežinome, ar buvo šio seno­

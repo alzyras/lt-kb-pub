@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9b42ee674a7f86d71c7906d"
+canonical_name: "Aleksandras (Moldavijos valdovas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras (Moldavijos valdovas)"]
+sameAs: []
+canonical_biography: "Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Konstantinopolio ciesorių Manuelį, už kurio sūnaus Jono Paleologo buvo išleidęs savo dukraitę — Maskvos kunigaikš­ tytę, bet tas nepakenkė geriems Vytauto santykiams su turkais, apie ką jis."
 ---
 # Aleksandras (Moldavijos valdovas)
 
@@ -52,7 +59,8 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 160."
   citata_originali: |
     Kai jie vieną kartą puolė Bosniją (prie Adrijati­
     kos jūros), o Konstancijos susirinkimas ragino Vytautą ir Jo­

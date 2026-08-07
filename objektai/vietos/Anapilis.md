@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-71683832cbffb178227fe657"
+canonical_name: "Anapilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Anapilis"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja, kad ant Anapilio kalno sukaupti Vizino turtai atiteko Danijos karaliui ir padėjo rengti karo žygius."
+place_authority: true
+historical_names: []
 ---
 # Anapilis
 
@@ -54,7 +63,8 @@ Narbutas pasakoja, kad ant Anapilio kalno sukaupti Vizino turtai atiteko Danijos
 - id: c-175604
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
   citata_originali: |
     Narsusis Starkateras, tai sužino­
     jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė

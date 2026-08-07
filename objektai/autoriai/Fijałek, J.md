@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1117100d765726e4f4591ec3"
+canonical_name: "Fijałek, J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Fijałek, J"]
+sameAs: []
+canonical_biography: "Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 1401 šis Kęstučio anūkas tapo antruoju Krokuvos universiteto rektoriumi (Fijałek). Fijałek, J."
 ---
 # Fijałek, J
 
@@ -64,7 +71,8 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 - id: c-55066
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 286."
   citata_originali: |
     Fijałek, J. : _Wnuk Kiejstuta, Jan książę drohiczyński_ , KH, t. 28,
     1914, 181-197 p. — Gersdorf, H. : _Der Deutsche Orden im Zeitalter der

@@ -70,22 +70,13 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   pagrindžia:
     - c-09781
 
-<a id="claim-t-70426"></a>
-- t-003
-  teiginys: "`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį."
-  atnaujinta: "2026-07-24 15:00"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09781
-    - c-09782
-
 ## Citatos
 
 - id: c-09781
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 77"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 77."
   citata_originali: |
     Jei toksai kiemas, karei kėlusis, leido kareivį jotą^259 vieną ar du, tris – pagal tą, kaip daug žemės turėjo, tad vadinos žemlioniu^260 , nuo žemės, kurią buvo sau pragyvenęs.
   statusas: verified
@@ -95,12 +86,12 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
 
 - id: c-09782
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 234"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 234."
   citata_originali: |
     Pakajui esant, kunigai ūkę rėdė, bet, kėlusis didelėms karėms su svetimomis tautomis, į kurias visai
         tautai reikėjo traukti, žemlionys^977 , arba kareiviai, pakėlė tarp savęs visų narsųjį ir kantrųjį vyrą, kurį,
@@ -118,12 +109,12 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
 
 - id: c-09783
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 249"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 249."
   citata_originali: |
     - public_note:
     - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean

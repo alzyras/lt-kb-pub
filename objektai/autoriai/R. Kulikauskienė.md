@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cfb507a30648faabf653e2c0"
+canonical_name: "R. Kulikauskienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["R. Kulikauskienė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kulikauskienė, A."
 ---
 # R. Kulikauskienė
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad kulikauskienė, A.
 - id: c-91700
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 119."
   citata_originali: |
     2, 1972, 143-160 p. — Kulikauskienė
         (Volkaitė), R. : _Lietuvos archeologiniai paminklai ir jų tyrinėjimai,_

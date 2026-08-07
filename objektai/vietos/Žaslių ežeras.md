@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-81f9a89f691a41085f2f04fe"
+canonical_name: "Žaslių ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žaslių ežeras"]
+sameAs: []
+canonical_biography: "Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10 mylių, nulieja vandenis į Volgą."
+place_authority: true
+historical_names: []
 ---
 # Žaslių ežeras
 
@@ -47,7 +56,8 @@ Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10
 - id: c-179217
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 231."
   citata_originali: |
     Lenkijoje Neras (Nėr) įteka į Vartą prie Chelmo. Italijoje,
     Bažnyčios valstybėje, Nera įteka į Tiberį. Vengrijoje Nera įte­

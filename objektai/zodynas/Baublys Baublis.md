@@ -51,7 +51,7 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
 <a id="claim-t-189219"></a>
 - t-002
   teiginys: "Narbutas Baubliu vadino pasakojimų pranašišką ąžuolą, kuris esą kalbėdavęs ir atsakydavęs į klausimus."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,14 +59,15 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172106
+    - c-172107
 
 ## Citatos
 
 - id: c-172106
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
   citata_originali: |
     Šis tėvynės paminklų brangintojas liepė iš trūnijusiame
     šio ąžuolo kamiene įrengti kabinetą, turintį 7 uolekčių, 18 co­
@@ -84,12 +85,12 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-172107
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
   citata_originali: |
     Pasakojimuose yra net neatgyvenusių kalbų apie pranašiš­
     kus ąžuolus: ąžuolai kalbėdavę balsu ir atsakinėdavę į klausi­
@@ -99,7 +100,8 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
   citata_rodoma: "Pasakojimuose yra net neatgyvenusių kalbų apie pranašiš­\nkus ąžuolus: ąžuolai kalbėdavę balsu ir atsakinėdavę į klausi­\nmus. Tikriausiai drevėje, kuri dažnai būna tokiuose senuose\nmedžiuose, sėdėdavęs koks apgavikas. Tokį ąžuolą vadindavo\nBaubliu (Baublis)Ąi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

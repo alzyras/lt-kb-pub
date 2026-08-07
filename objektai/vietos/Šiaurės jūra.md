@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6882aba345fb70f864b5553c"
+canonical_name: "Šiaurės jūra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šiaurės jūra"]
+sameAs: []
+canonical_biography: "Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza."
+place_authority: true
+historical_names: []
 ---
 # Šiaurės jūra
 
@@ -74,7 +83,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-166497
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 179-180"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 179-180."
   citata_originali: |
     Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos cent-
     rai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Euro-
@@ -96,7 +106,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-175560
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
   citata_originali: |
     Bet turbūt
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei

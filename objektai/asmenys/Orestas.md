@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a923686bbd7e1000c6ce1ed8"
+canonical_name: "Orestas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Orestas"]
+sameAs: []
+canonical_biography: "Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sostine, o Odoakro kariuomenei miestą užėmus žuvo. Orestas, nedrįsęs atvirai pasiprie šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo laikoma Italijos sostine."
 ---
 # Orestas
 
@@ -67,7 +74,8 @@ Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sosti
 - id: c-173829
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
   citata_originali: |
     Orestas, nedrįsęs atvirai pasiprie­
     šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo

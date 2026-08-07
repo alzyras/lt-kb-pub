@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d23a0849f29730a4202980b"
+canonical_name: "Aukštutinė pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aukštutinė pilis"]
+sameAs: []
+canonical_biography: "Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­ rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pibuvo prisistatęs Vytautui stovyklo­ je prie Smolensko su bajorais ir, Vy­ tautui tą miestą užėmus, priėmė iš šio monarcho jam skirtą valdą -. Aukštutinė pilis ant Tauro kalno."
+place_authority: true
+historical_names: []
 ---
 # Aukštutinė pilis
 
@@ -83,7 +92,8 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 - id: c-82038
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 138."
   citata_originali: |
     Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
     kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
@@ -102,7 +112,8 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 - id: c-82039
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 138."
   citata_originali: |
     Prie jos šliejosi
     pats miesto centras, nedidelis, su mediniais namais, bet su
@@ -128,7 +139,8 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 - id: c-82040
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 217."
   citata_originali: |
     ## Puslapis 217
 

@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-168943
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 601"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 601."
   citata_originali: |
     Ga­
     vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­

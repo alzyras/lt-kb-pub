@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b19c0d2503d99f54b008d9c9"
+canonical_name: "Nikolajus II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nikolajus II"]
+sameAs: []
+canonical_biography: "Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylančios revoliucijos bangos visoje Rusijoje, išleido manifestą, kuriame pažadėjo pripažinti pagrindines demokratines laisves ir organizuoti Valstybės Dūmos – parlamento – rinkimus."
 ---
 # Nikolajus II
 
@@ -40,7 +47,8 @@ Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylanč
 - id: c-21923
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 122."
   citata_originali: |
     Pavasarį ir
     vasarą masiškai kūrėsi įvairios profesinės organizacijos, dažniausiai tau-

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1f34b3b539d0159f9e7c1c83"
+canonical_name: "Skažinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Skažinskis"]
+sameAs: []
+canonical_biography: "Generolui Skažinskiui (Skaržynski) priklausė statulėlė, kurią Narbutas laikė galimu prūsų deivės stabu, pamestu 1096 m. prie Goplo ežero."
 ---
 # Skažinskis
 
@@ -65,7 +72,8 @@ Generolui Skažinskiui (Skaržynski) priklausė statulėlė, kurią Narbutas lai
 - id: c-174348
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 471"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 471."
   citata_originali: |
     Žinoma, jog 1096 metais prūsai buvo tuose kraštuose ir stojo į
     mūšį su lenkais prie Goplo ežero1. Kaip tik tuomet jie galėjo pa­

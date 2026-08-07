@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d0f4115b06d4aeb107c3d8f1"
+canonical_name: "Puzinienė iš Oginskių"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Puzinienė iš Oginskių"]
+sameAs: []
+canonical_biography: "Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766 metais Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­ donųjų auksinų."
 ---
 # Puzinienė iš Oginskių
 
@@ -61,7 +68,8 @@ Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766
 - id: c-83819
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 202."
   citata_originali: |
     Iš Joniškio - neturtingiems studentams kasdien Olia Cha-
     ritatis [labdaringi pietūs] ir duonos kepalas.

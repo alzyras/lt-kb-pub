@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7121bcf3b6217f15955165e4"
+canonical_name: "Petkevičius (karvedys, XVII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petkevičius","Petkevičius (karvedys, XVII a.)"]
+sameAs: []
+canonical_biography: "1698 m. balandžio 23 d. J. L. Oziębłowskis ir jo žmona trejiems metams užstatė Kalpokiškio, arba Pavalksnės, palivarką Ukmergės paviete Samueliui Petkevičiui."
 ---
 # Petkevičius (karvedys, XVII a.)
 
@@ -66,9 +73,10 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185764
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 8"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 8."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 8."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

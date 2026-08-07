@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f29dd6a2e85c928175a7b576"
+canonical_name: "A. Nasonov"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Nasonov"]
+sameAs: []
+canonical_biography: "Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-Leningrad 1950, 398 p.—M. Nasonov, A."
 ---
 # A. Nasonov
 
@@ -75,7 +82,8 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 - id: c-32879
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 327."
   citata_originali: |
     Ir
     Kęstutaitis, kaip kitados jo dėdė Algirdas, tris kartus traukė prieš
@@ -102,7 +110,8 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 - id: c-32880
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 330"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 330."
   citata_originali: |
     1957. — Nasonov, A. N. : _Mongoly i Rus’. Istorija tatarskoj politiki na
     Rusi,_ Maskva 1940.

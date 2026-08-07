@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-929227ae852ec5aea9d271d5"
+canonical_name: "Kafa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kafa"]
+sameAs: []
+canonical_biography: "Yra duomenų, kad toliau žygiuojant buvo pasiektas pietinėje Krymo pakrantėje tarptautinės reikšmės uostas Kafa (Feodosija, totorių perleistas italų Genujos pirkliams, vykdęs prekybą net su Indija)."
+place_authority: true
+historical_names: []
 ---
 # Kafa
 
@@ -50,7 +59,8 @@ Yra duomenų, kad toliau žygiuojant buvo pasiektas pietinėje Krymo pakrantėje
 - id: c-45119
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     Jono vardas.
     Yra duomenų, kad toliau žygiuojant buvo

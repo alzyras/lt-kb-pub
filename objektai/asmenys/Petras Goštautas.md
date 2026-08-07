@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c352edf1ef492d1806cc1c9"
+canonical_name: "Petras Goštautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gastold","Gastoįvd","Goštautas","Petras Goštautas"]
+sameAs: []
+canonical_biography: "Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu ir keliomis prieštaringomis pranciškoniškomis tradicijomis. Pasakojimas apima jo kaip valdovo vietininko ar Vilniaus vaivados vaidmenį, pranciškonų atkvietimą, žudynių kontekstą ir autoriaus atsargumą dėl vėlesnių tradicijų."
 ---
 # Petras Goštautas
 
@@ -441,7 +448,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - id: c-55534
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 44."
   citata_originali: |
     Visos detalės apie Lietu­
     vos pranciškonus yra šio didžiulio
@@ -474,7 +482,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - id: c-55535
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 45."
   citata_originali: |
     Algirdas viešai nubaudė to žiauraus poelgio vadei­
     vas ir liepė paskelbti visame krašte valią nevaržomiems
@@ -507,7 +516,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - id: c-157534
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 44."
   citata_originali: |
     Šios
     19
@@ -538,7 +548,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - id: c-157537
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 43-44"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 43-44."
   citata_originali: |
     - medinės bažnyčios ir bazilijo­
     nų vienuolyno įkūrimą Vilniuje pri­
@@ -579,7 +590,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - id: c-157538
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 43."
   citata_originali: |
     Ne kartą jau minoritai, apaš­
     talavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo
@@ -606,7 +618,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - id: c-157540
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 45-46."
   citata_originali: |
     Čia pirmiausia Petras Goš­
     tautas, kunigaikščio Algirdo laikų
@@ -649,7 +662,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - id: c-168181
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 190."
   citata_originali: |
     Smarkiausia ir sunkiausia kova vyko prie to di­
     džiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau
@@ -678,7 +692,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - id: c-168182
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 225."
   citata_originali: |
     Vienas būrelis iš sep­
     tynių vienuolių buvo prievarta išvilktas iš namų į aikš­
@@ -713,7 +728,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - id: c-168183
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 229."
   citata_originali: |
     Karą prieš maištininką pradėjo pats Algir­
     das. Kadangi Teodoras buvo išvykęs (įkurdinęs pily­
@@ -738,7 +754,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - id: c-168184
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 246."
   citata_originali: |
     Iš pradžių Ragainės komtūras išsklaidė dar­
     bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­

@@ -75,7 +75,8 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
 - id: c-82721
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 311."
   citata_originali: |
     Lygiai taip pat įžvalgiai karalius užkirto kelią
     jau pradėjusiems Vilniuje reikštis piktnaudžiavimams ir
@@ -101,7 +102,8 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
 - id: c-82722
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 311."
   citata_originali: |
     Be karaliaus Stepono laiškų, rašytų
     dėl kalendorinių ginčų, Dubins-

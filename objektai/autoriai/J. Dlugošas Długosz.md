@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ca598e1e400f098ea23eb3f1"
+canonical_name: "J. Dlugošas Długosz"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Dlugošas Długosz"]
+sameAs: []
+canonical_biography: "Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad Vilna agmine silenti veniens et JagyelJonem ducem et castrum Vilnense comprehen­ dit [Į Vilnių su būriu slaptu atėjęs ir kunigaikštį Jogailą, ir Vilniaus pilį užėmė]. Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo vado Viliaus, kuris juos iš Italijos atvedęs0. Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib."
 ---
 # J. Dlugošas Długosz
 
@@ -84,7 +91,8 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
 - id: c-83963
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 51."
   citata_originali: |
     Tačiau, regis, toks stai­
     gus Vilniaus užėmimas tik dėl Kęs­
@@ -110,7 +118,8 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
 - id: c-83964
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 119."
   citata_originali: |
     Nors Strijkovskis yra pasakęs, kad Gedimino pa­
     laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi,
@@ -133,7 +142,8 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
 - id: c-83966
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139."
   citata_originali: |
     29
     Įvairios buvo amžininkų nuomonės ta daugybė ten buvusių žmonių/'

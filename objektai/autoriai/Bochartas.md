@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-69bf9527fe6e5ff764634444"
+canonical_name: "Bochartas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bochartas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabir“, reiškiančio galią."
 ---
 # Bochartas
 
@@ -54,7 +61,8 @@ Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabi
 - id: c-173299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     Egiptiečiai ir graikai, romėnai, in­
     dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­

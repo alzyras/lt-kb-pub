@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2beec9dde201bf50ce296849"
+canonical_name: "Piktukonys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Piktukonys"]
+sameAs: []
+canonical_biography: "Kitaip juos vadindavo piktukais nuo Piktas', netoli Vilniaus yra Piktukonių (Piktukance) kaimas."
+place_authority: true
+historical_names: []
 ---
 # Piktukonys
 
@@ -47,7 +56,8 @@ Kitaip juos vadindavo piktukais nuo Piktas', netoli Vilniaus yra Piktukonių (Pi
 - id: c-177166
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
   citata_originali: |
     Tą vardą Stenderis išveda
     iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f6bdc8be65ecb38590ab6133"
+canonical_name: "Skabeika"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Skabeika"]
+sameAs: []
+canonical_biography: "Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų vežimų."
 ---
 # Skabeika
 
@@ -76,7 +83,8 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
 - id: c-169522
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 461"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 461."
   citata_originali: |
     Šven­
     tės išvakarėse daugybė ginkluotų vyrų, pasislėpusių

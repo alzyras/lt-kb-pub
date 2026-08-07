@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2f89365760f340d7e6e6760e"
+canonical_name: "Michailas Aleksandrovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Michailas Aleksandrovičius"]
+sameAs: []
+canonical_biography: "Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos valdovo Algirdo (jo žmona Julijona Tverietė) prašė „pagalbos ir apginti“, kvietė žygiuoti į Maskvą. žygis Tęsdamas kovą su Maskva, Tverės kunigaikštis Michailas siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą, padėtų KR 6£ S k o © sa A = == e 8 = © + > == Zi IETIES ATRĖMIMAS Algirdo žodžiai ir simbolinis poelgis 1368 m."
 ---
 # Michailas Aleksandrovičius
 
@@ -86,7 +93,8 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
 - id: c-76196
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 49."
   citata_originali: |
     1370 m. žygis
 
@@ -128,7 +136,8 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
 - id: c-76198
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 48."
   citata_originali: |
     Žygių išvakarėse
 
@@ -154,7 +163,8 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
 - id: c-167141
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 48."
   citata_originali: |
     Rytuose
     (senose baltų žemėse), kur vis stiprėjo

@@ -51,7 +51,8 @@ Todėl nei bajorų nei didžiojo kunigaikščio dvaruose (vadinamuosiuose domenu
 - id: c-03217
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 202."
   citata_originali: |
     165 psl.), taip ir Kazimiero laikais tankiau buvo
     gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-

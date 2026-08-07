@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-03ede92e10caff9776dfec67"
+canonical_name: "S. Sužiedėlis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["S. Sužiedėlis","S.Sužiedėlis","Sužiedėlis"]
+sameAs: []
+canonical_biography: "S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įrašytas tarp autorių; turinyje jam priskiriami skyriai apie Vytauto vaidmenį Lietuvos kristianizacijoje, galybės laikus ir ekonominę politiką."
 ---
 # S. Sužiedėlis
 
@@ -100,7 +107,8 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 - id: c-30860
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 116."
   citata_originali: |
     — Senn, A. : _On the Kinship between
     Slavic and Baltic_ , Slavonic and East European Revue, XX, 1941. —
@@ -123,7 +131,8 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 - id: c-30862
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 360"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 360."
   citata_originali: |
     Br. 1923. — Sužiedėlis, S. :
     Vytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-

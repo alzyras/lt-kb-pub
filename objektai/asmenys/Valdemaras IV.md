@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9455074d1efd6b6ea8fd5705"
+canonical_name: "Valdemaras IV"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Valdemaras IV"]
+sameAs: []
+canonical_biography: "Iš danų karaliaus Valdemaro IV-jo nupirkus Estiją, Livonijoje ordinas rubežiavosi su Suomių įlanka (Narva), o vakaruose greit turėjo pasiekti Brandenburgo ribas."
 ---
 # Valdemaras IV
 
@@ -50,7 +57,8 @@ Iš danų karaliaus Valdemaro IV-jo nupirkus Estiją, Livonijoje ordinas rubeži
 - id: c-32818
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 333"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 333."
   citata_originali: |
     XIV
     amž. gale ordino teritorialinis išsiplėtimas artėjo į pačią viršūnę.

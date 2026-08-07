@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5d6e405ee33f4db0f4521e8f"
+canonical_name: "Paidė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Paidė"]
+sameAs: []
+canonical_biography: "Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuoknesę (Kokenhausen) ir Viljandį (Fellin)."
+place_authority: true
+historical_names: []
 ---
 # Paidė
 
@@ -80,7 +89,8 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 - id: c-45256
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112."
   citata_originali: |
     laivams iplaukti j Rygos uosta. Per trumpa
     “| laiką Švedijos kariuomenė užėmė Paidę
@@ -103,7 +113,8 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 - id: c-168438
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 731"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 731."
   citata_originali: |
     F ilonas Km i-
     ta, S ev ersk o k ra šte su siju n g ęs su G urkos grafu, Lesnio-

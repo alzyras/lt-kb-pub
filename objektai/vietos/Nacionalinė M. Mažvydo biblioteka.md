@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba340f760900b6154aea094f"
+canonical_name: "Nacionalinė M. Mažvydo biblioteka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nacionalinė M. Mažvydo biblioteka"]
+sameAs: []
+canonical_biography: "Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje, dalis kovotojų išsidėstė ant Nacionalinės M. Nacionalinėje M."
+place_authority: true
+historical_names: []
 ---
 # Nacionalinė M. Mažvydo biblioteka
 
@@ -75,7 +84,8 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 - id: c-43670
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 258."
   citata_originali: |
     Mažesni šaudmenys leido kariams nešiotis didesnes jų atsargas
 
@@ -100,7 +110,8 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 - id: c-45231
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 257."
   citata_originali: |
     Pirmomis sausio įvykių dienomis tik
     mažesnioji gynėjų dalis turėjo aiškesnę uz-

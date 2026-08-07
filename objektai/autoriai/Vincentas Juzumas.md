@@ -28,12 +28,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-db47e1e28b60a04e84985941"
+canonical_name: "Vincentas Juzumas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vincentas Juzumas"]
+sameAs: []
+canonical_biography: "Vincentas Juzumas šiame straipsnyje rodomas kaip Žemaičių vyskupijos istorikas ir veikalo „Žemaičių vyskupijos aprašymas“ autorius."
 ---
 # Vincentas Juzumas
 
 ## Santrauka
 
-Vincentas Juzumas aptariamą vyskupą laikė tinkamu pareigoms ir palikusiu pavyzdinio gyvenimo bei pagirtinos veiklos atminimą.
+Vincentas Juzumas šiame straipsnyje rodomas kaip Žemaičių vyskupijos istorikas ir veikalo „Žemaičių vyskupijos aprašymas“ autorius.
 
 ## Darbai
 
@@ -43,19 +50,12 @@ Vincentas Juzumas aptariamą vyskupą laikė tinkamu pareigoms ir palikusiu pavy
 
 <a id="claim-t-200693"></a>
 - t-001
-  teiginys: "Vincentas Juzumas aptariamą vyskupą laikė tinkamu pareigoms ir palikusiu pavyzdinio gyvenimo bei pagirtinos veiklos atminimą."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "Vincentas Juzumas aptariamą Žemaičių vyskupą laikė visapusiškai tinkamu tokioms pareigoms ir teigė, kad vyskupas paliko pavyzdinio gyvenimo bei pagirtinos veiklos atminimą."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vincentas Juzumas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vincentas Juzumas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
@@ -70,6 +70,6 @@ Vincentas Juzumas aptariamą vyskupą laikė tinkamu pareigoms ir palikusiu pavy
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 2."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 11:39"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4f54286cbf8f819880936ea5"
+canonical_name: "Herberstein"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Herberstein"]
+sameAs: []
+canonical_biography: "XVI amž. žinios (Herberstein, Guagnini, Lasicius), jog Žemaičiuose tebuvę vartojami mediniai arklų noragai, nėra tikslios."
 ---
 # Herberstein
 
@@ -42,7 +49,8 @@ XVI amž. žinios (Herberstein, Guagnini, Lasicius), jog Žemaičiuose tebuvę v
 - id: c-32945
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 142."
   citata_originali: |
     Bet
     į arklą buvo kinkomas ir arklys, tuo būdu nuo traukiamo žemės

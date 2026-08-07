@@ -75,7 +75,8 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
 - id: c-66369
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 384"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 384."
   citata_originali: |
     Bet Jokūbas buvo nepo-
     puliarus. Be to, jo šei-
@@ -96,7 +97,8 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
 - id: c-175882
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 384"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 384."
   citata_originali: |
     Be to, jo šei-
     moje ėjo kivirčai dėl tėvo
@@ -119,7 +121,8 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
 - id: c-175883
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 384"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 384."
   citata_originali: |
     Tuo būdu didelė dalis ba-
     jorijos paskelbė karalium Fridriką Augustą. Prancūziškoji par-

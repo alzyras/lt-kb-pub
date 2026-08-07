@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a3aead313da7afa35b73c765"
+canonical_name: "Kasparas Neseckis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kasparas Neseckis"]
+sameAs: []
+canonical_biography: "Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma „Niesecki Kasper“."
 ---
 # Kasparas Neseckis
 
@@ -46,7 +53,8 @@ Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma
 - id: c-174493
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 508"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 508."
   citata_originali: |
     Išnaša, kuria autorius papildė tekstą, rengdamas antrąjį LTI lei­
     dimą (PEĮ. L. 273;'291). Cituojamas Kasparo Neseckio veikalas:

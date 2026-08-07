@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab6d8b195ebf4cda7695b30b"
+canonical_name: "F. Kämpfer"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["F. Kämpfer"]
+sameAs: []
+canonical_biography: "Kämpfer : Beobachtungen zu den Sendschreiben Filofejs, JbGO, t."
 ---
 # F. Kämpfer
 
@@ -59,7 +66,8 @@ Kämpfer : Beobachtungen zu den Sendschreiben Filofejs, JbGO, t.
 - id: c-32922
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 36."
   citata_originali: |
     (eit. iš V. Malinin:** **_Starec
     Eleazarova monastyrja Filofej,_** **Kiev 1901, Priloženija 45p.). Plg. F. Kämpfer :**

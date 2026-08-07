@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4b64c8b57493d7e7fa45b67b"
+canonical_name: "Wogenas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Wogenas"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis Maschu ir Wogenu, teigė, kad Prilvico rinkinio „Szwaixtix“ neatitiko Lietuvos Apolonui priskirtų savybių."
 ---
 # Wogenas
 
@@ -53,7 +60,8 @@ Narbutas, remdamasis Maschu ir Wogenu, teigė, kad Prilvico rinkinio „Szwaixti
 - id: c-173345
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
   citata_originali: |
     - Noty 336 i 355.
     29 Prilvico statulėlių rinkinyje, remiantis Maso (Masch) ir Vogeno

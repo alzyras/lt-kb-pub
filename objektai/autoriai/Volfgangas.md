@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c22b70ae932baaf0900fb050"
+canonical_name: "Volfgangas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Volfgangas"]
+sameAs: []
+canonical_biography: "Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius Volfgangas savo „Uwagi Historyczne\" Dziennik Wileński, 1816 m.-T."
 ---
 # Volfgangas
 
@@ -58,7 +65,8 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
 - id: c-84079
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 287."
   citata_originali: |
     Pirmoji iki šiol žinoma Vilniuje
     išleista knyga yra 1525 metais

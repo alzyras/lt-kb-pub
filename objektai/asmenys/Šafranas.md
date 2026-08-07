@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-843dde68545717fa859b8188"
+canonical_name: "Šafranas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šafranas"]
+sameAs: []
+canonical_biography: "Narbutas, perteikdamas Korano aiškintojų pasakojimą, Šafraną mini kaip pranašo Khaintajo tėvą, o Khaintają esą nukankino Ross krašto tauta."
 ---
 # Šafranas
 
@@ -53,7 +60,8 @@ Narbutas, perteikdamas Korano aiškintojų pasakojimą, Šafraną mini kaip pran
 - id: c-174373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Anot Korano
     aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie

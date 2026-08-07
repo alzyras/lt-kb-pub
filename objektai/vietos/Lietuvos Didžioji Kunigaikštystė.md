@@ -31,8 +31,21 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a754c66487ce43a7444c387f"
+canonical_name: "Lietuvos Didžioji Kunigaikštystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lietuvos Didžioji Kunigaikštystė"]
+sameAs: []
+canonical_biography: "Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, arba valdų, atitekusių iš jo didenybės mūsų velionio tė vo, kurias mums, gyvas būdamas, beveik visas, kaip ir pats jo karališkoji didenybė turėjo, malonėjo duoti ir dovanoti, kaip tai. Jeigu kredenso pritrūktų, prašo me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš valstybės iždo, kaip Karalystės, taip ir Lietuvos, kiekvienam būtų sumokėta, kad būtų dievobaimingai už ištikimą savo tarnystę atlyginti, o jeigu šis mūsų kredensas būtų. „Lenkų istorikai ir istorijos tyrėjai visuomet mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti, kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11."
+place_authority: true
+historical_names: []
 ---
 # Lietuvos Didžioji Kunigaikštystė
+
+## Santrauka
+
+Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, arba valdų, atitekusių iš jo didenybės mūsų velionio tė vo, kurias mums, gyvas būdamas, beveik visas, kaip ir pats jo karališkoji didenybė turėjo, malonėjo duoti ir dovanoti, kaip tai. Jeigu kredenso pritrūktų, prašo me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš valstybės iždo, kaip Karalystės, taip ir Lietuvos, kiekvienam būtų sumokėta, kad būtų dievobaimingai už ištikimą savo tarnystę atlyginti, o jeigu šis mūsų kredensas būtų. „Lenkų istorikai ir istorijos tyrėjai visuomet mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti, kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11.
 
 ## Santrauka
 
@@ -79,18 +92,18 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
 <a id="claim-t-200715"></a>
 - t-004
   teiginys: "Laužikas pabrėžia korporatyvumo skirtumus tarp Vakarų Europos šalių ir Lietuvos aiškindamas gėrimo iš vienos taurės reikšmes."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Gėrimas iš vienos taurės: 0.85"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Lietuvos Didžioji Kunigaikštystė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gėrimas iš vienos taurės: mention_match, thing, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Didžioji Kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Gėrimas iš vienos taurės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Didžioji Kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
   vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
@@ -113,7 +126,8 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
 - id: c-176874
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 353"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 353."
   citata_originali: |
     Tad ben­
     drai sekdami protėviais ir suprasdami, kad tai yra pamal­
@@ -158,7 +172,8 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
 - id: c-176875
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 362"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 362."
   citata_originali: |
     Jeigu kredenso pritrūktų, prašo­
     me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš
@@ -187,7 +202,8 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
 - id: c-179209
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 11."
   citata_originali: |
     „Lenkų istorikai ir istorijos tyrėjai visuomet
     mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių
@@ -208,14 +224,14 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 15."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-004
 
 - id: c-184976
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 12"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 12."
   citata_originali: |
     Savavaldaus miesto laikotarpio Kauno istorijos objektas yra sudėtingas. Kau-
     nas, kaip ir visi kiti XV-XVIII a. Lietuvos miestai, buvo tarsi trinaris, jį sudarė pats

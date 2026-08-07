@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87404f3dcea8132042af7d8d"
+canonical_name: "Henrikas Ulenbušas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Ulenbušas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį Henriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat pasiųsiu tave į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda vėliau ir užgijo. Dusburgietis teigia, kad vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir nukovė daugybę sembų."
 ---
 # Henrikas Ulenbušas
 
@@ -68,7 +75,8 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 - id: c-60771
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
   citata_originali: |
     Štai todėl,
     palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
@@ -91,7 +99,8 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 - id: c-60772
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121."
   citata_originali: |
     Susidūrę su juo, broliai su savo
     ginklanešiais narsiai pasipriešino. Tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį

@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1279066d04b66c5e95d751ba"
+canonical_name: "Naugardas Sieverskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naugardas Sieverskas"]
+sameAs: []
+canonical_biography: "Čia jis užėmė visas Dniepro ir Desnos upyno kunigaikštystes — Brianską, Trubčevską, Naugardą Sieverską, ir kt. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos. Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai."
+place_authority: true
+historical_names: []
 ---
 # Naugardas Sieverskas
 
@@ -109,7 +118,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 69."
   citata_originali: |
     Sekančiais metais sukilo ir Volynijos kun. Feodoras, Liu­
     barto sūnus. Vytautas greit ir jį numalšino. Jo žemes pasili­
@@ -128,7 +138,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 68."
   citata_originali: |
     Tas jų nesutarimas ir bus buvusi vie­
     na iš priežasčių, kuri padėjo Vytautui juos numalšinti.
@@ -147,7 +158,8 @@ media_all_json: |-
 - id: c-166447
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 184."
   citata_originali: |
     Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vyk-
     damas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.
@@ -168,7 +180,8 @@ media_all_json: |-
 - id: c-175960
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 209."
   citata_originali: |
     Tačiau amžinosios taikos
     jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.

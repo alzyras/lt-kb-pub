@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4de0b7bc1a5f729b272c1f9d"
+canonical_name: "Mykolas Biržiška"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Biržiška"]
+sameAs: []
+canonical_biography: "Biržiška iš jos pasitraukė."
 ---
 # Mykolas Biržiška
 
@@ -60,7 +67,8 @@ Biržiška iš jos pasitraukė.
 - id: c-26060
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 132-133"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 132-133."
   citata_originali: |
     Vokietijai ir Austrijai paskelbus siekį atkurti Lenkijos valstybę, lietuvių
     atstovai ėmė kelti Lietuvos klausimą. Vokiečiams modernizuojant anek-

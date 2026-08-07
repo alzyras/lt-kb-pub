@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-172516
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 282."
   citata_originali: |
     Čia pakaks pasakyti, kad kiekvienas, susipažinęs su lie­
     tuvių tautos istorija ir mitologija, teiginius, kuriais abejojama

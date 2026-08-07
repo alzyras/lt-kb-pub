@@ -85,7 +85,8 @@ Nenurodyta
 - id: c-169151
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 152."
   citata_originali: |
     Staigiai ir be var­
     go iškilęs į valdžios viršūnes, Vytenis turėjo pamato
@@ -125,7 +126,8 @@ Nenurodyta
 - id: c-178611
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 155."
   citata_originali: |
     Lešekas, vos šitai pajutęs,
     įsakė veržtis į priekį paskutiniams pulkams, o kitiems

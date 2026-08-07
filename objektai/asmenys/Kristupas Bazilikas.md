@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-82795b6a8af22a00be8feb76"
+canonical_name: "Kristupas Bazilikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristupas Bazilikas"]
+sameAs: []
+canonical_biography: "1608 m. Kauno miesto tarybos posėdyje, dalyvaujant Lietuvos etmono Jono Karolio Chodkevičiaus tarnybininkui Kristupui Bazilikui, buvo aiškinamasi dėl rotmistro Jonušo Kiškos suburtos samdinių kuopos, dislokuotos Prienų seniūnijoje, padarytų nuostolių."
 ---
 # Kristupas Bazilikas
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185489
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 152"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 152."
   citata_originali: |
     Sudėtingiau būdavo, kai tekdavo patirti kariuomenės dalinių smurtą. 1608 m. Kau-
     no miesto tarybos posėdyje, dalyvaujant Lietuvos etmono Jono Karolio Chodkevičiaus

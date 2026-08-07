@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-682129d25ac007cc26142c3d"
+canonical_name: "Skandinavija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Skandinavija"]
+sameAs: []
+canonical_biography: "Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Europos dalies (Olandija, Anglija) ir per XVII–XVIII a. Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti mokslą ir katalikybę ne tik Lietuvos Didžiojoje Kunigaikštijoje bei gretimuose kraštuose, bet ir Skandinavijoje, tolimuosiuose Rytų kraštuose (net Kinijoje!)."
+place_authority: true
+historical_names: []
 ---
 # Skandinavija
 
@@ -47,7 +56,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - id: c-68637
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
     kiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-
@@ -69,7 +79,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - id: c-179404
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Seningas imasi visokio darbo, siekdamas gintaro iš­
     gavimo garbę priskirti Skandinavijai, nes tai didelis pu­

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-79d799c301c7ad3511892720"
+canonical_name: "Lukas Opachovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lukas Opachovskis"]
+sameAs: []
+canonical_biography: "40 Dar prieš kelerius metus, nes jau 1563 metais Vilniaus burmistrai - Lukas Opachovskis ir Zenonas Zažeckis - atstovavo Lietuvos Didžiosios Kuni­ gaikštystės miestams Karalystės sei­ me Varšuvoje ir yra paminėti to pa- 280 ## Puslapis 297 IV KNYGA Vilnius ir."
 ---
 # Lukas Opachovskis
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-83747
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 296-297"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 296-297."
   citata_originali: |
     Kristoforo atvaizdas raudoname fo­
     ne. Iš kur jis atsiradęs, tai gal vėliau

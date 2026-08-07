@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-be1ebdabe433d0357d010aed"
+canonical_name: "Fridrichas Kvicas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas Kvicas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku. Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis. Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras, ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie."
 ---
 # Fridrichas Kvicas
 
@@ -120,7 +127,8 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
 - id: c-60590
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
     329 (322). Apie Bisenės pilies sudeginimą 1316 metais
     Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš
@@ -140,7 +148,8 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
 - id: c-60591
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 217-218"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 217-218."
   citata_originali: |
     Apie brolio Fridricho Kvico žūtį bei Vėluvos valsčiaus nusiaubimą 1323 me­
                                                    tais
@@ -186,7 +195,8 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
 - id: c-60592
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     332 (325). Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
     Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
@@ -208,7 +218,8 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
 - id: c-167450
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 215."
   citata_originali: |
     Apie 55 lietuvių žūtį 1319 metais
     Tais pačiais metais, kai dykrose smarkiai ištvino vandenys, Dovydas, Gardino pilininkas,

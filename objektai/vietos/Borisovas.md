@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aff31f13c13154faa0d5bd49"
+canonical_name: "Borisovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Borisovas"]
+sameAs: []
+canonical_biography: "Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno."
+place_authority: true
+historical_names: []
 ---
 # Borisovas
 
@@ -98,7 +107,8 @@ media_all_json: |-
 - id: c-105319
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Dvasios dominikonų baž­
     nyčioje galima pamatyti karaliaus
@@ -132,7 +142,8 @@ media_all_json: |-
 - id: c-167165
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 69-70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 69-70."
   citata_originali: |
     Maskva
     viena po kitos prisijungė kitas rusų kunigaikštijas ir netrukus ėmė gvieštis Lietuvos žemių
@@ -178,7 +189,8 @@ media_all_json: |-
 - id: c-168295
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 601"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 601."
   citata_originali: |
     Ga­
     vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4f55188bb8c73f1801f82797"
+canonical_name: "Burchardas iš Švandeno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Burchardas iš Švandeno"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą, kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o. Dusburgietis teigia, kad apie brolį Burhardą, devintą Teutonų namų ordino didįjį magistrą Tuo metu vadovavo brolis Burchardas iš Švandeno, devintas Teutonų namų ordino didysis magistras."
 ---
 # Burchardas iš Švandeno
 
@@ -72,21 +79,22 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
 <a id="claim-t-194478"></a>
 - t-003
   teiginys: "Apie brolį Burhardą, devintą Teutonų namų ordino didįjį magistrą Tuo metu vadovavo brolis Burchardas iš Švandeno, devintas Teutonų namų ordino didysis magistras."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-167434
+    - c-60730
 
 ## Citatos
 
 - id: c-60730
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241."
   citata_originali: |
     Apie brolį Burhardą, devintą Teutonų namų ordino didįjį magistrą
 
@@ -107,11 +115,13 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+    - t-003
 
 - id: c-167434
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
   citata_originali: |
     Apie brolį Mangoldą, Prūsijos magistrą 1280 viešpaties metais
 
@@ -133,4 +143,3 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003

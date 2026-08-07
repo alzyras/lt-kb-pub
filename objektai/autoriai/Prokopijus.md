@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-beb607a1ac20c6f7f195014f"
+canonical_name: "Prokopijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Prokopijus"]
+sameAs: []
+canonical_biography: "Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, kad Prokopijus estus mini kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos. Narbutas Prokopijų sieja su pasakojimo apie hirius pabaiga ir pažymi, kad vėlesnėse žiniose hirių nebeminima."
 ---
 # Prokopijus
 
@@ -123,7 +130,8 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
 - id: c-169652
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 54."
   citata_originali: |
     Atgavęs Italiją, jis, mi­
     rus Justinianui, buvo kviečiamas atgal į Bizantiją, o
@@ -155,7 +163,8 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
 - id: c-173669
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
   citata_originali: |
     Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
     riko įtaką Europos vakaruose gyvenančioms tautoms ir
@@ -177,7 +186,8 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
 - id: c-173670
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 295."
   citata_originali: |
     Bet, nenorėdami pažeisti mūsų pasakojimų chro­
     nologinės tvarkos, turime atkreipti dėmesį dar ir į trečią
@@ -201,7 +211,8 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
 - id: c-179273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Ka­
     ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
@@ -225,7 +236,8 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
 - id: c-179274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 295."
   citata_originali: |
     Jorda­
     nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­

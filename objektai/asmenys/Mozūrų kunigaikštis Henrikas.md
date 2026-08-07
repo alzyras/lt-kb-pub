@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3d17fec1d8c9b6e4697a7991"
+canonical_name: "Mozūrų kunigaikštis Henrikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mozūrų kunigaikštis Henrikas"]
+sameAs: []
+canonical_biography: "1392 m. Ringailę vedė Ritesverderyje kitas Mozūrijos kunigaikštis Henrikas."
 ---
 # Mozūrų kunigaikštis Henrikas
 
@@ -63,7 +70,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 25."
   citata_originali: |
     1392 m. Ringailę vedė Ritesverderyje
     kitas Mozūrijos kunigaikštis Henrikas. Ji gavo krikšte

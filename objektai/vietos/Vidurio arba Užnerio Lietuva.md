@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1cfa9dfdcb59c8433708357f"
+canonical_name: "Vidurio arba Užnerio Lietuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vidurio arba Užnerio Lietuva"]
+sameAs: []
+canonical_biography: "Narbutas Pajautą vadino Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernave, dukterimi."
+place_authority: true
+historical_names: []
 ---
 # Vidurio arba Užnerio Lietuva
 
@@ -54,7 +63,8 @@ Narbutas Pajautą vadino Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su
 - id: c-171965
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Nereikia tapatinti Medziojnos
     su Medžiojma, kurią laikėme medžiotojų deive, vadinama

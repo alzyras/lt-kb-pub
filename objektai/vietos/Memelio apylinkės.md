@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3627a1975ce04b31ff700c7d"
+canonical_name: "Memelio apylinkės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Memelio apylinkės"]
+sameAs: []
+canonical_biography: "Narbutas teigė Būtės vardą paėmęs iš Memelio apylinkėse išgirsto padavimo, kuriame šiuo vardu dievinta išmintis."
+place_authority: true
+historical_names: []
 ---
 # Memelio apylinkės
 
@@ -54,7 +63,8 @@ Narbutas teigė Būtės vardą paėmęs iš Memelio apylinkėse išgirsto padavi
 - id: c-171913
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 116."
   citata_originali: |
     Iš tikrųjų iš
     to, ką išguldėme straipsnyje apie Santvarą, Lada buvo lietuvių

@@ -137,7 +137,8 @@ Nenurodyta
 - id: c-65487
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
   citata_originali: |
     Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,
     kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas
@@ -157,7 +158,8 @@ Nenurodyta
 - id: c-65488
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 37."
   citata_originali: |
     Šaulys įkiša savo pėdą į arbaleto
     kilpą (tokiu būdu stipriai atremdamas jį į žemę, tada

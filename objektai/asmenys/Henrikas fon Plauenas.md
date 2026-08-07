@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f8b64534f13f8969b83a74d7"
+canonical_name: "Henrikas fon Plauenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas fon Plauenas"]
+sameAs: []
+canonical_biography: "Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė."
 ---
 # Henrikas fon Plauenas
 
@@ -61,7 +68,8 @@ Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė.
 - id: c-44344
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 67."
   citata_originali: |
     Pavėluota šios
     Ordino tvirtovės apsiaustis nedavė re-

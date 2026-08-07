@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1208f4b7542e74a841755d40"
+canonical_name: "Alūksnė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alūksnė"]
+sameAs: []
+canonical_biography: "1560 m. rusai užėmė Alūksnę, Vilijandį."
+place_authority: true
+historical_names: []
 ---
 # Alūksnė
 
@@ -62,7 +71,8 @@ media_all_json: |-
 - id: c-40395
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 89."
   citata_originali: |
     Suomijos įlanka, „ 5
 

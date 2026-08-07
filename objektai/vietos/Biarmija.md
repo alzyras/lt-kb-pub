@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-85ab1d27258d7af445c5895e"
+canonical_name: "Biarmija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Biarmija"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lietuvių žemėje ir kad senovės lietuviai naudojosi tomis raidėmis. Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, palaikiusią santykius su Naugardo slavais. Narbutas rašė, kad išaugus rusų valstybės galiai Biarmija turėjo tapti jos provincija, bet biarmiečiai laikėsi senosios stabmeldystės."
+place_authority: true
+historical_names: []
 ---
 # Biarmija
 
@@ -113,7 +122,8 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
 - id: c-171813
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 436"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 436."
   citata_originali: |
     Apie juos senovės Graikijos
     geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­

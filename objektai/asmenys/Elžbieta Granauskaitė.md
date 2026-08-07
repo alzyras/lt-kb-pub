@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-37e1cdf4378515b4a6ced7ee"
+canonical_name: "Elžbieta Granauskaitė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Elžbieta Granauskaitė"]
+sameAs: []
+canonical_biography: "Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­ nios bei valios vedė Elžbietą Granauskaitę, Vytautas taip supyko, kad karalius, norėdamas vėl įsigyti jo prielankumą, turėjo tam sušaukti atskirą suvažiavimą."
 ---
 # Elžbieta Granauskaitė
 
@@ -63,7 +70,8 @@ Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­ nios bei valios vedė Elžb
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 218."
   citata_originali: |
     Bet tai ne vienas dalykas, ypač labai žymų vaidmenį jis suvai­
     dino, kai iškilo klausimas Jogailos vedybų arba išleidimas jo

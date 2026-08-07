@@ -67,7 +67,8 @@ Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuot
 - id: c-59747
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
   citata_originali: |
     Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
     Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam

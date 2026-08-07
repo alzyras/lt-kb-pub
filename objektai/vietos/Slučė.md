@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3d45f35802944a8ca974ce7c"
+canonical_name: "Slučė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Slučė"]
+sameAs: []
+canonical_biography: "Slučė prasideda šiauriau Slucko. Slučė teka pro Slucką pietų kryptimi į Pripetę. Slučė yra upė, prasidedanti šiauriau Slucko ir pro Slucką tekanti pietų kryptimi į Pripetę."
+place_authority: true
+historical_names: []
 ---
 # Slučė
 

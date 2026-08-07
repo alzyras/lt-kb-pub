@@ -100,7 +100,8 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
 - id: c-175094
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 355"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
   citata_originali: |
     Čia randame detalę, kuri pasikartoja kitose provinci­
     jose ir kuri galėtų labiau paaiškinti visos tautos istoriją,

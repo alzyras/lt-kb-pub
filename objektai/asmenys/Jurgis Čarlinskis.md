@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df4bc9d8525cad73acf5c7f7"
+canonical_name: "Jurgis Čarlinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Čarlinskis"]
+sameAs: []
+canonical_biography: "Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instigatoriaus ir Kauno girininko Jurgio Čarlinskio bylą su Kauno vaitu Jonu Baniškiu."
 ---
 # Jurgis Čarlinskis
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185531
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 244."
   citata_originali: |
     Mažėjant tradicinio miško verslo apimtims, Kauno miestiečiai ieškojo kitų
     verslo galimybių giriose. Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instiga-

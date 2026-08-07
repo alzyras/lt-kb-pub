@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-768337bd74c22c1680a7dbb2"
+canonical_name: "Germanarikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Germanarikas"]
+sameAs: []
+canonical_biography: "Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų karalystės pamatus, jei nebūtų sutrukdęs hunų įsiveržimas į Europą. Narbutas, remdamasis Jordanu, rašo, kad Rytų gotų valdovas Germanarikas užėmė ilgą Vokiečių okeano pakrantę ir pavergė estų tautą. Narbutas pažymi, kad Jordanas, vardydamas Germanariko valdomas gentis nuo Juodosios iki Baltijos jūros, jotvingių nemini."
 ---
 # Germanarikas
 
@@ -76,7 +83,7 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
 <a id="claim-t-191150"></a>
 - t-003
   teiginys: "Narbutas pažymi, kad Jordanas, vardydamas Germanariko valdomas gentis nuo Juodosios iki Baltijos jūros, jotvingių nemini."
-  atnaujinta: "2026-07-19 17:29"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,7 +98,6 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174031
     - c-174032
 
 ## Citatos
@@ -99,7 +105,8 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
 - id: c-174030
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 88."
   citata_originali: |
     Ta­
     čiau jos nesutarė ir nesiekė įtvirtinti vieningą valstybę.
@@ -119,7 +126,8 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
 - id: c-174031
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
   citata_originali: |
     Vėliau Jordanas, gotų istorikas,
     daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­
@@ -139,12 +147,12 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
 
 - id: c-174032
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 114."
   citata_originali: |
     Tikriausiai III amžiaus
     pabaigoje jie persikėlė į Vakarus, į Palenkės girias. Jor­

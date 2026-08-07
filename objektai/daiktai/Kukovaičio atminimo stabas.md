@@ -53,13 +53,13 @@ Nenurodyta
 <a id="claim-t-198531"></a>
 - t-001
   teiginys: "Lietuvos metraštis teigia, kad Utenis tėvui Kukovaičiui atminti padirbo stabą ir pastatė jį prie Šventosios upės ant kalno netoli Deltuvos."
-  atnaujinta: "2026-07-12 23:00"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "gap::items"
   teiginio_tipas: "saltinio_teiginys"
   sudarymo_pagrindimas: "Teiginys yra aiškus, gramatiškas ir šaltiniui priskiria legendinį pasakojimą apie stabą."
   susije_objektai: "mentioned_place: Deltuva; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-180550
 

@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac7b26c09abaa616b78e04c3"
+canonical_name: "Vilijampolė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilijampolė"]
+sameAs: []
+canonical_biography: "Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba bandančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje, 27 – Kauno „Lietūkio“ garaže, nors SD."
+place_authority: true
+historical_names: []
 ---
 # Vilijampolė
 
@@ -59,7 +68,8 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
 - id: c-24563
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 199."
   citata_originali: |
     Specialiosios SD grupės (Tilžės gestapo būrys)
     1941 m. birželio 24 d. sušaudė tik žydus (vyrus) 25 km ruože Lietuvos ir
@@ -84,7 +94,8 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
 - id: c-167033
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 199."
   citata_originali: |
     Einzatsgrupės terorą organizavo taip, kad atrodytų, jog pirmuosius
     pogromus ir „apsivalymo“ akcijas vykdo vietiniai gyventojai. Talkinin-

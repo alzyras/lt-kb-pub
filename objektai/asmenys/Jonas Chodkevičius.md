@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e2384f02b9ff831dbd52844d"
+canonical_name: "Jonas Chodkevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Chodkevičius"]
+sameAs: []
+canonical_biography: "Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų."
 ---
 # Jonas Chodkevičius
 
@@ -130,7 +137,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 - id: c-64668
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)
     pilies bažnyčioje. Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris
@@ -147,7 +155,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 - id: c-64669
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     buvo geriausi kariai, kuriuos tuo metu
     buvo galima surinkti. Greta didžiojo
@@ -178,7 +187,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 - id: c-171438
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
   citata_originali: |
     Romanas Sanguška kovojo kruvinus mū­
     šius su Rusija; įvyko taip, kad karalius, Piotrkovo
@@ -203,9 +213,9 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
     - t-003
 
 - id: c-184872
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 268."
   citata_originali: |
     Kauno miestietis Hanusas Špilis gavo valdovo leidimą statyti Fredoje 2 vėjo malūnus.
     1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgiui Reineriui sklypą se-

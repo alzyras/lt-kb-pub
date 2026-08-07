@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9445c540824198447699a16c"
+canonical_name: "Bomannas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bomannas"]
+sameAs: []
+canonical_biography: "Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­ ku8. 8 Iki mūsų laikų Slaptajame Karaliau­ čiaus archyve išliko didžiojo kuni­ gaikščio Švitrigailos laiškas, kuriame didžiojo magistro prašo saugumo ga­ rantijų Bomannui, Vilniaus gyvento­ jui, vykstančiam į Gdanską su pre­ kybiniais reikalais."
 ---
 # Bomannas
 
@@ -76,7 +83,8 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
 - id: c-83466
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 229."
   citata_originali: |
     Per itin galingas Švitrigailos sąjungas radosi di­
     desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
@@ -98,7 +106,8 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
 - id: c-83467
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 229."
   citata_originali: |
     Žr. K o t z e-
     b u e Sivitrigail, p. 58-59 ir 61.

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7cf23e7f8f155ed70717d101"
+canonical_name: "Hermanas Korneris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hermanas Korneris"]
+sameAs: []
+canonical_biography: "Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Kornerio (Chron."
 ---
 # Hermanas Korneris
 
@@ -58,7 +65,8 @@ Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Korner
 - id: c-84041
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 105."
   citata_originali: |
     Tas pareiškimas prieštarauja Koje-
     1 a v i č i a u s (p. 272), Hermano Kornerio (Chron. p. 1006),

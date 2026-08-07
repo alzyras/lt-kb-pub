@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b85fe18b36f0a3b34f83603e"
+canonical_name: "Lojevas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lojevas"]
+sameAs: []
+canonical_biography: "Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė vakarų kryptimi Mozyriaus bei Slucko link. V. Gosievskis sudegintame Lojeve užėmė patogias pozicijas ir įsakė supilti pylimą Podobailos stovyklai apšaudyti. Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link."
+place_authority: true
+historical_names: []
 ---
 # Lojevas
 
@@ -102,7 +111,8 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
 - id: c-43598
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 123."
   citata_originali: |
     S. Podobaila išsirinko vietą tarp
     Dniepro ir Sožos žiočių, apsuptą nepra-
@@ -122,7 +132,8 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
 - id: c-43599
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 123."
   citata_originali: |
     Su pėstininkais ir artilerija atplaukęs
     V. Gosievskis sudegintame Lojevo mieste
@@ -143,7 +154,8 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
 - id: c-45192
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Jodami stepėmis tarp
     Lietuvos ir Maskvos valdų jie kasdien su-
@@ -165,7 +177,8 @@ Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir
 - id: c-167179
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Ekspedicines
     pajėgas sudarė maždaug 4000 totorių, tu-

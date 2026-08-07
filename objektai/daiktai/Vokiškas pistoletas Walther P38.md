@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-77376
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 272."
   citata_originali: |
     p. 219, Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26 (LK vz. 26), VDKM, Artūro Užgalio nuotr.
     p. 220, Vokiškas pistoletas Parabellum 1908, vpkM, Artūro Užgalio nuotr.

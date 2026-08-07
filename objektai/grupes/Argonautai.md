@@ -59,7 +59,8 @@ Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, ne
 - id: c-175747
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
   citata_originali: |
     Juodąja jūrą pavadino vėliau dėl dažnai virš jos tvy­
     rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė

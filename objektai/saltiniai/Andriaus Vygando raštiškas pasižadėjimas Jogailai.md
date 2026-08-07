@@ -53,7 +53,8 @@ Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mir
 - id: c-169689
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 359."
   citata_originali: |
     Nutarė baigti derybas Lietuvoje. Tuo metu
     Andrius Vygandas, Starodubo kunigaikštis, raštiškai

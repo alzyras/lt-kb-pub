@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83114c1653ea5a01c45d47ba"
+canonical_name: "Pakruojis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pakruojis"]
+sameAs: []
+canonical_biography: "Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo prasiveržti Pakruojo link."
+place_authority: true
+historical_names: []
 ---
 # Pakruojis
 
@@ -50,7 +59,8 @@ Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo 
 - id: c-45257
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 224."
   citata_originali: |
     Tai vienoje, tai kitoje miško vietoje
     vyko atkaklios kautynės. Dienos pabaigoje,

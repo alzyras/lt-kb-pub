@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-56403
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 97"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 97."
   citata_originali: |
     Nuo to kiekvienas gali minėti, kas per karingumas turėjo būti tos giminės taip augusios, nesgi
         vaikeliai^396 ?, atlikę nuo kokio noris darbo, tuojau kibo į ritinį mušti, ir tas buvo skudriu vadinamas,
@@ -91,7 +92,8 @@ Nenurodyta
 - id: c-56404
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 98"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 98."
   citata_originali: |
     Trumpai sakant, ritmuša buvo senovėj karės įrankis lietuvių jaunuomenės, kalnėnų ir žemaičių,
         kaipo visų didžiausia karės mokslinyčia^399 , kaip tuojau regėsim, nesgi tuo mokės nuo pat mažų

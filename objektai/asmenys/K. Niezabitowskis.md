@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-24e0ebf8181f63484bee4bf5"
+canonical_name: "K. Niezabitowskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["K. Niezabitowskis"]
+sameAs: []
+canonical_biography: "K. Niezabitowskis chronologine tvarka surinko lietuvių, žemaičių ir prūsų-lietuvių veikalų apžvalgą, paskelbtą „Dziennik Wilenski“ 1824 m."
 ---
 # K. Niezabitowskis
 

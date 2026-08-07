@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-11723b67f7d7c395cd7bd74e"
+canonical_name: "Kanada"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kanada"]
+sameAs: []
+canonical_biography: "Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie 30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją. Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje."
+place_authority: true
+historical_names: []
 ---
 # Kanada
 
@@ -82,7 +91,8 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 - id: c-67726
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     1944 m. sausį A. Smetona žuvo Klivlande per gaisrą. Tad
     lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi
@@ -102,7 +112,8 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 - id: c-166990
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     Baltijos valstybių ir Lenkijos pa-
     bėgėlių bei tremtinių). Per trejus–ketverius metus į JAV pasisekė atvykti
@@ -119,7 +130,8 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 - id: c-171593
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
   citata_originali: |
     Mes gi apie tai nieko negalime pasakyti*.
     362

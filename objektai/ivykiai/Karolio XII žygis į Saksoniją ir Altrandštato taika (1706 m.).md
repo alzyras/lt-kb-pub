@@ -60,7 +60,8 @@ Nenurodyta
 - id: c-66803
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 395."
   citata_originali: |
     Į Brastą atvyko ir Augustas. Karolis XII
     staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos

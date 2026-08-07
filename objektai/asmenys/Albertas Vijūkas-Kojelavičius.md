@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-834a4a40f773e3442d16da72"
+canonical_name: "Albertas Vijūkas-Kojelavičius"
+entity_roles: ["author","person"]
+entity_view_role: "person"
+entity_aliases: ["A. KOJELAVIČIAUS","A. Kojelavičius","Albertas Vijūkas-Kojelavičius","Kojalas","Vijūkas-Kojelavičius Albertas"]
+sameAs: []
+canonical_biography: "1644 m. Albertas Vijūkas-Kojelavičius buvo išsiųstas į Braunsbergą dėstyti teologijos. Kojelavičius dalyvavo ordino narių susirinkime Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio tiniu. Biografijos aptarime daroma prielaida, kad jėzuitų ordino vadovybei Albertas Vijūkas-Kojelavičius galėjo būti nepageidautinas."
 ---
 # Albertas Vijūkas-Kojelavičius
 
@@ -38,21 +45,8 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-193494"></a>
-- t-001
-  teiginys: "1644 m. Albertas Vijūkas-Kojelavičius buvo išsiųstas į Braunsbergą dėstyti teologijos."
-  atnaujinta: "2026-07-24 15:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
-  pagrindžia:
-    - c-176185
-
 <a id="claim-t-196403"></a>
-- t-002
+- t-001
   teiginys: "Biografijos aptarime daroma prielaida, kad jėzuitų ordino vadovybei Albertas Vijūkas-Kojelavičius galėjo būti nepageidautinas."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -65,7 +59,7 @@ media_all_json: |-
     - c-176186
 
 <a id="claim-t-196404"></a>
-- t-003
+- t-002
   teiginys: "Antrąjį „Lietuvos istorijos“ tomą Albertas Vijūkas-Kojelavičius paskyrė Kazimierui Jonui Sapiegai."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -78,7 +72,7 @@ media_all_json: |-
     - c-178662
 
 <a id="claim-t-196405"></a>
-- t-004
+- t-003
   teiginys: "Kojelavičius, katalikybės ideologas, sprendė pago niškų valdovų santykius su krikščionimis?"
   atnaujinta: "2026-07-12 22:17"
   sprendimo_priezastis: "auto"
@@ -113,7 +107,8 @@ media_all_json: |-
 - id: c-176185
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 6."
   citata_originali: |
     „Lietuvos istorijos" atsiradimas glaudžiai susijęs su
     Vilniaus aukštąja mokykla, vadinta dvigubu akademi­
@@ -125,16 +120,15 @@ media_all_json: |-
   citata_rodoma: "„Lietuvos istorijos\" atsiradimas glaudžiai susijęs su\nVilniaus aukštąja mokykla, vadinta dvigubu akademi­\njos ir universiteto vardu, kurios profesoriumi A. Koje­\nlavičius buvo ir kurios studentams skyrė savo veikalą.\nŠiaip A. Kojelavičiaus biografija rodosi labai nesudė­\ntinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­\nno."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-176186
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 7."
   citata_originali: |
     Po to iškel­
     dinamas į Varšuvą ir paskiriamas jėzuitų namų viršinin­
@@ -150,12 +144,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-178662
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 8."
   citata_originali: |
     Cenzoriai neskaitė autoriaus pirmo ir antro tomų
     dedikacijų Sapiegoms. Antrą tomą A. Kojelavičius pa­
@@ -169,12 +164,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-178663
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 17."
   citata_originali: |
     Lietuvos valstybė nuo pat jos atsiradimo 150 metų
     buvo pagoniška, o jos valdovai — didieji kunigaikš­
@@ -191,4 +187,4 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003

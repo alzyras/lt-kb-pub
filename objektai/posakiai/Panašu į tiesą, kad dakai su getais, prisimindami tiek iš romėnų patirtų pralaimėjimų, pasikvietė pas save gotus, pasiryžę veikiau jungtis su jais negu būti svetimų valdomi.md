@@ -70,7 +70,8 @@ Narbutas cituoja Naruševičių, kuris gotų išėjimą aiškina kaip dakų ir g
 - id: c-174998
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
   citata_originali: |
     Naruševičius šį išėjimą aiškina kitaip. Jis rašo:
       „Panašu į tiesą, kad dakai su getais, prisimindami tiek iš

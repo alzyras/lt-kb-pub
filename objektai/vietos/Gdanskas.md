@@ -35,6 +35,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bb16fd8ec8c536d470e248ed"
+canonical_name: "Gdanskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gdanskas"]
+sameAs: []
+canonical_biography: "Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)). Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs L I E T U V O S I S T O R I J A 40 grūdais pagrindinį Europos duonos uostą – Gdanską. Kova dėl Livonijos daugiausia buvo suinteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą."
+place_authority: true
+historical_names: []
 ---
 # Gdanskas
 
@@ -195,7 +204,8 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 - id: c-24129
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Be to, moderniosios Lietuvos
     valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes. Tiesa, Versalio
@@ -215,7 +225,8 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 - id: c-24130
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 86."
   citata_originali: |
     ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m.
     Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
@@ -234,7 +245,8 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 - id: c-105403
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 17."
   citata_originali: |
     XVI a. vidu-
     ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
@@ -268,7 +280,8 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 - id: c-105404
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Išliko keletas kronikos rankraštinių ištraukų, saugotų Gdanske (XVI a. II-oji pusė) bei
     Elbinge (XVII a.)77.
@@ -285,7 +298,8 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 - id: c-105407
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 228."
   citata_originali: |
     Tik tada Švitrigaila
     energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
@@ -308,7 +322,8 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 - id: c-166983
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Tiesa, Versalio
     taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-
@@ -329,9 +344,9 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - t-006
 
 - id: c-184946
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 246"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 246."
   citata_originali: |
     Lietuvos muitinių knygose škutas neminimas, vyrauja vytinė ir tik
     retkarčiais pasitaiko strugas, botas ar perga. Antra vertus, Vyslos baseine škutas buvo
@@ -347,9 +362,9 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - t-007
 
 - id: c-184947
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 271."
   citata_originali: |
     Todėl
     laivų statyklos reikšmė kalbamo laikotarpio Kauno miesto gyvenime buvo išskirtinė.
@@ -367,9 +382,9 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - t-008
 
 - id: c-184948
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 373"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 373."
   citata_originali: |
     Savaime suprantama, kad ėmę masiškai statydintis mūrnamius kauniečiai
     sekė matytais pavyzdžiais. Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regi-

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ef1b3db082403e807d9d111b"
+canonical_name: "Mechmetas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mechmetas"]
+sameAs: []
+canonical_biography: "Ir jis pa skyrė jiems chaną, vardu Mechmetą l0."
 ---
 # Mechmetas
 
@@ -46,7 +53,8 @@ Ir jis pa skyrė jiems chaną, vardu Mechmetą l0.
 - id: c-176752
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 180."
   citata_originali: |
     Ir jie patys atvyko ir nusilenkė jam, šlo­
     vingajam valdovui, didžiajam kunigaikščiui Vytautui, ir

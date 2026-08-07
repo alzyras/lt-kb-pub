@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7e58df9e619f0d875920a3b7"
+canonical_name: "Wenskus R"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Wenskus R"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad hP, 1, 1, p. 284; Wenskus R."
 ---
 # Wenskus R
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad hP, 1, 1, p. 284; Wenskus R.
 - id: c-61448
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 55."
   citata_originali: |
     D. žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium
     Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas

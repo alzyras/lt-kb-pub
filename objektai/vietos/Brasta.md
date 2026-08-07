@@ -38,6 +38,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9a67439be1195fc01d42b771"
+canonical_name: "Brasta"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Brasta"]
+sameAs: []
+canonical_biography: "Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta. 1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o vėliau pasiųstas gyventi į Trakus."
+place_authority: true
+historical_names: []
 ---
 # Brasta
 
@@ -573,7 +582,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-24084
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 58."
   citata_originali: |
     Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Ra-
     dvila Juodasis. Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
@@ -590,7 +600,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 36."
   citata_originali: |
     Dabar Kęstučio padėtis žymiai pablogėjo. Netekęs Vilniaus
     ir Trakų ir neturėdamas saugios vietos, jis norėjo kreiptis į sa­
@@ -613,7 +624,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 290."
   citata_originali: |
     Su pagoniškąja Lietuva pirmąsias nuolatinio karo paliau­
     bas Ordinas padarė 1379 m. Labai įdomios ir viduramžiui
@@ -638,7 +650,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-46460
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 93."
   citata_originali: |
     Jau anksčiau visi jie buvo gavę po sritį. Vyriausias sūnus, Man-
     v y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
@@ -659,7 +672,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-46461
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     Tuo
     būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
@@ -685,7 +699,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160895
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 288."
   citata_originali: |
     Tačiau šis Statutas tarnavo išim­
     tinai tik šlėktų luomui, nes miestui kuo iškilmingiausiai bu­
@@ -709,7 +724,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160897
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 456"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 456."
   citata_originali: |
     Man buvo ati­
     duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už
@@ -736,7 +752,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160899
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127-128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127-128."
   citata_originali: |
     X, p. 112.
     I1l
@@ -764,7 +781,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160902
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 134."
   citata_originali: |
     Kai visa tai vyko, karalius, matydamas
     pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
@@ -791,7 +809,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160903
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 288."
   citata_originali: |
     Bet Žygimantas, metų naštos prislėg­
     tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
@@ -817,7 +836,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160904
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 58."
   citata_originali: |
     Vėliau Radvila Juo-
     dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
@@ -840,7 +860,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160905
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 288."
   citata_originali: |
     Tame pačiame seime
     Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­
@@ -866,7 +887,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160906
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 56."
   citata_originali: |
     XVI a. viduryje naujas madas atneš Vilniaus Žemuti-
     nės pilies renesansas, tačiau gotikos tradicija, perimta vietos meistrų, dar
@@ -889,7 +911,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160908
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 357."
   citata_originali: |
     Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
     žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
@@ -909,7 +932,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160910
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 94."
   citata_originali: |
     Rimtesnės kautynės vyko birželio 11 dieną prie Myro,
     tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos. Liepos pabaigoje
@@ -931,7 +955,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160912
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 58."
   citata_originali: |
     Po dešimtmečio čia pa-
     sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
@@ -954,7 +979,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160913
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 457"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 457."
   citata_originali: |
     Slups-
     kis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­
@@ -981,7 +1007,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160914
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 95."
   citata_originali: |
     dar per 40 tūkst. karių. LDK kariuomenė turėjo daug sunkumų su karo
     vadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juze-
@@ -1000,7 +1027,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-160916
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248."
   citata_originali: |
     Su­
     gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­
@@ -1020,7 +1048,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-170517
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 82."
   citata_originali: |
     O kai prisiartina
     didysis kunigaikštis Jogaila prie Trakų, Trakai jam pa­
@@ -1040,7 +1069,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-175395
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
   citata_originali: |
     Būgas jau tuomet buvo Mazovijos ir rusų
     žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­
@@ -1062,7 +1092,8 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
 - id: c-175922
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 316-317"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 316-317."
   citata_originali: |
     Ateinančiais 1596 m. Brastoje
     buvo sušauktas pravoslavų sinodas, kur unija turėjo būti viešai

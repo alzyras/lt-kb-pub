@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b295b5fbc8fa7f7654e2f879"
+canonical_name: "Feliksas Bernatovičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Feliksas Bernatovičius"]
+sameAs: []
+canonical_biography: "Feliksas Bernatovičius 1826 m. Vilniuje išleido kūrinį „Pojata corka Lezdejki, albo Litwini w XIV wieku“."
 ---
 # Feliksas Bernatovičius
 
@@ -67,7 +74,8 @@ Feliksas Bernatovičius 1826 m. Vilniuje išleido kūrinį „Pojata corka Lezde
 - id: c-173269
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 503"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 503."
   citata_originali: |
     -  Felikso Bernatovičiaus (1786-1836) kūrinys (Ber-
     natowiczF. Pojata corka Lezdejki, albo Litwini w

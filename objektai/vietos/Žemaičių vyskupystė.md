@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c861aae878465604492130e"
+canonical_name: "Žemaičių vyskupystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žemaičių vyskupystė"]
+sameAs: []
+canonical_biography: "Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žemaičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vyskupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno."
+place_authority: true
+historical_names: []
 ---
 # Žemaičių vyskupystė
 
@@ -60,7 +69,8 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - id: c-03177
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 503"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 503."
   citata_originali: |
     Tai buvo savotiškas mokestis.
     XIX amž. vidury popiežiaus Pijo IX paraginti, viso pa-

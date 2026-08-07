@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-72a57bbf72d7f6cfa5c9ad76"
+canonical_name: "Hostilianas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hostilianas"]
+sameAs: []
+canonical_biography: "Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jūros gyvenę lietuviai kariavo su romėnais."
 ---
 # Hostilianas
 
@@ -83,7 +90,8 @@ Narbutas Hostiliano laikus minėjo tarp imperatorių epochų, kai toliau nuo jū
 - id: c-174298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
   citata_originali: |
     Juk buvo kariaujama su skandina­
     vais, gentys įvairiais būdais patirdavo tų užjūrio kai­

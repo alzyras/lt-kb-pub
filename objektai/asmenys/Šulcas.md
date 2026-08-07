@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8cc3515b52cc49f54477f07b"
+canonical_name: "Šulcas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šulcas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Gucevičiaus popieriuose aptiko rankraštį apie Mildos šventyklos padavimą. Šulcas visas mitologinis: karalienė, vardu Krūminė14, turėjo nepaprasto grožio vienatinę dukterį."
 ---
 # Šulcas
 
@@ -45,7 +52,8 @@ Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Guc
 - id: c-173134
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
   citata_originali: |
     Pats pavadinimas, iš­
     reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­

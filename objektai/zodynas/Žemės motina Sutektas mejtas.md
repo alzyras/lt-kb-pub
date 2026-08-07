@@ -54,7 +54,8 @@ Narbutas Žemės motiną (Žemines Mahti) aprašo kaip požemio deivę, gyvenusi
 - id: c-172250
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 149."
   citata_originali: |
     Žemės motina (Žemines Mahti)
     Požemio deivė, gyvenusi žemės viduryje. Jeigu kas nors

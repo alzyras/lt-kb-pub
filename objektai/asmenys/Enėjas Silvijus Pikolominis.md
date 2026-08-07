@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92534c93b2c6d0f92a4e562e"
+canonical_name: "Enėjas Silvijus Pikolominis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Enėjas Silvijus Pikolominis"]
+sameAs: []
+canonical_biography: "Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto kultas pradėtas puoselėti XVI a."
 ---
 # Enėjas Silvijus Pikolominis
 
@@ -50,7 +57,8 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
 - id: c-26665
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 52."
   citata_originali: |
     Vytauto kulto
     pradžia siekia jo laikus. Enėjas Silvijus Pikolominis (Enea Silvio Picco-

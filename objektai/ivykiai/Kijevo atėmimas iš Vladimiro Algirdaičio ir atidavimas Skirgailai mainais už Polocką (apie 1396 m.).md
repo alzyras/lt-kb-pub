@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-93964
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 319."
   citata_originali: |
     Kaip bėglys, prie jo pri­
     sijungė ir trečias Gedimino anūkas, buvęs Podolės kunigaikštis

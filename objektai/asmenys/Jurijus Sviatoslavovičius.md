@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4e8af8a2bdf9b92fdb62be46"
+canonical_name: "Jurijus Sviatoslavovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurijus Sviatoslavovičius"]
+sameAs: []
+canonical_biography: "Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė priešiškumą ir prijungė savo pajėgas prie Vytauto."
 ---
 # Jurijus Sviatoslavovičius
 
@@ -55,7 +62,8 @@ Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė prieši
 - id: c-169481
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
   citata_originali: |
     Drucko kunigaikščiai, pirmųjų Rusios valdo­
     vų palikuonys, kurie šių neramumų pradžioje mažai

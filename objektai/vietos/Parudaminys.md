@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fadc47ab6fef3ca9eb3831f3"
+canonical_name: "Parudaminys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Parudaminys"]
+sameAs: []
+canonical_biography: "Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygandą, kad susirėmimas vykęs prie didelio Rudminne kaimo (das grosse dorf), mano, kad tai turėtų būti dabartinis Parudaminys, esantis nuo Vilniaus į pietvakarius."
+place_authority: true
+historical_names: []
 ---
 # Parudaminys
 
@@ -52,7 +61,8 @@ Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygand�
 - id: c-82198
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48."
   citata_originali: |
     Vilniaus
     miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­

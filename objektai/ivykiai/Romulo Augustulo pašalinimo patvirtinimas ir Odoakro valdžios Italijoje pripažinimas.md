@@ -193,7 +193,8 @@ Nenurodyta
 - id: c-173915
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
   citata_originali: |
     Romos senatas patvirtino Ro­
     mulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­
@@ -218,7 +219,8 @@ Nenurodyta
 - id: c-173916
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
   citata_originali: |
     Odoakras,
     kuriam buvo gerai žinoma Rytų imperatoriaus mintys ir
@@ -249,7 +251,8 @@ Nenurodyta
 - id: c-173917
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
   citata_originali: |
     Po trejų metų Dalmatijoje šį nominalinį
     monarchą nužudė atsiųsti Giicero, kurį jis seniau nu­

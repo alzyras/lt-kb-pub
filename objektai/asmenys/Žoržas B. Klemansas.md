@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-82db7c157a742506d8ea7368"
+canonical_name: "Žoržas B. Klemansas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Žoržas B. Klemansas"]
+sameAs: []
+canonical_biography: "Prancūzija Žoržo B."
 ---
 # Žoržas B. Klemansas
 
@@ -49,7 +56,8 @@ Prancūzija Žoržo B.
 - id: c-75382
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 140."
   citata_originali: |
     Pralaimėjusi karą Vokietija tam ener-
     gingai nesipriešino, manydama sumažinti sąjungininkų intrigas. Versalio

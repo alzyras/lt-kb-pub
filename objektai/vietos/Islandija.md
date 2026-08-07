@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-03069c3ef0a49e70f9791781"
+canonical_name: "Islandija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Islandija"]
+sameAs: []
+canonical_biography: "Pagalba atėjo iš Islandijos – 1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę."
+place_authority: true
+historical_names: []
 ---
 # Islandija
 
@@ -59,7 +68,8 @@ Pagalba atėjo iš Islandijos – 1991 m. vasario 11 d. Islandijos Altingas pirm
 - id: c-24140
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 247."
   citata_originali: |
     Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti –
     Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-

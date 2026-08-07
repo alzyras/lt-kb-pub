@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14915e4fbbae754e97b35ed4"
+canonical_name: "Pskovo metraštininkas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Pskovo metraštininkas"]
+sameAs: []
+canonical_biography: "V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika 155 ## Puslapis 172 VILNIAUS MIESTO ISTORIJA / TOMAS pačiais 1386 metais Šv."
 ---
 # Pskovo metraštininkas
 
@@ -58,7 +65,8 @@ V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštini
 - id: c-84060
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 171-172"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 171-172."
   citata_originali: |
     Tais
     81

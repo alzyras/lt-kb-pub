@@ -77,7 +77,8 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
 - id: c-67257
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Nuolatos čia
     pabrėžiama religinė vedamo karo esmė: „...juk čia ne jūsų, bet dievo kova“66.
@@ -93,7 +94,8 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
 - id: c-176943
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     1): „Jei išeisi į karą prieš
     savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant

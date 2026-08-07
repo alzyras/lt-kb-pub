@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-69e33983d61d9de29fed3ca5"
+canonical_name: "Aistė Paliušytė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Aistė Paliušytė"]
+sameAs: []
+canonical_biography: "Sudarytoja Aistė Paliušytė."
 ---
 # Aistė Paliušytė
 
@@ -49,9 +56,9 @@ Sudarytoja Aistė Paliušytė.
 ## Citatos
 
 - id: c-185566
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 360"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 360."
   citata_originali: |
     Vilnius, 1987; Lietuvos
     dailininkų žodynas. I tomas: XVI-XVIII a. Sudarytoja Aistė Paliušytė.

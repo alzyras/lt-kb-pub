@@ -144,7 +144,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 305"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 305."
   citata_originali: |
     Pr. Eylau, dab. Bagrationovskas)
     Jaučakiai
@@ -169,7 +170,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70502
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
   citata_originali: |
     Kai jo šventenybė Jeruzalės patriarchas
     Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir
@@ -207,7 +209,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37-38"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37-38."
   citata_originali: |
     Tad popiežius, išklausęs šią
     pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties
@@ -233,7 +236,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70505
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 58."
   citata_originali: |
     Iš pradžių tokios brolijos
     globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
@@ -254,7 +258,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70506
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
     Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino

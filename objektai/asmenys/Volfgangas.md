@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-90997363cdb70832b599f115"
+canonical_name: "Volfgangas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Volfgangas"]
+sameAs: []
+canonical_biography: "Bavarijos grafas Volfgangas parėmė Prūsų magistrą žygyje, per kurį buvo nusiaubta Lietuva ir sunaikintos Ariogalos, Pernaravos bei Labūnavos žemės."
 ---
 # Volfgangas
 
@@ -95,7 +102,8 @@ Bavarijos grafas Volfgangas parėmė Prūsų magistrą žygyje, per kurį buvo n
 - id: c-176192
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 245-246"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 245-246."
   citata_originali: |
     Neatnešė ato­
     kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs

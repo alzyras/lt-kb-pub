@@ -50,7 +50,8 @@ Dusburgietis teigia, kad klausiamas, dėl ko esąs ant jų taip įtūžęs, atsa
 - id: c-59758
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     Apie brolio Ulricho kovas su sūduviais
 

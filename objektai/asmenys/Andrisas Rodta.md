@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-66230fbd0932f3754c004f17"
+canonical_name: "Andrisas Rodta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrisas Rodta"]
+sameAs: []
+canonical_biography: "Štai 1561 m. Austrijos erchercogo Ferdinando tarnas Adomas Timas Kauno vaitui Motiejui Heinui apskundė dėl vagystės Andrisą Rodtą, matyt, vokietį, kuris Veliuonoje prisijungė prie jo, kad išmoktų lietuvių kalbos."
 ---
 # Andrisas Rodta
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185504
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 348"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 348."
   citata_originali: |
     Be to, akivaizdus yra kitataučių poreikis išmokti lietuvių kalbos - Kauno, jei nekalbė­
     sime apie plačias jo apylinkes, viešajame gyvenime ji buvo labiausiai paplitusi.

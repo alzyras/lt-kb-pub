@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cd8b8810cb7dcf558a430b5f"
+canonical_name: "Fridrichas iš Veidos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas iš Veidos"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289, kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas jį nukovė."
 ---
 # Fridrichas iš Veidos
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fr
 - id: c-60910
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
   citata_originali: |
     Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių
     ir 10 laivų. Kunigaikščio kariaunos vadas susigrūmė su broliu Fridrichu iš Veidos289,

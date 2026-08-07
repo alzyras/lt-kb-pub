@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-09932
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 285"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 285."
   citata_originali: |
     Tuo tarpu, jiems po degėsius bevaikščiojant ir beieškant lietuvių, Kęstutis, su 15 tūkstančių joties išpuolęs
         iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį

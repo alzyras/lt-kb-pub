@@ -123,7 +123,8 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
 - id: c-168732
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
   citata_originali: |
     Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
     įgulą, sugriovė arba sudegino visus įtvirtinimus; du
@@ -147,7 +148,8 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
 - id: c-168733
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 162."
   citata_originali: |
     J 63
 
@@ -179,7 +181,8 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
 - id: c-178660
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 161."
   citata_originali: |
     Penki šim­
     tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų

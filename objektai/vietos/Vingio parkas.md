@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-01a5e2f0e57e5ed146ae8848"
+canonical_name: "Vingio parkas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vingio parkas"]
+sameAs: []
+canonical_biography: "Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovybė per šį mitingą paskelbė reikalavimus legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“) – apie 100 tūkst. LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, – partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, oficialiai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio parke leido paminėti."
+place_authority: true
+historical_names: []
 ---
 # Vingio parkas
 
@@ -61,7 +70,8 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
 - id: c-68982
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 236."
   citata_originali: |
     Stiprėjo Lietuvos žaliųjų
     judėjimas.
@@ -82,7 +92,8 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
 - id: c-167034
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 235."
   citata_originali: |
     Pirmieji
     tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab. Katedros)

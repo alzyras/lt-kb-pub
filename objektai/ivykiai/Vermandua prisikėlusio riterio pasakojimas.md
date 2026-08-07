@@ -60,7 +60,8 @@ Nenurodyta
 - id: c-63213
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 226."
   citata_originali: |
     Apie tai, kaip prisikėlė vienas miręs riteris
 

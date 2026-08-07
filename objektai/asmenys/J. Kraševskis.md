@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d281d219625d43940416ba21"
+canonical_name: "J. Kraševskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Kraševskis"]
+sameAs: []
+canonical_biography: "Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija turi būti kiekvieno piliečio lūpose, ir. Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą „Atheneum“. Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kalba rašyta poezija."
 ---
 # J. Kraševskis
 
@@ -62,7 +69,8 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
 - id: c-64643
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 106."
   citata_originali: |
     Vilniuje lenkų kalba išeina devyni tomai karo in-
     žinieriaus ir istoriko Teodoro Narbuto „Lietuvių tautos istorijos“, skirtos
@@ -81,7 +89,8 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
 - id: c-64644
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 120."
   citata_originali: |
     Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
     viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik

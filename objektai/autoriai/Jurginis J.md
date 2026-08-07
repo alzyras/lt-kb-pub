@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e7fdc699af0cce0726686a42"
+canonical_name: "Jurginis J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jurginis J"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburgietis teigia, kad 148 Jurginis J. Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234."
 ---
 # Jurginis J
 
@@ -84,7 +91,8 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
 - id: c-65327
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
   citata_originali: |
     212 XIII a. stambieji žemvaldžiai pirkdavo  ir parduodavo moteris, nelaisvosios
     šeimynos nares. Lietuvių kalboje žodžiai moteris ir žmona XVI a. ir vėliau buvo sinonimai.
@@ -107,7 +115,8 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
 - id: c-65329
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
   citata_originali: |
     Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis
     J., Pagonybės..., p. 107).
@@ -123,7 +132,8 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
 - id: c-65330
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
   citata_originali: |
     Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
     Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32,

@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-50286d9d6c6a93580cb9bde1"
+canonical_name: "Reda Griškaitė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Reda Griškaitė"]
+sameAs: []
+canonical_biography: "Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų analizei skir­ ta kultūros istorikės Redos Griškaitės studija. Warszawa, 1995; Griškaitė R."
 ---
 # Reda Griškaitė
 
@@ -93,7 +100,8 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 - id: c-84019
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 6."
   citata_originali: |
     M. Balinskį, kurios autorius - Lietuvos lenkas. Savotiškai isto­
     riko biografijos vingių ir ano meto istorinių realijų analizei skir­
@@ -112,7 +120,8 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 - id: c-84020
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 16."
   citata_originali: |
     1  N a run i ec R. Michał Baliński jako mecenas polsko-litewskich więzi kul­
     turowych. Warszawa, 1995; Griškaitė R. Mykolas Balinskis: kova dėl
@@ -131,7 +140,8 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 - id: c-173671
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 21-22"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 21-22."
   citata_originali: |
     Taigi T. Narbutas, nors gerai
     išmanė savo profesijos paslaptis, puikiai valdė plunksną

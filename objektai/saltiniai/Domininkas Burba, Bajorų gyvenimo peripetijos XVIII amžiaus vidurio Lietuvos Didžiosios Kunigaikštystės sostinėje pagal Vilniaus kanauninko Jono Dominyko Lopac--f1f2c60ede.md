@@ -7,11 +7,6 @@ datos:
   - '2015 m.'
 date_start: '2015'
 date_end: ''
-aliases:
-  - 'objektai/saltiniai/Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)-01-b--8c9c5fb37c'
-  - 'objektai/saltiniai/Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)-01-bajor-gyvenimo-peripetijos-xviii-am-iaus-vidurio'
-variantai:
-  - 'Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -35,7 +30,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Straipsnyje Jono Dominyko Lopacinskio korespondencija nagrinėjama kaip šaltinis apie jo ankstyvą karjerą ir XVIII a. vidurio Vilniaus bajorų gyvenimą. Straipsnis paskelbtas 2015 m. leidinio „Istorija / History“ 97 tome, 1 numeryje, 26–46 puslapiuose.
+2015 m. paskelbtame Domininko Burbos straipsnyje Jono Dominyko Lopacinskio asmeninė korespondencija naudojama ankstyvajam būsimojo Žemaičių vyskupo gyvenimo etapui ir XVIII a. vidurio Vilniaus bajorų interesams, buičiai bei kasdienybei atskleisti.
 
 ## Bibliografiniai duomenys
 
@@ -47,26 +42,26 @@ Straipsnyje Jono Dominyko Lopacinskio korespondencija nagrinėjama kaip šaltini
 
 <a id="claim-t-200427"></a>
 - t-001
-  teiginys: "Straipsnyje Jono Dominyko Lopacinskio korespondencija nagrinėjama kaip šaltinis apie jo ankstyvą karjerą ir XVIII a. vidurio Vilniaus bajorų gyvenimą."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "Straipsnyje nagrinėjamas ankstyvasis būsimojo Žemaičių vyskupo Jono Dominyko Lopacinskio gyvenimo ir karjeros etapas bei XVIII a. vidurio Vilniaus bajorų gyvenimas pagal jo korespondenciją."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumas: "susije_su -> Domininkas Burba: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=113"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Domininkas Burba: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją\" parinktas kaip owner_note_path. Targetas \"Domininkas Burba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
-  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
   pagrindžia:
     - c-183812
 
 <a id="claim-t-200428"></a>
 - t-002
   teiginys: "Straipsnis paskelbtas 2015 m. leidinio „Istorija / History“ 97 tome, 1 numeryje, 26–46 puslapiuose."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Domininkas Burba: 0.83"
@@ -89,7 +84,7 @@ Straipsnyje Jono Dominyko Lopacinskio korespondencija nagrinėjama kaip šaltini
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 1."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 11:39"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
 
@@ -100,6 +95,6 @@ Straipsnyje Jono Dominyko Lopacinskio korespondencija nagrinėjama kaip šaltini
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 1."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 02:08"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-002

@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-36f71ae87aba845a7eac69f4"
+canonical_name: "Draika"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Draika"]
+sameAs: []
+canonical_biography: "Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrikštytas su visa šeimyna. 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos. Draika Kojelavičiaus pasakojime pradėjo linkti į krikščionių tikėjimą ir per sūnų Piną susitarė su Ragainės komtūru Folradu."
 ---
 # Draika
 
@@ -43,7 +50,7 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
 <a id="claim-t-60108"></a>
 - t-001
   teiginys: "Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrikštytas su visa šeimyna."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -105,7 +112,7 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
 <a id="claim-t-197071"></a>
 - t-005
   teiginys: "Draika prijojo vietą, kur jo arklys nebenorėjo toliau nė žingsnio žengti, nors jį ir smarkiai ragino pentinais."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -153,7 +160,8 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
 - id: c-60740
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
 
@@ -178,7 +186,8 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
 - id: c-60741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Pagautas siaubo, Henrikas liko stovėti
     toje vietoje, iki aušros nedrįsdamas nei į priekį žengti, nei atgal trauktis; kai jis išvydo
@@ -201,7 +210,8 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
 - id: c-168055
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 179."
   citata_originali: |
     Pilies
     viršininkas Draika pradėjo linkti į krikščionių tikėji­
@@ -226,7 +236,8 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
 - id: c-178692
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 179."
   citata_originali: |
     Negalėdamas tarp saviškių garbinti dievo pagal
     šias apeigas, jis ryžosi pereiti priešo pusėn, o prieš

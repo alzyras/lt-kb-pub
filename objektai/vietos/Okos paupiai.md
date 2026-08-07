@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-532f127f2b5c1b5dfab8a12b"
+canonical_name: "Okos paupiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Okos paupiai"]
+sameAs: []
+canonical_biography: "Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai."
+place_authority: true
+historical_names: []
 ---
 # Okos paupiai
 
@@ -47,7 +56,8 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
 - id: c-176005
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 209."
   citata_originali: |
     Tačiau amžinosios taikos
     jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.

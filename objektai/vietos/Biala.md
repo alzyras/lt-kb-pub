@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8f38025d01c44184fff9b477"
+canonical_name: "Biala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Biala"]
+sameAs: []
+canonical_biography: "III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liubešave ir Žuravicuose."
+place_authority: true
+historical_names: []
 ---
 # Biala
 
@@ -73,7 +82,8 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 - id: c-31973
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 271."
   citata_originali: |
     1355 m.
     jo garnizonai įsikūrė Rževe ir Bialoje. Iki 1362 jis užėmė Smolensko
@@ -89,7 +99,8 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 - id: c-175920
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 434."
   citata_originali: |
     I Gardino apygardoj apygardėlinių mokyklų buvo šiose vie-
     tose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje,

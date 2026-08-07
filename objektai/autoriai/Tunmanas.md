@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fca55b2c58dad0e47164cbb0"
+canonical_name: "Tunmanas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Tunmanas"]
+sameAs: []
+canonical_biography: "Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potockio ir Suroveckio raštuose. Pasak Teodoro Narbuto, Tunmanas tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, užėmė Sembą ir gintaro kasyklas. Narbutas rašo, kad Tunmanas lietuvius kildino iš gaujos bėglių, apie 550 metus įsikūrusių Vyslos šakų skalaujamoje saloje."
 ---
 # Tunmanas
 
@@ -154,7 +161,8 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
 - id: c-173343
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 250."
   citata_originali: |
     Apie tai byloja ir pats žibintas -
     aiškus šviesos atributas**.
@@ -173,7 +181,8 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
 - id: c-173694
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
   citata_originali: |
     Tad Nemuno žemupio pakrantes visų pirma de­
     ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
@@ -195,7 +204,8 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
 - id: c-173695
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 254."
   citata_originali: |
     Ar galima tuo remiantis daryti prie­
     laidą, kad Prūsija Jordano laikais vadinosi Vidivarija, kad
@@ -218,7 +228,8 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
 - id: c-173696
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Sis skirtumas yra esminis dalykas;
     mes jį aptinkame jau 1224 metais popiežiaus Honorijaus
@@ -237,7 +248,8 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
 - id: c-179283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 254."
   citata_originali: |
     Juk žymus švedų senovės istorikas Tunmanas, susižavė­
     jęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo
@@ -260,7 +272,8 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
 - id: c-179284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Orig. Livon. P. 265), ten vietoj (Wirlandia rei­
     kia skaityti Witlandia-, tai jau teigė Tunmanas (Unter­

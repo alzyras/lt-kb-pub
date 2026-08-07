@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b8b91c2c558f60416e8c4834"
+canonical_name: "Jaroslavas (Kijevo valdovas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jaroslavas (Kijevo valdovas)"]
+sameAs: []
+canonical_biography: "Lietuva patyrė Kijevo Rusios agresiją."
 ---
 # Jaroslavas (Kijevo valdovas)
 
@@ -62,7 +69,8 @@ Lietuva patyrė Kijevo Rusios agresiją.
 - id: c-41360
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 20."
   citata_originali: |
     Lietuvos valstybė
 

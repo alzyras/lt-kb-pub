@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dfe0993a2b2f6782520d22b4"
+canonical_name: "Teofilis Lapinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teofilis Lapinskis"]
+sameAs: []
+canonical_biography: "Lapinskio jūrų ekspedicija dėl audros ties Juodkrante sužlugo."
 ---
 # Teofilis Lapinskis
 
@@ -60,7 +67,8 @@ Lapinskio jūrų ekspedicija dėl audros ties Juodkrante sužlugo.
 - id: c-44535
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 164."
   citata_originali: |
     žurnalas nurodo, kad rusų pusėje žuvo
     5 ir 32 kariai buvo sužeisti, vertinant

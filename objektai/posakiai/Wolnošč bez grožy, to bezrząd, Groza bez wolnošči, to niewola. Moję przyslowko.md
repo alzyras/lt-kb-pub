@@ -45,7 +45,8 @@ Narbutas šį tekstą taip pat pateikia kaip epigrafą prie antrojo leidimo pata
 - id: c-175012
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 403."
   citata_originali: |
     Epigrafas, kuriuo
       autorius

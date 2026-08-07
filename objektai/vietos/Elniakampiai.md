@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ecc9da65a062221bc641d3e9"
+canonical_name: "Elniakampiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Elniakampiai"]
+sameAs: []
+canonical_biography: "Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­ mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbiterio nuo seno laikytas valdas: Helanokempis (Elniakampius), Putviškes, Pukančius ir Rudaminą su. Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijomis, padavė skundą, kaltinda­ mas ankstesniuosius tėvus jėzuitus: lmo, kad jis, būdamas šiuo metu tos bažnyčios klebonas, ad mentem fundacijų laiko Elniakampius, Putviškes, Pukančius."
+place_authority: true
+historical_names: []
 ---
 # Elniakampiai
 
@@ -75,7 +84,8 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
 - id: c-82046
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 189."
   citata_originali: |
     Pa­
     naikinęs ano titulą ir pareigas, įvedė nuolatinio vikaro pa­
@@ -104,7 +114,8 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
 - id: c-82047
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 190."
   citata_originali: |
     Asesorių sprendimas byloje su Vil­
     niaus magistratu, tas aprobacijas ginčijančiu, paskelbtas; ka­

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4aad44978d41d303e9e11d5a"
+canonical_name: "Biržų pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Biržų pilis","Biržų pilis (pilis)"]
+sameAs: []
+canonical_biography: "Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė švedų įgula, buvusi Biržų pilyje."
+place_authority: true
+historical_names: []
 ---
 # Biržų pilis (pilis)
 
@@ -61,7 +70,8 @@ Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė švedų įgul
 - id: c-40400
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
   citata_originali: |
     Graviūroje gerai matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, jas
     dengia žemės pylimai ir žemių pripildytos pintinės (turai arba gabionai)

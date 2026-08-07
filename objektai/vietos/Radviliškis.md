@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d82adb90700f54c0459db70d"
+canonical_name: "Radviliškis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Radviliškis"]
+sameAs: []
+canonical_biography: "sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d. įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas bunkeryje tarp Radviliškio ir Baisogalos."
+place_authority: true
+historical_names: []
 ---
 # Radviliškis
 
@@ -54,7 +63,8 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
 - id: c-43794
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 196."
   citata_originali: |
     Mūšis
     1919 m. lapkričio 20 d. fronto vadas

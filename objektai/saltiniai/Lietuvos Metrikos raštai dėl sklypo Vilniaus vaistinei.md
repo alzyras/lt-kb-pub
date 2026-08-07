@@ -60,7 +60,8 @@ media_all_json: |-
 - id: c-84425
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 287."
   citata_originali: |
     Pirmoji iki šiol žinoma Vilniuje
     išleista knyga yra 1525 metais

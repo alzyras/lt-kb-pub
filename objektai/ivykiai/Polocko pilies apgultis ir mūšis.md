@@ -65,9 +65,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184650
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 302"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 302."
   citata_originali: |
     Tą matydamas, Mintautas norėjo juos iki nesusi-
     nėrus nukariauti, todėl, kuo veikesniai sukėlęs di­
@@ -90,9 +90,9 @@ Nenurodyta
     - t-001
 
 - id: c-184651
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 302"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 302."
   citata_originali: |
     Jau buvo lie­
     tuviai į pilį įsigrūdą, bet tuo tarpu kunigaikštis Nau-

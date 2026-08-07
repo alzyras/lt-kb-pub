@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5218c077aee3b9fac0b651f"
+canonical_name: "Andriejus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andriejus"]
+sameAs: []
+canonical_biography: "Į tą suvažiavi­ mą atsiuntė popiežius savo legatą Andriejų su plačiausiais įga­ liojimais, gerai pažįstantį Rytų klausimus. Prieš jį rengė koaliciją vyriausias brolis Andriejus."
 ---
 # Andriejus
 
@@ -59,7 +66,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 295."
   citata_originali: |
     Prieš jį
     rengė koaliciją vyriausias brolis Andriejus. Žmogus plataus maš­

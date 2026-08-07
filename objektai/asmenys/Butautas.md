@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c45432fa3be8c00ccab228a6"
+canonical_name: "Butautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Butautas"]
+sameAs: []
+canonical_biography: "Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­ sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­ liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė."
 ---
 # Butautas
 
@@ -63,7 +70,8 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 24."
   citata_originali: |
     Butautas, kuriam šaltiniai duoda įvai­
     rius vardus ir kartais vadina Vaidotu, kuris vėliau dažnai da­

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bb04e456591c1146443ba21e"
+canonical_name: "Vda"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vda"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių. Dusburgietis teigia, kad 286 Jer.— Bda, tai — upė Vda."
+place_authority: true
+historical_names: []
 ---
 # Vda
 
@@ -33,7 +42,7 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 <a id="claim-t-58653"></a>
 - t-001
   teiginys: "Vyslos krante, žemiau Kulmo, prie upės Vda žiočių."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Svečė: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,7 +62,8 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 - id: c-59284
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 93."
   citata_originali: |
     285 D.— Swecza, Svečė (Świecie)—kair. Vyslos krante, žemiau Kulmo, prie upės Vda
     žiočių.
@@ -69,7 +79,8 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 - id: c-59285
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 93."
   citata_originali: |
     286 Jer.— Bda, tai — upė Vda.
 
@@ -87,7 +98,8 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 - id: c-167598
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 93."
   citata_originali: |
     Vyslos krante, žemiau Kulmo, prie upės Vda
     žiočių.

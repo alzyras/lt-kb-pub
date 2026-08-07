@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c12d21fe6a9d2c3d055c3ff3"
+canonical_name: "Davidas Suchetas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Davidas Suchetas"]
+sameAs: []
+canonical_biography: "O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pagalvoji, kiek dar tokių vardų slepia Lietuva?"
 ---
 # Davidas Suchetas
 
@@ -61,7 +68,8 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
 - id: c-21649
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 264."
   citata_originali: |
     Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
     ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-

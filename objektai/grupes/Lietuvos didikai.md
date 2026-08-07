@@ -159,7 +159,8 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
 - id: c-78080
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 242."
   citata_originali: |
     Onos bažnyčios staty­
     mą, bet abi tos bažnyčios ir bernardinų vienuolynas buvo
@@ -187,7 +188,8 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
 - id: c-78082
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 53."
   citata_originali: |
     Tad naudojant vad. pir­
     mojo Lietuvos istoriko veikalą, faktus vis reikia patikrinti.
@@ -209,7 +211,8 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
 - id: c-167917
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 465"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 465."
   citata_originali: |
     Esąs tik vienas būdas suteikti valstybei saugią ramybę,
     tas pats, kuriuo pavyko išplėsti jos valdas, būtent iš­
@@ -234,7 +237,8 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
 - id: c-167918
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 466"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
   citata_originali: |
     Kiti parėmė šį siūlymą
     iš baimės, kad atidėliojant yal-

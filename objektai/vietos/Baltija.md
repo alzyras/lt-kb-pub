@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dcd367b8e4a56e186feecacd"
+canonical_name: "Baltija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Baltija"]
+sameAs: []
+canonical_biography: "Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija. nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija."
+place_authority: true
+historical_names: []
 ---
 # Baltija
 
@@ -142,7 +151,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - id: c-67494
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 72."
   citata_originali: |
     Be to, užėmus pajūrį, Livonijoje ir Prūsuose veikiančios ordino
     šakos galėtų susisiekti sausuma. Tam tikslui 1252 m. Livo-
@@ -160,7 +170,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - id: c-175383
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Graikai, ypač
     masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
@@ -185,7 +196,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - id: c-175384
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Aes­
     tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
@@ -210,7 +222,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - id: c-179364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-

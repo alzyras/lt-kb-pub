@@ -81,7 +81,8 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
 - id: c-168708
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 405"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 405."
   citata_originali: |
     Sužinojo apie tai Vytautas ir gal savo noru, o gal —
     1424 m eta i
@@ -119,7 +120,8 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
 - id: c-168709
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 736"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 736."
   citata_originali: |
     Neteisėtu būdu įsigiję žemių ir dvarų, jie pa­
     sirūpino sutvarkyti šį reikalą, bijodami, kad jų bend­

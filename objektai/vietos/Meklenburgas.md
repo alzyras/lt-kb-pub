@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-841940750730c6ff6e219295"
+canonical_name: "Meklenburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Meklenburgas"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis Ksaveru Bogušu, rašo, kad Meklenburgo dalyje dar turėtų būti kaimiečių, mokančių herulų kalbą. To je Meklenburgo dalyje ligi šiol turėtų būti kaimiečių, mokančių herulų kalbą."
+place_authority: true
+historical_names: []
 ---
 # Meklenburgas
 
@@ -66,7 +75,8 @@ Narbutas, remdamasis Ksaveru Bogušu, rašo, kad Meklenburgo dalyje dar turėtų
 - id: c-175594
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 328"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 328."
   citata_originali: |
     To­
     je Meklenburgo dalyje ligi šiol turėtų būti kaimiečių,

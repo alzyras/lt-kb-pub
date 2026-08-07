@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-49da706ddf2e256e6bb5ead8"
+canonical_name: "Jakūnai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jakūnai","Jakūnai (vieta)"]
+sameAs: []
+canonical_biography: "J. L. Ozięblowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus stalininkas, o jo žmona Kotryna anksčiau buvo ištekėjusi už garsaus XVII a. vidurio karų karvedžio Samuelio Komorowskio."
+place_authority: true
+historical_names: []
 ---
 # Jakūnai (vieta)
 
@@ -56,9 +65,10 @@ J. L. Ozięblowskis buvo Jakūnų seniūnas, nuo 1699 m. – Vilniaus stalininka
 ## Citatos
 
 - id: c-185750
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 8"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 8."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 8."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

@@ -59,7 +59,8 @@ Užrašas ant pritvirtintos prie buožės lentelės: „Šitas Šautuvas yra 5 p
 - id: c-44972
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 200."
   citata_originali: |
     Ilgis — 1305 mm, vamzdžio ilgis - 804 mm. Svoris - 4,06 kg.
     Užrašas ant pritvirtintos prie buožės lentelės: „Šitas Šautuvas yra 5 p. pulko pirmas

@@ -111,7 +111,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-175080"></a>
 - t-005
   teiginys: "Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
@@ -137,11 +137,18 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-175082"></a>
 - t-007
   teiginys: "Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Notangai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sembai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Notangai: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sembai\" parinktas kaip owner_note_path. Targetas \"Notangai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159249
+    - c-159211
 
 <a id="claim-t-175083"></a>
 - t-008
@@ -182,12 +189,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-175085"></a>
 - t-010
   teiginys: "Šešta — Semba196, kurioje [gyveno] sembai."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-178981
+    - c-159223
+    - c-159229
 
 <a id="claim-t-175086"></a>
 - t-011
@@ -355,7 +363,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-175097"></a>
 - t-021
   teiginys: "Grafui iš Barbio įsiveržus į Sembos žemę ir ją nusiaubus, sembai jį užpuolė sausio 21 d. ir sunkiai sužeidė."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Semba: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -367,7 +375,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-159246
-    - c-178981
 
 <a id="claim-t-175098"></a>
 - t-022
@@ -487,14 +494,14 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-194357"></a>
 - t-029
   teiginys: "Apie daugybės maldininkų žūtį Tais pačiais metais į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368 ir įsibrovė į Sembos žemę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159231
+    - c-159246
 
 <a id="claim-t-194358"></a>
 - t-030
@@ -596,7 +603,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-42928
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Ordino pajėgos
     1260 m. Klaipėdoje prieš Lietuvą buvo
@@ -625,7 +633,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-42929
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     „Kai mūšis pasibaigė, kas krikščio-
     nių gyvas liko, brolių ir ginklanešių,
@@ -646,7 +655,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159211
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
   citata_originali: |
     Archeologijos, kalbos ir kitokie duomenys leidžia išskirti sembų—notangų kultūrinę
     grupę, o joje — sembų, varmių, notangų, pagudėnų, pamedėnų gentines teritorijas.
@@ -657,14 +667,17 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   citata_rodoma: "Archeologijos, kalbos ir kitokie duomenys leidžia išskirti sembų—notangų kultūrinę\ngrupę, o joje — sembų, varmių, notangų, pagudėnų, pamedėnų gentines teritorijas.\nKalbos požiūriu šiame plote (t. y. prūsų kalboje) randami du pagrindiniai dialektai:\npamedėnų ir—artimesnis lietuviams — sembų; tam tikrų skirtybių turi notangų dialektas.\nKultūros  ir kalbos požiūriu bartų teritorija laikoma pereinamąja tarp tikrųjų prūsų  ir\njotvingių arba priskiriama prūsams."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-159212
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 103."
   citata_originali: |
     Apie Girmavos valsčiaus nuniokojimą
 
@@ -693,7 +706,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159213
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
   citata_originali: |
     109 (104). Apie brolių ir sembų susitaikymą
     Šiais ir kitais smūgiais brolių bei kitų krikščionių rankomis viešpaties baudžiami
@@ -711,7 +725,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159214
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
   citata_originali: |
     Apie Rinavos valsčiaus sembų naują atskalūnybę
     Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
@@ -730,7 +745,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159215
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
   citata_originali: |
     Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų
     ginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje
@@ -750,7 +766,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159217
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
   citata_originali: |
     319 (312). Apie Bisenės papilių sudeginimą 1313 metais
 
@@ -774,7 +791,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159218
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
   citata_originali: |
     Tą pačią dieną jie norėjo užkariauti sembų kuorus
     [propugnacula], kuriais buvo apsupta Karaliaučiaus pilis, tačiau broliai juos atkalbėjo,
@@ -792,7 +810,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159219
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
   citata_originali: |
     Išaušus,
     kai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,
@@ -813,7 +832,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159220
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 115."
   citata_originali: |
     Latviją). Iškilo dar didesnė kilčių diferenciacija.
     Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau
@@ -836,7 +856,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159221
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
   citata_originali: |
     190 (185). Apie daugybės pagudėnų išžudymą
     Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
@@ -853,7 +874,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159222
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai. Vargu ar kuri šių giminių
     buvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug
@@ -871,20 +893,24 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159223
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 59."
   citata_originali: |
     Notanga195, kurioje [gyveno] notangai. Šešta — Semba196, kurioje [gyveno] sembai.
   citata_rodoma: "Notanga195, kurioje [gyveno] notangai. Šešta — Semba196, kurioje [gyveno] sembai."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 - id: c-159224
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 122."
   citata_originali: |
     Nė sausakimšoje Apuolės pilia­
     kalnio aikštėje (ploto 3640 m.^2 ) jokiu būdu negalėjo tilpti tiek
@@ -905,7 +931,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159226
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 59."
   citata_originali: |
     196 D.— Sambia, in qua Sambite, Jer.— Samin. Anksčiau Semland (1073 m.),
     Samblandia (1224 m.—PUB, 1, 1, Nr. 52, p. 38), Zambia (1231 m — SRP, 1, p. 737;
@@ -923,7 +950,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159228
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
   citata_originali: |
     pavadino tuo pačiu vardu. Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su
     tūkstančiu Sembos vyrų  ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai
@@ -942,7 +970,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159229
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 59."
   citata_originali: |
     Šešta — Semba196, kurioje [gyveno] sembai.
 
@@ -951,14 +980,17 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   citata_rodoma: "Šešta — Semba196, kurioje [gyveno] sembai.\n\niki Priegliaus žiočių (jai priklausė kiek  į vakarus nuo Priegliaus žiočių vėliau kryžiuočių\npastatyta Lencenbergo pilis)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 - id: c-159231
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212-213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212-213."
   citata_originali: |
     Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
                                     kariuomenę
@@ -980,13 +1012,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-019
-    - t-029
     - t-033
 
 - id: c-159234
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     Vargu ar kuri šių giminių
     buvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug
@@ -1005,7 +1037,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159235
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
   citata_originali: |
     100 (95). Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių
     Nė šis smarkus sukrėtimas neįvarė sembams proto ir nepaskatino jų sugrįžti į
@@ -1025,7 +1058,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159236
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
   citata_originali: |
     Apie Dramenavos kaimo nusiaubimą ir daugybės sembų žūtį
     Vargu ar kas įmanytų surašyti, o kam surašius, vargu ar kas patikėtų, kaip uoliai
@@ -1048,7 +1082,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159238
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
     1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
@@ -1071,7 +1106,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159241
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
   citata_originali: |
     Apie didelį krikščionių kraujo praliejimą
     Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
@@ -1095,7 +1131,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159242
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
   citata_originali: |
     1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
     brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
@@ -1116,7 +1153,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159243
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
   citata_originali: |
     kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
     Paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
@@ -1136,7 +1174,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159245
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
     Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino
@@ -1156,7 +1195,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159246
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 117."
   citata_originali: |
     Apie daugybės maldininkų žūtį
 
@@ -1177,11 +1217,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-021
+    - t-029
 
 - id: c-159248
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
   citata_originali: |
     Apie tai, kaip iš anksto buvo išpranašauta ši pergalė
     Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas
@@ -1201,7 +1243,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-159249
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
     netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
@@ -1219,13 +1262,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
     - t-027
 
 - id: c-159250
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
     Klaipėdos pilies apgulties eigoje (XIII a. 6-asis dešimtmetis)30. Priešiškuose lietuviams
@@ -1244,7 +1287,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - id: c-178981
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
     Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė
@@ -1259,8 +1303,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-021
     - t-035
 
 ## Ryšiai

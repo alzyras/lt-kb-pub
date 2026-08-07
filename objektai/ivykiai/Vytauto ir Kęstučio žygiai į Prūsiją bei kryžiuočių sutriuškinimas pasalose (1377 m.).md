@@ -116,7 +116,8 @@ Nenurodyta
 - id: c-169016
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 256."
   citata_originali: |
     Šit kokia galinga taika, net tada, kai žvanga kalavijas,
     kai siaučia karas; sudarant paliaubas su lietuviais, ne­
@@ -151,7 +152,8 @@ Nenurodyta
 - id: c-169018
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 257."
   citata_originali: |
     Pirmiausia Poleksijoje stipri jų kariuomenė ap­
     supo Belską, tačiau nieko nepešusi, nusiaubė visą šį

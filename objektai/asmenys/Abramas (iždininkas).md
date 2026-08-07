@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e087d67e43b86a760d8d7c07"
+canonical_name: "Abramas (iždininkas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Abramas (iždininkas)"]
+sameAs: []
+canonical_biography: "Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol."
 ---
 # Abramas (iždininkas)
 
@@ -50,7 +57,8 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
 - id: c-83584
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284-285"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284-285."
   citata_originali: |
     Lietuvos Metriko­
     je taip pat dažnai minima ši preky­

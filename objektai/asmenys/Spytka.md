@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8934e024636ca2d37498750d"
+canonical_name: "Spytka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Spytka"]
+sameAs: []
+canonical_biography: "Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \\ o kiemo etmonu 5 — ponas Spytka Spytkovičius 6 ."
 ---
 # Spytka
 
@@ -29,12 +36,13 @@ Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \ o 
 <a id="claim-t-198226"></a>
 - t-001
   teiginys: "Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \\ o kiemo etmonu 5 — ponas Spytka Spytkovičius 6 ."
-  atnaujinta: "2026-07-12 22:59"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-180022
 

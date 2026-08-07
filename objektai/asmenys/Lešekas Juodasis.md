@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-859fad6eccf6b84e1d611767"
+canonical_name: "Lešekas Juodasis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lešekas Juodasis"]
+sameAs: []
+canonical_biography: "Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui."
 ---
 # Lešekas Juodasis
 
@@ -77,7 +84,8 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
 - id: c-83744
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24."
   citata_originali: |
     Benjaminas iš Tudelio, žydų kilmės ke­
     liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne
@@ -101,7 +109,8 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
 - id: c-173801
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
   citata_originali: |
     Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be
     to, Traidenis vakarinėje Jotvingijoje paliko visos tautos

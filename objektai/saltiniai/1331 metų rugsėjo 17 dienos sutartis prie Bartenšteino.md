@@ -82,25 +82,34 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
 <a id="claim-t-188488"></a>
 - t-003
   teiginys: "Pagal 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino, Fridburgo ir Bajerburgo pilys buvo sunaikintos."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Veliuona: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Veliuonos sudeginimas tiesiogiai rodo kryžiuočių karinį veiksmą prieš šią vietą."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Veliuona (0.72)"
   temporaliniai_duomenys: "mūšio data: 1331 m."
   temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas puolė Veliuona“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Įvardytos „tos pilys“, nes ankstesnėje citatos dalyje jos nurodytos kaip Fridburgas ir Bajerburgas. Nepridėta informacijos apie Veliuoną."
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-170963
+    - c-171378
 
 ## Citatos
 
 - id: c-170963
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     XIV am­
     žiaus pradžioje kryžiuočiai buvo apgulę pilį, bet, negalėdami
@@ -120,12 +129,12 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
   pagrindzia:
     - t-001
     - t-002
-    - t-003
 
 - id: c-171378
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
   citata_originali: |
     1329 metais Lietuvos didysis kunigaikštis
     Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­
@@ -136,7 +145,8 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
   citata_rodoma: "1329 metais Lietuvos didysis kunigaikštis\nGediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­\nkiu šaunamuoju ginklu. Vėliau, pagal 1331 metų rugsėjo 17\ndienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys\nbuvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino\nVeliuoną ir sugriovė pilį."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

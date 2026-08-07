@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-146ac3d9cb7a99402a5fa9d4"
+canonical_name: "Šv. Kazimiero koplyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Kazimiero koplyčia","šv. Kazimiero koplyčios"]
+sameAs: []
+canonical_biography: "Narbutas Šv. Kazimiero koplyčią mini aiškindamas Katedros pusrūsio aprūkimą: jo pasakojime dūmai siejami ne su aukojimo laužais, o su koplyčios patarnautojų kūrenta ugnimi."
+place_authority: true
+historical_names: []
 ---
 # Šv. Kazimiero koplyčia
 
@@ -62,7 +71,8 @@ Koplyčia minima kaip Vilniaus katedros aplinkos vieta.
 - id: c-170831
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 201."
   citata_originali: |
     Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
     no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,

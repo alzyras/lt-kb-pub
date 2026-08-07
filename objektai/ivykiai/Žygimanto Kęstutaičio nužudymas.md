@@ -107,7 +107,8 @@ Nenurodyta
 - id: c-170441
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
   citata_originali: |
     Bychovco kronikos rankraštį prieš 1830 m. Alek­
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­

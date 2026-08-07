@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f62798dc71ca843a1b10598c"
+canonical_name: "Markas (žydas kreditorius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Markas (žydas kreditorius)"]
+sameAs: []
+canonical_biography: "Žydui Markui palūkanų nuo pustrečio šimto zlotų už 6 savaites, tai yra, a Die 17 maij ad diem 28 Junij [nuo gegužės 17-os dienos iki birželio 28 dienos] 15 florinų. Die 17 Augusti [rugpjūčio 17 dieną] pas žydą Marką už­ statyta grandinė karališk."
 ---
 # Markas (žydas kreditorius)
 
@@ -58,7 +65,8 @@ media_all_json: |-
 - id: c-83526
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 458"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 458."
   citata_originali: |
     Die 17 Augusti [rugpjūčio 17 dieną] pas žydą Marką už­
     statyta grandinė karališk. did. reikalams, o die 11 May ad
@@ -76,7 +84,8 @@ media_all_json: |-
 - id: c-83527
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 456"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 456."
   citata_originali: |
     Jiems
     išleista 1 florinas 6 grašiai.

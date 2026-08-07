@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a87e498a6b504ef260f3d817"
+canonical_name: "Levas (Haličo kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Levas (Haličo kunigaikštis)"]
+sameAs: []
+canonical_biography: "Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygiavę rusėnų kunigaikščiai tūžo ant Haličo kunigaikščio Levo, kad šis „pats su totoriais paėmė miestą“, nes ketino, drauge paėmę Naugarduką, eiti toliau į „Lietuvos žemę“."
 ---
 # Levas (Haličo kunigaikštis)
 
@@ -50,7 +57,8 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
 - id: c-44435
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 33."
   citata_originali: |
     Atsilikusi žygiavo Lucko kariuomenė, nuo
     Kopylio niokodama teritoriją - kur jau tuo metu prasidėjo Lietu-

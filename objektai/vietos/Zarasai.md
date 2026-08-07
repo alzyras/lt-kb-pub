@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e6278cef2eaea1bc7c575281"
+canonical_name: "Zarasai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zarasai"]
+sameAs: []
+canonical_biography: "Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės, o Pažaislio vienuolyne apsigyveno pravoslavų vyskupas — archieriejus."
+place_authority: true
+historical_names: []
 ---
 # Zarasai
 
@@ -59,7 +68,8 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 - id: c-24615
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 164."
   citata_originali: |
     Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
     Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...

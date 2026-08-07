@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b91443b95151b420dd3fa3b6"
+canonical_name: "Gókski, K"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gókski, K"]
+sameAs: []
+canonical_biography: "Gókski, K."
 ---
 # Gókski, K
 
@@ -66,7 +73,8 @@ Gókski, K.
 - id: c-55067
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 350."
   citata_originali: |
     11-19 p. — Gókski, K. : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,
     nr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.

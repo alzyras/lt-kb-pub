@@ -69,7 +69,8 @@ media_all_json: |-
 - id: c-45525
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 288."
   citata_originali: |
     Šio leidinio tikslas - per karų kulminacinius momen-
     tus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę
@@ -90,7 +91,8 @@ media_all_json: |-
 - id: c-167102
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 288."
   citata_originali: |
     Kai kurių laikotarpių gan svarbūs mūšiai
     nebuvo atrinkti tiesiog dėl vietos stokos.

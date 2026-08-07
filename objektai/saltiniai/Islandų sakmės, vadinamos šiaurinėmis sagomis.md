@@ -54,7 +54,8 @@ Narbutas islandų šiaurinėse sagose nurodė žinių apie rusų karalių Zugurl
 - id: c-174723
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     234
     Islandų sakmėse, vadinamose šiaurinėmis sagomis,

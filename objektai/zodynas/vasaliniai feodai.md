@@ -50,7 +50,8 @@ Jų žemes ordinas priiminėjo vasaliniais feodais, vis rūpestingai aktuose pa�
 - id: c-28516
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 178."
   citata_originali: |
     Ir Prūsų
     ordinas mielai priglausdavo tokius perbėgėlius, juos pakrikštydamas.

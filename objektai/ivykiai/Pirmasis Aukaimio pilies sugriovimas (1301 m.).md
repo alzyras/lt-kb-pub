@@ -55,11 +55,19 @@ Nenurodyta
 <a id="claim-t-66824"></a>
 - t-001
   teiginys: "Draikai slapta atidarius Aukaimio pilies vartus, broliai įsiveržė, beveik visus išžudė, moteris ir vaikus paėmė į nelaisvę ir sudegino pilį su papiliu."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Aukaimis: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Aukaimis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo brolių pasirengimą užpulti Aukaimio pilį."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Aukaimis (0.82); Kryžiuočių ordinas užėmė Aukaimis (0.79)"
   pagrindžia:
-    - c-66943
+    - c-66942
 
 <a id="claim-t-66825"></a>
 - t-002
@@ -86,7 +94,8 @@ Nenurodyta
 - id: c-66942
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
     štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
@@ -102,14 +111,17 @@ Nenurodyta
   citata_rodoma: "Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir\nštai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,\nkad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.\nDėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus,  ir broliai, ten\nįsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai\n\n  554 Konradas Žakas, atrodo, ne pastatė Goliubo  pilį, o tik ją pritaikė kryžiuočių\nporeikiams (Powierski J., Dobra..., p. 191 — 192).\n\nsužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį\nDraiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-66943
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     280 (273). Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
     Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
@@ -127,5 +139,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

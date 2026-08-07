@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2e015b3cddc8a18f7f32025e"
+canonical_name: "White Plains"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["White Plains"]
+sameAs: []
+canonical_biography: "Tam įtakos turėjo 1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios lietuvių laisvinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos Lietuvos atstatymo, remiantis nekintama lietuvių tautos valia“."
+place_authority: true
+historical_names: []
 ---
 # White Plains
 
@@ -40,7 +49,8 @@ Tam įtakos turėjo 1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios l
 - id: c-24610
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 226."
   citata_originali: |
     JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios
     organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasau-

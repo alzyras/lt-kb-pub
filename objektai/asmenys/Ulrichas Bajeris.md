@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-813b8ae4838740dd255bb7ab"
+canonical_name: "Ulrichas Bajeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ulrichas Bajeris"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį Tuo metu, kai netikėlių kariuomenė buvo Sembos žemėje, brolis Ulrichas Bajeris, Tepliavos komtūras, su 12 brolių ir 250 raitelių įsiveržė į Sūduvą ir, neskaitant kitų nuostolių, kurių pridarė. Dusburgietis teigia, kad apie brolio Ulricho kovas su sūduviais Tas brolis Ulrichas garsėjo narsa. Dusburgietis teigia, kad šiame kare krito nukauti brolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės pakliuvo į nelaisvę."
 ---
 # Ulrichas Bajeris
 
@@ -116,7 +123,8 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
 - id: c-60702
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     Šiame kare krito nukauti
     brolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės
@@ -138,7 +146,8 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
 - id: c-60703
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį
 
@@ -159,7 +168,8 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
 - id: c-60704
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     Apie brolio Ulricho kovas su sūduviais
 

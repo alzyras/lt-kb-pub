@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9a94574b8f9b2ad6691b9607"
+canonical_name: "Pranciškus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pranciškus"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė."
 ---
 # Pranciškus
 
@@ -47,7 +54,8 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 - id: c-61050
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
   citata_originali: |
     Galop atėjo švenčiausioji mergelė
     Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam

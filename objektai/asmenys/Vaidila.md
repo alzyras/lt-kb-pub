@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba4c0bd6f99a82021ba035f6"
+canonical_name: "Vaidila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaidila"]
+sameAs: []
+canonical_biography: "Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajoras Vaidila patarimais rėmė Jogailos siekius ir savo įtaka juos skatino. Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju."
 ---
 # Vaidila
 
@@ -131,7 +138,8 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
 - id: c-83441
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50."
   citata_originali: |
     Jogailos siekius pata­
     rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­
@@ -154,7 +162,8 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
 - id: c-83442
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 51-52"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 51-52."
   citata_originali: |
     Ir prisiekė Jogai­
     la, kaip mūsų tėvui nepadės, ir gy­
@@ -183,7 +192,8 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
 - id: c-83443
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127-128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127-128."
   citata_originali: |
     I1l
 
@@ -211,7 +221,8 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
 - id: c-178954
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 78-79"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78-79."
   citata_originali: |
     O didysis kunigaikštis Kęstutis, sutelkęs savo pajė­
     gas, skuba į Vilnių ir suima didįjį kunigaikštį Jogailą

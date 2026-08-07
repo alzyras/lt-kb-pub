@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f419c9bcb6c5eef94d4aef53"
+canonical_name: "Julija Žymantienė-Žemaitė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Julija Žymantienė-Žemaitė"]
+sameAs: []
+canonical_biography: "Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos Žymantienės-Žemaitės sodri realistinė sociali proza. Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika Didžiulienė-Žmona ir kt."
 ---
 # Julija Žymantienė-Žemaitė
 
@@ -63,7 +70,7 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
 <a id="claim-t-75893"></a>
 - t-002
   teiginys: "Julijos Žymantienės-Žemaitės sodri realistinė socialinė proza žadino lietuvių tautinę savimonę."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1895 m."
@@ -77,7 +84,8 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
 - id: c-73563
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 126-127"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 126-127."
   citata_originali: |
     Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
     1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
@@ -107,7 +115,8 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
 - id: c-73564
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 120."
   citata_originali: |
     Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
     viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik

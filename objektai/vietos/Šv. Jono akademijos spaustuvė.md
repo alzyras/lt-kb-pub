@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3cff669eb6d1a791cd1f4f39"
+canonical_name: "Šv. Jono akademijos spaustuvė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Jono akademijos spaustuvė"]
+sameAs: []
+canonical_biography: "Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskutinę valią pareikšdamas, užrašė Akademijos kolegijai, įpareigodamas, kad 25 metus činšo mokestis nuo jo eitų Dievo Kūno koplyčios naudai, o po 25 metų Akademijos kolegijai turėsiąs. Taigi: 180 ## Puslapis 197 Il KNYGA 1631 metais Akademijos kolegija, Dievo Kūno koplyčios sutikimą turėdama, įgijo savo nuosavybei minėtą sklypą ir mūrinį namą, kurį vėlesniais laikais toji pati Akademijos ko­ legija spaustuve pavertė."
+place_authority: true
+historical_names: []
 ---
 # Šv. Jono akademijos spaustuvė
 
@@ -77,7 +86,8 @@ Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskut
 - id: c-82106
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196-197"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196-197."
   citata_originali: |
     Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­
     mą su sklypu, savo paskutinę valią pareikšdamas, užrašė
@@ -107,7 +117,8 @@ Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskut
 - id: c-82107
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196-197"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196-197."
   citata_originali: |
     Taigi:
     180

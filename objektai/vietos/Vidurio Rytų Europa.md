@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-da7fd717d5d839f2c43cfa60"
+canonical_name: "Vidurio Rytų Europa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vidurio Rytų Europa"]
+sameAs: []
+canonical_biography: "LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavimo ar juridinio įforminimo sparta."
+place_authority: true
+historical_names: []
 ---
 # Vidurio Rytų Europa
 
@@ -50,7 +59,8 @@ LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi
 - id: c-18361
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 72."
   citata_originali: |
     LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-
     kė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui,

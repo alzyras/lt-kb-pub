@@ -50,7 +50,8 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
 - id: c-43298
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
   citata_originali: |
     p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi
     Liberi Baronis in Herberstain, Neyperg & Guettenhag. Basileae: per loannem Oporinum,

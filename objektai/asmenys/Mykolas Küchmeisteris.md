@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8798b53779e6faacbfe1e89b"
+canonical_name: "Mykolas Küchmeisteris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Küchmeisteris"]
+sameAs: []
+canonical_biography: "Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meisteris. Dubysos pakraščius ištyrinėjus, naujoji lietuviš­ kai pramokusio Küchmeisterio sostinė ir krašto administracijos centras buvo pastatytas prie Dubysos žiočių (kur 1336 m. buvo stovėjęs Marienburgas), arti Nemuno dešinio įtako Armenos^42."
 ---
 # Mykolas Küchmeisteris
 
@@ -120,7 +127,8 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
 - id: c-30264
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 335."
   citata_originali: |
     Kita pilis, 1400 pastatyta tiksliai nenustatomoje vie­
     toje (arti prie Dubysos), buvo pavadinta « Friedeburg »^19. Joje
@@ -138,7 +146,8 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
 - id: c-160559
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 339"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 339."
   citata_originali: |
     1407
     m. buvo atstatytas ir Friedeburgas^41. Svarbiausia kryžiuočių tvir­
@@ -159,7 +168,8 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 148."
   citata_originali: |
     Vytautas Didysis, sulaukęs Makro Lietuvoje, pirmiausia
     pasistengė patraukti jį į savo pusę: jis gražiai Makrą priėmė,
@@ -183,7 +193,8 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
 - id: c-167745
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 335."
   citata_originali: |
     Vieną ordino pilį prie Nevėžio padėjo pastatyti pats
     Vytautas^18. Kita pilis, 1400 pastatyta tiksliai nenustatomoje vie­

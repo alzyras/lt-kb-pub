@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a4ecfcddbcef30bacf6b9f3b"
+canonical_name: "Verneris fon Hoinbergas (didikas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Verneris fon Hoinbergas","Verneris fon Hoinbergas (didikas)"]
+sameAs: []
+canonical_biography: "Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto didikai atvyko į Prūsiją."
 ---
 # Verneris fon Hoinbergas (didikas)
 
@@ -54,7 +61,8 @@ Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto did
 - id: c-169625
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 180."
   citata_originali: |
     Trumpą atokvėpį vis dėlto nutraukė nauji ant­
     puoliai iš Prūsijos. Grafas Verneris fon Hoinbergas ir

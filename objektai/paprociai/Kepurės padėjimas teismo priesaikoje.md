@@ -53,15 +53,22 @@ Nenurodyta
 <a id="claim-t-189780"></a>
 - t-001
   teiginys: "Narbutas kepurių padėjimą teismo liudijimuose aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Priesaika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kepurės padėjimas teismo priesaikoje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Priesaika: mention_match, thing, gap=101"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kepurės padėjimas teismo priesaikoje\" parinktas kaip owner_note_path. Targetas \"Priesaika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172664
+    - c-172663
 
 <a id="claim-t-189781"></a>
 - t-002
@@ -88,7 +95,8 @@ Nenurodyta
 - id: c-172663
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
   citata_originali: |
     Šaltinis
     yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­
@@ -105,14 +113,17 @@ Nenurodyta
   citata_rodoma: "Šaltinis\nyra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­\nsiremiantys skrutinijomis, arba tardymais, kurių metu liudy­\ntojai prisiekdavo; ten pasakyta: „Gerieji žmonės, verti pasiti­\nkėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17\n17 Lieflandische Geschichte (1757 metų leidimas. -  P. 32).\nII. 93\n321\n\n## Puslapis 321\n\nlietuvių liudijimo būdas su užkeikimu arba priesaika."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-172664
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 321."
   citata_originali: |
     Šie
     paprasti žodžiai, kupini nuoširdaus išpažinimo ir ryžtingai ra­
@@ -134,5 +145,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

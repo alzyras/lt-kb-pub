@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b78e13dc6bf44e8a7a50dd07"
+canonical_name: "Simnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Simnas"]
+sameAs: []
+canonical_biography: "Seirijuose, Simne, Prienuose ir kt."
+place_authority: true
+historical_names: []
 ---
 # Simnas
 
@@ -61,7 +70,8 @@ Seirijuose, Simne, Prienuose ir kt.
 - id: c-43849
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 226."
   citata_originali: |
     1945 m. gegužės 14 d. iš Simno rajono
     NKVD skyriaus viršininko gauti duome-

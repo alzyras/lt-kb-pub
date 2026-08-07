@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-10599fdc63b8f0181a28b0b7"
+canonical_name: "S. Rozenbaumas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["S. Rozenbaumas"]
+sameAs: []
+canonical_biography: "Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras."
 ---
 # S. Rozenbaumas
 
@@ -61,7 +68,8 @@ Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be por
 - id: c-75383
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 167."
   citata_originali: |
     Galima sakyti, kad dvi svarbiausios užsienio politikos problemos –
     Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį. Netu-

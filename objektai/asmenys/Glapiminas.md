@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4836c381e265bd0ebc2c394f"
+canonical_name: "Glapiminas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Glapiminas"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja, kad Imino vaikaitis Glapiminas XII amžiuje po kunigaikščio užkariavimo sugrįžo į Lietuvą."
 ---
 # Glapiminas
 
@@ -62,7 +69,8 @@ Narbutas pasakoja, kad Imino vaikaitis Glapiminas XII amžiuje po kunigaikščio
 - id: c-173036
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
   citata_originali: |
     Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
     tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o

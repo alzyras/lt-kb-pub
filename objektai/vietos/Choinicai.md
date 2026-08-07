@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f0f69bcfdd9226a5ef7f656d"
+canonical_name: "Choinicai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Choinicai"]
+sameAs: []
+canonical_biography: "Lenkai užėmė Choinicus per Prūsijoje pasibaigusį karą."
+place_authority: true
+historical_names: []
 ---
 # Choinicai
 
@@ -83,7 +92,8 @@ Lenkai užėmė Choinicus per Prūsijoje pasibaigusį karą.
 - id: c-168622
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 514-515"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 514-515."
   citata_originali: |
     Po to, beveik netrukdomi pasi­
     rengę lemiamam antpuoliui, iš arti visa jėga užgriuvo

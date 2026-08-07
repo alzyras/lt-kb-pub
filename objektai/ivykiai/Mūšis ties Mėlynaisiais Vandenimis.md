@@ -106,7 +106,8 @@ Nenurodyta
 - id: c-169933
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 216."
   citata_originali: |
     1 Vienas Kutlubugas minimas IM 1277 m. Iš Algirdo valdymo
     laikotarpio žinomas Kutlubugas, kuris 1382 m. buvo Krymo val­

@@ -76,7 +76,8 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
 - id: c-84283
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     Jeigu mes net tarsime, kad ta pilis Vilniuje
     gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
@@ -102,7 +103,8 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
 - id: c-84284
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 63."
   citata_originali: |
     Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­
     du gyvavęs dar iki Gedimino laikų. Hartknochas Dusbur-

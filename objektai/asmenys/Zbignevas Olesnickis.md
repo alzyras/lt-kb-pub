@@ -23,6 +23,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aeb72f5c1bdd22acb40c9231"
+canonical_name: "Zbignevas Olesnickis (vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zbignevas Olesnickis","Zbignevas Olesnickis (vyskupas)"]
+sameAs: []
+canonical_biography: "Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbignevas Olesnickis ir Sandomiro vaivada Mikalojus Michalovskis grasino Vytau­ tui karu, jeigu jis neatsisakysiąs savo sumanymo. Vytautas, vėl su įkarščiu išsakęs savo didelį norą stojęs prieš karalių ir senatorius, kai visi jo prašymai ir mal­ davimai buvo tačiau visai atmesti, nusprendė imtis kitų bū­ dų: palenkti dovanomis ir pažadais Krokuvos vyskupą Olesnickį, kuris kartu su."
 ---
 # Zbignevas Olesnickis (vyskupas)
 
@@ -90,7 +97,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 - id: c-83868
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 175."
   citata_originali: |
     Len­
     kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­
@@ -120,7 +128,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 - id: c-83869
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 173."
   citata_originali: |
     Deja, tik dalis tos pasiuntinybės pasie­
     kė Lietuvos sostinę: kai kuriuos jų didžialenkiai sulaikė prie
@@ -142,7 +151,8 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 - id: c-168254
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,

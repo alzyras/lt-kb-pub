@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5424780259ca24ba848f37cd"
+canonical_name: "Marco Ronis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Marco Ronis"]
+sameAs: []
+canonical_biography: "Narbutas mini kritiką, kuriam Marco Ronio ir Bolloysos vardai kėlė įtarimų, nes jie esą skambėjo visai neprūsiškai."
 ---
 # Marco Ronis
 
@@ -53,7 +60,8 @@ Narbutas mini kritiką, kuriam Marco Ronio ir Bolloysos vardai kėlė įtarimų,
 - id: c-173064
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
   citata_originali: |
     Kritikui visai ne pagal skonį tų vyriausiųjų žynių vardai,
     todėl jam kelia įtarimą. Pavyzdžiui, iš kur atsirado Marco Ro-

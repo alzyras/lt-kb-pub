@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-83053
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 133."
   citata_originali: |
     Jogaila tam pasipriešino,
     tad šia dingstimi negalima buvo į
@@ -112,7 +113,8 @@ Nenurodyta
 - id: c-83054
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 132-133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 132-133."
   citata_originali: |
     116
 

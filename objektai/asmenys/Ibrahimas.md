@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dae5b7bd3ab3f8b701fb8dd5"
+canonical_name: "Ibrahimas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ibrahimas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Ibrahimas
 

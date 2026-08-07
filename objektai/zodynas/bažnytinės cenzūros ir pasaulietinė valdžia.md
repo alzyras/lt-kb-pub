@@ -51,7 +51,8 @@ Taip pat norime, kad to, kuris vienu ar kitu būdu daugiau kaip metus išdrįs b
 - id: c-82496
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 419"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 419."
   citata_originali: |
     Norime, kad ponai vyskupai turėtų įgalioji­
     mus nutraukti ir panaikinti neteisėtas ir Apaštalų Sosto

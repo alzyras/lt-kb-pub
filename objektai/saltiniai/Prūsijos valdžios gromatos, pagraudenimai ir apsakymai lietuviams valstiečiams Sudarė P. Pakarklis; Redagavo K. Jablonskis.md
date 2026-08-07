@@ -55,7 +55,8 @@ Dusburgietis teigia, kad prūsijos valdžios gromatos, pagraudenimai ir apsakyma
 - id: c-61895
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Prūsijos valdžios gromatos, pagraudenimai  ir apsakymai lietuviams valstiečiams/
     Sudarė P. Pakarklis; Redagavo K. Jablonskis.— V., 1960.

@@ -67,7 +67,8 @@ Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir 
 - id: c-168822
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 130."
   citata_originali: |
     Nusiaubę Kulmo kraš­
     tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa­

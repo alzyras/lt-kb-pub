@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9d64ea539ce2601f3d28b876"
+canonical_name: "Fridrichas iš Vildenbergo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas iš Vildenbergo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių brolių kariuomene brolis Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, bei 150 brolių žiemą įsiveržė į Vaikių valsčių; apiplėšę bei sudeginę ir pilį, ir kitus pastatus, tiek daug išžudė žmonių, kad ten."
 ---
 # Fridrichas iš Vildenbergo
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių b
 - id: c-60911
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
   citata_originali: |
     1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
     Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho ir iš

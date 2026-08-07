@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c4c16aa15a5c0dc3ee8f7565"
+canonical_name: "Jūros upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jūros upė"]
+sameAs: []
+canonical_biography: "Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko taip, kad Nemunas, Rusnė ir Klaipėda — vis trijų mylių atstumu — nuo Nemuno ir Marių, buvo palikta ordinni."
+place_authority: true
+historical_names: []
 ---
 # Jūros upė
 
@@ -108,7 +117,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-28263
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Žemaičių pusėje siena turėjo kilti Šventąja dvi mylias, paskui
     stačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­
@@ -129,7 +139,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-171592
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 208."
   citata_originali: |
     Rageziowan
     Kęsgailų giminės fetišas.
@@ -152,9 +163,9 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     - t-002
 
 - id: c-184952
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 244."
   citata_originali: |
     Bet svarbiausia tai,
     kad kaunietis buvo įsirengęs rudnią, kurioje iš pelkių geležies rūdos gamino gele-

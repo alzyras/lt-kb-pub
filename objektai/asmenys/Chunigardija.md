@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-007c00ae89d7a93d29994cfb"
+canonical_name: "Chunigardija"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Chunigardija"]
+sameAs: []
+canonical_biography: "Narbutas karalaitę Chunigardiją mini kaip Fridleifo motiną, kurios giminės Rusioje auklėjo Fridleifą."
 ---
 # Chunigardija
 
@@ -53,7 +60,8 @@ Narbutas karalaitę Chunigardiją mini kaip Fridleifo motiną, kurios giminės R
 - id: c-174263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
   citata_originali: |
     Visi Šie įvykiai siejami su III amžiumi.
     235

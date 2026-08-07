@@ -38,6 +38,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d9cc7009a11ae2faf1431195"
+canonical_name: "Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lautenbachas","Lautenbachui","Oskaras Vilhelmas Lautenbachas","Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)"]
+sameAs: []
+canonical_biography: "Lautenbachas šiame straipsnyje minimas kaip Tartų universiteto latvių kalbos lektorius, kuriam vadovaujant A. R. Niemis studijavo latvių kalbą ir liaudies poeziją 1899–1900 m."
 ---
 # Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)
 

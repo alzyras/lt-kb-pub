@@ -53,7 +53,8 @@ Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su
 - id: c-174696
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
   citata_originali: |
     Odoakras,
     tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo

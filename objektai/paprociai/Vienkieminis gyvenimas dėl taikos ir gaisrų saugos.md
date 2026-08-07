@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-09973
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 62"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 62."
   citata_originali: |
     Tas dar yra stebuklingesniu, jog tose giriose ilgainiui įsikūrė, atsikieminėdami^172
         vienkiemiuose per gerą šaukimą nuo kits kito taip, idant balsą gaidžio ar šunies savo susiedo^173

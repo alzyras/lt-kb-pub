@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-10ae4a3118c370d2ab10b36e"
+canonical_name: "Onevas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Onevas"]
+sameAs: []
+canonical_biography: "Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo Onevu, perėjimą į priešo pusę."
 ---
 # Onevas
 
@@ -47,7 +54,8 @@ Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o 
 - id: c-177315
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
   citata_originali: |
     Šiose kautynėse žu­
     vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija

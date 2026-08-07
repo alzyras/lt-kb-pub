@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e02c94c3d0d3f31917af7dcf"
+canonical_name: "Meksika"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Meksika"]
+sameAs: []
+canonical_biography: "De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias tada jau buvo pripažinusi de jure 21 valstybė)."
+place_authority: true
+historical_names: []
 ---
 # Meksika
 
@@ -50,7 +59,8 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 - id: c-49533
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 69."
   citata_originali: |
     Dėl šio proceso ir Lietuvos to meto kultūra vadinama „antrąja lenkų kul-
     tūros laida“. Tokio reiškinio analogijos – angliškosios kultūros laida Ai-

@@ -55,7 +55,7 @@ Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slė
 <a id="claim-t-89154"></a>
 - t-002
   teiginys: "Mokinių slėnio brolių ordiną patvirtino popiežius Honorijus III."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,7 +67,6 @@ Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slė
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
-    - c-85118
     - c-85119
 
 ## Citatos
@@ -75,7 +74,8 @@ Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slė
 - id: c-85118
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
   citata_originali: |
     Karmelio kalno atsiskyrėlių ordiną bei Mokinių slėnio brolių ordiną [Ordo fratrum valtis
     scolarium] patvirtino tas pats valdovas popiežius Honorijus.
@@ -91,12 +91,12 @@ Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-85119
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
   citata_originali: |
     Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.
       Karmelio kalno atsiskyrėlių ordiną bei Mokinių slėnio brolių ordiną [Ordo fratrum valtis

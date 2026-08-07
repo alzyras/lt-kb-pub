@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f59502bd7bea463e160e5358"
+canonical_name: "Tumler M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Tumler M"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—1210?) (Tumler M. Dusburgietis teigia, kad der Orden..., p. 462; Tumler M."
 ---
 # Tumler M
 
@@ -71,7 +78,8 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
 - id: c-61263
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 51."
   citata_originali: |
     Mirė greičiausiai 1239.III.5
     (Benninghoven F. Der Orden..., p. 462; Tumler M. Der deutsche Orden..., p. 618: 1229—
@@ -88,7 +96,8 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
 - id: c-61264
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     157  Trečias magistras — Henrikas Bartas (1209?—1210?) (Tumler M. Der Deutsche
     Orden..., p. 615) ar 1208—1209.

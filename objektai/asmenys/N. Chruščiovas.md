@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-18b76a8699fbbe5b331cfc5d"
+canonical_name: "N. Chruščiovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["N. Chruščiovas"]
+sameAs: []
+canonical_biography: "Chruščiovo laikais bažnyčią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo 130 kunigų."
 ---
 # N. Chruščiovas
 
@@ -40,7 +47,8 @@ Chruščiovo laikais bažnyčią imta diskredituoti, spausti morališkai, nors i
 - id: c-21911
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 228."
   citata_originali: |
     Leista veikti tik vienai kunigų seminarijai Kaune, klierikų skaičių
     mažinant. 1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko.

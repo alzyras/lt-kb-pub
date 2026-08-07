@@ -69,7 +69,8 @@ Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodės
 - id: c-59741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
     Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus. Jis

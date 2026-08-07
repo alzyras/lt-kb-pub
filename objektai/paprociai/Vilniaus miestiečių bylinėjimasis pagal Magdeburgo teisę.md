@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-83288
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 297."
   citata_originali: |
     Kai dar 1564 metais Bełsko seime Žygimantas Augustas
     tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­

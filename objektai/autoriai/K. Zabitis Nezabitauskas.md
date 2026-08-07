@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e0ef8476798e162338a77f6c"
+canonical_name: "K. Zabitis Nezabitauskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Zabitis Nezabitauskas"]
+sameAs: []
+canonical_biography: "Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S."
 ---
 # K. Zabitis Nezabitauskas
 
@@ -49,7 +56,8 @@ Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.
 - id: c-06633
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 470"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 470."
   citata_originali: |
     Įsitraukę į tą sąjūdį, žemaičiai pirmiausia susirūpino kalba.
     D. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui

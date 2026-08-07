@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-282e9943813167e11dd7b6b8"
+canonical_name: "Henrikas iš Kunceno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas iš Kunceno"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Dusburgietis teigia, kad kai brolis Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai. Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo."
 ---
 # Henrikas iš Kunceno
 
@@ -65,11 +72,18 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
 <a id="claim-t-59975"></a>
 - t-003
   teiginys: "Henrikui iš Kunceno pasižadėjus įstoti į Teutonų ordiną, išnyko jį gąsdinęs sambūris ir regėjimai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henrikas iš Kunceno: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas iš Kunceno\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60607
+    - c-60606
 
 <a id="claim-t-194488"></a>
 - t-004
@@ -88,7 +102,8 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
 - id: c-60605
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Apie brolį Henriką iš Kunceno
     Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Būdamas
@@ -108,7 +123,8 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
 - id: c-60606
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
   citata_originali: |
     Ilgokai jam grasinę, galop tarėjai paprašė
     teisėją jo pasigailėti, o  jį paakino tučtuojau pakeisti savo gyvenimo būdą. Kai brolis
@@ -118,14 +134,17 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   citata_rodoma: "Ilgokai jam grasinę, galop tarėjai paprašė\nteisėją jo pasigailėti, o  jį paakino tučtuojau pakeisti savo gyvenimo būdą. Kai brolis\nHenrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.\nKai sugrįžo išbalęs ir priblokštas  į savo pilį, papasakojo visa, ką matęs, savo žmonai,\nkilmingai, jaunai ir švelniai moteriai, kuri, jo paprašyta skyrybų, ryžtingai atsisakė."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-60607
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Moteris, tiek kartų ir taip
     smarkiai bauginama siaubingų bildesių, daugel sykių gąsdinama stebuklingų balsų,
@@ -145,7 +164,6 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
 
 ## Ryšiai
 - Henrikas iš Kunceno keliavo į [[objektai/vietos/Prūsija]]

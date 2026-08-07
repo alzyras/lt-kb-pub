@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-32de21107d0e5fc719b0e24c"
+canonical_name: "Dubysos sala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dubysos sala"]
+sameAs: []
+canonical_biography: "Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj."
+place_authority: true
+historical_names: []
 ---
 # Dubysos sala
 
@@ -60,7 +69,8 @@ Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 78."
   citata_originali: |
     Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
     Magistras patiekė tokius reikalavimus Vytautui: 1) Lietuva

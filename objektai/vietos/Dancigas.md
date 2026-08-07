@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-efb39ebf97e15acbf25fb6cf"
+canonical_name: "Dancigas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dancigas","Dansko","Danzig","Gdanskas"]
+sameAs: []
+canonical_biography: "Dancigas šiame šaltinyje minimas kaip vienas svarbiausių Lietuvos prekybos krypčių Baltijos erdvėje: su juo siejami Ordino prekybos ryšiai, eksporto keliai ir vėlesni politiniai pokyčiai po Torno taikos. Dancigas šiame fragmente yra viena iš pakrantės pilių. Dancigas šiame fragmente yra viena iš vokiečių įkurtų pilių."
+place_authority: true
+historical_names: []
 ---
 # Dancigas
 
@@ -182,7 +191,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - id: c-13408
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 197."
   citata_originali: |
     1466 m. Torne buvo pasirašyta taika, kuria ordinas
     pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
@@ -199,7 +209,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - id: c-166136
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Tiesa, Versalio
     taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-
@@ -222,7 +233,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - id: c-166398
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 180."
   citata_originali: |
     Arkivys-
     kupo ir rygiečių dėka dažnai būdavo sudaromos Lietuvos pre-
@@ -241,7 +253,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - id: c-166399
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 297."
   citata_originali: |
     Tad veikiai, atvykęs į Krokuvą, jis karūnavosi ir vedė
     kunigaikštytę Oną. Kadangi netrukus mirė jo konkurentas im-
@@ -259,9 +272,9 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - t-003
 
 - id: c-184936
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 70"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 70."
   citata_originali: |
     Vienas iš tokių trukdžių buvo Vokiečių ordino valstybėje svarbiausio prekybos
     kelio į Lietuvą būklė. Tas vandens kelias jungė Kauną ir Dancigą. Iš Kauno Nemunu
@@ -275,9 +288,9 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - t-005
 
 - id: c-184937
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 73"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 73."
   citata_originali: |
     Be to, jiems buvo paranku laisvai prekiauti Vokiečių
     ordino valstybėje, galėjo užmegzti tiesioginius prekybos ryšius ne tik su Dancigo pir-
@@ -295,9 +308,9 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - t-006
 
 - id: c-184938
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 84"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 84."
   citata_originali: |
     Padėtis darėsi sudėtingesnė,
     nes dabar valdovas nebuvo linkęs pernelyg remti kurį nors miestą kito sąskaita.
@@ -313,9 +326,9 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - t-007
 
 - id: c-184939
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 98."
   citata_originali: |
     Šioje prekyboje aktyvūs buvo ir
     Lietuvos pirkliai, be pačių kauniečių, vilniečiai, trakiečiai, ir Hanzos miestų Dancigo,

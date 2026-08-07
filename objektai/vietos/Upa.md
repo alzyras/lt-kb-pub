@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1bbdf9e6f7876dfccfa9e640"
+canonical_name: "Upa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Upa"]
+sameAs: []
+canonical_biography: "Odojevas lokalizuojamas prie Upos upės. Upa šiame gabale apibūdinama kaip Okos aukštupio dešinysis intakas."
+place_authority: true
+historical_names: []
 ---
 # Upa
 

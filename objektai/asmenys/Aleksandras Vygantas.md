@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-839f1b0273fc27617b0f5a46"
+canonical_name: "Aleksandras Vygantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Vygantas"]
+sameAs: []
+canonical_biography: "Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Aleksandras Vygantas, vienas energin­ giausių Lietuvos kunigaikščių, o iš visų tikrųjų Jogailos bro­ lių dėl sumanaus proto ir romaus būdo labiausiai tinkamas į Lietuvos didžiuosius."
 ---
 # Aleksandras Vygantas
 
@@ -52,7 +59,8 @@ Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Alek
 - id: c-83402
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 149."
   citata_originali: |
     Buvo tai jau paskutinė sostinės apsiaustis šio
     valdovo nelemto viešpatavimo Lietuvoje laikais.

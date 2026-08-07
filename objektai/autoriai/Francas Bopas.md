@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-38612119b5034124259a42fe"
+canonical_name: "Francas Bopas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Francas Bopas","Franco Bopo"]
+sameAs: []
+canonical_biography: "Įvadinis tekstas Francą Bopą mini tarp kalbininkų, kurių darbais naudojosi T. Narbutas."
 ---
 # Francas Bopas
 
@@ -51,7 +58,8 @@ media_all_json: |-
 - id: c-170936
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 23."
   citata_originali: |
     Kaip buvo įprasta, jis
     naudojosi senaisiais rašytiniais šaltiniais, savo ir kitų moksli­

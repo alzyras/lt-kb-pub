@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-169220
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 693"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 693."
   citata_originali: |
     Nauji tikybiniai įsitikinimai laisvai plito po didikų
     bei bajorų dvarus, nuolatos pripilamų taurių kurstomi,

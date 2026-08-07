@@ -50,7 +50,8 @@ Mokšeckio brigada priverčia iš Širvintų pasitraukti 7-ajj pest.
 - id: c-40743
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 211."
   citata_originali: |
     [2] Tuo pat metu gen. A. Mokšeckio brigada priverčia iš Širvintų pasitraukti
     7-ajj pest. p. Puolamos ir 4-ojo pėst. p. pozicijos, ginančios Musninkus, ta-

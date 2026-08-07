@@ -60,7 +60,8 @@ Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių me
 - id: c-172219
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
   citata_originali: |
     Arntas (Arndt) 17 pa-
     teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­

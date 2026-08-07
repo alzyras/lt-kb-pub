@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-172600
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
   citata_originali: |
     Vietos padavimai dar skelbia, kad Kaune, pačioje Nem u­
     no ir Neries upių santakoje, augo dievams skirta giraitė, kuri

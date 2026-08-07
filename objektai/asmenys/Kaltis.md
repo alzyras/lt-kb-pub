@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ceded4a7706493a2433e3b0f"
+canonical_name: "Kaltis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kaltis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­ medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę. Dusburgietis teigia, kad per apgulą ir bėgant žuvo daug prūsų, daug buvo mirtinai sužeista, jų vadas Kaltis taip pat krito nukautas kalaviju, nes bėgdami pėstininkai susidūrė su raiteliais."
 ---
 # Kaltis
 
@@ -41,11 +48,18 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 <a id="claim-t-60151"></a>
 - t-001
   teiginys: "Prūsų vadas Kaltis žuvo nukautas kalaviju, kai bėgantys pėstininkai susidūrė su raiteliais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kristburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaltis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kristburgas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaltis\" parinktas kaip owner_note_path. Targetas \"Kristburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60783
+    - c-60784
 
 <a id="claim-t-60152"></a>
 - t-002
@@ -88,7 +102,8 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 - id: c-60783
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
          medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
@@ -107,13 +122,13 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-60784
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Per apgulą ir bėgant žuvo daug prūsų,
     daug buvo mirtinai sužeista, jų vadas Kaltis taip pat krito nukautas kalaviju, nes
@@ -121,7 +136,8 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   citata_rodoma: "Per apgulą ir bėgant žuvo daug prūsų,\ndaug buvo mirtinai sužeista, jų vadas Kaltis taip pat krito nukautas kalaviju, nes\nbėgdami pėstininkai susidūrė su raiteliais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

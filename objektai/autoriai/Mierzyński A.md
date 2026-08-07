@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-167f3802a879b8a511dfcedf"
+canonical_name: "Mierzyński A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mierzyński A"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad mierzyński A."
 ---
 # Mierzyński A
 
@@ -72,7 +79,8 @@ Dusburgietis teigia, kad mierzyński A.
 - id: c-61388
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     7, p. 102— 106.
     Mierzyński A. Źródła do mytologii litewskiej —Cz. 2: wiek XIV i XV,—Warszawa, 1896.

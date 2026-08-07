@@ -72,7 +72,8 @@ Nenurodyta
 - id: c-63443
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95."
   citata_originali: |
     54 (53) Apie vieną stebuklą
     Tuo metu pasimirė kelyje, grįždamas į savo tėvynę, vienas kryžininkas iš Meiseno,
@@ -93,7 +94,8 @@ Nenurodyta
 - id: c-167377
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95."
   citata_originali: |
     Dėkodami už
     šią pergalę dievui ir džiūgaudami, broliai su dideliu grobiu sugrįžo namo.

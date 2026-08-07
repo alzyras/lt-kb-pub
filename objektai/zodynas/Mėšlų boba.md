@@ -47,7 +47,8 @@ Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas
 - id: c-172203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 147."
   citata_originali: |
     Mėšlų boba (Mahslu Baba)
     Deivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­

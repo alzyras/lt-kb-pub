@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5ebcd97e80ad5566416acf5e"
+canonical_name: "Frauenburgas ir Tolkmita"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Frauenburgas ir Tolkmita"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant kurio žvejai atnašaudavo pirmas sugautas žuvis."
+place_authority: true
+historical_names: []
 ---
 # Frauenburgas ir Tolkmita
 
@@ -47,7 +56,8 @@ Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant 
 - id: c-171886
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
   citata_originali: |
     Kasmet Didžiosios šventės iš­
     vakarėse šio dievo stabą sudaužydavo ir dirbindavo naują. Dar

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0ec427dee3d7b06febefa4a6"
+canonical_name: "Zigfridas iš Rechbergo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zigfridas iš Rechbergo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubimą 1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias pėdas; jomis nusekė."
 ---
 # Zigfridas iš Rechbergo
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
 - id: c-61105
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
   citata_originali: |
     266 (259). Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
     1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe

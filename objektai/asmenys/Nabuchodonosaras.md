@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cfe0e33865c9088798e7839d"
+canonical_name: "Nabuchodonosaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nabuchodonosaras"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei įmesti į septynis kartus daugiau nei paprastai pakūrentą krosnį, nes atidavė savo."
 ---
 # Nabuchodonosaras
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, m
 - id: c-61023
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
     nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei

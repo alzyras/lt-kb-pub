@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-101fdc51c723ccad39394187"
+canonical_name: "Karkuso pilis (pilis, XIII a.)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karkuso pilis","Karkuso pilis (pilis, XIII a.)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas. Dusburgietis teigia, kad karkus, Karkuso resp. Karksio pilis Livonijoje (pietinėje Estijoje), į pietus nuo dab."
+place_authority: true
+historical_names: []
 ---
 # Karkuso pilis (pilis, XIII a.)
 
@@ -39,11 +48,19 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 <a id="claim-t-58564"></a>
 - t-001
   teiginys: "Karkuso, arba Karksio, pilis buvo Livonijoje, pietinėje Estijoje, į pietus nuo dabartinio Viljandžio."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Livonija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karkuso pilis (pilis, XIII a.): llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai lokalizuoja Karkuso pilį Livonijoje."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Karkuso pilis (pilis, XIII a.) priklausė Livonija (0.95)"
   pagrindžia:
-    - c-59197
+    - c-59196
 
 <a id="claim-t-58565"></a>
 - t-002
@@ -90,7 +107,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 - id: c-59196
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
   citata_originali: |
     550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis
     Livonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.
@@ -98,14 +116,17 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   citata_rodoma: "550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis\nLivonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.\n79)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-59197
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Apie Rygos miestiečių kivirčus su Teutonų ordino broliais Livonijoje
     1297 viešpaties metais kilo begaliniai Rygos miestiečių ir Teutonų ordino brolių
@@ -126,7 +147,6 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 ## Ryšiai

@@ -43,7 +43,8 @@ Jie arba išmovė pas Abraomą, arba išbaigė šovinius.
 - id: c-40848
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 247."
   citata_originali: |
     Mūsų artimųjų „draugų“ ugnis greit nutilo. Jie arba išmovė pas Abraomą, arba išbaigė
     šovinius. Į jų vietą mūsų link skubėjo kiti bolševikai.

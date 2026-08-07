@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ae345570e043685ca796283"
+canonical_name: "I. Zolotarenko"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["I. Zolotarenko"]
+sameAs: []
+canonical_biography: "Zolotarenkos (apie br 20000 karių) laikė apsiautę Gomelį \"bei kitus miestus ir priartėjo prie Senojo Bychovo."
 ---
 # I. Zolotarenko
 
@@ -52,7 +59,8 @@ Zolotarenkos (apie br 20000 karių) laikė apsiautę Gomelį "bei kitus miestus 
 - id: c-44348
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 126."
   citata_originali: |
     Minsko link. Kazokai,
     vadovaujami I. Zolotarenkos (apie

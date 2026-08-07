@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5f28b051629164d916ae191"
+canonical_name: "Cecora"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Cecora"]
+sameAs: []
+canonical_biography: "1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės."
+place_authority: true
+historical_names: []
 ---
 # Cecora
 
@@ -61,7 +70,8 @@ media_all_json: |-
 - id: c-45051
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 114."
   citata_originali: |
     1620 m. Lenkijos kariuomenė įžengė
     į Valakiją ir mūšyje prie Cecoro ne-
@@ -82,7 +92,8 @@ media_all_json: |-
 - id: c-167168
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 114."
   citata_originali: |
     Turkija siekė užvaldyti visą vi-
     dinių kovų draskomą Moldaviją ir Valakiją

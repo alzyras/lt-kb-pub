@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-284a1e8b00b42c11e292de78"
+canonical_name: "Kroniszkas-Pilnis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kroniszkas-Pilnis"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad už Tilžės prie Sancinės buvęs piliakalnis vietinių vadintas Kroniszkas-Pilnis, tai yra Kruonio pilimi."
+place_authority: true
+historical_names: []
 ---
 # Kroniszkas-Pilnis
 
@@ -54,7 +63,8 @@ Narbutas rašė, kad už Tilžės prie Sancinės buvęs piliakalnis vietinių va
 - id: c-171899
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
   citata_originali: |
     Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
     ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­

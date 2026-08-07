@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1c53e8e85c36d9828923c936"
+canonical_name: "Eustachijus Vištortas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eustachijus Vištortas"]
+sameAs: []
+canonical_biography: "Lietuvos bernardinų istorijos tyrinėtojams nežinomas gvardijonas Eustachijus Vištortas."
 ---
 # Eustachijus Vištortas
 
@@ -49,9 +56,9 @@ Lietuvos bernardinų istorijos tyrinėtojams nežinomas gvardijonas Eustachijus 
 ## Citatos
 
 - id: c-185466
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 354"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 354."
   citata_originali: |
     Štai 1483 m. Strasburge išleisto Johano Herolto knygoje Ser-
     mones discipuli de tempore et de sanetis yra įrašyta, kad ją Kauno bernardinų vienuolynui

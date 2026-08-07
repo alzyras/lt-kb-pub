@@ -74,7 +74,7 @@ Nenurodyta
 <a id="claim-t-62870"></a>
 - t-002
   teiginys: "Lubavos žemės mūšyje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "dalyvavo_musyje -> Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.): 0.78"
@@ -88,7 +88,6 @@ Nenurodyta
   semantiniai_rysiai: "Herkus Mantas dalyvavo mūšyje Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.) (0.78)"
   pagrindžia:
     - c-63709
-    - c-63711
 
 <a id="claim-t-196957"></a>
 - t-003
@@ -155,7 +154,8 @@ Nenurodyta
 - id: c-63709
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
   citata_originali: |
     Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį
     Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
@@ -184,7 +184,8 @@ Nenurodyta
 - id: c-63710
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 129."
   citata_originali: |
     123 (118). Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį
 
@@ -206,7 +207,8 @@ Nenurodyta
 - id: c-63711
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
   citata_originali: |
     Kai apie tai išgirdo magistras
     brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos
@@ -230,4 +232,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

@@ -74,7 +74,7 @@ Nenurodyta
 <a id="claim-t-97034"></a>
 - t-002
   teiginys: "1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas paskelbė Ordinui interdiktą už Lietuvos krikšto sutrukdymą."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -114,7 +114,8 @@ Nenurodyta
 - id: c-04995
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 238."
   citata_originali: |
     žodžiuose, berods, atsispindi Gedimino anksčiau turėtos viltys,
     kada jis, kreipdamasis į popiežių, buvo tikėjęsis, jog aukščiausias
@@ -135,7 +136,8 @@ Nenurodyta
 - id: c-04996
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 238."
   citata_originali: |
     Avignone greičiausiai ne­
     daug tebuvo žinoma, kad kryžiuočiai, sau įsikalę pagonių lietuviu
@@ -156,7 +158,8 @@ Nenurodyta
 - id: c-91584
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 238."
   citata_originali: |
     Iš Avignono 1325 m. sugrįžęs Rygos arki­
     vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.

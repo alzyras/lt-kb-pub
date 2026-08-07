@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-82939
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 51-52"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 51-52."
   citata_originali: |
     Ir prisiekė Jogai­
     la, kaip mūsų tėvui nepadės, ir gy­

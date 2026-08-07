@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d41ddeb4b963a08c509adddd"
+canonical_name: "Orfėjas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Orfėjas"]
+sameAs: []
+canonical_biography: "Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau susiklosčiusias slaptas religines apeigas."
 ---
 # Orfėjas
 
@@ -53,7 +60,8 @@ Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau sus
 - id: c-173075
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 196."
   citata_originali: |
     Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
     tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,

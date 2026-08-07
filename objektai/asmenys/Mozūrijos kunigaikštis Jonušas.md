@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-69aec9fdbef7d9fa8b74aa03"
+canonical_name: "Mozūrijos kunigaikštis Jonušas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mozūrijos kunigaikštis Jonušas"]
+sameAs: []
+canonical_biography: "Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama taip pat Marijos vardu."
 ---
 # Mozūrijos kunigaikštis Jonušas
 
@@ -63,7 +70,8 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 25."
   citata_originali: |
     Kęstučio duktė Miklausa 1375 metais ištekėjo už Tverio
     kunigaikščio Jono ir apsikrikštijo Marijos vardu. Danuta 1380

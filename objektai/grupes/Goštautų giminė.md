@@ -109,7 +109,8 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
 - id: c-170699
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 323."
   citata_originali: |
     5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
     puchovo
@@ -135,7 +136,8 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
 - id: c-176475
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 222."
   citata_originali: |
     Pakitusiu dėl vėlesnių perstatymų pavidalu Ji tebestovi ligi
     šiol Vilniuje prie dabartinės Kutuzovo aikštės.

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-541e6d8c7cacf86b2681298e"
+canonical_name: "Ernestas fon Racburgas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ernestas fon Racburgas"]
+sameAs: []
+canonical_biography: "Lietuviai „[...] brolis Ernestas buvo magistras.[...] Jis įvykdė didelį karo žygį į lietuvių žemę (in terram Letwinorum) iki pat Kernavės (Kernowe), ir lietuviai persekiodami 1278 m. kovo 5 d. jį kartu su 71 broliu užmušė prie Ašeradės, taip pat Eilardą iš. Žuvo Livonijos ordino magistras Ernestas fon Racburgas, danų vietininkas Taline Eilartas fon Hobergas, tik kai kam pavyko ištrūkti."
 ---
 # Ernestas fon Racburgas
 
@@ -77,7 +84,8 @@ Lietuviai „[...] brolis Ernestas buvo magistras.[...] Jis įvykdė didelį kar
 - id: c-167126
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 34."
   citata_originali: |
     Ši mašina
     veikia naudojant

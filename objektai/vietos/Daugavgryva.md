@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d67dd9e86288ffe74b50f685"
+canonical_name: "Daugavgryva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Daugavgryva"]
+sameAs: []
+canonical_biography: "Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryvą (Dünamünde)."
+place_authority: true
+historical_names: []
 ---
 # Daugavgryva
 
@@ -101,7 +110,8 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
 - id: c-43373
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112."
   citata_originali: |
     1608 m. rudenį numalšinus rokošą Len-
     kijos karalystėje, Jonas Karolis Chodke-
@@ -133,7 +143,8 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
 - id: c-43374
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 113."
   citata_originali: |
     Galutinai blokadą pavyko panai-
     kinti 1609 m. rugsėjo 29 d., užėmus

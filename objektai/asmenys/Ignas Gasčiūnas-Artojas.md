@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-082ea74dcfbe8ab949cc56a0"
+canonical_name: "Ignas Gasčiūnas-Artojas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ignas Gasčiūnas-Artojas"]
+sameAs: []
+canonical_biography: "Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas GasčiūnasArtojas) būrys."
 ---
 # Ignas Gasčiūnas-Artojas
 
@@ -43,7 +50,8 @@ Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas
 - id: c-41341
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 224."
   citata_originali: |
     Tuojau pat
     į kautynes įsitraukė ir Žaliosios rinktinės

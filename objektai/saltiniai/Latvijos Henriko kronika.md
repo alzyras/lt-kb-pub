@@ -59,7 +59,8 @@ Kiek plačiau ordino priešą minėjo pir­ mosios Pabaltijyje vokiečių kronik
 - id: c-33618
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 135."
   citata_originali: |
     Rašytų ir gana išblaškytų žinių apie lietuvius, jų religiją, pa­
     pročius ir gyvenimo būdą ėmė šiek tiek pateikti XII-XIII amž.

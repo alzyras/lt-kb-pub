@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d48ecc0e1c6aa5e6df9e6dd8"
+canonical_name: "Nevėžio šventykla"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nevėžio šventykla"]
+sameAs: []
+canonical_biography: "Narbutas prie Nevėžio mini šventyklą kaip vieną iš istorijoje žinomų kalnų aukurų ar šventyklų vietų."
+place_authority: true
+historical_names: []
 ---
 # Nevėžio šventykla
 
@@ -54,7 +63,8 @@ Narbutas prie Nevėžio mini šventyklą kaip vieną iš istorijoje žinomų kal
 - id: c-171983
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     Visa, ką šiuo klausimu žinome iš istorijos, ap­
     siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­

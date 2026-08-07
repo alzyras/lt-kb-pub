@@ -56,7 +56,7 @@ Nenurodyta
 <a id="claim-t-62880"></a>
 - t-001
   teiginys: "1298 m. birželio 1 d. prie Treiderės upės Vytenis nugalėjo Livonijos magistrą Brunoną, nukovęs magistrą, 22 brolius ir 1500 krikščionių."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "dalyvavo_musyje -> Mūšis prie Treiderės upės (1298 m. birželio 1 d.): 0.88"
@@ -101,7 +101,8 @@ Nenurodyta
 - id: c-63726
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Apie Rygos miestiečių kivirčus su Teutonų ordino broliais Livonijoje
     1297 viešpaties metais kilo begaliniai Rygos miestiečių ir Teutonų ordino brolių
@@ -127,7 +128,8 @@ Nenurodyta
 - id: c-63727
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Nors viename susirėmime broliai
     neatsilaikė, vis dėlto kituose, dievo galybės padedami, susilaukė sėkmės. 1298 viešpaties

@@ -83,7 +83,8 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
 - id: c-82477
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 25."
   citata_originali: |
     Lietuvos miestiečių luomo istorijoje šit kas pastebima: pir­
     ma, kad jis vėlavo, kaip ir bendra šalies civilizacijos raida, juk
@@ -106,7 +107,8 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
 - id: c-82478
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 25."
   citata_originali: |
     Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui,
     nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide­
@@ -129,7 +131,8 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
 - id: c-82479
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 12."
   citata_originali: |
     M. Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­
     lyvos raidos priežastis. Istorikas kritiškai pažymėjo, kad dėl

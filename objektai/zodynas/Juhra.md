@@ -86,7 +86,8 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
 - id: c-175074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 277"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 277."
   citata_originali: |
     Lietuvių-prūsų dialekte dar yra žodis Juhra, jūra2, be to,
     taip pat ir latvių kalba3.

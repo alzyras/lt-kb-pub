@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fe4ad5a570c17f57cfdd4a8b"
+canonical_name: "Albertas Krantcas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Albertas Krantcas"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Albertas Krantcas neneigė visą laiką žaliavusio šventojo medžio, bet teigė, jog jo rūšies niekas negalėjo nustatyti."
 ---
 # Albertas Krantcas
 
@@ -55,7 +62,8 @@ Narbutas rašė, kad Albertas Krantcas neneigė visą laiką žaliavusio švento
 - id: c-173263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
   citata_originali: |
     Tą ypatybę kronikininkai priskiria velnio galy­
     bei, manydami, kad velniai buvo garbinami toje šventykloje

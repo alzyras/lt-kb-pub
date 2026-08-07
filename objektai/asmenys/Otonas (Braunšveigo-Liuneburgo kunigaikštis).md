@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4927c27bc277e3266856144e"
+canonical_name: "Otonas (Braunšveigo-Liuneburgo kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Otonas (Braunšveigo-Liuneburgo kunigaikštis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera žinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe maldininkų atvyko kilnusis ir pamaldusis Otonas. Dusburgietis teigia, kad 253 Braunšveigo—Liuneburgo hercogas (nuo 1236 m.) Otonas Kūdikis (Otto das Kind), Henriko Liūto vaikaitis."
 ---
 # Otonas (Braunšveigo-Liuneburgo kunigaikštis)
 
@@ -60,11 +67,19 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
 <a id="claim-t-60190"></a>
 - t-002
   teiginys: "Otonas, Braunšveigo valdovas ir Liuneburgo kunigaikštis, su daugybe maldininkų atvyko į Prūsijos žemę padėti broliams."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Otonas (Braunšveigo-Liuneburgo kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Otonas atvyko į Prūsijos žemę."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Otonas (Braunšveigo-Liuneburgo kunigaikštis) keliavo į Prūsija (0.95)"
   pagrindžia:
-    - c-60821
+    - c-60822
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -103,7 +118,8 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
 - id: c-60821
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     Dusburgietis čia pakiliai tekalba apie į pagalbą
     atvykusius Vokietijos „maldininkus“.
@@ -117,12 +133,12 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-60822
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     Apie Braunšveigo kunigaikščio atvykimą
 
@@ -138,10 +154,11 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
   citata_rodoma: "Apie Braunšveigo kunigaikščio atvykimą\n\n  Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera\nžinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe\nmaldininkų atvyko kilnusis  ir pamaldusis Otonas, šviesusis Braunšveigo valdovas  ir\nkunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo253.\n\n\n\n\n         26."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Otonas (Braunšveigo-Liuneburgo kunigaikštis) keliavo į [[objektai/vietos/Prūsija]]

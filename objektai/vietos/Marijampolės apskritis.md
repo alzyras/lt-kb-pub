@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-45cd699797cf419bde47b368"
+canonical_name: "Marijampolės apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Marijampolės apskritis"]
+sameAs: []
+canonical_biography: "1809 m. Lokaičių kaime Marijampolės apskrityje kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų."
+place_authority: true
+historical_names: []
 ---
 # Marijampolės apskritis
 
@@ -65,7 +74,8 @@ media_all_json: |-
 - id: c-171912
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
   citata_originali: |
     Man sakė, kad Karaliaučiuje
     buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­

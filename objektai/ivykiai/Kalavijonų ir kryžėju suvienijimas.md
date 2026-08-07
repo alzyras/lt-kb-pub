@@ -71,9 +71,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184659
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 282"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 282."
   citata_originali: |
     Strasburgo ir popiežiaus rū­
     mų vyro jonitų brostvio Hermano didysis mistras
@@ -102,9 +102,9 @@ Nenurodyta
     - t-001
 
 - id: c-184660
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 283"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 283."
   citata_originali: |
     Žinoma buvo, kaip
     vir siaus minavo jau, jog vyskupai Rygos pradžioj

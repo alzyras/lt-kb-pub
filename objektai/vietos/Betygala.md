@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1de9c1bce0a30d06ac54ac01"
+canonical_name: "Betygala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Betygala","Betygaloje","dabartine Betygala"]
+sameAs: []
+canonical_biography: "Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš Vytauto funduotų Žemaitijos bažnyčių vietų."
+place_authority: true
+historical_names: []
 ---
 # Betygala
 
@@ -45,7 +54,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
 <a id="claim-t-179756"></a>
 - t-001
   teiginys: "Vytautas Žemaitijoje pastatė bažnyčią Betygaloje."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -151,7 +160,8 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
 - id: c-43341
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     X ŠILAINIŲ PASALA
     1945 m. vasario 15 d. Raseinių aps. Betygalos vls. Graužų-Lenčių
@@ -170,7 +180,8 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 140."
   citata_originali: |
     Trakuose,
     Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
@@ -197,7 +208,8 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 124."
   citata_originali: |
     Tačiau Vytautas dar dvejus metus už­
     truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
@@ -220,7 +232,8 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 124."
   citata_originali: |
     Taigi Žalgirio mūšis ir Torno taika galutinai išsprendė Že­
     maičių krikšto klausimą. Tačiau Vytautas dar dvejus metus už­
@@ -239,7 +252,8 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
 - id: c-171565
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Plaukdami tolyn,
     jie pateko į neaprėpiamus miškus ir, susidūrę su daugybe kliū­

@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-55368
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 195."
   citata_originali: |
     Iš teatro leistis - mediniai laipteliai, o nuo jų po kaire
     ranka - laiptai žemyn, mūro, lentomis apkalti; prie jų durys

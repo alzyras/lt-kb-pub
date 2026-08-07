@@ -83,7 +83,8 @@ Nenurodyta
 - id: c-30985
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 172."
   citata_originali: |
     Pagal Palestinoje
     su turkais kovojančių templininkų statutą, vyskupo priklausomybėje

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-152dd842b195839e8e1ee193"
+canonical_name: "Stankus Stankaitis Jurša"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stankus Stankaitis Jurša"]
+sameAs: []
+canonical_biography: "Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus antspaudėlis su raidžių skaičiumi ir trikampe spyna."
 ---
 # Stankus Stankaitis Jurša
 
@@ -46,7 +53,8 @@ Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus a
 - id: c-173127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 406"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 406."
   citata_originali: |
     IV lentelė, 33-iasis piešinys. Apvalus antspaudėlis iš Kazi­
     miero JogailaiČio laikų, priklausęs Stankui Stankaičiui Juršai

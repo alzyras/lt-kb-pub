@@ -94,7 +94,8 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
 - id: c-82432
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48."
   citata_originali: |
     Susirėmė su jais vokiečiai
     ties Rudamina, pusantros mylios atstumu nuo miesto; ir šis
@@ -117,7 +118,8 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
 - id: c-82433
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 47."
   citata_originali: |
     Vis dėlto Algirdo valdymo pa­
     baigoje Vilnius neišvengė seniai jam grėsusio pavojaus. Pra­
@@ -139,7 +141,8 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
 - id: c-82434
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50."
   citata_originali: |
     O
     Jogaila, labai jį pamilęs, ne tik Lydos vietininku padarė, bet,

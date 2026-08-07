@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-168990
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 512"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 512."
   citata_originali: |
     Štai todėl
     ir pasklido neteisingas gandas, jog Podolėje jau pra­

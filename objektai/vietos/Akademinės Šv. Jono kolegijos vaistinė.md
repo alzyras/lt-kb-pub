@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aa1888cdb4de1958f09c6fda"
+canonical_name: "Akademinės Šv. Jono kolegijos vaistinė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Akademinės Šv. Jono kolegijos vaistinė","Jėzuitų vaistinė","Medicinos Akademijos vaistinė","Universiteto vaistinė"]
+sameAs: []
+canonical_biography: "Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti­ nei atidavė, taip pat onus [mokesčius] pavedė vaistininkui mokėti kasmet po 140 auksinų bažnyčios labui."
+place_authority: true
+historical_names: []
 ---
 # Akademinės Šv. Jono kolegijos vaistinė
 
@@ -76,7 +85,8 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
 - id: c-55427
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 198."
   citata_originali: |
     Jono Kolegijos Vaistinės kronika
     1546. Žygimanto Augusto laikais to mūrinio namo vie­
@@ -98,7 +108,8 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
 - id: c-55429
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 198."
   citata_originali: |
     Tas mūras per gaisrą in rudera [griuvėsiais] pa­
     virto.

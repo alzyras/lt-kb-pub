@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c42a1e19898df82ac96dc876"
+canonical_name: "Rimantas Lauras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rimantas Lauras"]
+sameAs: []
+canonical_biography: "14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR APIE J O KERŠTĄ DEDE1 DAUMANTUI UZ TĖVO TRAIDENIO NUŽUDYMĄ Traidenis vedė Mozūrų kunigaikščio dukterį1 ir su ja turėjo sūnų, vardu Rimantą2 . Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas. Lietuvos metraštyje Lauro pergalė prieš dėdę Daumantą aiškinama Dievo pagalba: Lauras sumušė jo kariuomenę, užmušė Daumantą ir paėmė Polocką."
 ---
 # Rimantas Lauras
 
@@ -32,7 +39,7 @@ media_all_json: |-
 <a id="claim-t-194100"></a>
 - t-001
   teiginys: "14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR APIE J O KERŠTĄ DEDE1 DAUMANTUI UZ TĖVO TRAIDENIO NUŽUDYMĄ Traidenis vedė Mozūrų kunigaikščio dukterį1 ir su ja turėjo sūnų, vardu Rimantą2 ."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -90,7 +97,8 @@ media_all_json: |-
 - id: c-176713
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 60."
   citata_originali: |
     Išrikiavo jisai
     savo pulkus ir susidūrė su Daumantu prie ežero. Ir
@@ -110,7 +118,8 @@ media_all_json: |-
 - id: c-176714
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 59."
   citata_originali: |
     Ir kai jo sūnus Ri­
     mantas išaugo į savo metus, jo tėvas Traidenis atidavė

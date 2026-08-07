@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-748b734b1ae7bf8d72c0e788"
+canonical_name: "Valdemaras II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Valdemaras II"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 160—161), kai Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje (Caune M."
 ---
 # Valdemaras II
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad 160—161), kai Danijos karaliaus Valdemaro II valdžia
 - id: c-61089
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     Tuo
     metu Lietuvos vedamos kovos mastą rodo ir kiti 1219 m. įvykiai: jos kariuomenė puolė

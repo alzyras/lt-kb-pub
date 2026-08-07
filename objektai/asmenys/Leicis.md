@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7be29b8d57666840417b7bd8"
+canonical_name: "Leicis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Leicis"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merkinės valsčiaus valstiečių maištininkų vadu. Leicis buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima."
 ---
 # Leicis
 
@@ -54,7 +61,8 @@ Narbutas, remdamasis 1483 m. Kazimiero privilegija, Leicį (Lejczis) vadina Merk
 - id: c-173062
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 129."
   citata_originali: |
     Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
     dindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį

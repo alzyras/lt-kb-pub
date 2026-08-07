@@ -53,7 +53,8 @@ Teodoras Narbutas Hlebovičiaus „Vytauto gyvenimą“ nurodė ginčydamas pož
 - id: c-174721
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Todėl vieni tiesiog
     priimdavo kronikininkų geriau išdėstytas išvadas apie

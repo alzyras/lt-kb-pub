@@ -39,7 +39,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 <a id="claim-t-22080"></a>
 - t-001
   teiginys: "Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1861 m."
@@ -96,7 +96,8 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 - id: c-24765
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 99."
   citata_originali: |
     Taip juos traktavo ir Rusijos imperijos valdžia.
     1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopi-
@@ -115,7 +116,8 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 - id: c-24767
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 107."
   citata_originali: |
     Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą
     Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė poli-
@@ -134,7 +136,8 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 - id: c-166797
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 99."
   citata_originali: |
     1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopi-
     no paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią

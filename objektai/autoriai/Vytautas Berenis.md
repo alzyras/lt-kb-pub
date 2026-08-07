@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b41971f5df495e0f88843f69"
+canonical_name: "Vytautas Berenis (istorikas, XX–XXI a.)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Berenis V.","Vytautas Berenis","Vytautas Berenis (istorikas, XX–XXI a.)"]
+sameAs: []
+canonical_biography: "Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istorikas“ ir 1995 m. straipsnio „Provincialų dialogai apie žemaičių tautą“ bibliografine nuoroda."
 ---
 # Vytautas Berenis (istorikas, XX–XXI a.)
 
@@ -107,7 +114,8 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
 - id: c-55557
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 16."
   citata_originali: |
     V., 1990, t. p. 39.
     12 Kirkoras A. H. Pasivaikščiojimai po Vilnių ir jo apylinkes, V., 1991, p. 17.
@@ -125,7 +133,8 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
 - id: c-55558
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 5."
   citata_originali: |
     Vytautas Berenis
     Mykolas Balinskis -

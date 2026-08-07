@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f67350af679549dd11c0fb23"
+canonical_name: "Vladislovas (karalius, Stepono pirmtakas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladislovas (karalius, Stepono pirmtakas)"]
+sameAs: []
+canonical_biography: "Mes su savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­ jų pusių ginčus, pamatę atneštas abiejų pusių privilegijas, mūsų pirmtako šv."
 ---
 # Vladislovas (karalius, Stepono pirmtakas)
 
@@ -51,7 +58,8 @@ Mes su savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­ 
 - id: c-83863
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 455"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 455."
   citata_originali: |
     ## Puslapis 455
 

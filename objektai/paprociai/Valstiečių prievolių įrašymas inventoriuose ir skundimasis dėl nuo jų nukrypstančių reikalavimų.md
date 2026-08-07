@@ -65,7 +65,8 @@ Nenurodyta
 - id: c-02280
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 437"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 437."
   citata_originali: |
     Kokios pareigos bū-
     davo pažymėtos tuose inventoriuose, tokias valstiečiai turė-

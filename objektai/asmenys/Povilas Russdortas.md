@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-29e2a93c85e96b0968190bd9"
+canonical_name: "Povilas Russdortas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Povilas Russdortas"]
+sameAs: []
+canonical_biography: "Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­ diną, kurio magistru buvo išrinktas jam palankus Povilas Russdortas, vietoje atstatyto Küchmeisterio, nes Ordinas su Vytautu nuo 1414 m. buvo tik per plauką nuo karo."
 ---
 # Povilas Russdortas
 
@@ -62,7 +69,8 @@ Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­ diną, kurio magis
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 153."
   citata_originali: |
     Todėl kurstė prieš Vytautą po­
     piežių, abu Ordinus, Hanzos miestus, Vokietijos kunigaikščius,

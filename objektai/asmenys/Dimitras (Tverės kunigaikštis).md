@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-488f0e8c4d6cee6babb807b8"
+canonical_name: "Dimitras (Tverės kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dimitras (Tverės kunigaikštis)"]
+sameAs: []
+canonical_biography: "Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri reiškė Maskvai priešišką politiką, buvo pradėta politinėmis vedybomis, kai Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro (Mykolo sūnaus)."
 ---
 # Dimitras (Tverės kunigaikštis)
 
@@ -50,7 +57,8 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 - id: c-91803
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 249."
   citata_originali: |
     Gediminas nurodė politinį — vedybinį kelią ir į tolimą Tverės
     kunikaikštiją. Per 150 metų toliau patverusi su Tverės kunigaikš­

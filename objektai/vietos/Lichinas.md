@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-766e56e84f0ea0cecf39a46d"
+canonical_name: "Lichinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lichinas"]
+sameAs: []
+canonical_biography: "Bresto vaivada Jonas iš Lichino buvo vienas iš pasiuntinybės narių, kurią senatas skubiai išsiuntė į Lietuvą dėl Žygimanto pakėlimo."
+place_authority: true
+historical_names: []
 ---
 # Lichinas
 
@@ -46,7 +55,8 @@ Bresto vaivada Jonas iš Lichino buvo vienas iš pasiuntinybės narių, kurią s
 - id: c-176163
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,

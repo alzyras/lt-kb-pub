@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ea141368bf2d620051d88e88"
+canonical_name: "Konstantinas (Karijotaitis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konstantinas (Karijotaitis)"]
+sameAs: []
+canonical_biography: "Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas ir Konstantinas."
 ---
 # Konstantinas (Karijotaitis)
 
@@ -74,7 +81,8 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 - id: c-28937
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 290."
   citata_originali: |
     Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai,
     Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas
@@ -93,7 +101,8 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 - id: c-178748
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 220."
   citata_originali: |
     Tie, kuriems pavyko
     P o d o lės

@@ -59,7 +59,8 @@ Tačiau LKP pertvarkos taktika („žingsnis po žingsnio“) neparuošė valsty
 - id: c-23699
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 239."
   citata_originali: |
     1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą
     kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjū-

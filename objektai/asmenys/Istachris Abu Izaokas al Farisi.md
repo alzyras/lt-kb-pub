@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e89c73047fe9752fd8958efa"
+canonical_name: "Istachris Abu Izaokas al Farisi"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Istachris Abu Izaokas al Farisi"]
+sameAs: []
+canonical_biography: "Istachris Abu Izaokas al Farisi buvo arabų geografas, gyvenęs apie 907-912 m. ir nubraižęs Gotos bibliotekoje aptiktus geografijos žemėlapius."
 ---
 # Istachris Abu Izaokas al Farisi
 
@@ -62,7 +69,8 @@ Istachris Abu Izaokas al Farisi buvo arabų geografas, gyvenęs apie 907-912 m. 
 - id: c-174303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Čia reikėtų pateikti
     nuomonę Dorpato universiteto profesoriaus pono Kruzės, kuris Gotos

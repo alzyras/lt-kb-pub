@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5ae0c34cdfb978e7ebd7471e"
+canonical_name: "Henrikas iš Svarcburgo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas iš Svarcburgo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad įvyko šitaip todėl, kad pats Kristus, kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams širdis, tad į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais ir Merzeburgo vyskupas310 bei grafas Henrikas iš."
 ---
 # Henrikas iš Svarcburgo
 
@@ -64,7 +71,8 @@ Dusburgietis teigia, kad įvyko šitaip todėl, kad pats Kristus, kuris ir plaka
 - id: c-167467
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Apie maldininkus ir Prūsijos žemei sugrąžintą taiką
     Apie šią skaudžią nelaimę, dievo lemtą broliams bei jų žmonėms, išgirdo Vokietijos

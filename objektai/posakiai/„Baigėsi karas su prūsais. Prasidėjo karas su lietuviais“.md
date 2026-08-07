@@ -151,7 +151,8 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 - id: c-177400
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 218."
   citata_originali: |
     Prasidėjo karas su lietuviais».
     Tais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo
@@ -176,7 +177,8 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 - id: c-177401
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 218."
   citata_originali: |
     LIETUVOS VALSTYBINGUMO IŠSIVYSTYMAS
 
@@ -197,7 +199,8 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 - id: c-177402
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 218."
   citata_originali: |
     Pirmosios lietuvių kovos prie Nemuno su Prūsų**
         **ordinu ir naujos dinastijos kilmė**

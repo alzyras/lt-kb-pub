@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-998fb2f21f6809c035c56256"
+canonical_name: "Silvestras Žukauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Silvestras Žukauskas"]
+sameAs: []
+canonical_biography: "Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perėjo į evangelikų reformatorių tikėjimą | tapti vyresniaisiais karininkais."
 ---
 # Silvestras Žukauskas
 
@@ -56,7 +63,8 @@ media_all_json: |-
 - id: c-42216
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 181."
   citata_originali: |
     1894 m. S. Žukauskas vedė liuteronę Zozefing Has-
 

@@ -51,7 +51,8 @@ Dusburgietis teigia, kad vidurio Ordino dokumentuose atsiranda lytis Neringe.
 - id: c-61807
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
   citata_originali: |
     Nuo XV a. vidurio Ordino
     dokumentuose atsiranda lytis Neringe. Lietuvių kalba težinojusi tokius Kuršių nerijos

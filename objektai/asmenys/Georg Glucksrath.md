@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c0f0c9f6e299c7fde9d2cd33"
+canonical_name: "Georg Glucksrath"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Georg Glucksrath"]
+sameAs: []
+canonical_biography: "Georg Glucksrath buvo Karaliaučiaus senojo miesto burmistras ir 1485 m. kovo 14 d. kartu su Danieliumi von Kunheimu dalyvavo pasiuntinybėje pas Kazimierą Jogailaitį."
 ---
 # Georg Glucksrath
 

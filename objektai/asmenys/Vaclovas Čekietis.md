@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-35b0e9851ef425f7532e989e"
+canonical_name: "Vaclovas Čekietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaclovas Čekietis"]
+sameAs: []
+canonical_biography: "Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą. 1392 m. mėginta ir koalicija prieš Lenkiją sudaryti; jos vyriausi va­ dai buvo Ordinas ir du Luksemburgiečiai: Zigmantas Vengrie­ tis ir Vaclovas Čekietis^4 )."
 ---
 # Vaclovas Čekietis
 
@@ -97,7 +104,8 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 149."
   citata_originali: |
     Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
     Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
@@ -119,7 +127,8 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 173."
   citata_originali: |
     Jei
     jis paskelbtų Lenkijai karą, Ordinas žinoma, prisidėtų^3 ). 1392
@@ -140,7 +149,8 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 149."
   citata_originali: |
     Todėl Makras,
     įteikdamas jį imperatoriui Zigmantui, pažymėjo, kad Ordinas

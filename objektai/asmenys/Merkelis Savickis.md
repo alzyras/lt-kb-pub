@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fbd4a1252d91714a0def46b8"
+canonical_name: "Merkelis Savickis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Merkelis Savickis"]
+sameAs: []
+canonical_biography: "Dva­ sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku­ ris tik tuo metu turės, taip pat ir du kitus namelius viršuje už prieglaudos, ten pat, priešais Šv."
 ---
 # Merkelis Savickis
 
@@ -45,7 +52,8 @@ Dva­ sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės ba�
 - id: c-176902
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 354."
   citata_originali: |
     Onos bažnyčios įsakytų pastatyti
     trylikai asmenų pagal jų kunigišką luomą [pritinkantį būs­

@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-172823
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
   citata_originali: |
     Seniausios žemės tautos -  indai ir kinai savo tautiškumo
     svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­

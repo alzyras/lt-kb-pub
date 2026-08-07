@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9a57551af6ac0c3a07b0d08f"
+canonical_name: "Jonas XXII (popiežius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas XXII (popiežius)"]
+sameAs: []
+canonical_biography: "Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštytis10 11."
 ---
 # Jonas XXII (popiežius)
 
@@ -80,7 +87,8 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
 - id: c-91936
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 236."
   citata_originali: |
     Galimas daly­
     kas, jog Rygos arkivyskupo pritarimą turėjo ir aniedu vienuoliai
@@ -99,7 +107,8 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
 - id: c-91937
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 236."
   citata_originali: |
     Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs
     raginimą krikštytis10 11. O pats Lietuvos valdovas nebuvo joks

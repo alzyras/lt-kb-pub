@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-24d0702779a861f040dd5e67"
+canonical_name: "Jurgis Plioteris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Plioteris"]
+sameAs: []
+canonical_biography: "Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris turėjo keletą tokių auksinių monetų. Jurgis Plioteris buvęs garbinamas kaip dievas ir turėjęs savo šventyklą Nemunaityje, ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų apskrityje yra taip besivadinąs miestelis su pylimų žymėmis ir keliais milžinkapiais."
 ---
 # Jurgis Plioteris
 
@@ -54,7 +61,8 @@ Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris t
 - id: c-173050
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Apie jį dar esama padavimo, kad jis buvęs gar­
     binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,

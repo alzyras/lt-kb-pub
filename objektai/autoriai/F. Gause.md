@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0d3fe3a69523c7e36d8eeaf6"
+canonical_name: "F. Gause"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["F. Gause"]
+sameAs: []
+canonical_biography: "R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 , Fr. Benninghoven davė studiją apie kalavijuočių ordiną (BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr. Mager veikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu metu išsp. F. G a."
 ---
 # F. Gause
 
@@ -49,7 +56,8 @@ R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 , Fr. Benninghoven dav�
 - id: c-32921
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 97."
   citata_originali: |
     Serijoje « Ostmittel­
     europa in Vergangenheit und Gegenwart» pasirodė Lietuvos isto­

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6b01a04ce1c4e9d9dcda2ae1"
+canonical_name: "Rezeknės regionas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rezeknės regionas"]
+sameAs: []
+canonical_biography: "Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę, o kita „didžiausia“ kariuomenė - Livonijos pietryčiuose Rezeknės regioną."
+place_authority: true
+historical_names: []
 ---
 # Rezeknės regionas
 
@@ -60,7 +69,8 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
 - id: c-45305
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 36."
   citata_originali: |
     1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilinin-
     ko Dovydo dvarą, kiek vėliau puolė ir Gardiną, visus metus tęsėsi

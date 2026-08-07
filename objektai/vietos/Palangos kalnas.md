@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c4a909d55b8b5944fa1a7046"
+canonical_name: "Palangos kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Palangos kalnas"]
+sameAs: []
+canonical_biography: "Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru. Narbutas rašo, kad šventyklos altanoje stovėjo medinis dievo stabas, atgabentas iš Palangos šventųjų miškų."
+place_authority: true
+historical_names: []
 ---
 # Palangos kalnas
 
@@ -74,7 +83,8 @@ Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru. Narbutas rašo, k
 - id: c-171849
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     Visa, ką šiuo klausimu žinome iš istorijos, ap­
     siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
@@ -93,7 +103,8 @@ Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru. Narbutas rašo, k
 - id: c-171850
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 270."
   citata_originali: |
     Bet virš jos nebuvo stogo; į ją vedė tik vienas įėjimas
     nuo didžiosios upės pusės; prie sienos, esančios priešais įėji­

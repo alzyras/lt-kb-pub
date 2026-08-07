@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-68fd14e88006ba9bc78c1c92"
+canonical_name: "Kulmija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kulmija"]
+sameAs: []
+canonical_biography: "Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją."
+place_authority: true
+historical_names: []
 ---
 # Kulmija
 
@@ -138,7 +147,8 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 - id: c-93880
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 174."
   citata_originali: |
     Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs
     Mozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo
@@ -158,9 +168,9 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
     - t-001
 
 - id: c-184421
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 164"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 164."
   citata_originali: |
     Lenkai negalėjo per amžius to nuopuolio užmiršti, o
     lietuviai, įgiję tą pergalę, dievus savo maldė, dėka-
@@ -182,9 +192,9 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
     - t-002
 
 - id: c-184422
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 240"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 240."
   citata_originali: |
     Paskesniai rados taip pat zokanykas cisternas, var­
     du Kristijonas, iš klioštoriaus Olivos, vyras buklus,
@@ -209,9 +219,9 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
     - t-003
 
 - id: c-184423
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 247"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 247."
   citata_originali: |
     Vienoj gromatoj, rašyto j me­
     tuose 1222 perkrikštams, kuriuos ragina tėvyga mei­
@@ -233,9 +243,9 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
     - t-004
 
 - id: c-184424
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 313"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 313."
   citata_originali: |
     Tok­
     sai darbas Sviatopelko drąsino dar didesniai lietu­
@@ -257,9 +267,9 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
     - t-005
 
 - id: c-184425
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 424"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 424."
   citata_originali: |
     Taip lie­
     tuviai griovė vieną po kito ramčius vokyčių galy­
@@ -281,9 +291,9 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
     - t-006
 
 - id: c-184426
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 447"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 447."
   citata_originali: |
     Neaprašomas yra gro­
     bis, kokį tenai lietuviai sugrieję, su nesuskaitomais

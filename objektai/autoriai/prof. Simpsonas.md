@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d52762b8e52ea2f845dbb16d"
+canonical_name: "prof. Simpsonas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["prof. Simpsonas"]
+sameAs: []
+canonical_biography: "Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo buvusios gubernijos sienos."
 ---
 # prof. Simpsonas
 
@@ -60,7 +67,8 @@ Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, i
 - id: c-01409
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 592"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 592."
   citata_originali: |
     kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
     čia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-

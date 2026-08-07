@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-478419788169eabc2b103099"
+canonical_name: "Brutenis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Brutenis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teisėje, vad. Brutenio—Videvučio (dėl vardo žr."
 ---
 # Brutenis
 
@@ -66,7 +73,8 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
 - id: c-172972
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 433."
   citata_originali: |
     Labiausiai kritikui nepa­
     tiko, kad didžioji vardų dalis baigiasi raide o; tokių prūsiškų,
@@ -96,9 +104,9 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
     - t-001
 
 - id: c-184323
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 73"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 73."
   citata_originali: |
     Mėklinantis į visą tą pasaką, gal regėti ją sutin­
     kančią daugioj vietoj su pasakomis viršiaus mina-

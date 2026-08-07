@@ -60,7 +60,8 @@ media_all_json: |-
 - id: c-34169
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 157."
   citata_originali: |
     Lietuvos
     ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo

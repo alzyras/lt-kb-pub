@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d32812594d0180d1a705cc7"
+canonical_name: "Naujieji Rytprūsiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujieji Rytprūsiai"]
+sameAs: []
+canonical_biography: "Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais."
+place_authority: true
+historical_names: []
 ---
 # Naujieji Rytprūsiai
 
@@ -47,7 +56,8 @@ Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytp
 - id: c-176004
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 462"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 462."
   citata_originali: |
     Užnemunė Prūsų valdžioje ir Lenkų karalystėje
 

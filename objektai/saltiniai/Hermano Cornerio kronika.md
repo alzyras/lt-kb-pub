@@ -71,7 +71,8 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 - id: c-84166
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 105."
   citata_originali: |
     Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame
     aiškiai išreikštą norą priimti krikščionių tikėjimą ir viršesnę
@@ -92,7 +93,8 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 - id: c-84167
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53."
   citata_originali: |
     Wilna, 1. 177.
     33

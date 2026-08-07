@@ -71,7 +71,8 @@ Dusburgietis teigia, kad wczesnośredniowieczne Chełmno w świetle źródeł ar
 - id: c-61730
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
   citata_originali: |
     1967, Nr. 4, p. 161—162.
     Kola A. Wczesnośredniowieczne Chełmno w świetle źródeł archeologicznych: Problem

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-17e67df0d8c665c3accb86bd"
+canonical_name: "Jaroslavas Mikitiničius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jaroslavas Mikitiničius"]
+sameAs: []
+canonical_biography: "1566 m. Kauno pavieto maršalu tapo tuometis Kauno seniūnijos laikytojas ir vienas iš valdovo dvaro maršalų Jaroslavas Mikitiničius."
 ---
 # Jaroslavas Mikitiničius
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185515
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 160"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 160."
   citata_originali: |
     Tuoj po reformos
     Žygimantas Augustas pavietų maršalais skyrė savo dvaro maršalus. 1566 m. Kauno pa-

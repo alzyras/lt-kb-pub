@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-62993
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
   citata_originali: |
     229 (224). Apie tą patį
 

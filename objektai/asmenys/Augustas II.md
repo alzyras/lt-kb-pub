@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   [{"mediaId":"m-9eef662d9b786177a5b33392","title":"August II (1670-1733).jpg","caption":"Augusto II, Lenkijos karaliaus ir Lietuvos didžiojo kunigaikščio, portretas.","originalTitle":"August II (1670-1733).jpg","creator":"Not stated.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://portraitsofkings.com/gallery/russia-poland-ottoman-empire/august-ii-1670-1733/","dateDisplay":"2018-04-10 03:27:27","dateStart":null,"dateEnd":null,"width":2079,"height":2700,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAugust_II_%281670-1733%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a3/August_II_%281670-1733%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/August_II_%281670-1733%29.jpg/1920px-August_II_%281670-1733%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a3/August_II_%281670-1733%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-70)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait paintings of Augustus II the Strong","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Augustas II.md","title":"Augustas II","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-17T21:35:56.423672+03:00","reviewedAt":"2026-07-18T19:47:58.101393+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVIII a. aristokratiškai apsirengusio vyro portretas su karinėmis regalijomis, ordinais, kardu ir herbo elementais; atvaizdas sutampa su Augustu II.","metadataEvidence":"Wikimedia Commons pavadinimas ir aprašas aiškiai nurodo Augustą II (1670–1733), Lenkijos karalių ir Lietuvos didįjį kunigaikštį.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target asmenį kaip istorinį portretą.","isPrimary":1},{"mediaId":"m-65c3eb1194a5184b4fda4af3","title":"Six Lithuanian Groschen of Augustas II with his portrait, Polish Eagle, Vytis (Waykimas) and other coats of arms, 1706.jpg","caption":"Lietuvos šešiagrašis su Augusto II portretu, Lenkijos ereliu ir Vyčiu, 1702 m.","originalTitle":"Six Lithuanian Groschen of Augustas II with his portrait, Polish Eagle, Vytis (Waykimas) and other coats of arms, 1706.jpg","creator":"Grand Duchy of Lithuania (coin), Nacionalinis M. K. Čiurlionio dailės muziejus / M. K. Čiurlionis National Art Museum (image)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"LIMIS (inventory number: ČDM Nn 47765)","dateDisplay":"1702","dateStart":null,"dateEnd":null,"width":998,"height":536,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASix_Lithuanian_Groschen_of_Augustas_II_with_his_portrait%2C_Polish_Eagle%2C_Vytis_%28Waykimas%29_and_other_coats_of_arms%2C_1706.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Six_Lithuanian_Groschen_of_Augustas_II_with_his_portrait%2C_Polish_Eagle%2C_Vytis_%28Waykimas%29_and_other_coats_of_arms%2C_1706.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Six_Lithuanian_Groschen_of_Augustas_II_with_his_portrait%2C_Polish_Eagle%2C_Vytis_%28Waykimas%29_and_other_coats_of_arms%2C_1706.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Six_Lithuanian_Groschen_of_Augustas_II_with_his_portrait%2C_Polish_Eagle%2C_Vytis_%28Waykimas%29_and_other_coats_of_arms%2C_1706.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"moneta","label":"moneta","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"moneta","label":"moneta","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1702 coins","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Augustus II the Strong, King of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coins of August II (1697–1706 and 1709–1733)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on Lithuanian Groschen","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on Lithuanian coins","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Augustas II.md","title":"Augustas II","itemType":"asmuo","relationType":"coin_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T19:46:46.774898+03:00","reviewedAt":"2026-07-18T19:47:58.108593+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomos abi monetos pusės: vienoje – valdovo profilio portretas ir legenda, kitoje – karūnuoti herbai, įskaitant Vytį; nurodyta 1702 m. data.","metadataEvidence":"Pavadinime ir apraše aiškiai įvardyti Augustas II, jo portretas, Lietuvos šešiagrašis ir kaldinimo aplinka; kūrinį identifikuoja muziejaus metaduomenys.","confidenceLevel":"high","relationType":"coin_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Moneta tiesiogiai pateikia Augusto II istorinį portretinį atvaizdą, todėl ryšys su target yra tiesioginis.","isPrimary":0}]
+entity_id: "ent-1cfe113c30fab0052714f2a2"
+canonical_name: "Augustas II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Augustas II"]
+sameAs: []
+canonical_biography: "Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto II valdymo pabaiga."
 ---
 # Augustas II
 
@@ -178,7 +185,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - id: c-04147
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 37."
   citata_originali: |
     Tačiau epocha caro Petro Didžiojo,
     kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
@@ -200,7 +208,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - id: c-41855
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 142."
   citata_originali: |
     Augusto II siekius rėmė ir dalis Švedijos kara-
     liaus Karolio x11 valdymu nepatenkintos
@@ -225,7 +234,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - id: c-76043
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 395."
   citata_originali: |
     Karolis XII
     staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos
@@ -246,7 +256,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - id: c-76044
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 392"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 392."
   citata_originali: |
     Tačiau bajorija suprato,
     kad jai tik tada pasiseks sunaikinti Sapiegas ir įvykdyti savo
@@ -271,7 +282,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - id: c-76045
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 142."
   citata_originali: |
     Todėl Augustas 11 nusprendė
     išvyti iš Livonijos švedus ir ją užvaldyti.
@@ -293,7 +305,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - id: c-76047
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 393"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 393."
   citata_originali: |
     Karo pradžia. Kai Augustas II su Petru I padarė sutartį
     atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
@@ -312,7 +325,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - id: c-76049
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 142."
   citata_originali: |
     ATR valdovu 1697 m. buvo išrinktas am- Lietuvos, bet ir Lenkijos teritorijos. Dalis ATR aristokratijos reika-
 
@@ -330,9 +344,9 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-007
 
 - id: c-184863
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 217"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 217."
   citata_originali: |
     1727 m. Kauno miestiečių prašymu ir Augusto II leidimu 1541 m. Žygimanto
     Senojo raštas, 1582 m. Stepono Batoro sprendimas, 1609 ir 1631 m. Zigmanto Vazos

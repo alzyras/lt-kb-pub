@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-02028
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 476"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 476."
   citata_originali: |
     Šitas raseiniškių pa-
     sisekimas sujudino visus kitus. Tuojau visose apskrityse ėmė

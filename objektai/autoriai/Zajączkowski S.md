@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8cab14a3d3265ce582fc7d44"
+canonical_name: "Zajączkowski S"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Zajączkowski S"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad abejojama, kad buvusios 4 gentinės jotvingių teritorijos (Zajączkowski S., Uwagi..., p. 91). Dusburgietis teigia, kad 116—117, 152—156; Gerullis G., Zur Sprache..., p. 44—51; Łowmiański H., Studja..., 1, p. 52; 2, p. 23, 39—44; Zajączkowski S., Kaip jotvingiai buvo vadinami..., p. 57—76; to paties, Jotvingių problema..., p. 387—468; Kamiński A."
 ---
 # Zajączkowski S
 
@@ -43,7 +50,8 @@ Dusburgietis teigia, kad abejojama, kad buvusios 4 gentinės jotvingių teritori
 - id: c-87577
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61."
   citata_originali: |
     Vengoževo (Węgorzewo) apylinkėse —
     (Okulicz J. Pradzieje..., p. 466) arba į pietryčius nuo Suduonios (Powierski J., Uwagi...,

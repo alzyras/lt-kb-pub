@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b9d8f5a8ee9b9972f66e81a9"
+canonical_name: "Kownacki"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kownacki"]
+sameAs: []
+canonical_biography: "Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor."
 ---
 # Kownacki
 
@@ -42,7 +49,8 @@ Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
 - id: c-84052
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 23."
   citata_originali: |
     Ta­
     čiau J. W. Bandtkie Zbiór roz­

@@ -54,7 +54,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 - id: c-167267
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     23. Apie Partigalos pilies ir Skrando kuoro pastatymą
 

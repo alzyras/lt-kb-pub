@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14baf0304a4ad15574d2cab9"
+canonical_name: "Turaida (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Turaida","Turaida (vieta)"]
+sameAs: []
+canonical_biography: "To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti, kurį kraštą paskaidė į parakvijas ir Kaupo pilėj bažnyčią įkūrė."
+place_authority: true
+historical_names: []
 ---
 # Turaida (vieta)
 
@@ -46,9 +55,9 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
 ## Citatos
 
 - id: c-184490
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 200"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 200."
   citata_originali: |
     To dėjęsis, Alobramdas kunigas nuėjo į Tu-
     raidą latvių mokyti ir krikštyti, kurį kraštą paskaidė

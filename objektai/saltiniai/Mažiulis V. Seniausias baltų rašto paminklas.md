@@ -58,7 +58,8 @@ Dusburgietis teigia, kad mažiulis V.
 - id: c-61805
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Mažiulis V. Seniausias baltų rašto paminklas — Baltistica, 1975, 11 (2), p. 125—131.
     Mažiulis V. Prūsų etimologijos.— Baltistica, 1975, 11 (1), p. 83—85; 1978, 14 (1), p.

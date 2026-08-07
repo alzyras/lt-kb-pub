@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-be546fc5bd397cc22aef7575"
+canonical_name: "Daukšiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Daukšiai"]
+sameAs: []
+canonical_biography: "Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno-Tarzano. Remiantis KGB duomenimis, liepos 15 d., vykdant operaciją Buktos (Žaliosios) miške bei Daukšių kaime, žuvo partizanai Juozas Pūkas ir Motiejus Overa."
+place_authority: true
+historical_names: []
 ---
 # Daukšiai
 
@@ -63,7 +72,8 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
 - id: c-43389
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 229."
   citata_originali: |
     Partizanų pajėgos
 
@@ -87,7 +97,8 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
 - id: c-45069
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 229."
   citata_originali: |
     Tuomet žuvo partizanas
     Jurgis Krušinskas, Juozas Remeikis-Lokys

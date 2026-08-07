@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f94689682a6d65ff1aa1211b"
+canonical_name: "Henrikas Römeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Henrikas Römeris"]
+sameAs: []
+canonical_biography: "Matyt, Henrikui Römeriui nemažai pastangų kainavo laiškas įkalintam tėvui, kuriuo Henrikas Römeris siekė pradžiuginti tėvą."
 ---
 # Henrikas Römeris
 

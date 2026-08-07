@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-57972e7dd39e63ab20ebd702"
+canonical_name: "Skorochodas Majevskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Skorochodas Majevskis"]
+sameAs: []
+canonical_biography: "2 Skorochodo Majevskio tyrinėjimai."
 ---
 # Skorochodas Majevskis
 
@@ -46,7 +53,8 @@ media_all_json: |-
 - id: c-177285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Kor ypač didelė
     1 Vorhalle europäischer Völkergesch.

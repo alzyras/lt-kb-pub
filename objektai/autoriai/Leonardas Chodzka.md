@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0c3a8aa80b3c498558173ba0"
+canonical_name: "Leonardas Chodzka"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Leonardas Chodzka"]
+sameAs: []
+canonical_biography: "Štai 1835 m. Paryžiuje išleisto Leonardo Chodzkos (1800-1871) parengto La Pologne historique, litteraire, monumentale et pittoresque leidinio pirmajame tome įdėtoje Kauno istorijos apybraižoje daugiausia dėmesio skiriama legendinei daliai, - kovoms su."
 ---
 # Leonardas Chodzka
 
@@ -51,9 +58,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185575
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 14"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 14."
   citata_originali: |
     Kalbami tekstai buvo gerai žinomi to meto istorija besidominčios Lietuvos
     visuomenės daliai, jie buvo naudojami, dažnai nenurodant šaltinio, įvairiomis pro-

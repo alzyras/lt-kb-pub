@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dc80ae1660fbf0ba3ff5875a"
+canonical_name: "Šiaurės Europa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šiaurės Europa"]
+sameAs: []
+canonical_biography: "Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Europos dalies (Olandija, Anglija) ir per XVII–XVIII a."
+place_authority: true
+historical_names: []
 ---
 # Šiaurės Europa
 
@@ -108,7 +117,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - id: c-24625
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
     kiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-
@@ -133,7 +143,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - id: c-171764
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 308."
   citata_originali: |
     Čia kalbama apie baltą gėrimą, kuris gali būti arba kume­
     lių pienas, arba fermentuotas jo gaminys, kuris, kaip pamaty­
@@ -157,7 +168,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - id: c-175559
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 28."
   citata_originali: |
     O ir tas, kuris susipažino su priešistorinės seno­
     vės epochomis, apiplėštomis įvairių senienų epochomis,

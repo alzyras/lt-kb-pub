@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d3fe286dd880e1496681d240"
+canonical_name: "Apuolė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Apuolė","Apuolė (vieta)"]
+sameAs: []
+canonical_biography: "Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kraštą, kaip viršiaus minavojau, pasakoja, jog žuvėdai užėmę per kelias my lias nuo pajūrio Žemaičiuose pilį, Apuole vadina mą, liepė jos ūkinykams mokėti pusę svaro sidabro nuo kiekvienos."
+place_authority: true
+historical_names: []
 ---
 # Apuolė (vieta)
 
@@ -52,9 +61,9 @@ Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kr
 ## Citatos
 
 - id: c-184480
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 127"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 127."
   citata_originali: |
     Jei perskleisim dar svetimus raštus, apie žemai­
     čių žemę pasakojančius, tą patį tenai rasim, kaipo-

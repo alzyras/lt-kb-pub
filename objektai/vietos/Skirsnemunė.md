@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-12e85c47b125d2f6b37d8e71"
+canonical_name: "Skirsnemunė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Skirsnemunė"]
+sameAs: []
+canonical_biography: "Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis. Vytautas pats dar laikėsi nuošaliai, bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pradėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys, o jie patys buvo išvyti iš Žemaičių. Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri ordinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis reviduoti Melno taikos sąlygas."
+place_authority: true
+historical_names: []
 ---
 # Skirsnemunė
 
@@ -134,7 +143,8 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 - id: c-32422
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 284."
   citata_originali: |
     Su kryžiuočiais drauge buvo ir Vytautas. Dėl vandens seklumo jie
     nuo Skirsnemunės nebegalėjo toliau plaukti, o Jogaila iš Dubysos
@@ -154,7 +164,8 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 - id: c-43853
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     Kilo
     karinė įtampa tarp Lietuvos ir Lenkijos.
@@ -178,7 +189,8 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 - id: c-77001
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
     ir lietuvių strigo (tuo metu Jogaila sto-
@@ -203,7 +215,8 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 - id: c-77004
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 139-140"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 139-140."
   citata_originali: |
     Bet
     Vytautas nesiskubino ir vis tęsė derybas. Bijodamas sukilimo,
@@ -224,7 +237,8 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 - id: c-167766
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 284."
   citata_originali: |
     Ankstybesniu susitarimu Dubysos salon išsirengė vyriausias magis­
     tras Konradas Zöllner von Rotenstein, o su juo drauge daug kom­
@@ -242,9 +256,9 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     - t-003
 
 - id: c-184456
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 513"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 513."
   citata_originali: |
     Žemaičiai, nuterioję baisiai bai-
     sesniai apygardas Ragainės ir Šalaujų, sugrįžo na­

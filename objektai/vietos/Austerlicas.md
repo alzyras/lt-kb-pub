@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-13ba52310c824119a08b6038"
+canonical_name: "Austerlicas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Austerlicas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas."
+place_authority: true
+historical_names: []
 ---
 # Austerlicas
 
@@ -64,7 +73,8 @@ Teodoras Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės 
 - id: c-171867
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     Tarnaudamas Rusijos kariuomenėje, 1807 m. daly­
     vavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas. T. Nar­

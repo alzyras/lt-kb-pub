@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-747654ea899ace23a94e392a"
+canonical_name: "Markvardas Salzbaclias"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Markvardas Salzbaclias"]
+sameAs: []
+canonical_biography: "Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis jau tris kartus esąs išdavęs ordiną; o ketvirtą kartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių valdovus."
 ---
 # Markvardas Salzbaclias
 
@@ -72,7 +79,8 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
 - id: c-28873
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 341."
   citata_originali: |
     Vytautas viešai dėjosi nekaltas ir norėjo « savo rankas nusi­
     plauti ». Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­
@@ -91,7 +99,8 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
 - id: c-167744
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 341."
   citata_originali: |
     Didysis kunigaikštis juos paremsiąs, nes «jis pats nori
     traukti Karaliaučiun su kariuomene ir vokiečius taip sunaikinti ir

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-101ae91de82668deee1d9b99"
+canonical_name: "Jieznas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jieznas"]
+sameAs: []
+canonical_biography: "Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą dieną jo priešakiniai daliniai, susišaudę su lietuvių husarų žvalgų būriu, užėmė netoli Prienų esantį Jiezną. | | Taip pat pasiekė žinia, kad Lietuvos pavergėjai artėja į Kėdainius, Jiezną ir Alytų. Pralaimėjimas Jiezne ir nesėkmė pietinėje Lietuvoje prie Nemuno galutinai sužlugdė bolševikų planus užimti Kauną - laikinąją Lietuvos sostinę ir nutraukti Lietuvos valstybės egzistavimą."
+place_authority: true
+historical_names: []
 ---
 # Jieznas
 
@@ -92,7 +101,8 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 - id: c-76411
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 11."
   citata_originali: |
     Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
     kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
@@ -118,7 +128,8 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 - id: c-76412
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 176."
   citata_originali: |
     Grojant „Internacionalą“, pulkas išžygiavo
     Lentvario kryptimi. Nesutikdamas pasi-
@@ -145,7 +156,8 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 - id: c-76413
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 179."
   citata_originali: |
     Tačiau va-
     sario 14-15 d. naktį lietuviai ir vokie-

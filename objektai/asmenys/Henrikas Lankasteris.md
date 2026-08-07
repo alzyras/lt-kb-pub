@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c3f2c6e8f2abcdcff510154a"
+canonical_name: "Henrikas Lankasteris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Lankasteris"]
+sameAs: []
+canonical_biography: "liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­ bio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­ no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos sostą23. Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu Ričardas II, ir prie Vilniaus bu­ vojo ne kas kitas, tik Henrikas Lan­ kasteris, pirm Derbio grafas, vėliau žinomas kunigaikščio Herfordo var­ du, Jono de Gando, Lankasterio ku­. Taigi Derbio grafas, daly­ vavęs Vilniaus apgultyje 1390 m., negalėjo būti jo tėvas kunigaikštis Lankasteris, mat jis, kelerius metus prabuvęs Ispanijoje, siekdamas už­ imti Kastilijos sostą, bemaž tuo pat metu tiesiai iš ten pargrįžo į Angliją."
 ---
 # Henrikas Lankasteris
 
@@ -101,7 +108,8 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
 - id: c-83407
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135-136"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135-136."
   citata_originali: |
     Miechovita, Strijkovskis
     ir K o j e 1 a v i č i u s klysta sakyda­
@@ -143,7 +151,8 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
 - id: c-83408
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 136."
   citata_originali: |
     Kol šis kunigaikštis stengėsi pelnyti
     šlovę savo karo žygdarbiais, Ričar­
@@ -172,7 +181,8 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
 - id: c-83409
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 136."
   citata_originali: |
     Strijkovskis apsirinka nurody­
     damas, esą Lankasteris, Anglijos ka­

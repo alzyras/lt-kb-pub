@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3b3cf0d114e27b46a6ee71ce"
+canonical_name: "Albina Strunga"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Albina Strunga"]
+sameAs: []
+canonical_biography: "The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle of Grünwald in 1410 / translated by Albina Strunga; edited by Joseph Everatt, Mindaugas Šapoka."
 ---
 # Albina Strunga
 
@@ -49,7 +56,8 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
 - id: c-22111
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Jučas M. The Battle of Grünwald: in commemoration of the 600th anniversary
     of the Battle of Grünwald in 1410 / translated by Albina Strunga; edited by Joseph

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1f27369bbd0269f8eec91407"
+canonical_name: "Toloma"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Toloma"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros apylinkėmis Uždauguvio skirstyme."
+place_authority: true
+historical_names: []
 ---
 # Toloma
 
@@ -56,7 +65,8 @@ Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros a
 - id: c-175675
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 290."
   citata_originali: |
     Šios lietuvių tautos valdos yra iškovotos iš
     lyvių, todėl vadinamos Livonija labai seniai ir gerokai

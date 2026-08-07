@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-74d3a6f6888821e9916b9878"
+canonical_name: "Marija Lastauskienė - Lazdynų Pelėda"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Marija Lastauskienė - Lazdynų Pelėda"]
+sameAs: []
+canonical_biography: "Marija Lastauskienė - Lazdynų Pelėda."
 ---
 # Marija Lastauskienė - Lazdynų Pelėda
 
@@ -44,7 +51,8 @@ Marija Lastauskienė - Lazdynų Pelėda.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 320."
   citata_originali: |
     28. Marija Lastauskienė - Lazdynų Pelėda. RADYBOS.
     Nepaprastai intriguojanti apysaka, su Liūdo Giros ižanga, ku­

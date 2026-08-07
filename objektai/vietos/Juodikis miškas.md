@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-643272ee62c62d4987e1ce37"
+canonical_name: "Juodikis miškas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Juodikis miškas"]
+sameAs: []
+canonical_biography: "Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, kurie nepastebėti užėjo besirengiantiems apėjimui bolševikams į užnugarį ir netikėtai juos apmėtę granatomis bei apšaudę privertė iš Eigulių kaimo skubiai trauktis į Juodikio mišką."
+place_authority: true
+historical_names: []
 ---
 # Juodikis miškas
 
@@ -50,7 +59,8 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
 - id: c-45116
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 174."
   citata_originali: |
     Perpratęs rusų
     sumanymą J. Šarauskas į Paobelių kaimą

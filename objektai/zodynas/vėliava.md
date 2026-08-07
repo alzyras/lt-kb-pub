@@ -117,7 +117,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 97."
   citata_originali: |
     Riteris su savo palydovais sudarydavo tam tikrą
     vienetą, kuris vadinosi „lance“, arba „kopijo“. 25-80 lancų su­
@@ -137,7 +138,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 98."
   citata_originali: |
     Kiekvienas rite­
     ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs
@@ -158,7 +160,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - id: c-44239
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 100."
   citata_originali: |
     Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė
     200 raitelių. Įprasta vėliava - 100-150 raitelių. Husarų vėliavos pa-
@@ -174,7 +177,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - id: c-44240
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 125."
   citata_originali: |
     Vėliavai vadovaudavo
     kapitonas. Dragūnų vėliavą sudarė 100-150 žmonių.
@@ -194,7 +198,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 98."
   citata_originali: |
     Riteriai kovose, bendrai, būdavo mažai varžomi,
     kiekvienas rūpindavosi savimi ir savo garbe. Kiekvienas rite­

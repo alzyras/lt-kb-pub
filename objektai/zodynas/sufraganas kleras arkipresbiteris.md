@@ -66,7 +66,8 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 - id: c-82529
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 300."
   citata_originali: |
     Apie tai sužinojęs Vilniaus vysku­
     pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­
@@ -89,7 +90,8 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 - id: c-82530
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 301."
   citata_originali: |
     Dar nupirko du sklypus
     priešais savo rūmus ir patvirtino nemažas fundacijas toles­

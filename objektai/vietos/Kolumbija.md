@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3517dee3c2f9f19e5abadb11"
+canonical_name: "Kolumbija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kolumbija"]
+sameAs: []
+canonical_biography: "Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portugalijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais iš to einančiais padariniais."
+place_authority: true
+historical_names: []
 ---
 # Kolumbija
 
@@ -61,7 +70,8 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 - id: c-24198
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225."
   citata_originali: |
     1944 m. sausį A. Smetona žuvo Klivlande per gaisrą. Tad
     lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi

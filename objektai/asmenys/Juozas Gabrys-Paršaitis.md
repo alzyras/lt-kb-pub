@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-163ce5aa6260553766004ad2"
+canonical_name: "Juozas Gabrys-Paršaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozas Gabrys-Paršaitis"]
+sameAs: []
+canonical_biography: "JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą (vedėjas Juozas Gabrys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose kėlė Lietuvos nepriklausomybės reikalą."
 ---
 # Juozas Gabrys-Paršaitis
 
@@ -41,7 +48,8 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
 - id: c-21773
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-
     nijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-

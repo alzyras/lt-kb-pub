@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fd3767bbe8c68cc22d1586b6"
+canonical_name: "VI. Kulbokas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["VI. Kulbokas"]
+sameAs: []
+canonical_biography: "Kulbokas, Lietuvių literatūrinė kritika tremtyje, spaus­ dinama."
 ---
 # VI. Kulbokas
 
@@ -50,7 +57,8 @@ Kulbokas, Lietuvių literatūrinė kritika tremtyje, spaus­ dinama.
 - id: c-94024
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 419"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 419."
   citata_originali: |
     20 dol.
     VI. Kulbokas, Lietuvių literatūrinė kritika tremtyje, spaus­

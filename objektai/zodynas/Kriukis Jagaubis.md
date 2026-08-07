@@ -74,7 +74,8 @@ Narbutas Kriukį (Krugį) apibūdina kaip kalvių dievą ar Vulkano liekaną ir 
 - id: c-172115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 107."
   citata_originali: |
     Pokliaus ženklas buvo trys kaukolės: žmogaus, jaučio ir
     arklio.

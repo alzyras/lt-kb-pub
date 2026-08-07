@@ -46,9 +46,9 @@ Tas visas dovenas ir liecybas patvirtino dar Kristijonui pats popiežius.
 ## Citatos
 
 - id: c-184560
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 248"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 248."
   citata_originali: |
     Plocko
     perleido jam tenai dešimtines, sau renkamas. Tas

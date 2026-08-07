@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7eb67346bba2146de77882e1"
+canonical_name: "Višniovecas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Višniovecas"]
+sameAs: []
+canonical_biography: "Dimitras įkūrė Zbaražo ir Višnioveco miestus, nuo kurių vardą gavo jo palikuonys Zbaražskiai ir Višnioveckiai."
+place_authority: true
+historical_names: []
 ---
 # Višniovecas
 
@@ -54,7 +63,8 @@ Dimitras įkūrė Zbaražo ir Višnioveco miestus, nuo kurių vardą gavo jo pal
 - id: c-168681
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 341."
   citata_originali: |
     Pasitenkinęs
     šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.

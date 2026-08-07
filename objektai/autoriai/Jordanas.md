@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e123c4b5c1ae6c9094817ad1"
+canonical_name: "Jordanas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jordanas"]
+sameAs: []
+canonical_biography: "275, 276 Jordanas, rašytojas 104 Josvainiai 332 Jotvinga, Jotvingija 117, 125, 137, 204, 210, 225 Jučas M."
 ---
 # Jordanas
 
@@ -111,15 +118,22 @@ media_all_json: |-
 <a id="claim-t-190739"></a>
 - t-005
   teiginys: "Narbutas vaizduoja Jordaną kaip labiau žavėjusįsi ostgotų žygdarbiais negu aprašiusį gotus, likusius kairiajame Vyslos krante."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jordanas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jordanas\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173624
+    - c-173621
 
 <a id="claim-t-190740"></a>
 - t-006
@@ -144,15 +158,22 @@ media_all_json: |-
 <a id="claim-t-190741"></a>
 - t-007
   teiginys: "Narbutas Jordano požiūrį pasitelkė kartu su Tacitu ir Naruševičiumi, svarstydamas venedams priklausiusių genčių klausimą."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Venedai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jordanas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Venedai: mention_match, group, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jordanas\" parinktas kaip owner_note_path. Targetas \"Venedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173625
+    - c-173623
 
 <a id="claim-t-190742"></a>
 - t-008
@@ -267,7 +288,8 @@ media_all_json: |-
 - id: c-63352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 287."
   citata_originali: |
     Krikštytojas, šv.
 
@@ -301,7 +323,8 @@ media_all_json: |-
 - id: c-173618
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 63."
   citata_originali: |
     Kažkokia alanų da­
     lis persikėlė į Europos pietvakarius: vieni iš jų įsikūrė
@@ -327,7 +350,8 @@ media_all_json: |-
 - id: c-173619
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 84."
   citata_originali: |
     Atvykusių iš Skandinavijos gotų galia toly­
     džio vis didėjo, iš gimtosios žemės kėlėsi vis nauji gy­
@@ -352,7 +376,8 @@ media_all_json: |-
 - id: c-173620
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
   citata_originali: |
     Apie šią tautą senovės ty­
     rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
@@ -375,7 +400,8 @@ media_all_json: |-
 - id: c-173621
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 86."
   citata_originali: |
     Taigi pakeliui nuo Vyslos iki Dnepro jie turėjo kažkur
     žiemoti; sprendžiant iš lėto ėjimo, jie turėjo keltis per Ne­
@@ -391,14 +417,17 @@ media_all_json: |-
   citata_rodoma: "Taigi pakeliui nuo Vyslos iki Dnepro jie turėjo kažkur\nžiemoti; sprendžiant iš lėto ėjimo, jie turėjo keltis per Ne­\nmuną tarp Gardino ir Belicos ir užkliudyti kraštus, kur\nbuvo pietinė Lietuvos dalis.\n73\nJordanas, kurio daugelį smulkmenų apie gotus pa­\nnaudojome, taip žavisi savo į Rytus iškeliavusių kraštie­\nčių, pavadintų ostgotais, žygdarbiais, kad beveik visai\npamiršta pusę genties, kuri liko kairiojoje Vyslos pakran­\ntėje. Tačiau mes norime skaityti ne tokias pagyras, bet\nlabiau mus dominančius dalykus."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-173622
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
   citata_originali: |
     Apie estus nėra žinių nuo Tacito
     laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
@@ -422,7 +451,8 @@ media_all_json: |-
 - id: c-173623
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 99."
   citata_originali: |
     Kaip slavai atsirado ‘šiose lygumose arba kaip
     ir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.
@@ -439,14 +469,17 @@ media_all_json: |-
   citata_rodoma: "Kaip slavai atsirado ‘šiose lygumose arba kaip\nir iš kur ten pateko, — nėra mūsų veikalo tyrimų tikslas.\nPasakysime tiktai tiek, kad venedams priklausė ne viena\ngentis, labai dominanti mūsų veikalą, o panagrinėję pa­\nties Tacito ištrauką2, Jordano3 ir Naruševičiaus4 požiūrį,\ndar labiau sustiprinsime šią nuomonę. Galėjo būti, kad\nvenedų slavams ikikrikščioniškosios eros amžiais ar kiek\nvėliau priklausė kuri nors Baltijos jūros pakrantė tarp\nVyslos ir Dauguvos žiočių, iš kur jie buvo išstumti iš\nrytų slenkančių genčių; jų pėdsakas išliko Vindavos upės\npavadinime; be to, Vinidų, Vinidarių pavardę dera lai­\nkyti lietuviškos kilmės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-173624
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 253."
   citata_originali: |
     Pirmiausia šią žinią randame Jordano
     darbuose1, kai šis autorius pasakoja apie karaliaus Fili­
@@ -466,14 +499,14 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
     - t-008
     - t-012
 
 - id: c-173625
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 253."
   citata_originali: |
     Pagaliau ir ¡pats Naruševičius, žinojęs
     tuos pačius ir, ko gero, dar ir kitus mums nežinomus įro­
@@ -493,13 +526,13 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
     - t-009
 
 - id: c-173626
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 275."
   citata_originali: |
     Pirmoji gyvenvietė pagal skirius buvo pavadinta Ski­
     reikomis, o antroji pagal hirius — Hirkomis (Jornand. Goths. C. 3).
@@ -517,7 +550,8 @@ media_all_json: |-
 - id: c-173627
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
   citata_originali: |
     281
     Latvijos dalys. Agazirai, Agazziry. Senovės tyrinėto­
@@ -536,7 +570,8 @@ media_all_json: |-
 - id: c-179262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 406"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 406."
   citata_originali: |
     Svarbiausias jo veikalas — sutrum­
     pintas neišlikusios romėno Kasiodoro 12 to­

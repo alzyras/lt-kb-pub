@@ -60,7 +60,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 <a id="claim-t-181336"></a>
 - t-002
   teiginys: "Įsileidusi sovietų bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -122,7 +122,8 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 - id: c-22778
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 143."
   citata_originali: |
     Tik
     Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai „sukilimą“ at-
@@ -142,7 +143,8 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 - id: c-164890
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 186."
   citata_originali: |
     1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors di-
     džiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.
@@ -156,7 +158,8 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 - id: c-164892
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     Memoran-
     dumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį
@@ -182,7 +185,8 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 - id: c-176243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 146."
   citata_originali: |
     Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karinę
     ir ekonominę konvencijas. Abi šalys sutarė priimti tą planą kaip „bazę

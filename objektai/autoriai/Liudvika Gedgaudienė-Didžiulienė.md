@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c07d748424407630bc8f9090"
+canonical_name: "Liudvika Gedgaudienė-Didžiulienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Liudvika Gedgaudienė-Didžiulienė","Liudvikos Gedgaudienės-Didžiulienės užrašų"]
+sameAs: []
+canonical_biography: "Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir prisiminimų autorė. Jos užrašuose pateikiamas 1863 m. sukilimo laikų Salų miestelio ir sukilėlių pajėgų vaizdas."
 ---
 # Liudvika Gedgaudienė-Didžiulienė
 
@@ -52,18 +59,19 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
 <a id="claim-t-64707"></a>
 - t-002
   teiginys: "Liudvika Gedgaudienė-Didžiulienė užrašuose mini į Salas atėjusius tris didelius Lietuvos kariuomenės pulkus."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-42434
+    - c-11415
 
 ## Citatos
 
 - id: c-11414
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     „Štai vieną dieną bažnyčioje visais varpais skambina. Pulkai žmonių eina į Salas. Nuėjo
     ir mūsų tėveliai ir visa šeimyna; tiktai mes vaikai su bobute namie belikome. Kaip gaila!
@@ -77,7 +85,8 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
 - id: c-11415
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Buvusi ten atėjusi Lietuvos kariuomenė, trys didžiausi pulkai. Vienas pulkas, Dolegos
     vedamas, antras kunigo Mackevičiaus, trečias kunigo Pežos-Palionio. Pirmajame visi
@@ -92,14 +101,17 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
     lius Lietuvius!“
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-42434
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Z. Sierakausko nurodymu jie
 
@@ -117,4 +129,3 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-70cf2443475e39308fa71e66"
+canonical_name: "Ptolemajas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ptolemajas"]
+sameAs: []
+canonical_biography: "Jau Ptolemajas II a."
 ---
 # Ptolemajas
 
@@ -50,7 +57,8 @@ Jau Ptolemajas II a.
 - id: c-20625
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 26."
   citata_originali: |
     I mūsų eros tūkstantmetis – baltų diferenciacijos laikas. Jau Ptolema-
     jas II a. žinojo prūsų gentį galindus ir jotvingius arba sūduvius. Anks-

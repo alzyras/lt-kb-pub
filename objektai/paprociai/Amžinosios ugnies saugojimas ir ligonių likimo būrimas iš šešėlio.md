@@ -72,7 +72,7 @@ Nenurodyta
 <a id="claim-t-194620"></a>
 - t-002
   teiginys: "Jie staty davo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo kūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai tą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo įstrižai arba atrodydavo esąs šiek tiek nukrypęs į."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,14 +80,15 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171006
+    - c-177019
 
 ## Citatos
 
 - id: c-171006
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
   citata_originali: |
     Vėliau
     jis aptikęs, kad žmonės garbinę ugnį ir vadinę ją Amžinąja.
@@ -107,12 +108,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-177019
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
   citata_originali: |
     Jono Krikštytojo
     šventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-
@@ -133,7 +134,8 @@ Nenurodyta
   citata_rodoma: "Jono Krikštytojo\nšventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-\n344\n\n## Puslapis 344\n\nrijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­\nromantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­\nje pusėje, praktikuodavo dar kitą piromantijos rūšį. Jie staty­\ndavo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo\nkūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai\ntą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo\nįstrižai arba atrodydavo esąs šiek tiek nukrypęs į šoną, daryta\nišvada, kad liga neišgydoma. Matėme aukojimų aprašyme, kad\naukų paplotėliai buvo kepami mėtant juos per ugnį -  tai buvo\napvalytoji duona, vadinamieji sikies nuplaudimies."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

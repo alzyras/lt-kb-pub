@@ -46,9 +46,9 @@ Vi sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių vyrai, urėdai, arba
 ## Citatos
 
 - id: c-184573
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 553"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 553."
   citata_originali: |
     Atėjus svodbai, kas gal tą iškilmę aprašyti, su
     kuria Aldona, didžioji kunigaikštaitė Lietuvos, ap­

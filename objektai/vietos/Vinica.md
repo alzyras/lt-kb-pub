@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e7d1c4564f46f11f6bb72596"
+canonical_name: "Vinica"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vinica"]
+sameAs: []
+canonical_biography: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­ me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­."
+place_authority: true
+historical_names: []
 ---
 # Vinica
 
@@ -71,7 +80,8 @@ media_all_json: |-
 - id: c-168680
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 340."
   citata_originali: |
     Niekas taip
     D im itru i a tid u o d a  tė-
@@ -100,7 +110,8 @@ media_all_json: |-
 - id: c-176870
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 330-331"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 330-331."
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau
     žaibus,

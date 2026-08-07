@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-838b180600d4e94a8804cecd"
+canonical_name: "Antuanas Mejė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antuanas Mejė"]
+sameAs: []
+canonical_biography: "Žymus prancūzų kalbininkas Antuanas Mejė (Antoine Meillet, 1866–1936) yra sakęs: „Tas, kuris nori žinoti, kaip kalbėjo mūsų proseneliai, turi atvažiuoti pasiklausyti, kaip kalba lietuvis valstietis.“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai, mūsų."
 ---
 # Antuanas Mejė
 
@@ -50,7 +57,8 @@ media_all_json: |-
 - id: c-25408
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 22."
   citata_originali: |
     Lietuvių kalba geriausiai iš
     visų gyvųjų indoeuropiečių kalbų išlaikė senąjį garsyną ir daugelį morfolo-

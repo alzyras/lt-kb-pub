@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb150f510a2d741ab9d1d3d5"
+canonical_name: "Juvava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Juvava"]
+sameAs: []
+canonical_biography: "477 m. herulai sudegino romėnų koloniją Juvavą prie Saurus upės, kurią Narbutas tapatina su Zalcburgu prie Zalcacho."
+place_authority: true
+historical_names: []
 ---
 # Juvava
 
@@ -57,7 +66,8 @@ media_all_json: |-
 - id: c-175646
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 318."
   citata_originali: |
     Beveik tuo pat metu Norike kilo kažkokie neramumai,
     kurie ir atviliojo ten herulus. 477 metais jie sudegino gar­

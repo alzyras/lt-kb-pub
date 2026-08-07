@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bca109d6af2bc50f8bd39f10"
+canonical_name: "P. Bermontas-Avalovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["P. Bermontas-Avalovas"]
+sameAs: []
+canonical_biography: "Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos imperiją, pajėgos, suformuotos iš vokiečių nelaisvėje nuo Pirmojo pasaulinio karo likusių rusų karių ir vokiečių savanorių 1919 m., ėmė telktis Latvijoje, Mintaujoje. Bermontininkams, oficialiai pasivadinusiems Rusijos vakarų armija, vadovavo vokiečių remiamas buvęs carinės Rusijos kariuomenės plk. Bermontas ir jo šalininkai buvo atviri Baltijos šalių valstybingumo priešai ir net neketino su jų vyriausybėmis derėtis jokiais klausimais."
 ---
 # P. Bermontas-Avalovas
 
@@ -78,7 +85,8 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
 - id: c-42176
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 192."
   citata_originali: |
     Imai Provokiško Rusijos monarchisto P. Bermonto-Ava-
     lovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos
@@ -101,7 +109,8 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
 - id: c-44482
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 194."
   citata_originali: |
     Šių dalinių vadovybė nepripa-
     žino Baltijos valstybių nepriklausomybės,

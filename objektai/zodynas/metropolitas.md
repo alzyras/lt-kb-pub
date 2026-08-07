@@ -68,33 +68,22 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 
 ## Teiginiai
 
-<a id="claim-t-05451"></a>
-- t-001
-  teiginys: "Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui."
-  atnaujinta: "2026-07-12 23:05"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Teofilis (arkivyskupas)|Teofilis (arkivyskupas)]]; mentioned_place: Kijevas; mentioned_place: Maskva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-183710
-
 <a id="claim-t-05452"></a>
-- t-002
+- t-001
   teiginys: "Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Reikia patikslinti daugiskaitinį subjektą ir padaryti sakinį sklandesnį."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Smolenskas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-183709
-    - c-183711
-    - c-183714
 
 <a id="claim-t-05453"></a>
-- t-003
+- t-002
   teiginys: "1354 m. Konstantinopolio patriarchas paskyrė Lietuvos žemių metropolitą Romaną."
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Konstantinopolis; mentioned_place: Lietuva"
@@ -102,36 +91,27 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-183707
 
-<a id="claim-t-05454"></a>
-- t-004
-  teiginys: "Lietuvos stačiatikių žemės vėl buvo pajungtos visos Rusijos metropolitui."
-  atnaujinta: "2026-07-19 16:46"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-183711
-    - c-183714
-
 <a id="claim-t-05455"></a>
-- t-005
+- t-003
   teiginys: "1375 m. Lietuvos stačiatikių metropolitu buvo paskirtas Kiprijonas."
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kijevas; mentioned_place: Lietuva"
   temporaliniai_duomenys: "įvykio data: 1375 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-183708
 
 <a id="claim-t-184630"></a>
-- t-006
+- t-004
   teiginys: "Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -144,14 +124,14 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=66"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"metropolitas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-167991
 
 <a id="claim-t-187523"></a>
-- t-007
+- t-005
   teiginys: "Lietuvos metraščio pastaboje Gerasimas 1432 m. Švitrigailos pasiūlymu Konstantinopolyje įšventintas LDK, Maskvos ir kitų rusų žemių metropolitu."
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -168,14 +148,34 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   temporaliniai_duomenys: "įvykio data: 1432 m.; įvykio data: 1435 m.; įvykio data: apie 1435 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Metropolito titulas ir politinis kontekstas palikti su šaltinio pastabos atribucija. Nepridėta biografinių detalių apie ankstesnes Gerasimo pareigas."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-183712
 
-<a id="claim-t-200395"></a>
+<a id="claim-t-203055"></a>
+- t-006
+  teiginys: "Lietuvos stačiatikių metropolija vėl buvo pajungta maskviniam „visos Rusijos metropolitui“."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-183711
+
+<a id="claim-t-203084"></a>
+- t-007
+  teiginys: "Zenono Ivinskio teigimu, Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Teofilis (arkivyskupas)|Teofilis (arkivyskupas)]]; mentioned_place: Kijevas; mentioned_place: Maskva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-183710
+
+<a id="claim-t-203105"></a>
 - t-008
-  teiginys: "Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo."
-  atnaujinta: "2026-07-12 23:05"
+  teiginys: "Zenono Ivinskio teigimu, Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiško nusistatymo."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas faktinis sakinys."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Teofilis (arkivyskupas)|Teofilis (arkivyskupas)]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Maskva"
@@ -277,12 +277,13 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-004
 
 - id: c-183707
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 271."
   citata_originali: |
     1354 m. Konstan-
     tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau-
@@ -294,12 +295,13 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-002
 
 - id: c-183708
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 271."
   citata_originali: |
     Patriarchas Lietuvos stačiatikių metro-
     politu 1375 paskyrė vienuolį Kiprijoną († 1381), kuris pastoviai
@@ -312,12 +314,13 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-003
 
 - id: c-183709
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 270."
   citata_originali: |
     Kiekvienas iš veiklių varžovų, norėdamas nurungti
     konkurentą, stengėsi išplėsti savo įtaką Pskove, Didž. Naugarde,
@@ -332,12 +335,13 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-183710
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 250."
   citata_originali: |
     žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
     naujas įpėdinis. Lietuvos metropolijos Gediminui nepasisekė išlai­
@@ -345,18 +349,19 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     metropolito Teognosto. Šio intrygų ir sudarytų kliūčių siūlai vedė
     į Maskvą.
   statusas: verified
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-007
     - t-008
 
 - id: c-183711
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 271."
   citata_originali: |
     Lietuvos stačiatikių metropolija nebebuvo
     atnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-
@@ -364,13 +369,12 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     Filotėją įtikinti Lietuvos ortodoksų labui.
   citata_rodoma: "Lietuvos stačiatikių metropolija nebebuvo\natnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-\ngelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą\nFilotėją įtikinti Lietuvos ortodoksų labui."
   statusas: verified
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
-    - t-004
+    - t-006
 
 - id: c-183712
   autorius: "Anoniminis metraštininkas"
@@ -390,12 +394,13 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-005
 
 - id: c-183714
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 271."
   citata_originali: |
     Lietuvos stačiatikių metropolija nebebuvo
     atnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-
@@ -404,9 +409,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   citata_rodoma: "Lietuvos stačiatikių metropolija nebebuvo\natnaujinta, bet vėl tapo pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau-\ngelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą\nFilotėją įtikinti Lietuvos ortodoksų labui."
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-004

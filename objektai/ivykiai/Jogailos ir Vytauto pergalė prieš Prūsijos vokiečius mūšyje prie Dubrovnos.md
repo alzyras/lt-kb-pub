@@ -178,7 +178,8 @@ Nenurodyta
 - id: c-176491
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 106."
   citata_originali: |
     Karalius Jogaila ir didysis kunigaikštis Vytautas, su
     savo kariuomenėmis perėję per miškus, priėjo tuos
@@ -200,7 +201,8 @@ Nenurodyta
 - id: c-178907
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 105-106"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 105-106."
   citata_originali: |
     O likusioji lenkų kariuomenė jiems nieko
     nepadėjo, tik į tai žiūrėjo l0.

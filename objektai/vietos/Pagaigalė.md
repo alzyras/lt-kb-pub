@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d941638f7d98e86653358a5"
+canonical_name: "Pagaigalė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pagaigalė"]
+sameAs: []
+canonical_biography: "PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai \"Maironio X, Už: é (ius ra VYTAUTO APYGARDA rinktiné N = MOS» Pabradė Aavovers 1 PAGAIGALĖS KAUTYNĖS Lu ka | š sii apygarda A ŠA 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo = AR 3 Kada UN Paberdė."
+place_authority: true
+historical_names: []
 ---
 # Pagaigalė
 
@@ -61,7 +70,8 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
 - id: c-45250
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 241."
   citata_originali: |
     PASTOVIAIO)
 

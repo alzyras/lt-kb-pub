@@ -54,7 +54,8 @@ Narbutas Saitininkus (Sejtones) apibūdino kaip pranašautojus gydytojus, ligas 
 - id: c-172419
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 300."
   citata_originali: |
     Štai jų vertimas: „Einu aplink more, ¡no­
     re užkemšu, more užsikimšk, kraujau, sukepk!“

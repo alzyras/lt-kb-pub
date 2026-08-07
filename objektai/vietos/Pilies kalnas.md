@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4cd66b4ba7be9478d9895c10"
+canonical_name: "Pilies kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pilies kalnas"]
+sameAs: []
+canonical_biography: "Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominikonams, prie Vilniaus pilies pastatydino jiems vienuolynus ir bažnyčias, o kad krašte plistų amatai, leido naujai įkurtame mieste apsigyventi gausiems atėjū­ nams iš Vokietijos ir."
+place_authority: true
+historical_names: []
 ---
 # Pilies kalnas
 
@@ -91,7 +100,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 - id: c-177507
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 181."
   citata_originali: |
     Mano Petras negalėjo išsiteirauti apie Švitri­
     gailos pasišalinimo priežastį: tepasakė man, kad Švitrigaila
@@ -114,7 +124,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 - id: c-177508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 181."
   citata_originali: |
     - Patsai būtų lygiai taip pat
     žuvęs, jeigu nebūtų buvę po dienos pastebėta. Bet tik kalną
@@ -133,7 +144,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 - id: c-177509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156."
   citata_originali: |
     Kitais metais jis buvo išvaduotas dviejų jam palan­
     kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
@@ -153,7 +165,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 - id: c-177510
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 178."
   citata_originali: |
     (Plg. Ind. cod. kist. dipt. Livoniae)
     TI, p. 132, N 518.

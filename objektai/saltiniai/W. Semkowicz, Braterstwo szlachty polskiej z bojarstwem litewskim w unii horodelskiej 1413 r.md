@@ -50,7 +50,8 @@ Semkowicz, W.
 - id: c-33752
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 377."
   citata_originali: |
     — Semkowicz, W. : _Braterstwo szlachty polskiej z bojarstwem
     litewskim w unii horodelskiej 1413 r_ ., rink. : PiL. — (”) _O litewskich rodach

@@ -51,7 +51,8 @@ Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generalini
 - id: c-71019
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 283."
   citata_originali: |
     Tie posėdžiai būdavo
     vadinami „provincijų sesijomis" (sesijomis tada va-

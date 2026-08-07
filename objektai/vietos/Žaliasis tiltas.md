@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8cbb9f9870721b8f90ea831b"
+canonical_name: "Žaliasis tiltas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žaliasis tiltas"]
+sameAs: []
+canonical_biography: "Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero Sapiegos, sumaniai vadovaujamos artilerijos baterijos, sėkmingai atsitraukė per Žaliąjį tiltą."
+place_authority: true
+historical_names: []
 ---
 # Žaliasis tiltas
 
@@ -50,7 +59,8 @@ Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero S
 - id: c-45478
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 154."
   citata_originali: |
     Visas miestas buvo intensyviai apšaudo-
     mas stambaus kalibro rusų artilerijos.

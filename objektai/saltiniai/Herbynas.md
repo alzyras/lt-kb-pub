@@ -53,7 +53,8 @@ Simonas Daukantas atsiuntė Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną�
 - id: c-173415
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
   citata_originali: |
     Pradžia jau buvo padaryta:
     išleista „Bychovco kronika“, S. Daukantas atsiuntė Alberto Vi-

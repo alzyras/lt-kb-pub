@@ -56,7 +56,8 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
 - id: c-72128
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 373."
   citata_originali: |
     Prancūzijos kan-
     didato partija tuojau pradėjo ruoštis jį pašalinti. Jo parama

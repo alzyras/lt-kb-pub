@@ -52,7 +52,8 @@ Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta varto
 - id: c-59566
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
   citata_originali: |
     Apie pirmąją Teutonų namų ordino brolių pilį, kurią vadino Fogelzangu
     Aptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226).

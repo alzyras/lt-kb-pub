@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e5de74363223ebce3c5d477d"
+canonical_name: "fon Gasas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["fon Gasas"]
+sameAs: []
+canonical_biography: "Vilniaus karo apygardos Karo veiksmų juos miegančius gegužės 10 naktį apsupo ir paėmė į nelaisvę paporučikio fon Gaso dalinys. Į nelaisvę pakliuvo Z. Sierakauskas, B. Kolyška, S. Kozakauskas ir dar keletas karininkų."
 ---
 # fon Gasas
 
@@ -51,7 +58,8 @@ Vilniaus karo apygardos Karo veiksmų juos miegančius gegužės 10 naktį apsup
 - id: c-44588
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 164."
   citata_originali: |
     Oficialiai pa-
     teikiami Rusijos kariuomenės nuos-

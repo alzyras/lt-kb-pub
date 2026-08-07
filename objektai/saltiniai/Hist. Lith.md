@@ -41,9 +41,9 @@ Iš visų jo pilių viena pati apsvilusi Plocko jo valdžioj 1 K o i a l o w i c
 ## Citatos
 
 - id: c-184800
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 248"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 248."
   citata_originali: |
     Iš
     visų jo pilių viena pati apsvilusi Plocko jo valdžioj

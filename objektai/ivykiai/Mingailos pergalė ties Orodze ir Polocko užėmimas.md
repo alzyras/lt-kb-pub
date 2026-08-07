@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184643
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 231"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 231."
   citata_originali: |
     Susirėmęs tenai Mingaila su po.-
     lockionimis pergalėjo juos ir vijo mušdamas visą

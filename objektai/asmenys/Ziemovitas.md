@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d531fc2bc49736d536fa8471"
+canonical_name: "Ziemovitas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ziemovitas"]
+sameAs: []
+canonical_biography: "Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurtu užgrobti nuotaką."
 ---
 # Ziemovitas
 
@@ -195,7 +202,8 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 164."
   citata_originali: |
     Nors ji ir buvo sužieduota dar kūdikystėj (4 metų) su
     Austrijos kun. Vilhelmu, bet mažlenkiams ši kandidatūra, kaipo
@@ -225,7 +233,8 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 220."
   citata_originali: |
     Bet buvo ir tokių reikalų, kur Vytautas pasireikšdavo ne
     vien patarėju, bet ir teisėju. Kartą buvo kilęs ginčas tarp Vloc­
@@ -245,7 +254,8 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
 - id: c-89060
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 86."
   citata_originali: |
     Spinta XI, Nr. 19 ir ten pat LIV, Nr.
     3 yra paminėję. Viename dokumen­
@@ -270,7 +280,8 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
 - id: c-173884
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
   citata_originali: |
     G*
     131
@@ -293,7 +304,8 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
 - id: c-173885
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
   citata_originali: |
     Kunigaikštis Danielius
     išžygiavo su Boleslovo būrio lenkais ir gerokai atsitraukė.
@@ -317,7 +329,8 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
 - id: c-173886
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Pastaruosius jotvingiai smarkiai puo­
     lė ir atėmė vado vėliavą. Kai šis rezervas atvyko į Vasil-

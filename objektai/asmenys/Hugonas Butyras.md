@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-81765c8aa0202e79cbb6949e"
+canonical_name: "Hugonas Butyras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hugonas Butyras"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai. Dusburgietis teigia, kad 178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv."
 ---
 # Hugonas Butyras
 
@@ -92,7 +99,8 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
 - id: c-60777
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
   citata_originali: |
     178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
     a. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir
@@ -109,7 +117,8 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
 - id: c-60778
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
   citata_originali: |
     Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
     Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra

@@ -64,15 +64,22 @@ Nenurodyta
 <a id="claim-t-189608"></a>
 - t-002
   teiginys: "Narbutas rašo, kad Vladislovo Jogailos ir jo brolių rūpesčiu Bažnyčia Lietuvoje priėmė 5 635 500 atverstų stabmeldžių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos pašaukimas priimti katalikų tikėjimą 1387 m: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos pašaukimas priimti katalikų tikėjimą 1387 m\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172490
+    - c-172491
 
 <a id="claim-t-197233"></a>
 - t-003
@@ -132,7 +139,8 @@ Nenurodyta
 - id: c-172490
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 395."
   citata_originali: |
     Todėl blogai daro kunigai, ku­
     rie krikštija antrą kartą kad ir iškerojusios Lietuvoje manichė-
@@ -153,13 +161,13 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
     - t-003
 
 - id: c-172491
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 395."
   citata_originali: |
     Pasakiau „stebuklingu būdu“, kadangi apaš­
     tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
@@ -176,14 +184,17 @@ Nenurodyta
   citata_rodoma: "Pasakiau „stebuklingu būdu“, kadangi apaš­\ntališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­\nkinių triūsas ir kraujas, beveik du šimtus metų trukę vokiečių\nriterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus\npatrauklumas. Lenkijos karalienės Jadvygos ranka, paduota\nVladislovui, sugebėjo tai įgyvendinti per vieną dieną. Auto­\nrius sumini karaliaus Vladislovo Jogailos pagyrimus, išvardija\njo brolius, kalba apie triumfuojančią Lietuvoje Kristaus baž­\nnyčią, giria apaštališkuosius karalius ir jo brolių darbus, prie\ndidžiausių privalumų priskiria jų nuolankumą bažnyčiai, kuri\njų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­\ndžių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-179077
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 395."
   citata_originali: |
     Autorius dėsto
     ir daugiau panašių esminių pamokymų, svarbių tam amžiui.

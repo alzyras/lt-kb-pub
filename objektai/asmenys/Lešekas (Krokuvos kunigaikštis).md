@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-34267da73bc26cdf8ebf12d3"
+canonical_name: "Lešekas (Krokuvos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lešekas (Krokuvos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krokuvos kunigaikštis491, subūręs daugybę tūkstančių vyrų, užkopė į vieną kalvą ir pasakė: „Kas nejaučia baimės, tegu tas kopia pas mane, idant šiandien galėtume atkeršyti už nukryžiuotojo kančias”. Dusburgietis teigia, kad lešekas (Krokuvos kunigaikštis) nelyginant Gedeonas iš daugybės karių tepasiėmė 300 vyrų, su kuriais stojo į kovą ir drąsiai puolė priešus, pasikliaudamas gailestingumu dievo, kuris neapleidžia nė vieno žmogaus, juo įtikėjusio; pirmiausia išvadavęs nelaisvėn paimtuosius krikščionis, smogė tikėjimo priešams tokį smūgį, kad iš aštuonių šimtų vyrų vos dešimčiai pavyko pasprukti."
 ---
 # Lešekas (Krokuvos kunigaikštis)
 
@@ -46,7 +53,8 @@ Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krok
 - id: c-167491
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį
 
@@ -70,7 +78,8 @@ Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krok
 - id: c-179034
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Sūduviai dėl to labai džiaugėsi,
     tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus

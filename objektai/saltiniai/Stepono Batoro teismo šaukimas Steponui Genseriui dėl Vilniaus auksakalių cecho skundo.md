@@ -65,7 +65,8 @@ media_all_json: |-
 - id: c-84317
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 452-453"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 452-453."
   citata_originali: |
     Nos cum Consiliariis nostris, lateri nostro tunc assi­
     dentibus, audita beneque examinata partium controversia,
@@ -97,7 +98,8 @@ media_all_json: |-
 - id: c-84318
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 451"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 451."
   citata_originali: |
     Transilvanijos kunigaikštis. Šiuo raštu skel­
     biame visiems ir kiekvienam, kam dera žinoti, kad pas mus

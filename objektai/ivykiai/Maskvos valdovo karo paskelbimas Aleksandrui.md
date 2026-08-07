@@ -108,7 +108,8 @@ Nenurodyta
 - id: c-169110
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 556"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 556."
   citata_originali: |
     Po to Lietuvos Didžiosios Kunigaikštystės
     vardu sudarė taiką su Steponu, Valachijos valdovu,

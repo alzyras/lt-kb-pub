@@ -41,6 +41,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fcdab35783261bc32a8e7bbd"
+canonical_name: "Torunė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Torunė"]
+sameAs: []
+canonical_biography: "Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos krante, persikėlė per upę į Kulmo žemę ir pastatė Torunės pilį, prasidėjo sisteminga agresija prieš prūsus."
+place_authority: true
+historical_names: []
 ---
 # Torunė
 
@@ -235,7 +244,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 <a id="claim-t-175444"></a>
 - t-012
   teiginys: "Vienas Krokuvos kilmingasis į Torunės pilį pasiuntė tris laivus su maistu ir gėrimais, 300 jaučių bei karvių ir daug kinkomų gyvulių."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Laivai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -246,7 +255,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torunė\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-159571
     - c-159575
 
 <a id="claim-t-175445"></a>
@@ -417,7 +425,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - id: c-159558
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 22."
   citata_originali: |
     Teutonų
     ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
@@ -442,7 +451,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - id: c-159559
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 97."
   citata_originali: |
     Tuo tarpu stalininkas Druzigeris,
     su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad
@@ -461,7 +471,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - id: c-159560
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Kaip rodo archeologiniai tyrimai, dab. Torunės pilies vietoje dar 1000—500 m. pr. m.
     e. buvo lužitėnų kultūros gyvenvietė, vėliau — atvira gyvenvietė (VIII—X a.) bei pilaitė
@@ -478,7 +489,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - id: c-159561
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
   citata_originali: |
     Po to priėjo Torunę ir sudegino
     ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę
@@ -496,7 +508,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - id: c-159562
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     1236 m. Torunės miestas perkeltas į dab. Torunės vietą (SRP, 3, p. 58). Čia pradėta
     statyti ir nauja pilis, iš pradžių — iš rąstų, žemių ir akmenų, о XIII a. 6—7 dešimtmečiais
@@ -512,7 +525,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - id: c-159565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 347."
   citata_originali: |
     Norime, kad kuo ilgiausiai tas darbas bei
     šis [laiškas] gyvuotų ir būtų nepažeistas. Duota Torunėje,
@@ -529,7 +543,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - id: c-159567
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 23."
   citata_originali: |
     1231 m. Ordino magistras iš lenkų jam
     dovanotų žemių, savo pilių kairiajame
@@ -550,7 +565,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - id: c-159568
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 92."
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­
     dangi Viešpats jūsų ginklą valdo ir narsos didybės suteiks,
@@ -582,7 +598,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - id: c-159569
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Torunės  magistrato  bibliotekos  nuorašas  (XVII  a.)  padarytas  iš  Karaliaučiaus
     bibliotekos  teksto. Nurašyta žmogaus,  gerai mokėjusio viduramžių  lotynų  kalbą,
@@ -599,7 +616,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - id: c-159570
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 347."
   citata_originali: |
     Duota Torunėje,
     Viešpaties metais 1576, gruodžio 20 dieną. Mūsų karaliavi­
@@ -616,7 +634,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - id: c-159571
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
   citata_originali: |
     Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš rašytinių
     šaltinių, bet aprašė ir tuos įvykius, kuriuos pats buvo matęs, „apie kuriuos pasakojo juos
@@ -633,13 +652,13 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
     - t-014
 
 - id: c-159574
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 345."
   citata_originali: |
     Radvila užsistojo juos,
     prašydamas karaliaus šiuos muitus atidėti iki būsimo sei­
@@ -669,7 +688,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - id: c-159575
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95."
   citata_originali: |
     Todėl jis paragino vieną kilmingą Krokuvos vyrą290 stoti  į vienuolyną, ir šis pasiuntė  į
     Torunės pilį tris didelius laivus, pakrautus vyno, midaus, arba medaus vyno, bei kitko,
@@ -688,7 +708,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - id: c-159577
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Kadangi
     klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
@@ -708,9 +729,9 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     - t-011
 
 - id: c-184458
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 318"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 318."
   citata_originali: |
     Visose tose vyskupijose įsakė popiežius per­
     krikštams mokėti kas metą dešimtines vyskupams
@@ -742,9 +763,9 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     - t-017
 
 - id: c-185011
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 373"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 373."
   citata_originali: |
     Savaime suprantama, kad ėmę masiškai statydintis mūrnamius kauniečiai
     sekė matytais pavyzdžiais. Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regi-

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d6b422be399c90966fcb5619"
+canonical_name: "Oktavianas Augustas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Oktavianas Augustas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto amžininku, tik kiek jaunesniu. Narbuto pasakojime Dionyzas iš Charakso imperatoriaus Oktaviano Augusto laikais geografiškai aprašė pasaulį ir minėjo Pantikapo bei Aldeskos upes."
 ---
 # Oktavianas Augustas
 
@@ -52,22 +59,30 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
 <a id="claim-t-191965"></a>
 - t-002
   teiginys: "Narbuto pasakojime Dionyzas iš Charakso imperatoriaus Oktaviano Augusto laikais geografiškai aprašė pasaulį ir minėjo Pantikapo bei Aldeskos upes."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Oktavianas Augustas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Oktavianas Augustas\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-174182
+    - c-174847
 
 ## Citatos
 
 - id: c-174182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
   citata_originali: |
     Taip ir baigėsi tą sykį dvie­
     jų tautų tarpusavio karai3. Iš tiesų chronologai nesutaria
@@ -84,12 +99,12 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-174847
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
   citata_originali: |
     Be šių įrodymų, turime ir seno­
     vės autorių paliktų, ir naujų laikų tyrimais patvirtintų
@@ -103,7 +118,8 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
   citata_rodoma: "Be šių įrodymų, turime ir seno­\nvės autorių paliktų, ir naujų laikų tyrimais patvirtintų\npaminklų. Dionyzas iš Charakso, imperatoriaus Oktaviano\nAugusto laikais aprašinėjęs pasaulį geografiškai, mini dvi\nupes: Pantikapą ir Aldeską; jos, susiliedamos į vieną,\njungiasi su jūra, kurios pakrantėse yra gintaro. Tai, be\nabejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­\ntojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­\nnės sutampa."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -102,7 +102,8 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - id: c-91416
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 125."
   citata_originali: |
     Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
     _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
@@ -125,7 +126,8 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - id: c-91417
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 125."
   citata_originali: |
     XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,
     kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
@@ -148,7 +150,8 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - id: c-91418
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 35."
   citata_originali: |
     Aisčiams jie visiškai ne giminės;
     kartu su estais ir suomiais jie priklauso prie neaiškios kilmės
@@ -169,7 +172,8 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - id: c-175877
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 35."
   citata_originali: |
     Bet ne visa dabartinė Latvija buvo gyvenama
     aisčių. Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje,

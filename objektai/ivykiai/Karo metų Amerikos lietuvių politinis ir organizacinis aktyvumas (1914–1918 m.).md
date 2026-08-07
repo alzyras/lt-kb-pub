@@ -62,7 +62,8 @@ Nenurodyta
 - id: c-66796
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 673"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 673."
   citata_originali: |
     Tuo reikalu dar 1916 m. Brukline
     įvyko katalikų ir tautininkų organizacijų atstovų suvažiavimas

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a09b81fa87ea69354a874a6"
+canonical_name: "Henrikas (Mozūrų kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas (Mozūrų kunigaikštis)"]
+sameAs: []
+canonical_biography: "Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas Vytautą, vedė jo seserį Ringailę, tai ordinas jo neįtarė, ir tuo būdu buvo slapta susitarta. Jogaila pasiuntė pas Vytautą jaunutį Mozūrų kunigaikštį Henriką."
 ---
 # Henrikas (Mozūrų kunigaikštis)
 
@@ -69,7 +76,8 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 173."
   citata_originali: |
     Ta sunki Lenkijos būklė ir padeda mums išaiškinti Jo­
     gailos ir Lenkijos Vytautui padarytus nusileidimus.
@@ -89,7 +97,8 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 173."
   citata_originali: |
     Vytautą rado jis Rittersverdery, berengiantį planus toli­
     mesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis

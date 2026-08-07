@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-922f029159e67514587cac2c"
+canonical_name: "Indija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Indija"]
+sameAs: []
+canonical_biography: "Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų, daugelio mokslų bei religinių vaizdinių kilmės vieta. Narbutas remiasi Plinijaus užrašytu Archelajo pasakojimu, kad iš Indijos buvo atvežama gintaro žaliava, dar neatskirta nuo medžių žievės."
+place_authority: true
+historical_names: []
 ---
 # Indija
 
@@ -76,7 +85,8 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
 - id: c-171825
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
   citata_originali: |
     Tiesą sako „Antilukrecijaus“ auto­
     rius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir
@@ -100,7 +110,8 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
 - id: c-175435
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Jūroje išilgai prūsų pakrančių slypi
     ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie

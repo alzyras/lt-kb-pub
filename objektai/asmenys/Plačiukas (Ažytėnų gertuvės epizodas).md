@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e7f1d3ed4e6bbdffc2a33952"
+canonical_name: "Plačiukas (Ažytėnų gertuvės epizodas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Plačiukas","Plačiukas (Ažytėnų gertuvės epizodas)"]
+sameAs: []
+canonical_biography: "Plačiukas Ažytėnų gertuvės epizode atvyksta su svečiu gerti, sulaukia Kazio kaltinimo dėl žąsiuko ir vėliau priima Linarto užtarimą kaip progą bendram užgėrimui."
 ---
 # Plačiukas (Ažytėnų gertuvės epizodas)
 

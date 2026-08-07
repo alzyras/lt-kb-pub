@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d2d909c1ecf206af3bf954bd"
+canonical_name: "Išlaužas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Išlaužas"]
+sameAs: []
+canonical_biography: "Narbutas rašė matęs kapo laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus, važiuodamas per Išlaužą."
+place_authority: true
+historical_names: []
 ---
 # Išlaužas
 
@@ -55,7 +64,8 @@ Narbutas rašė matęs kapo laužą kairiajame Nemuno krante, prie kelio iš Kau
 - id: c-171839
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 366."
   citata_originali: |
     Šiuo atveju, kadangi tokių atsitikimų dažniausiai
     pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­

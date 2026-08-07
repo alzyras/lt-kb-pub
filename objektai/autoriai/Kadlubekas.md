@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c23eed9fcd8d646da42ea236"
+canonical_name: "Kadlubekas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kadlubekas"]
+sameAs: []
+canonical_biography: "Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotvingiai kovojo šalia mozūrų ir prūsų."
 ---
 # Kadlubekas
 
@@ -55,7 +62,8 @@ Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotving
 - id: c-174462
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 115."
   citata_originali: |
     Lais­
     vų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­

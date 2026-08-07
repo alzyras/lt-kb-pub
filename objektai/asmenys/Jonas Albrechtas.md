@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2a3244918f14b28ea2676630"
+canonical_name: "Jonas Albrechtas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Albrechtas"]
+sameAs: []
+canonical_biography: "Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­ nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­ niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia šį pasaulį."
 ---
 # Jonas Albrechtas
 
@@ -72,7 +79,8 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
 - id: c-83693
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 243."
   citata_originali: |
     Vėliau jo pamaldumą pripažino
     Romos Bažnyčios galva, suteikė jam Šventojo vardą ir šlo­
@@ -95,9 +103,9 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
     - t-001
 
 - id: c-184871
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 87"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 87."
   citata_originali: |
     Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusda-
     vo, kai reikalai imdavo suktis apie jo sankrovos teisę.

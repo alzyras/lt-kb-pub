@@ -53,7 +53,8 @@ Narbutas Horacijaus 28 odę mini kaip kūrinį, kuriame kalbama apie filosofo Ar
 - id: c-173417
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     Visa tai praverčia neži­
     nomo nelaimingojo vėlei nuraminti. Šis laužas, be abejo, gy­

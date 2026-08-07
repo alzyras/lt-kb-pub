@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ef647d984fb6980f493de99"
+canonical_name: "Barbora iš Sulistrovskių Čechavičienė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Barbora iš Sulistrovskių Čechavičienė"]
+sameAs: []
+canonical_biography: "auksinų sumą, iš minėto pardavimo sudariusi, kuri 1759 metų balandžio 22 dienos skolaraščiu investuota pas Jos Malonybę ponią Barborą iš Sulistrovskių Čechavi­ čienę, Ašmenos žemės raštinink., iš kurios metinių procen­ tų, skaičiuojant nuo 100 po 7, kasmet."
 ---
 # Barbora iš Sulistrovskių Čechavičienė
 
@@ -61,7 +68,8 @@ auksinų sumą, iš minėto pardavimo sudariusi, kuri 1759 metų balandžio 22 d
 - id: c-83609
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 197."
   citata_originali: |
     Be to, duoti 8 asmenims kas savaitę po 8 kepalus duonos
     ir tiems patiems 8 valgį iš kolegijos virtuvės.

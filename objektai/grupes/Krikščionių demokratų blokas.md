@@ -58,7 +58,7 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
 <a id="claim-t-74192"></a>
 - t-002
   teiginys: "Tautininkai, susitarę su krikščionių demokratų bloku, gruodžio 19 d. sušaukė III Seimo nepaprastąjį posėdį."
-  atnaujinta: "2026-07-19 20:03"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -105,7 +105,8 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
 - id: c-22469
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     Lietuvos politines jėgas veikė bendrieji Europos procesai – parla-
     mentarizmo krizės, diktatūrų įvedimai, perversmai. Bolševikų diktatūra
@@ -128,7 +129,8 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
 - id: c-22470
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 156."
   citata_originali: |
     Gąsdinamas pilietinio karo galimybe, kuria galėjo pasinaudoti Lenkija,
     sutiko atsistatydinti ir pats K. Grinius, įtikintas, kad naujoji valdžia lai-
@@ -147,7 +149,8 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
 - id: c-22471
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 166."
   citata_originali: |
     Šia kons-
     titucija absoliučiai garantuotas A. Smetonos autoritarinis režimas.
@@ -169,7 +172,8 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
 - id: c-72238
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 148."
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     148
@@ -195,7 +199,8 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
 - id: c-166528
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 156."
   citata_originali: |
     Tautininkai, susitarę su krikščionių demokratų bloku,
     vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruo-

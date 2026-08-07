@@ -118,7 +118,8 @@ Nenurodyta
 - id: c-168971
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 236."
   citata_originali: |
     1350 m e ta i
     L ie tu v ia i
@@ -155,7 +156,8 @@ Nenurodyta
 - id: c-168972
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 236."
   citata_originali: |
     Mat nuo to laiko, kai Vengrijos kunigaikštis
     Kolomanas valdė Galičą ir Vladimirą, vengrai skel­

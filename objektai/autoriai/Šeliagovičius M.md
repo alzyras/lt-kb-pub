@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47d8f1e5b1bbc17992aa49cf"
+canonical_name: "Šeliagovičius M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Šeliagovičius M"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šeliagovičius M."
 ---
 # Šeliagovičius M
 
@@ -60,7 +67,8 @@ Dusburgietis teigia, kad šeliagovičius M.
 - id: c-61465
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Šeliagovičius M. Senovės baltų atgarsis.— MG, 1984, Nr. 1, p. 32—33.
   statusas: verified

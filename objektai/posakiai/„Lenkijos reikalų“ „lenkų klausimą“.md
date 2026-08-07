@@ -39,7 +39,8 @@ sukilėlių neturėjo jokių galimybių laimėti, viltys, dėtos į valstiečių
 - id: c-23575
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 110."
   citata_originali: |
     Kariniu požiūriu 60 tūkst. sukilėlių neturėjo jokių galimybių laimė-
     ti, viltys, dėtos į valstiečių sukilimą Rusijoje, tebuvo iliuzija, Vakarai irgi

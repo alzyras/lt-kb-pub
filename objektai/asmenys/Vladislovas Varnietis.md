@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a4fa94dd65809006c09d0cf"
+canonical_name: "Vladislovas Varnietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladislovas Varnietis"]
+sameAs: []
+canonical_biography: "Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės ir privilegijos į Didžią­ ją Kunigaikštystę24."
 ---
 # Vladislovas Varnietis
 
@@ -136,7 +143,8 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
 - id: c-83865
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 237."
   citata_originali: |
     Palankios buvo visos aplinkybės, nes ir
     nesutarimai (1434 metų), galėję kilti tarp Žygimanto ir Jo­
@@ -159,7 +167,8 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
 - id: c-173879
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
   citata_originali: |
     Laikui bėgant, Rusios kraštas
     patyrė įvairių pokyčių, galop kryžiuočių laikais tapo be­
@@ -186,7 +195,8 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
 - id: c-173880
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 276."
   citata_originali: |
     Vėliau panašus pavadinimas buvo suteiktas ir Lietu­
     vos upei, kuri ligi šiol vadinasi Jūra ir prie kurios turėjo
@@ -214,7 +224,8 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
 - id: c-179358
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
   citata_originali: |
     Tik 1436 metais Lenkijos karalius Vladis­
     lovas Varnietis iš vienos ir kryžiuočių magistras Povilas

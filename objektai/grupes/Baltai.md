@@ -283,7 +283,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-31042
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 113."
   citata_originali: |
     **4. Vidurinis geležies amžius (400-800 m.) baltuose ir jų san­**
         **tykiai su kaimynais**
@@ -307,7 +308,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-31043
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 114."
   citata_originali: |
     Karo stovis su skandinavais nusitęsė beveik iki
     pat istorinių laikų pradžios.
@@ -329,7 +331,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90794
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
     suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
@@ -348,7 +351,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90795
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Taigi Lietuvos
     pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.
@@ -366,7 +370,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
   citata_originali: |
     Analizuojant XIII—XIV a. 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią
     antropomorfinę dievybę, panašią  į krikščioniškąjį dievą (Łowmiański H. Elementy..., p.
@@ -385,7 +390,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90797
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
   citata_originali: |
     204  Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
     prūsų, lietuvių ir kitų baltų religinio kulto centras.
@@ -400,7 +406,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90798
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 66-67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66-67."
   citata_originali: |
     Dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos
     tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П. И., Шмидт
@@ -420,7 +427,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90799
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Prūsai ir Lietuva
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
@@ -443,7 +451,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90800
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 21-22"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 21-22."
   citata_originali: |
     2004
     Lietuva tampa ES ir NATO nare.
@@ -469,7 +478,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90803
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     186 Manoma, kad politinė  ir etninė baltų (Pamedės prūsų)  ir Pamario slavų riba
     ėjusi XII—XIII  a. žemutine  Vysla  ir Nogatu (Trautmann  R.  Die  altpreussischen
@@ -494,7 +504,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90804
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,
     Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83). Prūsai V—VI a.
@@ -517,7 +528,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-166507
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 22."
   citata_originali: |
     Baltų gentys pradėjo formuotis III tūkstantme-
     čio pr. Kr. pabaigoje, kai čia atvykę indoeuropiečiai pajungė ir asimiliavo
@@ -536,7 +548,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-179219
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
   citata_originali: |
     Otono Freizingiškio kronikoje randame, jog Vakarų
     gotai turėjo garsią Balthorum giminę, antrą po Amalų, o žodis Bultha

@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-468ec299b33cd367164e815c"
+canonical_name: "Zelva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zelva"]
+sameAs: []
+canonical_biography: "Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, tačiau didelėms priešų pajėgoms spaudžiant ATR pajėgos turėjo trauktis visu frontu, liepos 4 d. LDK kariuomenė patyrė antrąjį pralaimėjimą prie Zelvos."
+place_authority: true
+historical_names: []
 ---
 # Zelva
 
@@ -49,7 +58,8 @@ Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, tačiau didel
 - id: c-45450
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 145."
   citata_originali: |
     Pirmasis didelis mūšis įvyko bir-
     želio 11 d. prie Miro. Čia Lietuvos

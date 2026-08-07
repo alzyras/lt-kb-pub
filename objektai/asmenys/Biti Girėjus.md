@@ -18,6 +18,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a51efcca8efb34b7f346d554"
+canonical_name: "Biti Girėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Biti Girėjus"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Biti Girėjus
 

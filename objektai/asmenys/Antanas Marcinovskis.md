@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-359c58561befd19c9c8109cc"
+canonical_name: "Antanas Marcinovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Marcinovskis"]
+sameAs: []
+canonical_biography: "Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių tautos istorija“. Narbutas nurodo, kad „Kurjer Litewski“ redaktorius ir jo veikalų leidėjas Marcinovskis atsiuntė jam tikslią piešinio kopiją. Antanas Marcinovskis buvo Vilniaus literatas, redaktorius ir leidėjas, kuriam Tadas Bulgarinas buvo pasiuntęs monetą perduoti Narbutui."
 ---
 # Antanas Marcinovskis
 
@@ -147,7 +154,8 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
 - id: c-172902
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 55."
   citata_originali: |
     Enciklopedinės žinios, šviesus protas, publicistiniai
     sugebėjimai, darbštumas -  tai bruožai, kurie buvo būdingi pra­
@@ -170,7 +178,8 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
 - id: c-172903
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 254."
   citata_originali: |
     Pieši­
     nys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią
@@ -188,7 +197,8 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
 - id: c-179300
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 490"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 490."
   citata_originali: |
     Kitoje pusėje (ji yra visiškai
     tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir pran­

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-500d2e38e7be91abc2f781d5"
+canonical_name: "Jadvyga (Jogailos duktė)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jadvyga (Jogailos duktė)"]
+sameAs: []
+canonical_biography: "Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties. Dėl pastarosios unijos buvo susitarta dideliame lietuvių ir lenkų suvažiavime Horodlėje, kur taip pat atvyko Vytautas, Jo­ gaila su žmona ir karalaite Jadvyga, Jogailos dukterim. Kadangi nei Vytautas, nei Jogaila neturėjo įpėdinių, todėl manoma, kad. Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta Lenkijos karalaitė Jogailos duktė Jadvyga ir jai padaryta išti­ kimybės priesaika: matyt, nenorėta tos teisės išplėsti ant tų Jogailos vaikų, kurie būtų kilę ne iš Piastų dinastijos."
 ---
 # Jadvyga (Jogailos duktė)
 
@@ -126,7 +133,8 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 200."
   citata_originali: |
     Dėl pastarosios unijos buvo susitarta dideliame lietuvių ir
     lenkų suvažiavime Horodlėje, kur taip pat atvyko Vytautas, Jo­
@@ -149,7 +157,8 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 219."
   citata_originali: |
     Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­
     davo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­
@@ -178,7 +187,8 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 149."
   citata_originali: |
     Ordino pasiuntinys, žinoma, jo nepriėmė.
     Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto
@@ -199,7 +209,8 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 214."
   citata_originali: |
     Jadvygai mirus lenkai, nenorėdami, kad unija būtų nu­
     traukta, Jogailai pažadėjo, jog Lenkijos sostą turės teisę užimti

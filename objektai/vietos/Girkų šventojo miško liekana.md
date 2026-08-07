@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88bef50c91456ed3454c79b7"
+canonical_name: "Girkų šventojo miško liekana"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Girkų šventojo miško liekana"]
+sameAs: []
+canonical_biography: "Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni medžiai buvo šventojo miško liekana."
+place_authority: true
+historical_names: []
 ---
 # Girkų šventojo miško liekana
 
@@ -54,7 +63,8 @@ Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni m
 - id: c-171890
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 264."
   citata_originali: |
     263
 

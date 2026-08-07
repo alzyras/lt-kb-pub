@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e7a079f3d2cc60c17c4c71b1"
+canonical_name: "Vidmantas iš Kuršo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vidmantas iš Kuršo"]
+sameAs: []
+canonical_biography: "Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės bartininką ir Gedimino žmonos Vidos tėvą."
 ---
 # Vidmantas iš Kuršo
 
@@ -63,7 +70,8 @@ Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės bartininką ir Gedimino 
 - id: c-173101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
   citata_originali: |
     Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
     Jaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės

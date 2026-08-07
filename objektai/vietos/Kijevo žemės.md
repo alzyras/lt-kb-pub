@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88eea5e57ce454b4d0e33186"
+canonical_name: "Kijevo žemės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kijevo žemės"]
+sameAs: []
+canonical_biography: "Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes."
+place_authority: true
+historical_names: []
 ---
 # Kijevo žemės
 
@@ -53,7 +62,8 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
 - id: c-168648
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 682"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 682."
   citata_originali: |
     Rugsėjo pabaigoje luomai susirinko Vilniuje į
     seimą, kuriame karalius pareikalavo, kad liautųsi pa­

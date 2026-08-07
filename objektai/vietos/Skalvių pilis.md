@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f8d8b6ea9764a22e75a87561"
+canonical_name: "Skalvių pilis (pilis, XIII a.)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Skalvių pilis","Skalvių pilis (pilis, XIII a.)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą. Dusburgietis teigia, kad skalvių pilis statyta 1293 m. (SRP, 1, 271, 280) kair. Dusburgietis teigia, kad apie Skalvių pilies puolimą 1293 Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva, perduoti jam Skalvių pilį."
+place_authority: true
+historical_names: []
 ---
 # Skalvių pilis (pilis, XIII a.)
 
@@ -90,7 +99,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
 <a id="claim-t-91390"></a>
 - t-004
   teiginys: "Prie Nemuno pastatyta Skalvių pilis buvo skirta skalviams, atsivertusiems į krikščionybę."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Skalvių pilis (pilis, XIII a.): 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -103,7 +112,6 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   semantiniai_rysiai: "Skalviai gyveno Skalvių pilis (pilis, XIII a.) (0.88); Skalvių pilis (pilis, XIII a.) priklausė Skalviai (0.78)"
   pagrindžia:
     - c-87099
-    - c-87100
 
 <a id="claim-t-91391"></a>
 - t-005
@@ -180,7 +188,8 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
 - id: c-87099
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
   citata_originali: |
     Apie Ragainės ir Skalvių pilių pastatymą
 
@@ -210,7 +219,8 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
 - id: c-87100
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     528 Žr. paaiškinimus D. III, 181, 1; Clasen-Sandt K., Zur Baugeschichte..., p. 197—
     198. Skalvių pilis statyta 1293 m. (SRP, 1, 271, 280) kair. Nemuno krante žemiau
@@ -225,12 +235,12 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
 
 - id: c-87101
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
     Galop lietuviai, nieko nepešę iš šio antpuolio,
     pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
@@ -252,7 +262,8 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
 - id: c-87103
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 186."
   citata_originali: |
     Apie Skalvių pilies puolimą 1293
 
@@ -276,7 +287,8 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
 - id: c-87104
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
   citata_originali: |
     Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
     sudeginimą

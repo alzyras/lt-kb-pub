@@ -136,16 +136,23 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 <a id="claim-t-189375"></a>
 - t-006
   teiginys: "Narbutas lygina, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus atskiriems dievams."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "pastate -> Aukurai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Senovės romėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Aukurai: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad romėnai statė prabangius aukurus."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Senovės romėnai pastatė Aukurai (0.90); Graikai pastatė Aukurai (0.90)"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172260
-    - c-176987
+    - c-172262
 
 <a id="claim-t-189377"></a>
 - t-007
@@ -170,7 +177,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 <a id="claim-t-189378"></a>
 - t-008
   teiginys: "Narbutas rašo, kad romėnai per vestuves nukirpdavo kasas, aukodavo jas Junonai ir šią pakirptuvių apeigą vadino Heratelea."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -183,7 +190,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 <a id="claim-t-194588"></a>
 - t-009
   teiginys: "Savo ruožtu romėnai - kuo jie darėsi galingesni ir labiau apsišvietę, tuo labiau grimzdo į daugiadievystės chaosą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -196,7 +203,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 <a id="claim-t-194589"></a>
 - t-010
   teiginys: "Graikai bei romėnai, kuriuos šiame veikale minėsime va dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas dievybes - Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia viskam."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -204,7 +211,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172260
+    - c-176988
 
 <a id="claim-t-194590"></a>
 - t-011
@@ -261,7 +268,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 <a id="claim-t-194594"></a>
 - t-015
   teiginys: "Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie toj parašų patvirtindavo savo raštus - taip, kaip romėnai9."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -269,7 +276,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172260
+    - c-176993
 
 <a id="claim-t-197221"></a>
 - t-016
@@ -353,7 +360,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 - id: c-172251
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
   citata_originali: |
     Tuo tarpu Apvaizda ruošė kitą tautą, turėjusią tapti Euro­
     pos apšvietos sargu. Senovės Lacijaus gilumoje, tarp plikų kal­
@@ -378,7 +386,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 - id: c-172255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
     kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
@@ -397,7 +406,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 - id: c-172259
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 205."
   citata_originali: |
     Pasak Plutarcho, pas atėniečius prijaukinti žal­
     čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
@@ -417,7 +427,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 - id: c-172260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 216."
   citata_originali: |
     Senovės germanai nehervalai turėjo du dievaičius Alcius,
     amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
@@ -430,14 +441,12 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-006
-    - t-010
-    - t-015
 
 - id: c-172261
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
   citata_originali: |
     Palemonas (Palemon)
     Didvyris, vardas, Lietuvos pajūrio šalies valdovas, atkilęs
@@ -460,7 +469,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 - id: c-172262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 242."
   citata_originali: |
     Kunigai, stovėdami ant pa­
     kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
@@ -471,14 +481,17 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   citata_rodoma: "Kunigai, stovėdami ant pa­\nkopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­\nkai, romėnai statė prabangius ir didingus aukurus, paskirtus\nskyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­\nprastumo turėjo primityvius ir nepuošnius aukurus, išskyrus\nkai kuriuos, buvusius Perkūno šventyklose."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-172263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
   citata_originali: |
     Šis ugnies krikštas, arba apsivalymas
     panaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­
@@ -500,7 +513,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 - id: c-172264
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 347."
   citata_originali: |
     Bet kol stabmeldystė tebebuvo
     savo aukščiausiame taške, šitokios apeigos, be abejo, vykdavo
@@ -521,7 +535,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 - id: c-172265
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 357."
   citata_originali: |
     liau puota, religinės prasmės rateliai, kuriuos romėnai vadin­
     davo Saitus hymeneus. Visa tai trukdavo iki vėlyvos nakties.
@@ -543,7 +558,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 - id: c-176987
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
   citata_originali: |
     Tas tikėjimas
     V amžiaus pabaigoje arba VI amžiaus pradžioje kažkokiu bū­
@@ -562,13 +578,13 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
     - t-016
 
 - id: c-176988
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 91."
   citata_originali: |
     Iš jų dažnai galima išgirsti: tas jau
     biją winnam Likis („taip jam jau buvo lemta“)1 2.
@@ -580,14 +596,17 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   citata_rodoma: "Iš jų dažnai galima išgirsti: tas jau\nbiją winnam Likis („taip jam jau buvo lemta“)1 2.\nGraikai bei romėnai, kuriuos šiame veikale minėsime va­\ndindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas\ndievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti\npasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia\nviskam."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 - id: c-176989
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 110."
   citata_originali: |
     Šio dievo mitas taip pat sutampa su senovės persų Oro-
     mazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai
@@ -605,7 +624,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 - id: c-176990
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 200."
   citata_originali: |
     Apie fetišizmą
     Visos stabmeldžių tautos turėjo įvairiais vardais vadina­
@@ -628,7 +648,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 - id: c-176991
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -646,7 +667,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 - id: c-176992
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 360"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 360."
   citata_originali: |
     Juk mirtingai būtybei net sekundė
     gyvenimo yra malonus turtas.
@@ -666,7 +688,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
 - id: c-176993
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Užrašas virš akmenų galvų -  runomis'*.
     Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra
@@ -678,14 +701,17 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   citata_rodoma: "Užrašas virš akmenų galvų -  runomis'*.\nLietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra\nviduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes­\nni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie­\ntoj parašų patvirtindavo savo raštus -  taip, kaip romėnai9. Lie­\n9\nNeseckis (Herbarz Polski."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+
 - id: c-179072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 91."
   citata_originali: |
     Per­
     sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-961cab1e81811f3c26643276"
+canonical_name: "Lazdijai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lazdijai"]
+sameAs: []
+canonical_biography: "1—2 d. lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4 d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį."
+place_authority: true
+historical_names: []
 ---
 # Lazdijai
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-02778
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 574"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 574."
   citata_originali: |
     O kai, besivydami bolše-
     vikus, lenkai ties Druskininkais persikėlė per Nemuną ir užėjo

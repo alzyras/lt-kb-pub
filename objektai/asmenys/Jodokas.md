@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e249e023ff8ff216658c0e0"
+canonical_name: "Jodokas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jodokas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie švento Jodoko stebuklus Prūsijos Pamedėje Tais pačiais metais šventas Jodokas ėmė daryti stebuklus Prūsijoje, Pamedės vyskupystėje."
 ---
 # Jodokas
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad apie švento Jodoko stebuklus Prūsijos Pamedėje Tais 
 - id: c-60968
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238."
   citata_originali: |
     67. Apie švento Jodoko stebuklus Prūsijos Pamedėje
 

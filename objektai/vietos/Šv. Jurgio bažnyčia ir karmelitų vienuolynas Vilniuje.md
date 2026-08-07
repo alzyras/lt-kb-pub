@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d30bd63eb4449100aa99679f"
+canonical_name: "Šv. Jurgio bažnyčia ir karmelitų vienuolynas Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Jurgio bažnyčia ir karmelitų vienuolynas Vilniuje"]
+sameAs: []
+canonical_biography: "Jurgio bažny­ čios prie Vilijos."
+place_authority: true
+historical_names: []
 ---
 # Šv. Jurgio bažnyčia ir karmelitų vienuolynas Vilniuje
 
@@ -51,7 +60,8 @@ Jurgio bažny­ čios prie Vilijos.
 - id: c-82108
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 289."
   citata_originali: |
     Galbūt prieš sutuoktu­
     ves puotos išlaidoms tą skolą užsi­

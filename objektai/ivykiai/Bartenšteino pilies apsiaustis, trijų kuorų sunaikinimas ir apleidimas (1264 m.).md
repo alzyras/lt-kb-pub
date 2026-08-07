@@ -57,7 +57,7 @@ Nenurodyta
 <a id="claim-t-66478"></a>
 - t-001
   teiginys: "1264 m. Bartenšteino pilyje broliai stokojo maisto, nebegalėjo ilgiau priešintis prūsams ir apgaule priviliojo juos pulti pilį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1264 m."
@@ -101,7 +101,7 @@ Nenurodyta
 <a id="claim-t-66481"></a>
 - t-004
   teiginys: "Bartenšteino pilį palikę broliai pasitraukė į Karaliaučių ir Elbingą, o priešai vėliau įsibrovė į pilį ir ją panaudojo puldinėjimams."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bartenšteinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -112,7 +112,6 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)\" parinktas kaip owner_note_path. Targetas \"Bartenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-66693
     - c-66696
 
 <a id="claim-t-196932"></a>
@@ -132,7 +131,8 @@ Nenurodyta
 - id: c-66693
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 126-127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126-127."
   citata_originali: |
     Apie Bartenšteino pilies puolimą
 
@@ -156,12 +156,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-004
 
 - id: c-66694
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
     Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo,
@@ -182,7 +182,8 @@ Nenurodyta
 - id: c-66695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
   citata_originali: |
     Apie Vėluvos pilies puolimą
     Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai
@@ -208,7 +209,8 @@ Nenurodyta
 - id: c-66696
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
   citata_originali: |
     Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
     pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d2e8a7f5ded4a712afcf3c92"
+canonical_name: "Ukmergės apskritis prie Obelių ežero"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ukmergės apskritis prie Obelių ežero"]
+sameAs: []
+canonical_biography: "Ukmergės apskrityje prie Obelių ežero degintiniame kape buvo rasti 2–5 colių skersmens varpeliai."
+place_authority: true
+historical_names: []
 ---
 # Ukmergės apskritis prie Obelių ežero
 
@@ -54,7 +63,8 @@ Ukmergės apskrityje prie Obelių ežero degintiniame kape buvo rasti 2–5 coli
 - id: c-171960
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 352"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 352."
   citata_originali: |
     Ištirti mord­
     vių ir lietuvių giminystę yra labai svarbus dalykas. Ukmergės apskrity­

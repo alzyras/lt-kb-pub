@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2974586506d80db67f607e6d"
+canonical_name: "Augustas Ludewigas Schloezeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Augustas Ludewigas Schloezeris"]
+sameAs: []
+canonical_biography: "Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, parašę Lat vijos ir Estijos kraštų istorijas."
 ---
 # Augustas Ludewigas Schloezeris
 
@@ -41,9 +48,9 @@ Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, paraš�
 ## Citatos
 
 - id: c-184779
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 5"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 5."
   citata_originali: |
     Daug kartų cituojami Ludewigas Al­
     brechtas Gebhardis ir Thomas Hiarnas, parašę Lat­

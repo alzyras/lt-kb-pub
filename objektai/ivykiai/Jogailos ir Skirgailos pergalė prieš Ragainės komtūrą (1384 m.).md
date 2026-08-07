@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-82927
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 56."
   citata_originali: |
     Tačiau mūšio metu į me­
     dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,

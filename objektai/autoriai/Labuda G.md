@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fbdc1115982e4222cc22e763"
+canonical_name: "Labuda G"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Labuda G"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigia, kad jučas); Labuda G. Dusburgietis teigia, kad labuda G."
 ---
 # Labuda G
 
@@ -123,7 +130,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 - id: c-65346
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74."
   citata_originali: |
     Apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo
 
@@ -144,7 +152,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 - id: c-65347
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     XIII a. šaltiniuose Vitlando (Withlandia)
     vardas figūruoja šalia Prūsijos ir Sembos (SRP, 1, p. 241). Manoma, kad Vitlandu vadinta
@@ -161,7 +170,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 - id: c-65348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 31."
   citata_originali: |
     Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
 
@@ -183,7 +193,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 - id: c-65349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
   citata_originali: |
     Vis dėlto
     broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių,
@@ -206,7 +217,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 - id: c-65351
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 46."
   citata_originali: |
     Imperatorius, naudodamasis „teise” lemti pagoniškųjų žemių
     likimą, ne tik patvirtino Konrado dovanojimus, bet iš anksto atidavė Ordinui prūsus, dėl

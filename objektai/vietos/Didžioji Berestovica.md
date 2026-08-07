@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-852af2ef1b3f1aecbe3962f9"
+canonical_name: "Didžioji Berestovica"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Didžioji Berestovica"]
+sameAs: []
+canonical_biography: "Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare. Didžioji Berestovica šiame gabale minima kaip kronikos rankraštinės tradicijos vieta."
+place_authority: true
+historical_names: []
 ---
 # Didžioji Berestovica
 
@@ -70,7 +79,8 @@ Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare. Didži
 - id: c-170288
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 4."
   citata_originali: |
     nikos („rusiško metraščio") variantą tame pačiame
     Gardino-Volkovysko krašte, kunigaikščių Zaslavskių

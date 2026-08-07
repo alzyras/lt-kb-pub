@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f57ddff4962dc60dfb6d7d5f"
+canonical_name: "Kristupas Karolis Mykolas Butleris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kristupas Karolis Mykolas Butleris"]
+sameAs: []
+canonical_biography: "Kristupo Karolio Mykolo Butlerio dienoraštis buvo išsamesnis: įrašai jame daryti maždaug 24–25 kartus per mėnesį, juose pateikta daugiau visuomeninės informacijos."
 ---
 # Kristupas Karolis Mykolas Butleris
 
@@ -58,9 +65,10 @@ Kristupo Karolio Mykolo Butlerio dienoraštis buvo išsamesnis: įrašai jame da
 ## Citatos
 
 - id: c-185767
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 18"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 18."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 18."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:11"

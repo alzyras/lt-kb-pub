@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-669eff83972d4bec311a2086"
+canonical_name: "Jonušas Skuminas Tiškevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonušas Skuminas Tiškevičius"]
+sameAs: []
+canonical_biography: "Apie jo kelionės rezultatus nežinoma, bet jis prisimintas, kai 1611 m. seimas siuntė kitą komisarą Jonušą Skuminą TiškevičiLĮ."
 ---
 # Jonušas Skuminas Tiškevičius
 
@@ -49,9 +56,9 @@ Apie jo kelionės rezultatus nežinoma, bet jis prisimintas, kai 1611 m. seimas 
 ## Citatos
 
 - id: c-185526
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 211"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 211."
   citata_originali: |
     Apie jo kelionės rezultatus nežinoma, bet jis prisimintas,
     kai 1611 m. seimas siuntė kitą komisarą Jonušą Skuminą TiškevičiLĮ. Seimo pasiun-

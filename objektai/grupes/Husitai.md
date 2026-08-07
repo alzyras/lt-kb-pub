@@ -224,7 +224,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 137."
   citata_originali: |
     Todėl kai Čekijoje pasklido Katalikų Bažnyčiai prie­
     šingas Jono Huso mokslas, Konstancijos susirinkime pasmerk­
@@ -247,7 +248,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 137."
   citata_originali: |
     Ir kai čekai husitai pasiūlė karališką vainiką Jo­
     gailai, šis nesutiko jos priimti, nes tai buvo eretikų siūlymas.
@@ -268,7 +270,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 138."
   citata_originali: |
     Tą patį rašė ir Rygos
     arkivyskupui. Popiežius gal būtų ir palinkęs Vytauto pusėn,
@@ -288,7 +291,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 138."
   citata_originali: |
     Vėliau Vytautas popiežiui dar rašė, kad jis nenu­
     traukia ryšių su Bažnyčia, tik nori geruoju atversti husitus, iš­
@@ -310,7 +314,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - id: c-156523
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 363."
   citata_originali: |
     Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­
     to » (« postulati regis Bohemiae Vitoldi »)^17.
@@ -329,7 +334,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - id: c-156524
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 363."
   citata_originali: |
     Jogailai atsisakius priimti jam husitų siūlomą Čekijos karūną,
     veiklusis pusbrolis čekams parodė žymiai daugiau palankumo.
@@ -347,7 +353,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 138."
   citata_originali: |
     Tad Vytautas įsakė grįžti Kaributui į Lietuvą,
     o čekams husitams nurašė laišką, kad niekada nerėmė jų mok­
@@ -369,7 +376,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - id: c-156526
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 171."
   citata_originali: |
     Daug
     prisidėjo prie pergalių prieš kryžiuočius, tačiau nesiekė visiš­
@@ -392,7 +400,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 138."
   citata_originali: |
     Popiežius draudė siųsti Kaributą, o kai
     Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį,
@@ -413,7 +422,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - id: c-167839
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 414"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 414."
   citata_originali: |
     Štai todėl vienaip kalbėjo im­
     peratorius su Jogaila, kitaip

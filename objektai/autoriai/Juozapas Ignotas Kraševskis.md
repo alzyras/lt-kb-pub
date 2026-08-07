@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c301e26ca8a67d98ed6b735"
+canonical_name: "Juozapas Ignotas Kraševskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Juozapas Ignotas Kraševskis"]
+sameAs: []
+canonical_biography: "Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Petersburski“ ir priklausė Juozapui Ignotui Kraševskiui. Juozapas Ignotas Kraševskis jau nebenuėjo nuo arenos, keldama dvilypę, kontraversišką sumaištį. Juozapas Ignotas Kraševskis susitiko su caro pasiuntiniais, pareiškusiais pageidavimą taikytis."
 ---
 # Juozapas Ignotas Kraševskis
 
@@ -79,7 +86,8 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
 - id: c-173181
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 55."
   citata_originali: |
     Tai buvo dvi didelės recenzijos: pirmoji iš­
     spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­
@@ -100,7 +108,8 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
 - id: c-179119
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 60."
   citata_originali: |
     Sis prierašas -
     tai savotiška iliustracija, kuri irgi rodo, kad T. Narbuto „Lie­
@@ -119,7 +128,8 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
 - id: c-179120
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
   citata_originali: |
     Iš tikrųjų tais me­
     tais vyko Lenkijos seimas Piotrkove, trukęs ilgai

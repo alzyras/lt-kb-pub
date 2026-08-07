@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8cbbf0d7c2dce59ad6e5704c"
+canonical_name: "Kukenois"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kukenois"]
+sameAs: []
+canonical_biography: "Tuo keliu nuėjo ne tik Dauguvos pilys, kaip Gercike, Kukenois, bet ir pats Polockas, kuriam Lietuva buvo natūralus gynėjas ir sąjungininkas."
+place_authority: true
+historical_names: []
 ---
 # Kukenois
 
@@ -50,7 +59,8 @@ Tuo keliu nuėjo ne tik Dauguvos pilys, kaip Gercike, Kukenois, bet ir pats Polo
 - id: c-33907
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 129."
   citata_originali: |
     Todėl pasirinko
     _bendradarbiavimo_ kelią. Tuo keliu nuėjo ne tik Dauguvos pilys,

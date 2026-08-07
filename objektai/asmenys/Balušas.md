@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88bcfad402e8bb18970b81f5"
+canonical_name: "Balušas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Balušas"]
+sameAs: []
+canonical_biography: "1055 m. poloviečių vadas Balušas kovojo su Rusia, bet po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu."
 ---
 # Balušas
 
@@ -66,7 +73,8 @@ media_all_json: |-
 - id: c-174255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     Neabejotinai slaviš­
     ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­

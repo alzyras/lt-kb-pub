@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b73730258ff02e8ca4d9537c"
+canonical_name: "Einaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Einaras"]
+sameAs: []
+canonical_biography: "Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos išminčių, vardu Einarą, kuris mažai miegodavęs, o naktį eidavęs iš būsto ir stebėdavęs žvaigždžių judėjimą."
 ---
 # Einaras
 
@@ -46,7 +53,8 @@ Reikdaelasaga, pateikia žinių iš X amžiaus pabaigos apie vieną Islandijos i
 - id: c-177226
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 294."
   citata_originali: |
     24 Šiaurės tautos senovėje turėjo išminčių, kurių užsiėmimas bu­
     vo stebėti dangaus kūnų judėjimą. Islandų saga, pavadinta Liosvet-

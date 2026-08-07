@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a96d2203d98f160381f3a07b"
+canonical_name: "Lauras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lauras"]
+sameAs: []
+canonical_biography: "Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir pradėjo vadovauti karui prieš Daumantą. Lauras po sutelktų pajėgų patraukė prieš Daumantą, mūšyje įgijo persvarą ir nukovė Daumantą. Lauras, Traidenio sūnus, prieš Daumanto siekį užimti valdžią jau buvo atsisakęs valdžios ir apsigyvenęs vienuolyne."
 ---
 # Lauras
 
@@ -111,7 +118,8 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - id: c-169368
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 146."
   citata_originali: |
     Sunkiai užgavo Laurui (žmonės jį va­
     dino Rimantu) širdį žinia apie tėvo nužudymą, tačiau,
@@ -148,7 +156,8 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - id: c-169369
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 147."
   citata_originali: |
     Prasidėjus
     mūšiui, persvarą įgijo Lauras; jis taip smarkiai džiau­
@@ -183,7 +192,8 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - id: c-178753
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 146."
   citata_originali: |
     Liko valstybė
     it našlaitė, be valdovo, netekusi paskutiniajame karo
@@ -212,7 +222,8 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - id: c-178754
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 148."
   citata_originali: |
     Daugelį sujaudino ši netikėta kalba; visi vardan
     to, kas švenčiausia, maldaute maldavo, kad nesiliautų

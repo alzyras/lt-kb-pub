@@ -98,7 +98,8 @@ Nenurodyta
 - id: c-170029
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 102-103"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 102-103."
   citata_originali: |
     Štai kas nutiko po šito dangaus ženklo didžiajam
     kunigaikščiui Vytautui, draugiškai sugyvenusiam su

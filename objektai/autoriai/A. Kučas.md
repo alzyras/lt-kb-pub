@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d34c19ed3888d41f494ed52a"
+canonical_name: "A. Kučas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Kučas"]
+sameAs: []
+canonical_biography: "A. Kučas, Kun. Antanas Staniukynas, XVI-208 psl., Roma 1965. 6 dol."
 ---
 # A. Kučas
 
@@ -60,7 +67,8 @@ A. Kučas, Kun. Antanas Staniukynas, XVI-208 psl., Roma 1965. 6 dol.
 - id: c-32873
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 418."
   citata_originali: |
     16 dol.
     A. Kučas, Kun. Antanas Staniukynas, XVI-208 psl.,

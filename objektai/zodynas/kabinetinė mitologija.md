@@ -71,7 +71,8 @@ Mitologijos tyrimų kritinės metodologijos terminas.
 - id: c-171042
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 35."
   citata_originali: |
     Deja, T. Narbutas šito nepadarė ir dėl to užsitraukė sau falsi-
     fikatoriaus nešlovę, o būsimiems lietuvių mitologijos tyrinė­

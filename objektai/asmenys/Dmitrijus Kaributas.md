@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1998dd47f9dc8eca148a4109"
+canonical_name: "Dmitrijus Kaributas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dmitrijus Kaributas"]
+sameAs: []
+canonical_biography: "Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse."
 ---
 # Dmitrijus Kaributas
 
@@ -52,7 +59,8 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
 - id: c-83470
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 155-156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 155-156."
   citata_originali: |
     Paminėsime tad tik
     žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.

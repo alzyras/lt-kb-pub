@@ -94,7 +94,8 @@ Nenurodyta
 - id: c-63632
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
   citata_originali: |
     Apie Karaliaučiaus, arba Tvankstės, pilies pastatymą
     Valdovui Čekijos karaliui išvykus, magistras ir broliai netruko paruošti visa, kas
@@ -117,7 +118,8 @@ Nenurodyta
 - id: c-63633
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
   citata_originali: |
     72 (71). Apie Karaliaučiaus, arba Tvankstės, pilies pastatymą
     Valdovui Čekijos karaliui išvykus, magistras ir broliai netruko paruošti visa, kas
@@ -139,7 +141,8 @@ Nenurodyta
 - id: c-63634
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107."
   citata_originali: |
     Burrhardą iš Hornhauzeno2 su daugybe brolių ir ginklanešių. Vėliau ši pilis buvo perkelta
     į tą vietą, kur ir dabar stovi ant kalvos, apsupta dviem sienomis ir devyniais akmeniniais

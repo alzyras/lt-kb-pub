@@ -56,7 +56,8 @@ Visi kalba: „O, koks mums maloningas yra mūsų valdovas, Švitrigaila to ne­
 - id: c-82846
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 233."
   citata_originali: |
     18
     Kryžiuočių knechtas Hansas Baigas

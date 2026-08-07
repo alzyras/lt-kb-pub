@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-63a65a6982f9e7b06c6afd26"
+canonical_name: "Karolis Carlsonas Gyllenhielmas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis Carlsonas Gyllenhielmas"]
+sameAs: []
+canonical_biography: "Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllenhielm, 1574-1650 m.) Švedijos karaliaus Karolio 1x ir Karinos Nilsdotter nesantuokinis sūnus."
 ---
 # Karolis Carlsonas Gyllenhielmas
 
@@ -96,7 +103,8 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 - id: c-76170
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 98."
   citata_originali: |
     Karolis Sudermanas
     pasiuntė 2400 karių, kurie turėjo prista-
@@ -116,7 +124,8 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 - id: c-76171
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 98."
   citata_originali: |
     2500 švedų karių įsitvirtino mieste ir
     pradėjo pilies apgultį. Karolis Sudermanas
@@ -136,7 +145,8 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 - id: c-76172
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 99."
   citata_originali: |
     £ sae.
     ee Kuoknesės pilis

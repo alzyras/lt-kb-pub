@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-45aa5ba5f7b29c0b71699079"
+canonical_name: "Juozapas Ozienblovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozapas Ozienblovskis"]
+sameAs: []
+canonical_biography: "Tikėtina, kad Juozapas Ozienblovskis buvo Vilkmergės stalininkas nuo 1693 m. spalio 25 d. ir mirė apie 1725 m."
 ---
 # Juozapas Ozienblovskis
 
@@ -62,9 +69,10 @@ Tikėtina, kad Juozapas Ozienblovskis buvo Vilkmergės stalininkas nuo 1693 m. s
 ## Citatos
 
 - id: c-185763
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 12"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 12."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 12."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-196a0834c2768bb165f8f0fc"
+canonical_name: "Gelonas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gelonas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Geloną minėjo tarp pavardžių, kuriomis grindė prielaidas apie Galindos kilmę."
 ---
 # Gelonas
 
@@ -53,7 +60,8 @@ Teodoras Narbutas Geloną minėjo tarp pavardžių, kuriomis grindė prielaidas 
 - id: c-174489
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 265."
   citata_originali: |
     Vėliau, laikui bėgant, sla­
     vams ar kitoms tautoms spaudžiant iš rytų, jie buvo pri­

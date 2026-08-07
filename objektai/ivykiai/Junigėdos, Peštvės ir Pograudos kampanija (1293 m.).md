@@ -110,7 +110,8 @@ Sudegė abiejų pilių papiliai.
 - id: c-69725
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
   citata_originali: |
     Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
     magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
@@ -133,7 +134,8 @@ Sudegė abiejų pilių papiliai.
 - id: c-69726
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 223."
   citata_originali: |
     Grįždami nuo Junigėdos 1292, kryžiuočiai
     teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
@@ -152,7 +154,8 @@ Sudegė abiejų pilių papiliai.
 - id: c-69727
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 223."
   citata_originali: |
     1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
     gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies

@@ -39,6 +39,13 @@ media_all_json: |-
 tags:
   - autorius
   - rašytojas
+entity_id: "ent-dcdb3ed9a1d0f098abfd6ad3"
+canonical_name: "Lonnrotas (Kalevalos kūrėjas)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lonnrotas","Lonnrotas (Kalevalos kūrėjas)","Lonnroto"]
+sameAs: []
+canonical_biography: "Lonnrotas šiame straipsnyje minimas kaip „Kalevalos“ kūrėjas. Jo autorystė ir autoritetas pristatomi kaip svarbi A. R. Niemio folkloristikos krypties paskata, o 1895 m. apie jį rinktos žinios ir laiškai."
 ---
 # Lonnrotas (Kalevalos kūrėjas)
 

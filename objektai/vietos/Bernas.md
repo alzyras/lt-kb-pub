@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-86747b47e6433609bfc10010"
+canonical_name: "Bernas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bernas"]
+sameAs: []
+canonical_biography: "1—5 d. Berne sušaukta konferencija, atsižvelgdama į lenkų propagandą, savinančiąsi Lietuvą, paskelbė Lietuvos nepri. Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio."
+place_authority: true
+historical_names: []
 ---
 # Bernas
 
@@ -80,7 +89,8 @@ media_all_json: |-
 - id: c-46449
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 555"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 555."
   citata_originali: |
     Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus
     paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietu-

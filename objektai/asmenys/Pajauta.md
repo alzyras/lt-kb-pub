@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1bf2263a2f28b32e850ff139"
+canonical_name: "Pajauta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pajauta"]
+sameAs: []
+canonical_biography: "Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė. Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo. Pajauta yra ant gana aukšto kalno, matomas toli iš jūros."
 ---
 # Pajauta
 
@@ -145,7 +152,8 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
 - id: c-169605
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 67."
   citata_originali: |
     Galbūt šitaip ir bū­
     tų atsitikę, jeigu, jam mirus,
@@ -172,7 +180,8 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
 - id: c-171489
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Nereikia tapatinti Medziojnos
     su Medžiojma, kurią laikėme medžiotojų deive, vadinama
@@ -199,7 +208,8 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
 - id: c-179185
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
     tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­

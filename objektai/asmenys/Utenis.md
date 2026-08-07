@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-329fcede9b447bd920b57570"
+canonical_name: "Utenis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Utenis"]
+sameAs: []
+canonical_biography: "Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad vėliava priklausė Lietuvos kunigaikščiui Uteniui, padėjusiam prūsams. Narbutas aiškino, kad Henenbergerio užrašas žymi Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais ir praminto Zupanu, vėliavą. APIE KENTAURO HERBO VALDOVUS - ŠVENTARAGĮ IR JO ŠONŲ SKIRMANTĄ Ponai gedėjo savo gimtojo valdovo ir išsirinko val dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai čių kunigaikščio Utenio sūnų."
 ---
 # Utenis
 
@@ -199,7 +206,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
 - id: c-173009
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 401"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 401."
   citata_originali: |
     Be
     to, pas Henenbergerį yra užrašas senovės lietuvių kalba (apie
@@ -220,7 +228,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
 - id: c-173875
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 508"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 508."
   citata_originali: |
     Be to, pas Henenbergerj
     yra užrašas senovės lietuvių kalba (apie naują šio užrašo aiški­
@@ -242,7 +251,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
 - id: c-176624
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 56."
   citata_originali: |
     ## Puslapis 55
 
@@ -266,7 +276,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
 - id: c-177120
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 222."
   citata_originali: |
     221
 
@@ -291,7 +302,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
 - id: c-178796
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 87."
   citata_originali: |
     Tie patys
     ri­
@@ -323,9 +335,9 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     - t-005
 
 - id: c-184391
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 268"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 268."
   citata_originali: |
     Užvis kalavijonys, regėdami vykstant kryžėjams
     Paysly, tarės taip' pat laimėsią Padaugavy, todėl,

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d62eb1cb7b5657da082cb5ba"
+canonical_name: "Simono Grunau"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Simono Grunau"]
+sameAs: []
+canonical_biography: "Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amžiaus kompiliatorius Simonas Grunau. Daugelį vėliau suklaidino XVI amž. fantasto kronikininko Simono Grunau paskelbti pagonių rašmens, kuriuos kiti iki XX amž. pradžios nekritiškai kartojo^2. 97 Grunau S., kronikininkas 58, 145, 205, 243, 294 Grünhagen C."
 ---
 # Simono Grunau
 
@@ -32,7 +39,7 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 <a id="claim-t-30981"></a>
 - t-001
   teiginys: "Simonas Grunau rodyklėje nurodytas kaip kronikininkas."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -75,7 +82,8 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 - id: c-33140
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 152."
   citata_originali: |
     Šalia imponuojančio dievų « Olimpo » buvo sudaryta ir atitinkama
     kunigų (dvasininkų) hierarchija, su vyriausiuoju «Krivių-Krivai-
@@ -96,7 +104,8 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 - id: c-33141
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 301."
   citata_originali: |
     Tokiu būdu su lietuvių pagoniškomis
     šventyklomis esą žlugę ir jų miestai, dingęs jų pagoniškasis raštas
@@ -117,7 +126,8 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 - id: c-33142
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 396."
   citata_originali: |
     359
     Graužiu lobis 77, 113

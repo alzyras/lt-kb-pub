@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-358c682522116084c2ecb66e"
+canonical_name: "Maksimilijonas Osolinskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Maksimilijonas Osolinskis"]
+sameAs: []
+canonical_biography: "Anot Maksimilijono Osolinskio, germanų giminėje jūros pakrančių gyventojai buvo vadinami Ingemony."
 ---
 # Maksimilijonas Osolinskis
 
@@ -53,7 +60,8 @@ Anot Maksimilijono Osolinskio, germanų giminėje jūros pakrančių gyventojai 
 - id: c-174512
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
   citata_originali: |
     Pasvarsčius nepernelyg didelį Plinijaus geografinių
     aprašymų tikslumą, šiuose trijuose pavadinimuose gali­

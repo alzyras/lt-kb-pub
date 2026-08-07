@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c1ab87f9f1614659fc8d13e6"
+canonical_name: "Drutė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Drutė"]
+sameAs: []
+canonical_biography: "Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame plote, o kairiojoje Dnepro pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio čių."
+place_authority: true
+historical_names: []
 ---
 # Drutė
 
@@ -68,7 +77,8 @@ Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame pl
 - id: c-177323
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
   citata_originali: |
     Tokių kalvų kartais randama išsibarsčiusių laukuose,
     netgi sausose pievose po dvi, kelias, o kai kur jų esti la­

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7bd2103f9fc52aaa441b698b"
+canonical_name: "Beckherrn C"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Beckherrn C"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (Videvučio) sūnaus Samo pilis, čia prūsai uždegdavę pavojų skelbiančius laužus (SU, 1, Nr. 58, 182; 2, Nr. 304; PUB, 2, 2, Nr. 663; 3, 2, Nr. 644; 4, Nr. 26; Hennenberger C, Erclerung.., p. 136; Sch-K; Faber. Dusburgietis teigia, kad ši pilaitė prie įėjimo į Notangą buvusi, kaip manoma, prie gyvenvietės Pilzen (Beckherrn C., Das „propugnaculum.., p. 299—300), kiek į šiaurę nuo jos, Knivitės aukštupio deš."
 ---
 # Beckherrn C
 
@@ -72,7 +79,8 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
 - id: c-61179
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
   citata_originali: |
     210 Apie prūsų ginklus, karybą — Beckherrn C.. Bewaffnung..., p. 359—392. Okulicz-
     Kozaryn L. Zycie..., p. 218—221.
@@ -88,7 +96,8 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
 - id: c-61181
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
   citata_originali: |
     Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
     Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo. Daug

@@ -83,7 +83,8 @@ Nenurodyta
 - id: c-83159
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 95-96"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 95-96."
   citata_originali: |
     Po slapto jų pokal­
     bio veikiai buvo sukviesta vieša kardinolų konsistorija,

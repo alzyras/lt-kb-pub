@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e7f862efd6d2f5bb1a09c8bc"
+canonical_name: "Kinija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kinija"]
+sameAs: []
+canonical_biography: "Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją, o iš jos per totorius galėsime pasiekti ir Kiniją. Šios ambicijos nebeatrodo geografiškai tokios naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Rudaminą, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba."
+place_authority: true
+historical_names: []
 ---
 # Kinija
 
@@ -39,7 +48,8 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 - id: c-74090
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 82."
   citata_originali: |
     Vienas jų tada rašė: „Reikia
     taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,
@@ -58,7 +68,8 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 - id: c-74092
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 82."
   citata_originali: |
     buvo Krokuvos universitetas, o XVI a. dviem amžiams (iki Maskvos ir
     Sankt Peterburgo universitetų įkūrimo) šį vaidmenį perėmė Vilniaus

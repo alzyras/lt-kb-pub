@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14e78a5d4304d2731dfb1ae1"
+canonical_name: "Pajautos, Konstancijos Skirmuntaitės"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Pajautos, Konstancijos Skirmuntaitės"]
+sameAs: []
+canonical_biography: "Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijos Skirmuntaitės), Prano (kun. Antano Šmulkščio) knygutėse, visą dėmesį sutelkiant lietuvių tautos žygiams iki Vytauto Didžiojo mirties."
 ---
 # Pajautos, Konstancijos Skirmuntaitės
 
@@ -50,7 +57,8 @@ Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijo
 - id: c-94031
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 11."
   citata_originali: |
     Ant jo grabo « sulaužęs _»_
     savo plunksną, atskiros tolimesnės lietuvių tautos istorijos Narbu­

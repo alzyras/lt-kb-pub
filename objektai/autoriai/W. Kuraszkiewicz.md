@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-35a76a56ccfbe0e6de6e3270"
+canonical_name: "W. Kuraszkiewicz"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["W. Kuraszkiewicz"]
+sameAs: []
+canonical_biography: "Kuraszkiewicz, W."
 ---
 # W. Kuraszkiewicz
 
@@ -36,7 +43,8 @@ Kuraszkiewicz, W.
 - id: c-33195
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 130."
   citata_originali: |
     — Klimas, P. keliuose egz. mašinraštyje 1939 m. paruošė savo
     numatytos daugiatomės Lietuvių tautos istorijos I tomą (iki 1200 m.),

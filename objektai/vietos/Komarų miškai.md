@@ -22,6 +22,15 @@ media_all_json: |-
 tags:
   - gamtinis-objektas
   - vieta
+entity_id: "ent-869b332be52d9f7e64a1ebe4"
+canonical_name: "Komarų miškai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Komarų miškai","Komarų miškus"]
+sameAs: []
+canonical_biography: "Komarų miškai šiame šaltinyje minimi pasakojime apie ežio persekiojimą."
+place_authority: true
+historical_names: []
 ---
 # Komarų miškai
 

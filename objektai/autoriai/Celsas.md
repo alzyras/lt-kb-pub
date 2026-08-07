@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a7ba183601ab59f0f34f9380"
+canonical_name: "Celsas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Celsas"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis Origenu, rašo, kad Celsas krikščionims prikišo tikėjimą amžinomis bausmėmis po mirties."
 ---
 # Celsas
 

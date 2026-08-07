@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-582e69ec2bf08eb25d10b30e"
+canonical_name: "Gilija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gilija"]
+sameAs: []
+canonical_biography: "Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo plaukiama Deimena pro Labguvą į Prieglių, juo — pro Karaliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą."
+place_authority: true
+historical_names: []
 ---
 # Gilija
 
@@ -74,7 +83,8 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - id: c-171889
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
   citata_originali: |
     Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
     ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
@@ -94,9 +104,9 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
     - t-001
 
 - id: c-184949
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 212"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 212."
   citata_originali: |
     Hercogui rūpėjo muitai, ir jie taip pat buvo paskelbti. Iki 1617 m. Gilijos tiesinimo ir
     gilinimo darbai pasistūmėjo į priekį tiek, kad upė vėl tapo laivybinga.

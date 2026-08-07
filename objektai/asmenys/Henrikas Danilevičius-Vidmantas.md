@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-613497fed4c0d66bcfec11f5"
+canonical_name: "Henrikas Danilevičius-Vidmantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Danilevičius-Vidmantas"]
+sameAs: []
+canonical_biography: "atstovas RL sričiai Henrikas DanilevičiusVidmantas, Aloyzas Žilys-Žirnis ir Šarūno rinkt."
 ---
 # Henrikas Danilevičius-Vidmantas
 
@@ -50,7 +57,8 @@ atstovas RL sričiai Henrikas DanilevičiusVidmantas, Aloyzas Žilys-Žirnis ir 
 - id: c-44342
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 246."
   citata_originali: |
     Žukauskas. Po nelygios kovos su okupantų
     kariuomene nusišovė LLKS vadovybės spec.

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d85d1e7473a4ce8eeb8b0d59"
+canonical_name: "Vygandas von Baldersheimas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vygandas von Baldersheimas"]
+sameAs: []
+canonical_biography: "Jo krikštatėviu buvo Ragainės komtūras Vy­ gandas von Baldersheimas, dėl to ir Vytautas apsikrikštijo Vy­ gando vardu^1 )."
 ---
 # Vygandas von Baldersheimas
 
@@ -51,7 +58,8 @@ Jo krikštatėviu buvo Ragainės komtūras Vy­ gandas von Baldersheimas, dėl t
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 115."
   citata_originali: |
     21 d. Tapiau mieste­
     lyje Prūsuose. Jo krikštatėviu buvo Ragainės komtūras Vy­

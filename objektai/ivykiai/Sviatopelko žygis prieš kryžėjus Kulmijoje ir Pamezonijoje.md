@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184694
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 313"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 313."
   citata_originali: |
     Elbingo ir Baigos, arba One-
     dos, pilėse, kur buvo likusieji vokyčiai užsirakinę,

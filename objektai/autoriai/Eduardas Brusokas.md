@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b0638db5b249545ef5185c6a"
+canonical_name: "Eduardas Brusokas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Eduardas Brusokas"]
+sameAs: []
+canonical_biography: "Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete įgijo istorijos bakalauro, Vytauto Didžiojo universitete - istorijos magistro laipsnį."
 ---
 # Eduardas Brusokas
 
@@ -58,7 +65,8 @@ Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete įgijo istorijos bakal
 - id: c-41647
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 266."
   citata_originali: |
     Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete
     įgijo istorijos bakalauro, Vytauto Didžiojo universitete - istori-

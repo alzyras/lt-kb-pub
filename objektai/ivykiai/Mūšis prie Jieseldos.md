@@ -131,7 +131,8 @@ Nenurodyta
 - id: c-169925
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 198."
   citata_originali: |
     * Pasakojimas apie mUšj prie Jieseldos gali būti sukurtas pagal
     1M žinią apie 1262 m. karą su Lietuva, pagal kurį Volynės kuni­

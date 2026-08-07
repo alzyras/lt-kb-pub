@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee0264823cb5c902fff308c3"
+canonical_name: "Audrius Butkevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Audrius Butkevičius"]
+sameAs: []
+canonical_biography: "Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD direktorius Audrius Butkevičius, A. p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM."
 ---
 # Audrius Butkevičius
 
@@ -78,7 +85,8 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
 - id: c-41850
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 
@@ -94,7 +102,8 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
 - id: c-44294
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 256."
   citata_originali: |
     Sausio 13 d. AT priėmė nutarimą su-
     daryti Laikinąją gynybos vadovybę:

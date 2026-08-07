@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f9f63d6386574c43ae4f79c7"
+canonical_name: "Rinava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rinava"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu tebuvo du vyrai: vienas brolis bei jo tarnas. Ir štai kokie stebuklai! Dusburgietis teigia, kad 382 D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau — Rinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus. Dusburgietis teigia, kad apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė kariuomenę ir, įsibrovę į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su visu jų turtu išsivarė su."
+place_authority: true
+historical_names: []
 ---
 # Rinava
 
@@ -87,11 +96,19 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 <a id="claim-t-91358"></a>
 - t-004
   teiginys: "Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Rinava: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rinava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Sembai minimi kaip įsibrovimo į Rinavos valsčių dalyviai."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sembai puolė Rinava (0.78)"
   pagrindžia:
-    - c-87072
+    - c-87071
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -127,7 +144,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - id: c-87071
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
 
@@ -138,14 +156,17 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   citata_rodoma: "Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį\n\n  Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė\nkariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su\nvisu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion\nsugrįžo anksčiau čia viešpatavusi taika."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-87072
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
   citata_originali: |
     Apie Rinavos valsčiaus sembų naują atskalūnybę
     Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
@@ -160,12 +181,12 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   pagrindzia:
     - t-002
     - t-003
-    - t-004
 
 - id: c-87073
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     382 D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau —
     Rinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus.

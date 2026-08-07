@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6c59aff2ff5edb9638c0bd3f"
+canonical_name: "Europos geografinis centras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Europos centro","Europos geografinis centras","geografinis Europos centras"]
+sameAs: []
+canonical_biography: "Europos geografinis centras šiame leidinyje lokalizuojamas Lietuvoje, 25 km į šiaurę nuo Vilniaus, nurodant centro koordinates."
+place_authority: true
+historical_names: []
 ---
 # Europos geografinis centras
 
@@ -123,7 +132,8 @@ Nenurodyta
 - id: c-16568
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 12."
   citata_originali: |
     Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
     tarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines
@@ -144,7 +154,8 @@ Nenurodyta
 - id: c-24123
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 12."
   citata_originali: |
     Į v a d a s
     LIETUVA –
@@ -174,7 +185,8 @@ Nenurodyta
 - id: c-73884
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 12."
   citata_originali: |
     Visai neseniai Pran-
     cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-

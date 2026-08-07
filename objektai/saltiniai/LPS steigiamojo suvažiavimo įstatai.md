@@ -32,7 +32,7 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
 <a id="claim-t-21102"></a>
 - t-001
   teiginys: "LPS steigiamasis suvažiavimas priėmė įstatus kartu su bendrąja programa ir 30 rezoliucijų įvairiais klausimais."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -63,7 +63,8 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
 - id: c-23813
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 236."
   citata_originali: |
     Suvažia-
     vimą stebėjo daugiau nei 400 korespondentų, iš jų daugiau nei 100 atvykę
@@ -80,7 +81,8 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
 - id: c-166769
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 236-237"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 236-237."
   citata_originali: |
     Lietuva atsidūrė visuotinio dėmesio centre. Suvažiavimas
     priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, eko-

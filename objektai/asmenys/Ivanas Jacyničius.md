@@ -18,6 +18,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3d9df7eba1301857bad56278"
+canonical_name: "Ivanas Jacyničius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas Jacyničius"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Ivanas Jacyničius
 

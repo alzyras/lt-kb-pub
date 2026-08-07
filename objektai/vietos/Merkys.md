@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-95b774aa1fd0dd51d2a66869"
+canonical_name: "Merkys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Merkys"]
+sameAs: []
+canonical_biography: "Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­ munės durpynuose. 162 ii skyrius: valstybės iškilimas Pradžioje Lietuva tėra buvusi tik dalis Aukštaičių žemės, kurios va­ karinė siena bus ėjusi žemiau Merkio žiočių, paties Nemuno viduru­ piu iki pat Kauno."
+place_authority: true
+historical_names: []
 ---
 # Merkys
 
@@ -135,7 +144,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - id: c-43641
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 206."
   citata_originali: |
     Spalio 8 d. prasidėjo puolimas. Beveik
     visa Lietuvos kariuomenė buvo likusi
@@ -158,7 +168,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - id: c-103448
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 271."
   citata_originali: |
     Vis dėlto pasakojama apie giliai gelmėje
     glūdinčius požemius ir rūsius, ir pats mačiau čia kartais
@@ -179,7 +190,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - id: c-103449
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 271."
   citata_originali: |
     Pastatyti iš medžio ant aukšto mūrinio cokolio,
     stūksojo ant mažos kalvelės, puslankiu skalaujami veržlios
@@ -198,7 +210,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - id: c-103450
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 271."
   citata_originali: |
     Čia
     buvo vadinamieji medžioklės rūmai, skirti apsistoti patiems
@@ -217,7 +230,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - id: c-103452
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 102."
   citata_originali: |
     Lie­
     tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­

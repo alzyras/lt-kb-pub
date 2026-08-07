@@ -66,7 +66,8 @@ Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bič
 - id: c-168768
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
   citata_originali: |
     Abiejų tautų
     priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­

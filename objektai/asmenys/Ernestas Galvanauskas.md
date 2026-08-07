@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c8a05ec7f1c5da946164f34"
+canonical_name: "Ernestas Galvanauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ernestas Galvanauskas"]
+sameAs: []
+canonical_biography: "Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garantuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant gynybinę, kad tik pavyktų susigrąžinti Vilnių. Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E. Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas."
 ---
 # Ernestas Galvanauskas
 
@@ -61,7 +68,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 <a id="claim-t-169964"></a>
 - t-002
   teiginys: "Ernestas Galvanauskas nota pakvietė nustatyti Lenkijos rytines sienas."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1921 m.; įvykio data: 1923 m."
@@ -148,7 +155,8 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 - id: c-21663
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 146."
   citata_originali: |
     Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
     matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
@@ -168,7 +176,8 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 - id: c-154643
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 145."
   citata_originali: |
     Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio
     reikalų ministras Polis Himansas (Paul Hymans). Jis manė sudaryti fede-
@@ -191,7 +200,8 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 - id: c-154644
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 152."
   citata_originali: |
     Lietuvai liko sukilimo inscenizacijos
     scenarijus. Abipusis psichologinis atotrūkis akivaizdus – E. Galvanauskas
@@ -210,7 +220,8 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 - id: c-154645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 147."
   citata_originali: |
     tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių,
     kol neatsisakys savo suverenumo Lenkijos naudai.
@@ -230,7 +241,8 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 - id: c-154646
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 151."
   citata_originali: |
     1922 m. pradžioje
     Lietuvos atstovas Klaipėdoje Jonas Žilius pranešė vyriausybei, kad tėra
@@ -250,7 +262,8 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 - id: c-166924
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 151."
   citata_originali: |
     Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
     nistracija, remiama bataliono prancūzų pėstininkų. Prancūzai skelbė, kad

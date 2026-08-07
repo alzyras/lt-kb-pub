@@ -52,13 +52,13 @@ Nenurodyta
 <a id="claim-t-198532"></a>
 - t-001
   teiginys: "Bychovco kronikoje pasakojama, kad po taikos su Algirdu Maskvos didysis kunigaikštis dovanojo jam sabalų ir kitų brangių bei retų žvėrių kailių."
-  atnaujinta: "2026-07-12 23:00"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Dovana ir politinis kontekstas palikti kaip kronikos pasakojimas, nes citatoje yra valdovų titulų ir motyvų kalbos. Nepridėta daugiau apie dovanos kiekį ar susitarimo sąlygas."
   susije_objektai: "mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Maskva"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-180555
 

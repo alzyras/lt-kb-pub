@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3b31b8b0ac2b1008be6949ff"
+canonical_name: "Krišpinas Kiršenšteinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Krišpinas Kiršenšteinas"]
+sameAs: []
+canonical_biography: "Be to, tuo pačiu metu valdovai dar kartą keitė miškų ūkio tvarkymą, atsirado naujlĮ verslovininklĮ· 1603 m. Kauno ir kitos girios buvo išnuomotos 4 metams Jonušui Eperjašui ir Krišpinui Kiršenšteinui, ill sutartys su valdovu buvo tęsiamos."
 ---
 # Krišpinas Kiršenšteinas
 
@@ -49,9 +56,9 @@ Be to, tuo pačiu metu valdovai dar kartą keitė miškų ūkio tvarkymą, atsir
 ## Citatos
 
 - id: c-185536
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 243"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 243."
   citata_originali: |
     Didžio-
     sios girios, esančios toliau nuo tokio prekybos miško prekėmis centro kaip Kaunas ir

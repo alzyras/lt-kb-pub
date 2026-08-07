@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c3d9c7c6c03746aac86fa96"
+canonical_name: "Leonas Valkūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["L. Valkūnas","Leonas Valkūnas"]
+sameAs: []
+canonical_biography: "Leonas Valkūnas šiame leidime du kartus tiesiogiai nurodomas kaip „Lietuvos istorijos“ vertėjas iš lotynų kalbos."
 ---
 # Leonas Valkūnas
 
@@ -58,7 +65,8 @@ Leonas Valkūnas šiame leidime du kartus tiesiogiai nurodomas kaip „Lietuvos 
 - id: c-167830
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 3."
   citata_originali: |
     BBK-63.3(2L)
     Vi-109

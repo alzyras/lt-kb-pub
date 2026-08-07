@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dba1028c20047ec7a9ac39ab"
+canonical_name: "Stanislovas Rapagelionis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Stanislovas Rapagelionis"]
+sameAs: []
+canonical_biography: "Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesmes, kurių dalis buvo versta Rapagelionio ir Kulviečio. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą."
 ---
 # Stanislovas Rapagelionis
 
@@ -78,7 +85,8 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
 - id: c-06623
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 623"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 623."
   citata_originali: |
     Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir
     kai kurias giesmes, kurių dalis buvo versta Rapagelionio ir Kul-
@@ -96,7 +104,8 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
 - id: c-06624
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 266."
   citata_originali: |
     Tuo pat metu protestantizmas labai uoliai buvo platinamas
     ir Mažojoje Lietuvoje. Ten buvo pradėta rūpintis liaudim, ku-

@@ -23,6 +23,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c3147d7b292bd9832332d51d"
+canonical_name: "Jonas Laskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Laskis"]
+sameAs: []
+canonical_biography: "Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą paliegusį karalių Aleksandrą."
 ---
 # Jonas Laskis
 
@@ -54,7 +61,8 @@ Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą palieg
 - id: c-83704
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 250."
   citata_originali: |
     Kilo didelis pavojus karaliaus
     saugumui, tad Aleksandras, ponų patarimu, kariuomenei

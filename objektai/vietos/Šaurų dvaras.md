@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d3718cb2c937a3409d30ffb"
+canonical_name: "Šaurų dvaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Saurų dvaras","Saurų dvaro","Saurų dvarą","Szawrach","Šaurų dvaras","Šaurų dvare","Šaurų dvaro"]
+sameAs: []
+canonical_biography: "Šaurų dvaras siejamas su Teodoro Narbuto gimimu, jo biblioteka ir muziejine kolekcija. Įvadinis straipsnis dvarą apibūdina kaip pagoniškų raritetų rinkinių vietą, o komentaruose jis minimas kaip Narbuto bibliotekos ir muziejaus kontekstas."
+place_authority: true
+historical_names: []
 ---
 # Šaurų dvaras
 
@@ -85,7 +94,8 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
 - id: c-171049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     Vi­
     suomenės akyse jis tapo LTI autoriumi.
@@ -105,7 +115,8 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
 - id: c-171052
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 51."
   citata_originali: |
     žemaitis. Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­
     tais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­

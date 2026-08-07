@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c3b87300d0a878f06992960f"
+canonical_name: "Žuvintas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žuvintas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež."
+place_authority: true
+historical_names: []
 ---
 # Žuvintas
 
@@ -68,7 +77,8 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
 - id: c-87538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 323."
   citata_originali: |
     Nekrasovas), v., p.
     Žirgupė

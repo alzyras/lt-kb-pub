@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8eee23e10213889bf1e6ab0a"
+canonical_name: "Karolis Jastržembskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis Jastržembskis"]
+sameAs: []
+canonical_biography: "sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Karolio Jastržembskio, susikovė su gen."
 ---
 # Karolis Jastržembskis
 
@@ -62,7 +69,8 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
 - id: c-44415
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     1863-1864 m. sukilėlių vėliava
 

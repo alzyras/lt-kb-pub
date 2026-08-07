@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-675c246a5c89c3b5cfa764ec"
+canonical_name: "Kamiencas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kamiencas"]
+sameAs: []
+canonical_biography: "Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko, Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių Ordino."
+place_authority: true
+historical_names: []
 ---
 # Kamiencas
 
@@ -60,7 +69,8 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 290."
   citata_originali: |
     Su pagoniškąja Lietuva pirmąsias nuolatinio karo paliau­
     bas Ordinas padarė 1379 m. Labai įdomios ir viduramžiui

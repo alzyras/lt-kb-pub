@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c907a14d07c116f416962259"
+canonical_name: "Kauno IX fortas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno IX fortas"]
+sameAs: []
+canonical_biography: "Be to, Kauno IX forte sušaudyti apie 6–8 tūkst."
+place_authority: true
+historical_names: []
 ---
 # Kauno IX fortas
 
@@ -49,7 +58,8 @@ Be to, Kauno IX forte sušaudyti apie 6–8 tūkst.
 - id: c-24165
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 201."
   citata_originali: |
     Lietuvos žydų (su Vilniaus kraštu). Buvo
     išgelbėti ar išgyveno apie 8 000, dar apie 8–9000 liko gyvi, nes spėjo pa-

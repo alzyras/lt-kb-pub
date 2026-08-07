@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c9ac2bd78f91fd04cd0aec98"
+canonical_name: "Molodečnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Molodečnas"]
+sameAs: []
+canonical_biography: "1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė nežygiavo link Molodečno ir surengė reidą po šiaurės rytų Lietuvą. Kurenecas lokalizuojamas į šiaurę nuo Molodečno kaip planuota Livonijos kariuomenės ir Švitrigailos susijungimo vieta."
+place_authority: true
+historical_names: []
 ---
 # Molodečnas
 
@@ -102,7 +111,8 @@ media_all_json: |-
 - id: c-170320
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 273."
   citata_originali: |
     Ir vasario 15 d. su­
     sijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­

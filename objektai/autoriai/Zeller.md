@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bcbffa1bc2d2c0f5d3df188a"
+canonical_name: "Zeller"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Zeller"]
+sameAs: []
+canonical_biography: "Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai (Zeller. 2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai (Zeller."
 ---
 # Zeller
 
@@ -66,7 +73,8 @@ Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dyd�
 - id: c-177288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
   citata_originali: |
     Vadi­
     nasi, čia gyventa jau iki IV amžiaus.

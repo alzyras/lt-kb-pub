@@ -134,7 +134,8 @@ Nenurodyta
 - id: c-169062
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 203."
   citata_originali: |
     Mat, kol
     G e d im in a s n u g a lė tų ­
@@ -177,7 +178,8 @@ Nenurodyta
 - id: c-178555
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202-203"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202-203."
   citata_originali: |
     Mat, kol
     G e d im in a s n u g a lė tų ­
@@ -217,7 +219,8 @@ Nenurodyta
 - id: c-178556
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 203."
   citata_originali: |
     Po to ėmėsi taikos meto darbų; kadangi dar
     nebuvo praėjęs paliaubų su kryžiuočiais laikas, me­

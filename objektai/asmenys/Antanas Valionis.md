@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5dc10ca2292b7ddc0b876491"
+canonical_name: "Antanas Valionis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Valionis"]
+sameAs: []
+canonical_biography: "Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų ministras Antanas Valionis pasirašo stojimo į Europos Sąjungą sutartį L I E T U V O S I S T O R I J A 262 Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais."
 ---
 # Antanas Valionis
 
@@ -61,7 +68,8 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
 - id: c-26657
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 261-262"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 261-262."
   citata_originali: |
     Narystė ES siejama su stabilumu tų insti-
     tucijų, kurios garantuoja demokratiją, įstatymų viršenybę, žmogaus teises

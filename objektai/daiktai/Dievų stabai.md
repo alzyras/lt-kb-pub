@@ -183,7 +183,8 @@ Nenurodyta
 - id: c-10244
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 239"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 239."
   citata_originali: |
     Žaliajame pagiry stovėjęs ąžuolas, kursai savo amžium, aukštybe ir platybe visų girių medžius
         pranokęs; tenai liepęs kūrėjų kūrėjas Brutenis svietui sueiti ir, jam suėjus, taip būk sakęs: „Dievai
@@ -203,7 +204,8 @@ Nenurodyta
 - id: c-10245
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 199"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 199."
   citata_originali: |
     Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas
         vaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju
@@ -222,7 +224,8 @@ Nenurodyta
 - id: c-171274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 242."
   citata_originali: |
     Luno Heliogabalo stabas, kurį
     Aurelijus Antoninas pastatė Romoje, ant Kapitolijaus kalno,
@@ -245,7 +248,8 @@ Nenurodyta
 - id: c-171275
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 259."
   citata_originali: |
     Šios rūšies paminklai buvo labiausiai naikinami Lietuvai
     priimant krikščionių tikėjimą; ypač atvertėjai - kryžiuočių ir
@@ -266,7 +270,8 @@ Nenurodyta
 - id: c-171276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 274."
   citata_originali: |
     273
 
@@ -287,7 +292,8 @@ Nenurodyta
 - id: c-171277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 289."
   citata_originali: |
     Politinė padėtis jau buvo
     nepalanki senajai religinei santvarkai, todėl tikėjimo galvos
@@ -311,7 +317,8 @@ Nenurodyta
 - id: c-179078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 243."
   citata_originali: |
     O šios šventyklos aprašyme
     istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
@@ -334,7 +341,8 @@ Nenurodyta
 - id: c-179079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 289."
   citata_originali: |
     Pasak neseniai rastų istorijos šaltinių, vyriausiojo žynio au­
     toritetas prūsams buvo toks didis, kad žynys labai retai leisda­

@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-00296
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 43."
   citata_originali: |
     Pažymėtina, kad „visbiečiai" ir „pirkliai" senovės lietuviams buvo
     vienareikšmės sąvokos. Kitokių pirklių jie, matyt, nė nepažino. To-

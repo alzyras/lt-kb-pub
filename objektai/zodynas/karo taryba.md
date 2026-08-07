@@ -50,7 +50,8 @@ Vytautas buvo sudarytosios karo tarybos pirmininkas, todėl jisai buvo ir tikras
 - id: c-03265
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 141."
   citata_originali: |
     Visų viršininku buvo laikomas Jogaila, ir jis turėjo duoti ženklą
     mūšiui pradėti. Vytautas buvo sudarytosios karo tarybos pir-

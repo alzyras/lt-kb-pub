@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1467883429ccb1fa6dc653ed"
+canonical_name: "Vilniaus regionas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus regionas"]
+sameAs: []
+canonical_biography: "Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva L I E T U V O."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus regionas
 
@@ -60,7 +69,8 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 - id: c-26559
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 239-240"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 239-240."
   citata_originali: |
     Tačiau LKP pertvar-
     kos taktika („žingsnis po žingsnio“) neparuošė valstybės tęstinumą įtvir-

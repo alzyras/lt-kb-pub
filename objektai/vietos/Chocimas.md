@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b375b87ec321eabc098a6259"
+canonical_name: "Chocimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Chocimas"]
+sameAs: []
+canonical_biography: "Jis pastojo turkams kelią Dniestro paupy, ties Chocimu."
+place_authority: true
+historical_names: []
 ---
 # Chocimas
 
@@ -60,7 +69,8 @@ Jis pastojo turkams kelią Dniestro paupy, ties Chocimu.
 - id: c-02631
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 324"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 324."
   citata_originali: |
     Kai 1621 m. Lenkiją užpuolė didžiulė 300.000 turkų kariuo-
     menė, surinkus 40.000 lenkų ir lietuvių, buvo jam pavesta vado-

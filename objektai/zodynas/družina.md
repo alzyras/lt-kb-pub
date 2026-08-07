@@ -58,7 +58,8 @@ Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­ tas, p
 - id: c-34148
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 204."
   citata_originali: |
     Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų
     opozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai.

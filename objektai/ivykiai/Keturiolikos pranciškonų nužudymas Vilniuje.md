@@ -126,7 +126,8 @@ Nenurodyta
 - id: c-170443
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 76."
   citata_originali: |
     APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ
     VILNIUJE

@@ -61,7 +61,8 @@ Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Mar
 - id: c-82565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135."
   citata_originali: |
     Dabartinis
     iš tiesų visiškai skiriasi nuo pirmes-

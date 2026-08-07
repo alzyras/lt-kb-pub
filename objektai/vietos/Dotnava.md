@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ade6faac4ce25cf83e7d16bc"
+canonical_name: "Dotnava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dotnava","Dotnavietis","Dotnavos","Dotnuva","Dotnuvoje"]
+sameAs: []
+canonical_biography: "Dotnava minima kaip vieta, su kuria siejami „Dotnavos gudai“ ir Dotnavos gyventojo pavadinimas."
+place_authority: true
+historical_names: []
 ---
 # Dotnava
 

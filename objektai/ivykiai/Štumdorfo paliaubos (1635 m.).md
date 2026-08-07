@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-02130
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 333"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 333."
   citata_originali: |
     Be to, lenkų bajorija reikalavo taikos ir gra-
     sino neduoti karui lėšų; jai pakako ir to, kad švedai žadėjo

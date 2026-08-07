@@ -111,7 +111,8 @@ Pilis sudeginta ir liko apleista.
 - id: c-91568
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 227."
   citata_originali: |
     XIV amž. ordinas Nemuno žemu­
     pyje ėmė statytis savo pilis, kurių kiekviena vis buvo nukreipta
@@ -130,7 +131,8 @@ Pilis sudeginta ir liko apleista.
 - id: c-91569
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
     Apie Bisenės pilies sudeginimą 1316 metais
     Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš

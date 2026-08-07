@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-79448854bbe55d8dc946c12e"
+canonical_name: "Dominykas Narkevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dominykas Narkevičius"]
+sameAs: []
+canonical_biography: "1631 m. Kauno suolininkas Dominykas Narkevičius testamentu savo mūrnamį Kaune skyrė dominikonų vienuolynui įkurti."
 ---
 # Dominykas Narkevičius
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185507
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 328"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 328."
   citata_originali: |
     Kalbamo laikotarpio pabaigoje Kaune kūrėsi dar dvi vienuolijos. 1631 m. Kauno
     suolininkas Dominykas Narkevičius testamentu savo mūrnamį Kaune skyrė domini-

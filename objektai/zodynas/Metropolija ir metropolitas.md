@@ -59,7 +59,8 @@ Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų 
 - id: c-34135
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 270."
   citata_originali: |
     Naugarde,
     Smolenske ir Tvėrėje. Ir Algirdas, ir Maskvos kunigaikštis tuo

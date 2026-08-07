@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e06da6da6865690b8eb08328"
+canonical_name: "Žuvų turgus Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žuvų turgus Vilniuje"]
+sameAs: []
+canonical_biography: "Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus šio tikėjimo apeigų vykdymas persikėlė į patį miestą ir jo centre, netoli Žuvų turgaus, pastoriai Če­ chavičius ir Vendrichovskis septynerius metus nuolat vie­ šai tas apeigas vykdė."
+place_authority: true
+historical_names: []
 ---
 # Žuvų turgus Vilniuje
 
@@ -56,7 +65,8 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
 - id: c-82301
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 299-300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 299-300."
   citata_originali: |
     5 pasakoja, kad
     „kapitula, gavusi žinių apie kažko­

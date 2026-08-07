@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c2fd0123dbbfdbea3def9a8"
+canonical_name: "Mykolas Brenšteinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mykolas Brenšteinas"]
+sameAs: []
+canonical_biography: "Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­ mis, mano, kad Vytauto amžiaus gale lietuvių artilerija buvo jau nemenka ir kad to amato lietuviai išmokę iš kryžiuočiu; iš jų retais atsitikimais gaudavę ir patranką."
 ---
 # Mykolas Brenšteinas
 
@@ -51,7 +58,8 @@ Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­ mis, mano, kad Vytaut
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 272."
   citata_originali: |
     Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­
     mis, mano, kad Vytauto amžiaus gale lietuvių artilerija buvo jau

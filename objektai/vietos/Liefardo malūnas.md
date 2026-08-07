@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0d26f2b9c91a6e8a5dd11cdc"
+canonical_name: "Liefardo malūnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liefardo malūnas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum pilis. Dusburgietis teigia, kad galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų gyvi. Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi miestiečiai jau nebeturėjo kuo gintis, jie, pakišę ugnį, padegė pilį; Šitai."
+place_authority: true
+historical_names: []
 ---
 # Liefardo malūnas
 
@@ -52,7 +61,8 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
 - id: c-59218
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     Persekiojami miestiečiai, nestengdami priešintis
     tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum

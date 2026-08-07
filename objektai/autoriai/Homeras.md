@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-635a1f54e9ecf6703a3c6fee"
+canonical_name: "Homeras"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Homeras"]
+sameAs: []
+canonical_biography: "Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą apie geresnio patarimo radimą. Narbutas, remdamasis Heine, Homero eilėse matė tiesioginį žmogėdrystės vaizdavimą, siejamą su Trojos karo laikų graikais. Homero kūriniuose Okeanas vadinamas upe, skalaujančia pasaulį."
 ---
 # Homeras
 
@@ -175,7 +182,8 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
 - id: c-173236
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 314."
   citata_originali: |
     Ši auka turi labai žilos senovės bruožų - dar iš tų
     barbarybės laikų, kai nugalėtojai surydavo karo belaisvius. Hei-
@@ -197,7 +205,8 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
 - id: c-173607
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 389"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 389."
   citata_originali: |
     Taigi naujų laikų gabumams nebūdin­
     gas praėjusių amžių tikėjimas, kuris buvo mokslinis,

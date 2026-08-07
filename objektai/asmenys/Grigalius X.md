@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fe46f9b744149f160de7ed45"
+canonical_name: "Grigalius X"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Grigalius X"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­ vimą 1272 viešpaties metais popiežiumi buvo Grigalius X. Dusburgietis teigia, kad apie Liono sinodą ir apie kardinolo Bonaventūros bei Tomo Akviniečio mirtį 1274 viešpaties metais Grigalius X, popiežius, norėdamas padėti šventajai žemei, sušaukė Lione sinodą, kuriame graikai sugrįžo į šventosios bažnyčios vienybę, o keli totorių."
 ---
 # Grigalius X
 
@@ -76,7 +83,8 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
 - id: c-60757
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236."
   citata_originali: |
     54. Apie Grigalių X, popiežių, ir šventos Jadvygos, Lenkijos kunigaikštienės, kanoniza­
                                       vimą
@@ -93,9 +101,9 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
     - t-001
 
 - id: c-184344
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 433"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 433."
   citata_originali: |
     Pamarių kunigaikščiams kerštaujant tarp
     savęs, kryžėjai nebijojos jų ir tylėjo, užvis jog

@@ -56,7 +56,8 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 - id: c-82747
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 43-44"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 43-44."
   citata_originali: |
     T. Il,
     9. - medinės bažnyčios ir bazilijo­

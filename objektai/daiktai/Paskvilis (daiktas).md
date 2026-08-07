@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-202385"></a>
 - t-001
   teiginys: "Paskvilio turinys neišliko, todėl jo neįmanoma nustatyti."
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,14 +59,19 @@ Nenurodyta
   pagrindžia:
     - c-185732
 
+## Santrauka
+
+Paskvilio turinys neišliko, todėl jo neįmanoma nustatyti.
+
 ## Citatos
 
 - id: c-185732
+  autorius: "Zigmantas Kiaupa"
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 3"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 3."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:24"
   pagrindzia:
     - t-001

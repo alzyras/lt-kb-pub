@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-366f7bafe72e895ffff048a0"
+canonical_name: "Jonas iš Tarnovo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas iš Tarnovo"]
+sameAs: []
+canonical_biography: "Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vytautui dėl imperatoriaus siūlymų."
 ---
 # Jonas iš Tarnovo
 
@@ -53,7 +60,8 @@ Krokuvos vaivada Jonas iš Tarnovo pritarė Zbignevo Olesnickio įspėjimui Vyta
 - id: c-169474
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 417"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 417."
   citata_originali: |
     Tuo tarpu Krokuvos vyskupas Zbig­
     nevas Olesnickis, nė kiek nenusigandęs, aiškiai nurodė,

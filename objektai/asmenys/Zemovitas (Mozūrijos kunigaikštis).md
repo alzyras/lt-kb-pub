@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5421e3dc89d97ac0cca91c59"
+canonical_name: "Zemovitas (Mozūrijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zemovitas (Mozūrijos kunigaikštis)"]
+sameAs: []
+canonical_biography: "1260 m. birželio 5 d. jis ir Mozūrijos kunigaikštis Zemovitas sudarė eilinę dar neužgrobtos Sūduvos pasidalijimo sutartį, sustiprindami tarpusavio sąjungą."
 ---
 # Zemovitas (Mozūrijos kunigaikštis)
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-44580
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Puolimo prieš Lietuvą išvakarėse Ordi-
     nas stiprino ryšius su lenkų kunigaikščiais.

@@ -98,7 +98,8 @@ Nenurodyta
 - id: c-10293
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 68-69"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 68-69."
   citata_originali: |
     Ketvirtasis trobesys buvo trobos, arba svetlyčia, kame svečius žiemą vaišino, taip pat
         pailguotinas ketvirtainis, kurio gyvenamasis galas visados buvo į rytus ar pietus atsuktas; it pusėj
@@ -120,7 +121,8 @@ Nenurodyta
 - id: c-10294
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 69"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 69."
   citata_originali: |
     Troboje, kurioje, kaip sakiau, žiemą tegyveno, turėjo tris keturis šalutinėj sienoj stiklo langus, o
         du trobos gale. Į saulėtekį buvo alkierius^223 , arba svečio troba, kursai užėmė pusę trobos
@@ -142,7 +144,8 @@ Nenurodyta
 - id: c-10295
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 70"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 70."
   citata_originali: |
     Prie to žiburio
         motriškosios verpė, vyriškieji, liepas mižodami^227 , lunkus plėšė, virves vijo, tinklus mezgė žuvims

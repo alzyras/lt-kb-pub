@@ -80,7 +80,8 @@ Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigian
 - id: c-84322
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 133."
   citata_originali: |
     Rogėse pasislėpusiems žmonėms pavyko patekti į
     pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­
@@ -104,7 +105,8 @@ Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigian
 - id: c-84323
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 134."
   citata_originali: |
     Tačiau
     Vilniaus diecezijos senųjų turto do- Vilnensis. Šis bulės originalas su ver-

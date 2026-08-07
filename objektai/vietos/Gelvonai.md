@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f44235218a80c5ef97ae1945"
+canonical_name: "Gelvonai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gelvonai"]
+sameAs: []
+canonical_biography: "Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę ir toliau keliu Gelvonų link, einančiu per dabartinį Pabaiską, vakarine Žirnajų ežero pakrante. Rugsėjo mėnesį lenkai užėmė Širvintas, Gelvonus, Bagaslaviskj (24) Želvą, Balnininkus, Alantą, Salaką ir kitas vietoves iki plento Kaunas Zarasaig&)."
+place_authority: true
+historical_names: []
 ---
 # Gelvonai
 
@@ -51,7 +60,8 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 - id: c-45099
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Sprendžiant iš pagrindinių istorinių
     šaltinių, Švitrigailos ir Ordino pajėgos iš

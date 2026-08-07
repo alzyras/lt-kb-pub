@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4237b5eb90f1cd0fde96c3ea"
+canonical_name: "Volfgangas Lazijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Volfgangas Lazijus"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos maldos užrašą, įdėdamas jį į savo istoriją. Volfgangas Lazijus, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis paskelbė heruliškąja laikytą maldą „Tėve mūsų“."
 ---
 # Volfgangas Lazijus
 
@@ -41,15 +48,22 @@ Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos 
 <a id="claim-t-191661"></a>
 - t-001
   teiginys: "Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos maldos užrašą, įdėdamas jį į savo istoriją."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Londonas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Volfgangas Lazijus: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Londonas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Volfgangas Lazijus\" parinktas kaip owner_note_path. Targetas \"Londonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-174544
+    - c-174543
 
 <a id="claim-t-191662"></a>
 - t-002
@@ -79,7 +93,8 @@ Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos 
 - id: c-174543
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 514-515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 514-515."
   citata_originali: |
     Gal būtų pra­
     dingus toji istorija, o kartu su ja ir tas brangus paminklas, jeigu
@@ -91,14 +106,17 @@ Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos 
   citata_rodoma: "Gal būtų pra­\ndingus toji istorija, o kartu su ja ir tas brangus paminklas, jeigu\nne mokslo pasaulyje žinomas istorikas Volfgangas Lazijus, kuris\nją įdėjo į savo istoriją. Iš Lazijaus perrašė Čemberlenas, o iš\npastarojo tas užrašas buvo įdėtas į Londono „Sylloge“. Tą mal­\ndą į savo knygas vėliau įrašė gdanskietis Kliuverijus (Liuvenus),\no vėliau — Dusburgo tęsėjas Hartknochas."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-174544
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 515."
   citata_originali: |
     Volfgangas Lazius (1514—1565), istoriografas ir geografas,, pir­
     masis paskelbė šią heruliškąją maldą „Tėve mūsų“. Dauguma to
@@ -113,5 +131,4 @@ Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

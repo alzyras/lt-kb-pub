@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a02065425f029b12bdc9d5d"
+canonical_name: "V. Trumpa"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Trumpa"]
+sameAs: []
+canonical_biography: "Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A."
 ---
 # V. Trumpa
 
@@ -58,7 +65,8 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
 - id: c-33182
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 49."
   citata_originali: |
     — Sideravičius, K. : _Marksistinė Lietuvos TSR isto­
     rija,_ Tiesa, 1959, m. 137 (VI.12).—Šarmaitis, R.: _Iš marksistinių-
@@ -78,7 +86,8 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
 - id: c-33183
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 68."
   citata_originali: |
     Penkauskas. Šalia bendros Bažnyčios ir Lietuvos
 

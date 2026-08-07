@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2c54bc987167c40a129fbcf9"
+canonical_name: "Niešavos kraštas (kraštas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Niešavos kraštas","Niešavos kraštas (kraštas)"]
+sameAs: []
+canonical_biography: "Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą."
+place_authority: true
+historical_names: []
 ---
 # Niešavos kraštas (kraštas)
 
@@ -51,7 +60,8 @@ Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Nie�
 - id: c-33981
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Po tiek ilgų ginčų ir ginkluotų konfliktų pagaliau buvo sutarta
     siena, kuri nuostabiu būdu, nežiūrint įvairių mėginimų ją pakeisti,

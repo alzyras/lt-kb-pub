@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-189883"></a>
 - t-001
   teiginys: "Narbutas Šeimos dievui skirtą auką aprašo kaip gyvų vištų deginimą krosnyje, siekiant, kad dievaičiai globotų tarnus ir sulaikytų šeimyną namuose."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -57,7 +57,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172766
-    - c-172767
 
 <a id="claim-t-189884"></a>
 - t-002
@@ -84,7 +83,8 @@ Nenurodyta
 - id: c-172766
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 174."
   citata_originali: |
     Bendras tokių dievaičių
     vardas buvo Šeimos (Siejmi arba Semios) dievas. Kaip auką
@@ -105,7 +105,8 @@ Nenurodyta
 - id: c-172767
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 174."
   citata_originali: |
     Samdiniai, namiškiai -  lietuviškai Šeimyna (Siej-
     mina).
@@ -122,5 +123,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a0f9619f1a5617a539cfaaf4"
+canonical_name: "Julius Slovackis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Julius Slovackis"]
+sameAs: []
+canonical_biography: "Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų LDK herbas Vytis iš."
 ---
 # Julius Slovackis
 
@@ -40,7 +47,8 @@ Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, k
 - id: c-21770
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 17."
   citata_originali: |
     Taigi Abiejų Tautų Respublika:
     •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,

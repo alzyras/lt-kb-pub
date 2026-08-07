@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7fd429d4efa62ff49296feac"
+canonical_name: "Balstogė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Balostekė","Balostekės","Balstogė","objektai/vietos/Balostekė"]
+sameAs: []
+canonical_biography: "Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine, Branickis Balstogėje."
+place_authority: true
+historical_names: []
 ---
 # Balstogė
 
@@ -85,7 +94,8 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 - id: c-73803
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
     Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
@@ -110,7 +120,8 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 - id: c-166393
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 408"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 408."
   citata_originali: |
     Čia buvo kuriami visi poli-
     tiniai planai, iš čia ėjo derybos su užsieniu, čia lankydavosi arba

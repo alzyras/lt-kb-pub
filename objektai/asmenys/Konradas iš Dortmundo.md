@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e3d64de891fee375c7be8a10"
+canonical_name: "Konradas iš Dortmundo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas iš Dortmundo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų išgriovė ir išžudė brolius bei krikščionis."
 ---
 # Konradas iš Dortmundo
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su vi
 - id: c-60998
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
   citata_originali: |
     Štai todėl prūsai271, susirinkę visi kaip vienas,
     išsirinko tą patį Sventopelką savo vyresniuoju bei vadu ir, susitelkę petys į petį, užplūdo

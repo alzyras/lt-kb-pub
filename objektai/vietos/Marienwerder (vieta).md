@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e9a1f4866f415dd2ea1b24f2"
+canonical_name: "Marienwerder (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Marienwerder","Marienwerder (vieta)"]
+sameAs: []
+canonical_biography: "Marienwerder (dabartinis Kwidzyn) buvo Prūsijos miestas ir pilis į pietus nuo Malborko bei Pomezanijos vyskupo sostinė."
+place_authority: true
+historical_names: []
 ---
 # Marienwerder (vieta)
 

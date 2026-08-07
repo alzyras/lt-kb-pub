@@ -22,8 +22,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-324c36671ef932413490843e"
+canonical_name: "Johannas Georgas Adamas Forsteris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Johannas Georgas Adamas Forsteris"]
+sameAs: []
+canonical_biography: "Johannas Georgas Adamas Forsteris (1754–1794) pastebėjo ilgą gėrimo ratu trukmę ir didelius išgeriamo alkoholio kiekius."
 ---
 # Johannas Georgas Adamas Forsteris
+
+## Santrauka
+
+Johannas Georgas Adamas Forsteris (1754–1794) pastebėjo ilgą gėrimo ratu trukmę ir didelius išgeriamo alkoholio kiekius.
 
 ## Santrauka
 
@@ -34,7 +45,7 @@ Johannas Georgas Adamas Forsteris (1754–1794) pastebėjo ilgą gėrimo ratu tr
 <a id="claim-t-200736"></a>
 - t-001
   teiginys: "Johannas Georgas Adamas Forsteris (1754–1794) pastebėjo ilgą gėrimo ratu trukmę ir didelius išgeriamo alkoholio kiekius."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -53,6 +64,6 @@ Johannas Georgas Adamas Forsteris (1754–1794) pastebėjo ilgą gėrimo ratu tr
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 14."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-001

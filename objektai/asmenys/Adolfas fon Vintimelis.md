@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8010290d363b9b9b45877845"
+canonical_name: "Adolfas fon Vintimelis (didikas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adolfas fon Vintimelis","Adolfas fon Vintimelis (didikas)"]
+sameAs: []
+canonical_biography: "Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą."
 ---
 # Adolfas fon Vintimelis (didikas)
 
@@ -54,7 +61,8 @@ Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prie
 - id: c-169533
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 180."
   citata_originali: |
     Trumpą atokvėpį vis dėlto nutraukė nauji ant­
     puoliai iš Prūsijos. Grafas Verneris fon Hoinbergas ir

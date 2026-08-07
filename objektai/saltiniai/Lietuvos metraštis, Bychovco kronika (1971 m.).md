@@ -89,7 +89,8 @@ media_all_json: |-
 - id: c-169765
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 3."
   citata_originali: |
     LIETUVOS
     METRAŠTIS
@@ -115,7 +116,8 @@ media_all_json: |-
 - id: c-169780
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 3-4"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 3-4."
   citata_originali: |
     Pavadinimas ,,Lietuvos metraštis, arba Bychovco
     kronika", kuris duotas šiam vertimui į lietuvių kalbą,

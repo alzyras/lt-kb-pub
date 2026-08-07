@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-01ac9dd7d0ef944d7c5cb28b"
+canonical_name: "Honorijus III"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Honorijus III"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlandia buvo ypač pabrėžta Witlandia. Jau galan metų 1224, Honorijus III popiežius, garsus lietuvių veika luose, atleido savo siuntinį Vilhelmą, vyskupą Mutinų, vyrą didžiai išmintingą ir gudrų, sumanantį kaip bažnyčios, taip ūkės reikaluose, į Padaugavį taikinti kalavijonų su v."
 ---
 # Honorijus III
 
@@ -71,7 +78,8 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
 - id: c-174297
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Sis skirtumas yra esminis dalykas;
     mes jį aptinkame jau 1224 metais popiežiaus Honorijaus
@@ -88,9 +96,9 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
     - t-001
 
 - id: c-184346
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 249"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 249."
   citata_originali: |
     Tuo pačiu laiku sukilo kerštai kalavijonų su Al­
     bertu, v. Rygos, kurie niekaip negalėjo taikiai žemę

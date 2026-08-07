@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4dca1912828d83e87f4b50f"
+canonical_name: "Romanova"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Romanova"]
+sameAs: []
+canonical_biography: "Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti."
+place_authority: true
+historical_names: []
 ---
 # Romanova
 
@@ -54,7 +63,8 @@ Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė
 - id: c-168634
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 60."
   citata_originali: |
     Daug kartų iš naujo
     imdavo garbinti stabus tie, kurių šeimoms pradžią yra

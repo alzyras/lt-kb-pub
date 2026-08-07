@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-348c7dd534e65b15510bad8f"
+canonical_name: "Klemensas iš Moskoževo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Klemensas iš Moskoževo"]
+sameAs: []
+canonical_biography: "Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“, taikos vardan pasiuntė į Vilnių per jo se­ ną gynėją Klemensą iš Moskoževo, papuoštą knygą apie Kris­ taus kančias, padėtą Vilniaus Katedroj jos patronų garbei (bu­ vo ir tam tikras."
 ---
 # Klemensas iš Moskoževo
 
@@ -62,7 +69,8 @@ Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“,
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 183."
   citata_originali: |
     Reikia manyti, kad tas susitaikinimas įvyko tuoj po Salyno
     sutarties. Apie tai galima spręsti iš to, kad Jogaila, kartu su

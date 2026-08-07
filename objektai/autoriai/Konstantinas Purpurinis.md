@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-de105afe409c9f18aa476a67"
+canonical_name: "Konstantinas Purpurinis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Konstantinas Purpurinis"]
+sameAs: []
+canonical_biography: "Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių kiekvieną sudarė keturios ordos. Pasak Purpurinio, Charoboe ordos sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove."
 ---
 # Konstantinas Purpurinis
 
@@ -75,7 +82,8 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
 - id: c-174466
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     Pažiūrėkime į šio pavadinimo ištakas, rem­
     damiesi savo žiniomis. Anot anuometinio istoriko Kons­
@@ -95,7 +103,8 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
 - id: c-174467
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 107."
   citata_originali: |
     100
     Geografija. Viena dešiniojoje Dnepro pakrantėje gy­

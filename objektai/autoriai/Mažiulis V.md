@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7900a5439825dd969be1c042"
+canonical_name: "Mažiulis V"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mažiulis V"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad lietuvių kalba težinojusi tokius Kuršių nerijos pavadinimus: Kopos (Kopai), Kalnai, Pajūriai (Pajūrės), Randavos (Mažiulis V., Dėl Neringos..., p. 301—315)."
 ---
 # Mažiulis V
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad lietuvių kalba težinojusi tokius Kuršių nerijos pav
 - id: c-61479
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
   citata_originali: |
     Kuršių  nerijos vardą pasidarė Ordino  raštininkai pagal Kuršo vyskupystės
     pavadinimą (taip atsirado  ir Kuršių marių pavadinimas). Nuo XV a. vidurio Ordino

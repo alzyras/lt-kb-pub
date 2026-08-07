@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f91c548e776de05620b33f20"
+canonical_name: "Vytautas Levandauskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vytautas Levandauskas"]
+sameAs: []
+canonical_biography: "Vilnius, 1991; Levandauskas Vytautas, Levandauskienė Regina, Simanavičius Žiburtas."
 ---
 # Vytautas Levandauskas
 
@@ -49,9 +56,9 @@ Vilnius, 1991; Levandauskas Vytautas, Levandauskienė Regina, Simanavičius Žib
 ## Citatos
 
 - id: c-185583
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 383"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 383."
   citata_originali: |
     Sudarytoja Algė Jankevičienė. Vilnius,
     1991; Levandauskas Vytautas, Levandauskienė Regina, Simanavičius Žiburtas. Kauno rotušės

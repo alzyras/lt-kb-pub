@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3acf517f4bac8f0d7bc6df0c"
+canonical_name: "Gorodecas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gorodecas"]
+sameAs: []
+canonical_biography: "Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zaslavlis."
+place_authority: true
+historical_names: []
 ---
 # Gorodecas
 
@@ -57,7 +66,8 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 - id: c-28243
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 133."
   citata_originali: |
     Etnografinė lietuvių siena rytuose šiauriau Nemuno yra dar
     sunkiau nustatoma, nes šis pakraštys nėra tiksliai ištyrinėtas.

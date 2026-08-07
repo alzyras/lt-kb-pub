@@ -59,7 +59,8 @@ Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo
 - id: c-75170
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 181."
   citata_originali: |
     Plebiscitas Saro krašte ir jo prijungimas prie Vokietijos išgąsdino
     Lietuvos vadovus. A. Smetona privačiai 1935 m. A. Hitlerį apibūdino

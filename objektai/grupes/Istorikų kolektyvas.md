@@ -50,7 +50,8 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 - id: c-33266
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 85."
   citata_originali: |
     K. Sideravičius: _Nuo Durbės iki Žal­
     girio_ (1944). Bendrą tų kovų istoriją paruošė istorikų kolektyvas :

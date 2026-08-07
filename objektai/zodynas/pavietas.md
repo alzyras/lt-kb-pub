@@ -131,7 +131,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
 - id: c-104852
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 117."
   citata_originali: |
     Vėliau karalienė
     Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
@@ -154,7 +155,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
 - id: c-104854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127-128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127-128."
   citata_originali: |
     Karalius tuoj pat
     aprūpino ją nemenkomis pajamomis: be turtingos Klodovo
@@ -195,7 +197,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
 - id: c-104855
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 246."
   citata_originali: |
     Jiems buvo pavestos spręsti visos bylos dėl turto, t. y. vadinamo-
     sios civilinės bylos. Tik bylos dėl žemės ribų (ežių) buvo pa-
@@ -214,7 +217,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
 - id: c-166365
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 246."
   citata_originali: |
     Tik bylos dėl žemės ribų (ežių) buvo pa-
     vestos atskiram pakamorės teismui. Kiekviename dabar
@@ -233,7 +237,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
 - id: c-175905
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 247."
   citata_originali: |
     Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto
     arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
@@ -248,9 +253,9 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
     - t-005
 
 - id: c-184852
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 12"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 12."
   citata_originali: |
     Savavaldaus miesto laikotarpio Kauno istorijos objektas yra sudėtingas. Kau-
     nas, kaip ir visi kiti XV-XVIII a. Lietuvos miestai, buvo tarsi trinaris, jį sudarė pats

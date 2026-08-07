@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47874ab68d504136a5945e19"
+canonical_name: "Fedkus Hrihorovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fedkus Hrihorovičius"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Fedkus Hrihorovičius
 

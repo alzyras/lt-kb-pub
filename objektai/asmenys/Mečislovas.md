@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8db73004bcb5be18721119b5"
+canonical_name: "Mečislovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mečislovas"]
+sameAs: []
+canonical_biography: "Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 metų. Pasakoja, jog Vladimiras, norėdamas atsiženklinti karėmis, būk kariavęs su Mečislovu, lenkų vieš pačiu, kuriam atėmęs piles Červenę, Peremyšlį Raus vuosiuose Guduose."
 ---
 # Mečislovas
 
@@ -67,7 +74,8 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
 - id: c-175367
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 216."
   citata_originali: |
     222
     Tai paminėję, pereikime prie rašytinių liudijimų, ku­
@@ -85,9 +93,9 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
     - t-001
 
 - id: c-184364
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 59"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 59."
   citata_originali: |
     Kas moka aiškiai* Lietuvos ir
     gudų kalbą, tas gal tą aiškiai regėti, kaipogi šios

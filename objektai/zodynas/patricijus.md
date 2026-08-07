@@ -113,7 +113,8 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
 - id: c-175084
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
   citata_originali: |
     Oresto nuverstas impera(orius Julijus Nepas, neturėjęs
     prieglaudos Dalmatijoje, tuojau po Odoakro pergalės at-

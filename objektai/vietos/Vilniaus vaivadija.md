@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-088b81ef27bfe5b4500177d2"
+canonical_name: "Vilniaus vaivadija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus vaivadija"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Vilniaus vaivadija
 

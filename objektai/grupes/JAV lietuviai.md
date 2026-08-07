@@ -79,7 +79,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 <a id="claim-t-74139"></a>
 - t-003
   teiginys: "JAV lietuvių siunčiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo darbams."
-  atnaujinta: "2026-07-24 15:56"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -104,7 +104,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 <a id="claim-t-74141"></a>
 - t-005
   teiginys: "00 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -134,7 +134,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - id: c-22418
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-
     sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-
@@ -163,7 +164,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - id: c-22419
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Rusijos revoliucija,
     caro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli-
@@ -192,7 +194,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - id: c-22420
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 151."
   citata_originali: |
     lausomybės metais tūkstančiai emigrantų grįžo į Lietuvą, pirko žemę,
     pradėjo verslus, atidarė pramonės įmones, bankus. T. Naruševičius,
@@ -211,7 +214,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - id: c-72190
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134-135"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134-135."
   citata_originali: |
     1918 m. kovą įtakingiausios JAV
 
@@ -234,7 +238,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - id: c-72191
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 150-151"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 150-151."
   citata_originali: |
     Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lie-
     tuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje. Pirmais neprik­

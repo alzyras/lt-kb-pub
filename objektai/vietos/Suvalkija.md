@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-89376064d8b5984d4cdd17d0"
+canonical_name: "Suvalkija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Suvalkija"]
+sameAs: []
+canonical_biography: "1948 m. spalio 8 d. tapo Tauro apygardos, vienijusios Suvalkijos regiono antisovietino pasipriešinimo dalyvius, vadu."
+place_authority: true
+historical_names: []
 ---
 # Suvalkija
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-77314
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 238."
   citata_originali: |
     Partizanas nuo 1945 m.
     Dalyvavo kuriant Tauro apygardos Žalgirio

@@ -99,7 +99,8 @@ Nenurodyta
 - id: c-63164
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Apie sūduvių pabėgimą
     Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su

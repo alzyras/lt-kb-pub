@@ -47,7 +47,8 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
 - id: c-176022
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 133."
   citata_originali: |
     Iš visų čia suminėtų sri-
     čių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji

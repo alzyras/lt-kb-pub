@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-936945ed061143eeba55952a"
+canonical_name: "Alanta"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alanta","Alantos dvaras","Alantos dvarą"]
+sameAs: []
+canonical_biography: "Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius po jo atidavė garsiajam Bekešui. Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams paveldėtojams, giminaičiams ir tiek vy­ riškos, tiek ir moteriškos lyties artimiesiems tuos paminė­ tus Alantos dvarą ir jam priklausančius Kristupiškių ir Kirdeikiškių dvarelius bei."
+place_authority: true
+historical_names: []
 ---
 # Alanta
 
@@ -66,7 +75,8 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
 - id: c-55430
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 309."
   citata_originali: |
     Kavars­
     kas nuo Ukmergės nutolęs per 4 my­
@@ -87,7 +97,8 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
 - id: c-81908
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 438-439"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 438-439."
   citata_originali: |
     O tuo laiku verti geradarybės ir naudingi tar­
     nai kiekvienoje gerai tvarkomoje valstybėje būna remiami

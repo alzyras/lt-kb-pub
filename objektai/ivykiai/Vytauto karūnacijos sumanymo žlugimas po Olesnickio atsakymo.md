@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-82945
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 175-176"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 175-176."
   citata_originali: |
     Apie save pasakysiu: nei dovanomis
     papirkti, nei grasinimais įbauginti neįstengs; mat tėvynės

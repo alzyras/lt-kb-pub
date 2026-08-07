@@ -32,7 +32,7 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 <a id="claim-t-59074"></a>
 - t-001
   teiginys: "Petras Dusburgietis dedikacijoje rėmėsi Tobijo žodžiais, kad apreikšti Dievo darbus yra šlovinga."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Petras Dusburgietis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -51,7 +51,8 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 - id: c-59706
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
     šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
@@ -76,7 +77,8 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 - id: c-167409
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     PRŪSIJOS ŽEMĖS
        KRONIKA

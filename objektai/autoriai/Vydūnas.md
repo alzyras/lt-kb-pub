@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac91040d847b58fc1d0659ce"
+canonical_name: "Vydūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vydūnas"]
+sameAs: []
+canonical_biography: "Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui, kuris vadovauja vietos lietuviams. Vydūnas (Vilius Storasta)."
 ---
 # Vydūnas
 
@@ -54,7 +61,8 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 - id: c-85435
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 643"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 643."
   citata_originali: |
     Vydūnas (Vilius Storasta).
   statusas: verified
@@ -68,7 +76,8 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 - id: c-85436
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
   citata_originali: |
     Šią mintį palaikė kiti, tarp jų Vydūnas (Vydūnas., Sieben Hundert
     Jahre..., p. 131).
@@ -81,7 +90,8 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 - id: c-85437
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 642"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 642."
   citata_originali: |
     Todėl vokiečiai ėmė
     labai rūpintis išnaikinti lietuvybę anapus Nemuno ir remti vo-

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-634743894d6566c01c23921f"
+canonical_name: "Padauguvio Sėla"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Padauguvio Sėla"]
+sameAs: []
+canonical_biography: "Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai nesustojo kairiajame Dauguvos kran­ te, bet, įkandin sekdami sėlius, persikėlė ir į dešinįjį Dauguvos šoną — Latgalon, ir gyveno Daugpilio apylinkėje (K."
+place_authority: true
+historical_names: []
 ---
 # Padauguvio Sėla
 
@@ -51,7 +60,8 @@ Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai
 - id: c-33987
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 134."
   citata_originali: |
     Aukštaičių žemė siekėsi su sėliais ir žiemgaliais, toli įsiterpusiais
     į Lietuvos plotą. Užėmę Padauguvio Sėlą (tarp Dauguvos intakų

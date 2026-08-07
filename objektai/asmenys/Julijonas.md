@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-286b86eb5f5899d8a0f3006d"
+canonical_name: "Julijonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Julijonas"]
+sameAs: []
+canonical_biography: "Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas persų karalių Saporą per Dneprą ir alanų kraštą. Julijonas priklausė minėtai tautai."
 ---
 # Julijonas
 
@@ -70,7 +77,8 @@ Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas pers�
 - id: c-174305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Naru­
     ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­

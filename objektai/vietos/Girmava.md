@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6ad23877163f28bf244ca027"
+canonical_name: "Girmava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Girmava"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų pilis315, degindamas ir grobdamas abiejose [kelio]. Dusburgietis teigia, kad ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab. Dusburgietis teigia, kad pilis buvo stipriai 3 pylimais įtvirtintoje kalvoje, į šiaurės vakarus nuo Girmavos, vakarinėje Sembos pusiasalio pakrantėje (CF, p. 29—32, Nr. 12; Гуревич Ф."
+place_authority: true
+historical_names: []
 ---
 # Girmava
 
@@ -84,7 +93,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - id: c-86288
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 103."
   citata_originali: |
     Apie Girmavos valsčiaus nuniokojimą
     Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
@@ -107,7 +117,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - id: c-86289
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
   citata_originali: |
     316 D.— Girmow, Jer.— Girmowe; vėliau Germau (dab. Ruskojė) — Girmava,  į
     pietryčius nuo Palmininkų (dab. Jantarnas), sembų valsčiaus centras.

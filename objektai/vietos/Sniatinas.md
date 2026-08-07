@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f424a3c7df4c13f0acc19870"
+canonical_name: "Sniatinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sniatinas"]
+sameAs: []
+canonical_biography: "Sniatinas lokalizuojamas į rytus nuo Kolomyjos. Apie 1485 m. rugsėjo 24 d. Kazimieras lydėjo Steponą iki Sniatino."
+place_authority: true
+historical_names: []
 ---
 # Sniatinas
 

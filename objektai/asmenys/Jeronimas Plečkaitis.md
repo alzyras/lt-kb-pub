@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4e329c6cf0da3e90e2e052e9"
+canonical_name: "Jeronimas Plečkaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jeronimas Plečkaitis"]
+sameAs: []
+canonical_biography: "Sukilusieji su savo lyderiu Jeronimu Plečkaičiu priešakyje pasitraukė į užsienį ir kurį laiką, veikdami iš Rygos, o paskui iš Lenkijos, vykdė teroro veiksmus, puoselėdami planus..."
 ---
 # Jeronimas Plečkaitis
 
@@ -62,7 +69,8 @@ Sukilusieji su savo lyderiu Jeronimu Plečkaičiu priešakyje pasitraukė į už
 - id: c-26671
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 157."
   citata_originali: |
     1927 m. rugsėjo 8–9 d. ginkluotos socialdemokratų grupės surengė
     pučus keliose apskrityse. Sukilimas kuriam laikui pavyko tik Tauragėje,

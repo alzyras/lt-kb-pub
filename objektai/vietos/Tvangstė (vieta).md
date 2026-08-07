@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b3d08d9e8913ea126bc84b78"
+canonical_name: "Tvangstė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tvangstė","Tvangstė (vieta)"]
+sameAs: []
+canonical_biography: "Nuo tenai Otokaras leidos Pragaru pagal žemyn lig girios, Tvangste vadinamos, kur sai, radęs tenai kalną paupy, užsikėto miestą ir pilį pamatuoti, kuriam pamatus padėjęs, ateinantį metą grįžo namo."
+place_authority: true
+historical_names: []
 ---
 # Tvangstė (vieta)
 
@@ -46,9 +55,9 @@ Nuo tenai Otokaras leidos Pragaru pagal žemyn lig girios, Tvangste vadinamos, k
 ## Citatos
 
 - id: c-184527
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 361"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 361."
   citata_originali: |
     Meldžionys, nė nuo
     ko nerasdami atsparo, kur užėjo, ten į tyrą vertė,

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eed8fc8ddf4907094d58fc96"
+canonical_name: "Andriejus (Vilniaus vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andriejus (Vilniaus vyskupas)"]
+sameAs: []
+canonical_biography: "Rodos, kad Jogaila su Vytautu ir Vilniaus vysk."
 ---
 # Andriejus (Vilniaus vyskupas)
 
@@ -61,7 +68,8 @@ Rodos, kad Jogaila su Vytautu ir Vilniaus vysk.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 182."
   citata_originali: |
     Tuo reikalu jų abiejų susitarimas
     turėjo įvykti 1397 m. pavasarį, būnant Jogailai Lietuvoj. Rodos,

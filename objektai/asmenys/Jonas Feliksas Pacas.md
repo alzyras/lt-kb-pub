@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a240436b8e97a48939c34a4a"
+canonical_name: "Jonas Feliksas Pacas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Feliksas Pacas"]
+sameAs: []
+canonical_biography: "Jonas Feliksas Pacas buvo Šv. Kotrynos bažnyčios sumanytojas ir fundatorius, o jo herbas bei devizai puošė bažnyčios fasadą."
 ---
 # Jonas Feliksas Pacas
 

@@ -110,7 +110,8 @@ Nenurodyta
 - id: c-169066
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 400."
   citata_originali: |
     Štai todėl Vytautas ir ėmė raginti Jogailą neiš­
     sižadėti vilties ir pasirinkti naują gyvenimo draugę.
@@ -132,7 +133,8 @@ Nenurodyta
 - id: c-178563
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 400."
   citata_originali: |
     Neturėjo įpėdinio nė Jogaila. Vytautas itin ne­
     rimavo dėl šitokios padėties, dėl kurios sielojasi valdo­

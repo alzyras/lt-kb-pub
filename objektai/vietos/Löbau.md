@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b9aec90b01e9cd5d667c1641"
+canonical_name: "Löbau"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Löbau"]
+sameAs: []
+canonical_biography: "Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti šiaurėn, į Löbau. Kryžiuočių kariuomenė kelią nuo Löbau iki Grün­ valdo (22—25 klm.) turėjo atlikti tą audringą naktį, nes liepos mėn."
+place_authority: true
+historical_names: []
 ---
 # Löbau
 
@@ -86,7 +95,8 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 102."
   citata_originali: |
     Kai kurių riterių
     įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti šiaurėn, į
@@ -107,7 +117,8 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 102."
   citata_originali: |
     Kryžiuočių kariuomenė kelią nuo Löbau iki Grün­
     valdo (22—25 klm.) turėjo atlikti tą audringą naktį, nes liepos

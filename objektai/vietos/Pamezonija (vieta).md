@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7814e8ff3ac1d8a53b629373"
+canonical_name: "Pamezonija (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pamezonija","Pamezonija (vieta)"]
+sameAs: []
+canonical_biography: "Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apygar das Lubavos, į parubežių Pamezonijos, kur buvo ne tikėliai jau apjunkę krikščionys; visų pirma nuėjo tenai pas Sudreikį kunigaikštį. Tuo jau lietuviai ir žemaičiai įsigrūdę su didžia kariau na į Pamezoniją ir Kulmiją, kurgi ir Sviatopelkas persikėlęs su savo kariauna taikinėjo lietuviams terioti ir deginti."
+place_authority: true
+historical_names: []
 ---
 # Pamezonija (vieta)
 
@@ -65,9 +74,9 @@ Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apy
 ## Citatos
 
 - id: c-184475
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 240"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 240."
   citata_originali: |
     Paskesniai rados taip pat zokanykas cisternas, var­
     du Kristijonas, iš klioštoriaus Olivos, vyras buklus,
@@ -92,9 +101,9 @@ Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apy
     - t-001
 
 - id: c-184476
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 313"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 313."
   citata_originali: |
     Tok­
     sai darbas Sviatopelko drąsino dar didesniai lietu­

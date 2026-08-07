@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-366b66fb495e7d8b07b9e446"
+canonical_name: "Baltvyžių girios"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Baltvyžių girios"]
+sameAs: []
+canonical_biography: "Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgubernatorius Sviatopolkas Mirskis ir Kauno gubernatorius Veriovkinas sutarė prikalbėti tuo reikalu carą medžioklėje, įvykusioje Baltvyžių giriose."
+place_authority: true
+historical_names: []
 ---
 # Baltvyžių girios
 
@@ -50,7 +59,8 @@ Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgub
 - id: c-02593
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 529"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 529."
   citata_originali: |
     Šio dekreto paskelbimą paveikė aukštieji Rusų valdžios atstovai
     Lietuvoje. Negalėdami spaudos atšaukimo pasiekti per ministerius,

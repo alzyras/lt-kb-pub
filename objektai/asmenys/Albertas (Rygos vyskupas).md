@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-230b08a513179f5ce6f9b291"
+canonical_name: "Albertas (Rygos vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas (Rygos vyskupas)","Rygos arkivyskupas Albertas","Rygos vyskupo Alberto","vyskupas Albertas"]
+sameAs: []
+canonical_biography: "Albertas buvo Rygos vyskupas ir vienas Livonijos vokiečių valdžios kūrėjų. Šaltiniuose jis minimas kaip savo vyskupijoje ordiną steigęs valdovas, priėmęs Kristijono priesaiką savo vardu ir 1209 m. nugalėjęs Jersikos karalių Visvaldį."
 ---
 # Albertas (Rygos vyskupas)
 
@@ -52,7 +59,8 @@ Albertas buvo Rygos vyskupas ir vienas Livonijos vokiečių valdžios kūrėjų.
 - id: c-13108
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 22."
   citata_originali: |
     Jotvingiai aw MI Visvaldis buvo nugalėtas
     NY Rygos vyskupo Alberto.

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-00f30c27a6330d816bd1b989"
+canonical_name: "Zigmantas Herberšteinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Zigmantas Herberšteinas"]
+sameAs: []
+canonical_biography: "Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos perteikia vėliau mūšį aprašęs diplomatas Zigmantas Herberšteinas, pasakytų, kai rusų vadas įsakė leisti persikelti visai Lietuvos kariuomenei. Dalį kaltės dėl maskvėnų pralaimėjimo galima priskirti vyriausiajam vadui Čeliadninui, Zigmanto Herberšteino liudijimu, jis arogantiškai leido persikelti Lietuvos kariuomenei per Dnieprą ir nederino veiksmų su kitu Maskvos karvedžiu Bulgakovu-Golica."
 ---
 # Zigmantas Herberšteinas
 
@@ -58,7 +65,8 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
 - id: c-176468
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 85."
   citata_originali: |
     Maskvos kariuomenė persikė-
     limui netrukdė, nes buvo suklai-
@@ -85,7 +93,8 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
 - id: c-176469
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 86."
   citata_originali: |
     Iš karto po mūšio
     iš stovyklos Borisove Žygimanto Senojo

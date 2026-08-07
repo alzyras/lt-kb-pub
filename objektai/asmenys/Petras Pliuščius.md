@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-038c0143262963507150bd03"
+canonical_name: "Petras Pliuščius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Pliuščius"]
+sameAs: []
+canonical_biography: "300 ## Puslapis 317 IV KNYGA Paliko vaito pareigas to paties karaliaus sutikimu kovo 11 d. - 1620 Burmistrai: nuo katalikų - Petras Pliuščius - 1620 nuo stačiatikių - Leonas Mamoničius 11."
 ---
 # Petras Pliuščius
 
@@ -64,7 +71,8 @@ media_all_json: |-
 - id: c-83906
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 316-317"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 316-317."
   citata_originali: |
     9. Motiejus (arba Matas) Božiminskis, iš bajorų,
     paskirtas karaliaus Zigmanto Vazos raštu,

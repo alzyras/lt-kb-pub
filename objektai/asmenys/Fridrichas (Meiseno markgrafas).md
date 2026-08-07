@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ef38b7d76c5d4a81dc1c31f"
+canonical_name: "Fridrichas (Meiseno markgrafas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas (Meiseno markgrafas)"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Fridrichas (Meiseno markgrafas)
 

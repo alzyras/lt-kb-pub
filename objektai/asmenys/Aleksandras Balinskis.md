@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6c62bbfb665199f043f92563"
+canonical_name: "Aleksandras Balinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Balinskis","Aleksandras iš Balino Balinskis","Balinskis"]
+sameAs: []
+canonical_biography: "Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydytojas, susijęs su Aleksandro Jogailaičio gydymu Vilniuje. Pasakojimas pabrėžia jo reputaciją, gydymo nesėkmę, vėlesnį kalinimą ir karališkosios vaistinės dalies likimą Vilniuje."
 ---
 # Aleksandras Balinskis
 
@@ -163,7 +170,8 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - id: c-55303
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 249."
   citata_originali: |
     Tačiau Aleksandro planai pasirodė esą klaidingi, nes
     totoriai, nepaisydami grasinimų, jog Šach Achmedas bet ka­
@@ -185,7 +193,8 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - id: c-55304
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 249."
   citata_originali: |
     Aleksandras iš Balino Balinskis, Kro­
     kuvos bajoraitis nuo Olkušo, pa­
@@ -213,7 +222,8 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - id: c-157453
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 253-254"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 253-254."
   citata_originali: |
     Livoniae, T. I,
     N. 1208, kur nurodytas Slaptajame
@@ -250,7 +260,8 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - id: c-157455
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 250-251"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 250-251."
   citata_originali: |
     Le Roi ir homeopatijos mėgėjai. Sun- 47
     kiai atkentėjo Balinskis už savo gydy- Strijkovskis savo metraštyje,

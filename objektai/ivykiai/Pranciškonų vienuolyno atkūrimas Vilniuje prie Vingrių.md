@@ -99,7 +99,8 @@ Nenurodyta
 - id: c-169882
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 77."
   citata_originali: |
     O paskui Petras Goštautas atsivedė kitus vienuo-
     lius-pranciškonus, bet nebedrįso jau statyti jiems vie­

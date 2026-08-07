@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e2228c84373b37e399443c93"
+canonical_name: "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ipolitas Klimaševskis","Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)"]
+sameAs: []
+canonical_biography: "Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptikęs Bychovco kronikos rankraštį. Dėl dalyvavimo 1831 m. sukilime jis emigravo į užsienį ir spėjo paskelbti tik dramatiškiausią kronikos fragmentą apie Žygimanto Kęstutaičio nužudymą. Trumpoje pratarmėje apie rankraščio radimą Klimaševskis pirmasis įvertino šią kroniką."
 ---
 # Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)
 
@@ -157,7 +164,8 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
 - id: c-169842
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
   citata_originali: |
     Bychovco kronikos rankraštį prieš 1830 m. Alek-
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-
@@ -178,7 +186,8 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
 - id: c-169843
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
   citata_originali: |
     Trumpoje pratarmėlėje apie rankraščio radimą Aleksandro By-
     chovco bibliotekoje I. Klimaševskis pirmasis šią kroni-
@@ -195,7 +204,8 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
 - id: c-169844
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
   citata_originali: |
     Bychovco kronikos rankraštį prieš 1830 m. Alek-
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-

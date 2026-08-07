@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-30a30e33fc2b1e5ae5d94ec1"
+canonical_name: "Liuteronys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liuteronys"]
+sameAs: []
+canonical_biography: "Taip ir Mikniškių žemė, nuo­ mojama Vepriuose, Liuteronių kaime..........................Pa­ baisko su visĮais] ................"
+place_authority: true
+historical_names: []
 ---
 # Liuteronys
 
@@ -50,7 +59,8 @@ Taip ir Mikniškių žemė, nuo­ mojama Vepriuose, Liuteronių kaime...........
 - id: c-82186
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 265."
   citata_originali: |
     Taip ir Mikniškių žemė, nuo­
     mojama Vepriuose, Liuteronių kaime..........................Pa­

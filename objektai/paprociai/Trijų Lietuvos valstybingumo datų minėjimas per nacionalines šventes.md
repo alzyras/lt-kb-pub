@@ -143,7 +143,8 @@ Nenurodyta
 - id: c-12431
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 10."
   citata_originali: |
     Tačiau svar-
     biausia, kodėl Lietuvai reikia prisiminti mūšius - ji kaip valstybė
@@ -168,7 +169,8 @@ Nenurodyta
 - id: c-43178
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 10."
   citata_originali: |
     Jau vien šios aplinkybės neleidžia tiesiogiai lyginti ir
     gretinti Švedijos ir Lietuvos istorijos, juo labiau kad niekada nesi-

@@ -123,7 +123,8 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
 - id: c-172332
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
   citata_originali: |
     Šie sakė, kad aukštieji dievai užsiundę tas
     piktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.
@@ -146,7 +147,8 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
 - id: c-172333
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
   citata_originali: |
     Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
     matomas užpuola miegančias moteris, kitą kartą prijaukintas
@@ -167,7 +169,8 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
 - id: c-172334
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
   citata_originali: |
     Kai kurios moterys išėjo iš proto. Išsigandę žmonės kreipėsi į
     stabmeldžių žynius. Šie sakė, kad aukštieji dievai užsiundę tas

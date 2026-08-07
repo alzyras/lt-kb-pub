@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3471c5a08c3735c8a7c8cb8b"
+canonical_name: "Prūsų kraštas (kraštas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Prūsų kraštas","Prūsų kraštas (kraštas)"]
+sameAs: []
+canonical_biography: "Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios."
+place_authority: true
+historical_names: []
 ---
 # Prūsų kraštas (kraštas)
 
@@ -52,7 +61,8 @@ Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.
 - id: c-170339
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
   citata_originali: |
     tėvas kunigaikštis Kęstutis (tada jis buvo galingas),
     jei būtų norėjęs, būtų atėmęs Vilnių ir kunigaikščiui

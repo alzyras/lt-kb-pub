@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dd2c3b6f9bb1aef618b882d4"
+canonical_name: "Stanislovas (Plocko vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas (Plocko vyskupas)"]
+sameAs: []
+canonical_biography: "Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82."
 ---
 # Stanislovas (Plocko vyskupas)
 
@@ -58,7 +65,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - id: c-83908
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 171-172"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 171-172."
   citata_originali: |
     Tais
     81

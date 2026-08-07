@@ -70,7 +70,8 @@ Narbutas nurodo, kad, remiantis Vaiselijumi, Hokerlando sritis vadinta Hoggerlan
 - id: c-174744
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
   citata_originali: |
     Iš to jau matyti, jog ji buvo viena mažiausių apylinkių.
     Pamaryje buvo ne tiek daug gyventojų, nes ten plytėjo

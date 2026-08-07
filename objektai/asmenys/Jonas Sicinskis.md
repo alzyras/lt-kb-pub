@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0077f73c195e7361ab34c9c8"
+canonical_name: "Jonas Sicinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Sicinskis"]
+sameAs: []
+canonical_biography: "Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu, kuris sudavė antrą smūgį K."
 ---
 # Jonas Sicinskis
 
@@ -51,7 +58,8 @@ Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė rotmi
 - id: c-44387
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 98."
   citata_originali: |
     maistą ir amuniciją. Birželio 2-3 d. LDK di-
     dysis etmonas Kristupas Radvila Perkūnas

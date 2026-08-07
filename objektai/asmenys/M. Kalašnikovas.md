@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a547e44753778d72f16b01ed"
+canonical_name: "M. Kalašnikovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. Kalašnikovas"]
+sameAs: []
+canonical_biography: "Statybininkų šalmai ir dujokaukės - gautos Vilniaus miesto tarybos | | Lietuvos atsikurimas ## Puslapis 258 KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI 1947 m. sovietų konstruktoriaus M."
 ---
 # M. Kalašnikovas
 
@@ -59,7 +66,8 @@ Statybininkų šalmai ir dujokaukės - gautos Vilniaus miesto tarybos | | Lietuv
 - id: c-44441
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 257-258"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 257-258."
   citata_originali: |
     Maistą taip pat aukojo gyventojai
     ir maitinimo įmonės. Statybines medžiagas

@@ -56,7 +56,8 @@ Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijo
 - id: c-84273
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 190."
   citata_originali: |
     Asesorių sprendimas byloje su Vil­
     niaus magistratu, tas aprobacijas ginčijančiu, paskelbtas; ka­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ad89d3252295fa04ba2ebd7"
+canonical_name: "Goteris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Goteris"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi ir rusų karalienės Rindos vyru. Narbuto pasakojime Goterio sūnus ir įpėdiniai baigiantis II a. nutraukė ilgai trukusius karus su rusais. Goterio sū nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu traukė baigiantis II krikščioniškosios eros amžiui4."
 ---
 # Goteris
 
@@ -87,7 +94,8 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
 - id: c-174156
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Maždaug to
     paties amžiaus pabaigoje švedų karalius Got'brodas irgi
@@ -108,7 +116,8 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
 - id: c-174157
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Supylė virš jo kapo didžiulį pil­
     kapį, amžiną karingo Bojo šlovės paminklą3. Goterio sū­
@@ -132,7 +141,8 @@ Teodoro Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi
 - id: c-179316
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Vienas suomių burtininkas išpranašavo šį
     liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­

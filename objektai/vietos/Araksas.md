@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fa1aad3883863dc6f56288ab"
+canonical_name: "Araksas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Araksas"]
+sameAs: []
+canonical_biography: "Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, gyveno budinai, ir Volgos žemupį, kur jie vėliau apsigyveno. Pasak Narbuto, persų galybės slegiami skitai buvo nustumti nuo armėnų Arakso ir patraukė prie Volgos žemupio."
+place_authority: true
+historical_names: []
 ---
 # Araksas
 
@@ -82,7 +91,8 @@ Narbutas Araksu vadina ir senovės Armėnijos upę, prie kurios, jo pasakojimu, 
 - id: c-171865
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Ar tas var­
     das yra kilęs iš jų kalbos prigimties, ar tai koks mitologinis

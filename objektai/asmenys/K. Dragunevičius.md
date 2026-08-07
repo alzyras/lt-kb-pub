@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7f5c4967a7b002338d4426e2"
+canonical_name: "K. Dragunevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["K. Dragunevičius"]
+sameAs: []
+canonical_biography: "Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę juos abipus vieškelio Kėdainiai-Šėta, efektyvia šautuvų ugnimi įstengė sustabdyti priešo puolimą. Dragunevičiaus vadovaujama vidurinioji vora privalėjo pulti bolševikus abipus kelio Žemieji Kapliai-Šėta."
 ---
 # K. Dragunevičius
 
@@ -68,7 +75,8 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
 - id: c-44399
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 173."
   citata_originali: |
     Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
     Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su
@@ -95,7 +103,8 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
 - id: c-44400
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 175."
   citata_originali: |
     Pirmoji grupė, va-
     dovaujama paties Variakojo, turėjo suda-

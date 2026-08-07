@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2d545041c6f417365fabe5d"
+canonical_name: "Kristijonas Gotlibas Milkus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristijonas Gotlibas Milkus"]
+sameAs: []
+canonical_biography: "Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmės."
 ---
 # Kristijonas Gotlibas Milkus
 
@@ -82,7 +89,8 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
 - id: c-21835
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 98."
   citata_originali: |
     III s k y r i u s
     Rusijos imperijos

@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a7905c8b78d3edfb8d21740d"
+canonical_name: "Zajączkowski, St"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Zajączkowski, St"]
+sameAs: []
+canonical_biography: "Zajączkowski, St."
 ---
 # Zajączkowski, St
 
@@ -56,7 +63,8 @@ Zajączkowski, St.
 - id: c-55082
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 245."
   citata_originali: |
     Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
     St. : _Przymierze polsko-litewskie 1325 r.,_ KH, t. 40, 1926, 567-617 p. —

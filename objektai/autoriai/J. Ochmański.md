@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-16e2aba12ea6ccf1782db3c4"
+canonical_name: "J. Ochmański"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Ochmański"]
+sameAs: []
+canonical_biography: "Ochmańskio raštai, P. Ochmański, J."
 ---
 # J. Ochmański
 
@@ -50,7 +57,8 @@ Ochmańskio raštai, P. Ochmański, J.
 - id: c-32975
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 92."
   citata_originali: |
     Beveik
     tą patį galima pasakyti ir apie reformacijos tyrinėtoją St. Kotą.

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-317e9a030ade22bf4972555b"
+canonical_name: "Rūdninkų vartai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rūdninkų vartai"]
+sameAs: []
+canonical_biography: "Mikalojaus kapinių netoli Rūdninkų vartų, o kitoje pusėje - ligi Trakų kelio, dovanodamas ten ir aikštes, ir namus, net su gyventojais11."
+place_authority: true
+historical_names: []
 ---
 # Rūdninkų vartai
 
@@ -51,7 +60,8 @@ Mikalojaus kapinių netoli Rūdninkų vartų, o kitoje pusėje - ligi Trakų kel
 - id: c-82210
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 128."
   citata_originali: |
     Ati­
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos

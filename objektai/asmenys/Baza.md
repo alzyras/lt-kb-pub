@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5d8fb6e1e6ed9acb0616e267"
+canonical_name: "Baza"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Baza"]
+sameAs: []
+canonical_biography: "Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas savo kariuomenių vadų pasitarimą. Baza buvo mūšio lauke nukovęs gepidų karalių Trazilą ir įveikęs Bazos vadovaujamus bulgarus, — pasikvietęs pagalbon visigotus, kai šiek tiek užtruko jo žygis, surengė savo kariuomenių vadų pasitarimą dėl tolesnių veiksmų; tuo pat metu jis gavo žinią, j°g Odoakras su visomis savo pajėgomis, atėjęs prie Sonzo upės netoli Akvilos, įsirengė stovyklą ir taip įsitvirtino vietovėje, tarsi laukdamas priešo."
 ---
 # Baza
 
@@ -91,7 +98,8 @@ Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas
 - id: c-174257
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 321."
   citata_originali: |
     Odoakras savo ruožtu taip pat negaišo laiko; jis su­
     telkė gausesnę, geriau negu užpuoliko ginkluotą kariuo­

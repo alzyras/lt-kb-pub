@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2d8354634aef0a549c73e0a9"
+canonical_name: "Klaipėdos kraštas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Klaipėdos kraštas"]
+sameAs: []
+canonical_biography: "Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui. Nuo to laiko Klaipėdos kraštas yra neginčijama Lietuvos valstybės dalis."
+place_authority: true
+historical_names: []
 ---
 # Klaipėdos kraštas
 
@@ -225,7 +234,8 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 - id: c-166175
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 10."
   citata_originali: |
     Klaipėdos sukilimas, kuriam vadovavo J. Budrys, tapo paskutine ofenzyvinio pobūdžio Lietuvos karinė operacija, kurios dėka xx a. pirmoje pusėje buvo susigrąžintas
     Klaipėdos kraštas, vokiečių užgrobtas dar XII a. viduryje.
@@ -240,7 +250,8 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 - id: c-166422
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 592-593"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 592-593."
   citata_originali: |
     **Klaipėdos krašto atskyrimas nuo Vokietijos.** Taikos kon-
     ferencija tik iš dalies teatsižvelgė į tuos lietuvių reikalavimus:
@@ -262,7 +273,8 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 - id: c-166994
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 16."
   citata_originali: |
     Be to, moderniosios Lietuvos
     valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes. Tiesa, Versalio
@@ -281,7 +293,8 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 - id: c-166995
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 151."
   citata_originali: |
     Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
     nistracija, remiama bataliono prancūzų pėstininkų. Prancūzai skelbė, kad
@@ -298,7 +311,8 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 - id: c-166997
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 153."
   citata_originali: |
     Abi ša-
     lys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos
@@ -316,7 +330,8 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 - id: c-166998
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 179."
   citata_originali: |
     „Ašies“ susidarymas kilus politinei krizei dėl užsienio intervencijos rodė
     pasikeitus opozicinių partijų veiklos taktiką.
@@ -339,7 +354,8 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 - id: c-166999
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 181."
   citata_originali: |
     Įvesti mokymą lietuviškai pagal mokinių kilmę
     nepavyko, o nurodymai tarnautojams darbe kalbėti lietuviškai, dalyvauti
@@ -360,7 +376,8 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 - id: c-167000
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 181."
   citata_originali: |
     Klaipėdos kraštas dauge-
     liu išsivystymo parametrų buvo panašesnis į Latviją ir Estiją, negu į Di-
@@ -380,7 +397,8 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 - id: c-176310
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 153."
   citata_originali: |
     1925 m. Klaipėdos krašto gyventojų surašy-
     mo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000
@@ -399,7 +417,8 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 - id: c-176311
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 255."
   citata_originali: |
     Tarpukariu Lietuva su Vokietija konfliktavo dėl Klaipėdos krašto, o
     su Lenkija – dėl Vilniaus krašto. XX a. pabaigoje padėtis pasikeitė. Vokie-

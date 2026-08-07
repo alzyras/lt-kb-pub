@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df6bec4c2165c85c0478fe44"
+canonical_name: "Adomas Jakštas-Dambrauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adomas Jakštas-Dambrauskas"]
+sameAs: []
+canonical_biography: "1902 m. kun. Adomas Jakštas-Dambrauskas išleido lenkiškai knygelę, kurioje išdėstė jaunosios lietuvių kartos siekius ir programą, pageidaudamas, kad ir jaunoji Lietuvos bajorų karta aiškiai pasisakytų, kas ji – lietuviai ar lenkai."
 ---
 # Adomas Jakštas-Dambrauskas
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-21542
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 122."
   citata_originali: |
     Jau ne vienos šeimos kalbėjimas
     lietuviškai viešai, pamaldų lietuvių kalba reikalavimai bažnyčiose kėlė len-

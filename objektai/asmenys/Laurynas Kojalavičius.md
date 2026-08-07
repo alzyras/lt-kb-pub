@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9755d06171d30600c78ed83d"
+canonical_name: "Laurynas Kojalavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Laurynas Kojalavičius"]
+sameAs: []
+canonical_biography: "Štai 1638 m. Kauno pirklys Laurynas KojaIavičius kratėsi Klaipė dos pirklio Jokūbo Rynkės pretenzijų: pastarasis, būdamas skolingas Kojalavičiui už prekes kelis šimtus auksinų, pasiūlė uŽ jas varpą."
 ---
 # Laurynas Kojalavičius
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185423
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 234"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 234."
   citata_originali: |
     Tačiau ryšių būta. Štai 1638 m. Kauno pirklys Laurynas KojaIavičius kratėsi Klaipė­
     dos pirklio Jokūbo Rynkės pretenzijų: pastarasis, būdamas skolingas Kojalavičiui už

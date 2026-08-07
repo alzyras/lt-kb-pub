@@ -54,7 +54,8 @@ Narbutas Trakų pavadinimą aiškino slavų medžioklės terminu „utroczyc“,
 - id: c-172225
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 275."
   citata_originali: |
     Šis istori­
     nis fragmentas toks įdomus, kad negalime nepaaiškinti kai ku­

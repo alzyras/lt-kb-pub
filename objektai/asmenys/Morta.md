@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5bf7e00cd8481ea18dc945e2"
+canonical_name: "Morta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Morta"]
+sameAs: []
+canonical_biography: "Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną."
 ---
 # Morta
 
@@ -62,7 +69,8 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
 - id: c-21901
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 29."
   citata_originali: |
     Opoziciją pirmiausia sudarė artimiausi giminai-
     čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną

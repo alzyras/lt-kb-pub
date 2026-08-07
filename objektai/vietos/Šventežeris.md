@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7964b51cb33e1682d7e10587"
+canonical_name: "Šventežeris"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventežeris"]
+sameAs: []
+canonical_biography: "Vėliau tas pat atsitiko Naumiesty, Šventežery."
+place_authority: true
+historical_names: []
 ---
 # Šventežeris
 
@@ -55,7 +64,8 @@ Vėliau tas pat atsitiko Naumiesty, Šventežery.
 - id: c-171978
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
   citata_originali: |
     Priėjo, vaizdingoje vietoje, yra kaimas, vadi­
     namas Romanovu (Romanowo), kuris primena šventąjį Ro-

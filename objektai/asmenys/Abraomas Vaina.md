@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0b53006c1464d80db3634a99"
+canonical_name: "Abraomas Vaina"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Abraomas Vaina"]
+sameAs: []
+canonical_biography: "Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abraomo Vainos sprendimu uždrausti ir likviduoti tą paprotį. Narbutas aiškina, kad piktnaudžiavimas stipriaisiais gėrimais paskatino Vilniaus vyskupą Abraomą Vainą uždrausti aukojimo puotų paprotį."
 ---
 # Abraomas Vaina
 
@@ -83,7 +90,8 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
 - id: c-173010
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 311."
   citata_originali: |
     310
 
@@ -107,7 +115,8 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
 - id: c-173716
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 497"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 497."
   citata_originali: |
     Tai buvo akivaizdus aukojimo puotų li­
     kutis. Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tik­

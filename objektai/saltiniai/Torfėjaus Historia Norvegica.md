@@ -53,7 +53,8 @@ Narbuto perteikimu, Torfėjus Frotono III valdymą siejo su III krikščioniško
 - id: c-174616
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     Tai patvir­
     tina Nestoro pateiktos žinios, kad skandinavams priklau­

@@ -59,7 +59,8 @@ media_all_json: |-
 - id: c-67431
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 154-155"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 154-155."
   citata_originali: |
     Maršalka dar bandė įrodinėti, kad jie karo nenorį ir kad turį
     vilties geruoju įrodyti teises jiems priklausomoms žemėms, tačiau

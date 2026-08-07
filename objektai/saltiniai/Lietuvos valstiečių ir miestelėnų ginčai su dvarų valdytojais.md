@@ -55,7 +55,8 @@ iš XVI-XVII amžių doku­ mentų rinkinio « Lietuvos valstiečių ir miestel�
 - id: c-33647
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 70."
   citata_originali: |
     toliau pats leido šaltinius, sėkmingai skatino to darbo imtis kitus
     ir iki savo mirties (1960) tęsė tyrinėjamąjį darbą.

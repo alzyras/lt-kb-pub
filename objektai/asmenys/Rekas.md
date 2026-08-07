@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ce637b349350584a407c220"
+canonical_name: "Rekas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rekas"]
+sameAs: []
+canonical_biography: "Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvančio ąžuolo, liepė jį apkasti šviežia žeme ir paramstyti. Narbutas pasakoja, kad aistruoliu lošėju laikytas Rekas, lošdamas nepaklausė bitės pranešimo ir vos jos neužmušė dėl zvimbimo."
 ---
 # Rekas
 
@@ -66,7 +73,8 @@ Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvanči
 - id: c-172994
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
   citata_originali: |
     Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­
     nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek
@@ -88,7 +96,8 @@ Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvanči
 - id: c-172995
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 233."
   citata_originali: |
     Nimfa, pagauta davusi žodį, nebegalė­
     jo atsisakyti, tad pažadėjo pasimatyti su juo vienu, tik su sąly­

@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c342fecff07fc45fdb587196"
+canonical_name: "Mickus Pocaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mickus Pocaitis"]
+sameAs: []
+canonical_biography: "Narbutas IV lentelėje mini Mickaus Pocaičio antspaudą su žalčiais, datuojamą maždaug XV amžiaus viduriu."
 ---
 # Mickus Pocaitis
 
@@ -61,7 +68,8 @@ Narbutas IV lentelėje mini Mickaus Pocaičio antspaudą su žalčiais, datuojam
 - id: c-173117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 404"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
   citata_originali: |
     IV
     lentelė, 18-asis piešinys. Astuoni antspaudai su žalčiais;

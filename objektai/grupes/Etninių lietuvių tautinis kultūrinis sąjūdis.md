@@ -44,7 +44,7 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
 <a id="claim-t-65147"></a>
 - t-001
   teiginys: "Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo aukštąją kultūrą lietuvių ir žemaičių kalba."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -96,7 +96,8 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
 - id: c-65623
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     Karaliaučiuje žymaus
     mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
@@ -126,7 +127,8 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
 - id: c-166510
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 99."
   citata_originali: |
     Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės
     praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukili-
@@ -146,7 +148,8 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
 - id: c-166511
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     Jau tuomet pripažinta, kad
     tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.

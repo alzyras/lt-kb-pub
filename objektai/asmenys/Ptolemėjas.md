@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dc8803ad1be5098172646214"
+canonical_name: "Ptolemėjas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ptolemėjas"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, kurią tyrinėtojai siejo su Silezija arba Vyslos apylinkėmis. Teodoro Narbuto perteikimu, Naruševičius Ptolemėjo chunų koloniją siejo su vieta, kur vėliau buvo Kijevas. Teodoro Narbuto teigimu, Ptolemėjas turėjo žinių apie Sūduvos provinciją ir minėjo sudinų koloniją prie germanų markomanų."
 ---
 # Ptolemėjas
 
@@ -52,7 +59,7 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
 <a id="claim-t-191099"></a>
 - t-002
   teiginys: "Teodoro Narbuto perteikimu, Naruševičius Ptolemėjo chunų koloniją siejo su vieta, kur vėliau buvo Kijevas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -185,7 +192,8 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
 - id: c-173980
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
   citata_originali: |
     Mes net nežinome, ar tai buvęs tik
     vardas lėtų, arba veikiau lietuvių, genties, ar visai at­
@@ -208,7 +216,8 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
 - id: c-173981
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Nestoras irgi nusirašė visa tai. Esmė ta,
     kad Ptolemėjas mini ir chiotus, bet tokioje pavadinimų,
@@ -231,7 +240,8 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
 - id: c-173982
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
   citata_originali: |
     Tačiau Ptolemėjas turi tam tikrų žinių apie
     šią, toje pačioje vietoje esančią provinciją, be to, neabe­
@@ -259,7 +269,8 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
 - id: c-173984
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 273."
   citata_originali: |
     270
     Lietuvos provincijos. Stavanus Ptolemėjas vadina Sta-
@@ -278,7 +289,8 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
 - id: c-174854
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
   citata_originali: |
     Ten, miškuose, yra akmeninių pas­
     tatų griuvėsių ir ant kalvų piliaviečių, primenančių žilą
@@ -300,7 +312,8 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
 - id: c-174855
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 290."
   citata_originali: |
     Senovės tyrinėtojai teigia, kad Vendenas Livoni­
     joje yra jų kolonija, kurią senovės lyviai vadino Kisia.

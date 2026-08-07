@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-90b62d8663ce2d9a1060d284"
+canonical_name: "Pantikapėja"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pantikapėja"]
+sameAs: []
+canonical_biography: "Narbuto aiškinime Pantikapėjos vardas Skitijos geografijoje galėjo žymėti ne vieną upę ar vietovę, nes Kerčė stovėjo ant Pantikapėjos griuvėsių."
+place_authority: true
+historical_names: []
 ---
 # Pantikapėja
 
@@ -54,7 +63,8 @@ Narbuto aiškinime Pantikapėjos vardas Skitijos geografijoje galėjo žymėti n
 - id: c-175661
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
   citata_originali: |
     Pantikapas, o
     tai panašiausia į tikrovę, yra šiandienė Pripetė, jungianti

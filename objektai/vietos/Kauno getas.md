@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5275ef1d11b7333d26be8c69"
+canonical_name: "Kauno getas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno getas"]
+sameAs: []
+canonical_biography: "žydų laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnaudoti kaip pigi darbo jėga."
+place_authority: true
+historical_names: []
 ---
 # Kauno getas
 
@@ -37,7 +46,8 @@ media_all_json: |-
 - id: c-24169
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 200."
   citata_originali: |
     Akcijose
     prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-

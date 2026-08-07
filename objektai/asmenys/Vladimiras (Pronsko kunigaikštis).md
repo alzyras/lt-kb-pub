@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6b6dda6bc0985146835b4f3b"
+canonical_name: "Vladimiras (Pronsko kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladimiras (Pronsko kunigaikštis)"]
+sameAs: []
+canonical_biography: "Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio."
 ---
 # Vladimiras (Pronsko kunigaikštis)
 
@@ -52,7 +59,8 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 - id: c-41477
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 50."
   citata_originali: |
     Didysis kunigaikštis Dmitrijus
     buvo užsidaręs Kremliuje, jo pusbrolis
@@ -74,7 +82,8 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 - id: c-167155
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 50."
   citata_originali: |
     Buvo sudegintas užmiestis
     ir dalis priemiesčio („posado“), plačiai nu-

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-04b51b18f6b08d6dc1aa86d3"
+canonical_name: "Stanislovas Jendžejevskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Jendžejevskis"]
+sameAs: []
+canonical_biography: "Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais."
 ---
 # Stanislovas Jendžejevskis
 
@@ -54,7 +61,8 @@ Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančio
 - id: c-169616
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 679"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 679."
   citata_originali: |
     Esą jam labai malonu, kad rū­
     pinamasi taika, maskvėnų perbėgėlių Lietuvoje tuo

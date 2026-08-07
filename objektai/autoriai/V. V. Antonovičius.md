@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d85aafcccf6bf95e80e0dfe7"
+canonical_name: "V. V. Antonovičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. V. Antonovičius"]
+sameAs: []
+canonical_biography: "Odesos universiteto istorikas V. V. Antono­ vičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­ bės istoriją iki Gedimino mirties (AnM, AnOč). Jo veikalo skyriai apie Vytenį ir Gediminą buvo išversti ir lietuviškai^134."
 ---
 # V. V. Antonovičius
 
@@ -51,7 +58,8 @@ Odesos universiteto istorikas V. V. Antono­ vičius iš šaltinių bandė tirti
 - id: c-33187
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 93."
   citata_originali: |
     XIX amžiui einant į galą rusų universitetų istorikams vis
     daugiau ėmė parupti išsiaišinnti, kas buvo anoji Lietuvos valstybė,

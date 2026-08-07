@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a1e241788167c4b92f2564ac"
+canonical_name: "Gedimino pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gedimino pilis","Gedimino pilis (pilis)"]
+sameAs: []
+canonical_biography: "GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 1328 m. Gardino puolimu, Prūsų kry­ žiuočiai sudegino nuo Vytenio laikų pagarsėjusių Karšuvos pilių Putvės (Putenikos) ir Aukaimio priešpilius, teriojo Vėjukus (Wayken), puolė Gedimino. Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį)."
+place_authority: true
+historical_names: []
 ---
 # Gedimino pilis (pilis)
 
@@ -78,7 +87,7 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
 <a id="claim-t-179909"></a>
 - t-003
   teiginys: "Ordino brolių vėliava su sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį ant kalno."
-  atnaujinta: "2026-07-19 17:45"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -89,7 +98,6 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-163545
     - c-163547
 
 <a id="claim-t-179910"></a>
@@ -151,7 +159,8 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
 - id: c-163543
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
   citata_originali: |
     15. Apie Gedimino pilies ir jos papilio sudeginimą
 
@@ -176,7 +185,8 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
 - id: c-163545
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
     Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
@@ -197,13 +207,13 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
     - t-004
 
 - id: c-163546
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 242."
   citata_originali: |
     Šis žygis, kuriame buvo daug svečių iš
     visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir
@@ -224,7 +234,8 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
 - id: c-163547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 199."
   citata_originali: |
     Tačiau brolių vėliava su savo
     sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis

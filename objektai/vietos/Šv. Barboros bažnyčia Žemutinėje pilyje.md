@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1fa3696a54a1fbfdddb496ce"
+canonical_name: "Šv. Barboros bažnyčia Žemutinėje pilyje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Barboros bažnyčia Žemutinėje pilyje"]
+sameAs: []
+canonical_biography: "Be kitų, Že­ mutinėje pilyje buvo pastatyta Šv."
+place_authority: true
+historical_names: []
 ---
 # Šv. Barboros bažnyčia Žemutinėje pilyje
 
@@ -51,7 +60,8 @@ Be kitų, Že­ mutinėje pilyje buvo pastatyta Šv.
 - id: c-82255
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 292"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 292."
   citata_originali: |
     Dažnas Žygimanto Augusto, jo
     palydos, svetimšalių pasiuntinių ir didikų buvojimas Vil­

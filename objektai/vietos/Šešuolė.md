@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5b3a86aa9456f22ebb8277f"
+canonical_name: "Šešuolė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šešuolė"]
+sameAs: []
+canonical_biography: "7-asis pulkas turėjo pulti Širvintas ir užimti liniją: Alionys-Puoriai-Ramaškonys-Šešuolėlių dvaras. Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į ŠešuolėsVirintos upių liniją."
+place_authority: true
+historical_names: []
 ---
 # Šešuolė
 
@@ -51,7 +60,8 @@ media_all_json: |-
 - id: c-45460
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 210."
   citata_originali: |
     Užėmę Kurklius, lenkai veržėsi Vidiškių
     ir Ukmergės link. Giedraičius gynęs

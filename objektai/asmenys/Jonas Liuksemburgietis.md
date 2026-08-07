@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-374810de399e0c47a7a837e6"
+canonical_name: "Jonas Liuksemburgietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Liuksemburgietis"]
+sameAs: []
+canonical_biography: "Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus Jono Liuksemburgiečio žygis į pietvakarių Žemaičius. Šis žygis, kuriame buvo daug svečių iš visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir žygyje dalyvavusio prancūzų."
 ---
 # Jonas Liuksemburgietis
 
@@ -62,7 +69,8 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
 - id: c-32759
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 242."
   citata_originali: |
     Gardino puolimu, Prūsų kry­
     žiuočiai sudegino nuo Vytenio laikų pagarsėjusių Karšuvos pilių

@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-83265
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 199."
   citata_originali: |
     Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­
     rie be preparata ex officio suo [paruoštų pagal savo pareigas]

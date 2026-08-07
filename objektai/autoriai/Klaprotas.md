@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-00a8937c264222e4a2f83bd0"
+canonical_name: "Klaprotas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Klaprotas"]
+sameAs: []
+canonical_biography: "Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdamas neradęs ryškaus panašumo į lietuvių kalbą. Narbuto tekste gamtos tyrinėtojai Klaprotas ir Hagenas nurodomi kaip teigę, kad gintaras yra senojo pasaulio kūrinys."
 ---
 # Klaprotas
 
@@ -95,7 +102,8 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
 - id: c-174510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
   citata_originali: |
     Juk šiandien negalima nieko įro­
     dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi
@@ -123,7 +131,8 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
 - id: c-175317
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
   citata_originali: |
     Wigancli Epis-
     copi Pomesatiiensis de Succino, alce et herbis iri Prussia

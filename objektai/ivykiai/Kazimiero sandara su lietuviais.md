@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184672
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 382"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 382."
   citata_originali: |
     Pavasariui radusis, traukė vėl į Mozūriją, bet
     radę tenai degėsus dar tebrūkstant pernykščių jų te-

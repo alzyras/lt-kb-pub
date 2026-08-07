@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-167342
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     Apie kelių prūsų žūtį
     Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo tokia narsa ir drąsa,

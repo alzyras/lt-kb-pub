@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   [{"mediaId":"m-15513ab57f711e9781350d2c","title":"Mirozhskaya.jpg","caption":"Mirožo Dievo Motinos ikona su Pskovo kunigaikščiu Daumantu (Dovmontu) ir jo žmona","originalTitle":"Mirozhskaya.jpg","creator":"shakko","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Own work","dateDisplay":"2008-02","dateStart":null,"dateEnd":null,"width":2013,"height":2521,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMirozhskaya.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/91/Mirozhskaya.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mirozhskaya.jpg/1920px-Mirozhskaya.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/91/Mirozhskaya.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Bogomater s predstoyashimi icons","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Daumantas of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Icons in Museum of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Icons of princes of Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mirozhskaya icon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mirozhsky Monastery, Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old default)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-70)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Canon Digital IXUS 75","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded by Shakko/Photos","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded by Shakko/Photos (icons)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Women of Russia in XII-XVII century","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Daumantas.md","title":"Daumantas (kunigaikštis, XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T16:02:35.243567+03:00","reviewedAt":"2026-07-18T17:23:08.462693+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Ikonoje kairėje pavaizduotas klūpantis kunigaikštis, o metaduomenys nurodo Pskovo kunigaikštį Dovmontą ir jo žmoną.","metadataEvidence":"Kandidato aprašas aiškiai įvardija „Pskov prince S. Dovmont“; Daumantas po krikšto priėmė Timofėjaus vardą ir tapo Pskovo kunigaikščiu.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus istorinis Daumanto, žinomo kaip Pskovo Dovmontas, atvaizdas.","isPrimary":1},{"mediaId":"m-c772ce26865ac2052da559d3","title":"Mirozhskaya 2.jpg","caption":"Mirožo Dievo Motinos ikona su Pskovo kunigaikščiu Daumantu (Dovmontu) ir jo žmona","originalTitle":"Mirozhskaya 2.jpg","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.svyatayarus.ru/data/icons/66_great_panagia_mirozhskaya_oranta/index.php","dateDisplay":"1583","dateStart":null,"dateEnd":null,"width":486,"height":612,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMirozhskaya_2.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Mirozhskaya_2.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Mirozhskaya_2.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Mirozhskaya_2.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Bogomater s predstoyashimi icons","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Exhibition Sainte Russie (Moscow 2011) - icons","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files, uploaded by Shakko from various sources","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"House of Domontovitch","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Icons in Museum of Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Icons of princes of Russia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mirozhskaya icon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mirozhsky Monastery, Pskov","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old default)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-70)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Daumantas.md","title":"Daumantas (kunigaikštis, XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T16:02:35.245140+03:00","reviewedAt":"2026-07-18T17:23:08.478486+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma ta pati ikonos kompozicija: Dievo Motina centre, o šonuose – klūpantys kunigaikštis ir kunigaikštienė.","metadataEvidence":"Aprašas aiškiai nurodo Pskovo kunigaikštį Dovmontą; data ir muziejinė proveniencija identifikuoja konkretų eksponatą.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai identifikuotas istorinis Daumanto-Dovmonto atvaizdas.","isPrimary":0}]
+entity_id: "ent-ad6f8f25a68c4fff556e8266"
+canonical_name: "Daumantas (kunigaikštis, XV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Daumantas","Daumantas (kunigaikštis, XV a.)","Daumanto","Daumantui","Daumantą"]
+sameAs: []
+canonical_biography: "Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su sąmokslu prieš Mindaugą ir vėliau tapęs Pskovo kunigaikščiu. Jis minimas kaip Mindaugo svogeris, priėmęs Timofėjaus vardą ir iš naujosios žemės rengęs žygius prieš Nalšėnus."
 ---
 # Daumantas (kunigaikštis, XV a.)
 
@@ -408,7 +415,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-04827
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 170."
   citata_originali: |
     Tiesa, Mindaugas dėl tokių
     savo užsimojimų užsitraukė daug neapykantos, bet jis apjungė didelę
@@ -428,7 +436,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-04830
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 205."
   citata_originali: |
     Pačią Pskovo pilį jis apjuosė
     akmens mūrais, kurie ligi šiol tebevadinami « Daumanto sienomis ».
@@ -447,7 +456,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-21642
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 73."
   citata_originali: |
     Mindaugas po pirmo nepasisekimo ėmė gailėtis nu-
     traukęs su ordinu sutartį ir vėl nusigręžė į rusų kraštus. 1263
@@ -465,7 +475,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-21643
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 81."
   citata_originali: |
     Kitas jo brolis, Vainys, val-
     dė Polocką. Gediminas nebuvo toks karingas, kaip Vytenis.
@@ -485,7 +496,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-21645
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 201."
   citata_originali: |
     Jau nuo seniau susitelkusi Treniotos neapykanta Mindaugui užaštrėjo
     dar labiau, kai nenusisekė į Livoniją (Cesį) jų bendras žygis, kurio
@@ -510,7 +522,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-21646
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 204-205"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 204-205."
   citata_originali: |
     Per krikštą priėmęs Timofėjaus vardą, Daumantas, kaip veiklus
 
@@ -538,7 +551,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-168044
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 107."
   citata_originali: |
     Vargu ar prislėgti
     krikščionys būtų kada lengviau atsikvėpę, jeigu be­
@@ -565,7 +579,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-168046
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 108."
   citata_originali: |
     Mat tuo
     metu
@@ -590,7 +605,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-168047
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 138."
   citata_originali: |
     Giedriui buvo
     duotos plačios valdos šiaurės pusėje: jis davė pradžią
@@ -617,7 +633,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-168048
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 140."
   citata_originali: |
     Kai baigėsi šer­
     menys, Daumantas, pagarbiai išlydėjęs svečius, prie­
@@ -659,7 +676,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-176526
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 206."
   citata_originali: |
     Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos
     vardas nežinomas. 1266 m. persikėlęs j Pskovą ir tapęs Pskovo ku­
@@ -677,7 +695,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-176527
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 59."
   citata_originali: |
     Priėmęs krikštą, jis suprato, kad šis gyvenimas
     nieko nevertas, ir, atsisakęs gyvenimo, tapo vienuoliu;
@@ -703,7 +722,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-176528
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 60."
   citata_originali: |
     Kunigaikštis Daumantas suprato, kad ne jo jėgoms
     atsispirti, ir prašė savo pilėnų, kad jie neatiduotų pi­
@@ -725,7 +745,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-176824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 60."
   citata_originali: |
     Ir Vilnia
     [Vilnius] buvo priverstas duoti
@@ -770,7 +791,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-178685
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 108."
   citata_originali: |
     Už
     ištremtus savo brolius tegu jis praliejąs Mindaugo, iš-
@@ -792,7 +814,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-178687
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 473"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 473."
   citata_originali: |
     Šie, išviję arba atleidę iš tarnybų
     pareigūnus,
@@ -818,7 +841,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-178929
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 60."
   citata_originali: |
     Ir kai Traidenis
     nesisaugodamas ėjo iš pirties, tie jo vyrai klastingai
@@ -841,9 +865,9 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - t-019
 
 - id: c-184328
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 403"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 403."
   citata_originali: |
     Noris gudų rašytojai sako, jog tuo laiku būk nusti­
     pusi karalienė Morta, į kurios budynę daugybė di­
@@ -865,9 +889,9 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - t-020
 
 - id: c-184329
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 498"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 498."
   citata_originali: |
     Lygia dalia lietuviai
     antrą kariauną kryžėjų, nuo Gardino grįžtančią, ke­

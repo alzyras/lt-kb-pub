@@ -110,7 +110,8 @@ Nenurodyta
 - id: c-62570
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 234."
   citata_originali: |
     Apie Kristaus kūno šventės įsteigimą
 

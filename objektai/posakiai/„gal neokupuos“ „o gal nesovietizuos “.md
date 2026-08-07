@@ -50,7 +50,8 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
 - id: c-26578
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 190."
   citata_originali: |
     Mažąsias Europos valstybes okupavus Vokietijai sunku buvo tikėtis,
     kad Lietuva liks nepaliesta nacių ir sovietų suokalbio. Atkritus vilčiai, kad

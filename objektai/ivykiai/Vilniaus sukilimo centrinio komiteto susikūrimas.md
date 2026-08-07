@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-82941
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     Be to,
     politiniai įvykiai kuriam laikui visiškai sustabdė istorijos leidi­

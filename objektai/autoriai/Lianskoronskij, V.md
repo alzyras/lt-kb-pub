@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6289da6a7697158fad9a1768"
+canonical_name: "Lianskoronskij, V"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Lianskoronskij, V"]
+sameAs: []
+canonical_biography: "Lianskoronskij, V."
 ---
 # Lianskoronskij, V
 
@@ -61,7 +68,8 @@ Lianskoronskij, V.
 - id: c-29452
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 330"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 330."
   citata_originali: |
     — Liansko-
     ronskij, V. : _Russkije pochody v stępi v udel’uo-večervoje vremia i pochod

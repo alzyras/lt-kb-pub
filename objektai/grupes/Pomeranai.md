@@ -48,11 +48,18 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 <a id="claim-t-89173"></a>
 - t-002
   teiginys: "Sventopelkas drąsino saviškius, teigdamas, kad pomeranai ir prūsai galės visiems laikams nusikratyti teutonų jungo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pomeranai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pomeranai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-85143
+    - c-85140
 
 <a id="claim-t-89174"></a>
 - t-003
@@ -93,7 +100,8 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - id: c-85140
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
   citata_originali: |
     Tuo metu, kai šitai dėjosi, Sventopelkas
     sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
@@ -109,14 +117,17 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   citata_rodoma: "Tuo metu, kai šitai dėjosi, Sventopelkas\nsutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui\natsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo\nbrolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,\nšitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė\ndvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė\nšiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę\nteutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė\ngabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30\nvyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant\nkoks bailys pamatęs daugybę nukautųjų."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-85141
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
   citata_originali: |
     Sventopelkas su savo kariuomene priėjo
     Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas  į priekį daug karių bei ginklanešių,
@@ -138,7 +149,8 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - id: c-85142
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95."
   citata_originali: |
     Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
     Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
@@ -162,7 +174,8 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - id: c-85143
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
   citata_originali: |
     Magistras ir broliai su jais bei su kunigaikščiu Kazimieru ir su savaisiais įsibrovė į
     Pomeranijos žemę ir, devynetą dienų ir naktų tai viena, tai kita kryptimi smogdami
@@ -183,5 +196,4 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-003

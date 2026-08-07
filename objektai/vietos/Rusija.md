@@ -42,6 +42,15 @@ media_contextual_json: |-
   [{"mediaId":"m-14d6705cceac0ecd578d713d","title":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","caption":"1919 m. leidinio apie Ukrainą, Lenkiją ir Rusiją fizinis egzempliorius.","originalTitle":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","creator":"Serhiy Shelukhin","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : ukrainepolandrus00shelrich","dateDisplay":"2026-04-11 21:12:48","dateStart":null,"dateEnd":null,"width":912,"height":1500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1919 books","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with SDC link missing","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item redundant image","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"DjVu files in English","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-80-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive/unverified","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded with IA Upload","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Rusija.md","title":"Rusija","itemType":"vieta","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T16:09:02.151691+03:00","reviewedAt":"2026-07-18T16:09:54.178244+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istorinio leidinio nugarėlė arba viršelis su bibliotekos lipdukais ir katalogo žymomis.","metadataEvidence":"Pavadinime aiškiai įvardyta Russia; leidinys datuojamas 1919 m. ir nagrinėja Ukrainos, Lenkijos bei Rusijos politinį klausimą.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Rusijos vaizdas, bet aiškiai identifikuotas istorinis dokumentas, tiesiogiai susijęs su Rusija.","isPrimary":0}]
 media_all_json: |-
   [{"mediaId":"m-14d6705cceac0ecd578d713d","title":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","caption":"1919 m. leidinio apie Ukrainą, Lenkiją ir Rusiją fizinis egzempliorius.","originalTitle":"Ukraine, Poland, and Russia and The Right of the Free Disposition of the Peoples (1919).djvu","creator":"Serhiy Shelukhin","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : ukrainepolandrus00shelrich","dateDisplay":"2026-04-11 21:12:48","dateStart":null,"dateEnd":null,"width":912,"height":1500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu/page1-500px-Ukraine%2C_Poland%2C_and_Russia_and_The_Right_of_the_Free_Disposition_of_the_Peoples_%281919%29.djvu.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"rusija","label":"rusija","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1919 books","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with SDC link missing","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Books with Wikidata item redundant image","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"DjVu files in English","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-80-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scans from the Internet Archive/unverified","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uploaded with IA Upload","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Rusija.md","title":"Rusija","itemType":"vieta","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T16:09:02.151691+03:00","reviewedAt":"2026-07-18T16:09:54.178244+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma istorinio leidinio nugarėlė arba viršelis su bibliotekos lipdukais ir katalogo žymomis.","metadataEvidence":"Pavadinime aiškiai įvardyta Russia; leidinys datuojamas 1919 m. ir nagrinėja Ukrainos, Lenkijos bei Rusijos politinį klausimą.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Rusijos vaizdas, bet aiškiai identifikuotas istorinis dokumentas, tiesiogiai susijęs su Rusija.","isPrimary":0}]
+entity_id: "ent-57fcd8e3c61c8808db2c9a51"
+canonical_name: "Rusija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rusija"]
+sameAs: []
+canonical_biography: "Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė. Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų."
+place_authority: true
+historical_names: []
 ---
 # Rusija
 
@@ -454,7 +463,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 <a id="claim-t-194751"></a>
 - t-023
   teiginys: "Istorinės savimonės ištakų ieškant: Teodoras Narbu tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto rijos studijos."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -462,14 +471,15 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171715
+    - c-177147
 
 ## Citatos
 
 - id: c-32396
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 101."
   citata_originali: |
     Rytų Pabaltijyje ir šiaurės-rytų Rusijoje medžiotojų ir žvejų
     kultūra panašiame laipsnyje tęsėsi porą tūkstančių metų. Yra
@@ -487,7 +497,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164112
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 251."
   citata_originali: |
     Nuo 1993 m.
     vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl nacionalinės valiu-
@@ -511,7 +522,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164116
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 18."
   citata_originali: |
     Vis dėlto Vilniaus, Lietuvos ir Abiejų
     Tautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisa-
@@ -535,7 +547,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164118
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 63-64"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 63-64."
   citata_originali: |
     Antra vertus,
     tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
@@ -566,7 +579,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164119
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     Būdamas arčiausiai karo židinio, Stepono Batoro laikais
     Vilnius virto pagrindine kariuomenių susibūrimo vieta; la­
@@ -592,7 +606,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164120
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 85."
   citata_originali: |
     Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
     mėnesiais aplenkusi Prancūzijos konstituciją.
@@ -617,7 +632,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164122
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 15."
   citata_originali: |
     Kitaip klostėsi Didžiosios Lietuvos istorija. Rusijai sunaikinus senąją
     Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo ofi-
@@ -635,7 +651,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164125
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 87-88"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 87-88."
   citata_originali: |
     1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
     Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
@@ -661,7 +678,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164126
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 256-257"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 256-257."
   citata_originali: |
     Spalio pradžioje tarp abiejų valstybių
     buvo užmegzti diplomatiniai santykiai.
@@ -684,7 +702,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164129
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 101."
   citata_originali: |
     Skaičiuojant nuo pirmųjų žmogaus pėdsakų
     ir baigiant istoriniais laikais, kada žilųjų laikų priešistorinius pa­
@@ -706,7 +725,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164131
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 256."
   citata_originali: |
     Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo-
     se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
@@ -729,7 +749,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164132
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 94."
   citata_originali: |
     Tačiau
     opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
@@ -752,7 +773,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164133
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 99."
   citata_originali: |
     Valstiečiai pavirto sąlyginai laisvais žmonėmis, nuosavybės teisę į dirba-
     mą žemę įgijusiu žemiausiu, bet savarankišku valstiečių žemdirbių luo-
@@ -773,7 +795,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164134
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 122."
   citata_originali: |
     Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
     atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus
@@ -793,7 +816,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164135
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 117."
   citata_originali: |
     Ta-
     čiau pirmasis visuotinis Rusijos
@@ -817,7 +841,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164140
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 256."
   citata_originali: |
     Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
     Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir
@@ -839,7 +864,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-164142
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 21."
   citata_originali: |
     1795
     Rusija, Austrija ir Prūsija galutinai pasidalija Lenkijos ir Lietuvos valsty-
@@ -859,7 +885,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-171715
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     T. Nar­
     butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
@@ -876,12 +903,12 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-021
-    - t-023
 
 - id: c-175967
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 412."
   citata_originali: |
     Taip antai, Fridrikas Didysis
     savo dvare laikė Volterą, pats rašė poezijos ir net mokslo veikalus.
@@ -898,7 +925,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - id: c-177147
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 52."
   citata_originali: |
     Taip pat skaityki­
     te: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­
@@ -908,10 +936,11 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   citata_rodoma: "Taip pat skaityki­\nte: Gaškaitė R. Istorinės savimonės ištakų ieškant: Teodoras Narbu­\ntas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto­\nrijos studijos. -  T. 8: Asmuo: tarp tautos ir valstybės. -  V., 1996. -\nP.' 143-167."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksejus Michailovičius]]

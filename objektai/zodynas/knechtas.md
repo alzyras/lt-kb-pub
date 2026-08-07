@@ -50,7 +50,8 @@ media_all_json: |-
 - id: c-03272
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 617"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 617."
   citata_originali: |
     Be to,
     dar buvo taip pat atėjūnų vokiečių miestiečių ir vals-

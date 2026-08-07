@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-994f6dddcde997041de4be85"
+canonical_name: "Pamaris"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pamaris"]
+sameAs: []
+canonical_biography: "Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę."
+place_authority: true
+historical_names: []
 ---
 # Pamaris
 
@@ -86,7 +95,8 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 - id: c-24360
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 197."
   citata_originali: |
     1466 m. Torne buvo pasirašyta taika, kuria ordinas
     pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
@@ -103,7 +113,8 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 - id: c-86955
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
     Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
@@ -123,7 +134,8 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 - id: c-86956
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 46."
   citata_originali: |
     Ordinas tebebuvo
     galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei. Grėsmingas jis

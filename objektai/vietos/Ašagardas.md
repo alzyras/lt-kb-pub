@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-03d99e78adcb2ce03377c063"
+canonical_name: "Ašagardas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ašagardas"]
+sameAs: []
+canonical_biography: "Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo Tautų sambūriu vadintus rūmus."
+place_authority: true
+historical_names: []
 ---
 # Ašagardas
 
@@ -54,7 +63,8 @@ Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo
 - id: c-171868
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 128."
   citata_originali: |
     Be to, ji raita nulėkdavo į kiekvieno mūšio lauką ir pasi­
     dalydavo su Odinu žuvusių karių vėles, lietuviškai vadinamas

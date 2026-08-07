@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-46fff30895dd7126171dd78b"
+canonical_name: "Paulius Vladimiri"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Paulius Vladimiri"]
+sameAs: []
+canonical_biography: "Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių ir riterių. Paulius Vladimiri išleido dar raš­ tą, išdėstydamas žalingą Lietuvai Ordino politiką, siekusią ap­ krikštyti lietuvius kardu ir ugnimi."
 ---
 # Paulius Vladimiri
 
@@ -68,7 +75,8 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 127."
   citata_originali: |
     Jonas XXIII panaikino visas Ordino privilegijas
     ir teises kariauti Lietuvą. Paulius Vladimiri išleido dar raš­
@@ -88,7 +96,8 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 126."
   citata_originali: |
     Mikalojaus
     ir Breslavo vysk. Jono. Kartu su jais vyko taip pat žymus

@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2c5618c37bd225364eaab335"
+canonical_name: "Ignas Šeinius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ignas Šeinius"]
+sameAs: []
+canonical_biography: "Ignas Šeinius straipsnyje apie Vilniaus stilių ir dvasią teigė, kad gražioje aplinkoje žmogaus dieviškas pradas ryškėja gražiau."
 ---
 # Ignas Šeinius
 

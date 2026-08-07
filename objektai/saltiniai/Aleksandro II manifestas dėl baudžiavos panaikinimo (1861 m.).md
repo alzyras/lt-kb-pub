@@ -37,7 +37,8 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
 - id: c-23722
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 107."
   citata_originali: |
     Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą
     Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė poli-

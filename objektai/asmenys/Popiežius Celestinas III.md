@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0cf2c0492f6a7b8a6ec3e25d"
+canonical_name: "Popiežius Celestinas III"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Popiežius Celestinas III"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai."
 ---
 # Popiežius Celestinas III
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - id: c-61112
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
     žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies

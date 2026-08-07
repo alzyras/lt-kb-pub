@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ac46db752b2d0ec7b36785d"
+canonical_name: "Heziodas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Heziodas"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas kalba Heziodas. Heziodas tuoj pat vykdavo pas tam tikrą signotą arba vaidilą, tai yra pas žynį, kuris paprastai būdavo beturtis neregys arba šlubis."
 ---
 # Heziodas
 
@@ -66,7 +73,8 @@ Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas
 - id: c-173039
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 347."
   citata_originali: |
     Iš­
     girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal­

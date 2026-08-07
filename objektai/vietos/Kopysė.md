@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a8cbb8244aa7d824c74bdf7e"
+canonical_name: "Kopysė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kopysė"]
+sameAs: []
+canonical_biography: "Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko žygiavo užimti Oršą ir Kopysę. Jis pasiuntė keletą kavalerijos vėliavų į Kopysės pusę, kurios turėjo atvilioti į mūšį pagrindines rusų kariuomenės pajėgas."
+place_authority: true
+historical_names: []
 ---
 # Kopysė
 
@@ -68,7 +77,8 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
 - id: c-40294
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
   citata_originali: |
     Apie 14 val. Radvila sužinojo, kad prie-
     šas yra už kelių kilometrų ir ketina keltis
@@ -87,7 +97,8 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
 - id: c-176424
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 127."
   citata_originali: |
     Mūšis
 

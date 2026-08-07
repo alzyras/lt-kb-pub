@@ -53,7 +53,8 @@ Narbutas nurodo Naruševičiaus veikalą kaip šaltinį apie Boristenio vakarin�
 - id: c-174633
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 210."
   citata_originali: |
     1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­
     novės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),

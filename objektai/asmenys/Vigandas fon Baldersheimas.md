@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9547081338d2c095abe21281"
+canonical_name: "Vigandas fon Baldersheimas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vigandas fon Baldersheimas"]
+sameAs: []
+canonical_biography: "Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų. Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų, žudydamas ir imdamas į nelaisvę kaimiečius."
 ---
 # Vigandas fon Baldersheimas
 
@@ -66,7 +73,8 @@ media_all_json: |-
 - id: c-169627
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 252."
   citata_originali: |
     Kęstutis spėjo su savo kariais ateiti pagalbon. Nega­
     lėdamas pasivyti traukiančių atgal kryžiuočių, jis nu­

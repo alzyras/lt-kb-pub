@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf7606463efef4ca2664e1de"
+canonical_name: "Auktuolyčiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Auktuolyčiai"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos valsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų, kurie plaukė laivais, ir, išdėstęs tinkamose. Dusburgietis teigia, kad 462 D.— castrum Otholichiam, Jer.— burg [...] Otholich; Auktuolyčių pilis, Katavos (Katinavos) valsčiaus centras (HGAPW)."
+place_authority: true
+historical_names: []
 ---
 # Auktuolyčiai
 
@@ -66,7 +75,8 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - id: c-59155
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 150."
   citata_originali: |
     462 D.— castrum Otholichiam, Jer.— burg [...] Otholich; Auktuolyčių pilis, Katavos
     (Katinavos) valsčiaus centras (HGAPW). Pr. *aukt(a)s — aukštas, žr. Топоров В. H.,
@@ -90,7 +100,8 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - id: c-59156
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 150."
   citata_originali: |
     177 (172). Apie Auktuolyčių pilies užkariavimą
     Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos

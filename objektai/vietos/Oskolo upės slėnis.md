@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-183faa52fb10a776c7199016"
+canonical_name: "Oskolo upės slėnis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Oskolo upės slėnis"]
+sameAs: []
+canonical_biography: "Narbutas Oskolo upės slėnį laikė budinų gyvenamųjų vietovių viduriu ir iš to sprendė, kad gelonai gyveno Starobelsko apskrityje."
+place_authority: true
+historical_names: []
 ---
 # Oskolo upės slėnis
 
@@ -55,7 +64,8 @@ Narbutas Oskolo upės slėnį laikė budinų gyvenamųjų vietovių viduriu ir i
 - id: c-175658
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 205."
   citata_originali: |
     Išplėtus senų ¡senovės budinu
     gyvenamąsias vietoves nuo Dono į vakarus taip, kad jų

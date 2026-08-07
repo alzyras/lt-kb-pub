@@ -41,9 +41,9 @@ Kaipogi karalius, jutęs Gediminą paėjus, buvo išleidęs siuntinius, lūgodam
 ## Citatos
 
 - id: c-184613
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 562"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 562."
   citata_originali: |
     Kaipogi karalius,
     jutęs Gediminą paėjus, buvo išleidęs siuntinius, lū-

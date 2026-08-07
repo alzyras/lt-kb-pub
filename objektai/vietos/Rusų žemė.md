@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3bde375da444425da18423ac"
+canonical_name: "Rusų žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rusų žemė"]
+sameAs: []
+canonical_biography: "Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui. Kai Rusų žemėje pa ėmė daug pilių ir sričių, tai dalijosi visa perpus, ir gy veno vienas su kitu labai sutardami. Ir aš prašiau kunigaikštį Jogailą raštų bei privilegijų dėl tų žemių, kurias jis man buvo davęs, dėl rusų žemės7 , kuri buvo priklausiusi Liubartui\" , kad aš ją galėčiau pasilaikyti."
+place_authority: true
+historical_names: []
 ---
 # Rusų žemė
 
@@ -137,7 +146,8 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
 - id: c-170349
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 178-179"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 178-179."
   citata_originali: |
     Ir aš prašiau kunigaikštį Jogailą raštų bei
     privilegijų dėl tų žemių, kurias jis man buvo davęs,
@@ -156,7 +166,8 @@ Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės,
 - id: c-176655
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 175."
   citata_originali: |
     Paskui atvyko kunigaikštis Algirdas prie Vilniaus
     pas mūsų tėvą, ir mūsų tėvas, atsižvelgdamas į amžių,

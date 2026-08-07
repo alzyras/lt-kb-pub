@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-268306a81693d0fca7673f35"
+canonical_name: "Anthony Kiedis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Anthony Kiedis"]
+sameAs: []
+canonical_biography: "O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimusi Lietuvoje, 1902 m. su šeima emigravusi į JAV), o šalia jo ir Leonard Cohen (jo mama – iš Lietuvos emigrantų) ar Anthony Kiedis iš „Red Hot Chilli Peppers“… Visų neišvardysi."
 ---
 # Anthony Kiedis
 
@@ -62,7 +69,8 @@ O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimus
 - id: c-75353
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 266."
   citata_originali: |
     O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-
     tams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison

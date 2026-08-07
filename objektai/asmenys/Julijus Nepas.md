@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-80506237d89782462548f410"
+canonical_name: "Julijus Nepas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Julijus Nepas"]
+sameAs: []
+canonical_biography: "Julijus Nepas nuvertė Glicerijų nuo sosto ir paskyrė jį Salemos vyskupu. Julijus Nepas seniau nuvertė nuo sosto ir paskyrė Salemos vyskupu, žmonės."
 ---
 # Julijus Nepas
 
@@ -66,7 +73,8 @@ Julijus Nepas nuvertė Glicerijų nuo sosto ir paskyrė jį Salemos vyskupu. Jul
 - id: c-174168
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
   citata_originali: |
     Tačiau, nepaisant viso to,
     Odoakras gavo tai, ko geidė, nors italai nelabai buvo

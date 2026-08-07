@@ -49,9 +49,9 @@ Chilinskis, išguldęs vėl Raštą Šventą, Senąjį Testamentą išspaudė 16
 ## Citatos
 
 - id: c-184798
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 117"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 117."
   citata_originali: |
     Daukša pamokslus, visam metui išgul­
     dęs, išspaudė metuose 1599. Chilinskis, išguldęs vėl

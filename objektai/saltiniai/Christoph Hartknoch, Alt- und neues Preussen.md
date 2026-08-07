@@ -86,7 +86,8 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
 - id: c-174593
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 194."
   citata_originali: |
     Ilgai čia reikėtų dėstyti jo įrodymus, parem­
     tus vien žodžių ir religinių apeigų panašumu, bet pasaky­
@@ -107,7 +108,8 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
 - id: c-174594
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
   citata_originali: |
     Pažvelgę tyrinėtojo žvilgsniu į
     lietuvių senovės paminklus, visur aptinkame pėdsakų ir
@@ -130,7 +132,8 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
 - id: c-179287
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 196."
   citata_originali: |
     Hartknochas pateikia XV amžiuje gyvenusio prūsų
     kilmės Frydriko Zamilio lotynų kalba parašytos poemos

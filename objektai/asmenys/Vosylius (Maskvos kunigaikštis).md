@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b1246ffacb8a1584d02b2c2d"
+canonical_name: "Vosylius (Maskvos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vosylius (Maskvos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškėlė Vytauto autoritetą ir ga­ lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun. Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­ tautui globoti."
 ---
 # Vosylius (Maskvos kunigaikštis)
 
@@ -62,7 +69,8 @@ Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškė
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 212."
   citata_originali: |
     Žinoma, nereikia tikėti, kad toks didelis lenkų pasiprieši­
     nimas Liubičo klausime ir dėl atidavimo Ordinui Palangos rodė

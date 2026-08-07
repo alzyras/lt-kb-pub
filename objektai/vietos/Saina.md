@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c19702e729a92ddfc12fbbb1"
+canonical_name: "Saina"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Saina"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą leidimo ir jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros ir Sainos593, santakoje, Lunenburgo [Liūno] pilį594. Dusburgietis teigia, kad — der Sainen; dab."
+place_authority: true
+historical_names: []
 ---
 # Saina
 
@@ -80,7 +89,8 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
 - id: c-59262
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     Apie Lunenburgo pilies ir dviejų miestų pastatymą
 
@@ -102,7 +112,8 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
 - id: c-59263
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     593 D.— Says, Jer. — der Sainen; dab. Saina (Sajna), kair. Gubros (Guberio) intakas
     (GAO, p. 148 — plg. lie. Sainas, Sainelis).

@@ -65,7 +65,8 @@ Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusb
 - id: c-61925
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
   citata_originali: |
     „Senųjų Prūsijos analų“ pagrindu, papildant juos kitais šaltiniais, sudaryti taip pat
     Torunės analai (originalios žinios prasideda XIV a. pradžia, įvykiai pratęsti iki 1410 m.)102

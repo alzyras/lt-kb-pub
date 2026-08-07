@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6eccc8d05b0a2a10d344b9c1"
+canonical_name: "Lukošius Moravecas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lukošius Moravecas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Lukošius Moravecas
 

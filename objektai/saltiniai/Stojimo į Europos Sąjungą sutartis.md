@@ -59,7 +59,8 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
 - id: c-26723
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 261-262"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 261-262."
   citata_originali: |
     Narystė ES siejama su stabilumu tų insti-
     tucijų, kurios garantuoja demokratiją, įstatymų viršenybę, žmogaus teises

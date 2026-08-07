@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8ca25d8a20af7fc9c9fe9575"
+canonical_name: "Vaskela G"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vaskela G"]
+sameAs: []
+canonical_biography: "Vaskela G."
 ---
 # Vaskela G
 
@@ -62,7 +69,8 @@ Vaskela G.
 - id: c-20762
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Vilnius, 1996.
     Vaskela G. Žemės reforma Lietuvoje 1919–1940 m. Vilnius, 1998.

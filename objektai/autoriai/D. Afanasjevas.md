@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f31787a6e016a1d3d97eede8"
+canonical_name: "D. Afanasjevas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["D. Afanasjevas"]
+sameAs: []
+canonical_biography: "Afanasjevo parengtoje ir 1861 m. paskelbtoje knygoje Mamepuallbl OllH 2eo2pacfiuu u cmamucmUKU POCCUU."
 ---
 # D. Afanasjevas
 
@@ -49,9 +56,9 @@ Afanasjevo parengtoje ir 1861 m. paskelbtoje knygoje Mamepuallbl OllH 2eo2pacfiu
 ## Citatos
 
 - id: c-185572
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 15"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 15."
   citata_originali: |
     Arba D. Afanasjevo parengtoje
     ir 1861 m. paskelbtoje knygoje Mamepuallbl OllH 2eo2pacfiuu u cmamucmUKU POCCUU.

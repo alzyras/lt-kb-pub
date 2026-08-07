@@ -56,9 +56,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184724
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 50"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 50."
   citata_originali: |
     Ir taip ko nepragėrė jo gentys budėdami, tuo-
     mi svetimi pasidalijo.

@@ -87,7 +87,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos aut
 - id: c-59493
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 301-302"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 301-302."
   citata_originali: |
     )
         iš Dusburgo, Dusburgietis (D.— Petrus de Dusburgk, Jer.— P. von Dûsburc), Or. br.
@@ -101,7 +102,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos aut
 - id: c-167992
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 103."
   citata_originali: |
     Taigi pasitrau-
     d in a m i

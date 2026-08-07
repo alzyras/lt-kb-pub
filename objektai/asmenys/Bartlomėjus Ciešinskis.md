@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e2298d278f270e23e1412e8e"
+canonical_name: "Bartlomėjus Ciešinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bartlomėjus Ciešinskis"]
+sameAs: []
+canonical_biography: "O barzdaskučių ceche, matyt, vyravo liuteronai, nes šie nesiveržė iš cecho, tik 1643 m. Kauno klebonas Bartlomėjus Ciešinskis reikalavo, kad jie prisidėtų prie cecho altoriaus Kauno parapinėje bažnyčioje išlaikymo."
 ---
 # Bartlomėjus Ciešinskis
 
@@ -49,9 +56,9 @@ O barzdaskučių ceche, matyt, vyravo liuteronai, nes šie nesiveržė iš cecho
 ## Citatos
 
 - id: c-185506
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 198"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 198."
   citata_originali: |
     Tačiau jie kartu su kitais cecho nariais buvo įpareigoti kiekvieną savaitę išklausyti
     Kauno parapinėje bažnyčioje Mišių arba nuo jų atsipirkti 3lietuviškųjų grašių bauda.

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c5f0cf9e370cee1a221d636"
+canonical_name: "Cigala iš Vienos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Cigala iš Vienos"]
+sameAs: []
+canonical_biography: "Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą. Cigala iš Vienos nepatvirtintas jokia priesaika."
 ---
 # Cigala iš Vienos
 
@@ -104,7 +111,8 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
 - id: c-169552
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 422"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 422."
   citata_originali: |
     Viskam
     vadovauti paskyrė Joną Čar-

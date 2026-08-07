@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0ea5cf16c53f858e2de0a9ae"
+canonical_name: "Jaroslavas Svitopelkėlis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jaroslavas Svitopelkėlis"]
+sameAs: []
+canonical_biography: "Tuo pačiu laiku, tai yra metuose 1112, Jarosla vas Svitopelkėlis, kunigaikštis gudų, gobėdamps tą šalį Lietuvos užimti, kurią Jacviegija, arba Paletija, vadino, traukė tenai su didžia kariauna."
 ---
 # Jaroslavas Svitopelkėlis
 
@@ -49,9 +56,9 @@ Tuo pačiu laiku, tai yra metuose 1112, Jarosla vas Svitopelkėlis, kunigaikšti
 ## Citatos
 
 - id: c-184775
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 159"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 159."
   citata_originali: |
     Paskesniai dar kruvinose mūšose* pamarionų su
     Boleslovu lietuviai vis pamarionis šelpė, noris per- m2

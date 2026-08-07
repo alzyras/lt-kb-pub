@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e83e4b763715021a99e92d47"
+canonical_name: "Tropas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tropas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad taip pat buvęs jų nužudytas dar vienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus."
 ---
 # Tropas
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad taip pat buvęs jų nužudytas dar vienas vyras, vardu 
 - id: c-61081
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     Taip pat buvęs jų nužudytas dar
     vienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus. Dėl šių dviejų žūties

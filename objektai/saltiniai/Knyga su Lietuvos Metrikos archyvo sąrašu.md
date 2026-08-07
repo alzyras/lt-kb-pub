@@ -50,7 +50,8 @@ Lietuvos Metrikos archyvo sąrašo ištraukoje užfiksuotas Jano Filipovičiaus 
 - id: c-84416
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 249."
   citata_originali: |
     Bet, kai totoriai didele
     *

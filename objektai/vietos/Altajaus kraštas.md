@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d126557e4e4927915db3407c"
+canonical_name: "Altajaus kraštas (kraštas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Altajaus kraštas","Altajaus kraštas (kraštas)"]
+sameAs: []
+canonical_biography: "Tremtinių išvežimas į atšiauraus klimato prie Ledynuotojo vandenyno, Altajaus krašto vietoves, kur dalis jų mirė arba žuvo, vertintinas kaip nusikaltimas žmoniškumui."
+place_authority: true
+historical_names: []
 ---
 # Altajaus kraštas (kraštas)
 
@@ -50,7 +59,8 @@ Tremtinių išvežimas į atšiauraus klimato prie Ledynuotojo vandenyno, Altaja
 - id: c-24037
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 194."
   citata_originali: |
     Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas
     buvo nukreiptas į fizinį šeimų naikinimą. Šis trėmimas nacių okupacijos

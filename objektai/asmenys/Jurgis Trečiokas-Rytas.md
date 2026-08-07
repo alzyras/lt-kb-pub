@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42fd1af5035c7a502cd3197a"
+canonical_name: "Jurgis Trečiokas-Rytas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Trečiokas-Rytas"]
+sameAs: []
+canonical_biography: "Lapkričio 2 d. rytą čekistų pajėgos apsupo Jurgio Trečioko-Ryto bunkerį Šimonių girioje netoli Varležerio."
 ---
 # Jurgis Trečiokas-Rytas
 
@@ -50,7 +57,8 @@ Lapkričio 2 d. rytą čekistų pajėgos apsupo Jurgio Trečioko-Ryto bunkerį �
 - id: c-44394
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 247."
   citata_originali: |
     Lapkričio 2 d. rytą čekistų pajėgos ap-
     supo Jurgio Trečioko-Ryto bunkerį Šimonių

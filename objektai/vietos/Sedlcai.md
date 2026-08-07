@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e03da04c5ee7a6ea48f95298"
+canonical_name: "Sedlcai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sedlcai"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Dusburgietis teigia, kad 169 Kaimas Sedlce (D.— Cedelicze) buvęs į pietus nuo Vyslos, kiek į šiaurę nuo Inovroclavo (minimas XIII a."
+place_authority: true
+historical_names: []
 ---
 # Sedlcai
 
@@ -69,7 +78,8 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
 - id: c-59354
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 46."
   citata_originali: |
     169 Kaimas Sedlce (D.— Cedelicze) buvęs  į pietus nuo Vyslos, kiek  į šiaurę nuo
     Inovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose). Kaip Dobrynės ordino
@@ -87,7 +97,8 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
 - id: c-59355
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
     jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis

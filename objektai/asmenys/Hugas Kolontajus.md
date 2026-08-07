@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7d5c7e584011eda564e3045d"
+canonical_name: "Hugas Kolontajus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hugas Kolontajus"]
+sameAs: []
+canonical_biography: "Kolontajus nebūtų parėmęs valdovo pozicijos."
 ---
 # Hugas Kolontajus
 
@@ -33,7 +40,8 @@ Kolontajus nebūtų parėmęs valdovo pozicijos.
 - id: c-21686
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 94."
   citata_originali: |
     Karalius laikėsi pozicijos, kad
     Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos

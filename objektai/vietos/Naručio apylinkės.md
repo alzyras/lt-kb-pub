@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a41f4676e3d32d9f83065d3"
+canonical_name: "Naručio apylinkės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naručio apylinkės"]
+sameAs: []
+canonical_biography: "GariavaO p 2 KAISADORYS Riešė pyp AL Naručio apylinkėse puolė dvi partizanų žemines."
+place_authority: true
+historical_names: []
 ---
 # Naručio apylinkės
 
@@ -61,7 +70,8 @@ GariavaO p 2 KAISADORYS Riešė pyp AL Naručio apylinkėse puolė dvi partizan�
 - id: c-45233
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 241."
   citata_originali: |
     PASTOVIAIO)
 

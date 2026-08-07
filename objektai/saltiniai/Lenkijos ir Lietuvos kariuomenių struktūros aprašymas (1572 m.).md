@@ -82,7 +82,8 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
 - id: c-75986
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 97."
   citata_originali: |
     žemes bei „maskvėnus sukrėtęs nejti-
     kėtina baime“, K. Radvilos reidas „pa-
@@ -108,7 +109,8 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
 - id: c-75987
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 89."
   citata_originali: |
     1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
     didesnė dalis Livonijos tapo Lietuvos dalimi

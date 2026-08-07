@@ -134,15 +134,23 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 <a id="claim-t-192406"></a>
 - t-006
   teiginys: "514 metais prieš Kristų persų būriai, remiami graikų sąjungininkų, įžengė į Europą ir brovėsi Dunojaus link."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Europa: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Persai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Europa: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad persų būriai įžengė į Europą."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Persai keliavo į Isteris (0.84)"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175198
+    - c-175200
 
 ## Reikšmingi paminėjimai
 - c-006
@@ -169,7 +177,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - id: c-172396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -187,7 +196,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - id: c-172397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 216."
   citata_originali: |
     Senovės germanai nehervalai turėjo du dievaičius Alcius,
     amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
@@ -204,7 +214,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - id: c-172398
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
   citata_originali: |
     Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
@@ -225,7 +236,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - id: c-175198
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
   citata_originali: |
     33
     Jau labai senais laikais graikai užmezgė santykius su
@@ -243,12 +255,12 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-006
 
 - id: c-175199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 55."
   citata_originali: |
     Padaugėjo nedorų žmonių būrių,
     pradėjo lietis kraujas ir ėmė veržtis nevaržomos aistros.
@@ -266,7 +278,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - id: c-175200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     39
     Po kurio laiko, 514 metais prieš Kristaus gimimą, kai
@@ -279,10 +292,11 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   citata_rodoma: "39\nPo kurio laiko, 514 metais prieš Kristaus gimimą, kai\nskitai nė neketino žemintis, pats Darijus patraukė prieš\nIndatirą. Persų būriai įžengė į Europą ir, graikų sąjun­\ngininkų remiami, brovėsi Dunojaus link. Kažkur prie\nšiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam\npastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai­\nkams."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 ## Ryšiai
 - Graikai pastatė [[objektai/daiktai/Aukurai]]

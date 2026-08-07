@@ -35,10 +35,22 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
 
 ## Teiginiai
 
-<a id="claim-t-198563"></a>
+<a id="claim-t-201476"></a>
 - t-001
-  teiginys: "Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus."
-  atnaujinta: "2026-07-12 23:00"
+  teiginys: "Pirkliai, priklausantys Hanzos sąjungai, Kauno nepasiekdavo."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184823
+
+<a id="claim-t-203085"></a>
+- t-002
+  teiginys: "Lietuvos metraščio komentare nurodoma, kad Eriko XIII Pomeraniečio atstovų delegacija Lucko suvažiavime siekė užsitikrinti imperatoriaus Zigmanto paramą prieš Hanzos sąjungai priklausiusius Vokietijos miestus."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,21 +61,8 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Delegacijos tikslas suformuluotas kaip komentare priskiriamas siekis, nes tai motyvo interpretacija. Nepridėta platesnio konflikto konteksto."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-180630
-
-<a id="claim-t-201476"></a>
-- t-002
-  teiginys: "Pirkliai, priklausantys Hanzos sąjungai, Kauno nepasiekdavo."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184823
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -96,17 +95,17 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
     jungai priklausančius Vokietijos miestus.
   citata_rodoma: "• Danijos (faktiškai nuo 1412 m.j. Norvegijos ir Švedijos ka­\nraliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382— \n1459 m ). Lucko suvažiavime dalyvavo jo atstovų delegacija, sie­\nkusi užsitikrinti im peratoriaus Zigmanto paramų prieš Hanzos są­\njungai priklausančius Vokietijos miestus."
   statusas: verified
-  atnaujinta: "2026-07-12 23:00"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-184823
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 98."
   citata_originali: |
     Lietuvos mediena buvo labai
     svarbi Nyderlandų, Portugalijos, Ispanijos laivų statykloms.
@@ -119,4 +118,4 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

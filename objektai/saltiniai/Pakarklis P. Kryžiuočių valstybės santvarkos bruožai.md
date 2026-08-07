@@ -58,7 +58,8 @@ Dusburgietis teigia, kad pakarklis P.
 - id: c-61843
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
   citata_originali: |
     Pakarklis P. Kryžiuočių valstybės santvarkos bruožai.— K., 1948.
     Palmaitis L. Prūsų kalbos negimininių įvardžių formų kilmė—Baltistica, 1976, 12 (2),

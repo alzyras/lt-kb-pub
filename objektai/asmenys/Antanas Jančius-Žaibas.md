@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6c50c1d962e6e972691335b1"
+canonical_name: "Antanas Jančius-Žaibas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antanas Jančius-Žaibas"]
+sameAs: []
+canonical_biography: "Taip pat užpultas Antano Jančio-Žaibo bunkeris Šimonių girioje prie Iženos upelio, jame žuvo 6 partizanai."
 ---
 # Antanas Jančius-Žaibas
 
@@ -61,7 +68,8 @@ Taip pat užpultas Antano Jančio-Žaibo bunkeris Šimonių girioje prie Iženos
 - id: c-77380
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 247."
   citata_originali: |
     Beveik tuo pat metu buvo puolamas
     ir Alberto Žilio-Kęstučio būrio bunke-

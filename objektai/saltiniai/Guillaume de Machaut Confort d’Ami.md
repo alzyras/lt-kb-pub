@@ -57,7 +57,8 @@ media_all_json: |-
 - id: c-33569
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 242."
   citata_originali: |
     Iš kitų puolimų yra išskirtinas 1329
     pradžioje pirmasis Čekijos karaliaus Jono Liuksemburgiečio žygis

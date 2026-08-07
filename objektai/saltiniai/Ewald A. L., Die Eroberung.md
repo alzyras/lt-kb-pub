@@ -101,21 +101,29 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
 <a id="claim-t-60876"></a>
 - t-004
   teiginys: "Ewaldo veikalas „Die Eroberung“ nurodomas kaip šaltinis Herkaus Manto žūčiai 1273 m. vasarą ar rudenį datuoti."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Herkus Mantas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ewald A. L., Die Eroberung: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Herkus Mantas: mention_match, person, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ewald A. L., Die Eroberung\" parinktas kaip owner_note_path. Targetas \"Herkus Mantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1273 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata sieja Ewaldo veikalą su Herkaus Manto žūties datavimu."
   pagrindžia:
-    - c-61504
+    - c-61503
 
 ## Citatos
 
 - id: c-61502
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
   citata_originali: |
     Čia minimas ežeras ieškotas ir  į
     šiaurę nuo Augustavo (Łowmiański H., Studja..., 2, p. 43). Aprašomas 1279—1280 m.
@@ -132,21 +140,25 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
 - id: c-61503
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
   citata_originali: |
     411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4,
     p. 108; Jasas R., Didysis.., p. 61).
   citata_rodoma: "411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4,\np. 108; Jasas R., Didysis.., p. 61)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-61504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
   citata_originali: |
     497  Semba buvo puolama 1280 m. vėlyvą rudenį (Ewald A. L., Die Eroberung..., 4,
     p. 251).
@@ -157,12 +169,12 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
 
 - id: c-61505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 161."
   citata_originali: |
     Kimenavos puolimas datuojamas 1278 m. (Ewald A. L., Die Eroberung..., 4, p.
     240).

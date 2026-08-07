@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-992a864380b3064e8ac78e02"
+canonical_name: "M. Szameitat"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Szameitat"]
+sameAs: []
+canonical_biography: "Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttinger Arbeitskreis, t. Szameitat : Bibliographie des Memellandes (t."
 ---
 # M. Szameitat
 
@@ -52,7 +59,8 @@ Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttin
 - id: c-33064
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 25."
   citata_originali: |
     Iš viso sužymėta 944 bibliogr. numeriai.
     Atskirai paminėtina Klaipėdos krašto bibliografija :

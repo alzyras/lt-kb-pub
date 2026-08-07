@@ -94,7 +94,8 @@ Vartojamos formos: `perveizėjo`, `perveizos`.
 - id: c-09649
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 290"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 290."
   citata_originali: |
     Kiekvienos pavietės buvo karūžasis, kurs turėjo visus žemlionis, arba vyčius, surašytus ir kas metą, sujojus visiems į pavietę ant įsakytos dienos, paprastai rudenį, visus perskaitė ir perveizėjo kožno žemlionies ginklą ir arklį, jei nerado kaip reikiant, tokį iš reistro išpaišė. Atlikusysis arba išmestasis ir nevaidinusysis ant tos perveizos vėl duoklę turėjo duoti su kitais valsčionimis; prie jo buvo laikoma karės vėliava tos apykartos;
   citata_rodoma: "Kiekvienos pavietės buvo karūžasis, kurs turėjo visus žemlionis, arba vyčius, surašytus ir kas metą, sujojus visiems į pavietę ant įsakytos dienos, paprastai rudenį, visus perskaitė ir perveizėjo kožno žemlionies ginklą ir arklį, jei nerado kaip reikiant, tokį iš reistro išpaišė. Atlikusysis arba išmestasis ir nevaidinusysis ant tos perveizos vėl duoklę turėjo duoti su kitais valsčionimis; prie jo buvo laikoma karės vėliava tos apykartos;"

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-234ff7c1c47ec115bea85bb4"
+canonical_name: "Petras Pečiūga"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Pečiūga"]
+sameAs: []
+canonical_biography: "1580 m. Kaune besisukinėjantis valstietis Motiejus Juknevičius buvo atvestas pas Kauno miesto vaitą Petrą Pečiūgą."
 ---
 # Petras Pečiūga
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185444
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 187"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 187."
   citata_originali: |
     Zinoma, Kotryna buvo palikta kalėjime, ir numanu, kad jos laukė sunki bausmė.
     1580 m. Kaune besisukinėjantis valstietis Motiejus Juknevičius buvo atvestas pas

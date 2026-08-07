@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8d361bcfa2b8d93e9f0a46d3"
+canonical_name: "Augustas Liudvikas fon Slėceris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Augustas Liudvikas fon Slėceris"]
+sameAs: []
+canonical_biography: "Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su lietuvišku žodžiu „lihtars“. Narbutas svarstė, kad Augustas Liudvikas fon Slėceris galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais."
 ---
 # Augustas Liudvikas fon Slėceris
 
@@ -32,15 +39,22 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
 <a id="claim-t-191570"></a>
 - t-001
   teiginys: "Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su lietuvišku žodžiu „lihtars“."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Liudvikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustas Liudvikas fon Slėceris: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Liudvikas: mention_match, person, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustas Liudvikas fon Slėceris\" parinktas kaip owner_note_path. Targetas \"Liudvikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174453
+    - c-174452
 
 <a id="claim-t-191571"></a>
 - t-002
@@ -67,7 +81,8 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
 - id: c-174452
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
   citata_originali: |
     Skitai gintarą
     vadino
@@ -81,14 +96,17 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
   citata_rodoma: "Skitai gintarą\nvadino\nsacrium.\nŠio\nžodžio\ngalūnė\nsugraikinta.\nSlėceris skaito satrium ir tą žodį prilygina lietuviškam lihtars. Tik­\nriausiai jį labiausiai reikėtų lyginti su skilu kalbos žodžiais*."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-174453
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra
@@ -108,5 +126,4 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

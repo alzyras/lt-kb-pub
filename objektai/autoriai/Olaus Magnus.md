@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-227d4148f85110185cfacacb"
+canonical_name: "Olaus Magnus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Olaus Magnus"]
+sameAs: []
+canonical_biography: "183- Turima omenyje Olafo Monsono (1490-1558) „Šiaurės tautų istorija“ (Olaus Magnus."
 ---
 # Olaus Magnus
 
@@ -70,7 +77,8 @@ media_all_json: |-
 - id: c-177239
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 488"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 488."
   citata_originali: |
     P. 183*- Turima omenyje Olafo Monsono (1490-1558)
     „Šiaurės tautų istorija“ (Olaus Magnus. Gentium

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a4c03a9e439dba8b1b0eeaa5"
+canonical_name: "Goras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Goras"]
+sameAs: []
+canonical_biography: "2004 m. pabaigoje Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – atkūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione."
+place_authority: true
+historical_names: []
 ---
 # Goras
 
@@ -38,7 +47,8 @@ media_all_json: |-
 - id: c-24133
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 260."
   citata_originali: |
     Narystė
     NATO – ne tik didesnės saugumo garantijos, bet ir įsipareigojimai prisidėti

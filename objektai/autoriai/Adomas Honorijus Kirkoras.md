@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-22c1f538919e09b3bb8df3ae"
+canonical_name: "Adomas Honorijus Kirkoras"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Adomas Honorijus Kirkoras","Kirkoras A. H."]
+sameAs: []
+canonical_biography: "Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kaip 1857-1858 m. leisto leidinio „Teki Wileńskie“ leidėjas."
 ---
 # Adomas Honorijus Kirkoras
 
@@ -100,7 +107,8 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
 - id: c-55561
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 13."
   citata_originali: |
     Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
     mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
@@ -122,7 +130,8 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
 - id: c-78419
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 13."
   citata_originali: |
     Balinskis rėmė lietuvių, baltarusių švietėjų pa­
     stangas paversti liaudies ugdymą sudėtine visuomeniųių per­

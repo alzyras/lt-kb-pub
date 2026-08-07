@@ -29,6 +29,15 @@ media_all_json: |-
 tags:
   - vieta
   - regionas
+entity_id: "ent-656bb6e1ad889142079188af"
+canonical_name: "Kariela"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kariela","Karielą","Suomijos Karieloje"]
+sameAs: []
+canonical_biography: "Kariela šiame šaltinyje minima kaip Augusto Roberto Niemio kelionių, studijų ir dainų rinkimo regionas."
+place_authority: true
+historical_names: []
 ---
 # Kariela
 

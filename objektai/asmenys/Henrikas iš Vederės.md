@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c78df987ed5f2d646ae2b9b"
+canonical_name: "Henrikas iš Vederės"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas iš Vederės"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubimą 1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias pėdas; jomis nusekė."
 ---
 # Henrikas iš Vederės
 
@@ -58,7 +65,8 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
 - id: c-60948
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
   citata_originali: |
     266 (259). Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
     1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe

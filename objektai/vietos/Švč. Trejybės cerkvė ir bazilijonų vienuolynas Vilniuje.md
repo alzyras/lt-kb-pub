@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0aad3eabc51da75aab2503cc"
+canonical_name: "Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje"]
+sameAs: []
+canonical_biography: "Trejybės cerkvę ir prie jos įkur­ dino Šv."
+place_authority: true
+historical_names: []
 ---
 # Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje
 
@@ -51,7 +60,8 @@ Trejybės cerkvę ir prie jos įkur­ dino Šv.
 - id: c-82112
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 282."
   citata_originali: |
     Beveik tuo
     pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką

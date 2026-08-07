@@ -220,7 +220,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 106."
   citata_originali: |
     Iš priešin­
     gų pusių nuo kalnelių ėmė leistis kariuomenės ir tuoj susitiko.
@@ -239,7 +240,8 @@ Nenurodyta
 - id: c-88397
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 550"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 550."
   citata_originali: |
     tegyvavo. Bolševikams paėmus valdžią, jie buvo išsklaidyti, ir
     daugumas lietuvių karių grįžo atskirai, kartu su karo pabėgė-
@@ -261,7 +263,8 @@ Nenurodyta
 - id: c-88398
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 413"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 413."
   citata_originali: |
     Todėl didikai stengėsi patraukti į savo
     pusę daugumą bajorijos. O ją patraukti tebuvo galima tik protek-
@@ -282,7 +285,8 @@ Nenurodyta
 - id: c-88399
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 391"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 391."
   citata_originali: |
     Kiek bajorija degė neapykanta Sapiegoms, rodo Valkininkų įvy-
     kiai ir belaisvių sukapojimas. Kai Mykolas Sapiega pasidavė, bajo-
@@ -301,7 +305,8 @@ Nenurodyta
 - id: c-88400
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 211."
   citata_originali: |
     Tačiau nebuvo panaudotas nė vienas tų būdų. Lenkas, senas karys,
     irgi ilgai juk neatsiminė, kad turi pistoletą.“
@@ -322,7 +327,8 @@ Nenurodyta
 - id: c-88401
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 211."
   citata_originali: |
     Žvalgas, pa-
     matęs smarkai atjojantį raitelį žvilgančiu kardu rankoje, atsigulė grio-
@@ -340,7 +346,8 @@ Nenurodyta
 - id: c-88402
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 563"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 563."
   citata_originali: |
     Kovos ėjo prie Alytaus, ir kovo mėnesį iš
     rusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Kreke-
@@ -362,7 +369,8 @@ Nenurodyta
 - id: c-88404
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 390-391"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 390-391."
   citata_originali: |
     Visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
     Jų kariuomenei vadovavęs hetmono sūnus Mykolas (visi kiti
@@ -382,9 +390,9 @@ Nenurodyta
     - t-007
 
 - id: c-184290
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 532"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 532."
   citata_originali: |
     Taip apdrąsinąs karėjus, Gediminas liepė ženg­
     ti toliaus, vienok saugodamos, idant neprieteliai

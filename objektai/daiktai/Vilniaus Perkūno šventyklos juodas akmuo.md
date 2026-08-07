@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-172638
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
   citata_originali: |
     Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno
     šventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­

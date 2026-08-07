@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d8e5dbcfcf0996b2aac21179"
+canonical_name: "Giedraičiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Giedraičiai"]
+sameAs: []
+canonical_biography: "Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių. Lietuvių artilerija prieš lenkų dalinius 1920 m. kovose prie Giedraičių."
+place_authority: true
+historical_names: []
 ---
 # Giedraičiai
 
@@ -116,7 +125,8 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 - id: c-161004
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 210."
   citata_originali: |
     LIETUVOS
     RESPUBLIKA
@@ -143,7 +153,8 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 - id: c-161005
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 144-145"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 144-145."
   citata_originali: |
     L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
     Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
@@ -170,7 +181,8 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 - id: c-161006
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 210."
   citata_originali: |
     Lietuvių pajėgos negalėjo
     atsilaikyti prieš gausių lenkų pajėgų puo-
@@ -193,7 +205,8 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 - id: c-161007
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 206."
   citata_originali: |
     Šis ženklas atspindėjo siekį
     atkurti didžiąją Lenkiją

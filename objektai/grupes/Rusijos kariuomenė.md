@@ -123,7 +123,8 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
 - id: c-22721
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 94."
   citata_originali: |
     Lietuvos Didžiosios Kunigaikštijos
     sunaikinimas
@@ -148,7 +149,8 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
 - id: c-22722
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 108."
   citata_originali: |
     Baimindamasi Lietuvos „raudonųjų“ radika-
     lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
@@ -171,7 +173,8 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
 - id: c-42911
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
   citata_originali: |
     Kazokų vadai supratę, kad patys ukrainiečiai neįstengs išsivaduoti
     iš Lenkijos valdžios, 1654 m. sudarė sąjungą su Maskva. Tais pa-

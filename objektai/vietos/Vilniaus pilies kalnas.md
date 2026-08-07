@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2aedb27862c573479eae4042"
+canonical_name: "Vilniaus pilies kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus pilies kalnas"]
+sameAs: []
+canonical_biography: "1396-ieji me­ tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties bei alpių karščių. Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką; kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­ nausiąs ir 1.1. - Praneša man vėliau, kad įvyko griū­ tis kalno, ant kurio stovi Aukštutinė pilis, dėl „Spieki\" priežasties."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus pilies kalnas
 
@@ -107,7 +116,8 @@ media_all_json: |-
 - id: c-82095
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 181."
   citata_originali: |
     Mano Petras negalėjo išsiteirauti apie Švitri­
     gailos pasišalinimo priežastį: tepasakė man, kad Švitrigaila
@@ -129,7 +139,8 @@ media_all_json: |-
 - id: c-82096
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156."
   citata_originali: |
     Kitais metais jis buvo išvaduotas dviejų jam palan­
     kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
@@ -149,7 +160,8 @@ media_all_json: |-
 - id: c-82097
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 181."
   citata_originali: |
     - Patsai būtų lygiai taip pat
     žuvęs, jeigu nebūtų buvę po dienos pastebėta. Bet tik kalną
@@ -167,7 +179,8 @@ media_all_json: |-
 - id: c-82098
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 178."
   citata_originali: |
     (Plg. Ind. cod. kist. dipt. Livoniae)
     TI, p. 132, N 518.

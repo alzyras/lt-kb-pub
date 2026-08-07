@@ -101,7 +101,8 @@ Nenurodyta
 - id: c-172615
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
   citata_originali: |
     Ten dirbęs žmogus, išmušęs keletą
     sluoksnių plytų, aptiko kadaise įmūrytą cinkinę deivės Veneros

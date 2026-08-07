@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-00103d4de3a8b0e11ccebda4"
+canonical_name: "Ranonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ranonas"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas žuvo mūšyje, po kurio Rotala perėjo Danijos karaliui."
 ---
 # Ranonas
 
@@ -55,7 +62,8 @@ Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas ž
 - id: c-174338
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
   citata_originali: |
     Senovės Danijos istorijoje randame ži­
     nių, jog karalius Protonas I su stipriu laivynu nuplaukė

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3bd0b85a872a8af09329e950"
+canonical_name: "Opokos apylinkės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Opokos apylinkės"]
+sameAs: []
+canonical_biography: "Galiausiai buvo nusiaubtos Opokos apylinkės."
+place_authority: true
+historical_names: []
 ---
 # Opokos apylinkės
 
@@ -59,7 +68,8 @@ Galiausiai buvo nusiaubtos Opokos apylinkės.
 - id: c-45245
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 96."
   citata_originali: |
     94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis
 

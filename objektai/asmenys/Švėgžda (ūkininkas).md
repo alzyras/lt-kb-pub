@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-85f0082a8fb500f4387f89d3"
+canonical_name: "Švėgžda (ūkininkas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Švėgžda","Švėgžda (ūkininkas)"]
+sameAs: []
+canonical_biography: "Švėgžda aprašomas kaip geras ir nepavydingas ūkininkas, leidęs pasakotojui sėtis, davęs aruodą svirne ir raginęs Antaną imti žemę bei pradėti savarankiškai gyventi."
 ---
 # Švėgžda (ūkininkas)
 

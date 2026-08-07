@@ -203,7 +203,8 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - id: c-25107
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 99."
   citata_originali: |
     Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų
     luomo, dauguma jų – mažažemiai ir bežemiai bajorai, kalbėję daugiausia
@@ -223,7 +224,8 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - id: c-154268
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 69."
   citata_originali: |
     Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Vieninte-
     lis privilegijuotas visuomenės luomas – bajorai, turėję politines teises ir
@@ -242,7 +244,8 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - id: c-154269
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 70."
   citata_originali: |
     Dėl miestiečių
     luomo negausumo Lenkijos ir Lietuvos valstybės santvarka neįgijo abso-
@@ -265,7 +268,8 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - id: c-154270
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 91."
   citata_originali: |
     Gegužės trečiosios konstitucija ir
     Abiejų Tautų tarpusavio įžadas
@@ -286,7 +290,8 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - id: c-154272
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 101."
   citata_originali: |
     Dvarus prara-
     do nedaugelis, juos atgauti galėjo
@@ -314,7 +319,8 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - id: c-154273
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 101."
   citata_originali: |
     Žydų bendruomenės (kahalai) taip pat buvo
     savivaldūs iki 1840 m., kai žydai buvo įtraukti į bendrąjį miestų valdymą.
@@ -337,7 +343,8 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - id: c-154274
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 99."
   citata_originali: |
     Valstiečiai pavirto sąlyginai laisvais žmonėmis, nuosavybės teisę į dirba-
     mą žemę įgijusiu žemiausiu, bet savarankišku valstiečių žemdirbių luo-
@@ -358,7 +365,8 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - id: c-154275
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 98-99"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 98-99."
   citata_originali: |
     Nušalinta nuo politinės valdžios bajorija vieš-
     patavo socialiniame visuomenės gyvenime, o bajorų luomas Lenkijoje ir
@@ -382,7 +390,8 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - id: c-154276
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 101."
   citata_originali: |
     Žydams uždrausta verstis žemės ūkiu, įvesta sėslumo riba, neleidžiama
     keltis į abi Rusijos sostines, bet ši riba netaikyta kvalifikuotas profesijas
@@ -407,7 +416,8 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - id: c-166505
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 70."
   citata_originali: |
     Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo
     lygiu pralenkusiais Vidurio Europos šalių teisines sistemas, bei jų kūri-

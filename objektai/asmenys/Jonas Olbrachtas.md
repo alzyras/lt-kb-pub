@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-51192f75ef83306e7ce0cea1"
+canonical_name: "Jonas Olbrachtas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Olbrachtas"]
+sameAs: []
+canonical_biography: "Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galvojęs apie sostą, nors Kazimieras skatino jį pradėti karą. Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis. Kojelavičiaus pasakojime Jonas Olbrachtas, nepasiekęs didesnių laimėjimų Prūsijoje, iš karo stovyklos leidosi į Krokuvą po žinios apie antrąjį sūnų."
 ---
 # Jonas Olbrachtas
 
@@ -157,7 +164,8 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
 - id: c-169324
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 532"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 532."
   citata_originali: |
     Karalius, jausdamas, jog
     1488 m e ta i
@@ -185,7 +193,8 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
 - id: c-169325
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 532-533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 532-533."
   citata_originali: |
     Vasiljevičius tvirtino, kad nei jis pats, nei jo
     brolis nepadarę skriaudos ir nepažeidę susitarimo, gal
@@ -205,7 +214,8 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
 - id: c-169326
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 535"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 535."
   citata_originali: |
     Jonas beturėjo vos keturis tūkstančius karių, kai susi­
     dūrė su stipria vengrų kariuomene. Jam stigo jėgų, bet
@@ -222,7 +232,8 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
 - id: c-169327
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 560"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
   citata_originali: |
     Poznanėje netrukus
     svetimšalių kariams iš tiesų sumokėjo algą, tačiau sam­
@@ -246,7 +257,8 @@ Kojelavičiaus pasakojime Jonas Olbrachtas išvykęs iš Vengrijos liovėsi galv
 - id: c-178731
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 508"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 508."
   citata_originali: |
     Vis dėlto ir šitokios išlaidos nepadėjo pasiekti
     Prūsijoje didesnių laimėjimų. Mat Vengrijos pasiunti­

@@ -58,9 +58,9 @@ Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys,
 ## Citatos
 
 - id: c-184584
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 304"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 304."
   citata_originali: |
     Kryžėjai, įgiję Baigos pilį, ne vien apgalėjo vi­
     są apygardą, bet dar vylės netrukdami visą Var­
@@ -94,9 +94,9 @@ Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys,
     - t-001
 
 - id: c-184585
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 436"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 436."
   citata_originali: |
     Daug
     kartų jo smurtą karda gandino meldžionis, ant di­

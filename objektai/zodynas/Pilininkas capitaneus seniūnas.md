@@ -72,7 +72,8 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
 - id: c-82546
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 52."
   citata_originali: |
     Ta­
     da visa tai paėmė į savo valdžią - ir
@@ -100,7 +101,8 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
 - id: c-82547
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 52-53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 52-53."
   citata_originali: |
     T. VII, p. 370-374. Re­
     gis, iš jo kilusi Hanulu giminė, kurių

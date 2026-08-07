@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b96b52c764c5f260b015d803"
+canonical_name: "Orleanas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Orleanas"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per Reiną ir niokojo kraštą iki Orleano. Sis ka riūnas, nekliudomas ir greitai eidamas hunų, rugių, gepidų, turingių, frankų, herulų ir skiriu priekyje, persikė lė per Reiną ir niokojo viską pakeliui net ikį Orleano."
+place_authority: true
+historical_names: []
 ---
 # Orleanas
 
@@ -70,7 +79,8 @@ Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per R
 - id: c-175657
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 310."
   citata_originali: |
     450 me­
     tais jis su savo kariuomene pajudėjo į vakarus. Sis ka­

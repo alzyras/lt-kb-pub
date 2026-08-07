@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ad7a76351029a4b8c688fea0"
+canonical_name: "Jerošinas Jeroschin"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jerošinas Jeroschin"]
+sameAs: []
+canonical_biography: "Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jerošinas, garantuoti, kad niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­ jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir popiežiui, ir kad, tikėdamas savo. Panašių pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­ žių Joną ir privertė jį pasiųsti du legatus į Livoniją.\" Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­ tams bei popiežiui."
 ---
 # Jerošinas Jeroschin
 
@@ -68,7 +75,8 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 - id: c-84000
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 107."
   citata_originali: |
     Išorinį įrodymą randame pasakytą pirmiausia J e r o -
     š i n o, p. 349: „Tuo metu Rygos gyventojai ir jų arkivysku­
@@ -96,7 +104,8 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
 - id: c-84001
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 107."
   citata_originali: |
     Porina mums tą pasaką apie Maskvos didįjį kunigaikštį
     Simonas Grunau,  linkęs meluoti rašytojas, o jau L u -

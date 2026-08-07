@@ -89,7 +89,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
 <a id="claim-t-186416"></a>
 - t-004
   teiginys: "„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
@@ -120,7 +120,8 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
 - id: c-169754
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 38."
   citata_originali: |
     Net dinastinės
     vedybos vykdavo tiesioginiu kariniu spaudimu.
@@ -144,7 +145,8 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
 - id: c-169755
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 45."
   citata_originali: |
     Florencijoje). LDK būtent Vytauto
     laikais pradėjo artėti prie imperijos, Vytauto reformos buvo radikalios,
@@ -165,7 +167,8 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
 - id: c-169756
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 45."
   citata_originali: |
     Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
     Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“

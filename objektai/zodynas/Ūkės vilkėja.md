@@ -62,7 +62,8 @@ Vartojamos formos: `ūkės vilkėjomis`.
 - id: c-09584
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 98"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 98."
   citata_originali: |
     Mažosios savo rūtas augino, ravėdamos ir visaip jas gerbdamos, idant ir jos būt jau vadinamos ūkės vilkėjomis.
   citata_rodoma: "Mažosios savo rūtas augino, ravėdamos ir visaip jas gerbdamos, idant ir jos būt jau vadinamos ūkės vilkėjomis."
@@ -77,7 +78,8 @@ Vartojamos formos: `ūkės vilkėjomis`.
 - id: c-09585
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 98"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 98."
   citata_originali: |
     bus didi gaspadinė^402 ir ūkės vilkėja. Kitos sėjo, arė, šieną pjovė ir javus nuo lauko valijo.
   citata_rodoma: "bus didi gaspadinė^402 ir ūkės vilkėja. Kitos sėjo, arė, šieną pjovė ir javus nuo lauko valijo."

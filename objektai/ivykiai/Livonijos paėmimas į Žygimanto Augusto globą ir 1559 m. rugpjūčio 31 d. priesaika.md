@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-178580
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 700"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 700."
   citata_originali: |
     Kara­
     lius atmetė nepagrįstus skundus, savo ruožtu pareiškęs,
@@ -107,7 +108,8 @@ Nenurodyta
 - id: c-178581
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 701-702"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 701-702."
   citata_originali: |
     Be to, išskyrė pinigų dvejų metų karo išlaidoms pa­
     dengti. Seimo darbe dalyvavo ir ordino magistras Ket-

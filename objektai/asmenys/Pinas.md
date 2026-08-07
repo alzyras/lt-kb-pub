@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-949c05dbd0d7bb8ffe0f65e4"
+canonical_name: "Pinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų."
 ---
 # Pinas
 
@@ -82,7 +89,8 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 - id: c-61045
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
 

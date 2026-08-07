@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9290d181036bf47e5f5cd469"
+canonical_name: "Horacijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Horacijus"]
+sameAs: []
+canonical_biography: "Narbutas mini Horacijaus 28-ąją odę kaip tekstą, kuriame kalbama apie filosofo Archilo šmėklą."
 ---
 # Horacijus
 
@@ -54,7 +61,8 @@ Narbutas mini Horacijaus 28-ąją odę kaip tekstą, kuriame kalbama apie filoso
 - id: c-173275
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     Visa tai praverčia neži­
     nomo nelaimingojo vėlei nuraminti. Šis laužas, be abejo, gy­

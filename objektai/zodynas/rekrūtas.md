@@ -47,7 +47,8 @@ Rekrūtus rinkti Lietuvoje buvo galima tik į Lietuvos, o Lenkijoje tik į Lenki
 - id: c-176025
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 448"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 448."
   citata_originali: |
     Be to, buvo nustatyta, kad
     visuose bendruose valdžios organuose pusė narių turi

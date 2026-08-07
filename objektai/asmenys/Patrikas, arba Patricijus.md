@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4285f4e13ad9270a21883a23"
+canonical_name: "Patrikas, arba Patricijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Patrikas, arba Patricijus"]
+sameAs: []
+canonical_biography: "Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka jį prie Algirdo brolių pri­ skirdamas, ir žinome iš Rusios met­ raštininkų, kad jis Didįjį Naugardą valdęs iki 1348 m.; o po jo ten val­ džią perėmęs jo sūnus Patrikas, ar­ ba."
 ---
 # Patrikas, arba Patricijus
 
@@ -62,7 +69,8 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
 - id: c-83795
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 143."
   citata_originali: |
     V,
     135. Bet, regis, visa tai yra prasima­

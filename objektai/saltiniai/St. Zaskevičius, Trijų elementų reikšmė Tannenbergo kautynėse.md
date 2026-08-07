@@ -61,7 +61,8 @@ media_all_json: |-
 - id: c-33723
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 351."
   citata_originali: |
     — Werminghoef, A. : _Die Schlacht bei Tannenberg und ihre Be­
     deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :

@@ -58,7 +58,8 @@ Dusburgietis teigia, kad otrębski J.
 - id: c-61838
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     Otrębski J. Gramatyka języka litewskiego.— T. I.— Warszawa, 1958.
   citata_rodoma: "Otrębski J. Gramatyka języka litewskiego.— T. I.— Warszawa, 1958."

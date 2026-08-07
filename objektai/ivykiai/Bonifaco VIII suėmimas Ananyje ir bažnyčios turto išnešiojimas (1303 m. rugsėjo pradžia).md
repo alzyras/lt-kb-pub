@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-62695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
   citata_originali: |
     95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
 

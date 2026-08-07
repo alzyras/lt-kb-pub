@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d117bde8ef3be22466fb59e0"
+canonical_name: "Bidgoščius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bidgoščius"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Bidgoščius
 

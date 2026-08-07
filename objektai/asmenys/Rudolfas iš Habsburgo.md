@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb8d72221d6a87d2c5926fd3"
+canonical_name: "Rudolfas iš Habsburgo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rudolfas iš Habsburgo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpaties metais Rudolfas iš Habsburgo buvo išrinktas Romos karaliumi (Mart. Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių Tuo metu Rudolfas, Romos karalius, nukovė kare Otokarą, Čekijos karalių, atidavė Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi, o savo dukterį atidavė."
 ---
 # Rudolfas iš Habsburgo
 
@@ -40,7 +47,7 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
 <a id="claim-t-60197"></a>
 - t-001
   teiginys: "Rudolfas iš Habsburgo kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė sūnui Albrechtui."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -58,7 +65,7 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
 <a id="claim-t-194517"></a>
 - t-003
   teiginys: "Apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių Tuo metu Rudolfas, Romos karalius, nukovė kare Otokarą, Čekijos karalių, atidavė Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi, o savo dukterį atidavė."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -84,7 +91,8 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
 - id: c-60829
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236."
   citata_originali: |
     55. Apie Rudolfo išrinkimą Romos karaliumi
 
@@ -104,7 +112,8 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
 - id: c-60830
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Galop valdovas, ilgokai rūstinamas,
     pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš. Prancūzijos

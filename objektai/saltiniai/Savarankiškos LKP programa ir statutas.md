@@ -38,7 +38,8 @@ Suvažiavimo metu „už savarankišką LKP, turinčią savo programą ir statut
 - id: c-23960
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 239."
   citata_originali: |
     Komunistų partijos veiklai didelę įtaką turėjo 1989 m.
     gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc.

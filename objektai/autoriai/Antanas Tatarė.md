@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42fcf7ac0f9a8e14fab6e6ac"
+canonical_name: "Antanas Tatarė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Antanas Tatarė"]
+sameAs: []
+canonical_biography: "Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Mykolas Akelaitis (1828—1857 m.) parašė eilių ir išleido keletą liaudžiai naudingų lietuviškų knygų."
 ---
 # Antanas Tatarė
 
@@ -62,7 +69,8 @@ Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Mykolas Akelaitis (1828�
 - id: c-01254
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 510"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 510."
   citata_originali: |
     Čia dar reikia paminėti ir lietuviškų kalendorių lei-
     dėją, žemaičių bajorą Lauryną Ivinskį (1808—1881 m.).

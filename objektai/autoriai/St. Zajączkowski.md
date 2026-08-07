@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f03fb9624342d30a630cbc80"
+canonical_name: "St. Zajączkowski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["St. Zajączkowski"]
+sameAs: []
+canonical_biography: "(^124) I SKYRIUS: LIETUVOS PROISTORĖ —-Zajączkowski, St."
 ---
 # St. Zajączkowski
 
@@ -41,7 +48,8 @@ media_all_json: |-
 - id: c-30888
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 131."
   citata_originali: |
     (^124) I SKYRIUS: LIETUVOS PROISTORĖ
     —-Zajączkowski, St. : _O nazwach ludu Jadźwiugów,_ Zapiski Towarzyst­

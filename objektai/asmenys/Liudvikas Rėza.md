@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-85c83b7334ccd1ae11a943fe"
+canonical_name: "Liudvikas Rėza"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas Rėza"]
+sameAs: []
+canonical_biography: "Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poe­ma „Metai“ (su vertimu į vokiečių kalbą)."
 ---
 # Liudvikas Rėza
 
@@ -88,7 +95,8 @@ media_all_json: |-
 - id: c-21859
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
     Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
@@ -106,7 +114,8 @@ media_all_json: |-
 - id: c-171467
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 431"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
   citata_originali: |
     Jau ir šiaip žinome, ir anksčiau sakėme, kad
     kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
@@ -134,7 +143,8 @@ media_all_json: |-
 - id: c-179178
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     Valdant Žygimantui Augus­
     tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
@@ -154,7 +164,8 @@ media_all_json: |-
 - id: c-179179
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
   citata_originali: |
     Toje
     vietoje būna įkaltas stulpelis ir ant jo padėtas pinigas. Raite­

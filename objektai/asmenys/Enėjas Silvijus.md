@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9031bb7120ac6a9630f18e2c"
+canonical_name: "Enėjas Silvijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Enėjas Silvijus"]
+sameAs: []
+canonical_biography: "Anot Enėjo Silvijaus liudijimo, Zantiro šventyklos aptvare buvo šventas ąžuolas ir Perkūno, Pokliaus bei Atrimpo stabai."
 ---
 # Enėjas Silvijus
 
@@ -53,7 +60,8 @@ Anot Enėjo Silvijaus liudijimo, Zantiro šventyklos aptvare buvo šventas ąžu
 - id: c-173030
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 268."
   citata_originali: |
     Kryžiuočiai paėmė šią šventyklą pirmu puolimu,
     pastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę.

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c229279f31154b45e9ff18f7"
+canonical_name: "Dubrovna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dubrovna"]
+sameAs: []
+canonical_biography: "1562 m. maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo ir Dubrovnos apylinkes. Bychovco kronikoje pasakojama, kad Jogaila ir Vytautas su savo kariuomenėmis, perėję miškus, priėjo Dubrovnos laukus."
+place_authority: true
+historical_names: []
 ---
 # Dubrovna
 
@@ -102,7 +111,8 @@ media_all_json: |-
 - id: c-40409
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     Kol tarp Maskvos ir Lietuvos
     didžiųjų kunigaikštysčių galiojo
@@ -130,7 +140,8 @@ media_all_json: |-
 - id: c-170523
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 104."
   citata_originali: |
     Numatė vokie­
     čiai, kad lenkai ir lietuviai su tokia daugybe kariuo­

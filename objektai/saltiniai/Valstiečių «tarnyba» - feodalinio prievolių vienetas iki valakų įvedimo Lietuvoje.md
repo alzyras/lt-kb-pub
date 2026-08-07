@@ -57,7 +57,8 @@ media_all_json: |-
 - id: c-33734
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 85."
   citata_originali: |
     Nuo Batu ant­
     plūdžio iki mūšio prie Mėlynųjų Vandenų,_** **Vilnius 1975.**

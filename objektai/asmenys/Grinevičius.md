@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba0c2b09bc0daf30a6c7a279"
+canonical_name: "Grinevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Grinevičius"]
+sameAs: []
+canonical_biography: "O atvedė rusų kariuomenę toks Grinevičius iš Medikonių kaimo."
 ---
 # Grinevičius
 
@@ -50,7 +57,8 @@ O atvedė rusų kariuomenę toks Grinevičius iš Medikonių kaimo.
 - id: c-41928
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 225."
   citata_originali: |
     O atvedė rusų kariuomenę toks
     Grinevičius iš Medikonių kaimo. Prieš tai

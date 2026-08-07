@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c9588f156511024186ee3aeb"
+canonical_name: "Engelbertas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Engelbertas"]
+sameAs: []
+canonical_biography: "Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa tikinčiųjų tauta liko visiškai išnaikinti, kuršiai atkrito į senąjį netikėjimą."
 ---
 # Engelbertas
 
@@ -51,7 +58,8 @@ Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa ti
 - id: c-77384
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 25."
   citata_originali: |
     Maurikijaus ir jo draugų kankinių dieną patys
     lietuviai užmušė 50 ordino brolių ir daugybę tikratikių (multitudine fidelium).

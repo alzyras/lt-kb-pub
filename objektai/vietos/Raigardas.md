@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-59178fc45554b06790f0e4f0"
+canonical_name: "Raigardas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Raigardas"]
+sameAs: []
+canonical_biography: "md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - pagrindzia: - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą. citataoriginali: | (^713) įvykiuose ## vocabulary-notys-002 - status: unused -."
+place_authority: true
+historical_names: []
 ---
 # Raigardas
 
@@ -68,7 +77,8 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
 - id: c-168660
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 139-140"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 139-140."
   citata_originali: |
     Išlikę jotvingiai, iš seno ne­
     kęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė
@@ -99,7 +109,8 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
 - id: c-175621
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
   citata_originali: |
     Kruvina šio Ordino
     politika numatė padaryti Sūduvą visiškai negyvenamą,

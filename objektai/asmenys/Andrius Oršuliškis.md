@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-21337e8e150d6a677a87cb53"
+canonical_name: "Andrius Oršuliškis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Oršuliškis"]
+sameAs: []
+canonical_biography: "Štai 1554 m. Kauno miestietis Andrius Oršuliškis Kauno vaito teisme apskundė savo vytinės laivavedį Motiejų Židelį, kad šis, nors dar rudenį buvo įsakytas ištraukti pergą į krantą Aleksote (na lixthat ieszcze w iesieni wiwindowac pergę), to nepadarė ir."
 ---
 # Andrius Oršuliškis
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185484
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 214."
   citata_originali: |
     Aleksote žiemai į krantą laivai buvo ištraukiami, kad jų nesutraiškytų įšalusi upė ar
     ledonešio lytys, nenuneštų pakilusi upė. Štai 1554 m. Kauno miestietis Andrius Or-

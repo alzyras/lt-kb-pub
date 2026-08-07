@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-62ea0accd5c556805828faf8"
+canonical_name: "Kapitoniškiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kapitoniškiai"]
+sameAs: []
+canonical_biography: "1, 1955, 87-97 p.), Kapitoniškiuose (AkMD, t."
+place_authority: true
+historical_names: []
 ---
 # Kapitoniškiai
 
@@ -59,7 +68,8 @@ media_all_json: |-
 - id: c-33863
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 83."
   citata_originali: |
     (^76) ĮVADAS
     pins^95. R. Volkaitė - Kulikauskienė, parašiusi _Lietuviai

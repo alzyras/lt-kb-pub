@@ -109,7 +109,8 @@ Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo de
 - id: c-172006
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     Rusovas sako, kad latvių jaunimas garbino tą deivę, va­
     dindamas Dahkla, kaip laisvės ir vyriškumo globėją. Tą patį

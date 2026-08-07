@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a91779af4ade86bee7bd7d70"
+canonical_name: "Aleksandras III"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras III"]
+sameAs: []
+canonical_biography: "N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pakraščių“ atžvilgiu tuomet dar nebuvo beatodairiškai persmelkta rusų nacionalizmo (pastarasis principas taps vyraujančiu imperijos vidaus politikos principu Aleksandro III (1881–1894)."
 ---
 # Aleksandras III
 
@@ -50,7 +57,8 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
 - id: c-21560
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 114."
   citata_originali: |
     LIAUDIS VIRSTA TAUTA
     N

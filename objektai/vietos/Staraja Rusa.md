@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f1ccd20743badbec2be1f757"
+canonical_name: "Staraja Rusa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Staraja Rusa"]
+sameAs: []
+canonical_biography: "liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, o įgulą „išmušė“."
+place_authority: true
+historical_names: []
 ---
 # Staraja Rusa
 
@@ -77,7 +86,8 @@ liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, 
 - id: c-77035
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 96."
   citata_originali: |
     94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis
 

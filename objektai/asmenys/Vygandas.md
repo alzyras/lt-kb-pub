@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3091b61b83f051f6d90cc12b"
+canonical_name: "Vygandas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vygandas"]
+sameAs: []
+canonical_biography: "Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs."
 ---
 # Vygandas
 
@@ -51,7 +58,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - id: c-32827
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 283."
   citata_originali: |
     Kaip kita­
     dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6ecc2fb461af79d3d9d9770e"
+canonical_name: "Kauno Laisvės alėja"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno Laisvės alėja"]
+sameAs: []
+canonical_biography: "Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius."
+place_authority: true
+historical_names: []
 ---
 # Kauno Laisvės alėja
 
@@ -61,7 +70,8 @@ Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeri
 - id: c-95226
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 233-234"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 233-234."
   citata_originali: |
     So-
     vietinio režimo žlugimo išvakarėse veikdama nelegaliai ir pusiau legaliai,

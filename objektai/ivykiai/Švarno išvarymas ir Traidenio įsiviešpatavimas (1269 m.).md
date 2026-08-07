@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-33448
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 206."
   citata_originali: |
     Tas Vaišvilko bandy­
     mas sujungti jauną Lietuvos valstybę su jo pamėgta Volinijos-Haličo

@@ -190,7 +190,8 @@ Nenurodyta
 - id: c-169217
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 127."
   citata_originali: |
     Mat Šventaragis, būdama*
     gyvas, kartą medžioklės metu pateko į be galo žavin­
@@ -221,7 +222,8 @@ Nenurodyta
 - id: c-169219
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 128."
   citata_originali: |
     Visa šitai deramai sutvarkius, mirusiojo valdovo kū­
     nas, aprengtas kario drabužiais, buvo didikų užkeltas
@@ -259,7 +261,8 @@ Nenurodyta
 - id: c-178626
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 128."
   citata_originali: |
     Šitaip sutvarkęs šermenis ir atlikęs vi­
     sas nustatytas apeigas, kurių vėliau laikytasi deginant

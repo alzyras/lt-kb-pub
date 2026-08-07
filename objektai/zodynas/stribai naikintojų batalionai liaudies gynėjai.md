@@ -82,7 +82,8 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
 - id: c-166861
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 212."
   citata_originali: |
     Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
     1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst. karių. NKVD
@@ -105,7 +106,8 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
 - id: c-166862
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 212-213"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 212-213."
   citata_originali: |
     Kai kurie jų su ginklais pasitraukė pas parti-
     Jonas Žemaitis-Vytautas

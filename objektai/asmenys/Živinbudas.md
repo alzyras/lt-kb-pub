@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f58afa4f5db2e9ef6c92ef2d"
+canonical_name: "Živinbudas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Živinbudas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23, Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija) 1219 m. sudarė."
 ---
 # Živinbudas
 
@@ -176,7 +183,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - id: c-61109
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
     ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
@@ -199,7 +207,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - id: c-168262
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 67."
   citata_originali: |
     Galbūt šitaip ir bū­
     tų atsitikę, jeigu, jam mirus,
@@ -226,7 +235,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - id: c-168265
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 84."
   citata_originali: |
     1221 m e ta i
     K u k o v a itis — L ietu ­
@@ -270,7 +280,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - id: c-176137
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 81."
   citata_originali: |
     Atleidęs
     pasiuntinius, įsakė juos klyst-
@@ -301,7 +312,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - id: c-176647
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 47."
   citata_originali: |
     Didysis kunigaikštis Skirmantas iškilmingai pasitiko
     Kukovaitį, Lietuvos didžiojo kunigaikščio Zivinbudo

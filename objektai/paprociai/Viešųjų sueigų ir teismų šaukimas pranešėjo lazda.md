@@ -62,7 +62,8 @@ Nenurodyta
 - id: c-172793
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 417"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 417."
   citata_originali: |
     Erat autem hic
     baculus nunciatorius effectus ad modum rei, de qua in Conven­

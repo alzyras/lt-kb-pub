@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7753381e4899468793b2f83"
+canonical_name: "Afrika"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Afrika"]
+sameAs: []
+canonical_biography: "Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausiais nuotykiais ir pavojais po Arabiją, Afriką, Mezopotamiją."
+place_authority: true
+historical_names: []
 ---
 # Afrika
 
@@ -93,7 +102,8 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 317."
   citata_originali: |
     Labai vaizdžiai ir gyvai ap­
     rašyta vieno keliautojo kelionės su įvairiausiais nuotykiais ir pavojais
@@ -114,7 +124,8 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
 - id: c-171551
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 200."
   citata_originali: |
     Šitą dievybių rūšį vadina­
     me fetišais, o tikėjimą jais -  fetišizmu.
@@ -135,7 +146,8 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
 - id: c-175377
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 35."
   citata_originali: |
     Tad šį skyrių pirmiausia,
     kol imsimės tolesnių ieškojimų, skirkime seniausių epo­

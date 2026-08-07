@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e07b80257ec4fcb3b3610d26"
+canonical_name: "T. Korsakas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["T. Korsakas"]
+sameAs: []
+canonical_biography: "Korsako) milicijos batalionas ir keli eskadronai bei keletas kitų smulkesnių sukilėlių padalinių."
 ---
 # T. Korsakas
 
@@ -50,7 +57,8 @@ Korsako) milicijos batalionas ir keli eskadronai bei keletas kitų smulkesnių s
 - id: c-44529
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 150."
   citata_originali: |
     Vilniaus
     miesto įgulą sudarė nedideli 4-ojo ir 8-ojo

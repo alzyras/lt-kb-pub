@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9defd9281a90a8bee9ceb7f0"
+canonical_name: "Vilniaus Šv. Kazimiero bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus Šv. Kazimiero bažnyčia"]
+sameAs: []
+canonical_biography: "Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės architektūros manifestu paprastai laikoma Vilniaus Šv."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus Šv. Kazimiero bažnyčia
 
@@ -60,7 +69,8 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
 - id: c-75108
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzui-
     tais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą. Barokinė

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-941577c258b28a60bea39e9a"
+canonical_name: "Henrikas fon Plockė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas fon Plockė"]
+sameAs: []
+canonical_biography: "Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių. Henrikas fon Plockė ir jo vadovaujami kryžiuočiai miško tankmėje buvo sunaikinti arba pateko į nelaisvę. Vos brėkštant dienai, lietuvius iš visų pusių apsupo kryžiuočiai, vedami Henriko fon Plockės."
 ---
 # Henrikas fon Plockė
 
@@ -97,7 +104,8 @@ Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuni
 - id: c-169405
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 190."
   citata_originali: |
     Surminas grįžo pas valdovą nugalė­
     toju, visiems nešdamas džiaugsmą, o pats slėpdamas
@@ -138,7 +146,8 @@ Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuni
 - id: c-169406
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 196."
   citata_originali: |
     Lietuviai, nujautę, jog priešas šitaip ir
     elgsis, iš anksto slaptai apstojo miškuose takus, visur
@@ -175,7 +184,8 @@ Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuni
 - id: c-178712
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 188."
   citata_originali: |
     Vos brėkštant dienai, lietuvius iš visų
     pusių apsupo kryžiuočiai, vedami Henriko fon Ploc-

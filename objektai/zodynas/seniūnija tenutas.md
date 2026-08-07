@@ -47,7 +47,8 @@ Mat, tenai reikėdavo žinoti, kokias pareigas eina valstiečiai: kai tekdavo tu
 - id: c-176027
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 437"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 437."
   citata_originali: |
     Kiek geriau buvo bažnyti-
     niuose ir valstybiniuose dvaruose, nes ten vals-

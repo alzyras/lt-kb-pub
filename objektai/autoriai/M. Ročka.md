@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-058e6495877ee4c9c57dca07"
+canonical_name: "M. Ročka"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Ročka"]
+sameAs: []
+canonical_biography: "Štai, [vertė MRočka], Vilnius, Mintis, 1966."
 ---
 # M. Ročka
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-84009
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 71."
   citata_originali: |
     Todėl prašome, kad jūs paskelbtumėte šį [laišką] žmo­
     nėms miestuose, vietovėse bei kaimuose, kur tik kuriam nors

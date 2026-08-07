@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1db1c8bcccad855d7d3e8cc2"
+canonical_name: "Filipovo namai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Filipovo namai"]
+sameAs: []
+canonical_biography: "O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios Kunigaikštystės rūmų maršalka, tapo savininku namų, vadintų Filipovo namais, susidedančių iš keleto medinių, moliu aplipdytų, pastatų, užimančių dabartinį Kardinalijos sparną nuo. Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį. Vėliau, apie 1601 metus, abu namai - Goštautų ir Filipovo - kartu sujungti Albrechto Radvilos lai­ kais, gavo bendrą Kardinalijos pa­ vadinimą, išlikusį iki mūsų laikų."
+place_authority: true
+historical_names: []
 ---
 # Filipovo namai
 
@@ -96,7 +105,8 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
 - id: c-81995
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Tą Fi-
     lipovo namą kunigaikščio Kristupo
@@ -124,7 +134,8 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
 - id: c-81996
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Kardinolas Radvila
     dalyje, vadinamoje Goštautų mūru,
@@ -150,7 +161,8 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
 - id: c-81997
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Jono bažnyčią, visą mū­
     rinį. O Jurgio brolis, kunigaikštis Mi­

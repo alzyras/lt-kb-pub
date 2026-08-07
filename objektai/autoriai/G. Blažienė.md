@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-73190b3c69f986988a2a0749"
+canonical_name: "G. Blažienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["G. Blažienė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad blažienei, filol."
 ---
 # G. Blažienė
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad blažienei, filol.
 - id: c-61333
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
     S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,

@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ce368c14a0865172ac1cc2c6"
+canonical_name: "Kaišiadorys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kaišiadorys"]
+sameAs: []
+canonical_biography: "Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą Kaišiadorių ir Alytaus kryptimis."
+place_authority: true
+historical_names: []
 ---
 # Kaišiadorys
 
@@ -75,7 +84,8 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
 - id: c-43473
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 239."
   citata_originali: |
     Vokiečių okupacijos metais buvo geležinkelių apsaugos polici-
     ninkas Kaišiadoryse. 1944 m. įstojo į Vietinę rinktinę. Sovietams pakartotinai okupavus Lietuvą, 1944 m. organizavo
@@ -92,7 +102,8 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
 - id: c-175931
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 570"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 570."
   citata_originali: |
     Santarvei ypač rū-
     pėjo, kad tarp valstybių, kariaujančių su bolševikais, nebūtų

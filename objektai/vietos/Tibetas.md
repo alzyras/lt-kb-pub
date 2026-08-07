@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6168e21f5aed720d7a3fe92d"
+canonical_name: "Tibetas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tibetas"]
+sameAs: []
+canonical_biography: "Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven Hedino kelionė i Azijos širdį — Tibetą, įvairūs nuotykiai, kovos su vie­ tos tautelėmis, kurios žūt būt neįsileidžia nė vieno europiečio, nė vie­ no ne savo krašto žmogaus į savo krašto gilumą, į jų."
+place_authority: true
+historical_names: []
 ---
 # Tibetas
 
@@ -66,7 +75,8 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 318."
   citata_originali: |
     4. —
     Čia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven He-
@@ -87,7 +97,8 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
 - id: c-175535
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
   citata_originali: |
     Nibūras, kurio darbus paėmėme, taip sa­
     ko apie juos: „Tai ne prielaida, kalbu kuo tvirčiausiai isto­

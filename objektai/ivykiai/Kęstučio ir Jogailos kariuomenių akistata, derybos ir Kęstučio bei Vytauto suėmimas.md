@@ -163,7 +163,8 @@ Nenurodyta
 - id: c-168868
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 268-269"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268-269."
   citata_originali: |
     Mat tuo metu
     paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
@@ -200,7 +201,8 @@ Nenurodyta
 - id: c-168869
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 270."
   citata_originali: |
     Jogaila vėl prisiekė laikytis žodžio; Kęstutis,
     visaip iš pradžių išsisukinėjęs, atvyko pas Jogailą, kai
@@ -241,7 +243,8 @@ Nenurodyta
 - id: c-168870
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 270."
   citata_originali: |
     Derybos u ž ­
     los
@@ -279,7 +282,8 @@ Nenurodyta
 - id: c-168871
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 271."
   citata_originali: |
     leidosi į Vilnių, nes atsisakyti kelionės irgi buvo pa­
     vojinga; abi kariuomenės ramiai pasitraukė į stovyk­

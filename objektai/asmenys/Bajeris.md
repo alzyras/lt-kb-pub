@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b07ca2594d73f199b067c445"
+canonical_name: "Bajeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bajeris"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles įdėti į savo „Monumentą Prussica“. Iš to, remiantis Bajeriu1, atsirado įsitikinimai, jog gelonų-budinų kraštas turėjęs būti Polesėje, senovės Kulmo žemėje ir Lietuvos Brastos vaivadijoje. Wigancli Episcopi Pomesatiiensis de Succino, alce et herbis iri Prussia nascentibus libri\", išleistą 1590 metais Jenoje; Bajeris ją norėjo įdėti į savo „Monumentą Prussica“."
 ---
 # Bajeris
 
@@ -104,7 +111,8 @@ Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę ap
 - id: c-174079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
   citata_originali: |
     Labiausiai jį primena skruzdėliniai gyvasakiai; gel­
     tonas ir baltas gintaras kvepia skirtingai. Smalsuoliams
@@ -126,7 +134,8 @@ Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę ap
 - id: c-179302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 204."
   citata_originali: |
     Iš to, remiantis
     Bajeriu1, atsirado įsitikinimai, jog gelonų-budinų kraštas
@@ -150,7 +159,8 @@ Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę ap
 - id: c-179303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
   citata_originali: |
     Smalsuoliams
     rekomenduojama paskaityti knygelę „Ja. Wigancli Epis-

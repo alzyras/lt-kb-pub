@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-993e246933cffde206a19fd8"
+canonical_name: "Kristupas Stambrovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristupas Stambrovskis"]
+sameAs: []
+canonical_biography: "1637 m. Kauno miesto taryba sprendė miestelėno Kristupo Stambrovskio bylą su žmonos giminaičiais dėl kadaise jų reikalais padarytų išlaidų."
 ---
 # Kristupas Stambrovskis
 
@@ -50,9 +57,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185535
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 174"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 174."
   citata_originali: |
     1637 m. Kauno miesto taryba sprendė mies-
     telėno Kristupo Stambrovskio bylą su žmonos giminaičiais dėl kadaise jų reikalais

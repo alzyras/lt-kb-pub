@@ -58,7 +58,8 @@ media_all_json: |-
 - id: c-77411
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 274."
   citata_originali: |
     LIETUVOS ATSIKŪRIMAS
     P. 239, AT rūmų gynybos ruožai 1991 m. sausio-rugpjūčio mėnesiais, Albertas Daugirdas,

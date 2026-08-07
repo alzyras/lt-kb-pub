@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d06d2da786a15ee99ffd8926"
+canonical_name: "Podbužo dvaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Podbužo dvaras"]
+sameAs: []
+canonical_biography: "Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas Ostapui Kropotkovui už nuopelnus kare su totoriais."
+place_authority: true
+historical_names: []
 ---
 # Podbužo dvaras
 
@@ -63,7 +72,8 @@ Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas
 - id: c-171935
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
     metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos

@@ -45,6 +45,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9a473dbff06c784ba1473f82"
+canonical_name: "Vėluva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vėluva"]
+sameAs: []
+canonical_biography: "Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.."
+place_authority: true
+historical_names: []
 ---
 # Vėluva
 
@@ -399,7 +408,8 @@ media_all_json: |-
 - id: c-32576
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 258-259"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 258-259."
   citata_originali: |
     (^14) **SRP, II, 533 (Algirdas « cum suis boyaribus et Smyrdens »); 534-
     536 (Kęstučio dialogas su vyr. magistru).**
@@ -424,7 +434,8 @@ media_all_json: |-
 - id: c-93817
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
   citata_originali: |
     XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
     ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
@@ -449,7 +460,8 @@ media_all_json: |-
 - id: c-93820
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 24."
   citata_originali: |
     Rašydamas kroniką, Dusburgietis naudojosi dokumentais, tačiau kokiais ir kaip —
     neaišku. M. Tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis
@@ -472,7 +484,8 @@ media_all_json: |-
 - id: c-93821
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 84-85"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 84-85."
   citata_originali: |
     J a r o-
     68
@@ -502,7 +515,8 @@ media_all_json: |-
 - id: c-93822
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 38."
   citata_originali: |
     Tais pačiais 1347 m. lietuvių karalius (rex)
     niokojo Ragainės ir Įsruties apylinkes, spa-
@@ -522,7 +536,8 @@ media_all_json: |-
 - id: c-93824
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 615"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 615."
   citata_originali: |
     Tarp toliausiai į rytus įsiterpusių ir vakarinių pilių tinklo,
     matome, yra tuščias plotas. Be to, ir čia parodytos kai kurios pilys buvo
@@ -546,7 +561,8 @@ media_all_json: |-
 - id: c-93825
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107."
   citata_originali: |
     73 (72). Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
     Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
@@ -569,7 +585,8 @@ media_all_json: |-
 - id: c-93826
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
   citata_originali: |
     Apie Vėluvos pilies puolimą
 
@@ -594,7 +611,8 @@ media_all_json: |-
 - id: c-93827
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
     kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
@@ -611,7 +629,8 @@ media_all_json: |-
 - id: c-168574
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 247."
   citata_originali: |
     Kai Algirdas bei Aleksandras
     Karijotaitis su keliomis žygio voromis padalyta kariuo­
@@ -636,7 +655,8 @@ media_all_json: |-
 - id: c-171762
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 239."
   citata_originali: |
     Anksčiau, kai tas medis žaliavo ir turėjo žievę, jis
     prie žemės buvo dvidešimt septynių uolekčių apimties (vadi­
@@ -656,9 +676,9 @@ media_all_json: |-
     - t-013
 
 - id: c-184470
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 362"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 362."
   citata_originali: |
     Vienok žemaičiai, gavę pragumą, norėjo dar
     samioms gelbėti; to dėjęsi, susitarė su šalaujais, na-

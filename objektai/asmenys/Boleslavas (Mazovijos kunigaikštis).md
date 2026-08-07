@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-753b638e9a60443098bc95ef"
+canonical_name: "Boleslavas (Mazovijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslavas (Mazovijos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Per viešpaties Mazovijos kunigaikščio Boleslavo kunigaikš­ tystę galės kiekvienas saugiai atvykti į mano valdomą žemę."
 ---
 # Boleslavas (Mazovijos kunigaikštis)
 
@@ -61,7 +68,8 @@ Per viešpaties Mazovijos kunigaikščio Boleslavo kunigaikš­ tystę galės ki
 - id: c-83465
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 77."
   citata_originali: |
     Šio antspaudo niekintojus šiuo savo laišku pasmerkiame
     kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios

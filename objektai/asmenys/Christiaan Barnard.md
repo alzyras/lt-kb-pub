@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-68612611f4e9bb5d668fabaa"
+canonical_name: "Christiaan Barnard"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Christiaan Barnard"]
+sameAs: []
+canonical_biography: "O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afrikos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas buvo."
 ---
 # Christiaan Barnard
 
@@ -40,7 +47,8 @@ O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinim
 - id: c-21639
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265."
   citata_originali: |
     Europos čem-
     pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),

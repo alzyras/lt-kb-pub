@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-29bfdc05ac353c2369ae8269"
+canonical_name: "Febanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Febanas"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime rugių karalius Febanas pernelyg engė Odoakro sąjungininkus Norike ir žuvo kautynėse su Odoakru."
 ---
 # Febanas
 

@@ -38,7 +38,7 @@ Jurijus Svetoslavovičius buvo paskutinis Smolensko kunigaikštis, valdęs 1386�
 <a id="claim-t-199073"></a>
 - t-001
   teiginys: "Jurijus Svetoslavovičius buvo paskutinis Smolensko kunigaikštis, valdęs 1386–1392 ir 1401–1404 m."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -50,7 +50,7 @@ Jurijus Svetoslavovičius buvo paskutinis Smolensko kunigaikštis, valdęs 1386�
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Jurijaus Svetoslavovičiaus statusą ir valdymo laikotarpius. Nepridėtas vėlesnis persikėlimas į Didįjį Naugardą."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-181454
 

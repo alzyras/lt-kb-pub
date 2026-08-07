@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b255dcc8cabc2a5cc386aaf2"
+canonical_name: "Petras Cidzikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Cidzikas"]
+sameAs: []
+canonical_biography: "Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzikas."
 ---
 # Petras Cidzikas
 
@@ -40,7 +47,8 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
 - id: c-21935
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),
     kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir

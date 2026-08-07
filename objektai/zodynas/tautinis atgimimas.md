@@ -85,7 +85,8 @@ Terminas vartojamas ir kaip istoriografinis laikotarpio vardas, ir kaip judėjim
 - id: c-05595
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 61."
   citata_originali: |
     Jokia Daukanto istorijos rašymo ir jo metodo kritika tačiau
     nepajėgs sumažinti jo didelės reikšmės tautinio atgimimo laikotar­

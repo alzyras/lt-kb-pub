@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b2ccaf2ead936ab942821b8"
+canonical_name: "Rūdninkų giria"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rūdninkų giria"]
+sameAs: []
+canonical_biography: "Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso ir Rūdninkų medžionė, buvo nežmoniškai nuniokotas, išliko šiame žvėryne iki šiol yra likę puikaus miško pėdsakų. Seniau Rūdninkų girios išties buvo ne­ peržengiamos ir žmonių neištirtos, nes žemvaldžių miškuo­ se, nuo Rūdninkų link Ašmenos ir Lydos besidriekiančiuo­ se, kaip ir pas mane, Jašiūnuose, kur ne kur stūkso pilkapiai - nenuginčijami žmonių gyvenimo nuo. O Rūdninkų miškuose nieko panašaus ir neįmanoma būtų surasti."
+place_authority: true
+historical_names: []
 ---
 # Rūdninkų giria
 
@@ -121,7 +130,8 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
 - id: c-170350
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 126."
   citata_originali: |
     ko valdovu karalaitį Kazimierą iš Lenkijos ir Brasto­
     j e 3  pakėlė jį Lietuvos didžiuoju kunigaikščiu, išvyko
@@ -151,7 +161,8 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
 - id: c-170351
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 272."
   citata_originali: |
     Jame veisėsi daug
     briedžių ir stirnų. Nors Mendzižečės girios daugiau negu 3
@@ -173,7 +184,8 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
 - id: c-170352
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 272."
   citata_originali: |
     O Rūdninkų miškuose nieko panašaus ir neįmanoma
     būtų surasti. Jų pavadinimas kilęs nuo nemažų geležies rū­
@@ -192,7 +204,8 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
 - id: c-170353
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 272."
   citata_originali: |
     Pati vietovė, su­
     pama pelkių ir raistų, netinkama gyventi, lėmė tai, kad žmo­

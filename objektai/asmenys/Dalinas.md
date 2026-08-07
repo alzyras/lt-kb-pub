@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8de5d215c218975e55fd2d30"
+canonical_name: "Dalinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dalinas"]
+sameAs: []
+canonical_biography: "Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos jūros nusekimą nuo Kristaus gimimo."
 ---
 # Dalinas
 
@@ -75,7 +82,8 @@ Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos
 - id: c-174379
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Iš tikrųjų kai ku­
     rias sausumas galima laikyti buvusiomis salomis po to,

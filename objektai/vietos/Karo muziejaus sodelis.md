@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e5b51a252359875efa41057a"
+canonical_name: "Karo muziejaus sodelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Karo muziejaus sodelis"]
+sameAs: []
+canonical_biography: "1934 m. lapkričio 23 d. Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos laisvę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iškilmingai."
+place_authority: true
+historical_names: []
 ---
 # Karo muziejaus sodelis
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-24163
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 173."
   citata_originali: |
     Aukščiausias Kauno pastatas iš gelžbetonio
     plokščių pagal architekto Karolio Reisono (Kārlis Reisons) projektą išaugo

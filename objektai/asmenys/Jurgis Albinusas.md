@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9c22942551e05ea9ac9dbb6"
+canonical_name: "Jurgis Albinusas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Albinusas"]
+sameAs: []
+canonical_biography: "1565 m. Kauno muitininkai ir mokesčių rinkikai žydai skundė Kauno klebono Jurgio Albinuso valdinius, kad šie užpuolę muitinę."
 ---
 # Jurgis Albinusas
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185488
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 182"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 182."
   citata_originali: |
     Su muitine dažnai buvo susijusios kitokios rinkliavos. 1565 m. Kau-
     no muitininkai ir mokesčių rinkikai žydai skundė Kauno klebono Jurgio Albinuso

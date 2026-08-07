@@ -60,7 +60,8 @@ Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T
 - id: c-26716
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 177-178"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 177-178."
   citata_originali: |
     Todėl 1934 m. pradėti megzti neoficialūs
     Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras

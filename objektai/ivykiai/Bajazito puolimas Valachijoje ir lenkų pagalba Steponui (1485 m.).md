@@ -50,7 +50,8 @@ Nenurodyta
 - id: c-169054
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 530"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 530."
   citata_originali: |
     Te-
     miras įkalbėjo Achmatą grįžti į skitų kraštą, nė neper­

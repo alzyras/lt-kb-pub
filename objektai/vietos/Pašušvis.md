@@ -23,6 +23,15 @@ media_all_json: |-
 tags:
   - kaimas
   - vieta
+entity_id: "ent-900f6eb0b399f4308649a133"
+canonical_name: "Pašušvis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pašušvis","Pašušvy","į Pašušvį"]
+sameAs: []
+canonical_biography: "Pašušvis šiame šaltinyje minimas kaip vieta, kur gyveno puodus lipdęs ir krosnis mūrijęs Škobaras."
+place_authority: true
+historical_names: []
 ---
 # Pašušvis
 

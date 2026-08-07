@@ -97,7 +97,8 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
 - id: c-97170
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 135."
   citata_originali: |
     1918 m. sausio pabaigoje, protestuodami prieš su-
     sitaikėlišką Tarybos politiką, radikalesni S. Kairys, Stanislovas Narutavi-
@@ -123,7 +124,8 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
 - id: c-97171
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 135-136"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 135-136."
   citata_originali: |
     Vokietijai nepripažinus
     Lietuvos net gruodžio 11-osios rezoliucijos pagrindu, nusivylę Tarybos

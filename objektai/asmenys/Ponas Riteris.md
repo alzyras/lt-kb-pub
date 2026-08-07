@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e313308cd262c951a0e0d6e8"
+canonical_name: "Ponas Riteris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ponas Riteris"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad ponas Riteris savo „Siaurės senovės tyrimuose“ plačiai aptarė Saulės, arba Apolono, garbinimą prie Baltijos jūros."
 ---
 # Ponas Riteris
 
@@ -53,7 +60,8 @@ Narbutas rašo, kad ponas Riteris savo „Siaurės senovės tyrimuose“ plačia
 - id: c-173121
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 100."
   citata_originali: |
     100
 

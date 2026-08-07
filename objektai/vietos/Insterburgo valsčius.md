@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-29da79b9307f57ba22b7afb2"
+canonical_name: "Insterburgo valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Insterburgo valsčius"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis Hartknochu, Insterburgo valsčiuje lokalizavo šventąją pušį Romutą arba Ruombotą, kurią 1664 m. suskaldė žaibas."
+place_authority: true
+historical_names: []
 ---
 # Insterburgo valsčius
 
@@ -63,7 +72,8 @@ Narbutas, remdamasis Hartknochu, Insterburgo valsčiuje lokalizavo šventąją p
 - id: c-171894
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 240."
   citata_originali: |
     PŪ SIS,Pussis. Hartknochas19 pateikia duomenų apie šven­
     tąją pušį, vadintą Romuta arba Ruombota, esančią Insterbur-

@@ -93,7 +93,7 @@ Nenurodyta
 <a id="claim-t-113466"></a>
 - t-003
   teiginys: "Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -130,7 +130,8 @@ Nenurodyta
 - id: c-104695
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 88-89"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 88-89."
   citata_originali: |
     Karius, kurie atvyks pas mus, aprūpinsim to­
     kiom pajamom ir žeme, kiek tik bus reikalingi. Pirkliai ir
@@ -166,7 +167,8 @@ Nenurodyta
 - id: c-104696
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32-33"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32-33."
   citata_originali: |
     Tačiau 1323–1324 m. Gedimino krikšto akcija
     nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
@@ -189,7 +191,8 @@ Nenurodyta
 - id: c-104698
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32."
   citata_originali: |
     Iš jų matyti labai platus (turint galvoje tarptautinę Lietuvos
     izoliaciją) Gedimino politinis akiratis. Gediminas kūrė stačiatikių metro-
@@ -205,7 +208,8 @@ Nenurodyta
 - id: c-104699
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 40."
   citata_originali: |
     Didieji kunigaikščiai, reikšdami teritorines
     pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87b8c46411b41d1e17ee667d"
+canonical_name: "A. Tautavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Tautavičius"]
+sameAs: []
+canonical_biography: "Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje (AkMD, t. Tautavičius, A. Jurginis, J., Merkys, V., Tautavičius, A."
 ---
 # A. Tautavičius
 
@@ -62,7 +69,8 @@ Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje (AkMD, t. Tautavičius, A. J
 - id: c-32891
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 83."
   citata_originali: |
     (^76) ĮVADAS
     pins^95. R. Volkaitė - Kulikauskienė, parašiusi _Lietuviai

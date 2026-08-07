@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee9f9525e4cb60932abf89fa"
+canonical_name: "Pripetė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pripetė"]
+sameAs: []
+canonical_biography: "Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla. Kaidanas Pripetės žiotyse įrengė karo stovyklą ir išsiuntė būrius niokoti krašto. Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus."
+place_authority: true
+historical_names: []
 ---
 # Pripetė
 
@@ -186,7 +195,8 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
 - id: c-166471
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 440."
   citata_originali: |
     Jį iškasė savo lėšomis hetmonas
     Oginskis (todėl jis ir šiandien dar tebevadinamas Oginskio
@@ -206,7 +216,8 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
 - id: c-168461
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 80."
   citata_originali: |
     Valdingai pasi-
     keliais nuvesti iki sienos. Kaidanas, pasiuntiniams per
@@ -227,7 +238,8 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
 - id: c-175494
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
   citata_originali: |
     Pantikapas, o
     tai panašiausia į tikrovę, yra šiandienė Pripetė, jungianti
@@ -248,7 +260,8 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
 - id: c-175495
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
   citata_originali: |
     Tų įdubų juos­
     tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­
@@ -282,7 +295,8 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
 - id: c-175496
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
   citata_originali: |
     Tokių kalvų kartais randama išsibarsčiusių laukuose,
     netgi sausose pievose po dvi, kelias, o kai kur jų esti la­
@@ -312,7 +326,8 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
 - id: c-179390
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
   citata_originali: |
     Tokių kalvų kartais randama išsibarsčiusių laukuose,
     netgi sausose pievose po dvi, kelias, o kai kur jų esti la­

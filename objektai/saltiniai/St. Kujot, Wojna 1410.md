@@ -60,7 +60,8 @@ media_all_json: |-
 - id: c-33717
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 351."
   citata_originali: |
     — (”) _Studia z dziejów Europy wschodniej
     X-XVII w.,_ Warszawa 1965, 189-202 p.—Kujot, St. : _Wojna 1410,_

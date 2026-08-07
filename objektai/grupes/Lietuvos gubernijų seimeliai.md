@@ -50,7 +50,8 @@ Po karūnacijos visi Lietuvos gubernijų seimeliai, — atsakydami į klausimą,
 - id: c-01641
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 481"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 481."
   citata_originali: |
     sidėjusi didelė javų paklausa eksportui. Todėl buvo labai nau-
     dinga gerai sutvarkyti ūkį.

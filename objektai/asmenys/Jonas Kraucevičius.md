@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-391c450526db687e1e78f858"
+canonical_name: "Jonas Kraucevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Kraucevičius"]
+sameAs: []
+canonical_biography: "Jonas Kraucevičius."
 ---
 # Jonas Kraucevičius
 
@@ -43,7 +50,8 @@ Jonas Kraucevičius.
 - id: c-41179
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 204."
   citata_originali: |
     Šarvuotam traukiniui vadovavo
     plk. Itn. Jonas Kraucevičius.

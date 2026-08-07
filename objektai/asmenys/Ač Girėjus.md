@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-44c5d40af68f01e3852a3b49"
+canonical_name: "Ač Girėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ač Girėjus"]
+sameAs: []
+canonical_biography: "Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu Ač Girėjų."
 ---
 # Ač Girėjus
 
@@ -53,7 +60,8 @@ Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu A
 - id: c-169396
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 479"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 479."
   citata_originali: |
     Ilgai dėl jo mirties abejojo
     ir tauta, ir šeima, nes iš tiesų

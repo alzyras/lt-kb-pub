@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-169212
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 50."
   citata_originali: |
     Todėl neilgai trukus paaiškė­
     jo; j°g Per šį bendravimą, atšiauriausias širdis suvi­

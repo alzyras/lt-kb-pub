@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e519abd9ed3754281922e95c"
+canonical_name: "Lentainiai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lentainiai","Lentainiai (vieta)"]
+sameAs: []
+canonical_biography: "Nemuno ir Neries santakos apylinkės nusėtos piliakalnių: be Eigulių, tai Veršvų, Aukštųjų Šančių, Pajiesio, Lentainių, Marvos, Pyplių."
+place_authority: true
+historical_names: []
 ---
 # Lentainiai (vieta)
 
@@ -46,9 +55,9 @@ Nemuno ir Neries santakos apylinkės nusėtos piliakalnių: be Eigulių, tai Ver
 ## Citatos
 
 - id: c-185081
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 32"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 32."
   citata_originali: |
     Visai greta stūkso didingas piliakalnis. Nemuno ir Neries san-
     takos apylinkės nusėtos piliakalnių: be Eigulių, tai Veršvų, Aukštųjų Šančių, Pajiesio,

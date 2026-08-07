@@ -60,7 +60,8 @@ Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas
 - id: c-02405
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 441"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 441."
   citata_originali: |
     Tad, norėdamas sumažinti im-
     portą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų

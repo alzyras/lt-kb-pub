@@ -98,7 +98,8 @@ Nenurodyta
 - id: c-163160
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 209."
   citata_originali: |
     O 1272 m. jis iš žiemgalių atsiėmė porą per sukilimą kri­
     tusių pilių, būtent, Tervetę ir Mežotnę, ir pajungtuosius privertė mo­
@@ -116,9 +117,9 @@ Nenurodyta
     - t-001
 
 - id: c-184838
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 38"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 38."
   citata_originali: |
     Kryžiuočiai, siekdami apsisaugoti nuo galimų lietuvių puolimų, iškasė griovį nuo
     Neries iki Nemuno ir pasistatė aštriakuolių tvorą. Pilį visiškai apsiautė. Ji buvo ke-

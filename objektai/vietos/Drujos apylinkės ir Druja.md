@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-654cd2802f615d1c26fec87c"
+canonical_name: "Drujos apylinkės ir Druja"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Drujos apylinkės ir Druja"]
+sameAs: []
+canonical_biography: "1811 metais Drujos apylinkėse, nusausinto ežero dugne, rastos trys žalvarinės statulėlės ant trikampės žalvarinės lentos. Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą."
+place_authority: true
+historical_names: []
 ---
 # Drujos apylinkės ir Druja
 
@@ -82,7 +91,8 @@ media_all_json: |-
 - id: c-171878
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     Iš istorijos žinoma, kad senovės prūsai turėjo
     Trejybę, todėl nedvejosime priimdami Kabirus į lietuvių die­

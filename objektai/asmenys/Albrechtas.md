@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5b3905302d8f90110e498297"
+canonical_name: "Albrechtas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albrechtas"]
+sameAs: []
+canonical_biography: "1542 m. turėjo emigruoti į protestantiškąją (nuo 1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas."
 ---
 # Albrechtas
 
@@ -63,7 +70,8 @@ media_all_json: |-
 - id: c-21551
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 61."
   citata_originali: |
     Vilniuje ją pradė-
     jo liuteronas Abraomas Kulvietis. Tokia įvykių seka rodė ne tik tai, kad Lie-

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d8ecca4dc6cb4d3519800662"
+canonical_name: "Andrejus Tyckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrejus Tyckis"]
+sameAs: []
+canonical_biography: "20 Lietuvos Metrikoje yra labai daug Žygimanto Senojo laiškų, tuo tikslu rašytų Vilniaus miestiečiams, - paci­ tuosime kai kuriuos: List Meszczaninu Wileńskomu Andrejų Tyckomu [Laiškas Vilniaus miestiečiui Andre­ jui Tiekiui] dėl Smolensko muito ir smuklių."
 ---
 # Andrejus Tyckis
 
@@ -49,7 +56,8 @@ media_all_json: |-
 - id: c-83600
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 285."
   citata_originali: |
     XI.
     20

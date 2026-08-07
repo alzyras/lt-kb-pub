@@ -110,7 +110,8 @@ Nenurodyta
 - id: c-00275
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 529"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 529."
   citata_originali: |
     inteligentai. Bet visų svarbiausias tuo reikalu palankus balsas
     buvo Lietuvoje veikiančios Rusų administracijos. Ji siūlė todėl

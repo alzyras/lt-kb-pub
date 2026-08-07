@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7fd286c514ac79ae5ce3e266"
+canonical_name: "Prūdžionys (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Prūdžionys","Prūdžionys (vieta)"]
+sameAs: []
+canonical_biography: "1802 m. Vokės Prūdžionių savininkas totorius Steponas Sulimovičius už 400 sidabro rublių pardavė du valstiečius su šeimomis ir kilnojamąja nuosavybe."
+place_authority: true
+historical_names: []
 ---
 # Prūdžionys (vieta)
 

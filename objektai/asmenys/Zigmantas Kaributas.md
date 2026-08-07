@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9add49abcbf95f169e807ac2"
+canonical_name: "Zigmantas Kaributas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zigmantas Kaributas"]
+sameAs: []
+canonical_biography: "Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris pasiuntė jiems savo vietininku sūnėną Zigmantą Kaributą su keliolika tūkstančių kareivių. Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su čekų vadu Prokopu, ka­ riavo su Zigmantu, bet husitų eilėms retėjant, pradėjo derybas su popiežium ir už tą buvo išvytas iš Čekijos. Vytauto bajorai irgi dalyvavo kovose, kaip antai, kun. Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims."
 ---
 # Zigmantas Kaributas
 
@@ -116,7 +123,8 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 207."
   citata_originali: |
     Karas buvo paskelbtas Vy­
     tauto drauge su Jogaila. Susijungusios lietuvių, rusų, totorių
@@ -136,7 +144,8 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 153."
   citata_originali: |
     Čekai, nenorėdami laukti, kreipėsi tuojau į Vytautą, kuris pa­
     siūlymą priėmė palankiai, nežiūrint to, kad Jogaila su tuo ne­
@@ -157,7 +166,8 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 210."
   citata_originali: |
     Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
     pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
@@ -181,7 +191,8 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 155."
   citata_originali: |
     netekusi po Melno taikos savo reikšmės, o Vytautas nutraukė
     ryšius su čekais, atšaukdamas į Lietuvą Kaributą ir patardamas
@@ -202,7 +213,8 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 210."
   citata_originali: |
     Ši
     aplinkybė ir meta šiek tiek šviesos, kodėl Vytautas taip mielai

@@ -49,7 +49,8 @@ Ten teveikė viena istorijos katedra su (^32) Geschichte von Litauen als einem e
 - id: c-29740
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 56."
   citata_originali: |
     Ten teveikė viena istorijos katedra su
 

@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf0d8baaa00fdf4487edcb2a"
+canonical_name: "Kristmemelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kristmemelis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino lietuviai146. Dusburgietis teigia, kad į vakarines prūsų žemes, o Kristmemelis panemunyje — norint „praplėsti krikščionių žemes“ (III, 315), t. Dusburgietis teigia, kad apie Bisenės pilies puolimą 1313 metais 567 D.— edificavit castrum Cristmemelam, Jer.— Cristmemil; Kirsmemela — SRP, 1, p. 280; Kirsmomel — SRP, 2, p. 478, plg. pr. kirsa ‘virš’ ir vok. Memel (Nemunas), XV a. šnekamoje kalboje pavirto Skirsnemune (1449 —."
+place_authority: true
+historical_names: []
 ---
 # Kristmemelis
 
@@ -94,15 +103,22 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 <a id="claim-t-58316"></a>
 - t-004
   teiginys: "Po to jie nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristmemelis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristmemelis\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "kelionės data: 1315 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-58948
+    - c-58945
 
 <a id="claim-t-58317"></a>
 - t-005
@@ -193,7 +209,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - id: c-58945
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     spalio 12
 
@@ -206,14 +223,17 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   citata_rodoma: "spalio 12\n\n  Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir\nsielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją\nišvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus\nšešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos\npapilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie\nnuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-58947
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     Pažymėjęs, jog kryžiuočiai 1328
     m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
@@ -232,7 +252,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - id: c-58948
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
     rugsėjo 30—spalio 11
 
@@ -251,12 +272,12 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
 
 - id: c-58949
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 207."
   citata_originali: |
     Apie Bisenės pilies puolimą 1313 metais
       567 D.— edificavit castrum Cristmemelam, Jer.— Cristmemil; Kirsmemela — SRP, 1,
@@ -277,7 +298,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - id: c-58950
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 30."
   citata_originali: |
     Jo nuomone, Marienverderio pilis pavyslyje pastatyta,
     „kad dievas palaimintų mums kelią į kaimynines netikėlių žemes“ (III, 9), t. y. į vakarines

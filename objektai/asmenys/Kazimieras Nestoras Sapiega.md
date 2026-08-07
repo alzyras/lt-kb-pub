@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9bcd011ac0b6118244ad8dbb"
+canonical_name: "Kazimieras Nestoras Sapiega"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras Nestoras Sapiega"]
+sameAs: []
+canonical_biography: "Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas. Sapiega."
 ---
 # Kazimieras Nestoras Sapiega
 
@@ -58,7 +65,8 @@ Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausia
 - id: c-64760
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 94."
   citata_originali: |
     Septyni ministrai palaikė karalių,
     penki buvo prieš – siūlė priešintis ir toliau derėtis, siekiant kuo palan-
@@ -81,7 +89,8 @@ Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausia
 - id: c-64761
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 92."
   citata_originali: |
     ir atskirų Lietuvos atstovų sesijų, o birželio 24-ąją grįžta prie istorinių
     Karūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda

@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-89376"></a>
 - t-001
   teiginys: "1220 m. Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Kalavijuočių ordinas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-85329
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     Lietuvos ir Jotvingių jėgos puolė vieną iš minėtos antiprūsiškosios
     koalicijos dalyvių — Lenkiją25. Taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų
@@ -96,7 +97,8 @@ Nenurodyta
 - id: c-85331
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     Tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė
     kalavijuočiams padauguvyje27. Bendri lietuvių veiksmai su žiemgaliais, sėliais, kuršiais

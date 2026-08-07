@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-84362e90270d86e6c919dd35"
+canonical_name: "Ivanas III Vasiljevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas III Vasiljevičius"]
+sameAs: []
+canonical_biography: "Ivano III puolimas prasidėjo 1485 m. rugpjūtį žygiu į Tverę; Tverė buvo apsupta rugsėjo 8 d., o Michailas Borisovičius pabėgo rugsėjo 11–12 d. naktį."
 ---
 # Ivanas III Vasiljevičius
 

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b113ad2103a92e4c09a9a450"
+canonical_name: "Romanija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Romanija"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją."
+place_authority: true
+historical_names: []
 ---
 # Romanija
 
@@ -50,7 +59,8 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
 - id: c-59398
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
     Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,

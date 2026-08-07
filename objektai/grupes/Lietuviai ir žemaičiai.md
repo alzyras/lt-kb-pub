@@ -72,9 +72,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184581
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 20-21"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 20-21."
   citata_originali: |
     Sigismuntas III Augustas 1540—1572.
     7-oji dalis
@@ -97,9 +97,9 @@ media_all_json: |-
     - t-001
 
 - id: c-184582
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 99"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 99."
   citata_originali: |
     Jei kas, bitis su­
     gavęs, neturėdamas vietos, antram atdavė jas gerb­
@@ -127,9 +127,9 @@ media_all_json: |-
     - t-002
 
 - id: c-184583
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 115"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 115."
   citata_originali: |
     Tą teisybę aiškiai gal re­
     gėti šiandien Lietuvos ir Žemaičių tautoj, kaipogi

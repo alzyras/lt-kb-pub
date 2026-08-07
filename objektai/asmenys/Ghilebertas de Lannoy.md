@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d0ae8221bd9ca6c0a6cfe949"
+canonical_name: "Ghilebertas de Lannoy"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ghilebertas de Lannoy"]
+sameAs: []
+canonical_biography: "Pasak flamando riterio Ghileberto de Lannoy, jis buvęs įve­ dęs Lietuvos kunigaikštijoje tokią tvarką, „kad joks svetimša­ lis į ją atvykęs arba ją pervažiuodamas neturėtų jokių išlaidų”^1 )."
 ---
 # Ghilebertas de Lannoy
 
@@ -51,7 +58,8 @@ Pasak flamando riterio Ghileberto de Lannoy, jis buvęs įve­ dęs Lietuvos kun
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 312."
   citata_originali: |
     Krašto viduje savo valstybės garsui jis visaip
     globojo atvykstančius apsigyventi ar prakeliaujančius svetimša­

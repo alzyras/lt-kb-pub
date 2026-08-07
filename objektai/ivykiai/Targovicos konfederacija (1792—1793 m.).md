@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-43128
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 145."
   citata_originali: |
     Tačiau
     1791 m. pabaigoje, pasibaigus karui su Tur-
@@ -121,7 +122,8 @@ Nenurodyta
 - id: c-67019
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 447"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 447."
   citata_originali: |
     Priimtoje konsti-
     tucijoje buvo pasakyta, kad ji galėsianti būti pataisyta tik po 25

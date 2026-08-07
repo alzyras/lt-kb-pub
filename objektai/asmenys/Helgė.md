@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-45ec1f277c9470c21a120c7c"
+canonical_name: "Helgė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Helgė"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, o į pagalbą jam buvo pakviestas Jarmerikas. Helgė įsakė pririšti 40 slavų belaisvių prie laukinių vilkų ir išvyti juos į mišką baisiai mirčiai."
 ---
 # Helgė
 
@@ -67,7 +74,8 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
 - id: c-174294
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
   citata_originali: |
     234
 
@@ -91,7 +99,8 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
 - id: c-179321
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
   citata_originali: |
     Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
     40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­

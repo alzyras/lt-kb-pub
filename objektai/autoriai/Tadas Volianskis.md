@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d1d5c6a1a852950e63cf9d1a"
+canonical_name: "Tadas Volianskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Tadas Volianskis"]
+sameAs: []
+canonical_biography: "Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, ypač pirmąjį tomą. Narbutas nurodė, kad priekaištą dėl barzdoto senio su žibintu atvaizdo išsakė Tadas Volianskis. Narbutas rašė, kad Tadas Volianskis Santvaro atvaizde matė ragus ir dėl nuogumo laikė jį pragaro dievybe."
 ---
 # Tadas Volianskis
 
@@ -91,15 +98,22 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 <a id="claim-t-190285"></a>
 - t-004
   teiginys: "Tadas Volianskis Narbutui atsiuntė Lietuvoje rastos monetos piešinį ir manė ją priklausant lietuviškiems paminklams."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tadas Volianskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Volianskis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173165
+    - c-173168
 
 <a id="claim-t-190287"></a>
 - t-005
@@ -147,7 +161,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 <a id="claim-t-190289"></a>
 - t-007
   teiginys: "Tadas Volianskis Bartoševičiaus 1603 m. antspaudo runų užrašą skaitė kaip „Simeonas“."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -226,7 +240,7 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 <a id="claim-t-190803"></a>
 - t-011
   teiginys: "Teodoras Narbutas rašo, kad Tadas Volianskis statulėlės galvoje matė ragus, iš užpakalio panašius į erelį su nagais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -279,20 +293,27 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 <a id="claim-t-190806"></a>
 - t-014
   teiginys: "Teodoras Narbutas nurodo, kad Tadas Volianskis runų užrašą skaitė kaip Simeonas (SI-ME-ON)."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tadas Volianskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Volianskis\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173686
+    - c-173688
 
 <a id="claim-t-190807"></a>
 - t-015
   teiginys: "Teodoras Narbutas rašo, kad Tadas Volianskis užrašą skaitė kaip Maitez (MATTEZ), t. y. Maljasz arba Matas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -439,7 +460,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 - id: c-173165
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 71."
   citata_originali: |
     T. Volianskio dėka senoji Lietu­
     vos istorija nušvito naujomis spalvomis. Poznanės kolekcio­
@@ -454,12 +476,12 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-004
 
 - id: c-173166
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
   citata_originali: |
     Tai barzdotas senis su žibintu rankoje. Sį priekaištą išsakė
     ponas Tadas Volianskis. Ir tai būtų galima priimti domėn: šiaurės tau­
@@ -475,7 +497,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 - id: c-173167
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 251."
   citata_originali: |
     Ponas Tadas Volianskis mato tą galvą su ragais, kurie iš užpakalio
     panašūs į erelį su nagais. Be to, dievas yra nuogas, taigi Santvaras yra
@@ -492,7 +515,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 - id: c-173168
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 254."
   citata_originali: |
     Panašios monetos piešinį man atsiuntė ponas Tadas Volianskis.
     Ji buvo rasta Lietuvoje ir, jo nuomone, priklauso lietuviškiems
@@ -500,14 +524,17 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   citata_rodoma: "Panašios monetos piešinį man atsiuntė ponas Tadas Volianskis.\nJi buvo rasta Lietuvoje ir, jo nuomone, priklauso lietuviškiems\npaminklams. Si moneta yra senesnė už mūsų turimą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-173170
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Tačiau nežinome, iš kokio šaltinio yra
     tas piešinys. Mūsų piešinio užrašas runomis reiškia Vaivedučio
@@ -527,7 +554,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 - id: c-173171
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 405"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 405."
   citata_originali: |
     Antspaudą pri­
     dėjo Smilginis (Szmilgin) 1475 metais. Kaip pastebėjo ponas
@@ -546,7 +574,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 - id: c-173172
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 407"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
   citata_originali: |
     Trečiame skyde, į
     dešinę nuo kunigaikščio, yra kryžius, einantis beveik per visą
@@ -567,7 +596,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 - id: c-173173
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 512"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 512."
   citata_originali: |
     Informaciją apie užrašą T. Narbutas paėmė iš mi­
     nėto T. Volianskio laiško (Bidgoščius. 1844. I.
@@ -584,7 +614,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 - id: c-173683
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 420"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 420."
   citata_originali: |
     Tekstas buvo parengtas remiantis T. Vo-
     lianskio tyrinėjimais (Tadeusza Wolanskiego
@@ -603,7 +634,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 - id: c-173684
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 457."
   citata_originali: |
     T. Volianskio dėka
     senoji Lietuvos istorija nušvito naujomis spalvomis. Po­
@@ -623,7 +655,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 - id: c-173685
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 488"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
   citata_originali: |
     O tai yra toks pat užrašas kaip
     ir ant kai kurių romėniškų medalių; jis reiškia IOVI OPTIMO
@@ -646,7 +679,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 - id: c-173686
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 488"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
   citata_originali: |
     94 /Ten
     pat,
@@ -669,13 +703,13 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   pagrindzia:
     - t-011
     - t-012
-    - t-014
     - t-015
 
 - id: c-173687
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 510"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
   citata_originali: |
     182 /P.
     328,
@@ -700,7 +734,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 - id: c-173688
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 510"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
   citata_originali: |
     183 /P.
     329,
@@ -715,14 +750,17 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   citata_rodoma: "183 /P.\n329,\n4\npastraipos\ntęsinys/\nUžrašą runomis p/onas/ Tad/as/ Volianskis skaito taip: Simeonas\n(SI-ME-ON).\nSakinys, kuriuo T, Narbutas papildė paragrafą, rengdamas antrąjį\nLTI leidimą (PEĮ. L, 416). Tai informacija iš minėto T. Volianskio\nlaiško (Ten pat)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
 - id: c-173689
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 510"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
   citata_originali: |
     Neseckiui šis herbas, pavadintas Kru-
     nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
@@ -745,7 +783,8 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
 - id: c-179278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 470"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 470."
   citata_originali: |
     Šios dainos vertimą į lenkų
     kalbą istorikas gavo iš savo korespondento archeologo, kolekcio­

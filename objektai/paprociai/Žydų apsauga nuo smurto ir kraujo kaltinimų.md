@@ -64,7 +64,8 @@ Nenurodyta
 - id: c-83220
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 212."
   citata_originali: |
     Taip pat jeigu krikščionis žydui žaizdą kokią pada­
     rytų, privalo mums už kaltę sumokėti pagal tai, ką mūsų ma­

@@ -80,7 +80,8 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
 - id: c-43217
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 48."
   citata_originali: |
     Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo
     pasiuntiniui:
@@ -103,7 +104,8 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
 - id: c-44976
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 49."
   citata_originali: |
     „Nors mes su tavimi susitaikėme, bet man nedera kitaip pasielgti - turiu atremti į tavo
     Maskvos miesto sieną savi ietį ir vardan savo šlovės palikti ženklą, kad lietuvių, ir rusų,

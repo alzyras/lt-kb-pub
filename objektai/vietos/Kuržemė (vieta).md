@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-990fd2aa29609f18e29a9513"
+canonical_name: "Kuržemė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kuržemė","Kuržemė (vieta)"]
+sameAs: []
+canonical_biography: "Ta dobė tebsidaro dar šiandien daugioj vie toj moterys, gyvenančios Lietuvoj , Parusny, Žemai čiuose ir Žemgaliuose, arba Kuržemėj2."
+place_authority: true
+historical_names: []
 ---
 # Kuržemė (vieta)
 
@@ -46,9 +55,9 @@ Ta dobė tebsidaro dar šiandien daugioj vie toj moterys, gyvenančios Lietuvoj 
 ## Citatos
 
 - id: c-184520
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 77"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 77."
   citata_originali: |
     Nė viena taip didžiai
     barva joms netiko, kaip balta, dėl to gi, tikėjimą

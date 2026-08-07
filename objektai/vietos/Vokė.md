@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-084fb64aba19bc4b717ff32f"
+canonical_name: "Vokė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vokė"]
+sameAs: []
+canonical_biography: "Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos, pro Panerius ir Vokę Valkininkų kryptimi išžygiavo Sapiegų pajėgos."
+place_authority: true
+historical_names: []
 ---
 # Vokė
 
@@ -95,7 +104,8 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
 - id: c-81550
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 160."
   citata_originali: |
     Gana grėsmingai įsiliepsnojo pirmieji nesuta­
     rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos
@@ -136,7 +146,8 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
 - id: c-81552
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 140."
   citata_originali: |
     Sapiegų pajėgos
 

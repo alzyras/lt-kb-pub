@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2809631be7bb96c418b9a118"
+canonical_name: "Ogrodnikų kaimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ogrodnikų kaimas"]
+sameAs: []
+canonical_biography: "1826 m. netoli Ogrodnikų kaimo Lydos apskrityje, Šalčios upės pakrantės skardyje, kaimietis rado senų sidabrinių pinigų."
+place_authority: true
+historical_names: []
 ---
 # Ogrodnikų kaimas
 
@@ -64,7 +73,8 @@ media_all_json: |-
 - id: c-171922
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 250."
   citata_originali: |
     Nematyti jokio užrašo.
     1826 metais Lydos apskrityje, netoli Ogrodnikų kaimo, Šal­

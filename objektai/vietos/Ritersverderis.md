@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab6b7eab12eeb35fe102189c"
+canonical_name: "Ritersverderis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ritersverderis"]
+sameAs: []
+canonical_biography: "Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Marienburge Vytautas įkurdino savo karius."
+place_authority: true
+historical_names: []
 ---
 # Ritersverderis
 
@@ -47,7 +56,8 @@ Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Mari
 - id: c-178879
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 323."
   citata_originali: |
     Netekęs vilties, kad užkariaus pilį, be to, nenorė­
     damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie­

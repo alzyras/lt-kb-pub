@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b170aa860d7aa81cb1ecad24"
+canonical_name: "Jurgis (Maskvos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis (Maskvos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Čekų ir Silezijos savanorių vadai ir, gražiausia, Jaroslavas Lingumas, Mstislavlio kunigaikštis, pateko į ne­ laisvę."
 ---
 # Jurgis (Maskvos kunigaikštis)
 
@@ -50,7 +57,8 @@ media_all_json: |-
 - id: c-83717
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 236."
   citata_originali: |
     Čekų ir Silezijos savanorių vadai ir, gražiausia,
     Jaroslavas Lingumas*, Mstislavlio kunigaikštis, pateko į ne­

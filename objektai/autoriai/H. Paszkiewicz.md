@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5429d70b9354b7f06c4b661"
+canonical_name: "H. Paszkiewicz"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["H. Paszkiewicz"]
+sameAs: []
+canonical_biography: "Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (1933);."
 ---
 # H. Paszkiewicz
 
@@ -75,7 +82,8 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
 - id: c-30519
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 288-289"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 288-289."
   citata_originali: |
     (^2) **PSRL, 17, 77, 90, 148, 162 p.**
     (^3) **O. Halecki : HaU, I, 95-97 p. — L. Kolankowski : KolLJ, I, 1930,

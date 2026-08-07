@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-76fd498cedef29ddcca298ee"
+canonical_name: "Ilovajskij, D. J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ilovajskij, D. J"]
+sameAs: []
+canonical_biography: "B., Ilovajskij, D."
 ---
 # Ilovajskij, D. J
 
@@ -40,7 +47,8 @@ B., Ilovajskij, D.
 - id: c-29399
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 231."
   citata_originali: |
     — Antonovič, V. B., Ilovajskij,
     D. J. : _Istorija Vel. Kn. Litovskogo do upadku udel'noj sistemy v litovskoj

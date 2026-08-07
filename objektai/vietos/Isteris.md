@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-112767fa2c0319118eb00335"
+canonical_name: "Isteris"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dunojaus","Dunojus","Isteris","objektai/vietos/Dunojus"]
+sameAs: []
+canonical_biography: "Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių. Dunojus šiame fragmente yra konkreti upė."
+place_authority: true
+historical_names: []
 ---
 # Isteris
 
@@ -115,7 +124,8 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - id: c-10485
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 42"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 42."
   citata_originali: |
     Reikia žinoti, jog tame pasaulio sluoksny, einančiame nuo šiaurės Uksinių pamarių iki Žemaičių pajūrių, it^74 vidury yra kalva, daugiau nei per šimtą mylių tęsiantis į
         rytus ir vakarus, dviem giriom apaugusi, rytų pusėj Juodąja, o vakarų Žaliąja giria vadinamom,
@@ -133,7 +143,8 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - id: c-177324
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 51."
   citata_originali: |
     Toks skitų tautos
     bruožų vaizdas susidaro iš Herodoto, kuris pats asme­
@@ -162,7 +173,8 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - id: c-177325
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
   citata_originali: |
     Vadina­
     si, būta skitų gerų—kapakasių genties, kažkokios skitų
@@ -190,7 +202,8 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - id: c-177326
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 202."
   citata_originali: |
     207
     Vėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar
@@ -216,7 +229,8 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - id: c-179374
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 202."
   citata_originali: |
     Mirus
     Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­

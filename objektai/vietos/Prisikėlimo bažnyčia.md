@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7db84ec02192e66c3af0bf4f"
+canonical_name: "Prisikėlimo bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Prisikėlimo bažnyčia"]
+sameAs: []
+canonical_biography: "tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 173 bažnyčią – tautos šventyklą, lietuvišku stiliumi ir lietuviškai ornamentuotą, atspindinčią lietuvių tautos religinę ir tautinę dvasią."
+place_authority: true
+historical_names: []
 ---
 # Prisikėlimo bažnyčia
 
@@ -100,7 +109,8 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
 - id: c-95403
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 172-173"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 172-173."
   citata_originali: |
     Sumanyta pastatyti Kaune Prisikėlimo
 

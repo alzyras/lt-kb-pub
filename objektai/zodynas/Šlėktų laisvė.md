@@ -91,7 +91,8 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
 - id: c-55824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 40."
   citata_originali: |
     Juk jei visas kraštas, didesne dalimi anuomet dar laukinis,
     svetimšaliams pirkliams galėjo būti pelno šaltinis, tai jo sos­

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-99dd8728fd545c75663c80b5"
+canonical_name: "Azovo jūra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Azovo jūra"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis Herodotu, skitų klajojimo kraštą ribojo Donu, Azovo ir Juodąja jūromis, Dunojumi ir šiaurine 52-osios lygiagretės linija."
+place_authority: true
+historical_names: []
 ---
 # Azovo jūra
 
@@ -55,7 +64,8 @@ Narbutas, remdamasis Herodotu, skitų klajojimo kraštą ribojo Donu, Azovo ir J
 - id: c-175633
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 51."
   citata_originali: |
     Toks skitų tautos
     bruožų vaizdas susidaro iš Herodoto, kuris pats asme­

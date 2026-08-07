@@ -55,7 +55,8 @@ Narbutas vaizduoja Liutauro dinastijos kunigaikščius kaip valdovus, kuriems ta
 - id: c-172410
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 393"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 393."
   citata_originali: |
     Apie katalikų religijos, kaip viešpataujančios, priėmimą auto­
     rius pasakoja: „Nors lietuvių genties tautos yra stipriai susiju­

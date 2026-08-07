@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-86b0b308db3cb5b044d95fb0"
+canonical_name: "S. Girėnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["S. Girėnas"]
+sameAs: []
+canonical_biography: "Girėno žygdarbį ir t."
 ---
 # S. Girėnas
 
@@ -49,7 +56,8 @@ Girėno žygdarbį ir t.
 - id: c-21961
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
   citata_originali: |
     Kazimiero bažnyčioje atidarytas Ateiz-
     mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno

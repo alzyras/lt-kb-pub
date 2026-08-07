@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-02011
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 659"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 659."
   citata_originali: |
     Bet daugiausia Katalikų Federacijos rūpesčio buvo ski-
     riama lietuviškųjų parapijų ir mokyklų steigimui. Parapijų skai-

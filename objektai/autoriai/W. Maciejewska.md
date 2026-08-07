@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9c423d8bf9be45ebec7bc880"
+canonical_name: "W. Maciejewska"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["W. Maciejewska"]
+sameAs: []
+canonical_biography: "Maciejewska, W."
 ---
 # W. Maciejewska
 
@@ -39,7 +46,8 @@ Maciejewska, W.
 - id: c-33197
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 300."
   citata_originali: |
     — Kolankowski, L. : _Dzieje Wielkiego Księstwa Litewskiego za Ja­
     giellonów,_ I, 1930, 11-51 p. — Kutrzeba, St. : _Unja Litwy z Polską,_

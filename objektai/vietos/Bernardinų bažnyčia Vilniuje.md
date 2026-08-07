@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-433ba77f5a65d4237ed27e0f"
+canonical_name: "Bernardinų bažnyčia Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bernardinų bažnyčia","Bernardinų bažnyčia Vilniuje","Šv. Pranciškaus ir Bernardo bažnyčia"]
+sameAs: []
+canonical_biography: "Bernardinų bažnyčia Vilniuje aprašoma kaip dėl netvirtų pamatų griūties pavojų patyrusi šventovė. 1500 m. Aleksandro sprendimu turėjo būti nugriautas šalia vienuolyno buvęs malūnas, o Mikalojus Radvila naujai pamūrijo Šv. Pranciškaus ir Bernardo vardu vadintą bažnyčią."
+place_authority: true
+historical_names: []
 ---
 # Bernardinų bažnyčia Vilniuje
 
@@ -194,7 +203,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 - id: c-55846
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Karalius Aleksandras savo sprendi­
     mu, datuotu Borisove 1500 m. (feria
@@ -227,7 +237,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 - id: c-55848
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Aleksandras
     iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­
@@ -247,7 +258,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 - id: c-79578
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
@@ -268,7 +280,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 - id: c-79579
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Dvasios dominikonų baž­
     nyčioje galima pamatyti karaliaus

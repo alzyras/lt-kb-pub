@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8032b2bf11a7f2c6e48bce53"
+canonical_name: "V. Zechau"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Zechau"]
+sameAs: []
+canonical_biography: "Zechau. Zechau ir lietuvių 1-ojo pėst."
 ---
 # V. Zechau
 
@@ -51,7 +58,8 @@ Zechau. Zechau ir lietuvių 1-ojo pėst.
 - id: c-44554
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 184-185"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 184-185."
   citata_originali: |
     (Plačiau
     apie šrapnelinio sviedinio veikimą 198 psl.)

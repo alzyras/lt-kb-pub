@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e096c722fcd5dd557a2266d3"
+canonical_name: "Milkė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Milkė"]
+sameAs: []
+canonical_biography: "1800 m., savo prakalboje Milkės žodynui, tą pareiškė ir garsusis Karaliaučiaus filosofas Kantas."
 ---
 # Milkė
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-01355
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 631"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 631."
   citata_originali: |
     Pačioje Mažojoje Lietuvoje XIX amžiaus pradžioje atsi-
     rado įžymių žmonių nelietuvių, kurie rūpinosi lietuviais ir jų kal-

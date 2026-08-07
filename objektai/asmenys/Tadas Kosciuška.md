@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-efcdc6c839e81a01b3541493"
+canonical_name: "Tadas Kosciuška"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tadas Kosciuška"]
+sameAs: []
+canonical_biography: "Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, Jurgio Vašingtono draugas, 1794 m. suki- limo vadas, 1794—1796 m. Rusų belaisvis († 1817 m.). Tadas Kosciuška: kosciuška, norėdamas sukelti valstiečius, išleido atsišau- kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų). Tadas Kosciuška: gen. Jasiński i powstanie koś- ciuszkowskie (1917); T. Korzon, Kosciuszko; M. Biržiška, Lietuvos sukilimas 1794 m. (1919)."
 ---
 # Tadas Kosciuška
 
@@ -97,7 +104,8 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - id: c-79177
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 5."
   citata_originali: |
     Vytautas Berenis
     Mykolas Balinskis -
@@ -122,7 +130,8 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - id: c-79180
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 452"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 452."
   citata_originali: |
     Tadas Kosciuška,
     pasižymėjęs Amerikos nepriklauso-
@@ -141,7 +150,8 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - id: c-79181
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 151."
   citata_originali: |
     Šis karininkas priklausė
     sukilimo organizatorių radikaliajam spar-
@@ -169,7 +179,8 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - id: c-79183
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 452"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 452."
   citata_originali: |
     Veikiai prie
     sukilimo prisidėjo ir miestiečiai, kurie Varšuvoje pakorė keletą

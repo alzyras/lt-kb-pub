@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ce787c006d85dca6bb064e4b"
+canonical_name: "Jonas de Gandas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas de Gandas"]
+sameAs: []
+canonical_biography: "Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu Ričardas II, ir prie Vilniaus bu­ vojo ne kas kitas, tik Henrikas Lan­ kasteris, pirm Derbio grafas, vėliau žinomas kunigaikščio Herfordo var­ du, Jono de Gando, Lankasterio ku­."
 ---
 # Jonas de Gandas
 
@@ -58,7 +65,8 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
 - id: c-83503
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 136."
   citata_originali: |
     Strijkovskis apsirinka nurody­
     damas, esą Lankasteris, Anglijos ka­

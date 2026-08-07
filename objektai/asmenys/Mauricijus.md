@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b04da8e6ccbba0f5d79af2ee"
+canonical_name: "Mauricijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mauricijus"]
+sameAs: []
+canonical_biography: "Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato už 4750 auksinų nupirkę tą Parulio mūrą, atidavė Collegio Academico [Akademijos kolegijai], pa­ vedę įpareigojimu kasmet mokėti Šv. O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140 auksinų, todėl tasai t."
 ---
 # Mauricijus
 
@@ -76,7 +83,8 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 - id: c-83754
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 203-204"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 203-204."
   citata_originali: |
     1756. Akademijos Rektorius t. Juraha taip pat prie kole­
     gijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,
@@ -106,7 +114,8 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 - id: c-83755
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 198."
   citata_originali: |
     1632. Uršulė ir Mauricijus, ignoti cognominis [nežinoma
     pavardė], iš magistrato už 4750 auksinų nupirkę tą Parulio

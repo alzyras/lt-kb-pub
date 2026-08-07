@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-80f8a40bf28eda5adb4800c2"
+canonical_name: "Luganas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Luganas"]
+sameAs: []
+canonical_biography: "Kopenhagos derybos vėliau dar buvo tęsiamos Luganoj (Šveicarijoje)."
+place_authority: true
+historical_names: []
 ---
 # Luganas
 
@@ -59,7 +68,8 @@ Kopenhagos derybos vėliau dar buvo tęsiamos Luganoj (Šveicarijoje).
 - id: c-02810
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 597-598"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 597-598."
   citata_originali: |
     Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl
     Nemuno atidarymo Kopenhagoje. Kadangi Klaipėdos konvenci-

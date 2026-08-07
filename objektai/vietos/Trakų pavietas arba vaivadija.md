@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a6714a6300e224b8e5d66b60"
+canonical_name: "Trakų pavietas arba vaivadija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trakų pavietas arba vaivadija"]
+sameAs: []
+canonical_biography: "Jonas Lenartaitis Kęsgaila prispaudė antspaudą prie 1490 m. sutarties, kurią sudarė Trakų pavieto, arba vaivadijos, bajorai."
+place_authority: true
+historical_names: []
 ---
 # Trakų pavietas arba vaivadija
 
@@ -64,7 +73,8 @@ Jonas Lenartaitis Kęsgaila prispaudė antspaudą prie 1490 m. sutarties, kurią
 - id: c-171959
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 404"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
   citata_originali: |
     Nuogas bėgantis žmogus abiem
     rankom laiko ietį su dviguba ietigalio geležte, nukreipta durti;

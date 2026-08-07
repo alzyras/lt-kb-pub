@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a2075ab1513b4a37090f7a72"
+canonical_name: "Vaclovas Pragiečius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaclovas Pragiečius"]
+sameAs: []
+canonical_biography: "Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padarytos viene­ riems metams paliaubos. Ginčas tarp Vytauto ir Jogailos, iš vienos pusės ir Ordino, iš kitos pusės, buvo pavestas galutinai išspręsti Vaclovui Pragiečiui, kuris jį išsprendė Lietuvos nenaudai: Že­ maitija buvo atiduota kryžiuočiams; Jogailai ir Karūnai buvo uždrausta remti Vytautą."
 ---
 # Vaclovas Pragiečius
 
@@ -87,7 +94,8 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 194."
   citata_originali: |
     Ginčas tarp Vytauto ir Jogailos, iš vienos
     pusės ir Ordino, iš kitos pusės, buvo pavestas galutinai išspręsti
@@ -112,7 +120,8 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 194."
   citata_originali: |
     Bet įsikišus Čekų kara­
     liui Vaclovui, buvo tarp kariaujančiu pusių padarytos viene­
@@ -131,7 +140,8 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 194."
   citata_originali: |
     Jogaila tik pasižadėjo neremti ginklu žemaičių ir tų,
     kurie jų pusę laikytų. Ginčas tarp Vytauto ir Jogailos, iš vienos

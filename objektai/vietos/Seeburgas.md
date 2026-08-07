@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-417c6dac8ff0bed63afe5148"
+canonical_name: "Seeburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Seeburgas"]
+sameAs: []
+canonical_biography: "VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę bazę Seeburgą, užėmė Apuolės pilį (prie Skuodo)."
+place_authority: true
+historical_names: []
 ---
 # Seeburgas
 
@@ -60,7 +69,8 @@ VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę baz�
 - id: c-28366
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 114."
   citata_originali: |
     Archeolo­
     giniai duomens parodo apie 650 m. prasidedančią didelę švedų

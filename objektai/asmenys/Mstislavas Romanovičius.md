@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-59a096c18ce17807f6e43f01"
+canonical_name: "Mstislavas Romanovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mstislavas Romanovičius"]
+sameAs: []
+canonical_biography: "Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką. Prie Jaseldos upės Mstislavas Romanovičius buvo sumuštas, neteko kariuomenės ir vos gyvas paspruko į Lucką."
 ---
 # Mstislavas Romanovičius
 
@@ -68,7 +75,8 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
 - id: c-169433
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 83."
   citata_originali: |
     Mstisla­
     vas
@@ -108,7 +116,8 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
 - id: c-178771
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 83."
   citata_originali: |
     Živinbudas
     pa­

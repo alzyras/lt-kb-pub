@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a7114b75d8920812f5ecb300"
+canonical_name: "Elena (vyskupas, XV–XVI a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["didžioji Lietuvos, Rusios, Žemaitijos kunigaikštienė","Elena","Elena (vyskupas, XV–XVI a.)","Elenos","Eleną","karalienė Elena","ponia Elena"]
+sameAs: []
+canonical_biography: "Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro žmona. Ji atvyko į Vilnių, buvo sutuokta su Aleksandru, jos santuoka siejama su Vilniaus prekybos ryšių plėtra, o vėlesni dokumentai mini jai skirtas dovanas, globą ir mirtį Vilniuje."
 ---
 # Elena (vyskupas, XV–XVI a.)
 
@@ -195,7 +202,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 <a id="claim-t-54963"></a>
 - t-008
   teiginys: "Aleksandro testamentas pavedė Žygimantui ir kitiems globoti Eleną bei jos teises."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
@@ -352,7 +359,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-55318
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 246."
   citata_originali: |
     Pirmiausia Maskvoje (1494 m.)
     balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
@@ -382,7 +390,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-55319
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 246."
   citata_originali: |
     Tada Aleksandras šalia prašmatniose rogėse sėdin­
     čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi
@@ -403,7 +412,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-55320
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247."
   citata_originali: |
     III KNYGA
     pavasario, kai Aleksandro motina karalienė Elžbieta su duk­
@@ -426,7 +436,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-55321
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 250."
   citata_originali: |
     Tačiau neilga buvo karaliaus vieš­
     nagė šioje pilyje, kadangi, vos dienai praėjus, pakeliui
@@ -450,7 +461,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-55322
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 249."
   citata_originali: |
     Bet, kai totoriai didele
     *
@@ -482,7 +494,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-55324
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 387"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 387."
   citata_originali: |
     Tą gyvasties dvasią ir sielą Die­
     vui ir mūsų Gelbėtojui, o kūną žemei patikime, kurį nuro­
@@ -524,7 +537,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-78763
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 246."
   citata_originali: |
     Stanislovo katedrą. Ten Vaitiekus Taboras, Vilniaus
     vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­
@@ -545,7 +559,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-78764
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 251-252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 251-252."
   citata_originali: |
     Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės
     48
@@ -571,7 +586,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-78765
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247."
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
     to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
@@ -594,7 +610,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-78766
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 245-246"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 245-246."
   citata_originali: |
     229
 
@@ -623,7 +640,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-78767
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 377-378"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 377-378."
   citata_originali: |
     Taip pat [dovanojame] turtą, va­
     dinamą Smolnėnais, su visomis Smolnėnų ir Čirčinsko že­
@@ -676,7 +694,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-78768
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 375."
   citata_originali: |
     Po­
     nas ir tėvonis. Šiuo raštu skelbiame visiems, kam dabar ar
@@ -702,7 +721,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-78769
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 381-382"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 381-382."
   citata_originali: |
     Ponas
     ir tėvonis. Amžinai dalykų atminčiai. Šiuo raštu skelbiame

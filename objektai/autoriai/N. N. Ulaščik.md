@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fdcb21618f88222b23d04228"
+canonical_name: "N. N. Ulaščik"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["N. N. Ulaščik"]
+sameAs: []
+canonical_biography: "Ulaščik, Maskva 1966."
 ---
 # N. N. Ulaščik
 
@@ -59,7 +66,8 @@ Ulaščik, Maskva 1966.
 - id: c-33072
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 22."
   citata_originali: |
     Wien 1955.
     UChB = Chronika Bychovca, išl. N. N. Ulaščik, Maskva 1966.

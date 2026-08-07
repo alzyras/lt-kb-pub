@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cf103d691c2566239535636c"
+canonical_name: "Katra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Katra"]
+sameAs: []
+canonical_biography: "Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­ munės durpynuose."
+place_authority: true
+historical_names: []
 ---
 # Katra
 
@@ -50,7 +59,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - id: c-33871
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 102."
   citata_originali: |
     Lie­
     tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­

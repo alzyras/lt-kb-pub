@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9e9f47878f8d4631289b5bcd"
+canonical_name: "V. J. Mansikka"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. J. Mansikka"]
+sameAs: []
+canonical_biography: "Mansikka, V."
 ---
 # V. J. Mansikka
 
@@ -39,7 +46,8 @@ Mansikka, V.
 - id: c-33169
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 154."
   citata_originali: |
     LP, I, 1, 1940, 319-322 p.). — Mansikka,
     V. J. : _Die Religion der Ostslaven,_ I. _Quellen,_ Helsinki, 1922. — Mažiu­

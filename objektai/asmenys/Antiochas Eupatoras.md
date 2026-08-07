@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-50cfee03a558842856728463"
+canonical_name: "Antiochas Eupatoras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antiochas Eupatoras"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą, kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio."
 ---
 # Antiochas Eupatoras
 
@@ -69,7 +76,8 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
 - id: c-60870
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
   citata_originali: |
     Apie Judą Makabėjų
     pasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą,

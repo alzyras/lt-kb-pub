@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92483ae225a291e89566eccd"
+canonical_name: "Kęsgaila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kęsgaila"]
+sameAs: []
+canonical_biography: "Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai kurie buvo tolimuose Didžiosios Kunigaikštystės miestuose, srityse: 2emaičių seniūnas Kęsgailą2 Žemaitijoje, Jonas Goštautas3 Smolenske, nes jis tuo metu buvo Smolensko vietininku."
 ---
 # Kęsgaila
 
@@ -64,7 +71,8 @@ Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 125."
   citata_originali: |
     Motiejus, kuris Vytauto
     buvo kviestas vyriausiu krikšto vykdytoju. Jam į pagalbą bu­
@@ -83,7 +91,8 @@ Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai 
 - id: c-176570
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 124."
   citata_originali: |
     Važiuodamas per Rūdininkų girią7, jis toje
     girioje susidūrė su didžiuoju kunigaikščiu Kazimieru

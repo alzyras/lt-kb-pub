@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a93cb944b040e31e9ae5383f"
+canonical_name: "Tartai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tartai"]
+sameAs: []
+canonical_biography: "Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos (Eželio) vyskupystę."
+place_authority: true
+historical_names: []
 ---
 # Tartai
 
@@ -60,7 +69,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - id: c-03021
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 230."
   citata_originali: |
     Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-
     klausomos iki 1582 m., kada jį nukariavo Steponas Batoras.

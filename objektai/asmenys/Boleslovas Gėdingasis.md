@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7a688160add6e4e02ae24d20"
+canonical_name: "Boleslovas Gėdingasis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslovas Gėdingasis"]
+sameAs: []
+canonical_biography: "1253 m. galindai ir jotvingiai perėjo Krokuvos Boleslovo ir Kujavijos Kazimiero protekcijon, o šie kunigaikščiai apie tai pranešė popiežiui. Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius."
 ---
 # Boleslovas Gėdingasis
 
@@ -86,7 +93,8 @@ media_all_json: |-
 - id: c-174080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 125."
   citata_originali: |
     Be to, 1253 metų kryžiuočių kampanijos tikslas bu­
     vo pirmiausia nusiaubti Bartą ir Galindą. Tai lėmė, kad
@@ -114,7 +122,8 @@ media_all_json: |-
 - id: c-174081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
   citata_originali: |
     Ziemovitas
     valdė Mazoviją. Pas jį atvyko Danielius ir Vasilka, kal­

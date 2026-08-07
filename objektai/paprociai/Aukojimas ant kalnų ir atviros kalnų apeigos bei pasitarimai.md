@@ -100,7 +100,8 @@ Nenurodyta
 - id: c-172709
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
     tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors
@@ -119,7 +120,8 @@ Nenurodyta
 - id: c-177021
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     Pirmieji misionieriai - pran­
     ciškonai ant jo pastatė tris kryžius, kaip savo misijos ženklą;

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8627722b043a403e544a4ccc"
+canonical_name: "Peteris Paulius Rubensas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Peteris Paulius Rubensas"]
+sameAs: []
+canonical_biography: "Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas."
 ---
 # Peteris Paulius Rubensas
 
@@ -31,7 +38,8 @@ Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų
 - id: c-21934
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,
     žygio Ispanija nekartojo.

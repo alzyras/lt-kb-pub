@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1d1e0632dadc55b0580d21c6"
+canonical_name: "Barkauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Barkauskas"]
+sameAs: []
+canonical_biography: "Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadovaujama karininko Sangino, puls dvaro klojimą, kuriame [miegojo] dvi bolševikų kuopos. Leitenantas Barkauskas puolė į bolševikų štabą, kur miegojo aštuoni komisarai."
 ---
 # Barkauskas
 
@@ -43,7 +50,8 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
 - id: c-41867
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 189."
   citata_originali: |
     „Po kaštanais mes persiskyrėme į dvi grupes po šešiolika vyrų. Pirmoji grupė, vadovau-
     jama leitenanto Barkausko, puls štabą, o antroji, vadovaujama karininko Sangino, puls

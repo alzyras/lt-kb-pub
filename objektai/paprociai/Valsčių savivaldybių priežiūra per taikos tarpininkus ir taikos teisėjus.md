@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-02282
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 491"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 491."
   citata_originali: |
     1861 m. įkurtų valsčių viršaičiai (star-
     šinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti,

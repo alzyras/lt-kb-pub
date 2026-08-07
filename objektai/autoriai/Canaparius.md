@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4aa1db50cb093556009c3749"
+canonical_name: "Canaparius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Canaparius"]
+sameAs: []
+canonical_biography: "Adalberto (Vaitiekaus) biografas Canaparius, kuris kalbėjo apie « Pruzzorum fines »."
 ---
 # Canaparius
 
@@ -53,7 +60,8 @@ Adalberto (Vaitiekaus) biografas Canaparius, kuris kalbėjo apie « Pruzzorum fi
 - id: c-32907
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 123."
   citata_originali: |
     Net žinomoje prancūzų
     epo Rolando giesmėje (Chanson de Roland) tarp saracėnų talki­

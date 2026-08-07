@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8c0ce8790f773fb0b5d8b584"
+canonical_name: "Išganytojo (Spaso) bažnyčia Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Išganytojo (Spaso) bažnyčia Vilniuje"]
+sameAs: []
+canonical_biography: "Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spaso) bažnyčia ir penktuosius - nuo Pilies."
+place_authority: true
+historical_names: []
 ---
 # Išganytojo (Spaso) bažnyčia Vilniuje
 
@@ -61,7 +70,8 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 - id: c-82170
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248."
   citata_originali: |
     Tad 1505 metais, kai tie barbarai buvo mažumėlę
     aprimę, karalius savo sprendimu atleido Vilniaus gyvento­

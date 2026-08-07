@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-75be275e5e9007abadb8584f"
+canonical_name: "Bandkė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bandkė"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su slavų Gurovidu, bet Narbutas šį aiškinimą atmetė. Bandkė turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje."
 ---
 # Bandkė
 
@@ -46,7 +53,8 @@ Narbutas rašė, kad Bandkė Lenkijos istorijoje lietuvių Gurką tapatino su sl
 - id: c-173296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 110."
   citata_originali: |
     Patelas (Patelo)
     Skraidančių oro dvasių dievas, savitas aukščiausiosios ka­

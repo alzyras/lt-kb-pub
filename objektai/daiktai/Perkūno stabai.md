@@ -47,15 +47,22 @@ Nenurodyta
 <a id="claim-t-189695"></a>
 - t-001
   teiginys: "Narbutas Perkūno stabų pirminę formą aiškina kaip didžiulį ąžuolą arba neapdorotą ąžuolo gabalą, panašų į Maksimo Tirėjiečio aprašytus Jupiterio stabus."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romovė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Perkūno stabai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Romovė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perkūno stabai\" parinktas kaip owner_note_path. Targetas \"Romovė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172579
+    - c-172578
 
 <a id="claim-t-189696"></a>
 - t-002
@@ -82,7 +89,8 @@ Nenurodyta
 - id: c-172578
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
   citata_originali: |
     Perkūno stabai iš karto turėjo būti tokie, apie kokius kal­
     ba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta­
@@ -96,14 +104,17 @@ Nenurodyta
   citata_rodoma: "Perkūno stabai iš karto turėjo būti tokie, apie kokius kal­\nba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta­\nbus, tai yra didžiulis ąžuolas arba neapdorotas ąžuolo gaba­\nlas. Vis dėlto žinome, kad senovinėje Romovės šventykloje po\nanuo didžiuliu ir visada žaliuojančiu ąžuolu stovėjo trejetas\nstabų -  Perkūno, Atrimpo ir Pokliaus; šventyklos aptvaro at­\nskirose nišose -  kitų dievų stabai. O šios šventyklos aprašyme\nistorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris\nbuvęs puošnesnis už kitus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-172579
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 243."
   citata_originali: |
     O šios šventyklos aprašyme
     istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
@@ -121,5 +132,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

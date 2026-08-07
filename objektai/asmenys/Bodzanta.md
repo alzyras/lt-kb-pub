@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6afebf763bd8d7141d682485"
+canonical_name: "Bodzanta (arkivyskupas, XIV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bodzanta","Bodzanta (arkivyskupas, XIV a.)"]
+sameAs: []
+canonical_biography: "Bodzanta Vladislovo vardu."
 ---
 # Bodzanta (arkivyskupas, XIV a.)
 
@@ -105,7 +112,8 @@ Bodzanta Vladislovo vardu.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 116."
   citata_originali: |
     Jogaila su savo broliais, Vytautu, kaipo Gardino
     kunigaikščiu, ir būriu dvaro didikų išvyko į Krokuvą priimti
@@ -124,7 +132,8 @@ Bodzanta Vladislovo vardu.
 - id: c-78733
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127."
   citata_originali: |
     Stanislovo katedra8. Iškilmingai,
     dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
@@ -148,7 +157,8 @@ Bodzanta Vladislovo vardu.
 - id: c-168038
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 280"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 280."
   citata_originali: |
     Po to vasario 16 dieną, kuri
     paskirta šv. Valentinui, Gnez-

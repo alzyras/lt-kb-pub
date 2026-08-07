@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a012d9ebb94256bea8cadb86"
+canonical_name: "Pilies kalnas (Veliuonoje)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pilies kalnas (Veliuonoje)"]
+sameAs: []
+canonical_biography: "Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­ lies ir Gedimino kalno šlaitus."
+place_authority: true
+historical_names: []
 ---
 # Pilies kalnas (Veliuonoje)
 
@@ -51,7 +60,8 @@ Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama P
 - id: c-82202
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 118."
   citata_originali: |
     Ant pilkapio nuo neatme­
     namų laikų visada būdavo statomas kryžius. Mažas upeliu­

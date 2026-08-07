@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fb95665b4f2a57292c0d0417"
+canonical_name: "Jonas Rozanavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Rozanavičius"]
+sameAs: []
+canonical_biography: "Štai 1607 m. Kauno vytindailiai Andrius Janavičius ir Urbonas Nascevičius sudarė sutartį su Nemunaičio miestelėnu Jonu Rozanavičiumi."
 ---
 # Jonas Rozanavičius
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185523
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 248."
   citata_originali: |
     Štai 1607 m. Kauno vytindai-
     liai Andrius Janavičius ir Urbonas Nascevičius sudarė sutartį su Nemunaičio mieste-

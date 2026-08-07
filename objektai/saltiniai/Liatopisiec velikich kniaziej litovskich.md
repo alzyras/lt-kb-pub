@@ -49,7 +49,8 @@ Lietuvos metraštis («Liatopisiec velikich kniaziej litovskich») Vytauto lupom
 - id: c-33621
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 309."
   citata_originali: |
     Bet visos valdžios valstybėje Skirgaila neturėjo. O Vilnių
     Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo

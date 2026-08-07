@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-788584666fca1e726f773c27"
+canonical_name: "Hanulis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hanulis"]
+sameAs: []
+canonical_biography: "Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs."
 ---
 # Hanulis
 
@@ -50,7 +57,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - id: c-32734
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 283."
   citata_originali: |
     Kaip kita­
     dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti

@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b48642a8ac1ded2a0057209c"
+canonical_name: "Stecevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stecevičius"]
+sameAs: []
+canonical_biography: "Stecevičius 1609 metais prispaudė vieną iš Narbuto aprašytų antspaudų su žalčiais."
 ---
 # Stecevičius
 
@@ -61,7 +68,8 @@ Stecevičius 1609 metais prispaudė vieną iš Narbuto aprašytų antspaudų su 
 - id: c-173128
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 404"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
   citata_originali: |
     IV
     lentelė, 18-asis piešinys. Astuoni antspaudai su žalčiais;

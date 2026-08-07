@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e33be951af18aaae6409d6c1"
+canonical_name: "Kerskorfas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kerskorfas"]
+sameAs: []
+canonical_biography: "Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Kerskorfas, maršalas Nesselrodė, žuvo dauguma Livonijos komtūrų ir riterijos krito, paimta į nelaisvę daug Švitrigailos karių."
 ---
 # Kerskorfas
 
@@ -51,7 +58,8 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
 - id: c-44423
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 71."
   citata_originali: |
     Mūšio padariniai
 
@@ -79,7 +87,8 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
 - id: c-167137
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 71."
   citata_originali: |
     Dar nesuspėję į mūšį
     atvykti rezerviniai livoniečių daliniai, suži-

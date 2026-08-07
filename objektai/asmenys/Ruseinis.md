@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-63695b3dc924e286dfa08bdd"
+canonical_name: "Ruseinis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ruseinis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Dusburgietis teigia, kad šitai papasakojęs kunigui, sūduvis tą pačią dieną laimingai atidavė viešpačiui sielą499. 208 (203)."
 ---
 # Ruseinis
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
 - id: c-60831
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
   citata_originali: |
     207 (202). Apie vieno sūduvio atsivertimą ir nuostabų įvykį
     Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir

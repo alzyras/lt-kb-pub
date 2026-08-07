@@ -59,7 +59,8 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 - id: c-84240
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 92."
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­
     dangi Viešpats jūsų ginklą valdo ir narsos didybės suteiks,

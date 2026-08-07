@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b68858d3712a7ffd3a0e404d"
+canonical_name: "Bochartas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bochartas"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Bochartas žodį Cabires kildino iš arabiško Kabir, reiškiančio galią. Bochartas yra pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Plutonas - požemį, arba egzistavimą po mirties."
 ---
 # Bochartas
 
@@ -45,7 +52,8 @@ Narbutas nurodo, kad Bochartas žodį Cabires kildino iš arabiško Kabir, reiš
 - id: c-173017
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     Dabar sunku tinkamai atskleisti to mito prasmę: pirma,
     apeigos buvo slaptos, antra, painiava net senovės mitologų vei­

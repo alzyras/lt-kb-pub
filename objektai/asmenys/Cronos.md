@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4d35fb3cd77f404e3cb31833"
+canonical_name: "Cronos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Cronos"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis seniausiais padavimais, Cronos vaizduoja kaip Šiaurės Vakarų kraštų valdovą, laiko karalių arba Titaną, vadintą Saturnu."
 ---
 # Cronos
 
@@ -55,7 +62,8 @@ Narbutas, remdamasis seniausiais padavimais, Cronos vaizduoja kaip Šiaurės Vak
 - id: c-174144
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 161."
   citata_originali: |
     164
     Dar negalima nepaminėti pastabų apie pavadinimą

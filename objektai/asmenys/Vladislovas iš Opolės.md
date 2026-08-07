@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fc17f2bb6b0775bde08d89d6"
+canonical_name: "Vladislovas iš Opolės"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladislovas iš Opolės"]
+sameAs: []
+canonical_biography: "Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją. Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­ klausančias jo suverenitetui ir būdamas valdovas savo vasalo Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui. Tas pats Vladislovas iš Opolės buvo pasiūlęs Vengrų karaliui, Mozūrijos, Galicijos ir Austrų kunigaikščiams pasidalinti Lenkijos žemes^2 )."
 ---
 # Vladislovas iš Opolės
 
@@ -86,7 +93,8 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 173."
   citata_originali: |
     Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­
     klausančias jo suverenitetui ir būdamas valdovas savo vasalo
@@ -105,7 +113,8 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 172."
   citata_originali: |
     Tą žemę Kazimieras III buvo atidavęs
     Vladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas
@@ -125,7 +134,8 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 173."
   citata_originali: |
     Be šito Lenkijai atsirado dar naujas pavojus. Tas pats
     Vladislovas iš Opolės buvo pasiūlęs Vengrų karaliui, Mozūrijos,

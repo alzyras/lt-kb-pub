@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-83224
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 13."
   citata_originali: |
     M. Balinskis atsakė į jo
     laišką „Kreipimasis į tautiečius", kuriame lietuvių kultūros vei­

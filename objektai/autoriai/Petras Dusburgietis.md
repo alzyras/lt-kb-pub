@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-55b7ffecef25ec715b2d33f4"
+canonical_name: "Petras Dusburgietis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["brolis Petras iš Dusburgo","Dusburgietis","Petras Dusburgietis","Petras iš Dusburgo","Petro iš Dusburgo"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo leidžiama prieiti prie švarinančiais laikytų šaltinių. Apie vieną iš jų tokį pasakojimą paliko Dusburgietis. Narbutas svarsto, kad Petras Dusburgietis galėjo nežinoti, kaip apibūdinti krivį, arba kad jo tekstas apie krivį buvo nepilnas."
 ---
 # Petras Dusburgietis
 
@@ -101,20 +108,34 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 <a id="claim-t-181464"></a>
 - t-004
   teiginys: "Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Petras Dusburgietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Dusburgietis\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-178999
+    - c-56023
 
 <a id="claim-t-181467"></a>
 - t-005
   teiginys: "Petras iš Dusburgo kronikos dedikacijoje prisistato kaip tų pačių šventųjų įžadų kunigas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Petras Dusburgietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Dusburgietis\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-178999
+    - c-165013
 
 <a id="claim-t-181468"></a>
 - t-006
@@ -138,16 +159,22 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 <a id="claim-t-181469"></a>
 - t-007
   teiginys: "Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Petras Dusburgietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Dusburgietis\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 250 m; įvykio data: 1326 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-165014
-    - c-178999
+    - c-165012
 
 <a id="claim-t-181470"></a>
 - t-008
@@ -239,9 +266,28 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 <a id="claim-t-183995"></a>
 - t-013
   teiginys: "Petras iš Dusburgo kronikos dedikacijoje kreipėsi į magistrą Vernerį iš Orzelno."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Petras Dusburgietis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Dusburgietis\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-165013
+
+<a id="claim-t-188460"></a>
+- t-014
+  teiginys: "Narbutas rašo, kad Dusburgietis pridūrė, jog krikščionims nebuvo leidžiama prieiti prie apeigoms naudotų šventųjų šaltinių."
+  atnaujinta: "2026-07-26 17:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   ryšio_patikimumas: "susije_su -> Dusburgietis: 0.85"
@@ -251,21 +297,9 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   ryšio_subjekto_parinkimas: "Petras Dusburgietis: owner_note_path, author, gap=0"
   ryšio_targeto_parinkimas: "Dusburgietis: mention_match, person, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Dusburgietis\" parinktas kaip owner_note_path. Targetas \"Dusburgietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-178999
-
-<a id="claim-t-188460"></a>
-- t-014
-  teiginys: "Narbutas rašo, kad Dusburgietis pridūrė, jog krikščionims nebuvo leidžiama prieiti prie apeigoms naudotų šventųjų šaltinių."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171351
+    - c-171350
 
 <a id="claim-t-188461"></a>
 - t-015
@@ -289,7 +323,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 <a id="claim-t-188462"></a>
 - t-016
   teiginys: "Narbutas manė, kad Dusburgiečio aplinkos kryžiuočiai, nors ir cenzūruojami, išsaugojo senųjų vyriausiųjų žynių sąrašą."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -742,7 +776,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-42455
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 35."
   citata_originali: |
     Valdant Gediminui
     Lietuva ėmė sparčiai plėstis į rytus
@@ -771,7 +806,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-42456
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
   citata_originali: |
     p. 27, „RŪSTUS DIEVO ŽMONIŲ LIKIMAS“, Dusburgietis P. Prūsijos žemės kronika,
     Vilnius, 2005, p. 166-168.
@@ -786,7 +822,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-56023
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
     Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.
       Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
@@ -794,14 +831,17 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   citata_rodoma: "Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.\n  Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų\nįvykių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-165011
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 29."
   citata_originali: |
     XIII a. Šilainiai,
     Raudonė,
@@ -823,7 +863,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-165012
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 13."
   citata_originali: |
     Epocha, kurioje rašė Petras iš Dusburgo
 
@@ -833,14 +874,17 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   citata_rodoma: "Epocha, kurioje rašė Petras iš Dusburgo\n\n   3-asis XIV a. dešimtmetis — vienas iš etapinių laikotarpių 250 m. trukusiame Lietuvos\nkare prieš Kryžiuočių ordiną. 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo\nužbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-165013
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     PRŪSIJOS ŽEMĖS
        KRONIKA
@@ -862,13 +906,16 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-005
+    - t-013
     - t-022
     - t-025
 
 - id: c-165014
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
@@ -885,12 +932,12 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-007
 
 - id: c-165017
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 35."
   citata_originali: |
     Kaip ši knyga sutvarkyta
 
@@ -913,7 +960,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-165018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
     nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei
@@ -939,7 +987,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-165019
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
     tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
@@ -964,7 +1013,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-165020
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Eiliuota Livonijos kronika, aprašydama
     Skuodo mūšį (1259 m.), mini žemaičius,
@@ -993,7 +1043,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-171349
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 171."
   citata_originali: |
     Kubilas (Kibias) reiškia kubiliaus padarytą, raktu
     užrakinamą dirbinį, kuriame kaimiečiai laiko savo mantą.
@@ -1014,7 +1065,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-171350
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 279."
   citata_originali: |
     Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
     šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
@@ -1026,14 +1078,17 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   citata_rodoma: "Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji\nšuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame\napiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­\nmas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie\ntai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad\nkrikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių\nšaltinių. Toks šaltinis vadinosi šulinys (Szulnis)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
 - id: c-171351
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 280"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 280."
   citata_originali: |
     Šiaip žinoma,
     kad pirmasis budizmo patriarchas gimė Ceilone6; sukūręs reli­
@@ -1060,7 +1115,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
     - t-015
     - t-016
     - t-027
@@ -1068,7 +1122,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-171352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
   citata_originali: |
     Pirmą kartą griuvus prūsų stabmeldystei, kuriai stiprų smū­
     gį kirto pats vyriausiasis žynys Alepas, pats atvirsdamas į krikš­
@@ -1095,7 +1150,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-171353
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 306"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 306."
   citata_originali: |
     Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
     sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
@@ -1115,7 +1171,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-171355
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 410"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 410."
   citata_originali: |
     (Tenai gyveno
     aukščiausiasis teisėjas,
@@ -1140,7 +1197,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-171357
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 413"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 413."
   citata_originali: |
     Daugelis iš tų, kurių tėvai
     dar buvo stabmeldžiai ir kurių žodiniai pasakojimai apie se­
@@ -1168,7 +1226,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-171358
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 430"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 430."
   citata_originali: |
     Tą
     lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy­
@@ -1190,7 +1249,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-173659
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
   citata_originali: |
     Sūduva turėjo gana
     daug įtvirtintų pilių, kur gyveno šioje provincijoje dau­
@@ -1217,7 +1277,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-177068
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 413"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 413."
   citata_originali: |
     Visų pirma kry­
     žiuočių kronikininko pasakojimas tame pačiame skyrelyje, kur
@@ -1244,7 +1305,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-178999
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
     daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
@@ -1265,16 +1327,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-005
-    - t-007
-    - t-013
     - t-024
 
 - id: c-179134
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 282."
   citata_originali: |
     Vadinasi, šito pavadinimo etimolo­
     gija dar neištirta.
@@ -1295,7 +1354,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - id: c-179135
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 425"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 425."
   citata_originali: |
     Tas
     pavadinimas, matyt, susijęs su ta pačia deive, kurią aprašėme

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c528f7445e065d5177f214ed"
+canonical_name: "Piotrkovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Piotrkovas"]
+sameAs: []
+canonical_biography: "Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliaus pajamas iš Mazovijos ir Prūsijos. Narbutas aiškina, kad 1567 metais vietoj abejotino Gardino seimo iš tikrųjų vyko ilgai posėdžiavęs Lenkijos seimas Piotrkove. Piotrkovo seime karalius Žygimantas parengė abiejų tautų žygį, o rudenį su kariuomene išžygiavo iš Vilniaus."
+place_authority: true
+historical_names: []
 ---
 # Piotrkovas
 
@@ -131,7 +140,8 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
 - id: c-168601
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 674"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 674."
   citata_originali: |
     Tėvas manė,
     kad, įsitraukus sūnui į visokius reikalus, priblėsianti ir
@@ -154,7 +164,8 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
 - id: c-171691
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
   citata_originali: |
     Po trumpo
     miesto aprašymo ir žinutės apie Lietuvos seimą,
@@ -177,7 +188,8 @@ Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliau
 - id: c-171692
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
   citata_originali: |
     Tais metais karaliui Žy­
     gimantui buvo daug darbų ir rūpesčių; mat, be ši­

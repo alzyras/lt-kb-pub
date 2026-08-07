@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-420f87971ec121de4b8c0670"
+canonical_name: "Alūkšta"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alūkšta"]
+sameAs: []
+canonical_biography: "Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda."
+place_authority: true
+historical_names: []
 ---
 # Alūkšta
 
@@ -38,7 +47,8 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - id: c-24041
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Reali valdžia Tarybai nebuvo suteikta, tad ji ėmėsi sunkaus
     vaidmens – tarpininkės tarp lietuvių tautos ir Oberosto, stengdamasi pa-

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a1c5721f43566eae6a23039"
+canonical_name: "Lotavija (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lotavija","Lotavija (vieta)"]
+sameAs: []
+canonical_biography: "Atkeliavęs vyskupas Rygos Albertas su kita dva siška diduomene į Lotaviją, Mintauto pilį, jį patį, jo žmoną ir 60 tėvūnų, arba senatorių, apkrikštijo metuose 1252, 7 dienoj rugpjūčio mėnesio."
+place_authority: true
+historical_names: []
 ---
 # Lotavija (vieta)
 
@@ -52,9 +61,9 @@ Atkeliavęs vyskupas Rygos Albertas su kita dva siška diduomene į Lotaviją, M
 ## Citatos
 
 - id: c-184492
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 347"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 347."
   citata_originali: |
     Mintautas nuo vienos pu­
     sės gorinamas pavojum, nuo antros masinamas

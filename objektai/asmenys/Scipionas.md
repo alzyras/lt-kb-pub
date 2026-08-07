@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0d08a7d7afc25f901d58e9c2"
+canonical_name: "Scipionas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Scipionas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. Kr. pagarsėjo pergale prieš konsulą Scipioną."
 ---
 # Scipionas
 
@@ -57,7 +64,8 @@ Narbutas rašo, kad nuo Baltijos jūros pasitraukę senovės kimbrai 169 m. pr. 
 - id: c-174344
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
   citata_originali: |
     Mes turime neabejotiną tos
     genties paminklą, rodantį, kad kirnbrų, arba kimerų, gen­

@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-711e2c02aec66f9b073b6a8a"
+canonical_name: "Kampsvykiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kampsvykiai"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras su didele kariuomene perėjo Nadruvos žemę, plėšdamas ir degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė, tinkamai parengęs visa, kas tam reikalinga; abiem šalims. Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių. Dusburgietis teigia, kad aprašomos castrum Cameniswikam (Kampsvykių) pilies ieškoma ir gerokai toliau į pietus, kur ji tapatinama su Kamantų (Kamanten) piliakalniu kair."
+place_authority: true
+historical_names: []
 ---
 # Kampsvykiai
 
@@ -97,7 +106,8 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 - id: c-59077
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 151."
   citata_originali: |
     D. aprašomos castrum Cameniswikam (Kampsvykių) pilies ieškoma ir gerokai toliau
     į pietus, kur ji tapatinama su Kamantų (Kamanten) piliakalniu kair. Vangrapės krante
@@ -119,7 +129,8 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 - id: c-59078
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 151."
   citata_originali: |
     Todėl nadruviai, nors turėjo
     daugybę karių ir nemaža įtvirtinimų, paliovė rodę laukinę narsą ir pasidavė tikėjimui bei
@@ -142,7 +153,8 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 - id: c-59079
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 151."
   citata_originali: |
     178 (173). Apie Kampsvykių pilies užkariavimą
     Paskui magistras su didele kariuomene perėjo Nadruvos žemę, plėšdamas ir

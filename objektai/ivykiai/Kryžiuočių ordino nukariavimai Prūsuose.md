@@ -107,7 +107,8 @@ Nenurodyta
 - id: c-66839
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 61."
   citata_originali: |
     Ir kai vyskupas grįžo iš nelaisvės, tai krašto valdovą
     atrado ordiną. Tiesa, ordinas vis dėlto sutiko užleisti vyskupams
@@ -127,7 +128,8 @@ Nenurodyta
 - id: c-66840
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 60."
   citata_originali: |
     Iš Palestinos or-
     dinas atsinešė į aisčių kraštą ir kariavimo būdą. Kaip ten, taip ir
@@ -147,7 +149,8 @@ Nenurodyta
 - id: c-66841
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 60."
   citata_originali: |
     Kartu su nukariavimu
     žengė ir krikščionystė: buvo statomos bažnyčios ir vienuo-
@@ -168,7 +171,8 @@ Nenurodyta
 - id: c-66843
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 60."
   citata_originali: |
     Tokiuo būdu kariaudamas, jis palengva stūmėsi vis gilyn
     į rytus ir į šiaurę. Kryžiuočių statomos pilys virsdavo naujos
@@ -186,7 +190,8 @@ Nenurodyta
 - id: c-66844
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 61."
   citata_originali: |
     Tačiau išėjo visai ki-
     taip. Netrukus vyskupas Kristijonas pateko prūsams į nelaisvę,
@@ -206,7 +211,8 @@ Nenurodyta
 - id: c-66845
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 60."
   citata_originali: |
     Tokį įžadą
     ordino broliai — riteriai — turėjo padaryti visam gyvenimui. Be

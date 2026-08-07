@@ -95,7 +95,8 @@ Nenurodyta
 - id: c-82882
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 427"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 427."
   citata_originali: |
     Visiems ir
     kiekvienam nurodome ir griežtai įsakome, kad saviems pi­
@@ -125,7 +126,8 @@ Nenurodyta
 - id: c-82883
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 425"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 425."
   citata_originali: |
     Taigi, kai šis
     ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­

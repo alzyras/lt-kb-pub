@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bea4f1a7a82dc0a45d18ef7f"
+canonical_name: "Aleksandras Jurgėvičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Jurgėvičius"]
+sameAs: []
+canonical_biography: "Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems vyskupui Albertui, Vilniaus kaštelionui ir Gardino seniūnui Aleksandrui Jurgėvičiui, Trakų vaivadai ir LDK didžiajam maršalkai Jonui iš Zabrežjės, LDK pataurininkiui ir Bełsko."
 ---
 # Aleksandras Jurgėvičius
 
@@ -51,7 +58,8 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
 - id: c-83595
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 379."
   citata_originali: |
     Aktuota ir duota Gardine,
     artimiausią šeštadienį po šv. Baltramiejaus šventės, tūkstan­

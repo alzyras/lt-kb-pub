@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4ceeeaa31ffc7041b91bb07"
+canonical_name: "P. Dundulienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. Dundulienė"]
+sameAs: []
+canonical_biography: "Dundulienė: Žemdirbystė Lietuvoje (nuo seniausia laiku iki 1917 metu) (1963)^113 ; R. P. Dundulienė rašė ir apie įvairiausius žemdirbystės įrankius (VUMD, t. Dundulienė, P."
 ---
 # P. Dundulienė
 
@@ -58,7 +65,8 @@ Dundulienė: Žemdirbystė Lietuvoje (nuo seniausia laiku iki 1917 metu) (1963)^
 - id: c-33090
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 86."
   citata_originali: |
     I-jo Lietuvos Statuto šaltinių, terminų ir paleografijos
     klausimais rašė S. Lazutka ir E. Gudavičius^111. Teisės

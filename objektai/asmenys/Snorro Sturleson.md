@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8357f30732c83f57c3c1c0da"
+canonical_name: "Snorro Sturleson"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Snorro Sturleson"]
+sameAs: []
+canonical_biography: "Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kraštus, rado savo genties nausėdžių ir suprato jų šnektą - prie V eini (Vilnius), Tryk (Trakų) ir kitų miestų, netgi Lenkijojek. Įdedame čia trumpą žinutę apie tą Snorro ir jo darbus."
 ---
 # Snorro Sturleson
 
@@ -78,7 +85,8 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
 - id: c-83554
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 65-66"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 65-66."
   citata_originali: |
     VII, p. 262.'
     49
@@ -104,7 +112,8 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
 - id: c-83555
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 66."
   citata_originali: |
     Įdedame čia trumpą žinutę apie tą
     Snorro ir jo darbus. Snorro S t u r-

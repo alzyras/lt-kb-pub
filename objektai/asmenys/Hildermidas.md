@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ec9cf947f28802bebdc2bd4"
+canonical_name: "Hildermidas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hildermidas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Hildermidas
 
@@ -56,7 +63,8 @@ Nenurodyta
 - id: c-169572
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
   citata_originali: |
     Nusiaubęs dideliuose
     plotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš

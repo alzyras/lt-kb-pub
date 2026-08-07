@@ -41,9 +41,9 @@ Liuosybę ir dorybę neišpasakytai mylėjo ir už visų didžiausią savo tauto
 ## Citatos
 
 - id: c-184609
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 75"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 75."
   citata_originali: |
     Karėj neprietelių neskaitą, vienas ant dešimties
     metuose velydamos pats galą gauti nekaip nuveiktu

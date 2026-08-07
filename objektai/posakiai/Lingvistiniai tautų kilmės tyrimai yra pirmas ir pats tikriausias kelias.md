@@ -74,7 +74,8 @@ Narbutas kalbotyrą pateikia kaip patikimiausią tautų kilmės tyrimo kelią ir
 - id: c-175004
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 193."
   citata_originali: |
     Lingvistiniai tautų kilmės tyrimai yra pirmas ir pats tikriausias kelias, kuriame nepasiklysi ir kuris nuveda j
       naujų atradimų kraštą, kur savo paslaptis atskleidžia visos kitos senienos. Sėkmingai išsivystęs ir vis labiau

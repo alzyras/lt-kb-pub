@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b5cf6a4b73a029051c627836"
+canonical_name: "Steponas Kairys"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Steponas Kairys"]
+sameAs: []
+canonical_biography: "Smetona, Steponas Kairys, J. Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M."
 ---
 # Steponas Kairys
 
@@ -39,7 +46,8 @@ Smetona, Steponas Kairys, J. Kairys, Stanislovas Narutavičius, Jonas Vileišis 
 - id: c-64966
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Reali valdžia Tarybai nebuvo suteikta, tad ji ėmėsi sunkaus
     vaidmens – tarpininkės tarp lietuvių tautos ir Oberosto, stengdamasi pa-

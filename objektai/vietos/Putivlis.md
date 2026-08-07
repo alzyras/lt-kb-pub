@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-abb3d9588a8f78949aa343c3"
+canonical_name: "Putivlis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Putivlis"]
+sameAs: []
+canonical_biography: "Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius. Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius. Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius."
+place_authority: true
+historical_names: []
 ---
 # Putivlis
 
@@ -111,7 +120,8 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
 - id: c-170341
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 102."
   citata_originali: |
     Ir suspindo žvaigždės kaip naktį, ir
     švietė tris valandas:.
@@ -133,7 +143,8 @@ Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskv�
 - id: c-176147
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Gediminas, pasilsėjęs čia, kol artimiausios pi­
     lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­

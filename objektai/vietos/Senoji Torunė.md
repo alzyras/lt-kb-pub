@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e3e8bef0e0eeb06eaf9aa719"
+canonical_name: "Senoji Torunė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Senoji Torunė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Dusburgietis teigia, kad dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai, dalyvavę 1231 m. puolime į Kulmo žemę."
+place_authority: true
+historical_names: []
 ---
 # Senoji Torunė
 
@@ -116,7 +125,8 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
 - id: c-59266
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
     dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
@@ -134,7 +144,8 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
 - id: c-59267
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 52."
   citata_originali: |
     Senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Privilegijos
     dokumente prie Torunės minima prūsiška Lisske (pr. liscis, *lizkis ‘stovykla, apsistojimo
@@ -152,7 +163,8 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
 - id: c-171722
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 268."
   citata_originali: |
     Šventyklos aptvaro vi­
     duje buvo šventas ąžuolas ir Perkūno, Pokliaus ir Atrimpo sta­
@@ -173,7 +185,8 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
 - id: c-177149
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
   citata_originali: |
     Tai buvo 1258 metais“ .
     Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­

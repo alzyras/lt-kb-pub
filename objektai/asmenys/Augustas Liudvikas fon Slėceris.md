@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-59e185c162ea56c71e2da88d"
+canonical_name: "Augustas Liudvikas fon Slėceris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Augustas Liudvikas fon Slėceris"]
+sameAs: []
+canonical_biography: "Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygino lietuviškam lihtars. Narbutas rašo, kad Slėceris juoko vertu dalyku laikė krivičių siejimą su prūsų vyriausiuoju kunigu. Narbutas rašo, kad Slėceris prūsų ir slavų kalbas skelbė esančias antro giminystės laipsnio."
 ---
 # Augustas Liudvikas fon Slėceris
 
@@ -212,7 +219,8 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
 - id: c-173997
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
   citata_originali: |
     Skitai gintarą
     vadino
@@ -235,7 +243,8 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
 - id: c-173999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 340."
   citata_originali: |
     Čia pakalbėsime apie kai
     kurias detales, palikdami išvadas daryti skaitytojui. Be
@@ -258,7 +267,8 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
 - id: c-174000
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Visa tai išliko Prūsijoje. Jie
     nekalbėjo slaviškai, nes Nestoras nemini jų tarp slaviškų
@@ -278,7 +288,8 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
 - id: c-174001
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 342."
   citata_originali: |
     Slėceris paskelbė prielaidą (Nestor. Dritter Band. S.
     84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­
@@ -298,7 +309,8 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
 - id: c-174002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra
@@ -323,7 +335,8 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
 - id: c-174824
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Europą ir Afriką kartu jie vadino Europa, o
     Siaurės reikšmė buvo siejama anaiptol ne su šiauriniais

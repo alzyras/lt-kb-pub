@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-35d5130de46dcba68597b0e5"
+canonical_name: "Motiejus Stryjkovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Motiejus Stryjkovskis"]
+sameAs: []
+canonical_biography: "Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas (Stryjkovskis) 46 Lietuvos Istoriografija 17 Lietuvos-Lenkijos padalinimas 4, 5 Lietuvos Metraštis 43, 45, 46, 77, 93, 154, 155, 181, 182, 214, 215, 217, 246, 248, 270, 281, 314, 379 Lietuvos Metrika 53, 86, 379 Lietuvos Praeitis 204. 80 Streitberg-Festgabe 127 Strėva, Nemuno prieupis 149, 250, 267 Strėvos kautynės 257 Stryjkovskis M."
 ---
 # Motiejus Stryjkovskis
 
@@ -56,7 +63,8 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
 - id: c-33070
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 151."
   citata_originali: |
     Archeologiniai duomens, lygiai kaip ir autentiški pirmųjų dviejų
     šimtmečių šaltiniai, stabmeldybės negali įrodyti.
@@ -76,9 +84,9 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
     - t-001
 
 - id: c-184843
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 326"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 326."
   citata_originali: |
     Pasak M. Stryjkovskio, kada bernardinų pamokslininkas, Didįjį penktadienį Kau-
     ne sakydamas pamokslą apie Viešpaties kančią, kai atėjo laikas kalbėti apie jo plaki-

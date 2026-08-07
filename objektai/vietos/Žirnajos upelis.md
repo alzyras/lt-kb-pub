@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-252f0765adb41f46504f9314"
+canonical_name: "Žirnajos upelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žirnajos upelis"]
+sameAs: []
+canonical_biography: "Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties vieta, kur išteka Žirnajos upelis."
+place_authority: true
+historical_names: []
 ---
 # Žirnajos upelis
 
@@ -53,7 +62,8 @@ Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties
 - id: c-77322
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Žygimanto kariuomenė
     traukė į šiaurę rytine to paties ežero puse.

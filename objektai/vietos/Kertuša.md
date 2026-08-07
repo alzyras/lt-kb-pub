@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c3191aa05a475304f5f3dfc0"
+canonical_name: "Kertuša"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kertuša"]
+sameAs: []
+canonical_biography: "7-asis pulkas atsitraukė ir 18 d. ryte užėmė 1,5 km gynybos ruožą palei Širvintos ir Kertušos upes nuo Levainių dvaro iki Kačiniškių dvaro."
+place_authority: true
+historical_names: []
 ---
 # Kertuša
 
@@ -93,7 +102,8 @@ media_all_json: |-
 - id: c-79860
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 259."
   citata_originali: |
     Tada jie, tai atlikę, kaip reikėjo, rūpestingai ir kruopščiai,
     visa, ką iš prisiekusių liudininkų apie šios bažnyčios įkūri­
@@ -124,7 +134,8 @@ media_all_json: |-
 - id: c-79862
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 208."
   citata_originali: |
     3-iojo bataliono kariai sutemus dar ko-
     vėsi su priešu Širvintų gatvėse, kol galiau-

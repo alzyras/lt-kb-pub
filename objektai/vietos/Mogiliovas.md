@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e5ca922f25156ecd8dae1fd"
+canonical_name: "Mogiliovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mogiliovas"]
+sameAs: []
+canonical_biography: "1971 m. leidinio pastaboje Mogiliovas apibūdintas kaip BTSR rytinės dalies miestas prie Dnepro. Narbutas tarp Mogiliovo ir Rogačiovo minimus Dnepro pakrančių kapus aiškino kaip skitų supiltus milžinkapius."
+place_authority: true
+historical_names: []
 ---
 # Mogiliovas
 
@@ -90,7 +99,8 @@ media_all_json: |-
 - id: c-170639
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 235."
   citata_originali: |
     Krokuvoje kituose šaltiniuose nepaliudytas Ir
     abejotinas.
@@ -108,7 +118,8 @@ media_all_json: |-
 - id: c-171915
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
   citata_originali: |
     Kad Pavyslio, Padneprio senieji gyventojai
     ir kiti pildavo milžinkapius, dar ir Šiandien kiekvieną įtikina jų

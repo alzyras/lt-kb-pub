@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e82a07fe57f4bf9417fbed19"
+canonical_name: "Albertas iš Meiseno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas iš Meiseno","brolis Albertas iš Meiseno"]
+sameAs: []
+canonical_biography: "Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kronikininkas pasakoja asketinius ir stebuklinius epizodus."
 ---
 # Albertas iš Meiseno
 
@@ -97,7 +104,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 <a id="claim-t-89613"></a>
 - t-005
   teiginys: "Albertas iš Meiseno buvo pilies komtūras, Dusburgiečio apibūdintas kaip Dievui atsidavęs ir pagirtinai gyvenęs vyras."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Albertas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -108,13 +115,12 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas iš Meiseno\" parinktas kaip owner_note_path. Targetas \"Albertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-56139
     - c-85553
 
 <a id="claim-t-89614"></a>
 - t-006
   teiginys: "Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos."
-  atnaujinta: "2026-07-19 18:01"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Albertas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -125,7 +131,6 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas iš Meiseno\" parinktas kaip owner_note_path. Targetas \"Albertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-56140
     - c-85550
 
 <a id="claim-t-89615"></a>
@@ -206,7 +211,8 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 - id: c-56139
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
   citata_originali: |
     Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.
     Jie lenkė kitus, nes daugiau už juos pasninkavo, daugiau meldėsi, ilgiau naktimis
@@ -220,12 +226,12 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-005
 
 - id: c-56140
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
   citata_originali: |
     trokščiau tavęs bei skaistaus gyvenimo, apvalyk man sąžinę ir neleisk man susiteršti“.
     Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach
@@ -235,16 +241,15 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   citata_rodoma: "trokščiau tavęs bei skaistaus gyvenimo, apvalyk man sąžinę ir neleisk man susiteršti“.\nVokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach\neinem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį\nmetę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame\nnuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
-
 - id: c-85549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
   citata_originali: |
     Dar apie tą patį
     Neilgai trukus po to, kai tas pats brolis Albertas su kitais broliais traukė prieš tikėjimo
@@ -269,7 +274,8 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 - id: c-85550
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
   citata_originali: |
     Kurį
     metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame
@@ -291,7 +297,8 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 - id: c-85552
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
   citata_originali: |
     Tą pačią naktį jis buvo viešpaties
     išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.
@@ -312,7 +319,8 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 - id: c-85553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
   citata_originali: |
     Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios
     pilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą.
@@ -329,7 +337,8 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 - id: c-168016
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 158."
   citata_originali: |
     Tegu su kariais netikėtai pasirodąs, iš pa­
     čių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-

@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cc8b54f48bc02e706705105f"
+canonical_name: "Junigeda"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Junigeda"]
+sameAs: []
+canonical_biography: "Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junigedos vardu. Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir sudegino jų papilius. 1315 m. spalio 12 d. didysis magistras Karolis naktį nuplaukė prie Junigedos pilies ir sudegino jos papilį."
+place_authority: true
+historical_names: []
 ---
 # Junigeda
 
@@ -168,13 +177,20 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
 <a id="claim-t-90473"></a>
 - t-008
   teiginys: "Po to broliai nuplaukė beveik iki Junigedos pilies."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Junigeda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigeda\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-86300
-    - c-86307
+    - c-86302
+    - c-167544
 
 <a id="claim-t-90474"></a>
 - t-009
@@ -361,7 +377,8 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
 - id: c-86297
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184."
   citata_originali: |
     Apie Junigedos pilies papilių sudeginimą
     1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių,
@@ -382,7 +399,8 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
 - id: c-86298
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
   citata_originali: |
     Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
     1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas,
@@ -403,7 +421,8 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
 - id: c-86300
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
   citata_originali: |
     317 (310). Apie vieną brolių karo laivą
     Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
@@ -418,12 +437,12 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
-    - t-008
 
 - id: c-86302
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
     įstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai
@@ -432,14 +451,17 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   citata_rodoma: "Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai\nįstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai\nnukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus. Viešpaties\npadedami, kiti paspruko."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-86304
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     spalio 12
 
@@ -462,7 +484,8 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
 - id: c-86305
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
 
@@ -484,7 +507,8 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
 - id: c-86306
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 184-185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184-185."
   citata_originali: |
     254 (247). Apie Junigedos ir Pieštvės pilių papilių sudeginimą
 
@@ -510,7 +534,8 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
 - id: c-86307
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180-181"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180-181."
   citata_originali: |
     Apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą
 
@@ -538,14 +563,14 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-008
     - t-010
     - t-011
 
 - id: c-167544
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Vis dėlto lietuviai neteko 70 prityrusių
     karių, žuvusių kovoje. Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
@@ -554,14 +579,17 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   citata_rodoma: "Vis dėlto lietuviai neteko 70 prityrusių\nkarių, žuvusių kovoje. Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai\nįstrigo seklumoje  ir toliau neįstengė plaukti dėl mažo vandens, sugužėję netikėliai\nnukovė brolį Heinmaną, vardu Kindas, kitą brolį, vardu Listas, ir 25 vyrus."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-178839
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 165."
   citata_originali: |
     Vėliau, birželio pabaigoje, tas pats Henrikas su tūks­
     tančio penkių šimtų raitelių pulku išsivarė Junigedos10
@@ -587,7 +615,8 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
 - id: c-178840
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 177."
   citata_originali: |
     Kanonas,
     1299 m e ta i

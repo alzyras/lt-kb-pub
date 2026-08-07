@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3227e3cbeb65fa41ca425509"
+canonical_name: "J. Kubilius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Kubilius"]
+sameAs: []
+canonical_biography: "Kubiliaus vadovaujama kolona (Ukmergės atskirasis batalionas, pusė husarų eskadrono, vienas Vokiškos rankinės puolamosios granatos. Kubiliaus vadovaujamas Ukmergės batalionas, nepaisydamas smarkios priešo ugnies, drąsiai veržėsi ir išmušė bolševikus iš jų apkasų, užėmė keletą kaimų."
 ---
 # J. Kubilius
 
@@ -51,7 +58,8 @@ Kubiliaus vadovaujama kolona (Ukmergės atskirasis batalionas, pusė husarų esk
 - id: c-41958
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 190."
   citata_originali: |
     Karin. J. Kubiliaus vadovaujamas Uk-
     mergės batalionas, nepaisydamas smar-

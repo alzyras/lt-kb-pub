@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-35e78831864aa8aa69eaba45"
+canonical_name: "Švedas V"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Švedas V"]
+sameAs: []
+canonical_biography: "p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Aukščiausios Tarybos rūmų gynimas (Bakalaurinis darbas), VPU, Vilnius, 1994."
 ---
 # Švedas V
 
@@ -60,7 +67,8 @@ p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Au
 - id: c-41677
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 269."
   citata_originali: |
     p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Aukščiausios Tarybos
     rūmų gynimas (Bakalaurinis darbas), VPU, Vilnius, 1994.

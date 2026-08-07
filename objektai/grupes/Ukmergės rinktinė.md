@@ -51,7 +51,8 @@ Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, k
 - id: c-40813
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 187."
   citata_originali: |
     Po mūšio
     Kadangi Ukmergės rinktinė buvo per daug

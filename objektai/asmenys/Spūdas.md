@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2dd30cf7dc184bd6dd697524"
+canonical_name: "Spūdas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Spūdas"]
+sameAs: []
+canonical_biography: "Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir visa šeimyna."
 ---
 # Spūdas
 
@@ -74,7 +81,8 @@ Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir 
 - id: c-169613
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 185."
   citata_originali: |
     Vėliau, ir tais pačiais,
     ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­

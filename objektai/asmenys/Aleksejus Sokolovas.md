@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-38266f9367f6e821caa6c1c7"
+canonical_name: "Aleksejus Sokolovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksejus Sokolovas"]
+sameAs: []
+canonical_biography: "Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose specialiosiose grupėse, kurioms paprastai vadovaudavo koks nors operatyvininkas. Antroje eilėje, trečias iš dešinės stovi agentų-smogikų organizatorius Lietuvoje Aleksejus Sokolovas."
 ---
 # Aleksejus Sokolovas
 
@@ -59,7 +66,8 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
 - id: c-44270
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 244."
   citata_originali: |
     Agenty-smogiky grupė
     persirengusi Lietuvos partizanų uniformomis. Antroje eilėje, trečias iš dešinės stovi
@@ -76,7 +84,8 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
 - id: c-44271
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 244."
   citata_originali: |
     . Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-
     muotose vadinamosiose specialiosiose grupėse, kurioms paprastai

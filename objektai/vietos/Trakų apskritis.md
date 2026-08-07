@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a7c5802b411bfbbfd37b6fe"
+canonical_name: "Trakų apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trakų apskritis"]
+sameAs: []
+canonical_biography: "Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidūrimų kovėsi su sovietais. Misiūnas, apygarda pavadinta Didžiosios kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis)."
+place_authority: true
+historical_names: []
 ---
 # Trakų apskritis
 
@@ -140,7 +149,8 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 - id: c-43915
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 239."
   citata_originali: |
     Vokiečių okupacijos metais buvo geležinkelių apsaugos polici-
     ninkas Kaišiadoryse. 1944 m. įstojo į Vietinę rinktinę. Sovietams pakartotinai okupavus Lietuvą, 1944 m. organizavo
@@ -157,7 +167,8 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 - id: c-45367
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 239."
   citata_originali: |
     Rugsėjį savo junginį jis pa-
     vadino Didžiosios kovos rinktine. Vėliau ji buvo pervadinta į 5-ąjį LLA rajoną (dar vėliau 5-ąją LLA
@@ -178,7 +189,8 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 - id: c-171729
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
   citata_originali: |
     Vie­
     noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­
@@ -198,7 +210,8 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 - id: c-171730
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Siek tiek pasistūmėję upe
     aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
@@ -221,7 +234,8 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 - id: c-171731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 377."
   citata_originali: |
     Vienoda jų sandara ir tokia pat radimo vieta įtikina,
     jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,

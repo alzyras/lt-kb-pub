@@ -95,7 +95,8 @@ Nenurodyta
 - id: c-176694
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 97."
   citata_originali: |
     Didysis kunigaikštis Vytautas prieš Ria-
     zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac2e82b665bc06ca6c496bc9"
+canonical_name: "Boristenė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boristenė"]
+sameAs: []
+canonical_biography: "Graikų padavimuose Boristenė, karaliaus Borėjo dukra, pagimdė Targitą, Jupiterio sūnų ir pirmą tikrųjų skitų karalių."
 ---
 # Boristenė
 
@@ -56,7 +63,8 @@ Graikų padavimuose Boristenė, karaliaus Borėjo dukra, pagimdė Targitą, Jupi
 - id: c-174261
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 44."
   citata_originali: |
     Si tauta buvo didelė ir galinga, ją
     valdė karaliai, ji turėjo savo įstatymų, mūrinių pilių ir

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ff65116169c7418d96b5a1c1"
+canonical_name: "Ghillebert de Lannoy"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ghillebert de Lannoy"]
+sameAs: []
+canonical_biography: "Šitas vienintelis Pabaltijo « Wasserburg », kurio mūrus iš visų pusių skalavo ežero vanduo, stebino ir flamandų keliauninką Ghillebert de Lannoy^45."
 ---
 # Ghillebert de Lannoy
 
@@ -67,7 +74,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 277"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 277."
   citata_originali: |
     Mokėjo ne tik vokiečių, bet ir lotynų kalbą. Galėjo mokėt
     ir rusų, nes su jų kunigaikščiais vedė daug reikalų ir giminia­

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c803cf804b81db02cb5becd6"
+canonical_name: "Jonas Jeronimaitis Chodkevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Jeronimaitis Chodkevičius"]
+sameAs: []
+canonical_biography: "Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos, kartu unijos. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Lenkija, arba Lietuvą užkariauja Rusija. Jonas Jeronimaitis Chodkevičius teigė: „Jūsų Didybės įsakyti mes čia su didžiu skausmu ir širdgėla buvome priversti nusileisti."
 ---
 # Jonas Jeronimaitis Chodkevičius
 
@@ -150,7 +157,8 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
 - id: c-21734
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 64."
   citata_originali: |
     Lietuvos Didžiajai Kunigaikštijai sunkiai sekėsi atlaikyti rytų frontą Li-
     vonijos kare. Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas
@@ -168,7 +176,8 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
 - id: c-21736
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 65."
   citata_originali: |
     J. J. Chodkevičius Liublino seime
     1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos
@@ -187,7 +196,8 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
 - id: c-21737
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 65."
   citata_originali: |
     Lyg ir sutikdamas su lenkų nuomone,
     pritardamas vienam bendram antspaudui, jis čia pat prašė nepanaikinti
@@ -209,7 +219,8 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
 - id: c-25096
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 65."
   citata_originali: |
     J. J. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Len-
     kija, arba Lietuvą užkariauja Rusija. Jis pasirinko pirmąjį kelią, tačiau sten-
@@ -228,7 +239,8 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
 - id: c-166936
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 65."
   citata_originali: |
     Kreipda-
     masis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu

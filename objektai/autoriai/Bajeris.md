@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-18241584cf2cd37ba404c426"
+canonical_name: "Bajeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bajeris"]
+sameAs: []
+canonical_biography: "Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum pavadinimo ryšį su Baltijos pakrančių gyventojais. Bajeris manė, kad Kulmo provincijos pavadinimas, svetimšalių taikytas ir kryžiuočių Prūsijai, vartotas gana seniai. Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles įtraukti į „Monumentą Prussica“."
 ---
 # Bajeris
 
@@ -133,7 +140,8 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
 - id: c-174418
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
   citata_originali: |
     Ado­
     mas Bremenietis Balticum pavadinimą tapatina ¡su šių
@@ -152,7 +160,8 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
 - id: c-174419
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 258."
   citata_originali: |
     Sis Kulmo provincijos pavadinimas sve­
     timšalių raštuose buvo taikomas ir visai Prūsijai, būtent
@@ -172,7 +181,8 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
 - id: c-174420
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
   citata_originali: |
     Labiausiai jį primena skruzdėliniai gyvasakiai; gel­
     tonas ir baltas gintaras kvepia skirtingai. Smalsuoliams
@@ -194,7 +204,8 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
 - id: c-179252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
   citata_originali: |
     Smalsuoliams
     rekomenduojama paskaityti knygelę „Ja. Wigancli Epis-

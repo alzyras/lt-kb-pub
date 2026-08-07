@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-edb9a0a3c6f44813cf65b52d"
+canonical_name: "Isamas (Rygos arkivyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Isamas (Rygos arkivyskupas)"]
+sameAs: []
+canonical_biography: "Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­ riai nužudyti. Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­ daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­ vyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai nužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo metu, kai jis, kaip."
 ---
 # Isamas (Rygos arkivyskupas)
 
@@ -70,7 +77,8 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
 - id: c-83497
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 101."
   citata_originali: |
     Tai ir yra priežastis, kad jūsų kilnybei šiuo laišku pareiš­
     kiame, jog mūsų pirmtakas karalius Mindaugas su visa sa­
@@ -104,7 +112,8 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
 - id: c-83498
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 87."
   citata_originali: |
     Viename jų, skirtame popiežiui ir kardinolams, Gediminas
     prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta

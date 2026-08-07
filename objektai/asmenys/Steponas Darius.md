@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-342fe12fe0b1f65a91023204"
+canonical_name: "Steponas Darius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Steponas Darius"]
+sameAs: []
+canonical_biography: "1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938). GusTransatlantiniai lakūnai Steponas Darius ir Stasys Girėnas 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 175 taičio, 1934 m."
 ---
 # Steponas Darius
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-75327
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 173-174"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 173-174."
   citata_originali: |
     Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
     liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu

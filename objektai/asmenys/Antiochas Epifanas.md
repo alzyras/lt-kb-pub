@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd91438f94024ab70a61d7f1"
+canonical_name: "Antiochas Epifanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antiochas Epifanas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis, nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo, nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė."
 ---
 # Antiochas Epifanas
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malo
 - id: c-60869
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 38."
   citata_originali: |
     Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto —
     „gelbėtojas“. Kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia,

@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-69f345134a3747e8d9f557d3"
+canonical_name: "Albertas Janavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas Janavičius"]
+sameAs: []
+canonical_biography: "Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui."
 ---
 # Albertas Janavičius
 
@@ -71,7 +78,8 @@ Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albe
 - id: c-176899
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 383-384"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 383-384."
   citata_originali: |
     Atlikta ir duota Vilniuje, antradie­
     nį, po Trijų Karalių šventės, tūkstantis penki šimtai trečiai­
@@ -101,9 +109,9 @@ Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albe
     - t-001
 
 - id: c-184862
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 248."
   citata_originali: |
     Štai 1607 m. Kauno vytindai-
     liai Andrius Janavičius ir Urbonas Nascevičius sudarė sutartį su Nemunaičio mieste-

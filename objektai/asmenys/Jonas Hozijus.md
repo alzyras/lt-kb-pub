@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a133deef02ede5a4c2ca17b7"
+canonical_name: "Jonas Hozijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Hozijus"]
+sameAs: []
+canonical_biography: "Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui. Dominikonai tiktai sergėjo, kad pats miestas į jų vienuolyną vieną kanalą nukreiptų ir kad nedraustų nutiesti vamzdžių į Vilniaus pilininko Jono Hozijaus namus, esančius Vokiečių gatvėje, nes jam suteikta tokia teisė. 1545 metų gegužės 4 dieną išleistu įsakymu, prieglaudos paja­ mų valdymas buvo patikėtas Vilniaus magistratui; Jonui Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo titulą nuo vyskupo karalius perkėlė sau."
 ---
 # Jonas Hozijus
 
@@ -120,7 +127,8 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 - id: c-157510
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 280"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 280."
   citata_originali: |
     už
     šimtą kapų lietuviškų grašių ir de­
@@ -155,7 +163,8 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 - id: c-157511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 290."
   citata_originali: |
     Trejybės prie­
     glauda (špitolė), mieste garsi savo labdaringa veikla. 1545
@@ -178,7 +187,8 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 - id: c-157512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 406-407"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 406-407."
   citata_originali: |
     Tad tokiai prie­
     glaudai ir joje gyvenantiems vargšams mes karališkąja malo­
@@ -214,7 +224,8 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 - id: c-157513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196."
   citata_originali: |
     D) Šv. Jono Ak ademi jos Spaustuvės kronika
     1547. Sklypas tas ir mūrinis namas, kuriame yra spaustu­
@@ -230,7 +241,8 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 - id: c-157515
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 408"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 408."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA// TOMAS
     jie visiškai rūpintųsi geru tos pačios prieglaudos valdymu
@@ -255,4 +267,4 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     - t-004
 
 ## Ryšiai
-- Paskyrė Jonas Hozijų: [[objektai/asmenys/Žygimantas Senasis]]
+- Paskyrė Jonas Hozijų: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis (Lenkijos karalius, XVI a.)]]

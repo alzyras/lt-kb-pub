@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ca5d9f8ed5f1f6f521d907f5"
+canonical_name: "Seinai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Seinai"]
+sameAs: []
+canonical_biography: "Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos valdžia įsteigė atskirą, tiesiog popiežiaus priklausomą vyskupiją Vigriuose (1798 m.; 1818 m. ji buvo perkelta į Seinus)."
+place_authority: true
+historical_names: []
 ---
 # Seinai
 
@@ -57,7 +66,8 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 - id: c-165000
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 256."
   citata_originali: |
     Ra-
     tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė

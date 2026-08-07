@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-97920f5f6aea3150f8656883"
+canonical_name: "Mieškas (kunigaikštis, XII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mieškas","Mieškas (kunigaikštis, XII a.)"]
+sameAs: []
+canonical_biography: "Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo Vladislovo, Mieško, Henriko ir Kazimiero, kurie, nekakindamos tuo pa dalijimu, lig tėvui nustipus, lig sūnūs sukeršto."
 ---
 # Mieškas (kunigaikštis, XII a.)
 
@@ -54,9 +61,9 @@ Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo V
 ## Citatos
 
 - id: c-184755
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 161"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 161."
   citata_originali: |
     Yra raštuose randama, jog tą metą Vsevolodas,
     kunigaikštis Naugardo, kariavęs su lietuviais ir ana- 1135

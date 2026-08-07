@@ -86,19 +86,10 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   pagrindžia:
     - c-175825
 
-<a id="claim-t-193059"></a>
-- t-005
-  teiginys: "Narbutas Simoną Grunau vadina suniekintu, bet didesnės pagarbos vertu kronikininku, nors pripažįsta jo šališkumą ir nekritiškumą."
-  atnaujinta: "2026-07-19 23:55"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-177077
-
 <a id="claim-t-193060"></a>
-- t-006
+- t-005
   teiginys: "Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui."
-  atnaujinta: "2026-07-24 14:26"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Prūsija: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -113,10 +104,9 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   temporalinis_llm_pakomentavimas: "Mitologinis apeigos pasakojimas suformuluotas kaip Narbuto perteikta Grunau žinia. Nepridėta platesnių išvadų apie lietuvių religiją ar išpažinties tikrumą."
   pagrindžia:
     - c-175827
-    - c-177077
 
 <a id="claim-t-193061"></a>
-- t-007
+- t-006
   teiginys: "Simonas Grunau XVI a. 3-iajame dešimtmetyje parašė Prūsijos istoriją, kurioje plačiai rėmėsi Petru iš Dusburgo."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -130,7 +120,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     - c-175828
 
 <a id="claim-t-197027"></a>
-- t-008
+- t-007
   teiginys: "Žymiai išsamiau jis ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas XVII a."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -142,7 +132,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     - c-179009
 
 <a id="claim-t-197355"></a>
-- t-009
+- t-008
   teiginys: "Atsakant į tai, reikia atkreipti kritiko dėmesį, kad tie vardai kronikose iš dalies rašomi ne tiksliai, kadangi šiaip jau žinomiBrutenes (Brutenis) ir Wejdawutis (Vaidevutis) tame būryje turi tokias pat vardų galūnes."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -153,12 +143,37 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   pagrindžia:
     - c-175826
 
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Grunau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui, taip pat turėdami omenyje kronikininkams būdingus trūku mus, negalime neginti Grunau15.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    432
+
+    ## Puslapis 432
+
+    tinių lobį ir ne bet kokiais motyvais sugundomas pataikauti
+    net tiems, kurių valdomas gyveno ir kurių paramos sulauk­
+    davo.
+    Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
+    nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
+    taip pat turėdami omenyje kronikininkams būdingus trūku­
+    mus, negalime neginti Grunau15. Žinią apie vyriausiuosius žy­
+    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
+    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
+    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-175825
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 23."
   citata_originali: |
     Atsikirsdami kritikams romantikai pasitelkdavo XVI–XVII  a. Prū-
     sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak
@@ -182,7 +197,8 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - id: c-175826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 433."
   citata_originali: |
     O kas gi buvo
     anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
@@ -211,12 +227,13 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-175827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 321."
   citata_originali: |
     Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa­
     žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­
@@ -231,12 +248,13 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-175828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.
     3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
@@ -251,40 +269,13 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-
-- id: c-177077
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
-  citata_originali: |
-    432
-
-    ## Puslapis 432
-
-    tinių lobį ir ne bet kokiais motyvais sugundomas pataikauti
-    net tiems, kurių valdomas gyveno ir kurių paramos sulauk­
-    davo.
-    Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Gru-
-    nau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui,
-    taip pat turėdami omenyje kronikininkams būdingus trūku­
-    mus, negalime neginti Grunau15. Žinią apie vyriausiuosius žy­
-    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
-    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
-    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
-  statusas: verified
-  atnaujinta: "2026-07-19 23:55"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
     - t-006
 
 - id: c-179009
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
     variantas. Moksliškai šį veikalą tyrinėti XIX a. 3-ame dešimtmetyje ėmėsi J. Foigtas83. M.
@@ -298,4 +289,4 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007

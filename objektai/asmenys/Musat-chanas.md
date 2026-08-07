@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7af4eebdc134869028b6d11f"
+canonical_name: "Musat-chanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Musat-chanas"]
+sameAs: []
+canonical_biography: "Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių caraičiui MusatChanui, taigi perėjo į tam tikrą Lietuvos kontrolę."
 ---
 # Musat-chanas
 
@@ -71,7 +78,8 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
 - id: c-41414
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     Yra duomenų, kad toliau žygiuojant buvo
     pasiektas pietinėje Krymo pakrantėje tarp-

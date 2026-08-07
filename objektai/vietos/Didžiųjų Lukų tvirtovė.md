@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-422c35e5b169dab8923b82b2"
+canonical_name: "Didžiųjų Lukų tvirtovė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Didžiųjų Lukų tvirtovė"]
+sameAs: []
+canonical_biography: "Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Didžiajai Kunigaikštystei užimti, nes dar prieš tai į Didžiųjų Lukų tvirtovę buvo nurodyta suvežti atsargas, kurių kariuomenei turėjo pakakti net pusei metų. Obolen: 2 ce o AN “Kaluga B 1579 m. Lietuvos kariuomenė atsiėmė Polocką, 0 1580 m. užėmė Didžiųjų Lukų tvirtovę."
+place_authority: true
+historical_names: []
 ---
 # Didžiųjų Lukų tvirtovė
 
@@ -77,7 +86,8 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
 - id: c-45071
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 93."
   citata_originali: |
     uražas } LLS uchovas
     BSKAS | „Dorėgobužas “4. Obolen: 2
@@ -98,7 +108,8 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
 - id: c-45072
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     Čia jos turėjo
     susijungti ir pulti Minsko, Naugarduko, o

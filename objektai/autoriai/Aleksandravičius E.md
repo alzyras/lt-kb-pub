@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a98e98e49cebfbd30e0f0171"
+canonical_name: "Aleksandravičius E"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Aleksandravičius E"]
+sameAs: []
+canonical_biography: "Aleksandravičius E., Kulakauskas A."
 ---
 # Aleksandravičius E
 
@@ -77,7 +84,8 @@ Aleksandravičius E., Kulakauskas A.
 - id: c-22114
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Literatūra
     tolesniam skaitymui

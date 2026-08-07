@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fa7c12cacd4f913f1d409e3a"
+canonical_name: "Arnoldas Krofas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Arnoldas Krofas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą."
 ---
 # Arnoldas Krofas
 
@@ -68,7 +75,8 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
 - id: c-60872
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
   citata_originali: |
     Kai šitai
     padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga

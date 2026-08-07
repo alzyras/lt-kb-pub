@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7bf77cf7a48022b9fe7a9d5f"
+canonical_name: "Olegas Ivanovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Olegas Ivanovičius"]
+sameAs: []
+canonical_biography: "Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu ir nurodo, kad 6909 metais jis su Jurijumi Svetoslavovičiumi atėjo prie Smolensko su kariuomenėmis."
 ---
 # Olegas Ivanovičius
 

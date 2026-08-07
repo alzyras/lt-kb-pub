@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8450360ebf53556def3f5885"
+canonical_name: "Rūdninkų vartai ir Rūdninkų gatvė Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rūdninkų vartai ir Rūdninkų gatvė Vilniuje"]
+sameAs: []
+canonical_biography: "Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau, Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­ vo Rūdninkų vardą, kaip ir nuo jų."
+place_authority: true
+historical_names: []
 ---
 # Rūdninkų vartai ir Rūdninkų gatvė Vilniuje
 
@@ -51,7 +60,8 @@ Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie ga
 - id: c-82211
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 270."
   citata_originali: |
     Pasiligojusi Vytauto žmona Julijona bu­
     vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­

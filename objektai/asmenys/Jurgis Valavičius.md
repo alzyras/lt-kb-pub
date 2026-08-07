@@ -18,6 +18,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0437b8ff50f6f3aaa809d486"
+canonical_name: "Jurgis Valavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Valavičius"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Jurgis Valavičius
 

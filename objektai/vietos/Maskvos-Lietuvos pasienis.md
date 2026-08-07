@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f6e59038f12403028ebeb738"
+canonical_name: "Maskvos-Lietuvos pasienis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Maskvos-Lietuvos pasienis"]
+sameAs: []
+canonical_biography: "p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-Lietuvos pasienį."
+place_authority: true
+historical_names: []
 ---
 # Maskvos-Lietuvos pasienis
 
@@ -50,7 +59,8 @@ p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-L
 - id: c-43631
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 274."
   citata_originali: |
     p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-Lietuvos
     pasienį. Karolis Zikaras, Loreta Uzdraitė.

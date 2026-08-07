@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a00bf6fadd8a2e01ae98b18d"
+canonical_name: "Kuršėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kuršėnai"]
+sameAs: []
+canonical_biography: "Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia tarp jų nesantarvė: vieni kitiems prikaišiojo, kiekvienas norėjo vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo."
+place_authority: true
+historical_names: []
 ---
 # Kuršėnai
 
@@ -101,7 +110,8 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 - id: c-43556
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 194."
   citata_originali: |
     Bermonto ėmė
     bręsti karinis konfliktas.
@@ -124,7 +134,8 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 - id: c-43557
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 194."
   citata_originali: |
     Virgoličiaus,
     kur ėmė užiminėti pa-
@@ -145,7 +156,8 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 - id: c-67969
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 477"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 477."
   citata_originali: |
     Norėdami sukilėlių
     nuotaiką pakelti, vadai nu-
@@ -171,7 +183,8 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 - id: c-166431
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 477"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 477."
   citata_originali: |
     Ta-
     čiau ir čia nepasisekus,

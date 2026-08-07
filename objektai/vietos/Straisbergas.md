@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a847a2f981b769f4ead59bbf"
+canonical_name: "Straisbergas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Straisbergas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo 29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus gyventojus ir vieną kunigą, o moteris bei."
+place_authority: true
+historical_names: []
 ---
 # Straisbergas
 
@@ -80,7 +89,8 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
 - id: c-59363
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     270 (263). Apie Straisbergo miesto sugriovimą 1298 metais
     Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo
@@ -102,7 +112,8 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
 - id: c-168518
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 176."
   citata_originali: |
     Šis žygis iš pradžių labai se­
     kėsi. Be kitos priešui padarytos žalos, apiplėšė Strais-

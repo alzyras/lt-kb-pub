@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9fcf1f7a6b26bbb9d97ef992"
+canonical_name: "Jonas (Sarginio sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas (Sarginio sūnus)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos."
 ---
 # Jonas (Sarginio sūnus)
 
@@ -67,7 +74,8 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 - id: c-60975
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
     Apie antrąjį minėtojo Marienverderio miesto sugriovimą
 

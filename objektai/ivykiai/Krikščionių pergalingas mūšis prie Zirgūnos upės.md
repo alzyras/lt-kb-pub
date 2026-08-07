@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-87548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74."
   citata_originali: |
     Apie krikščionių pergalingą mūšį, kuriame krito penki tūkstančiai prūsų
 

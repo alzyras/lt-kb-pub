@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a0bbb20fde9fe2dcd5b167ac"
+canonical_name: "Kazimieras III Didysis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras III Didysis"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Kazimieras III Didysis
 

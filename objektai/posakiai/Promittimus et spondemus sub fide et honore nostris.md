@@ -56,7 +56,8 @@ Warschaviensis et Wilnensis, promittimus et spondemus sub fide et honore nostris
 - id: c-82849
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 167-168"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 167-168."
   citata_originali: |
     Foe- [Amžinosios vienybės ir santarvės
     dus perpetuae pacis unionis et concor- taikos sutartis tarp Lenkijos karaliaus

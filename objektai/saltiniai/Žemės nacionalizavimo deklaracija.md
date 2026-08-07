@@ -50,7 +50,8 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
 - id: c-24028
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 192."
   citata_originali: |
     Analogiškas farsas vyko ir Latvijoje bei Estijoje.
     Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamen-
@@ -70,7 +71,8 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
 - id: c-166783
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 192."
   citata_originali: |
     Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamen-
     tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis

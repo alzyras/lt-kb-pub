@@ -63,7 +63,8 @@ Dusburgietis teigia, kad mannhardt M.
 - id: c-61787
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 287."
   citata_originali: |
     Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936.
   citata_rodoma: "Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936."

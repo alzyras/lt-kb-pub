@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-40869f70bd677dbbf887e591"
+canonical_name: "Svenckis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Svenckis"]
+sameAs: []
+canonical_biography: "Narbutas nekritišku laikė Svenckio teiginį, kad Prūsų ąžuolas dėl storumo buvęs tarsi tvirtovė."
 ---
 # Svenckis
 
@@ -53,7 +60,8 @@ Narbutas nekritišku laikė Svenckio teiginį, kad Prūsų ąžuolas dėl storum
 - id: c-173289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
   citata_originali: |
     Kryžiuočiai
     paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,

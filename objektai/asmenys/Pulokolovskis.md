@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e1b3f7a69e9b84b8929fa358"
+canonical_name: "Pulokolovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pulokolovskis"]
+sameAs: []
+canonical_biography: "Magistrato valdininkas Pulokolovskis 1818 m. Kaune, valydamas Perkūno namais vadintus griuvėsius, rado įmūrytą bronzinę statulėlę."
 ---
 # Pulokolovskis
 

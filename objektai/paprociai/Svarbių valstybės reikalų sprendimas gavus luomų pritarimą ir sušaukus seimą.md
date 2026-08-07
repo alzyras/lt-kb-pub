@@ -82,7 +82,8 @@ Nenurodyta
 - id: c-169254
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 371"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 371."
   citata_originali: |
     Ar saky­
     ti, kad nieku būdu nepatiksiąs Vytauto? Betgi tada už

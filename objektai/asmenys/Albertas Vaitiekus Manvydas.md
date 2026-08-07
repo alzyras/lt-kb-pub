@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4168eb790a0edbe2c346e11"
+canonical_name: "Albertas Vaitiekus Manvydas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas Vaitiekus Manvydas"]
+sameAs: []
+canonical_biography: "Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių bendradarbių."
 ---
 # Albertas Vaitiekus Manvydas
 
@@ -57,7 +64,8 @@ Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių b
 - id: c-176739
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 233."
   citata_originali: |
     5 Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y­
     tauto politinių bendradarbių. Nuo 1397 m. Vilniaus seniūnas, o  pas­

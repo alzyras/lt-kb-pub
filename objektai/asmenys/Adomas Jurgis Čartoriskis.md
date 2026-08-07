@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-003e41d50920a224651bdcfa"
+canonical_name: "Adomas Jurgis Čartoriskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adomas Jurgis Čartoriskis"]
+sameAs: []
+canonical_biography: "Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam Jerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas, kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas. Čartoriskis, susiaurintos Vilniaus švietimo apygardos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją policiją."
 ---
 # Adomas Jurgis Čartoriskis
 
@@ -79,7 +86,8 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 - id: c-21543
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 102."
   citata_originali: |
     Šios apygardos centras – Vilniaus universitetas,
     1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-
@@ -101,7 +109,8 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 - id: c-21544
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 105."
   citata_originali: |
     Caro administracija ėmėsi tyrimo,
     kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-

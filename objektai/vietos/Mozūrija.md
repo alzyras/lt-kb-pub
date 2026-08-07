@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d2841bd8a34b19a1c2af38a3"
+canonical_name: "Mozūrija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mozūrija"]
+sameAs: []
+canonical_biography: "Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams rekomendavo kelią per Mozūriją."
+place_authority: true
+historical_names: []
 ---
 # Mozūrija
 
@@ -153,7 +162,8 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - id: c-76765
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 239."
   citata_originali: |
     Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su
     Mozurija. Išleidęs savo dukterį už Płocko «Vankos », Gediminas
@@ -173,7 +183,8 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - id: c-76766
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
     ir lietuvių strigo (tuo metu Jogaila sto-
@@ -197,9 +208,9 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     - t-002
 
 - id: c-184433
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 72"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 72."
   citata_originali: |
     Tą padarius, traukė
     naujasis kunigaikštis su surinktu svietu, kutindamas
@@ -220,9 +231,9 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     - t-004
 
 - id: c-184434
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 164"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 164."
   citata_originali: |
     Lenkai negalėjo per amžius to nuopuolio užmiršti, o
     lietuviai, įgiję tą pergalę, dievus savo maldė, dėka-
@@ -244,9 +255,9 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     - t-005
 
 - id: c-184435
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 320"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 320."
   citata_originali: |
     Ateinantį metą 1244 apent sugrįžo te­
     nai su rimtesniais pulkais ir, kas kame nuo ugnies
@@ -276,9 +287,9 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     - t-006
 
 - id: c-184436
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 543"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 543."
   citata_originali: |
     Šį patį metą aš laukiu keturių kunigų,
     mokančių lenkiškai, žemgališkai, lietuviškai ir pa-

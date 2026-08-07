@@ -79,7 +79,8 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
 - id: c-82486
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 48-49"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48-49."
   citata_originali: |
     Betgi yra ir
     Rudamina, miestelis, arba bažnyt­
@@ -125,7 +126,8 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
 - id: c-82487
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 44-45"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 44-45."
   citata_originali: |
     Tačiau
     pastarieji 1341 metais, į Vilnių atvy­

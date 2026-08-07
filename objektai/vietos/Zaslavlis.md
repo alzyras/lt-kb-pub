@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a3fc52fdc6566c9a8e18577"
+canonical_name: "Zaslavlis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zaslavlis"]
+sameAs: []
+canonical_biography: "Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno. Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus."
+place_authority: true
+historical_names: []
 ---
 # Zaslavlis
 
@@ -81,7 +90,8 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
 - id: c-156474
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 69-70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 69-70."
   citata_originali: |
     Maskva
     viena po kitos prisijungė kitas rusų kunigaikštijas ir netrukus ėmė gvieštis Lietuvos žemių
@@ -127,7 +137,8 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
 - id: c-167772
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 304."
   citata_originali: |
     Senojoje
     Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo

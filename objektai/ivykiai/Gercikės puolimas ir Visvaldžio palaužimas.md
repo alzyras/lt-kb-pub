@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184634
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 213"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 213."
   citata_originali: |
     Albertas vokyčiams, kad Visvaldis apie tą
     nieko nežinojo. Todėl Albertas, sukėlęs visus kala-

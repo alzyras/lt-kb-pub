@@ -60,9 +60,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184636
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 356"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 356."
   citata_originali: |
     Darbinykus sutarė abeji iš ly­
     gumo leisti, vyskupas gavo vieną dalį pilės miesto

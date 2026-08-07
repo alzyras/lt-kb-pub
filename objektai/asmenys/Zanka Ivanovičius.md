@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fc26b2c4fdf65cad985eac5e"
+canonical_name: "Zanka Ivanovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zanka Ivanovičius"]
+sameAs: []
+canonical_biography: "Świadkowie: Miszko Wezgałowicz Namiestnik Wileński i Woskowniczy Hospodarski, Pan Zanko Iwanowicz Horodniczy Wileński i Pan Andrej Stankowicz."
 ---
 # Zanka Ivanovičius
 
@@ -32,7 +39,8 @@ media_all_json: |-
 - id: c-83867
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 286."
   citata_originali: |
     Šio namo padėtis dokumen­
     te taip apibūdinta: Kotory leżał w

@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9b0696ea37c8a76c6e065db6"
+canonical_name: "Ažėnai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ažėnai","Ažėnai (vieta)"]
+sameAs: []
+canonical_biography: "Pas valstietį Byką Ažėnuose buvo vestuvės."
+place_authority: true
+historical_names: []
 ---
 # Ažėnai (vieta)
 
@@ -46,9 +55,10 @@ Pas valstietį Byką Ažėnuose buvo vestuvės.
 ## Citatos
 
 - id: c-185747
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 17"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 17."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 17."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

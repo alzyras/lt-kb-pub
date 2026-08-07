@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-40621bd6c410b8cdf1dfdee6"
+canonical_name: "Werminghoee, A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Werminghoee, A"]
+sameAs: []
+canonical_biography: "— Werminghoee, A."
 ---
 # Werminghoee, A
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-33206
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 245."
   citata_originali: |
     — Prioult, A. : _Un poete voyageur_ : _Guillaume de Machaut et
     la « Reise_ » _de Jean VAveugle, roi de Boheme, en 1326-1329,_ Les Lettres

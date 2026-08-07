@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-39096f0c688798fa828a221b"
+canonical_name: "Audronius Ažubalis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Audronius Ažubalis","objektai/asmenys/Audronius Ažubalis"]
+sameAs: []
+canonical_biography: "Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos."
 ---
 # Audronius Ažubalis
 
@@ -69,7 +76,8 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
 - id: c-64342
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 10."
   citata_originali: |
     1990 m. kovo 11 d. atkūrusi nepriklausomybę,
     2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-41fe3005cec223d10aaab7ee"
+canonical_name: "Mikalojus (Vilniaus vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus (Vilniaus vyskupas)"]
+sameAs: []
+canonical_biography: "Actum et datum die dominico Reminiscere anno 1410 in castro nostro Vilnensi [Vilniaus vys­ kupas Mikalojus, kanonų teisės dak­ taras ir menų magistras."
 ---
 # Mikalojus (Vilniaus vyskupas)
 
@@ -61,7 +68,8 @@ Actum et datum die dominico Reminiscere anno 1410 in castro nostro Vilnensi [Vil
 - id: c-83760
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 164."
   citata_originali: |
     Tarp
     dalyvavusiųjų buvo: Nicolaus Epis­

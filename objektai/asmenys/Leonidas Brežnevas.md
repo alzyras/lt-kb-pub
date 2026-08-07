@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1da2f59af4268849fa08e515"
+canonical_name: "Leonidas Brežnevas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Leonidas Brežnevas"]
+sameAs: []
+canonical_biography: "O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje, valdymas vėl sugriežtintas – imta persekioti kitaminčius (1967–1975 m. Lietuvoje už antisovietinę agitaciją ir propagandą nuteisti 1 583 asmenys)."
 ---
 # Leonidas Brežnevas
 
@@ -62,7 +69,8 @@ O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistin�
 - id: c-21856
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 209."
   citata_originali: |
     (63 proc.)) uoliai laikė
     valdžios monopolį, totalitarinis valdymo pobūdis išliko: visi privalomai tu-

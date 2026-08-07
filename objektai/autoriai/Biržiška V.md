@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fee87198233a69bc8d647cf7"
+canonical_name: "Biržiška V"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Biržiška V"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 664—708; Biržiška V."
 ---
 # Biržiška V
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
 - id: c-61310
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     135 SRP, B. 2, S. 664—708; Biržiška V. Kryžiuočių keliai..., p. 1—63; Kraštas  ir
     žmonės, p. 7—41.

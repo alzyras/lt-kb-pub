@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8eabcda8a3ee9c27c0535ddf"
+canonical_name: "Kaspijos jūra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kaspijos jūra"]
+sameAs: []
+canonical_biography: "Šioms tolimos senovės epo choms priskirtina ir kolchų tauta, nors ji gerokai vėliau už pelazgus atsikėlė iš Azijos gilumos į kraštus, esan čius į šiaurę nuo Kaspijos ir Juodosios jūrų."
+place_authority: true
+historical_names: []
 ---
 # Kaspijos jūra
 
@@ -47,7 +56,8 @@ media_all_json: |-
 - id: c-177329
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
   citata_originali: |
     20
     Apie kolchus ir Kolchidę. Šioms tolimos senovės epo­

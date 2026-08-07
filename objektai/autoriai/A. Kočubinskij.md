@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a8ab1e1252c1e2146b235c0f"
+canonical_name: "A. Kočubinskij"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Kočubinskij"]
+sameAs: []
+canonical_biography: "Kočubinskij), jog prieš­ istoriniais laikais baltai yra gyvenę žymiai toliau į rytus."
 ---
 # A. Kočubinskij
 
@@ -50,7 +57,8 @@ Kočubinskij), jog prieš­ istoriniais laikais baltai yra gyvenę žymiai tolia
 - id: c-32872
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 131."
   citata_originali: |
     Archeologiniai radiniai, kalbiniai duomens (ypač žemės vardy­
     nas) ir šykščios metraščių užuominos padeda šiek tiek apibrėžti

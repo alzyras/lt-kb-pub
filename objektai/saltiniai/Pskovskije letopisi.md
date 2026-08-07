@@ -57,7 +57,8 @@ media_all_json: |-
 - id: c-33701
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 247-248"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 247-248."
   citata_originali: |
     (^3) **Paszkiewicz : PaOR, 208 p.**
     (^4) **_Pskovskije letopisi,_** **vyp. 1, Moskva-Leningrad 1941, 15-16 p.**

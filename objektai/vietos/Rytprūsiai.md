@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f64a4d1559eb62de54438ce7"
+canonical_name: "Rytprūsiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rytprūsiai"]
+sameAs: []
+canonical_biography: "Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi gauti gerus postus administracijoje."
+place_authority: true
+historical_names: []
 ---
 # Rytprūsiai
 
@@ -75,7 +84,8 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
 - id: c-24452
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 152."
   citata_originali: |
     Kadangi Maskva visur stengėsi pakenkti
     Lenkijai, sovietai akcijai irgi neprieštaravo, o jei Lenkija pajudėtų prieš
@@ -97,7 +107,8 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
 - id: c-32402
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 106."
   citata_originali: |
     Iš antro tūkstantmečio pr. Kr. Rytprūsiuose, palei žemutinę
     Vyslą, jau yra žinomi upių krantų aukštumose įkurti kuopiniai
@@ -113,7 +124,8 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
 - id: c-167022
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 152."
   citata_originali: |
     Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kul-
     tūros, liuteronai, o ne katalikai, politiškai liko ištikimi Vokietijai, todėl pa-

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a125a3e10192211184b2d559"
+canonical_name: "Davies N"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Davies N"]
+sameAs: []
+canonical_biography: "Davies N."
 ---
 # Davies N
 
@@ -72,7 +79,8 @@ Davies N.
 - id: c-20728
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Davies N. God’s playground: a history of Poland. T. 1: The origins to 1795.
     New York, 1982.

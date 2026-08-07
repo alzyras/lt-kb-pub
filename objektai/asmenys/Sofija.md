@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-161630238fbdfd71bcc31ec1"
+canonical_name: "Sofija"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sofija"]
+sameAs: []
+canonical_biography: "Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringailė 47 miręs nuo įduotų nuodų."
 ---
 # Sofija
 
@@ -77,7 +84,8 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
 - id: c-163348
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 287."
   citata_originali: |
     Nors sutarčių originalai yra
     dingę, tačiau iš 1626 m. padarytų dokumentų aprašų galima nu­
@@ -101,7 +109,8 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
 - id: c-167227
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 149."
   citata_originali: |
     Skubina būtiny­
     bė traukti Lietuvą iš apverktinos padėties, kokioje buvo atsi­

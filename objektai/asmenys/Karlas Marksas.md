@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e93029d697add1736cc70ae3"
+canonical_name: "Karlas Marksas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karlas Marksas"]
+sameAs: []
+canonical_biography: "Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžiagą."
 ---
 # Karlas Marksas
 
@@ -49,7 +56,8 @@ Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją
 - id: c-21805
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 222."
   citata_originali: |
     Lietuvos teritorijos), gynybinis karinis kompleksas
     reikalavo kvalifikuotos darbo jėgos. Ją ruošė totaliai kontroliuojama švieti-

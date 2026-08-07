@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b27fa0de2e51e50fb539c11a"
+canonical_name: "Kriava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kriava"]
+sameAs: []
+canonical_biography: "246 ii skyrius: valstybės iškilimas Algirdui, pačioje Lietuvoje įgijusiam Kriavą, o Rusijoje jau nuo seniau valdančiam Vitebską, teko svarbus uždavinys rytuose palaikyti santykius su Maskva ir kitomis rusų kunigaikštijomis. Šiaurėje, pvz., Kriavo ir Vitebsko kunigaikštis Algirdas nuo Livo­ nijos kryžiuočių sėkmingai gynė Pskovą. Šitokioje padėtyje Krokuvon buvo atgabentas aktas, surašytas 1385.VIII.14 d. Kriavo pilyje, kur lygiai prieš trejus metus galutinai neišaiškintomis aplinkybėmis buvo žuvęs Jogailos dėdė Kęstutis."
+place_authority: true
+historical_names: []
 ---
 # Kriava
 
@@ -79,7 +88,8 @@ media_all_json: |-
 - id: c-32146
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 292"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 292."
   citata_originali: |
     Šitokioje padėtyje Krokuvon buvo
     atgabentas aktas, surašytas 1385.VIII.14 d. Kriavo pilyje, kur
@@ -96,7 +106,8 @@ media_all_json: |-
 - id: c-163690
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 254."
   citata_originali: |
     Būda­
     mas ir fiziniu atžvilgiu silpnas, Jaunutis nesugebėjo išreikalauti

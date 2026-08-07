@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-137c617e5fad4c3e6976fdc3"
+canonical_name: "Sakso Gramatiko"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Sakso Gramatiko"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir."
 ---
 # Sakso Gramatiko
 
@@ -60,7 +67,8 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
 - id: c-87595
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
   citata_originali: |
     54—83,— pastarajame darbe iškelta hipotezė, kad pietinio
     Baltijos pajūrio ir Riugeno rutėnai — tai venedai, slavizuoti keltai). Manoma, kad Sakso

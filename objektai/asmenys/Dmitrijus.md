@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2562c93d4c80459a3553321c"
+canonical_name: "Dmitrijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dmitrijus"]
+sameAs: []
+canonical_biography: "pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusių Riurikaičių dinastija ir šią šalį ištiko gili krizė."
 ---
 # Dmitrijus
 
@@ -60,7 +67,8 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
 - id: c-44319
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 120."
   citata_originali: |
     Proga atsiimti Smolenską atsirado
     XVII a. pradžioje, kai mirus abiems Iva-

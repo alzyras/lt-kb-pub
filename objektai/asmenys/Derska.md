@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f822259d0ab322e3e9688c03"
+canonical_name: "Derska"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Derska"]
+sameAs: []
+canonical_biography: "Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus. Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę. Prūsų didikas Derska, pabėgęs iš Prūsijos, gyveno Lietuvoje ir tikėjosi kryžiuočių atleidimo už naują išdavystę."
 ---
 # Derska
 
@@ -136,7 +143,8 @@ Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimta
 - id: c-60732
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 173."
   citata_originali: |
     Apie bartų sugrįžimą ir daugybės lietuvių žūtį
     Kai broliai rengėsi pulti anksčiau minėtąją Gardino pilį, kurie ne kurie bartai,
@@ -161,7 +169,8 @@ Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimta
 - id: c-60733
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
   citata_originali: |
     Minėtieji Numa ir
       520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos
@@ -186,7 +195,8 @@ Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimta
 - id: c-168051
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
   citata_originali: |
     Tuo tarpu keletas kitų lietuvių būrių
     niokojo Lenkijos pasienius, grįždami jie pateko į prie­

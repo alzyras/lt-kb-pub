@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a4f7aa7814156e20ad7a59a8"
+canonical_name: "Cipkevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Cipkevičius"]
+sameAs: []
+canonical_biography: "1 būrio kareiviai Cipkevičius ir Šidiškis prašė, kad leisčiau jiems pulti lenkus durtuvais."
 ---
 # Cipkevičius
 
@@ -51,7 +58,8 @@ media_all_json: |-
 - id: c-41522
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 202."
   citata_originali: |
     1 būrio kareiviai Cipkevičius ir
     Šidiškis prašė, kad leisčiau jiems pulti lenkus durtuvais. Nieko jiems neatsakiau. Cipkevičius

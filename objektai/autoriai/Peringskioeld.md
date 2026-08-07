@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-562932b754086b6606bd6a3a"
+canonical_name: "Peringskioeld"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Peringskioeld"]
+sameAs: []
+canonical_biography: "Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žemės ru­ tulys, pirmiausia atspausdintas iš rankraščio, pasirodė 1697 metais Stokholme, in folio, Peringskioeld o išleistas trimis kalbomis: islan­ dų, švedų ir lotynų."
 ---
 # Peringskioeld
 
@@ -60,7 +67,8 @@ Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žem�
 - id: c-84058
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 66."
   citata_originali: |
     Užsimo­
     jęs parašyti Norvegijos istoriją, sa­

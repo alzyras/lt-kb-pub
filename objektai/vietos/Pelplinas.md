@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a21b55f01a67ab3aa183cdb0"
+canonical_name: "Pelplinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pelplinas"]
+sameAs: []
+canonical_biography: "1), kurį magistras Fridrichas fon Vildenbergas Meve 1324 m., daly­ vaujant Pelplino abatui Jordanui, liepė parengti, yra Slapt. Pavyzdžiui, abatai iš Olivos ir Pelplino 1323 metais praneša popiežiui: Ex nuper actis patefeci­ mus per presentes, eundem prefatum regem quasdam per piures mundi partes litteras direxisse, in quibus se cum suis et toto Reg­ no asseruit baptizari et conjungi."
+place_authority: true
+historical_names: []
 ---
 # Pelplinas
 
@@ -79,7 +88,8 @@ media_all_json: |-
 - id: c-82008
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 108."
   citata_originali: |
     2) Kurį laiką buvo manoma, kad Gediminas
     iš tiesų tuos laiškus rašęs. Pavyzdžiui, abatai iš Olivos ir Pel-
@@ -105,7 +115,8 @@ media_all_json: |-
 - id: c-82009
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 93."
   citata_originali: |
     Mažesniųjų brolių laiškas, rašytas in
     Culmine [Kulme], datuotas fl. d. 1323

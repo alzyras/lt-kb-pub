@@ -18,13 +18,14 @@ saltiniai:
 datos:
   - '1295 m.'
   - '1304 m.'
-  - '1305 m.'
   - '1361 m.'
   - '1362 m.'
   - '1363 m.'
   - '1365 m.'
   - '1368 m.'
   - '1376 m.'
+  - '1379 m.'
+  - '1380 m.'
   - '1568 m.'
 date_start: '1295'
 date_end: '1568'
@@ -48,6 +49,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-91df89033747c93364457ec8"
+canonical_name: "Gardinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gardinan","Gardinas","Gardine","Gardino"]
+sameAs: []
+canonical_biography: "Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo religinių fundacijų ir 1429 m. politinių derybų centras."
+place_authority: true
+historical_names: []
 ---
 # Gardinas
 
@@ -60,7 +70,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-12484"></a>
 - t-001
   teiginys: "Vytautas Gardine rėmė dominikonus ir pranciškonus, skirdamas jiems donacijas ir bažnyčias."
-  atnaujinta: "2026-07-19 17:29"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -122,17 +132,14 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginys: "Vaclovas pripažino Ordinui Žemaičius ir visą kairiąją Panemunę iki Gardino."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: iki 1410 m.; įvykio data: 1410 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pašalinti neaiškų kontekstinį pradžios fragmentą."
   pagrindžia:
     - c-21449
 
@@ -427,14 +434,18 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179851"></a>
 - t-022
   teiginys: "1305 m. Konradas iš Lichtenhageno su didele kariuomene nusiaubė Gardino pilies apylinkes degindamas ir plėšdamas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Gardinas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Gardino pilies apylinkių nusiaubimas tiesiogiai rodo Konrado karinį puolimą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1305 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako veikėją, vietą ir veiksmą, citata tai patvirtina."
   pagrindžia:
-    - c-163496
+    - c-163512
 
 <a id="claim-t-179852"></a>
 - t-023
@@ -626,7 +637,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179867"></a>
 - t-034
   teiginys: "1295 m. penki broliai ir 150 vyrų iš Sembos bei Notangos išjojo link Gardino pilies ir apiplėšė lietuvių kaimą prie Nemuno."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -636,11 +647,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=36"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1295 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata."
   pagrindžia:
-    - c-163496
     - c-163534
 
 <a id="claim-t-179868"></a>
@@ -735,18 +742,14 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginys: "Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Anglija: 0.93"
+  ryšio_patikimumas: "siunte_i -> Anglija: 0.99"
   ryšio_patikimumo_lygis: "aukstas"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
   ryšio_sprendimo_taisykle: "llm_validated_relation"
   ryšio_subjekto_parinkimas: "Antanas Tyzenhauzas (ūkio reformų veikėjas): llm_allowed_candidate, person"
   ryšio_targeto_parinkimas: "Anglija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Antanas Tyzenhauzas siuntė jaunimą į Angliją."
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Antanas Tyzenhauzas siuntė jaunimą mokytis į Angliją."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Antanas Tyzenhauzas (ūkio reformų veikėjas) siuntė į Anglija (0.93)"
-  temporaliniai_duomenys: "įkūrimo data: iki 1410 m.; įkūrimo data: 1410 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įkūrimo data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susieja Antano Tyzenhauzo veiklą su Gardine įkurtomis mokyklomis."
   pagrindžia:
     - c-163531
 
@@ -1220,17 +1223,14 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: iki 1410 m.; įvykio data: 1410 m.; įvykio data: 1567 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys performuluotas kaip Narbuto istoriografinė abejonė. Nepridėta Piotrkovo seimo detalė, nes ji yra platesnis kontekstas."
   pagrindžia:
     - c-171584
 
@@ -1310,14 +1310,20 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 
 <a id="claim-t-200712"></a>
 - t-073
-  teiginys: "Tų pačių metų didiko sąskaitoje minimi vyno pirkimai Gardine ir Vilniuje, kartu išskiriant seną, jauną, geresnį ir prastesnį vyną."
-  atnaujinta: "2026-07-14 18:18"
+  teiginys: "Didiko sąskaitose minimi vyno pirkimai Gardine ir Vilniuje, o vynas skirstomas į seną, jauną, geresnį, prastesnį ir iš sausų uogų pagamintą."
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardinas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
-  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184057
 
@@ -1516,7 +1522,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 238."
   citata_originali: |
     Tuos sve­
     čius Vytautas priėmė savo dvare, Gardine (1429. IX. 29).
@@ -1531,7 +1538,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-21449
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 140."
   citata_originali: |
     Kitais me-
     tais, į ordino pusę patrauktas, Vaclovas pripažino jam Že-
@@ -1549,7 +1557,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-21453
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     Tuo
     būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
@@ -1575,7 +1584,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-32050
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 285."
   citata_originali: |
     Kęstutaitis iš pusbrolio
     reikalavo tėviškės, bet Trakai jau buvo atiduoti Skirgailai. Tad
@@ -1595,7 +1605,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 140."
   citata_originali: |
     Kaune ir
     Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus
@@ -1618,7 +1629,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163475
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 56."
   citata_originali: |
     XVI a. viduryje naujas madas atneš Vilniaus Žemuti-
     nės pilies renesansas, tačiau gotikos tradicija, perimta vietos meistrų, dar
@@ -1641,7 +1653,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163476
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 455-456"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 455-456."
   citata_originali: |
     Šio dalyko patvirtinimui mū­
     sų antspaudas rašto apačioje yra įspaustas. Duota Gardine
@@ -1669,7 +1682,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 27."
   citata_originali: |
     Kiek tos kovos Kęstučio valdymo laiku padidėjo,
     rodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad
@@ -1695,7 +1709,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163478
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 134."
   citata_originali: |
     Kai visa tai vyko, karalius, matydamas
     pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
@@ -1721,7 +1736,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163479
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 294-295"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 294-295."
   citata_originali: |
     278
 
@@ -1751,7 +1767,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163480
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 336."
   citata_originali: |
     Tad
     jiems beliko vėl įprastiniame stiliuje daryti «reyzus » Lietuvon.
@@ -1769,7 +1786,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163481
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 142."
   citata_originali: |
     Lietuviai pre-
     tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
@@ -1790,7 +1808,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163482
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 315."
   citata_originali: |
     1392 m. birželio gale, apsimes­
     damas, iš Ritterswerderio patraukė Lietuvon į tariamą žygį. Stai­
@@ -1812,7 +1831,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163483
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 96."
   citata_originali: |
     1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
     23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą. Lietuvos
@@ -1832,7 +1852,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163484
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
     Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
@@ -1858,7 +1879,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163485
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78-79"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78-79."
   citata_originali: |
     Iki XV a. pabaigos gynybinės sienos saugojo
     tik Vilniaus pilis, miestas buvo neapsaugotas. Kai Krymo totorių antpuoliai ėmė
@@ -1889,7 +1911,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 290."
   citata_originali: |
     Su pagoniškąja Lietuva pirmąsias nuolatinio karo paliau­
     bas Ordinas padarė 1379 m. Labai įdomios ir viduramžiui
@@ -1914,7 +1937,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 140."
   citata_originali: |
     Savo tėviškėn į Trakus parkvietė benediktinus, kuriems pa­
     statė vienuolyną ir bažnyčią, kad jie užsiimtų mokslu. Kaune ir
@@ -1937,7 +1961,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 174."
   citata_originali: |
     5 d. Ost­
     rovoje (Gard.) įvyko taika. Jogaila dovanojo Vytautui ir jo
@@ -1958,7 +1983,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163490
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 40."
   citata_originali: |
     Vasarą su gausiais svetimšalių būriais
     ir savais kariais maršalas žygiavo Gardino
@@ -1981,7 +2007,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163491
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 314."
   citata_originali: |
     Kazimiero bažnyčia71. Ankstyva ir netikėta
     Stepono Batoro mirtis Gardine (1586 metų gruodžio 12 die­
@@ -2001,7 +2028,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163493
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 255."
   citata_originali: |
     Žemaičiams jis nuolatos gelbėjo jų iš kartos į kartą einan­
     čiuose karuose, dėl kurių visa vakarinė Lietuva buvo tapusi kasmet
@@ -2026,7 +2054,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163494
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 307."
   citata_originali: |
     Tikrosios Lietuvos bylas spręsdavo
     Vilniuje, o gudiškųjų sričių — Naugarduke ir Minske. XVIII
@@ -2045,7 +2074,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163495
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32."
   citata_originali: |
     Lietuva tuo metu jau
     turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
@@ -2067,7 +2097,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163496
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 253."
   citata_originali: |
     6. Apie Gardino pilies apylinkių nusiaubimą
 
@@ -2082,15 +2113,14 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
-    - t-034
     - t-039
 
 - id: c-163497
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 36."
   citata_originali: |
     Tikė­
     jimo bendrumas palenkė jų simpatijas Kęstučiui ir jie davė jam
@@ -2111,7 +2141,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163498
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 285."
   citata_originali: |
     Siena nuo Livonijos iki Ne­
     vėžio šaltinių turėjo eiti tiesia linija, bet žemupyje ji buvo taip
@@ -2132,7 +2163,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163499
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 142."
   citata_originali: |
     Teritoriniai klausimai taip pat buvo sprendžiami palankiai. Lietuviai pre-
     tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
@@ -2152,7 +2184,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163502
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
     kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
@@ -2182,7 +2215,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 259."
   citata_originali: |
     Arklių ūkis labiau buvo paplitęs Žemaitijoje ir apie Tra­
     kus; žemaičiai net ir duoklę Vytautui dažnai arkliais mokėda­
@@ -2205,7 +2239,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163505
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 131."
   citata_originali: |
     Tai nebuvo
     monolitinės stovyklos, nes rasdavosi įvairių tranzitinių grupelių ir iš kitų
@@ -2230,7 +2265,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163506
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 151."
   citata_originali: |
     Didesnė dalis XVIII a. pa-
     baigoje LDK kariuomenei skirtų muškietų, kaip ir kitų šaunamųjų ginklų, buvo nupirkta stiprią karinę
@@ -2262,7 +2298,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 133-134"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 133-134."
   citata_originali: |
     Vilniaus kapitulos archy­
     vas: MSS, vad. Acta, tai yra*
@@ -2292,7 +2329,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 370-372"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 370-372."
   citata_originali: |
     354
 
@@ -2359,7 +2397,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 199."
   citata_originali: |
     Apie Pagraudės ir Gardino valsčių nusiaubimą 1305 metais
 
@@ -2372,14 +2411,17 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   citata_rodoma: "Apie Pagraudės ir Gardino valsčių nusiaubimą 1305 metais\n\n  Tų pačių metų žiemą brolis Eberhardas iš Firneburgo, Karaliaučiaus komtūras, su\ndviem tūkstančiais raitelių patraukė  į Lietuvą. Tačiau negalime nepaminėti ir to, kad\nbrolis Konradas iš Lichtenhageno, Brandenburgo komtūras,  jį pralenkė, pasukdamas\nsu didele kariuomene  į Gardino pilies apylinkes, kurias  ir nusiaubė, degindamas bei\nplėšdamas, nors daugiau ten nieko nepešė, nes Lietuvos žemės raiteliai irgi sujojo į šį\nvalsčių."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-022
+
 - id: c-163514
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 279."
   citata_originali: |
     Svarbesnė buvo jo nauja taikos sutartis su kry­
     žiuočiais — per 8 mėnesius iš eilės jau trečias dokumentas. Jis
@@ -2399,7 +2441,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163515
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 134."
   citata_originali: |
     1390 metų sausio pradžioje visą savo šei­
     mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­
@@ -2425,7 +2468,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163516
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 253."
   citata_originali: |
     Dar sunkesni uždaviniai atiteko Kęstučiui vakarinėje valstybės
     dalyje. Jis paveldėjo Trakus ir Gardiną su Palenke (Liet. Brasta).
@@ -2440,7 +2484,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163523
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 285."
   citata_originali: |
     Kryžiuočių stovykloje veikiąs Vytautas, kurį palaikė dalis
     Lietuvos, Jogailai buvo gana pavojingas. Kęstutaitis iš pusbrolio
@@ -2457,7 +2502,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163524
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 100."
   citata_originali: |
     Iš pradžių aneksuotoje teritorijoje pradėtos kurti dvi gubernijos, tačiau
     tepraėjus tik metams sujungtos į vieną Lietuvos vardu (Litovskaja guber-
@@ -2478,7 +2524,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163527
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 96."
   citata_originali: |
     Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
     Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
@@ -2501,7 +2548,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163528
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 152."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­
@@ -2528,7 +2576,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163531
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 88."
   citata_originali: |
     Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
     po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
@@ -2550,7 +2599,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163532
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 63."
   citata_originali: |
     Pirmą kartą jį Dusburgas mini prie 1304 metų
     (356 lape), pasakodamas, kaip brolis Eberhardas de Virnem-
@@ -2584,7 +2634,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163533
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 44."
   citata_originali: |
     Atsakydami į kryžiuočių bei kryži-
     ninkų Ariogalos, Paštuvos puolimą,
@@ -2609,7 +2660,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     260 (253). Apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei
                                             netikėlių žūtį
@@ -2630,7 +2682,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163537
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 88-89"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 88-89."
   citata_originali: |
     Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
     steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
@@ -2654,7 +2707,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-163540
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 379."
   citata_originali: |
     To viso patikimumui ir galiai patvirtinti mū­
     sų antspaudas yra prikabintas. Aktuota ir duota Gardine,
@@ -2680,7 +2734,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-167172
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 40."
   citata_originali: |
     Tą
     pačią žiemą kryžiuočiai iš Ragainės du kar-
@@ -2706,7 +2761,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-168311
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
   citata_originali: |
     Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
     įgulą, sugriovė arba sudegino visus įtvirtinimus; du
@@ -2731,7 +2787,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-168313
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 182."
   citata_originali: |
     Magistras Konradas, gavęs ži­
     nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy­
@@ -2765,7 +2822,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-171582
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
   citata_originali: |
     Arčiausiai jo yra
     Gardinas, išsidėstęs prie Krono upės, dabar Nemunu vadina­
@@ -2786,7 +2844,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-171584
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
   citata_originali: |
     Tame vei­
     kale turėtų būti ir Vilniaus vaizdas. Po trumpo
@@ -2807,7 +2866,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-171585
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
   citata_originali: |
     Romanas Sanguška kovojo kruvinus mū­
     šius su Rusija; įvyko taip, kad karalius, Piotrkovo
@@ -2834,7 +2894,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-176307
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 55."
   citata_originali: |
     Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
     net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-
@@ -2853,7 +2914,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - id: c-178838
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 245-246"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 245-246."
   citata_originali: |
     Neatnešė ato­
     kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
@@ -2892,14 +2954,14 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-073
 
 - id: c-184410
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 465"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 465."
   citata_originali: |
     Ateinantį metą mistras sukėlė naują kariauną ir
     nujautęs, jqg daug lietuvių Parusny, nenorinčių vo-
@@ -2924,9 +2986,9 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-074
 
 - id: c-184942
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 249"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 249."
   citata_originali: |
     Šiporiai sudarydavo sutartis su Kauno, Vilniaus, Gardino pirkliais, savo valdų pro-
     dukciją eksportuojančiais bajorais ir savo laivais gabendavo prekes. 1582 m. Steponas Ba-
@@ -2943,9 +3005,9 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-075
 
 - id: c-184943
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 364"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 364."
   citata_originali: |
     Adomas, Jo-
     nas, Kasperas, Martynas, 1551 m. Petras Valadka, 1552 m. Jokūbas iš Gardino, Mar-
@@ -2959,9 +3021,9 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-076
 
 - id: c-184944
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 389"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 389."
   citata_originali: |
     Tai
     antra pagal dydį suma, daugiau turėjo mokėti Vilnius - 500 kapų grašių ir dar iš-
@@ -2978,9 +3040,9 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-077
 
 - id: c-184945
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 389"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 389."
   citata_originali: |
     Vilniaus sąraše nėra, bet iš kitų šaltinių žinoma, kad jam teko 8 000 kapų
     grašių norma. Kiti miestai turėjo mokėti kur kas mažiau, daugiausia Brestas ir Kije-

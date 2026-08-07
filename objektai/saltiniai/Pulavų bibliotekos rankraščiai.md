@@ -64,7 +64,8 @@ Nenurodyta
 - id: c-84448
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 327-328"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 327-328."
   citata_originali: |
     IV KNYGA
     mūsų ponams tarėjams, seniūnams ir pareigūnams, nuošir­

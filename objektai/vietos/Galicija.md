@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bbfc5ae74c0381f7285b082a"
+canonical_name: "Galicija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Galicija"]
+sameAs: []
+canonical_biography: "Galicijoje."
+place_authority: true
+historical_names: []
 ---
 # Galicija
 
@@ -51,7 +60,8 @@ Galicijoje.
 - id: c-02681
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 318."
   citata_originali: |
     Galų gale nei Lietuvoje nei Lenkijoje nelaimėjo nei unitai
     nei pravoslavai. Kai rusai užėmė kraštą, tai unija buvo smurtu

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-77a3fce034cee79616fb7844"
+canonical_name: "Spytkas iš Melštino"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Spytkas iš Melštino"]
+sameAs: []
+canonical_biography: "Taip pat lenkų didikai paremdavo ir jo reikalus, kaip Spytkas iš Melštino, vysk."
 ---
 # Spytkas iš Melštino
 
@@ -51,7 +58,8 @@ Taip pat lenkų didikai paremdavo ir jo reikalus, kaip Spytkas iš Melštino, vy
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 218."
   citata_originali: |
     Vytauto santykiai su lenkų didikais ligi Lucko suvažiavimo
     buvo, galima sakyti, geri. Jis buvo net jų mylimas: su juo jie

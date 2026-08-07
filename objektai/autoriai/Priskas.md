@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-763db0b64f1515db05196aee"
+canonical_name: "Priskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Priskas"]
+sameAs: []
+canonical_biography: "Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hunus kildino iš skitų."
 ---
 # Priskas
 
@@ -54,7 +61,8 @@ Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hu
 - id: c-174513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 306"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 306."
   citata_originali: |
     Turbūt hu­
     nai buvo kilę iš plokščiaveidžių žmonių giminės, Hero­

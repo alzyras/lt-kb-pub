@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fac1b78a89305362c59b6dbe"
+canonical_name: "V. Pašuta"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Pašuta"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti Ordino valstybės valdančią klasę, apologizuoti Ordiną, skleisti kovos prieš Pabaltijo bei arabų tautas būtinumo idėjas ir kt. Dusburgietis teigia, kad tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro 149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование..., с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24— 30 (M. Jučas). Dusburgietis teigia, kad 304 Dab. Dzežgonis, Dzierzgoń. Pilis pastatyta 1247—1248 m. (SRP, 1, p. 683; Ewald A. L., Die Eroberung..., 2, p. 235; HP, 1, 1, p. 449; Wunder H., Siedlungs-..., p. 170; Górnowicz H., Toponimia..., p. 43) kairiajame Zirgūnos (dab. Dzierzgoń) krante."
 ---
 # V. Pašuta
 
@@ -59,7 +66,8 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 - id: c-61156
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
   citata_originali: |
     Ch. Hartknochas, pirmas D. kronikos leidėjas, galvojo, kad tuo vardu čia vadinami
     Riugeno salos gyventojai (Hartknoch Ch., Selectae.., p. 64). Manyta, jog Dusburgiečio
@@ -76,7 +84,8 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 - id: c-61157
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 31."
   citata_originali: |
     Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
 

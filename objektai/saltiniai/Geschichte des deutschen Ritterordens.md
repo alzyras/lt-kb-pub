@@ -63,7 +63,8 @@ Voigt 9 tomų veikale Geschichte Preusseus (1827-1838) nagrinėja kryžiuočių 
 - id: c-33566
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 96."
   citata_originali: |
     Buvęs
     Karaliaučiaus univ. prof. J. Voigt 9 tomų veikale _Geschichte

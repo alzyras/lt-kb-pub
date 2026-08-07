@@ -60,7 +60,8 @@ Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Balta
 - id: c-26721
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 257-258"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 257-258."
   citata_originali: |
     Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe –
     Baltarusija, su ja 1991 m. spalį pasirašė Deklaraciją dėl geros kaimynys-

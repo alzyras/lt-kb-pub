@@ -49,7 +49,8 @@ Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliau
 - id: c-44227
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 205."
   citata_originali: |
     Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas.
     Kpt. Ignatavičius nurodė, kad Lietuvos kariuomenė irgi gavo tokią pat telefonogramą. [...]

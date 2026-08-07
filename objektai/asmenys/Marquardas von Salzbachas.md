@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-110edbdf020612fae6646f51"
+canonical_name: "Marquardas von Salzbachas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Marquardas von Salzbachas"]
+sameAs: []
+canonical_biography: "Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris Marquardas von Salzbachas. Jau anksčiau buvo žinoma, kad Salzbachas buvo uolus Vytauto patarėjas. Salzbacho padedamas, Vytautas pataikė ordine į laimingą momentą."
 ---
 # Marquardas von Salzbachas
 
@@ -97,7 +104,8 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
 - id: c-32789
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 311."
   citata_originali: |
     Dėl to Liubline
     Kęstutaitis turėjo pasižadėti juo ir kitais įkalbinėtojais daugiau
@@ -116,7 +124,8 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
 - id: c-32790
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 311."
   citata_originali: |
     Jiedu
     ir buvo pasiųsti pas vyriausią magistrą. Jau anksčiau buvo žinoma,
@@ -135,7 +144,8 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
 - id: c-32791
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 311."
   citata_originali: |
     Su savo šalininkais jis skubiai kėlėsi į Gardiną ir iš čia mezgė san­
     tykius su ordinu, žadėdamas vykdyti 1384 m. sutartį.

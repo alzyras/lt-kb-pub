@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-91319264837c6e02d370193c"
+canonical_name: "Teterinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Teterinas"]
+sameAs: []
+canonical_biography: "Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upės, kuriuos mes iš Seislavo kuni­ gaikštienės atėmėme, norime grąžinti, inkorporuoti ir užra­ šyti bei šiuo raštu inkorporuojame, grąžiname ir užrašome minėtam Teterino dvarui."
+place_authority: true
+historical_names: []
 ---
 # Teterinas
 
@@ -50,7 +59,8 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
 - id: c-82087
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 376-377"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 376-377."
   citata_originali: |
     nec non cum omnibus Kmetb oni-
     bus, quae Bona quondam erant Siemion Ducis Bielski, om­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83536c6767cab21848f72ff5"
+canonical_name: "J. Aničas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Aničas"]
+sameAs: []
+canonical_biography: "Aničas."
 ---
 # J. Aničas
 
@@ -50,7 +57,8 @@ Aničas.
 - id: c-41670
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
   citata_originali: |
     p. 185, „VYTIES KRYZIUS* J. Aničas. Generolas Silvestras Žukauskas (1861-1937) /
     Biografinė apybraiža, Vilnius, 2006, p. 79-80 (Z. Veliuoniškis. Gen. Žukauskas fronte prisegė

@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-83022
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 199."
   citata_originali: |
     Betgi pastaraisiais laikais, kelių vaisti­
     ninkų dėka pradėjusi plėstis, ji pasiekė tą klestintį būvį, kaip

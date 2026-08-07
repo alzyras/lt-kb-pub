@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4b5032a2e8b845e7d6432601"
+canonical_name: "Vidas, pramintas Vilku"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vidas, pramintas Vilku"]
+sameAs: []
+canonical_biography: "Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Erdeno tėvas. DOVILAS ar DOVYDAS Rostislavovičius, Lietuvos kunigaikštis -----------^ ----------s VIDAS, pramintas Vilku, ERDENAS ar Liet."
 ---
 # Vidas, pramintas Vilku
 
@@ -57,7 +64,8 @@ Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido,
 - id: c-83567
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 59."
   citata_originali: |
     I. 48), liudija, kad XII amžiuje jau
     būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­

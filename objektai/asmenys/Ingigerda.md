@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-951a13c91144828f8fad1ded"
+canonical_name: "Ingigerda"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ingigerda"]
+sameAs: []
+canonical_biography: "Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip kraitį davė Aldejaborgą bei jo apylinkes."
 ---
 # Ingigerda
 
@@ -54,7 +61,8 @@ Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip krait�
 - id: c-174301
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Goterio sū­
     nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­

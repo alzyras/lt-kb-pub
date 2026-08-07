@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c77375d067354c485fd7b6b3"
+canonical_name: "Cepro upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Cepro upė"]
+sameAs: []
+canonical_biography: "Po Klecko kautynių Mykolas Glinskis su Lietuvos kariuomene vijosi totorius aplink Ceprą ir už Cepros."
+place_authority: true
+historical_names: []
 ---
 # Cepro upė
 

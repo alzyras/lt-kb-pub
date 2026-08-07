@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0292ba3f80aafb019dd24221"
+canonical_name: "Olesnickio"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Olesnickio"]
+sameAs: []
+canonical_biography: "Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vainiko klausimą tik į jo asmeninius interesus ir ambicijas ; tai kritiškai yra įrodyta^10."
 ---
 # Olesnickio
 
@@ -49,7 +56,8 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
 - id: c-32796
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 379."
   citata_originali: |
     Gausus ir platus laiškai^9 rodo, jog Vytautas prieš lenkų
     nusistatymą gynė visos Lietuvos reikalus ir jos nepriklausomybę,

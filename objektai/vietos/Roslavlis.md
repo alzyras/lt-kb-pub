@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fb580fa8b63fbf48250551d7"
+canonical_name: "Roslavlis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Roslavlis"]
+sameAs: []
+canonical_biography: "Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas."
+place_authority: true
+historical_names: []
 ---
 # Roslavlis
 
@@ -70,7 +79,8 @@ Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
 - id: c-170346
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 97."
   citata_originali: |
     paleido savo uošvį
     kunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­

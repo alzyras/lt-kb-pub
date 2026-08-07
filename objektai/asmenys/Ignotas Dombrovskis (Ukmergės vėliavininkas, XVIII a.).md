@@ -19,19 +19,26 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-462135b24ebc13fbd4446cfd"
+canonical_name: "Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ignacy Tadeusz Junosza Dąmbrowski","Ignotas Dombrovskis","Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.)"]
+sameAs: []
+canonical_biography: "Ignotas Dombrovskis buvo Ukmergės vėliavininkas. Ignotas Dombrovskis Sužinojo apie Mykolo Ksavero Sapiegos ketinimą įkeisti Šarkovščyznos valdas."
 ---
 # Ignotas Dombrovskis (Ukmergės vėliavininkas, XVIII a.)
 
 ## Santrauka
 
-1750 m. Ignotas Dombrovskis sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos valdas. Ignotas Dombrovskis buvo Ukmergės vėliavininkas.
+Ignotas Dombrovskis buvo Ukmergės vėliavininkas. Ignotas Dombrovskis Sužinojo apie Mykolo Ksavero Sapiegos ketinimą įkeisti Šarkovščyznos valdas.
 
 ## Teiginiai
 
 <a id="claim-t-200496"></a>
 - t-001
   teiginys: "1750 m. Ignotas Dombrovskis sužinojo, kad Mykolas Ksaveras Sapiega įkeis Šarkovščyznos valdas."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766): 0.85"
@@ -49,7 +56,7 @@ media_all_json: |-
 <a id="claim-t-200497"></a>
 - t-002
   teiginys: "Ignotas Dombrovskis buvo Ukmergės vėliavininkas."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Ukmergė: 0.85"
@@ -72,7 +79,7 @@ media_all_json: |-
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 03:26"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
     - t-002

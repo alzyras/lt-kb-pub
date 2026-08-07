@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ca3d6b00813e523a0313b197"
+canonical_name: "Jucevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jucevičius"]
+sameAs: []
+canonical_biography: "Jucevičiui priklausiusiame Burokų dvare 1836 m. gegužę Bonaventūras Milevskis ardamas iškasė figūrą."
 ---
 # Jucevičius
 
@@ -65,7 +72,8 @@ Jucevičiui priklausiusiame Burokų dvare 1836 m. gegužę Bonaventūras Milevsk
 - id: c-174382
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
   citata_originali: |
     1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
     Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu

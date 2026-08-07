@@ -27,19 +27,26 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a02f6e2445d6180a106b774"
+canonical_name: "Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karol Ejdziatowicz","Karolis Eidžiatovičius","Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)"]
+sameAs: []
+canonical_biography: "1749 m. Smolensko pavieto seimelyje Karolis Eidžiatovičius ėjo žemės teisėjo pareigas."
 ---
 # Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)
 
 ## Santrauka
 
-1749 m. Smolensko pavieto seimelyje Karolis Eidžiatovičius buvo išrinktas žemės teisėju.
+1749 m. Smolensko pavieto seimelyje Karolis Eidžiatovičius ėjo žemės teisėjo pareigas.
 
 ## Teiginiai
 
 <a id="claim-t-200480"></a>
 - t-001
-  teiginys: "1749 m. Smolensko pavieto seimelyje Karolis Eidžiatovičius buvo išrinktas žemės teisėju."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "1749 m. įvykusiame Smolensko pavieto seimelyje Karolis Eidžiatovičius nurodytas kaip žemės teisėjas."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.): 0.85"
@@ -52,8 +59,8 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1749 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys patikslintas pagal citatą: Karolis Eidžiatovičius ne tiesiog ėjo pareigas, o buvo išrinktas. Kitų seimelio pareigūnų nepridėta."
-  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
+  temporalinis_llm_pakomentavimas: "Sušvelnintas citatoje nepakankamai aiškiai pagrįstas išrinkimo teiginys ir išlaikytas konkretus asmuo bei pareigos."
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
   pagrindžia:
     - c-183850
 
@@ -66,6 +73,6 @@ media_all_json: |-
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 11:39"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001

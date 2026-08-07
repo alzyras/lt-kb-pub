@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cd38fa9b499a3e2dc7d41e37"
+canonical_name: "Bonaventūras Milevskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bonaventūras Milevskis"]
+sameAs: []
+canonical_biography: "Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dvare ardamas žemę iškasė figūrą, Narbuto pasakojime siejamą su Kovo statulėle."
 ---
 # Bonaventūras Milevskis
 
@@ -159,7 +166,8 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
 - id: c-170888
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 255."
   citata_originali: |
     Nedailus, vos galima suprasti, jog tai raitelis su sakalu. Rai- 32
     32 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs Vil­
@@ -186,7 +194,8 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
 - id: c-173731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
   citata_originali: |
     1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
     Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu

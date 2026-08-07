@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c4e92cfd4135f05e3f374ac1"
+canonical_name: "Valkininkai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Valkininkai"]
+sameAs: []
+canonical_biography: "Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susispietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Valkininkų. Višniaveckis jį nusivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepaisydama Višniaveckio pasipriešinimo, jį kardais sukapojo. Jis datuotas Valkininkuose 1700 m. lapkričio 24 d., t."
+place_authority: true
+historical_names: []
 ---
 # Valkininkai
 
@@ -78,7 +87,8 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 - id: c-43959
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 141."
   citata_originali: |
     1700 m. lapkričio 19-24 d. Valki-
     ninkuose vyko respublikonų bajorijos
@@ -106,7 +116,8 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 - id: c-165069
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 141."
   citata_originali: |
     Šie pabūklai
     mūšio.

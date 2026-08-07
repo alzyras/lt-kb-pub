@@ -149,7 +149,8 @@ Nenurodyta
 - id: c-31419
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 141."
   citata_originali: |
     Metalų amžiuje žemės dar­
     bas plėtėsi, juo labiau kad geležinis kirvis padėjo net apaugusius
@@ -174,7 +175,8 @@ Nenurodyta
 - id: c-31420
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 142."
   citata_originali: |
     Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo
     pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė
@@ -199,7 +201,8 @@ Nenurodyta
 - id: c-91648
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 142."
   citata_originali: |
     Kadangi nulaisintas lydimas ilgai turėjo
     pūdymauti, vienai šeimai prasimaitinti reikėjo bent 5-6 lydimų

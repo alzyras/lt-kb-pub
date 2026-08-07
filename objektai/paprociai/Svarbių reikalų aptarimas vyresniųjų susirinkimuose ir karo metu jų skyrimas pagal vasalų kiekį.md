@@ -112,7 +112,8 @@ Nenurodyta
 - id: c-174970
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 370."
   citata_originali: |
     Bet
     kita piliavietė, kuri mums rūpi, ko gero, buvo ant vienos
@@ -138,7 +139,8 @@ Nenurodyta
 - id: c-175303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 370."
   citata_originali: |
     Šalavija taip pat turėjo savo
     savarankiškų ponų, valdžiusių žmones ir kraštą; buvo

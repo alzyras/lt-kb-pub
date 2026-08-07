@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ed78c48cda6516e69248abd8"
+canonical_name: "H. Koeppenas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["H. Koeppen","H. Koeppenas","Н. Koeppen"]
+sameAs: []
+canonical_biography: "Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių pranešimus (BeGeDO)."
 ---
 # H. Koeppenas
 
@@ -49,7 +56,8 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
 - id: c-65285
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 96."
   citata_originali: |
     Mūsų kaimynams Vokiečiams aišku labiausiai rūpėjo
     vokiečių ordino karo žygiai į Lietuvą ir nuo XVI a. Prūsų Kuni­

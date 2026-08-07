@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-abd7e69bb606ba40f630d35e"
+canonical_name: "Konradas (Skalvių pilies gynėjas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas (Skalvių pilies gynėjas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo."
 ---
 # Konradas (Skalvių pilies gynėjas)
 
@@ -68,7 +75,8 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
 - id: c-61110
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 186."
   citata_originali: |
     Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai
     priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis

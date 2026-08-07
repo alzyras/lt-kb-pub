@@ -50,7 +50,8 @@ Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, ka
 - id: c-82824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 31."
   citata_originali: |
     Tai reiškia:
     „Žemaitijos žemė yra ir visada bu­

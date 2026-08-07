@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-82948
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 156-157"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156-157."
   citata_originali: |
     Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
     data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,

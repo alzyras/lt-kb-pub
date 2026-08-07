@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-13cc102d2cfbf9bedaf6016f"
+canonical_name: "Dominikonų ordino namas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dominikonų ordino namas"]
+sameAs: []
+canonical_biography: "Dominikonų ordino namas."
+place_authority: true
+historical_names: []
 ---
 # Dominikonų ordino namas
 
@@ -50,7 +59,8 @@ Dominikonų ordino namas.
 - id: c-82157
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 217."
   citata_originali: |
     10. Dominikonų ordino namas.
     11. Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.

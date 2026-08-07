@@ -17,8 +17,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4ffd6be2dabe0630f1e54253"
+canonical_name: "Antoninas Pijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antoninas Pijus"]
+sameAs: []
+canonical_biography: "Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė apie Saulės dieną vykusius miestų ir kaimų gyventojų susirinkimus."
 ---
 # Antoninas Pijus
+
+## Santrauka
+
+Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė apie Saulės dieną vykusius miestų ir kaimų gyventojų susirinkimus.
 
 ## Santrauka
 
@@ -29,7 +40,7 @@ Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė 
 <a id="claim-t-200737"></a>
 - t-001
   teiginys: "Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė apie Saulės dieną vykusius miestų ir kaimų gyventojų susirinkimus."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -55,6 +66,6 @@ Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė 
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-001

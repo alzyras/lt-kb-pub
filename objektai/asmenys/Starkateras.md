@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8ad31f96f29f6c4e04641b16"
+canonical_name: "Starkateras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Starkateras"]
+sameAs: []
+canonical_biography: "Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterverko sūnumi ir vyresniojo Starkatero anūku. Narbutas pasakoja, kad Starkateras nuvyko į Rusią, iškvietė Viziną dvikovon ir, pasitelkęs gudrybę, jį nukovė. Narbutas pasakoja, kad Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius."
 ---
 # Starkateras
 
@@ -96,7 +103,8 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 - id: c-174199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
   citata_originali: |
     235
     Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
@@ -121,7 +129,8 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 - id: c-174200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
   citata_originali: |
     Pirkliavę Danijoje rusai
     guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
@@ -142,7 +151,8 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 - id: c-174201
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
   citata_originali: |
     Žinodamas, kad slibinas žvilgsniu
     užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona

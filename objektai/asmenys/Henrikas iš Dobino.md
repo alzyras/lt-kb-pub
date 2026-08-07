@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c64b4389fc0e518f13a5ebf7"
+canonical_name: "Henrikas iš Dobino"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas iš Dobino"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno pasienio iki kito, jis patraukė atgal, tačiau patyrė ir sunkių nuostolių, mat neskaitant kitų žuvusiųjų, kurių buvo gana daug, brolis Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių. Dusburgietis teigia, kad apie Aukaimio pilies apylinkių nusiaubimą 1300 metais Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar išžudęs žmones."
 ---
 # Henrikas iš Dobino
 
@@ -90,7 +97,8 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 - id: c-60767
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
   citata_originali: |
     Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
     Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į
@@ -110,7 +118,8 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 - id: c-167463
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Apie Sembos žemės nusiaubimą
 

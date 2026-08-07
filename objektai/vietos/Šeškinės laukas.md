@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-058f2331c47d7c288c474899"
+canonical_name: "Šeškinės laukas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šeškinės laukas"]
+sameAs: []
+canonical_biography: "Skirgaila persikėlęs per Nerį apsistojo Šeškinės lauke."
+place_authority: true
+historical_names: []
 ---
 # Šeškinės laukas
 

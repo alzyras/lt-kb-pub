@@ -103,7 +103,8 @@ Nenurodyta
 - id: c-01832
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 503"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 503."
   citata_originali: |
     **Blaivybės brolijų suvaržymai.** Jau iš pat pradžių Vilniaus
     generalgubernatorius ir Kauno gubernatorius buvo pradėję ka-
@@ -122,7 +123,8 @@ Nenurodyta
 - id: c-01833
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 505"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 505."
   citata_originali: |
     Vysku-
     pas, susiartinęs su šviesesniais
@@ -146,7 +148,8 @@ Nenurodyta
 - id: c-01834
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 506"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 506."
   citata_originali: |
     Bylų varginami, kunigai nutilo kalbėję apie
     blaivybę, ir ji ėmė nykti. Jos priešai pasirūpino, kad būtų pa-

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a17828cff568861606262a3b"
+canonical_name: "Juozas Lapienis-Darius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozas Lapienis-Darius"]
+sameAs: []
+canonical_biography: "adjutantas Juozas Lapienis-Darius, pasidavė rinktinės vadas Stasys GimbutasTarzanas ir 4 partizanai; S."
 ---
 # Juozas Lapienis-Darius
 
@@ -50,7 +57,8 @@ adjutantas Juozas Lapienis-Darius, pasidavė rinktinės vadas Stasys GimbutasTar
 - id: c-44392
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 246."
   citata_originali: |
     Žukauskas. Po nelygios kovos su okupantų
     kariuomene nusišovė LLKS vadovybės spec.

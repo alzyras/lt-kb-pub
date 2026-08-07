@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-174952
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 254."
   citata_originali: |
     Be jokios abejonės moneta priklauso tam kraštui ir tai tau ­
     tai, kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nu­

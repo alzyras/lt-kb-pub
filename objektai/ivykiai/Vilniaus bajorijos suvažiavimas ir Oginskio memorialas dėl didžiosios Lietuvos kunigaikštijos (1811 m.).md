@@ -72,7 +72,8 @@ Nenurodyta
 - id: c-02081
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 458"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 458."
   citata_originali: |
     lyginti su kitų Rusijos sričių mokesčiais. Patsai Oginskis dėl to
     pasidarė populiariu bajorijos vadu. Jis pats tuo tarpu pradėjo

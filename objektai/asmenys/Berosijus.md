@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6c9845b5be6637d709720dff"
+canonical_name: "Berosijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Berosijus"]
+sameAs: []
+canonical_biography: "Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, buvo skitų protėvio Skito motina."
 ---
 # Berosijus
 
@@ -53,7 +60,8 @@ Narbutas iš Berosijaus padavimų kildina žinią, kad Araksa, Jonušo duktė, b
 - id: c-174221
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Bu­
     dinai, kaip jau sakėme, yra senovės Azijos skitų kasta,

@@ -50,19 +50,11 @@ Nenurodyta
 <a id="claim-t-62959"></a>
 - t-001
   teiginys: "Imperatorius Fridrichas II perdavė Hermanui didelę Šventojo Kryžiaus relikvijos dalį, o Hermanas ją išsiuntė į Elbingo pilį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 20:36"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "siunte_i -> Elbingas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hermanas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Elbingas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Hermanas relikviją išsiuntė į Elbingo pilį."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-63847
     - c-63848
 
 <a id="claim-t-196980"></a>
@@ -105,7 +97,8 @@ Nenurodyta
 - id: c-63847
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Dievas jam buvo suteikęs tokių malonių,
     kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
@@ -123,13 +116,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-63848
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Jį didžiai vertino ir popiežius, ir imperatorius, nekalbant apie kitus kunigaikščius bei
     didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo

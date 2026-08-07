@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b7151d6032eba0a31c1630db"
+canonical_name: "Bohdanas Ankevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bohdanas Ankevičius"]
+sameAs: []
+canonical_biography: "List Radzcy Wileńskomu Bohdanu Onkieiviczu, na wybranie jemu winnych peneźy z Korczem Bobruyjskoje i Swisłockoje do dewet let spoina [Laiš­ kas Vilniaus tarėjui Bohdanui Ankevičiui, leidžiantis jam surinkti pri­ klausančius pinigus iš Bobruisko ir Svisločės."
 ---
 # Bohdanas Ankevičius
 
@@ -50,7 +57,8 @@ List Radzcy Wileńskomu Bohdanu Onkieiviczu, na wybranie jemu winnych peneźy z 
 - id: c-83614
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 285."
   citata_originali: |
     List Radzcy Wileńskomu Bohdanu On-
     kieiviczu, na wybranie jemu winnych

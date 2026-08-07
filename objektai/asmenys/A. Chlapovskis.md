@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-067735d6d584479a7829e0e6"
+canonical_name: "A. Chlapovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Chlapovskis"]
+sameAs: []
+canonical_biography: "Chlapovskis mėgino vyriausiąjį vadą generolą A. Chlapovskiui, kurio žinioje buvo paliktas 1-asis ulonų pulkas, Kališo raitelių dalinys, kuopa jėgerių ir viena artilerijos baterija."
 ---
 # A. Chlapovskis
 
@@ -67,7 +74,8 @@ Chlapovskis mėgino vyriausiąjį vadą generolą A. Chlapovskiui, kurio žinioj
 - id: c-41269
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 157."
   citata_originali: |
     Matydami stiprią rusų gynybą, sukilėlių
     kariuomenės štabo viršininkas pulkininkas
@@ -90,7 +98,8 @@ Chlapovskis mėgino vyriausiąjį vadą generolą A. Chlapovskiui, kurio žinioj
 - id: c-41270
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 157."
   citata_originali: |
     Sukilėlių kariuomenės atsitraukimą
     gen. A. Gelgaudas pavedė organizuoti gen.

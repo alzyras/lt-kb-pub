@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92035d21506eae68a91af587"
+canonical_name: "Tadas Čackis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Tadas Čackis"]
+sameAs: []
+canonical_biography: "Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randama daugiausia raganų. Narbutas klaidinga vadino Čackio nuomonę, kad lietuviai germanų pavyzdžiu laiką skaičiavę naktimis, o ne dienomis. Narbutas Čackio veikalą „Apie teises“ nurodė kaip šaltinį istorijos duomenims apie kitų tautų antspaudus ir herbus."
 ---
 # Tadas Čackis
 
@@ -33,15 +40,22 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 <a id="claim-t-190300"></a>
 - t-001
   teiginys: "Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randama daugiausia raganų."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tadas Čackis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Čackis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173184
+    - c-173183
 
 <a id="claim-t-190301"></a>
 - t-002
@@ -178,7 +192,8 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 - id: c-173183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
   citata_originali: |
     Kuo daugiau tikėta jų buvimu, tuo labiau
     artėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų
@@ -190,14 +205,17 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   citata_rodoma: "Kuo daugiau tikėta jų buvimu, tuo labiau\nartėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų\nprietarų perimdavo žmonės. O XVI amžiuje, kaip moksliškai\nįrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­\ngiausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­\ndies padavimai tas senes paprastai kildina iš Lietuvos Rusios,\no vietinių nepripažįsta, jog šitiek daug moka."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-173184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
   citata_originali: |
     Sulaužęs priesaiką, kuri rė­
     mėsi tautiniais papročiais, faktiškai būdavo prakeiktas ir ne­
@@ -214,13 +232,13 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-173186
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 399."
   citata_originali: |
     5 Istorijos duomenų apie kitų tautų antspaudus ir herbus skaity­
     tojas ras Čackio veikale „Apie teises“ (t. I. - P. 71. - Prierašas nr. 347),
@@ -237,7 +255,8 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 - id: c-177070
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 355"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 355."
   citata_originali: |
     10 Šis dalykas plačiai išdėstytas Čackio veikale (O prawach. -  T. I. -
     S. 61-62. - Nota nr. 331).
@@ -253,7 +272,8 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 - id: c-179137
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 309."
   citata_originali: |
     Buvo aukų, kurias atnašau­
     jant, moterims buvo draudžiama dalyvauti. Buvo ir tokių, kur
@@ -272,7 +292,8 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 - id: c-179138
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
   citata_originali: |
     Is­
     torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
@@ -295,7 +316,8 @@ Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randa
 - id: c-179279
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
   citata_originali: |
     Sis autorius
     turėjo dvi paprastų gyventojų dainas, vieną lietuvių, kitą žemaičių

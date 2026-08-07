@@ -58,9 +58,9 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
 ## Citatos
 
 - id: c-184545
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 249"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 249."
   citata_originali: |
     Albertas buvo sau įkūręs, kursai kas
     dieną platinos, noris per 20 metų tuointimpos ka­
@@ -79,9 +79,9 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
     - t-001
 
 - id: c-184546
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 368"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 368."
   citata_originali: |
     Įstatė, jog kry-
     žėjai vienos valdžios savo mistro ir kapitulos te­

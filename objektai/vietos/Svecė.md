@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-22e9bdd66b9d7bfbda6de4b7"
+canonical_name: "Svecė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Svecė"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Svecė
 

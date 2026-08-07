@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15e6f636e7e5245a44d2bb20"
+canonical_name: "Cz. Kudzinowski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Cz. Kudzinowski"]
+sameAs: []
+canonical_biography: "Kudzinowski, Cz."
 ---
 # Cz. Kudzinowski
 
@@ -76,7 +83,8 @@ Kudzinowski, Cz.
 - id: c-91659
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 130."
   citata_originali: |
     — Klimas, P. keliuose egz. mašinraštyje 1939 m. paruošė savo
     numatytos daugiatomės Lietuvių tautos istorijos I tomą (iki 1200 m.),

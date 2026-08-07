@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b1930de64280e89b1ca33334"
+canonical_name: "Vakarų Lietuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vakarų Lietuva"]
+sameAs: []
+canonical_biography: "Tačiau jie ## Puslapis 235 LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA 1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas, kuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs). Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai. Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities vadu."
+place_authority: true
+historical_names: []
 ---
 # Vakarų Lietuva
 
@@ -73,7 +82,8 @@ Tačiau jie ## Puslapis 235 LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA 1949
 - id: c-45389
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     Lietuvos partizanų vadų
     suvažiavimas. Minaičių kaimas
@@ -113,7 +123,8 @@ Tačiau jie ## Puslapis 235 LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA 1949
 - id: c-176436
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 238."
   citata_originali: |
     Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities
     vadu. Silpstant ginkluotam pasipriešinimui 1952 m. įkūrė „Vyčių sąjungą,

@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e75e80bb2f780775b2969d9c"
+canonical_name: "Jonas Švitrigaila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Švitrigaila"]
+sameAs: []
+canonical_biography: "Šioje sutartyje tarp kunigaikščių ir prelatų nurodyti: Černigovo ku­ nigaikštis Švitrigaila, Vilniaus vys­ kupas Motiejus ir Medininkų (Žemai­ tija) vyskupas nominatas Mikalojus."
 ---
 # Jonas Švitrigaila
 
@@ -52,7 +59,8 @@ media_all_json: |-
 - id: c-83713
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 168."
   citata_originali: |
     Šioje sutartyje tarp kunigaikščių
     ir prelatų nurodyti: Černigovo ku­

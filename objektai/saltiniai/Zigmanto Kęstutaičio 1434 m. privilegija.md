@@ -59,7 +59,8 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
 - id: c-67434
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 254."
   citata_originali: |
     Lietuvos valsty-
     bės ribose buvo daug ir pravoslavų, kurių dvasininkai betgi neturėjo

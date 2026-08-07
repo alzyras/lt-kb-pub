@@ -105,7 +105,8 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - id: c-175044
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 201."
   citata_originali: |
     1578 metais Karalius Steponas Batoras, šias funduotas mo­
     kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­
@@ -127,7 +128,8 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - id: c-175045
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 397."
   citata_originali: |
     Savo ir minėto miesto vardu [ta­
     rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos
@@ -167,7 +169,8 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - id: c-175046
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 433."
   citata_originali: |
     Šio pobūdžio studentų bendriją (congregatio) ir mi­
     nėtą namą troškome ir labai norime pavadinti Valerijono
@@ -198,7 +201,8 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - id: c-175047
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 399."
   citata_originali: |
     Nusprendėme ir šiuo raštu nu­
     sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­
@@ -222,7 +226,8 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - id: c-175048
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 425"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 425."
   citata_originali: |
     Taigi mes jo
     teisėtam prašymui pritardami ir, norėdami sustiprinti Die­

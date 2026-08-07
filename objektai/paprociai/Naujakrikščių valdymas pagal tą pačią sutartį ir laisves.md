@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-62694"></a>
 - t-001
   teiginys: "Kiti naujakrikščiai vėliau buvo valdomi pagal tą pačią sutartį ir laisves, kurios buvo suteiktos pirmiesiems pasidavusiems."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> naujakrikščiai: 0.83"
@@ -72,7 +72,8 @@ Nenurodyta
 - id: c-63445
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 76."
   citata_originali: |
     Taip žiauriai jis
     kariavo, kad jie pasidavė tikėjimui bei broliams. Ir kiti naujakrikščiai vėliau buvo valdomi,
@@ -90,7 +91,8 @@ Nenurodyta
 - id: c-63446
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 76."
   citata_originali: |
     Taip smarkiai ir taip
     drąsiai šis markgrafas užgriuvo šias netikėlių gentis nelyginant liūtas, kuris nesibijo bet

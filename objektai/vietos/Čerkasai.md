@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c131dcea740cf81b35580ae7"
+canonical_name: "Čerkasai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Čerkasai"]
+sameAs: []
+canonical_biography: "Čerkasų pilis kartu su Belgorodu, Slepovrodžiu ir Kanevu pasidavė Gediminui po jo įsitvirtinimo Kijeve."
+place_authority: true
+historical_names: []
 ---
 # Čerkasai
 
@@ -76,7 +85,8 @@ media_all_json: |-
 - id: c-168684
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Visi luo­
     mai, išėję iš miesto, sveikino

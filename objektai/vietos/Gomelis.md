@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-23a7f730d713d099f6948adb"
+canonical_name: "Gomelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gomelis"]
+sameAs: []
+canonical_biography: "Uzos upė įteka į Sožą truputį žemiau Gomelio. Apie 1447 m. Švitrigaila gavo Homelį iš Kazimiero."
+place_authority: true
+historical_names: []
 ---
 # Gomelis
 

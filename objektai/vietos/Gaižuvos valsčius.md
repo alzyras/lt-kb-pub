@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-79ac13c694365ad9223e23b7"
+canonical_name: "Gaižuvos valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gaižuvos valsčius"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo metu brolis Meinhardas, magistras, nesitenkindamas lietuviams pridarytais nuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius, viską čia didžiausiais gaisrais. Dusburgietis teigia, kad 535 D.— Gesovie, Jer.— Geisow, Gaižuva (SZM, p. 214, 215), į rytus nuo Dubysos žiočių, į šiaurės vakarus nuo Vilkijos. Dusburgietis teigia, kad tada jis padalijo savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo."
+place_authority: true
+historical_names: []
 ---
 # Gaižuvos valsčius
 
@@ -112,7 +121,8 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 - id: c-86227
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
   citata_originali: |
     Apie Paštuvos ir Gaižuvos valsčių nuniokojimą
     1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
@@ -133,7 +143,8 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 - id: c-86228
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
   citata_originali: |
     Apie Paštuvos ir Gaižuvos valsčių apiplėšimą
 

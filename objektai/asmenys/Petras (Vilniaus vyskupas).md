@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-86722b20a47c1ba0430c7459"
+canonical_name: "Petras (Vilniaus vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras (Vilniaus vyskupas)"]
+sameAs: []
+canonical_biography: "Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos giminystės."
 ---
 # Petras (Vilniaus vyskupas)
 
@@ -63,7 +70,8 @@ Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos gi
 - id: c-83803
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166."
   citata_originali: |
     Kai
     Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­

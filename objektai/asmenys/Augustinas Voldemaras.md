@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4413290103d8ca37270cea18"
+canonical_name: "Augustinas Voldemaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Augustinas Voldemaras"]
+sameAs: []
+canonical_biography: "Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą. Voldemarui teko skelbti mobilizaciją. Voldemaro vyriausybė neturėjo ginkluotųjų pajėgų."
 ---
 # Augustinas Voldemaras
 
@@ -301,14 +308,13 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 <a id="claim-t-75782"></a>
 - t-016
   teiginys: "1918 m. lapkričio 5 d. Taryba pavedė A. Voldemarui sudaryti pirmą nepriklausomos Lietuvos kabinetą."
-  atnaujinta: "2026-07-19 19:01"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1918 m.; įvykio data: 1929 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-73459
-    - c-73461
 
 <a id="claim-t-75783"></a>
 - t-017
@@ -385,7 +391,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73451
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 145."
   citata_originali: |
     Žinoma, kad lietuviai tapo
     „revizionistais per prievartą“. Pradžioje (ypač užsienio reikalų ministras
@@ -404,7 +411,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73452
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 159."
   citata_originali: |
     Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
     ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
@@ -425,7 +433,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73453
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 149."
   citata_originali: |
     Seimas ir prezidentas (renkamas Seimo) ren-
     kami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje
@@ -447,7 +456,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73454
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 158."
   citata_originali: |
     Prezidentas A. Smetona ir
     ministras pirmininkas A. Voldemaras
@@ -470,7 +480,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73455
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 164."
   citata_originali: |
     Kariuomenėje įtakingi nacionalistai voldemari-
     ninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen.
@@ -489,7 +500,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73456
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 159-160"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 159-160."
   citata_originali: |
     Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
     Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
@@ -516,7 +528,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73457
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 161."
   citata_originali: |
     Po gegužę įvykdyto studen-
     tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
@@ -540,7 +553,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73458
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 158-159"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 158-159."
   citata_originali: |
     Kol kas viešojoje erdvėje dominuoja ekstrava-
     gantiškas, dėl savo oratorinių sugebėjimų geriausiai Vakaruose žinomas
@@ -568,7 +582,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73459
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 137."
   citata_originali: |
     Gavusi naujo Vo-
     kietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba
@@ -594,7 +609,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73460
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 140."
   citata_originali: |
     Būta ir savų klaidų – su nie-
     kuo nesitardamas A. Voldemaras birželio mėnesį, atsakydamas į Didžio-
@@ -614,7 +630,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73461
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška
     orientacija ją kaltinusi lietuvių kairė, lenkai ir net Antantė turėjo pripa-
@@ -637,12 +654,12 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-013
-    - t-016
 
 - id: c-73462
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 156-157"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 156-157."
   citata_originali: |
     Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
     kratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruo-
@@ -676,7 +693,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73463
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 160."
   citata_originali: |
     Vilniaus problema komplikavo ir Lietuvos bažnytinės provincijos su-
     darymo ir konkordato su Vatikanu klausimus. Vyriausybei derantis su
@@ -696,7 +714,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73464
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 137."
   citata_originali: |
     1918 m. lapkričio 2 d. Taryba priėmė Laikinąją konstituciją, pati pagal
     ją tapdama įstatymų leidimo organu, o Tarybos prezidiumas (pirminin-
@@ -721,7 +740,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73465
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 161."
   citata_originali: |
     Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-
     demaras nieko negalėjo pakeisti. Būdamas ir premjeru, ir užsienio rei-
@@ -740,7 +760,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - id: c-73466
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 156."
   citata_originali: |
     Šis sutiko, nes karininkai įvykdė jo
     keltą sąlygą – perversmas pavyko be šūvio.

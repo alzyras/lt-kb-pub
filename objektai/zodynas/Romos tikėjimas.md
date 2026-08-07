@@ -148,7 +148,8 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
 - id: c-168770
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 556"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 556."
   citata_originali: |
     Šis, labiau
     geisdamas plėsti savo valdas, nei paisyti duoto žodžio
@@ -181,7 +182,8 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
 - id: c-170476
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 73."
   citata_originali: |
     76
 
@@ -208,7 +210,8 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
 - id: c-178922
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 76."
   citata_originali: |
     Vyriausias—Jogaila Vladislovas18;
     antras — Skirgaila19, trečias — Švitrigaila30,

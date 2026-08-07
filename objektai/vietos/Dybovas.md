@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-57d4682bb8b0f4cc178804d1"
+canonical_name: "Dybovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dybovas"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Dybove prie Torunės buvusi senovės prūsų šventykla su didžiuliu ąžuolu buvo gerai įtvirtinta dėl artimos sienos."
+place_authority: true
+historical_names: []
 ---
 # Dybovas
 
@@ -61,7 +70,8 @@ Narbutas rašė, kad Dybove prie Torunės buvusi senovės prūsų šventykla su 
 - id: c-171882
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
   citata_originali: |
     Tai buvo 1258 metais“ .
     Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­

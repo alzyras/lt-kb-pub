@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0aa048889174f1ecc268befa"
+canonical_name: "Vladimiras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vladimiras","Vladimire"]
+sameAs: []
+canonical_biography: "Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko kontekste. Maskva, laimėjusi šią kovą prieš Tverę, įsitvirtino ir Vladimire."
+place_authority: true
+historical_names: []
 ---
 # Vladimiras
 
@@ -125,7 +134,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - id: c-32555
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 304."
   citata_originali: |
     Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
     sodino iš pirmųjų vedybų savo sūnus. Jie visi buvo priėmę graikų
@@ -143,7 +153,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - id: c-32556
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 309."
   citata_originali: |
     1384 m. vasarą jis buvo gavęs dalį tėvo valdų, būtent, Gardiną,
     Lietuvos Brastą ir Palenkę su Drohičinu ir Mielniku^8. O mirus
@@ -161,7 +172,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - id: c-168565
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 197."
   citata_originali: |
     Gediminas, pasinaudojęs
     G edim in as,
@@ -191,9 +203,9 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     - t-002
 
 - id: c-184466
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 530"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 530."
   citata_originali: |
     Visų pirma, įėjęs į Volynijos kraš­
     tą, pilį Vladimiro apgulė, kurios įgulė, lygiai su

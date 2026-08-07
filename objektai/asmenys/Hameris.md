@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9cbea04423f31dfa2037718b"
+canonical_name: "Hameris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hameris"]
+sameAs: []
+canonical_biography: "Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekančią iš Kiliklo kalnų ir susiliejančią su Kūra. Narbuto perteikimu Hameris manė, kad Ross Biblijoje ir Korane reiškia Arakso upę, aplinkinį kraštą ir ten gyvenusią tautą. Hameris dar prieš Volianskį mėgino šifruoti senovės tyrinėtojams nesuprantamą užrašą ir perskaitė trečios eilutės pirmą žodį."
 ---
 # Hameris
 
@@ -87,7 +94,8 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
 - id: c-174086
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     72
 
@@ -115,7 +123,8 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
 - id: c-174087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Anot Korano
     aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie
@@ -142,7 +151,8 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
 - id: c-174088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 114."
   citata_originali: |
     Ponas Hameris dar prieš poną Volianskį mėgino šif­
     ruoti tą visiškai senovės tyrinėtojams nesuprantamą už­

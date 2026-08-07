@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8317776e34be7ce483b0fc91"
+canonical_name: "Judas Makabėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Judas Makabėjus"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas Makabėjus — šventąją Prūsijos žemę, kurią tenykštės gentys teršė stabmeldyste, ir dabar čia kas dieną aukojama dievui Šlovės ir garbės auka. Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis, nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo, nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė. Dusburgietis teigia, kad šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius (1 Mak 4, 8—11): „Nebijokite jų daugybės ir nenusigąskite jų puolimo."
 ---
 # Judas Makabėjus
 
@@ -90,7 +97,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 - id: c-159381
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 38."
   citata_originali: |
     Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto —
     „gelbėtojas“. Kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia,
@@ -116,7 +124,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 - id: c-159382
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
   citata_originali: |
     Skaitome ir apie Makabėjų, kad
     jo vyrai šaukėsi į dangų melsdamiesi ir išvaikė priešų stovyklas. Apie Judą Makabėjų
@@ -145,7 +154,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 - id: c-159384
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų
     širdis, nebijokite, nesitraukite ir nepabūkite jųjų, nes viešpats, jūsų dievas, yra jūsų
@@ -165,7 +175,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 - id: c-179028
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 35."
   citata_originali: |
     Ir ji kaip Dovydas įsivedė kunigystę ir kas
     dieną šlovina dievo didybę. Štai ir aiškėja, kokių iš tikro didingų ženklų ir galingų stebuklų

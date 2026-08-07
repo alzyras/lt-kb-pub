@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5d7efe4af7e1d70e062a17d"
+canonical_name: "Hameris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hameris"]
+sameAs: []
+canonical_biography: "Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senovės tyrinėtojams nesuprantamą užrašą ir perskaitė trečios eilutės pirmą žodį."
 ---
 # Hameris
 
@@ -46,7 +53,8 @@ Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senov
 - id: c-174490
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 114."
   citata_originali: |
     Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,
     gyvenusią galų kaimynystėje, prie Dnestro.

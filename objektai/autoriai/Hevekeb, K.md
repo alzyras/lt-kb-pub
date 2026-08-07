@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-30fa58df453c86d54c46e6c7"
+canonical_name: "Hevekeb, K"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hevekeb, K"]
+sameAs: []
+canonical_biography: "Hevekeb, K."
 ---
 # Hevekeb, K
 
@@ -62,7 +69,8 @@ Hevekeb, K.
 - id: c-55068
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 350."
   citata_originali: |
     — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.
     Berlin 1906. — Horn, A. : _Tannenberg,_ AM, t. 22, 1885, 637-648 ; t. 23,

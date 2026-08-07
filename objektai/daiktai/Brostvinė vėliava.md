@@ -68,9 +68,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184709
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 452"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 452."
   citata_originali: |
     Vienok noris ir taip nuveikti, kalavijonys nenorėjo
     dar visuotinai pasiduoti, užvis geidė kaip įmaną
@@ -96,9 +96,9 @@ Nenurodyta
     - t-001
 
 - id: c-184710
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 575"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 575."
   citata_originali: |
     Taip apsitvdrtinęs, kunigaikštis Ba­
     varijos leido pulkus meldžionų sarioti į apygardas,

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ddb5cce411f9d270d25395c3"
+canonical_name: "Moralius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Moralius"]
+sameAs: []
+canonical_biography: "Moralius Narbuto išnašoje nurodomas prie aiškinimo apie slavų žodį, reiškusį iš beržo sulos pagamintą giros rūgštį."
 ---
 # Moralius
 
@@ -53,7 +60,8 @@ Moralius Narbuto išnašoje nurodomas prie aiškinimo apie slavų žodį, reišk
 - id: c-175321
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Tai yra šiuolaikinis slavų žo­
     dis, reiškiąs giros rūgštį, pagamintą iš beržo sulos, pa­

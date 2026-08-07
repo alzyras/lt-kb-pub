@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8195ff7c1139370945aa9c47"
+canonical_name: "Mickūnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mickūnai"]
+sameAs: []
+canonical_biography: "Kaip pats prisipažino atsiminimuose, turėjęs „gimti Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­ mas\"2."
+place_authority: true
+historical_names: []
 ---
 # Mickūnai
 
@@ -58,7 +67,8 @@ Kaip pats prisipažino atsiminimuose, turėjęs „gimti Mickūnuose, jei ne tų
 - id: c-82191
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 6."
   citata_originali: |
     Tai didelis jo nuopelnas.
     M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­

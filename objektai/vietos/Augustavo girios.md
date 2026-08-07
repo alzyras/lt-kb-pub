@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b88046b8089cba21d169b4a5"
+canonical_name: "Augustavo girios"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Augustavo girios"]
+sameAs: []
+canonical_biography: "Daugelis kronikų aprašė ir Europoje plačiai išgarsino tai, kaip jis bemedžiodamas, ar bežygiuodamas į priešo kraštą, Lietuvos pasienyje (Augustavo giriose) 1361 m. pakliuvo į kryžiuočių nelaisvę."
+place_authority: true
+historical_names: []
 ---
 # Augustavo girios
 
@@ -58,7 +67,8 @@ Daugelis kronikų aprašė ir Europoje plačiai išgarsino tai, kaip jis bemedž
 - id: c-33792
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 256."
   citata_originali: |
     Kovose jis yra parodęs daug vikrumo. Daugelis kronikų
     aprašė ir Europoje plačiai išgarsino tai, kaip jis bemedžiodamas,

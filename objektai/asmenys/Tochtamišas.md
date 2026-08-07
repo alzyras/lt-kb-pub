@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9975891cb7e76df8c4e23e7f"
+canonical_name: "Tochtamišas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tochtamišas"]
+sameAs: []
+canonical_biography: "Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro globojamas, vėliau (1391) buvo jo sumuštas. Tad 1396 m. Tochtamišas su savo šalininkais ir gausia šeima prisiglaudė Lietuvoje."
 ---
 # Tochtamišas
 
@@ -139,7 +146,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - id: c-30300
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 322."
   citata_originali: |
     Tad 1396 m. Tochtamišas su
     savo šalininkais ir gausia šeima prisiglaudė Lietuvoje. Jis tikėjosi
@@ -155,7 +163,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - id: c-42272
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     O Vytautas atsakęs:
     „caro Tochtamišo neišduosiu, o su caru
@@ -181,7 +190,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - id: c-103024
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 321."
   citata_originali: |
     Tam įdomios progos davė kilę nesutikimai pačioje Aukso
     ordoje. Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo
@@ -198,7 +208,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - id: c-103025
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166."
   citata_originali: |
     Tačiau Vilniaus vyskupas Petras tam
     prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
@@ -232,7 +243,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - id: c-103026
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Greičiausiai Vytauto
     iniciatyva per Maskvos didįjį kunigaikštį

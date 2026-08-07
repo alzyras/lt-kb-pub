@@ -56,7 +56,8 @@ Kojelavičius teigė, kad po Liublino unijos Lietuva liko federacinė valstybė,
 - id: c-176213
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 30."
   citata_originali: |
     Vienok jo istorija yra trumpa ir
     daug dar trūksta, užvis toje daly, kurioj aprašo darbus

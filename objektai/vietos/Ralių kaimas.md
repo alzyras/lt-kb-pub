@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1875e4d4bef11ebdaca2d2b6"
+canonical_name: "Ralių kaimas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ralių kaimas"]
+sameAs: []
+canonical_biography: "Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai sukilo ir išėjo į savo vietas."
+place_authority: true
+historical_names: []
 ---
 # Ralių kaimas
 
@@ -51,7 +60,8 @@ Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai 
 - id: c-45299
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 228."
   citata_originali: |
     Sugrįžę apie 24 val. pas ūkininką, miške ra-
     dome pilna vyrų. Dar saulei netekėjus Ralių k. prie miško pasigirdo

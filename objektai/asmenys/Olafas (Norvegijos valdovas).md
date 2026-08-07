@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e80214b3d2ac08592f17829b"
+canonical_name: "Olafas (Norvegijos valdovas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Olafas (Norvegijos valdovas)"]
+sameAs: []
+canonical_biography: "Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988), kankinyste pasibaigusi šv."
 ---
 # Olafas (Norvegijos valdovas)
 
@@ -34,7 +41,8 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 - id: c-21925
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 26."
   citata_originali: |
     Paminėkime tokią grandinę: Lenkijos valdovo
     Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988),

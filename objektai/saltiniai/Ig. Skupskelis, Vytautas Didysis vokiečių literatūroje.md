@@ -58,7 +58,8 @@ media_all_json: |-
 - id: c-33578
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 388"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 388."
   citata_originali: |
     : Vytautas Didysis, red. P. Šležas, Kaunas
     1930, 253-265 p. — Lappo, J. : _Istorinė Vytauto reikšmė,_ Praeitis, II,

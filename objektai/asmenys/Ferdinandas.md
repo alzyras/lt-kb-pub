@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-006f6cf93fcb52f477502561"
+canonical_name: "Ferdinandas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ferdinandas"]
+sameAs: []
+canonical_biography: "Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando atstovą taikos reikaluose."
 ---
 # Ferdinandas
 
@@ -54,7 +61,8 @@ Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando 
 - id: c-169469
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 651"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 651."
   citata_originali: |
     Vis dėlto, kaip rodo mano šaltiniai, iki Nau­
     jųjų metų nepradėta kalbėtis dėl taikos. Maskvėnų

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-27dc49becf3737645f834b51"
+canonical_name: "Ambrožėjus Mikalojevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ambrožėjus Mikalojevičius"]
+sameAs: []
+canonical_biography: "1624 m. Kauno laivų statytojas Ambrožėjus Mikalojevičius buvo pastatęs bajorui Kaštelai 1 vytinę, o dėl paruoštos medžiagos kitai vytinei susiginčijo tas pats Kaštela ir Kauno miestietis Greiteris."
 ---
 # Ambrožėjus Mikalojevičius
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185483
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 248."
   citata_originali: |
     Už darbą jiems priklausė toks atlyginimas: 17 kapų lietuviškų­
     jų grašių (7 kapas gavo iš karto kaip rankpinigius), 2 statinės rugių, 1 statinė žirnių,

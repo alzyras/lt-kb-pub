@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5f3cd407835eb8b8802016a7"
+canonical_name: "Žalys V"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Žalys V"]
+sameAs: []
+canonical_biography: "E., Žalys V., edit. Žalys V."
 ---
 # Žalys V
 
@@ -61,7 +68,8 @@ E., Žalys V., edit. Žalys V.
 - id: c-22212
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Žalys V. Lietuvos diplomatijos istorija (1925–1940). I tomas. Vilnius, 2007.
   statusas: verified

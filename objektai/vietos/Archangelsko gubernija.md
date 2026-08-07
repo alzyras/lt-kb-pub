@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5e3660c40986b2353a3286cd"
+canonical_name: "Archangelsko gubernija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Archangelsko gubernija","Archangelsko guberniją"]
+sameAs: []
+canonical_biography: "Archangelsko gubernija čia minima kaip Augusto Roberto Niemio dainų ir senųjų runų rinkimo kelionių regionas."
+place_authority: true
+historical_names: []
 ---
 # Archangelsko gubernija
 

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-06333852ab3e7560551347a7"
+canonical_name: "Juodoji jūra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Juodoji jūra","Juodąją marę","objektai/vietos/Uksinė jūra","objektai/vietos/Uksinė marė","Uksinė","Uksinė jūra","Uksinė marė","Uksinėj","Uksinės","Uksinės jūros","Uksinės marė","Uksinės marės","Uksinę"]
+sameAs: []
+canonical_biography: "Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris. Uksinė marė yra svarbus vandens telkinys šiaurės ir rytų regiono geografijoje. Kimerija aprašoma kaip vieta, įsikišusi į Uksinę marę."
+place_authority: true
+historical_names: []
 ---
 # Juodoji jūra
 
@@ -105,7 +114,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - id: c-10491
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 308"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 308."
   citata_originali: |
     tame amžiuje antsigrūdo^1388 iš Azijos tauta, jau gudais, jau lenkais vadinama, kuri pirma užgulė Lietuvos tyrus, šiandien Podolijomis vadinamus, ir taip būtinai atskiedė^1389 lietuvius nuo Uksinės, arba Juodosios, jūros ir nuo upės Dunojaus.
   statusas: verified
@@ -119,7 +129,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - id: c-10492
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 320"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 320."
   citata_originali: |
     išplėtė jos
         rubežių į pietus lig Uksinės, arba Juodosios, jūros, upės Dunojaus ir Vengrų žemės, į rytus lig
@@ -135,7 +146,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - id: c-10493
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 328"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 328."
   citata_originali: |
     - public_note:
     - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -155,7 +167,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - id: c-11080
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 323"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 323."
   citata_originali: |
     - public_note:
     - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -180,7 +193,8 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - id: c-175929
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 179."
   citata_originali: |
     **Prekyba.** Seniausiais laikais lietuviai prekiavo su skandina-
     vais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, to-

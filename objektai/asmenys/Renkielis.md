@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-426649134b0d4c12ac24d654"
+canonical_name: "Renkielis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Renkielis"]
+sameAs: []
+canonical_biography: "Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis perėmė vaistinę, kad ir yra in sua arte [savo me­ ne] puikiai pasiruošęs ir savo profesoriui Necelui prilygs­ tantis, tačiau per tokį dar trumpą laiką nėra pelnęs dide­ lio. 183 ## Puslapis 200 VILNIAUS MIESTO ISTORIJA / TOMAS O po to, norėdamas gauti bent kiek žinių apie vaistinės pajamas, post praestitum juramentum [po prisaikdinimo] po­ no Renkielio, supra realem comportationem [dėl tikresnio pa­ lyginimo] senesniųjų metų."
 ---
 # Renkielis
 
@@ -74,7 +81,8 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
 - id: c-83547
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 199-200"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 199-200."
   citata_originali: |
     Kaip kad paaiškėjo iš maloningojo Necelu
     pavyzdžio, immediate [neseniai] mirusio, kuris, būdamas

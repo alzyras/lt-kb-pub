@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e8e507f7123e2429b2306a9e"
+canonical_name: "Divanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Divanas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo. Dusburgietis teigia, kad kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė. Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­ medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę."
 ---
 # Divanas
 
@@ -80,7 +87,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 <a id="claim-t-59912"></a>
 - t-003
   teiginys: "Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dabaras: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -92,6 +99,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60546
+    - c-167441
 
 <a id="claim-t-59913"></a>
 - t-004
@@ -153,7 +161,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-60542
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
          medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
@@ -177,7 +186,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-60544
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
     netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug
@@ -200,7 +210,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-60545
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
   citata_originali: |
     Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
     Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir
@@ -222,7 +233,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-60546
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     Ten jie narsiai užpuolė Divaną ir nukovė vieną
     jo giminaitį, vardu Dabaras, o visus jo žmones išžudė. Vis dėlto Divanas su nedideliu
@@ -239,7 +251,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-167440
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
   citata_originali: |
     Neilgai trukus broliai, pristigę
     maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
@@ -260,7 +273,8 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - id: c-167441
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     silpna kariuomene prie Gubros upės425. Ten jie narsiai užpuolė Divaną ir nukovė vieną
     jo giminaitį, vardu Dabaras, o visus jo žmones išžudė. Vis dėlto Divanas su nedideliu
@@ -268,10 +282,11 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   citata_rodoma: "silpna kariuomene prie Gubros upės425. Ten jie narsiai užpuolė Divaną ir nukovė vieną\njo giminaitį, vardu Dabaras, o visus jo žmones išžudė. Vis dėlto Divanas su nedideliu\nbūreliu savo karių gėdingai paspruko."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Puolė Divaną: [[objektai/asmenys/Arnoldas Krofas]]

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-97a23ba02c17a45464c72da4"
+canonical_name: "Tapiava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tapiava"]
+sameAs: []
+canonical_biography: "Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme. Kojelavičiaus pasakojime Prūsijos magistras su pagalbininkais nusiaubė Vėluvos ir Tapiavos kraštą."
+place_authority: true
+historical_names: []
 ---
 # Tapiava
 
@@ -66,7 +75,8 @@ Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme. Kojelavi
 - id: c-168673
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 247."
   citata_originali: |
     Kai Algirdas bei Aleksandras
     Karijotaitis su keliomis žygio voromis padalyta kariuo­

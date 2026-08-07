@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee3db741e1473d0a72e7d513"
+canonical_name: "Motiejus Božiminskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus Božiminskis"]
+sameAs: []
+canonical_biography: "Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10."
 ---
 # Motiejus Božiminskis
 
@@ -51,7 +58,8 @@ Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Va
 - id: c-83899
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 316."
   citata_originali: |
     Absalomas Mžiglodas.
     9. Motiejus (arba Matas) Božiminskis, iš bajorų,

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd53ce0f1570d3c44af73dff"
+canonical_name: "J. Jakštas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Jakštas","J. Jakšto","Jakštas","Jakštas, J."]
+sameAs: []
+canonical_biography: "Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento teisėmis dėstė 1940-1943 [44] Vilniaus universitete."
 ---
 # J. Jakštas
 
@@ -62,7 +69,8 @@ Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje ist
 - id: c-03986
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 72."
   citata_originali: |
     Lietuvos istorijos dirvone gana pozityviu būdu pasirodė J.
     Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis

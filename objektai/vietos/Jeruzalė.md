@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-faae38a780a74b02627a6255"
+canonical_name: "Jeruzalė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jeruzalė"]
+sameAs: []
+canonical_biography: "Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios maldininkų."
+place_authority: true
+historical_names: []
 ---
 # Jeruzalė
 
@@ -255,7 +264,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - id: c-67706
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
   citata_originali: |
     Štai šis popiežius Celestinas
     III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
@@ -283,7 +293,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - id: c-67707
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Apie šventosios žemės reikalus
 
@@ -312,7 +323,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - id: c-67708
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
   citata_originali: |
     Nors
     apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai
@@ -351,7 +363,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - id: c-67709
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
   citata_originali: |
     Kronikos šaltiniai
     Jau XIX a. pabaigoje tyrinėjimai parodė, kad Dusburgietis naudojosi ankstesniais
@@ -373,7 +386,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - id: c-67710
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
     žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies
@@ -395,7 +409,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - id: c-67711
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
   citata_originali: |
     Tad popiežius, išklausęs šią
     pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties
@@ -418,7 +433,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - id: c-67712
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241."
   citata_originali: |
     Ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji
     gausų derlių, nes bažnyčių vyskupai ir prelatai, karaliai, kunigaikščiai, grafai, baronai
@@ -444,7 +460,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - id: c-67713
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
   citata_originali: |
     Aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą
     (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai
@@ -469,7 +486,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - id: c-179044
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
   citata_originali: |
     Mat
     prie jo skuba visuotinė bažnyčia, trokšdama išgirsti ir pažinti jo mokymą, nelyginant

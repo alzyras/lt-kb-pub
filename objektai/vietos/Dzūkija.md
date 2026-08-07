@@ -26,6 +26,15 @@ media_all_json: |-
 tags:
   - kraštas
   - vieta
+entity_id: "ent-cb3090ceffe11f1a5297a21e"
+canonical_name: "Dzūkija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dzūkija"]
+sameAs: []
+canonical_biography: "Be to, šios kautynės sunkiomis žiemos sąlygomis suteikė nejkainojamos patirties būsimiems partizanų vadams ir eiliniams jų dalyviams, padidino pasitikėjimą savo jėgomis, o svarbiausia, žinios apie Dzūkijos partizanų sėkmę paskatino ir visur kitur Lietuvoje."
+place_authority: true
+historical_names: []
 ---
 # Dzūkija
 
@@ -49,7 +58,8 @@ Be to, šios kautynės sunkiomis žiemos sąlygomis suteikė nejkainojamos patir
 - id: c-45090
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 236."
   citata_originali: |
     pajėgos ir jas remiantys kolaborantai su-
     vokė, kad negali jaustis saugūs, net ir stam-

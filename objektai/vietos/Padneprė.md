@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a3838cbdc87799345b40523b"
+canonical_name: "Padneprė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Padneprė"]
+sameAs: []
+canonical_biography: "Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąja Dnepro pakrante ties Kijevu, kitapus Dnepro nurodydamas alanus. Pečenegų orda Charoboe turėjo dalį Padneprės žemių tarp Dnepro ir Bugo aukštupio, o jos sostine nurodomas Belotzebo miestas."
+place_authority: true
+historical_names: []
 ---
 # Padneprė
 
@@ -78,7 +87,8 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
 - id: c-175617
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Galima tik daryti gana tikėtiną prielaidą, kuri remia­
     si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
@@ -103,7 +113,8 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
 - id: c-175618
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 107."
   citata_originali: |
     100
     Geografija. Viena dešiniojoje Dnepro pakrantėje gy­

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6ecc8a87341b3b4d1d622e0b"
+canonical_name: "Niujorkas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Niujorkas"]
+sameAs: []
+canonical_biography: "Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o. Landsbergis-Žemkalnis L I E T U V O S I S T O R I J A 174 lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą."
+place_authority: true
+historical_names: []
 ---
 # Niujorkas
 
@@ -56,7 +65,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - id: c-68310
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 174."
   citata_originali: |
     lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą. Nu-
     skridę be nusileidimo 37 val. 11 minučių ir įveikę 6 411 km, antrą tuo
@@ -74,7 +84,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - id: c-68311
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-
     sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-

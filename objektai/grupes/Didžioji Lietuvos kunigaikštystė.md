@@ -34,7 +34,7 @@ media_all_json: |-
 <a id="claim-t-96094"></a>
 - t-001
   teiginys: "Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -82,7 +82,8 @@ media_all_json: |-
 - id: c-90810
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 278."
   citata_originali: |
     Galima spėti, kad Jogaila matomai ieškojo Lietuvai
     naudingo sąlyčio su lotyniško krikšto Europa. Nors valstybėje
@@ -103,7 +104,8 @@ media_all_json: |-
 - id: c-90813
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 271."
   citata_originali: |
     (^264) **n** skyrius: valstybės iškilimas
     Teognosto Rusios metropolitu Algirdo laikais buvo atkaklus lietuvių
@@ -123,7 +125,8 @@ media_all_json: |-
 - id: c-90814
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 278."
   citata_originali: |
     Nors valstybėje
     didelį autoritetą ir politiškai karinį patyrimą turįs Kęstutis tebe­
@@ -144,7 +147,8 @@ media_all_json: |-
 - id: c-90816
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 271."
   citata_originali: |
     Liublino unijos dėsniai. Unijos akto § 3-me išreikšta
     visa jo autorių lenkų idėja: „Didžioji Lietuvos kunigaikštystė
@@ -165,7 +169,8 @@ media_all_json: |-
 - id: c-175853
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 271-272"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 271-272."
   citata_originali: |
     Tokie buvo unijos akto nuostatai, įtraukti į jį, lenkams
     reikalaujant. Lietuviams reikalaujant, Lietuvai buvo paliktas

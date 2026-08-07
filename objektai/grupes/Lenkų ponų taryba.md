@@ -75,7 +75,8 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
 - id: c-01615
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 158."
   citata_originali: |
     Sumanymą iškėlė imperatorius Zigmantas. Jogaila tam pritarė,
     bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vado-
@@ -95,7 +96,8 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
 - id: c-01616
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 158."
   citata_originali: |
     Tuo būdu Vytauto karūnacijos klau-
     simas Lucke liko neišspręstas; jis turėjo būti išspręstas vėliau.

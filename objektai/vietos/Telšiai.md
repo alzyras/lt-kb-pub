@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b56c8795389e5e8ecea268d1"
+canonical_name: "Telšiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Telšiai"]
+sameAs: []
+canonical_biography: "Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose ir kt.)."
+place_authority: true
+historical_names: []
 ---
 # Telšiai
 
@@ -43,7 +52,8 @@ Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, R
 - id: c-03025
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 478"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 478."
   citata_originali: |
     Į ištremtųjų vietas
     buvo privežta rusų, kurie turėjo pasidaryti caro valdžios atrama.

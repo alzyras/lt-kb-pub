@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-65981ae3fa9d6f14853b303c"
+canonical_name: "Pamedė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pamedė"]
+sameAs: []
+canonical_biography: "Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaikštijų (Kulmo, Pamedės, Varmijos ir Sembos), bet ordino galybės laikais nesusipratimų dėl to nebekildavo, nes vyskupais būdavo skiriami tik ordino nariai."
+place_authority: true
+historical_names: []
 ---
 # Pamedė
 
@@ -76,17 +85,24 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 <a id="claim-t-116518"></a>
 - t-003
   teiginys: "Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis išnaršė Pagudę bei Pamedę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Elbingas: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Elbingas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad pagudėnų suburta kariuomenė užpuolė Elbingo pilį."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pagudėnai puolė Elbingas (0.87); Sūduviai puolė Elbingas (0.78)"
   pagrindžia:
-    - c-107350
-    - c-107353
+    - c-107351
 
 <a id="claim-t-116519"></a>
 - t-004
   teiginys: "Petro iš Dusburgo kronikoje Pamedė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -344,7 +360,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-107349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 141."
   citata_originali: |
     Apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis
 
@@ -364,7 +381,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-107350
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Prūsai ir Lietuva
     Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
@@ -378,16 +396,15 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   citata_rodoma: "Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ\n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba\n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),\nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-107351
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     Apie Veklico pilies ir vienos pilaitės sugriovimą
 
@@ -399,14 +416,17 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   citata_rodoma: "Apie Veklico pilies ir vienos pilaitės sugriovimą\n\n  Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,\nantrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė\nvisus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui\npatraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu\nvienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-107352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
     Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
@@ -429,7 +449,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-107353
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
@@ -447,13 +468,13 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-003
     - t-004
 
 - id: c-171688
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
   citata_originali: |
     Moteris, suviliota
     šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
@@ -475,7 +496,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-171689
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
   citata_originali: |
     Šie sakė, kad aukštieji dievai užsiundę tas
     piktas dvasias kaip bausmę už atsisakymą šlovės ir tikėjimo.
@@ -496,7 +518,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-175485
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
   citata_originali: |
     257
     Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­
@@ -514,7 +537,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-175486
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
   citata_originali: |
     Čia buvo senovinės Grevožės,
     Probuto ir kitos pilys. Rytuose ji ribojosi su Pagude ir
@@ -533,7 +557,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-175487
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 354."
   citata_originali: |
     Ypač seniai egzistavo Kulmas, Chetmno, seno­
     vinis Ulmas. Atėjus kryžiuočiams, visos šios tvirtovės ir
@@ -559,7 +584,8 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 - id: c-175488
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
   citata_originali: |
     Ant Grevožos kalno, kur dabar stūkso
     Christburgo pilies griuvėsiai, stovėjo pilis, slėpusi neto­

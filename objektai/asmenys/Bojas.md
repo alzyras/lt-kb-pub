@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-53f5465af403174331be58cf"
+canonical_name: "Bojas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bojas"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kautynėse su Goteriu ir trečią dieną mirė nuo žaizdų. Vienas suomių burtininkas išpranašavo šį liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa laidojo jį itin pagarbiai."
 ---
 # Bojas
 
@@ -67,7 +74,8 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
 - id: c-174138
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Maždaug to
     paties amžiaus pabaigoje švedų karalius Got'brodas irgi
@@ -88,7 +96,8 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
 - id: c-179304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Vienas suomių burtininkas išpranašavo šį
     liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­

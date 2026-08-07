@@ -18,6 +18,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4891ee2ceb4e20e34529c55"
+canonical_name: "Bogdanas Maskevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bogdanas Maskevičius"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Bogdanas Maskevičius
 

@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1d214db42c04fa1c318de23f"
+canonical_name: "Mogiliavas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mogiliavas"]
+sameAs: []
+canonical_biography: "Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes."
+place_authority: true
+historical_names: []
 ---
 # Mogiliavas
 
@@ -93,7 +102,8 @@ media_all_json: |-
 - id: c-105804
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 169."
   citata_originali: |
     Mogiliavas - iš Stepono Batoro, sausio 28 dieną...............................1578 m.
     Privilegija Mogiliavui, kuria gavo Magdeburgo teisę, išspausdinta su prie­
@@ -111,7 +121,8 @@ media_all_json: |-
 - id: c-105805
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 94."
   citata_originali: |
     Žlugus deryboms, rusai
     Padneprėje įsiveržė į rytines LDK valdas ir
@@ -130,9 +141,9 @@ media_all_json: |-
     - t-002
 
 - id: c-184981
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 389"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 389."
   citata_originali: |
     Pagal jį Vilniui buvo skirta 500 kapų grašių norma. Kaunas šį kartą turėjo
     mokėti mažiau - 100 kapų grašių. Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Bres-

@@ -54,7 +54,8 @@ Narbutas posakį „Kad man Periamas sumusztu“ aiškino kaip lietuvių priesai
 - id: c-172468
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
   citata_originali: |
     Antikos žmonės duodavo dvejopas
     priesaikas: vienokią paprastą, kai būdavo prisiekiama kokiam

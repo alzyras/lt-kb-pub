@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4a39c1658cca6745c19af1da"
+canonical_name: "Fridrichas (Rygos vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas (Rygos vyskupas)"]
+sameAs: []
+canonical_biography: "Fridrichas, Rygos vyskupas, bandė sutaikyti Livonijos ordiną ir Lietuvą, pasitelkdamas popiežiaus Jono XXII autoritetą."
 ---
 # Fridrichas (Rygos vyskupas)
 
@@ -54,7 +61,8 @@ Fridrichas, Rygos vyskupas, bandė sutaikyti Livonijos ordiną ir Lietuvą, pasi
 - id: c-169565
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 209."
   citata_originali: |
     Kai šitaip klostėsi reikalai
     Prūsijos pasienyje, Livonija,

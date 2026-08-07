@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7136a9c8f442f1acfb9acaa4"
+canonical_name: "Raibikis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Raibikis"]
+sameAs: []
+canonical_biography: "Raibikio, ltn."
 ---
 # Raibikis
 
@@ -43,7 +50,8 @@ Raibikio, ltn.
 - id: c-41438
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 203."
   citata_originali: |
     Pulko vadas pasigedo 1 bataliono karininkų: ltn. Baniulio,
     ltn. Raibikio, ltn. Čižausko, ltn. Mickaičio ir kitų.

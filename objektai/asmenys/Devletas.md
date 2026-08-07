@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ff3a389dd4bd8eafde3d88f4"
+canonical_name: "Devletas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Devletas"]
+sameAs: []
+canonical_biography: "Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pats paspruko."
 ---
 # Devletas
 
@@ -64,7 +71,8 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 299."
   citata_originali: |
     Kai 1422 met. Devletas pabandė iš
     to protektorato išsivaduoti, neteko sosto ir vos gyvas pats

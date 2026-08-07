@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ab3f5a4e8f8105bfcba029b"
+canonical_name: "Jonušas Svierčiovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonušas Svierčiovskis"]
+sameAs: []
+canonical_biography: "Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis."
 ---
 # Jonušas Svierčiovskis
 
@@ -51,7 +58,8 @@ Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.
 - id: c-44389
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 82."
   citata_originali: |
     Samdinių
     karo stovykloje susirinko 20 raitelių ir

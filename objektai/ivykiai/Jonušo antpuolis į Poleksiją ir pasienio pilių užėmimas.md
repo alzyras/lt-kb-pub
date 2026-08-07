@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-169069
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268."
   citata_originali: |
     Kadangi neseniai per pasiuntinius buvo pra­
     šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei
@@ -106,7 +107,8 @@ Nenurodyta
 - id: c-176084
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268."
   citata_originali: |
     Vytautas, iš draugų apie
     viską sužinojęs, spėjo su pamote Birute pasitraukti į

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-848bfa2906eb33838b0bc08e"
+canonical_name: "Loebau"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Loebau"]
+sameAs: []
+canonical_biography: "Nuo Torno Drevencos krantu iki Loebau (VII."
+place_authority: true
+historical_names: []
 ---
 # Loebau
 
@@ -70,7 +79,8 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
 - id: c-28299
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 347."
   citata_originali: |
     Nuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo
     pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę
@@ -87,7 +97,8 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
 - id: c-167760
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 347."
   citata_originali: |
     Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
     magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.

@@ -73,7 +73,8 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
 - id: c-166362
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 348."
   citata_originali: |
     Bajorija laikė save
     visagale: kiekvienas bajoras tarėsi galįs būti išrinktas net
@@ -94,7 +95,8 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
 - id: c-176282
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 93."
   citata_originali: |
     Lenkijos ir Lietuvos valstybės teisių
     sistemos požiūriu įžadas tapo pacta conventa dalimi: taip nuo 1573 m.

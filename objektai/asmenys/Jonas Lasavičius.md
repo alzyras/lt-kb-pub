@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-78b06c66cf8f7521062b58b5"
+canonical_name: "Jonas Lasavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Lasavičius"]
+sameAs: []
+canonical_biography: "Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko, paskui Vilniaus vyskupas nuo 1462 m. iki 1481 m., katedroje įrengęs Vyskupų koplyčią."
 ---
 # Jonas Lasavičius
 
@@ -63,7 +70,8 @@ Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko, paskui Vilniaus v
 - id: c-83703
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 207-208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 207-208."
   citata_originali: |
     1 9 1
 

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1c9fa6d090dcf9a12f60c065"
+canonical_name: "Ivanas Ganeckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas Ganeckis"]
+sameAs: []
+canonical_biography: "Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eskadrono gvardijos kazokų ir 50 Dono kazokų - iš viso per 1500 karių. Ganeckiui žygiuoti į Ukmergės apskritį Anykščių kryptimi ir sunaikinti ten susibūrusius sukilėlius."
 ---
 # Ivanas Ganeckis
 
@@ -75,7 +82,8 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
 - id: c-44350
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     Rusų pajėgos
     Prieš Sierakausko sukilėlius pasiųstoje
@@ -97,7 +105,8 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
 - id: c-44351
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     Daugelis sukilėlių turėjo tik senus
     titnaginius arba medžioklinius šautuvus.

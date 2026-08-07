@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-66772
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 115."
   citata_originali: |
     Visos šitos derybos ėjo be ordino žinios. Tik kai dėl visko
     buvo susitarta, Vytautas su susirinkusiais pas jį lietuviais išėjo

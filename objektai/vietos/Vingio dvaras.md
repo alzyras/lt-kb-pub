@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-57649731b89a454715e9de1c"
+canonical_name: "Vingio dvaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vingio dvaras"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad žemiau Vingio dvaro, prie Sancinės, buvo vietinių Kroniszkas-Pilnis vadintas apkasas arba piliakalnis."
+place_authority: true
+historical_names: []
 ---
 # Vingio dvaras
 
@@ -54,7 +63,8 @@ Narbutas rašė, kad žemiau Vingio dvaro, prie Sancinės, buvo vietinių Kronis
 - id: c-171968
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
   citata_originali: |
     Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
     ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­

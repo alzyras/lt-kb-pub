@@ -38,7 +38,7 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
 <a id="claim-t-186316"></a>
 - t-001
   teiginys: "Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių."
-  atnaujinta: "2026-07-19 17:45"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -54,7 +54,6 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
   vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-169677
-    - c-169678
 
 <a id="claim-t-186317"></a>
 - t-002
@@ -72,19 +71,6 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
   ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=126"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.)\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169678
-
-<a id="claim-t-196349"></a>
-- t-003
-  teiginys: "Kojelavičiaus pasakojime kryžiuočiai per Švitrigailos antrą pabėgimą į Prūsiją baisiai nusiaubė Lietuvą."
-  atnaujinta: "2026-07-24 15:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169678
 
@@ -150,7 +136,8 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
 - id: c-169677
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 362"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 362."
   citata_originali: |
     Gavęs ži­
     nią apie padėtį Lietuvoje, Jogaila pirmas kreipėsi per
@@ -176,7 +163,8 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
 - id: c-169678
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 363."
   citata_originali: |
     Mat Vytautas, gal
     norėdamas pastūmėti Švitrigailą, praradusį kryžiuočių
@@ -199,6 +187,4 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
-    - t-003

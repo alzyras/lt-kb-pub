@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0bf2fbf8b983b926160bca7a"
+canonical_name: "Wł. Semkowiczius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Wł. Semkowiczius"]
+sameAs: []
+canonical_biography: "Semkowiczius, kuris su lenkų Bažnyčios istoriku J."
 ---
 # Wł. Semkowiczius
 
@@ -50,7 +57,8 @@ Semkowiczius, kuris su lenkų Bažnyčios istoriku J.
 - id: c-29551
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 91."
   citata_originali: |
     Prie žymėtinų Lietuvos istorijos tyrinėtojų priklauso svarbių
     jos istorijos šaltinių leidėjas Wł. Semkowiczius, kuris su

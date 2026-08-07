@@ -22,6 +22,15 @@ media_all_json: |-
 tags:
   - gamtinis-objektas
   - vieta
+entity_id: "ent-ff5b089295e0fcc28b92429a"
+canonical_name: "Liaškaus pieva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liaškaus pieva","Liaškaus pievos"]
+sameAs: []
+canonical_biography: "Liaškaus pieva šiame šaltinyje minima kaip vieta, iš kurios, pasak pjovėjų, sklido giedojimo atgarsis."
+place_authority: true
+historical_names: []
 ---
 # Liaškaus pieva
 

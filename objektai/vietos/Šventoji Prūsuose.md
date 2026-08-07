@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-119e24fd3561f2a34abd246a"
+canonical_name: "Šventoji Prūsuose"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventoji Prūsuose"]
+sameAs: []
+canonical_biography: "Šventoji (Szwentoja) Prūsuose minima kaip upė, įtekanti į Elksnės kairįjį krantą arba į Timbrą."
+place_authority: true
+historical_names: []
 ---
 # Šventoji Prūsuose
 
@@ -54,7 +63,8 @@ media_all_json: |-
 - id: c-171979
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 230."
   citata_originali: |
     Tai labai įdomus sutapimas, o galbūt ir
     pamėgdžiojimas reiškinio, apie kurį kalbame*.

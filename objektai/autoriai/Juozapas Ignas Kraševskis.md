@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f490e5cbe0e4ee4e74b34abd"
+canonical_name: "Juozapas Ignas Kraševskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Juozapas Ignas Kraševskis"]
+sameAs: []
+canonical_biography: "Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“. Balins kis, Juozapas Ignas Kraševskis panaudojo gausią archyvinę me džiagą, kronikas ir metraščius, tačiau, būdamas prozininkas rašė puikiu stiliumi. Juozapas Ignas Kraševskis buvo teisus: „Marcinovskis“ ir „Narbuto leidėjas“ tapo neatskiriamais epitetais."
 ---
 # Juozapas Ignas Kraševskis
 
@@ -69,7 +76,8 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
 - id: c-174557
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 446"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 446."
   citata_originali: |
     Enciklopedinės žinios, šviesus protas, publicistiniai suge­
     bėjimai, darbštumas — tai bruožai, kurie buvo būdingi
@@ -92,7 +100,8 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
 - id: c-176802
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 12."
   citata_originali: |
     Nepaisant gana kritiško požiūrio į
     istorijos šaltinius, M. Balinskio Vilniaus istorija neprilygo J. I. Kra­

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-208b8b814ed2a6f1b9247553"
+canonical_name: "P. Šinkūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. Šinkūnas"]
+sameAs: []
+canonical_biography: "Šinkūno, LIETUVOS GEOGRAFIJA. Šinkūno, GEOGRAFIJOS VADOVĖLIS."
 ---
 # P. Šinkūnas
 
@@ -43,7 +50,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 320."
   citata_originali: |
     21. P. Šinkūno, GEOGRAFIJOS VADOVĖLIS. IV-am pradžios mo­
     kyklos skyriui ir I-ai vidurinės mokyklos klasei. Kaina Lt. 3,50.

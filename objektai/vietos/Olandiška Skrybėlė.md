@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-416251b5d2c261a984889965"
+canonical_name: "Olandiška Skrybėlė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Olandiška Skrybėlė"]
+sameAs: []
+canonical_biography: "Senoji Palanga buvo išsidėsčiusi kalvos, vadinamos Olandiška Skrybėle, papėdėje."
+place_authority: true
+historical_names: []
 ---
 # Olandiška Skrybėlė
 
@@ -54,7 +63,8 @@ Senoji Palanga buvo išsidėsčiusi kalvos, vadinamos Olandiška Skrybėle, pap�
 - id: c-171923
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
   citata_originali: |
     156
 

@@ -141,7 +141,8 @@ Nenurodyta
 - id: c-168884
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
   citata_originali: |
     Todėl, sužinojęs, jog skitai
     dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug­
@@ -174,7 +175,8 @@ Nenurodyta
 - id: c-168885
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
   citata_originali: |
     Kunigaikštis Jonas
     Olbrachtas, uoliai vykdyda-
@@ -219,7 +221,8 @@ Nenurodyta
 - id: c-178565
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
   citata_originali: |
     Karalius, jausdamas, jog
     1488 m e ta i

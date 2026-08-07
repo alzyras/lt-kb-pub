@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-205ca2dea3aaa7d50c7dc79a"
+canonical_name: "Veliuonėlė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Veliuonėlė"]
+sameAs: []
+canonical_biography: "Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­ lies ir Gedimino kalno šlaitus."
+place_authority: true
+historical_names: []
 ---
 # Veliuonėlė
 
@@ -52,7 +61,8 @@ Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama P
 - id: c-82231
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 118."
   citata_originali: |
     Ant pilkapio nuo neatme­
     namų laikų visada būdavo statomas kryžius. Mažas upeliu­

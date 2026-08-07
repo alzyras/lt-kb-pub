@@ -68,7 +68,8 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
 - id: c-175734
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
   citata_originali: |
     Jų net pa­
     daugėjo atvykus tautiečiams tiesiai iš gimtų lietuvių že­
@@ -90,7 +91,8 @@ Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio i
 - id: c-179231
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
   citata_originali: |
     Kaip tik tuo metu vyko didelis germanų genčių
     kraustymasis: vandalai, tiuringiai, gepidai, longobarda!

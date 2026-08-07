@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-82890
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50."
   citata_originali: |
     Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
     dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­

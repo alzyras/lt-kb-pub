@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b97e4f43f1e57fd1ca329977"
+canonical_name: "Ditrichas (Velzaco pilies kunigas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas (Velzaco pilies kunigas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nukamuotas Velzaco pilies brolis, mirties akivaizdoje puolęs broliui kunigui Ditrichui ant krūtinės, ilgokai išbuvo ekstazėje ir pamatė daug nuostabių dalykų."
 ---
 # Ditrichas (Velzaco pilies kunigas)
 
@@ -77,7 +84,8 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
 - id: c-60896
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Apie vieną brolį
 

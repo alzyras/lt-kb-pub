@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cc07edb5902bcbfed233d5bd"
+canonical_name: "Krono-kilpinie"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krono-kilpinie"]
+sameAs: []
+canonical_biography: "Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakalnį Krono-kilpinie, aiškintą kaip Kruonio kilpa."
+place_authority: true
+historical_names: []
 ---
 # Krono-kilpinie
 
@@ -54,7 +63,8 @@ Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakaln�
 - id: c-171900
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
   citata_originali: |
     Už Tilžės, žemiau Vingio (Winge) dvaro, prie
     Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­

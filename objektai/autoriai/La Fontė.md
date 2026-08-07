@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a51e3fae2b8e564c2e6bb91"
+canonical_name: "La Fontė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["La Fontė"]
+sameAs: []
+canonical_biography: "La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas (tas pats ir straipsnis „Kobham“); Pogge. La Fontė buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
 ---
 # La Fontė
 
@@ -45,7 +52,8 @@ La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (
 - id: c-177243
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
   citata_originali: |
     Taip anot pono Foigto tyrimų.
     Tautinė senovės prūsų vėliava, kurią nešdavo karo žygiuo­

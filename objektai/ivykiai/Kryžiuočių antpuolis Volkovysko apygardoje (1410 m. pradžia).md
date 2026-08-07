@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-169169
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 373."
   citata_originali: |
     Kai žinia apie šį
     žygį pasiekė karaliaus rūmus, Jogaila, bijodamas, kad

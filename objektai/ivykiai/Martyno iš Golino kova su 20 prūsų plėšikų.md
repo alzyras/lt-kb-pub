@@ -49,12 +49,19 @@ Nenurodyta
 <a id="claim-t-62391"></a>
 - t-001
   teiginys: "Martynas iš Golino su 17 kovos draugų leidosi vytis 20 prūsų, plėšikavusių Lenkijoje."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Martyno iš Golino kova su 20 prūsų plėšikų: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martyno iš Golino kova su 20 prūsų plėšikų\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-167328
+    - c-62990
 
 <a id="claim-t-62392"></a>
 - t-002
@@ -99,7 +106,8 @@ Nenurodyta
 - id: c-62990
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
   citata_originali: |
     Dar apie Martyną iš Golino ir jo nuostabią kovą
 
@@ -111,14 +119,17 @@ Nenurodyta
   citata_rodoma: "Dar apie Martyną iš Golino ir jo nuostabią kovą\n\n  Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino\nleidosi pavymui su 17 kovos draugų. Grįždami iš Lenkijos, prūsai užklupo Martyno\nsargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,\nkiek čia jo bendrų ir kur jie. Sitai padarę, smarkiai juos užpuolė, Martynas bei jo draugai\nnarsiai gynėsi, todėl daug ir vienos, ir kitos šalies karių buvo sunkiai sužeista."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-167328
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Prusai jį
     taip siaubingai kapojo, taip žeidė, kad daugelyje vietų nuo jo kūno tiesiog karojo dideli
@@ -134,5 +145,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

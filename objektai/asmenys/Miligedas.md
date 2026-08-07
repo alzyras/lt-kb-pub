@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7c18c7eb51c3f8aaa4fb8a41"
+canonical_name: "Miligedas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Miligedas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų buvusi sunaikinta. Dusburgietis teigia, kad sitai girdėdamas, Miligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis."
 ---
 # Miligedas
 
@@ -81,7 +88,8 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
 - id: c-60805
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     Sitai girdėdamas,
     Miligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis. Pastebėjęs
@@ -100,7 +108,8 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
 - id: c-60806
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     Mat Bartenšteino pilyje buvo vienas vyras, vardu
     Miligedas, toks drąsus, kad prūsams rodėsi, jog,  jį nukovus, pusė pilies įgulos būtų

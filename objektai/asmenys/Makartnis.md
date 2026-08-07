@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e27dbcee2141f41cca1eaf5"
+canonical_name: "Makartnis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Makartnis"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Makartnį įvardija anglų pasiuntiniu, kurį lydėjo vėlesnis keliautojas Barovas."
 ---
 # Makartnis
 
@@ -54,7 +61,8 @@ Teodoras Narbutas Makartnį įvardija anglų pasiuntiniu, kurį lydėjo vėlesni
 - id: c-174322
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Spėjama, kad šališkas jo aiškin­
     tojas Strabonas daug ką jam priskyrė svetimo. Dažnai

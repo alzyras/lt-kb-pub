@@ -89,7 +89,8 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
 - id: c-45010
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 136."
   citata_originali: |
     Laimėjusi karą,
     Rusija labai sustiprino savo regionines pozicijas, o prieš karą dar

@@ -68,7 +68,8 @@ Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą:
 - id: c-59771
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Tad
     maldaute maldauju tuos, kurie skaitys šią knygą: nesibaiminkite visokeriopų vargų,

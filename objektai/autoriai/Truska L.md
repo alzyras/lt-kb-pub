@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a8c27c8b7a030701f721160a"
+canonical_name: "Truska L"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Truska L"]
+sameAs: []
+canonical_biography: "Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L."
 ---
 # Truska L
 
@@ -77,7 +84,8 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
 - id: c-22200
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Anušauskas A. ir kt. Lietuva, 1940–1990: okupuotos Lietuvos istorija. Vil-
     nius, 2005.
@@ -95,7 +103,8 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
 - id: c-22201
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Vilnius, 2011.
     Truska L. Antanas Smetona ir jo laikai. Vilnius, 1996.

@@ -29,19 +29,26 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1218b34c9664821b54d1e69a"
+canonical_name: "Adomas Chmara (Minsko vaivada, 1720–1805)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adam Chmara","Adomas Chmara","Adomas Chmara (Minsko vaivada, 1720–1805)"]
+sameAs: []
+canonical_biography: "Adomas Chmara buvo būsimasis Minsko vaivada. Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius. Adomo Chmaros gyvenimo datos nurodytos kaip 1720–1805."
 ---
 # Adomas Chmara (Minsko vaivada, 1720–1805)
 
 ## Santrauka
 
-Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius. 1751 m. Palenkės vaivada Mykolas Antanas Sapiega pasiuntė Minsko pavieto iždininką Adomą Chmarą į Vilnių su pinigais už Jedžiotus. Adomo Chmaros gyvenimo datos nurodytos kaip 1720–1805.
+Adomas Chmara buvo būsimasis Minsko vaivada. Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius. Adomo Chmaros gyvenimo datos nurodytos kaip 1720–1805.
 
 ## Teiginiai
 
 <a id="claim-t-200461"></a>
 - t-001
   teiginys: "Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760): 0.85"
@@ -58,20 +65,20 @@ Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius. 1751 m. Pale
 <a id="claim-t-200462"></a>
 - t-002
   teiginys: "1751 m. Palenkės vaivada Mykolas Antanas Sapiega pasiuntė Minsko pavieto iždininką Adomą Chmarą į Vilnių su pinigais už Jedžiotus."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "siunte_i -> Vilnius: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai sakoma, kad Mykolas Antanas Sapiega pasiuntė Adomą Chmarą į Vilnių."
+  ryšio_patikimumas: "susije_su -> Belzas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adomas Chmara (Minsko vaivada, 1720–1805): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Belzas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Chmara (Minsko vaivada, 1720–1805)\" parinktas kaip owner_note_path. Targetas \"Belzas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1751 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys performuluotas pagal citatoje tiesiogiai nurodytas pareigas ir veiksmą. Būsimo Minsko vaivados statusas nepridėtas, nes jo nėra citatoje."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir aiškiai nurodo Adomo Chmaros veiksmą, datą, vietą bei susijusį asmenį. Naujų faktų nepridėta."
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183843
@@ -85,7 +92,7 @@ Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius. 1751 m. Pale
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 03:25"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
     - t-002

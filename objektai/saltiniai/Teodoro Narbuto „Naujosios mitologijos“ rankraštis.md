@@ -81,7 +81,8 @@ Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė a
 - id: c-173409
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 258."
   citata_originali: |
     Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­
     cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­

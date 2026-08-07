@@ -57,7 +57,8 @@ media_all_json: |-
 - id: c-33653
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 307."
   citata_originali: |
     Pirmųjų Gediminaičių
     laikų Lietuvos prekybiniai ryšiai su Vakarais_ , Tautos Praeitis, I, 4, 1962,

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-05dcdf56edb94e3737ada418"
+canonical_name: "Orša"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Orša"]
+sameAs: []
+canonical_biography: "Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską. Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis. Ostrogiškis smarkiai sumušė Mas- kvos kariuomenę ties Orša."
+place_authority: true
+historical_names: []
 ---
 # Orša
 
@@ -71,7 +80,8 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
 - id: c-71598
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 217."
   citata_originali: |
     Visos Maskvos jėgos buvo nu-
     kreiptos į Smolenską. Jis buvo net 3 sykius apgultas ir pagaliau,
@@ -90,7 +100,8 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
 - id: c-71599
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     Tuo
     būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono

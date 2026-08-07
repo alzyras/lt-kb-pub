@@ -70,7 +70,8 @@ media_all_json: |-
 - id: c-12473
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 179."
   citata_originali: |
     Tada pro rinktinę pravažiavo keturios vokiečių
     patrankos. Kareivių ūpas pakilo. Noras buvo ko greičiau atkeršyti už aną dieną. Visų lūpos

@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-44646
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 272."
   citata_originali: |
     p. 228, Sovietų automatinis (pusiau automatinis) šautuvas svT-40, VDKM, Artūro Užgalio nuotr.
     p. 230, Dainavos apygardos kovotojų rankovės antsiuvas, naudotas 1945-1949 metais, GAM.

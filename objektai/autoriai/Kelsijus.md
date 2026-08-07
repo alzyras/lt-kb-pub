@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6913a135e07fb7e86fe6013c"
+canonical_name: "Kelsijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kelsijus"]
+sameAs: []
+canonical_biography: "Narbutas kritiškai vertina Kelsijaus ir Dalino skaičiavimą, kad nuo Kristaus gimimo Baltijos jūra nuseko 13 sieksnių."
 ---
 # Kelsijus
 
@@ -75,7 +82,8 @@ Narbutas kritiškai vertina Kelsijaus ir Dalino skaičiavimą, kad nuo Kristaus 
 - id: c-174558
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Iš tikrųjų kai ku­
     rias sausumas galima laikyti buvusiomis salomis po to,

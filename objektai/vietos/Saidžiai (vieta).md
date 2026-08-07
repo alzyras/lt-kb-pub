@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d07b87f98c2a835ef2bf3e37"
+canonical_name: "Saidžiai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Saidžiai","Saidžiai (vieta)"]
+sameAs: []
+canonical_biography: "Šis užpuolęs prie Saidžių kaimo Sudervės valdoje sustojusias 5 Kauno pirklių vytines ir kaip kranto mokestį pagrobęs iš jų kelias statines druskos ir silkių."
+place_authority: true
+historical_names: []
 ---
 # Saidžiai (vieta)
 
@@ -52,9 +61,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185091
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 223"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 223."
   citata_originali: |
     Vilniaus pilies
     teisme Kauno miestietis ir pirklys Mikalojus Bartkevičius su kitais kauniečiais pir-

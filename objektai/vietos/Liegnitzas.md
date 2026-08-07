@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-45a72d8390e925586787ba13"
+canonical_name: "Liegnitzas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liegnitzas"]
+sameAs: []
+canonical_biography: "Ir iš menkų šaltinių nuotrupų yra įmanoma šiek tiek įžvelgti, jog Mindaugas tuo pat laiku, kai vokiečių ir Silezijos kunigaikščiai prie Liegnitzo (Silezijoje) 1241 m. sulaikė ten totorių tolimesnį veržimąsi Europon, yra atlikęs jai didelę paslaugą."
+place_authority: true
+historical_names: []
 ---
 # Liegnitzas
 
@@ -58,7 +67,8 @@ Ir iš menkų šaltinių nuotrupų yra įmanoma šiek tiek įžvelgti, jog Minda
 - id: c-33924
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 188."
   citata_originali: |
     Ką galima pasakyti apie jaunos Lietuvos valstybės vaidmenį
     sulaikant totorių slinkimą prie Baltijos jūros? Ir iš menkų šaltinių

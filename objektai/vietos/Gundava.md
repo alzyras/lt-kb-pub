@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c1fc9b23e30e035ed1eca33a"
+canonical_name: "Gundava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gundava"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kair. Alnos krante (aukščiau Auktalito, Auglitten); į vakarus nuo kaimo pakrantėje išliko piliakalnis (GAO, p."
+place_authority: true
+historical_names: []
 ---
 # Gundava
 
@@ -63,7 +72,8 @@ Dusburgietis teigia, kad 336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kai
 - id: c-59326
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
   citata_originali: |
     336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kair. Alnos krante (aukščiau Auktalito,
     Auglitten); į vakarus nuo kaimo pakrantėje išliko piliakalnis (GAO, p.

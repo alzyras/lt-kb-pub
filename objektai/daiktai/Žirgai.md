@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-60349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Kartą
     vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė:

@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-98fecd6a618512de3ffc26d6"
+canonical_name: "Pragaro upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pragaro upė"]
+sameAs: []
+canonical_biography: "Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių Pragaro ir Nemuno, kalavijonys nuo antros pusės, tai yra nuo Padaugavio, tuointimpos veržės per Žemgalius į Žemaičius, dykdami visuomet su kryžėjais susinerti."
+place_authority: true
+historical_names: []
 ---
 # Pragaro upė
 
@@ -41,9 +50,9 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
 ## Citatos
 
 - id: c-184499
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 361"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 361."
   citata_originali: |
     Meldžionys, nė nuo
     ko nerasdami atsparo, kur užėjo, ten į tyrą vertė,

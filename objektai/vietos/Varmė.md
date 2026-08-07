@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fbc90efa761c1721b119711f"
+canonical_name: "Varmė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varmė"]
+sameAs: []
+canonical_biography: "Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties. Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių. Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu."
+place_authority: true
+historical_names: []
 ---
 # Varmė
 
@@ -170,7 +179,8 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
 - id: c-87133
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 390-391"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 390-391."
   citata_originali: |
     1514.
     374
@@ -205,7 +215,8 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
 - id: c-87135
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 22."
   citata_originali: |
     Teutonų
     ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
@@ -229,7 +240,8 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
 - id: c-87137
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
     atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
@@ -251,7 +263,8 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
 - id: c-87139
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 91."
   citata_originali: |
     I  KNYGA
     čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­
@@ -286,7 +299,8 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
 - id: c-178889
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 187."
   citata_originali: |
     Vytenis, nese­
     niai laimėjęs, o štai dabar pralaimėjęs, ir niršo, ir py­

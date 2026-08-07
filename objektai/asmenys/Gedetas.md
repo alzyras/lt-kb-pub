@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e26568db4b73dee8e1eb13f7"
+canonical_name: "Gedetas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gedetas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais šimtais vyrų bei moterų jis."
 ---
 # Gedetas
 
@@ -52,7 +59,8 @@ Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs 
 - id: c-167452
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 172."
   citata_originali: |
     Apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­
                    mą ir apie tai, kaip buvo apleista ši žemė

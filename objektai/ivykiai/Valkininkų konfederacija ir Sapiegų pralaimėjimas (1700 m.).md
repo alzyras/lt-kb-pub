@@ -92,7 +92,8 @@ Nenurodyta
 - id: c-75857
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 142-143"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 142-143."
   citata_originali: |
     O LDK bajorijai taip ir nepavyko
 
@@ -126,7 +127,8 @@ Nenurodyta
 - id: c-75862
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 390-391"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 390-391."
   citata_originali: |
     Visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
     Jų kariuomenei vadovavęs hetmono sūnus Mykolas (visi kiti

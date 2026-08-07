@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b2542e2c82c0bf38f4276a3a"
+canonical_name: "Ginvila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ginvila"]
+sameAs: []
+canonical_biography: "Regėjom jau, jog pirm 100 metų Lietuvos urėdas Polocke Ginvila ir jo sūnus Baras ne vien tenai krikščionių gudų nespaudė, bet dar pačiudu per sikrikštijusiu bažnyčias krikščionims strūnijo."
 ---
 # Ginvila
 
@@ -46,9 +53,9 @@ Regėjom jau, jog pirm 100 metų Lietuvos urėdas Polocke Ginvila ir jo sūnus B
 ## Citatos
 
 - id: c-184340
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 569"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 569."
   citata_originali: |
     Kaipogi lietuviai nuo neatmenamų laikų,
     noris patys pagonys, vienok krikščionis gudus tau­

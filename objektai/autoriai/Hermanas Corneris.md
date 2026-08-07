@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fdce5704e5cf2c962c33f581"
+canonical_name: "Hermanas Corneris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Herm. Corneri","Hermanas Corneris","Hermanas Korneris","Hermano Cornerio","Korneris"]
+sameAs: []
+canonical_biography: "Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika cituojama apie Vilniaus miestiečius, Jogailą ir Gedimino laiškų klausimą."
 ---
 # Hermanas Corneris
 
@@ -66,7 +73,8 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
 - id: c-55544
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 109."
   citata_originali: |
     4) Vėlesni kronikininkai: A 1 b.
     K r a n t z, Wand. L. VIII, p. 9, K o j e 1 a v i č i u s, p. 271,
@@ -84,7 +92,8 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
 - id: c-55545
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53."
   citata_originali: |
     Žr. Hermano C  o  r  neri o,
     dominikono, Kroniką, Naruševi­

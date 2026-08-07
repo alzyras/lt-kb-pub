@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-75248
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 143."
   citata_originali: |
     Žinoma, Taikos sutartis, pasirašyta Maskvoje, būtų nieko verta, jei Len-
     kija nebūtų sumušusi Rusijos bolševikų, nes šie intensyviai ruošė sukilimą

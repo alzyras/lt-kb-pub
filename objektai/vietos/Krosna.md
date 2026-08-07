@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cbe5bb9481ca94c017d5a6b7"
+canonical_name: "Krosna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krosna"]
+sameAs: []
+canonical_biography: "Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusėje, tęsiasi 3-4 km pločio ir apie 8 km ilgio kalvotas, mišrus Kalniškės miškas. Žuvo jis apie 1946 m., kūnas buvo numestas ant grindinio Krosnoje."
+place_authority: true
+historical_names: []
 ---
 # Krosna
 
@@ -78,7 +87,8 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
 - id: c-76476
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 225-226"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 225-226."
   citata_originali: |
     Taip pat naudotas ir
     Lietuvos partizanų
@@ -108,7 +118,8 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
 - id: c-76477
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 226."
   citata_originali: |
     Prieš mūšį
 

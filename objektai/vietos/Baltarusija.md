@@ -35,6 +35,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15ad7262505abeca24e1ad68"
+canonical_name: "Baltarusija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Baltarusija"]
+sameAs: []
+canonical_biography: "Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti Lietuva, o šiandien ją vadiname istorine Lietuva. Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moderniosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija, Ukraina. Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
+place_authority: true
+historical_names: []
 ---
 # Baltarusija
 
@@ -219,7 +228,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 - id: c-24058
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 14."
   citata_originali: |
     Manoma, kad jei
     ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos var-
@@ -242,7 +252,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 - id: c-24060
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 36."
   citata_originali: |
     Tai šiek tiek primena frankus Galijoje,
     t. y. germanų gentį, sukūrusią valstybę ir valdžios struktūras Galijoje ir
@@ -265,7 +276,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 - id: c-24061
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 258."
   citata_originali: |
     bendradarbiavimo ir dėl valstybės sienos. Gerai klostėsi ekonominiai san-
     tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
@@ -283,7 +295,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 - id: c-73805
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 18-19"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 18-19."
   citata_originali: |
     Visa tai buvo ne kas
 
@@ -307,7 +320,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 - id: c-73806
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 257-258"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 257-258."
   citata_originali: |
     Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe –
     Baltarusija, su ja 1991 m. spalį pasirašė Deklaraciją dėl geros kaimynys-
@@ -331,7 +345,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 - id: c-168287
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 469"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 469."
   citata_originali: |
     Negi jie mano, jog Že­
     maitija, ginklu ketinanti paremti Mykolą, būsianti klus­
@@ -354,7 +369,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 - id: c-175381
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
   citata_originali: |
     Tokių kalvų kartais randama išsibarsčiusių laukuose,
     netgi sausose pievose po dvi, kelias, o kai kur jų esti la­
@@ -384,7 +400,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 - id: c-177319
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 382"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 382."
   citata_originali: |
     Iš to žinoma, kad pilkapius pildavo tiesiog ant
     žemės paviršiaus, nekasdami po jais jokių duobių.
@@ -404,7 +421,8 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 - id: c-179363
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
   citata_originali: |
     Tokių kalvų kartais randama išsibarsčiusių laukuose,
     netgi sausose pievose po dvi, kelias, o kai kur jų esti la­

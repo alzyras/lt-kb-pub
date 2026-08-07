@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c0ff4cef4382100fdfa5d557"
+canonical_name: "Beresnevičius (vyskupas, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Beresnevičius","Beresnevičius (vyskupas, XIX a.)"]
+sameAs: []
+canonical_biography: "Basanavičius Beresnevičių siejo su lenkų kalbos sugrąžinimu į kai kurias lietuviškas Kauno vyskupystės bažnyčias po Valančiaus mirties."
 ---
 # Beresnevičius (vyskupas, XIX a.)
 

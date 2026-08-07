@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f16089cdec51fbe8487b6f77"
+canonical_name: "Konradas (Mazovijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas (Mazovijos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino. Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir įbaugintas, kad nė. Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti."
 ---
 # Konradas (Mazovijos kunigaikštis)
 
@@ -187,7 +194,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 - id: c-60562
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams
 
@@ -209,7 +217,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 - id: c-60563
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     3. Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
 
@@ -232,7 +241,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 - id: c-60564
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45-46."
   citata_originali: |
     Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
     kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
@@ -263,7 +273,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 - id: c-60565
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Apie tai, kaip prūsai niokojo Kulmo žemę
 
@@ -284,7 +295,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 - id: c-60566
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
 
@@ -309,7 +321,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 - id: c-179030
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Mat jie
     buvo tokie užkietėję nedorėliai, kad jokie išganingi įkalbinėjimai nestengė jų atitraukti
@@ -328,7 +341,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 - id: c-179031
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo į širdį, jog jis
     sumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad

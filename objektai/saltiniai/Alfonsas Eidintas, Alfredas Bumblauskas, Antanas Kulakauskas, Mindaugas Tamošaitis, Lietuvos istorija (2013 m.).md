@@ -124,7 +124,8 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
 - id: c-16234
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 10."
   citata_originali: |
     1990 m. kovo 11 d. atkūrusi nepriklausomybę,
     2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
@@ -153,7 +154,8 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
 - id: c-16235
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 10."
   citata_originali: |
     Tai iš-
     skirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį,
@@ -186,7 +188,8 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
 - id: c-16237
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 11."
   citata_originali: |
     Dėl ribotos šios is-
     torijos apimties atsisakyta detalesnės ekonominės, socialinės ir kultūrinės
@@ -213,7 +216,8 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
 - id: c-16251
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 10."
   citata_originali: |
     Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
     reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
@@ -243,7 +247,8 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
 - id: c-16252
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 11."
   citata_originali: |
     arba išbarstyti Lietuvos veidai“), apie lietuvių gyvenimą Rusijos imperi-
     joje 1795–1915 m. parašė Vytauto Didžiojo universiteto prof. Antanas
@@ -269,7 +274,8 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
 - id: c-16253
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 280"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 280."
   citata_originali: |
     Lietuvos istorija. – Vilnius: Vilniaus universitetas, Vilniaus universiteto
     leidykla, 2012. – 280 p.
@@ -283,7 +289,8 @@ Tai Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošai�
 - id: c-16270
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 280"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 280."
   citata_originali: |
     Ši knyga siekia pateikti atsakymą į klausimą, kuris Lietuvos žmonėms yra vienas
     svarbiausių: kaip gimė Lietuva ir kodėl mūsų valstybė yra ne atsitiktinumų ar

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b9722c02621fd332ab8a7ac0"
+canonical_name: "Martynas Liuteris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Martynas Liuteris"]
+sameAs: []
+canonical_biography: "1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų."
 ---
 # Martynas Liuteris
 
@@ -94,7 +101,8 @@ media_all_json: |-
 - id: c-79030
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 299."
   citata_originali: |
     Tik po dvejų metų kapitula, patyrusi, kad
     jau po visą sostinę pasklido kitatikystė, ėmė raginti vysku­
@@ -129,7 +137,8 @@ media_all_json: |-
 - id: c-176297
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 60."
   citata_originali: |
     Ankstes-
     nės lietuvių kilmės iš romėnų idėjos pagrindu formuojasi samprata, kad

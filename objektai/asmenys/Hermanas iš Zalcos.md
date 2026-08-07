@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a4a2c4f2f431476c3433d35"
+canonical_name: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["brolis Hermanas","brolis Hermanas iš Zalcos","Hermanas","Hermanas iš Zalcos","Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)","Hermanui iš Zalcos","Hermaną iš Zalcos","magistras Hermanas","Teutonų ordino didysis magistras","Teutonų ordino generalinis magistras"]
+sameAs: []
+canonical_biography: "Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, siekęs sustiprinti Ordiną; jo vadovavimo laikui priskiriamas Ordino iškilimas, privilegijos, relikvijos gavimas ir kunigaikščio titulo suteikimas magistrams."
 ---
 # Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)
 
@@ -151,7 +158,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 <a id="claim-t-89826"></a>
 - t-007
   teiginys: "Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Elbingas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -164,9 +171,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siuntė į Elbingas (0.90)"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
-    - c-56083
     - c-56084
-    - c-85752
 
 <a id="claim-t-89827"></a>
 - t-008
@@ -187,7 +192,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 <a id="claim-t-89828"></a>
 - t-009
   teiginys: "Fridrichas II perleido Hermanui šventojo kryžiaus dalį, o šis ją nusiuntė į Elbingo pilį."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Elbingas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -201,7 +206,6 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-56083
-    - c-56084
 
 <a id="claim-t-89829"></a>
 - t-010
@@ -287,7 +291,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 <a id="claim-t-89834"></a>
 - t-015
   teiginys: "1243 m. popiežius Inocentas IV iš Hermano iš Zalcos pareiškimų sužinojo apie Prūsijos krikščionių nuostolius dėl Sventopelko."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1243 m."
@@ -347,7 +351,8 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - id: c-56082
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
     Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
@@ -367,7 +372,8 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - id: c-56083
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Dievas jam buvo suteikęs tokių malonių,
     kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
@@ -385,13 +391,13 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
     - t-009
 
 - id: c-56084
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Kai venedai buvo smarkiai sutramdyti  po maišto, sukelto
     prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
@@ -411,12 +417,12 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
-    - t-009
 
 - id: c-56085
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Kartą, kai popiežius Honorijus III
     ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
@@ -440,7 +446,8 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - id: c-85746
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
   citata_originali: |
     „Pranešimo apie Prūsijos užkariavimą“, priedo prie Naujesniosios didžiųjų magistrų
     kronikos, XVI a. nuorašas aptiktas Ordino archyve Vienoje. Leidėjai jį priskyrė Hermanui
@@ -456,7 +463,8 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - id: c-85747
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
   citata_originali: |
     5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą
     Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,
@@ -481,7 +489,8 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - id: c-85749
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
   citata_originali: |
     Apie brolį Hermaną, trečią magistrą
 
@@ -508,7 +517,8 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - id: c-85750
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
   citata_originali: |
     Išrinktas
     magistru, jis, matydamas, koks silpnas esąs Ordinas, pareiškė pokalbyje su kai kuriais
@@ -527,7 +537,8 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - id: c-85751
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Kaip Teutonų namų ordino broliams atiteko Livonijos žemė
 
@@ -547,7 +558,8 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - id: c-85752
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Jį didžiai vertino ir popiežius, ir imperatorius, nekalbant apie kitus kunigaikščius bei
     didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
@@ -566,13 +578,13 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
     - t-012
 
 - id: c-85753
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
   citata_originali: |
     Tyrinėjimai rodo, jog pranešimas
     parašytas ryšium su 1247—1248 m. procesu, kuris vyko ir Romoje, popiežiaus kurijoje,
@@ -593,7 +605,8 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - id: c-85754
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
   citata_originali: |
     Pasiuntinys apaštališkojo sosto vardu
     parašė minėtajam kunigaikščiui, įsakydamas liautis persekioti tikėjimą ir tikinčiuosius.

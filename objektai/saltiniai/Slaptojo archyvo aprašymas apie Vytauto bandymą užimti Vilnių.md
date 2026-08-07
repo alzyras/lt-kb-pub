@@ -50,7 +50,8 @@ Vytautas, žlugus viltims, vėl buvo priverstas ieškoti 19 Visą tą pasakojim�
 - id: c-84453
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 133."
   citata_originali: |
     Vytautas, žlugus viltims, vėl buvo priverstas ieškoti
     19

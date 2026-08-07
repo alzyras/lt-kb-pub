@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c431b457c0f4976ddfa54db0"
+canonical_name: "Perudžija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Perudžija"]
+sameAs: []
+canonical_biography: "Pasiuntiniai rado popiežių Perudžijoje (Š."
+place_authority: true
+historical_names: []
 ---
 # Perudžija
 
@@ -53,7 +62,8 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 119."
   citata_originali: |
     Pasiuntiniai rado popiežių Perudžijoje
     (Š. Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę

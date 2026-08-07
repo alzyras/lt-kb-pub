@@ -192,7 +192,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - id: c-55711
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 20."
   citata_originali: |
     Visoje Italijoje Otono Didžiojo laikais
     miestai, jau pajutę savo galią, nusikratė teutonų pareigūnų
@@ -216,7 +217,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - id: c-55713
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248."
   citata_originali: |
     Tad 1505 metais, kai tie barbarai buvo mažumėlę
     aprimę, karalius savo sprendimu atleido Vilniaus gyvento­
@@ -240,7 +242,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - id: c-85389
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
   citata_originali: |
     Apie Rygos miesto sugriovimą
 
@@ -265,7 +268,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - id: c-85390
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 39."
   citata_originali: |
     Pagaliau nemažai įvairių tenykš­
     čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­
@@ -288,7 +292,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - id: c-85391
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248-249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248-249."
   citata_originali: |
     Tačiau šis karaliaus nurodymas gal taip greitai ne­
     būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
@@ -316,7 +321,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - id: c-85392
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 23-24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 23-24."
   citata_originali: |
     7
 

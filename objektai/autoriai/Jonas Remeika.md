@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-10e91daab76592a17ba59f23"
+canonical_name: "Jonas Remeika"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jonas Remeika"]
+sameAs: []
+canonical_biography: "Artėjant Vytauto mirties metinėms Jonas Remeika (1891-1972) 1928 m. Kaune prie leidinyje Tauta ir žodis paskelbtos savo studijos Der Handel auf der Memel von Anfang der 14."
 ---
 # Jonas Remeika
 
@@ -46,9 +53,9 @@ Artėjant Vytauto mirties metinėms Jonas Remeika (1891-1972) 1928 m. Kaune prie
 ## Citatos
 
 - id: c-185561
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 17"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 17."
   citata_originali: |
     Artėjant Vytauto mirties metinėms Jonas Remeika (1891-1972) 1928 m. Kaune
     prie leidinyje Tauta ir žodis paskelbtos savo studijos Der Handel auf der Memel

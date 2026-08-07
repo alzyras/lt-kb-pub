@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1d21d5ff040b8c75a5ad8fa0"
+canonical_name: "Andrius Rudamina"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Andrius Rudamina","Andrių Rudaminą"]
+sameAs: []
+canonical_biography: "Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje misionieriavęs 1626–1634 m. ir rašęs asketikos veikalus kinų kalba."
 ---
 # Andrius Rudamina
 
@@ -45,7 +52,7 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 <a id="claim-t-23221"></a>
 - t-001
   teiginys: "Andrius Rudamina buvo Vilniaus universiteto auklėtinis."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1626-1634; įvykio data: 1634 m."
@@ -56,7 +63,7 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 <a id="claim-t-23222"></a>
 - t-002
   teiginys: "Rudamina 1626–1634 m. misionieriavo Kinijoje."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1626-1634; įvykio data: 1634 m."
@@ -67,7 +74,7 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 <a id="claim-t-23223"></a>
 - t-003
   teiginys: "Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1626-1634; įvykio data: 1634 m."
@@ -122,7 +129,8 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 - id: c-65256
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 82."
   citata_originali: |
     Be to, reikia neužmirš-
     ti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios
@@ -141,7 +149,8 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 - id: c-166732
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 82."
   citata_originali: |
     Kad toks universiteto vaidmuo nėra vien formalus, buvo
     aišku jau akademiją steigusiems jėzuitams. Vienas jų tada rašė: „Reikia

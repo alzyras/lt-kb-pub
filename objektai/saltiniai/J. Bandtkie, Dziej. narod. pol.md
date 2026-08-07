@@ -41,9 +41,9 @@ Kaipogi kol pamarionys buvo pagonimis, tol Lietuvos giminės juos 1 J, B a n d t
 ## Citatos
 
 - id: c-184801
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 164"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 164."
   citata_originali: |
     Kaipogi kol pa-
     marionys buvo pagonimis, tol Lietuvos giminės juos

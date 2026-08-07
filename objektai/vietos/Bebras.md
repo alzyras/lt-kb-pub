@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b253f99f622a15519d70242"
+canonical_name: "Bebras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bebras"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab."
+place_authority: true
+historical_names: []
 ---
 # Bebras
 
@@ -43,7 +52,8 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
 - id: c-59319
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 308."
   citata_originali: |
     Bebirvytis (2-sis)
       Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u.

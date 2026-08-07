@@ -85,7 +85,8 @@ Nenurodyta
 - id: c-172683
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 387"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 387."
   citata_originali: |
     Tai
     buvo atpildas dorovingiesiems; priešingai, nedorųjų ir nusi­
@@ -114,7 +115,8 @@ Nenurodyta
 - id: c-177023
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 385."
   citata_originali: |
     Tęsiasi nepertraukia­
     ma tyla, niekas neišdrįsta nei sujudėti, nei sukelti mažiausią šla­
@@ -138,7 +140,8 @@ Nenurodyta
 - id: c-179087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 386"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 386."
   citata_originali: |
     Mirusiųjų vėles pir­
     miausia kviesdavo į pirtį, kur kiekvienai iš pakviestųjų buvo pa­

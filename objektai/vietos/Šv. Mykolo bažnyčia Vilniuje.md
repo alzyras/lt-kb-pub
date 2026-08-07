@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-db030fe46d295b622ea64e3b"
+canonical_name: "Šv. Mykolo bažnyčia Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Mykolo bažnyčia Vilniuje"]
+sameAs: []
+canonical_biography: "Mykolo bažnyčia buvo išmūryti didieji maldos namai."
+place_authority: true
+historical_names: []
 ---
 # Šv. Mykolo bažnyčia Vilniuje
 
@@ -57,7 +66,8 @@ Mykolo bažnyčia buvo išmūryti didieji maldos namai.
 - id: c-82265
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 299-300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 299-300."
   citata_originali: |
     5 pasakoja, kad
     „kapitula, gavusi žinių apie kažko­

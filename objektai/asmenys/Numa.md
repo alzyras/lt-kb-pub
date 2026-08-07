@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f016c601185ea0e4eb771f0"
+canonical_name: "Numa"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Numa"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus; šitai nepatiko nei. Dusburgietis teigia, kad minėtieji Numa ir 520 D."
 ---
 # Numa
 
@@ -86,7 +93,8 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
 - id: c-60817
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 173."
   citata_originali: |
     Apie bartų sugrįžimą ir daugybės lietuvių žūtį
     Kai broliai rengėsi pulti anksčiau minėtąją Gardino pilį, kurie ne kurie bartai,
@@ -111,7 +119,8 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
 - id: c-60818
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
   citata_originali: |
     Minėtieji Numa ir
       520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos

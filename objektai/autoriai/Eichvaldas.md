@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac7f9695fe7e5f2700732acb"
+canonical_name: "Eichvaldas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Eichvaldas"]
+sameAs: []
+canonical_biography: "Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų, o grįžo dešiniąja pakrante."
 ---
 # Eichvaldas
 
@@ -44,7 +51,6 @@ Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki 
   ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Teiginyje Darijus aiškiai siejamas su žygiu iki Lietuvos gubernijų."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Darijus surengė žygį į Minskas (0.86)"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174522
@@ -54,7 +60,8 @@ Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki 
 - id: c-174522
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 58."
   citata_originali: |
     Eichvaldo hipotezės esmė būtų tokia: Darijus žygiavo kairiuoju Dnesl-
     ro krantu į šiaurę, į venedų ir finų genties žemes, t. y. iki šiandienių

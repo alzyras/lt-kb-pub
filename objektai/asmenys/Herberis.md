@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1739e454ab601ca8946f8e36"
+canonical_name: "Herberis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Herberis"]
+sameAs: []
+canonical_biography: "Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyventojai esą buvo auksakaliai arba ginklakaliai."
 ---
 # Herberis
 
@@ -54,7 +61,8 @@ Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyvent
 - id: c-174296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 65."
   citata_originali: |
     Iš išlikusių žinių galima teigti, jog jie
     nepriklausę mongolams. Rusų ¡pulkininkas Herberis ap­

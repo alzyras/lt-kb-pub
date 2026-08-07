@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ca483dc3105d974fc4495ff0"
+canonical_name: "Jurga (pasienio seniūnas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurga (pasienio seniūnas)"]
+sameAs: []
+canonical_biography: "Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių."
 ---
 # Jurga (pasienio seniūnas)
 
@@ -64,7 +71,8 @@ Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo s
 - id: c-169583
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 489"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 489."
   citata_originali: |
     Štai todėl, norėdamas išvengti gink­
     luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats

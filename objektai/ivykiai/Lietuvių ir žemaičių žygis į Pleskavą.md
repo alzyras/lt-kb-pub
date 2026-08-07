@@ -59,9 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184679
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 167"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 167."
   citata_originali: |
     Ateinantį metą Jaroslavas, kunigaikštis Naugar- 1191
     do, regėdamas, jog su lietuviais nebebus doros, at­

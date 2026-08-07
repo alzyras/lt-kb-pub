@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92c327a8664f92de5c3a6b04"
+canonical_name: "Saremas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Saremas"]
+sameAs: []
+canonical_biography: "Saremas brolis Otto (Blanehom)."
+place_authority: true
+historical_names: []
 ---
 # Saremas
 
@@ -52,7 +61,8 @@ Saremas brolis Otto (Blanehom).
 - id: c-82082
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 90."
   citata_originali: |
     Myko­
     lo, išverstos iš vokiečių į lotynų kalbą. Be išsamaus išvar­

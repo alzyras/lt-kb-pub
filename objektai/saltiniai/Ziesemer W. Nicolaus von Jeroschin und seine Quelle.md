@@ -58,7 +58,8 @@ Dusburgietis teigia, kad ziesemer W.
 - id: c-62015
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 277"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 277."
   citata_originali: |
     Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906.
   citata_rodoma: "Ziesemer W. Nicolaus von Jeroschin und seine Quelle.— Berlin, 1906."

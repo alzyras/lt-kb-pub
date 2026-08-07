@@ -98,7 +98,8 @@ Nenurodyta
 - id: c-169024
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 307."
   citata_originali: |
     Pats po
     kelių dienų aplankė ordino magistrą (aplankė slapta,
@@ -137,7 +138,8 @@ Nenurodyta
 - id: c-178608
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 306"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 306."
   citata_originali: |
     Visa ši pa­
     dėtis Jogailai buvo labai aiški, vis dėlto, būgštaudamas,

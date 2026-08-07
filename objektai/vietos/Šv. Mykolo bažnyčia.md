@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-59eda045fbc13065211edc82"
+canonical_name: "Šv. Mykolo bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Mykolo bažnyčia"]
+sameAs: []
+canonical_biography: "Šv. Mykolo bažnyčia apibūdinama kaip nedidelė bažnyčia netoli Šv. Onos ir Bernardinų bažnyčių."
+place_authority: true
+historical_names: []
 ---
 # Šv. Mykolo bažnyčia
 

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-be48a8c7f46c00fa4872dfca"
+canonical_name: "Rowell S. C"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Rowell S. C"]
+sameAs: []
+canonical_biography: "Rowell S."
 ---
 # Rowell S. C
 
@@ -62,7 +69,8 @@ Rowell S.
 - id: c-22187
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Wiesbaden, 2006. 329 p.
     Rowell S. C. Lithuania ascending: a pagan empire within east-central Europe,

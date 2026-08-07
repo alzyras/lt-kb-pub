@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a58137742cb26804c2575a0f"
+canonical_name: "Trakų pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trakų pilis","Trakų pilis (pilis)"]
+sameAs: []
+canonical_biography: "Trakų pilis."
+place_authority: true
+historical_names: []
 ---
 # Trakų pilis (pilis)
 
@@ -192,7 +201,8 @@ Trakų pilis.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 272."
   citata_originali: |
     Jau Kestutis 1382 m. per Velykų šventes ataka­
     vęs Jurbarko pilį, pasinaudodamas patrankų baterija. Tuo pat
@@ -215,7 +225,8 @@ Trakų pilis.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 272."
   citata_originali: |
     Vytauto laikais lietuviams nebuvo svetimi ir parako ginklai
     bei patrankos. Jau Kestutis 1382 m. per Velykų šventes ataka­
@@ -236,7 +247,8 @@ Trakų pilis.
 - id: c-90245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131."
   citata_originali: |
     Po
     to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
@@ -257,7 +269,8 @@ Trakų pilis.
 - id: c-90247
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 124-125"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 124-125."
   citata_originali: |
     Dabartinė Vilnelės ir Vilijos san­
     takos vieta tėra Gedimino laikais
@@ -293,7 +306,8 @@ Trakų pilis.
 - id: c-90250
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131."
   citata_originali: |
     Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
     gailos valdymas. Nuolatine savo buveine pasirinkęs Trakų
@@ -319,7 +333,8 @@ Trakų pilis.
 - id: c-171732
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 409"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 409."
   citata_originali: |
     MITOLOGIJOS PABAIGA. 13
     13

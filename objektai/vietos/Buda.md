@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-365c2b90ff7b0e35f672d19d"
+canonical_name: "Buda"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Buda"]
+sameAs: []
+canonical_biography: "Nuo tada Jogaila veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko ofi­ ciali, Skirgailos vadovaujama, delegacija. Krokuvoje ir Budoje ji galutinai sutarė, kas vėliau Kriavo akte (1385.VIII.14) buvo pa­ žadėta."
+place_authority: true
+historical_names: []
 ---
 # Buda
 
@@ -82,7 +91,8 @@ Nuo tada Jogaila veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko
 - id: c-31982
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 289."
   citata_originali: |
     Nuo tada Jogaila
     veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko ofi­
@@ -100,7 +110,8 @@ Nuo tada Jogaila veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko
 - id: c-67544
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
   citata_originali: |
     102. Apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems
 

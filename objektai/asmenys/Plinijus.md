@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-40e1584113fb861d6f3817d4"
+canonical_name: "Plinijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Plinijus"]
+sameAs: []
+canonical_biography: "Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus pastebėtą Saulės, arba Apolono, garbinimą prie Baltijos jūros. Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų palikuonis prie Dono žemupio ir Juodosios jūros. Plinijus rašė, kad spaliai buvo kairiojoje Dono pakrantėje, prie Kimerijos Bosporo, o Narbutas šį teiginį laikė jų senumo ženklu."
 ---
 # Plinijus
 
@@ -387,7 +394,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173083
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 100."
   citata_originali: |
     100
 
@@ -411,7 +419,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173833
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
   citata_originali: |
     71
     Siame žygyje jie ėjo per spalių kraštą, kurio gyvento­
@@ -433,7 +442,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173834
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
   citata_originali: |
     Ta­
     citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
@@ -454,7 +464,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173835
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     Pagaliau, papildydamas aprašymą, cituoju tą
     patį autorių: Welti, Hossii ir Karbony, — tai toliau į
@@ -474,7 +485,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173836
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Jūroje išilgai prūsų pakrančių slypi
     ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie
@@ -498,7 +510,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173837
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 161."
   citata_originali: |
     Šio labai tikslaus istoriko
     ir garbingo senovės krašto tyrinėtojo nuomonė verstų mus
@@ -523,7 +536,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173839
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
@@ -546,7 +560,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173840
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 367."
   citata_originali: |
     kraštą, vadinamą vulgo Balta, id est terra albescens, at­
     plaukia neaprėpiama daugybė žuvų ir silkių, vandens
@@ -579,7 +594,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173841
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 376"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 376."
   citata_originali: |
     Herodotas1 savo geografiniuose aprašymuose, kurie,
     nelaimei, mus pasiekė daug trumpesni, pasakodamas apie
@@ -611,7 +627,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-174850
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 275."
   citata_originali: |
     Senovės tyrinėtojai, pradedant Plinijaus kom­
     piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
@@ -639,7 +656,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-179345
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 366-367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 366-367."
   citata_originali: |
     Joje
     yra labai įdomios detalės: 1) Frische Haff, alias recens

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-74a096a8f3bb32190453a3a0"
+canonical_name: "Šepelievičiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šepelievičiai"]
+sameAs: []
+canonical_biography: "Radvila, jausdamas, kad priešas didelėmis pajėgomis vis tiek tęs puolimą, ėmė trauktis ir 1654 m. rugpjūčio 24 dieną patyrė pirmąjį savo pralaimėjimą prie Šepelievičių."
+place_authority: true
+historical_names: []
 ---
 # Šepelievičiai
 
@@ -59,7 +68,8 @@ Radvila, jausdamas, kad priešas didelėmis pajėgomis vis tiek tęs puolimą, �
 - id: c-45457
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
   citata_originali: |
     Lietuviai neteko maždaug 700 karių; priešų
     žuvo apie 7000. Po mūšio J. Radvila, jaus-

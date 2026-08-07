@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b325d1944fa53107c90bea3f"
+canonical_name: "Jonas Trizna"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Trizna"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Jonas Trizna
 

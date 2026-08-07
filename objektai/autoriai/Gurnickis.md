@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4f6b33c89da89cc76d939bc1"
+canonical_name: "Gurnickis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gurnickis"]
+sameAs: []
+canonical_biography: "Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurnickis šitaip pamini: „Neilgai trukus po to karalius važiavo į Lietuvą, o jam esant Vilniuje, 1540 metais, atėjo ži­ nia, kad karaliui Jonui (vengrų ka­ raliui, Žygimanto Senojo."
 ---
 # Gurnickis
 
@@ -63,7 +70,8 @@ Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurn
 - id: c-84070
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 280-282"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 280-282."
   citata_originali: |
     Il
     Prie jo buvo įkurta Puškarnia, tai

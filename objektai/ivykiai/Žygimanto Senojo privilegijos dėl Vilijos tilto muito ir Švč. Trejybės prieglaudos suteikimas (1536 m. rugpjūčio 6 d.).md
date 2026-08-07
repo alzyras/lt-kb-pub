@@ -160,7 +160,8 @@ Nenurodyta
 - id: c-82858
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 407"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 407."
   citata_originali: |
     Paskui, kai minėtą prieglaudą pastatys ir tin­
     kamai įrengs, tuojau pat dalį to paties tilto mokesčio, mūsų
@@ -191,7 +192,8 @@ Nenurodyta
 - id: c-82859
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 404-405"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 404-405."
   citata_originali: |
     Mes į jo vietą garbingąjį
     Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas
@@ -232,7 +234,8 @@ Nenurodyta
 - id: c-82860
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 406-407"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 406-407."
   citata_originali: |
     Tad tokiai prie­
     glaudai ir joje gyvenantiems vargšams mes karališkąja malo­
@@ -267,7 +270,8 @@ Nenurodyta
 - id: c-82861
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 405"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 405."
   citata_originali: |
     Nederėtų, be
     to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš
@@ -297,7 +301,8 @@ Nenurodyta
 - id: c-82862
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 408"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 408."
   citata_originali: |
     Dėl to taip
     pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis
@@ -328,7 +333,8 @@ Nenurodyta
 - id: c-82863
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 404-405"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 404-405."
   citata_originali: |
     Tie, kuriuos minėtas garbingasis Jonas Hozijus
     388

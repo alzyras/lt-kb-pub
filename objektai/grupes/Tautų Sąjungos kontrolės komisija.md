@@ -60,7 +60,8 @@ Lapkričio 21 d. į frontą atvykusi Tautų Sąjungos kontrolės komisija pareik
 - id: c-44855
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 210."
   citata_originali: |
     Lietuvių kariams pavyko įvykdyti
     gen. S. Žukausko įsakymą ir atsiimti iki

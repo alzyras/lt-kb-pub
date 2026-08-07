@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-503ab473b0e3fce9bdc243d8"
+canonical_name: "Julijona Vitebskietė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Julijona Vitebskietė"]
+sameAs: []
+canonical_biography: "Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaikinta Ragučio maldykla Didžiojoje gatvėje."
 ---
 # Julijona Vitebskietė
 
@@ -66,7 +73,8 @@ Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaiki
 - id: c-172988
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 274."
   citata_originali: |
     Viena tokia buvo Didžiojoje
     gatvėje, prie naujojo žuvų turgaus, kur šiandien jų malonybių

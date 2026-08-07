@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c0588e7cdabbc144dadb563f"
+canonical_name: "Marienverderis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Marienverderis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, „kad dievas palaimintų mums kelią į kaimynines netikėlių žemes“ (III, 9), t. Dusburgietis teigia, kad dėl to, subūrę daugybę karių, antrosios atskalūnybės metais patraukė prie Marienverderio miesto ir, tinkamoje vietoje įrengę pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams]. Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos."
+place_authority: true
+historical_names: []
 ---
 # Marienverderis
 
@@ -82,7 +91,8 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
 - id: c-167564
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Dėl to, subūrę daugybę karių, antrosios
     atskalūnybės metais patraukė prie Marienverderio miesto ir, tinkamoje vietoje įrengę
@@ -104,7 +114,8 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
 - id: c-167565
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Apie antrąjį minėtojo Marienverderio miesto sugriovimą
     Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio

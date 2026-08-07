@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c43a2d05431c387f1ce076d1"
+canonical_name: "Liutauras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liutauras"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė Liutaurą užimti ir vietininko teisėmis valdyti Polocką."
 ---
 # Liutauras
 
@@ -67,7 +74,8 @@ Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė L
 - id: c-172989
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     Todėl Jonas, išvaduodamas nuo nelaimės Po­
     locko ponus, išjojo į Naugardą ir ten tapo vienuoliu. O Lietu­

@@ -23,6 +23,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e42b46bd4a86ca8afc9878f"
+canonical_name: "Jonas Tarnovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Tarnovskis"]
+sameAs: []
+canonical_biography: "Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarnovskis buvo vienas iš Vytauto karūnacijos priešininkų, pasiųstų į Lietuvą atitraukti jį nuo karūnacijos."
 ---
 # Jonas Tarnovskis
 
@@ -71,7 +78,8 @@ Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarno
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 238."
   citata_originali: |
     Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­
     rūnacijos priešininkų, būtent: Zb. Olesnickį ir Joną Tarnovs­
@@ -87,7 +95,8 @@ Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams. Jonas Tarno
 - id: c-42029
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 82."
   citata_originali: |
     Pastariesiems vadovavo
     patyręs karys Jonušas Svierčiovskis.

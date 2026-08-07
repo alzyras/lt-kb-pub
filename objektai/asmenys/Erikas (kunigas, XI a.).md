@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1411c87b20c7def9e8c11c9c"
+canonical_name: "Erikas (kunigas, XI a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Erikas","Erikas (kunigas, XI a.)"]
+sameAs: []
+canonical_biography: "Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėdų, viešpačiu. Nemintąs Erikas, viešpats danų, re gėdamas tokias neteisybes, vokyčių daromas per krikštams, užgynęs buvo savo kunigams ir jomylistoms metuose 1314 Igumijoj, idant, rinkdami de šimtines ar kitas rinkliavas nuo perkrikštų, saikų nefalšavotų, nes senų laikų."
 ---
 # Erikas (kunigas, XI a.)
 
@@ -64,9 +71,9 @@ Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėd
 ## Citatos
 
 - id: c-184751
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 60"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 60."
   citata_originali: |
     Metuose dar 993 kariavęs
     su krobatais ir pečenegais, kurie buvę įgumėję į
@@ -84,9 +91,9 @@ Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėd
     - t-001
 
 - id: c-184752
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 517"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 517."
   citata_originali: |
     Kryžėjai pilėse, o kunigai baž­
     nyčiose; nebebuvo nė kokios vilties, idant kuomet

@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   [{"mediaId":"m-421cb99915ff57f86b0b8a85","title":"Jadwiga by Bacciarelli.jpg","caption":"Jadvygos, Lenkijos karalienės, portretas.","originalTitle":"Jadwiga by Bacciarelli.jpg","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Poczet królów polskich z Zamku Królewskiego w Warszawie Marcelego Bacciarellego [1]","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":757,"height":952,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJadwiga_by_Bacciarelli.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/63/Jadwiga_by_Bacciarelli.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1760s portrait paintings from Poland (female)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Female portrait paintings with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with coordinates missing SDC location of creation","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Jadwiga of Poland in paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"On OSM","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-auto-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Polish Kings by Bacciarelli","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait miniatures with ermine (clothing)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait paintings of queens of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Queens Crown","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Wikiszkoła - władcy i władczynie Polski","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Jadvyga Jogailienė.md","title":"Jadvyga Jogailienė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T17:55:03.437855+03:00","reviewedAt":"2026-07-18T17:56:01.890472+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas karūnuotos karalienės portretas.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai nurodo Queen Jadwiga Anjou; tai Jadvyga, vėliau tapusi Jogailos žmona ir Lenkijos karaliene.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinės Jadvygos atvaizdas.","isPrimary":1}]
+entity_id: "ent-1e7eefa1b1159be5dd813677"
+canonical_name: "Jadvyga Jogailienė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jadvyga Jogailienė","karalienė Jadvyga"]
+sameAs: []
+canonical_biography: "Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.). 1384 m., kada Jadvyga jau buvo atvažiavusi iš Vengrijos į Krokuvą ir buvo vainikuota Lenkijos karaliene, pas Jogailą atvyko speciali lenkų ponų delegacija. Su pačia Jadvyga nebuvo ko kalbėti, nes ji tebuvo dar vos 14 metų mergaitė, buvo įsimylėjusi savo sužadėtinį Vilhelmą ir apie Jogailą nenorėjo nė klausyti. Papildomai išryškinami jos politiniai ginčai su Vytautu dėl kraičiu laikytų Lietuvos ir Rusios žemių, nepalankus požiūris į jo rytų politiką ir mirtis prieš Vorsklos mūšį."
 ---
 # Jadvyga Jogailienė
 
@@ -377,7 +384,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 164."
   citata_originali: |
     Nuo to laiko spėjo prabėgti apie pusantrų metų, bet karalie­
     nė Elžbieta savo pažadų vis neištesėjo. Lenkai ėmė nekantrauti
@@ -401,7 +409,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 163."
   citata_originali: |
     Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
     įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
@@ -423,7 +432,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 179."
   citata_originali: |
     Žodžiu, lenkai norėjo, kad kas teorijoj buvo užfik­
     suota, būtų ir gyvenime realizuojama. Tada Jadvyga „mylimam
@@ -447,7 +457,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - id: c-160431
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 122-123"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 122-123."
   citata_originali: |
     a «* J.« y.vfa1 ft I' W Ji,\V,|<jr iv try.,
     106
@@ -477,7 +488,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 184."
   citata_originali: |
     Tuo būdu po 1398 m. susitarimo
     eita prie naujo. Pastarąjį susiartinimą pagreitino labai netikėta
@@ -497,7 +509,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 179."
   citata_originali: |
     Tą balsą, kaip ir pirma dėl
     Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­
@@ -520,7 +533,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - id: c-160436
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 122."
   citata_originali: |
     Tada atnaujino tikėjimo išpažinimą
     ir Vytautas, gaudamas Aleksandro vardą. Jogaila prie
@@ -539,7 +553,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - id: c-160438
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
     regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
@@ -559,7 +574,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - id: c-160441
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127."
   citata_originali: |
     Stanislovo katedra8. Iškilmingai,
     dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
@@ -585,7 +601,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 119."
   citata_originali: |
     Vilniaus vyskupu paskirtas vysk. Andrius Vosylius Jas­
     trzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­
@@ -608,7 +625,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 119."
   citata_originali: |
     tą, paskirti vyskupą, kapitulą. Tuo reikalu pas popiežių buvo
     siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­
@@ -630,7 +648,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - id: c-160446
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 56-57"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 56-57."
   citata_originali: |
     40
 
@@ -660,7 +679,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 117."
   citata_originali: |
     Kartu su jais atvyko
     keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosylius,
@@ -680,7 +700,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - id: c-176295
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 64."
   citata_originali: |
     Šio karo
     pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-

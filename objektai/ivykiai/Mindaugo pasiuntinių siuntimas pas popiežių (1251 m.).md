@@ -74,7 +74,8 @@ Nenurodyta
 - id: c-33418
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 179."
   citata_originali: |
     Šito įtempimo metu popiežius nuo tolimų Baltijos
     plotų valdovo atvykusiems pasiuntiniams parodė rimto dėmesio.

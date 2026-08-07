@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-12df4ccef58c90f1a66678b2"
+canonical_name: "Redigeris Elneris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Redigeris Elneris"]
+sameAs: []
+canonical_biography: "Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis magistras pasiuntė užimti tą miestą Ordino maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu Elneriu."
 ---
 # Redigeris Elneris
 
@@ -58,7 +65,8 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
 - id: c-83823
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 47."
   citata_originali: |
     Vis dėlto Algirdo valdymo pa­
     baigoje Vilnius neišvengė seniai jam grėsusio pavojaus. Pra­

@@ -53,7 +53,8 @@ Teodoras Narbutas Šventojo Rašto knygose aprašytą senovės pasaulio istorij�
 - id: c-174703
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 35."
   citata_originali: |
     Didžiulis Azijos žemynas, kurio viduryje yra
     aukščiausi viso Žemės rutulio kalnai, pagrįstai laikomas

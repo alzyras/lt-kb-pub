@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ca0ea255aa5a5b38226c1dec"
+canonical_name: "Trentas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trentas"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime slėnyje tarp Veronos ir Trento dar turėję gyventi senovės kimbrų ainiai."
+place_authority: true
+historical_names: []
 ---
 # Trentas
 
@@ -55,7 +64,8 @@ Narbuto pasakojime slėnyje tarp Veronos ir Trento dar turėję gyventi senovės
 - id: c-175676
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
   citata_originali: |
     Mes turime neabejotiną tos
     genties paminklą, rodantį, kad kirnbrų, arba kimerų, gen­

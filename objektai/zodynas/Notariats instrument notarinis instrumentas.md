@@ -73,7 +73,8 @@ Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi
 - id: c-82520
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 111."
   citata_originali: |
     Notariats-Instrument, parengtame 1323 metais Liubeke: Si­
     gillum vero huiusmodi litteris appensum erat rotundum cereum,
@@ -99,7 +100,8 @@ Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi
 - id: c-82521
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 116."
   citata_originali: |
     Tačiau ka­
     dangi daugelis pavienių lietuvių iš diduomenės ir paprastų

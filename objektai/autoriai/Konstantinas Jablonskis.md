@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c908b1b2b64f074881d6bf14"
+canonical_name: "Konstantinas Jablonskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Konstantinas Jablonskis"]
+sameAs: []
+canonical_biography: "Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros istorikas Konstantinas Jablonskis. Konstantinas Jablonskis išrinko gausius lietuviškus žodžius (299) iš senosios Lietuvos valstybės raštinių kalbos ir išleido vertingą šaltinių ištraukų rinkinį: «Lietuviški žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai» (1941). Jablonskis ištisai sudarė 1 t."
 ---
 # Konstantinas Jablonskis
 
@@ -94,7 +101,8 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 - id: c-30654
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 70."
   citata_originali: |
     K. Jablonskis ištisai sudarė 1 t. iš XVI-XVII amžių doku­
     mentų rinkinio « Lietuvos valstiečių ir miestelėnų ginčai su dvarų
@@ -116,7 +124,8 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 - id: c-30655
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 70."
   citata_originali: |
     Buvo tikrai laimingas atvejis, kai Baltarusijos TSR Mokslų
     Akademija (Minskas) Jablonskiui pavedė suredaguoti ir išleisti 1-jį
@@ -139,7 +148,8 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 - id: c-163200
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 69."
   citata_originali: |
     Ten jis paskelbė beveik pusę
     iki tol nespausdintų XVI amž. dvarų, folvarkų, kaimų, miestelių

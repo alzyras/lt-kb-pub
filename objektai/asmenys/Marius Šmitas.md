@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-68c880da217346ef47119964"
+canonical_name: "Marius Šmitas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Marius Šmitas"]
+sameAs: []
+canonical_biography: "p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šmitas ir Pranas Kasteckas 1991 m. pučas, KAM."
 ---
 # Marius Šmitas
 
@@ -66,7 +73,8 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
 - id: c-44452
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM.
 

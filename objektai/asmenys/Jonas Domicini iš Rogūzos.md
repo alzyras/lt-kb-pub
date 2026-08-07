@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9b0ade6219ed46b983187369"
+canonical_name: "Jonas Domicini iš Rogūzos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Domicini iš Rogūzos"]
+sameAs: []
+canonical_biography: "At­ sirado ir savanoris važiuoti į Lietuvą — kardinolas Jonas Do­ micini iš Rogūzos; jam į pagalbą buvo paskirti dar du vysku­ pai."
 ---
 # Jonas Domicini iš Rogūzos
 
@@ -51,7 +58,8 @@ At­ sirado ir savanoris važiuoti į Lietuvą — kardinolas Jonas Do­ micini 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 127."
   citata_originali: |
     Susirinkimas nuta­
     rė pasiųsti prašomus vyskupus Žemaičių vyskupijai įkurti. At­

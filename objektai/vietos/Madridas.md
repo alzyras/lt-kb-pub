@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b3b8b2f5f7b0711aaf3443c0"
+canonical_name: "Madridas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Madridas"]
+sameAs: []
+canonical_biography: "tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės šviesą iki pat Meksikos, Paragvajaus."
+place_authority: true
+historical_names: []
 ---
 # Madridas
 
@@ -51,7 +60,8 @@ tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo kata
 - id: c-24282
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
     ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-

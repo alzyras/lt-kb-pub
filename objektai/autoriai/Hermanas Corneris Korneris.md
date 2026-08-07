@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-10d04e5f3a74f64d10dd866f"
+canonical_name: "Hermanas Corneris Korneris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hermanas Corneris Korneris"]
+sameAs: []
+canonical_biography: "Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Kornerio (Chron."
 ---
 # Hermanas Corneris Korneris
 
@@ -74,7 +81,8 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 - id: c-84004
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53."
   citata_originali: |
     Wilna, 1. 177.
     33
@@ -102,7 +110,8 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 - id: c-84005
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 105."
   citata_originali: |
     Tas pareiškimas prieštarauja Koje-
     1 a v i č i a u s (p. 272), Hermano Kornerio (Chron. p. 1006),

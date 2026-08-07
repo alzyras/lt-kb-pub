@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a0379abdd5aca6350af2257b"
+canonical_name: "Petras Šuiskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Šuiskis"]
+sameAs: []
+canonical_biography: "Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolensko, kita, vadovaujama patyrusio karvedžio kunigaikščio Petro Šuiskio, iš Polocko traukė į Drucką. Šuiskis pajudėjo sausio 23 d. Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai informuotas, pats jis tuo metu buvo tik apie 100 km nuo Polocko, Lukomlyje."
 ---
 # Petras Šuiskis
 
@@ -79,7 +86,8 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 - id: c-44487
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     Prieš mūšį
     1564 m. pradžioje, iš Maskvos į Vilnių dar
@@ -107,7 +115,8 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 - id: c-44488
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     Iš Polocko su savo kariuomene kuni-
     gaikštis P. Šuiskis pajudėjo sausio 23 d.

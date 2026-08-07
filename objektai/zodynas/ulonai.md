@@ -50,7 +50,8 @@ Dabar Lie­ tuvos totoriai praturtėję, iš tiesų visi tarnauja kariuomenėje,
 - id: c-82599
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 160."
   citata_originali: |
     Seniau totoriai vertėsi
     audinių ir siūlų prekyba. Dabar Lie­

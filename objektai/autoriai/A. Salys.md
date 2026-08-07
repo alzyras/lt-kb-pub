@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14f374c926434cd7949bcd0a"
+canonical_name: "A. Salys"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Salys","Dr. A. Salio","Salys","Salys, A."]
+sameAs: []
+canonical_biography: "A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žemaičių tarmių istorija, baltų kalbų apžvalga ir baltų santykių su slavų bei germanų kalbomis tyrimu. Dabartinis šaltinis jį papildomai mini tarp žurnalo „Kalba“ straipsnių autorių."
 ---
 # A. Salys
 
@@ -81,7 +88,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 <a id="claim-t-64514"></a>
 - t-003
   teiginys: "A. Salys parašė straipsnį „Baltic Languages“, 1955 m. išspausdintą trečiame „Encyclopedia Britannica“ tome."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1955 m."
@@ -137,7 +144,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - id: c-03968
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 21."
   citata_originali: |
     RTPNP = Roczniki Towarzystwa Przyjaciół Nauk Poznańskiego.
     SalŽ = Salys, A. : Die žemaitischen Mundarten. Teil 1 : Geschichte
@@ -155,7 +163,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - id: c-03969
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 114."
   citata_originali: |
     Karo stovis su skandinavais nusitęsė beveik iki
     pat istorinių laikų pradžios.
@@ -177,7 +186,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - id: c-03970
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 116."
   citata_originali: |
     Ausgrabungen und
     Funde_ , Stockholm 1958. — Raulinaitis, Z. : _Apuolės užpuolimas_ , atsp.
@@ -196,7 +206,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - id: c-03971
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 116."
   citata_originali: |
     —Salys, A. : _Baltic Languages,_
     Encyclopedia Britannica, t. 3, 1955. — Senn, A. : _On the Kinship between
@@ -214,7 +225,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 320."
   citata_originali: |
     Šiame numeryje yra įdėtas paskutinis prof. Jablonskio — Ry­
     giškių Jono straipsnis. Be to, įdėta prof. Brenderio, prof. Putino-
@@ -231,7 +243,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - id: c-65242
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 354."
   citata_originali: |
     (^15) **Lites, II, 150; plg. III, 76, 92, 105 p.**
     (^16) **Lites, II, 74, 97, 101 p.; SRP, III, 711 p. — Plg. Z. Ivinskis :** **_Kovos

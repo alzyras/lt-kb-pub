@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1257fd14133818b8b358a627"
+canonical_name: "Eimsutis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Eimsutis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis antpuolis datuojamas 1263 m, nors kai kas siūlo datuoti 1263—1272 m., tiksliau — 1269—1271 m. (Powierski J., Dobra.., p. 80—81). 444 D.— Schonense, Jer.— Schônensê; vėliau — Schönsee ir pan., dab. Kowalewo. Dusburgietis teigia, kad sutrikę dėl jo mirties, pasitraukė iki vienos pilaitės, pastaytos tarp Ragavos ir Veisikos upių451, toje vietoje, 447 D.— castrum Hemsot, Jer.— Heimsôt, dab. Pšečnas (Przeczno), per 9 km į pietvakarius nuo Kulmenzės (dab. Chelmža), tarp Torunės ir Kulmo."
+place_authority: true
+historical_names: []
 ---
 # Eimsutis
 
@@ -79,7 +88,8 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
 - id: c-59176
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 145-146"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145-146."
   citata_originali: |
     Skomantas, matydamas, jog apsigavo, pasuko
 
@@ -107,7 +117,8 @@ Dusburgietis teigia, kad skomantas, matydamas, jog apsigavo, pasuko 443 Šis ant
 - id: c-59177
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
   citata_originali: |
     Sutrikę dėl jo mirties,
     pasitraukė iki vienos pilaitės, pastaytos tarp Ragavos ir Veisikos upių451, toje vietoje,

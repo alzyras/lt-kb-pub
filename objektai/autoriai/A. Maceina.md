@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b41bdcff5b2d61f4eac5a9dc"
+canonical_name: "A. Maceina"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Maceina"]
+sameAs: []
+canonical_biography: "Maceina, Filosofijos kilmė ir prasmė, XII-328 psl. Roma 1978."
 ---
 # A. Maceina
 
@@ -60,7 +67,8 @@ Maceina, Filosofijos kilmė ir prasmė, XII-328 psl. Roma 1978.
 - id: c-29195
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 419"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 419."
   citata_originali: |
     A. Maceina, Filosofijos kilmė ir prasmė, XII-328 psl.
     Roma 1978. 16 dol.

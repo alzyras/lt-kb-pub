@@ -186,7 +186,8 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
 - id: c-59442
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
   citata_originali: |
     Apie daugybės pagudėnų išžudymą
     Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
@@ -207,7 +208,8 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
 - id: c-59443
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
 
@@ -228,7 +230,8 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
 - id: c-59444
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     459  Ditrichas iš Lidelau Sembos fogtu buvo 1278—1292 m. (Voigt J., Namen-.., p.
     76).
@@ -243,7 +246,8 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
 - id: c-59445
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
     Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir
@@ -262,7 +266,8 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
 - id: c-167972
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 181."
   citata_originali: |
     Kitais metais, kai Vytenis
     abu luomus sukvietė į pasi-
@@ -297,7 +302,8 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
 - id: c-167973
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 247."
   citata_originali: |
     Tačiau kry­
     žiuočiai, sutrikę dėl ariergardo pralaimėjimo, skubiai

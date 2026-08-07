@@ -21,15 +21,22 @@ media_total_count: '1'
 media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT'
 media_primary_canonical_url: 'https://www.europeana.eu/item/2021803/LIBIS000000417145'
 media_primary_directness: 'contextual'
-media_primary_relation_type: 'event_documentation_of'
+media_primary_relation_type: 'depicts'
 media_primary_json: |-
-  {"mediaId":"m-e6f20c46a445ba5d7ae1b7a0","title":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","caption":"1582 m. Stepono Batoro raštas, susijęs su Vilniaus vyskupo Valerijono Protasevičiaus patvirtintu testamentu.","originalTitle":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bn8u2qq45r28n7t26zmm","provider":"europeana","providerLabel":"Martynas Mažvydas National Library of Lithuania","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIBIS000000417145","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.82},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.82},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.82},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Valerijonas Protasevičius.md","title":"Valerijonas Protasevičius (vyskupas)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:48:16.267455+03:00","reviewedAt":"2026-07-11T15:48:59.131485+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi senas pergamentinis arba popierinis rankraštinis dokumentas su lotynišku tekstu ir antrašte „Stephanus Dei...“, be asmens portreto ar figūrinio atvaizdo.","metadataEvidence":"Kandidato pavadinime nurodyta, kad tai 1582 m. Lenkijos karaliaus ir Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės testamentą.","confidenceLevel":"medium","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai nėra Valerijono Protasevičiaus portretas ar tiesioginis atvaizdas, bet konkretus istorinis dokumentas, kurio metaduomenys aiškiai sieja objektą su jo, kaip Vilniaus vyskupo, atliktu patvirtinimu.","isPrimary":0}
+  {"mediaId":"m-e6f20c46a445ba5d7ae1b7a0","title":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","caption":"Stepono Batoro raštas, patvirtinantis Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","originalTitle":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bn8u2qq45r28n7t26zmm","provider":"europeana","providerLabel":"Martynas Mažvydas National Library of Lithuania","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIBIS000000417145","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Valerijonas Protasevičius.md","title":"Valerijonas Protasevičius (vyskupas)","itemType":"asmuo","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:48:16.267455+03:00","reviewedAt":"2026-07-31T05:58:49.247708+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVI a. rankraštinis pergamentas su dideliu Stepono Batoro vardo įrašu ir dokumento tekstu.","metadataEvidence":"Kandidato pavadinime aiškiai nurodyta, kad tai 1582 m. Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai nėra tiesioginis Valerijono Protasevičiaus atvaizdas, bet autentiškas su juo konkrečiai susijęs istorinis dokumentas.","isPrimary":0}
 media_direct_json: |-
   []
 media_contextual_json: |-
-  [{"mediaId":"m-e6f20c46a445ba5d7ae1b7a0","title":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","caption":"1582 m. Stepono Batoro raštas, susijęs su Vilniaus vyskupo Valerijono Protasevičiaus patvirtintu testamentu.","originalTitle":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bn8u2qq45r28n7t26zmm","provider":"europeana","providerLabel":"Martynas Mažvydas National Library of Lithuania","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIBIS000000417145","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.82},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.82},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.82},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Valerijonas Protasevičius.md","title":"Valerijonas Protasevičius (vyskupas)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:48:16.267455+03:00","reviewedAt":"2026-07-11T15:48:59.131485+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi senas pergamentinis arba popierinis rankraštinis dokumentas su lotynišku tekstu ir antrašte „Stephanus Dei...“, be asmens portreto ar figūrinio atvaizdo.","metadataEvidence":"Kandidato pavadinime nurodyta, kad tai 1582 m. Lenkijos karaliaus ir Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės testamentą.","confidenceLevel":"medium","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai nėra Valerijono Protasevičiaus portretas ar tiesioginis atvaizdas, bet konkretus istorinis dokumentas, kurio metaduomenys aiškiai sieja objektą su jo, kaip Vilniaus vyskupo, atliktu patvirtinimu.","isPrimary":0}]
+  [{"mediaId":"m-e6f20c46a445ba5d7ae1b7a0","title":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","caption":"Stepono Batoro raštas, patvirtinantis Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","originalTitle":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bn8u2qq45r28n7t26zmm","provider":"europeana","providerLabel":"Martynas Mažvydas National Library of Lithuania","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIBIS000000417145","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Valerijonas Protasevičius.md","title":"Valerijonas Protasevičius (vyskupas)","itemType":"asmuo","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:48:16.267455+03:00","reviewedAt":"2026-07-31T05:58:49.247708+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVI a. rankraštinis pergamentas su dideliu Stepono Batoro vardo įrašu ir dokumento tekstu.","metadataEvidence":"Kandidato pavadinime aiškiai nurodyta, kad tai 1582 m. Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai nėra tiesioginis Valerijono Protasevičiaus atvaizdas, bet autentiškas su juo konkrečiai susijęs istorinis dokumentas.","isPrimary":0}]
 media_all_json: |-
-  [{"mediaId":"m-e6f20c46a445ba5d7ae1b7a0","title":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","caption":"1582 m. Stepono Batoro raštas, susijęs su Vilniaus vyskupo Valerijono Protasevičiaus patvirtintu testamentu.","originalTitle":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bn8u2qq45r28n7t26zmm","provider":"europeana","providerLabel":"Martynas Mažvydas National Library of Lithuania","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIBIS000000417145","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.82},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.82},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.82},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Valerijonas Protasevičius.md","title":"Valerijonas Protasevičius (vyskupas)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:48:16.267455+03:00","reviewedAt":"2026-07-11T15:48:59.131485+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi senas pergamentinis arba popierinis rankraštinis dokumentas su lotynišku tekstu ir antrašte „Stephanus Dei...“, be asmens portreto ar figūrinio atvaizdo.","metadataEvidence":"Kandidato pavadinime nurodyta, kad tai 1582 m. Lenkijos karaliaus ir Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės testamentą.","confidenceLevel":"medium","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai nėra Valerijono Protasevičiaus portretas ar tiesioginis atvaizdas, bet konkretus istorinis dokumentas, kurio metaduomenys aiškiai sieja objektą su jo, kaip Vilniaus vyskupo, atliktu patvirtinimu.","isPrimary":0}]
+  [{"mediaId":"m-e6f20c46a445ba5d7ae1b7a0","title":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","caption":"Stepono Batoro raštas, patvirtinantis Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","originalTitle":"[Lenkijos karaliaus, Lietuvos didžiojo kunigaikščio Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. vasario 13 d. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą Daratos Bartlomiejūtės (Barthlomieiowna) testamentą, kuriuo ji savo turtą užrašė vyrui Steponui Gregaravičiui (Hrehorowicz)]","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bn8u2qq45r28n7t26zmm","provider":"europeana","providerLabel":"Martynas Mažvydas National Library of Lithuania","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1582","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/LIBIS000000417145","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FLIBIS000000417145%2Fthumbnail-original%2F0001-LIBIS000000417145.jpg&type=TEXT","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000417145/thumbnail-original/0001-LIBIS000000417145.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"vyskupas","label":"vyskupas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Valerijonas Protasevičius.md","title":"Valerijonas Protasevičius (vyskupas)","itemType":"asmuo","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:48:16.267455+03:00","reviewedAt":"2026-07-31T05:58:49.247708+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVI a. rankraštinis pergamentas su dideliu Stepono Batoro vardo įrašu ir dokumento tekstu.","metadataEvidence":"Kandidato pavadinime aiškiai nurodyta, kad tai 1582 m. Stepono Batoro raštas, transumuojantis ir patvirtinantis 1566 m. Vilniaus vyskupo Valerijono Protasevičiaus patvirtintą testamentą.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai nėra tiesioginis Valerijono Protasevičiaus atvaizdas, bet autentiškas su juo konkrečiai susijęs istorinis dokumentas.","isPrimary":0}]
+entity_id: "ent-775822b5a3c590ccdcb7b06b"
+canonical_name: "Valerijonas Protasevičius (vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Valerijonas Protasevičius","Valerijonas Protasevičius (vyskupas)","Valerijono Protasevičiaus","Vilniaus vyskupas Valerijonas Protasevičius"]
+sameAs: []
+canonical_biography: "Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 1569 m. Vilniuje pasirodę jėzuitai gavo lėšų kolegijai ir kurio sumanymą dėl Vilniaus akademijos parėmė Steponas Batoras."
 ---
 # Valerijonas Protasevičius (vyskupas)
 
@@ -338,7 +345,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-16728
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 78."
   citata_originali: |
     Lietuvos katalikai – ir pats Vilniaus vyskupas
     Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
@@ -356,7 +364,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-22047
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 78."
   citata_originali: |
     Tačiau Steponas
     Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus uni-
@@ -378,7 +387,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-105173
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 310."
   citata_originali: |
     Jėzuitų pakurstytas vyskupas
     Protasevičius, nepaprastai užsidegęs išnaikinti eretikus, įsa­
@@ -399,7 +409,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-105174
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     14. Valerijonas Protasevičius Šuškovskis, pirma Vilniaus
     dekanas, paskui Lietuvos didysis raštininkas, po to Lucko
@@ -418,7 +429,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-105175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 307."
   citata_originali: |
     Vyskupo Protasevičiaus
     funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­
@@ -445,7 +457,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-105176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 301."
   citata_originali: |
     O Vilniaus vyskupas Vale­
     rijonas Protasevičius, uždegtas kapitulos pastangų, nors su­
@@ -474,7 +487,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-105177
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 343."
   citata_originali: |
     Taigi mes nusprendėme taip ir padaryti,
     juolab kad šios apskritys mums turi būti perduotos tiktai
@@ -501,7 +515,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-105178
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 341-342"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 341-342."
   citata_originali: |
     Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­
     rie mums su pačiomis apskritimis atitektų, šventomis apei­
@@ -537,7 +552,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-105179
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 434-436"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 434-436."
   citata_originali: |
     -- •
     418
@@ -590,7 +606,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-105180
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 202."
   citata_originali: |
     Be to, dar anksčiau minėtas Vilniaus vyskupas Protase-
     vičius tris mūrinius namus, vieną Bernardinų gatvėje, o du
@@ -613,7 +630,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-105181
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 79."
   citata_originali: |
     1579  m. balandžio 1 d. karalius Steponas Batoras, paremda-
     mas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė
@@ -630,7 +648,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-105182
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 341."
   citata_originali: |
     Šiuo raštu skelbiame vi­
     siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­
@@ -658,7 +677,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-105183
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 201."
   citata_originali: |
     Summa facit [suma sudaro] -468 auks.
     G) Apie kai kuriuos Akademijai ir
@@ -683,7 +703,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-105184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 343."
   citata_originali: |
     Bet negalime karštai negirti to
     paties didžiai gerbiamo Kristuje tėvo pono Valerijono už są­
@@ -710,7 +731,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - id: c-105187
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     La­
     biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-

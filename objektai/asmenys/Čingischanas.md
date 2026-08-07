@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c87c2bf1c28fdd16b01c46b9"
+canonical_name: "Čingischanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Čingischanas"]
+sameAs: []
+canonical_biography: "1223 m. Čingischanas pasiuntė Bojaduro ir Cipnoviano vadovaujamą kariuomenės būrį užimti Samachos ir Derbento vakarinėje Kaspijos pakrantėje."
 ---
 # Čingischanas
 
@@ -66,7 +73,8 @@ media_all_json: |-
 - id: c-174372
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 110."
   citata_originali: |
     104
     Galop dabar privalome pridurti dar vieną istorinę pa­

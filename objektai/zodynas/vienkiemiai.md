@@ -43,7 +43,8 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
 - id: c-75133
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 149-150"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 149-150."
   citata_originali: |
     Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sody-
     bas į vienkiemius, prasidėjo žemės ūkio modernizacija, dingo trilaukė

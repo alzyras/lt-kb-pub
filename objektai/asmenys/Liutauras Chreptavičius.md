@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dcf1d70f262874bdca663666"
+canonical_name: "Liutauras Chreptavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liutauras Chreptavičius"]
+sameAs: []
+canonical_biography: "Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­ tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52."
 ---
 # Liutauras Chreptavičius
 
@@ -58,7 +65,8 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - id: c-83523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­
     matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­

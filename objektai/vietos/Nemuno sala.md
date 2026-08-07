@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-62a885cacc6e0058a0b356ca"
+canonical_name: "Nemuno sala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nemuno sala"]
+sameAs: []
+canonical_biography: "Svarbi Lietuvos ir Vokiečių ordino santykiams Salyno sutartis sudaryta 1398 m. Nemuno saloje netoli Kauno."
+place_authority: true
+historical_names: []
 ---
 # Nemuno sala
 
@@ -47,9 +56,9 @@ Svarbi Lietuvos ir Vokiečių ordino santykiams Salyno sutartis sudaryta 1398 m.
 ## Citatos
 
 - id: c-185082
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 69"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 69."
   citata_originali: |
     Žemaičių ir Vokiečių ordino sutartyje buvo leidimas žemaičiams prekiauti Ordino vals-
     tybės pasienio miestuose. Svarbi Lietuvos ir Vokiečių ordino santykiams Salyno sutartis

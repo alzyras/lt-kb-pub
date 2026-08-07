@@ -127,7 +127,8 @@ Nenurodyta
 - id: c-169915
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 151-152"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 151-152."
   citata_originali: |
     Kai karalius perėjo miškus ir Bukoviną, Moldavijos
     vaivada su visais savo žmonėmis pasuko atgalios. Tada

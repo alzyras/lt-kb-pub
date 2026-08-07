@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83263df508006e30210bb7be"
+canonical_name: "Kojalavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kojalavičius"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus piorunkomis. Narbutas kaltina Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl tariamo mirštančiųjų mirties pagreitinimo papročio."
 ---
 # Kojalavičius
 
@@ -74,7 +81,8 @@ Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus pioru
 - id: c-172964
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 247."
   citata_originali: |
     Vadinasi, bu­
     vo tik Jupiteris, turėjęs antrąją ypatybę*.
@@ -94,7 +102,8 @@ Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus pioru
 - id: c-172965
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 359."
   citata_originali: |
     Draugystės, svetingumo, santai­
     kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­

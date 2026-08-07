@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3c0e38ce520cd7b08cda09a8"
+canonical_name: "Ditrichas (Meiseno markgrafas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas (Meiseno markgrafas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad ditrichas (Meiseno markgrafas) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti."
 ---
 # Ditrichas (Meiseno markgrafas)
 
@@ -52,7 +59,8 @@ Dusburgietis teigia, kad ditrichas (Meiseno markgrafas) sušakosiąs ir ateityje
 - id: c-60894
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
   citata_originali: |
     Nors
     apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai

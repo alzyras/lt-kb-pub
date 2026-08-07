@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7716b3526f5f8d7d379a4e8"
+canonical_name: "Justinas Staugaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Justinas Staugaitis"]
+sameAs: []
+canonical_biography: "Smetona ir du vicepirmininkai Justinas Staugaitis ir S."
 ---
 # Justinas Staugaitis
 
@@ -62,7 +69,8 @@ Smetona ir du vicepirmininkai Justinas Staugaitis ir S.
 - id: c-21795
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 137."
   citata_originali: |
     Naujas galimybes atvėrė dviejų imperijų – Rusijos ir Vokietijos – pra-
     laimėjimai kare, revoliucijos abiejose šalyse. Valstybės Taryba vis atkak­

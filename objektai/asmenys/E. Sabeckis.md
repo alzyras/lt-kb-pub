@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9230655b81f95979d70623e5"
+canonical_name: "E. Sabeckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["E. Sabeckis"]
+sameAs: []
+canonical_biography: "Sabeckio vadovaujama 300 karių grupė (dvi kuopos iš 7-ojo fusilierių regimento, dvi kuopos iš 4-ojo pėstininkų regimento ir artileristų komanda) netikėtu puolimu užėmė hauptvachtą (šalia Šv."
 ---
 # E. Sabeckis
 
@@ -51,7 +58,8 @@ Sabeckio vadovaujama 300 karių grupė (dvi kuopos iš 7-ojo fusilierių regimen
 - id: c-41528
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 151."
   citata_originali: |
     Mir. E. Sabeckio vadovaujama 300 karių
     grupė (dvi kuopos iš 7-ojo fusilierių re-

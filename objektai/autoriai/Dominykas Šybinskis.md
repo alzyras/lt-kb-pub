@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-04f76f211f8aebdb10f080b9"
+canonical_name: "Dominykas Šybinskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dominykas Šybinskis"]
+sameAs: []
+canonical_biography: "Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą buvo išvertęs Dominykas Šybinskis."
 ---
 # Dominykas Šybinskis
 
@@ -54,7 +61,8 @@ Narbutas naudojosi Pjero Šomprė mitologiniu žodynu, kurį į lenkų kalbą bu
 - id: c-173247
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 25."
   citata_originali: |
     Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
     ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­

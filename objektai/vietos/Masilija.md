@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7c969b0a11b8568d1f7e7148"
+canonical_name: "Masilija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Masilija"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų būdavo gabenamos į Masiliją."
+place_authority: true
+historical_names: []
 ---
 # Masilija
 
@@ -53,7 +62,8 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
 - id: c-175653
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
   citata_originali: |
     Siaurės sagose daug žinių apie
     jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais

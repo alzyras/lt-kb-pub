@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aac00108808956f92c164f35"
+canonical_name: "Liaudanskų mūrinis namas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liaudanskų mūrinis namas"]
+sameAs: []
+canonical_biography: "1746 metais maloningieji tėvai Kazimieras ir Mykolas Vežbickiai, pirma apie 16 000 auksinų sumą dėję langams sutaisyti, dailidžių darbo spintoms įsigyti, marmuro stalams ir nutinkuoti mūrinį namą, vadinamą Liaudanskų, Turgaus --• - - 184 ## Puslapis 201 Il."
+place_authority: true
+historical_names: []
 ---
 # Liaudanskų mūrinis namas
 
@@ -58,7 +67,8 @@ media_all_json: |-
 - id: c-82184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 200-201"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 200-201."
   citata_originali: |
     F) Žinios apie Bibliotekai funduotus
     pradinius turtus ir pajamas

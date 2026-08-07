@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-25e59569c30fd42396bb33c3"
+canonical_name: "Snervai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Snervai"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad smolenskas Snervai (dab."
+place_authority: true
+historical_names: []
 ---
 # Snervai
 
@@ -50,7 +59,8 @@ Dusburgietis teigia, kad smolenskas Snervai (dab.
 - id: c-59361
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
   citata_originali: |
     Smolenskas
     Snervai (dab. Sniardvai, j. Sniardwy), ež.

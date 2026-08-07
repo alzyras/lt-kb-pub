@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-415f04d34d56ec17df477ad4"
+canonical_name: "Eglainė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Eglainė"]
+sameAs: []
+canonical_biography: "Čia radome ką tik atvykusius iš Eglainės 6 pėst."
+place_authority: true
+historical_names: []
 ---
 # Eglainė
 
@@ -49,7 +58,8 @@ media_all_json: |-
 - id: c-40264
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 203."
   citata_originali: |
     „Vidugirių kaimą pasiekėme po pietų. Čia radome ką tik
     atvykusius iš Eglainės 6 pėst. [pulko] Pilėnų Kunigaikščio

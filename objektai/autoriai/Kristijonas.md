@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f4372e537416e86685872e96"
+canonical_name: "Kristijonas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kristijonas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūrimą ir krivio buvimą grindė pirmojo Prūsijos vyskupo Kristijono kronika. Narbutas nurodo, kad žinia apie Kristijono kroniką dėl Romovės ir krivio remiasi padavimu, bet kronikos egzistavimą jis laiko įrodytu. Hartknocho perteikimu, Kristijonas buvo pirmasis Kulmo, arba Prūsijos, vyskupas ir kronikos apie senovės Prūsiją autorius."
 ---
 # Kristijonas
 
@@ -108,7 +115,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
 - id: c-173277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 415"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
   citata_originali: |
     Abu šie kronikinin­
     kai - Lukas Davidas (kn. I. - P. 16,53-54) ir Simonas Grunau
@@ -126,7 +134,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
 - id: c-173278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 415"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
   citata_originali: |
     - Skirsnis 4) - aiškiai įtikina, kad jų
     žinios apie Romovės įkūrimą ir krivio buvimą remiasi pirmo­
@@ -147,7 +156,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
 - id: c-173633
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
   citata_originali: |
     *  ¥  *
     III skyrius
@@ -174,7 +184,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
 - id: c-173634
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
   citata_originali: |
     3 Apie tikrą egzistavimą vyskupo Kristijono kronikos, kuri vadi­
     nosi Liber filiorum Belini, cum suis superstitionibus Brutiae factionis

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1621f8544aa8b31f32025892"
+canonical_name: "Šilginėliai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šilginėliai"]
+sameAs: []
+canonical_biography: "Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario 7 d. tarp bolševikų ir Šilginėlių kaime buvusios lietuvių sargybos įvyko smarkus stūmė lietuvių sargybas, prirengti pirmojo pavyzdžio uniforma (gavo kepures su geltonomis juostomis ir."
+place_authority: true
+historical_names: []
 ---
 # Šilginėliai
 
@@ -52,7 +61,8 @@ Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario
 - id: c-77315
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 173."
   citata_originali: |
     Bolševikai tą dieną į lietuvių pusę paleido
     užtvarą ir tęsė puolimą Kėdainių link. apie 170 artilerijos sviedinių ir kelis kartus

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-570dce780af6c882a0348a1a"
+canonical_name: "Ragutėniškiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ragutėniškiai"]
+sameAs: []
+canonical_biography: "Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su jo aptartu moterų žynių Ragutienių pavadinimu."
+place_authority: true
+historical_names: []
 ---
 # Ragutėniškiai
 
@@ -55,7 +64,8 @@ Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo s
 - id: c-171937
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 301."
   citata_originali: |
     Tuomet žyniai keliaklupsčiais prišliauždavo prie šven­
     tojo medžio ir uždegdavo kempines ant aukuro, pirma sude­

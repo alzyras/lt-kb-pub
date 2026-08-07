@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-908c50a5c8a21ce26b8185bf"
+canonical_name: "Gartneris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gartneris"]
+sameAs: []
+canonical_biography: "Narbutas remiasi Gartnerio veikalu „De fructibus et seminibus plantarum“, aiškindamas, kad minėtas vaisius neišaugo jokioje Emblikoje."
 ---
 # Gartneris
 
@@ -54,7 +61,8 @@ Narbutas remiasi Gartnerio veikalu „De fructibus et seminibus plantarum“, ai
 - id: c-174284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 339"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 339."
   citata_originali: |
     Tokia yra tikroji padėtis. Galima būtų stebėtis, jei
     karšto klimato medis Phyllantus Emblica būtų atsidū­

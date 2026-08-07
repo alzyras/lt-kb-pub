@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-afa85c4f9b6fd0e244b200bf"
+canonical_name: "Fabijonas (Varmės vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fabijonas (Varmės vyskupas)"]
+sameAs: []
+canonical_biography: "374 ## Puslapis 391 IV KNYGA I \\ Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsdami kelią būsimiems sunkumams, sutikome su Varmės baž­ nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­ tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono."
 ---
 # Fabijonas (Varmės vyskupas)
 
@@ -58,7 +65,8 @@ media_all_json: |-
 - id: c-83646
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 390-391"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 390-391."
   citata_originali: |
     1514.
     374

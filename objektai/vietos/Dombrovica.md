@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9aca392cd13d0e8ec7290c4f"
+canonical_name: "Dombrovica"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dombrovica"]
+sameAs: []
+canonical_biography: "III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liubešave ir Žuravicuose."
+place_authority: true
+historical_names: []
 ---
 # Dombrovica
 
@@ -49,7 +58,8 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 - id: c-02658
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 434."
   citata_originali: |
     I Gardino apygardoj apygardėlinių mokyklų buvo šiose vie-
     tose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje,

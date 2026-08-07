@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3d6e602bfb1809598b7cbc8e"
+canonical_name: "Rykantai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rykantai"]
+sameAs: []
+canonical_biography: "Kairiajame Neries krante prie Semeliškių — Rykantų įsitvirtinusi 3-ioji I."
+place_authority: true
+historical_names: []
 ---
 # Rykantai
 
@@ -50,7 +59,8 @@ Kairiajame Neries krante prie Semeliškių — Rykantų įsitvirtinusi 3-ioji I.
 - id: c-45311
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 206."
   citata_originali: |
     L. Želigovskis siekė iš-
     vystyti sėkmę ir, tikėdamasis

@@ -90,7 +90,8 @@ Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 
 - id: c-174710
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
   citata_originali: |
     Labiausiai jį primena skruzdėliniai gyvasakiai; gel­
     tonas ir baltas gintaras kvepia skirtingai. Smalsuoliams
@@ -112,7 +113,8 @@ Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 
 - id: c-179286
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
   citata_originali: |
     Smalsuoliams
     rekomenduojama paskaityti knygelę „Ja. Wigancli Epis-

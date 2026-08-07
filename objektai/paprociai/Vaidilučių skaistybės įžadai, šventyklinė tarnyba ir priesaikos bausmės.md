@@ -87,7 +87,8 @@ Nenurodyta
 - id: c-177035
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 301."
   citata_originali: |
     Jas rink­
     davo iš garsėjančių grožiu aukštos kilmės merginų, jos gyven­

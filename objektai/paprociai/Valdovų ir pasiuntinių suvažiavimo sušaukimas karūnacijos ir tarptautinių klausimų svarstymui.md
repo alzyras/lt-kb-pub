@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-83127
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 172-173"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 172-173."
   citata_originali: |
     156
 
@@ -122,7 +123,8 @@ Nenurodyta
 - id: c-83128
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 173-174"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 173-174."
   citata_originali: |
     Toje pat Pulavų bibliotekoje
     riaus Zigmanto įkalbinėjimų, nesi- yra popiežiaus Martyno laiškai -

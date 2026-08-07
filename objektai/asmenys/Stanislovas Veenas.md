@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f813c597808cc463bae82cd6"
+canonical_name: "Stanislovas Veenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Veenas"]
+sameAs: []
+canonical_biography: "Dalyvavusio sprendime raštininko Stanislo­ vo Veeno ranka."
 ---
 # Stanislovas Veenas
 
@@ -62,7 +69,8 @@ Dalyvavusio sprendime raštininko Stanislo­ vo Veeno ranka.
 - id: c-83843
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 379."
   citata_originali: |
     Baltramiejaus šventės, tūkstan­
     tis penki šimtai pirmaisiais Viešpaties metais. Ten pat daly­

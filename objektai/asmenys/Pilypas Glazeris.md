@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e09cbae6eb6e40318bb051ad"
+canonical_name: "Pilypas Glazeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pilypas Glazeris"]
+sameAs: []
+canonical_biography: "O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Glazeris ir Motiejus Porempskis per savo tarpi­ ninkus ir garsusis Albertas Skvemevita per savo įgaliotinius paaiškino, kad minėtasis kaltinamasis turi gauti numatytą jų privilegijoje."
 ---
 # Pilypas Glazeris
 
@@ -50,7 +57,8 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
 - id: c-83811
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 453"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 453."
   citata_originali: |
     Pagal mūsų
     pačių pranešimo šiandieninį terminą, nustatytą pačiame šau­

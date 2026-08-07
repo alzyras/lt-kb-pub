@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5fced12a0e4570c2b875fc24"
+canonical_name: "Fridrichas II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas II"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis nušvietęs pagal Ordino 1230 m. Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelto prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo ruožtu į Prūsijos kraštą, į. Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė, tvirtindamas, kad jam nieku būdu nedera."
 ---
 # Fridrichas II
 
@@ -207,7 +214,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 - id: c-60489
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Kai venedai buvo smarkiai sutramdyti  po maišto, sukelto
     prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
@@ -232,7 +240,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 - id: c-60490
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 24."
   citata_originali: |
     M. Perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises,
     panaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis
@@ -258,7 +267,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 - id: c-60491
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238."
   citata_originali: |
     Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II
                                 nesantuokinio sūnaus, mirtį
@@ -279,7 +289,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 - id: c-60492
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 235."
   citata_originali: |
     52. Apie Konradino, imperatoriaus Fridricho II anūko, žūtį
 
@@ -298,7 +309,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 - id: c-60493
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Todėl kunigaikštis pasiuntė pas
     minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir
@@ -327,7 +339,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 - id: c-60494
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Kartą, kai popiežius Honorijus III
     ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
@@ -352,7 +365,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 - id: c-60495
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232."
   citata_originali: |
     36. Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,
                                                 mirtį
@@ -370,9 +384,9 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-005
 
 - id: c-184335
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 270"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 270."
   citata_originali: |
     Albertas
     metuose 1224 pats dalijo valsčius kalavijonims it

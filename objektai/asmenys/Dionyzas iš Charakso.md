@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e0327c536b8449c62fa05a6"
+canonical_name: "Dionyzas iš Charakso"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dionyzas iš Charakso"]
+sameAs: []
+canonical_biography: "Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldeskos upė įteka į Šiaurės jūrą. Dionyzas iš Charakso, pasak Narbuto, Oktaviano Augusto laikais geografiškai aprašinėdamas pasaulį minėjo Pantikapą ir Aldeską."
 ---
 # Dionyzas iš Charakso
 
@@ -74,7 +81,8 @@ Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldesk
 - id: c-174044
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
   citata_originali: |
     Bet turbūt
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
@@ -97,7 +105,8 @@ Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldesk
 - id: c-174045
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
   citata_originali: |
     Be šių įrodymų, turime ir seno­
     vės autorių paliktų, ir naujų laikų tyrimais patvirtintų

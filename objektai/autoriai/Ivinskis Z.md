@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e2392712a34bed953338420f"
+canonical_name: "Ivinskis Z"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ivinskis Z"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo plitimo 262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino kalavijuočius (Ivinskis Z.."
 ---
 # Ivinskis Z
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242
 - id: c-87573
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 84."
   citata_originali: |
     Apie Sventopelko karą su Teutonų ordino broliais
      1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-926a18715ae0b1e08c6c3762"
+canonical_name: "Gotbrodas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gotbrodas"]
+sameAs: []
+canonical_biography: "Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi. Gotbrodo įpėdinis Goteris žu vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės Rindos vyru."
 ---
 # Gotbrodas
 
@@ -32,7 +39,7 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
 <a id="claim-t-191273"></a>
 - t-001
   teiginys: "Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris žuvo kovodamas su Bojumi, Otino sūnumi."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -49,7 +56,6 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174155
-    - c-179315
 
 <a id="claim-t-197734"></a>
 - t-002
@@ -68,7 +74,8 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
 - id: c-174155
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     229
 
@@ -91,7 +98,8 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
 - id: c-179315
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Gotbrodo įpėdinis Goteris žu­
     vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės
@@ -106,7 +114,6 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 ## Ryšiai

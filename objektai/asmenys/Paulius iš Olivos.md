@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5de5a24350c723df1797023f"
+canonical_name: "Paulius iš Olivos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Paulius iš Olivos"]
+sameAs: []
+canonical_biography: "Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos."
 ---
 # Paulius iš Olivos
 
@@ -52,7 +59,8 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 - id: c-83797
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 92."
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­
     dangi Viešpats jūsų ginklą valdo ir narsos didybės suteiks,

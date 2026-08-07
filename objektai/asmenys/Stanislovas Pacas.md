@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-30f644179dfcdc9f96bb2ae9"
+canonical_name: "Stanislovas Pacas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Pacas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Stanislovas Pacas
 

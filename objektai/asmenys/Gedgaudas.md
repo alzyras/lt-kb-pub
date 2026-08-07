@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-90c433cdd8a1e4dd49352fa2"
+canonical_name: "Gedgaudas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gedgaudas"]
+sameAs: []
+canonical_biography: "Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­ siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­ num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­ poldum)."
 ---
 # Gedgaudas
 
@@ -63,7 +70,8 @@ Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogail�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 237."
   citata_originali: |
     Kai sužinojo, kad kryžiuočių
     pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­

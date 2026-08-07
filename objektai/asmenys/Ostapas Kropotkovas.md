@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae53bb554b00b03fb47583c5"
+canonical_name: "Ostapas Kropotkovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ostapas Kropotkovas"]
+sameAs: []
+canonical_biography: "Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais. Ostapui Kropotkovui, kaip nurodė Narbutas, 1354 m. rugpjūčio 7 d. Vilniuje už nuopelnus kare su totoriais duotas herbas ir Podbužo dvaras Voluinėje. Ostapas Kropotkovas buvo skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir herbo."
 ---
 # Ostapas Kropotkovas
 
@@ -102,7 +109,8 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
 - id: c-173118
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Rankoje turiu nuorašą Švitrigailos privilegijos, datuotos Lucke 1451
     metų vasario 18 dieną, kuria jis pakartoja 1439 metų kovo 3 dienos
@@ -124,7 +132,8 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
 - id: c-174849
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 510"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
   citata_originali: |
     Rankoje turiu nuorašą Švitrigailos
     privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
@@ -147,7 +156,8 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
 - id: c-179338
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 509"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 509."
   citata_originali: |
     Čia gi pa­
     teikėme iliustraciją, padarytą pagal piešinį, gautą iš Zaluskių bib­

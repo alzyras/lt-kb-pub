@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e69d6a3be834376e6947433"
+canonical_name: "Papilė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Papilė"]
+sameAs: []
+canonical_biography: "Mūšio išvakarėse 1359 m. Livonijos magistras surengė didelį žygį prieš lietuvius į Papilės žemę."
+place_authority: true
+historical_names: []
 ---
 # Papilė
 
@@ -54,7 +63,8 @@ Mūšio išvakarėse 1359 m. Livonijos magistras surengė didelį žygį prieš 
 - id: c-176450
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 40."
   citata_originali: |
     Tačiau tai, be abejo, nebuvo priimtina nei
     Šventosios Romos imperijai, nei Ordinui.

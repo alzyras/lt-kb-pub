@@ -58,7 +58,8 @@ Koneczny : Jagiełło i Witołd, Lwów 1893, 147-149 p. rimtai svarstomas, rodė
 - id: c-94048
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 314-315"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 314-315."
   citata_originali: |
     Kad šitokis projektas buvo
 

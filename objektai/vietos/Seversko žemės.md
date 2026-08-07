@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9918adca9629d698d1f0751d"
+canonical_name: "Seversko žemės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Seversko žemės"]
+sameAs: []
+canonical_biography: "Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes bei sudaryti uniją."
+place_authority: true
+historical_names: []
 ---
 # Seversko žemės
 
@@ -53,7 +62,8 @@ Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Ki
 - id: c-168665
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 682"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 682."
   citata_originali: |
     Rugsėjo pabaigoje luomai susirinko Vilniuje į
     seimą, kuriame karalius pareikalavo, kad liautųsi pa­

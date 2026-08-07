@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8f5ed3d46a42290c6a8db8d8"
+canonical_name: "Cezaris Ripa"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Cezaris Ripa"]
+sameAs: []
+canonical_biography: "Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapio statulą su panašiu ženklu."
 ---
 # Cezaris Ripa
 
@@ -53,7 +60,8 @@ Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapi
 - id: c-173023
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 381."
   citata_originali: |
     Joną, šone, atgręžtame į
     šventuosius laiptus (ad scala sancta), tarp hieroglifų yra pana­

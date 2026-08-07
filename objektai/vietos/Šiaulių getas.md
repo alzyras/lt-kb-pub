@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1ff3c7e2b636d06336c1e886"
+canonical_name: "Šiaulių getas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šiaulių getas"]
+sameAs: []
+canonical_biography: "žydų laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnaudoti kaip pigi darbo jėga."
+place_authority: true
+historical_names: []
 ---
 # Šiaulių getas
 
@@ -61,7 +70,8 @@ media_all_json: |-
 - id: c-24624
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 200."
   citata_originali: |
     Akcijose
     prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-

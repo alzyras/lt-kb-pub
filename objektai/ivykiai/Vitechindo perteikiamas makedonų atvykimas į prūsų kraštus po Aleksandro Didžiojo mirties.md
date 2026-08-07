@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-174754
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
   citata_originali: |
     Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
     tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­

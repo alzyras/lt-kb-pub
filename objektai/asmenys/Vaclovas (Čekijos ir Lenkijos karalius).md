@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9bb27c9b5d001d450713f2d9"
+canonical_name: "Vaclovas (Čekijos ir Lenkijos karalius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaclovas (Čekijos ir Lenkijos karalius)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi."
 ---
 # Vaclovas (Čekijos ir Lenkijos karalius)
 
@@ -78,7 +85,8 @@ Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių ž
 - id: c-61085
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195."
   citata_originali: |
     Apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais
 

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-810de9ceecf214c567de75e0"
+canonical_name: "Klaudijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Klaudijus"]
+sameAs: []
+canonical_biography: "Imperatoriaus Klaudijaus valdymo metu, apie 50 m. po Kristaus, klajokliai užėmė Tisos žemupius ir nugalėjo tenykščius slavus."
 ---
 # Klaudijus
 
@@ -54,7 +61,8 @@ Imperatoriaus Klaudijaus valdymo metu, apie 50 m. po Kristaus, klajokliai užėm
 - id: c-174386
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
   citata_originali: |
     Maždaug tuo metu, kai
     Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir

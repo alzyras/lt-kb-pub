@@ -51,21 +51,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-193018"></a>
-- t-001
-  teiginys: "Pasak Narbuto, skitai dėl svetingumo priimdavo kitų tautų pirklius ir bičiuliškai sugyveno su kaimyninėmis tautomis."
-  atnaujinta: "2026-07-19 23:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-177270
-
 <a id="claim-t-193019"></a>
-- t-002
+- t-001
   teiginys: "Klajojantys skitai, iš pradžių vengę graikų atvykėlių, vėliau pradėjo su jais bendrauti ir pirkti civilizuoto pasaulio dirbinius."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -85,7 +72,7 @@ Nenurodyta
     - c-175789
 
 <a id="claim-t-197570"></a>
-- t-003
+- t-002
   teiginys: "Si upė šiaurės vakaruose ribojo gerų dykumas su nežinomais kraštais ir plaukė per skitų— nomadų kraštus, prasėdėdama gerų krašte."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -96,55 +83,10 @@ Nenurodyta
   pagrindžia:
     - c-175788
 
-## Citatos
-
-- id: c-175788
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    K a r k i n i t o miestas1. Si upė šiaurės vakaruose ribojo gerų
-    dykumas su nežinomais kraštais ir plaukė per skitų—
-    nomadų kraštus*, prasėdėdama gerų krašte. Herodotas
-    teigia, kad iki šio krašto nuo Dnepro žiočių reikia plauk­
-    ti 40 dienų, o tai, anot Lelevelio apskaičiavimų2, turėtų
-    prilygti maždaug 4000 stadijų. Tad šis kraštas turėtų
-    būti Rogačiovo apylinkėse ir aukščiau.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
-- id: c-175789
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
-  citata_originali: |
-    Klajojantys skitai, iš karto vengę bend­
-    rauti su graikų atvykėliais ir pasitraukdavę iš jų apgy­
-    ventų vietų, pagaliau pradėjo su jais bendrauti, ėmė pirk­
-    ti iš jų civilizuoto pasaulio dirbinius. Patys skitų žem­
-    dirbiai negalėjo išvengti šito, nors iš pradžių gana abe­
-    jingai žvelgė į jūra atgabentus blizgučius ir skanėstus.
-    Galop klajokliai, sutrypę senus papročius ir įstatymus,
-    užtvindė žemdirbių gyvenamąsias vietas, prasidėjo sa­
-    vivalė, krašte kilo netvarka ir neramumai, dingo vyres­
-    nybė, žyniai ir teisėjai.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:34"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
-- id: c-177270
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Jau labai senais laikais graikai užmezgė santykius su Juodosios jūros pakrančių skitais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
     54
 
@@ -159,8 +101,52 @@ Nenurodyta
     33
     Jau labai senais laikais graikai užmezgė santykius su
     Juodosios jūros pakrančių skitais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   statusas: verified
-  atnaujinta: "2026-07-19 23:55"
+## Citatos
+
+- id: c-175788
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 53"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
+  citata_originali: |
+    K a r k i n i t o miestas1. Si upė šiaurės vakaruose ribojo gerų
+    dykumas su nežinomais kraštais ir plaukė per skitų—
+    nomadų kraštus*, prasėdėdama gerų krašte. Herodotas
+    teigia, kad iki šio krašto nuo Dnepro žiočių reikia plauk­
+    ti 40 dienų, o tai, anot Lelevelio apskaičiavimų2, turėtų
+    prilygti maždaug 4000 stadijų. Tad šis kraštas turėtų
+    būti Rogačiovo apylinkėse ir aukščiau.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-175789
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 55."
+  citata_originali: |
+    Klajojantys skitai, iš karto vengę bend­
+    rauti su graikų atvykėliais ir pasitraukdavę iš jų apgy­
+    ventų vietų, pagaliau pradėjo su jais bendrauti, ėmė pirk­
+    ti iš jų civilizuoto pasaulio dirbinius. Patys skitų žem­
+    dirbiai negalėjo išvengti šito, nors iš pradžių gana abe­
+    jingai žvelgė į jūra atgabentus blizgučius ir skanėstus.
+    Galop klajokliai, sutrypę senus papročius ir įstatymus,
+    užtvindė žemdirbių gyvenamąsias vietas, prasidėjo sa­
+    vivalė, krašte kilo netvarka ir neramumai, dingo vyres­
+    nybė, žyniai ir teisėjai.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

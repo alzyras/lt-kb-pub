@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-22a3ec6045bbd2270b8f5e1f"
+canonical_name: "Druja"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Druja"]
+sameAs: []
+canonical_biography: "Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per."
+place_authority: true
+historical_names: []
 ---
 # Druja
 
@@ -134,7 +143,8 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
 - id: c-79673
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 279."
   citata_originali: |
     Žr. Miesto archyve: Žygimanto Seno­
     jo privilegija, datuota Rūdninkuose,
@@ -173,7 +183,8 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
 - id: c-79675
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 140."
   citata_originali: |
     Šios Sapiegų kariuomenės
     dalies gynyba neleido respubliko-

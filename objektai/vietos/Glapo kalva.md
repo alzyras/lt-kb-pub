@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0f32d0d057818d4daf3af410"
+canonical_name: "Glapo kalva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Glapo kalva"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Dusburgietis teigia, kad 413 D.— mons Glapponis, Jer.— Glappinberc (plg. SRP, 5, p. 100, 204), vėliau — Rollberg (Hennenberger C., Erclerung.., p. 43; SRP, 1, p. 118 (Toeppen M.); Ewald A. L., Die Eroberung.., 4, p. 109; Gause F., Geschichte..., 1, p. 23) buvęs į vakarus nuo pilies."
+place_authority: true
+historical_names: []
 ---
 # Glapo kalva
 
@@ -67,7 +76,8 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
 - id: c-59186
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
   citata_originali: |
     Šis, paklausęs patarimo, susikvietė daug brolių bei
     ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
@@ -86,7 +96,8 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
 - id: c-59187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     413 D.— mons Glapponis, Jer.— Glappinberc (plg. SRP, 5, p. 100, 204), vėliau —
     Rollberg (Hennenberger C., Erclerung.., p. 43; SRP, 1, p. 118 (Toeppen M.); Ewald A. L.,

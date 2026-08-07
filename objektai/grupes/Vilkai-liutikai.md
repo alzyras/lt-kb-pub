@@ -84,7 +84,8 @@ Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, 
 - id: c-175736
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 250."
   citata_originali: |
     Visi senovės tyrinėtojai sutinka, jog vilkų tauta buvo
     slaviška gentis, be to, viena iš pačių seniausių, kuri mūsų

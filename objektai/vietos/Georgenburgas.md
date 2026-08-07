@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a2f0112e74869408823373ce"
+canonical_name: "Georgenburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Georgenburgas"]
+sameAs: []
+canonical_biography: "Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą kartą 1259 m. prie Mituvos ir Imsrės žiočių į Nemuną (Karšuvos srityje) statėsi bendrą pilį Georgenburgą — Jurbarką."
+place_authority: true
+historical_names: []
 ---
 # Georgenburgas
 
@@ -104,7 +113,8 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 - id: c-43450
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Iš Dobės (šiaurėje),
     Klaipėdos (vakaruose) ir Georgenburgo
@@ -135,7 +145,8 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 - id: c-67685
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 190."
   citata_originali: |
     Ordinui toliau rūpėjo per nadruvių, sūduvių ir skal­
     vių plotus rasti kelią į šiaurę, t. y. į pietų Žemaičius. Livonijos ir
@@ -155,7 +166,8 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 - id: c-167173
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Pa-
     prastai pėstininkai naudodavo dvirankius artimosios

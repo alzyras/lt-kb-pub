@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-381617ddf5d5b6b4c74f78d1"
+canonical_name: "Justinas Gustaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Justinas Gustaitis"]
+sameAs: []
+canonical_biography: "Tad, pasirodykime laisvės verti ir tą dieną, kada kovos pradžia atrodys SAVANORIO LAIŠKAS Justino Gustaičio laiškas, rastas pamestame pase Aukščiausiosios Tarybos rūmuose 1991 M."
 ---
 # Justinas Gustaitis
 
@@ -59,7 +66,8 @@ Tad, pasirodykime laisvės verti ir tą dieną, kada kovos pradžia atrodys SAVA
 - id: c-44396
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 264."
   citata_originali: |
     Tauta, kuri priešo neerzinimo sumetimais
     neišdrįsta reikiamu momentu griebtis karo,

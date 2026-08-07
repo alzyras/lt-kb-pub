@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0236465a27c837023fda80b1"
+canonical_name: "Melno ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Melno ežeras"]
+sameAs: []
+canonical_biography: "Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Melno ežero. Ji buvo pasirašyta 1422.IX.27 d. lenkų karo stovykloje prie Melno ežero, arti upės Osos."
+place_authority: true
+historical_names: []
 ---
 # Melno ežeras
 
@@ -80,7 +89,8 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 154."
   citata_originali: |
     Tik
     kada patys Prūsijos krašto gyventojai prieš kryžiuočius sukilo,
@@ -100,7 +110,8 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
 - id: c-68206
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 365"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 365."
   citata_originali: |
     Kryžiuočiams laikantis savo, kunigaikštis suti­
     ko «taikos labui » (« propter bonum pacis ») atsisakyti nuo Klai­

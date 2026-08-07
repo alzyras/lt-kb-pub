@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4466a4628417ac6f3d820103"
+canonical_name: "Torne"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Torne"]
+sameAs: []
+canonical_biography: "1466 m. Torne buvo pasirašyta taika, kuria ordinas pasidarė Lenkijos vasalu ir perleido jai daug žemių."
+place_authority: true
+historical_names: []
 ---
 # Torne
 
@@ -53,7 +62,8 @@ media_all_json: |-
 - id: c-176009
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 197."
   citata_originali: |
     1466 m. Torne buvo pasirašyta taika, kuria ordinas
     pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija

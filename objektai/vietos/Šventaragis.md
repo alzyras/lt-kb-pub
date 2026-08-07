@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1462f365e96532d29e322e50"
+canonical_name: "Šventaragis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventaragis"]
+sameAs: []
+canonical_biography: "Kojelavičiaus pasakojime Germantas pagal Šventaragio prašymą apvalė aikštę ir paskelbė ją valdovų laidotuvių vieta."
+place_authority: true
+historical_names: []
 ---
 # Šventaragis
 
@@ -74,7 +83,8 @@ Kojelavičiaus pasakojime Germantas pagal Šventaragio prašymą apvalė aikšt�
 - id: c-176161
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 127."
   citata_originali: |
     Mat Šventaragis, būdama*
     gyvas, kartą medžioklės metu pateko į be galo žavin­

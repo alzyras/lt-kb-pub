@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6ba7ce9a31aa35be77a9af0d"
+canonical_name: "Otonas III"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Otonas III"]
+sameAs: []
+canonical_biography: "Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas iškeliavo į Teutoniją tenai meldžionų į karę telkti, bekeliaudamas jau užteikė margrafus Brandenburgijos Joną I ir Otoną III."
 ---
 # Otonas III
 
@@ -41,9 +48,9 @@ Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas iškeliavo į Teutonij�
 ## Citatos
 
 - id: c-184771
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 335"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 335."
   citata_originali: |
     Kazimierą, pats brolis Sviatopelko taikinėjo kry-
     žėjams, be to dar, kas vien ginklą pakėlė tarp vo­

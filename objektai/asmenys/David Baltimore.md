@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4b01f9c82cf598e3402b5145"
+canonical_name: "David Baltimore"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["David Baltimore"]
+sameAs: []
+canonical_biography: "O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus."
 ---
 # David Baltimore
 
@@ -59,7 +66,8 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 - id: c-21647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265."
   citata_originali: |
     Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
     tauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad

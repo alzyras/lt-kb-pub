@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9fd9696ff0c1abf6a58ca983"
+canonical_name: "Lautenburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lautenburgas"]
+sameAs: []
+canonical_biography: "Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau link."
+place_authority: true
+historical_names: []
 ---
 # Lautenburgas
 
@@ -50,7 +59,8 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 101."
   citata_originali: |
     Prieš pasitraukimą Jogaila dar jautė pareigą siųsti pasiun­
     tinį pas magistrą paklausti, ar jis nesutiktų aukščiau minėto­

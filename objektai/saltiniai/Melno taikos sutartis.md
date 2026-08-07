@@ -61,7 +61,8 @@ Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta 
 - id: c-84242
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 167."
   citata_originali: |
     Valakijos kunigaikščiai jo globos sie­
     kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­

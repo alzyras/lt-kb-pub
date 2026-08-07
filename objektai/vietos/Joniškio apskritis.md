@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3531b1913b36c14df615d189"
+canonical_name: "Joniškio apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Joniškio apskritis"]
+sameAs: []
+canonical_biography: "2% GASČIŪNŲ KAUTYNĖS 1945 m. balandžio 18 d. NKVD vidaus kariuomenės 261-ojo šaulių pulko pajėgos Joniškio aps."
+place_authority: true
+historical_names: []
 ---
 # Joniškio apskritis
 
@@ -59,7 +68,8 @@ media_all_json: |-
 - id: c-40279
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     2% GASČIŪNŲ KAUTYNĖS
 

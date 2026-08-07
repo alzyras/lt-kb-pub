@@ -61,7 +61,8 @@ Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m.
 - id: c-45507
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 144."
   citata_originali: |
     ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
     Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis

@@ -82,7 +82,8 @@ Nenurodyta
 - id: c-84090
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 210-211"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 210-211."
   citata_originali: |
     Supažindiname šiuo dabartiniu mūsų raštu, kam
     apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje
@@ -128,7 +129,8 @@ Nenurodyta
 - id: c-84091
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 210."
   citata_originali: |
     ## Puslapis 210
 

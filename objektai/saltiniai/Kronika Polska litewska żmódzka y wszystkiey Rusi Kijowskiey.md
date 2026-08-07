@@ -77,7 +77,8 @@ media_all_json: |-
 - id: c-33612
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 100."
   citata_originali: |
     **1. Akmens amžiaus laikai iki indoeuropiečiu pasirodymo**^1
 
@@ -102,7 +103,8 @@ media_all_json: |-
 - id: c-33613
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 251."
   citata_originali: |
     (^14) **PSRL, 17, 261, 314, 375, 440, 494p. M. Stryjkowski:** **_Kronika
     Polska, Litewska etc_** **., I, 1846, 370-372 p.**

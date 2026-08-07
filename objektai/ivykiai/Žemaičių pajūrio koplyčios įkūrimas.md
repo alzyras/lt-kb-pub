@@ -59,9 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184654
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 140"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 140."
   citata_originali: |
     Paskesniai rašo, jog S vendas, saulėlydinių žu-
     vėdų (danų) viešpats, norėdamas Žemaičių jūroj pa­

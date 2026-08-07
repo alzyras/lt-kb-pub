@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f9e2ac0599d520345fa60b0"
+canonical_name: "Tomas Naruševičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tomas Naruševičius"]
+sameAs: []
+canonical_biography: "Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pirmiausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingumo tęstinumą nuo LDK."
 ---
 # Tomas Naruševičius
 
@@ -68,7 +75,8 @@ Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pirmiausia
 - id: c-73680
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 142."
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     142

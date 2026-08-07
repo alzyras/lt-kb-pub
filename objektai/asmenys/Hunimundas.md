@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-33c63bcbe8b569b3ebdaebd1"
+canonical_name: "Hunimundas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hunimundas"]
+sameAs: []
+canonical_biography: "Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais, pavydo paskatinti ėmė maištauti prieš gotus ir sukėlė pilietinį karą. Tačiau atsitiko taip, kad svebų kara liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių bendrininkai, kažin kokio pavydo šiai pagrindinei tautai paskatinti, ėmė maištauti ir sukėlė pilietinį karą."
 ---
 # Hunimundas
 
@@ -91,7 +98,8 @@ Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais,
 - id: c-174300
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
   citata_originali: |
     Tas pats istorikas Jorda­
     nas, pasakodamas apie gotų kivirčus, pirmiausia mini

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-60eb3531e999e5f1fba2da22"
+canonical_name: "Vilniaus arsenalas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus arsenalas"]
+sameAs: []
+canonical_biography: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­ me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus arsenalas
 
@@ -46,7 +55,8 @@ media_all_json: |-
 - id: c-176879
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 330-331"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 330-331."
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau
     žaibus,

@@ -39,7 +39,7 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 <a id="claim-t-70254"></a>
 - t-001
   teiginys: "LDK oficialiajame kultūros modelyje lietuvių kalbą iš pradžių lenkė rusėnų, o vėliau lenkų kalba."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -72,7 +72,8 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 - id: c-69311
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 74."
   citata_originali: |
     Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta. Gyveni-
     mas reikalavo vis daugiau lietuviškų žodžių, bet, užuot juos kūrus, buvo
@@ -90,7 +91,8 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 - id: c-166843
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 72."
   citata_originali: |
     1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišką knygą LDK –
     „Katekizmą“, o 1599 m. kitą lietuvišką leidinį – „Postilė“, kurios pratarmė-

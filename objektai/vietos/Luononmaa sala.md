@@ -22,6 +22,15 @@ media_all_json: |-
 tags:
   - vieta
   - gamtinis-objektas
+entity_id: "ent-75e902f9c90087156b52754e"
+canonical_name: "Luononmaa sala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Luononmaa sala","Luononmaa saloje"]
+sameAs: []
+canonical_biography: "Luononmaa sala šiame šaltinyje minima kaip vieta, kurioje Augustas Robertas Niemi gyveno nuo penkerių metų."
+place_authority: true
+historical_names: []
 ---
 # Luononmaa sala
 

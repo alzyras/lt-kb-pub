@@ -75,7 +75,8 @@ Nenurodyta
 - id: c-82954
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 36-37"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 36-37."
   citata_originali: |
     Strijkovskis, 1. 406, pri­
     simena dar vieną Gedimino dukrą,

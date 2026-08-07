@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-213b00c639820a7f16c91f05"
+canonical_name: "Pušalotas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pušalotas"]
+sameAs: []
+canonical_biography: "“ Mūšis 1945 m. kovo pradžioje NKVD divizija puolė Pušaloto, Pasvalio, Žaliosios girios partizanus Panevėžio apskrityje. Po kelių dienų mūsų apylinkės pirmininkas Blinkevičius nusprendė, kad reikia prašyti Pušaloto valsčiaus valdžios, kad leistų surinkti miške likusius lavonus."
+place_authority: true
+historical_names: []
 ---
 # Pušalotas
 
@@ -56,7 +65,8 @@ media_all_json: |-
 - id: c-43789
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 225."
   citata_originali: |
     Po
     kelių dienų mūsų apylinkės pirmininkas

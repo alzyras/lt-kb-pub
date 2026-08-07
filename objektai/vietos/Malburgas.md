@@ -37,6 +37,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f2866cb020d7ed0ef925e027"
+canonical_name: "Malburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Malburgas","Malburgas Marienburgas"]
+sameAs: []
+canonical_biography: "Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules, drausdami Vok. Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę."
+place_authority: true
+historical_names: []
 ---
 # Malburgas
 
@@ -154,7 +163,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 149."
   citata_originali: |
     Prie šio teisėtų
     įpėdinių veto pridėjo savo žodį ir Žemaičių bajorai, pasisaky­
@@ -176,7 +186,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 122."
   citata_originali: |
     Ordinu, kuris nustojo teisės rengti prieš
     Lietuvą karo žygius, prisidengiant katalikų tikėjimo skelbimu.
@@ -195,7 +206,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - id: c-177480
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 152."
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
     52
@@ -220,7 +232,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - id: c-177481
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 343-344"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 343-344."
   citata_originali: |
     Karalius ŽYGIMANTAS AUGUSTAS
 
@@ -260,7 +273,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - id: c-177482
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 22."
   citata_originali: |
     Teutonų
     ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-721714b762d823c80e0e6034"
+canonical_name: "Kurauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kurauskas"]
+sameAs: []
+canonical_biography: "Eilinis Kurauskas atbėgo pas mane."
 ---
 # Kurauskas
 
@@ -50,7 +57,8 @@ Eilinis Kurauskas atbėgo pas mane.
 - id: c-42097
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 190."
   citata_originali: |
     Mūsų šaudymas labai suretėjo, nes pradėjo išsibaigti šovinių ištekliai. Bolševikai artėjo
     ir grūmojo šautuvų buožėmis. [...]. Buvo įsakyta užsidėti durtuvus. [...]. Bolševikai, pabėgę

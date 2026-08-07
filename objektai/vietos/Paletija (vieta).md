@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-05d1da1d101836cd99e165ed"
+canonical_name: "Paletija (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Paletija","Paletija (vieta)"]
+sameAs: []
+canonical_biography: "Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuriais Algirdas rėdė, ik šiai dienai Lietuvos įstatymais tebsirėdo, tai yra: Severija, Krivičiai, arba Baltieji Gudai, Juodieji Gudai, Volynija, Pa dalija, Paletija."
+place_authority: true
+historical_names: []
 ---
 # Paletija (vieta)
 
@@ -46,9 +55,9 @@ Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuria
 ## Citatos
 
 - id: c-184498
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 659"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 659."
   citata_originali: |
     Veltui
     nori šiandien tūli neprieteliai Lietuvos ir Žemaičių

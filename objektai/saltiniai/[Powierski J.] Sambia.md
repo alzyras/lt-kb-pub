@@ -70,7 +70,8 @@ Dusburgietis teigia, kad [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kra
 - id: c-61885
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
   citata_originali: |
     9—43.
     [Powierski J.] Sambia —SSS, Wrocław—Warszawa—Kraków—Gdańsk, 1975, t. 5, s.

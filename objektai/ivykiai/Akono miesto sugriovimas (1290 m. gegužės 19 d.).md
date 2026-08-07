@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-63511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas
     sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.
@@ -98,7 +99,8 @@ Nenurodyta
 - id: c-63512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     77. Apie Akono miesto sugriovimą
 

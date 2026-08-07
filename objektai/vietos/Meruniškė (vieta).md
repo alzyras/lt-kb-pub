@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-89ba7e285b9069236b9082b2"
+canonical_name: "Meruniškė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Meruniškė","Meruniškė (vieta)"]
+sameAs: []
+canonical_biography: "Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos į sritį, vadinamą Meruniškę, kurią visą į tyrą apvertęs, 18 pilių sugriovė ir jomylistas jų nu galavo; sugriejęs tenai neapseikimas gėrybes ir turtus, su didžia daugybe imtinių pagrįžo."
+place_authority: true
+historical_names: []
 ---
 # Meruniškė (vieta)
 
@@ -46,9 +55,9 @@ Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos �
 ## Citatos
 
 - id: c-184521
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 449"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 449."
   citata_originali: |
     Mistras kryžėjų, tuo kartu laimingai sugrįžęs,
     skubinai sukėlė vėl karėjus ir su didesne kariauna

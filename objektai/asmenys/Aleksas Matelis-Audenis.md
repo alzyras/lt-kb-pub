@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d7f2278a2caed5f282bcec31"
+canonical_name: "Aleksas Matelis-Audenis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksas Matelis-Audenis"]
+sameAs: []
+canonical_biography: "Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus viršininkas Aleksas Matelis-Audenis, apygardos vadas Antanas Starkus-Montė ir apygardos štabo viršininkas Albinas Pajarskas-Bebas."
 ---
 # Aleksas Matelis-Audenis
 
@@ -54,7 +61,8 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
 - id: c-41285
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 245."
   citata_originali: |
     Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio sky-
     riaus viršininkas Aleksas Matelis-Audenis, apygardos vadas Antanas

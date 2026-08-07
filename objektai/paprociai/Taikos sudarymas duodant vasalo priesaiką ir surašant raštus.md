@@ -93,7 +93,8 @@ Nenurodyta
 - id: c-178916
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 151."
   citata_originali: |
     O kai
     tik maskvėnai išgirdo Briansko pilį sudegus, paskubėjo

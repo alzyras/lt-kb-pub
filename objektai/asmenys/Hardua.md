@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c3c063a6cce468e48101182a"
+canonical_name: "Hardua"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hardua"]
+sameAs: []
+canonical_biography: "Narbuto teigimu, pagal Hardua rankraščius ir stebėjimus Plinijaus Baltija vadinta sala turėtų būti vadinama Basilia."
 ---
 # Hardua
 
@@ -70,7 +77,8 @@ Narbuto teigimu, pagal Hardua rankraščius ir stebėjimus Plinijaus Baltija vad
 - id: c-174289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-

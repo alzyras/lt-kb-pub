@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d293df05ca23c218f25038ea"
+canonical_name: "Nemuno-Dauguvos-Dniepro plotas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nemuno-Dauguvos-Dniepro plotas"]
+sameAs: []
+canonical_biography: ") baltuose ir jų san­ tykiai su kaimynais Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje vyko germanų tautų."
+place_authority: true
+historical_names: []
 ---
 # Nemuno-Dauguvos-Dniepro plotas
 
@@ -62,7 +71,8 @@ media_all_json: |-
 - id: c-33975
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 113."
   citata_originali: |
     **4. Vidurinis geležies amžius (400-800 m.) baltuose ir jų san­**
         **tykiai su kaimynais**

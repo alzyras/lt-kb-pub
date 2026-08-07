@@ -70,7 +70,7 @@ Nenurodyta
 <a id="claim-t-87025"></a>
 - t-002
   teiginys: "Dlugošo tekste prūsiškos bombardos stovėjo pievoje, kurioje už kojų ant medžio pakabintas Narimundas buvo kankinamas strėlėmis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   vertinimo_atnaujinta: "2026-06-13T14:21:42Z"
@@ -98,7 +98,8 @@ Nenurodyta
 - id: c-83003
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139-140"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139-140."
   citata_originali: |
     Vis dėlto visi
     pasistengta rasti kelis išdavikus, ku- kryžiuočių raštai ir jų kronikininkų
@@ -130,7 +131,8 @@ Nenurodyta
 - id: c-83004
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 143."
   citata_originali: |
     Tatai yra tiesiog pažodinis D1 u-
     g o š o, Lib. X, p. 129 vertimas. Vitol-
@@ -150,7 +152,8 @@ Nenurodyta
 - id: c-83005
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139."
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
     čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-993d700d2d15105cbbf93635"
+canonical_name: "Henrikas Blumkas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Blumkas"]
+sameAs: []
+canonical_biography: "Pablogėjus bajoro ir kauniečio santykiams verslovę bandė perimti kitas Kauno miestietis Henrikas Blumkas."
 ---
 # Henrikas Blumkas
 
@@ -49,9 +56,9 @@ Pablogėjus bajoro ir kauniečio santykiams verslovę bandė perimti kitas Kauno
 ## Citatos
 
 - id: c-185512
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 241"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 241."
   citata_originali: |
     Štai 1544 m. Kauno burmistras Andrius
     Mackavičius Šukas nuomoja miško verslovę iš bajoro Mikalojaus Andruškavičiaus.

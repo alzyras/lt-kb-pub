@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6fef43954f50fa943d72682b"
+canonical_name: "Heiraudas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Heiraudas"]
+sameAs: []
+canonical_biography: "Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties valdovu ir didvyriu, kurio dukra Heiridė ištekėjo už norvego Augmundo."
 ---
 # Heiraudas
 
@@ -56,7 +63,8 @@ Narbuto perteikiamose šiaurinėse sagose Heiraudas vadinamas rusų genties vald
 - id: c-174292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     234
     Islandų sakmėse, vadinamose šiaurinėmis sagomis,

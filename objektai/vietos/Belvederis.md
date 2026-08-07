@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e9d3a25b50e38456d8affeb1"
+canonical_name: "Belvederis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Belvederis"]
+sameAs: []
+canonical_biography: "Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi­ rurgijos Akademijos adjunkto pono Juzefo Mianovskio užmiesčio na­ mas, pramintas Belvederiu."
+place_authority: true
+historical_names: []
 ---
 # Belvederis
 
@@ -51,7 +60,8 @@ Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi
 - id: c-82151
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 291"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291."
   citata_originali: |
     Sklypas, skir­
     tas fabrikui statyti, buvo „prie Vil­

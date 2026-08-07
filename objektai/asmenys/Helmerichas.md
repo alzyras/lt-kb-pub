@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fa836872561227c2f2bc0243"
+canonical_name: "Helmerichas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Helmerichas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o palaidotas Kulmenzės bažnyčioje. Dusburgietis teigia, kad kai apie tai išgirdo magistras brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos žemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė."
 ---
 # Helmerichas
 
@@ -136,7 +143,8 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
 - id: c-85730
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais
 
@@ -155,7 +163,8 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
 - id: c-85731
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 129."
   citata_originali: |
     125 (120). Apie daugybės maldininkų atvykimą
     Kai Vokietijos žemėse pasklido gandai apie minėtųjų pilių sunaikinimą, subruzdo
@@ -182,7 +191,8 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
 - id: c-178707
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 117."
   citata_originali: |
     Nors šis
     laimėjimas ir suteikė Vaišvilkui džiaugsmo, tačiau ne­

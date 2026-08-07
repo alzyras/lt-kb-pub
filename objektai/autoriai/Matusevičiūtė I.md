@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2c8565d6554330918acbf23c"
+canonical_name: "Matusevičiūtė I"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Matusevičiūtė I"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad matusevičiūtė I."
 ---
 # Matusevičiūtė I
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad matusevičiūtė I.
 - id: c-61382
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Matusevičiūtė I. Kiek naujos medžiagos prūsų vardynui.— Archivum philologicum. K.,
     1939, kn. 8, p. 10—18.

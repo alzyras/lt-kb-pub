@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-170130281a0f327b456a2216"
+canonical_name: "Radaškovičiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Radaškovičiai"]
+sameAs: []
+canonical_biography: "1567 metų rudenį Žygimantas su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius, kur susitiko su caro pasiuntiniais."
+place_authority: true
+historical_names: []
 ---
 # Radaškovičiai
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-171936
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
   citata_originali: |
     Tais metais karaliui Žy­
     gimantui buvo daug darbų ir rūpesčių; mat, be ši­

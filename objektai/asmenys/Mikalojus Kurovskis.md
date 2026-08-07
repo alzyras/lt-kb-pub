@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-30d95de64e1f41d5461a623d"
+canonical_name: "Mikalojus Kurovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Kurovskis"]
+sameAs: []
+canonical_biography: "Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu."
 ---
 # Mikalojus Kurovskis
 
@@ -53,7 +60,8 @@ Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuo
 - id: c-169600
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 372."
   citata_originali: |
     Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
     Seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys­

@@ -58,7 +58,8 @@ Kad bitininkystė dar ir vėliau buvo svarbi ūkio šaka, rodo randami nuostatai
 - id: c-33632
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 143."
   citata_originali: |
     Seniausia miškinės bitininkystės forma Lietuvoje yra paliudyta ir
     mitologijoje bei tautosakoje. Kad bitininkystė dar ir vėliau buvo

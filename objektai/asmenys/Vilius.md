@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0cb90f691a7c4596d811f519"
+canonical_name: "Vilius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vilius"]
+sameAs: []
+canonical_biography: "Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo vado Viliaus, kuris juos iš Italijos atvedęs0."
 ---
 # Vilius
 
@@ -51,7 +58,8 @@ Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių
 - id: c-83912
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 62-63"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 62-63."
   citata_originali: |
     Dlugošas nurodo, jog Vilnius yra senovinis
     miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo

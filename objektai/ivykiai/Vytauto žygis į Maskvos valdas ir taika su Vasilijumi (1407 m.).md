@@ -118,7 +118,8 @@ Nenurodyta
 - id: c-169029
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 367."
   citata_originali: |
     Mat tų pačių metų pabaigoje, sudeginęs Briansko ir
     Starodubo pilis, jis perdavė kunigaikščiui Vasilijui Nau-
@@ -159,7 +160,8 @@ Nenurodyta
 - id: c-169030
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 368."
   citata_originali: |
     Viską apgalvojęs, galop įsakė kavalerijos pul­
     kų vadams paieškoti miškuose ir pelkėse neužkirstų pro­
@@ -189,7 +191,8 @@ Nenurodyta
 - id: c-178912
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 103."
   citata_originali: |
     Naugardiečiai, matydami pskoviečius jam pasidavus
     ir priėmus jo vietininką, nebenorėdami, kad jų žemė

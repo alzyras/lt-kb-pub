@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-50050f21fbb3b3c9a25f6c61"
+canonical_name: "Dytmaras"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dytmaras"]
+sameAs: []
+canonical_biography: "Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronikos autorius."
 ---
 # Dytmaras
 
@@ -63,7 +70,8 @@ Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronik
 - id: c-174521
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 429."
   citata_originali: |
     Sakinys, kuriuo T. Narbutas papildė paragra­
     fą, rengdamas antrąjį leidimą (PEĮ. P. 378—

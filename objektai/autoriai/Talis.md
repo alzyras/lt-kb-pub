@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9df122091f9fa27821c74ee6"
+canonical_name: "Talis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Talis"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Talį mini tarp autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo gintaro gavybos vietas. Talis gabenamas, nei kelio, kuriuo jį veždavo."
 ---
 # Talis
 
@@ -66,7 +73,8 @@ Teodoras Narbutas Talį mini tarp autorių, kurie žinojo gintarą, jo savybes i
 - id: c-174567
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Priartinus mūsų tyrimus prie
     geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos

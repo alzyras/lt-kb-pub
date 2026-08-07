@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ddb9c7fed19a2940e5035314"
+canonical_name: "Braclavas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Braclavas"]
+sameAs: []
+canonical_biography: "Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai. Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos."
+place_authority: true
+historical_names: []
 ---
 # Braclavas
 
@@ -136,7 +145,8 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 - id: c-46455
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 279."
   citata_originali: |
     Jų kiekvienas
     pavietas turėjo tokių pat, kaip ir visa valstybė: čia buvo ir
@@ -161,7 +171,8 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 - id: c-49105
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 65."
   citata_originali: |
     Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
     Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
@@ -181,7 +192,8 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 - id: c-168296
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 340."
   citata_originali: |
     Niekas taip
     D im itru i a tid u o d a  tė-
@@ -209,7 +221,8 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 - id: c-168297
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 489"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 489."
   citata_originali: |
     Štai todėl, norėdamas išvengti gink­
     luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats

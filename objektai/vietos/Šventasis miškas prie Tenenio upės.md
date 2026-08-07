@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bc84eda9f02777acf2ce7acf"
+canonical_name: "Šventasis miškas prie Tenenio upės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventasis miškas prie Tenenio upės"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, bet nelaimingiesiems veikiausiai ne. Hartknochas šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje, iš kurių viena įteka į Rusnės įlanką."
+place_authority: true
+historical_names: []
 ---
 # Šventasis miškas prie Tenenio upės
 
@@ -74,7 +83,8 @@ Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į š
 - id: c-171861
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Krikščionims iš smalsumo buvo
     draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
@@ -96,7 +106,8 @@ Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į š
 - id: c-171862
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Hartknochas pagal senus duomenis nurodo garsų šventąjį
     mišką, kurio vietą senovės Prūsijos žemėlapiuose pažymi prie

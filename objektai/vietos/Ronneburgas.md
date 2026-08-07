@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab9161fad1cb27dd6f823bfb"
+canonical_name: "Ronneburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ronneburgas"]
+sameAs: []
+canonical_biography: "Šitaip pagal Stryjkovskį buvo restauruoti Livonijos Ronneburgo analai ir necrologium14 15."
+place_authority: true
+historical_names: []
 ---
 # Ronneburgas
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-34025
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 52."
   citata_originali: |
     Kai kurie jo kronikoje naudoti ir išversti šaltiniai nė­
     ra išlikę iki mūsų dienų. Šitaip pagal Stryjkovskį buvo restauruoti

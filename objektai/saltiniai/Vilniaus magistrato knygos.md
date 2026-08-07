@@ -59,7 +59,8 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
 - id: c-84470
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 401-402"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 401-402."
   citata_originali: |
     Duota Vilniuje, liepos dvidešimt šeštąją, tūkstantis penki
     šimtai trisdešimt trečiaisiais Viešpaties metais. Dalyvaujant

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-81cced2a746fa99ed43b3be1"
+canonical_name: "Jurgis (Lengvenio sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis (Lengvenio sūnus)"]
+sameAs: []
+canonical_biography: "Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smolensko pulkai, kuriems vadovavo Lengvenio sūnus Jurgis, anot Dlugošo, «laimėjo didelę..."
 ---
 # Jurgis (Lengvenio sūnus)
 
@@ -51,7 +58,8 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
 - id: c-28927
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 348."
   citata_originali: |
     Centre tarp lietuvių ir lenkų (kariuomenės
     kairiojo sparno) pasilikusieji Smolensko pulkai, kuriems vadovavo

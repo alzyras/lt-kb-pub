@@ -29,8 +29,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ef14ef348d7033ede4bc9b9a"
+canonical_name: "Gimbutas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gimbutas"]
+sameAs: []
+canonical_biography: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę."
 ---
 # Gimbutas
+
+## Santrauka
+
+1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę.
 
 ## Santrauka
 
@@ -41,7 +52,7 @@ media_all_json: |-
 <a id="claim-t-200697"></a>
 - t-001
   teiginys: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,6 +78,6 @@ media_all_json: |-
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 11."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 11:39"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cc67d479f56b0e13d45d4161"
+canonical_name: "Vaitiekus Kiočka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaitiekus Kiočka"]
+sameAs: []
+canonical_biography: "Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos. Vaitiekus Kiočka neįstengė sugrąžinti didikų atgal prie karaliaus."
 ---
 # Vaitiekus Kiočka
 
@@ -69,7 +76,8 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
 - id: c-169623
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 537"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 537."
   citata_originali: |
     Vos k araliu s šitai sužinojo, b em at
     išsiuntė kuo skubiausiai žygūnus, kurie išvykstantiems

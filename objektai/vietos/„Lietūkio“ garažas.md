@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6cbab2ebb316b947c71606ac"
+canonical_name: "„Lietūkio“ garažas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["„Lietūkio“ garažas"]
+sameAs: []
+canonical_biography: "Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba bandančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje, 27 – Kauno „Lietūkio“ garaže, nors SD. Žydų žudynės „Lietūkio“ garaže 1941 m. birželio 27 d. (R."
+place_authority: true
+historical_names: []
 ---
 # „Lietūkio“ garažas
 
@@ -38,7 +47,7 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
 <a id="claim-t-69974"></a>
 - t-001
   teiginys: "1941 m. birželio 27 d. Kauno „Lietūkio“ garaže lietuviai dalyvavo SD inspiruotame žiauriame pogrome."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1941 m."
@@ -71,7 +80,8 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
 - id: c-69156
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 199."
   citata_originali: |
     Ginkluoti partizanai
     nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai
@@ -98,7 +108,8 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
 - id: c-69157
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 199."
   citata_originali: |
     Specialiosios SD grupės (Tilžės gestapo būrys)
     1941 m. birželio 24 d. sušaudė tik žydus (vyrus) 25 km ruože Lietuvos ir
@@ -121,7 +132,8 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
 - id: c-167042
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 199."
   citata_originali: |
     Einzatsgrupės terorą organizavo taip, kad atrodytų, jog pirmuosius
     pogromus ir „apsivalymo“ akcijas vykdo vietiniai gyventojai. Talkinin-

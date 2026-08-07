@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-877df3bbb88b6b0447cda428"
+canonical_name: "M. Vasmeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Vasmeris"]
+sameAs: []
+canonical_biography: "Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko."
 ---
 # M. Vasmeris
 
@@ -51,7 +58,8 @@ Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
 - id: c-33066
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 131."
   citata_originali: |
     O rytų baltų gyventas
     plotas rytuose yra buvęs žymiai platesnis. Kalbiškai išgliau­

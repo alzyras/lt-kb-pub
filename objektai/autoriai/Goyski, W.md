@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b42f9cfdcd46abe6a3d1267f"
+canonical_name: "Goyski, W"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Goyski, W"]
+sameAs: []
+canonical_biography: "— Goyski, W."
 ---
 # Goyski, W
 
@@ -56,7 +63,8 @@ media_all_json: |-
 - id: c-32932
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 342."
   citata_originali: |
     Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius pavergėjus
     1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p. (išsamiai tyrinėti šalti­

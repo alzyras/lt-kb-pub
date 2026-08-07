@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1f5252dad90b53a13782f2ab"
+canonical_name: "Kumanų žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kumanų žemė"]
+sameAs: []
+canonical_biography: "Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, iš kurios Vytenis vėliau grįžo į Polocką."
+place_authority: true
+historical_names: []
 ---
 # Kumanų žemė
 
@@ -62,7 +71,8 @@ Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, i�
 - id: c-171901
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     O Lietu­
     vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­

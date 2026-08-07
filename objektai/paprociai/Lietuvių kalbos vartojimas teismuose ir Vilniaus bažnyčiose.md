@@ -53,7 +53,8 @@ Nenurodyta
 - id: c-174987
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 513"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 513."
   citata_originali: |
     Atvirkščiai,
     visi prieinami tyrinėjimai rodo, kad toji tauta skyrėsi nuo lietuvių.

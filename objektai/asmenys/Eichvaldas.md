@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15342e1e6c4a54ac95564118"
+canonical_name: "Eichvaldas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eichvaldas"]
+sameAs: []
+canonical_biography: "Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį prieš skitus ir jame Darijaus žygio vietą siejo su Polese."
 ---
 # Eichvaldas
 
@@ -54,7 +61,8 @@ Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį pri
 - id: c-174272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
   citata_originali: |
     Ko
     gero, remdami Skitijos kolonistus graikus, persai palaikė

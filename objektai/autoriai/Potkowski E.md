@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-389ac92822404e1128f1e3ad"
+canonical_name: "Potkowski E"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Potkowski E"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad po derybų Fridrichas II pripažino popiežiaus valdžiai teisę spręsti dvasiškus reikalus, tačiau atmetė teisę kištis į pasaulietinių valdovų reikalus (Potkowski E."
 ---
 # Potkowski E
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad po derybų Fridrichas II pripažino popiežiaus valdži
 - id: c-61402
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 51."
   citata_originali: |
     Popiežiaus mirtį imperatorius manifeste krikščioniškosios Europos valdovams
     traktavo kaip pergalę. Konfliktas tęsėsi ir Inocento IV laikais. Po derybų Fridrichas II

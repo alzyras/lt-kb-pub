@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-00209
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 45."
   citata_originali: |
     Tie keliai būdavo tokie
     vingrūs ir pilni klastingų posūkių, kad jais tegalėjo eiti tik pri-

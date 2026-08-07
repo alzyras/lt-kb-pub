@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5eb848e41895b49241e469de"
+canonical_name: "Ašminta"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ašminta"]
+sameAs: []
+canonical_biography: "Staliorių, Rugienių X AŠMINTOS SUSISPROGDINIMAS 1947 m. liepos 17 d. Prienų aps."
+place_authority: true
+historical_names: []
 ---
 # Ašminta
 
@@ -61,7 +70,8 @@ Staliorių, Rugienių X AŠMINTOS SUSISPROGDINIMAS 1947 m. liepos 17 d. Prienų 
 - id: c-40245
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     Staliorių, Rugienių
 

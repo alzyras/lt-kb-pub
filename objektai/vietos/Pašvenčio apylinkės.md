@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47f53e737d42a89a50011749"
+canonical_name: "Pašvenčio apylinkės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pašvenčio apylinkės"]
+sameAs: []
+canonical_biography: "Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologinį pasakojimą apie Krūminę ir jos dukterį."
+place_authority: true
+historical_names: []
 ---
 # Pašvenčio apylinkės
 
@@ -54,7 +63,8 @@ Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologi
 - id: c-171851
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 136."
   citata_originali: |
     Pats pavadinimas, iš­
     reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­

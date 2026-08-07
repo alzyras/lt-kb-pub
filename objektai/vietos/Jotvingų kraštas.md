@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4b35729d05394c5a57ebb092"
+canonical_name: "Jotvingų kraštas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jotvingų kraštas"]
+sameAs: []
+canonical_biography: "Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų krašte. Mindaugas jo gyvenamajai vietai buvo paskyręs pietines Lietuvos sritis (jotvingų žemėje)."
+place_authority: true
+historical_names: []
 ---
 # Jotvingų kraštas
 
@@ -59,7 +68,8 @@ Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų
 - id: c-72092
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 54."
   citata_originali: |
     Toli įėjęs į aisčių kraštą, jis 1009 metais
     vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.

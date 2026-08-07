@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5b3c3472ef69f91f487c9ae5"
+canonical_name: "Mykolas Romanaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Romanaitis"]
+sameAs: []
+canonical_biography: "Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo tapo miestietis iš Kauno priemiesčio Raginės Mykolas Romanaitis."
 ---
 # Mykolas Romanaitis
 
@@ -41,9 +48,9 @@ Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo 
 ## Citatos
 
 - id: c-185541
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 188"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 188."
   citata_originali: |
     Kol
     byla nesibaigė, Martynas, kad išliktų laisvas, prisidengė miestiečio sėslumu. Augusti-

@@ -91,7 +91,8 @@ media_all_json: |-
 - id: c-00371
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 138."
   citata_originali: |
     Juo buvo patvirtintas Vytauto sava-
     rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
@@ -112,7 +113,8 @@ media_all_json: |-
 - id: c-12476
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 69."
   citata_originali: |
     Žemaičiai, nepatenkinti Vokiečių ordino valdžia, buvo ne
     kartą sukilę, dažnai jų veiksmus paremdavo Vytautas. Po

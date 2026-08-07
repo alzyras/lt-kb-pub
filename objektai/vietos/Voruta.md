@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d947a410b356ad8f505f70b7"
+canonical_name: "Voruta"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Voruta"]
+sameAs: []
+canonical_biography: "Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė vengdamas kautis atvirame lauke. Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė vengdamas kautis atvirame lauke."
+place_authority: true
+historical_names: []
 ---
 # Voruta
 
@@ -72,7 +81,8 @@ Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė v
 - id: c-170394
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
   citata_originali: |
     Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
     parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė

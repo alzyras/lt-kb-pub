@@ -35,6 +35,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-847cc36eeafe6ea4bf156628"
+canonical_name: "Vilniaus Aukštutinė pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus Aukštutinė pilis"]
+sameAs: []
+canonical_biography: "Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą. Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux. Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus Aukštutinė pilis
 
@@ -111,7 +120,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 - id: c-177526
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 138."
   citata_originali: |
     Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
     kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
@@ -129,7 +139,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 - id: c-177527
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 217."
   citata_originali: |
     ## Puslapis 217
 
@@ -149,7 +160,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 - id: c-177528
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 155-156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 155-156."
   citata_originali: |
     Paminėsime tad tik
     žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
@@ -182,7 +194,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 - id: c-177529
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 138."
   citata_originali: |
     Prie jos šliejosi
     pats miesto centras, nedidelis, su mediniais namais, bet su
@@ -208,7 +221,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 - id: c-177530
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 65."
   citata_originali: |
     „Tad tenai Gedimi­
     nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
@@ -250,7 +264,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 - id: c-177531
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 181."
   citata_originali: |
     Mano Petras negalėjo išsiteirauti apie Švitri­
     gailos pasišalinimo priežastį: tepasakė man, kad Švitrigaila

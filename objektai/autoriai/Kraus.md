@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b1f335ad6dfb3809f670be7"
+canonical_name: "Kraus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kraus"]
+sameAs: []
+canonical_biography: "Nužymėti šį prekybos kelią padėjo: Kraus."
 ---
 # Kraus
 
@@ -46,7 +53,8 @@ Nužymėti šį prekybos kelią padėjo: Kraus.
 - id: c-177279
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
   citata_originali: |
     5 Nužymėti šį prekybos kelią padėjo:
     Kraus.

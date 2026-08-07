@@ -88,7 +88,8 @@ Nenurodyta
 - id: c-83194
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 160-161"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 160-161."
   citata_originali: |
     144
 
@@ -114,7 +115,8 @@ Nenurodyta
 - id: c-83195
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 161-162"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 161-162."
   citata_originali: |
     Tačiau Jogaila norėjo tą vien tik asme­
     niškai Vytauto duotą pasižadėjimą padaryti reikšmingesnį gau­

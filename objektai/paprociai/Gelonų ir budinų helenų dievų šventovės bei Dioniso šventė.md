@@ -47,15 +47,22 @@ Nenurodyta
 <a id="claim-t-193028"></a>
 - t-001
   teiginys: "Narbutas, remdamasis Herodotu, rašo, kad budinų tvirtovėse stovėjo medinės helenų dievų šventyklos, altoriai ir koplytėlės."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Budinai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gelonų ir budinų helenų dievų šventovės bei Dioniso šventė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Budinai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gelonų ir budinų helenų dievų šventovės bei Dioniso šventė\" parinktas kaip owner_note_path. Targetas \"Budinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-179247
+    - c-175798
 
 <a id="claim-t-193029"></a>
 - t-002
@@ -94,7 +101,8 @@ Nenurodyta
 - id: c-175798
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 76."
   citata_originali: |
     60
     Iš Herodoto žinome, kad budinai savo žemėje turėjo
@@ -109,14 +117,17 @@ Nenurodyta
   citata_rodoma: "60\nIš Herodoto žinome, kad budinai savo žemėje turėjo\npastatę medines tvirtoves. Viena jų buvo kvadratinė, kiek­\nvienas jos šonas turėjo 30 stadijų, t. y. buvo 3000 rusiš­\nkų sieksnių ilgio, ir vadinosi Gelonos. Jų tvirtovės buvo\nlabai didingos, jose taip pat stovėdavo medinės šventyk­\nlos, kuriose buvo helenų dievai, garbinami heleniškai,\naltoriai ir koplytėlės irgi buvo iš medžio. Ten kasmet bū­\ndavo minimos Dioniso (Bacho) šventės ir vykdavo bak­\nchanalijos."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-175799
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 391."
   citata_originali: |
     Ten yra helenų dievų bažnyčių, hele-
     nų papročiu tapytų dievų paveikslų (’EXXrpnxwg aexaxeua-
@@ -143,7 +154,8 @@ Nenurodyta
 - id: c-179247
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 391."
   citata_originali: |
     Jų krašte stovi medinis
     miestas (jtožig guž.Luų); šis miestas vadinamas Gelonos
@@ -160,5 +172,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003

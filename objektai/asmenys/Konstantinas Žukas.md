@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b780ed56ab53f0ff648e2811"
+canonical_name: "Konstantinas Žukas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konstantinas Žukas"]
+sameAs: []
+canonical_biography: "Konstantinas Žukas."
 ---
 # Konstantinas Žukas
 
@@ -51,7 +58,8 @@ Konstantinas Žukas.
 - id: c-44428
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 199."
   citata_originali: |
     Po Steigiamojo seimo rinkimų krašto ap-
     saugos ministru ir vyriausiuoju kariuo-

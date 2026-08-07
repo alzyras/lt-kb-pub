@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-172501
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
   citata_originali: |
     Ieškoti žinių apie tuos požemius ir pilis palie­
     kame busimiesiems krašto senovės tyrėjams, čia apsiribojame

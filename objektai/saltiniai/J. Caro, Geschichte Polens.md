@@ -100,7 +100,8 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
 - id: c-03572
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 17."
   citata_originali: |
     Smolka, Fr. Papėe.
     GePCa = Caro, J. : Geschichte Polens, t. 2-5 (1300-1506), Gotha
@@ -117,7 +118,8 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
 - id: c-110943
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 371"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 371."
   citata_originali: |
     — HrlU,
     **IV, 127 p. — J.** Caro **:** **_Geschichte Polens,_** **III, 1869, 211** p.

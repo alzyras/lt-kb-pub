@@ -61,7 +61,8 @@ Nenurodyta
 - id: c-67037
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 378."
   citata_originali: |
     Bet nepasisekė nė čia. Padarius sąjungą su
     Austrija, turkai užpuolė šią ir pasiekė net Vieną. Kritiškuoju

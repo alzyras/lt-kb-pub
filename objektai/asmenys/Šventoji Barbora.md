@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b17e29c6dbf85b0570330d4f"
+canonical_name: "Šventoji Barbora"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šventoji Barbora"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei kankinės Barboros galvą, kurią išvydę kniūpsti puolė ant žemės, dėkodami dievui už tokios šlovingos dovanos suradimą. Dusburgietis teigia, kad šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta, tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“. Dusburgietis teigia, kad į tai ji atsakė: „Visą laiką be galo pamaldžiai garbinau šventą Barborą, dėl to šiąnakt ji man tris kartus pasirodė pasikaišiusi drabužius, nelyginant išsirengusi pasivaikščioti, o aš jai tariau: „Kur eini, šventoji mergele?“ Ji atsakė: „Ketinu nueiti į Kulmo."
 ---
 # Šventoji Barbora
 
@@ -101,7 +108,8 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 - id: c-60711
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 86."
   citata_originali: |
     Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
     išėjo iš rūsio. Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
@@ -120,7 +128,8 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 - id: c-60712
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 86."
   citata_originali: |
     Į tai ji atsakė:
     „Visą laiką be galo pamaldžiai garbinau šventą Barborą, dėl to šiąnakt ji man tris kartus
@@ -140,7 +149,8 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 - id: c-60713
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 86."
   citata_originali: |
     Šitai padarę, aptiko viename
     rūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei

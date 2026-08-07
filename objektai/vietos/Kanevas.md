@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-48db7748cc8faea014de185f"
+canonical_name: "Kanevas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kanevas"]
+sameAs: []
+canonical_biography: "(į šiaurę nuo Kijevo), Kanevas, Cerkasai (prie Dniepro žemiau Kijevo; xvi a."
+place_authority: true
+historical_names: []
 ---
 # Kanevas
 
@@ -104,7 +113,8 @@ media_all_json: |-
 - id: c-45123
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 36."
   citata_originali: |
     (į šiaurę nuo Kijevo), Kanevas, Cerkasai
     (prie Dniepro žemiau Kijevo; xvi a. vidu-
@@ -129,7 +139,8 @@ media_all_json: |-
 - id: c-168329
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Visi luo­
     mai, išėję iš miesto, sveikino

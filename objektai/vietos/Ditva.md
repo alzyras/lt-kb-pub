@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e802baeef40fadd7c1dd5933"
+canonical_name: "Ditva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ditva"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairiojo Ditvos kranto, o dešiniajame krante jų nebuvę."
+place_authority: true
+historical_names: []
 ---
 # Ditva
 
@@ -54,7 +63,8 @@ Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairio
 - id: c-171876
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
   citata_originali: |
     Tai galima pastebėti iš to, kas išdėstyta,
     ir iš kai kurių žmonių pasakojimų. Kaip tik tokie bjaurūs vabz­

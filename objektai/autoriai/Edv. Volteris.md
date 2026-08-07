@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5d03eb0b892a7988facc09aa"
+canonical_name: "Edv. Volteris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Edv. Volteris"]
+sameAs: []
+canonical_biography: "Volteris)."
 ---
 # Edv. Volteris
 
@@ -50,7 +57,8 @@ Volteris).
 - id: c-29228
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 127."
   citata_originali: |
     Lietuvos vardas buvo kildinamas iš šiaurės-rytų
     Aukštaičiuose ieškomų « Lietuvos » upės pėdsakų (Edv. Volteris).

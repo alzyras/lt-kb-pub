@@ -18,6 +18,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-869ad6ff070036e0e925ec08"
+canonical_name: "Spitekas iš Melštino"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Spitekas iš Melštino"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Spitekas iš Melštino
 

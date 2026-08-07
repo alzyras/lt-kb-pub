@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e9a136b6bb0f9031b3164633"
+canonical_name: "Adalbertas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adalbertas"]
+sameAs: []
+canonical_biography: "Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo priimtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengrijos soste šv."
 ---
 # Adalbertas
 
@@ -34,7 +41,8 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 - id: c-21539
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 26."
   citata_originali: |
     Paminėkime tokią grandinę: Lenkijos valdovo
     Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988),

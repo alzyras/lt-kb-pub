@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b3d050f1219ad5bb6d0ba35b"
+canonical_name: "Eiguliai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Eiguliai"]
+sameAs: []
+canonical_biography: "Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, kurie nepastebėti užėjo besirengiantiems apėjimui bolševikams į užnugarį ir netikėtai juos apmėtę granatomis bei apšaudę privertė iš Eigulių kaimo skubiai trauktis į Juodikio mišką."
+place_authority: true
+historical_names: []
 ---
 # Eiguliai
 
@@ -64,7 +73,8 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
 - id: c-45091
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 174."
   citata_originali: |
     Perpratęs rusų
     sumanymą J. Šarauskas į Paobelių kaimą
@@ -90,9 +100,9 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
     - t-001
 
 - id: c-184941
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 131."
   citata_originali: |
     Šių kelių tąsos už miesto branduolio ribų buvo traukos veiksniai Kauno miesto
     valdose besikuriantiems priemiesčiams - jie augo prie šių kelių. To negalima pa-

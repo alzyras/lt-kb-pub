@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a82681b088fa99577946a1e2"
+canonical_name: "Laurynas Stoka-Gucevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Laurynas Stoka-Gucevičius"]
+sameAs: []
+canonical_biography: "Lauryno Stokos-Gucevičiaus Katedros projekte nebuvo fasado statulų; jas po architekto mirties pridėjo Mykolas Šulcas."
 ---
 # Laurynas Stoka-Gucevičius
 

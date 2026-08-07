@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0db84f98195ecf9cf954e4ad"
+canonical_name: "Palestina"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Palestina"]
+sameAs: []
+canonical_biography: "Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestinoje ir vyravo nuomonė, kad su netikėliais pagonimis reikią kariauti, todėl savanorių karių atsirasdavo nemaža. Palestinoje, einant kryžiaus karams su turkais, krikščionims apsaugoti ir kariauti buvo įsteigti net keli riterių vienuolių ordinai (templininkų, joanitų ir vokiečių, arba kryžiuočių, ordinas)."
+place_authority: true
+historical_names: []
 ---
 # Palestina
 
@@ -61,7 +70,8 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
 - id: c-166458
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 56."
   citata_originali: |
     Dažnai jis pats nuvykdavo į Vokietiją ir atsiveždavo
     būrius karių ir riterių, kurie jam padėjo ne tik saugoti esančias

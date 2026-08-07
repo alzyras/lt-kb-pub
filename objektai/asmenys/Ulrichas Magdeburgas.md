@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d0776fb68c79e62e8ad32d7e"
+canonical_name: "Ulrichas Magdeburgas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ulrichas Magdeburgas"]
+sameAs: []
+canonical_biography: "Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karaliaučiaus, atleido laivus su mitalu, kuriuos Ulrichas Magdeburgas, vadinamas Milžinu kryžėjų, su kitais brostviais saugojo."
 ---
 # Ulrichas Magdeburgas
 
@@ -41,9 +48,9 @@ Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karali
 ## Citatos
 
 - id: c-184754
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 412"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 412."
   citata_originali: |
     Tuo tarpu ant balso popiežiaus viešpačiai Tiu-
     ringijos, Brandenburgijos, Misnijos, Braunšveigo ir

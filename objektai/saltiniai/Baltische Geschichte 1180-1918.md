@@ -50,7 +50,8 @@ Wittram : Baltische Geschichte 1180-1918 (WiBG).
 - id: c-33536
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 98."
   citata_originali: |
     — G. von Rauch :** **_Ge­
     schichte der baltischen Staaten_** **(1970). — R. Wittram :** **_Baltische Geschichte

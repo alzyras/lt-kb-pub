@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-82886
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 393-394"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 393-394."
   citata_originali: |
     IV KNYGA
     pasakytum, kad turite paklusti teisei, pagal rašytus žemės

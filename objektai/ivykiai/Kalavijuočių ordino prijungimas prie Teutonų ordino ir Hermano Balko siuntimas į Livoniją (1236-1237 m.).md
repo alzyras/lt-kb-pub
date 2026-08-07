@@ -155,7 +155,8 @@ Nenurodyta
 - id: c-63627
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 83."
   citata_originali: |
     Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
     Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo
@@ -184,7 +185,8 @@ Nenurodyta
 - id: c-63628
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 84."
   citata_originali: |
     263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.
       264  Žr. paaiškinimus D. II, 12, 182.
@@ -198,7 +200,8 @@ Nenurodyta
 - id: c-63629
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
   citata_originali: |
     Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė
     su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus

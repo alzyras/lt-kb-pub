@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f376b9f4d3dce461722575fa"
+canonical_name: "Petras Roizijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Petras Roizijus"]
+sameAs: []
+canonical_biography: "Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio masPetrus Maureus Royzius, gimęs Alcagnizo [ Alkaniso] mieste Aragonoje, kilęs iš ispanų Ruiz de Moros gi minės."
 ---
 # Petras Roizijus
 
@@ -54,7 +61,8 @@ Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusi
 - id: c-176910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 302."
   citata_originali: |
     Tačiau šio karaliaus val­
     dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­

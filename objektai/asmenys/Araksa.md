@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-36c8c7a87bde8876466179f9"
+canonical_name: "Araksa"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Araksa"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo dukra ir Skito, skitų genties protėvio, motina."
 ---
 # Araksa
 
@@ -54,7 +61,8 @@ Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo d
 - id: c-174248
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Bu­
     dinai, kaip jau sakėme, yra senovės Azijos skitų kasta,

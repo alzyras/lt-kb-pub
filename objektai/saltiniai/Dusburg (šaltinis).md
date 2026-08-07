@@ -46,9 +46,9 @@ Tuojau ant to balso popiežiaus sukilo ne vien diduomenė vokyčių, anglų, ven
 ## Citatos
 
 - id: c-184784
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 559"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 559."
   citata_originali: |
     Vladislovas, paklausęs popiežiaus, sandarą padarė
     ant vienų metų su kryžėjais, kuriuos popiežius dar

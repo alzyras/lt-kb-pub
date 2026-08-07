@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cfab2de6e0bbfd8baf90bc90"
+canonical_name: "Petras Olai"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Petras Olai"]
+sameAs: []
+canonical_biography: "Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje\", yra kaip tik tas, kuris, viena vertus, atbloškė Riuriką ir jo variagus į Rusiją, kita ver­ tus, galbūt tariamąjį Palemoną su draugais - į Lietuvą."
 ---
 # Petras Olai
 
@@ -50,7 +57,8 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
 - id: c-84018
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 32."
   citata_originali: |
     Nors ir patogio­
     je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e262187ec2a369a2435bed77"
+canonical_name: "K. Duonelaitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Duonelaitis","Duonelaičio","K. Duonelaitis"]
+sameAs: []
+canonical_biography: "K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami darbai raštai, 1818 m. pirmą kartą paskelbti raštai."
 ---
 # K. Duonelaitis
 
@@ -83,7 +90,8 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 - id: c-00076
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 664"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 664."
   citata_originali: |
     Per 35 m. ji išleido 40
     veikalų (ne tik originalių lietuviškų raštų, bet ir verstinių). Be
@@ -104,7 +112,8 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 - id: c-00109
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 627"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 627."
   citata_originali: |
     Į Mažąją Lietuvą jie atnešė daug netikusių
     papročių — tinginiavimą, girtybę, muštynes ir ištvirkavimą. To-

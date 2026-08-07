@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e368c4b9873c91186584609c"
+canonical_name: "Izabelė Jogailaitė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Izabelė Jogailaitė"]
+sameAs: []
+canonical_biography: "Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mums kilusių sunkumų, taip pat norime, kad abiems jų didenybėms būtų atiduoti kraičiai, kaip yra tai padaryta vyresniosioms mū­ sų seserims - jos didenybei karalaitei Izabelei, Vengrijos — •."
 ---
 # Izabelė Jogailaitė
 
@@ -59,7 +66,8 @@ Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mum
 - id: c-83675
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 355-356"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 355-356."
   citata_originali: |
     Prašome jų didenybių rnūsų
     seserų, kad nesiteiktų mūsų bloguoju minėti, kad perspėjo-

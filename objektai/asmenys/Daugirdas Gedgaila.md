@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-811d849421a37fc98f5eedb0"
+canonical_name: "Daugirdas Gedgaila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Daugirdas Gedgaila"]
+sameAs: []
+canonical_biography: "Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad Podolės bajorai, vadovaujami Gregoro Kierdėjaus, klastingai sugavę Daugirdą Gedgailą, anuomet Vytauto vardu valdžiusį Podolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­ dami viršenybę."
 ---
 # Daugirdas Gedgaila
 
@@ -51,7 +58,8 @@ media_all_json: |-
 - id: c-83630
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 226-227"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 226-227."
   citata_originali: |
     210
 

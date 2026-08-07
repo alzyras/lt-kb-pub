@@ -100,13 +100,12 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 <a id="claim-t-193053"></a>
 - t-004
   teiginys: "Petras Dusburgas Prūsijos žemės kronikoje nurodė Žemaitijoje buvus net 70 tokių „karaliukų“."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Viena"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38783
-    - c-175820
 
 <a id="claim-t-193055"></a>
 - t-005
@@ -148,7 +147,8 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 14."
   citata_originali: |
     Tokių istorijos
     šaltinių įvairiais vardais vadinamų valdovų būta labai daug.
@@ -170,7 +170,8 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 - id: c-43295
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 34."
   citata_originali: |
     NUSIAUBTA LENKIJA
 
@@ -198,7 +199,8 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 - id: c-43296
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 35."
   citata_originali: |
     Valdant Gediminui
     Lietuva ėmė sparčiai plėstis į rytus
@@ -227,7 +229,8 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 - id: c-175819
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 29."
   citata_originali: |
     XIII a. Šilainiai,
     Raudonė,
@@ -250,7 +253,8 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 14."
   citata_originali: |
     Tokių istorijos
     šaltinių įvairiais vardais vadinamų valdovų būta labai daug.
@@ -263,16 +267,15 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   citata_rodoma: "Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­\ntijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako\n1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )"
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-
 - id: c-175821
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 85."
   citata_originali: |
     Grigaliaus šven­
     tės tie patys lietuviai į Memelio
@@ -308,7 +311,8 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 - id: c-175822
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 430"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 430."
   citata_originali: |
     Tą
     lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy­

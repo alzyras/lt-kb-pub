@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2929530228c4f59daf7e9cc2"
+canonical_name: "Fridrichas (riteris)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fridrichas (riteris)"]
+sameAs: []
+canonical_biography: "Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu. Galustalės puotoje greta austrų riterio Kinodijaus sėdėjo Fridrichas, Meiseno markgrafas."
 ---
 # Fridrichas (riteris)
 
@@ -47,7 +54,8 @@ Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu. Galusta
 - id: c-169564
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
   citata_originali: |
     Galustalėje
     šau n ią p u o tą

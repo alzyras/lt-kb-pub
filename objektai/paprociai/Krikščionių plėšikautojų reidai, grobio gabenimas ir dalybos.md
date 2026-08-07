@@ -53,11 +53,18 @@ Nenurodyta
 <a id="claim-t-59739"></a>
 - t-001
   teiginys: "Martynas su bendrais prie Bugo užpuolė prekių laivą, išžudė upeivius, nuplukdė grobį į Torunę ir pasidalijo pinigus."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60372
+    - c-60371
 
 <a id="claim-t-59740"></a>
 - t-002
@@ -132,7 +139,8 @@ Nenurodyta
 - id: c-60371
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
   citata_originali: |
     Apie tą patį
 
@@ -151,14 +159,17 @@ Nenurodyta
   citata_rodoma: "Apie tą patį\n\n  Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs\nper patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui\nir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė\npokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į\nlaivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo\npo 20 markių dalies.\n\n\n\n\n\n      230 (225)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-60372
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
     krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],
@@ -180,13 +191,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
 
 - id: c-60373
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Apie tą patį
     Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą

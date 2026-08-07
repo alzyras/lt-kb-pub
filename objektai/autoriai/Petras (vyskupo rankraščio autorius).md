@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5d6e15bc354301edb571e0ec"
+canonical_name: "Petras (vyskupo rankraščio autorius)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Petras (vyskupo rankraščio autorius)"]
+sameAs: []
+canonical_biography: "Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė elementarųjį apsivalymą."
 ---
 # Petras (vyskupo rankraščio autorius)
 
@@ -47,7 +54,8 @@ Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė
 - id: c-173329
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
   citata_originali: |
     Švenčiant Rasos šventę, šokinėta per degantį laužą, sukrautą
     pusračiu, kaip tai mini Strijkovskis. Vyskupo Petro rankrašty­

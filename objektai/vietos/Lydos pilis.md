@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a10336c49c53aa8380afa195"
+canonical_name: "Lydos pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lydos pilis","Lydos pilis (pilis)"]
+sameAs: []
+canonical_biography: "Lydos pilis šiame šaltinyje minima kaip mūrinė pilis, kuri turėjo būti pastatyta Vytauto valdymo pradžioje."
+place_authority: true
+historical_names: []
 ---
 # Lydos pilis (pilis)
 
@@ -80,7 +89,8 @@ Nenurodyta
 - id: c-05663
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 384"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 384."
   citata_originali: |
     Berods, Vytauto laikais buvo dar
     mūrais sustiprinta Medininkų pilis. Jo valdymo pradžioje turėjo

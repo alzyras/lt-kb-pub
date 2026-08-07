@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-169115
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 164."
   citata_originali: |
     Po to jis su savo kariais pasuko kita
     kryptimi: staiga puolė Medrabą, kurios gynėjai daug

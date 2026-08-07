@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2aff76592d9c1469724b1e2d"
+canonical_name: "Tobolskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tobolskas"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime Tovelas, arba Tobalas, minimas kaip Šventojo Rašto protėvis ir Tobolsko pavadinimo pirmtakas."
+place_authority: true
+historical_names: []
 ---
 # Tobolskas
 
@@ -54,7 +63,8 @@ Narbuto pasakojime Tovelas, arba Tobalas, minimas kaip Šventojo Rašto protėvi
 - id: c-175674
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 72."
   citata_originali: |
     Tačiau šio Ross pavadini­
     mo neįmanoma susieti su jokia kita tauta, išskyrus bu­

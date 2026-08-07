@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4cdb810698cddcb8b1477743"
+canonical_name: "Jonas Sniadeckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Sniadeckis"]
+sameAs: []
+canonical_biography: "Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus."
 ---
 # Jonas Sniadeckis
 
@@ -64,7 +71,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - id: c-166937
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     Šis laikotarpis bene didžiausio universiteto
     klestėjimo metai – studentų skaičius nuo 200 padidėjo iki 1 300. Universi-

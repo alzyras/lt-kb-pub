@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a4032a712d7c1b75e7366bde"
+canonical_name: "Samuelis Komorowskis (karvedys, XVII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Samuelis Komorowskis","Samuelis Komorowskis (karvedys, XVII a.)"]
+sameAs: []
+canonical_biography: "Samuelis Komorowskis buvo pirmasis Kotrynos vyras; šaltinyje jis apibūdinamas kaip garsus karvedys XVII a. vidurio karų metu."
 ---
 # Samuelis Komorowskis (karvedys, XVII a.)
 
@@ -62,9 +69,10 @@ Samuelis Komorowskis buvo pirmasis Kotrynos vyras; šaltinyje jis apibūdinamas 
 ## Citatos
 
 - id: c-185765
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 8"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 8."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 8."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

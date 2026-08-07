@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-62739
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
     Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,

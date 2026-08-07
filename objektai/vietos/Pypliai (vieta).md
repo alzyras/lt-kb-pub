@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a611dbd932762d73b532338"
+canonical_name: "Pypliai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pypliai","Pypliai (vieta)"]
+sameAs: []
+canonical_biography: "Nemuno ir Neries santakos apylinkės nusėtos piliakalnių: be Eigulių, tai Veršvų, Aukštųjų Šančių, Pajiesio, Lentainių, Marvos, Pyplių."
+place_authority: true
+historical_names: []
 ---
 # Pypliai (vieta)
 
@@ -46,9 +55,9 @@ Nemuno ir Neries santakos apylinkės nusėtos piliakalnių: be Eigulių, tai Ver
 ## Citatos
 
 - id: c-185088
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 32"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 32."
   citata_originali: |
     Visai greta stūkso didingas piliakalnis. Nemuno ir Neries san-
     takos apylinkės nusėtos piliakalnių: be Eigulių, tai Veršvų, Aukštųjų Šančių, Pajiesio,

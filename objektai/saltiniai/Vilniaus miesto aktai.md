@@ -49,7 +49,8 @@ media_all_json: |-
 - id: c-84471
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 315-316"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 315-316."
   citata_originali: |
     Onos bažnyčios atsiradimo žr.
     268 p.

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f643cbc42f8aa3036cc74773"
+canonical_name: "Varmija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varmija"]
+sameAs: []
+canonical_biography: "Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaruose besiribojusi su Pagude per Pasargės, arba Sargos, upę. Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Giniau miestų iki Alnos upės, už kurios prasidėjo Barta. Varmija užėmė didelį plotą ir turėjo daugiau dirbamos bei tankiau apgyvendintos žemės negu anksčiau minėtos provincijos."
+place_authority: true
+historical_names: []
 ---
 # Varmija
 
@@ -138,7 +147,8 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
 - id: c-175565
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 358"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 358."
   citata_originali: |
     Be to, ir kitose
     vietose turėjo būti įtvirtinimų, skirtų krašto gynybai ir
@@ -163,7 +173,8 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
 - id: c-175566
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 359."
   citata_originali: |
     Ten ją nuo Natangijos turėjo skirti kai
     kurie upeliai, galbūt pro Soelius,
@@ -188,7 +199,8 @@ Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaru
 - id: c-175567
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 359."
   citata_originali: |
     Dar mažiau
     žinomos pietinės Varmijos sienos su Galinda. Atrodo, jog

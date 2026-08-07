@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df545ec49c89d638e1cdfaf1"
+canonical_name: "Johanas Foigtas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Foigtas","Johanas Foigtas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschichte Preussens, B. 3, S. 603—626. Dusburgietis teigia, kad d. Romovės resp. Romuvos nuo XVI a. ieškota Varmėje, Notangoje, Semboje ir kitur. Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės dokumentuose vadinama Rommowe, Romaynis; ten buvęs šventas laukas, miškas-kulto vieta (CDP, 2, Nr.."
 ---
 # Johanas Foigtas
 
@@ -59,11 +66,11 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 <a id="claim-t-64627"></a>
 - t-002
   teiginys: "J. Foigtas parašė veikalą „Geschichte Preussens“."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-65302
+    - c-65303
 
 <a id="claim-t-188412"></a>
 - t-003
@@ -381,7 +388,8 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 - id: c-65302
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Moksliškai šį veikalą tyrinėti XIX a. 3-ame dešimtmetyje ėmėsi J. Foigtas83.
   citata_rodoma: "Moksliškai šį veikalą tyrinėti XIX a. 3-ame dešimtmetyje ėmėsi J. Foigtas83."
@@ -392,25 +400,28 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-65303
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
   citata_originali: |
     83 Voigt J. Geschichte Preussens, B. 3, S. 603—626.
   citata_rodoma: "83 Voigt J. Geschichte Preussens, B. 3, S. 603—626."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-171302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 433."
   citata_originali: |
     Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
     da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
@@ -429,7 +440,8 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 - id: c-171303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 497"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 497."
   citata_originali: |
     P. 258** -  Johano Foigto -  Karaliaučiaus universiteto profe­
     soriaus, istoriko, kryžiuočių Slaptojo archyvo tyri­
@@ -449,7 +461,8 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 - id: c-173609
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Mokytos plunksnos dirbo ir dabar
     darbuojas i prie jų istorijos: Kocebus* parašė senovės
@@ -481,7 +494,8 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 - id: c-173610
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 344."
   citata_originali: |
     333
 
@@ -515,7 +529,8 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 - id: c-173612
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Ragainė Hartknocho išleistame Dus-
     burgo veikale klaidingai pavadinta Ramige (p. III. C.
@@ -533,7 +548,8 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 - id: c-173613
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369-370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369-370."
   citata_originali: |
     Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
 
@@ -563,7 +579,8 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 - id: c-174768
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
   citata_originali: |
     Siame gana aiš­
     kiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad
@@ -584,7 +601,8 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 - id: c-179116
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 432"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
   citata_originali: |
     Betgi
     Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
@@ -608,7 +626,8 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 - id: c-179259
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Iš dalies
     tai buvo pono Foigto studijos apie senovės Sambijos vi-
@@ -629,7 +648,8 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 - id: c-179260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Salavija
     Vienuolikta Prūsijos provincija buvo Salavija, Scha-

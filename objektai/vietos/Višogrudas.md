@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ed588a8a57314191a892bb30"
+canonical_name: "Višogrudas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Višogrudas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo. Dusburgietis teigia, kad 291 D.— juxtа castrum Wischerot, Jer — zu Wischegrot — Višogrudas, Wyszogród — dab. Dusburgietis teigia, kad todėl magistras minėtųjų metų vasarą, subūręs didelę kariuomenę, pasiuntė ją į Lenkiją ir apsupo Višogrudą, Lenkijos karaliaus pilį; joje gyveno nuodėmingi, išgarsėję piktais darbais vyrai, kurie plėšė pro šalį Vyslos upe plaukiančių laivais žmonių turtą, o."
+place_authority: true
+historical_names: []
 ---
 # Višogrudas
 
@@ -32,11 +41,18 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 <a id="claim-t-58487"></a>
 - t-001
   teiginys: "Magistras Poponas su savo ir kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo pilies ir ten įsirengė stovyklą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pomeranai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Višogrudas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pomeranai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Višogrudas\" parinktas kaip owner_note_path. Targetas \"Pomeranai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-167601
+    - c-59119
 
 <a id="claim-t-58488"></a>
 - t-002
@@ -91,7 +107,8 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - id: c-59119
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95."
   citata_originali: |
     Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
 
@@ -102,14 +119,17 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   citata_rodoma: "Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų\n\n   Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs\nSventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie\nVišogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su\ngalybe savo karių stovįs prie Svečės pilies ir ją stiprinąs."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-59121
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
   citata_originali: |
     291 D.— juxtа castrum Wischerot, Jer — zu Wischegrot — Višogrudas, Wyszogród
     — dab. Fordonas kair. Vyslos krante, prie Bidgoščiaus. Išliko piliakalnis.
@@ -125,7 +145,8 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - id: c-167601
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
   citata_originali: |
     O kitoje vietoje, kai žuvo
     tie, kurie susirado mirtį dėl savo patiklumo, nes nekovojo su priešais, vienas vyras
@@ -149,7 +170,6 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
 
 ## Ryšiai

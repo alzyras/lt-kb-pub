@@ -100,7 +100,8 @@ Nenurodyta
 - id: c-65530
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 696"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 696."
   citata_originali: |
     Kadangi Lietuvos pinigai
     buvo^1 /4 brangesni, negu tokie pat Lenkijos pinigai, tai Zigm. Augustas no-
@@ -122,7 +123,8 @@ Nenurodyta
 - id: c-65532
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 695-696"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 695-696."
   citata_originali: |
     Lenkijoje jo laikais nebuvo
     jokios kalyklos (kalykla buvo tik vad. karališkuosiuose Prūsuose); visuose

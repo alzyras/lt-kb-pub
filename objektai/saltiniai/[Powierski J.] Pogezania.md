@@ -58,7 +58,8 @@ Dusburgietis teigia, kad [Powierski J.] Pogezania.— SSS, Wrocław—Warszawa�
 - id: c-61883
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
   citata_originali: |
     [Powierski J.] Pogezania.— SSS, Wrocław—Warszawa—Kraków, 1970, t. 4, cz. 1, s.
     175—176.

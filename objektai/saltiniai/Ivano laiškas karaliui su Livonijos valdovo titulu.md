@@ -65,7 +65,8 @@ Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu. Numalšinęs 
 - id: c-169691
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 699"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 699."
   citata_originali: |
     to, nė viena tauta negalėsianti atskirai sudaryti nei pa­
     liaubų, nei pastovios taikos susitarimo. Po magistro ir

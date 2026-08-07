@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-67a4443fb756510c159372fa"
+canonical_name: "Bardžių dvaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bardžių dvaras"]
+sameAs: []
+canonical_biography: "Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių, aptiko milžinišką seną ąžuolą ir jo kamiene įrengė kabinetą senienoms."
+place_authority: true
+historical_names: []
 ---
 # Bardžių dvaras
 
@@ -54,7 +63,8 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių, aptiko mil
 - id: c-171869
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
   citata_originali: |
     Neseniai buvo aptiktas kadaise milžiniškas ir labai senas
     jau benudžiūstantis ąžuolas; kadangi jis išliko, todėl teisingai

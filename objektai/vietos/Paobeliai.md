@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dcce79d831ae7afcffd24a45"
+canonical_name: "Paobeliai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Paobeliai"]
+sameAs: []
+canonical_biography: "Šarauskas į Paobelių kaimą pasiuntė patyrusius vyresniuosius karius V."
+place_authority: true
+historical_names: []
 ---
 # Paobeliai
 
@@ -51,7 +60,8 @@ media_all_json: |-
 - id: c-45266
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 174."
   citata_originali: |
     miestą, raudonarmiečiai nusprendė apeiti
     kimą keliu Kėdainiai-Kaunas ir nutraukti

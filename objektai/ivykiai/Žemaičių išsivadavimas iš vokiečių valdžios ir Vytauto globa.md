@@ -50,13 +50,21 @@ Nenurodyta
 <a id="claim-t-186611"></a>
 - t-001
   teiginys: "Lietuvos metraštis pasakoja, kad žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami likti vokiečių valdžioje."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "puole -> Vokiečiai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad žemaičiai išžudė Prūsijos vokiečių vietininkus."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Žemaičiai puolė Vokiečiai (0.86); Žemaičiai priklausė Vokiečiai (0.72)"
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
-    - c-169896
+    - c-169897
 
 <a id="claim-t-186612"></a>
 - t-002
@@ -164,7 +172,7 @@ Nenurodyta
 <a id="claim-t-196794"></a>
 - t-008
   teiginys: "Lietuvos metraštis pasakoja, kad pas Vytautą viešėjo Zigmantas, Jogaila, Danijos karalius, Perekopo chanas ir kiti valdovai bei pasiuntiniai."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -247,7 +255,8 @@ Nenurodyta
 - id: c-169896
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 107."
   citata_originali: |
     O paskui vokiečiai atsiuntė pas didjjį kunigaikštį
     Vytautą savo pasiuntinius, primindami jam, kad jis tu­
@@ -269,7 +278,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
     - t-005
     - t-007
@@ -278,7 +286,8 @@ Nenurodyta
 - id: c-169897
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 109."
   citata_originali: |
     Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
     vietininkus, nebenorėdami daugiau būti vokiečių val­
@@ -297,6 +306,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
     - t-004
     - t-006

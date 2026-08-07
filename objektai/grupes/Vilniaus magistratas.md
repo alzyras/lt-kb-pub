@@ -352,7 +352,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157169
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 190."
   citata_originali: |
     Jus Patronatus [teises], garbiosios
     Vilniaus kapitulos perleistas Rektoriams, apaštališkasis nun­
@@ -375,7 +376,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157170
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 296."
   citata_originali: |
     O svarbiausia, jog 1560 metais Lietuvos Didžiosios Kuni­
     gaikštystės Ponų Tarybos seime, vykusiame Vilniuje, kara­
@@ -396,7 +398,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157171
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 399-400"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 399-400."
   citata_originali: |
     Ir todėl patiems ar jų
     tarnams smurtu bet ką iš kapitulos valdinių namų imti ne­
@@ -433,7 +436,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157173
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 318."
   citata_originali: |
     Vilniaus vaitui............Kreipėsi į mus Vilniaus miesto
     burmistrai ir tarybos nariai ir visi miestiečiai, skųsdamiesi
@@ -458,7 +462,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157174
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 290."
   citata_originali: |
     Pirmiausia karaliaus dėmesį patraukė Švč. Trejybės prie­
     glauda (špitolė), mieste garsi savo labdaringa veikla. 1545
@@ -477,7 +482,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 233-234"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 233-234."
   citata_originali: |
     Vėliau, po ketu­
     rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
@@ -523,7 +529,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 191."
   citata_originali: |
     1577 metų gruodžio 19 dienos, o pirmesne 1539
     metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­
@@ -551,7 +558,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157177
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 397-398"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 397-398."
   citata_originali: |
     O prelatai ir kanauninkai
     savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė,
@@ -603,7 +611,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157179
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 275."
   citata_originali: |
     1536
     metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­
@@ -626,7 +635,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157180
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 189."
   citata_originali: |
     O kadangi Vilniaus
     miesto magistratas priešinosi aukščiau nurodytiems potvar­
@@ -648,7 +658,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157181
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 276."
   citata_originali: |
     Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­
     rėti šarvus, muškietą ir ragotinę, o miesto taryba - stebėti,
@@ -671,7 +682,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157182
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 295."
   citata_originali: |
     O 1568 metų
     birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu
@@ -701,7 +713,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157183
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 319."
   citata_originali: |
     Raštininkas Mikola
     Panašiai 1524 metais, kaip patvirtina ta pati Lietuvos Met­
@@ -723,7 +736,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 426-427"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 426-427."
   citata_originali: |
     SIGISMUNDUS Rex.
     410
@@ -751,7 +765,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157185
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 408"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 408."
   citata_originali: |
     Karalius ŽYGIMANTAS
     Prikabintas LDK antspaudas
@@ -773,7 +788,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157186
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 198."
   citata_originali: |
     1632. Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo
     mūrinį namą įkeitė Vilniaus magistratui už tam tikrą sumą,
@@ -790,7 +806,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - id: c-157188
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 295-296"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 295-296."
   citata_originali: |
     Tik­
     tai viešosioms pareigoms, miesto

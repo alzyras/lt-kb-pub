@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8d43c40034c576f8591db0d8"
+canonical_name: "Žodiškiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žodiškiai"]
+sameAs: []
+canonical_biography: "Gansiausko f-ja), Žodiškiuose (Minkevičių f-ja), Brastoje (vicekanclerio L."
+place_authority: true
+historical_names: []
 ---
 # Žodiškiai
 
@@ -50,7 +59,8 @@ Gansiausko f-ja), Žodiškiuose (Minkevičių f-ja), Brastoje (vicekanclerio L.
 - id: c-03180
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     Tuo
     būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-569bb8f875afb077497a643d"
+canonical_name: "Virogorų ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Virogorų ežeras"]
+sameAs: []
+canonical_biography: "4to, Virogorų ežerą su žeme, miškais, lankomis tie patys tėvai jėzuitai pasisavino."
+place_authority: true
+historical_names: []
 ---
 # Virogorų ežeras
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-82245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 190."
   citata_originali: |
     8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­
     mę, jie artylleryi judicialiter pralaimėjo, kadangi, dokumentų

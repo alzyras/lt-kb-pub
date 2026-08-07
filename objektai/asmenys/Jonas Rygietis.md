@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-76e5968494826a46486f60b2"
+canonical_name: "Jonas Rygietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Rygietis"]
+sameAs: []
+canonical_biography: "Gal todėl, kad daugybė Ordino riterių, būtent, Ordino kunigas Jonas Rygietis, Vendeno komtūras Reimaras fon Hanė, Karkuso valdytojas (Vogt) Mi­ kalojus fon Parsau ir Gotfridas fon Ustas (Ost) buvo Liube­ ke ir galėjo užginčyti šį tvirtinimą? Jonas Rygietis buvo aptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką daryti, pritiktų kreiptis, patarimo į tuomet Liubeke buvoju­ sius Ordino riterius, Rygos presbiterį, Vendeno komtūrą Veimarą fon Henę, Karkuso valdytoją Mikalojų fon Taršau 99 ## Puslapis 116 VILNIAUS MIESTO ISTORIJA I TOMAS ir Gotfridą fon Ostą."
 ---
 # Jonas Rygietis
 
@@ -41,7 +48,8 @@ Gal todėl, kad daugybė Ordino riterių, būtent, Ordino kunigas Jonas Rygietis
 - id: c-83507
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 115-116"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 115-116."
   citata_originali: |
     Rygos miesto tarė­
     jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323

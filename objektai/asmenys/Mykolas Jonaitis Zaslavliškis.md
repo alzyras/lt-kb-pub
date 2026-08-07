@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0171d1168c02caa94516ea36"
+canonical_name: "Mykolas Jonaitis Zaslavliškis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Jonaitis Zaslavliškis"]
+sameAs: []
+canonical_biography: "' M stislavlio kunigaikštis Michailas — tai Zaslavlio (prie Mins ko) kunigaikštis M ykolas Jonaitis Zaslavliškis, Jaunučio palikuo nis."
 ---
 # Mykolas Jonaitis Zaslavliškis
 

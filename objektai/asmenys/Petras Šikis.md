@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df5725540817e8c46e42fd11"
+canonical_name: "Petras Šikis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Šikis"]
+sameAs: []
+canonical_biography: "1580 m. Kaune besisukinėjantis valstietis Motiejus Juknevičius buvo atvestas pas Kauno miesto vaitą Petrą Pečiūgą."
 ---
 # Petras Šikis
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185480
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 187"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 187."
   citata_originali: |
     1580 m. Kaune besisukinėjantis valstietis Motiejus Juknevičius buvo atvestas pas
     Kauno miesto vaitą Petrą Pečiūgą. Jis buvo kaltinamas mėsininko Lauryno Mirko-

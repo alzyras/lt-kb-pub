@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-25ac6d3982c1607fdc404bfa"
+canonical_name: "Vaskas Daškovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaskas Daškovičius"]
+sameAs: []
+canonical_biography: "1511 m. Žygimantas Senasis, suteikdamas Kauno pilininko pareigas Vaskui Daškovičiui, nurodė, kad šis Kauno pilį tvirtintų mūru ir medžiu. Svarbiausias pareigūnas buvo Kauno pilininkas (ZOpOOHU'1UU), kurį skirdavo pats valdovas, kaip liudija 1511 m. Žygimanto Senojo privilegija, kuria Vaskas Daškovičius buvo skiriamas į Kauno pilininko pareigas."
 ---
 # Vaskas Daškovičius
 
@@ -61,9 +68,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185425
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 104"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 104."
   citata_originali: |
     Vienuolynui bu-
     vo siūlomas kitas sklypas, ir tik Aleksandras Jogailaitis leido bernardinams statydin-
@@ -79,9 +86,9 @@ media_all_json: |-
     - t-001
 
 - id: c-185426
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 113"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 113."
   citata_originali: |
     Kauno seniūnai pavietą ir pilį tvarkė padedami savo administracijos. Svarbiausias pa-
     reigūnas buvo Kauno pilininkas (ZOpOOHU'1UU), kurį skirdavo pats valdovas, kaip liudija

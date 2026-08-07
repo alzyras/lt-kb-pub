@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b1af9eae49484c8fd777f885"
+canonical_name: "Artabanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Artabanas"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti Darijų nuo žygio į nepažįstamą, nusiaubtą ir sausringą kraštą."
 ---
 # Artabanas
 

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1e327f3961695d7135fa41bd"
+canonical_name: "Pašilė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pašilė"]
+sameAs: []
+canonical_biography: "Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę ir toliau keliu Gelvonų link, einančiu per dabartinį Pabaiską, vakarine Žirnajų ežero pakrante."
+place_authority: true
+historical_names: []
 ---
 # Pašilė
 
@@ -52,7 +61,8 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 - id: c-45268
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Sprendžiant iš pagrindinių istorinių
     šaltinių, Švitrigailos ir Ordino pajėgos iš

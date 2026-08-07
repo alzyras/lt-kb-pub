@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-885e08179b45b62e9a945a4c"
+canonical_name: "Hedaby (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Hedaby","Hedaby (vieta)"]
+sameAs: []
+canonical_biography: "Vulfstanas keliavęs jūra pagal nuo Hedaby, pre kyba pagirto Šlezvigo miesto, į įtaką Yslos."
+place_authority: true
+historical_names: []
 ---
 # Hedaby (vieta)
 
@@ -46,9 +55,9 @@ Vulfstanas keliavęs jūra pagal nuo Hedaby, pre kyba pagirto Šlezvigo miesto, 
 ## Citatos
 
 - id: c-184514
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 48"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
   citata_originali: |
     Buklus jūreivis Vulfstanas, išsiųstas Alfredo, di­
     džiojo anglų viešpaties, arba karaliaus, į Žemaičius

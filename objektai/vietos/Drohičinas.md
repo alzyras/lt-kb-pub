@@ -36,6 +36,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-30839b02adf8d58041fe2d95"
+canonical_name: "Drohičinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Drohičinas"]
+sameAs: []
+canonical_biography: "Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną. Vladislovui 1444 m. žuvus, po trejų metų derybų, lenkai išsirinko tą patį Kazimierą ir savo karalium. O tų 7 metų būvyje Lietuva buvo net pradėjusi su Lenkijos lenininku, Mozūrų kunigaikščiu, karą dėl Drohičino, kurį šis po Zigmanto mirties buvo užėmęs."
+place_authority: true
+historical_names: []
 ---
 # Drohičinas
 
@@ -315,7 +324,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 30."
   citata_originali: |
     Abu ma­
     gistrai (Livonijos ir Prūsų) su didžiaisiais Lietuvos kunigaikš­
@@ -341,7 +351,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-46484
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 81."
   citata_originali: |
     Senasis
     jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugar-
@@ -364,7 +375,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-89183
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 152."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
     bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­
@@ -391,7 +403,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-89184
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127-128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127-128."
   citata_originali: |
     X, p. 112.
     I1l
@@ -419,7 +432,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-89185
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 111."
   citata_originali: |
     Kęstutis tuojau patikėjo žinia, nes jau ir pats įtarė
     Jogailą. Vytautas, kartu augęs ir draugavęs su Jogaila, nenorėjo
@@ -437,7 +451,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-89186
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 193."
   citata_originali: |
     Nors Lenkija ir Vladislovas su šituo lietuvių žygiu ir ne-
     sutiko, tačiau Lietuva be jokio ryšio su Lenkija išgyveno net
@@ -457,7 +472,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-168306
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 273."
   citata_originali: |
     Tuo tar­
     pu Jogaila, užkirtęs, kaip jis manė, kelią vidaus ne­
@@ -498,7 +514,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-170521
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 126."
   citata_originali: |
     O paskui didysis kunigaikštis Kazimieras atvyko
     į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
@@ -524,7 +541,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-175420
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     Ne
     viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
@@ -548,7 +566,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - id: c-175923
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 111-112"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 111-112."
   citata_originali: |
     Vytautas, kartu augęs ir draugavęs su Jogaila, nenorėjo
     tuo tikėti. Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas
@@ -565,9 +584,9 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - t-012
 
 - id: c-184940
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 389"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 389."
   citata_originali: |
     Tai
     antra pagal dydį suma, daugiau turėjo mokėti Vilnius - 500 kapų grašių ir dar iš-

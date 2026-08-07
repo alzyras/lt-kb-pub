@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4dc9245cb00c79c389c3ffea"
+canonical_name: "Piotr Kunasowicz Sahaidaczny"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Piotr Kunasowicz Sahaidaczny"]
+sameAs: []
+canonical_biography: "Narbutas Piotrą Kunasowiczių Sahaidaczny mini kaip kazokų atamaną, kurio tėvas turėjo ukrainiečių slavų krikšto vardą Kūnas."
 ---
 # Piotr Kunasowicz Sahaidaczny
 
@@ -54,7 +61,8 @@ Narbutas Piotrą Kunasowiczių Sahaidaczny mini kaip kazokų atamaną, kurio tė
 - id: c-173081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 160."
   citata_originali: |
     Slynksnis-Perlevenu (Slynxnis-Perlewenu)
     Bendras namų dievaitis, namų ir žemdirbio nuosavybės glo­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-218375ee45600d95fd9f7428"
+canonical_name: "Bronislovas Komorovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bronislovas Komorovskis"]
+sameAs: []
+canonical_biography: "Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiškio apskrityje."
 ---
 # Bronislovas Komorovskis
 
@@ -69,7 +76,8 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
 - id: c-20484
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 264."
   citata_originali: |
     Gediminaičių ir Jogailaičių
     dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
@@ -90,7 +98,8 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
 - id: c-166921
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 264."
   citata_originali: |
     Davėme ir daug garsių
     šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15e46020ce3b06178aa18442"
+canonical_name: "Hlebovičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hlebovičius"]
+sameAs: []
+canonical_biography: "Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, išskyrus mūrinę da­ lį, sudeginta; Aukštutinė tvirtovė pagaliau per daugybę išardų susilpninta; tiktai neįveikiamas Moskoževskis su dar ir Onacevičiaus pastabą, prie Hlebovičiaus."
 ---
 # Hlebovičius
 
@@ -45,7 +52,8 @@ Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, iš
 - id: c-176912
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 144."
   citata_originali: |
     Didelė dalis gyventojų žuvo per kautynes prie Žemuti­
     nės pilies, o kiti, netekę prieglobsčio ir mieste, ir

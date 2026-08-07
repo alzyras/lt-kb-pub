@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e597d5b549c386b0a30c326"
+canonical_name: "Jokūbas Jasinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokūbas Jasinskis"]
+sameAs: []
+canonical_biography: "Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius T."
 ---
 # Jokūbas Jasinskis
 
@@ -106,7 +113,8 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 - id: c-21731
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 96."
   citata_originali: |
     Nors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus
     rusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-
@@ -129,7 +137,8 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 - id: c-21732
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 97."
   citata_originali: |
     Vasarą rusų ir prūsų kariuomenės per-
     ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
@@ -149,7 +158,8 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 - id: c-42007
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 151."
   citata_originali: |
     uniforma
 
@@ -180,7 +190,8 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 - id: c-176417
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 155."
   citata_originali: |
     Pragos priemiestyje kovojo 2-oji
     Lietuvos kariuomenės kadrinė

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b826de6129707ef053dc8f70"
+canonical_name: "K. Korsakas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["K. Korsakas"]
+sameAs: []
+canonical_biography: "Korsako ir J."
 ---
 # K. Korsakas
 
@@ -83,7 +90,8 @@ Korsako ir J.
 - id: c-169797
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 3."
   citata_originali: |
     REDAKCINE KOMISIJA
     K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
@@ -102,7 +110,8 @@ Korsako ir J.
 - id: c-169802
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 51."
   citata_originali: |
     1 d., Kaunas 1934, 48-81 p.;
     jis kildino Rotundą iš Veliuonos ; Z. Ivinskis, LE, t. 26, 15 p.; J. Jurgi­

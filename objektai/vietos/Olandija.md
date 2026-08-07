@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-790df47f5e23752ab5f4f06a"
+canonical_name: "Olandija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Olandija"]
+sameAs: []
+canonical_biography: "Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Europos dalies (Olandija, Anglija) ir per XVII–XVIII a. LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradėjusiai kurti respublikinę santvarką antrojoje XVI a."
+place_authority: true
+historical_names: []
 ---
 # Olandija
 
@@ -79,7 +88,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - id: c-24345
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 67."
   citata_originali: |
     XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
     kiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-
@@ -103,7 +113,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - id: c-24346
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 70."
   citata_originali: |
     LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradė-
     jusiai kurti respublikinę santvarką antrojoje XVI a. pusėje) ir pralenkia

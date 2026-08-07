@@ -54,16 +54,15 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-199223"></a>
+<a id="claim-t-203107"></a>
 - t-001
-  teiginys: "Karalius Olbrachtas, sulaukęs brolio kariuomenės pagalbos, žengė keliu be baimės, pasiekė Kamenecą, paskui Lvovą, ir kariuomenė išsiskirstė."
-  atnaujinta: "2026-07-12 23:02"
+  teiginys: "Bychovco kronikoje pasakojama, kad karalius Olbrachtas, sulaukęs į pagalbą atėjusios brolio kariuomenės, be baimės žengė keliu, pasiekė Kamenecą, paskui Lvovą, o tada kariuomenė išsiskirstė."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Patikslintas veikėjas, eiga ir rezultatas."
   susije_objektai: "mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-181725
 
@@ -87,7 +86,7 @@ Nenurodyta
     menecą3 * . o paskui Lvovą, ir vėl išsiskirstė kas sau.
   citata_rodoma: "Moldavijos vaivada leidosi atgalios, o karalius Olb­\nrachtas tuo metu sirgo, jo kariuomenė, apimta gilaus \nliūdesio ir sielvarto, vis dar bijojo vijimosi. Kai kara­\nlius išvydo savo brolio kariuomenę ateinant jam į pa­\ngalbą, labai apsidžiaugė, pralinksmėjo ir nudžiugo jo \nširdis3 7 . Ir paskui žengė keliu be baimės, priėjo Ka- \nmenecą3 * . o paskui Lvovą, ir vėl išsiskirstė kas sau."
   statusas: verified
-  atnaujinta: "2026-07-12 23:02"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

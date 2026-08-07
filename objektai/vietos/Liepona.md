@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7674c0e33c3471a321338af4"
+canonical_name: "Liepona"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liepona"]
+sameAs: []
+canonical_biography: "Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo Šešupėn."
+place_authority: true
+historical_names: []
 ---
 # Liepona
 
@@ -50,7 +59,8 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 - id: c-33925
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Iš čia ji tęsėsi vėl per dykrą tiesiai
     į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius

@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-185633"></a>
 - t-001
   teiginys: "Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -98,7 +98,8 @@ Nenurodyta
 - id: c-168994
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 646"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 646."
   citata_originali: |
     Magistras, už didelius pinigus pasisam­
     dęs Vokietijoje dešimt tūkstančių algininkų, įsiveržė
@@ -128,7 +129,8 @@ Nenurodyta
 - id: c-176090
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 647-648"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 647-648."
   citata_originali: |
     Šie ilgai
     aiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­

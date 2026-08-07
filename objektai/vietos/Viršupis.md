@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c65ed8462725a6fd9f9ce4ba"
+canonical_name: "Viršupis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Viršupis"]
+sameAs: []
+canonical_biography: "Be Rūdninkų, didieji Lietuvos kunigaikščiai prie pat Vil­ niaus, už Antakalnio priemiesčio, turėjo miesto dvarą, va­ dinamą Viršupiu, o lietuviškai tai reiškia vandens paviršių."
+place_authority: true
+historical_names: []
 ---
 # Viršupis
 
@@ -50,7 +59,8 @@ Be Rūdninkų, didieji Lietuvos kunigaikščiai prie pat Vil­ niaus, už Antaka
 - id: c-82246
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 272."
   citata_originali: |
     Bažny­
     čia Rūdninkuose galėjusi būti nuo seno, bet klebonijos fun­

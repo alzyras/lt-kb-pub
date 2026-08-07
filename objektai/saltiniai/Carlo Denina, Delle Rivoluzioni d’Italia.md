@@ -82,7 +82,8 @@ Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų ve
 - id: c-174650
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Taigi sąjungininkai pradėjo atvirai murmėti prieš savo
     vadą. Mažiausiai jam palankūs herulai kreipėsi į savo
@@ -101,7 +102,8 @@ Pasak Narbuto pasakojimo, Eduko sūnus Odoakras sakė, kad Orestas neturėtų ve
 - id: c-174651
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     1
     Delle Rivoluzioni d’Italia, di Carlo Denina in Venezia. 1784,

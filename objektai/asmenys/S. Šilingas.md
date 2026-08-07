@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-01a00088e04e97d38381fb72"
+canonical_name: "S. Šilingas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["S. Šilingas"]
+sameAs: []
+canonical_biography: "Šilingas) drauge su ministrų kabinetu sudarė vykdomąją valdžią."
 ---
 # S. Šilingas
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-21963
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 137."
   citata_originali: |
     Naujas galimybes atvėrė dviejų imperijų – Rusijos ir Vokietijos – pra-
     laimėjimai kare, revoliucijos abiejose šalyse. Valstybės Taryba vis atkak­

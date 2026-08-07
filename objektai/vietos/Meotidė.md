@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a51da6e3833bac9eb9dd115"
+canonical_name: "Meotidė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Meotidė"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurodė prie Meotidės, kolchų kaimynystėje."
+place_authority: true
+historical_names: []
 ---
 # Meotidė
 
@@ -57,7 +66,8 @@ Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurod
 - id: c-175654
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
   citata_originali: |
     Jų kraštas derlingas, turtingas tankių miškų, o
     didžiausiame miške yra pelkėtas, nendrėmis apaugęs

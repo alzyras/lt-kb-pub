@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-497ef21420745b1d4509542f"
+canonical_name: "Jurgis Tiškevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Tiškevičius"]
+sameAs: []
+canonical_biography: "Kojelavičiaus pasakojime Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivaną pavadino jį Astrachanės caru."
 ---
 # Jurgis Tiškevičius
 
@@ -54,7 +61,8 @@ Kojelavičiaus pasakojime Jurgis Tiškevičius nuvežė į Maskvą karaliaus lai
 - id: c-169412
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 692"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 692."
   citata_originali: |
     Išleidęs maskvėnų pasiuntinį ir Velykas atšventęs
     Liubline, karalius patraukė į Brestą bei Gardiną, o vė­

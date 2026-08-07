@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-93ce838d29207ab042d91f82"
+canonical_name: "Pačtuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pačtuva"]
+sameAs: []
+canonical_biography: "Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio, nusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­ stovie ») sritis^27."
+place_authority: true
+historical_names: []
 ---
 # Pačtuva
 
@@ -62,7 +71,8 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
 - id: c-33991
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 223."
   citata_originali: |
     Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės
     (Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo

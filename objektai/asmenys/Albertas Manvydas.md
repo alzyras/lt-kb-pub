@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1359225a65ce422695a67fdc"
+canonical_name: "Albertas Manvydas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas Manvydas"]
+sameAs: []
+canonical_biography: "Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boleslovo, 3) Lenkijos vicekanclerio Donino, 4) Vilniaus vaivados Alberto Manvydo), 5) Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo."
 ---
 # Albertas Manvydas
 
@@ -51,7 +58,8 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 - id: c-44258
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 58."
   citata_originali: |
     Vytauto pavaduotojais Lietuvos ka-
     riuomenėje buvo Vilniaus seniūnas
@@ -77,7 +85,8 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 - id: c-167111
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 58."
   citata_originali: |
     Anot metraštininko, ji buvo drausminga ir
     gerai ginkluota.

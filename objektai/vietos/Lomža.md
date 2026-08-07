@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b0d5b9ad411d17050e7e9c20"
+canonical_name: "Lomža"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lomža"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Lomža
 

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a6fb50f6c8a5bfb819330d24"
+canonical_name: "B. Zenavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["B. Zenavičius"]
+sameAs: []
+canonical_biography: "Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchovičiaus iš kairės. Zenavičius."
 ---
 # B. Zenavičius
 
@@ -66,7 +73,8 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
 - id: c-44303
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 118."
   citata_originali: |
     B. Zenavičiaus LDK husarai
     atakavo puolančius turkus
@@ -84,7 +92,8 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
 - id: c-44304
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 118."
   citata_originali: |
     Sutelkę
     smarkią artilerijos ugnį, jie dar mėgino

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd51c1296b3e00b61e05614b"
+canonical_name: "Subačius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Subačius"]
+sameAs: []
+canonical_biography: "Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pasitraukė Subačiaus kryptimi ir įsitvirtino Kupiškyje. Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekiodama priešą gegužės 27 d. užėmė Troškūnus ir Subačių."
+place_authority: true
+historical_names: []
 ---
 # Subačius
 
@@ -66,7 +75,8 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 - id: c-45348
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 183."
   citata_originali: |
     Persitvarkę ir sulaukę pastiprinimų,
     bolševikai puolė miestą. Jiems pavyko
@@ -91,7 +101,8 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 - id: c-45349
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 183."
   citata_originali: |
     Mūšio pasekmės
     Išvadavusi

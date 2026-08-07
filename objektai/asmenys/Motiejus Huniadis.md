@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5bd3d43cb865bf810b3a3456"
+canonical_name: "Motiejus Huniadis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus Huniadis"]
+sameAs: []
+canonical_biography: "mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo = A ėlyn EN vieta ir žygio į Klecką kryptis dera K Krymo totorių žygių į LDK kryptys „> a a 610 X."
 ---
 # Motiejus Huniadis
 
@@ -84,7 +91,8 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
 - id: c-76219
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 79."
   citata_originali: |
     be „LENK wr po > > OChotenė “|
     andomiras ig af Chotmisls

@@ -40,7 +40,7 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 <a id="claim-t-22242"></a>
 - t-001
   teiginys: "Pradiniame etape Sąjūdis rėmė Maskvoje pradėtas perestroikos reformas ir siekė jas įgyvendinti Lietuvoje."
-  atnaujinta: "2026-07-19 20:03"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1939-1940; įvykio data: 1940 m."
@@ -52,7 +52,7 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 <a id="claim-t-22243"></a>
 - t-002
   teiginys: "SSRS pradėjus Michailo Gorbačiovo pertvarką, LKP vadovai Petras Griškevičius ir Rimgaudas Songaila Lietuvoje laikėsi pasyviai."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -63,7 +63,8 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 - id: c-24931
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 234."
   citata_originali: |
     VI s k y r i u s
     DAINUOJANTI
@@ -96,7 +97,8 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 - id: c-24932
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 235."
   citata_originali: |
     Giedrius Reimeris, Algimantas
     Nasvytis)
@@ -120,7 +122,8 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 - id: c-166846
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 235."
   citata_originali: |
     Pradiniame etape Sąjūdis iš es-
     mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-

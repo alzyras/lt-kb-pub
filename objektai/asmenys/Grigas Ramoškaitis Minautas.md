@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ce16a35230d13de730dbb02"
+canonical_name: "Grigas Ramoškaitis Minautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Grigas Ramoškaitis Minautas"]
+sameAs: []
+canonical_biography: "Grigas Ramoškaitis Minautas 1485 metais pridėjo antspaudą su apverstos rupūžės ir dobilo lapo atvaizdu."
 ---
 # Grigas Ramoškaitis Minautas
 
@@ -61,7 +68,8 @@ Grigas Ramoškaitis Minautas 1485 metais pridėjo antspaudą su apverstos rupū�
 - id: c-173111
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 406"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 406."
   citata_originali: |
     IV lentelė, 21-asis piešinys. Rupūžė, apversta kojomis į vir­
     šų, ties kuria dobilo lapas. Antspaudą pridėjo Grigas Ramoš-

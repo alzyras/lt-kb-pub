@@ -38,7 +38,7 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
 <a id="claim-t-22012"></a>
 - t-001
   teiginys: "Pereinant iš planinės ekonomikos, Lietuvoje lėtai steigtos privačios žemės ūkio ir pramonės įmonės, daugiausia orientuotos į Vakarų rinką."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -87,7 +87,8 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
 - id: c-24695
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 250."
   citata_originali: |
     Seimo rinkimų, kuriuose nė vienai partijai nepavyko pasiekti
     įtikinamos pergalės, todėl atėjo nauja koalicinių vyriausybių era.
@@ -108,7 +109,8 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
 - id: c-24696
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 252."
   citata_originali: |
     nutarimų vykdytojais, pečius. Daugelis žmonių nebuvo pasirengę sava-
     rankiškai gyventi. Planinės ekonomikos laivas plūduriavo kapitalizmo
@@ -124,7 +126,8 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
 - id: c-166847
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 250-251"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 250-251."
   citata_originali: |
     Vyriausybės keitė viena kitą, tačiau būtinos reformos vyko. Planinės
     ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus

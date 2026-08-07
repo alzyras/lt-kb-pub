@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b64037391017d463974e03a7"
+canonical_name: "Z. Kiaupa"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Z. Kiaupa"]
+sameAs: []
+canonical_biography: "Z. Kiaupa nurodytas „Lietuvių tautos istorijos“ leidinio redaktorių kolegijoje."
 ---
 # Z. Kiaupa
 
@@ -105,7 +112,8 @@ Nenurodyta
 - id: c-170736
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 4."
   citata_originali: |
     R edaktorių kolegija:
     E. ALEKSANDRAVIČIUS, R. GRISKAITĖ, Z. KIAUPA,

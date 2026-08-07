@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-145f56f17291de630a972574"
+canonical_name: "Štetinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Štetinas"]
+sameAs: []
+canonical_biography: "O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­ konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui, Greifswaldni, Stettinui ir Gotlando salai). Du, o gal ir trys laiškai buvo parašyti popiežiui."
+place_authority: true
+historical_names: []
 ---
 # Štetinas
 
@@ -51,7 +60,8 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 - id: c-158753
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 234."
   citata_originali: |
     Vienas tų
     laiškų (1323.1.24), skirtas «visai krikščionijai», buvo išsiuntinėtas

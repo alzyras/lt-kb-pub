@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8f9671059bcfa1ffd278fe0c"
+canonical_name: "Kazimieras Nemunavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras Nemunavičius"]
+sameAs: []
+canonical_biography: "Narbutas mini turėjęs pereito amžiaus viduryje rašytą laišką su Kazimiero Nemunavičiaus parašu."
 ---
 # Kazimieras Nemunavičius
 
@@ -53,7 +60,8 @@ Narbutas mini turėjęs pereito amžiaus viduryje rašytą laišką su Kazimiero
 - id: c-173055
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Pusdievio ir Nemuno vardo panašumas
     perša mintį, kad tas garsusis atėjūnas, kaip pirmasis jūrinin­

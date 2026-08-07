@@ -63,7 +63,8 @@ Lappo : Litovskij Statut 1588 goda, I t.
 - id: c-33651
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 95."
   citata_originali: |
     Pažymėtini ukrainiečių rytų apeigų kata-
     (^143) **I.I. Lappo :** **_Litovskij Statut 1588 goda,_** **I t. I dalis išsp. Kaune

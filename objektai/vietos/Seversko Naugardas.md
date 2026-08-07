@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4406dc4f13d417e5acd33649"
+canonical_name: "Seversko Naugardas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Seversko Naugardas"]
+sameAs: []
+canonical_biography: "Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Kaributą. Seversko Naugarde nuo seno gyveno Seversko kunigaikščiai."
+place_authority: true
+historical_names: []
 ---
 # Seversko Naugardas
 
@@ -74,7 +83,8 @@ Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Karib
 - id: c-82212
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 155-156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 155-156."
   citata_originali: |
     Paminėsime tad tik
     žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
@@ -106,7 +116,8 @@ Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Karib
 - id: c-168499
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 339"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 339."
   citata_originali: |
     Čia jau seniai gyveno Seversko kuni­
     gaikščiai. Dimitras čia buvo įkurdinęs žmoną ir vaikus,

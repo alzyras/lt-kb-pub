@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a51d153c2aad4de0bd603428"
+canonical_name: "Skilūras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Skilūras"]
+sameAs: []
+canonical_biography: "94 m. pr. Kr. roksolanai, vadovaujami Pasijaus, Paiako sūnaus, padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu."
 ---
 # Skilūras
 
@@ -54,7 +61,8 @@ media_all_json: |-
 - id: c-174349
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 66."
   citata_originali: |
     51
     Ros-alanai, Seniausia užuomina apie roksolanus, kaip

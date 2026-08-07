@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9316b7e09595779f7dd3fffc"
+canonical_name: "Strijkovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Strijkovskis"]
+sameAs: []
+canonical_biography: "Strijkovskis savo amžiuje dar girdėjo apie išsklaidytų jotvingių likučius, Didžiojo Naugardo kraštuose vadintus igovėnais."
 ---
 # Strijkovskis
 
@@ -53,7 +60,8 @@ Strijkovskis savo amžiuje dar girdėjo apie išsklaidytų jotvingių likučius,
 - id: c-174353
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 119."
   citata_originali: |
     115
     Strijkovskis savo amžiuje dar girdėjo apie likučius

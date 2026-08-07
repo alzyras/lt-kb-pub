@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6b30f85d8e94ecd634bf31c8"
+canonical_name: "Safaržykas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Safaržykas"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais ir osetinais, kurių palikuonys gyvena Kaukaze. Narbutas rašo, kad Safaržykas mini Vienos Imperatoriškajame Senienų kabinete saugomą paminklą kaip seniausią istorinį jazigų pėdsaką. Narbutas rašo, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, jų skirtumus aiškindamas germanų ir finų valdžia."
 ---
 # Safaržykas
 
@@ -114,7 +121,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 - id: c-174075
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 61."
   citata_originali: |
     Tai, jog alanai taip pat
     buvo vadinami asais, o rusų — ¡asais, osáis, osetinais, kurių palikuo­
@@ -136,7 +144,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 - id: c-174078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 113."
   citata_originali: |
     Pats se­
     niausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­
@@ -158,7 +167,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 - id: c-174862
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 76."
   citata_originali: |
     Galbūt todėl, kad ir bu-
     dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
@@ -185,7 +195,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 - id: c-177316
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 71."
   citata_originali: |
     Safaržykas iškelia hipotezę, iš kuries verta tik pasijuok­
     ti, — tas kalnas turėtų būti Minsko gubernijojell! Sis kruopštus sla­

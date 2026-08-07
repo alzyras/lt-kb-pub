@@ -116,7 +116,8 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 - id: c-55679
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135."
   citata_originali: |
     Kai rug­
     pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
@@ -140,7 +141,8 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 - id: c-55681
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 141."
   citata_originali: |
     Il KNYGA
     Išdidūs, pasiekę kruviną pergalę, pasitikintys savo siekių
@@ -166,7 +168,8 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 - id: c-55682
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 144."
   citata_originali: |
     Ta nelaiminga ap­
     suptis Lietuvos sostinei buvo smūgis, ilgam į atmintį įsirė­

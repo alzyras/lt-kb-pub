@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ccd565f415751be5c1b96f09"
+canonical_name: "Gereimantas (kunigaikštis, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gereimantas","Gereimantas (kunigaikštis, XIII a.)"]
+sameAs: []
+canonical_biography: "Šventaragis, didysis Lietuvos kunigaikštis, gražiame ąžuolyne ant santeklio Vyliaus ir Neries upių (šian dien Vilijos ir Vilenkos), kurioje vietoj dabar ka tedra Vilniaus riogso, padėjo pamatus garbingai žinyčiai, o sūnus jo Gereimantas metuose 1285 ją."
 ---
 # Gereimantas (kunigaikštis, XIII a.)
 
@@ -54,9 +61,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184758
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 103"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 103."
   citata_originali: |
     Vilniaus žinyčia yra dar aiškesniai aprašyta.
     Šventaragis, didysis Lietuvos kunigaikštis, gražiame

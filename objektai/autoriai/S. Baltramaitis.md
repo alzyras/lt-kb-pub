@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4be29375cdaad3c49376fbf7"
+canonical_name: "S. Baltramaitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["S. Baltramaitis"]
+sameAs: []
+canonical_biography: "Silvestro Baltramaičio veikalas, nors jame rūpestingai sužymėta daug Lietuvos istorijos bibliografijos, yra gerokai pasenęs : Baltramaitis, S."
 ---
 # S. Baltramaitis
 
@@ -49,7 +56,8 @@ Silvestro Baltramaičio veikalas, nors jame rūpestingai sužymėta daug Lietuvo
 - id: c-29497
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 23."
   citata_originali: |
     Silvestro Baltramaičio veikalas, nors jame rūpestingai sužymėta daug
     Lietuvos istorijos bibliografijos, yra gerokai pasenęs :

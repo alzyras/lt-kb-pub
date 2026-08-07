@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-189899"></a>
 - t-001
   teiginys: "Narbutas trizną apibūdina kaip kai kurioms lietuvių genties tautoms žinotas apeigas, atliekamas laidojant labai žymius žmones."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,7 +56,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-177032
+    - c-172782
 
 <a id="claim-t-194634"></a>
 - t-002
@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-172782
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
   citata_originali: |
     Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­
     tuvių genties tautos žinojo trizną. Tai buvo apeigos, atlieka­
@@ -86,14 +87,17 @@ Nenurodyta
   citata_rodoma: "Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­\ntuvių genties tautos žinojo trizną. Tai buvo apeigos, atlieka­\nmos laidojant labai žymius žmones. 21\n21\nRusioje tai buvo vadinama “Wyt’po mertwom”."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-177032
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
   citata_originali: |
     Lietuvoje gyveno garsi
     Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
@@ -109,5 +113,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002

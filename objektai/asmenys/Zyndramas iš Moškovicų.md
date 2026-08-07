@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3b4208395b7e28f45f0df8a8"
+canonical_name: "Zyndramas iš Moškovicų"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zyndramas iš Moškovicų"]
+sameAs: []
+canonical_biography: "Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų, Krokuvos vaivadai."
 ---
 # Zyndramas iš Moškovicų
 
@@ -72,7 +79,8 @@ Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų,
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 101."
   citata_originali: |
     Tada karalius lenkų kariuomenės ve­
     dimą atidavė Zyndramui iš Moškovicų, Krokuvos vaivadai.

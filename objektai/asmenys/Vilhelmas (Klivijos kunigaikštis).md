@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5789dde7946a71364aa6e69"
+canonical_name: "Vilhelmas (Klivijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vilhelmas (Klivijos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visuotinam baž­ nyčios sinode Konstancijoj^2 )."
 ---
 # Vilhelmas (Klivijos kunigaikštis)
 
@@ -70,7 +77,8 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 311."
   citata_originali: |
     Tų laikų visuomenė taip pat nematė Europoje kito žmo­
     gaus, kaip tik Vytautą, kuris dar galėtų išgelbėti Europą nuo
@@ -91,7 +99,8 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 311."
   citata_originali: |
     Romos kurija labai teisingai manė, kad tik abu iškilę lie­
     tuviai (Jogaila ir Vytautas) tepajėgtų tinkamai išspręsti husitų

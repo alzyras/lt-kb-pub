@@ -64,7 +64,7 @@ Nenurodyta
 <a id="claim-t-195403"></a>
 - t-001
   teiginys: "Autorius rašo, kad vėliau Pelenijoje dėdelio jau nebevežiodavo."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"

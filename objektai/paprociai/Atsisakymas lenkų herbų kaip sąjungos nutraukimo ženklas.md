@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-169271
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 495"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 495."
   citata_originali: |
     Kai žinia apie šį įsibrovimą pasiekė Bres­
     tą, visi baisiai įširdo. Daugelis žymių didikų atsisakė

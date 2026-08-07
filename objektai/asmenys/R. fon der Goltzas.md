@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-27c5e52043b7b74ecc0b6b07"
+canonical_name: "R. fon der Goltzas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["R. fon der Goltzas"]
+sameAs: []
+canonical_biography: "fon der Goltzq. von der Goltzas buvo pakeistas gen."
 ---
 # R. fon der Goltzas
 
@@ -79,7 +86,8 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
 - id: c-42198
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 192."
   citata_originali: |
     == 1919 m. pradžioje Vokietijos karinė vadovybė vokiečių
     pajėgų Baltijos šalyse vadu paskyrė gen. R. fon der Goltzq.
@@ -98,7 +106,8 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
 - id: c-44494
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 192."
   citata_originali: |
     1919 m. spalio 12 d. gen. R. von der Goltzas buvo pakeis-
     tas gen. W. Eberhardtu. Dalis vokiečių grįžo į Vokietiją, ta-

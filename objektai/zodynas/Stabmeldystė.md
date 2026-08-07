@@ -47,7 +47,8 @@ O kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo krikš�
 - id: c-177176
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
   citata_originali: |
     Bet jos principai visiškai
     nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-623b8c8b717363cea4d7f259"
+canonical_name: "Henrikas Stange"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Stange"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų pilis315, degindamas ir grobdamas abiejose [kelio]."
 ---
 # Henrikas Stange
 
@@ -52,7 +59,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - id: c-60951
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 103."
   citata_originali: |
     Apie Girmavos valsčiaus nuniokojimą
     Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną

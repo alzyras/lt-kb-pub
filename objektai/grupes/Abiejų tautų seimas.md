@@ -60,7 +60,8 @@ Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų me
 - id: c-172399
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 515."
   citata_originali: |
     Tas
     seimas taip pat priėmė kitus Lietuvai svarbius įsta­

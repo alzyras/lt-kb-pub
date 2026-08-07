@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c38673c7e7d35309568a8c5e"
+canonical_name: "L. Kuodys"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["L. Kuodys"]
+sameAs: []
+canonical_biography: "Kuodžio redaguota, su dailininko K."
 ---
 # L. Kuodys
 
@@ -51,7 +58,8 @@ Kuodžio redaguota, su dailininko K.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 318."
   citata_originali: |
     6. Vysk. Valančiaus, VAIKŲ KNYGELĖ. L. Kuodžio redaguota, su
     dailininko K. Šimonio spalvotomis ir grafiškomis iliustracijomis ir spalvo­

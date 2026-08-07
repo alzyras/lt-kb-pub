@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-14461af5a2414362e9591a35"
+canonical_name: "Kasperas Maleckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kasperas Maleckis"]
+sameAs: []
+canonical_biography: "Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio komunikacijas ir rinkti duomenis apie priešo judėjimą, o pats su savo pagrindiniais daliniais išskubėjo Svėdasų kryptimi. Maleckio žvalgybinio padalinio atėjo pranešimas apie stambių priešo dalinių artėjimą."
 ---
 # Kasperas Maleckis
 
@@ -59,7 +66,8 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 - id: c-44419
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Po nepavykusio
     grafo Liudviko Pliaterio antpuolio prieš
@@ -91,7 +99,8 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 - id: c-44420
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     kryptimi. Netrukus iš K. Maleckio žvalgy-
     binio padalinio atėjo pranešimas apie

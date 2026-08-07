@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee6be6be8aab51769b5b4b39"
+canonical_name: "Jėzus Kristus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jėzus Kristus"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei. Dusburgietis teigia, kad jėzus Kristus skelbti ir savo stebuklus, nes jie galingi. Dusburgietis teigia, kad septyni Teutonų ordino broliai su keliais ginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik iš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium], bet ilgainiui, per penkiasdešimt trejus."
 ---
 # Jėzus Kristus
 
@@ -108,7 +115,8 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 - id: c-85791
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 34."
   citata_originali: |
     Tad atkreipk savo
     akis, gerasis Jėzau,  į tavo nuolankius tarnus, kurių rankomis štai teikeisi daryti tokių
@@ -126,7 +134,8 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 - id: c-85792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     PRŪSIJOS ŽEMĖS
        KRONIKA
@@ -155,7 +164,8 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 - id: c-85793
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     Pats matyk
     didelius dievo ženklus ir galingus jo stebuklus. Septyni Teutonų ordino broliai su keliais

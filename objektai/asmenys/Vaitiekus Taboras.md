@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7c330a9cabe6cce9719e8829"
+canonical_name: "Vaitiekus Taboras (vyskupas, XV–XVI a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaitiekus Taboras","Vaitiekus Taboras (vyskupas, XV–XVI a.)"]
+sameAs: []
+canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Jonas Laskis. Vilniaus vyskupas Vaitiekus Taboras ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu. Vaitiekus Taboras, lietuvių bajoras nuo Eišiškių, 1491 m. buvo iškeltas į vyskupus ir mirė 1507 m."
 ---
 # Vaitiekus Taboras (vyskupas, XV–XVI a.)
 
@@ -180,7 +187,8 @@ media_all_json: |-
 - id: c-83390
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     Andrius II, šv. teologijos daktaras, lietuvis, dievotas ir
     taurus ganytojas, vyskupo pareigas ėjo dešimt metų, tai yra,
@@ -204,7 +212,8 @@ media_all_json: |-
 - id: c-83391
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 246."
   citata_originali: |
     Stanislovo katedrą. Ten Vaitiekus Taboras, Vilniaus
     vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­
@@ -225,7 +234,8 @@ media_all_json: |-
 - id: c-83392
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 250."
   citata_originali: |
     Kilo didelis pavojus karaliaus
     saugumui, tad Aleksandras, ponų patarimu, kariuomenei
@@ -246,7 +256,8 @@ media_all_json: |-
 - id: c-83393
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248."
   citata_originali: |
     Miestiečiai prie jų
     dieną ir naktį turėjo eiti sargybą, jiems buvo suteikta laisvė
@@ -269,7 +280,8 @@ media_all_json: |-
 - id: c-168213
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 538"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 538."
   citata_originali: |
     Keliais mėnesiais
     anksčiau už karalių mirė Vilniaus vyskupas Andrius,
@@ -305,7 +317,8 @@ media_all_json: |-
 - id: c-168214
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 541"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 541."
   citata_originali: |
     Stanislovo
     katedrą ir pasodino į tėvo sostą. Vaitiekus Taboras, pa­

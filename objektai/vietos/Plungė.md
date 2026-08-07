@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f6de6d7fe5f721a60c26a1b2"
+canonical_name: "Plungė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Plungė"]
+sameAs: []
+canonical_biography: "Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc."
+place_authority: true
+historical_names: []
 ---
 # Plungė
 
@@ -32,7 +41,8 @@ Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo išteklia
 - id: c-24386
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 217."
   citata_originali: |
     XX a. septintajame dešimtmetyje LSSR administracija parengė šalies
     regioninį ekonomikos plėtros planą, kurio esmė – stabdyti senųjų pra-

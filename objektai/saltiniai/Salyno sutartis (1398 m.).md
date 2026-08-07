@@ -104,7 +104,8 @@ media_all_json: |-
 - id: c-67403
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 135."
   citata_originali: |
     Nuo pasirašymo vie-
     tos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko už-
@@ -125,7 +126,8 @@ media_all_json: |-
 - id: c-67404
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 135."
   citata_originali: |
     Ta proga reikia pasakyti, kad tada, kai jo interesams
     būdavo patogu, jis noriai dėdavosi Jogailos vietininku (pa-
@@ -148,7 +150,8 @@ media_all_json: |-
 - id: c-67405
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 135."
   citata_originali: |
     1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau
     įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu
@@ -166,7 +169,8 @@ media_all_json: |-
 - id: c-67406
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 139."
   citata_originali: |
     Ordinas, remdamasis Salyno su-
     tartim, reikalavo, kad pabėgėliai žemaičiai būtų jam grąžinami.
@@ -183,9 +187,9 @@ media_all_json: |-
     - t-002
 
 - id: c-184848
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 69"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 69."
   citata_originali: |
     Svarbi Lietuvos ir Vokiečių ordino santykiams Salyno sutartis
     sudaryta 1398 m. Nemuno saloje netoli Kauno. Sutartyje atsirado straipsnių, skirtų pre-
@@ -200,9 +204,9 @@ media_all_json: |-
     - t-005
 
 - id: c-184849
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 69"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 69."
   citata_originali: |
     Žemaičių ir Vokiečių ordino sutartyje buvo leidimas žemaičiams prekiauti Ordino vals-
     tybės pasienio miestuose. Svarbi Lietuvos ir Vokiečių ordino santykiams Salyno sutartis

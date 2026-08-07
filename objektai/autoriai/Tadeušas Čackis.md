@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e6189be15436c7ad5e975683"
+canonical_name: "Tadeušas Čackis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Tadeušas Čackis"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. Tadeušas Čackis buvo ne tik žmonių ir naminių gyvulių gydymo globėjas, bet ir saugodavo 31 O pravvach. Tadeušas Čackis įtikino, jog kažkur Lietuvoje arba Lietuvos Rusioje buvo fabrikas, gaminęs tokios rūšies popierių."
 ---
 # Tadeušas Čackis
 
@@ -84,7 +91,8 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
 - id: c-173203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
   citata_originali: |
     Senoji Palanga buvo išsidėsčiusi kalvos, va­
     dinamos Olandiška Skrybėle, papėdėje*. Kad pylimus prie Pa­
@@ -103,7 +111,8 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
 - id: c-177071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 156."
   citata_originali: |
     Jiems jis buvo ne tik
     žmonių ir naminių gyvulių gydymo globėjas, bet ir saugodavo
@@ -119,7 +128,8 @@ Narbutas nurodo, kad Čackis įrodinėjo jūrą sunešus pylimus prie Palangos. 
 - id: c-179139
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 249."
   citata_originali: |
     Bet
     buvo rastas popierius su tokiu pat ženklu, tik be ratinio užrašo; jis įtikino,

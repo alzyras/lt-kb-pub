@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4ec25bd9a08589429459066c"
+canonical_name: "J. I. Kraševskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. I. Kraševskis"]
+sameAs: []
+canonical_biography: "Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą „Atheneum“."
 ---
 # J. I. Kraševskis
 
@@ -96,7 +103,8 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
 - id: c-75391
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 106."
   citata_originali: |
     Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
     kalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo in-
@@ -115,7 +123,8 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
 - id: c-171297
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 273."
   citata_originali: |
     O supratingiems tėvy­
     nės istorijos mylėtojams - tai labai vertingas šios įžymios val­
@@ -134,7 +143,8 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
 - id: c-179113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
   citata_originali: |
     Iš tikrųjų tais me­
     tais vyko Lenkijos seimas Piotrkove, trukęs ilgai

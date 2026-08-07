@@ -97,7 +97,8 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
 - id: c-175699
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 270."
   citata_originali: |
     Anot Hartknocho, sudargų iš­
     ties būta, jų atminimas gyvas šios žemės padavimuose ir
@@ -122,7 +123,8 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
 - id: c-175700
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
   citata_originali: |
     282
 
@@ -150,7 +152,8 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
 - id: c-175701
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
   citata_originali: |
     288
     Istorinės išvados. Sudargai, kuriuos istorikai vadina

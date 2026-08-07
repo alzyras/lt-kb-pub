@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-124d675b84373d7cb1927275"
+canonical_name: "Juzefas Bekas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juzefas Bekas"]
+sameAs: []
+canonical_biography: "Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef Beck) nieko gero nedavė: 1936 m. sausį J."
 ---
 # Juzefas Bekas
 
@@ -61,7 +68,8 @@ Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef Be
 - id: c-21796
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 178."
   citata_originali: |
     Nega-
     lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-

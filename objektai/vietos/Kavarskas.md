@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-06b5647dab3e9ec058454b75"
+canonical_name: "Kavarskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kavarskas"]
+sameAs: []
+canonical_biography: "Tiktai Albetrandis apsirinka, sakydamas, kad Asti­ ko dvaras Kavarske buvo nutolęs nuo Vilniaus per dvi mylias."
+place_authority: true
+historical_names: []
 ---
 # Kavarskas
 
@@ -50,7 +59,8 @@ Tiktai Albetrandis apsirinka, sakydamas, kad Asti­ ko dvaras Kavarske buvo nuto
 - id: c-82175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 309."
   citata_originali: |
     Daugiau žinių apie jo nu­
     sikaltimą yra Albertrandžio

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f8b9eeb65c229ce30c2ef84d"
+canonical_name: "Aleksandras Gonsevskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Gonsevskis"]
+sameAs: []
+canonical_biography: "Apsiaustųjų pajėgų aprūpinimo papildymus organizavo Smolensko vaivada Aleksandras Gonsevskis su 6 tūkst."
 ---
 # Aleksandras Gonsevskis
 
@@ -62,7 +69,8 @@ Apsiaustųjų pajėgų aprūpinimo papildymus organizavo Smolensko vaivada Aleks
 - id: c-44264
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 121."
   citata_originali: |
     Lietuviai rusų veiksmus varžė išpuoliais.
     Apsiaustųjų pajėgų aprūpinimo papil-

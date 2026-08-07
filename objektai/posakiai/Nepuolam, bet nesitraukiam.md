@@ -67,7 +67,8 @@ media_all_json: |-
 - id: c-12483
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 262."
   citata_originali: |
     Lietuva neturėjo jokios ginkluotos jėgos, ji jau buvo pasirinkus
     nesmurtinio politinio ir moralinio išsivadavimo kelią. Jei kas ėmėsi
@@ -85,7 +86,8 @@ media_all_json: |-
 - id: c-12484
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 262."
   citata_originali: |
     Sudarėme savo Laikinąją
     gynybos vadovybę ir toliau laikydamiesi nesmurtinio pasiprieši-

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3755d30a8fbea4bae4b4a922"
+canonical_name: "Paulius Spritas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Paulius Spritas"]
+sameAs: []
+canonical_biography: "Narbutas Pauliaus Sprito Karaliaučiaus bažnyčios Agendą mini kaip liudijimą, kad Prūsijos lietuviai Pergrubei aukas atnašavo iki 1530 metų."
 ---
 # Paulius Spritas
 
@@ -62,7 +69,8 @@ Narbutas Pauliaus Sprito Karaliaučiaus bažnyčios Agendą mini kaip liudijimą
 - id: c-173079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
   citata_originali: |
     Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
     čerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­

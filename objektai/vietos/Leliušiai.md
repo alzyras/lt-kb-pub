@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-40cc5cbd947b00b4d9c9a1d5"
+canonical_name: "Leliušiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Leliušiai"]
+sameAs: []
+canonical_biography: "Narbutas Leliušių kaimą mini kaip vieną iš dviejų netoli vienas kito esančių kaimų Lydos krašto Rodūnios parapijoje."
+place_authority: true
+historical_names: []
 ---
 # Leliušiai
 
@@ -54,7 +63,8 @@ Narbutas Leliušių kaimą mini kaip vieną iš dviejų netoli vienas kito esan�
 - id: c-171904
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
   citata_originali: |
     Vie­
     noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­

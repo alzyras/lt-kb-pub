@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9171050f689e1f8f9da344f1"
+canonical_name: "Dobrynės kunigaikštystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dobrynės kunigaikštystė"]
+sameAs: []
+canonical_biography: "Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­ gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­ linkės1 1 . Gedimini) fines Christianorum 69 ## Puslapis 86 VILNIAUS MIESTO ISTORIJA I TOMAS nužudo daug kunigų, ir užimtame Dobrynės mieste žūsta apie du tūkstančius gyventojų."
+place_authority: true
+historical_names: []
 ---
 # Dobrynės kunigaikštystė
 
@@ -66,7 +75,8 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 - id: c-82121
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 85-86"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 85-86."
   citata_originali: |
     e. Gedimini) fines Christianorum
     69
@@ -89,7 +99,8 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 - id: c-82122
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 85."
   citata_originali: |
     Tokios
     didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-

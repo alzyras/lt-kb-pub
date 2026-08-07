@@ -54,7 +54,8 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikos nuorašas buvo ir Livonijoj
 - id: c-61904
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Sis tekstas rodo, jog
     tuo metu Rotundas Dusburgiečio rankraščio arba dar nebuvo turėjęs, arba jo plačiau

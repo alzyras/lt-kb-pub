@@ -66,7 +66,8 @@ Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės 
 - id: c-84253
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 86."
   citata_originali: |
     k
     Dus b. l.c.Jeroschin c. 339 Epi­
@@ -89,7 +90,8 @@ Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės 
 - id: c-84254
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 85."
   citata_originali: |
     Grigaliaus šven­
     tės tie patys lietuviai į Memelio

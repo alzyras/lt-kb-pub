@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-83062
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156."
   citata_originali: |
     Kitais metais jis buvo išvaduotas dviejų jam palan­
     kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­

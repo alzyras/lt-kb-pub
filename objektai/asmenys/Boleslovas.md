@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-26ad730702deefbd77f013fc"
+canonical_name: "Boleslovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslovas"]
+sameAs: []
+canonical_biography: "Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boleslovo, 3) Lenkijos vicekanclerio Donino, 4) Vilniaus vaivados Alberto Manvydo), 5) Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo. Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kunigaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės."
 ---
 # Boleslovas
 
@@ -99,7 +106,8 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 - id: c-85616
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 94."
   citata_originali: |
     Lietuvos valstybei grėsė pavo-
     jus pakrikti. O momentas buvo labai svarbus: tuo metu smar-
@@ -120,7 +128,8 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 - id: c-85617
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45-46."
   citata_originali: |
     Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
     kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
@@ -149,9 +158,9 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     - t-002
 
 - id: c-184321
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 139"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 139."
   citata_originali: |
     Karalius lenkų Boleslovas, jutęs tą nelaimą Vai­
     tiekaus, liepė jo kūną nuo netikėlių, noris visų bran­
@@ -178,9 +187,9 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     - t-003
 
 - id: c-184322
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 433"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 433."
   citata_originali: |
     Tuodu vyru, steigdamu iš vieno, pradėjo zo-
     kaną kelti ir stiprinti, noris buvo ir tą metą lie­

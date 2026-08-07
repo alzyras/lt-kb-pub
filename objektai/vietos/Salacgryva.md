@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8f8c9f12c225deb72607d489"
+canonical_name: "Salacgryva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Salacgryva"]
+sameAs: []
+canonical_biography: "Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis. Norėdamas užklupti priešą nepasiruošusį, jis prie Salacgryvos (Salismiinde) žygiavo tiesiai per miškus. Suformuota flotilė patraukė Salacgryvos uosto link, kurio prieigose etmono įsakymu slapta buvo parengti du branderiai - padegamieji laivai, kurie medinių laivų amžiuje buvo labai efektyvi priemonė naikinant priešo laivus, ypač stovinčius uoste."
+place_authority: true
+historical_names: []
 ---
 # Salacgryva
 
@@ -102,7 +111,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - id: c-45313
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 113."
   citata_originali: |
     Uždegti branderiai buvo signalas sausu-
     moje, uosto šturmo pajėgose buvusiems lie-
@@ -127,7 +137,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - id: c-45314
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112."
   citata_originali: |
     LDK etmonas Jonas Karolis Chodkevičius
     su kariuomene nužygiavo Piarnu link.
@@ -148,7 +159,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - id: c-45315
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 113."
   citata_originali: |
     Iš šių laivų didysis
     LDK etmonas Jonas Karolis Chodkevičius
@@ -179,7 +191,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - id: c-167191
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112."
   citata_originali: |
     Dar mūšiui nepasibai-
     gus didysis Lietuvos karvedys mirė Chotino pilyje.
@@ -200,7 +213,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - id: c-167192
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 113."
   citata_originali: |
     Nuo padegtų branderių užsidegė
     2 švedų karo laivai ir čia pat paskendo.

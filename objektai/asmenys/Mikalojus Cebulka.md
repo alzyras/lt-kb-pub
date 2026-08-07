@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-efb0085e9820251c7539e3ad"
+canonical_name: "Mikalojus Cebulka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Cebulka"]
+sameAs: []
+canonical_biography: "Vytautas kartu su karū­ nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą, sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui nepasitenkinimą^3 )."
 ---
 # Mikalojus Cebulka
 
@@ -51,7 +58,8 @@ Vytautas kartu su karū­ nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 208."
   citata_originali: |
     Kai šį sprendimą sužinojo Vytautas ir
     Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­

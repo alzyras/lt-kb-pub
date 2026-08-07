@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9bf00923dc38b025cec629ea"
+canonical_name: "Jonas Jurgis (Brandenburgo kurfiurstas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Jurgis (Brandenburgo kurfiurstas)"]
+sameAs: []
+canonical_biography: "Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfiurstui, Albrechtui, Prūsijos ku­ nigaikščiui, visiems trims, norime, kad būtų duota po du gerus žirgus, prašydamas jų didenybių kaip savo giminai­ čių, kad giminiškos meilės ženklan."
 ---
 # Jonas Jurgis (Brandenburgo kurfiurstas)
 
@@ -50,7 +57,8 @@ Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfi
 - id: c-83701
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 363."
   citata_originali: |
     Taipgi norime, kad jos didenybei karalai­
     tei Onai būtų leista paimti prieš žirgų padalijimą du eidi­

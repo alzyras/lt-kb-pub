@@ -97,7 +97,8 @@ Nenurodyta
 - id: c-66849
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
   citata_originali: |
     162 Kulmo (dab. Chelmnas, Chelmno, LLR) pilies ir kt. Šios žemės pilių sunaikinimą
     patvirtina 1222 (ar 1223) m. Konrado privilegija vyskupui Kristijonui (PUB, 1, 1, Nr.
@@ -120,7 +121,8 @@ Nenurodyta
 - id: c-167322
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
   citata_originali: |
     kaimynais, išpažįstančiais krikščionybę, netrukdė jiems garbinti gyvojo dievo ir apskritai
     jų nekliudė. Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui

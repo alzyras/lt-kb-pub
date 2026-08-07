@@ -31,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1758 m. laiške minėta, kad įkaušę bajorai Antanas Lapa ir Weysenhofas susipyko ir Vilniuje kapojosi kardais. Per 1758 m. susirėmimą Antanui Lapai sužeista kakta ir ranka, o Weysenhofui - nosis, ranka ir kakta; jis prarado pirštą.
+1758 m. rugsėjo 9 d. laiške aprašytas po išgertuvių kilęs deputato Łapos ir Weysenhoffo susirėmimas Vilniuje; per jį abu buvo sužeisti, o vienas iš jų neteko piršto.
 
 ## Laikotarpis ir datos
 
@@ -64,29 +64,29 @@ Nenurodyta
 
 <a id="claim-t-200605"></a>
 - t-001
-  teiginys: "1758 m. laiške minėta, kad įkaušę bajorai Antanas Lapa ir Weysenhofas susipyko ir Vilniuje kapojosi kardais."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "1758 m. Vilniuje įkaušę bajorai Antanas Lapa ir Weysenhofas susipyko bei susirėmė kardais."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Deputato Łapos ir Weysenhoffo susirėmimas Vilniuje (1758 m. rugsėjo 9 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Deputato Łapos ir Weysenhoffo susirėmimas Vilniuje (1758 m. rugsėjo 9 d.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_patikimumas: "dalyvavo_musyje -> Deputato Łapos ir Weysenhoffo susirėmimas Vilniuje (1758 m. rugsėjo 9 d.): 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Deputato Łapos ir Weysenhoffo susirėmimas Vilniuje (1758 m. rugsėjo 9 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Bajorai tiesiogiai įvardyti kaip kardais susirėmusio įvykio dalyviai."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1758 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys pririštas prie laiške minimo konflikto ir pašalinta neparemta „po išgertuvių“ detalė. Paliktas šaltinyje esantis įkaušimo apibūdinimas."
-  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
+  temporalinis_llm_pakomentavimas: "Aktyviai įvardyti susirėmimo dalyviai ir pašalinta neinformatyvi pasyvi nuoroda į laišką."
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
   pagrindžia:
     - c-183997
 
 <a id="claim-t-200606"></a>
 - t-002
-  teiginys: "Per 1758 m. susirėmimą Antanui Lapai sužeista kakta ir ranka, o Weysenhofui - nosis, ranka ir kakta; jis prarado pirštą."
-  atnaujinta: "2026-07-14 11:41"
+  teiginys: "Per 1758 m. susirėmimą Antanui Lapai buvo sužeista kakta ir ranka, o Weysenhofui – nosis, ranka ir kakta; be to, Weysenhofas neteko piršto."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Starodubas: 0.83"
@@ -99,8 +99,8 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1758 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslinta, kad Lapai sužeista kakta, ne bendrai galva. Weysenhofo sužeidimai palikti pagal citatos formuluotę."
-  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
+  temporalinis_llm_pakomentavimas: "Pašalintas dviprasmis įvardis ir aiškiai priskirti sužalojimai bei piršto netekimas konkrečiam asmeniui."
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
   pagrindžia:
     - c-183997
 
@@ -118,7 +118,7 @@ Nenurodyta
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 07:10"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
     - t-002

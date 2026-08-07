@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184669
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 542"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 542."
   citata_originali: |
     Ant galo Li­
     gojo Gediminas širdingai popiežiaus žvilgterėti ant

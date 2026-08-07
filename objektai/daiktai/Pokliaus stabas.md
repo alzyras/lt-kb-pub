@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-172582
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 316."
   citata_originali: |
     Tada
     nebebuvo ko delsia: reikėdavo kuo skubiau vykti pas kurį nors
@@ -106,7 +107,8 @@ Nenurodyta
 - id: c-179082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 317."
   citata_originali: |
     Jeigu būdavo ketinama pradėti karą su ko­
     kia šalimi arba jeigu gynybinio karo metu norėdavo sužinoti,

@@ -38,7 +38,7 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 <a id="claim-t-20865"></a>
 - t-001
   teiginys: "Mintis „Po kuo būti geriau – rusais ar vokiečiais“ reiškė mažos valstybės realių galimybių įvertinimą, o ne išankstinį pasidavimą."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1940 m."
@@ -71,7 +71,8 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 - id: c-23591
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 189."
   citata_originali: |
     V s k y r i u s
     LIETUVA: SOVIETŲ IR
@@ -104,7 +105,8 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 - id: c-166895
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 189."
   citata_originali: |
     Lietuva stovėjo šių karinių milžinių kelyje Antrojo pasaulinio karo fone
     ir svarstė ne tik savo, valstybės, bet ir tautos galimybes išlikti. Mintis „Po

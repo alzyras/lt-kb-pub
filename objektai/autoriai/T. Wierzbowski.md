@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-77969d94fc4a779c1f6ef02a"
+canonical_name: "T. Wierzbowski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["T. Wierzbowski"]
+sameAs: []
+canonical_biography: "Wierzbowski), ar Didįjį Reformų (Ketverių metų) seimą (W."
 ---
 # T. Wierzbowski
 
@@ -50,7 +57,8 @@ Wierzbowski), ar Didįjį Reformų (Ketverių metų) seimą (W.
 - id: c-33160
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 92."
   citata_originali: |
     Po II pasaulinio karo dar labiau jaunoji lenkų istorikų generacija
     ėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip

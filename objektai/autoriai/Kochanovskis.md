@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e2e133bf2125b6541cd8cb30"
+canonical_name: "Kochanovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kochanovskis"]
+sameAs: []
+canonical_biography: "Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ se^1 ). Tada tai, kaip sako Kochanovskis, kažkeno galvoj ir kilo geniali mintis, pralenkianti ištisus amžius ir kartas^2 )."
 ---
 # Kochanovskis
 
@@ -87,7 +94,8 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 164."
   citata_originali: |
     Tada tai, kaip sako Kochanovskis, kažkeno galvoj ir
     kilo geniali mintis, pralenkianti ištisus amžius ir kartas^2 ). Tai buvo
@@ -107,7 +115,8 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 163."
   citata_originali: |
     Jau anksčiau
     prasidėjęs didelis spaudimas vakaruose lenkus dabar automatiš­
@@ -131,7 +140,8 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 164."
   citata_originali: |
     Tos anarchijos metu padidėjo
     ir pavojus iš Ordino šalies, kuris po Kalyšiaus taikos ir dabar

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7d170fe621b19f10378dcb92"
+canonical_name: "Dakija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dakija"]
+sameAs: []
+canonical_biography: "Narbutas iš Bizantijos rašytojų užuominų sprendė, kad susivienijusios lietuvių gentys gyveno Dakijoje ir vertėsi žemdirbyste."
+place_authority: true
+historical_names: []
 ---
 # Dakija
 
@@ -78,7 +87,8 @@ Narbutas iš Bizantijos rašytojų užuominų sprendė, kad susivienijusios liet
 - id: c-175398
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 309."
   citata_originali: |
     Tai
     buvo būtent tas laikas, nuo kurio susivienijusias lietuvių

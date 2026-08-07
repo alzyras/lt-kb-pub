@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c6092faad56c988842c5585c"
+canonical_name: "Lydos kraštas (kraštas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lydos kraštas","Lydos kraštas (kraštas)"]
+sameAs: []
+canonical_biography: "Lydos krašto Rodūnios parapijoje Narbutas minėjo netoli vienas kito buvusius Leliušių ir Lelionių kaimus."
+place_authority: true
+historical_names: []
 ---
 # Lydos kraštas (kraštas)
 
@@ -55,7 +64,8 @@ Lydos krašto Rodūnios parapijoje Narbutas minėjo netoli vienas kito buvusius 
 - id: c-171909
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
   citata_originali: |
     Vie­
     noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­

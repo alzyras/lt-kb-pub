@@ -87,7 +87,8 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 - id: c-42988
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Vakaruose 1433 m. Lenkijai suartėjus su
     čekų husitais, Ordinui kilo didelė grėsmė.
@@ -109,7 +110,8 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 - id: c-44876
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 69."
   citata_originali: |
     Ordinas, pirmiausia jo Livonijos šaka,
     toliau liko Švitrigailos rėmėja, nes siekė,
@@ -138,7 +140,8 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 - id: c-176403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     Švitrigaila
     siekė visiško savarankiškumo ir palaikė

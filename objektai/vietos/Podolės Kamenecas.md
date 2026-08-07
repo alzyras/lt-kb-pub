@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f49880769da924b63625513c"
+canonical_name: "Podolės Kamenecas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Podolės Kamenecas"]
+sameAs: []
+canonical_biography: "Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalbama apie istorinį Podolės miestą prie Smotričės."
+place_authority: true
+historical_names: []
 ---
 # Podolės Kamenecas
 
@@ -148,7 +157,8 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
 - id: c-170333
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 217."
   citata_originali: |
     Kalbama apie istorinį Podolės (dabar UTSR Chmelnickio sr.)
     miestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne
@@ -168,7 +178,8 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
 - id: c-170334
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 25."
   citata_originali: |
     Goštautų iniciatyva XV a. vi­
     dury sukurtas Trumpojo sąvado perdirbinys, papildy­

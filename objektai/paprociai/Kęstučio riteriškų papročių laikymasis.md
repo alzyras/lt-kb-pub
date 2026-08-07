@@ -87,7 +87,8 @@ Nenurodyta
 - id: c-33454
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 255."
   citata_originali: |
     Lietuvių istorijon jis nuėjo kaip pavyzdingiausias ir riteriškas kovo­
     tojas, didelę savo gyvenimo dalį praleidęs ant žirgo karo žygiuose,
@@ -108,7 +109,8 @@ Nenurodyta
 - id: c-33455
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 256."
   citata_originali: |
     Jei kurį iš ordino
     brolių jis laikė drąsiu ir vyrišku, tam parodydavo daug meilės ir

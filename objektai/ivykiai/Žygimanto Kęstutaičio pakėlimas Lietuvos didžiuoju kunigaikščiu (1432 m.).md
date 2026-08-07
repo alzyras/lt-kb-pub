@@ -132,7 +132,8 @@ Nenurodyta
 - id: c-169047
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Nugalėtojas turėjo gauti atlyginimą, pažadėtą kara­
     liaus ir valstybės vardu, ypač dėl to, kad pasiuntiniai
@@ -165,7 +166,8 @@ Nenurodyta
 - id: c-169048
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 442"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 442."
   citata_originali: |
     Stanislovo katedroje
     Vilniuje paskelbė susirinku­
@@ -192,7 +194,8 @@ Nenurodyta
 - id: c-178620
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 441-442"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 441-442."
   citata_originali: |
     Priesaika patvirtinto susitarimo pag­
     rindiniai teiginiai buvo šie: turi būti amžinai laikomasi

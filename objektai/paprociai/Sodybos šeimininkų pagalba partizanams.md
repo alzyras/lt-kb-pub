@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-12349
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 224."
   citata_originali: |
     Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas
     ūkininkus. Okupacinėms pajėgoms pradėjus dominuoti vietovėje, žaliukams teko įsirengti

@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-720592050b70b716eeb30400"
+canonical_name: "Stalovičiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Stalovičiai"]
+sameAs: []
+canonical_biography: "Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos tuo metu dar pulkininko, vėliau tapusio rusų generalisimu Aleksandro Suvorovo pajėgų."
+place_authority: true
+historical_names: []
 ---
 # Stalovičiai
 
@@ -49,7 +58,8 @@ Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos tuo
 - id: c-40358
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 143."
   citata_originali: |
     Po mūšio
 

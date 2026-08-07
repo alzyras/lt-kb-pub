@@ -27,19 +27,26 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-513933600f4249d629969db7"
+canonical_name: "Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jan Wladysław Korf","Jonas Vladislovas Korfas","Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)"]
+sameAs: []
+canonical_biography: "Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. Jonas Vladislovas Korfas Perėmė nurodytą sumą ir turėjo ją perduoti Belzo vaivadienei Liudvikai Sapiegaitei Potockai."
 ---
 # Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)
 
 ## Santrauka
 
-Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. 1749 m. Jonas Vladislovas Korfas perėmė nenurodytą sumą ir vėliau turėjo perduoti pinigus Liudvikai Sapiegaitei Potockai.
+Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. Jonas Vladislovas Korfas Perėmė nurodytą sumą ir turėjo ją perduoti Belzo vaivadienei Liudvikai Sapiegaitei Potockai.
 
 ## Teiginiai
 
 <a id="claim-t-200504"></a>
 - t-001
   teiginys: "Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
@@ -56,7 +63,7 @@ Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. 1749 m. Jonas Vladis
 <a id="claim-t-200505"></a>
 - t-002
   teiginys: "1749 m. Jonas Vladislovas Korfas perėmė nenurodytą sumą ir vėliau turėjo perduoti pinigus Liudvikai Sapiegaitei Potockai."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Belzas: 0.83"
@@ -69,7 +76,7 @@ Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. 1749 m. Jonas Vladis
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1749 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pataisyta klaida: citata kalba apie nenurodytą, o ne nurodytą sumą. Pridėta data ir aiškiai įvardyta gavėja."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai išskleidžia 1749 m. veiksmą, sumos perėmimą ir numatytą perdavimą. Neapibrėžta suma išlaikyta pagal citatą."
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183865
@@ -83,7 +90,7 @@ Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. 1749 m. Jonas Vladis
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 03:26"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
     - t-002

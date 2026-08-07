@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb76ba6bb52bea4f49d15b91"
+canonical_name: "Manteufel T"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Manteufel T"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kristaus brolių ordinas, kaip vyskupo Kristijono kariai, negalėjo būti apeitas 1223 m. vyskupo ir kunigaikščio Konrado sutartyje (Manteufel T. Dusburgietis teigia, kad istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo vadinami Baltijos jūros pietinės pakrantės ir Riugeno (Rugijos) salos gyventojai (Manteuffel T., Papiestwo.., p. 122— 123; Łowmiański H., Początki Polski, t. 5, p. 148; Ловмянский Г., Руссы и руги, с. 51."
 ---
 # Manteufel T
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad kristaus brolių ordinas, kaip vyskupo Kristijono karia
 - id: c-61283
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     Daugelis Ordino brolių paėjo iš Meklenburgo, spėjamosios Kristijono
     gimtinės, riterijos. Kristaus brolių ordinas, kaip vyskupo Kristijono kariai, negalėjo būti

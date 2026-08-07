@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-08dcb1644813db0bc7e908f7"
+canonical_name: "M. P. Sapiega"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["M. P. Sapiega"]
+sameAs: []
+canonical_biography: "Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu su visa likusia kariuomene respublikonams."
 ---
 # M. P. Sapiega
 
@@ -67,7 +74,8 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
 - id: c-44442
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 140."
   citata_originali: |
     Etmonas, pama-
     tęs, kad jo kariuomenė supama,
@@ -91,7 +99,8 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
 - id: c-44443
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 140."
   citata_originali: |
     Kartu su juo pasitraukė
     iždininkas B. P. Sapiega ir marša-

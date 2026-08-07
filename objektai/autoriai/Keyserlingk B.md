@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a695dfcf1c9fe5660b2c7cb"
+canonical_name: "Keyserlingk B"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Keyserlingk B"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 33—73; Springborn M, Herkus Monte.— Berlin, 1897; to paties, Paskutinis prūsų sukilėlis Herkus Mantas.— K, 1938; Keyserlingk B., Monte der Rebell.— Görlitz; to paties, Sukilėlis Montė.— K, 1937; Grušas J., Herkus Mantas.— V, 1957) bei dabartinėje."
 ---
 # Keyserlingk B
 
@@ -60,7 +67,8 @@ Dusburgietis teigia, kad 33—73; Springborn M, Herkus Monte.— Berlin, 1897; t
 - id: c-87592
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
   citata_originali: |
     33—73; Springborn M,
     Herkus Monte.— Berlin, 1897; to paties, Paskutinis prūsų sukilėlis Herkus Mantas.— K,

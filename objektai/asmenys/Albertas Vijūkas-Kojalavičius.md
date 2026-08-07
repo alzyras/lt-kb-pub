@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f5c1ea6b86470cb1c040821b"
+canonical_name: "Albertas Vijūkas-Kojalavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albertas Vijūkas-Kojalavičius"]
+sameAs: []
+canonical_biography: "Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos ir daugiatautės bei daugiakonfesės LDK."
 ---
 # Albertas Vijūkas-Kojalavičius
 
@@ -184,7 +191,8 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
 - id: c-21550
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 81."
   citata_originali: |
     fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-
     kymo principus ir didelius reikalavimus, intensyvaus mokymo sistemą, o
@@ -210,7 +218,8 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
 - id: c-171396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 247."
   citata_originali: |
     Vadinasi, bu­
     vo tik Jupiteris, turėjęs antrąją ypatybę*.
@@ -230,7 +239,8 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
 - id: c-171397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 359."
   citata_originali: |
     Draugystės, svetingumo, santai­
     kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­
@@ -254,7 +264,8 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
 - id: c-173720
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Latvių, arba
     Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
@@ -277,7 +288,8 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
 - id: c-173721
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
   citata_originali: |
     95
     Pastabos. Mūsų mokslininkas, lietuvių istorijos tyri­
@@ -298,7 +310,8 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
 - id: c-173722
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 108."
   citata_originali: |
     Taigi nėra įrodymų paneigti prielaidai, jog Charoboe or­
     da XII amžiuje išsivedė su savimi lietuvių genčių kolo­
@@ -321,7 +334,8 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
 - id: c-174817
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 452"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 452."
   citata_originali: |
     Kortos, romanai, garderobai — tokios yra jų dory­
     bės. Vyrauja tuščias pasididžiavimas senoliais, o protėvių

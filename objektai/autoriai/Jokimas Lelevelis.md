@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f4f5ca3dad357a0dc33acbf9"
+canonical_name: "Jokimas Lelevelis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jokimas Lelevelis"]
+sameAs: []
+canonical_biography: "Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo metų (1861) emigracijoje nepaleido plunksnos iš rankos, yra nemaža palietęs ir Didžiosios Lietuvos Kunigaikštystės istoriją. Jokimas Lelevelis parašė Aug."
 ---
 # Jokimas Lelevelis
 
@@ -56,7 +63,7 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
 <a id="claim-t-184351"></a>
 - t-002
   teiginys: "Jokimas Lelevelis parašė Aug."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,7 +77,8 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
 - id: c-29110
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 57."
   citata_originali: |
     Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių
     savo gyvenimo metų (1861) emigracijoje nepaleido plunksnos iš
@@ -91,7 +99,8 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
 - id: c-167721
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 57."
   citata_originali: |
     2,
     1972, 41-53 p).**

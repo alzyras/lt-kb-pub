@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7696c4a250f87f51c3048ad"
+canonical_name: "Zigmantas Rotas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zigmantas Rotas"]
+sameAs: []
+canonical_biography: "Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėmė imperatoriaus laišką ir paleido juos laisvėn. Zigmantas Rotas nepatvirtintas jokia priesaika."
 ---
 # Zigmantas Rotas
 
@@ -91,7 +98,8 @@ Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėm
 - id: c-169631
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 422"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 422."
   citata_originali: |
     Viskam
     vadovauti paskyrė Joną Čar-

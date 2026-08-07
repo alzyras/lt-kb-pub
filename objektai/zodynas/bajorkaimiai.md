@@ -50,7 +50,8 @@ Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicos
 - id: c-28475
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 121."
   citata_originali: |
     Normanų įtakos pėdsakų reikią ieškoti
     Lietuvos bajorkaimiuose — okolicose (Essen), net vietovardžiuose

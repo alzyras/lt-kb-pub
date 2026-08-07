@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-378203e181621bc6f69f96bc"
+canonical_name: "Jučas, M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jučas, M"]
+sameAs: []
+canonical_biography: "Jučas, M."
 ---
 # Jučas, M
 
@@ -60,7 +67,8 @@ Jučas, M.
 - id: c-32986
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 351."
   citata_originali: |
     — Jakštas, J. : _Dlugošas apie Žalgirio
     mūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,

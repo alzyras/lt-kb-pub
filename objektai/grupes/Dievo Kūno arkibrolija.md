@@ -134,7 +134,8 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 - id: c-55859
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 191."
   citata_originali: |
     1539 metais
     kardinolas Komendoni atsiuntė Vilniaus vyskupui Valeri-

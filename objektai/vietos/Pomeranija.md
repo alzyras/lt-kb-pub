@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0694f9f671d3ca3675e82dc2"
+canonical_name: "Pomeranija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pomeranija"]
+sameAs: []
+canonical_biography: "Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kitas importuotas dirbinys."
+place_authority: true
+historical_names: []
 ---
 # Pomeranija
 
@@ -174,7 +183,8 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 268."
   citata_originali: |
     Tai
     buvo kraštas, esąs prie Oderio žemupio Baltijos pakraštyje.
@@ -195,7 +205,8 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - id: c-68433
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 107."
   citata_originali: |
     Dar XVI-XV amž.
     Lietuvoje žalvario buvo tiek maža, kad visi įrankiai buvo dar akmeniniai.
@@ -213,7 +224,8 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - id: c-68434
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
   citata_originali: |
     Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
     jos [vyrų]
@@ -237,7 +249,8 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - id: c-68435
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Vysla — tai upė, atitekanti nuo
     Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
@@ -256,7 +269,8 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - id: c-68436
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 97."
   citata_originali: |
     Apie taikos atkūrimą tarp Sventopelko ir brolių
 

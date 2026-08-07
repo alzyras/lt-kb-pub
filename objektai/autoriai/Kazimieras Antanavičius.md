@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2e1f64fba6ce4131d0ae3300"
+canonical_name: "Kazimieras Antanavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kazimieras Antanavičius"]
+sameAs: []
+canonical_biography: "Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi."
 ---
 # Kazimieras Antanavičius
 
@@ -45,7 +52,8 @@ media_all_json: |-
 - id: c-176389
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 235."
   citata_originali: |
     Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies

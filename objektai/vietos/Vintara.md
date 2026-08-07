@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-02ef44e894d94b02de300e17"
+canonical_name: "Vintara"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vintara"]
+sameAs: []
+canonical_biography: "Šią kariuomenių išsidėstymo situaciją natūroje atitinka ne Žirnajos (kaip įprasta istoriografijoje), bet jos dešiniojo intako Vintaros, tekančios per dabartinį Pabaisko miestelį, padėtis."
+place_authority: true
+historical_names: []
 ---
 # Vintara
 
@@ -51,7 +60,8 @@ media_all_json: |-
 - id: c-45426
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 71."
   citata_originali: |
     Taip jos kelias paras stovėjo, susikaupę
     laukė mūšio. Šią kariuomenių išsidėstymo

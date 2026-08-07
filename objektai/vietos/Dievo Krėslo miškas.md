@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7858282fb45f071f56551a6d"
+canonical_name: "Dievo Krėslo miškas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dievo Krėslo miškas"]
+sameAs: []
+canonical_biography: "Dievo Krėslo miške aptiko Edmundo Rekašiaus-Lakūno vadovaujamų Žarėnų kuopos partizanų stovyklą, kurioje buvo vienuolika partizanų."
+place_authority: true
+historical_names: []
 ---
 # Dievo Krėslo miškas
 
@@ -59,7 +68,8 @@ Dievo Krėslo miške aptiko Edmundo Rekašiaus-Lakūno vadovaujamų Žarėnų ku
 - id: c-45073
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     X. ŽARĖNŲ KAUTYNĖS
 

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-69d835a5484f814ae79aa899"
+canonical_name: "Joachim Lelewel"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Joachim Lelewel"]
+sameAs: []
+canonical_biography: "Z korespondencji Joachima Lelewela z Michałem Ba­ lińskim. Wilno, 1939 (odbitka), s."
 ---
 # Joachim Lelewel
 
@@ -53,7 +60,8 @@ Z korespondencji Joachima Lelewela z Michałem Ba­ lińskim. Wilno, 1939 (odbit
 - id: c-176904
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 16."
   citata_originali: |
     4 Jasiulianiec K. Z korespondencji Joachima Lelewela z Michałem Ba­
     lińskim. Wilno, 1939 (odbitka), s. 245.

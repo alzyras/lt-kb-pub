@@ -39,7 +39,7 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 <a id="claim-t-12548"></a>
 - t-001
   teiginys: "Unijos akto 11 paragrafu Jogaila ir Vytautas pažadėjo Vilniuje ir Trakuose įsteigti Lenkijos pavyzdžio kašteliono pareigybę."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -98,7 +98,8 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 302."
   citata_originali: |
     „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
     lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada
@@ -115,7 +116,8 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 - id: c-160261
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 245."
   citata_originali: |
     Čia nuo Vytauto laikų buvo krašto
     viršininkas, vadinamas seniūnu. Jis buvo lygus su vaiva-
@@ -134,7 +136,8 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 302."
   citata_originali: |
     Jogaila su Vytautu unijos akto 11 § pažadėjo, kad
     „dignitates, sedes et officia, prout in regno Poloniae instituta
@@ -150,7 +153,8 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 - id: c-166351
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 244-245"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 244-245."
   citata_originali: |
     Tai buvo lenkiškojo tipo urėdai,
     kurie vesdavo savo srities bajoriją į karą ir turėdavo kitokių,

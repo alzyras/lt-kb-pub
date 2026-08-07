@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae2c3203762b4f24e69ec1b5"
+canonical_name: "Kęstučio dvaras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kęstučio dvaras"]
+sameAs: []
+canonical_biography: "Taigi Kęstučio dvaras buvo vie­ ta, kur daugiausia turėta žinių apie visus kaimynus."
+place_authority: true
+historical_names: []
 ---
 # Kęstučio dvaras
 
@@ -53,7 +62,8 @@ Taigi Kęstučio dvaras buvo vie­ ta, kur daugiausia turėta žinių apie visus
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 276."
   citata_originali: |
     Susitikęs su lenkais, jis ir jiems nenusi­
     leidžia: priverstas pažadėjo krikštytis, bet nuo to pasižadėjimo

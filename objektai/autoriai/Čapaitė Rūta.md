@@ -25,8 +25,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-64926cbcb84115aed40d4165"
+canonical_name: "Čapaitė Rūta"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Čapaitė Rūta"]
+sameAs: []
+canonical_biography: "Rūta Čapaitė 2003 m. paskelbė straipsnį apie Lietuvos didžiojo kunigaikščio Vytauto kasdienybę pagal to meto korespondenciją."
 ---
 # Čapaitė Rūta
+
+## Santrauka
+
+Rūta Čapaitė 2003 m. paskelbė straipsnį apie Lietuvos didžiojo kunigaikščio Vytauto kasdienybę pagal to meto korespondenciją.
 
 ## Santrauka
 
@@ -37,7 +48,7 @@ Rūta Čapaitė 2003 m. paskelbė straipsnį apie Lietuvos didžiojo kunigaikš�
 <a id="claim-t-200747"></a>
 - t-001
   teiginys: "Rūta Čapaitė 2003 m. paskelbė straipsnį apie Lietuvos didžiojo kunigaikščio Vytauto kasdienybę pagal to meto korespondenciją."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,6 +74,6 @@ Rūta Čapaitė 2003 m. paskelbė straipsnį apie Lietuvos didžiojo kunigaikš�
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 18."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-001

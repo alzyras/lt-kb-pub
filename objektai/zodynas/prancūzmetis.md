@@ -63,7 +63,8 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
 - id: c-03363
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 461"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 461."
   citata_originali: |
     Pasitraukus Napoleono kariuomenei, tuojau buvo sugrąžinta
     senoji Rusų valdžia. Kad ir buvo caro paskelbta amnestija, ta-
@@ -85,7 +86,8 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
 - id: c-175907
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 461"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 461."
   citata_originali: |
     Kad ir buvo caro paskelbta amnestija, ta-
     čiau Napoleono šalininkai tuojau buvo pradėti persekioti: nepa-

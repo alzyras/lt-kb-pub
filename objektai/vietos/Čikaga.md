@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-466bd267189031974d2bf536"
+canonical_name: "Čikaga"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Čikaga"]
+sameAs: []
+canonical_biography: "Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje (JAV). Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o. Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas."
+place_authority: true
+historical_names: []
 ---
 # Čikaga
 
@@ -117,7 +126,8 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
 - id: c-24617
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 130."
   citata_originali: |
     Idėja skynėsi kelią ne tik Europo-
     je – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje
@@ -133,7 +143,8 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
 - id: c-24618
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-
     sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-
@@ -162,7 +173,8 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
 - id: c-24619
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 264."
   citata_originali: |
     Lenkijos prezidento Bronislovo Komo-
     rovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-
@@ -186,7 +198,8 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
 - id: c-75044
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 120-121"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 120-121."
   citata_originali: |
     1910 m. JAV (Pensilvanijoje, Čikagoje, Niujorke) gyveno 207 tūkst. lietu-
     vių, kurie laisvi ir nevaržomi kūrė savo spaudą, draugijas ir organizaci-

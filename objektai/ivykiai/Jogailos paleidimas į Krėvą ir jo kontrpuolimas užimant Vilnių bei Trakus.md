@@ -59,7 +59,8 @@ Nenurodyta
 - id: c-178564
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268."
   citata_originali: |
     Jogaila nudžiugo gavęs progą sutelkti
     kariuomenę, šiek tiek pažygiavo link Seversko, po to

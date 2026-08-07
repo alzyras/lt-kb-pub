@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-62557
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 252."
   citata_originali: |
     1. Apie evangeliją: pradžioje buvo žodis
 

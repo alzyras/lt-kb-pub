@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c0d976f461613851e623df96"
+canonical_name: "Jazdovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jazdovas"]
+sameAs: []
+canonical_biography: "Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda vasarą gyveno Jazdovo dvare. Mindaugas, remiamas rusų, miškų takais įsibrovė į Mazoviją ir Jazdovo dvare užklupo Zemovitą bei jo sūnų Konradą."
+place_authority: true
+historical_names: []
 ---
 # Jazdovas
 
@@ -60,7 +69,8 @@ Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda v
 - id: c-168687
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 106."
   citata_originali: |
     Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
     latos siaubė Mindaugo karvedžiai, ten vyko kovos prie

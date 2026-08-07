@@ -61,7 +61,8 @@ Dusburgietis teigia, kad „Eime, sakė, išnaikinsime juos, kad šios tautos ne
 - id: c-59723
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
 

@@ -101,7 +101,8 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
 - id: c-24907
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 150."
   citata_originali: |
     Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
     nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
@@ -121,7 +122,8 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
 - id: c-24908
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 150."
   citata_originali: |
     1922 m. spalio 1 d. Lietuvoje
     įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas
@@ -141,7 +143,8 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
 - id: c-166839
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 150."
   citata_originali: |
     Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra

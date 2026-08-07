@@ -60,7 +60,8 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 - id: c-59557
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     280 (273). Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
     Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio

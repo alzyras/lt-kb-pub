@@ -182,7 +182,8 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - id: c-26831
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 131."
   citata_originali: |
     Vokiečiai Lietuvą laikė
     Rusijos okupuota teritorija, tad, 1915 m. frontui stabilizavusis, sudarė
@@ -206,7 +207,8 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - id: c-26832
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 132."
   citata_originali: |
     Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietu-
     viu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Len-
@@ -231,7 +233,8 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - id: c-26833
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 135."
   citata_originali: |
     lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose parei-
     kalavo nepriklausomybės Lietuvai, jų atstovai dalyvavo keliose lietuvių
@@ -256,7 +259,8 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - id: c-72861
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 132."
   citata_originali: |
     Ilga diskusija dėl Lietuvos ateities, politinių kompromisų su lenkais
     paieška buvo bevaisė. O Oberosto karinis kolonijinis režimas plėšė vals-

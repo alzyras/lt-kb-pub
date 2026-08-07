@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-62675"></a>
 - t-001
   teiginys: "Gedulo metu žmonės suplėšė savo drabužius ir apsivilko ašutinėmis."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-63412
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
   citata_originali: |
     mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums
     dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
@@ -88,7 +89,8 @@ Nenurodyta
 - id: c-63413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
   citata_originali: |
     Tai kam gi mums
     dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais

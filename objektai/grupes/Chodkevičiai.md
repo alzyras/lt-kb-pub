@@ -61,7 +61,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 <a id="claim-t-19666"></a>
 - t-002
   teiginys: "1605 m. prie Kirchholmo J. K. Chodkevičiaus vadovaujama LDK kariuomenė, turėjusi 3 tūkst. raitelių, nugalėjo 12 tūkst. švedų."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1605 m."
@@ -98,7 +98,8 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 - id: c-22370
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 58."
   citata_originali: |
     Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
     sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
@@ -118,7 +119,8 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 - id: c-22371
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 86."
   citata_originali: |
     1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
     Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
@@ -136,7 +138,8 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 - id: c-166509
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 86."
   citata_originali: |
     1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
     vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),

@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a6742a1c7c0acc92f5b8c3fe"
+canonical_name: "Kauno karo aviacijos dirbtuvės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno karo aviacijos dirbtuvės"]
+sameAs: []
+canonical_biography: "66 tokie lėktuvai buvo pastatyti Kauno karo aviacijos dirbtuvėse."
+place_authority: true
+historical_names: []
 ---
 # Kauno karo aviacijos dirbtuvės
 
@@ -58,7 +67,8 @@ media_all_json: |-
 - id: c-18286
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 174."
   citata_originali: |
     Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-
     tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,

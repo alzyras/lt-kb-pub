@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8e2a319f1ae7f899efc49a8a"
+canonical_name: "Pretorijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Pretorijus"]
+sameAs: []
+canonical_biography: "Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, nes Pretorijus mokėjo prūsų ir žemaičių kalbas. Pretorijus, perpasakodamas Dusburgiečio kronikos vietą apie žynio lazdą, vadino ją krivūle. Narbutas teigė, kad Pretorijus, Johanas Leo ir Flenenbergeris rėmėsi vyskupo Kristijono kronika ir ankstyvesniais už Dusburgietį šaltiniais."
 ---
 # Pretorijus
 
@@ -33,15 +40,22 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
 <a id="claim-t-190331"></a>
 - t-001
   teiginys: "Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, nes Pretorijus mokėjo prūsų ir žemaičių kalbas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pretorijus: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=80"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pretorijus\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173215
+    - c-173214
 
 <a id="claim-t-190332"></a>
 - t-002
@@ -66,15 +80,22 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
 <a id="claim-t-190333"></a>
 - t-003
   teiginys: "Narbutas teigė, kad Pretorijus, Johanas Leo ir Flenenbergeris rėmėsi vyskupo Kristijono kronika ir ankstyvesniais už Dusburgietį šaltiniais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Johanas Leo: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pretorijus: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Johanas Leo: mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pretorijus\" parinktas kaip owner_note_path. Targetas \"Johanas Leo\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173215
+    - c-173216
 
 <a id="claim-t-190786"></a>
 - t-004
@@ -161,7 +182,8 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
 - id: c-173214
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 283."
   citata_originali: |
     Vadinasi, šito pavadinimo etimolo­
     gija dar neištirta.
@@ -174,14 +196,17 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
   citata_rodoma: "Vadinasi, šito pavadinimo etimolo­\ngija dar neištirta.\nPretorijus Hartknocho studijų prierašuose aiškina teisin­\ngai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­\nive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos\nteisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­\ndinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­\nrijos teisėjais arba žyniais."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-173215
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 430"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 430."
   citata_originali: |
     Tą
     lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy­
@@ -198,14 +223,13 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
-    - t-003
 
 - id: c-173216
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
   citata_originali: |
     Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
     kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
@@ -223,14 +247,17 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
   citata_rodoma: "Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­\nkupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad\nKaraliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­\nninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko\nDavido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi\nPretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-\nbergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­\nmus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo\nKristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­\nba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­\nba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­\nrokai išsamesniais paaiškinimais negu Simonas Grunau17.\n2."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-173668
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
   citata_originali: |
     Pavadinimą gavo nuo Jesse, ar­
     ba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­
@@ -252,7 +279,8 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
 - id: c-179272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 262."
   citata_originali: |
     Si provincija
     plytėjo prie Vyslos, arčiausiai ribojosi su slavų gentimis,

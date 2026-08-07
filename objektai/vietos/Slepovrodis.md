@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e5b70c7f046ddc5415581d7d"
+canonical_name: "Slepovrodis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Slepovrodis"]
+sameAs: []
+canonical_biography: "Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui."
+place_authority: true
+historical_names: []
 ---
 # Slepovrodis
 
@@ -76,7 +85,8 @@ Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasida
 - id: c-168666
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Visi luo­
     mai, išėję iš miesto, sveikino

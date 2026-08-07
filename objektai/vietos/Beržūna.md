@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a94d1de87e9d5c1c2dd6c84"
+canonical_name: "Beržūna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Beržūna"]
+sameAs: []
+canonical_biography: "Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradžią iki Dėsnios žiočių. Daugiausia pilkapių aptikta uždarame Drutės ir Beržūnos upių žemupio plote. Plytėjo ilga įlanka, arba kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai ežerėliai1."
+place_authority: true
+historical_names: []
 ---
 # Beržūna
 
@@ -131,7 +140,8 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
 - id: c-175582
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
   citata_originali: |
     Kairioji Dnepro
     pakrantė sudaro lygumą, arba platų pavasario potvynių
@@ -164,7 +174,8 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
 - id: c-175583
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
   citata_originali: |
     Tokių kalvų kartais randama išsibarsčiusių laukuose,
     netgi sausose pievose po dvi, kelias, o kai kur jų esti la­
@@ -196,7 +207,8 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
 - id: c-179369
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
   citata_originali: |
     Kairioji Dnepro
     pakrantė sudaro lygumą, arba platų pavasario potvynių

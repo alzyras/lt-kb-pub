@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5853416c72c0ab3313e9c79"
+canonical_name: "Svirdeika"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Svirdeika"]
+sameAs: []
+canonical_biography: "„[...] Švenčiausios trejybės švenčių išvakarėse [1376 m. birželio 7 d.], matė karalių Algirdą ir karalių Kęstutį, o su jais Svirdeiką su savo pajėgomis įeinančius į Narkyčius."
 ---
 # Svirdeika
 
@@ -63,7 +70,8 @@ media_all_json: |-
 - id: c-42249
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 52."
   citata_originali: |
     „[...] Švenčiausios trejybės švenčių išvakarėse [1376 m. birželio 7 d.], matė karalių Algirdą
     ir karalių Kęstutį, o su jais Svirdeiką su savo pajėgomis įeinančius į Narkyčius. Ir jie

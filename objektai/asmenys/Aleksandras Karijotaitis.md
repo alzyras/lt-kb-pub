@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d7e5bafe4741170670be20d5"
+canonical_name: "Aleksandras Karijotaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Karijotaitis"]
+sameAs: []
+canonical_biography: "Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių. Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę, Ragainę ir išsivarė aštuonis šimtus belaisvių."
 ---
 # Aleksandras Karijotaitis
 
@@ -93,7 +100,8 @@ Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė T
 - id: c-169535
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 247."
   citata_originali: |
     Kryžiuočiai, vedami Sembos fogto, savo ruož­
     tu, negalėdami pasivyti traukiančio namo Kęstučio, nu­

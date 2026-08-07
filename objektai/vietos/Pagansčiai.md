@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-32d1ad67cc5a9d5392fe2b62"
+canonical_name: "Pagansčiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pagansčiai"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką, kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet atvirkščiai, net ir arklius nusibalnojo, jie pusę savo kariuomenės slaptai perkėlė per upę ir vėl. Dusburgietis teigia, kad 423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis Menthen)."
+place_authority: true
+historical_names: []
 ---
 # Pagansčiai
 
@@ -56,21 +65,30 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
 <a id="claim-t-58609"></a>
 - t-002
   teiginys: "Pagansčiai buvo kaimas prie Zirgūnos upės, vėliau vadintas Menthen."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Zirgūna: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pagansčiai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Zirgūna: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nusako Pagansčių vietą prie Zirgūnos upės."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pagansčiai priklausė Zirgūna (0.72)"
   temporaliniai_duomenys: "įvykio data: 1271 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko vietos lokalizaciją ir vėlesnį pavadinimą."
   pagrindžia:
-    - c-59240
+    - c-59241
 
 ## Citatos
 
 - id: c-59240
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Šito įvykio išgąsdinti, raiteliai bei pėstininkai
     susijungė ir įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su savo kariuomene
@@ -90,19 +108,20 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-59241
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis
     Menthen). Čia 1271 m. buvo sumušti kryžiuočiai (Ewald A.
   citata_rodoma: "423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis\nMenthen). Čia 1271 m. buvo sumušti kryžiuočiai (Ewald A."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

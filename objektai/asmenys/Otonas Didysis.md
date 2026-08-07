@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ec745900ffd7694fb5eacdad"
+canonical_name: "Otonas Didysis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Otonas Didysis"]
+sameAs: []
+canonical_biography: "Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusikratė teutonų pareigūnų (Schultheiss) ir teisių, jiems duotų lombardų, ir Romos institu­ cijų pavyzdžiu savo valdžios priekyje pastatė konsulus."
 ---
 # Otonas Didysis
 
@@ -51,7 +58,8 @@ Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusik
 - id: c-83793
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 20."
   citata_originali: |
     Pastarųjų miestams suteikiami
     municipaliniai liudijimai būdavo tik taikos sutartys, kur

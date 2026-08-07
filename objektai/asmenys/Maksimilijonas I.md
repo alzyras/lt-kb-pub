@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d3d4bbc50b8fa3d93b8dc39c"
+canonical_name: "Maksimilijonas I"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Maksimilijonas I"]
+sameAs: []
+canonical_biography: "Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš Žygimantą Senąjį, buvo suartėta su Habsburgais."
 ---
 # Maksimilijonas I
 
@@ -72,7 +79,8 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
 - id: c-44450
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 87."
   citata_originali: |
     Lenkija ir Lietuva
     buvo vaizduojamos kaip Europos forpostas
@@ -94,7 +102,8 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
 - id: c-176418
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 56."
   citata_originali: |
     Danija paskelbė Norvegiją
     savo provincija.

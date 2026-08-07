@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a4e389b572c847be5efb813"
+canonical_name: "Adolfas Jofė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adolfas Jofė"]
+sameAs: []
+canonical_biography: "Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lietuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažinimo dokumentu."
 ---
 # Adolfas Jofė
 
@@ -50,7 +57,8 @@ Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kai
 - id: c-21540
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 142."
   citata_originali: |
     Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pir-
     miausia pareikalavo pripažinti atkurtą Lietuvos valstybę, jos valstybingu-

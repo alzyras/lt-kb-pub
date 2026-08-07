@@ -56,7 +56,8 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
 - id: c-66214
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 236."
   citata_originali: |
     Dėl to bajorija ir toliau reikalavo išspręsti unijos klausimą ir
     sušaukti tam reikalui specialų seimą, kurs pagaliau susirinko
@@ -80,7 +81,8 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
 - id: c-175873
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 236-237"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 236-237."
   citata_originali: |
     Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi iš-
     siderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias

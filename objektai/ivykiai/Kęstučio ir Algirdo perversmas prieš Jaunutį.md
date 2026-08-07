@@ -150,7 +150,8 @@ Nenurodyta
 - id: c-170453
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 7."
   citata_originali: |
     Mokslinėje literatūroje toji istorija vadinama le-
     gendine. Todėl ir pradinė Platesniojo sąvado teksto

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f818af763c3fdece03ba7066"
+canonical_name: "D. Kleinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["D. Kleinas"]
+sameAs: []
+canonical_biography: "Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi giesmių knygas, kurios ėjo pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms. Kleino giesmynas."
 ---
 # D. Kleinas
 
@@ -55,7 +62,8 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
 - id: c-01259
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 626"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 626."
   citata_originali: |
     1666 m. D. Kleino giesmynas.
   statusas: verified

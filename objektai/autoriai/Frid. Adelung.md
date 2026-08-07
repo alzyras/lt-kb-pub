@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b0802de741f1a514292e82b"
+canonical_name: "Frid. Adelung"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Frid. Adelung"]
+sameAs: []
+canonical_biography: "Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la lanąue russe“, išleistą Sankt Peterburge 1811 metais."
 ---
 # Frid. Adelung
 
@@ -62,7 +69,8 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
 - id: c-174524
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 216."
   citata_originali: |
     Sanskrite yra panašus ir panašią reikšmę
     turintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje

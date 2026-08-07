@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-835c424c47a803da3e8af541"
+canonical_name: "Stanislovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas"]
+sameAs: []
+canonical_biography: "Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo pirmosiose rikiuotės eilėse. Stanislovas pabėgo į Riazanę, kur neturėjo nei kariuomenės, nei valdžios ir atsisakė vilčių. Stanislovas, paskelbęs kautynes lemiančiomis jo padėtį, paliko kitus rezerve ir su savo kariais stojo pirmosiose rikiuotės eilėse."
 ---
 # Stanislovas
 
@@ -98,7 +105,8 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
 - id: c-169378
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 200."
   citata_originali: |
     R usios
     ku n ig a ik ščia i
@@ -131,7 +139,8 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
 - id: c-169379
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 201."
   citata_originali: |
     Kai kijeviečiai, įveikę'baimę ir
     mintis apie pasidavimą, atgavo drąsą ir atstūmė lie­

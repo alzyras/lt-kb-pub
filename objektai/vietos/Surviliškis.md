@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-65a10a3ce2656f678b06f36f"
+canonical_name: "Surviliškis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["iš Survilišk. v.","Surviliškis"]
+sameAs: []
+canonical_biography: "Surviliškis 1931 m. Tautosakos komisijos suvestinėje minimas kaip pateikėjo kilmės vieta."
+place_authority: true
+historical_names: []
 ---
 # Surviliškis
 

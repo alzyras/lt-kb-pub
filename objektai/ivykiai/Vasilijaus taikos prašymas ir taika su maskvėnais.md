@@ -124,7 +124,8 @@ Nenurodyta
 - id: c-169141
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 605"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 605."
   citata_originali: |
     Štai todėl Jonui Sapiegai, val­
     dančiam karaliaus vardu Vi-
@@ -154,7 +155,8 @@ Nenurodyta
 - id: c-169142
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 606"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 606."
   citata_originali: |
     Nedelsiant turi būti grąžinta
     karaliui tai, ką Mykolas Glinskis esąs užėmęs kara­

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-24db82538bbd352bb2d808b0"
+canonical_name: "Augmundas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Augmundas"]
+sameAs: []
+canonical_biography: "Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir su jos kraičiu gavo nemažą Rusios valdą."
 ---
 # Augmundas
 
@@ -56,7 +63,8 @@ Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir s
 - id: c-174252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     234
     Islandų sakmėse, vadinamose šiaurinėmis sagomis,

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b0d1271f639b06c418b1e94"
+canonical_name: "E. Danilaitė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["E. Danilaitė"]
+sameAs: []
+canonical_biography: "Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė domėjosi ir Aukštadvario pilia­ kalniu (AkMD, t. Danilaitė, E."
 ---
 # E. Danilaitė
 
@@ -77,7 +84,8 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
 - id: c-32912
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 84."
   citata_originali: |
     L. N a k a i t ė rašė apie sidabro naudojimą II-XIII a.
     Lietuvoje (AkMD, t. 16, 1964, 63-80 p.), apie sidabrą kaip vertės
@@ -98,7 +106,8 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
 - id: c-32913
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 111."
   citata_originali: |
     Ypač vakarų Lietuva, kuri daugiau turėjo kaimyninių
     ryšių, buvo ryškesnė medžiaginės kultūros skatintoja.

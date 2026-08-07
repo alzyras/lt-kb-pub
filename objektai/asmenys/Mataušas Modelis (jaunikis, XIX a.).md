@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0ec827f54ce9abda5e67fef6"
+canonical_name: "Mataušas Modelis (jaunikis, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mataušas","Mataušas Modelis","Mataušas Modelis (jaunikis, XIX a.)"]
+sameAs: []
+canonical_biography: "Mataušas Modelis Barboros vedybų pasakojime rodomas kaip numanomas jos liktasis, apie kurio vedybas juokaujama šeimoje ir kuris vestuvių metu siunčia jaunajai rūtų vainiką."
 ---
 # Mataušas Modelis (jaunikis, XIX a.)
 

@@ -92,7 +92,8 @@ Nenurodyta
 - id: c-10255
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 64-65"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 64-65."
   citata_originali: |
     Antrosios durys toje pervarinėj sienoj tokio pat mažne didumo buvo kaip didžiosios, vedė iš
         namo į tvartą, arba kūtę, taip vadinamą nuo žodžio tverti, nuo ko paskui visą gyvenimą tvaru,
@@ -115,7 +116,8 @@ Nenurodyta
 - id: c-10256
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 65"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 65."
   citata_originali: |
     Už tos arklių kūtės buvo dar kiaulių kūtelė, arba tvartelis, kartais neb tose pačiose namo
         salinėse sienose, bet pridurtose prie galutinės namo sienos ypatiniu^189 rentiniu, daug žemesniu

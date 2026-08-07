@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-20679c5ee517967b8dd14ee2"
+canonical_name: "Livonijos kraštas (kraštas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Livonijos kraštas","Livonijos kraštas (kraštas)"]
+sameAs: []
+canonical_biography: "Vytauto pasakojime Jogaila be Kęstučio žinios sudarė taiką su Prūsų ir Livonijos kraštais."
+place_authority: true
+historical_names: []
 ---
 # Livonijos kraštas (kraštas)
 
@@ -52,7 +61,8 @@ Vytauto pasakojime Jogaila be Kęstučio žinios sudarė taiką su Prūsų ir Li
 - id: c-170314
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
   citata_originali: |
     tėvas kunigaikštis Kęstutis (tada jis buvo galingas),
     jei būtų norėjęs, būtų atėmęs Vilnių ir kunigaikščiui

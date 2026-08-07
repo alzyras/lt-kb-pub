@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8e9a824f321a113a41d457c8"
+canonical_name: "Prokopijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Prokopijus"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus Odoakro vadovaujamus herulus, kilusius iš estų tautos. Teodoro Narbuto pasakojime Jordanas hirius siejo su gotais, o Prokopijaus pasakojimo pabaigoje hirių užuominų jau nebematyti. Jorda nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako jimą kaip ir Prokopijus; kai girdime tų pačių istorikų pateiktas žinias apie skirius ir sudargus, apie hirius jau nematome jokių užuominų."
 ---
 # Prokopijus
 
@@ -87,7 +94,8 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
 - id: c-174191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
   citata_originali: |
     Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
     riko įtaką Europos vakaruose gyvenančioms tautoms ir
@@ -109,7 +117,8 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
 - id: c-174853
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 295."
   citata_originali: |
     Bet, nenorėdami pažeisti mūsų pasakojimų chro­
     nologinės tvarkos, turime atkreipti dėmesį dar ir į trečią
@@ -133,7 +142,8 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
 - id: c-179350
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 295."
   citata_originali: |
     Jorda­
     nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­

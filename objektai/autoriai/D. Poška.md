@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fdecf73534a0ef8510145fa5"
+canonical_name: "D. Poška"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["D. Poška"]
+sameAs: []
+canonical_biography: "Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui rinko senas knygas. Poška savo Baubly įtaisė net senienų muziejų."
 ---
 # D. Poška
 
@@ -221,7 +228,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - id: c-06625
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 470"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 470."
   citata_originali: |
     Kad nebūtų darkoma
     žemaičių kalba, bajorai ir ku-
@@ -246,7 +254,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - id: c-06627
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 467"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 467."
   citata_originali: |
     Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių
     veikėjų tarpe. Ypač juo buvo susižavėjęs D. Poška, pats
@@ -266,7 +275,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - id: c-171288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 49."
   citata_originali: |
     Be to,
     ir anuometinė atmosfera buvo palanki tokiam sprendimui pri­
@@ -286,7 +296,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - id: c-171289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 51."
   citata_originali: |
     Manoma, kad tuo metu jau buvo parašyti
     S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
@@ -306,7 +317,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - id: c-173577
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 441"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 441."
   citata_originali: |
     Tame pačiame laiške I. Ona­
     cevičiui istorikas prisipažino, jog šią medžiagą jis ėmė
@@ -332,7 +344,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - id: c-176257
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 110-111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 110-111."
   citata_originali: |
     Varšuvoje Mokslo bičiulių drau-
 
@@ -355,7 +368,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - id: c-179106
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 50."
   citata_originali: |
     Autoriaus įsitikinimu, dėl šių priežasčių lietuvių tau­
     tos istoriją gali parašyti „tiktai kuris nors civilis pilietis“ ir tik

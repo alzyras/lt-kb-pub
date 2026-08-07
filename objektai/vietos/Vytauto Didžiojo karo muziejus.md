@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7508a643034063b1bdc8e093"
+canonical_name: "Vytauto Didžiojo karo muziejus"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vytauto Didžiojo karo muziejus"]
+sameAs: []
+canonical_biography: "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto paveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietuvos miestuose ir."
+place_authority: true
+historical_names: []
 ---
 # Vytauto Didžiojo karo muziejus
 
@@ -50,7 +59,8 @@ Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune V
 - id: c-24608
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 163."
   citata_originali: |
     Vytauto tolerancija patiko tautinėms mažumoms –
     juk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, ko-

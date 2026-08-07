@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-252e6325046e4a19dbf87b36"
+canonical_name: "Lovetės giria"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lovetės giria"]
+sameAs: []
+canonical_biography: "Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp kitų to krašto didelių miškų. Tais laikais Pamedėje nestigo didžiulių miškų; be anksčiau minėtos pasienio girios, buvo garsi Lovetės, Loweten, giria, kita — tarp Steno ir Malborko, nemažai didžiulių miškų plytėjo prie Drūsinės ežero."
+place_authority: true
+historical_names: []
 ---
 # Lovetės giria
 
@@ -71,7 +80,8 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
 - id: c-179385
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 356"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
   citata_originali: |
     Vakaruose, kur šios provincijos sie­
     na ėjo Vysla, jai priklausė įvairios salos, kurias vėliau

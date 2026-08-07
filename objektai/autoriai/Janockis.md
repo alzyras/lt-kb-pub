@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-817959df8d882e2200811279"
+canonical_name: "Janockis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Janockis"]
+sameAs: []
+canonical_biography: "Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto Augusto nurodymu, jis pradėjęs rašyti lotynų kalba „Lietu­ vos istoriją\", bet po karaliaus mir­ ties tą darbą užmetęs, janociana, Vol. Daugiausia žinių apie šį nepaprastą žmogų ga­ lima surasti O s s o 1 i ń s k i II t., 1.155 sq.; jis pataisė Janockio ir kitų Roizijaus biografų klaidas."
 ---
 # Janockis
 
@@ -60,7 +67,8 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
 - id: c-84046
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 302."
   citata_originali: |
     Garsiau­
     sias jo veikalas yra „Lietuvos spren­
@@ -84,7 +92,8 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
 - id: c-84047
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 298."
   citata_originali: |
     Augustas Rotundas Milesijus
     arba Mielickis, kaip jį vadina Igna­

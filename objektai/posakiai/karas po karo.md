@@ -86,7 +86,8 @@ media_all_json: |-
 - id: c-12495
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 13."
   citata_originali: |
     dėjo pavėluotas pasipriešinimas - sukilimai (1794, 1831, 1863 m.)
     ir ginkluota rezistencija, šiandien vadinama „karu po karo“ arba

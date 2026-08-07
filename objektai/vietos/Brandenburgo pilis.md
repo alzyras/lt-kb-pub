@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1e481deb12fdfaccc3dfee73"
+canonical_name: "Brandenburgo pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Brandenburgo pilis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­ mėje 1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus. Dusburgietis teigia, kad blindenburgas Bolandas Brabantas Brandenburgas (Marka) Brandenburgas (Pokarviuose, dab. Ušakovas) Branevas žr. Dusburgietis teigia, kad blindenburgas Bolandas Brabantas Brandenburgas (Marka) Brandenburgas (Pokarviuose, dab."
+place_authority: true
+historical_names: []
 ---
 # Brandenburgo pilis
 
@@ -60,7 +69,8 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - id: c-67520
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 250."
   citata_originali: |
     122. Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
                                      mėje

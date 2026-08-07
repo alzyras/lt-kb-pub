@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ed295ded2480ea34e09ac92"
+canonical_name: "Hennė (Ordino agentas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hennė (Ordino agentas)"]
+sameAs: []
+canonical_biography: "Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ). Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas. Vytauto autoritetą rytuose liudija jo juokdario, Ordino agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę — ekspediciją savo valstybės rytiniu pakraščiu 1427 met."
 ---
 # Hennė (Ordino agentas)
 
@@ -136,7 +143,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 286."
   citata_originali: |
     Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo,
     sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo
@@ -155,7 +163,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 298."
   citata_originali: |
     Vytauto autoritetą rytuose liudija jo juokdario, Ordino
     agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę
@@ -177,7 +186,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 157."
   citata_originali: |
     Pasidavimo sąlygas
     vaizdžiai rodo Riazaniaus ir Pronsko kunigaikščių sutarčių raš­
@@ -201,7 +211,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 286."
   citata_originali: |
     Žiaurumų ir dabar juk pasaulyje yra kiek reik,
     tik jie dabar dažniausiai ne vieno asmens užsigeidimų išdava.
@@ -221,7 +232,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 298."
   citata_originali: |
     Maskvos kunigaikštija, kurioje viešpatavo
     nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos

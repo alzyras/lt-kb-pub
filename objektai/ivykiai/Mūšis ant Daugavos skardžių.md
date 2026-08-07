@@ -71,9 +71,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184645
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 165"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 165."
   citata_originali: |
     Darin
     lietuviai ir žemaičiai, nuo visur sutraukę savo karė- 1182
@@ -93,9 +93,9 @@ Nenurodyta
     - t-001
 
 - id: c-184646
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 166"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 166."
   citata_originali: |
     Nustoję
     gudai taip kantraus savo karvedžio tuojau kurs kaip

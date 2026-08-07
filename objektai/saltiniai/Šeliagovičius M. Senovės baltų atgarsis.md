@@ -58,7 +58,8 @@ Dusburgietis teigia, kad šeliagovičius M.
 - id: c-62030
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Šeliagovičius M. Senovės baltų atgarsis.— MG, 1984, Nr. 1, p. 32—33.
   statusas: verified

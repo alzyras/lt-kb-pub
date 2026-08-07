@@ -90,7 +90,8 @@ Nenurodyta
 - id: c-66882
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 682"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 682."
   citata_originali: |
     1921 m. siena tarp
     Lietuvos ir Latvijos buvo išvesta maždaug buvusios Kuršo gu-
@@ -109,7 +110,8 @@ Nenurodyta
 - id: c-66884
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 682"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 682."
   citata_originali: |
     Po karo susikūrė nepriklausoma Latvių valstybė. Vedant
     Lietuvos Latvijos sieną, prie Latvijos buvo prijungti kai kurie

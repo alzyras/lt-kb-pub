@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-63eda77acd2785621102751f"
+canonical_name: "Možaiskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Možaiskas"]
+sameAs: []
+canonical_biography: "Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską."
+place_authority: true
+historical_names: []
 ---
 # Možaiskas
 
@@ -97,7 +106,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 <a id="claim-t-185056"></a>
 - t-004
   teiginys: "Pirmoji pasiuntinybė patraukė į Možaiską tik gavusi žinią, kad karaliaus legatai yra Smolenske."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -112,7 +121,6 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168417
-    - c-168418
 
 <a id="claim-t-185057"></a>
 - t-005
@@ -203,7 +211,8 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 - id: c-02850
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 199."
   citata_originali: |
     Tad Maskva
     galėjo laisvai veikti. Pirmiausia ji privertė savo valdžiai pasi-
@@ -223,7 +232,8 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 - id: c-168414
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 222."
   citata_originali: |
     Visiems įsakė nieko nedeginti ir
     nieko neniokoti; gyventojus leido skriausti tik tada,
@@ -250,7 +260,8 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 - id: c-168416
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
   citata_originali: |
     Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­
     jojo visokių netikėtumų, ir lietuvis norėjo laiku iš­
@@ -278,7 +289,8 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 - id: c-168417
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 650"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 650."
   citata_originali: |
     Suderinę su karaliumi savo planus,
     popiežiaus, imperatoriaus bei Romos karaliaus pasiun­
@@ -301,7 +313,8 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 - id: c-168418
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 655"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 655."
   citata_originali: |
     Be to, sutarė teismų reikalus sutvarkyti iki
     garsios Rusioje palaimintosios mergelės globėjos šven­
@@ -319,5 +332,4 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-005

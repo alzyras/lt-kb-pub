@@ -63,7 +63,8 @@ Nenurodyta
 - id: c-172692
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 204."
   citata_originali: |
     Rupužė (Raupuže)
     Sausumos varlė, rupūžė. Ji taip pat buvo garsus fetišas: jas

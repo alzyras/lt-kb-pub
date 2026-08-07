@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-89e16212c666457285067e20"
+canonical_name: "Mažoji Rosė (Roska)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mažoji Rosė (Roska)"]
+sameAs: []
+canonical_biography: "Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje greta Kučincų kaimo. Roska prie Rošovsko kaimo iš dešiniojo kranto įteka į Rosę, kuri drauge su Supo upe sudaro į Dneprą plaukiančių upių baseiną. Čia, kairiojoje Supo pakrantėje, greta Kučincų, Kuczyncami, kaimo, prasideda upelis Mažoji Rosé, Ros, šian dien čiabuvių vadinama Roska."
+place_authority: true
+historical_names: []
 ---
 # Mažoji Rosė (Roska)
 
@@ -99,7 +108,8 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
 - id: c-175614
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 296."
   citata_originali: |
     Čia, kairiojoje Supo pakrantėje, greta Kučincų, Kuczyn-
     cami, kaimo, prasideda upelis Mažoji Rosé, Ros, šian­
@@ -122,7 +132,8 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
 - id: c-175615
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 296."
   citata_originali: |
     Prie Rošovsko kaimo į ją iš dešiniojo kranto įteką
     Roska, sruvena per gana didelę Ukrainos dalį ir drauge

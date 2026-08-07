@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e641c1753fd390e54937decf"
+canonical_name: "Malachovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Malachovskis"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Malachovskis savo bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą, bet šaltinio neįvardijo."
 ---
 # Malachovskis
 
@@ -54,7 +61,8 @@ Narbutas nurodo, kad Malachovskis savo bajoriškų pavardžių rinkinyje pateik�
 - id: c-173116
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 404"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
   citata_originali: |
     Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
     herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse. Mū­

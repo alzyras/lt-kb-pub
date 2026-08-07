@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7702f278140ab7f9064ad9e"
+canonical_name: "Aleksandras (Riazanės kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras (Riazanės kunigaikštis)"]
+sameAs: []
+canonical_biography: "p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už savo žentą Kaributą jo laikais buvo karališkajame archyve: Atque hinc nata esse videtur sponsio Alexandri Resanensium Ducis pro Coributho regi facta, et literarum monu­ mentis, quae."
 ---
 # Aleksandras (Riazanės kunigaikštis)
 
@@ -59,7 +66,8 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
 - id: c-83882
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156."
   citata_originali: |
     Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis
     priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­

@@ -53,7 +53,8 @@ I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui,
 - id: c-174698
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 474"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 474."
   citata_originali: |
     Minėtas I. Danilavičiaus rinkinys,
     davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto

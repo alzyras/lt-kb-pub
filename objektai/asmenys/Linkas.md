@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e7f3c3c449a39bf4db720e6"
+canonical_name: "Linkas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Linkas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­ medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę."
 ---
 # Linkas
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 - id: c-61007
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
          medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį

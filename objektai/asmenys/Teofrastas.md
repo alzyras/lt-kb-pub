@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-95f6520f7429b1079ab94ae7"
+canonical_name: "Teofrastas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teofrastas"]
+sameAs: []
+canonical_biography: "Narbutas mini Teofrastą tarp senovės autorių, kurie žinojo gintarą, jo savybes ir tyrinėjo gintaro gavybos vietas. Teofrastas gabenamas, nei kelio, kuriuo jį veždavo."
 ---
 # Teofrastas
 
@@ -66,7 +73,8 @@ Narbutas mini Teofrastą tarp senovės autorių, kurie žinojo gintarą, jo savy
 - id: c-174867
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Priartinus mūsų tyrimus prie
     geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos

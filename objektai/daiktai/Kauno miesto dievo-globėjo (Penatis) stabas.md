@@ -107,7 +107,8 @@ Statulėlė buvo rasta tvarkant griuvėsius prie vadinamųjų Perkūno namų, v�
 - id: c-174929
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 484"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 484."
   citata_originali: |
     Kai 1818 metais Kaune buvo statoma mui-
     tinė, to pastato kampas pateko į vietą, kur buvo dalis apgriuvusio

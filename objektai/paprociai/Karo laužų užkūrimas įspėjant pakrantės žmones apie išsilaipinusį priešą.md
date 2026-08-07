@@ -96,7 +96,8 @@ Nenurodyta
 - id: c-174968
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 368."
   citata_originali: |
     Natangijoje, būdavo užkuriami karo laužai, kai prireik­
     davo įspėti žmones, kurie stodavo po garsių karvedžių

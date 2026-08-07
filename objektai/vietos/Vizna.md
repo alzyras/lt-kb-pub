@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-329f2dcaa88516244c618c2d"
+canonical_name: "Vizna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vizna"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­ na Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis, ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą, ne. Dusburgietis teigia, kad dėl Viznos pilies sugriovimo, pasitaikino lietuvius ir ją atstatė."
+place_authority: true
+historical_names: []
 ---
 # Vizna
 
@@ -113,7 +122,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
 - id: c-59286
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
   citata_originali: |
     dėl Viznos  pilies sugriovimo, pasitaikino lietuvius  ir ją atstatė. Apie  tai sužinojęs,
     magistras be galo sunerimo (jis mat būgštavo, kad gali rastis naujų pavojų jam pačiam
@@ -132,7 +142,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
 - id: c-59287
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
                                        na

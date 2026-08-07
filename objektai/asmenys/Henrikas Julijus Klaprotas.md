@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ad3150ae2c9df75313e24a9"
+canonical_name: "Henrikas Julijus Klaprotas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Julijus Klaprotas"]
+sameAs: []
+canonical_biography: "Henrikas Julijus Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną."
 ---
 # Henrikas Julijus Klaprotas
 
@@ -55,7 +62,8 @@ Henrikas Julijus Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbo
 - id: c-174229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
   citata_originali: |
     Juk šiandien negalima nieko įro­
     dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi

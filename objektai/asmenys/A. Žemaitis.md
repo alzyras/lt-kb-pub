@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-af018854eacb36986bc4d15f"
+canonical_name: "A. Žemaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Žemaitis"]
+sameAs: []
+canonical_biography: "Netoli Birštono Zaskevičiaus kariai susitiko karin. A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo. Visi kartu jie grįžo į Prienus."
 ---
 # A. Žemaitis
 
@@ -51,7 +58,8 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. A. Žemaičio vadovaujamą
 - id: c-41792
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 178."
   citata_originali: |
     Netoli Birštono Zaskevičiaus
     kariai susitiko karin. A. Žemaičio va-

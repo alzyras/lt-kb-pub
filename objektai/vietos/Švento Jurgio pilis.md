@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-19f3645d9e80ced12a8ad86f"
+canonical_name: "Švento Jurgio pilis (pilis, XIII a.)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Švento Jurgio pilis","Švento Jurgio pilis (pilis, XIII a.)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kitą žemę, be to, dėl lipšnaus būdo vienodai vieniems ir kitiems malonus, jis patvarkė, kad, lygiomis dalimis panaudojant Livonijos ir Prūsijos brolių lėšas ir darbą, Karšuvos žemėje343, ant švento Jurgio. Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie. Dusburgietis teigia, kad 344 Ordino pilis ant švento Jurgio kalno (D — in monte sancti Georgii) buvo pastatyta, atrodo, deš."
+place_authority: true
+historical_names: []
 ---
 # Švento Jurgio pilis (pilis, XIII a.)
 
@@ -123,7 +132,8 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
 - id: c-87480
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111."
   citata_originali: |
     Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno
     Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas
@@ -146,7 +156,8 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
 - id: c-87482
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
   citata_originali: |
     Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
                                              nių

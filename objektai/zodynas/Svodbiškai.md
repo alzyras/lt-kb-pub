@@ -56,22 +56,24 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
 <a id="claim-t-195624"></a>
 - t-001
   teiginys: "Kraičvežiai šiame šaltinyje apibūdinami kaip pasirėdę svodbiškai."
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-178027
 
 <a id="claim-t-195625"></a>
 - t-002
   teiginys: "Šioje apybraižoje piršlys vienoje pusėje veikia kaip eilinis svodbininkas."
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-178026
+    - c-185988
 
 ## Citatos
 
@@ -91,13 +93,11 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
     veikia kaip eilinis svodbininkas.
   citata_rodoma: "Šioje pusėje piršlys veikia kaip eilinis svodbininkas."
   statusas: verified
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-178027
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -113,3 +113,22 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-185988
+  autoriai: "A. Sabaliauskas; M. Katkus"
+  šaltinis: "Mūsų tautosaka, t.4 (1931)"
+  indeksas: "A. Sabaliauskas, M. Katkus, Mūsų tautosaka, t.4 (1931)."
+  citata_originali: |
+    Šneka užstalėje nesiklijuoja — nėra
+    kas ją rūpintų, kaip kad piršlys „anoje šalyje“ . Šioje pusėje piršlys
+    veikia kaip eilinis svodbininkas.
+    Šnekama apie kelionės nuotykius,
+    o nuotykių visada esti.
+  citata_rodoma: "Šneka užstalėje nesiklijuoja — nėra \nkas ją rūpintų, kaip kad piršlys „anoje šalyje“ . Šioje pusėje piršlys \nveikia kaip eilinis svodbininkas. \nŠnekama apie kelionės nuotykius, \no nuotykių visada esti."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

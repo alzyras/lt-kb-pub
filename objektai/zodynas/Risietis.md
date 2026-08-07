@@ -54,7 +54,8 @@ Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė min
 - id: c-172214
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
   citata_originali: |
     Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
     kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui

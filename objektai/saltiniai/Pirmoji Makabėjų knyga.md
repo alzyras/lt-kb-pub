@@ -42,7 +42,8 @@ Dusburgietis teigia, kad ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59):
 - id: c-61631
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     Juk čia ne
     jūsų, bet dievo kova. Šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas

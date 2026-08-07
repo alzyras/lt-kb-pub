@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4cecf998c8a402f504f8d44f"
+canonical_name: "Lizdeika"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lizdeika","Lizdeikos","vyriausiasis žynys Lizdeika"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t."
 ---
 # Lizdeika
 
@@ -90,7 +97,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 <a id="claim-t-194715"></a>
 - t-004
   teiginys: "Strijkovskis, dėstydamas istoriją iki stabmeldystės žlugimo Lietuvoje, nuo lat mini vyriausiojo žynio pareigas ir paskutinį jų eilėje taria buvus Lizdeiką."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -98,7 +105,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171469
+    - c-177111
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -130,7 +137,8 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 - id: c-170881
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 204."
   citata_originali: |
     Tuojau prašyta žynių, kurie netoliese gyveno, at­
     skleisti paslaptį. Tuo metu Lizdeika buvo vyriausiasis
@@ -152,7 +160,8 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 - id: c-170882
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 124."
   citata_originali: |
     2
     Tas pats dviejų aukštų pastatas, la­
@@ -185,7 +194,8 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 - id: c-171469
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
   citata_originali: |
     Straips­
     nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
@@ -203,12 +213,12 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
 
 - id: c-177111
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 282."
   citata_originali: |
     Iš istorikų Dusburgietis pirmasis užsimena prūsus turėjus
     vyriausiąjį žynį. Vėlesnieji kronikininkai nė kiek neabejoja šiuo
@@ -219,7 +229,8 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   citata_rodoma: "Iš istorikų Dusburgietis pirmasis užsimena prūsus turėjus\nvyriausiąjį žynį. Vėlesnieji kronikininkai nė kiek neabejoja šiuo\nautoriaus teiginiu; jo paties žodžius pacitavome. Strijkovskis,\ndėstydamas istoriją iki stabmeldystės žlugimo Lietuvoje, nuo­\nlat mini vyriausiojo žynio pareigas ir paskutinį jų eilėje taria\nbuvus Lizdeiką."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

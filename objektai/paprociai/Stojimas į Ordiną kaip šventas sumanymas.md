@@ -85,7 +85,8 @@ Nenurodyta
 - id: c-85406
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     Kronikos idėjinė reikšmė ir mokslinė svarba
 
@@ -110,7 +111,8 @@ Nenurodyta
 - id: c-85407
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     Čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“
     (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties

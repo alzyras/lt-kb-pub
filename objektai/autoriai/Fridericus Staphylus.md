@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a798d8733f00922b1f631c5e"
+canonical_name: "Fridericus Staphylus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Fridericus Staphylus"]
+sameAs: []
+canonical_biography: "Kaune giminaičių namuose užaugęs Fridericus Staphylus (Stapelage, 1512-1564) čia išmoko lietuviškai."
 ---
 # Fridericus Staphylus
 
@@ -50,9 +57,9 @@ Kaune giminaičių namuose užaugęs Fridericus Staphylus (Stapelage, 1512-1564)
 ## Citatos
 
 - id: c-185559
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 355"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 355."
   citata_originali: |
     Tiesa, turime įvairiais gyvenimo tarpsniais glau-
     džiai su Kaunu susijusių intelektualų ir literatų.

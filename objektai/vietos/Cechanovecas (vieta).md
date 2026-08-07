@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d82bfb8cfd6f919324ac3aac"
+canonical_name: "Cechanovecas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Cechanovecas","Cechanovecas (vieta)"]
+sameAs: []
+canonical_biography: "1600 m. Cechanoveco Palenkėje pirkliai Adomas ir Stanislovas per Gardiną į Kauną kiekvienas 2 arkliais gabeno po 20 vienetų geležies."
+place_authority: true
+historical_names: []
 ---
 # Cechanovecas (vieta)
 
@@ -52,9 +61,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185074
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 234"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 234."
   citata_originali: |
     Sausuma Kauną pasiekdavo pirkliai iš Palenkės ir net tolimos Mažosios Lenkijos
     miestų. 1600 m. Cechanoveco Palenkėje pirkliai Adomas ir Stanislovas per Gardiną

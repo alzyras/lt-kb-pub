@@ -73,7 +73,7 @@ Nenurodyta
 <a id="claim-t-62886"></a>
 - t-002
   teiginys: "Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir sužeistų krikščionių pasitraukė nepasiekęs tikslo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "puole -> Gardinas: 0.94"
@@ -86,6 +86,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63736
+    - c-63737
 
 <a id="claim-t-194411"></a>
 - t-003
@@ -116,7 +117,8 @@ Nenurodyta
 - id: c-63736
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
     kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
@@ -145,7 +147,8 @@ Nenurodyta
 - id: c-63737
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     Dar apie tą patį
 
@@ -166,12 +169,14 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
     - t-003
 
 - id: c-178989
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     Ligi pat
     dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo

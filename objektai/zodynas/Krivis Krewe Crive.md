@@ -53,7 +53,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 <a id="claim-t-189109"></a>
 - t-002
   teiginys: "Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veikimas dažnai ribojosi vietos vidaus reikalais."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -66,7 +66,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 <a id="claim-t-194683"></a>
 - t-003
   teiginys: "O be to, krivio pavadinimą žinojo beveik vien lietuvių kiltys - tiek, kad kiekviena atskira gentis arba kiekvie na provincija turėjo savo atskirą krivį - net tolimuose kraš- 10 1 Skaityk pabaigoje I priedą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -74,7 +74,7 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171993
+    - c-177080
 
 <a id="claim-t-194684"></a>
 - t-004
@@ -130,7 +130,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 - id: c-171993
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 281."
   citata_originali: |
     Čia pakaks pasakyti, kad kiekvienas, susipažinęs su lie­
     tuvių tautos istorija ir mitologija, teiginius, kuriais abejojama
@@ -149,13 +150,13 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-005
 
 - id: c-171994
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 281."
   citata_originali: |
     Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
     jų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­
@@ -179,7 +180,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 - id: c-171997
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 423"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 423."
   citata_originali: |
     Ogi Dusburgietis buvo už­
     sibrėžęs rašyti tai, quae vidi, alia quae audivi ab his, qui vide­
@@ -211,7 +213,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 - id: c-177080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 283."
   citata_originali: |
     Antra
     vertus, aiškiai įrodyta, kad pas germanus ir kitas tos pačios
@@ -230,11 +233,13 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+    - t-003
 
 - id: c-177081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 283."
   citata_originali: |
     Pretorijus Hartknocho studijų prierašuose aiškina teisin­
     gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­
@@ -255,7 +260,8 @@ Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos pamin
 - id: c-179150
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 412."
   citata_originali: |
     Ar toji
     istorinė tiesa dėl to tapo abejotina? Ar krivio buvimas dėl to

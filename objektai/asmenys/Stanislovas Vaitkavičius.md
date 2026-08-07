@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-52660dec83f43ae56bd80b4b"
+canonical_name: "Stanislovas Vaitkavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Vaitkavičius"]
+sameAs: []
+canonical_biography: "[iš] Sta­ nislovo Vaitkavičiaus žemės dešimtinę kviečių."
 ---
 # Stanislovas Vaitkavičius
 
@@ -49,7 +56,8 @@ media_all_json: |-
 - id: c-83842
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 263."
   citata_originali: |
     Taip ir Jonas Jurevičius
     iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek

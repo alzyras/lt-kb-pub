@@ -57,7 +57,8 @@ media_all_json: |-
 - id: c-33628
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 147."
   citata_originali: |
     —Matusas, J. : _Odų ir kailių
     gamyba senovės Lietuvoje iki XVI amžiaus pabaigos_ , Aidai, 1959, nr. 3-4,

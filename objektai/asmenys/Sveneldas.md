@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7aa71db77a8a54e8e5fbbdee"
+canonical_name: "Sveneldas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sveneldas"]
+sameAs: []
+canonical_biography: "Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiajame Naugarde."
 ---
 # Sveneldas
 
@@ -53,7 +60,8 @@ Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiaja
 - id: c-173095
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 94."
   citata_originali: |
     Rusios istorija liudija, kad 980 metais tą garbinimą įve­
     dė Kijeve Vladimiras Didysis, liepęs pastatyti ant kalno to dievo

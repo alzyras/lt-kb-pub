@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1525fc9415c25761bcfb4203"
+canonical_name: "Piarnu"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Piarnu"]
+sameAs: []
+canonical_biography: "LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. Mūšio išvakarėse Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti karo veiksmus siekiant panaikinti Rygos miesto blokadą."
+place_authority: true
+historical_names: []
 ---
 # Piarnu
 
@@ -79,7 +88,8 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
 - id: c-43739
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 112-113"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112-113."
   citata_originali: |
     LDK etmonas Jonas Karolis Chodkevičius
     su kariuomene nužygiavo Piarnu link.
@@ -104,7 +114,8 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
 - id: c-45273
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 113."
   citata_originali: |
     Mūšio išvakarėse
 
@@ -128,7 +139,8 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
 - id: c-167185
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 113."
   citata_originali: |
     Kaip karo grobis lietuviams atiteko
     100 patrankų, uoste stovėję 2 švedų karo

@@ -112,7 +112,8 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
 - id: c-175708
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 55."
   citata_originali: |
     36
     Dideliame skitų krašte taip pat gyveno svetimos, ski­
@@ -133,9 +134,9 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
     - t-001
 
 - id: c-184270
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 23"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 23."
   citata_originali: |
     Tas pasakas išrašiau skaitytojui dėl to
     vien, jog lietuviai ir žemaičiai paskesniuose dar lai­

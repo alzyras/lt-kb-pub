@@ -46,9 +46,9 @@ Ir taip skitai, anapus Dunojaus gyveną, vadinos trakais, šiapus Dunojaus getai
 ## Citatos
 
 - id: c-184605
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 23"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 23."
   citata_originali: |
     Tas pasakas išrašiau skaitytojui dėl to
     vien, jog lietuviai ir žemaičiai paskesniuose dar lai­

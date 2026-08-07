@@ -70,9 +70,9 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
 ## Citatos
 
 - id: c-184578
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 361"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 361."
   citata_originali: |
     Nuo tenai Otokaras leidos Pragaru
     pagal žemyn lig girios, Tvangste vadinamos, kur­
@@ -99,9 +99,9 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
     - t-001
 
 - id: c-184579
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 395"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 395."
   citata_originali: |
     Pradžioj samionys susiskliautę
     kantriai ir stipriai turėjos, bet ilgainiui, mažinda-
@@ -131,9 +131,9 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
     - t-002
 
 - id: c-184580
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 408"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 408."
   citata_originali: |
     Taip namie bekerštaujant lietuviams, už namų
     lygios nelaimos likos.

@@ -80,7 +80,8 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 - id: c-70465
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 284."
   citata_originali: |
     Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos
     akto nuostatus, net pats karalius sušaukdavo atskirus seimus.
@@ -99,7 +100,8 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 - id: c-70467
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 284."
   citata_originali: |
     Bet XVII amžiuje, kai, pradedant Vladis-
     lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie
@@ -118,7 +120,8 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 - id: c-175851
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 284."
   citata_originali: |
     Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
     karui su Maskva (mat, jis nelietė Lenkijos). Bet dar dažniau

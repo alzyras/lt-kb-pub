@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-86b0508754b466bac8fb49fb"
+canonical_name: "Kropivnos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kropivnos upė"]
+sameAs: []
+canonical_biography: "Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje."
+place_authority: true
+historical_names: []
 ---
 # Kropivnos upė
 
@@ -77,7 +86,8 @@ Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje 
 - id: c-168628
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 630"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 630."
   citata_originali: |
     Konstantinas, pasukęs su savo kariais į
     kairę, užvedė priešo raitelius, lipte lipančius jiems ant

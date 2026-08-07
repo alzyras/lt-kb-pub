@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-12952b45ee9e0f9205bc5c39"
+canonical_name: "Jungtinė Karalystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jungtinė Karalystė"]
+sameAs: []
+canonical_biography: "Įvairiais duomenimis, nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV, Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją."
+place_authority: true
+historical_names: []
 ---
 # Jungtinė Karalystė
 
@@ -38,7 +47,8 @@ media_all_json: |-
 - id: c-24155
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 253"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 253."
   citata_originali: |
     Pirmąjį privatizacijos dešimtmetį daugelis stambių įmonių subankru-
     tavo, tūkstančiai žmonių neteko darbo. Masinis nedarbas paskatino ma-

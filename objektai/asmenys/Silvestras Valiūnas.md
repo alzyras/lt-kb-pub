@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bafa366fd325dbca6287cf21"
+canonical_name: "Silvestras Valiūnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Silvestras Valiūnas"]
+sameAs: []
+canonical_biography: "Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas)."
 ---
 # Silvestras Valiūnas
 
@@ -83,7 +90,8 @@ media_all_json: |-
 - id: c-166959
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 110-111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 110-111."
   citata_originali: |
     Varšuvoje Mokslo bičiulių drau-
 

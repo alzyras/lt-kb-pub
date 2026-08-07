@@ -65,7 +65,8 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
 - id: c-174807
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 387"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 387."
   citata_originali: |
     Čia plyti vešlios žolės
     turtingos Padonės pievos, supančios Dono žiotis į Azovo
@@ -88,7 +89,8 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
 - id: c-179292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 396."
   citata_originali: |
     Tad sauromatų vardą reikėtų versti į klaidžio­
     jantys, klajokliai matai.

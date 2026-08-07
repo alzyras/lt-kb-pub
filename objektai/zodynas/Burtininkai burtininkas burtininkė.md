@@ -52,7 +52,7 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
 <a id="claim-t-189194"></a>
 - t-002
   teiginys: "Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pačių sudėtų giesmių giedotojus, panašius į senovės bardus ir skaldus."
-  atnaujinta: "2026-07-23 21:00"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -119,7 +119,8 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
 - id: c-172081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
   citata_originali: |
     Tolesnį šito patvirtinimą rasime žemiau,
     straipsnyje „Laima“.
@@ -142,7 +143,8 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
 - id: c-172082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 297."
   citata_originali: |
     Prūsijos kronikininkai, kurie prisimena, kad jų gyvenimo
     metais dar būta burtininkų pėdsakų, priskiria jiems ateities
@@ -167,7 +169,8 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
 - id: c-172083
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
   citata_originali: |
     Nykstant ir
     išsigimstant lietuvių mitologijai, burtininkų profesija nusmu­
@@ -190,7 +193,8 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
 - id: c-172084
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
   citata_originali: |
     Burtininkė (Burte)
     Lietuvių barde -  Burtyniczka. Sakydavo eiles ir dainuoda­

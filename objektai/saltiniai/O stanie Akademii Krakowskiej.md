@@ -49,7 +49,8 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
 - id: c-84437
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 207."
   citata_originali: |
     Ant­
     spaude turėjo Stumbro ženklą.

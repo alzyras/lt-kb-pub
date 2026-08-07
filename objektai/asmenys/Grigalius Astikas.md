@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9fe2614332a4264bd99166c8"
+canonical_name: "Grigalius Astikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Grigalius Astikas"]
+sameAs: []
+canonical_biography: "Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS STEPONO BATORO PRIVILEGIJA, KURIA ALANTOS DVARAS, ESANTIS UKMERGĖS PAVIETE, PO IŠDAVIKO GRIGALIAUS ASTIKO DOVANOJAMAS GABRIELIUI BEKEŠUI."
 ---
 # Grigalius Astikas
 
@@ -76,7 +83,8 @@ Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// T
 - id: c-83489
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 435-436"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 435-436."
   citata_originali: |
     Šalia dalyvaujant didžiai gerbia­
     miems, garbiesiems, prakilniesiems ir kilmingiesiems po­
@@ -112,9 +120,9 @@ Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// T
     - t-001
 
 - id: c-184868
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 274"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 274."
   citata_originali: |
     Kaip galima spręsti iš dokumento konteksto, jie tai darė
     naudodamiesi savo tarnybine padėtimi, vaito ir burmistro galia.

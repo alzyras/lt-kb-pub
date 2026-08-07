@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-89ec15622ea934cba0ad484a"
+canonical_name: "Ditrichas Griuningenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas Griuningenas"]
+sameAs: []
+canonical_biography: "Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padaugavio Balką, kursai pernykščiai buvo ten nukeliavęs, bet tą išgirdęs, atdavęs tenai valdžią brostviui Ditrichui Griuningenui, pagrįžo į Payslį ir steigė tą pavojų kaip įmanąs attolinti."
 ---
 # Ditrichas Griuningenas
 
@@ -49,9 +56,9 @@ Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padaugavio Balką, kursai p
 ## Citatos
 
 - id: c-184767
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 296"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 296."
   citata_originali: |
     Kujavos, į Kul-
     m iją .

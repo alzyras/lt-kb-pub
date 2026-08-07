@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cc3cb21b1f6629eba6d60cb9"
+canonical_name: "Tepliava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tepliava"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama apie Tepliavos ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė iš. Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir. Dusburgietis teigia, kad — Tapiow, Jer.— Tapiowe; Tepliava (buv."
+place_authority: true
+historical_names: []
 ---
 # Tepliava
 
@@ -87,14 +96,21 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 <a id="claim-t-58406"></a>
 - t-004
   teiginys: "Petro Dusburgiečio kronikoje Tepliavos pilies pastatymas minimas ne chronologine tvarka, prieš 1263 m. Kroicburgo įvykį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kroicburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tepliava: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kroicburgas: mention_match, place, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tepliava\" parinktas kaip owner_note_path. Targetas \"Kroicburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "pastatymo data: 1263 m.; pastatymo data: 1265 m.; pastatymo data: 1270 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata pagrindžia teiginį apie kronikos dėstymo tvarką ir Tepliavos pilies paminėjimą."
   pagrindžia:
-    - c-59036
+    - c-59037
 
 <a id="claim-t-194551"></a>
 - t-005
@@ -128,7 +144,8 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 - id: c-59035
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
   citata_originali: |
     kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
     Paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
@@ -149,7 +166,8 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 - id: c-59036
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
     Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino
@@ -164,13 +182,13 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
     - t-005
 
 - id: c-59037
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
     apie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
@@ -179,14 +197,17 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   citata_rodoma: "Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama\napie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji\npastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė\niš Kroicburgo (įvykį kronikininkas datuoja 1263 m."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-59038
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
   citata_originali: |
     327 D. — Tapiow, Jer.— Tapiowe; Tepliava (buv. Tapiau, dab. Gvardeiskas) Deimenos
     ir Priegliaus santakoje. Tepliavos vardu vadintas valsčius, kuriame buvusi prūsų pilis

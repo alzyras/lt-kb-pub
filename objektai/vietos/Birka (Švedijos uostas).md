@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6b0f344b3c3599360a5dd56e"
+canonical_name: "Birka (Švedijos uostas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Birka (Švedijos uostas)"]
+sameAs: []
+canonical_biography: "Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laivais ten nuplaukdami."
+place_authority: true
+historical_names: []
 ---
 # Birka (Švedijos uostas)
 
@@ -51,7 +60,8 @@ Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laiva
 - id: c-28210
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 123."
   citata_originali: |
     Adomas, tiesa, kalbėjo apie «sembus arba prūsus»
     (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą

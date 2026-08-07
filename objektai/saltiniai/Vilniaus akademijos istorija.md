@@ -77,7 +77,8 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 - id: c-84259
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 12."
   citata_originali: |
     Veikale chronologiškai Vilniaus miesto raida
     nušviesta iki 1750 metų. Didesnį dėmesį vėlesnėje istoriografi­
@@ -97,7 +98,8 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 - id: c-84260
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
     rinkti su miesto istorija susijusius dokumentus. M. Balinskis pa­

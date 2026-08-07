@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-48cf649cd8e5b7c9a164b8e6"
+canonical_name: "Stralsundas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Stralsundas"]
+sameAs: []
+canonical_biography: "O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­ konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui, Greifswaldni, Stettinui ir Gotlando salai)."
+place_authority: true
+historical_names: []
 ---
 # Stralsundas
 
@@ -94,7 +103,8 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 268."
   citata_originali: |
     Tai
     buvo kraštas, esąs prie Oderio žemupio Baltijos pakraštyje.
@@ -116,7 +126,8 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 271."
   citata_originali: |
     Aplamai imant, Vytauto laikais prekyba buvo labai išsiplė­
     tusi ir sutvirtėjusi. Ji siekė juk tolimiausius kraštus: rytuose
@@ -135,7 +146,8 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 - id: c-68682
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 234."
   citata_originali: |
     Vienas tų
     laiškų (1323.1.24), skirtas «visai krikščionijai», buvo išsiuntinėtas

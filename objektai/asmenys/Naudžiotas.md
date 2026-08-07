@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-135615ee0a762bd78d2f9df1"
+canonical_name: "Naudžiotas (karvedys)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Naudžiotas","Naudžiotas (karvedys)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai, ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas. Dusburgietis teigia, kad naudžiotas atskleidė visas šios atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus."
 ---
 # Naudžiotas (karvedys)
 
@@ -67,7 +74,8 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
 - id: c-60811
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Kai apie tai išgirdo Sklunijos valsčiaus vyrai, sugrąžino, gailėdamiesi nusikaltę,
     Karaliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo. Kiti
@@ -88,7 +96,8 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
 - id: c-60812
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Vis dėlto, kai
     Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,

@@ -89,7 +89,8 @@ Nenurodyta
 - id: c-10242
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 295"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 295."
   citata_originali: |
     Ginklai jų buvo įvairūs pagal įvairią gadynę: visų giliojoj senovėj pėsčiųjų buvo ginklais
         rendėtiniai^1324 brūkliai, o raitųjų kestės, taurų ragais apmaustytos, nuo ko ragotinėmis buvo
@@ -106,7 +107,8 @@ Nenurodyta
 - id: c-56415
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 295"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 295."
   citata_originali: |
     Ilgainiui tų brūklių drūktieji galai buvo švinu pripilti dėl svarumo, idant tuo siūtį pasmarkintų, vieni
         sulig žmogaus augumu, kiti trumpesni, stripiniais, arba strypais^1326 , vadinami, kurių kožnas turėjo po

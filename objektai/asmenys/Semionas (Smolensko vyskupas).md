@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d3106cb94d46f46a6c99ff9b"
+canonical_name: "Semionas (Smolensko vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Semionas (Smolensko vyskupas)"]
+sameAs: []
+canonical_biography: "Smolensko vyskupas Semionas kartu su kunigaikščiais, bajorais, miestiečiais ir prastaisiais žmonėmis prisiekė laikyti Andrių Smolensko vaivada."
 ---
 # Semionas (Smolensko vyskupas)
 

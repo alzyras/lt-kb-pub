@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c0d9e753eae02fd08a08a03f"
+canonical_name: "Parulio mūras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Parulio mūras"]
+sameAs: []
+canonical_biography: "Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato už 4750 auksinų nupirkę tą Parulio mūrą, atidavė Collegio Academico [Akademijos kolegijai], pa­ vedę įpareigojimu kasmet mokėti Šv."
+place_authority: true
+historical_names: []
 ---
 # Parulio mūras
 
@@ -58,7 +67,8 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 - id: c-82199
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 198."
   citata_originali: |
     1632. Uršulė ir Mauricijus, ignoti cognominis [nežinoma
     pavardė], iš magistrato už 4750 auksinų nupirkę tą Parulio

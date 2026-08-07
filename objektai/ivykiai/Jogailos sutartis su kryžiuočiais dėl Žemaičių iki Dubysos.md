@@ -55,7 +55,8 @@ Nenurodyta
 - id: c-66776
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 114."
   citata_originali: |
     O
     Jogaila 1382 m. buvo sudaręs su kryžiuočiais sutartį, kuria jis

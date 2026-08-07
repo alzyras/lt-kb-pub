@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83f334259ff4e1c11574ab33"
+canonical_name: "Augustas Ludvikas Schlözeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Augustas Ludvikas Schlözeris"]
+sameAs: []
+canonical_biography: "Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelbęs Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų ir pats pripažinęs, kad jo veikalas yra Kojalavičiaus perdirbinys."
 ---
 # Augustas Ludvikas Schlözeris
 
@@ -84,7 +91,8 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
 - id: c-03973
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 56."
   citata_originali: |
     Europoje paskleistą me­
     džiagą apie Lietuvą, patiekė susistemintą ir, palyginti, kritiškai.
@@ -105,7 +113,8 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
 - id: c-30456
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 56."
   citata_originali: |
     Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas
     Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos

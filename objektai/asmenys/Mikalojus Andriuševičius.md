@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aab4d03a7243e28d28e05811"
+canonical_name: "Mikalojus Andriuševičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Andriuševičius"]
+sameAs: []
+canonical_biography: "Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui ir stalininkui Nikodemui Janavičiui iš Čechanovičių, Lietu­ vos Didžiosios Kunigaikštystės arklidininkui Mikalojui Andriuševičiui ir."
 ---
 # Mikalojus Andriuševičius
 
@@ -50,7 +57,8 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 - id: c-83762
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 267."
   citata_originali: |
     Jonui, Polocko............................Stanislovui Jonui Da Vai­
     nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui

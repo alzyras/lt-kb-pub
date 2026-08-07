@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d689f6fd6a82f9582abe7e83"
+canonical_name: "Labanoras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Labanoras"]
+sameAs: []
+canonical_biography: "Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17) daug žemių Vilniaus apylinkėse (Malėtus, La­ banorus, Verkus), Tauragnų pilį, kelis namus Vilniaus mieste, vienus mūrinius namus didžiojo kunigaikščio pilyje ir ten pat keturis."
+place_authority: true
+historical_names: []
 ---
 # Labanoras
 
@@ -98,7 +107,8 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 118."
   citata_originali: |
     Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­
     šė (1387. 11. 17) daug žemių Vilniaus apylinkėse (Malėtus, La­
@@ -116,7 +126,8 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
 - id: c-79982
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127-128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127-128."
   citata_originali: |
     X, p. 112.
     I1l

@@ -61,7 +61,8 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
 - id: c-72948
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 250."
   citata_originali: |
     socialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-
     tais ir taps LSDP) ir iš Sąjūdžio daugumos 1993 m. susidariusi Tėvynės
@@ -80,7 +81,8 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
 - id: c-72949
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 249-250"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 249-250."
   citata_originali: |
     Pagrindinis šalies įstatymas garantuo-
     ja prigimtines žmogaus ir piliečio teises ir laisves, piliečiai, priklausantys

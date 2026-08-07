@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3b708b99cdcfef226db2e3ee"
+canonical_name: "Tornas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tornas"]
+sameAs: []
+canonical_biography: "Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos, padary­ tos 1411 m. vasario 1 d. Pastaroji sutartis Vokiečių Ordinui paliko visas žemes, kurias jis valdė prieš karą, kaip savas; tik­ tai nedidelį Dobrynės kraštą visam laikui. Ordino gi pasiuntiniui, kuris dar kaltino Vytautą, kad jis nebeiš­ duoda Torne žadėto rašto apie Žemaitijos grąžinimą po savo ir Jogailos mirties, dabar jis tokį raštą kartu su Jogaila parašė, bet labai neformalų. Gavęs po Torno taikos iš Jogailos Podoliją, pasiuntė jam iš sa­ vo iždo 20.000 grašių^2 ), kurie lenkams buvo reikalingi mokėti kariuomenei."
+place_authority: true
+historical_names: []
 ---
 # Tornas
 
@@ -79,7 +88,8 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 266."
   citata_originali: |
     Vytautas dėl to net pasiskundė Vakarų Europos ku­
     nigaikščiams, kad Ordinas neleidžia pirkliams susisiekti su Lie­

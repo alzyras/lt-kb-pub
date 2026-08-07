@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e8170a21d1492a693cd7d828"
+canonical_name: "Liudvikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas"]
+sameAs: []
+canonical_biography: "Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją. Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio. Liudvikas visas savo teises į Rusią buvo perleidęs Kazimierui ir lenkams."
 ---
 # Liudvikas
 
@@ -58,7 +65,7 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
 <a id="claim-t-63884"></a>
 - t-002
   teiginys: "Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -103,7 +110,8 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 163."
   citata_originali: |
     Susidėjo tokios aplinkybės, kad dėl to ilgai galvos laužyt
     niekam nereikėjo.
@@ -123,7 +131,8 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 172."
   citata_originali: |
     Tą žemę Kazimieras III buvo atidavęs
     Vladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas
@@ -144,7 +153,8 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 163."
   citata_originali: |
     Tik čia tvirtai stovėjo Lietuva, ir dėl tų žemių
     reikėjo kaip nors su ja susitarti.
@@ -164,7 +174,8 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
 - id: c-178757
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 236."
   citata_originali: |
     Vėliau iš atsiimtų pilių
     nuolatos puldinėjo ir siaubė gretimus lenkų kaimus.
@@ -195,7 +206,8 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
 - id: c-178759
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 277"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 277."
   citata_originali: |
     Kadangi šis elgėsi su
     buvusia belaisve labai pagarbiai, todėl tėvai bei pati

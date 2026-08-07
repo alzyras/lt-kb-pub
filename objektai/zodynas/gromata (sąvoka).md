@@ -52,9 +52,9 @@ Jei kas tą žymę neklausęs su laužys ir per piktybę priešingaus, tokį mes
 ## Citatos
 
 - id: c-184567
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 543"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 543."
   citata_originali: |
     Jei kas tą žymę neklausęs su­
     laužys ir per piktybę priešingaus, tokį mes skelbiam

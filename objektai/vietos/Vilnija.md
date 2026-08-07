@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-214eebf86e672d15ac753257"
+canonical_name: "Vilnija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilnija"]
+sameAs: []
+canonical_biography: "O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rinkimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo."
+place_authority: true
+historical_names: []
 ---
 # Vilnija
 
@@ -50,7 +59,8 @@ O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos 
 - id: c-24591
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 148."
   citata_originali: |
     Tad
     iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje

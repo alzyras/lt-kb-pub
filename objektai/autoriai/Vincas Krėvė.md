@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a932c2e1c0ed53751d420eec"
+canonical_name: "Vincas Krėvė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vincas Krėvė"]
+sameAs: []
+canonical_biography: "Vinco Krėvės Raštai VIII t."
 ---
 # Vincas Krėvė
 
@@ -51,7 +58,8 @@ Vinco Krėvės Raštai VIII t.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 318."
   citata_originali: |
     8. Vinco Krėvės Raštai VIII t. Misterijos „LIKIMO KELIAIS” II da­
     lis, su priedu — V. Bičiūno tos misterijos pastabos ir komentarai. Abiejų

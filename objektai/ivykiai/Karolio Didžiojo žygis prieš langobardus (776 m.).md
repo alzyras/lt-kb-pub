@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-169164
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 55."
   citata_originali: |
     Karalius Deziderijus, tikėdamasis, jog Galija, Įsivėlusi
     į naujus maištus, teiksianti

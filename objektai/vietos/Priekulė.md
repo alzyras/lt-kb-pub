@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a951150cd9cd8f7f7730874"
+canonical_name: "Priekulė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Priekulė"]
+sameAs: []
+canonical_biography: "Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta į Kretingą."
+place_authority: true
+historical_names: []
 ---
 # Priekulė
 
@@ -60,7 +69,8 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
 - id: c-45283
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 215."
   citata_originali: |
     @ 1. Budrio traukinys per Mažeikius, per Latvijos
     teritoriją (Priekulę) atvyksta į Kretingą.

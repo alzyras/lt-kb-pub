@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae764f8fd2d653bb6e920011"
+canonical_name: "Gabrielis Žanas Petisnė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gabrielis Žanas Petisnė"]
+sameAs: []
+canonical_biography: "Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius, o ne prieš Gabrielio Žano Petisnė (Gabriel Jean Petisne) administraciją."
 ---
 # Gabrielis Žanas Petisnė
 
@@ -32,7 +39,8 @@ Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius, o ne pri
 - id: c-21671
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 152."
   citata_originali: |
     Akcija pradėta laiku: Vakaruose
     vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų da-

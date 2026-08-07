@@ -163,7 +163,8 @@ Nenurodyta
 - id: c-174944
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 32."
   citata_originali: |
     Man vis dėlto atrodo,
     kad įvykis, aprašytas Petro Olai
@@ -195,7 +196,8 @@ Nenurodyta
 - id: c-174945
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
   citata_originali: |
     Sis sutriuškinimas buvęs toks ¡baisus,
     jog, kai nugalėtojai įplaukė į įlanką, jie buvo priversti be­
@@ -221,7 +223,8 @@ Nenurodyta
 - id: c-174946
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
   citata_originali: |
     Po to šio kariūno pyktis pakrypo prieš rusus; jis surinko
     laivyną, atplaukė prie Baltijos jūros rytinių pakrančių ir
@@ -246,7 +249,8 @@ Nenurodyta
 - id: c-175296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
   citata_originali: |
     Danai, atplaukę su
     nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas

@@ -159,7 +159,8 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
 - id: c-96148
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­
     chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
@@ -186,7 +187,8 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
 - id: c-96149
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 105."
   citata_originali: |
     Anot amžininko Dusburgo(c.  352) pranešimo, Gedi­
     minas nuleido pas popiežiaus nuncijus, atvykusius į Rygą
@@ -208,7 +210,8 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
 - id: c-96151
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 142."
   citata_originali: |
     Apie daržoves yra
     teigiama, jog lietuviai jas pradėję auginti, kada jau buvo arčiau
@@ -229,7 +232,8 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
 - id: c-96152
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 63."
   citata_originali: |
     Hartknochas Dusbur-
     goe kronikos pastabose Gedimino pilį, vadintą Castrum Ge-
@@ -257,7 +261,8 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
 - id: c-96153
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64."
   citata_originali: |
     Šitai vyko viešpataujant Lie­
     tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina

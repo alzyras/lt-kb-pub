@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3575be7b02a118d54e67aa65"
+canonical_name: "Konradas (Mozūrijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas (Mozūrijos kunigaikštis)","Konrado","Mozūrijos kunigaikštis Konradas","Mozūrų kunigaikštis Konradas"]
+sameAs: []
+canonical_biography: "Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Ordino įsitvirtinimo pradžia. Šaltiniuose jis minimas kaip vyskupo Kristijono globėjas ir kaip valdovas, pakvietęs Ordiną į Prūsus bei padovanojęs jam Kulmo žemę."
 ---
 # Konradas (Mozūrijos kunigaikštis)
 
@@ -194,7 +201,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 - id: c-13118
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 22."
   citata_originali: |
     jauti su prūsais 1226-1228 m.
     pakvietė Mozūrijos kunigaikš-
@@ -213,7 +221,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 - id: c-21824
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 58."
   citata_originali: |
     Buvo paskelbta Vakaruose net keletas kryžiaus žygių,bet
     iš to nieko neišėjo, nes atvykę kryžeiviai miškuose prūsų negalė-
@@ -235,7 +244,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 - id: c-21825
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 58."
   citata_originali: |
     Bet riterių buvo ne-
     daug, todėl ir jų pagalba buvo nedidelė: jie vos įstengdavo ap-
@@ -259,7 +269,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 15."
   citata_originali: |
     Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
     1230 met. Mozūrų kunigaikštis Konradas ir pirmasis prū­
@@ -281,7 +292,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 15."
   citata_originali: |
     1230 met. Mozūrų kunigaikštis Konradas ir pirmasis prū­
     sų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo
@@ -299,7 +311,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 - id: c-88786
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Dusburgietis, rašydamas apie lietuvių
     puolimus, ypač kronikos pabaigoje, stengiasi ir šia prasme pagrįsti būtinumą kariauti
@@ -320,7 +333,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 - id: c-88788
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 73-74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 73-74."
   citata_originali: |
     Apie Marienverderio miesto pastatymą
 
@@ -367,7 +381,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 - id: c-88789
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
   citata_originali: |
     „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio
     Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,
@@ -384,7 +399,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 - id: c-88791
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 28."
   citata_originali: |
     Dauguvos žiotyse susikūręs Kalavijuočių ordi-
     nas pamažu pradeda užkariauti lybius, latvius, estus, kuršius. Kovodamas

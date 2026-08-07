@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-82944
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 443"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 443."
   citata_originali: |
     Taigi, kai mes, Jurgis Radvila,
     Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­

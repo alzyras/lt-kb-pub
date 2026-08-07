@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b10d8cba5bb42190275b2f5d"
+canonical_name: "M. Kromer"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Kromer"]
+sameAs: []
+canonical_biography: "Kromerio kronikos."
 ---
 # M. Kromer
 
@@ -50,7 +57,8 @@ Kromerio kronikos.
 - id: c-33055
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 52."
   citata_originali: |
     Laikydama pagrindu Lietuvos valstybės žemes, ji
     apžvelgė per kelioliką šimtmečių didelį rytų Europos plotą. Ji buvo

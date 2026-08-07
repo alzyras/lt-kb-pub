@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a338edc63684ae6449bad781"
+canonical_name: "Nikolajus I"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nikolajus I"]
+sameAs: []
+canonical_biography: "Čartoriskis, susiaurintos Vilniaus švietimo apygardos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją policiją. Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai."
 ---
 # Nikolajus I
 
@@ -97,7 +104,8 @@ media_all_json: |-
 - id: c-21921
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 105."
   citata_originali: |
     Caro administracija ėmėsi tyrimo,
     kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
@@ -119,7 +127,8 @@ media_all_json: |-
 - id: c-79097
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 12-13"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 12-13."
   citata_originali: |
     Be to,
     kaip rašė viename laiške jo žmona, Vilniuje jam buvo pasiūly­

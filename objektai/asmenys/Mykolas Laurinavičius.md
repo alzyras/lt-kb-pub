@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a9f3dd5e439a226ab06a820"
+canonical_name: "Mykolas Laurinavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Laurinavičius"]
+sameAs: []
+canonical_biography: "Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius."
 ---
 # Mykolas Laurinavičius
 
@@ -63,7 +70,8 @@ Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurina
 - id: c-83901
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 316."
   citata_originali: |
     Jachna Laurinavičius žinomas nuo - 1485 m.
     Tuo metu burmistras Mykolas Laurinavičius.

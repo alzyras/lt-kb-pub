@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9466271afd3e646d129e3f80"
+canonical_name: "Vigrai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vigrai"]
+sameAs: []
+canonical_biography: "Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos valdžia įsteigė atskirą, tiesiog popiežiaus priklausomą vyskupiją Vigriuose (1798 m.; 1818 m. ji buvo perkelta į Seinus)."
+place_authority: true
+historical_names: []
 ---
 # Vigrai
 
@@ -60,7 +69,8 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 - id: c-03101
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 463"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 463."
   citata_originali: |
     Šiaurinė Užnemunės dalis anksčiau priklausė
     Žemaičių, o pietinė — Vilniaus vyskupijai. Norėdama atskirti

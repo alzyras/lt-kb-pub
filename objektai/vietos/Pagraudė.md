@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e1a2098b8cf6131b2ee22dbc"
+canonical_name: "Pagraudė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pagraudė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o keletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus šešis. Dusburgietis teigia, kad pagraudės ieškota ir labiau į rytus (Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 205). Dusburgietis teigia, kad trečią dieną po to tas pat brolis Eberhardas su savo kariuomene staiga įsiveržė, kaip, beje, magistro ir buvo iš anksto nurodyta, į Lietuvos valsčių, vardu Pagraudė, ir nusiaubė didžiąją jo dalį, degindamas ir plėšdamas."
+place_authority: true
+historical_names: []
 ---
 # Pagraudė
 
@@ -141,7 +150,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 - id: c-59023
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     544  D.— contra territorium [...] Pograudam, Jer.— Pograudin; valsčius Žemaičių
     pietvakariuose, atrodo, ties Jūros upe, jame — Gedimino pilis (žr. III, 289, 332; SRP, 2,
@@ -161,7 +171,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 - id: c-59024
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     Kitą
     kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o
@@ -180,7 +191,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 - id: c-59025
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 198."
   citata_originali: |
     Tačiau negalime nepaminėti ir to, kad
     brolis Konradas iš Lichtenhageno, Brandenburgo komtūras, jį pralenkė, pasukdamas
@@ -203,7 +215,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 - id: c-59026
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     332 (325). Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
     Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
@@ -225,7 +238,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 - id: c-167574
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu. Kitą
     kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o
@@ -243,7 +257,8 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 - id: c-168437
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 193."
   citata_originali: |
     Kai Chris-
     1316 m e ta i

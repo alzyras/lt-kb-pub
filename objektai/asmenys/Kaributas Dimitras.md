@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ea212bd4784e4a0ca5af3f78"
+canonical_name: "Kaributas Dimitras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kaributas Dimitras"]
+sameAs: []
+canonical_biography: "Kaributas buvo Algirdo ir Julijonos Tveriškės sūnus, apie 1380 m. pakrikštytas Dimitru."
 ---
 # Kaributas Dimitras
 

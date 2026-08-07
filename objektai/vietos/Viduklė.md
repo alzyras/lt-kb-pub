@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-40d870281e14da173d44d033"
+canonical_name: "Viduklė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Viduklė"]
+sameAs: []
+canonical_biography: "Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių Žemaičių aukštumos sričių (Ariogalos, Kal­ tinėnų, Knituvos, Kražių, Medingėnų, Raseinių ir Viduklės) darė taiką su Vytautu ir ordinu."
+place_authority: true
+historical_names: []
 ---
 # Viduklė
 
@@ -80,7 +89,8 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 128."
   citata_originali: |
     Ordinu, jis pats darbavosi Žemaitijoje, stiprindamas ten
     katalikų tikėjimą. Kaip jau matėme, 1416 metais Vytautas
@@ -101,7 +111,8 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 - id: c-68865
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 313."
   citata_originali: |
     Viso Žemaičių krašto vardu pavardėmis surašyti
     31 atstovas iš septynių Žemaičių aukštumos sričių (Ariogalos, Kal­

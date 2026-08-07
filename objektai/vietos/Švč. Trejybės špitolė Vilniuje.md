@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-00c3ea3c350a8087449f11e2"
+canonical_name: "Švč. Trejybės špitolė Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Švč. Trejybės špitolė Vilniuje"]
+sameAs: []
+canonical_biography: "Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18. Trejybės prie­ glauda (špitolė), mieste garsi savo labdaringa veikla."
+place_authority: true
+historical_names: []
 ---
 # Švč. Trejybės špitolė Vilniuje
 
@@ -94,7 +103,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - id: c-177575
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284."
   citata_originali: |
     Suteikdamas Hozijui teisę pasta­
     tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
@@ -117,7 +127,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - id: c-177576
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 290."
   citata_originali: |
     Ši gailestingumo
     įstaiga karaliaus akyse buvo tokia svarbi ir tarp jį patrau­
@@ -138,7 +149,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - id: c-177577
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 290."
   citata_originali: |
     Pirmiausia karaliaus dėmesį patraukė Švč. Trejybės prie­
     glauda (špitolė), mieste garsi savo labdaringa veikla. 1545
@@ -158,7 +170,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - id: c-177578
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 354."
   citata_originali: |
     Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­
     glaudos praplėtimo prie dominikonų vienuolyno Šv. Dva­

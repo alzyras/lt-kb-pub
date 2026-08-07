@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-83269
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 181-182"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 181-182."
   citata_originali: |
     Vienas Vengrijos kuni­
     gaikštis atvyko su aštuoniasdešimčia raitelių į Vilnių, siū­

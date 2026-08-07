@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-00a89a2c6fdb9ac7147101d3"
+canonical_name: "Labūnava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Labūnava"]
+sameAs: []
+canonical_biography: "Prūsų magistrui nusiaubus Lietuvą, Ariogalos, Pernaravos ir Labūnavos žemės Žemaitijoje buvo visai sunaikintos. Prūsų magistras, remiamas Bavarijos grafo Volfgango ir Livonijos kryžiuočių, nusiaubė Lietuvą, o Labūnavos žemė Žemaitijoje buvo sunaikinta."
+place_authority: true
+historical_names: []
 ---
 # Labūnava
 
@@ -107,7 +116,8 @@ Prūsų magistrui nusiaubus Lietuvą, Ariogalos, Pernaravos ir Labūnavos žemė
 - id: c-168650
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 245-246"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 245-246."
   citata_originali: |
     Neatnešė ato­
     kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2dc7a0e45956e7c2c0ed0b47"
+canonical_name: "Torfėjas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Torfėjas"]
+sameAs: []
+canonical_biography: "Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III valdymą siejo su III krikščioniškosios eros amžiumi."
 ---
 # Torfėjas
 
@@ -54,7 +61,8 @@ Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III vald
 - id: c-174211
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     Tai patvir­
     tina Nestoro pateiktos žinios, kad skandinavams priklau­

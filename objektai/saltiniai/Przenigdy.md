@@ -49,7 +49,8 @@ Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri lenkų ir lietuvi�
 - id: c-23939
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 122."
   citata_originali: |
     Lietuvos bajorų prašyta, kad būtų susipratę ir neveidmainiški lietuviai, kad
     lietuviškai kalbėtų, melstųsi, mylėtų savo kraštą, jam dirbtų, būtų jo vadai,

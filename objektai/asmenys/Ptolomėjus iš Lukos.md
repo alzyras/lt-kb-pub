@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-55b05385d2d2493b78255e72"
+canonical_name: "Ptolomėjus iš Lukos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ptolomėjus iš Lukos"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a."
 ---
 # Ptolomėjus iš Lukos
 
@@ -76,7 +83,8 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 - id: c-61053
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
   citata_originali: |
     Tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus
     bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.

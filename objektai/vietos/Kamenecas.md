@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b455d9b0fb659e1f3d7814ad"
+canonical_name: "Kamenecas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kamenecas"]
+sameAs: []
+canonical_biography: "Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių. Vytautas už keturiasdešimt tūkstančių florinų atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą ir Červonogradą."
+place_authority: true
+historical_names: []
 ---
 # Kamenecas
 
@@ -131,7 +140,8 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
 - id: c-82054
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 225-226"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 225-226."
   citata_originali: |
     Kazimiero mirtis —  Didysis kunigaikštis
     Aleksandras suteikia Vilniui naujų privilegijų —  Jo vedybos su
@@ -168,7 +178,8 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
 - id: c-82055
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 226."
   citata_originali: |
     Jogaila taip pat
     nesvyravo, ar jam, tikram broliui, pavesti savo valdžią Lie­
@@ -190,7 +201,8 @@ Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitr
 - id: c-168328
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 344."
   citata_originali: |
     Veikiau norėdamas len­
     kus labiau palenkti į karalių, Vytautas galop sutiko nu­

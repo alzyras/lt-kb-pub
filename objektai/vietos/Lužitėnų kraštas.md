@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dd60cfb01847001394d4a1ee"
+canonical_name: "Lužitėnų kraštas (kraštas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lužitėnų kraštas","Lužitėnų kraštas (kraštas)"]
+sameAs: []
+canonical_biography: "Narbutas Lužitėnų kraštą mini tarp vietovių, kuriose rasta panašiais ženklais pažymėtų akmenų, jo laikytų deivės Velionos aukurais."
+place_authority: true
+historical_names: []
 ---
 # Lužitėnų kraštas (kraštas)
 
@@ -54,7 +63,8 @@ Narbutas Lužitėnų kraštą mini tarp vietovių, kuriose rasta panašiais žen
 - id: c-171908
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 380."
   citata_originali: |
     Sako, kad lietuviai kaimiečiai
     šitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­

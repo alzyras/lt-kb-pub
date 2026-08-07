@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fe57cefd2997e2a69ee23f7a"
+canonical_name: "A. Raulinaitis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Raulinaitis"]
+sameAs: []
+canonical_biography: "Raulinaitis (Pedag."
 ---
 # A. Raulinaitis
 
@@ -54,7 +61,8 @@ Raulinaitis (Pedag.
 - id: c-32886
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     2, 1969).**
     (^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966. Apie pirmąją kated­

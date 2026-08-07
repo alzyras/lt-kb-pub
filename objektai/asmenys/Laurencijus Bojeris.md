@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f32a994e7dc14e4ce55e7692"
+canonical_name: "Laurencijus Bojeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Laurencijus Bojeris"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Laurencijus Bojeris
 
@@ -65,7 +72,8 @@ Nenurodyta
 - id: c-41577
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 109."
   citata_originali: |
     ## Puslapis 109
 

@@ -116,7 +116,8 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 - id: c-05587
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 9."
   citata_originali: |
     Tik gana trumpai čia tėra apžvelgti patys seniausieji laikai,
     paremti archeologiniais duomenimis. Lietuvos _proistorė_ yra jau
@@ -136,7 +137,8 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 - id: c-69344
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 82."
   citata_originali: |
     Čia tenka paminėti bent iškilesnius tarybinius istori­
     kus^94. Apie jų darbų atranką ir metodą buvo rašyta aukščiau,
@@ -151,7 +153,8 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 - id: c-69345
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 82."
   citata_originali: |
     Apie jų darbų atranką ir metodą buvo rašyta aukščiau,
     periodizacijos skyrelyje. Lietuvos _proistorei_ geriau pažinti padeda

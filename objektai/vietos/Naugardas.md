@@ -39,6 +39,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5515a7253bd3c736144fe8da"
+canonical_name: "Naugardas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naugardas"]
+sameAs: []
+canonical_biography: "Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai. 1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją. Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje."
+place_authority: true
+historical_names: []
 ---
 # Naugardas
 
@@ -456,7 +465,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 177."
   citata_originali: |
     Sutvarkė reikalus su Smo­
     lensku, kuriame irgi paliko savo vietininkus. Tą padarė ir su
@@ -474,7 +484,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 228."
   citata_originali: |
     Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
     čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
@@ -497,7 +508,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 262."
   citata_originali: |
     Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
     sitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,
@@ -520,7 +532,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 272."
   citata_originali: |
     Vytautas turėjo patrankų ir savo žygiuose į Pskovą
     (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
@@ -540,7 +553,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
 - id: c-89824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 171."
   citata_originali: |
     Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
     taip gana ilgam sudrumstęs namų ramybę, privertė lenkus
@@ -569,7 +583,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
 - id: c-89826
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 151."
   citata_originali: |
     Vis dėlto nereikėtų manyti, kad Vilnius
     ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
@@ -601,7 +616,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 262."
   citata_originali: |
     Be mokesčių Vytautas didindavo dar savo pajamas ir kon­
     tribucijomis. Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
@@ -621,7 +637,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
 - id: c-89828
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 21-22"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 21-22."
   citata_originali: |
     Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
     tai, net slaviškieji, ėmė prie jų šlietis. Prie karinės sąjungos, 1241 m.
@@ -644,7 +661,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 136."
   citata_originali: |
     Vy­
     tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
@@ -669,7 +687,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 152."
   citata_originali: |
     Kijeve ir apleisti tikinčiuosius. Livonijos Ordinas padarė
     prieš Vytautą nukreiptą taiką su Pskovu (1417) ir Naugardu
@@ -688,7 +707,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
 - id: c-89834
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48."
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
     plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
@@ -711,7 +731,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
 - id: c-89836
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247."
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
     to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
@@ -734,7 +755,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
 - id: c-89839
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24."
   citata_originali: |
     Išsi­
     laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­
@@ -760,7 +782,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 272."
   citata_originali: |
     Tačiau
     šie, palyginti, dar nauji karo technikos pabūklai buvo tokie ne­
@@ -779,7 +802,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
 - id: c-171662
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     Šį nu­
     siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
@@ -800,7 +824,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
 - id: c-171663
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Net Vokietijoje,
     kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
@@ -826,7 +851,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
 - id: c-171664
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 243."
   citata_originali: |
     O šios šventyklos aprašyme
     istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
@@ -849,7 +875,8 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
 - id: c-171665
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 436"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 436."
   citata_originali: |
     Apie juos senovės Graikijos
     geografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­

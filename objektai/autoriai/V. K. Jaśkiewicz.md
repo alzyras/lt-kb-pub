@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-858b61576fc57f12b5f4a873"
+canonical_name: "V. K. Jaśkiewicz"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. K. Jaśkiewicz"]
+sameAs: []
+canonical_biography: "Jaśkiewicz : A Study in Lithuanian Mythologie."
 ---
 # V. K. Jaśkiewicz
 
@@ -58,7 +65,8 @@ Jaśkiewicz : A Study in Lithuanian Mythologie.
 - id: c-33172
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 58."
   citata_originali: |
     (^40) **V. Maciūnas :** **_Stanevičius S. T.,_** **LE, t. 28, 430-434 p.**
     (^41) **Simonas Stanevičius,** **_Raštai_** **, paruošė J. Lebedys, Vilnius 1967,

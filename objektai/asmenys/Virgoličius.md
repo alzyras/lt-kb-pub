@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-93094a7d62e478706a322660"
+canonical_name: "Virgoličius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Virgoličius"]
+sameAs: []
+canonical_biography: "Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip savivaliauti. Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius."
 ---
 # Virgoličius
 
@@ -79,7 +86,8 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
 - id: c-42309
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 194."
   citata_originali: |
     Spalio 5 d. plk. Virgoličiaus
     rinktinė iš Kuršėnų per-
@@ -99,7 +107,8 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
 - id: c-44560
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 194."
   citata_originali: |
     Bermonto ėmė
     bręsti karinis konfliktas.

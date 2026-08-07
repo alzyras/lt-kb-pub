@@ -54,7 +54,8 @@ Narbutas aiškino Wejdas kaip „stabą arba veidą, atvaizdą“ ir laikė jį 
 - id: c-172233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 283."
   citata_originali: |
     10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir
     Pruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius. Dėl Vai­

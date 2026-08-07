@@ -63,7 +63,8 @@ Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau j
 - id: c-01646
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 235."
   citata_originali: |
     Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos sei-
     mas, tačiau jame unijos klausimas nė kiek nepasistūmėjo. Bendrasis

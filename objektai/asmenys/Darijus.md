@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9b8e0f2ebc3667cd3b688704"
+canonical_name: "Darijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Darijus"]
+sameAs: []
+canonical_biography: "Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir keltis per Dnestrą, Būgą, Dneprą bei Donecą. Iki Darijaus žygio prieš Skitiją gelonai, Narbuto teigimu, jau seniai gyveno tarp budinų, buvo su jais susilieję ir sudarė vieną tautą. Skitų karaliaus Indatiro vadovaujama kariuomenė karo metu kovojo su Darijumi."
 ---
 # Darijus
 
@@ -115,7 +122,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 <a id="claim-t-191944"></a>
 - t-005
   teiginys: "Narbutas Darijaus nesėkmingam žygiui priskyrė didelę įtaką Skitijos vidaus gyvenimui ir jos artėjimui prie žlugimo."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -130,7 +137,6 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
-    - c-174006
     - c-174826
 
 <a id="claim-t-191945"></a>
@@ -177,7 +183,8 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 - id: c-174006
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
   citata_originali: |
     Kadangi priešo būriai buvo narsūs ir puikiai gink­
     luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
@@ -197,12 +204,12 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-005
 
 - id: c-174008
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 80."
   citata_originali: |
     Herodotas
     prisimena buvus tokį miestą prie Juodosios jūros, kur
@@ -227,7 +234,8 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 - id: c-174009
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 81."
   citata_originali: |
     Pats Herodotas, tą patį manydamas apie gelonus ir bu­
     dinus, teigia, jog jie turėję tvirtoves ir tokį nekilnojamąjį
@@ -246,7 +254,8 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 - id: c-174011
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
   citata_originali: |
     Tokiomis aplinkybėmis dabartinio Kijevo žemė pir­
     miausia tapo skitų pastovia gyvenamąja vieta, nes ši
@@ -271,7 +280,8 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 - id: c-174826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
   citata_originali: |
     Galop išdidžiam monarchui buvo laimė persikelti
     su likusia armija per Dunojų tuo pačiu tiltu, kurį jis pats
@@ -297,7 +307,8 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
 - id: c-174827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 205."
   citata_originali: |
     Dar nebuvo tokių
     tyrinėjimų, ieškojimų, ir juos tenka palikti ateičiai. Juk

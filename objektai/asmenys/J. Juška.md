@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fb49a3af28f3ea6043f1b774"
+canonical_name: "J. Juška"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Juška"]
+sameAs: []
+canonical_biography: "Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupantų kariaunos. Juška, - labai žemai virš medžių viršūnių praskrido lėktuvas."
 ---
 # J. Juška
 
@@ -50,7 +57,8 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
 - id: c-44359
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 223-224"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 223-224."
   citata_originali: |
     Karas po karo
 

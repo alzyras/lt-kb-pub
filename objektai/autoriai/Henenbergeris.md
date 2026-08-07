@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-84f992ef76d8214afaffbadd"
+canonical_name: "Henenbergeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Henenbergeris"]
+sameAs: []
+canonical_biography: "Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris dienas pasninkaudavo ir gulėdavo ant plikos žemės. Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris dienas pasninkaudavo ir gulėdavo ant plikos žemės. Narbutas Henenbergerį kartu su Škicu, Hartknochu ir Kojalavičiumi kaltino apšmeižus senovės lietuvius dėl tariamo ligonių mirties greitinimo."
 ---
 # Henenbergeris
 
@@ -207,7 +214,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
 - id: c-173193
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 311."
   citata_originali: |
     Žyniai, kurie vadinosi Wejktime, latviškai - Wiktums, tu­
     rintys atlikti aukojimą, rengdavosi jam. Henenbergerio liudi­
@@ -227,7 +235,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
 - id: c-173194
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 311."
   citata_originali: |
     Henenbergerio liudi­
     jimu, vaidila, atnašaujantis aukas Atrimpui, turėdavo rengtis
@@ -246,7 +255,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
 - id: c-173195
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 359."
   citata_originali: |
     Draugystės, svetingumo, santai­
     kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­
@@ -270,7 +280,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
 - id: c-173196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     Erazmas Ste­
     la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina,
@@ -293,7 +304,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
 - id: c-173197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
   citata_originali: |
     Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
     kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
@@ -320,7 +332,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
 - id: c-173582
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 220."
   citata_originali: |
     XV am­
     žiaus prūsų kronikininkas Henenbergeris nurodo dar dau­
@@ -351,7 +364,8 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
 - id: c-173583
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
   citata_originali: |
     Rytuose ji ribojosi su Sudar­
     gą, pietuose — su jotvingių Polese, vakaruose — su Ga­

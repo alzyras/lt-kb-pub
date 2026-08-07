@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0d6de27f930c42268a2f4e6e"
+canonical_name: "Venedija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Venedija"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Venediją aiškino kaip lygumų ir klampių pelkynų kraštą, nuo kurio slavai esą vadinti venedų tauta."
+place_authority: true
+historical_names: []
 ---
 # Venedija
 

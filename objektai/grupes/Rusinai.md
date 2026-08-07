@@ -52,15 +52,22 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
 <a id="claim-t-189401"></a>
 - t-002
   teiginys: "Narbutas nurodė, kad vestuvių pyrago pavadinimas „karvojus“ lietuvių vartosenoje buvo perimtas iš rusinų."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Duona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusinai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Duona: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusinai\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172292
+    - c-172288
 
 <a id="claim-t-189402"></a>
 - t-003
@@ -146,28 +153,42 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
 <a id="claim-t-189406"></a>
 - t-007
   teiginys: "Narbutas rašė, kad rusinai vilku virstantį kerėtoją vadino Wolkotak, latviai - Wilkats, o lietuviai - Witkatas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusinai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusinai\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172290
+    - c-172293
 
 <a id="claim-t-189407"></a>
 - t-008
   teiginys: "Narbutas nurodė, kad rusinai alaus tipo gėrimą vadino Ohij, o lietuviai, prūsai ir latviai turėjo giminingus pavadinimus Alaus, Alus ir Alius."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Alus: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rusinai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Alus: mention_match, thing, gap=107"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusinai\" parinktas kaip owner_note_path. Targetas \"Alus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172290
+    - c-172294
 
 <a id="claim-t-189408"></a>
 - t-009
@@ -220,7 +241,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
 - id: c-172287
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 141-142"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 141-142."
   citata_originali: |
     141
 
@@ -245,7 +267,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
 - id: c-172288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
   citata_originali: |
     Ant apvalaus 10 colių skersmens duonos kepalo, apvy­
     nioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai
@@ -260,14 +283,17 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   citata_rodoma: "Ant apvalaus 10 colių skersmens duonos kepalo, apvy­\nnioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai\npanaši į ulonų kepurę -  sulig alkūne aukščio, apsiūta balta\ndrobe, apačioje perjuosta siaurai susukta spalvota skarele; pati\nfigūra apjuosta kaspinais ir žalumynų vainikais, panašiais į ko­\nkardas, girliandas, sukabintas puošiančiosios nuožiūra. Tokia\nfigūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­\njus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­\ntas tas antrasis pavadinimas.\nTačiau lietuviams tie du dalykai visiškai skirtingi."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-172289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
   citata_originali: |
     10*.
     183
@@ -291,7 +317,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
 - id: c-172290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Lasickis apie senovines apeigas sako: „Į tam tikrą šventę
     pakviestas aukotojas maldomis ir užkeikimais sušaukia nami­
@@ -308,13 +335,12 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-007
-    - t-008
 
 - id: c-172291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Kal­
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
@@ -334,7 +360,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
 - id: c-172292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 292"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 292."
   citata_originali: |
     Žyniai vilkėdavo įpras­
     tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
@@ -353,13 +380,13 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-006
 
 - id: c-172293
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 301."
   citata_originali: |
     Lat­
     vijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.
@@ -370,14 +397,17 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   citata_rodoma: "Lat­\nvijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.\nVilkolakis (Wilkats)\nLatviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­\nsų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­\nvidonas pridaro neapsakomai daug žalos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-172294
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 309."
   citata_originali: |
     Tuo klausimu išsamiai įtikina Cac-
     kis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino
@@ -388,14 +418,17 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   citata_rodoma: "Tuo klausimu išsamiai įtikina Cac-\nkis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino\nA e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -\nAlus, latviai Alius. Ponas Rėza „Dainų“ komentaruose pažy­\nmi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama\nBier."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-172295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 420"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 420."
   citata_originali: |
     Tad nedera ir
     jų palikti be dėmesio.
@@ -415,7 +448,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
 - id: c-176983
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     Slavai garbino tą pačią dievybę, vadindami įvairiais tar­
     miškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,
@@ -436,7 +470,8 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
 - id: c-176984
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
   citata_originali: |
     Ten yra Karaliaus pilis ir rūmai, pastatyti ant aukš­
     tesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mūri­

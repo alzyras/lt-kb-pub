@@ -104,7 +104,8 @@ Nenurodyta
 - id: c-168992
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 321."
   citata_originali: |
     Po šio įvykio apsuptieji atgavo drąsą,
     manydami, jog sėkmingai prasidėjęs karas sėkmingai
@@ -142,7 +143,8 @@ Nenurodyta
 - id: c-168993
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 322."
   citata_originali: |
     Jį pasivi­
     jo netoli buvęs Skirgaila, ta­

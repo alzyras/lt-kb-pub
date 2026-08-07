@@ -106,7 +106,8 @@ Nenurodyta
 - id: c-169901
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 124."
   citata_originali: |
     Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį
     Jurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš­

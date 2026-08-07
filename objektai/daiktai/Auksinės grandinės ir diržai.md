@@ -115,7 +115,8 @@ Nenurodyta
 - id: c-170024
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 97."
   citata_originali: |
     Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
     tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­

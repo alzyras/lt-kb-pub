@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3cd8f566e76f69e65d595eb2"
+canonical_name: "Boleslovas Narsusis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslovas Narsusis"]
+sameAs: []
+canonical_biography: "Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kijeviečius mokėti duoklę. Dytmaras, Merzeburgo vyskupas, pasakodamas apie Boleslovo Narsiojo karus, 1009 m. paminėjo ir lietuvius."
 ---
 # Boleslovas Narsusis
 
@@ -80,7 +87,8 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
 - id: c-169361
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Šitaip ilgai­
     niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
@@ -115,7 +123,8 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
 - id: c-174082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
   citata_originali: |
     Iš
     mums žinomų originalių istorikų pirmasis, Lietuvą pa­

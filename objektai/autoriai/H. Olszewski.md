@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5088c25016e23c8cbacc5694"
+canonical_name: "H. Olszewski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["H. Olszewski"]
+sameAs: []
+canonical_biography: "Olszewski."
 ---
 # H. Olszewski
 
@@ -43,7 +50,8 @@ Olszewski.
 - id: c-22135
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Ed. M. Šapoka, Vilnius, 2009; H. Olszewski. O skutecznym rad
     sposobie.

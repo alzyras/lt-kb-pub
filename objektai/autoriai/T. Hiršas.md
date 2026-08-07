@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-003db1c64d129f1e21ccd8d2"
+canonical_name: "T. Hiršas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["T. Hiršas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad hiršas mano, kad čia esanti rašybos klaida (turėtų būti Culvensem), kad tai Kulva (kituose to meto šaltiniuose — Kolwa, Colwe, Koluwe — Weg."
 ---
 # T. Hiršas
 
@@ -62,7 +69,8 @@ Dusburgietis teigia, kad hiršas mano, kad čia esanti rašybos klaida (turėtų
 - id: c-87596
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
   citata_originali: |
     Vygandas Marburgietis XIV a. 9-ame dešimtmetyje (1382, 1384 m.) Lietuvoje, Neries
     žemupyje, mini villa Culmen, terra Culmense (Bornbachas — Kolmische land; SRP, 2,

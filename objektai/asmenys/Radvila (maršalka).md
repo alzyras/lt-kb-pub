@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac839cee7ed8c5c94e4c400d"
+canonical_name: "Radvila (maršalka)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Radvila (maršalka)"]
+sameAs: []
+canonical_biography: "Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į Didžiosios Kunigaikštystės sostinę, kad būtų pripažintas Lietuvos vasalu ir iš jos garbin­ go valdovo rankų priimtų įvesdinimą, po to, globojamas maršalkos Radvilos, buvo išsiųstas į."
 ---
 # Radvila (maršalka)
 
@@ -50,7 +57,8 @@ Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į 
 - id: c-83820
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 167."
   citata_originali: |
     Tačiau nau­
     jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su sa­

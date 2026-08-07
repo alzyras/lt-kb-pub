@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5375d022078447fe6969befe"
+canonical_name: "Juozas Jermalavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozas Jermalavičius"]
+sameAs: []
+canonical_biography: "Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komiteto“ lyderių komunistų Juozo Jermalavičiaus, Mykolo Burokevičiaus ir Valerijaus Ivanovo organizacijos „Jedinstvo“."
 ---
 # Juozas Jermalavičius
 
@@ -42,7 +49,8 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
 - id: c-44391
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 255."
   citata_originali: |
     į okupantų pusę. Apie 400 „raudonraiš-
     čių“, vadovaujamų „Nacionalinio gelbė-

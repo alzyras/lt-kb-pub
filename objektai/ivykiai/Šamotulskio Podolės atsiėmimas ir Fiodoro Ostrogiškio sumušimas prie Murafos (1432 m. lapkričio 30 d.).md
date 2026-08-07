@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-185501"></a>
 - t-001
   teiginys: "Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -126,7 +126,8 @@ Nenurodyta
 - id: c-168862
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 442-443"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 442-443."
   citata_originali: |
     Valstybės ištarme buvo įsakyta
     Liudvikui kaip priešui kartu su savo draugais kuo
@@ -169,7 +170,8 @@ Nenurodyta
 - id: c-168863
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 443"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 443."
   citata_originali: |
     Karalius, norėdamas sustabdyti priešą, skubiai
     atvyko į Lvovą, o iš ten išsiuntė priešais Fiodorą Vin­
@@ -201,7 +203,8 @@ Nenurodyta
 - id: c-168864
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 445"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 445."
   citata_originali: |
     Lapkričio 30 d. jie kovojo
     maždaug už keturiasdešimties mylių nuo Lvovo. Tuo
@@ -222,7 +225,8 @@ Nenurodyta
 - id: c-178613
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 443"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 443."
   citata_originali: |
     Fio­
     doras, nenorėdamas, kad len-

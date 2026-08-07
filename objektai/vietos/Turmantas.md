@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3813148e13e6243d9aa4a4d8"
+canonical_name: "Turmantas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Turmantas"]
+sameAs: []
+canonical_biography: "Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė užėmusi liniją Aukštakalnis-Salakas-Kiemionys ir turėjo pulti Turmanto kryptimi. Batalionui buvo įsakyta užimti svarbią Turmanto geležinkelio stotį."
+place_authority: true
+historical_names: []
 ---
 # Turmantas
 
@@ -83,7 +92,8 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
 - id: c-77077
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 190."
   citata_originali: |
     Kaunamojo poveikio spindulys - apie 10 m.
     Delsiklis granatą detonuoja po 4 sekundžių
@@ -106,7 +116,8 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
 - id: c-77079
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 190."
   citata_originali: |
     Bolševikai
     buvo priversti palikti ir šį bažnytkaimį.

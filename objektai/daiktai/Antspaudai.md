@@ -102,7 +102,8 @@ Nenurodyta
 - id: c-82958
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 259."
   citata_originali: |
     išsiaiškinti apie pelną ir
     pajamas bei visus dalykus, susijusius su Pabaisko bažny­
@@ -127,7 +128,8 @@ Nenurodyta
 - id: c-82959
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 165."
   citata_originali: |
     Unia v-a
     Litewska z Koroną. Szuflada I. A. 1413.
@@ -148,7 +150,8 @@ Nenurodyta
 - id: c-82960
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 295."
   citata_originali: |
     Tas pats Gardino seimas Vilniaus miesto
     gyventojams buvo labai įsimintinas dėl suteiktos privilegi­

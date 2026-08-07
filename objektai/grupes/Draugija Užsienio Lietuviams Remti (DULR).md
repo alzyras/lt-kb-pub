@@ -155,7 +155,8 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 - id: c-46273
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 684"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 684."
   citata_originali: |
     Tam tikslui 1932 m. įsikūrė Draugija
     Užsienio Lietuviams Remti (DULR). Draugijos tik-
@@ -176,7 +177,8 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 - id: c-46274
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 685"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 685."
   citata_originali: |
     (Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune. Tarp kitko jis
     nutarė įkurti Pasaulio Lietuvių Sąjungą).
@@ -195,7 +197,8 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 - id: c-46275
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 685"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 685."
   citata_originali: |
     Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
     lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
@@ -217,7 +220,8 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 - id: c-46276
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 685"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 685."
   citata_originali: |
     Nepaprastai didelę reikšmę užsienio lietu-
     viams turi sava lietuviškoji bažnyčia, lietuviškosios pamaldos. Todėl
@@ -236,7 +240,8 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 - id: c-46278
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 685"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 685."
   citata_originali: |
     Kadangi pagrindinė sąlyga suaugusiems nenutausti yra savos
     lietuviškos organizacijos ir spauda, tai DULR kiek galėdama sten-
@@ -255,7 +260,8 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 - id: c-75145
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 175-176"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 175-176."
   citata_originali: |
     Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-
     venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
@@ -281,7 +287,8 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 - id: c-166291
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 685"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 685."
   citata_originali: |
     Tarp kitko jis
     nutarė įkurti Pasaulio Lietuvių Sąjungą).

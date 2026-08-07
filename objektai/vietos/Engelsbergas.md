@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c46e94e4255db423aaaf66d7"
+canonical_name: "Engelsbergas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Engelsbergas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė, kuo vardu jų pilis. Dusburgietis teigia, kad 248 Engelsbergas — dab."
+place_authority: true
+historical_names: []
 ---
 # Engelsbergas
 
@@ -71,7 +80,8 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 - id: c-59179
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     248 Engelsbergas — dab. Pokživnas (Pokżywno, per 8 km į pietryčius nuo Grudziondzo).
     1222 m. Mazovijos kunigaikštis Konradas perdavė Engelsbergą vyskupui. Kryžiuočių įgula
@@ -89,7 +99,8 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 - id: c-167537
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     Niekad arba beveik niekad netruko čia
     maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar

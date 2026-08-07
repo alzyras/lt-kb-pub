@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f75752bfcf51624941ef1bf5"
+canonical_name: "Lietuvos Užnemunė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lietuvos Užnemunė"]
+sameAs: []
+canonical_biography: "Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika). Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių tautinis sąjūdis prasidėjo iš naujo. Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta."
+place_authority: true
+historical_names: []
 ---
 # Lietuvos Užnemunė
 
@@ -56,7 +65,7 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 <a id="claim-t-76813"></a>
 - t-002
   teiginys: "Svarstant Lenkijos autonomiją Valstybės Dūmoje, lietuvių veikėjai siūlė nuo karalystės atskirti Lietuvos Užnemunę."
-  atnaujinta: "2026-07-19 19:01"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: po 1864 m.; įvykio data: 1864 m."
@@ -143,7 +152,8 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 - id: c-24249
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 116."
   citata_originali: |
     Atseit,
     lenkai galų gale turėtų nustoti svajoję apie buvusios valstybės atkūrimą ir
@@ -166,7 +176,8 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 - id: c-74323
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 118."
   citata_originali: |
     „Lietuviais esame mes gimę!“
     Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių
@@ -186,7 +197,8 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 - id: c-74324
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 123."
   citata_originali: |
     Kulminacinis suvažiavimo įvykis buvo rezoliucijos
     dėl politinės autonomijos Lietuvai suteikimo priėmimas. Joje reikalauta
@@ -206,7 +218,8 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 - id: c-74325
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 123."
   citata_originali: |
     Joje reikalauta
     suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu ren-
@@ -228,7 +241,8 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 - id: c-74327
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 123."
   citata_originali: |
     Nepasikeitė ir vietinio valdymo modelis. Lietu-
     voje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos insti-
@@ -247,7 +261,8 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 - id: c-167008
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 116."
   citata_originali: |
     „Lenkų suartinimo su rusais“ strategine nuostata caro valdžia tuo
     pat metu siekė apsaugoti nuo sulenkėjimo karalystės ne etninius lenkus.

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-535b64f523d9ce501825c54e"
+canonical_name: "Jan Fijałek"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jan Fijałek"]
+sameAs: []
+canonical_biography: "Jan Fijałek 1415 mt."
 ---
 # Jan Fijałek
 
@@ -60,7 +67,8 @@ Jan Fijałek 1415 mt.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 293."
   citata_originali: |
     Prieš Ordiną toliau Vytautas kartu su Lenkija
     vedė tai ginklu, tai diplomatišką kovą siekdamas išgauti amžiną

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e9f762a05847a74b8427d659"
+canonical_name: "A. Baltinis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Baltinis"]
+sameAs: []
+canonical_biography: "Baltinis, Vysk."
 ---
 # A. Baltinis
 
@@ -60,7 +67,8 @@ Baltinis, Vysk.
 - id: c-32862
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 418."
   citata_originali: |
     14 dol.
     A. Baltinis, Vysk. V. Borisevičiaus gyvenimas ir darbai,

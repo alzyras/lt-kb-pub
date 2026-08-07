@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5d21d37e06e85c8eb341ac4b"
+canonical_name: "Lionas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lionas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigimą 1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol. Dusburgietis teigia, kad apie Liono sinodą ir apie kardinolo Bonaventūros bei Tomo Akviniečio mirtį 1274 viešpaties metais Grigalius X, popiežius, norėdamas padėti šventajai žemei, sušaukė Lione sinodą, kuriame graikai sugrįžo į šventosios bažnyčios vienybę, o keli totorių. Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir."
+place_authority: true
+historical_names: []
 ---
 # Lionas
 
@@ -100,7 +109,8 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
 - id: c-59089
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
   citata_originali: |
     Apie švenčiausiosios Marijos gimimo oktavos įsteigimą
 
@@ -122,7 +132,8 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
 - id: c-59090
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245-246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245-246."
   citata_originali: |
     99. Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
 
@@ -143,7 +154,8 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
 - id: c-59091
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236."
   citata_originali: |
     Apie Liono sinodą ir apie kardinolo Bonaventūros bei Tomo Akviniečio mirtį
 

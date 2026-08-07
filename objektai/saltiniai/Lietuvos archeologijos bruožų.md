@@ -58,7 +58,8 @@ Jablonskis buvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » 
 - id: c-33637
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 70."
   citata_originali: |
     Suredagavo jis taip pat
     «Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietu­

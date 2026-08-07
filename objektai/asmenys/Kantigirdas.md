@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3a833964b57278f7190e034d"
+canonical_name: "Kantigirdas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kantigirdas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai. Dusburgietis teigia, kad siekdamas šio tikslo, subūrė daug brolių bei kitų karių; kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų lyčių sūduvių."
 ---
 # Kantigirdas
 
@@ -96,7 +103,8 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
 - id: c-60785
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
     mą
@@ -119,7 +127,8 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
 - id: c-60786
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     Neilgai trukus jį aptiko sūduviai ir, uždėję ant arklio taip, kad galva bei rankos karojo
     viename arklio šone, o kojos kitame, nusigabeno, bet taip nevykusiai, kad iš apkrešėjusių
@@ -139,7 +148,8 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
 - id: c-179029
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
   citata_originali: |
     Kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę
     galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei

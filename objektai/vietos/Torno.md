@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aa6c0a3e6b65e843ea4f6b6a"
+canonical_name: "Torno"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Torno"]
+sameAs: []
+canonical_biography: "Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kryžiuočių magistras (jam imperatorius uždraudė prisiekti Zigmantui vasalystę; tatai magistras turėjo padaryti pagal 1466 m. Torno sutartį, — žiūr."
+place_authority: true
+historical_names: []
 ---
 # Torno
 
@@ -101,7 +110,8 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - id: c-161976
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 350."
   citata_originali: |
     Atvykę prie Torno pilies, kur buvo užsidaręs
     pats didysis magistras, jiedu 1411.II.1 d. padarė taiką.
@@ -118,7 +128,8 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 262."
   citata_originali: |
     Žodžiu šios kontri­
     bucijos ir, bendrai, mokesčiai bei duoklės didino Vytauto iždą.
@@ -140,7 +151,8 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 266."
   citata_originali: |
     Vytautas dėl to net pasiskundė Vakarų Europos ku­
     nigaikščiams, kad Ordinas neleidžia pirkliams susisiekti su Lie­

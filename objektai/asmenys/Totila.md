@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-36c1f526241859a6413dfaf5"
+canonical_name: "Totila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Totila"]
+sameAs: []
+canonical_biography: "Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herulų, o ši kariuomenė 552 metais dalyvavo Taginos mūšyje, kur žuvo Totila. Taip pat ir Romai antrąkart pakliuvus į Totilos rankas, kai Justinianas surinko ka riuomenę, greta longobardų ir persų buvo herulų."
 ---
 # Totila
 
@@ -66,7 +73,8 @@ Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herul�
 - id: c-174360
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 325"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 325."
   citata_originali: |
     Taip pat ir Romai antrąkart
     pakliuvus į Totilos rankas, kai Justinianas surinko ka­

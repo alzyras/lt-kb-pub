@@ -61,7 +61,8 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
 - id: c-22535
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-
     nijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-

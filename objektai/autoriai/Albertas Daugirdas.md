@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7ac04b9d7f2ba64069b9ce90"
+canonical_name: "Albertas Daugirdas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Albertas Daugirdas","Alberto Daugirdo"]
+sameAs: []
+canonical_biography: "Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosios Tarybos gynybą autorius ir AT rūmų gynybos ruožų bendraautoris. Autorių sąraše jis apibūdinamas kaip AT gynybos dalyvis ir rezistencinių kovų tyrėjas."
 ---
 # Albertas Daugirdas
 
@@ -104,7 +111,8 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
 - id: c-42383
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 274."
   citata_originali: |
     LIETUVOS ATSIKŪRIMAS
     P. 239, AT rūmų gynybos ruožai 1991 m. sausio-rugpjūčio mėnesiais, Albertas Daugirdas,
@@ -120,7 +128,8 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
 - id: c-42384
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 266."
   citata_originali: |
     264
 

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-30afe2885ae89a5cffd4c601"
+canonical_name: "Brestas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Brestas"]
+sameAs: []
+canonical_biography: "— 99 — (1393) Dievo Apveizdos bažnyčias, o kiek vėliau pastatė ir šiose vietose bažnyčias: Švenčionyse, Perlojoje, Trakuose, Gardine, Breste ir kt. Kaune ir Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus pranciškonams; Breste įsteigė vienuolyną augustinijonams; juos taip pat gausiai apdovanojo Medininkuose (Viln."
+place_authority: true
+historical_names: []
 ---
 # Brestas
 
@@ -201,7 +210,8 @@ media_all_json: |-
 - id: c-168591
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 578"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 578."
   citata_originali: |
     Rodos, žiaurus patarimas, bet iš tiesų būtinas,
     580
@@ -238,7 +248,8 @@ media_all_json: |-
 - id: c-168592
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 578"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 578."
   citata_originali: |
     Karalius, supratęs, kad jo sumanymai visiems žinomi,
     sutiko parodyti malonę, patariamas to paties kancle­
@@ -269,7 +280,8 @@ media_all_json: |-
 - id: c-168594
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 647-648"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 647-648."
   citata_originali: |
     Tol luomai nenurimo, kol negavo iš karaliaus valstybės
     antspaudais patvirtinto rašto, kuriuo šis savo bei sa-
@@ -297,7 +309,8 @@ media_all_json: |-
 - id: c-178835
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 198."
   citata_originali: |
     Gediminas, be kovos
     užėmęs Lucką ir artimiausias pilis, atsiėmęs Drohičiną
@@ -321,9 +334,9 @@ media_all_json: |-
     - t-005
 
 - id: c-184935
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 389"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 389."
   citata_originali: |
     Pagal jį Vilniui buvo skirta 500 kapų grašių norma. Kaunas šį kartą turėjo
     mokėti mažiau - 100 kapų grašių. Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Bres-

@@ -90,7 +90,8 @@ Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėji
 - id: c-169690
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 557"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 557."
   citata_originali: |
     Aleksandras kol kas laikėsi nuomonės,
     559

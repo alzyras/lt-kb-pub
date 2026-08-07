@@ -84,7 +84,8 @@ Nenurodyta
 - id: c-170454
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 49."
   citata_originali: |
     Iš ten Tautvilą su Danieliui skirtais belaisviais nu-
     vyko į Rygą. Rygiečiai jį priėmė su didžiausia iškilme,

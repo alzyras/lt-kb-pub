@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7b11380babd6b408b9bfb396"
+canonical_name: "Er. Wallenrodas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Er. Wallenrodas"]
+sameAs: []
+canonical_biography: "Wallenrodas, daug aukštųjų pareigūnų ir komtūrų."
 ---
 # Er. Wallenrodas
 
@@ -50,7 +57,8 @@ Wallenrodas, daug aukštųjų pareigūnų ir komtūrų.
 - id: c-28907
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 348."
   citata_originali: |
     Tarp 200
     kritusiųjų kryžiuočių riterių buvo pats didysis magistras, maršalas

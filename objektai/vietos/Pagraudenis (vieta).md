@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-681878d40c30fac3be10177f"
+canonical_name: "Pagraudenis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pagraudenis","Pagraudenis (vieta)"]
+sameAs: []
+canonical_biography: "Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, kuria me, nerasdamas atsparo, 1000 gyventojų nukavo. Lygia dalia ne vyko tam pačiam marčelgai Pagraudenio apygardo se kariauti, kuriose, noris kariauna buvo paskydusi terioti, vienok gyventojai, nujautą kryžėjus atei nant, Gadimino pilėj užsirakino, noris kamendotas Ragainės Libencelis narsiai ją vėtravo j o."
+place_authority: true
+historical_names: []
 ---
 # Pagraudenis (vieta)
 
@@ -66,9 +75,9 @@ Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, k
 ## Citatos
 
 - id: c-184487
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 496"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 496."
   citata_originali: |
     Tuo tarpu mistras kry­
     žėjų ginklaudino dvi kariauni ant lietuvių: vieną
@@ -94,9 +103,9 @@ Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, k
     - t-001
 
 - id: c-184488
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 528"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 528."
   citata_originali: |
     Kryžė­
     jai, turėdami tą už ženklą atenčios nelaimos, grįžo

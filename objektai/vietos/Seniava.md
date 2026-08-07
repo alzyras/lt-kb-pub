@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-56840d9ea07f192e3cb66962"
+canonical_name: "Seniava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Seniava"]
+sameAs: []
+canonical_biography: "Narbutas aiškino, kad prie Rosės upės esanti Seniava kilusi iš žodžio „Sienas“ ir reiškia senovinį miestą."
+place_authority: true
+historical_names: []
 ---
 # Seniava
 

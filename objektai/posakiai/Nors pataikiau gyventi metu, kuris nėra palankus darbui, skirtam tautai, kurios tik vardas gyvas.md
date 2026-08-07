@@ -62,7 +62,8 @@ Vėlyvame laiške Narbutas apmąsto savo darbo aplinkybes ir jo naudą būsimies
 - id: c-175018
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 462"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 462."
   citata_originali: |
     Nors pataikiau gyventi metu,
       kuris nėra palankus darbui, skirtam tautai, kurios tik

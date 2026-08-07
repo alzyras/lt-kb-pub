@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4e11f3446bd94214e7129b0b"
+canonical_name: "Hermanas Bartas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hermanas Bartas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė gegužės 20 dieną ir palaidotas Akone157."
 ---
 # Hermanas Bartas
 
@@ -82,7 +89,8 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
 - id: c-60957
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
   citata_originali: |
     Apie brolį Hermaną, trečią magistrą
 

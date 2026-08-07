@@ -58,7 +58,8 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
 - id: c-29559
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 122."
   citata_originali: |
     Kai « barzdoti vyrai» iš užjūrio puldinėjo
     Baltijos pajūrį, į tuos karinius santykius įdomią prošvaistę duoda

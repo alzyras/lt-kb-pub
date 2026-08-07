@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b942340b3986dfda37019fb0"
+canonical_name: "Osa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Osa"]
+sameAs: []
+canonical_biography: "Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų kunigaikščių dovanota vokiečiams."
+place_authority: true
+historical_names: []
 ---
 # Osa
 
@@ -90,7 +99,8 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
 - id: c-24347
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 50."
   citata_originali: |
     nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų
     dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.
@@ -110,7 +120,8 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
 - id: c-68327
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,
     pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina

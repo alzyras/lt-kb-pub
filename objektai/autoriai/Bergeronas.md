@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a13289399992c5d7b4e7b82"
+canonical_name: "Bergeronas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bergeronas"]
+sameAs: []
+canonical_biography: "Narbutas iš Bergerono kelionių aprašymų siejo Kantorinio liudijimą su lietuviška apeigų muzika."
 ---
 # Bergeronas
 
@@ -53,7 +60,8 @@ Narbutas iš Bergerono kelionių aprašymų siejo Kantorinio liudijimą su lietu
 - id: c-173298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 313."
   citata_originali: |
     Žinome, kad per panašias apeigas skam­
     bėdavo lietuviška muzika. Venecijos pasiuntinys Kantorinis

@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-73fa800715b7c399fb94f013"
+canonical_name: "Jomantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jomantas"]
+sameAs: []
+canonical_biography: "Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9."
 ---
 # Jomantas
 
@@ -81,7 +88,8 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 - id: c-42012
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     Lietuvos valdovas Vytautas,
     surinkęs didelę kariuomenę, pa-
@@ -105,7 +113,8 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 - id: c-64667
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 320."
   citata_originali: |
     Remdamasis giminyste,
     Vytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė

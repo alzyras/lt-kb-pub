@@ -47,7 +47,8 @@ Narbutas cituoja Vyskupo Petro rankraštį kaip liudijimą, kad ugnies krikštas
 - id: c-173388
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
   citata_originali: |
     Švenčiant Rasos šventę, šokinėta per degantį laužą, sukrautą
     pusračiu, kaip tai mini Strijkovskis. Vyskupo Petro rankrašty­

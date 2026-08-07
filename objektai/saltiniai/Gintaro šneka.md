@@ -77,7 +77,8 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
 - id: c-91735
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 111."
   citata_originali: |
     Ypač vakarų Lietuva, kuri daugiau turėjo kaimyninių
     ryšių, buvo ryškesnė medžiaginės kultūros skatintoja.

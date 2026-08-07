@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3b2c84355547372e7b4d860b"
+canonical_name: "Polis Himansas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Polis Himansas"]
+sameAs: []
+canonical_biography: "Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministras Polis Himansas (Paul Hymans). Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą."
 ---
 # Polis Himansas
 
@@ -73,7 +80,8 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
 - id: c-166955
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 146."
   citata_originali: |
     L I E T U V O S  I S T O R I J A
     146
@@ -96,7 +104,8 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
 - id: c-176300
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 145."
   citata_originali: |
     Vakarų sostinėse
     federacijos idėjai išpopuliarėjus Lietuva lyg tyčia nieko geresnio neturėjo

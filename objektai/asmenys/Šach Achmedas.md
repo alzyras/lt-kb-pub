@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c9bc99592786015b293697a"
+canonical_name: "Šach Achmedas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šach Achmedas"]
+sameAs: []
+canonical_biography: "Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, - Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­ naudoti savo galios ir. Šach Achmedas baigė sa­ vo dienas kalėjime toje pačioje Lietuvoje. Su­ gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­ darė nemažai rūpesčių karaliui ir seimui."
 ---
 # Šach Achmedas
 
@@ -110,7 +117,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 - id: c-83394
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247."
   citata_originali: |
     Krymo totorių
     orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,
@@ -137,7 +145,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 - id: c-83395
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 249."
   citata_originali: |
     Po tokių sostinės apsaugos priemonių karalius, į Vilnių
     atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais. Aplink
@@ -158,7 +167,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 - id: c-83396
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248."
   citata_originali: |
     Su­
     gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­
@@ -178,7 +188,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 - id: c-83397
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247-248"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247-248."
   citata_originali: |
     Šach Ach­
     medas, apleistas sąjungininko, Mendli Girėjaus sumuštas,

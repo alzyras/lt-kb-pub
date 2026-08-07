@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-676b2b00ea8878d1fd6ca459"
+canonical_name: "Strabonas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Strabonas"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais dievų šventyklų statytojais. Teodoras Narbutas mini spėjimą, kad šališkas aiškintojas Strabonas Pytejui priskyrė svetimos medžiagos. Teodoras Narbutas Straboną mini tarp autorių, kalbėjusių apie vandens lygio kritimą ir pateikusių to įrodymų."
 ---
 # Strabonas
 
@@ -134,7 +141,8 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
 - id: c-173337
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 264."
   citata_originali: |
     Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
     to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
@@ -161,7 +169,8 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
 - id: c-173676
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Fosas teigia, jog jis pasiekė tik Reiną ar
     toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
@@ -182,7 +191,8 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
 - id: c-173677
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
@@ -213,7 +223,8 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
 - id: c-177286
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 156."
   citata_originali: |
     Iš ten jis pasuko
     į pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų

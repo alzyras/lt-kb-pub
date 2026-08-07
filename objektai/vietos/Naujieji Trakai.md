@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df93e05692f942579870a4dc"
+canonical_name: "Naujieji Trakai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naujieji Trakai"]
+sameAs: []
+canonical_biography: "Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip nežinoma. Narbutas pasakojo, kad Kęstutis Birutę prieš jos valią išsivežė į Naujuosius Trakus ir ten vedė kaip žmoną."
+place_authority: true
+historical_names: []
 ---
 # Naujieji Trakai
 
@@ -122,7 +131,8 @@ Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip n
 - id: c-170322
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 218."
   citata_originali: |
     Tiksli N aujųjų Trakų (kaip ir Senųjų) įkūrimo data nežinoma
   citata_rodoma: "Tiksli N aujųjų Trakų (kaip ir Senųjų) įkūrimo data nežinoma"
@@ -137,7 +147,8 @@ Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip n
 - id: c-171666
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Birutė (Biruta)
     Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­

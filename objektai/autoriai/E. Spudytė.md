@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b9a4e73913d0743f4060bfd9"
+canonical_name: "E. Spudytė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["E. Spudytė"]
+sameAs: []
+canonical_biography: "Spudytė."
 ---
 # E. Spudytė
 
@@ -62,7 +69,8 @@ Spudytė.
 - id: c-75386
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Vilnius, 2000; Žemaičių muziejus Alka. Sud.
     E. Spudytė. Vilnius, 2007.

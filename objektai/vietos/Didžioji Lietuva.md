@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-155711506f6c9052a0902b95"
+canonical_name: "Didžioji Lietuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Didžioji Lietuva"]
+sameAs: []
+canonical_biography: "rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą."
+place_authority: true
+historical_names: []
 ---
 # Didžioji Lietuva
 
@@ -102,7 +111,8 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
 - id: c-166140
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 118."
   citata_originali: |
     O kovoti už teisybę –
     inteligento garbės reikalas.
@@ -120,7 +130,8 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
 - id: c-166141
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 130."
   citata_originali: |
     KOVA DĖL NEPRIKLAUSOMYBĖS
     Lietuvos planai: nuo autonomijos
@@ -151,7 +162,8 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
 - id: c-166403
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 266."
   citata_originali: |
     Ten buvo pradėta rūpintis liaudim, ku-
     riai buvo spausdinamos lietuviškos protestantiškos knygos. Jas

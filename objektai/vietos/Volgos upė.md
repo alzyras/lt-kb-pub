@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d7333a9d81917c1850ea28a9"
+canonical_name: "Volgos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Volgos upė"]
+sameAs: []
+canonical_biography: "Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link, kurioje tuo metu rezidavo Rusijos valdovas Ivanas rv. Rugsėjo 4 d. lietuviai pasiekė Dauguvos ir Volgos upių vandenskyrą, kur ilsėjosi ir išsižvalgė apylinkes."
+place_authority: true
+historical_names: []
 ---
 # Volgos upė
 
@@ -78,7 +87,8 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 - id: c-45435
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 96."
   citata_originali: |
     1581 m. Pskovo kampanija, Radvilos Perkūno reidas, Lietu
     Rugpjūčio 25 d. K. Radvilos pajėgos nu-
@@ -101,7 +111,8 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 - id: c-45436
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 96."
   citata_originali: |
     Rusai buvo sumušti,
     apie 300 jų žuvo. Rugsėjo 4 d. lietuviai pa-

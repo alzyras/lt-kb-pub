@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c41251ce9e2aeb4a3287074a"
+canonical_name: "Francua Noelis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Francua Noelis"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia ėmė ir iš Francua Noelio mitologinio žodyno."
 ---
 # Francua Noelis
 
@@ -53,7 +60,8 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
 - id: c-173305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 25."
   citata_originali: |
     Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
     ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­

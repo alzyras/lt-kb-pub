@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8847b59b1e72a02f1c55d3e0"
+canonical_name: "O. Maksimaitienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["O. Maksimaitienė"]
+sameAs: []
+canonical_biography: "Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augustavo gubernijoje (AkMD, t."
 ---
 # O. Maksimaitienė
 
@@ -58,7 +65,8 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
 - id: c-33081
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 87."
   citata_originali: |
     1831 m. sukilimą liečia F. Sliesoriūno
     straipsniai^117. Apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje

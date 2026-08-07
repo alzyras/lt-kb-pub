@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c88de3e811a8387e4605b176"
+canonical_name: "Konradas, vardu Divelis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas, vardu Divelis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro], vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė."
 ---
 # Konradas, vardu Divelis
 
@@ -97,7 +104,8 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
 - id: c-85832
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
   citata_originali: |
     Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
     vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
@@ -122,7 +130,8 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
 - id: c-85833
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
   citata_originali: |
     Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
     krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],
@@ -141,7 +150,8 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
 - id: c-85834
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 174-175"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174-175."
   citata_originali: |
     523 Apie Pagudėje ir Bartoje rengiamą sukilimą prieš Ordiną Dusburgietis kalba kaip
     apie 1286 m. įvykį. Kadangi sukilimo rengimas čia siejamas su Ragainės pilies statyba,

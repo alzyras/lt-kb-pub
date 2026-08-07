@@ -84,7 +84,8 @@ media_all_json: |-
 - id: c-32693
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 41."
   citata_originali: |
     Galima sutikti, kad šitoji periodizacija yra vienašališkai po­
     litinė. Ji težiūri tik pačios valstybės politinės raidos, ji yra
@@ -103,7 +104,8 @@ media_all_json: |-
 - id: c-34180
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 41."
   citata_originali: |
     Bet jų periodizacija yra svetima
     lietuvių tautos istorijos faktams. Ji net užtenkamai neatsižvelgia

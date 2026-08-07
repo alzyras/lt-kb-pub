@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-170015
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
   citata_originali: |
     O rytojaus metą prieš vokiečius išjojo
     [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­

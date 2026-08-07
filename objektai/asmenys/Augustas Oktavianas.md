@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-00395d9b216cb8b43da6a7bc"
+canonical_name: "Augustas Oktavianas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Augustas Oktavianas"]
+sameAs: []
+canonical_biography: "Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautojas Divonis neva 17 m. pr. Kr. apsilankė vėliau Prūsija pavadintame krašte. Narbutas rašo, kad Augusto valdymo metais geografijos tyrinėjimas pažengė, o Augustas pats rašė geografijos traktatus, rinko žinias ir pasitelkė matematikus."
 ---
 # Augustas Oktavianas
 
@@ -53,22 +60,30 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
 <a id="claim-t-191183"></a>
 - t-002
   teiginys: "Narbutas rašo, kad Augusto valdymo metais geografijos tyrinėjimas pažengė, o Augustas pats rašė geografijos traktatus, rinko žinias ir pasitelkė matematikus."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustas Oktavianas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustas Oktavianas\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
-    - c-174064
+    - c-174065
 
 ## Citatos
 
 - id: c-174064
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
   citata_originali: |
     *  ¥  *
     III skyrius
@@ -91,12 +106,12 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-174065
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 172."
   citata_originali: |
     Kai kartaginietis
     pamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­
@@ -113,7 +128,8 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
   citata_rodoma: "Kai kartaginietis\npamatė plaukusį iš paskos romėnų laivą ir, nenorėjęs pa­\nrodyti jam kelio, įviliojo jį į pavojingas vietas, jis pats\nprarado savo laivą ir pražudė savo seklį, tačiau buvo už\nlai saviškių dosniai apdovanotas1.\n175\nIlgo imperatoriaus Augusto valdymo metais geografi­\njos tyrinėjimas padarė geroką pažangą: šis Romos val­\ndovas pats rašė traktatus apie geografiją, iš visur rinko\nžinias, pasitelkė matematikus2. Taigi nėra abejonių, kad\nvalstybės valdžia turėjo tam tikrų tikslių žinių apie jūras\nir kraštus, esančius į šiaurę nuo Elbės."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -123,7 +123,8 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
 - id: c-55456
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 7-8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 7-8."
   citata_originali: |
     Tuo metu
     Vilniuje veikė kelios masonų ložės. 1816 m. ložės Uolusis Lietu­
@@ -146,7 +147,8 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
 - id: c-166558
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     Po
     1812 m. Lietuvoje labai išpopulia-

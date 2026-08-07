@@ -48,12 +48,11 @@ Nenurodyta
 <a id="claim-t-62892"></a>
 - t-001
   teiginys: "Liudvikas iš Libencelės Pagraudės valsčiuje surengė pasalą ir nukovė visus jį vijusius raitelius, išskyrus šešis."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-63745
     - c-63747
 
 <a id="claim-t-62893"></a>
@@ -79,7 +78,8 @@ Nenurodyta
 - id: c-63745
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     Kitą
     kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o
@@ -94,13 +94,13 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-63746
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     Romainiai, kuris pagal jų papročius buvo laikomas šventuoju543, o visus gyventojus paėmė
     į nelaisvę arba išžudė. Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu. Kitą
@@ -117,7 +117,8 @@ Nenurodyta
 - id: c-63747
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
   citata_originali: |
     Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu. Kitą
     kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o

@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-55669
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 48."
   citata_originali: |
     Susirėmė su jais vokiečiai
     ties Rudamina, pusantros mylios atstumu nuo miesto; ir šis

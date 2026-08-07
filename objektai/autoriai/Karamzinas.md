@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cf8a469f8685452c9da3b376"
+canonical_name: "Karamzinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Karamzin","Karamzinas","Karamzyn"]
+sameAs: []
+canonical_biography: "Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nuorodomis cituojamas autorius. Balińskio tekste jo teiginiai kartais pateikiami kritiškai, ypač vertinant Lietuvos istorijos įvykių dėstymą."
 ---
 # Karamzinas
 
@@ -87,7 +94,8 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
 - id: c-55574
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 143."
   citata_originali: |
     K a-
     r a m z i n, kuris apskritai I ietnvos
@@ -112,7 +120,8 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
 - id: c-78452
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 61-62"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 61-62."
   citata_originali: |
     1
     Ri'gii, Ui ERDVILAS.
@@ -140,7 +149,8 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
 - id: c-173632
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 215."
   citata_originali: |
     Manydami, kad mūsų skaity­
     tojai prisimena anksčiau šia tema sakytus dalykus (§55),

@@ -74,7 +74,8 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
 - id: c-172048
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
   citata_originali: |
     Lietuvoje pilkapiai randami labai retai, dažnai sly­
     pi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­
@@ -95,7 +96,8 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
 - id: c-172049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
   citata_originali: |
     Tai yra kalnas, gerokai aukš­
     tesnis už kitus gretimus, stūksantis atskirai. Jo viršūnė iš visų

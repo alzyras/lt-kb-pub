@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-afa8e6231d7307fd15544dcb"
+canonical_name: "Pomandas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pomandas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestingai guodęs jam atsidavusių vyrų, atsidūrusių sunkioje nelaimėje, maloniai paragino vieną kilnų vyrą, vardu Pomandas, nusipelniusį didelės prūsų pagarbos ir neseniai priėmusį Kristaus tikėjimą bei atvykusį. Dusburgietis teigia, kad taigi Pomandas iš Baigos pilies sugrįžo pas savo bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai nudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas."
 ---
 # Pomandas
 
@@ -97,7 +104,8 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
 - id: c-60825
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     Galop pats
     Kristus, kuris niekad nesiliauja gailestingai guodęs jam atsidavusių vyrų, atsidūrusių
@@ -118,7 +126,8 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
 - id: c-60826
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     Taigi Pomandas iš Baigos pilies sugrįžo pas savo
     bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai
@@ -141,7 +150,8 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
 - id: c-179037
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     Sitai padarę, kunigaikštis bei broliai su savo
     kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami

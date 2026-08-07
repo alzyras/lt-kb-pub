@@ -483,7 +483,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107533
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 30."
   citata_originali: |
     Visa tai – Mindaugo politikos rezulta-
     tas. Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
@@ -503,7 +504,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107534
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 227-228"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 227-228."
   citata_originali: |
     Savo ruožtu pagrindinis tikslas – Lietu-
     vos nepriklausomybės atkūrimas – skatino vienytis lietuvių diplomatus ir
@@ -529,7 +531,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107535
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 83."
   citata_originali: |
     Ryškiausias ypatumas – ypač aukšti ir
     liekni pagrindinio fasado bokštai. Bažnyčios su dviem grakščiais, skirtingai
@@ -549,7 +552,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 13."
   citata_originali: |
     Taigi vyko vieningos
     tautybės45 bei baltiškosios Lietuvos valstybės formavimosi procesas46, kurį sustabdė
@@ -571,7 +575,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 128."
   citata_originali: |
     Popiežius Martynas V, Konstan­
     cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė
@@ -592,7 +597,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107538
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 385-386"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 385-386."
   citata_originali: |
     Paskutinį testamentą ir paskutinę mūsų žemiau
     išreikštą valią pateikėme, išdėstėme, išreiškėme ir aprašė­
@@ -624,7 +630,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107539
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 333"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 333."
   citata_originali: |
     Ponas
     ir tėvonis. Šiuo raštu skelbiame visiems, kam dera žinoti,
@@ -656,7 +663,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107540
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 343."
   citata_originali: |
     Bet negalime karštai negirti to
     paties didžiai gerbiamo Kristuje tėvo pono Valerijono už są­
@@ -683,7 +691,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107542
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 114."
   citata_originali: |
     „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro
     valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės
@@ -701,7 +710,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107543
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 229."
   citata_originali: |
     Tai buvo kone vienintelis leidinys, be pertraukos net 17
     metų (nors ir nereguliariai) leistas Sovietų Sąjungoje. Nors „Kronika“ skirta
@@ -732,7 +742,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107544
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 78."
   citata_originali: |
     Aišku, aukštosios mokyklos poreikis brendo visuo-
     menėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-
@@ -750,7 +761,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107546
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 117."
   citata_originali: |
     Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį
     lotyniškąjį raidyną kirilika. Jei valdžia būtų leidusi lietuviškas pradžios
@@ -771,7 +783,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107547
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 228."
   citata_originali: |
     Sovietų valdžia siekė pakirsti katalikų dva-
     sininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje.
@@ -789,7 +802,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107548
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 61."
   citata_originali: |
     A. Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos
     diduomenė, neišplėtojusi lietuviškų raštijos tradicijų, o kartu atsisakydama
@@ -815,7 +829,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
@@ -836,7 +851,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107550
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 70-71"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 70-71."
   citata_originali: |
     Nuo 1387 m.
     LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik
@@ -857,7 +873,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107551
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 343."
   citata_originali: |
     Taigi mes nusprendėme taip ir padaryti,
     juolab kad šios apskritys mums turi būti perduotos tiktai
@@ -884,7 +901,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-107552
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 49."
   citata_originali: |
     Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
     ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
@@ -904,7 +922,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - id: c-166299
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 267."
   citata_originali: |
     Protestantizmo antplūdis Lietu-
     voje vis dėlto tebuvo laikinio pobūdžio. Tuo pat metu Vaka-
@@ -921,9 +940,9 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-021
 
 - id: c-184825
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 340"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 340."
   citata_originali: |
     Ypač įtaigi turėjo būti bažnyčiose skambanti muzika. Potridentinė Katalikų bažny-
     čia daug dėmesio skyrė giedojimui ir muzikinei pamaldų aplinkai. Vėlgi dėl šaltinių

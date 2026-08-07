@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e93623ee16bd93b68639d776"
+canonical_name: "P. Žostautaitė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. Žostautaitė"]
+sameAs: []
+canonical_biography: "Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­ mas jam 1848-1914 m. (AkMD, t."
 ---
 # P. Žostautaitė
 
@@ -63,7 +70,8 @@ media_all_json: |-
 - id: c-33102
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     S. Matulaitytė rašo apie astro­
     nomijos mokslo įvedimą Vilniaus universitete XVIII a. (AkMD,

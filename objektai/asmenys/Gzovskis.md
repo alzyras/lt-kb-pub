@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-35fb62b885f0f6accfb99ebc"
+canonical_name: "Gzovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gzovskis"]
+sameAs: []
+canonical_biography: "Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės 343 ## Puslapis 360 VILNIAUS MIESTO ISTORIJA// TOMAS karalienės Barboros apdarus, kuriuos Gzovskis saugoja, o vėliau ir kur kitur ir pas ką tik."
 ---
 # Gzovskis
 
@@ -49,7 +56,8 @@ Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir p
 - id: c-83886
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 359-360"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 359-360."
   citata_originali: |
     O atskirai jos didenybės Švedijos karalienės Kotrynos ir
     jos didenybės karalaitės Onos aprangai iš tos pinigų sumos,

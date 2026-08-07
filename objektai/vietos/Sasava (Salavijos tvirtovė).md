@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5a0c7e98b25c10a6c93382e"
+canonical_name: "Sasava (Salavijos tvirtovė)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sasava (Salavijos tvirtovė)"]
+sameAs: []
+canonical_biography: "Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo prie tiksliai nenustatytos upės. Gar siausia šios provincijos tvirtovė buvo Sasava, stovėjusi kažkokios upės pakrantėje, bet tai tiksliai nenustatyta."
+place_authority: true
+historical_names: []
 ---
 # Sasava (Salavijos tvirtovė)
 
@@ -66,7 +75,8 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
 - id: c-175622
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Ne Sarkės, o Šar­
     kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
@@ -91,7 +101,8 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
 - id: c-179402
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369-370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369-370."
   citata_originali: |
     Ne Sarkės, o Šar­
     kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­

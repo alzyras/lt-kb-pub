@@ -18,6 +18,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f931c12edac04f2e7345a032"
+canonical_name: "Žečpospolita"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žečpospolita"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Žečpospolita
 

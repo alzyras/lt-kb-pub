@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d60974e81bdd0da15b2730e0"
+canonical_name: "Dniestras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dniestras"]
+sameAs: []
+canonical_biography: "Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodami, per Dniestrą persikelti išdrįsta tik surinkę dideles pajėgas; todėl Jo Didenybė kazokams moka atlygį, nors ir labai nedidelį.“ CHOTINO MŪŠIS 1621 m."
+place_authority: true
+historical_names: []
 ---
 # Dniestras
 
@@ -78,7 +87,8 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
 - id: c-79661
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 169."
   citata_originali: |
     27.
     79
@@ -104,7 +114,8 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
 - id: c-79662
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 114."
   citata_originali: |
     Lietuviai kava-
     Ua

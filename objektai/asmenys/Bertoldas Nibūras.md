@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3dd6e50705c2dad59c42b859"
+canonical_name: "Bertoldas Nibūras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bertoldas Nibūras"]
+sameAs: []
+canonical_biography: "Bertoldas Nibūras apie pelazgų kolonijų paplitimą tvirtino kalbantis iš istorinio įsitikinimo, o ne remdamasis prielaida."
 ---
 # Bertoldas Nibūras
 
@@ -54,7 +61,8 @@ Bertoldas Nibūras apie pelazgų kolonijų paplitimą tvirtino kalbantis iš ist
 - id: c-174222
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
   citata_originali: |
     Šia prasme mūsų is­
     torija yra pernelyg jauna, nes, kiek siekia jos atmintis,

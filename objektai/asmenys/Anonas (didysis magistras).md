@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d44b6424f39a54727266893d"
+canonical_name: "Anonas (didysis magistras)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Anonas (didysis magistras)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį, pažadėdamas gausiai. Dusburgietis teigia, kad apie brolį Anoną, septintą Teutonų namų ordino didįjį magistrą Tuo metu septintu Teutonų namų ordino didžiuoju magistru buvo brolis Anonas, žmogus itin dievotas, daug gera padaręs ordinui ir šventajai žemei."
 ---
 # Anonas (didysis magistras)
 
@@ -95,7 +102,8 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
 - id: c-60714
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
     Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
 
@@ -116,7 +124,8 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
 - id: c-60715
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 234."
   citata_originali: |
     Apie brolį Anoną, septintą Teutonų namų ordino didįjį magistrą
 

@@ -52,7 +52,8 @@ Vartojamos formos: `ašvienio`.
 - id: c-09669
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 258"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 258."
   citata_originali: |
     Vargdienis, neturėdamas ašvienio arba javų, savo dirvą ar pievą kitam išnuomojo, už ką nuo antro paskui pusę javų ar šieno gavo.
   statusas: verified

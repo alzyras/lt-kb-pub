@@ -60,7 +60,8 @@ Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Ru
 - id: c-23664
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 38."
   citata_originali: |
     XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
     ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo

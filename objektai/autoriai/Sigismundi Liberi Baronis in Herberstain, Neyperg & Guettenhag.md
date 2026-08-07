@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-33b16ea8f838cf3f4d43a0ea"
+canonical_name: "Sigismundi Liberi Baronis in Herberstain, Neyperg & Guettenhag"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Sigismundi Liberi Baronis in Herberstain, Neyperg & Guettenhag"]
+sameAs: []
+canonical_biography: "p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Liberi Baronis in Herberstain, Neyperg & Guettenhag."
 ---
 # Sigismundi Liberi Baronis in Herberstain, Neyperg & Guettenhag
 
@@ -51,7 +58,8 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
 - id: c-41675
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
   citata_originali: |
     p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi
     Liberi Baronis in Herberstain, Neyperg & Guettenhag. Basileae: per loannem Oporinum,

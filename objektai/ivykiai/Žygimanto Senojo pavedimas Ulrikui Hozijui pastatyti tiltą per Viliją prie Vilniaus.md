@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-82951
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 402-403"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 402-403."
   citata_originali: |
     Kai mes ankstesniais metais svarstėme mūsų LDK val­
     dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus,

@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8c6c0340daec726a9e7f9a2f"
+canonical_name: "Klušinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Klušinas"]
+sameAs: []
+canonical_biography: "Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino, užėmė Maskvą."
+place_authority: true
+historical_names: []
 ---
 # Klušinas
 
@@ -59,7 +68,8 @@ Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino,
 - id: c-45144
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 120."
   citata_originali: |
     Dėl valdžios ėmė kovoti
     Abiejų Tautų valdovo Zigmanto Vazos re-

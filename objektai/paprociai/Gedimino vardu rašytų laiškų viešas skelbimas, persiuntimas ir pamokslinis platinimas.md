@@ -94,7 +94,8 @@ Nenurodyta
 - id: c-83136
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 107-108"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 107-108."
   citata_originali: |
     Panašių
     pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­
@@ -132,7 +133,8 @@ Nenurodyta
 - id: c-83137
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 89."
   citata_originali: |
     Kryžiuočiai tą antspaudą mums panieką reikš­
     dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­

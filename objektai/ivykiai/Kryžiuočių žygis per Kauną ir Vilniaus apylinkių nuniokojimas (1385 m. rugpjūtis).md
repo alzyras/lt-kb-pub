@@ -95,7 +95,8 @@ Nenurodyta
 - id: c-82893
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 57."
   citata_originali: |
     Vilnius, tiesa, turėdamas tvirtovėse labai stip­
     rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
@@ -117,7 +118,8 @@ Nenurodyta
 - id: c-82894
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 56-57"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 56-57."
   citata_originali: |
     40
 

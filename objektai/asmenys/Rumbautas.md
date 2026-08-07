@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1d12ceab29be007cbbd1b151"
+canonical_name: "Rumbautas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rumbautas"]
+sameAs: []
+canonical_biography: "Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­ raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­ imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam į."
 ---
 # Rumbautas
 
@@ -58,7 +65,8 @@ Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu
 - id: c-83827
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 231."
   citata_originali: |
     Tačiau šį sumanymą ir slaptus pasitarimus su Žygiman­
     tu sugebėta išlaikyti gilioje paslaptyje. Jogaila, kad greičiau

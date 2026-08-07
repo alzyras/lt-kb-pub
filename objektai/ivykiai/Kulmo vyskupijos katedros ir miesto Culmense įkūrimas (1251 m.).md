@@ -82,7 +82,8 @@ Nenurodyta
 - id: c-60184
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
   citata_originali: |
     Per 20 km  į šiaurę nuo Torunės yra Chelmža (Kulmsee), miestas prie to pat vardo
     ežero (Kulms See, dab. Chełmżyńskie jezioro). Gyvenvietė minima 1222 m. dokumente

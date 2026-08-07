@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f68105a0d72828d948778bb3"
+canonical_name: "Mantvydas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mantvydas"]
+sameAs: []
+canonical_biography: "Jogaila atėmė Vidimanto turtus iš jo žmonos bei giminaičių ir atidavė juos Mantvydui."
 ---
 # Mantvydas
 
@@ -52,7 +59,8 @@ Jogaila atėmė Vidimanto turtus iš jo žmonos bei giminaičių ir atidavė juo
 - id: c-169598
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 271."
   citata_originali: |
     Deja, Jogailos širdis, vis labiau tūžtanti ir keršto
     trokštanti, nenurimo. Jis įsakė ratu nukankinti Vidi-

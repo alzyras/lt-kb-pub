@@ -133,7 +133,8 @@ Nenurodyta
 - id: c-169036
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 398"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 398."
   citata_originali: |
     Niekam neprieštaraujant, Jerim Berdis, atgavęs val­
     džią, atsidėkojo Vytautui už geradarybę, atsiųsdamas
@@ -181,7 +182,8 @@ Nenurodyta
 - id: c-169038
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 399-400"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 399-400."
   citata_originali: |
     Prisi­
     jungus šioms tautoms, taip išaugsiančios valstybės

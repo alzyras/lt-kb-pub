@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a276bc999d4c7d9ca5265cac"
+canonical_name: "Stalupėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Stalupėnai"]
+sameAs: []
+canonical_biography: "kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų."
+place_authority: true
+historical_names: []
 ---
 # Stalupėnai
 
@@ -41,7 +50,8 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 - id: c-68679
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
   citata_originali: |
     Kamienne) ež.
     Stalupėnai (dab. Nesterovas)

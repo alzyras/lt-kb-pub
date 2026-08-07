@@ -44,6 +44,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-030ad4e2c2a4a2a0491e812b"
+canonical_name: "Varšuva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varšuva"]
+sameAs: []
+canonical_biography: "Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki 1564 m. vasario 22 d. (lietuviams išvažiavus, lenkų seimas dar posėdžiavo iki kovo 23 d.). Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių bajorams. Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą."
+place_authority: true
+historical_names: []
 ---
 # Varšuva
 
@@ -569,7 +578,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-24536
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 273."
   citata_originali: |
     Tiek Lietuvoj, tiek Lenkijoj vykdomoji valdžia priklausė
     karaliui. Jis turėjo būti bendrai renkamas Volos kaimo
@@ -587,7 +597,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155484
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 119."
   citata_originali: |
     1889–1890 m. lietuviškasis
     sąjūdis ir spauda diferencijavosi į
@@ -612,7 +623,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155486
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 127."
   citata_originali: |
     Kai
     kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
@@ -633,7 +645,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155488
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 455-456"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 455-456."
   citata_originali: |
     Karalius Steponas
 
@@ -661,7 +674,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155491
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 459"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 459."
   citata_originali: |
     In Anno 1572 ad Diem 17 Aprilis
     [1572 metais iki balandžio 17 dienos]
@@ -687,7 +701,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155492
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 54."
   citata_originali: |
     Pats autorius įvade sakėsi
     ne tik norįs duoti lotynų kalba vertą skaityti knygą, bet ir suteikti
@@ -704,7 +719,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155494
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 179."
   citata_originali: |
     Kadangi Vilniaus pripažinimo Lenkijai ultimatumas nelietė, kovo 19 die-
     ną Lietuva ultimatumą priėmė. Nors tūkstančiai karštakošių Lenkijos
@@ -726,7 +742,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155497
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 144."
   citata_originali: |
     ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
     Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
@@ -743,7 +760,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155498
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 105."
   citata_originali: |
     Išvaryti ir politiš-
     kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
@@ -766,7 +784,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155501
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     Tačiau vis nauji dokumen­
     tai vertė tolydžio perrašinėti ir taisyti rankraščio tekstą. Be to,
@@ -788,7 +807,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155503
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 348."
   citata_originali: |
     ## Puslapis 348
 
@@ -814,7 +834,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155504
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 462"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 462."
   citata_originali: |
     Jei kas pagal šį įsakymą arba skelbimą mūsų lietuviškos mo­
     netos imti nenorėtų, tuomet tarybą be jokio atidėjimo su­
@@ -837,7 +858,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155505
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 366."
   citata_originali: |
     Taip pat šį perrašytą
     testamentą mes kartą ir antrą, ir dar keliolika kartų perskai­
@@ -863,7 +885,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155507
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 97."
   citata_originali: |
     Su-
     kilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė
@@ -886,7 +909,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 366-367"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 366-367."
   citata_originali: |
     Norėdami, kad šis mūsų valios pareiški­
     mas greičiau pasiektų žmones, įsakėme tai perrašyti, kad ta­
@@ -925,7 +949,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155509
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 348."
   citata_originali: |
     Testamentum Domini Sigismundi Augusti Regis Poloniae.
     Actum Varsaviae. Anno salutis nostrae. 1571. Mensis Maij
@@ -946,7 +971,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155510
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 120."
   citata_originali: |
     Ekonominio augimo raidą skatino XIX a. viduryje
     pradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių
@@ -968,7 +994,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155512
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 72."
   citata_originali: |
     LDK, tu-
     rinti dešimt skirtingų konfesijų, XVI a. šiuo požiūriu yra lyderė, palyginti
@@ -988,7 +1015,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     Po 1830-1831 m. sukilimo, uždarius Vilniaus universitetą ir
     Rusijos administracijai pradėjus griežčiau kontroliuoti krašto vi­
@@ -1009,7 +1037,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155515
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     Be to,
     politiniai įvykiai kuriam laikui visiškai sustabdė istorijos leidi­
@@ -1031,7 +1060,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155517
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 143."
   citata_originali: |
     Maskvos sutartis turėjo ir alternatyvą. Kai lenkų daliniai, spaudžiami
     bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžio-
@@ -1050,7 +1080,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155518
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 94."
   citata_originali: |
     Rimtesnės kautynės vyko birželio 11 dieną prie Myro,
     tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos. Liepos pabaigoje
@@ -1072,7 +1103,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155519
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 145-146"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 145-146."
   citata_originali: |
     apeiti Vilniaus temą. Lietuviai federacijos
     principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepa-
@@ -1093,7 +1125,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-155520
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 178."
   citata_originali: |
     Kaune atsakomąja kalba A. Smetona užvėrė duris kom-
     promisui. Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
@@ -1115,7 +1148,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-175978
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 284-285"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 284-285."
   citata_originali: |
     **Seimų vieta.** Liublino seimas seimų vieta paskyrė Varšuvą
     arba kurį nors kitą Lenkijos miestą. Tačiau lietuviai visą laiką
@@ -1134,7 +1168,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - id: c-175979
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 309."
   citata_originali: |
     Elekcijos laukas atrodė, kaip dviejų priešų karo sto-
     vykla. Lietuviai irgi atvažiavo į Varšuvą, tačiau į elekciją nėjo:
@@ -1151,9 +1186,9 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - t-028
 
 - id: c-185016
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 147"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 147."
   citata_originali: |
     Be to, kai kurie Kauno miestui skirti raštai buvo paskel-
     biami Gdanske, Liubline, Lvove, Marienburge, Petrikave, Ščitne. Asesorių teismas
@@ -1168,9 +1203,10 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - t-029
 
 - id: c-185746
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 19"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 19."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 19."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

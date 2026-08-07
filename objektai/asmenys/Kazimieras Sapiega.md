@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bcbb925be095f0d7d26753d6"
+canonical_name: "Kazimieras Sapiega"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras Sapiega"]
+sameAs: []
+canonical_biography: "1644 m. iš vicekanclerio Kazimiero Sapiegos fundacijos buvo įsteigtas ir teisių fakultetas;."
 ---
 # Kazimieras Sapiega
 
@@ -66,7 +73,8 @@ media_all_json: |-
 - id: c-42076
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 154."
   citata_originali: |
     Visas miestas buvo intensyviai apšaudo-
     mas stambaus kalibro rusų artilerijos.

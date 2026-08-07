@@ -38,25 +38,23 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
 <a id="claim-t-193049"></a>
 - t-001
   teiginys: "„Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vilniaus archeologijos komisija|Vilniaus archeologijos komisija]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Krokuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-175817
-    - c-175818
 
 <a id="claim-t-193050"></a>
 - t-002
   teiginys: "„Gazeta Warszawska“ buvo svarbi M. Balinskio publicistinės literatūros dalis."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pradinis teiginys negrabiai suformuluotas; citata palaiko glaustesnį enciklopedinį sakinį."
   susije_objektai: "mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-175817
     - c-175818
 
 <a id="claim-t-194677"></a>
@@ -77,7 +75,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
 - id: c-175817
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 15."
   citata_originali: |
     Iki pat gyvenimo pabaigos M. Balinskis liko kritinio meto­
     do, kurį jam dar jaunystėje įskiepijo istorikas J. Lelevelis, šali­
@@ -96,12 +95,12 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-175818
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 15."
   citata_originali: |
     Iki pat gyvenimo pabaigos M. Balinskis liko kritinio meto­
     do, kurį jam dar jaunystėje įskiepijo istorikas J. Lelevelis, šali­
@@ -119,13 +118,13 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-177074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 10."
   citata_originali: |
     Yra žmogus Dievo siųstas iš dangaus,
     Jo lietuviškoje krūtinėje šventoji ugnis

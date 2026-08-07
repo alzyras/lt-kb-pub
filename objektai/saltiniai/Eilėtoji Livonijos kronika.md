@@ -162,7 +162,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 <a id="claim-t-184609"></a>
 - t-007
   teiginys: "Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -176,7 +176,6 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eilėtoji Livonijos kronika\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
-    - c-167969
     - c-167970
 
 <a id="claim-t-197017"></a>
@@ -220,7 +219,8 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 - id: c-43241
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 33."
   citata_originali: |
     Mūšis
 
@@ -239,7 +239,8 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 - id: c-43243
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 50."
   citata_originali: |
     Matyt, nutarę vengti lemiamo mūšio,
     Algirdas ir Dmitrijus sudarė taiką („Dievas
@@ -270,7 +271,8 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 - id: c-156037
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Lietuvių pajėgos
 
@@ -301,7 +303,8 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 - id: c-156038
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 134."
   citata_originali: |
     Beveik trečdalį savo
     kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­
@@ -322,7 +325,8 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 - id: c-167969
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 99."
   citata_originali: |
     Kai
     Jo k a ra i k a rtu su Li-
@@ -348,12 +352,12 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
-    - t-007
 
 - id: c-167970
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
   citata_originali: |
     Vis dėl­
     to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
@@ -377,7 +381,8 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 - id: c-179003
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
     daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir

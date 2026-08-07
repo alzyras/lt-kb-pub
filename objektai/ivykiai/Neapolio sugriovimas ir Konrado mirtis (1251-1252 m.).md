@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-63025
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232."
   citata_originali: |
     36. Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,
                                                 mirtį

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-58e1f2d38fbb216fec1c41d6"
+canonical_name: "Orthus ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Orthus ežeras"]
+sameAs: []
+canonical_biography: "Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas dievu."
+place_authority: true
+historical_names: []
 ---
 # Orthus ežeras
 
@@ -55,7 +64,8 @@ Narbutas nurodo Lasickio teiginį, kad Žemaitijoje Orthus ežeras buvo laikomas
 - id: c-171924
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 231."
   citata_originali: |
     Šventų ežerų yra taip pat Nemuno kairiajame krante,
     kur ir miestelis [Šventežeris] turi tokį vardą.

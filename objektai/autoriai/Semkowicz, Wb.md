@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ec0923336e4d47f2c4d10c40"
+canonical_name: "Semkowicz, Wb"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Semkowicz, Wb"]
+sameAs: []
+canonical_biography: "Semkowicz, Wb.: Hanul, namiestnik wileński i jego ród , AW, t."
 ---
 # Semkowicz, Wb
 
@@ -53,7 +60,8 @@ Semkowicz, Wb.: Hanul, namiestnik wileński i jego ród , AW, t.
 - id: c-33139
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 286."
   citata_originali: |
     -— (”) _Vitoldiana_ , AW, t. 7, 1930, 494-504 p. (Dubysos
     sutartys). — Prochaska, A. : _Upadek Kiejstuta_ , KH, t. 23, 1909, 493-

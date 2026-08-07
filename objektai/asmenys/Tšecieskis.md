@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43eb8df9b4517a52daad4201"
+canonical_name: "Tšecieskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tšecieskis"]
+sameAs: []
+canonical_biography: "Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisant garbingiausių Lietuvos giminių prie­ lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­ telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos."
 ---
 # Tšecieskis
 
@@ -50,7 +57,8 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 - id: c-83850
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 309."
   citata_originali: |
     Taip pat narsiam jo broliui Gabrieliui Be­
     kešui po Astiko Varšuvos seime pagal paveldėjimo teisę bu­

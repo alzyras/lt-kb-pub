@@ -50,7 +50,8 @@ Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­ tauto klaid
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 205."
   citata_originali: |
     Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­
     tauto klaida, tai vis tik norėtųsi manyti, kad jis ją padarė ne iš

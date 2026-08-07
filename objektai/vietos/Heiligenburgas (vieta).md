@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a6dfe2213af6bf9285737e31"
+canonical_name: "Heiligenburgas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Heiligenburgas","Heiligenburgas (vieta)"]
+sameAs: []
+canonical_biography: "Žiemai atėjus, traukė pats su kariauna per pašalusias balas taip pat į Jelgavą, nuo kurios netoli ant taip vadinamo švento kalno įkūrė pilį, vadinamą Heiligenburgu, ir tenai įdėdamas 300 rimtų vyrų apveizėjo dar mi talu ir ginklu, kurią vienok žemaičiai."
+place_authority: true
+historical_names: []
 ---
 # Heiligenburgas (vieta)
 
@@ -46,9 +55,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-184496
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 461"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 461."
   citata_originali: |
     Paskiaus mistras Šauerburgas sutarė su savo tar­
     nais brostviais naują pilį Žemgaliuose įkurti, todėl

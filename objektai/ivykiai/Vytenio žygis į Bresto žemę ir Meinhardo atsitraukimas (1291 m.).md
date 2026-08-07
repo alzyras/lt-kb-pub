@@ -120,7 +120,8 @@ Nenurodyta
 - id: c-63840
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
   citata_originali: |
     Apie Lenkijos žemės apiplėšimą
     Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele
@@ -145,7 +146,8 @@ Nenurodyta
 - id: c-178992
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­
     nių nužudymą bei paėmimą į nelaisvę

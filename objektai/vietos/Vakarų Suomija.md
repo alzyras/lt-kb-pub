@@ -28,6 +28,15 @@ media_all_json: |-
 tags:
   - regionas
   - vieta
+entity_id: "ent-0506bda1515e41be7e30dd1c"
+canonical_name: "Vakarų Suomija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vakarų Suomija","vakarų Suomijoj"]
+sameAs: []
+canonical_biography: "Vakarų Suomija šiame šaltinyje minima kaip Augusto Roberto Niemio gimimo regionas."
+place_authority: true
+historical_names: []
 ---
 # Vakarų Suomija
 

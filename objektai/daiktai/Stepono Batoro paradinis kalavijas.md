@@ -88,7 +88,8 @@ Nenurodyta
 - id: c-12243
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 17."
   citata_originali: |
     Lietuvos ir Lenkijos valdovo Stepono Batoro pa-
     radinis kalavijas, pagamintas pergalingoms Lietuvių ir jų

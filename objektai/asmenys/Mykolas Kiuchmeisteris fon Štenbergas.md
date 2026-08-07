@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2b6f429ccfac684680bec0f0"
+canonical_name: "Mykolas Kiuchmeisteris fon Štenbergas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Kiuchmeisteris fon Štenbergas"]
+sameAs: []
+canonical_biography: "1413 m. sausio 28 d. derybose Salyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu Mykolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys."
 ---
 # Mykolas Kiuchmeisteris fon Štenbergas
 
@@ -80,7 +87,8 @@ media_all_json: |-
 - id: c-21905
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 49."
   citata_originali: |
     Tačiau Vytauto bažnytinė politika padėjo pagrindus tolesniam Lietuvos
     krikščionėjimui.

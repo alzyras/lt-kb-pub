@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c28610f90c3f159c3d7ba33a"
+canonical_name: "Ananis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ananis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą Tų pačių metų rugsėjo mėnesio pradžioje Ananyje, būtent savo gimtinėje, įkalinamas popiežius Bonifacas, o visas bažnyčios turtas išnešiojamas."
+place_authority: true
+historical_names: []
 ---
 # Ananis
 
@@ -49,7 +58,8 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, suėmimą ir turtų iššva
 - id: c-59311
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
   citata_originali: |
     95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
 

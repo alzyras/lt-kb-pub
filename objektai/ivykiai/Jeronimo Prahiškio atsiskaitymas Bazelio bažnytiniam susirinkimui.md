@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-172517
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
   citata_originali: |
     Žyniai, paklausti, ką reiškiąs tas garbini­
     mas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,

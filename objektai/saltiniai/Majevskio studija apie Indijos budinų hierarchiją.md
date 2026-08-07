@@ -62,7 +62,8 @@ Narbutas skaitytoją nukreipia į Majevskio studiją apie Indijos budinų hierar
 - id: c-173430
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 281."
   citata_originali: |
     5 Skaityk pono Majevskio studiją apie Indijos budinu hierarchiją
     (Zbior rozpraw. -  T. I. -  Cz. I. -  Warszawa, 1827)*.

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-81f47a8cf069d99112126c04"
+canonical_name: "Brunonas Bonifacijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Brunonas Bonifacijus"]
+sameAs: []
+canonical_biography: "Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vystėsi iš visų baltų genčių, todėl 1009 m. Vakarų misionierius, būsimasis šventasis Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą. Brunono Bonifacijaus misija ir Lietuvos atradimas liko istorijos fragmentas, nes po to beveik 200 metų Lietuva neminima. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi."
 ---
 # Brunonas Bonifacijus
 
@@ -98,7 +105,8 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
 - id: c-21633
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 26."
   citata_originali: |
     Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai
     vystėsi iš visų baltų genčių, todėl 1009 m. Vakarų misionierius, būsima-
@@ -117,7 +125,8 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
 - id: c-21634
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 26."
   citata_originali: |
     Šis
     faktas rodytų, kad tuo metu nebuvo ypač didelio atotrūkio tarp Lietuvos
@@ -137,7 +146,8 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
 - id: c-21635
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 26."
   citata_originali: |
     Didžiausia tiki-
     mybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai XI a. vidu-

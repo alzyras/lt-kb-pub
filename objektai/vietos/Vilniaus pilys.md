@@ -35,6 +35,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b2f3dbe393a7c6c60d14e6c6"
+canonical_name: "Vilniaus pilys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus pilis pilys","Vilniaus pilys"]
+sameAs: []
+canonical_biography: "12 000 žmonių vedini, pakeliui sudeginę Trakų mies­ tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti, 1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­ mis prie Vilniaus. Re­ gis, iš jo kilusi Hanulu giminė, kurių 36 ## Puslapis 53 I KNYGA Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­ gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. 1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus pilys
 
@@ -282,7 +291,8 @@ media_all_json: |-
 - id: c-177532
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 251."
   citata_originali: |
     Tačiau netrukus į Vilnių at­
     vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio
@@ -307,7 +317,8 @@ media_all_json: |-
 - id: c-177533
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 39."
   citata_originali: |
     Savo
     ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
@@ -329,7 +340,8 @@ media_all_json: |-
 - id: c-177534
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 292-294"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 292-294."
   citata_originali: |
     276
 
@@ -358,7 +370,8 @@ media_all_json: |-
 - id: c-177535
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 238."
   citata_originali: |
     Trakuose jo sušauktas seimas, turėjęs parengti pasku­
     tinį smūgį Rusios ir Lietuvos bajorijai, paspartino tą kruviną
@@ -381,7 +394,8 @@ media_all_json: |-
 - id: c-177536
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 249."
   citata_originali: |
     Nepagelbėjo jam ir iš Kroku­
     vos pakviestas tuose kraštuose pagarsėjęs ano meto alche­
@@ -415,7 +429,8 @@ media_all_json: |-
 - id: c-177537
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 52-53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 52-53."
   citata_originali: |
     T. VII, p. 370-374. Re­
     gis, iš jo kilusi Hanulu giminė, kurių
@@ -444,7 +459,8 @@ media_all_json: |-
 - id: c-177538
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 354."
   citata_originali: |
     Tad šių, mūsų valdų, ir dvarų, taip pat
     ir kito judamo ir nejudamo turto, kurį turime ir valdome,
@@ -475,7 +491,8 @@ media_all_json: |-
 - id: c-177539
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 250-251"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 250-251."
   citata_originali: |
     681-687, plačiai ir ganėtinai žais-
     karaliaus mirties sėdėjo kalėjime Vii- mingai eilėmis aprašo šią svarbią
@@ -503,7 +520,8 @@ media_all_json: |-
 - id: c-177540
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 292"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 292."
   citata_originali: |
     Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
     čios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus
@@ -528,7 +546,8 @@ media_all_json: |-
 - id: c-177541
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42."
   citata_originali: |
     Be to, dar nerimą kėlė Gedimino valia ra­
     dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
@@ -552,7 +571,8 @@ media_all_json: |-
 - id: c-177542
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 286."
   citata_originali: |
     Karalius Žygimantas mylėjo mokslus, pats gavęs gerą iš­
     silavinimą, rėmė visa tai, kas tik galėjo prisidėti prie jų au­
@@ -574,7 +594,8 @@ media_all_json: |-
 - id: c-177543
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 47."
   citata_originali: |
     12 000 žmonių vedini, pakeliui sudeginę Trakų mies­
     tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti,
@@ -596,7 +617,8 @@ media_all_json: |-
 - id: c-177544
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 35-36"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 35-36."
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
     je buvo keletas tokių šventų vieto­
@@ -633,7 +655,8 @@ media_all_json: |-
 - id: c-177545
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 330-331"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 330-331."
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau
     žaibus,
@@ -671,7 +694,8 @@ media_all_json: |-
 - id: c-177546
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248-249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248-249."
   citata_originali: |
     Tačiau šis karaliaus nurodymas gal taip greitai ne­
     būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
@@ -700,7 +724,8 @@ media_all_json: |-
 - id: c-177547
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 279-280"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 279-280."
   citata_originali: |
     263
 
@@ -730,7 +755,8 @@ media_all_json: |-
 - id: c-177548
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 300."
   citata_originali: |
     Apie tai sužinojęs Vilniaus vysku­
     pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­

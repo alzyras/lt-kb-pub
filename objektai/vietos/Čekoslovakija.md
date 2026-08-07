@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-679d663cbf3bbf85d3979b1e"
+canonical_name: "Čekoslovakija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Čekoslovakija"]
+sameAs: []
+canonical_biography: "S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryta tam tikrose sutartyse su Lenkija, Čekoslovakija ir t.t."
+place_authority: true
+historical_names: []
 ---
 # Čekoslovakija
 
@@ -59,7 +68,8 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
 - id: c-03146
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 591"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 591."
   citata_originali: |
     klausimą atidėti, ligi sąlygos leis jį galutinai išspręsti, o tuo
     tarpu Pabaltijo valstybėms parodė savo palankumą, leisdamos

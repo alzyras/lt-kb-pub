@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47b713e4d20567d3e9adb8f6"
+canonical_name: "Andrius Volanas Volanus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Andrius Volanas Volanus"]
+sameAs: []
+canonical_biography: "Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu, visą savo gy­ venimą buvęs uoliausias reformatų idėjų skleidėjas Vilniu­ je ir pavojingiausias katalikų Bažnyčios pagrindų griovėjas. Volanus knyga, atspausdinta šioje spaustucontra Skargae missam. Lib."
 ---
 # Andrius Volanas Volanus
 
@@ -78,7 +85,8 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 - id: c-84030
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 310."
   citata_originali: |
     Vilniuje, Kunigaikščio Mikalojaus 65
     Radvilos spaustuvėje, 1576, in 4to, Ia- J o h. L a s i c i u s Apologet, advers.
@@ -95,7 +103,8 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 - id: c-84031
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 300."
   citata_originali: |
     Mykolo bažnyčia buvo
     išmūryti didieji maldos namai. Tai iš ten kilo anas Andrius

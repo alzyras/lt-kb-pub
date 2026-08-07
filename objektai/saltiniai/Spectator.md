@@ -49,7 +49,8 @@ Anglijoje leidžiamo žurnalo Spectator tradicijas.
 - id: c-84455
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 7."
   citata_originali: |
     Pavyzdžiui, XII šubravcų kodekso
     straipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­

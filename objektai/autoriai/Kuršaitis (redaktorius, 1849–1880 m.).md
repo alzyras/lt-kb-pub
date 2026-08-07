@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-00620b4465509394637accb6"
+canonical_name: "Kuršaitis (redaktorius, 1849–1880 m.)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kuršaitis (redaktorius, 1849–1880 m.)"]
+sameAs: []
+canonical_biography: "Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiriami darbai „Keleivis“, lietuvių kalbos gramatika ir kiti darbai."
 ---
 # Kuršaitis (redaktorius, 1849–1880 m.)
 
@@ -104,7 +111,8 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
 - id: c-13625
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 634"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 634."
   citata_originali: |
     Lietuvybės gynėjai,
     prašydami neskriausti lietuvių, visada rėmėsi ta jų ištikimybe
@@ -125,7 +133,8 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
 - id: c-13626
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 636"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 636."
   citata_originali: |
     Į Prū-
     sijos parlamentą rinkimai buvo taip sutvarkyti, kad lietuviams
@@ -146,7 +155,8 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
 - id: c-13628
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 638-639"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 638-639."
   citata_originali: |
     Tai buvo 1832 m. pradėtas leisti
     misijų laikraštis „Nusidavimai apie Evangelijos

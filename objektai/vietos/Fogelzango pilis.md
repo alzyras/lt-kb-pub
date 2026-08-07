@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2584ef84f604db1c9461f074"
+canonical_name: "Fogelzango pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Fogelzango pilis"]
+sameAs: []
+canonical_biography: "Čia jie gavo iš Konrado žemių su Niešavos pi- laite, o patys pasista- tė Fogelzango pilį. žemių su Niešavos pi- laite, o patys pasista- tė Fogelzango pilį."
+place_authority: true
+historical_names: []
 ---
 # Fogelzango pilis
 
@@ -58,7 +67,8 @@ media_all_json: |-
 - id: c-71239
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 59."
   citata_originali: |
     1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
     Čia jie gavo iš Konrado

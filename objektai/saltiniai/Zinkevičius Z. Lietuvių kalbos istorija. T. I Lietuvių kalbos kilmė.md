@@ -58,7 +58,8 @@ Dusburgietis teigia, kad zinkevičius Z.
 - id: c-62018
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 277"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 277."
   citata_originali: |
     Zinkevičius Z. Lietuvių kalbos istorija. T. I: Lietuvių kalbos kilmė.—V., 1984.
   citata_rodoma: "Zinkevičius Z. Lietuvių kalbos istorija. T. I: Lietuvių kalbos kilmė.—V., 1984."

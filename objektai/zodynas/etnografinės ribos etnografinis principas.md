@@ -38,7 +38,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 <a id="claim-t-101580"></a>
 - t-001
   teiginys: "Delegacija derybose dėl sienų turėjo remtis etnografiniu principu ir daryti būtiniausias ekonomines korektyvas."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -63,7 +63,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 <a id="claim-t-101582"></a>
 - t-003
   teiginys: "1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1917 m."
@@ -126,7 +126,8 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 - id: c-24820
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 133."
   citata_originali: |
     Konferencija, į kurią lenkų dvarininkai nebuvo pakviesti,
     nes ji vadinta lietuvių, vyko rugsėjo 18–22 dienomis Vilniaus miesto tea-
@@ -150,7 +151,8 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 - id: c-24821
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 134."
   citata_originali: |
     Reali valdžia Tarybai nebuvo suteikta, tad ji ėmėsi sunkaus
     vaidmens – tarpininkės tarp lietuvių tautos ir Oberosto, stengdamasi pa-
@@ -176,7 +178,8 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 - id: c-24822
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     Lietuvos delegacijai vadovavo A. Voldemaras, joje
     dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Domi-
@@ -200,7 +203,8 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 - id: c-166815
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 133."
   citata_originali: |
     Konferencijoje dominavo
     kunigai – 66, valstiečiai – 65 ir inteligentai – 59.
@@ -227,7 +231,8 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 - id: c-166816
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 138."
   citata_originali: |
     Memoran-
     dumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį
@@ -254,7 +259,8 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 - id: c-176278
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 131."
   citata_originali: |
     Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
     valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo

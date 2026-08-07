@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f1a8aec66a2b9eadb953fc6f"
+canonical_name: "Apylaukė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Apylaukė"]
+sameAs: []
+canonical_biography: "atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gineičiais bei Apylauke jis savo ugnimi išblaškė prasiveržusių želigovskininkų kavalerijos padalinius."
+place_authority: true
+historical_names: []
 ---
 # Apylaukė
 
@@ -79,7 +88,8 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
 - id: c-76334
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 204."
   citata_originali: |
     Spalio 10 d. traukinys sugrįžo į Kauną, kur greitai buvo įrengti nauji kulkosvaidžių va-
     gonai, suremontuoti ir patobulinti mūšiuose dalyvavę traukinio vagonai. Lapkričio 21 d.

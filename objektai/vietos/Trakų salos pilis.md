@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6ac4ae890c595108f357a383"
+canonical_name: "Trakų salos pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trakų salos pilis","Trakų salos pilis (pilis)"]
+sameAs: []
+canonical_biography: "Antrame plane matyti Trakų salos pilis."
+place_authority: true
+historical_names: []
 ---
 # Trakų salos pilis (pilis)
 
@@ -59,7 +68,8 @@ Antrame plane matyti Trakų salos pilis.
 - id: c-40460
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     Antrame plane matyti Trakų salos pilis. Baigta
     statyti 1409m. Abi pilys sujungtos mediniais tiltais

@@ -59,7 +59,8 @@ media_all_json: |-
 - id: c-46907
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 186."
   citata_originali: |
     **3. Bažnyčios suvažiavimas Bazely ir bažnytinės unijos**
         **klausimas**

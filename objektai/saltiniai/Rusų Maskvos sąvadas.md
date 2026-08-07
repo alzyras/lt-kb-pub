@@ -70,7 +70,8 @@ Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokieči
 - id: c-41738
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi:
     „atėjo vokiečiai prie Vilniaus miesto prieš Vytautą, ir buvo tarp jų
@@ -92,7 +93,8 @@ Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokieči
 - id: c-167092
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Besitraukiantys kryžiuočiai ir jų talkininkai, Vytauto ir jo
     karių persekiojami, sunkiai kirtosi kelią per pakelės užtvaras ir su

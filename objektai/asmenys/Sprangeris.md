@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb39fc2e45c722ef787b12a8"
+canonical_name: "Sprangeris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sprangeris"]
+sameAs: []
+canonical_biography: "Sprangerio vadovaujamas dalinys, veikiantis pagal atskirą įsakymą, turėjo užimti ŠimoniųKupiškio liniją ir apsaugoti Ukmergės rinktinės kairįjį sparną."
 ---
 # Sprangeris
 
@@ -51,7 +58,8 @@ Sprangerio vadovaujamas dalinys, veikiantis pagal atskirą įsakymą, turėjo u�
 - id: c-44512
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 185."
   citata_originali: |
     Be šių pajėgų, saksų karin.
     Sprangerio vadovaujamas

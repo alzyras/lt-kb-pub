@@ -210,7 +210,8 @@ Nenurodyta
 - id: c-11907
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 23."
   citata_originali: |
     1236 m. rugsėjį į Lietuvą įžengusios
     didžiulės tarptautinės kryžeivių pajėgos,
@@ -234,7 +235,8 @@ Nenurodyta
 - id: c-11908
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 25."
   citata_originali: |
     „Po daugelio garsių ir laimingų kovų su netikėliais magistras Volkvinas su kariuomene
     žygiavo į netikėlių lietuvių kraštą kartu su Haseldorpo ir ponu Donnenbergo grafu, ir
@@ -252,7 +254,8 @@ Nenurodyta
 - id: c-11909
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 24."
   citata_originali: |
     Ordino sutriuškinimas buvo toks stiprus,
     kad iš vokiečių jungo išsivadavo Rytinė
@@ -271,7 +274,8 @@ Nenurodyta
 - id: c-11910
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 25."
   citata_originali: |
     Ties Šiauliais suduotas smūgis ne tik
     Kalavijuočių ordinui, bet ir popiežiaus
@@ -297,7 +301,8 @@ Nenurodyta
 - id: c-66984
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 64."
   citata_originali: |
     Kryžiaus karas buvo paskelbtas, ir į Livoniją atvyko daugy-
     bė Europos riterių. 1236 m. kalavijuočiai su svečiais įsiveržė į Lie-
@@ -315,7 +320,8 @@ Nenurodyta
 - id: c-66986
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 410"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 410."
   citata_originali: |
     Sandomierius 213, 217, 269, 286
     Sangava, bajoras 368
@@ -347,7 +353,8 @@ Nenurodyta
 - id: c-66987
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 175."
   citata_originali: |
     Vėl pasitelkę jungtinę vietinių tautų kariuomenę ir gavę
     Vokietijos kryžininkų talkos, riteriai suruošė didelį žygį į šiaurinę
@@ -368,7 +375,8 @@ Nenurodyta
 - id: c-66988
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 64."
   citata_originali: |
     Iš visos jų kariuomenės, kaip rašo
     kronikos, grįžę namo vos kas dešimtas karys.

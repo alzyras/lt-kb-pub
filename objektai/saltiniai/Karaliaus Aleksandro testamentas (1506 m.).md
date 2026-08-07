@@ -93,7 +93,8 @@ Nenurodyta
 - id: c-84170
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 384-385"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 384-385."
   citata_originali: |
     Quem quidem vitae spiritum
     368
@@ -136,7 +137,8 @@ Nenurodyta
 - id: c-84172
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 389"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 389."
   citata_originali: |
     ## Puslapis 389
 
@@ -181,7 +183,8 @@ Nenurodyta
 - id: c-176812
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 383-384"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 383-384."
   citata_originali: |
     Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui
     ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems

@@ -38,7 +38,7 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 <a id="claim-t-19773"></a>
 - t-001
   teiginys: "1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per užimtą radiją paskelbė apie Laikinąją vyriausybę."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1941 m."
@@ -99,7 +99,8 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 - id: c-22479
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 196."
   citata_originali: |
     LAF programoje ir kituose dokumentuose ne-
     išvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF progra-
@@ -125,7 +126,8 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 - id: c-22480
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 196."
   citata_originali: |
     Daugumą
     partizanų sudarė jauni ir vidutinio amžiaus lietuviai: inteligentai, ūkinin-
@@ -146,7 +148,8 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 - id: c-22481
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 197."
   citata_originali: |
     Pati
     LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padė-
@@ -168,7 +171,8 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 - id: c-176221
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 197."
   citata_originali: |
     Taip nacių okupuotoje Lietuvoje
     baigėsi legalių lietuvių organizacijų veikla.

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-37ee5d00c515f6278c2fdb13"
+canonical_name: "Gaškaitė N"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Gaškaitė N"]
+sameAs: []
+canonical_biography: "Gaškaitė N."
 ---
 # Gaškaitė N
 
@@ -61,7 +68,8 @@ Gaškaitė N.
 - id: c-20733
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006.
   citata_rodoma: "Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006."

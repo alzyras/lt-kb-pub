@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aa150cc35ce9c3d6c5b5175f"
+canonical_name: "Saladinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Saladinas"]
+sameAs: []
+canonical_biography: "1409 m. Vytautas artimose totorių žemėse įkurdino jam paklusnų chaną Saladiną, vyriausią Tochtamyšo sūnų. Saladinas citatoje vadinamas Tochtamišo sūnumi ir ištikimu Lietuvos sąjungininku, po kurio mirties įpėdinis Kerimberdėjus nepakluso Vytautui. Saladinas, Tochtamyšo sūnus, buvo sultonas ir ištikimas Lietuvos sąjungininkas."
 ---
 # Saladinas
 
@@ -147,7 +154,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 158."
   citata_originali: |
     Nepavykęs Vorsklos mūšis kuriam laikui buvo
     sustabdęs šį Vytauto įsigalėjimą Rusų pietuose. Bet jau 1409
@@ -166,7 +174,8 @@ media_all_json: |-
 - id: c-79117
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166."
   citata_originali: |
     Tačiau Vilniaus vyskupas Petras tam
     prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
@@ -201,7 +210,8 @@ media_all_json: |-
 - id: c-176600
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 179."
   citata_originali: |
     Mat, daug buvo
     Ordos didžiųjų chanų, tarnaujančių jo rūmuose. Ir
@@ -221,7 +231,8 @@ media_all_json: |-
 - id: c-176601
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 179."
   citata_originali: |
     O tas chanas,
     kur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­

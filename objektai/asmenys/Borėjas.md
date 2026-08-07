@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b7b486f8ea7b2cad44996cd0"
+canonical_name: "Borėjas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Borėjas"]
+sameAs: []
+canonical_biography: "Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žilos senovės šiaurės krašto valdovas. Graikų padavimuose Borėjas buvo karalius ir įžymus krašto į šiaurę nuo Graikijos valdovas, kurio dukra Boristenė pagimdė Targitą."
 ---
 # Borėjas
 
@@ -76,7 +83,8 @@ Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žil
 - id: c-174139
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 37."
   citata_originali: |
     Apie šį sausumos iškilimą
     dar kalbėsime ir pateiksime kai kurių įrodymų; čia tik
@@ -98,7 +106,8 @@ Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žil
 - id: c-174140
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 44."
   citata_originali: |
     Si tauta buvo didelė ir galinga, ją
     valdė karaliai, ji turėjo savo įstatymų, mūrinių pilių ir

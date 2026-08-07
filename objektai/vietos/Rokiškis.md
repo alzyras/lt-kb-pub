@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c27d70f859fc88c5b15abd89"
+canonical_name: "Rokiškis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rokiškis"]
+sameAs: []
+canonical_biography: "Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi."
+place_authority: true
+historical_names: []
 ---
 # Rokiškis
 
@@ -59,7 +68,8 @@ Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėž
 - id: c-45307
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 180-181"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 180-181."
   citata_originali: |
     Buvo sukurtas
     generalinis Lietuvos teritorijos nuo bolše-

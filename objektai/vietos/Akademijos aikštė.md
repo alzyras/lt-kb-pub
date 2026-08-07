@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-62661b31c0b84e111405303f"
+canonical_name: "Akademijos aikštė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Akademijos aikštė","Akademijos aikštės","Akademijos keturkampė aikštė","Akademijos keturkampės aikštės"]
+sameAs: []
+canonical_biography: "C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, Knygyno bei kitos paskirties pastatais Akademijos aikštė - netaisyklingas ketvirtainis, iš vie­ nos pusės išsišaunančios bažnyčios, iš kitos, nuo vartų, - kolegijos sienų, iš trečio ir. Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766 metais Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­ donųjų auksinų."
+place_authority: true
+historical_names: []
 ---
 # Akademijos aikštė
 
@@ -72,7 +81,8 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
 - id: c-81856
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 202."
   citata_originali: |
     Iš Joniškio - neturtingiems studentams kasdien Olia Cha-
     ritatis [labdaringi pietūs] ir duonos kepalas.
@@ -97,7 +107,8 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
 - id: c-81857
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 191-192"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 191-192."
   citata_originali: |
     Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d.
     buvo paskelbta Maloningosios Dievo Motinos brolijos įkū­

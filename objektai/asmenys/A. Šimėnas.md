@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dee069a98c8b3ad1efba3be5"
+canonical_name: "A. Šimėnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. Šimėnas"]
+sameAs: []
+canonical_biography: "Šimėnui pasitraukti į pogrindį, pralaukti porą = dienų ir tada išlįsti (A."
 ---
 # A. Šimėnas
 
@@ -50,7 +57,8 @@ media_all_json: |-
 - id: c-44254
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 259."
   citata_originali: |
     „Tragiškiausia buvo sausio 13-14-osios naktis, o ne sausio 12-13-osios, kai mes dar ne
     viską suvokėme. 13-osios vakare įvyko AT posėdis, kuriame V. Landsbergis pasakė atsis-

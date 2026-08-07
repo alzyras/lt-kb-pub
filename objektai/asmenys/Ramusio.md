@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a992aa6d95649bea61fde364"
+canonical_name: "Ramusio"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ramusio"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto teigimu, italų Rytų senovės tyrinėtojas Ramusio įrodinėjo asų, arba osetinų, giminystę su senovės alanais."
 ---
 # Ramusio
 
@@ -54,7 +61,8 @@ Teodoro Narbuto teigimu, italų Rytų senovės tyrinėtojas Ramusio įrodinėjo 
 - id: c-174391
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 66."
   citata_originali: |
     68
 

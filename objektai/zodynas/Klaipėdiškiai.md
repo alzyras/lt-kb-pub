@@ -32,7 +32,7 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
 <a id="claim-t-21995"></a>
 - t-001
   teiginys: "Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -62,7 +62,8 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
 - id: c-24677
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 181."
   citata_originali: |
     Lietuvos vyriausybė nerado atramos Klaipėdos krašto viduje: krašto
     vokiečiams nepatiko būti „tautine mažuma“, jie apskritai Lietuvos valdy-
@@ -82,7 +83,8 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
 - id: c-166828
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 181."
   citata_originali: |
     Kaunas bandė remtis atvykėliais iš Didžio-
     sios Lietuvos, tačiau dauguma jų buvo paprasti, neišsilavinę darbininkai.

@@ -1,6 +1,6 @@
 ---
 tipas: saltinis
-pavadinimas: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
+pavadinimas: 'Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a.'
 saltinio_tipas: leidinys
 sukurta: ''
 atnaujinta: ''

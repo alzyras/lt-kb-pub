@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-81d12a21976665ad799a4676"
+canonical_name: "W. Schmidt"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["W. Schmidt"]
+sameAs: []
+canonical_biography: "Schmidt, W."
 ---
 # W. Schmidt
 
@@ -59,7 +66,8 @@ Schmidt, W.
 - id: c-33200
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 154."
   citata_originali: |
     II, Torino 1965, 807-857 p. — Sadaus­
     kaitė, I. : _Dėl mirusiųjų deginimo papročio,_ ILKI, t. 3, 1961, 125-131 p.

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-70b88da378f0e06f79a1acd2"
+canonical_name: "Margalis (Margirius )"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Margalis (Margirius )"]
+sameAs: []
+canonical_biography: "lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoja užfiksuota 1329 m. Čekijos karaliaus Jono Liuksemburgiečio dvikova su lietuviu didiku Margaliu (Margiriu?)."
 ---
 # Margalis (Margirius )
 
@@ -62,7 +69,8 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
 - id: c-41401
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 45."
   citata_originali: |
     Lietuviai labai greitai įsisavindavo karybos naujoves. XIV a.
     lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai

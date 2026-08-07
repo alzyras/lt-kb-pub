@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88d53c6da11af1248404b775"
+canonical_name: "Archeologai ir priešistorės tyrėjai"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Archeologai ir priešistorės tyrėjai"]
+sameAs: []
+canonical_biography: "Šioje srityje pirmiausiai minėtini archeologai: P. Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasinės visuomenės susidarymas Lietuvoje {Remiantis archeologinių kasinėjimų duomenimis ) (VUMD, t. Tautavi­ čius išleido knygą Lietuvos archeologijos bruožai (1961)."
 ---
 # Archeologai ir priešistorės tyrėjai
 
@@ -81,7 +88,8 @@ media_all_json: |-
 - id: c-163195
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 83."
   citata_originali: |
     R. Volkaitė - Kulikauskienė, parašiusi _Lietuviai
     IX-XII amžiais_ (VoKL), _Klasinės visuomenės susidarymas Lietuvoje

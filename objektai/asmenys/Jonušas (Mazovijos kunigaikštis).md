@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a99cab3aeddf92276e4178ec"
+canonical_name: "Jonušas (Mazovijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonušas (Mazovijos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą. Jonušas ir Zemovitas priėmė į Mazoviją pasitraukusį Vytautą, bet nesistengė suteikti jam deramos pagalbos. Jonušas, Mazovijos kunigaikštis ir Vytauto žentas, nesuteikė prašytos pagalbos, užpuolė Poleksiją ir užėmė Drohičiną, Melniką, Suražą bei Kamenecą."
 ---
 # Jonušas (Mazovijos kunigaikštis)
 
@@ -112,7 +119,8 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
 - id: c-169347
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268."
   citata_originali: |
     Kadangi neseniai per pasiuntinius buvo pra­
     šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei
@@ -139,7 +147,8 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
 - id: c-169348
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 302."
   citata_originali: |
     Vytau­
     tas, pagalvojęs, jog, valdovui iškeliavus, sostinė ne taip
@@ -179,7 +188,8 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
 - id: c-169349
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 541"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 541."
   citata_originali: |
     Veik­
     ti turėsi ne pagal svetimųjų nuostatus ir įstatymus, bet

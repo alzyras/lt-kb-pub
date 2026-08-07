@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-027eef7f1b125639b6310816"
+canonical_name: "Baltras (piemuo)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Baltras","Baltras (piemuo)","Baltrukas"]
+sameAs: []
+canonical_biography: "Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovavęs ganymui, pynęs ir taisęs vyžas bei padėdavęs Napaliukui."
 ---
 # Baltras (piemuo)
 

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42649e70f1c12c5975305d4c"
+canonical_name: "Niendorf M"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Niendorf M"]
+sameAs: []
+canonical_biography: "Niendorf M."
 ---
 # Niendorf M
 
@@ -50,7 +57,8 @@ Niendorf M.
 - id: c-22183
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Mačiulis D. Valstybės kultūros politika Lietuvoje 1927–1940 metais. Vilnius,
     2005.

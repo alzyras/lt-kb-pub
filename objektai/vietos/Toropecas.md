@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7a910a3aa3e1338722a207a7"
+canonical_name: "Toropecas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Toropecas"]
+sameAs: []
+canonical_biography: "Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apylinkes, kai pagrindinės pajėgos įsiverš į Rusijos teritoriją šiauriau. Rugpjūčio 29 d. lietuviai susikovė su į pagalbą savo valdovui skubėjusia apie 1000 karių Toropeco įgula. Rugsėjo 9 d. jie dar kartą susirėmė su Toropeco įgula, nukovė 200 rusų šaulių."
+place_authority: true
+historical_names: []
 ---
 # Toropecas
 
@@ -97,7 +106,8 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 - id: c-45359
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 96."
   citata_originali: |
     Rugsėjo 4 d. lietuviai pa-
     siekė Dauguvos ir Volgos upių vandens-
@@ -126,7 +136,8 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 - id: c-45360
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 95."
   citata_originali: |
     Pagal S. Batoro planą Lietuvos lauko etmo-
     nas Kristupas Radvila Perkūnas, iki pagrin-
@@ -153,7 +164,8 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 - id: c-45361
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 96."
   citata_originali: |
     Nusiaubęs Staricos apylinkes,
     Radvila pasuko į vakarus Pskovo link.

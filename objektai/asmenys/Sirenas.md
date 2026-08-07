@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b25a70ba18cfedca53c408a2"
+canonical_name: "Sirenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sirenas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, trys jų tarnai ir vienas pamedėnas, vardu Sirenas, kurį laikė grandinėmis surakintą, nes buvo kažkuo prasikaltęs."
 ---
 # Sirenas
 
@@ -70,7 +77,8 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
 - id: c-61065
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Tuo
     metu Kristburgo pilyje tebuvo likę trys broliai, trys jų tarnai ir vienas pamedėnas, vardu
@@ -90,7 +98,8 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
 - id: c-167510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai jį užpuolė,
     visiškai sugriovė pamedėnų gyvenvietę bei pilį424 ir brolių papilį, vienus paimdami

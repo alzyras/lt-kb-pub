@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-407242ca7291d60cd1089f38"
+canonical_name: "Paulius von Russdorfas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Paulius von Russdorfas"]
+sameAs: []
+canonical_biography: "Taip 1433 m. su Žygimantu Kęstutaičiu kovojęs Livonijos ordino magistras prašė Vokiečių ordino magistrą Paulių von Russdorfą nepraleisti druskos į Lietuvą, 1451 m. Kazimieras Jogailaitis grasino nutraukti druskos įvežimą iš Dancigo, 1492 m. Hanzos kontora."
 ---
 # Paulius von Russdorfas
 
@@ -50,9 +57,9 @@ Taip 1433 m. su Žygimantu Kęstutaičiu kovojęs Livonijos ordino magistras pra
 ## Citatos
 
 - id: c-185478
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 78"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 78."
   citata_originali: |
     Taip 1433 m. su Žygimantu Kęstutaičiu kovojęs Livonijos ordino magistras prašė
     Vokiečių ordino magistrą Paulių von Russdorfą nepraleisti druskos į Lietuvą, 1451 m.

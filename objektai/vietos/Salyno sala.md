@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-feb9d3b356c137261afe831c"
+canonical_name: "Salyno sala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Salyno sala"]
+sameAs: []
+canonical_biography: "Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­ mune)."
+place_authority: true
+historical_names: []
 ---
 # Salyno sala
 
@@ -52,7 +61,8 @@ Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių m
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 79."
   citata_originali: |
     Iškilmingas tos sutarties ratifikavimas (patvir­
     tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­

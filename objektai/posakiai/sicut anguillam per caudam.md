@@ -57,7 +57,8 @@ Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už
 - id: c-33493
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 340."
   citata_originali: |
     Žmonės esą buvę verčiami į sunkiausius darbus, truk­
     domas susisiekimas ir prekyba, atiminėjamos nuosavos žemės,
@@ -80,7 +81,8 @@ Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už
 - id: c-167731
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 340."
   citata_originali: |
     Anot paties vietininko, jie šiandien sakė
     « taip », o rytoj jau « ne »^51. Pats ordinas Konstancoje pripažino

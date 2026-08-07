@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-46bb73c107405687b0514fa0"
+canonical_name: "Šedbaras Valmantaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šedbaras Valmantaitis"]
+sameAs: []
+canonical_biography: "1432 m. Kauno seniūnu vėl vadinamas Sudivojaus brolis Šedbaras Valmantaitis, bet ir šis tais pačiais metais dingo iš valstybės gyvenimo. Šedbaras vykdavo pasiuntiniu į Ordiną ar buvo derybų su Ordinu dalyvis 1416, 1425, 1430 m. Turėjo ir kitų pareigų - 1430 m. buvo pasiuntinybėje pas popiežių dėl Vytauto karūnavimo reikalų, 1431 m. Švitrigaila siuntė jį pas Jogailą."
 ---
 # Šedbaras Valmantaitis
 
@@ -62,9 +69,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185446
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 111"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 111."
   citata_originali: |
     Tačiau įsivėlęs į sąmokslą prieš Žygimantą Kęstutaitį jis neteko šių pareigų.
     1432 m. Kauno seniūnu vėl vadinamas Sudivojaus brolis Šedbaras Valmantaitis, bet
@@ -78,9 +85,9 @@ media_all_json: |-
     - t-001
 
 - id: c-185447
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 111"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 111."
   citata_originali: |
     Abu broliai buvo aktyvūs Lietuvos diplomatinių santykių dalyviai. Šedbaras vyk-
     davo pasiuntiniu į Ordiną ar buvo derybų su Ordinu dalyvis 1416, 1425, 1430 m.

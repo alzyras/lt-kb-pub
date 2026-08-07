@@ -55,12 +55,13 @@ Terminas vartojamas aprašant kaimo degtinės varymo tvarką.
 <a id="claim-t-195616"></a>
 - t-001
   teiginys: "Bravarninkas šiame šaltinyje iš salyklos išvaro degtinę."
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
-    - c-178018
+    - c-185987
 
 ## Citatos
 
@@ -77,7 +78,24 @@ Terminas vartojamas aprašant kaimo degtinės varymo tvarką.
     lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę.
   citata_rodoma: "Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę."
   statusas: verified
-  atnaujinta: "2026-07-12 08:46"
+  atnaujinta: "2026-07-29 11:11"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-185987
+  autoriai: "A. Sabaliauskas; M. Katkus"
+  šaltinis: "Mūsų tautosaka, t.4 (1931)"
+  indeksas: "A. Sabaliauskas, M. Katkus, Mūsų tautosaka, t.4 (1931)."
+  citata_originali: |
+    Čia buvo bravariukas.“
+    Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos
+    lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę. Atvežda­
+    vo paviržio bakaną duonos ir lašinių bryzą — tai bravarninkui mais­
+    tas degtinę varant.
+  citata_rodoma: "Čia buvo bravariukas.“ \nSenų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos \nlugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę. Atvežda­\nvo paviržio bakaną duonos ir lašinių bryzą — tai bravarninkui mais­\ntas degtinę varant."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

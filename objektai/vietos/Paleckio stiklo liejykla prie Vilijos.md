@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b6eb7580921a438d3554887"
+canonical_name: "Paleckio stiklo liejykla prie Vilijos"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Paleckio stiklo liejykla prie Vilijos"]
+sameAs: []
+canonical_biography: "Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­ šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­ tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig- 32 33 Žr. Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilijos upės, tarp karaliaus šunidės ir Vilniaus vaiva­ dos ir karaliaus kanclerio Hlebavičiaus plytinės\", perduotas Paleckio žiniai, karaliaus valia, per Vilniaus gorodničių Povilą. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­ raliaus paskirtų senatorių pastangomis, išlaisvino miestą nuo ateityje labai nemalonaus monopolio, kuris būtų smar­ kiai pakėlęs stiklo kainą miesto gyventojams55."
+place_authority: true
+historical_names: []
 ---
 # Paleckio stiklo liejykla prie Vilijos
 
@@ -94,7 +103,8 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 - id: c-82005
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 291"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291."
   citata_originali: |
     Duota 1547 metų gegu­
     žės 22 dieną, 5 indikte. Sklypas, skir­
@@ -121,7 +131,8 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 - id: c-82006
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 290-291"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 290-291."
   citata_originali: |
     Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
     lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus
@@ -149,7 +160,8 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 - id: c-82007
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 304."
   citata_originali: |
     Karališkųjų
     muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b9188d2ef7abcc67bc18f2d0"
+canonical_name: "Juozapas Hačevskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Juozapas Hačevskis"]
+sameAs: []
+canonical_biography: "Juozapas Hačevskis 1837 m. leidinyje „Muzeum Domowe“ parašė išsamų straipsnį apie gintarą."
 ---
 # Juozapas Hačevskis
 
@@ -57,7 +64,8 @@ Juozapas Hačevskis 1837 m. leidinyje „Muzeum Domowe“ parašė išsamų stra
 - id: c-174556
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
   citata_originali: |
     2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą
     parašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837).

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-edc6ba928483c12c9a6918aa"
+canonical_name: "Albertas Krantzas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Alb. Krantz","Alb. Krantzii","Albertas Krantzas","Krantzas"]
+sameAs: []
+canonical_biography: "Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal.“ veikalu. Balińskio pasakojime jo teiginiai įtraukti į Gedimino laiškų ir krikšto klausimo istoriografinę diskusiją."
 ---
 # Albertas Krantzas
 
@@ -90,7 +97,8 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
 - id: c-55562
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 109."
   citata_originali: |
     4) Vėlesni kronikininkai: A 1 b.
     K r a n t z, Wand. L. VIII, p. 9, K o j e 1 a v i č i u s, p. 271,
@@ -107,7 +115,8 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
 - id: c-55563
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 106."
   citata_originali: |
     Taigi čia turime aiškų paties Gedimino prisipažinimą, kad
     niekados jokių laiškų nei popiežiui, nei Vokietijos mies­
@@ -127,7 +136,8 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
 - id: c-78421
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 105."
   citata_originali: |
     Tas pareiškimas prieštarauja Koje-
     1 a v i č i a u s (p. 272), Hermano Kornerio (Chron. p. 1006),

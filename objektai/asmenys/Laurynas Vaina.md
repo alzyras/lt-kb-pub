@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-82ab129cc03b6d4d27afe970"
+canonical_name: "Laurynas Vaina"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Laurynas Vaina"]
+sameAs: []
+canonical_biography: "Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždininku Laurynu Vaina rinkti muitus toje muitinėje, kol surinks paskolintus pinigus. Ji jau buvo išnuomota žemės iždininkui Laurynui Vainai, šis sutiko leisti Kaunui šią sumą išsirinkti."
 ---
 # Laurynas Vaina
 
@@ -53,9 +60,9 @@ Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždini
 ## Citatos
 
 - id: c-185441
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 146"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 146."
   citata_originali: |
     Be to, valdovas iš karto nurodė,
     kaip miestiečiams susigrąžinti pinigus. Jiems buvo suteikta teisė kartu su Kauno mui-
@@ -71,9 +78,9 @@ Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždini
     - t-001
 
 - id: c-185442
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 219"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 219."
   citata_originali: |
     Stepono Batoro paprašytas Kauno miestas paskolino valdovui 2 000
     kapų grašių ir už tai gavo teisę išsirinkti paskolą iš senų ir naujų pakeltų muitų Kauno

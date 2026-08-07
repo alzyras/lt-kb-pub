@@ -98,7 +98,8 @@ Nenurodyta
 - id: c-02131
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 53."
   citata_originali: |
     Išplaukęs Vysla į jūrą,
     jis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-
@@ -117,7 +118,8 @@ Nenurodyta
 - id: c-02132
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 53-54"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 53-54."
   citata_originali: |
     Pagonys tuo būdu atkeršijo už savo šventovės
     įžeidimą. Tas atsitiko 997 m. balandžio 23 d. Misijonierių la-
@@ -135,7 +137,8 @@ Nenurodyta
 - id: c-02134
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 53."
   citata_originali: |
     Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
     gavo apsaugą ir išvyko į aisčių kraštą. Išplaukęs Vysla į jūrą,

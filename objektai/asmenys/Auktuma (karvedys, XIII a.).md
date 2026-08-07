@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c1af7566f21cb6f2814cbc62"
+canonical_name: "Auktuma (karvedys, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Auktuma","Auktuma (karvedys, XIII a.)"]
+sameAs: []
+canonical_biography: "Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glapas Varmijoj, Divonis Partijoj o Auktuma Pagezonijoj. Pagezonys vieni bedžiaugės liuosybe, kurią Auktuma, jų karvedys, mokėjo dar gy nioti ir antturėti, ketėdamos lig paskuojo dvėkterėjimo jos nepaleisti."
 ---
 # Auktuma (karvedys, XIII a.)
 
@@ -66,9 +73,9 @@ Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glap
 ## Citatos
 
 - id: c-184747
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 386"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 386."
   citata_originali: |
     Ant didesnės laimos perkrikštų, pasitiko tarp jų
     sumanančių karvedžių ir gudrių vyrų, kurie mo­
@@ -93,9 +100,9 @@ Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glap
     - t-001
 
 - id: c-184748
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 436"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 436."
   citata_originali: |
     1273
     Taip galan tų metų visas tas dalykas Parusnio,

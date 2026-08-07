@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8e0bc45253bca6a7836917f1"
+canonical_name: "Galindų giria"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Galindų giria"]
+sameAs: []
+canonical_biography: "Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girioj, ne vien grobį iškratė, bet ir pačius išblaškė."
+place_authority: true
+historical_names: []
 ---
 # Galindų giria
 
@@ -41,9 +50,9 @@ Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girio
 ## Citatos
 
 - id: c-184509
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 492"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 492."
   citata_originali: |
     Vienok tuo žygiu maž
     ką kryžėjai telaimėjo, kaipogi minavotas kamendo-

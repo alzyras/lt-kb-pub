@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b9a9af32e32a91632cc9148"
+canonical_name: "Juodoji Rusia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Juodoji Rusia"]
+sameAs: []
+canonical_biography: "Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje."
+place_authority: true
+historical_names: []
 ---
 # Juodoji Rusia
 
@@ -75,7 +84,8 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 - id: c-24159
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 56."
   citata_originali: |
     Onos bažnyčiai. XVI a. viduryje naujas madas atneš Vilniaus Žemuti-
     nės pilies renesansas, tačiau gotikos tradicija, perimta vietos meistrų, dar
@@ -96,7 +106,8 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 - id: c-32075
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 304."
   citata_originali: |
     Tiesioginėje didžiojo kunigaikščio valdžioje
     tebuvo tik dalis valstybės. Jam priklausė betarpiškai Vilniaus

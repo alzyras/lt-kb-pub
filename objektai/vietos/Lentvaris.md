@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-231afca6596ce453824e490e"
+canonical_name: "Lentvaris"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lentvaris"]
+sameAs: []
+canonical_biography: "Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių."
+place_authority: true
+historical_names: []
 ---
 # Lentvaris
 
@@ -70,7 +79,8 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
 - id: c-43577
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 193."
   citata_originali: |
     Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.
     Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį
@@ -87,7 +97,8 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
 - id: c-45179
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 176."
   citata_originali: |
     rusų bei lietuvių kalbomis, pasveikino ir
     palydėjo „buržujų“ mušti pats „Lietuvos

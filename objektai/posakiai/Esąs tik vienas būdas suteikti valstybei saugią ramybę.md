@@ -31,7 +31,8 @@ Mintis apie savarankišką Lietuvos Didžiosios Kunigaikštystės valdovą sukė
 - id: c-168831
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 465"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 465."
   citata_originali: |
     Tuo tarpu Lietuvos didikams visai nerūpėjo kraš­
     to gynyba: jie susiskirstė įvairiomis grupuotėmis, vieni

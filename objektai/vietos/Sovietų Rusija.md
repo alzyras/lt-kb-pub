@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e567e9a3689c5736bee39cfc"
+canonical_name: "Sovietų Rusija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sovietų Rusija"]
+sameAs: []
+canonical_biography: "Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą. Tačiau pilietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija 1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama tas valstybes ir sustiprindama jų pozicijas. Apskritai 1920 m. liepos 12 d. pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplomatijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su Lenkija."
+place_authority: true
+historical_names: []
 ---
 # Sovietų Rusija
 
@@ -125,7 +134,8 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 - id: c-24492
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 141."
   citata_originali: |
     Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokie-
     tijos, į Lenkijos planus žiūrėjo palankiai, tačiau Lietuva manė juos keliant
@@ -149,7 +159,8 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 - id: c-24493
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 142."
   citata_originali: |
     Lietuva gavo 3 mln. aukso rublių kompensaciją ir pažadus,
     kad galės išsikirsti miško, atsiimti išvežtus į Maskvą archyvus. Lietuva ri-
@@ -170,7 +181,8 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 - id: c-43877
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 193."
   citata_originali: |
     PREILIAI A
 
@@ -188,7 +200,8 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 - id: c-176435
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 191."
   citata_originali: |
     Pasekmės
     Neišnaudoję įtvirtinimų teikiamų priva-

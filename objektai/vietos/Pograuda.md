@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e85efa1f59cb4be51bb756d"
+canonical_name: "Pograuda"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pograuda"]
+sameAs: []
+canonical_biography: "Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių puolimą, Brandenburgo komtūras ir jo kariai sėkmingai teriojo apylinkę «ir daugelį žmonių nužudė, ar paėmė į nelaisvę, stipriai viską naikin­ dami ugnimi ir plėšimais."
+place_authority: true
+historical_names: []
 ---
 # Pograuda
 
@@ -60,7 +69,8 @@ Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių
 - id: c-28150
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 226."
   citata_originali: |
     1311 ordinas turėjo vėl laikinų pasisekimų. Nors Pograudos
     apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių puolimą,

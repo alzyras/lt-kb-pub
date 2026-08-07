@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5634884e6546d4eab8c88238"
+canonical_name: "Rusijos šiaurės vakarų kraštas (kraštas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rusijos šiaurės vakarų kraštas","Rusijos šiaurės vakarų kraštas (kraštas)"]
+sameAs: []
+canonical_biography: "Tačiau, kai prasidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos šiaurės vakarų kraštu."
+place_authority: true
+historical_names: []
 ---
 # Rusijos šiaurės vakarų kraštas (kraštas)
 
@@ -50,7 +59,8 @@ Tačiau, kai prasidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos šia
 - id: c-02968
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 455"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 455."
   citata_originali: |
     Visos tos trys gubernijos iš pradžių ir Rusų valdžios buvo
     vadinamos Lietuvos gubernijomis. Tačiau, kai pra-

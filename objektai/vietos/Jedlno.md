@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a2de835880f5483b431b615"
+canonical_name: "Jedlno"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jedlno"]
+sameAs: []
+canonical_biography: "Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­ tams, nes juose pasakyta, kad valdovus renka viena pusė su žinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios ir pritarimo."
+place_authority: true
+historical_names: []
 ---
 # Jedlno
 
@@ -51,7 +60,8 @@ Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­ tams, nes juose pasak
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 243."
   citata_originali: |
     Sužinojęs iš savo pasiuntinio apie suvažiavimo pa­
     sekmes Vytautas įsitikino, kad geruoju su Lenkija nesusitars,

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9accb5cc7896c6ef1b4b458c"
+canonical_name: "Andrius Algirdaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius","Andrius Algirdaitis","Andrių"]
+sameAs: []
+canonical_biography: "Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis. Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona. Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir prisidėjo prie 1380 m. rugsėjo 8 d. pergalės Kulikovo lauke."
 ---
 # Andrius Algirdaitis
 
@@ -78,7 +85,7 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
 <a id="claim-t-54944"></a>
 - t-002
   teiginys: "Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
@@ -176,7 +183,8 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
 - id: c-55314
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50."
   citata_originali: |
     Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
     dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
@@ -198,7 +206,8 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
 - id: c-55316
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 51."
   citata_originali: |
     Tačiau miestiečių išvytas, nu­
     vykęs pas magistrą sulaukė para­
@@ -228,7 +237,8 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
 - id: c-78714
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50-51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50-51."
   citata_originali: |
     Tasai Andrius, Jogailai pavaldaus
     Polocko kunigaikštis, Algirdo sū­
@@ -272,7 +282,8 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
 - id: c-78715
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50."
   citata_originali: |
     Duota Viešpaties
     metais 1380 artimiausią šiokiadienį,

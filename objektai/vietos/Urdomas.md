@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-331d7f1ba75cce246b96550d"
+canonical_name: "Urdomas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Urdomas"]
+sameAs: []
+canonical_biography: "Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link, kurioje tuo metu rezidavo Rusijos valdovas Ivanas rv."
+place_authority: true
+historical_names: []
 ---
 # Urdomas
 
@@ -61,7 +70,8 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 - id: c-77320
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 96."
   citata_originali: |
     1581 m. Pskovo kampanija, Radvilos Perkūno reidas, Lietu
     Rugpjūčio 25 d. K. Radvilos pajėgos nu-

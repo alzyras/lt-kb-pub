@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4e161c2d2ed1dcd55b173a56"
+canonical_name: "Dargis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dargis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį."
 ---
 # Dargis
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 - id: c-60893
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 71."
   citata_originali: |
     Apie vieną stebuklą
 

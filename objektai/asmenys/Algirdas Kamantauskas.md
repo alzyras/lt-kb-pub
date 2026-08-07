@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c763856ed68d152ff251cd00"
+canonical_name: "Algirdas Kamantauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Algirdas Kamantauskas"]
+sameAs: []
+canonical_biography: "Tik 1991 metais Viktoro Šniuolio ir Algirdo Kamantausko rūpesčiu partizanų palaikai surasti ir palaidoti Radviliškio kapinėse."
 ---
 # Algirdas Kamantauskas
 
@@ -61,7 +68,8 @@ Tik 1991 metais Viktoro Šniuolio ir Algirdo Kamantausko rūpesčiu partizanų p
 - id: c-44273
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 244."
   citata_originali: |
     kaimo gyventojo šulinį. Tik 1991 metais
     Viktoro Šniuolio ir Algirdo Kamantausko

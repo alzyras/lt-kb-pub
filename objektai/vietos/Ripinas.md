@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c4f4d6bc48db6227450291f5"
+canonical_name: "Ripinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ripinas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Ripinas
 

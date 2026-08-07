@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-087c16e247817303d3a3d50c"
+canonical_name: "Jaroslavas Teodoras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jaroslavas Teodoras"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Jaroslavas Teodoras
 

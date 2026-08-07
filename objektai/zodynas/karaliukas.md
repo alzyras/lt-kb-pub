@@ -139,7 +139,8 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
 - id: c-175086
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 316."
   citata_originali: |
     Senovės rašytojai, tokie kaip Prokopijus ir Jordanas, herulų vadų, t. y. karaliukų, vardus Faras, File-
     mut, Fanoteus, Fulkaris akivaizdžiai iškraipė neatpažįstamai, nes lie-
@@ -156,7 +157,8 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
 - id: c-175087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Ne­
     trukus Ricimeras atsikratė Majorijano, o kartu neteko
@@ -177,7 +179,8 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
 - id: c-175343
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Ne­
     trukus Ricimeras atsikratė Majorijano, o kartu neteko

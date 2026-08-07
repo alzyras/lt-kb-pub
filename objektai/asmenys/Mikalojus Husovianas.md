@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-40ca8feb35c1605d8dec05c3"
+canonical_name: "Mikalojus Husovianas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Husovianas"]
+sameAs: []
+canonical_biography: "Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto laikus parodyti kaip idealą savo laikų visuomenei."
 ---
 # Mikalojus Husovianas
 
@@ -61,7 +68,8 @@ Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mika
 - id: c-75372
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 60."
   citata_originali: |
     ženklas, o būdvardis „palemoniškas“ proginėje literatūroje funkcionavo
     kaip žodžio „lietuviškas“ atitikmuo, Vilniaus universitetas vadintas „Pa-

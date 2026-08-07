@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b5b58c3b5fc2eb7bd40b4fc1"
+canonical_name: "Vaiselijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vaiselijus"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip Antimp, o Lasickis - kaip Audros. Teodoro Narbuto pasakojime Vaiselijumi remiamasi Hoggerland pavadinimą siejant su mitinio kunigaikščio Hogo vardu. Narbuto perteiktas Hartknochas Vaiselijų įvardijo tarp kronikininkų, citavusių vyskupo Kristijono kroniką apie senovės Prūsiją."
 ---
 # Vaiselijus
 
@@ -120,7 +127,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
 - id: c-173344
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
   citata_originali: |
     -  Frankfurt und Leip­
     zig, 1684*.
@@ -143,7 +151,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
 - id: c-173698
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
   citata_originali: |
     Iš to jau matyti, jog ji buvo viena mažiausių apylinkių.
     Pamaryje buvo ne tiek daug gyventojų, nes ten plytėjo
@@ -165,7 +174,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
 - id: c-174792
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
   citata_originali: |
     *  ¥  *
     III skyrius

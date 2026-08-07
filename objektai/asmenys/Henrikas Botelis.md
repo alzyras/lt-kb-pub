@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9e8eca3ec9bd25bf41633b67"
+canonical_name: "Henrikas Botelis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Botelis"]
+sameAs: []
+canonical_biography: "Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhauzenas, Prūsijos maršalas Henrikas Botelis, su jais 150 Ordino brolių, kai kurie kryžininkai, o paprastų karių „dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų skaičiaus“, pažymi."
 ---
 # Henrikas Botelis
 
@@ -62,11 +69,18 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 <a id="claim-t-116283"></a>
 - t-002
   teiginys: "Prūsams pareikalavus, broliai davė įkaitu maršalą Henriką Botelį, kad nelaisvėje esantys broliai liktų gyvi."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Notanga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henrikas Botelis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Notanga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas Botelis\" parinktas kaip owner_note_path. Targetas \"Notanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-107147
+    - c-107146
 
 <a id="claim-t-184711"></a>
 - t-003
@@ -108,7 +122,8 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 - id: c-107146
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     581), bet čia — jau ne Notangos teritorija.
 
@@ -118,14 +133,17 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   citata_rodoma: "581), bet čia — jau ne Notangos teritorija.\n\nKadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.\nJie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,\nkurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-107147
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 112-113"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112-113."
   citata_originali: |
     Ilgą laiką sėkmei
     nekrypstant nei  į vieną, nei  į kitą pusę, galop broliai, viešpačiui leidžiant, pralaimėjo,
@@ -158,12 +176,12 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-107148
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
     Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
@@ -180,7 +198,8 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 - id: c-168072
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 103."
   citata_originali: |
     Taigi pasitrau-
     d in a m i

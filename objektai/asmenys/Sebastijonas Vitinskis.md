@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f35b1920b44a47c8d9a0009f"
+canonical_name: "Sebastijonas Vitinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sebastijonas Vitinskis"]
+sameAs: []
+canonical_biography: "Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui."
 ---
 # Sebastijonas Vitinskis
 
@@ -62,7 +69,8 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 - id: c-83828
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196."
   citata_originali: |
     Jono Ak ademi jos Spaustuvės kronika
     1547. Sklypas tas ir mūrinis namas, kuriame yra spaustu­

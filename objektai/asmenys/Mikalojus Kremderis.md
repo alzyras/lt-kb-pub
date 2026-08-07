@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-321f759ab6ae90d6771c5acc"
+canonical_name: "Mikalojus Kremderis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Kremderis"]
+sameAs: []
+canonical_biography: "Nicolaus, arba Mikalojus Kremderis, 1480 m. ėjo Vokiečių ordino kanclerio pareigas."
 ---
 # Mikalojus Kremderis
 

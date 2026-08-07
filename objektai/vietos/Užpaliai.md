@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f1a109e1d194534bd084468c"
+canonical_name: "Užpaliai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Užpaliai"]
+sameAs: []
+canonical_biography: "148 Uturiai, prie Betygalos 177 Uzbekas, chanas 183, 241, 242 Užnemunė 61, 78, 95, 96, 105, 108, 254, 326 Užpaliai 118 Užsienio Lietuvių Spaudos Metraštis 17 Vaclovas, Čekijos karalius 336, 356, žr."
+place_authority: true
+historical_names: []
 ---
 # Užpaliai
 
@@ -63,7 +72,8 @@ media_all_json: |-
 - id: c-39962
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 185."
   citata_originali: |
     Birželio 3 d. P. Genys užima
 

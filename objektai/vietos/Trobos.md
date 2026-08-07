@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-89ea1ff0b525a619d6c63c5b"
+canonical_name: "Trobos"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trobos"]
+sameAs: []
+canonical_biography: "Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraičiuose, Trobose, — 100 — Vaviorkoje, D."
+place_authority: true
+historical_names: []
 ---
 # Trobos
 
@@ -57,7 +66,8 @@ Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraiči
 - id: c-168676
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 134."
   citata_originali: |
     Negaliu patikėti, kad
     jis iš tiesų nebūtų kreipęs nė kruopelytės dėmesio į

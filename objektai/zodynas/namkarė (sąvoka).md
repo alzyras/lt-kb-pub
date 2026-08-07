@@ -64,9 +64,9 @@ Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė. Tuojau
 ## Citatos
 
 - id: c-184561
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 161"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 161."
   citata_originali: |
     Vla­
     dislovo žmona buvo lyčium tų kerštų, kuri, gobė-
@@ -84,9 +84,9 @@ Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė. Tuojau
     - t-001
 
 - id: c-184562
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 407"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 407."
   citata_originali: |
     Taip tarės lietuviai ir žemaičiai, jei ne karėją,
     tačiaus vyrą gudrų, mokytą, svieto regėjusį, valdy-

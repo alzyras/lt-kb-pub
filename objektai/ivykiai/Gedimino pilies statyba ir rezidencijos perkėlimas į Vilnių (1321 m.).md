@@ -93,7 +93,8 @@ Nenurodyta
 - id: c-82872
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 35-36"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 35-36."
   citata_originali: |
     -  •  -
     19
@@ -131,7 +132,8 @@ Nenurodyta
 - id: c-82873
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 38-39"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 38-39."
   citata_originali: |
     Kai tas galingas valdovas įsakė ant kal­
     no sumūryti pilį ir papėdėje pastatyti medinę tvirtovę, už­

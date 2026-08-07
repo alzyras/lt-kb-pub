@@ -43,7 +43,8 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
 - id: c-69231
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 619"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 619."
   citata_originali: |
     Beje, už M. Lietuvos ribų lietuvių (t. y. vad. prūsų) nuo XVI
     amž. jau beveik nebesutinkame, o M. Lietuvoje lietuviai tebe-

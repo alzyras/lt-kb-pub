@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-563082618b48a26d72251266"
+canonical_name: "Ivanas Andrejevičius Čeliadninas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas Andrejevičius Čeliadninas"]
+sameAs: []
+canonical_biography: "bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnino ir kitų vaivadų, tokių kaip kunigaikščių Ivano Pronskio, Ivano „Tiomkos“ Rostovskio, Andriejaus Obolenskio, vadovaujamos pajėgos, kurias čia tuo tikslu pasiuntė Maskvos valdovas. S |] Maskvos pajėgų vadovybė Vyriausiasis Maskvos kariuomenės vadas buvo Ivanas Andriejevičius Celiadninas, ## Puslapis 83 jau solidaus amžiaus patyręs vaivada."
 ---
 # Ivanas Andrejevičius Čeliadninas
 
@@ -51,7 +58,8 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
 - id: c-44349
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 82."
   citata_originali: |
     bojarinų Grigorijaus Fiodorovičiaus
     Davidovo, Ivano Andrejevičiaus Čelia-

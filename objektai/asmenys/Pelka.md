@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-755384504c8ab251cab916d2"
+canonical_name: "Pelka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pelka"]
+sameAs: []
+canonical_biography: "į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad „1253 metais Petras, išrinktas Poznanės vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­ tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­ kupais."
 ---
 # Pelka
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-83800
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 205."
   citata_originali: |
     Il KNYGA
     IV

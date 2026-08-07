@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e1b2b2fd06d9b6c4c8022369"
+canonical_name: "Marva (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Marva","Marva (vieta)"]
+sameAs: []
+canonical_biography: "Nemuno ir Neries santakos apylinkės nusėtos piliakalnių: be Eigulių, tai Veršvų, Aukštųjų Šančių, Pajiesio, Lentainių, Marvos, Pyplių."
+place_authority: true
+historical_names: []
 ---
 # Marva (vieta)
 
@@ -46,9 +55,9 @@ Nemuno ir Neries santakos apylinkės nusėtos piliakalnių: be Eigulių, tai Ver
 ## Citatos
 
 - id: c-185067
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 32"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 32."
   citata_originali: |
     Visai greta stūkso didingas piliakalnis. Nemuno ir Neries san-
     takos apylinkės nusėtos piliakalnių: be Eigulių, tai Veršvų, Aukštųjų Šančių, Pajiesio,

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-467963666b558c4a8059a820"
+canonical_name: "Kinsgaila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kinsgaila"]
+sameAs: []
+canonical_biography: "Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumbaudas, Kauno seniūnas Sungaila, Ukmergės — Kinsgaila ir kt."
 ---
 # Kinsgaila
 
@@ -51,7 +58,8 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
 - id: c-32771
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 347."
   citata_originali: |
     (^340) III skyrius: valstybės suklestėjimas
     niaus seniūnas Manivydas^20. Kiti vadai buvo maršalas Čupurna,

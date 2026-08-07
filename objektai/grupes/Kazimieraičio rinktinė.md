@@ -60,7 +60,8 @@ media_all_json: |-
 - id: c-77352
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 238."
   citata_originali: |
     Sovietams vėl okupavus Lietuvą, 1944 m. V. Voveriui su savo bendražygiais
     teko pasitraukti į pogrindį. 1948 m. jis buvo paskirtas Kazimieraičio rinktinės vadu,

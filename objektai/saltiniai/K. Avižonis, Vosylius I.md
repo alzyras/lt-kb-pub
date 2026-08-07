@@ -49,7 +49,8 @@ Avižonis : Vosylius I, LE, t.
 - id: c-33598
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 378."
   citata_originali: |
     (^2) **Žr. aukščiau 321-322 p.**
     (^3) **CeXV, II, nr. 58.**

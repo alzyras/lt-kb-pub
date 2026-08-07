@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dc3d99228246f73bec5471ae"
+canonical_name: "Kubicka W"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kubicka W"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kubicka W."
 ---
 # Kubicka W
 
@@ -71,7 +78,8 @@ Dusburgietis teigia, kad kubicka W.
 - id: c-61365
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
   citata_originali: |
     Kubicka W. Bibliografia języka staropruskiego (do 1965 r.).— ABS, Białystok, 1967,
     5, s. 257—311.
@@ -86,7 +94,8 @@ Dusburgietis teigia, kad kubicka W.
 - id: c-176938
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
   citata_originali: |
     XIX a. tose vietose V. Kalvaitis užfiksavo Romovupės upę ir Romovupių gyvenvietę bei
     kaimą Kriwuczei, Kreywuczei (Kalwaitis W., Lietuwiszku..., p. 41, 54, 70). Vad., čia, prie

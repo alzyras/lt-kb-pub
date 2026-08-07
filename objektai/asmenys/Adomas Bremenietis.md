@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8c4572dd0434eb25bc322c77"
+canonical_name: "Adomas Bremenietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adomas Bremenietis"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, o Albertas Krantcas nurodo, jog jo rūšies nebuvo galima nustatyti. Narbutas, remdamasis Adomu Bremeniečiu, teigia, kad švedų protėviai laikėsi tikėjimo ąžuolo šventumu. Narbutas nurodo, kad Adomas Bremenietis paliko žinių apie prie šventyklų buvusius apeiginius šaltinius ir šulinius."
 ---
 # Adomas Bremenietis
 
@@ -82,7 +89,7 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
 <a id="claim-t-190038"></a>
 - t-003
   teiginys: "Narbutas nurodo, kad Adomas Bremenietis paliko žinių apie prie šventyklų buvusius apeiginius šaltinius ir šulinius."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -90,8 +97,7 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
-    - c-172920
-    - c-172923
+    - c-172921
 
 <a id="claim-t-190039"></a>
 - t-004
@@ -229,7 +235,8 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
 - id: c-172919
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
   citata_originali: |
     Tą ypatybę kronikininkai priskiria velnio galy­
     bei, manydami, kad velniai buvo garbinami toje šventykloje
@@ -252,7 +259,8 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
 - id: c-172920
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
   citata_originali: |
     Apskritai reikia ma­
     nyti, kad visur, kur buvo šventyklos, augo šventieji ąžuolai,
@@ -271,12 +279,12 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
 
 - id: c-172921
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 279."
   citata_originali: |
     Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
     šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
@@ -288,14 +296,17 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   citata_rodoma: "Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji\nšuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame\napiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­\nmas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie\ntai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad\nkrikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių\nšaltinių."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-172922
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 416"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 416."
   citata_originali: |
     Tautos
     šventovė buvo Upsaloje; ten, kaip Romovės šventykloje, sto­
@@ -316,7 +327,8 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
 - id: c-172923
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 421"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 421."
   citata_originali: |
     Čia panagrinėsime dar trečią priekaištą, kuris galėjo būti
     iškeltas prieš krivio buvimą Prūsijoje praeityje, tai yra kad vi­
@@ -333,13 +345,13 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-005
 
 - id: c-173717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 92."
   citata_originali: |
     Dešinėje tos upės pusėje gotų
     jau nebuvo, todėl prūsai įėjo į estų genčių skaičių. Ado­
@@ -360,7 +372,8 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
 - id: c-173718
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 217."
   citata_originali: |
     Adomas Bremenietis, minėdamas Prūsijos pro­
     vincijas, kurias dėl nesuprantamų priežasčių vadina salo­

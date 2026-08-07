@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ef211e33b0e8f338a0a6582"
+canonical_name: "A. Smetona"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Smetona"]
+sameAs: []
+canonical_biography: "Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vos per šešerius metus nesubrendo, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas. Smetona visą 1927 m. vasarą ir rudenį, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš miestelio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų, moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po."
 ---
 # A. Smetona
 
@@ -67,7 +74,8 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
 - id: c-176372
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 155."
   citata_originali: |
     Demokratija Lietuvoje, pasak A. Smetonos, tai nupirkti per dideli batai
     vaikams – parlamentarizmo tradicija vos per šešerius metus nesubren-
@@ -87,7 +95,8 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
 - id: c-176373
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 157."
   citata_originali: |
     Prezidentas A. Smetona visą 1927 m. vasarą ir rudenį, lydimas kari-
     ninkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš mieste-

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba537e59066f1a8ebf9ac324"
+canonical_name: "Pompomijus Mela"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pompomijus Mela"]
+sameAs: []
+canonical_biography: "Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėjo remtis gerais senovės šaltiniais apie Šiaurės kraštus. Pompomijus Mela kalba apie Gdansko Zulavas."
 ---
 # Pompomijus Mela
 
@@ -66,7 +73,8 @@ Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėj
 - id: c-174033
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra
@@ -91,7 +99,8 @@ Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėj
 - id: c-179347
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 173."
   citata_originali: |
     Negi Baltijos jūroje senovėje
     būta jūros potvynių ir atoslūgių? Veikiausiai autorius kal­

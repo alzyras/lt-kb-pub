@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f4f5e01b38afdece83866f4b"
+canonical_name: "Peteris Bolenas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Peterio Boleno","Peteris Bolenas"]
+sameAs: []
+canonical_biography: "Įvadinis tekstas Peterį Boleną mini tarp kalbininkų, kurių darbais naudojosi T. Narbutas."
 ---
 # Peteris Bolenas
 
@@ -72,7 +79,8 @@ media_all_json: |-
 - id: c-170935
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 23."
   citata_originali: |
     Kaip buvo įprasta, jis
     naudojosi senaisiais rašytiniais šaltiniais, savo ir kitų moksli­
@@ -106,7 +114,8 @@ media_all_json: |-
 - id: c-174784
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
   citata_originali: |
     2 Profesoriaus Boleno traktatas apie senovės prūsų kalbą (Voigt,
     Gesch.

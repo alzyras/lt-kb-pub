@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9f9ea39fa27e021ae706df66"
+canonical_name: "Jokūbas, Leodijos arkidiakonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokūbas, Leodijos arkidiakonas"]
+sameAs: []
+canonical_biography: "Narbutas ypač reikšmingomis laikė ištraukas iš popiežiaus legato, Leodijos arkidiakono Jokūbo, 1249 metais prūsams duotos privilegijos."
 ---
 # Jokūbas, Leodijos arkidiakonas
 
@@ -62,7 +69,8 @@ Narbutas ypač reikšmingomis laikė ištraukas iš popiežiaus legato, Leodijos
 - id: c-173046
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 278."
   citata_originali: |
     Todėl plačios galimybės maitintis visuomenės lengvatikiš­
     kumu leido laikyti daug žynių.

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9dd0103061cb3b1b1392607"
+canonical_name: "Lauksodis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lauksodis"]
+sameAs: []
+canonical_biography: "Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur."
+place_authority: true
+historical_names: []
 ---
 # Lauksodis
 
@@ -50,7 +59,8 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 - id: c-02776
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     St. Radvilos fundacija), Pa-
     šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),

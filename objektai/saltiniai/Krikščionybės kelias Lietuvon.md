@@ -58,7 +58,8 @@ media_all_json: |-
 - id: c-33610
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 300."
   citata_originali: |
     — (”) _From, the Union with Hungary to the Union with
     Lithuania : Jadwiga, 1374-99,_ Tlie Cambridge History of Poland (to

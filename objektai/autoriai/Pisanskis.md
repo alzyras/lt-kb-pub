@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5f52f15c662b0bdacd1030d"
+canonical_name: "Pisanskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Pisanskis"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindamas senovės autorių teiginius apie vandens lygio kritimą."
 ---
 # Pisanskis
 
@@ -79,7 +86,8 @@ Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindama
 - id: c-174471
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo

@@ -99,7 +99,8 @@ Nenurodyta
 - id: c-169122
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 159."
   citata_originali: |
     Žinoma, kilęs triukšmas pažadino daugelį, ne­
     pavyko jų išgalabyti lovose, daugelis griebėsi ginklo,
@@ -131,7 +132,8 @@ Nenurodyta
 - id: c-178591
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 158."
   citata_originali: |
     Žygis nereikalavo didelės ka­
     riuomenės, būtų užtekę negausaus, bet ryžtingo būrio,

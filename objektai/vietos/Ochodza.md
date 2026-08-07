@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-56524eca5d6d865e9ccd93c8"
+canonical_name: "Ochodza"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ochodza"]
+sameAs: []
+canonical_biography: "1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o tas kraštas buvo labai nuniokotas."
+place_authority: true
+historical_names: []
 ---
 # Ochodza
 
@@ -64,7 +73,8 @@ media_all_json: |-
 - id: c-175656
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     Ne
     viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,

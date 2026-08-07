@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9eb8c02ed61bc24b9e581045"
+canonical_name: "Naklas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naklas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad paskui ši kariuomenė nužygiavo prie kitų dviejų pilių bei Naklo pilies1 ir vieną po kitos užgrobė šias tris pilis, paėmusi į nelaisvę arba išžudžiusi visus žmones, jas pavertė pelenais."
+place_authority: true
+historical_names: []
 ---
 # Naklas
 
@@ -50,7 +59,8 @@ Dusburgietis teigia, kad paskui ši kariuomenė nužygiavo prie kitų dviejų pi
 - id: c-59339
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
   citata_originali: |
     Po to kariuomenė patraukė toliau ir apgulė vieną
     pilį, kurią apsuptieji atidavė su tokia sąlyga, kad galėsią su savo manta gyvi iš čia išeiti.

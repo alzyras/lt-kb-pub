@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b3d61b341bc85d0058cd5b4e"
+canonical_name: "Davidgorodokas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Davidgorodokas"]
+sameAs: []
+canonical_biography: "Gorodokas veikiausiai tapatinamas su Davidgorodoku. Davidgorodokas lokalizuojamas apie 120 km į pietus nuo Slucko ir apie 12 km į pietus nuo Pripetės. Gorodokas komentare veikiausiai tapatinamas su Davidgorodoku, esančiu apie 120 km į pietus nuo Slucko."
+place_authority: true
+historical_names: []
 ---
 # Davidgorodokas
 

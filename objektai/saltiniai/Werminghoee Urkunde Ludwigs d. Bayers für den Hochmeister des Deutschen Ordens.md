@@ -61,7 +61,8 @@ Werminghoee, A.
 - id: c-33756
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 245."
   citata_originali: |
     (tas pat
     su papildymais : LASD, III, 1940, 315-319 p.). — Werminghoee, A. :

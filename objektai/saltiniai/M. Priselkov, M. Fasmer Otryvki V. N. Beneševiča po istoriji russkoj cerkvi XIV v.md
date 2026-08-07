@@ -60,7 +60,8 @@ Priselkov, M.
 - id: c-33659
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 248."
   citata_originali: |
     (^5) **PSRL, III, 75 p.**
     (^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-

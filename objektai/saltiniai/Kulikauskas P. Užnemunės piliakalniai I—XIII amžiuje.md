@@ -58,7 +58,8 @@ Dusburgietis teigia, kad kulikauskas P.
 - id: c-61742
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
   citata_originali: |
     Kulikauskas P. Užnemunės piliakalniai I—XIII amžiuje.— V., 1982.
   statusas: verified

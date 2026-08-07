@@ -139,7 +139,8 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
 - id: c-175112
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 439"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 439."
   citata_originali: |
     Taigi šis įrodinėjimų, įvykių spėliojimų ir jų pagrindimo, sumanymų,
     pastabų ir šaltiniuose išskaitytų faktų rinkinys, kuris sudarys penkis
@@ -157,7 +158,8 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
 - id: c-175113
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 440."
   citata_originali: |
     „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“
     aiškino kaip „wejkalaj“, „księga dziejow“ — „kniga wej-

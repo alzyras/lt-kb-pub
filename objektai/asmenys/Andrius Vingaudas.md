@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ff4abc47b8e6416a1d5ae4f"
+canonical_name: "Andrius Vingaudas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Vingaudas"]
+sameAs: []
+canonical_biography: "Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas. Kojelavičiaus pasakojime Vytautas susitikime susirūpino Andriaus Vingaudo paleidimu, norėdamas pelnyti Jogailos brolių palankumą. Kojelavičiaus pasakojime Jogaila pirmaisiais savo viešpatavimo metais įkalino Andrių Vingaudą, linkusį į maištus ir siekusį valdžios su kryžiuočiais."
 ---
 # Andrius Vingaudas
 
@@ -196,7 +203,8 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - id: c-169357
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 281."
   citata_originali: |
     Konradas Celneris, ne-
     J o g a ilo s broliu A n d -
@@ -227,7 +235,8 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - id: c-169358
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 332-333"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 332-333."
   citata_originali: |
     Kad ateityje nesirastų dėl kokio men­
     ko nesutarimo naujų dingsčių karui, jie sutarė, jog nuo
@@ -255,7 +264,8 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - id: c-169359
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 333"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 333."
   citata_originali: |
     Linkusį į maištus ir su kryžiuočių pagalba
     siekusį valdžios Andrių Jogaila pirmaisiais savo vieš­

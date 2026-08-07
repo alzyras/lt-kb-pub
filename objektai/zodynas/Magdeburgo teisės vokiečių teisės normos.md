@@ -63,7 +63,8 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
 - id: c-82462
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 155."
   citata_originali: |
     Laikas nutrynė pėdsa­
     kus raštuose: nežinia, kokių pokyčių miesto valdyme būta ir
@@ -91,7 +92,8 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
 - id: c-176818
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 168."
   citata_originali: |
     Tie
     vardai liudija, kad juos turėjo ne tik

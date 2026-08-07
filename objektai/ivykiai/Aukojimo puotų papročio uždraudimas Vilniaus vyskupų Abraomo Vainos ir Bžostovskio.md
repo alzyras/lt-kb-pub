@@ -118,7 +118,8 @@ Nenurodyta
 - id: c-174905
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 497"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 497."
   citata_originali: |
     Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais labiau iš­
     plito, Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir

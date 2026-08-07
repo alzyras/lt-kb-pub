@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0958310fcd8f7e1a95fb2e92"
+canonical_name: "Kamerotos vyskupas Petras"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kamerotos vyskupas Petras"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Kamerotos vyskupo Petro rankraštį pirmą kartą pristatė straipsnyje apie Santvarą."
 ---
 # Kamerotos vyskupas Petras
 

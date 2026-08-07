@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ae7474160d1fbb2df9ea0fa"
+canonical_name: "Breslavas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Breslavas"]
+sameAs: []
+canonical_biography: "Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo sušauktas visos Vokieti­ jos kunigaikščių ir kurfiurstų suvažiavimas. Taip buvo sulaukta 1420 m. Breslavo suvažiavimo, kuriame turėjo būti paskelbtas galutinis sprendimas, kas čia ir buvo padaryta: Zigmantas L."
+place_authority: true
+historical_names: []
 ---
 # Breslavas
 
@@ -79,7 +88,8 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 208."
   citata_originali: |
     Dabar laukta
     teisingo ginčo išsprendimo taikos keliu. Taip buvo sulaukta
@@ -99,7 +109,8 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 152."
   citata_originali: |
     Vytautas dėl jų pagei­
     davo pastovios taikos ir nekantriai laukė Lietuvos ir Ordino

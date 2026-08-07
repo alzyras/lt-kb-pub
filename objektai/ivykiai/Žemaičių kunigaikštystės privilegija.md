@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-02139
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 194."
   citata_originali: |
     Ta privilegija patvirtino visas Vytauto laikais jų tu-
     rėtąsias teises ir garantavo, kad savo krašto seniūną jie patys
@@ -99,7 +100,8 @@ Nenurodyta
 - id: c-02140
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 193."
   citata_originali: |
     **2. Žemaičių kunigaikštystės privilegija**
     Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų

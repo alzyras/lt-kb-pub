@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-261ab88369ffbdd41939845a"
+canonical_name: "Mykolas Pacas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Pacas"]
+sameAs: []
+canonical_biography: "Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę ateiti į pagalbą prieš turkus, tačiau hetmonas Pacas jeigu ir nuvykdavo, tai visada veikdavo savarankiškai, neklau- sydamas karaliaus, ir dažniausiai išvengdavo didesnių mūšių. Bet ne kartą. Mykolas Pacas: vienas iš jų, Mykolas, buvo hetmonas ir Vil- niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, — Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas, o penktas, Petras, — Žemaičių seniūnas."
 ---
 # Mykolas Pacas
 
@@ -91,7 +98,8 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
 - id: c-76225
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 370."
   citata_originali: |
     Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
     piegos. Jonui Kazimierui atsisakant nuo sosto, Lietuvoje va-
@@ -111,7 +119,8 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
 - id: c-76226
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
   citata_originali: |
     Lietuvos teritoriją, todėl 1656 m. kilo Žemaičių sukilimas, padaręs
     švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-170fc1ba7dccc38120ce78c3"
+canonical_name: "Humboltas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Humboltas"]
+sameAs: []
+canonical_biography: "Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vėso dėl ten buvusios išsiskyrusios šilumos."
 ---
 # Humboltas
 
@@ -67,7 +74,8 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
 - id: c-174381
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 340."
   citata_originali: |
     Todėl viskas prasidėjo nuo Siaurės, nes prie
     pusiaujo dėl karščio niekas negalėjo augti. Tai taip pat

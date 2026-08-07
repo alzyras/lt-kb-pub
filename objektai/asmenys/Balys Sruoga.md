@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-da76191ffeae2a979dfa6750"
+canonical_name: "Balys Sruoga"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Balys Sruoga"]
+sameAs: []
+canonical_biography: "Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt."
 ---
 # Balys Sruoga
 
@@ -32,7 +39,8 @@ Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Ma
 - id: c-21618
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Lietu-
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose

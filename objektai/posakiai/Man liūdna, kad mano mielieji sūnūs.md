@@ -60,7 +60,8 @@ Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu
 - id: c-59759
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
   citata_originali: |
     Dar apie tą patį
 

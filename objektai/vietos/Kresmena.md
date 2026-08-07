@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4f19b593684fccefd1eee6af"
+canonical_name: "Kresmena"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kresmena"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir. Dusburgietis teigia, kad skomanto (žr. paaiškinimus D. III, 164, 1) valdomas Kresinenos valsčius buvo apie Skomanto ežerą (Skomentnersee, dab. j. Skomętno į vakarus nuo Augustavo) ir toliau į rytus (Kamiński A. Dusburgietis teigia, kad apie Skomanto, sūduvių vado, atsivertimą Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto, negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios žemę503 su visa šeimyna ir bičiuliais."
+place_authority: true
+historical_names: []
 ---
 # Kresmena
 
@@ -49,11 +58,18 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 <a id="claim-t-58455"></a>
 - t-002
   teiginys: "Sūduvos valsčiuje Kresmenoje Skomantas garsėjo galia ir turtais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Kresmena: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skomantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kresmena: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Skomantas aprašomas kaip veikiantis ir garsėjęs Kresmenos valsčiuje."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59086
+    - c-59087
 
 <a id="claim-t-58456"></a>
 - t-003
@@ -100,7 +116,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 - id: c-59086
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
     Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
@@ -118,14 +135,14 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-003
     - t-004
 
 - id: c-59087
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     Apie Skomanto, sūduvių vado, atsivertimą
 
@@ -142,12 +159,14 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-002
     - t-005
 
 - id: c-59088
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     Mindaugo dokumente Cresmen (PUB, 1, 2,
     Nr. 79; LIS 1 p. 47). Skomanto (žr. paaiškinimus D. III,  164, 1) valdomas Kresinenos

@@ -112,7 +112,8 @@ Nenurodyta
 - id: c-168987
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 322."
   citata_originali: |
     Netekęs ka­
     riuomenės, vargais negalais jis paspruko į Trakus, nors
@@ -152,7 +153,8 @@ Nenurodyta
 - id: c-176089
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 323."
   citata_originali: |
     Todėl supti Kauną Vytautui buvo sunkiau nei tikėjosi.
     Kiek kartų kareiviai puolė pylimą, tiek kartų buvo at­

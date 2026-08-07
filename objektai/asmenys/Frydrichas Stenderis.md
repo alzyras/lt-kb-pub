@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-55f4883a0c481da374d1df20"
+canonical_name: "Frydrichas Stenderis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Frydrichas Stenderis"]
+sameAs: []
+canonical_biography: "Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o paprastu girtuoklių globėjo epitetu. Narbutas vertina, kad Stenderis savo latvių mitologijos straipsniuose pateikė klaidingas išvadas ir nutolo nuo esmės bei tiesos. Narbutas nurodo Stenderio pastabą, kad latviai turėjo deivę Dyžą arba Dyszą, kuri savybėmis atitikusi Pergrubę."
 ---
 # Frydrichas Stenderis
 
@@ -183,7 +190,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
 - id: c-172876
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
   citata_originali: |
     Beje, labai gali būti,
     kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
@@ -204,7 +212,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
 - id: c-172877
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 132."
   citata_originali: |
     Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
     gėlių ir vaismedžių sodas.
@@ -223,7 +232,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
 - id: c-172878
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
   citata_originali: |
     Pušaitis (Puschajtis)
     Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
@@ -244,7 +254,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
 - id: c-172879
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
   citata_originali: |
     Jiems nusilenkdavo pats Pušaitis, prašydamas
     kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
@@ -265,7 +276,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
 - id: c-172881
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 299."
   citata_originali: |
     Tai tam tikri žyniai; jie kerėjimo formulė­
     mis ir kitomis apgavikiškomis išmonėmis patarinėja įvairiais
@@ -284,7 +296,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
 - id: c-179165
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     Minėtasis vyras, išvykdamas į kelio­
     nes po įvairias šalis, pametė ją visiems laikams. Labai sukrės­
@@ -304,7 +317,8 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
 - id: c-179166
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 140."
   citata_originali: |
     Atikoje Krono šventė buvo švenčiama Krono garbei he-
     katombajono (Hekatombeon) mėnesį, kurį anksčiau vadino

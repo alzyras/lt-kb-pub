@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-644a5cc8ea0f3b48d536240f"
+canonical_name: "J. Užpurvis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Užpurvis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95."
 ---
 # J. Užpurvis
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos ša
 - id: c-63348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
   citata_originali: |
     Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą. Lotyniškojo
     originalo ir lietuviškojo vertimo paragrafai, atskleidžiantys įvairius prūsų (32 paragrafai)

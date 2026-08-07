@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92657aec24daacd88b0b0963"
+canonical_name: "Himalajų kalnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Himalajų kalnai"]
+sameAs: []
+canonical_biography: "Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kultas kilo iš prie jų gyvenusios tautos."
+place_authority: true
+historical_names: []
 ---
 # Himalajų kalnai
 
@@ -55,7 +64,8 @@ Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kult
 - id: c-171893
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 185."
   citata_originali: |
     Be jo­
     kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e42627837b7ad1fe00c98819"
+canonical_name: "Danielius Aleksandraitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Danielius Aleksandraitis"]
+sameAs: []
+canonical_biography: "1406 m. vasario mėnesį šis netikėtai su Lietuvos kariuomene įsiveržė į sritį Pskovo, kuriame 1402 m. Maskva buvo pasodinusi kunigaikštį Danielių Aleksandraitį."
 ---
 # Danielius Aleksandraitis
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-30120
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 327."
   citata_originali: |
     1406 m.
     vasario mėnesį šis netikėtai su Lietuvos kariuomene įsiveržė į sritį

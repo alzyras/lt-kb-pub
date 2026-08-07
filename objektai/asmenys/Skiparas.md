@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4023299c6129914725c33a28"
+canonical_name: "Skiparas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Skiparas"]
+sameAs: []
+canonical_biography: "Skiparas, citatoje pateiktas kaip Skipor, 1483 metais prispaudė vieną iš aštuonių antspaudų su žalčiais."
 ---
 # Skiparas
 
@@ -61,7 +68,8 @@ Skiparas, citatoje pateiktas kaip Skipor, 1483 metais prispaudė vieną iš ašt
 - id: c-173123
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 404"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
   citata_originali: |
     IV
     lentelė, 18-asis piešinys. Astuoni antspaudai su žalčiais;

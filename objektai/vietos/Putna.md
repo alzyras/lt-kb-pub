@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-70e3a75b572c2b12342581c4"
+canonical_name: "Putna"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Putna"]
+sameAs: []
+canonical_biography: "Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje."
+place_authority: true
+historical_names: []
 ---
 # Putna
 

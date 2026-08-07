@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0464669cca709fbc9d0473b6"
+canonical_name: "Isakčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Isakčia"]
+sameAs: []
+canonical_biography: "Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam pastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai kams."
+place_authority: true
+historical_names: []
 ---
 # Isakčia
 
@@ -47,7 +56,8 @@ Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
 - id: c-177328
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     39
     Po kurio laiko, 514 metais prieš Kristaus gimimą, kai

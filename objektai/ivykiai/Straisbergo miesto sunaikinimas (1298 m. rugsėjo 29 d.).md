@@ -88,7 +88,8 @@ Nenurodyta
 - id: c-63145
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     Apie Straisbergo miesto sugriovimą 1298 metais
     Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo

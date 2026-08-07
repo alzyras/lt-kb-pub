@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f0ab6843bd65802e4d08749a"
+canonical_name: "Ivanas Sidorovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas Sidorovičius"]
+sameAs: []
+canonical_biography: "Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­ mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną Sidorovičių, kurie, pakloję 1 000 sidabro."
 ---
 # Ivanas Sidorovičius
 
@@ -63,7 +70,8 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
 - id: c-83888
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 171."
   citata_originali: |
     Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
     taip gana ilgam sudrumstęs namų ramybę, privertė lenkus

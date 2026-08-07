@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-39cd4803abd801b5e98da6e4"
+canonical_name: "Jul. Bartoszewicz"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jul. Bartoszewicz"]
+sameAs: []
+canonical_biography: "Basanavičius Bartoszewiczių ir Rogalskį kaltino šalininkiškumu vertinant lietuvišką literatūrą."
 ---
 # Jul. Bartoszewicz
 

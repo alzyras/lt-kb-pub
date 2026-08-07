@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5b2c9065f88a7d0889de8c11"
+canonical_name: "Charitonas Charotičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Charitonas Charotičius"]
+sameAs: []
+canonical_biography: "21 Patvirtinimas Vilniaus burmistrui Charitonui Charotičiui žeanės Mai­ šiagalos ir Rudaminos pav. pagal Jo Malonybės karaliaus Aleksandro jo broliui duotą privilegiją - fol."
 ---
 # Charitonas Charotičius
 
@@ -51,7 +58,8 @@ media_all_json: |-
 - id: c-83623
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 285."
   citata_originali: |
     Fol. 113 ir pan.
     21

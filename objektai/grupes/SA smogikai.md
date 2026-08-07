@@ -59,7 +59,8 @@ Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas
 - id: c-26570
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 182-183"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 182-183."
   citata_originali: |
     Tačiau pokyčius vyriausybėje valdžia
     ir opozicija suvokė skirtingai. Autoritarinės valdžios supratimu, bendras

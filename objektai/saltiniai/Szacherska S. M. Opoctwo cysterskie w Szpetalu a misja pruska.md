@@ -70,7 +70,8 @@ Dusburgietis teigia, kad szacherska S.
 - id: c-61936
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Szacherska S. M. Opoctwo cysterskie w Szpetalu a misja pruska.— Warszawa, 1960.
   citata_rodoma: "Szacherska S. M. Opoctwo cysterskie w Szpetalu a misja pruska.— Warszawa, 1960."

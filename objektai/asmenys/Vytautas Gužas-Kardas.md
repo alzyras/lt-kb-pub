@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eecac685f4bad9582d35f725"
+canonical_name: "Vytautas Gužas-Kardas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vytautas Gužas-Kardas"]
+sameAs: []
+canonical_biography: "Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo viršininkas Vytautas GužasKardas, penktas - Tauro apygardos vadas Aleksandras Grybinas-Faustas, septintas — Vakarų Lietuvos srities vadas Aleksandras MilaševičiusRuonis, devintas -."
 ---
 # Vytautas Gužas-Kardas
 
@@ -52,7 +59,8 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - id: c-44572
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 235."
   citata_originali: |
     į suvažiavimą susitikę Vakarų
     Lietuvos (Jūros) ir Pietų Lietuvos

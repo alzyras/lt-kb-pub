@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e307af939161ca39e1e06161"
+canonical_name: "Pr. Gaida"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Pr. Gaida"]
+sameAs: []
+canonical_biography: "Gaida, Arkiv."
 ---
 # Pr. Gaida
 
@@ -43,7 +50,8 @@ Gaida, Arkiv.
 - id: c-29299
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 418."
   citata_originali: |
     Pr. Gaida, Arkiv. T. Matulionio gyvenimas, baigiama
     ruošti spaudai.

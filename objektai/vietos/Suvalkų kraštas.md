@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-12e6ffefe7020748fdf05a63"
+canonical_name: "Suvalkų kraštas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Suvalkų kraštas"]
+sameAs: []
+canonical_biography: "Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti. visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre- tingos ir Telšių apskričių dalys. Suvalkų kraštas: lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž. vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko."
+place_authority: true
+historical_names: []
 ---
 # Suvalkų kraštas
 
@@ -106,7 +115,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - id: c-46739
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 261."
   citata_originali: |
     Pati
     reforma iš pradžių buvo padaryta tik vakarinėje valstybės da-
@@ -129,7 +139,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 257."
   citata_originali: |
     Lietuvos kunigaikščio būstinės. Suvalkų kraštas
     tada buvo beveik negyvenamas, apaugęs tankiais miškais
@@ -147,7 +158,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - id: c-90171
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 143."
   citata_originali: |
     Sąjungininkų kariuomenė tik
     po kelių dienų teišsirengė Marijenburgo link. Tuo tarpu ordino
@@ -170,7 +182,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - id: c-90172
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 179."
   citata_originali: |
     Nors teritorijos atžvilgiu ru-
     siškosios žemės bent 10 kartų buvo didesnės už tikrąją Lietuvą,
@@ -192,7 +205,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - id: c-90175
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 462"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 462."
   citata_originali: |
     **Užnemunė Prūsų karalystėje.** Prūsija per trečiąjį padalinimą
     gautąsias žemes pavadino Naujaisiais Rytprūsiais.
@@ -209,7 +223,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - id: c-175971
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 143."
   citata_originali: |
     Tuo tarpu ordino
     vadovybę paėmęs komtūras Henrikas von Plauenas

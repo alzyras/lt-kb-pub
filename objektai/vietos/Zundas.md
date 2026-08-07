@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c6dfa25e0828d19b9345e922"
+canonical_name: "Zundas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zundas"]
+sameAs: []
+canonical_biography: "Zundas šiame gabale įtrauktas į vietovardžių rodyklę."
+place_authority: true
+historical_names: []
 ---
 # Zundas
 

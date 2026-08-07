@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-520aaa604a17a373290319c4"
+canonical_name: "Tamovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tamovas"]
+sameAs: []
+canonical_biography: "Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos. Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos. Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos."
+place_authority: true
+historical_names: []
 ---
 # Tamovas
 

@@ -265,7 +265,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-65625
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     Apie Galindos žemės nuniokojimą
 
@@ -289,7 +290,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-65626
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 61-62"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61-62."
   citata_originali: |
     200 D.— Galindia, in qua Galindite, Jer.— Galindin. T.,   ja  į pietus nuo Bartos, nuo
     Alnos (dab. Lynos) aukštumos (apie dab. Olštiną) vakaruose iki Nagutino (Negocino)
@@ -309,7 +311,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-171078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
   citata_originali: |
     Lietu­
     vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
@@ -330,7 +333,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-171079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 304."
   citata_originali: |
     Galindų krašte, klestinčiame dėl ilgos taikos, taip padau­
     gėjo žmonių, kad jie vos galėjo sutilpti. Tuomet krašto seniū­
@@ -350,7 +354,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-171080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
   citata_originali: |
     Šie, patikėję žynės žodžiu, tuojau sutelkė
     vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
@@ -371,7 +376,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-175176
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 265."
   citata_originali: |
     Rytuose ji
     ribojosi su Sūduva, pietuose — su Mazovija, vakaruo­
@@ -399,7 +405,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-175177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 363."
   citata_originali: |
     Apie kitus valdovus
     nežinome nieko aiškaus, bet jų buvimas nekelia abejo­
@@ -421,9 +428,9 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - t-009
 
 - id: c-184268
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 37"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 37."
   citata_originali: |
     Upis tenai didesniąsias minavoja,
     Ysla (Vistula), Nemunu (Kronas), Venta (Rubonas),
@@ -442,9 +449,9 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - t-010
 
 - id: c-184269
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 70"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 70."
   citata_originali: |
     Ketvirtajam sūnui teko kraštas tarp upių Ska­
     ros, Boiko ir Kurteno, kursai įkūręs tenai pilį Stain-

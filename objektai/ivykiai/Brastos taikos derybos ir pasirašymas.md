@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-01837
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 549"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 549."
   citata_originali: |
     Greitai įvykęs komunistų
     perversmas pertraukė ne tik Komiteto, bet ir šios Tarybos

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae0aeb47d8975a5761f2d2d3"
+canonical_name: "Jonas Basanavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Basanavičius","Dr. J. Basanavičius","Dr. Jonas Basanavičius","Jonas Basanavičius","objektai/autoriai/Dr. Jonas Basanavičius"]
+sameAs: []
+canonical_biography: "Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indoeuropiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavičius (1851–1927). Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika. Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelbta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, esančias apie Nemuną – Didžiąją ir Mažąją (Rytų."
 ---
 # Jonas Basanavičius
 
@@ -66,7 +73,8 @@ Jonas Basanavičius rodomas kaip vienas svarbiausių lietuvių tautinio sąjūd�
 - id: c-176369
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 118."
   citata_originali: |
     Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
     Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-

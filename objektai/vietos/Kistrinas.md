@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-033e7826a390f04a1fd24bea"
+canonical_name: "Kistrinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kistrinas"]
+sameAs: []
+canonical_biography: "Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vroclavo vyskupą, mylimą brolį, pa­ geidaudamas, kad didysis magistras lieptų jį palydėti į Kistriną ir pasi­ teirauti kunigaikščio Štolpenskio, ar minėtasis vyskupas turįs ar neturįs dėl ko."
+place_authority: true
+historical_names: []
 ---
 # Kistrinas
 
@@ -57,7 +66,8 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
 - id: c-82176
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 229."
   citata_originali: |
     Mergelės Marijos ėmimą į dangų, tai
     yra, 1432 metų rugpjūčio 13 dieną.

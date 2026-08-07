@@ -56,7 +56,8 @@ Pirmiausia vaitas įrodė nieko savavališkai ne­ padaręs, kadangi pirkliai,Ve
 - id: c-82537
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 311."
   citata_originali: |
     Pirmiausia
     vaitas įrodė nieko savavališkai ne­

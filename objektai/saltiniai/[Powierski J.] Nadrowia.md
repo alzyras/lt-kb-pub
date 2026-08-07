@@ -58,7 +58,8 @@ Dusburgietis teigia, kad [Powierski J.] Nadrowia.— SSS, Wrocław—Warszawa—
 - id: c-61882
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
   citata_originali: |
     [Powierski J.] Nadrowia.— SSS, Wrocław—Warszawa—Kraków, 1968, t. 3, cz. 2, s.
     342.

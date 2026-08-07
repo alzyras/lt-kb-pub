@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1daf14dcefe30ab4797b5d3f"
+canonical_name: "B. Ciešinskis (mirė 1649 m.)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["B. Ciešinskis","B. Ciešinskis (mirė 1649 m.)"]
+sameAs: []
+canonical_biography: "Ciešinskis (mirė 1649 m.)."
 ---
 # B. Ciešinskis (mirė 1649 m.)
 
@@ -54,9 +61,9 @@ Ciešinskis (mirė 1649 m.).
 ## Citatos
 
 - id: c-185569
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 356"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 356."
   citata_originali: |
     Literatūrinį darbą dirbo Kauno parapijos klebonas B. Ciešinskis (mirė 1649 m.).
     Šis aktyvus kontrreformacijos ir Katalikų bažnyčios reformos darbininkas aprašė ir

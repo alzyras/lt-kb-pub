@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7694d85d55ddceb15a288d5"
+canonical_name: "Salynas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Salynas"]
+sameAs: []
+canonical_biography: "Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim. Nemuno saloje, vadinamoje Salynu, Vytautas susitiko su ordino maršalka derėtis dėl išpirkimo ordino belaisvių, paimtų Tanenbergo mūšyje."
+place_authority: true
+historical_names: []
 ---
 # Salynas
 
@@ -168,7 +177,8 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 79."
   citata_originali: |
     Iškilmingas tos sutarties ratifikavimas (patvir­
     tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
@@ -188,7 +198,8 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 180."
   citata_originali: |
     Momentas buvo labai sumaniai pa­
     sirinktas: dabar kaip tik Vytautui buvo labai reikalinga parama
@@ -210,7 +221,8 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 226."
   citata_originali: |
     Vytau­
     tas su Jogaila tuo reikalu rūpinosi Romos kurijoj. Tų pačių
@@ -232,7 +244,8 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 291"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 291."
   citata_originali: |
     1398 mt. Salyno sutartimi jis pats užleido Ordinui visą Žemai­
     tiją, net iki Nevėžio^5 ). O 1400 met. net ginklu padėjo Ordinui
@@ -248,7 +261,8 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
 - id: c-166477
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 135."
   citata_originali: |
     Susitikimas buvo Salyne (sala
     Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vie-

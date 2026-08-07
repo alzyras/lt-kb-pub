@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4b693f705db5cffdfa0d9ae6"
+canonical_name: "Mikalojus Lancicijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Lancicijus"]
+sameAs: []
+canonical_biography: "Kaune gyvenimą baigė Mikalojus Lancicijus (Lęczyckis, 1574-1653), garsus Jėzuitų ordino veikėjas ne tik Lietuvoje, bet ir Romoje, Lenkijoje, Čekijoje, asketinių ir poleminių tekstų autorius, 1607-1609 m. Vilniaus akademijos profesorius, 1627-1631 m. Lietuvos."
 ---
 # Mikalojus Lancicijus
 
@@ -51,9 +58,9 @@ Kaune gyvenimą baigė Mikalojus Lancicijus (Lęczyckis, 1574-1653), garsus Jėz
 ## Citatos
 
 - id: c-185495
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 330"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 330."
   citata_originali: |
     Kaune gyvenimą baigė Mikalojus Lancicijus (Lęczyckis,
     1574-1653), garsus Jėzuitų ordino veikėjas ne tik Lietuvoje, bet ir Romoje, Lenkijoje,

@@ -50,7 +50,8 @@ Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pa
 - id: c-82584
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 181."
   citata_originali: |
     - Praneša man vėliau, kad įvyko griū­
     tis kalno, ant kurio stovi Aukštutinė pilis, dėl „Spieki"

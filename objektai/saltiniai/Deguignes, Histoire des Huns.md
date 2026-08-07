@@ -52,7 +52,8 @@ Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne 
 - id: c-176913
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 166."
   citata_originali: |
     Pranešimas apie jos mirtį yra 74
     Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns. T. IU,

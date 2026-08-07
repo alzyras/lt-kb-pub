@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-58d23db40459ae67a3a24f75"
+canonical_name: "Pina"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pina"]
+sameAs: []
+canonical_biography: "Pinskas lokalizuojamas prie Pinos upės."
+place_authority: true
+historical_names: []
 ---
 # Pina
 
@@ -52,7 +61,8 @@ Pinskas lokalizuojamas prie Pinos upės.
 - id: c-170332
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 195."
   citata_originali: |
     Pinskas — viena
     iš

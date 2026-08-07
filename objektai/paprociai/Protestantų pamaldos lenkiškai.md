@@ -64,7 +64,8 @@ Nenurodyta
 - id: c-67204
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 267."
   citata_originali: |
     Lietuviškai protestantizmas tebuvo
     skelbiamas žmonių, atėjusių iš Mažosios Lietuvos; bet tas judė-

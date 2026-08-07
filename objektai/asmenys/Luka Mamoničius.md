@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b3452cb26568a48339178d38"
+canonical_name: "Luka Mamoničius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Luka Mamoničius"]
+sameAs: []
+canonical_biography: "68 Petras Timofiejevas Mstislavliškis, iš Maskvos atvykęs spaustuvininkas, padedamas ir proteguojamas Alek­ sandro Chodkevičiaus sūnaus Jurgio, 1575 metais Vilniuje pas Kuzmą ir Luką Mamoničius, Jono Semena vičiaus Zažeckio, iždininko, Upytės se­ niūno ir jo."
 ---
 # Luka Mamoničius
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-83745
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 312."
   citata_originali: |
     Parašai: Vice-
     Cancellarius Leo Sapieha, Stanislaus

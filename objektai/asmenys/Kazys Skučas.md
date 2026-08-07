@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7a1816f5d959ff8a00e748fd"
+canonical_name: "Kazys Skučas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazys Skučas"]
+sameAs: []
+canonical_biography: "Kazį Skučą ir Saugumo departamento direktorių Augustiną Povilaitį."
 ---
 # Kazys Skučas
 
@@ -50,7 +57,8 @@ Kazį Skučą ir Saugumo departamento direktorių Augustiną Povilaitį.
 - id: c-20578
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 187."
   citata_originali: |
     ne politika, nebūtais kareivių grobimais, neva jų tardymais ir kankinimais,
     nesama karine antisovietine sąjunga su Latvija ir Estija, užkliuvo antiso-

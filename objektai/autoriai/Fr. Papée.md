@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c8da5aa8714f97c0289b2182"
+canonical_name: "Fr. Papée"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Fr. Papée"]
+sameAs: []
+canonical_biography: "i Papée, Fr."
 ---
 # Fr. Papée
 
@@ -32,7 +39,8 @@ i Papée, Fr.
 - id: c-32929
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 317."
   citata_originali: |
     — (”) _Markward Salzbach,_ PH, t. 9, 1909, 12-28, 121-132 p. — Smolka,
     St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1). —

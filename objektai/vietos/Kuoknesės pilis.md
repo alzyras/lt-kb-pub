@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e538388a726cd71729e032e2"
+canonical_name: "Kuoknesės pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kuoknesės pilis","Kuoknesės pilis (pilis)"]
+sameAs: []
+canonical_biography: "Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė."
+place_authority: true
+historical_names: []
 ---
 # Kuoknesės pilis (pilis)
 
@@ -61,7 +70,8 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 - id: c-45161
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 98."
   citata_originali: |
     Mūšio išvakarėse
 

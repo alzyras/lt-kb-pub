@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e64156a89dcf75ad40c46f6f"
+canonical_name: "Tarasenka Petras"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Tarasenka Petras"]
+sameAs: []
+canonical_biography: "Vytauto privilegijos Kaunui publikacija); Tarasenka Petras."
 ---
 # Tarasenka Petras
 
@@ -46,9 +53,9 @@ Vytauto privilegijos Kaunui publikacija); Tarasenka Petras.
 ## Citatos
 
 - id: c-185580
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 44"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 44."
   citata_originali: |
     Vytauto privilegijos Kaunui publikacija); Tarasenka Petras. Kauno
     pilies gynimas 1362 m. Kraštotyra, Vilnius, 1963, p. 98-105; Vytautas Didysis.

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb07c4ae6e9907b461a0e336"
+canonical_name: "Vilniaus geležinkelio mazgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus geležinkelio mazgas"]
+sameAs: []
+canonical_biography: "Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vėliau – Vilniaus geležinkelio mazgą."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus geležinkelio mazgas
 
@@ -50,7 +59,8 @@ Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto ap
 - id: c-74834
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 243."
   citata_originali: |
     Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
     vuočiai. Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus

@@ -86,7 +86,8 @@ Nenurodyta
 - id: c-169019
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 375."
   citata_originali: |
     Nors Vytautas ėmėsi visų priemonių, kurios, jo galva,
     buvo reikalingos išsaugoti su Zigmantu ir Vaclovu
@@ -112,7 +113,8 @@ Nenurodyta
 - id: c-178606
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 374"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 374."
   citata_originali: |
     Ten jie nusprendė visomis jėgomis pradėti bendrą
     karą prieš kryžiuočius. Jie ilgai svarstė reikšmingą ir

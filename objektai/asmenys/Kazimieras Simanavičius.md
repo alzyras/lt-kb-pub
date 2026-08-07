@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-657c16d4396ff6ca093bbbbc"
+canonical_name: "Kazimieras Simanavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras Simanavičius"]
+sameAs: []
+canonical_biography: "Simanavičius pirmasis aptarė daugiapakopės raketos idėją ir raketinės artilerijos idėją apskritai."
 ---
 # Kazimieras Simanavičius
 
@@ -50,7 +57,8 @@ Simanavičius pirmasis aptarė daugiapakopės raketos idėją ir raketinės arti
 - id: c-41381
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 117."
   citata_originali: |
     Veikalas buvo išverstas į daugelį Europos kalbų
 

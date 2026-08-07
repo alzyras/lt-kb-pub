@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2196eaddef9fba2a03d2bed5"
+canonical_name: "Turmanto stotis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Turmanto stotis"]
+sameAs: []
+canonical_biography: "Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (netoli Turmanto stoties), buvo nukaišiota gairėmis; tokia pat ji tebėra ir iki šiol."
+place_authority: true
+historical_names: []
 ---
 # Turmanto stotis
 
@@ -51,7 +60,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
 - id: c-72098
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 592"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 592."
   citata_originali: |
     Lietuvos Latvijos siena susidarė 487 klm.
     ilgumo. Ji visa, nuo Šventosios upės (pajūry) iki Lenkų oku-

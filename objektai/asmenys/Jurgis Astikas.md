@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e55bc21209a897b47505682e"
+canonical_name: "Jurgis Astikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Astikas"]
+sameAs: []
+canonical_biography: "Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­ vystę61."
 ---
 # Jurgis Astikas
 
@@ -63,7 +70,8 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
 - id: c-83720
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     Pagaliau čia, Vilniuje,
     šis didis karalius, nenuilstamai rūpindamasis krašto saugu­

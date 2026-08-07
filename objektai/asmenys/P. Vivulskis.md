@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-29fbaee9a9db80c0adfc06d9"
+canonical_name: "P. Vivulskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["P. Vivulskis"]
+sameAs: []
+canonical_biography: "Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir žuvus batalionų vadams majorams Antonievičiui, B."
 ---
 # P. Vivulskis
 
@@ -67,7 +74,8 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
 - id: c-44484
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 163."
   citata_originali: |
     Rusai forsavo upelį, su-
     kilėlių laikytą nepereinamu, ir
@@ -92,7 +100,8 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
 - id: c-44485
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 163."
   citata_originali: |
     Merlino dalinio kariais ir ne-
     įvertino situacijos. Sukilėliai

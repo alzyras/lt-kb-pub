@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b20e7cc2f62fdb3c6666ee40"
+canonical_name: "Otonas iš Bergo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Otonas iš Bergo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei ginklanešių, jie patraukė prie Pieštvės."
 ---
 # Otonas iš Bergo
 
@@ -78,7 +85,8 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - id: c-61033
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
   citata_originali: |
     Kas šitai valiotų padaryti, jeigu ne tas,
     kuris įsakė jūrai stovėti kaip mūras jų dešinėje ir kairėje, kad Izraelio tauta ją galėtų

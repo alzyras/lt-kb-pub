@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-abd468302e4929e184d78db8"
+canonical_name: "Radomas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Radomas"]
+sameAs: []
+canonical_biography: "Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žuvęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą surašė Radome."
+place_authority: true
+historical_names: []
 ---
 # Radomas
 
@@ -99,7 +108,8 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 188."
   citata_originali: |
     Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
     teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
@@ -116,7 +126,8 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 - id: c-68541
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 138."
   citata_originali: |
     Po ilgų derybų, 1401 m. buvo pa-
     siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
@@ -139,7 +150,8 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 188."
   citata_originali: |
     Vis dėlto norėtųsi manyti, kad toks dokumentas
     Jogailos buvo išduotas.

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eedb54c1130f13615e3fb352"
+canonical_name: "Semionas Dimitrijevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Semionas Dimitrijevičius"]
+sameAs: []
+canonical_biography: "KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas su Jogailai užsuko į Drucką2 ir pietavo pas Drucko kunigaikštį Semioną Dimitrijevičių3 ."
 ---
 # Semionas Dimitrijevičius
 
@@ -46,7 +53,8 @@ KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas
 - id: c-176716
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 101."
   citata_originali: |
     APIE TAI. KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ
     ŽMONĄ

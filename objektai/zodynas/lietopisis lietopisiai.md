@@ -60,7 +60,8 @@ Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų metraščių žymė:
 - id: c-34164
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 207."
   citata_originali: |
     Prie 1270 m. ji pradžioje
     pažymi : « Lietuvoje pradėjo valdyti pašėlęs _(okajauyj),_ nedorovingas,

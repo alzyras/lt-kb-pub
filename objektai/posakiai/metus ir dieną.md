@@ -50,7 +50,8 @@ O jeigu savo teisėjui užstatą parodytų po metų arba jeigu užstatas pas žy
 - id: c-82843
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 213-214"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 213-214."
   citata_originali: |
     197
 

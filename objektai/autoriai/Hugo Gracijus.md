@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88872eb7e4cc645c2bf446f0"
+canonical_name: "Hugo Gracijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hugo Gracijus"]
+sameAs: []
+canonical_biography: "Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracijaus veikalu „Historia Gottorum“."
 ---
 # Hugo Gracijus
 
@@ -53,7 +60,8 @@ Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracij
 - id: c-173311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 412."
   citata_originali: |
     Aiškiai matyti, kad
     jam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­

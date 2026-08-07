@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cf6a733ffb8d522439a7ac83"
+canonical_name: "Ivanas Kuncevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas Kuncevičius"]
+sameAs: []
+canonical_biography: "Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdovinių Kauno muitininkų, pasitelkę kitą muitininką Ivaną Kuncevičių, skundė Kauno vaitą Jokūbą Šuką ir suolininkus, kad jie nepranešę valdovo komisarams surašė išmaros teise valdovui. 1554 m. Žygimanto Augusto nurodymu Kauno muitinės laikytojai Ivanas Kuncevičius, Ulrichas Hozijus ir Mikalojus Šembelis tikrino kelius iš Žemaitijos į Prūsi ją ir įsitikino, kad pirkliai dažnai gabendavo kontrabandą."
 ---
 # Ivanas Kuncevičius
 
@@ -61,9 +68,9 @@ Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdo
 ## Citatos
 
 - id: c-185428
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 190"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 190."
   citata_originali: |
     Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Sere-
     džiaus palikimo, kurio dalis buvusi užrašyta parapinei bažnyčiai. Remdamasis šia aplin-
@@ -82,9 +89,9 @@ Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdo
     - t-001
 
 - id: c-185429
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 215"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 215."
   citata_originali: |
     Vis dėlto Kauno svečių teisė ir ypač jos sudedamoji dalis - sankrovos teisė nuo-
     lat buvo pažeidžiama, Prūsų ir kitų Lietuvos miestų pirkliai stengėsi apeiti Kauną.

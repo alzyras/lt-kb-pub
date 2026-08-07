@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-26179545d0fa1da9ccde76d4"
+canonical_name: "Vaclovas (Wanko) iš Płocko"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaclovas (Wanko) iš Płocko"]
+sameAs: []
+canonical_biography: "Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams rekomendavo kelią per Mozūriją."
 ---
 # Vaclovas (Wanko) iš Płocko
 
@@ -60,7 +67,8 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - id: c-94004
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 239."
   citata_originali: |
     Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su
     Mozurija. Išleidęs savo dukterį už Płocko «Vankos », Gediminas

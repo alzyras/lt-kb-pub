@@ -79,7 +79,8 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
 - id: c-172078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
   citata_originali: |
     1. Lydos apskrityje yra didžiulis [Dubičių] ežeras Dub, ar­
     ba Duupe, tai yra Dviupis, kadangi jame prasideda dvi upės,
@@ -99,7 +100,8 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
 - id: c-177089
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 230."
   citata_originali: |
     229
 
@@ -127,7 +129,8 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
 - id: c-179158
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 231."
   citata_originali: |
     Italijoje,
     Bažnyčios valstybėje, Nera įteka į Tiberį. Vengrijoje Nera įte­

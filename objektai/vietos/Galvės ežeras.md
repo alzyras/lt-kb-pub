@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-03410fd5f7ce046493d83fc5"
+canonical_name: "Galvės ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Galvės ežeras"]
+sameAs: []
+canonical_biography: "Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai. Šiame šaltinyje Galvės ežeras taip pat minimas kaip Trakų salos pilies vieta."
+place_authority: true
+historical_names: []
 ---
 # Galvės ežeras
 
@@ -93,7 +102,8 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 - id: c-76369
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 383."
   citata_originali: |
     Ar iš tikrųjų Vytauto epochai gali
     būti priskirtos pirmosios pabūklų liejyklos^5 ir bažnytinių varpų,
@@ -122,7 +132,8 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 - id: c-166410
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 92."
   citata_originali: |
     Todėl čia greit išaugo didelis miestas, kurs tapo amžinąja
     Lietuvos sostine. Netoli Vilniaus, sunkiai prieinamame Galvės
@@ -141,7 +152,8 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 - id: c-176419
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     Priešais centrinius vartus buvo
     iškastas gynybinis griovys, susijungiantis su ežeru.

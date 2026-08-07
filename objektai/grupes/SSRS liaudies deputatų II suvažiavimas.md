@@ -59,7 +59,8 @@ Pagaliau 1989 m. gruodį, veikiant visų Baltijos tautų atstovams, slaptųjų p
 - id: c-22734
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 238."
   citata_originali: |
     1989 m. rugpjūčio 23 d. 19 val. trijų Baltijos valstybių gyventojai pami-
     nėjo 50-ąsias Molotovo–Ribentropo pakto pasirašymo sukaktuves – per

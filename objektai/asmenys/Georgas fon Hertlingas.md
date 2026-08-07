@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e36a89bb64ead0d40235568"
+canonical_name: "Georgas fon Hertlingas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Georgas fon Hertlingas"]
+sameAs: []
+canonical_biography: "Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad."
 ---
 # Georgas fon Hertlingas
 
@@ -50,7 +57,8 @@ Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijo
 - id: c-21679
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 136."
   citata_originali: |
     Nauja Lietuvos valstybė turėjo
     būti demokratinė, parlamentinė.

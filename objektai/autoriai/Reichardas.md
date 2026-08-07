@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c852dcd954b2b59fb1d00540"
+canonical_name: "Reichardas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Reichardas"]
+sameAs: []
+canonical_biography: "Narbutas mini Reichardą kaip Didžiojo Vokietijos žemėlapio vadovą, pasitelktą prekybos keliui nužymėti."
 ---
 # Reichardas
 
@@ -53,7 +60,8 @@ Narbutas mini Reichardą kaip Didžiojo Vokietijos žemėlapio vadovą, pasitelk
 - id: c-174537
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
   citata_originali: |
     5 Nužymėti šį prekybos kelią padėjo:
     Kraus.

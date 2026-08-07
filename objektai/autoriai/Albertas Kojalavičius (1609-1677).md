@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0266e04e33614dc47690ba8d"
+canonical_name: "Albertas Kojalavičius (1609-1677)"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Albertas Kojalavičius","Albertas Kojalavičius (1609-1677)"]
+sameAs: []
+canonical_biography: "Albertas Kojaiavičius (1609-1677) jėzuitu tapo 1627 m., 1629-1632 m. studijavo filosofiją Nesvyžiaus kolegijoje, 1634-1638 m. - teologiją Vilniaus universitete, 1641 m. tapo šio universiteto filosofijos profesoriumi, 1645 m. - teologijos daktaru, 1653- 1655."
 ---
 # Albertas Kojalavičius (1609-1677)
 
@@ -54,9 +61,9 @@ Albertas Kojaiavičius (1609-1677) jėzuitu tapo 1627 m., 1629-1632 m. studijavo
 ## Citatos
 
 - id: c-185568
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 357"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 357."
   citata_originali: |
     Neabejotini Vilniaus universiteto auklėtiniai buvo jau minėti broliai Kojaiavičiai.
     Albertas Kojaiavičius (1609-1677) jėzuitu tapo 1627 m., 1629-1632 m. studijavo filo-

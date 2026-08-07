@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-edf64a85060fb6b829593448"
+canonical_name: "Mikalojus (Medininkų vyskupas nominatas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus (Medininkų vyskupas nominatas)"]
+sameAs: []
+canonical_biography: "Šioje sutartyje tarp kunigaikščių ir prelatų nurodyti: Černigovo ku­ nigaikštis Švitrigaila, Vilniaus vys­ kupas Motiejus ir Medininkų (Žemai­ tija) vyskupas nominatas Mikalojus."
 ---
 # Mikalojus (Medininkų vyskupas nominatas)
 
@@ -52,7 +59,8 @@ media_all_json: |-
 - id: c-83759
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 168."
   citata_originali: |
     Lenkijos miestai, jau
     Kazimiero Didžiojo laikais turėję

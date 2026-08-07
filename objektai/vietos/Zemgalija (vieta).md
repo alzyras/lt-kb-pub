@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4a880f0a59d4578fe30c3280"
+canonical_name: "Zemgalija (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zemgalija","Zemgalija (vieta)"]
+sameAs: []
+canonical_biography: "Paskui tą pergalę žemaičiai tuo pačiu žygiu Zemgaliją nuteriojo ir, ką tenai sutikdami, kirto ir naikino, pagrieję gausiai grobio, grįžo namo, žem galiams girioj bekiūtantiems, kurie tenkinos tūlus žemaičius grįžtančius pasalu nukavę."
+place_authority: true
+historical_names: []
 ---
 # Zemgalija (vieta)
 
@@ -46,9 +55,9 @@ Paskui tą pergalę žemaičiai tuo pačiu žygiu Zemgaliją nuteriojo ir, ką t
 ## Citatos
 
 - id: c-184529
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 210"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 210."
   citata_originali: |
     Rygoj pilionys, išgirdę tą nuokrytį, nusiminė,
     vieni raudojo, kiti meldės, o seni vaikams tvirtino,

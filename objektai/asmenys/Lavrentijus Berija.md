@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9da9f0ee73995309ac87d076"
+canonical_name: "Lavrentijus Berija"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lavrentijus Berija"]
+sameAs: []
+canonical_biography: "Berija ir apie ką jie kalbėjo, iki šiol nežinoma."
 ---
 # Lavrentijus Berija
 
@@ -41,7 +48,8 @@ Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
 - id: c-21853
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 213."
   citata_originali: |
     1953 m. pavasarį užverbuoti
     agentai išdavė J. Žemaitį-Vytautą

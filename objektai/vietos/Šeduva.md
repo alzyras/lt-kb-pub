@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5e2cd43ec4371d20a3a5e5d5"
+canonical_name: "Šeduva"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šeduva"]
+sameAs: []
+canonical_biography: "Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur."
+place_authority: true
+historical_names: []
 ---
 # Šeduva
 
@@ -89,7 +98,8 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 - id: c-44069
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 181."
   citata_originali: |
     Nuo gegužės 17 d. pra-
     dėti „sustiprintą žvalgybą“, priešui pradė-
@@ -115,7 +125,8 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 - id: c-69089
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     St. Radvilos fundacija), Pa-
     šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
@@ -134,9 +145,9 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     - t-001
 
 - id: c-185029
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 390"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 390."
   citata_originali: |
     Bet štai toliau
     po Lietuvą šis miestiečių savivaldos galias stiprinantis vi1kieras plito jau kaip Kauno

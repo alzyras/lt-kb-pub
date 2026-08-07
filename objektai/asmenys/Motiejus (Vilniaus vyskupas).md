@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fd82826c57be3d76ed87a31f"
+canonical_name: "Motiejus (Vilniaus vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus (Vilniaus vyskupas)"]
+sameAs: []
+canonical_biography: "Šioje sutartyje tarp kunigaikščių ir prelatų nurodyti: Černigovo ku­ nigaikštis Švitrigaila, Vilniaus vys­ kupas Motiejus ir Medininkų (Žemai­ tija) vyskupas nominatas Mikalojus. [Dievobaimin­ ga širdimi apsvarstę pirmuosius veiksmus, Kristuje gerbiamam tėvui ponui Vilniaus vyskupui Motiejui ir jo įpėdiniams, Visagalio Dievo ir šlo­ vingosios Mergelės Marijos garbei ir t. O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių."
 ---
 # Motiejus (Vilniaus vyskupas)
 
@@ -84,7 +91,8 @@ media_all_json: |-
 - id: c-83425
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 168."
   citata_originali: |
     Lenkijos miestai, jau
     Kazimiero Didžiojo laikais turėję
@@ -116,7 +124,8 @@ media_all_json: |-
 - id: c-83426
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 397."
   citata_originali: |
     IV KNYGA
     duonos formos miesto tarnams ir pareigūnams grasino kal­
@@ -152,7 +161,8 @@ media_all_json: |-
 - id: c-83427
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 239."
   citata_originali: |
     Nusilpęs, nesėkmių pribaigtas prūsas lio­
     vėsi kliudęs Lietuvos ryšiams bei svarbiems šios valstybės

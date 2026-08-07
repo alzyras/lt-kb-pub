@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5650ea96534ebc1e244bf882"
+canonical_name: "Wenta J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Wenta J"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad wenta J."
 ---
 # Wenta J
 
@@ -40,7 +47,8 @@ Dusburgietis teigia, kad wenta J.
 - id: c-61483
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 276."
   citata_originali: |
     Wenta J. Kronika Piotra z Dusburga a dzieje Zakonu Krzyżackiego zawarte w Kronice
     oliwskiej.— Studia źródloznawcze, Warszawa—Poznań, 1980, 25, s. 121—132.

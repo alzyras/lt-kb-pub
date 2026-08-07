@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c10c3befec2f42826e938a3a"
+canonical_name: "Henrikas Vrede"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Vrede"]
+sameAs: []
+canonical_biography: "Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą, pats žuvo, tačiau jo dėka Karolis Ix išsigelbėjo."
 ---
 # Henrikas Vrede
 
@@ -51,7 +58,8 @@ media_all_json: |-
 - id: c-44343
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 108."
   citata_originali: |
     Beje, Švedijos karalius
     Karolis 1x vos nepakliuvo į nelaisvę. Švedų

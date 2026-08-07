@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2734408cf8e49a4d3c3e876"
+canonical_name: "Simonas Stanevičius"
+entity_roles: ["author","person"]
+entity_view_role: "person"
+entity_aliases: ["Simonas Stanevičius"]
+sameAs: []
+canonical_biography: "Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jurgis Plioteris turėjo keletą Švėkšnoje rastų auksinių monetų. T. Narbuto papildymo komentare spėjama, kad Raseinių korespondentu galėjo būti Simonas Stanevičius (1799-1848). Simonas Stanevičius buvęs garbinamas kaip dievas ir turėjęs savo šventyklą Nemunaityje, ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų apskrityje yra taip besivadinąs miestelis su pylimų žymėmis ir keliais milžinkapiais."
 ---
 # Simonas Stanevičius
 
@@ -77,7 +84,8 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
 - id: c-172928
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Apie jį dar esama padavimo, kad jis buvęs gar­
     binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,
@@ -102,7 +110,8 @@ Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jur
 - id: c-173852
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 478"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 478."
   citata_originali: |
     Paragrafas, kuriuo T. Narbutas papildė skyrių, rengdamas antrąjį
     LTI leidimą (PEĮ. L. 104—105). Galima spėti, jog šio laiško au­

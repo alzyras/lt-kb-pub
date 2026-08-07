@@ -83,7 +83,8 @@ Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su už
 - id: c-172012
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
   citata_originali: |
     Šaltinis
     yra senųjų teismų sprendimai, priimti tikrojoje Lietuvoje, be­

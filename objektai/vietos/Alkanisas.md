@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fbe6a255d9ac378d87fa1689"
+canonical_name: "Alkanisas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Alkanisas"]
+sameAs: []
+canonical_biography: "Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­ žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio mas- 50 Petrus Maureus Royzius, gimęs Alcagnizo [ Alkaniso] mieste Aragonoje, kilęs iš ispanų Ruiz de Moros gi­ minės."
+place_authority: true
+historical_names: []
 ---
 # Alkanisas
 
@@ -58,7 +67,8 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
 - id: c-82145
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 302."
   citata_originali: |
     Onos bažnyčią,
     išplėsti Švč. Trejybės prieglaudą ir ją geriau aprūpinti pave­

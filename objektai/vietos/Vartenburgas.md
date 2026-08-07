@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-17e5ed66e4089620b6692fc4"
+canonical_name: "Vartenburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vartenburgas"]
+sameAs: []
+canonical_biography: "Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­ tenburgo ir Gunlaukeno apskričiai. O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­ kovisku, Drohičinu, Melniku."
+place_authority: true
+historical_names: []
 ---
 # Vartenburgas
 
@@ -52,7 +61,8 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 30."
   citata_originali: |
     Abu ma­
     gistrai (Livonijos ir Prūsų) su didžiaisiais Lietuvos kunigaikš­

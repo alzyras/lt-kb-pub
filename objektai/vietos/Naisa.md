@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7f7ebe7341e31bd667b63de"
+canonical_name: "Naisa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naisa"]
+sameAs: []
+canonical_biography: "Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumušė gotų kariuomenę."
+place_authority: true
+historical_names: []
 ---
 # Naisa
 
@@ -64,7 +73,8 @@ Narbuto pasakojime apie 269 m. prie Naisos Dardanijoje Aurelianas Klaudijus sumu
 - id: c-175655
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
   citata_originali: |
     298
     Netrukus po to, apie 269 metus, gotai, surinkę milži­

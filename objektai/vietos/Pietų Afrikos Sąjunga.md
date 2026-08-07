@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-da69198d10c7034a31787ae6"
+canonical_name: "Pietų Afrikos Sąjunga"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pietų Afrikos Sąjunga"]
+sameAs: []
+canonical_biography: "sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV."
+place_authority: true
+historical_names: []
 ---
 # Pietų Afrikos Sąjunga
 
@@ -52,7 +61,8 @@ sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
 - id: c-24382
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 175."
   citata_originali: |
     Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-
     venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a8be9e36abbc468c7df76b63"
+canonical_name: "Karolis Riteris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Karolis Riteris"]
+sameAs: []
+canonical_biography: "Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pievos prie Dono žiočių į Azovo jūrą. Narbuto perteikimu, Karolis Riteris indų vardą siejo su senovės kolchais, saulės garbintojais, atėjusiais iš Indijos prie Meotų. Narbuto teigimu, Karolis Riteris veikale apie Europos senovę įrodė sauromatų giminystę arba jų mokslingumą iš indų kolonistų."
 ---
 # Karolis Riteris
 
@@ -158,7 +165,8 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
 - id: c-174424
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 387"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 387."
   citata_originali: |
     Čia plyti vešlios žolės
     turtingos Padonės pievos, supančios Dono žiotis į Azovo
@@ -181,7 +189,8 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
 - id: c-174425
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 394"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 394."
   citata_originali: |
     Si pataisa prieštarauja visiems rankraščiams (Co-
     dices)i1, be to, yra tik paprasta prielaida, anot Veselnigo,
@@ -215,7 +224,8 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
 - id: c-174770
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 396."
   citata_originali: |
     Todėl ši, jei taip galima sakyti, pravardė turėjo
     kilti iš jų judraus, besikeičiančio ir nepastovaus gyveni­
@@ -239,7 +249,8 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
 - id: c-177278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 396."
   citata_originali: |
     Prie pačių keisčiausių išvadų, nepaisant slaviško
     skambėjimo panašumo, labai artimo esmei, derėtų pri­

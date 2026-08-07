@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd1abad9ef74dd54a3cdc14a"
+canonical_name: "Narimantas Gediminaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Narimantas Gediminaitis"]
+sameAs: []
+canonical_biography: "Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė Lietuvos 40 tūkstančių“, kad buvo nukautas „kunigaikštis Narimantas Gediminaitis (Algirdo ir Kęstučio brolis), o su juo kunigaikščių ir vaivadų, ir Lietuvos daugybė“. Rugpjūčio pradžioje švedai paėmė Orechovą - svarbų strateginį punktą Ladogos paežerėje, prie Nevos ištakų, kurį valdė Narimantas, t.y. Rugpjūčio pradžioje švedai paėmė Orechovą - svarbų strateginį punktą Ladogos paežerėje, prie Nevos ištakų, kurį valdė Narimantas, t."
 ---
 # Narimantas Gediminaitis
 
@@ -85,7 +92,8 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
 - id: c-44474
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     Tam tikslui magistras su
     pavaldiniais pastatė mergelių vienuolyną
@@ -111,7 +119,8 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
 - id: c-44475
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     Tais pačiais metais Švedijos karalius,
     palaikomas popiežiaus, pradėjo puo-
@@ -135,7 +144,8 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
 - id: c-44476
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 39."
   citata_originali: |
     Atvykus naujai pagalbai Ordinui, „daug
     vokiečių, anglų“, kryžiuočiai vėl veikė

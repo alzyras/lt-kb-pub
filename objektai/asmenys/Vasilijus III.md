@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0ea79fc62e3ad340dcda407e"
+canonical_name: "Vasilijus III"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vasilijus III"]
+sameAs: []
+canonical_biography: "Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš Smolensko."
 ---
 # Vasilijus III
 
@@ -51,7 +58,8 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
 - id: c-44558
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 87."
   citata_originali: |
     Po mūšio pasikeitė karo eiga.
     Išgirdęs apie pralaimėjimą,

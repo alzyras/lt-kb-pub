@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-77e5a7f4fa07c2bbe9e52e93"
+canonical_name: "Hekatėjas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hekatėjas"]
+sameAs: []
+canonical_biography: "Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykščių genčių kalba turėjęs reikšti sukrešėjusią arba užšąlančią jūrą."
 ---
 # Hekatėjas
 
@@ -53,7 +60,8 @@ Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykšč
 - id: c-174491
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 176."
   citata_originali: |
     Senovės
     autoriai vadino ją taip įvairiai, jog nėra Žemėje kitos,

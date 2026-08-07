@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-565f696ce9076e71dbd57ba7"
+canonical_name: "Pranciškus de Comitibus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Pranciškus de Comitibus"]
+sameAs: []
+canonical_biography: "Gi Pranciškus de Comitibus yra užrašęs, kad Vytauto bijojo ir jį gerbė ne tiktai totorių ciesorius (vyriausias chanas), (^1) ) C."
 ---
 # Pranciškus de Comitibus
 
@@ -50,7 +57,8 @@ Gi Pranciškus de Comitibus yra užrašęs, kad Vytauto bijojo ir jį gerbė ne 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 159."
   citata_originali: |
     Kai kurie iš jų priė­
     mė ir krikščionybę.

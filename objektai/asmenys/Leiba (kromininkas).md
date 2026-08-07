@@ -35,6 +35,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-439d2053f5ac19a161c2fb9f"
+canonical_name: "Leiba (kromininkas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Leiba","Leiba (kromininkas)"]
+sameAs: []
+canonical_biography: "Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vertęsis kromo nešiojimu ir su kaimynais gyvenęs santaikoje."
 ---
 # Leiba (kromininkas)
 

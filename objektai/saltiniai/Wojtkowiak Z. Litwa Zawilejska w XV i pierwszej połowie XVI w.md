@@ -37,7 +37,8 @@ Dusburgietis teigia, kad wojtkowiak Z.
 - id: c-62002
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 276."
   citata_originali: |
     Wojtkowiak Z. Litwa Zawilejska w XV i pierwszej połowie XVI w.—Poznań, 1980.
   citata_rodoma: "Wojtkowiak Z. Litwa Zawilejska w XV i pierwszej połowie XVI w.—Poznań, 1980."

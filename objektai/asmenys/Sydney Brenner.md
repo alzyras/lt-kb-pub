@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a55a3e07548f91ad113c56af"
+canonical_name: "Sydney Brenner"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sydney Brenner"]
+sameAs: []
+canonical_biography: "1865 m.), Gertrude Ellion (Geltrūda Elion, 1918–1999; 1988 m. premija; tėvas emigravo iš Lietuvos į JAV būdamas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. batsiuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m. premija)."
 ---
 # Sydney Brenner
 
@@ -37,7 +44,8 @@ media_all_json: |-
 - id: c-22022
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265."
   citata_originali: |
     Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
     tauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad

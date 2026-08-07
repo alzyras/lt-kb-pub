@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d16f1f1b5e510d0c82c66a27"
+canonical_name: "Michalovos žemės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Michalovos žemės"]
+sameAs: []
+canonical_biography: "Lenki­ jai labai rūpėjo atgauti Pamario, Kulmijos ir Michalovos že­ mės, o lietuviams — Žemaitija, kurią ir taip faktiškai valdė. Bet Pamario, Kulmijos ir Michalovos sritys, į kurias Lenkija pretendavo, turėjo ir toliau pasilikti Ordinui, nes tai sutiko su senomis Vytauto pažiūromis, kuris ir šį kartą nenorėjo, kad įvyk­ tų visiškas Lenkijos susitaikinimas su Ordinu."
+place_authority: true
+historical_names: []
 ---
 # Michalovos žemės
 
@@ -69,7 +78,8 @@ Lenki­ jai labai rūpėjo atgauti Pamario, Kulmijos ir Michalovos že­ mės, o
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 211."
   citata_originali: |
     Tuo buvo panaikintas ir Breslavo sprendimas. Bet
     Pamario, Kulmijos ir Michalovos sritys, į kurias Lenkija
@@ -92,7 +102,8 @@ Lenki­ jai labai rūpėjo atgauti Pamario, Kulmijos ir Michalovos že­ mės, o
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 207."
   citata_originali: |
     Bet
     to nesulaukė, nes abi tautos turėjo skirtingų reikalų. Lenki­

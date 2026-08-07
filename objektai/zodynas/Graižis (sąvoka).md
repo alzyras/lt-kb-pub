@@ -46,9 +46,9 @@ Veizint į žodžius Lietuvos kalbos: graižis, arba graižinys, muštinis, skat
 ## Citatos
 
 - id: c-184566
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 126"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 126."
   citata_originali: |
     Veizint į žodžius Lietuvos kalbos: graižis, arba
     graižinys, muštinis, skatikas, nauda, manta, arba pi­

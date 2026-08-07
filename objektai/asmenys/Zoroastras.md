@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ba8c4f0ff43211ecc3d94c7a"
+canonical_name: "Zoroastras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zoroastras"]
+sameAs: []
+canonical_biography: "Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosčiusias slaptas apeigas."
 ---
 # Zoroastras
 
@@ -53,7 +60,8 @@ Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosč
 - id: c-173003
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 196."
   citata_originali: |
     Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
     tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,

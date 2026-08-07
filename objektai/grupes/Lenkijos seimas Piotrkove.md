@@ -63,7 +63,8 @@ Narbutas rašė, kad 1567 m. Lenkijos seimas Piotrkove ilgai ir sėkmingai posė
 - id: c-172408
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
   citata_originali: |
     Po trumpo
     miesto aprašymo ir žinutės apie Lietuvos seimą,

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aaebd74fe648054fa72ebff5"
+canonical_name: "Laukstetas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Laukstetas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo vieno ten."
 ---
 # Laukstetas
 
@@ -60,7 +67,8 @@ Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavo
 - id: c-61006
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     112 (107). Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
     Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino

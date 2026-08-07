@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2768b266a8521a2a3306d53f"
+canonical_name: "J. Kantrimas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Kantrimas"]
+sameAs: []
+canonical_biography: "Kan­ trimas, J. (= Jonikas, P.) : Baltų kalbos ir tautos, Aidai, nr. 6, 1947, 263-267 p."
 ---
 # J. Kantrimas
 
@@ -53,7 +60,8 @@ Kan­ trimas, J. (= Jonikas, P.) : Baltų kalbos ir tautos, Aidai, nr. 6, 1947, 
 - id: c-32969
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 135."
   citata_originali: |
     — Jodkowski, J. : _Grodno i okolice
     w zaraniu dziejów Litwy i Rusi nad Niemnem,_ 1928. — Johansen, P. :

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9f761b5d547bf55900cb73b0"
+canonical_name: "Vladas Jazokas-Petraitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladas Jazokas-Petraitis"]
+sameAs: []
+canonical_biography: "Desantininkams vadovavo iš Pasvalio kilęs leitenantas Vladas JazokasPetraitis. JazokasPetraitis."
 ---
 # Vladas Jazokas-Petraitis
 
@@ -53,7 +60,8 @@ Desantininkams vadovavo iš Pasvalio kilęs leitenantas Vladas JazokasPetraitis.
 - id: c-42312
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 223."
   citata_originali: |
     1945 m. vasario mėn. buvo įkurta 3-ioji
     Šiaurės LLA apygarda. Pirmasis apygardos

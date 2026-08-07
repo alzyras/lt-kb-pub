@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e37a3acac16c357f1b123ae5"
+canonical_name: "Guerquin B"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Guerquin B"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje Malborka, р."
 ---
 # Guerquin B
 
@@ -54,7 +61,8 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
 - id: c-61342
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
   citata_originali: |
     211 (206). Apie Skomanto, sūduvių vado, atsivertimą
     Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto,

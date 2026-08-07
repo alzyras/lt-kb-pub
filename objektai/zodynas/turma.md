@@ -50,7 +50,8 @@ Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių 
 - id: c-59510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
   citata_originali: |
     437 D.—in tres turmas, Jer.— in drîe[...] partie[...] teil. Plg. D. III, 282, 286 —
     lietuviai padalijo kariuomenę in duas turmas (Jer.— in zwei gescheidin; ūf zwei pfat);

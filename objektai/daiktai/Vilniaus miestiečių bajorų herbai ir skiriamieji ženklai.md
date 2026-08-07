@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-83079
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 295."
   citata_originali: |
     Tas pats Gardino seimas Vilniaus miesto
     gyventojams buvo labai įsimintinas dėl suteiktos privilegi­

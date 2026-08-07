@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d40548133c14ffaef41306c2"
+canonical_name: "Rupertas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rupertas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Rupertas
 

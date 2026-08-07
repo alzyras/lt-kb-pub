@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6f6356368072ddb8aa14710e"
+canonical_name: "Leonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Leonas"]
+sameAs: []
+canonical_biography: "Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui priskyrė ankstesnį Lietuvos didžiojo kunigaikščio nužudymą per vaišes."
 ---
 # Leonas
 
@@ -62,7 +69,8 @@ Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui prisky
 - id: c-169370
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 128."
   citata_originali: |
     Su pastaraisiais Germantas
     suėjo į draugystę, pasiūlydamas sąjungą — ne tiek iš

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8b0f2b77d6e8c48eb63b56c1"
+canonical_name: "Viklifas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Viklifas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad apie 1405 m. Jeronimas, grįždamas į tėvynę, parsinešė Viklifo raštus."
 ---
 # Viklifas
 
@@ -65,7 +72,8 @@ Narbutas rašo, kad apie 1405 m. Jeronimas, grįždamas į tėvynę, parsinešė
 - id: c-173291
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 399."
   citata_originali: |
     Tie­
     sa, aukštasis dvasininkas gėdingai nužudė lordą, bet įpūtė po

@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8074daf91078c2edb7a9af85"
+canonical_name: "Bartenšteinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bartenšteinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame Bartenšteine, dievas juos pamokęs bėgti paliekant pilį (III, 121). Dusburgietis teigia, kad po to ima pasakoti apie atskirų pilių bei miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas, Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174). Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258."
+place_authority: true
+historical_names: []
 ---
 # Bartenšteinas
 
@@ -109,11 +118,19 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 <a id="claim-t-58302"></a>
 - t-005
   teiginys: "Po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pilėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bartenšteinas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pilėnai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bartenšteinas\" parinktas kaip owner_note_path. Targetas \"Pilėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
+    - c-58934
     - c-167534
 
 <a id="claim-t-58303"></a>
@@ -202,7 +219,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 - id: c-58930
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     256 Bartenšteinas (dab. Bartošicė; vardo pagrindą sudaro prūsų—bartų vardas) Alnos
     (dab. Lynos) upės kairiajame krante. Pilies kalnas — miesto šiaurinėje dalyje.
@@ -218,7 +236,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 - id: c-58931
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Kai kryžiuočiai jau nebegalėjo  priešintis apgultame Bartenšteine, dievas
     juos pamokęs bėgti paliekant pilį (III, 121). Kitąkart mūšio metu danguje pasirodžiusi
@@ -235,7 +254,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 - id: c-58932
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     Apie Bartenšteino pilies puolimą
 
@@ -257,7 +277,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 - id: c-58933
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
     Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
@@ -277,7 +298,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 - id: c-58934
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 150."
   citata_originali: |
     Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
     ir nukovė daugiau nei du tūkstančius priešo karių. Po to broliai atstatė Bartenšteino pilį,
@@ -291,14 +313,17 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   citata_rodoma: "Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį\nir nukovė daugiau nei du tūkstančius priešo karių. Po to broliai atstatė Bartenšteino pilį,\nkur gyvena po šiai dienai.\n\n\n\n\n\n     175 (170)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-58936
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
   citata_originali: |
     Kronikininkas, rašydamas apie antrąjį prūsų sukilimą, Ordino brolių veiklos pagrindine
     vieta laiko Karaliaučių (III, 95, 100—113). Po to ima pasakoti apie atskirų pilių bei
@@ -319,7 +344,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 - id: c-167532
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
 
@@ -342,7 +368,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 - id: c-167534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
     tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
@@ -360,7 +387,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 - id: c-177126
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
   citata_originali: |
     1329 metais Lietuvos didysis kunigaikštis
     Gediminas, puldamas vieną iš tų pilių, buvo nukautas kažko­

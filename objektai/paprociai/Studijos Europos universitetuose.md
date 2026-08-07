@@ -72,7 +72,8 @@ Nenurodyta
 - id: c-67224
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 261-262"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 261-262."
   citata_originali: |
     Jono bažnyčios buvo aukštes-
     nioji teisės mokykla. Šiaip, kas norėdavo gauti aukštesniojo ir
@@ -94,7 +95,8 @@ Nenurodyta
 - id: c-67225
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 164."
   citata_originali: |
     Pa-
     goniškoji, nuo Europos atskirta ir jos ujama Lietuva tapo krikš-

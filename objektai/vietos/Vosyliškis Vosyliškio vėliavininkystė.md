@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1f2c01e781cfaa137b7c7b7f"
+canonical_name: "Vosyliškis Vosyliškio vėliavininkystė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vosyliškis Vosyliškio vėliavininkystė"]
+sameAs: []
+canonical_biography: "Narbutas nurodo prie galbūt XV a. pirmosios pusės dokumento radęs antspaudą, kuriuo Aleksandras Jurgaitis Meteika tvirtino Vosyliškio vėliavininkystės žemininkų žemės mainus."
+place_authority: true
+historical_names: []
 ---
 # Vosyliškis Vosyliškio vėliavininkystė
 

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-49509c3ec68a2feb7ffdd0ed"
+canonical_name: "Dalinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Dalinas"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto vertinimu, Dalinas su Kelsijumi pernelyg įsismagino skaičiuodami Baltijos jūros nusekimą nuo Kristaus gimimo."
 ---
 # Dalinas
 
@@ -75,7 +82,8 @@ Teodoro Narbuto vertinimu, Dalinas su Kelsijumi pernelyg įsismagino skaičiuoda
 - id: c-174550
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Iš tikrųjų kai ku­
     rias sausumas galima laikyti buvusiomis salomis po to,

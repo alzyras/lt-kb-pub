@@ -59,9 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184626
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 557"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 557."
   citata_originali: |
     Įžagę lietuviai žemaičiai į taip naudingą grobį
     Brandenburgijos atentį metą sukėlė vėl karėjus ir 1327

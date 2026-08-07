@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f5ed781c31ba2b96cbe2ce67"
+canonical_name: "H. Dembinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["H. Dembinskis"]
+sameAs: []
+canonical_biography: "Dembinskio daliniai, kurie turėjo imituoti puolimą per Neries Žaliąjį tiltą ir nukreipti dalį priešo pajėgų nuo pagrindinės sukilėlių puolimo krypties (šio plano įgyvendinti nepavyko, tam 154 PANERIŲ MUSIS 1831 m."
 ---
 # H. Dembinskis
 
@@ -61,7 +68,8 @@ Dembinskio daliniai, kurie turėjo imituoti puolimą per Neries Žaliąjį tilt�
 - id: c-44340
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 156."
   citata_originali: |
     Sukilėlių pajėgos
 

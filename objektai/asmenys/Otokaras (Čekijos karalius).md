@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0d6445c67e907978a4d38a1d"
+canonical_name: "Otokaras (Čekijos karalius)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Otokaras (Čekijos karalius)"]
+sameAs: []
+canonical_biography: "Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met."
 ---
 # Otokaras (Čekijos karalius)
 
@@ -63,7 +70,8 @@ Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 308."
   citata_originali: |
     Vytautas su­
     teikė Brastos ir Trakų, o 1389 met. ir Gardino žydams privilegiją.

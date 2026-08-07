@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5674cbc7a2efeef8311d025b"
+canonical_name: "V. Černeckis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Černeckis"]
+sameAs: []
+canonical_biography: "Černeckis rašė apie kapitalistinės pramo­ nės formavimąsi Kaune 1861-1913 m. (IstV, t."
 ---
 # V. Černeckis
 
@@ -58,7 +65,8 @@ media_all_json: |-
 - id: c-33189
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 87."
   citata_originali: |
     R. Strazdūnaitė:
     _Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje_ (Ak-

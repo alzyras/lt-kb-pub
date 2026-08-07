@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-426ccb1436b94004259ab3d5"
+canonical_name: "Celsas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Celsas"]
+sameAs: []
+canonical_biography: "Iš Origeno, iš aštuntosios knygos, ži nome, kad Celsas sakydavo krikščionims: „Jūs giriatės, kad tikite amžinomis bausmėmis po mirties, bet ar ne tą patį sa viesiems šalininkams skelbia visi paslapčių žyniai?“ Toks ir ki toks moralės mokslas būdavo."
 ---
 # Celsas
 

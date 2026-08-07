@@ -64,7 +64,8 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
 - id: c-42679
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 118."
   citata_originali: |
     Trečią kovų dieną janičarai
     po artilerinio apšaudymo atakavo
@@ -86,7 +87,8 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
 - id: c-44747
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 117."
   citata_originali: |
     Pirmiausiai janičarai (turkų pėstininkai),
     o po to ir turkų kavalerija atakavo atski-

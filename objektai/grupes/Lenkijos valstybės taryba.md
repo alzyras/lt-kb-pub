@@ -100,7 +100,8 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 - id: c-22512
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą
     valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.
@@ -122,7 +123,8 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 - id: c-72548
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     Tačiau didžiausias Krėvos sutarties minusas, kad viską palikta lem-
     ti ne teisiniams, o realiems valstybių santykiams – čia Lietuvai ir glūdėjo
@@ -148,7 +150,8 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 - id: c-72549
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     O tiksliau –
     Jogaila, Lietuvos didysis kunigaikštis, tapo Jogailos, Lenkijos karaliaus,
@@ -174,7 +177,8 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 - id: c-72550
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 41."
   citata_originali: |
     Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-
     ti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.

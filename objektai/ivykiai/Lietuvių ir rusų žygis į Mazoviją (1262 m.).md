@@ -93,7 +93,8 @@ Nenurodyta
 - id: c-168967
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 106."
   citata_originali: |
     Mindaugas, susilaukęs paramos iš
     rusų, slaptai ir netikėtai didžiulių miškų takais įsibro­
@@ -117,7 +118,8 @@ Nenurodyta
 - id: c-168968
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 107."
   citata_originali: |
     Netekę vadų,
     ■ Mazovijos žmonės, sutelkę žemdirbius ir aukštuomenę

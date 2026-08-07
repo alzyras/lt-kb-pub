@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-10c7c4ca7231225729aef2c8"
+canonical_name: "Jurgis Cemblakas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Cemblakas"]
+sameAs: []
+canonical_biography: "sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijevo metropolitu paskelbė Jurgį Cemblaką. pasiųsdamas Kijevo pravoslavų metropoli­ tą Jurgį Cemblaką į visuotiną bažnyčios sinodą Konstancijon^3 )."
 ---
 # Jurgis Cemblakas
 
@@ -63,7 +70,8 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 306"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 306."
   citata_originali: |
     Dėl to jau Algirdas buvo dėjęs daug
     pastangų, ir jam pagaliau buvo pasisekę įkurti Lietuvos kuni­

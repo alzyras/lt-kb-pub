@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0b149a5154149e6679dcd8e6"
+canonical_name: "Bazilis Bonifacas Jakimavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bazilis Bonifacas Jakimavičius"]
+sameAs: []
+canonical_biography: "Narbutas poeto Jakimavičiaus žodžius laikė pagrindu papildyti lietuvių deivių rinkinį nauju objektu."
 ---
 # Bazilis Bonifacas Jakimavičius
 
@@ -54,7 +61,8 @@ Narbutas poeto Jakimavičiaus žodžius laikė pagrindu papildyti lietuvių deiv
 - id: c-173246
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 150."
   citata_originali: |
     Tai buvo piktųjų dvasių apgaulė; ty-
     kodamos prie vandens, suvedžiodamos žmones, jos stengėsi

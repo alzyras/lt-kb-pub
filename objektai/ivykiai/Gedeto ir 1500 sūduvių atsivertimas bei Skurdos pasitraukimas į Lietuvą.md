@@ -95,7 +95,8 @@ Nenurodyta
 - id: c-85317
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 172."
   citata_originali: |
     Priešingais atvejais broliai irgi tinkamai elgėsi. Dėl to Prūsijoje daug naujakrikščių,
     kurių protėviai gimę iš kilmingų šeimų, tačiau jie patys dėl nusikaltimų, padarytų tikėjimui

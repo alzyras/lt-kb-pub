@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4fc0b348fcd7629962ece477"
+canonical_name: "Lenartas Kolavas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lenartas Kolavas"]
+sameAs: []
+canonical_biography: "1552 m. Lenartas Kolavas atsivedė savo nelaisvą mergą Barborą ir sakė, kad ši tris kartus ėjusi apie ugniakurą su plaukais, plunksnomis ir žeme iš po slenksčio."
 ---
 # Lenartas Kolavas
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185490
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 186"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 186."
   citata_originali: |
     Petras sakėsi nesąs burtininkas, tik geras
     žmogus, bet Francas davė jį pasodinti į kalėjimą. 1552 m. Lenartas Kolavas atsivedė

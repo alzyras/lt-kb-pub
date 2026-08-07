@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-05e23e381b5b98229165baf4"
+canonical_name: "Karolis Zikaras"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Karolio Zikaro","Karolis Zikaras,","Karolis Zikaras (sud.)"]
+sameAs: []
+canonical_biography: "Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudarytojas, skyrių įvadų autorius ir kelių straipsnių bei informacinių blokų autorius. Autorių sąraše jis apibūdinamas kaip Lietuvos karybos istorija, jos didaktika ir valstybingumo istorija besidomintis istorikas."
 ---
 # Karolis Zikaras
 
@@ -246,7 +253,8 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - id: c-11411
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 267."
   citata_originali: |
     Karolis Zikaras (gimęs 1979 m.), Vilniaus universiteto Istorijos
     fakultete įgijo bakalauro ir magistro laipsnius. Domisi Lietuvos
@@ -263,7 +271,8 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - id: c-42424
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 6-7"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 6-7."
   citata_originali: |
     šaltieji ginklai)
 
@@ -374,7 +383,8 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - id: c-42426
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     Bendrųjų Informacinių blokų sąrašas
 
@@ -394,7 +404,8 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - id: c-42427
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     P. 43, „KRYŽIUOČIAI PRIEŠ LIETUVĄ XIV A.‘ Karolis Zikaras.
   statusas: verified
@@ -408,7 +419,8 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - id: c-156018
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 286."
   citata_originali: |
     Kalbos redaktorius
     doc. dr. Jonas Arvasevičius
@@ -447,7 +459,8 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - id: c-156019
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     KARAS PO KARO
 
@@ -466,7 +479,8 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - id: c-156020
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     p. 185, „VYTIES KRYŽIUS“, Karolis Zikaras.
     p. 202, „ŠARVUOTAS TRAUKINYS GEDIMINAS“, Karolis Zikaras.
@@ -482,7 +496,8 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - id: c-156021
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     NUOPUOLIS IR KOVA DĖL LAISVĖS
     P. 140, „VALSTYBĖS SMUKIMAS“, Karolis Zikaras.
@@ -501,7 +516,8 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - id: c-156022
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 274."
   citata_originali: |
     KARAS PO KARO
 
@@ -523,7 +539,8 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - id: c-156023
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
     p. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras.
@@ -540,7 +557,8 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - id: c-156024
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 273."
   citata_originali: |
     LIETUVOS ATSIKŪRIMAS
     p. 251, „1991 M. SAUSIO 13 D.“, Karolis Zikaras.
@@ -557,7 +575,8 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - id: c-156025
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 274."
   citata_originali: |
     p. 213, Sukilėlių žygis į Klaipėdos kraštą ir sukilimo eiga 1923 m. sausio 9-15 d.,
 

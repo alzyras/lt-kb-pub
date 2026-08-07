@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4b5024321b19aa4a8ec7e9d5"
+canonical_name: "Ediga"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ediga"]
+sameAs: []
+canonical_biography: "Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė. Timuras tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo vado Edigos dalinių. Vosylius turėjo intereso skubėti Maskvon, nes jo žemes be gailesčio plėšė Ediga^58."
 ---
 # Ediga
 
@@ -76,7 +83,8 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
 - id: c-32719
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 324"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 324."
   citata_originali: |
     žentas Vasilius, ir todėl jis laikėsi pasyviai, kai Konstantinopolio
     patriarchas ragino visos Rusios metropolitą Kiprijoną skelbti kry­
@@ -98,7 +106,8 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
 - id: c-32720
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 324"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 324."
   citata_originali: |
     Esą Vytautas reikalavęs chaną
     jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a51f548220d61b05cee259fe"
+canonical_name: "Cholmas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Cholmas"]
+sameAs: []
+canonical_biography: "Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro, Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­ tropolitų savo teises."
+place_authority: true
+historical_names: []
 ---
 # Cholmas
 
@@ -51,7 +60,8 @@ Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vl
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 134."
   citata_originali: |
     Tada pats Naugarduko susirinkimas Cem­
     blaką paskyrė Kijevo metropolitu. Susirinkusieji stačiatikių

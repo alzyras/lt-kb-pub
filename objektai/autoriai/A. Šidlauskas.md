@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c0925c6075d67e6881dcd1d"
+canonical_name: "A. Šidlauskas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Šidlauskas"]
+sameAs: []
+canonical_biography: "A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėjas ir kaip leidinio „Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.)“ parengėjas."
 ---
 # A. Šidlauskas
 
@@ -91,7 +98,8 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
 - id: c-30442
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     Apie bibliotekas Lietuvoje XIX a.
     pradžioje rašė M. Lukšienė (BBK, t. 5, 1966, 109-136 p.), ji
@@ -112,7 +120,8 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
 - id: c-91657
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
   citata_originali: |
     97—114.
     Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /

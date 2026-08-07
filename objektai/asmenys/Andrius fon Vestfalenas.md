@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-98c895988340238f1d07bbf3"
+canonical_name: "Andrius fon Vestfalenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius fon Vestfalenas"]
+sameAs: []
+canonical_biography: "Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo lietuvių sumuštas ir žuvo."
 ---
 # Andrius fon Vestfalenas
 
@@ -53,7 +60,8 @@ Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo l
 - id: c-169540
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
   citata_originali: |
     Tais pačiais metais, kaip
     sako Livonijos metraštis, žemaičiai ir lietuviai prie

@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-75900f8208cf09f8755479d5"
+canonical_name: "Braunsbergas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Braunsbergas"]
+sameAs: []
+canonical_biography: "Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito po visą Lenkiją."
+place_authority: true
+historical_names: []
 ---
 # Braunsbergas
 
@@ -125,7 +134,8 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
 - id: c-79607
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 92."
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­
     dangi Viešpats jūsų ginklą valdo ir narsos didybės suteiks,
@@ -158,7 +168,8 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
 - id: c-79608
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 301."
   citata_originali: |
     Šio įžymaus ordino, pagarsėju­
     sio talentais, mokslu ir jam būdingu gudrumu, įsitvirtini­
@@ -180,7 +191,8 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
 - id: c-79611
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 268."
   citata_originali: |
     Jėzuitų į Lenkiją
     atkvietė garsus katali-

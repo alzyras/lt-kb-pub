@@ -50,7 +50,8 @@ Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų 
 - id: c-02317
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 234."
   citata_originali: |
     Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę,
     kuri mums būtų padaryta. Jei tas įvyks, mes ieškosim paramos ir dė-

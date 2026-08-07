@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8a637a9b63efe83369c94e61"
+canonical_name: "Kutlubuga"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kutlubuga"]
+sameAs: []
+canonical_biography: "Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Karijoto trijų sūnų - Karijotaičių vadovaujamų karių. Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų vadų-kunigaikščių Chadžibėjaus, Kutlugbugo, Dmitrijaus."
 ---
 # Kutlubuga
 
@@ -51,7 +58,8 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 - id: c-42098
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 47."
   citata_originali: |
     Lietuvos kariuomenė buvo sudaryta
     iš Lietuvos valdovo Algirdo ir jo brolio

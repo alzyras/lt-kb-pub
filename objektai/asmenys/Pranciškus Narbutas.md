@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a1399b9d3c0d09112ee50f8"
+canonical_name: "Pranciškus Narbutas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pranciškus","Pranciškus Narbutas","Pran­ciškus"]
+sameAs: []
+canonical_biography: "Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro Narbuto sūnų. 1863 m. sukilimo metu jis išėjo į miškus, o Muravjovui norint ištremti Narbutų šeimą į Sibirą spėjo pasitraukti į užsienį."
 ---
 # Pranciškus Narbutas
 
@@ -99,7 +106,8 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
 - id: c-170887
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
   citata_originali: |
     1863 m. sukilime aktyviai dalyvavo visa Narbutų šei­
     ma: į miškus išėjo sūnūs Boleslovas, Pranciškus.

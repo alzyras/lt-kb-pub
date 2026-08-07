@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-274403363edbaf3f530da3c3"
+canonical_name: "Parusnis (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Parusnis","Parusnis (vieta)"]
+sameAs: []
+canonical_biography: "Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nuo netikėlių, noris visų bran giausiai, atpirkti, ko dėjęsis, išsiuntė karalius siun tinius į Parusnį. Atvedė tas gau jas į Parusnį karvedžiai Zinenbergas ir Ekerbergas su daugybe diduomenės, su kuriais mistras kryžėjų susinėręs gulė visuotinai į Lietuvą. Rudenop atėjo nauja talka meldžionų į Parusnį, kurią atvedė viešpats Essų Otas."
+place_authority: true
+historical_names: []
 ---
 # Parusnis (vieta)
 
@@ -70,9 +79,9 @@ Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nu
 ## Citatos
 
 - id: c-184472
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 139"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 139."
   citata_originali: |
     Netikėliai tarės tuomi savo apjuoktas šventeny­
     bes nuo krikščionų nugerbę ir užrūstintus savo die­
@@ -93,9 +102,9 @@ Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nu
     - t-001
 
 - id: c-184473
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 539"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 539."
   citata_originali: |
     Taip Gediminui bedraudžiant vokyčius Padau-
     gavy, nuo vakarų pradėjo plūsti naujos gaujos mel-
@@ -120,9 +129,9 @@ Karalius lenkų Boleslovas, jutęs tą nelaimą Vai tiekaus, liepė jo kūną nu
     - t-002
 
 - id: c-184474
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 612"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 612."
   citata_originali: |
     Darin marčelga vėl tu­
     rėjo su visa savo galia, lig iš naujo pilį pastrūni-

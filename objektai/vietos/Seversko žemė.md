@@ -24,6 +24,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-25916b65393c844cef23727e"
+canonical_name: "Seversko žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Seversko žemė"]
+sameAs: []
+canonical_biography: "Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė Ordoje kilęs badas ir maras. Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę ir siaubė nuo Lietuvos prie Maskvos perėjusių didikų valdas. Swięckio veikale nurodoma, kad Triznų giminė yra kilusi iš Seversko žemės."
+place_authority: true
+historical_names: []
 ---
 # Seversko žemė
 
@@ -139,7 +148,8 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
 - id: c-45326
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 46."
   citata_originali: |
     „du carai“. Nuo Aukso ordos chano val- pasikvietė lietuvius. Tai buvo Ordos val-
     džios atskilo Volgos miestų regionas. džios likvidavimo didelėje Černigovo-
@@ -157,7 +167,8 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
 - id: c-168502
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 565"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 565."
   citata_originali: |
     Sako, jog skitai,
     laikydamiesi barbariškųjų papročių, šitaip sudarydavę
@@ -188,7 +199,8 @@ Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė
 - id: c-171723
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 370."
   citata_originali: |
     Net buvo ap­
     23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-

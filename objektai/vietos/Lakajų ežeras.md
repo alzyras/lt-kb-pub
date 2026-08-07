@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e6c2d9c60004e66b666769ff"
+canonical_name: "Lakajų ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lakajų ežeras"]
+sameAs: []
+canonical_biography: "Taip pat mūsų Lakajų ežerą, greta vyskupo dvaro, vadinamo Jakubiškėmis, esantį, su upėmis, į tą ežerą įtekančiomis ir iš jo ištekančiomis; pirmoji jų - Lakaja, antroji - Kamu­ žė, trečioji - Kimė, ketvirtoji - Fro­ mą, penktoji - Rašelė Dubingių vals­ čiuje."
+place_authority: true
+historical_names: []
 ---
 # Lakajų ežeras
 
@@ -51,7 +60,8 @@ Taip pat mūsų Lakajų ežerą, greta vyskupo dvaro, vadinamo Jakubiškėmis, e
 - id: c-82183
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 239."
   citata_originali: |
     [Dievobaimin­
     ga širdimi apsvarstę pirmuosius

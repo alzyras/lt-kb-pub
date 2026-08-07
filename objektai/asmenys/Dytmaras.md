@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-080bc5b19c09f96fd82d3eb2"
+canonical_name: "Dytmaras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dytmaras"]
+sameAs: []
+canonical_biography: "Dytmaras, Merzeburgo vyskupas, pasakodamas apie Boleslovo Narsiojo karus, 1009 m. minėjo lietuvius."
 ---
 # Dytmaras
 
@@ -65,7 +72,8 @@ Dytmaras, Merzeburgo vyskupas, pasakodamas apie Boleslovo Narsiojo karus, 1009 m
 - id: c-174269
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
   citata_originali: |
     Iš
     mums žinomų originalių istorikų pirmasis, Lietuvą pa­

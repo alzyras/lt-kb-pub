@@ -53,7 +53,8 @@ Nenurodyta
 - id: c-174964
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 291"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 291."
   citata_originali: |
     Lietuvoje prie Kuršo sienos, ypač dviejose liuteroniškose
     Žeimelio ir Biržų parapijose, kur pamaldos vyksta ne

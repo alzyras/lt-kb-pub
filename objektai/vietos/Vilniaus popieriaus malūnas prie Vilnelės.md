@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b101e4d013e61863f7294f48"
+canonical_name: "Vilniaus popieriaus malūnas prie Vilnelės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus popieriaus malūnas prie Vilnelės"]
+sameAs: []
+canonical_biography: "Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus popieriaus malūnas prie Vilnelės
 
@@ -62,7 +71,8 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
 - id: c-82236
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 283."
   citata_originali: |
     Malūnas, iki mūsų laikų vadin­
     tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-18ad4f8cb376d056c51a13d5"
+canonical_name: "Andrius Štirlandas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Štirlandas"]
+sameAs: []
+canonical_biography: "Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popiežiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai."
 ---
 # Andrius Štirlandas
 
@@ -98,7 +105,8 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
 - id: c-21582
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 29."
   citata_originali: |
     1248 m. padėtis jam
     tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
@@ -118,7 +126,8 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
 - id: c-21583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 30."
   citata_originali: |
     Visa tai – Mindaugo politikos rezulta-
     tas. Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
@@ -138,7 +147,8 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
 - id: c-166916
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 30."
   citata_originali: |
     Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
     lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios

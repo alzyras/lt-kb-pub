@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d28ec21628917e970425bb21"
+canonical_name: "Antoine Gramont"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Antoine Gramont"]
+sameAs: []
+canonical_biography: "LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“ LIETUVOS LENGVOJI KAVALERIJA Ištrauka iš Prancūzijos grafo Antoine Gramont (1663-1664 m.) pasakojimo apie kazokus, tarnaujančius Lenkijos-Lietuvos kariuomenėse. Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie totorius Lietuvos kariuomenėje."
 ---
 # Antoine Gramont
 
@@ -92,7 +99,8 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 - id: c-41839
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 141."
   citata_originali: |
     Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie
     totorius Lietuvos kariuomenėje.
@@ -112,7 +120,8 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 - id: c-44285
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 117."
   citata_originali: |
     Pirmiausiai janičarai (turkų pėstininkai),
     o po to ir turkų kavalerija atakavo atski-
@@ -141,7 +150,8 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 - id: c-176416
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 141."
   citata_originali: |
     Lauko artilerija, išdėstoma daž-
     niausiai ant aukštumų, veikdavo

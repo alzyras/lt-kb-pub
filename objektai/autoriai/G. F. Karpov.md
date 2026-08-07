@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d84dff4e6fc8a1aab2a3d723"
+canonical_name: "G. F. Karpov"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["G. F. Karpov"]
+sameAs: []
+canonical_biography: "Karpov, 1892) ir t."
 ---
 # G. F. Karpov
 
@@ -58,7 +65,8 @@ Karpov, 1892) ir t.
 - id: c-29380
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 21."
   citata_originali: |
     SbRIO = Sbornik Russkogo Imperatorskogo Istoričeskogo Obščestva,
     St. Petersburgas. Iš 148 rinkinio tomų čia panaudota : t. 35

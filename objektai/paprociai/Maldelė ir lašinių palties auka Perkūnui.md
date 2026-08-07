@@ -82,7 +82,8 @@ Nenurodyta
 - id: c-172665
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
   citata_originali: |
     Paltu messu (paltį mėsos. - R. J.)
     reiškia pusę kiaulės skerdienos kartu su riebalais, įprastinę ro­
@@ -103,7 +104,8 @@ Nenurodyta
 - id: c-179090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 347."
   citata_originali: |
     Audros, griaustiniai, krušos, žaibai buvo galingi
     veiksniai, palaikę didelę Perkūno pykčio baimę. Kartais, tik­

@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-09925
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 125"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 125."
   citata_originali: |
     Taip pat vamzdžiais vamzdijo jaunuomenė, iš mauknos^559 karklų ar blendies padirbę pavasariais, lig žievei neprikepus;
         be tų vamzdžių turėjo piemenėliai molio pypynes, su kuriomis pavasarį ožaičius ir ėraičius po laukus ganydami tancino.

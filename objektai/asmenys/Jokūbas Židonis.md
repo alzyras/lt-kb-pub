@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-749e305100f07aad649ef71d"
+canonical_name: "Jokūbas Židonis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokūbas Židonis"]
+sameAs: []
+canonical_biography: "Tais pačiais metais kitas Kauno laivų statytojas Jokūbas Židonis dirbo Vilniaus pirkliui, o Marekas remontavo bajoro Jono Oginskio vytinę."
 ---
 # Jokūbas Židonis
 
@@ -41,9 +48,9 @@ Tais pačiais metais kitas Kauno laivų statytojas Jokūbas Židonis dirbo Vilni
 ## Citatos
 
 - id: c-185520
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 248."
   citata_originali: |
     Kauno laivų statytojas
     Ambrožėjus Mikalojevičius buvo pastatęs bajorui Kaštelai 1 vytinę, o dėl paruoštos

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-588aa79107da19eb2b14f76d"
+canonical_name: "Nemunaitis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Nemunaitis"]
+sameAs: []
+canonical_biography: "Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip dievas ir turėjęs šventyklą Nemunaityje prie Nemuno."
+place_authority: true
+historical_names: []
 ---
 # Nemunaitis
 
@@ -54,7 +63,8 @@ Narbutas minėjo padavimą, kad keliautojų vadas Nemunas buvęs garbinamas kaip
 - id: c-171916
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Siek tiek pasistūmėję upe
     aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,

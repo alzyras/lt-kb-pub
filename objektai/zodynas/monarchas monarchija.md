@@ -66,7 +66,8 @@ Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaik
 - id: c-168749
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Užėmęs Brianską
     ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­

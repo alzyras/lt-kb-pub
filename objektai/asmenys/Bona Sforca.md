@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fe1fb1c46eeb9e0736befb7e"
+canonical_name: "Bona Sforca"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bona Sforca"]
+sameAs: []
+canonical_biography: "Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „itališkų pasivaikščiojimų“ – pokylių šokių – iki..."
 ---
 # Bona Sforca
 
@@ -98,7 +105,8 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
 - id: c-157462
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 60."
   citata_originali: |
     Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailinin-
     kų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo
@@ -116,7 +124,8 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
 - id: c-157464
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 275."
   citata_originali: |
     Netvarka ir apsileidimas, įsitvirtinę miesto administra­
     cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat

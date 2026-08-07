@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-edc618d0fb5bf72771c6c814"
+canonical_name: "Sroda"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sroda"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Sroda
 

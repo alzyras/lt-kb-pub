@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d57588d304b96ff129161cc7"
+canonical_name: "Foigtas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Foigtas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų tautoms seniai žinomos garbingos pareigos. Ponas Foigtas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe."
 ---
 # Foigtas
 
@@ -66,7 +73,8 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
 - id: c-173272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 282."
   citata_originali: |
     Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
     jų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­
@@ -85,7 +93,8 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
 - id: c-177049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 281."
   citata_originali: |
     Tie­
     sa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,

@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-83285
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 430-431"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 430-431."
   citata_originali: |
     Praeterea ut iidem studiosi, qui
     pro tempore in Bursa supra nominata habitabunt, aliquod

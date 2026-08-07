@@ -91,7 +91,8 @@ Nenurodyta
 - id: c-10252
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 89-90"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 89-90."
   citata_originali: |
     Išeiginiu drabužiu motriškųjų buvo taip vadinamas kilimas^338 , nuo žodžio keliauti, kurį drabužį iš namų eidamos kur toli
         tesiėmė; vadino dar jį sage, arba sagše^339 , nuo žodžio segti, kurią dar tankiau vilnonę^340 vadino;

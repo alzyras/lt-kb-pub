@@ -110,7 +110,8 @@ Terminas vartojamas kaip pradžia, nuo kurios Vilniaus universitete kilo lietuvi
 - id: c-56474
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 8."
   citata_originali: |
     Pradedant ankstybu lituanistiniu sąjūdžiu dar Vilniaus uni-
     versitete lietuvių tautos atgimimo veikėjai XIX amžiuje iš širdies

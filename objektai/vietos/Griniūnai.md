@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a89fc4e714518e9519365eb4"
+canonical_name: "Griniūnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Griniūnai"]
+sameAs: []
+canonical_biography: "Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniūnų ir Katinų kaimus."
+place_authority: true
+historical_names: []
 ---
 # Griniūnai
 
@@ -59,7 +68,8 @@ Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniū
 - id: c-45106
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 182."
   citata_originali: |
     Puolimas buvo pradėtas 1919 m. ge-
     gužės 18 d. naktį. Dešinioji kolona ener-

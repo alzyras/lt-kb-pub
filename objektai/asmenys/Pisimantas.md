@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5976287fd3126f482fea1cdc"
+canonical_name: "Pisimantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pisimantas"]
+sameAs: []
+canonical_biography: "Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai. Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi."
 ---
 # Pisimantas
 
@@ -73,7 +80,8 @@ media_all_json: |-
 - id: c-169519
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 88."
   citata_originali: |
     Todėl imanti šviesti
     viltis, jog tie, kurie paveldėjo tėvų valdas bei nesan­
@@ -96,7 +104,8 @@ media_all_json: |-
 - id: c-169520
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 90."
   citata_originali: |
     Sugrįžęs po to į Lietuvą, baigė gyvenimą. Algi­
     mantas irgi neilgai viešpatavo, nors ir ramiau nei Tre­

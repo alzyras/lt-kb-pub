@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2e9ad0c5e85501df9e6f4862"
+canonical_name: "Grenoblis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Grenoblis"]
+sameAs: []
+canonical_biography: "Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istorijos studijuoti išvyko į Prancūzijos Grenoblį."
+place_authority: true
+historical_names: []
 ---
 # Grenoblis
 
@@ -61,7 +70,8 @@ Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istori
 - id: c-33855
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 65."
   citata_originali: |
     1919-ais
     jis dar spėjo Karaliaučiaus universitete parašyti disertaciją apie

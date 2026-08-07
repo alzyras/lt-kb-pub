@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a1ff223c7c80142ba4800989"
+canonical_name: "Podolės Kameneco tvirtovė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Podolės Kameneco tvirtovė"]
+sameAs: []
+canonical_biography: "Turkai, nujausdami lenkų ir lietuvių ir privertė ją Atėjo žinia, kad Turkija ketina siekti puolimo kryptį, stiprino įtvirtinimus daugiau ir surinkusi didžiulę kariuomenę prie Podolės Kameneco tvirtovės."
+place_authority: true
+historical_names: []
 ---
 # Podolės Kameneco tvirtovė
 
@@ -61,7 +70,8 @@ Turkai, nujausdami lenkų ir lietuvių ir privertė ją Atėjo žinia, kad Turki
 - id: c-40443
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 130."
   citata_originali: |
     Turkai, nujausdami lenkų ir lietuvių
 

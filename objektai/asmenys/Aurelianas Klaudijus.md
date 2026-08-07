@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-32c067f755c250924f808751"
+canonical_name: "Aurelianas Klaudijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aurelianas Klaudijus"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Dardanijoje įveikė ir išvijo gotų kariuomenę. Paskui pamažu, valdant imperatoriui Klaudijui, apie 50 metus po Kristaus gimimo, užėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo tenykščius gyventojus slavus, užimdami daug jų miestų."
 ---
 # Aurelianas Klaudijus
 
@@ -79,7 +86,8 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
 - id: c-174220
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
   citata_originali: |
     298
     Netrukus po to, apie 269 metus, gotai, surinkę milži­
@@ -101,7 +109,8 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
 - id: c-177307
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
   citata_originali: |
     Maždaug tuo metu, kai
     Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir

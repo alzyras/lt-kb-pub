@@ -72,7 +72,8 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
 - id: c-11215
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 9."
   citata_originali: |
     Ištrauka iš 1945 m. gegužės 7 d. Dzūkų
     grupės įsakymo Nr. 1. žaliukų vadams:
@@ -89,7 +90,8 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
 - id: c-11216
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 9."
   citata_originali: |
     Dabar veikiantieji atskiri žaliukų dali-
     niai vadinasi atatinkamai jų vadų sla-

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-798eb16a923567cb5d5e7b68"
+canonical_name: "Jonas Neifalta-Lakūnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Neifalta-Lakūnas"]
+sameAs: []
+canonical_biography: "“ Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos kariuomenės ulonų puskarininkio Jono NeifaltoLakūno ir jam talkinančio Aleksandro Podemansko - Šarūno. / Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis, naudotas Pietų Lietuvoje Dainavos apygardos partizanai ## Puslapis 227 Jonas Neifalta-Lakūnas (1910-1945) IŠ NKVD RAPORTO Iki okupacijos tarnavo nepriklausomos Lietuvos kariuomenėje -. Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušelė“."
 ---
 # Jonas Neifalta-Lakūnas
 
@@ -94,7 +101,8 @@ media_all_json: |-
 - id: c-76149
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 226-227"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 226-227."
   citata_originali: |
     /  Partizaninio pasipriešinimo
     pradžios Lietuvos laisvės
@@ -124,7 +132,8 @@ media_all_json: |-
 - id: c-76150
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 226."
   citata_originali: |
     Tuo būdu laimėta, kad ir
     didžiausi bolševikų padlaižiai neišdrįsdavo imtis nenaudingos gyventojams ir pražūtingos

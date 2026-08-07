@@ -106,7 +106,8 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
 - id: c-61624
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Iš šio vertimo Dusburgiečio
     kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
@@ -123,7 +124,8 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
 - id: c-61625
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Iš šio vertimo Dusburgiečio
     kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
@@ -144,7 +146,8 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
 - id: c-179005
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Dlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš
     Jerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.

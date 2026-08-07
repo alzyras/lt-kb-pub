@@ -87,7 +87,8 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
 - id: c-175077
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Leela yra latvių kalbos būdvardis, Leela-Uppe reiš-
     kia Didelę upę4.
@@ -101,7 +102,8 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
 - id: c-175352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Žodis Upe lietu­
     vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių

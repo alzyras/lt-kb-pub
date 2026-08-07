@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5e5d771371db59f0a2b71c2"
+canonical_name: "Andrius Kuprys"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Kuprys"]
+sameAs: []
+canonical_biography: "Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto brolis, kuriam priklausė Jogailos su vokiečiais puolamas Polockas."
 ---
 # Andrius Kuprys
 
@@ -67,7 +74,8 @@ Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto
 - id: c-176718
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78."
   citata_originali: |
     Ir didysis kunigaikštis Kęstutis vėl ėmė verk­
     damas skųstis savo sūnui, didžiajam kunigaikščiui Vy­

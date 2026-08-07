@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f41ea27cfc0bfaf0c21951b4"
+canonical_name: "Brandišauskas V"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Brandišauskas V"]
+sameAs: []
+canonical_biography: "Brandišauskas V."
 ---
 # Brandišauskas V
 
@@ -50,7 +57,8 @@ Brandišauskas V.
 - id: c-22123
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
     XX–XXI a. pradžia. Vilnius, 2009.

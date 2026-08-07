@@ -22,18 +22,19 @@ tags:
 amziai:
   - 'XIV'
   - 'XX'
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '1'
+media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Fsam-bucket%2FLIMIS-830265013%2Fthumbnail-original%2Fget.jpg&type=IMAGE'
+media_primary_canonical_url: 'https://www.europeana.eu/item/2021802/LIMIS_830265013'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'coin_depiction_of'
+media_primary_json: |-
+  {"mediaId":"m-0ca8a8330b3191787f915965","title":"Saksonijos kunigaikštystė. 1/12 talerio (2 grašiai). 1707 m. | 1/12 Thaler, Saxony, 1707 | 1/12 талера, Саксония, 1707 г.","caption":"Augusto II 1707 m. Saksonijos 1/12 talerio moneta su Abiejų Tautų Respublikos herbu","originalTitle":"Saksonijos kunigaikštystė. 1/12 talerio (2 grašiai). 1707 m. | 1/12 Thaler, Saxony, 1707 | 1/12 талера, Саксония, 1707 г.","creator":"","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"2024","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_830265013","sourceUrl":"https://www.epaveldas.lt/static/sam-bucket/LIMIS-830265013/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Fsam-bucket%2FLIMIS-830265013%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/sam-bucket/LIMIS-830265013/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"moneta","label":"moneta","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"abieju-tautu-respublika","label":"Abiejų Tautų Respublika","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"moneta","label":"moneta","facetKind":"tema","confidence":0.95},{"code":"pinigai","label":"pinigai","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/daiktai/Lietuvos pinigai.md","title":"Lietuvos pinigai","itemType":"daiktas","relationType":"coin_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-16T21:51:14.682256+03:00","reviewedAt":"2026-07-25T19:46:18.367681+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma apvali sidabrinė moneta, kurios centre yra karūnuotas daugialaukis skydas palmių šakų vainike; aplink įžiūrimos apskritiminės legendos.","metadataEvidence":"Kandidato metaduomenyse aiškiai nurodyta 1707 m. Augusto II moneta, kurios skyde yra LDK ir Lenkijos herbas bei Saksonijos herbas centre. Target datų sąraše yra 1707 m., o apraše minimos Augusto II laikų monetos.","confidenceLevel":"high","relationType":"coin_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys konkrečiai identifikuoja 1707 m. Augusto II monetą, tiesiogiai patenkančią į target „Lietuvos pinigai“ aprašomą monetų grupę.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-0ca8a8330b3191787f915965","title":"Saksonijos kunigaikštystė. 1/12 talerio (2 grašiai). 1707 m. | 1/12 Thaler, Saxony, 1707 | 1/12 талера, Саксония, 1707 г.","caption":"Augusto II 1707 m. Saksonijos 1/12 talerio moneta su Abiejų Tautų Respublikos herbu","originalTitle":"Saksonijos kunigaikštystė. 1/12 talerio (2 grašiai). 1707 m. | 1/12 Thaler, Saxony, 1707 | 1/12 талера, Саксония, 1707 г.","creator":"","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"2024","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_830265013","sourceUrl":"https://www.epaveldas.lt/static/sam-bucket/LIMIS-830265013/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Fsam-bucket%2FLIMIS-830265013%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/sam-bucket/LIMIS-830265013/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"moneta","label":"moneta","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"abieju-tautu-respublika","label":"Abiejų Tautų Respublika","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"moneta","label":"moneta","facetKind":"tema","confidence":0.95},{"code":"pinigai","label":"pinigai","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/daiktai/Lietuvos pinigai.md","title":"Lietuvos pinigai","itemType":"daiktas","relationType":"coin_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-16T21:51:14.682256+03:00","reviewedAt":"2026-07-25T19:46:18.367681+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma apvali sidabrinė moneta, kurios centre yra karūnuotas daugialaukis skydas palmių šakų vainike; aplink įžiūrimos apskritiminės legendos.","metadataEvidence":"Kandidato metaduomenyse aiškiai nurodyta 1707 m. Augusto II moneta, kurios skyde yra LDK ir Lenkijos herbas bei Saksonijos herbas centre. Target datų sąraše yra 1707 m., o apraše minimos Augusto II laikų monetos.","confidenceLevel":"high","relationType":"coin_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys konkrečiai identifikuoja 1707 m. Augusto II monetą, tiesiogiai patenkančią į target „Lietuvos pinigai“ aprašomą monetų grupę.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  []
+  [{"mediaId":"m-0ca8a8330b3191787f915965","title":"Saksonijos kunigaikštystė. 1/12 talerio (2 grašiai). 1707 m. | 1/12 Thaler, Saxony, 1707 | 1/12 талера, Саксония, 1707 г.","caption":"Augusto II 1707 m. Saksonijos 1/12 talerio moneta su Abiejų Tautų Respublikos herbu","originalTitle":"Saksonijos kunigaikštystė. 1/12 talerio (2 grašiai). 1707 m. | 1/12 Thaler, Saxony, 1707 | 1/12 талера, Саксония, 1707 г.","creator":"","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"2024","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_830265013","sourceUrl":"https://www.epaveldas.lt/static/sam-bucket/LIMIS-830265013/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Fsam-bucket%2FLIMIS-830265013%2Fthumbnail-original%2Fget.jpg&type=IMAGE","displayUrl":"https://www.epaveldas.lt/static/sam-bucket/LIMIS-830265013/thumbnail-original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"moneta","label":"moneta","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"abieju-tautu-respublika","label":"Abiejų Tautų Respublika","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"moneta","label":"moneta","facetKind":"tema","confidence":0.95},{"code":"pinigai","label":"pinigai","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/daiktai/Lietuvos pinigai.md","title":"Lietuvos pinigai","itemType":"daiktas","relationType":"coin_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-16T21:51:14.682256+03:00","reviewedAt":"2026-07-25T19:46:18.367681+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma apvali sidabrinė moneta, kurios centre yra karūnuotas daugialaukis skydas palmių šakų vainike; aplink įžiūrimos apskritiminės legendos.","metadataEvidence":"Kandidato metaduomenyse aiškiai nurodyta 1707 m. Augusto II moneta, kurios skyde yra LDK ir Lenkijos herbas bei Saksonijos herbas centre. Target datų sąraše yra 1707 m., o apraše minimos Augusto II laikų monetos.","confidenceLevel":"high","relationType":"coin_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys konkrečiai identifikuoja 1707 m. Augusto II monetą, tiesiogiai patenkančią į target „Lietuvos pinigai“ aprašomą monetų grupę.","isPrimary":1}]
 ---
 # Lietuvos pinigai
 
@@ -210,7 +211,7 @@ Nenurodyta
 <a id="claim-t-12874"></a>
 - t-009
   teiginys: "Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1565 m.; įvykio data: apie 1565 m."
@@ -328,7 +329,8 @@ Nenurodyta
 - id: c-00210
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 694-695"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 694-695."
   citata_originali: |
     II Lietuvos pinigai
     1—3 Seniausieji Lietuvos sidabro pinigai — kapos, lietos iš sidabro
@@ -350,7 +352,8 @@ Nenurodyta
 - id: c-00211
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 695"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 695."
   citata_originali: |
     Apie jas nėra jokių ra-
     šytinių žinių (jų vardas,— kaip spėjama, kilęs iš žodžio _kapoti,_ — šaltiniuose
@@ -370,7 +373,8 @@ Nenurodyta
 - id: c-00212
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 695"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 695."
   citata_originali: |
     Lentelėse duodamieji pavyzdžiai:
     4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;
@@ -391,7 +395,8 @@ Nenurodyta
 - id: c-00214
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 695"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 695."
   citata_originali: |
     Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo
     kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
@@ -410,7 +415,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 82."
   citata_originali: |
     Kai Vytautas prisiartino prie Vorsklos upės kranto, tuoj
     ten atvyko ir vienas Timur-Kotlogo vadas Edyga ir laukė atei­
@@ -431,7 +437,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 261."
   citata_originali: |
     Pinigai, kuriais buvo mokami mokesčiai Vytauto valdymo
     laikais, taip pat buvo įvairūs. Jogailos ir Vytauto rūmuose bu­
@@ -454,7 +461,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 261."
   citata_originali: |
     Šalia jų kursavo ir lietuviški denariukai, atsiradę 1387-1390
     m. Jų vienoje pusėje yra ieties galas, o antroj vad. Gedimino
@@ -478,7 +486,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 262."
   citata_originali: |
     Kiti Vytauto pinigai, kurie
     buvo kalami jo įsakymu Kaune, turėjo Gedimino stulpus ir raidę
@@ -500,7 +509,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 95."
   citata_originali: |
     Tuo tikslu
     pats Vytautas vyko Vengrijon į Kezmarko suvažiavimą. Ten
@@ -517,7 +527,8 @@ Nenurodyta
 - id: c-96645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 150."
   citata_originali: |
     1922 m. spalio 1 d. Lietuvoje
     įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas
@@ -537,7 +548,8 @@ Nenurodyta
 - id: c-96646
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 150."
   citata_originali: |
     Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
@@ -555,7 +567,8 @@ Nenurodyta
 - id: c-96647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 150."
   citata_originali: |
     Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
     dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
@@ -577,7 +590,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 82."
   citata_originali: |
     Kad išloštų laiką, Edyga pradėjo su Vy­
     tautu derėtis. Šis pareikalavo, kad totoriai pripažintų jį savo
@@ -596,7 +610,8 @@ Nenurodyta
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 262."
   citata_originali: |
     Viename Jogailos ir Vytauto dokumen­
     te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­

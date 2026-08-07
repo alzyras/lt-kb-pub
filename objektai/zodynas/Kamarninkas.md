@@ -66,7 +66,8 @@ media_all_json: |-
 - id: c-28458
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 340."
   citata_originali: |
     Ordino vietininkas Žemaičiuose įvesdinėjo savo tvarką. Jo
     « kamarninkai » ėmė vėl matuoti laukus, surašinėti gyventojus^46.
@@ -82,7 +83,8 @@ media_all_json: |-
 - id: c-28459
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 335."
   citata_originali: |
     Į pačius Žemaičius krikšto reikalu
     ordinas siuntė kunigų ir vienuolių^14 , o žmonėms teisti ir valdyti —

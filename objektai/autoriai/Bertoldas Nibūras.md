@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fc42aac1d4e6e03082109712"
+canonical_name: "Bertoldas Nibūras"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bertoldas Nibūras"]
+sameAs: []
+canonical_biography: "Bertoldas Nibūras apie pelazgų kolonijų pasklidimą rašė: „Tai ne prielaida, kalbu kuo tvirčiausiai istoriškai įsitikinęs“."
 ---
 # Bertoldas Nibūras
 
@@ -54,7 +61,8 @@ Bertoldas Nibūras apie pelazgų kolonijų pasklidimą rašė: „Tai ne prielai
 - id: c-174465
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
   citata_originali: |
     Šia prasme mūsų is­
     torija yra pernelyg jauna, nes, kiek siekia jos atmintis,

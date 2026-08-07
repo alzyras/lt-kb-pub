@@ -93,7 +93,8 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
 - id: c-169661
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 701"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 701."
   citata_originali: |
     jėgsiąs atsispirti tokiai galybei, magistras, Krokuvoje
     susitikęs su Augustu, karštai šį prašė pagalbos, numa­
@@ -125,7 +126,8 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
 - id: c-178647
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 700"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 700."
   citata_originali: |
     Kara­
     lius atmetė nepagrįstus skundus, savo ruožtu pareiškęs,
@@ -154,7 +156,8 @@ Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su 
 - id: c-178648
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 701"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 701."
   citata_originali: |
     Visi vieningai nutarė, kad karalius, paėmęs Livoniją į
     savo globą, sudarytų savo nuožiūra su šiuo kraštu to­

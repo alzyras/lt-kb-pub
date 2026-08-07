@@ -40,7 +40,7 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
 <a id="claim-t-20927"></a>
 - t-001
   teiginys: "Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1795 m."
@@ -73,7 +73,8 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
 - id: c-23653
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 142."
   citata_originali: |
     Lietuvai pripažinta teritorija buvo gana
     artima 1795 m. teritorijai. Tačiau už tai A. Jofė paprašė karinės sąjungos
@@ -96,7 +97,8 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
 - id: c-23654
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 142."
   citata_originali: |
     Apskritai 1920 m. liepos 12 d.
     pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-

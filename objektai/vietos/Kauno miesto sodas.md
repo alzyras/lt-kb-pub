@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b8d185fe15d5b47ed2d55bcd"
+canonical_name: "Kauno miesto sodas (miestas)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno miesto sodas","Kauno miesto sodas (miestas)"]
+sameAs: []
+canonical_biography: "1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė."
+place_authority: true
+historical_names: []
 ---
 # Kauno miesto sodas (miestas)
 
@@ -60,7 +69,8 @@ media_all_json: |-
 - id: c-26554
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 232."
   citata_originali: |
     1971 m. viename iš Vilniaus
     restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c301e596f8a93ac9a6a262b3"
+canonical_name: "Šv. Jono gatvė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Jono gatvė"]
+sameAs: []
+canonical_biography: "Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo (Šv."
+place_authority: true
+historical_names: []
 ---
 # Šv. Jono gatvė
 
@@ -56,7 +65,8 @@ Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo (Šv.
 - id: c-82261
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 198."
   citata_originali: |
     Jono Kolegijos Vaistinės kronika
     1546. Žygimanto Augusto laikais to mūrinio namo vie­

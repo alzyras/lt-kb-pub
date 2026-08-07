@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8bda8d4d7c2afee44c01c066"
+canonical_name: "Valentinas iš Pilzno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Valentinas iš Pilzno"]
+sameAs: []
+canonical_biography: "Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensis Canonicus Ecclesiae in Poboysco Plebanus, in Honorem Sanctae et Individuae Trinitatis extructae, nec non in Memoriam Nativitatis, et As­ sumptionis Gloriosae Virginis Mariae, et."
 ---
 # Valentinas iš Pilzno
 
@@ -50,7 +57,8 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
 - id: c-83856
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 256-258"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 256-258."
   citata_originali: |
     Quum Nobis Exposuisset Venerabilis Valentinus
     a Pilzno Vilnensis, et Luceoriensis Canonicus Ecclesiae in

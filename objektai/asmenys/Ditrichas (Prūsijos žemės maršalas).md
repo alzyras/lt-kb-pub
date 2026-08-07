@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9e88613cbc153d7131a25734"
+canonical_name: "Ditrichas (Prūsijos žemės maršalas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas (Prūsijos žemės maršalas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrichas, įgudęs kariauti ir Kristui atsidavęs vyras. Dusburgietis teigia, kad ditrichas (Prūsijos žemės maršalas) patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus."
 ---
 # Ditrichas (Prūsijos žemės maršalas)
 
@@ -40,7 +47,7 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 <a id="claim-t-89685"></a>
 - t-001
   teiginys: "Brolis Ditrichas buvo Prūsijos žemės maršalas Helmericho, šeštojo Prūsijos žemės magistro, vadovavimo metu."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -65,7 +72,7 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 <a id="claim-t-89687"></a>
 - t-003
   teiginys: "Brolis Ditrichas buvo Prūsijos žemės maršalas tuo metu, kai Helmerichas vadovavo Prūsijos žemei."
-  atnaujinta: "2026-07-19 20:29"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -129,7 +136,8 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 - id: c-85625
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
   citata_originali: |
     Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį
     Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
@@ -161,7 +169,8 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 - id: c-85627
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Išaušus,
     kai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo,

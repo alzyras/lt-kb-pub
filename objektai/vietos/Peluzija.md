@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-26ba8bd8a4bd42c6b009e8c3"
+canonical_name: "Peluzija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Peluzija"]
+sameAs: []
+canonical_biography: "Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis siejo su dviejų to krašto Nočiomis vadintų upių pavadinimais."
+place_authority: true
+historical_names: []
 ---
 # Peluzija
 
@@ -85,7 +94,8 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
 - id: c-175570
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 282."
   citata_originali: |
     Panašu­
     mas į prie Ponto buvusias tvirtoves leidžia manyti ir

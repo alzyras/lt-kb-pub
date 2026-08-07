@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-444389f168bd1b9ffda40e39"
+canonical_name: "Motiejus iš Blonios"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus iš Blonios"]
+sameAs: []
+canonical_biography: "Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­ dymo meną išmanantys: vienas - pagal profesiją fizikas, arba rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas; antras, pagarsėjęs alchemijos išmanymu."
 ---
 # Motiejus iš Blonios
 
@@ -59,7 +66,8 @@ Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvo
 - id: c-83773
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 253-254"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 253-254."
   citata_originali: |
     Livoniae, T. I,
     N. 1208, kur nurodytas Slaptajame

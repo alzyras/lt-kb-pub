@@ -32,7 +32,7 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 <a id="claim-t-63148"></a>
 - t-001
   teiginys: "Prūsai prie Marienverderio iš pasalos išmušė brolius ir miestiečius, išskyrus kelis į miestą pasprukusius žmones."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Marienverderis: 0.85"
@@ -88,7 +88,8 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - id: c-64124
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Dėl to, subūrę daugybę karių, antrosios
     atskalūnybės metais patraukė prie Marienverderio miesto ir, tinkamoje vietoje įrengę
@@ -111,7 +112,8 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - id: c-64125
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Apie antrąjį minėtojo Marienverderio miesto sugriovimą
     Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio
@@ -135,7 +137,8 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - id: c-64126
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Prūsai, po senovei nepasisotinę krikščionių kraujo, vėl suskato ruošti ginklus
     tikintiesiems žudyti, kankinti ir kryžiuoti, kad ant jų galvų kristų visas teisiųjų kraujas,
@@ -158,7 +161,8 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - id: c-64127
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Iš šios pilies išėjo brolis Konradas Švabas iš
     Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi

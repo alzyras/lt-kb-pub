@@ -79,7 +79,8 @@ media_all_json: |-
 - id: c-175737
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
   citata_originali: |
     Iš akivaizdžių Mituvos apskrities skirtumų nuo kitų ša­
     lies dalių reikėtų manyti, jog šiaurinėje dalyje gyveno
@@ -97,9 +98,9 @@ media_all_json: |-
     - t-001
 
 - id: c-184287
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 361"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 361."
   citata_originali: |
     Nuo tenai Otokaras leidos Pragaru
     pagal žemyn lig girios, Tvangste vadinamos, kur­
@@ -126,9 +127,9 @@ media_all_json: |-
     - t-002
 
 - id: c-184288
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 452"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 452."
   citata_originali: |
     To
     dėjęsis, rėdytojas danų Eilertas, surinkęs dar mun­

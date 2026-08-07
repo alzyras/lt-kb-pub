@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-51c8edb4622a563978a6bbcc"
+canonical_name: "Svisločė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Svisločė"]
+sameAs: []
+canonical_biography: "Volkovysko apskrityje per mylią nuo grafo Tiškevičiaus Svisločės buvo Radovickių kaimas Jatwiesk."
+place_authority: true
+historical_names: []
 ---
 # Svisločė
 

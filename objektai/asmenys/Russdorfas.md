@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15d165aad82726f136a94c6d"
+canonical_name: "Russdorfas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Russdorfas"]
+sameAs: []
+canonical_biography: "Taip pat neužmiršo jo papra­ šyt, kad popiežius uždraustų Vytauto karūnaciją, nes sužinota, kad pagal Vienos mokslininkų nuomonę, karūnuoti gali ir Ro­ mos karalius, kad Niurnberge jau nusistatyta išsiųsti pasiun­ tinius su karūnomis ir kad ruošiami."
 ---
 # Russdorfas
 
@@ -53,7 +60,8 @@ Taip pat neužmiršo jo papra­ šyt, kad popiežius uždraustų Vytauto karūna
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 245."
   citata_originali: |
     Išvykstančiam iš Krokuvos popiežiaus pasiuntiniui Jogai­
     la pareiškė, kad žygiui prieš čekus reikia dviejų sąlygų: taikos

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-64791295b042483da00a36b1"
+canonical_name: "Laubner ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Laubner ežeras"]
+sameAs: []
+canonical_biography: "Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo arčiau Laub­ nero ežero."
+place_authority: true
+historical_names: []
 ---
 # Laubner ežeras
 
@@ -52,7 +61,8 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 102."
   citata_originali: |
     Sąjungininkai sustojo ties Laubner ežeru. Čia
     karalius įsitaisė palapinę pamaldoms. Ir kai karalius ėjo mels­
@@ -71,7 +81,8 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 102."
   citata_originali: |
     Netrukus
     nusigiedrijo. Sąjungininkai sustojo ties Laubner ežeru. Čia

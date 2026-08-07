@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-905afc6f153aad342e68a657"
+canonical_name: "Diu Fresnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Diu Fresnas"]
+sameAs: []
+canonical_biography: "Narbutas remiasi Diu Fresnu aiškindamas, kad senovės vokiečių kalboje „Sala“ reiškė teismą, o „Ober-Sala“ – aukščiausiąjį teismą."
 ---
 # Diu Fresnas
 
@@ -54,7 +61,8 @@ Narbutas remiasi Diu Fresnu aiškindamas, kad senovės vokiečių kalboje „Sal
 - id: c-173304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 418."
   citata_originali: |
     Sala senovės vokiečių kalba reiškia teis­
     mą, o Ober-Sala -  tą pat, ką ir aukščiausiasis teismas; taip tą

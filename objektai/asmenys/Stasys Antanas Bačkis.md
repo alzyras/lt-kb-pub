@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2de9a4ba37db5e248deed974"
+canonical_name: "Stasys Antanas Bačkis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stasys Antanas Bačkis"]
+sameAs: []
+canonical_biography: "LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo diplomatai Stasys Lozoraitis (1940–1983 m.) ir Stasys Antanas Bačkis (1983–1991 m.)."
 ---
 # Stasys Antanas Bačkis
 
@@ -62,7 +69,8 @@ LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo dip
 - id: c-21990
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 226."
   citata_originali: |
     F. Ruzvelto išleistas įsakymas, kuriuo įšaldy-
     tos JAV bankuose laikytos Baltijos valstybių

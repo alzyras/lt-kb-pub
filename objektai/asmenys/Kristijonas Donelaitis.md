@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6bd23beecf44a4ebf1a7a2ba"
+canonical_name: "Kristijonas Donelaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kristijonas Donelaitis"]
+sameAs: []
+canonical_biography: "Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Donelaičio poema „Metai“ (apie 1750). Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poe­ma „Metai“ (su vertimu į vokiečių kalbą)."
 ---
 # Kristijonas Donelaitis
 
@@ -62,7 +69,7 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
 <a id="claim-t-19074"></a>
 - t-002
   teiginys: "Liudvikas Rėza Karaliaučiuje išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1818 m."
@@ -98,7 +105,8 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
 - id: c-21833
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 15."
   citata_originali: |
     Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau
     pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradė-
@@ -120,7 +128,8 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
 - id: c-21834
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
     Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
@@ -138,7 +147,8 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
 - id: c-166949
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 111."
   citata_originali: |
     Įspūdį padarė 1818 m. Karaliaučiuje žymaus
     mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio

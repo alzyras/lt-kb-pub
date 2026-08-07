@@ -46,9 +46,9 @@ Tenai mistras bruko karaliui savo bendrą Gedunę, arba Gadunę, senį, jomylist
 ## Citatos
 
 - id: c-184569
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 359"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 359."
   citata_originali: |
     Mistras pats kryžėjų su didžia iškilme
     priėmė Otokarą karalių, su kurio kariauna susinė­

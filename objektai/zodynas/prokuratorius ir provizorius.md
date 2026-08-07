@@ -50,7 +50,8 @@ Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, au
 - id: c-82524
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 406-407"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 406-407."
   citata_originali: |
     Tad tokiai prie­
     glaudai ir joje gyvenantiems vargšams mes karališkąja malo­

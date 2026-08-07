@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184701
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 59"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 59."
   citata_originali: |
     Paskui
     pergalėjęs bulgarus pavolgy ir su jais būk pakajų

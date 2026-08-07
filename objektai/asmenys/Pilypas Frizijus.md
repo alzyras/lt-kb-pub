@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5e15a4ae0ea0753029d7f8e1"
+canonical_name: "Pilypas Frizijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pilypas Frizijus"]
+sameAs: []
+canonical_biography: "186 ## Puslapis 203 Il KNYGA 1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500 auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo žydams; nuo šios sumos kahalas iki 1763 metų. 1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­ dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų, pusę to činšo, 400."
 ---
 # Pilypas Frizijus
 
@@ -79,7 +86,8 @@ media_all_json: |-
 - id: c-83541
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 202-203"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 202-203."
   citata_originali: |
     Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
     das už fundatoriaus sielą. Insuper 750 auksinų sumą užrašė,
@@ -108,7 +116,8 @@ media_all_json: |-
 - id: c-83542
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 203."
   citata_originali: |
     O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
     šimčius, kas metinių pajamų tesudaro 165 auksinus.

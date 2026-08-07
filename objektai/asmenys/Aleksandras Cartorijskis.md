@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-94e7e24352697b7578d3a297"
+canonical_name: "Aleksandras Cartorijskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Cartorijskis"]
+sameAs: []
+canonical_biography: "Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras Cartorijskis su Skabeika Verbų sekmadienį1 7 įvažiavo į Trakų pilį. Aleksandras Cartorijskis labai mėgo medžioklę."
 ---
 # Aleksandras Cartorijskis
 
@@ -58,7 +65,8 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
 - id: c-176709
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 122."
   citata_originali: |
     O kitų ku­
     nigaikščių ir didikų prie Žygimanto tuo metu nė vieno
@@ -87,7 +95,8 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
 - id: c-178923
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 123."
   citata_originali: |
     O lenkų ponai neno­
     rėjo išleisti jo iš savo žemės, kadangi jų karalius, Jo­

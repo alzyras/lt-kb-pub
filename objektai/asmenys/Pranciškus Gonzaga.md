@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-16892dbb916815755360f889"
+canonical_name: "Pranciškus Gonzaga"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pranciškus Gonzaga"]
+sameAs: []
+canonical_biography: "Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose."
 ---
 # Pranciškus Gonzaga
 
@@ -54,7 +61,8 @@ Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno t
 - id: c-169610
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 690"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 690."
   citata_originali: |
     Karalienė patarė
     nenutraukti

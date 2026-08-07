@@ -46,9 +46,9 @@ Oi Titi, Titi!" Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai dienai st
 ## Citatos
 
 - id: c-184603
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 100"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 100."
   citata_originali: |
     Oi Titi, Titi!"
     Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai

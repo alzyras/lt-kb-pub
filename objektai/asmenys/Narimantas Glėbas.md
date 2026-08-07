@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-017b0c03c0b05a191f3589d3"
+canonical_name: "Narimantas Glėbas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Narimantas Glėbas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Narimantas Glėbas
 

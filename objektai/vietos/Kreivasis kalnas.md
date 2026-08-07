@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9facbfc8a340ef0b17e69ed3"
+canonical_name: "Kreivasis kalnas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kreivasis kalnas"]
+sameAs: []
+canonical_biography: "Kreivasis, arba Pilkasis, kalnas tapatinamas su Trijų Kryžių kalnu. Kalnas lokalizuojamas šiauriniame Vilnelės krante priešais Gedimino kalną."
+place_authority: true
+historical_names: []
 ---
 # Kreivasis kalnas
 

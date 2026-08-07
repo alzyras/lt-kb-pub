@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3cf437d8b9423d51c435e02a"
+canonical_name: "Uršulė (Petro ir Onos pašnekovė, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Uršulė","Uršulė (Petro ir Onos pašnekovė, XIX a.)"]
+sameAs: []
+canonical_biography: "Uršulė ganiavos epizode kalbina Petrą apie vestuves su Ona ir pati užtraukia dainą apie būsimą vyrų išvarymą į maskolių rankas."
 ---
 # Uršulė (Petro ir Onos pašnekovė, XIX a.)
 

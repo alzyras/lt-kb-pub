@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-886f6229dd0917d5bd1d873c"
+canonical_name: "Teofilis Duninas Rajeckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teofilis Duninas Rajeckis"]
+sameAs: []
+canonical_biography: "Teofilis Duninas Rajeckis buvo Kotrynos (Katarzynos), J. L. Oziębłowskio žmonos, tėvas."
 ---
 # Teofilis Duninas Rajeckis
 
@@ -58,9 +65,10 @@ Teofilis Duninas Rajeckis buvo Kotrynos (Katarzynos), J. L. Oziębłowskio žmon
 ## Citatos
 
 - id: c-185766
-  šaltinis: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.)"
+  autorius: "Eimantas Meilus"
+  šaltinis: "Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius"
   puslapiai: "PDF 8"
-  indeksas: "Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.), PDF 8."
+  indeksas: "Eimantas Meilus, Kultūrų sankirtos: skiriama dr. Ingės Lukšaitės 60-mečiui — XVII a. pabaigos Lietuvos bajorų kasdienybė pagal jų dienoraščius, PDF 8."
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"

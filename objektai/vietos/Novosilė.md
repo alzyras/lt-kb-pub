@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f03e6e049d6efe09e953e932"
+canonical_name: "Novosilė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Novosilė"]
+sameAs: []
+canonical_biography: "Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu. Novosilė lokalizuojama Okos ir Dono aukštupių zonoje, labiausiai į rytus išsikišusiame LDK pakraštyje."
+place_authority: true
+historical_names: []
 ---
 # Novosilė
 
@@ -71,7 +80,8 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
 - id: c-170323
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 261."
   citata_originali: |
     Apie Peremiš-
     llo kunigaikščio dalyvavimų kalbama tik BK.

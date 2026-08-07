@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-23f3c7240f4eb71628c061e3"
+canonical_name: "Muchavecas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Muchavecas"]
+sameAs: []
+canonical_biography: "Inžinerijos pulkininkui Jokūbui Jasinskui vadovaujant pradėtas statyti antras tiltas per Bugą, turėjęs užtikrinti atsitraukimą, esant kritiškai situacijai, užverstos dvi brastos Senajame Muchavece, prieš tiltą per Muchaveco upę supiltas pylimas, nuo kurio."
+place_authority: true
+historical_names: []
 ---
 # Muchavecas
 
@@ -60,7 +69,8 @@ Inžinerijos pulkininkui Jokūbui Jasinskui vadovaujant pradėtas statyti antras
 - id: c-45227
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 146."
   citata_originali: |
     Liepos 20 d. S. Zabielai atvykus į Lietuvos
     Brastą, iškart imta įtvirtinti miestą. Inži-

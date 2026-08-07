@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-933a51feee354c256cdc57f7"
+canonical_name: "Vaitkunskienė L"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vaitkunskienė L"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad vaitkunskienė L., Sidabras..., p. 10 ir kt."
 ---
 # Vaitkunskienė L
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad vaitkunskienė L., Sidabras..., p. 10 ir kt.
 - id: c-61438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
   citata_originali: |
     525  Apie auksą ir sidabrą senovės Lietuvoje bei sidabro dirbinius žr. Vaitkunskienė
     L., Sidabras..., p. 10 ir kt.

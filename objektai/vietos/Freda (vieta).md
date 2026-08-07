@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9049110cea09248332eb2be8"
+canonical_name: "Freda (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Freda","Freda (vieta)"]
+sameAs: []
+canonical_biography: "Fredoje buvo įsikūrę keliolika ar keliasdešimt valstiečių, vadinamų miesto valdiniais, kurie privalėjo mokėti miestui, kaip jų kolektyviniam savininkui, činšą ir atlikti kai kurias kitas prievoles. Viršutinėje Nemuno terasoje plytėjo Freda."
+place_authority: true
+historical_names: []
 ---
 # Freda (vieta)
 
@@ -58,9 +67,9 @@ Fredoje buvo įsikūrę keliolika ar keliasdešimt valstiečių, vadinamų miest
 ## Citatos
 
 - id: c-185039
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 300"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 300."
   citata_originali: |
     Iš trijų svarbiausių Kauno miesto pajamų šaltinių mažiausiai žinoma apie miestui
     priklausančius valstiečius. Fredoje buvo įsikūrę keliolika ar keliasdešimt valstiečių,
@@ -77,9 +86,9 @@ Fredoje buvo įsikūrę keliolika ar keliasdešimt valstiečių, vadinamų miest
     - t-001
 
 - id: c-185040
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 381"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 381."
   citata_originali: |
     Čia žemutinėje
     Nemuno terasoje buvo Aleksotas, miesto laivų statyklos ir besusidarantis priemiestis,

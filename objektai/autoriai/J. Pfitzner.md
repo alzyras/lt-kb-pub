@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d46454e350a3041f4b964113"
+canonical_name: "J. Pfitzner"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Pfitzner"]
+sameAs: []
+canonical_biography: "Pfitzneris 1930 m. Pragoję išleistame įdomiame veikale «Grossfürst Witold als Staatsmann» (lietuv. Pfitzner, J."
 ---
 # J. Pfitzner
 
@@ -61,7 +68,8 @@ Pfitzneris 1930 m. Pragoję išleistame įdomiame veikale «Grossfürst Witold a
 - id: c-30582
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 13."
   citata_originali: |
     J. Pfitzneris 1930 m. Pragoję išleistame įdomiame veikale
     «Grossfürst Witold als Staatsmann» (lietuv. Jurgio Talmanto

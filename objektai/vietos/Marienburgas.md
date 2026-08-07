@@ -41,6 +41,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4aed4702f11f6d2e0d6ecce6"
+canonical_name: "Marienburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Marienburgas"]
+sameAs: []
+canonical_biography: "Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą puolamos pilies sienų aukštį. 1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi. 1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą."
+place_authority: true
+historical_names: []
 ---
 # Marienburgas
 
@@ -444,7 +453,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 - id: c-32211
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 285."
   citata_originali: |
     Nuo 1384.VII.9 d. vykdydamas savo plačiai išgar­
     sintą «išdavystę» _(Verrat),_ Vytautas, vikriai užsimaskavęs, sude­
@@ -462,7 +472,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 31."
   citata_originali: |
     Į šitą luomą jis pateko vesdamas Jogailos seserį
     Mariją; iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo
@@ -485,7 +496,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 - id: c-161534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
   citata_originali: |
     500 Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
     1272 m. ar 1274 m.
@@ -501,7 +513,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 - id: c-161535
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 44."
   citata_originali: |
     Žygiui ruoštasi visus metus. Gavus žvalgų duomenis, koks pilies sienų aukštis, kryžiuočių sostinėje Marienburge buvo pag-
     aminti atitinkamo aukščio šturmo bokštai. Kartu Nemunu buvo plukdomos visos pagrindinės to meto puolimo mašinos.
@@ -516,7 +529,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 - id: c-161536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
     Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
     100 kelių į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
@@ -537,7 +551,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 - id: c-161537
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 152."
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
     52
@@ -563,7 +578,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 - id: c-161538
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 349."
   citata_originali: |
     Po
     pirmo katastrofos smūgio ordinas tačiau ėmė atsipeikėti. Kai
@@ -585,7 +601,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 - id: c-161539
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 343-344"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 343-344."
   citata_originali: |
     Karalius ŽYGIMANTAS AUGUSTAS
 
@@ -625,7 +642,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 - id: c-161540
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 335."
   citata_originali: |
     1400 m. Kalėdoms į Karaliaučių nuvykę
     kilmingieji buvo apdovanoti druska ir vilnoniais audiniais^12 , t. y.
@@ -646,7 +664,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 29."
   citata_originali: |
     Naujų galimumų akivaizdoje Jogaila pasiuntė į Vakarų Eu­
     ropą savo brolį Skirgailą su slaptais įgaliojimais į kažkokius
@@ -667,7 +686,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 - id: c-161544
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
   citata_originali: |
     208 (203). Apie Marienburgo pilies pastatymą
 
@@ -691,7 +711,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 - id: c-161546
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 349."
   citata_originali: |
     Yra duomenų spręsti, kad Jogaila ir Vytautas yra veikę drauge
     ir sutartinai^34. Vytauto kariuomenė buvo stipriai išretinta ne tik
@@ -710,7 +731,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 - id: c-161547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 24."
   citata_originali: |
     iš to daroma išvada, kad jau
     Akone buvęs tam tikras kalendorius arba nekrologas, turėjęs priminti mirusiųjų metines.
@@ -729,7 +751,8 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
 - id: c-168399
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 324-325"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 324-325."
   citata_originali: |
     Priėmus nutarimą, ieškota žmogaus, kuriam be
     pavojaus galima būtų patikėti šią slaptą užduotį, mat jis

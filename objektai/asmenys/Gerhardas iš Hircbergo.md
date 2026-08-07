@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-24c0a3efde8cade0d59042a5"
+canonical_name: "Gerhardas iš Hircbergo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gerhardas iš Hircbergo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Prūsijos žemės magistras brolis Gerhardas iš Hircbergo vadovavo dvejus metus340."
 ---
 # Gerhardas iš Hircbergo
 
@@ -46,7 +53,8 @@ Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Pr
 - id: c-60918
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
   citata_originali: |
     Šitai išgirdęs, brolis Hermanas, pasikliaudamas
     savo mergele Marija, kuriai buvo pasižadėjęs tarnauti, susigrūmė su juo ir per pirmąjį

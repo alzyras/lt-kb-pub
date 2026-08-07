@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9de3d3bef5a1571bdc0c2196"
+canonical_name: "Vilniaus tiltas per Viliją"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus tiltas per Viliją"]
+sameAs: []
+canonical_biography: "Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Šis garbingasis Ulrikas Hozijus, 387 ## Puslapis 404 VILNIAUS MIESTO ISTORIJA// TOMAS patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir išlaidomis labai greitai ir rūpestingai susiruošė. O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus tiltas per Viliją
 
@@ -40,7 +49,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 <a id="claim-t-195185"></a>
 - t-001
   teiginys: "Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją."
@@ -48,7 +57,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   semantiniai_rysiai: "[[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]] pastatė Vilniaus tiltas per Viliją"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-177553
+    - c-177550
 
 <a id="claim-t-195186"></a>
 - t-002
@@ -107,7 +116,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 - id: c-177549
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284."
   citata_originali: |
     Dvasios bažnyčios pastatyti vie­
     šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
@@ -128,7 +138,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 - id: c-177550
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 403-404"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 403-404."
   citata_originali: |
     Dominyko ordino brolių pa­
     mokslininkų vienuolyno, esančio prie Šv. Dvasios bažnyčios,
@@ -153,12 +164,14 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-001
     - t-003
 
 - id: c-177551
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 404-405"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 404-405."
   citata_originali: |
     Tie, kuriuos minėtas garbingasis Jonas Hozijus
     388
@@ -198,7 +211,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 - id: c-177552
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA // TOMAS
     dėlto, atrodo, kad Goštautas nežinia kodėl šia karaliaus pri­
@@ -224,7 +238,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 - id: c-177553
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 402-403"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 402-403."
   citata_originali: |
     Šiuo raštu
     skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar
@@ -269,13 +284,13 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-005
 
 - id: c-177554
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 283."
   citata_originali: |
     O po kele­
     lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir

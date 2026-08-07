@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2eee3dde09da3ef98fd8060a"
+canonical_name: "Petras Ivanovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Ivanovskis"]
+sameAs: []
+canonical_biography: "Jį, dar būdama Stanislovienė Goštautienė, Trakų vaivadienė, našlė, išda­ vė 1547 metų rugsėjo 10 dieną, 6 in­ dikte, tai yra, visai prieš pat tas sutuoktuves, kažkokiam Petrui Ivanovskiui pasiskolinus iš jo 128 ka­ pas grašių ir 8 dubenis medaus, už tai."
 ---
 # Petras Ivanovskis
 
@@ -60,7 +67,8 @@ Jį, dar būdama Stanislovienė Goštautienė, Trakų vaivadienė, našlė, išd
 - id: c-83805
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 289."
   citata_originali: |
     Mačiau originalų raštą ar­
     ba pakvitavimą, rašytą karalienės

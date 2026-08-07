@@ -61,7 +61,8 @@ Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė n
 - id: c-46931
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 597"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 597."
   citata_originali: |
     Kadangi
     tatai nepavyko, tai Ambasadorių Konferencija jau po Klaipėdos

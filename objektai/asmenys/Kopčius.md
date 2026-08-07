@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cd7b1e03af3bbd389c51883d"
+canonical_name: "Kopčius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kopčius"]
+sameAs: []
+canonical_biography: "Jis buvo ypač parankus ginant miestų sienas bei pilis ## Puslapis 81 žuvusio raštininko Kopčiaus galvą, ją pamovė ant mieto ir ėmė įžūliai tyčiotis iš likusių gyvųjų."
 ---
 # Kopčius
 
@@ -50,7 +57,8 @@ Jis buvo ypač parankus ginant miestų sienas bei pilis ## Puslapis 81 žuvusio 
 - id: c-42090
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 80-81"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 80-81."
   citata_originali: |
     Totoriai, nukirtę
 

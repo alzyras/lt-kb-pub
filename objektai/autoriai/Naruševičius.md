@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0bc2d143981aef26f174d82f"
+canonical_name: "Naruševičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Naruševičius"]
+sameAs: []
+canonical_biography: "Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie vakarinę Boristenio pusę. Naruševičius, anot Narbuto, daugelyje darbų patvirtino teiginį apie gelonų tautą prie Nemuno aukštupio. Naruševičius taip pat patvirtina tai daugelyje savo darbų3."
 ---
 # Naruševičius
 
@@ -86,7 +93,8 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
 - id: c-174469
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 210."
   citata_originali: |
     1 Boristenis occidentale latus. Naruševičius apie tai skaitė se­
     novės geografų veikaluose (Hist. Nar. Pol. T. I. S. 34),
@@ -111,7 +119,8 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
 - id: c-174470
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
   citata_originali: |
     Tai, be
     abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­

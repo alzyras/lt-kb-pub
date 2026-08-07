@@ -36,6 +36,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a2726ca75fe0945ae36703a3"
+canonical_name: "Barbora (auklė, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Barbora","Barbora (auklė, XIX a.)"]
+sameAs: []
+canonical_biography: "Barbora pasakotojo namuose buvo augintinė ir auklė, iš piemenių paimta pusmergė, vėliau išaugusi į padorią kaimo mergelę ir susieta su piršlybų bei vestuvių pasakojimu."
 ---
 # Barbora (auklė, XIX a.)
 

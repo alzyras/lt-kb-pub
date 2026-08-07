@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-37c5150915b5ecd2b88d6fe2"
+canonical_name: "Otto Blanehom"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Otto Blanehom"]
+sameAs: []
+canonical_biography: "Saremas brolis Otto (Blanehom)."
 ---
 # Otto Blanehom
 
@@ -51,7 +58,8 @@ Saremas brolis Otto (Blanehom).
 - id: c-83794
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 90."
   citata_originali: |
     Myko­
     lo, išverstos iš vokiečių į lotynų kalbą. Be išsamaus išvar­

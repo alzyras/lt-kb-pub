@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b6b2eee1bab5662df6bf8247"
+canonical_name: "Spaudos rūmai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Spaudos rūmai"]
+sameAs: []
+canonical_biography: "Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vėliau – Vilniaus geležinkelio mazgą."
+place_authority: true
+historical_names: []
 ---
 # Spaudos rūmai
 
@@ -38,7 +47,7 @@ Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto ap
 <a id="claim-t-21817"></a>
 - t-001
   teiginys: "1991 m. sausio 11 d. sovietų kariuomenė jėga užėmė Spaudos rūmus ir kitus objektus Lietuvoje."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1991 m."
@@ -53,7 +62,8 @@ Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto ap
 - id: c-24496
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 243."
   citata_originali: |
     Tačiau 1991 m.
     sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
@@ -72,7 +82,8 @@ Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto ap
 - id: c-167028
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 243."
   citata_originali: |
     Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
     vuočiai. Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus

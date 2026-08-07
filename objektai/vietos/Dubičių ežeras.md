@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bc80530cf5c51946a765ec63"
+canonical_name: "Dubičių ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dubičių ežeras"]
+sameAs: []
+canonical_biography: "Narbutas Dubičių ežerą Lydos apskrityje siejo su vardais Dub ir Duupe, aiškindamas juos dviem iš ežero į skirtingas puses tekančiomis upėmis."
+place_authority: true
+historical_names: []
 ---
 # Dubičių ežeras
 
@@ -47,7 +56,8 @@ Narbutas Dubičių ežerą Lydos apskrityje siejo su vardais Dub ir Duupe, aišk
 - id: c-171880
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 230."
   citata_originali: |
     1. Lydos apskrityje yra didžiulis [Dubičių] ežeras Dub, ar­
     ba Duupe, tai yra Dviupis, kadangi jame prasideda dvi upės,

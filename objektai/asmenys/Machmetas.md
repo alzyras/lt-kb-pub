@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9502ca0fc48483d6079df48a"
+canonical_name: "Machmetas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Machmetas"]
+sameAs: []
+canonical_biography: "1424 m. Vytauto pa­ siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie, vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­ jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu tapo Vytauto palaikomas Machmetas. Vytauto pa­ siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie, vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­ jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu tapo Vytauto palaikomas Machmetas. Į iškilmes buvo pa­ kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­ to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­ nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug mažesnių chanų."
 ---
 # Machmetas
 
@@ -103,7 +110,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 299."
   citata_originali: |
     1426 met. iš Konstantinopolio jis rašė Vytautui at­
     gailaudamas, kad „prie nesantaikos su kunigaikščiu jį prikal­
@@ -124,7 +132,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 159."
   citata_originali: |
     1424 m. Vytauto pa­
     siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie,
@@ -148,7 +157,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 159."
   citata_originali: |
     O kada pabaigė 1422
     m. kovą ir galėjo drąsiai atsidėti Rytų politikai, tai Vytauto įsi­

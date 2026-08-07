@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-80da55629781f6d1ad163bdc"
+canonical_name: "Karolis (didysis magistras)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis (didysis magistras)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe ir sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją išvaduoti. Dusburgietis teigia, kad be to, švento Petro grandinėse dieną (rugpjūčio 1) buvo apleista Kristmemelio pilis, pastatyta brolio Karolio, magistro."
 ---
 # Karolis (didysis magistras)
 
@@ -112,7 +119,8 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
 - id: c-85795
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
   citata_originali: |
     Apie Kristmemelio pilies sugriovimą
 
@@ -138,7 +146,8 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
 - id: c-85797
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     spalio 12
 

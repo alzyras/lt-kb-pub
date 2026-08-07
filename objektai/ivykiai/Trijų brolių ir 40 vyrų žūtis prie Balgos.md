@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-63187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
   citata_originali: |
     Apie 3 brolių ir 40 vyrų nužudymą
     Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene

@@ -74,7 +74,8 @@ Nenurodyta
 - id: c-169177
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 399."
   citata_originali: |
     Nuodugniau apsvarstęs padėtį, jis vis dėlto
     taip pat atmetė čekų siūlymus.

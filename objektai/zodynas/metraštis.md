@@ -62,38 +62,38 @@ Nenurodyta
 <a id="claim-t-200392"></a>
 - t-001
   teiginys: "Leidinio antraštė „Lietuvos metraštis, arba Bychovco kronika“ nėra autentiškas rankraščio pavadinimas."
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys yra pilnas ir tiksliai remiasi citata apie neautentišką leidinio antraštę. Papildomos atribucijos nereikia, nes kalbama apie leidinio pavadinimo istoriją, o ne kronikos vertinimą."
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-183703
 
 <a id="claim-t-200393"></a>
 - t-002
   teiginys: "Siaurąja prasme metraštis suprantamas kaip griežtai pamečiui dėstomų ir tiksliai datuojamų trumpų žinių tekstas."
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys yra pilnas apibrėžiamasis sakinys ir paremtas citatoje pateikta priešprieša."
   susije_objektai: "mentioned_place: Gardinas; mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-183704
 
-<a id="claim-t-200394"></a>
+<a id="claim-t-203073"></a>
 - t-003
-  teiginys: "Bychovco kronikai metraščio sąvoka siaurąja prasme taikoma tik sąlyginai."
-  atnaujinta: "2026-07-12 23:05"
+  teiginys: "Leidinyje „Lietuvos metraštis, Bychovco kronika“ teigiama, kad metraščio sąvoka siaurąja prasme Bychovco kronikai taikoma tik sąlyginai."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie sąlyginį sąvokos taikymą. Nepridėtos detalės apie pasakojimų pobūdį, nes jos nėra būtinos glaustam žodyno teiginiui."
   susije_objektai: "mentioned_place: Gardinas; mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-183704
 
@@ -145,7 +145,7 @@ Nenurodyta
     trumpos žinios, būdingos metraščiams.
   citata_rodoma: "„Bychovco kronika\" jis buvo pramintas XIX a. \npagal rankraščio savininką, Gardino gubernijos Volko- \nvysko apskrities teisėją Aleksandrą Bychovcą. „Lietu­\nvos metraščio\" antraštė duota dėl nusistojusios jau lie­\ntuvių tarybinėje istoriografijoje tradicijos vadinti \nmetraščiais visą XV— XVI a. pirmosios pusės Lietuvos \nDidžiojoje Kunigaikštystėje kilusią istorinę raštiją. \n„Metraščio\" (siaurąja prasme) sąvoka Bychovco kroni­\nkai taikoma tik sąlyginai, kadangi pastarąją sudaro dau­\ngiausia literatūriniai bei istoiiniai pasakojimai apie \nreikšmingiausius autoriaus požiūriu praeities įvykius, \no ne griežtai pamečiui dėstomos ir tiksliai datuojamos \ntrumpos žinios, būdingos metraščiams."
   statusas: verified
-  atnaujinta: "2026-07-12 23:05"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

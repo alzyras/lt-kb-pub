@@ -82,7 +82,8 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - id: c-55398
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 309."
   citata_originali: |
     Jėzuitų apsigyvenimas Vil­
     niuje jau Stepono Batoro laikais pakirto protestantų įtaką

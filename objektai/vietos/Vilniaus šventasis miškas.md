@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0885d5b83fa6eb8b29717c57"
+canonical_name: "Vilniaus šventasis miškas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus šventasis miškas"]
+sameAs: []
+canonical_biography: "Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus šventasis miškas
 
@@ -47,7 +56,8 @@ Vilniuje šventasis miškas buvo prie Vilnios ir Neries san takos.
 - id: c-177174
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 264."
   citata_originali: |
     Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
     takos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­

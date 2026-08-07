@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0ce9683d962835745023bfd3"
+canonical_name: "Mažeikių naftos perdirbimo įmonė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mažeikių naftos perdirbimo įmonė"]
+sameAs: []
+canonical_biography: "Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai industrializacijai ir urbanizacijai, septintąjį–aštuntąjį dešimtmetį pastatyta daug didelių naujų pramonės įmonių (Kauno HES, Mažeikių naftos perdirbimo įmonė, Jonavos azotinių trąšų."
+place_authority: true
+historical_names: []
 ---
 # Mažeikių naftos perdirbimo įmonė
 
@@ -49,7 +58,8 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
 - id: c-24295
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 218."
   citata_originali: |
     Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai
     industrializacijai ir urbanizacijai, septintąjį–aštuntąjį dešimtmetį pasta-

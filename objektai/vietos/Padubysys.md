@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ecbbe7ed4ebf7799081dff7b"
+canonical_name: "Padubysys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Padubysys"]
+sameAs: []
+canonical_biography: "Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkelta į Kauną."
+place_authority: true
+historical_names: []
 ---
 # Padubysys
 
@@ -50,7 +59,8 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 - id: c-166456
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 478"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 478."
   citata_originali: |
     Visa tai buvo daroma rusiškajam gaivalui su-
     stiprinti.

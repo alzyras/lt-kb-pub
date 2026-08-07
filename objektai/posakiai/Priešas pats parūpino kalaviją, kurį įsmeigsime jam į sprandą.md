@@ -60,7 +60,8 @@ Nenurodyta
 - id: c-168841
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 377."
   citata_originali: |
     Ramiai karalius išklausė
     tų žodžių. „Gerai,— tarė,— mielai priimu šį kovos ženk­

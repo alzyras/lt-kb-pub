@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9ecd444f8a1275c490f868c5"
+canonical_name: "Sčekas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sčekas"]
+sameAs: []
+canonical_biography: "Pasak padavimo, Sčekas su Kijumi ir Choryvu buvo laikomi Kijevo įkūrėjais arba atnaujintojais. Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko ir Choryvo miestų atnaujinimo epocha."
 ---
 # Sčekas
 
@@ -65,7 +72,8 @@ Pasak padavimo, Sčekas su Kijumi ir Choryvu buvo laikomi Kijevo įkūrėjais ar
 - id: c-174866
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 379."
   citata_originali: |
     Iš tiesų truputį vėliau jie iške­
     liavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­

@@ -27,8 +27,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b8e968bce345e1f002d31164"
+canonical_name: "Mickevičius Adomas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Mickevičius Adomas"]
+sameAs: []
+canonical_biography: "Rimvydas Laužikas Adomą Mickevičių greta Jędrzejaus Kitowicziaus apibūdina kaip benykstančios sarmatiškosios bajorų kultūros metraštininką."
 ---
 # Mickevičius Adomas
+
+## Santrauka
+
+Rimvydas Laužikas Adomą Mickevičių greta Jędrzejaus Kitowicziaus apibūdina kaip benykstančios sarmatiškosios bajorų kultūros metraštininką.
 
 ## Santrauka
 
@@ -39,7 +50,7 @@ Rimvydas Laužikas Adomą Mickevičių greta Jędrzejaus Kitowicziaus apibūdina
 <a id="claim-t-200740"></a>
 - t-001
   teiginys: "Rimvydas Laužikas Adomą Mickevičių greta Jędrzejaus Kitowicziaus apibūdina kaip benykstančios sarmatiškosios bajorų kultūros metraštininką."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,6 +76,6 @@ Rimvydas Laužikas Adomą Mickevičių greta Jędrzejaus Kitowicziaus apibūdina
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 15."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-001

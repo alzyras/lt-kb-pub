@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd498ed6245e30329c76819b"
+canonical_name: "Lietuvos gubernija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lietuvos gubernija"]
+sameAs: []
+canonical_biography: "Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padalintos į dvi gubernijas — Vilniaus ir Slanimo."
+place_authority: true
+historical_names: []
 ---
 # Lietuvos gubernija
 
@@ -47,7 +56,8 @@ Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padali
 - id: c-176002
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 455"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 455."
   citata_originali: |
     Rusų įvestoji tvarka
 

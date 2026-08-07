@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-166b6f07d619cb49e0eb3373"
+canonical_name: "Kremlius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jono Kalitos tvirtovė","Kremliaus","Kremlius"]
+sameAs: []
+canonical_biography: "Kremlius šiame šaltinyje minimas kaip Jono Kalitos tvirtovė ir kaip viena iš ašių, priešpriešinamų Gedimino sostinei Vilniui ankstyvajame Lietuvos ir Maskvos dinastiniame antagonizme."
+place_authority: true
+historical_names: []
 ---
 # Kremlius
 
@@ -91,7 +100,8 @@ Nenurodyta
 - id: c-49334
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 38."
   citata_originali: |
     XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
     ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-184e967a88df104432f1a198"
+canonical_name: "Fateris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fateris"]
+sameAs: []
+canonical_biography: "Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusinų, latviškai vadinamų krieviais. Fateris po ranka turėjo istorijos šaltinius, kurie bylojo, kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo papasakoti ir daugiau smulkmenų."
 ---
 # Fateris
 
@@ -65,7 +72,8 @@ Fateris Dusburgiečio žinią apie krivį aiškino kaip nesusipratimą dėl rusi
 - id: c-173005
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 420"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 420."
   citata_originali: |
     Taigi, jei tiek Prūsijoje, tiek ir
     Lietuvoje buvo Romovė arba daug tokių šventovių, jei iš tik­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8cf650095c9d2f7f3e1a1a1b"
+canonical_name: "Sviečė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sviečė"]
+sameAs: []
+canonical_biography: "Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Sviečės. Jie čia jau buvo atvykę iš Sviečės, sustipri­ nę upės krantus ir apstatę juos patrankomis."
+place_authority: true
+historical_names: []
 ---
 # Sviečė
 
@@ -68,7 +77,8 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 100."
   citata_originali: |
     Lietuviai ir lenkai, norėdami
     labiau nukreipti nuo savęs dėmesį, įsakė savo kariuomenių bū­
@@ -90,7 +100,8 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 101."
   citata_originali: |
     Čia pastebėjo, kad perėjimas per tą upę jau kryžiuočių
     buvo saugojamas. Jie čia jau buvo atvykę iš Sviečės, sustipri­

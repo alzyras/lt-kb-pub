@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-848b0721fbf60d92158b3e53"
+canonical_name: "Karolis (švedų kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Karolis (švedų kunigaikštis)"]
+sameAs: []
+canonical_biography: "), iš Vokietijos žemių 30 naujai įstojusių Ordino brolių būrys, Revelio (Talino) danų kariuomenė, vadovaujama švedų kunigaikščio Karolio, turėjusio dar savo būrį."
 ---
 # Karolis (švedų kunigaikštis)
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-44408
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 28."
   citata_originali: |
     Ordino pajėgos
     1260 m. Klaipėdoje prieš Lietuvą buvo

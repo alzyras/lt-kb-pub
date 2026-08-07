@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2a290e219da4c5af9527a403"
+canonical_name: "Hermanas Saracėnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hermanas Saracėnas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą Tuo metu Karaliaučiaus pilies brolių konvente gyveno brolis Hermanas, pravarde Saracėnas341, gimęs Švabijoje; dar būdamas pasaulietis, jis taip karštai pamilo švenčiausiąją mergelę Mariją, kad niekada niekam. Dusburgietis teigia, kad dar apie tą patį Tas pats brolis Hermanas, kai, priimtas į Teutonų ordiną, skubėjo ton vieton, kur turėjo būti jo įvilktuvės, užėjo viename lauke daug karių, susirinkusių į ietininkų turnyrą; vienas jų, jau apsiginklavęs ir raitas, liepė skelbti, ar rasis. Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu į Ordiną ir darančiu vieną dorovingą darbą po kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis."
 ---
 # Hermanas Saracėnas
 
@@ -149,7 +156,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - id: c-60552
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 114."
   citata_originali: |
     Visi atsakė, kad vertas sudeginti. Kita
     proga tas pats brolis Volradas pasikvietė į tą pačią pilį daugiau [prūsų] nei anksčiau. Kai
@@ -166,7 +174,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - id: c-60553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
   citata_originali: |
     Apie vieno Karaliaučiaus brolio šlovingą gyvenimą
 
@@ -195,7 +204,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - id: c-60554
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
   citata_originali: |
     Šitai išgirdęs, brolis Hermanas, pasikliaudamas
     savo mergele Marija, kuriai buvo pasižadėjęs tarnauti, susigrūmė su juo ir per pirmąjį
@@ -221,7 +231,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - id: c-60555
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 113."
   citata_originali: |
     Apie tai, kaip iš anksto buvo išpranašautas šis mūšis
     Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su
@@ -241,7 +252,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - id: c-60556
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
   citata_originali: |
     Dar apie tą patį
     Tas pats brolis Hermanas, kai, priimtas į Teutonų ordiną, skubėjo ton vieton, kur

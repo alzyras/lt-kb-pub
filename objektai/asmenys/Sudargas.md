@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-62de179e0b5c2fdc91823bc2"
+canonical_name: "Sudargas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sudargas"]
+sameAs: []
+canonical_biography: "Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose. Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais. Kojelavičius rašo, kad po pralaimėjimo priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius."
 ---
 # Sudargas
 
@@ -121,7 +128,8 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
 - id: c-60842
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 215."
   citata_originali: |
     Kronikoje Sudargas, kaip lietuvių karo vadas,
     figūruoja 1308—1317 m. įvykių aprašyme (III, 303, 311, 332). Jis kovojo prieš Ordiną,
@@ -139,7 +147,8 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
 - id: c-60843
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Antra
     kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
@@ -162,7 +171,8 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
 - id: c-168195
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 193."
   citata_originali: |
     Kai Chris-
     1316 m e ta i

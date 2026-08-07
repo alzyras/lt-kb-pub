@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0e19290dc7b9146af1a12521"
+canonical_name: "Voluinės Vladimiras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Voluinės Vladimiras"]
+sameAs: []
+canonical_biography: "1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino."
+place_authority: true
+historical_names: []
 ---
 # Voluinės Vladimiras
 
@@ -64,7 +73,8 @@ media_all_json: |-
 - id: c-175629
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     Ne
     viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,

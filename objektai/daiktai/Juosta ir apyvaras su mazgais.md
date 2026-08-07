@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-60318
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
   citata_originali: |
     Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį
     ar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę,

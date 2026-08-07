@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d5a3c48fcbee8e4963d79daa"
+canonical_name: "Šiaulių ekonomija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šiaulių ekonomija"]
+sameAs: []
+canonical_biography: "Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas."
+place_authority: true
+historical_names: []
 ---
 # Šiaulių ekonomija
 
@@ -77,7 +86,8 @@ Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas.
 - id: c-69092
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 86."
   citata_originali: |
     I-jo Lietuvos Statuto šaltinių, terminų ir paleografijos
     klausimais rašė S. Lazutka ir E. Gudavičius^111. Teisės
@@ -105,7 +115,8 @@ Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas.
 - id: c-175991
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 439"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 439."
   citata_originali: |
     Būdavo taip pat atsitikimų, kad valstiečiai kai kur net su-
     kildavo. Ypač garsus buvo 1769 m. Šiaulių ekonomijos vals-

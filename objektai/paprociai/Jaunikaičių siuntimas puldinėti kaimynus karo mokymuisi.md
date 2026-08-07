@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-169277
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 96."
   citata_originali: |
     Gyveno trys jauni­
     kaičiai, ir karo, ir taikos darbams įgudę bei šiaip vis­
@@ -105,7 +106,8 @@ Nenurodyta
 - id: c-178622
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 97."
   citata_originali: |
     Drucką
     ir dalį Smolensko gavo Erdivydas, Vitebską — Vykin­

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1651565d59a88575c989eba1"
+canonical_name: "Nestoras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nestoras"]
+sameAs: []
+canonical_biography: "Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš“, bet jį esą reikia skaityti kaip „Kurs“. Teodoras Narbutas rašo, kad Nestoras perėmė pasakojimą apie Kijų, Ščeką, Choryvą ir senovės Kijevą. Teodoras Narbutas Nestoro pateiktomis žiniomis grindė teiginį, kad skandinavams priklausė daug kraštų ir tautų."
 ---
 # Nestoras
 
@@ -296,7 +303,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
 - id: c-173073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 110."
   citata_originali: |
     Daug kas stengėsi išsiaiškinti Kuršo krašto pavadinimo kil­
     mę. Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Ku-
@@ -315,7 +323,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
 - id: c-173813
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Tačiau ži­
     noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
@@ -336,7 +345,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
 - id: c-173814
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     Istorikas, rašęs jau praėjus
     šio Kauno įkūrėjo amžiui, neįsigilinęs į istorines detales,
@@ -357,7 +367,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
 - id: c-173815
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
   citata_originali: |
     Bet, kai smulkiame tautų sąva­
     de šiam bendriniam pavadinimui neliko vietos, jis buvo
@@ -381,7 +392,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
 - id: c-173818
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Be to, reikia pridurti nors ir nepilną, tačiau Nestoro
     išsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­
@@ -405,7 +417,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
 - id: c-173819
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Be to, ir Pretorijus sako,
     jog prūsai ir rusai iš pradžių priklausė vienai genčiai;
@@ -429,7 +442,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
 - id: c-173820
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 374"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 374."
   citata_originali: |
     Be to, apskritai buvo
     liautasi tyrinėti miestų šaltinius, mūsų nuomone, labai
@@ -456,7 +470,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
 - id: c-175369
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 278."
   citata_originali: |
     Tačiau Nestoras IX amžiuje žinojo šį taip
     vadintą kraštą, jo gyventojus, kuriuos jis priskirdavo prie
@@ -479,7 +494,8 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
 - id: c-179337
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Tačiau jis prieštarauja sau ir savo tiksliai
     išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­

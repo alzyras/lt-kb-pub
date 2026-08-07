@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-73776c1f90b2255d6a3289c6"
+canonical_name: "Stanislovas Daugirdas (kunigaikštis, XVI a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Daugirdas","Stanislovas Daugirdas (kunigaikštis, XVI a.)"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Stanislovas Daugirdas (kunigaikštis, XVI a.)
 

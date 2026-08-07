@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-356b47a703db0f086fc29dcf"
+canonical_name: "Tamova"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tamova"]
+sameAs: []
+canonical_biography: "Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokiečių maisto atsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo)."
+place_authority: true
+historical_names: []
 ---
 # Tamova
 
@@ -51,7 +60,8 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 28."
   citata_originali: |
     Kada Kryžiuočių Ordino maršalka
     Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir, nueida­

@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d7318d49012c2592014843a7"
+canonical_name: "Grevos pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Grevos pilis"]
+sameAs: []
+canonical_biography: "Su lygia narsybe įpuolė Sviatopelkas į Pamezoniją, ketėdamas Grevos pilę (Christburgą) apent vokyčiams atimti; todėl, perskiedęs savo kariauną į dvi dali, apniko pilį nuo dviejų pusių."
+place_authority: true
+historical_names: []
 ---
 # Grevos pilis
 
@@ -41,9 +50,9 @@ Su lygia narsybe įpuolė Sviatopelkas į Pamezoniją, ketėdamas Grevos pilę (
 ## Citatos
 
 - id: c-184494
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 335"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 335."
   citata_originali: |
     Tas jo
     antpuolis taip staigus buvo, jog niekas jo nedrįso

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a4d0b110349daacdb0147b8"
+canonical_name: "Kuršių nerija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kuršių nerija"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509 įsibrovė į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent: Abendą ir Pabečius510; nužudę 150 krikščionių, jie. Dusburgietis teigia, kad ordino lotyniškuose dokumentuose nerija (Neria) iš pradžių vadinta tik Aismarių nerija."
+place_authority: true
+historical_names: []
 ---
 # Kuršių nerija
 
@@ -108,7 +117,8 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 - id: c-59212
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
   citata_originali: |
     509  D.— per Neriam Curoniensem, iri dicta Neria, Jer.— dî kûrîsche Nerge, kûrschin
     Nerge. Ordino lotyniškuose dokumentuose nerija (Neria) iš pradžių vadinta tik Aismarių
@@ -124,7 +134,8 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 - id: c-59213
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
   citata_originali: |
     Apie vienos Sembos dalies nusiaubimą
 
@@ -142,9 +153,9 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
     - t-001
 
 - id: c-184972
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 32"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 32."
   citata_originali: |
     Jų
     gyvenime Nemunas turėjo būti labai svarbus, mat vandens keliai patogiausi ir patiki-

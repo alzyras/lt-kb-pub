@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2248a814351c4c28fd5f926b"
+canonical_name: "Setgoisas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Setgoisas"]
+sameAs: []
+canonical_biography: "Narbutas rašė, kad ponas Setgoisas mėgino pateikti įtikinamų prielaidos apie slavų kilmę iš budinų įrodymų."
 ---
 # Setgoisas
 
@@ -53,7 +60,8 @@ Narbutas rašė, kad ponas Setgoisas mėgino pateikti įtikinamų prielaidos api
 - id: c-174539
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
   citata_originali: |
     Dar daugiau, anot jų, romėnai taip gerai pažinoję venedus
     kaip ir budinus, tad tokiu istorinių pritaikymų būdu stengiasi patvir­

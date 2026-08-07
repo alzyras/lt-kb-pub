@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fffaa2cacf4ed65cfe7b6bb8"
+canonical_name: "F. Sliesoriūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["F. Sliesoriūnas"]
+sameAs: []
+canonical_biography: "Sliesoriūno straipsniai^117."
 ---
 # F. Sliesoriūnas
 
@@ -60,7 +67,8 @@ Sliesoriūno straipsniai^117.
 - id: c-32923
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 87."
   citata_originali: |
     (^80) ĮVADAS
     vickis (IstV, t. 7, 1965, 161-165 p.). R. Strazdūnaitė:

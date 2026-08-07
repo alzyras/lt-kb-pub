@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-426c0d9cb4d4f2fe5245094d"
+canonical_name: "Kazimieras Karigaila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Cazimiri alias Corigal","Cazimirum dictum Cortgello","Kazimieras","Kazimieras Karigaila","kunigaikštis Karigaila"]
+sameAs: []
+canonical_biography: "Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniaus puolimo metu. Jo žūtis pateikiama keliomis versijomis, o vėlesnėje Vytauto privilegijoje jis minimas kaip miręs Vytauto brolis, už kurį turėjo būti aukojamos mišios."
 ---
 # Kazimieras Karigaila
 
@@ -235,7 +242,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - id: c-55519
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139."
   citata_originali: |
     Il KNYGA
     lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos
@@ -256,7 +264,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - id: c-55521
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 140."
   citata_originali: |
     Compositio Pruss., p. 35, parašyta:
     Tandem Christianissimum principem
@@ -286,7 +295,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - id: c-55522
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 141."
   citata_originali: |
     Gynėjai iškėlė vėliavas su kryžiais, kaip
     ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­
@@ -332,7 +342,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - id: c-55523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 149."
   citata_originali: |
     Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir
     Krėvos kunigaikštis Aleksandras Vygantas, vienas energin­
@@ -355,7 +366,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - id: c-157519
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139-140"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139-140."
   citata_originali: |
     Arkikomtūro laiškas Romos
     - •
@@ -389,7 +401,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - id: c-157520
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 156-157"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156-157."
   citata_originali: |
     Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
     data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
@@ -442,7 +455,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - id: c-157523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 149."
   citata_originali: |
     Tačiau netrukus nuo
     įduotų nuodų, kaip buvo suprasta, jį ištiko ankstyva mirtis,

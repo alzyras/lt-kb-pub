@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3ca354982bb560074c4503af"
+canonical_name: "Grigorijus Camblakas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["G. Camblako","Grigorijus Camblakas","Grigorijų Camblaką"]
+sameAs: []
+canonical_biography: "Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės teologų; Vytautas jį paskyrė į LDK stačiatikių metropoliją, o G. Camblako vadovaujama delegacija Konstance iškėlė visuotinės bažnyčių unijos idėją."
 ---
 # Grigorijus Camblakas
 
@@ -121,7 +128,8 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 - id: c-48357
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 45."
   citata_originali: |
     K. W. Kielisińskio rekonstrukcija, 1841 m.
     radikalios – intensyviai kurdamas katalikiškų institucijų tinklą, valdovas

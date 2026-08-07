@@ -52,7 +52,7 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
 <a id="claim-t-184572"></a>
 - t-002
   teiginys: "Maskvėnai atidėjo derybas su Lukošiumi Garaburda ir Jonu Vilčeku, laukdami didesnius įgaliojimus turinčių pasiuntinių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,7 +91,8 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
 - id: c-167932
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 648"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 648."
   citata_originali: |
     Kadangi Maskvos didikai atkirto, kad ne­
     gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
@@ -119,7 +120,8 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
 - id: c-167933
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 696"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 696."
   citata_originali: |
     Karalius, nutaręs ginklu atsikeršyti už skriau­
     das, pakvietė į karo sąjungininkus Švedijos karalių.
@@ -153,7 +155,8 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
 - id: c-178536
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 649"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 649."
   citata_originali: |
     K r o k u v o je
     Leidęsi į Krokuvą, ten jie ir

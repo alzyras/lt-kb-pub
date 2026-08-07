@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-434339246a8d8b67402f0d6f"
+canonical_name: "Morungenas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Morungenas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metais brolis Hermanas, Elbingo komtūras bei didysis Ordino špitolininkas, netoli Zalfeldo miesto pastatė jau minėtą miestą, vardu Morungenas600, gavusį vardą nuo ežero, kurio pakrantėje jis ir buvęs įkurdintas. Dusburgietis teigia, kad — Morungen, Jer.— Môrungen [...] an Maurin (vardas prūsiškas, GAO, p. 101), vėliau vok."
+place_authority: true
+historical_names: []
 ---
 # Morungenas
 
@@ -77,7 +86,8 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 - id: c-59230
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 252."
   citata_originali: |
     600  D. — Morungen, Jer.— Môrungen [...] an Maurin (vardas prūsiškas, GAO, p.
     101), vėliau vok. Mohrungen, dab. Morongas (Morąg) tarp Elbliongo ir Olštino (Czubiel
@@ -93,7 +103,8 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 - id: c-59231
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 252."
   citata_originali: |
     2. Apie Morungeno pilies pastatymą
 

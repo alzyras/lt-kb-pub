@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-061e770f647b5ed356f68b76"
+canonical_name: "Pilypas (Fermo vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pilypas (Fermo vyskupas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, apaštališkojo sosto legatas, atsiųstas į Lenkijos žemę, ir brolis Konradas iš Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams skriaudų šiose trijose minėtosios."
 ---
 # Pilypas (Fermo vyskupas)
 
@@ -51,7 +58,8 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
 - id: c-61043
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     Tą patį padarė ir ketvirtas brolis, o kad šis dovanojimas butų teisėtas
     ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių

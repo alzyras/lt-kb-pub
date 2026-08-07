@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c621a9d18da332acf5e9781"
+canonical_name: "Irena Zujienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Irena Zujienė"]
+sameAs: []
+canonical_biography: "The history of Lithuania before 1795 / [translated by Irena Zujienė ..."
 ---
 # Irena Zujienė
 
@@ -49,7 +56,8 @@ The history of Lithuania before 1795 / [translated by Irena Zujienė ...
 - id: c-26699
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 268."
   citata_originali: |
     Kiaupa Z., Kiaupienė J., Kuncevičius A. The history of Lithuania before
     1795 / [translated by Irena Zujienė ... [et al.]. Vilnius, 2000.

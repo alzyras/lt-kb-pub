@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d665ad04e88852aedbeaf023"
+canonical_name: "Vladimiras Leninas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladimiras Leninas"]
+sameAs: []
+canonical_biography: "Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija. Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai, o kita dalis buvo skirta tik lietuviškai dainai ar šokiui."
 ---
 # Vladimiras Leninas
 
@@ -78,7 +85,8 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 - id: c-65050
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
   citata_originali: |
     SSRS ir kitų soclagerio ša-
     lių įvykdytos karinės invazijos į Čekoslovakiją kultūrinis gyvenimas vėl
@@ -101,7 +109,8 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 - id: c-65051
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 137."
   citata_originali: |
     Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-
     cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
@@ -121,7 +130,8 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 - id: c-65052
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
     no savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-

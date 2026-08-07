@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9be46041e62933d6f3de580"
+canonical_name: "Ovidijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ovidijus"]
+sameAs: []
+canonical_biography: "Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertimą pateikė kaip bandymą kurti gryna lietuvių kalba. Narbutas nurodė, kad Eratostenas, Aristotelis, Strabonas ir Ovidijus kalbėjo apie vandens lygio kritimą. Ovidijus turėjo apaštalauti Gardino paviete, kur lietuviai gyvena, ir Trakų."
 ---
 # Ovidijus
 
@@ -113,7 +120,8 @@ Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertim
 - id: c-173239
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 449."
   citata_originali: |
     Donu musu wisudienu dok mums szinderi, ir atlajsk mus musu
     kalties, keip ir mes atlaudziem sawiemis kahiemìs; ir ne wesk
@@ -135,7 +143,8 @@ Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertim
 - id: c-174783
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo
@@ -166,7 +175,8 @@ Narbutas Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių Bogušo vertim
 - id: c-179133
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
   citata_originali: |
     Jeronimas įtikino, kad tai apgavystė, sugriovė
     šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­

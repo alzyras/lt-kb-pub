@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fead3744b9d7bcb541bf9270"
+canonical_name: "Bergamas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bergamas","Bergamas (vieta)"]
+sameAs: []
+canonical_biography: "Vilniaus gatvių architektūriniai vaizdai Vorobjovui priminė Bergamą ir kitus turistų lankomus miestus."
+place_authority: true
+historical_names: []
 ---
 # Bergamas (vieta)
 

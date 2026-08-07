@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-db8ee9ae35f829be6efae55f"
+canonical_name: "Petrašu Montgirdaitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petrašu Montgirdaitis"]
+sameAs: []
+canonical_biography: "Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­ rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­ gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­ garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada Goštautu ir daugeliu kitų."
 ---
 # Petrašu Montgirdaitis
 
@@ -60,7 +67,8 @@ media_all_json: |-
 - id: c-83540
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 231-232"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 231-232."
   citata_originali: |
     Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
     rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­

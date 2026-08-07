@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-96c287e4d5abb35a5426d3dc"
+canonical_name: "Vilniaus vyskupija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus vyskupija"]
+sameAs: []
+canonical_biography: "Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra ir didingi vyskupų rūmai Verkiuose (dabar jų jau nebėra)."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus vyskupija
 
@@ -101,7 +110,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 - id: c-102069
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 453"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 453."
   citata_originali: |
     O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­
     rns, Pilypas Glazeris ir Motiejus Porempskis per savo tarpi­
@@ -132,7 +142,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 - id: c-102070
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 443"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 443."
   citata_originali: |
     Šven­
     tasis ekumeninis Tridento Sinodas nusprendė, kad norint
@@ -168,7 +179,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 - id: c-102071
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 443"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 443."
   citata_originali: |
     Taigi, kai mes, Jurgis Radvila,
     Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­
@@ -205,7 +217,8 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 - id: c-102072
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 125."
   citata_originali: |
     Kartu su
     būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-

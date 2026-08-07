@@ -57,7 +57,8 @@ Semkowicz, Wb.: Hanul, namiestnik wileński i jego ród , AW, t.
 - id: c-33574
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 286."
   citata_originali: |
     -— (”) _Vitoldiana_ , AW, t. 7, 1930, 494-504 p. (Dubysos
     sutartys). — Prochaska, A. : _Upadek Kiejstuta_ , KH, t. 23, 1909, 493-

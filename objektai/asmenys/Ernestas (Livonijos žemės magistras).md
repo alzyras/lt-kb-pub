@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-622680103fff8d75817d22b2"
+canonical_name: "Ernestas (Livonijos žemės magistras)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ernestas (Livonijos žemės magistras)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui, Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių pasiuntinių prašomas, jį paskyrė Prūsijos ir Livonijos brolių magistru 1279."
 ---
 # Ernestas (Livonijos žemės magistras)
 
@@ -95,7 +102,8 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
 - id: c-85639
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
     Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
@@ -116,7 +124,8 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
 - id: c-85640
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     201 (196). Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
     Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.

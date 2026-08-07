@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-83324c2fbadce224ed73511a"
+canonical_name: "St. Ciolką"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["St. Ciolką"]
+sameAs: []
+canonical_biography: "Ciolką."
 ---
 # St. Ciolką
 
@@ -53,7 +60,8 @@ Ciolką.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 142."
   citata_originali: |
     Ypač jie buvo susvyravę Vytauto amžiaus pabaigoj, kai
     Vytautas buvo susidėjęs su husitais ir į Poznaniaus vyskupus

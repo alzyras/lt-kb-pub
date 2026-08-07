@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3487a50b807a9c09a9df47b5"
+canonical_name: "Enėjas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Enėjas"]
+sameAs: []
+canonical_biography: "Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbinimą, vėliau siejamą su Alba ir Roma. Pasak Narbuto perteikiamo Vergilijaus, žlugus Trojai Enėjas statė laivus iš Idos kalno medžių, paskirtų Kibelei."
 ---
 # Enėjas
 
@@ -74,7 +81,8 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
 - id: c-172976
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     Šiek tiek vėliau tų dievybių garbinimas iš Atikos paplito visoje
     Graikijoje ir toliau.
@@ -93,7 +101,8 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
 - id: c-172977
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
   citata_originali: |
     Eri-
     sichtono istorija, Dodonės ir Delfų šventieji miškai buvo gar­

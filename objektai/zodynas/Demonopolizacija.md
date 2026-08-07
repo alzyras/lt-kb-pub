@@ -69,7 +69,8 @@ Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo d
 - id: c-24669
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 261."
   citata_originali: |
     Narystė ES apribojo Lietuvos vyriausybės galimybes tiesiogiai
     ir netiesiogiai kištis į ūkio funkcionavimą ir suteikė daugiau laisvių ir ga-
@@ -91,7 +92,8 @@ Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo d
 - id: c-166802
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 261."
   citata_originali: |
     Kita vertus, privalomas ES
     sprendimų vykdymas kartais sukelia diskusijų dėl tautos suvereniteto su-

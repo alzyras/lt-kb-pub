@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4a91cad16f116101edc5363e"
+canonical_name: "Chadži Girėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Chadži Girėjus"]
+sameAs: []
+canonical_biography: "Čia, Vilniuje (1443 metais), totorių pasiuntinių prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­ tas Perekopo chanu."
 ---
 # Chadži Girėjus
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-83621
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 242."
   citata_originali: |
     Daug jų vyko
     pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­

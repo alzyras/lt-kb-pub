@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d94238111699e1cdbfd633f1"
+canonical_name: "Zaskevičius, St"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Zaskevičius, St"]
+sameAs: []
+canonical_biography: "Zaskevičius, St."
 ---
 # Zaskevičius, St
 
@@ -59,7 +66,8 @@ Zaskevičius, St.
 - id: c-55083
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 351."
   citata_originali: |
     — Werminghoef, A. : _Die Schlacht bei Tannenberg und ihre Be­
     deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :

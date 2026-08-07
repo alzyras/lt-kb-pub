@@ -72,7 +72,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
 <a id="claim-t-187535"></a>
 - t-003
   teiginys: "Lietuvos metraštis pasakoja, kad po Polocko kunigaikščio Glėbo mirties polockiečiai ėmė reikalus spręsti viečėje ir nebeturėjo valdovo."
-  atnaujinta: "2026-07-19 17:45"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -87,7 +87,6 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
-    - c-170484
     - c-170485
 
 <a id="claim-t-187536"></a>
@@ -141,7 +140,8 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
 - id: c-168776
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
   citata_originali: |
     Dimitrijus sumokėsiąs ka­
     reiviams algą, o vadui — karo išlaidas. Abiejų tautų
@@ -173,7 +173,8 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
 - id: c-170484
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 46."
   citata_originali: |
     Ir ilgus metus
     valdė kunigaikštis Erdvilą, tuose miestuose begyvenda­
@@ -191,12 +192,12 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
 
 - id: c-170485
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 47."
   citata_originali: |
     O jos brolis, Polocko kunigaikštis Glėbas, mirė,
     jaunas būdamas, ir palaidotas Polocke, šventosios Sofi­
@@ -216,7 +217,8 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
 - id: c-170486
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 196."
   citata_originali: |
     Tačiau tiesioginių žinių apie paties Polocko puolimą ki­
     tuose patikimuose šaltiniuose nėra.

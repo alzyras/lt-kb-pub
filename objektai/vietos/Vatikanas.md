@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f33c5cb4928797e6b85c3552"
+canonical_name: "Vatikanas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vatikanas"]
+sameAs: []
+canonical_biography: "Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises nepabaigtame ginče su Lenkija. Pirmieji atgimstančios Lietuvos santykiai su Vatikanu buvo užmegzti dar Tarybos, Vilniuje, kai buvo susirūpinta Vilniaus vyskupo paskyrimu."
+place_authority: true
+historical_names: []
 ---
 # Vatikanas
 
@@ -58,7 +67,8 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
 - id: c-164858
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 600"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 600."
   citata_originali: |
     Todėl, užmezgus oficialinius santykius su Vati-
     kanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lie-

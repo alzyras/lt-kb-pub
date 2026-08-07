@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4e2b8ee0a95deaba76c0bfc"
+canonical_name: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kiti priedo I vaitų ir burmistrų sąrašo kandidatai"]
+sameAs: []
+canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS KETVIRTOSIOS KNYGOS I VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ a) Iki Unijos 1. Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius. Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10."
 ---
 # Kiti priedo I vaitų ir burmistrų sąrašo kandidatai
 
@@ -158,7 +165,8 @@ media_all_json: |-
 - id: c-83328
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 315-316"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 315-316."
   citata_originali: |
     Žr. IX priedą.
     72
@@ -188,7 +196,8 @@ media_all_json: |-
 - id: c-83329
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 317."
   citata_originali: |
     Juozapas Petravičius, iš Vilniaus miesto
     raštininko paskirtas vaitu gruodžio 3 d. - 1649
@@ -214,7 +223,8 @@ media_all_json: |-
 - id: c-83330
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 317."
   citata_originali: |
     Steponas Morozas - - 1701
     20. Jokūbas Vargalovskis Stefanovičius dar buvo
@@ -232,7 +242,8 @@ media_all_json: |-
 - id: c-83331
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 317."
   citata_originali: |
     Jurgis Fedaravičius
     22. Anupras Minkevičius, buvo vaitas: 1753 ir 1758
@@ -267,7 +278,8 @@ media_all_json: |-
 - id: c-83332
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 316."
   citata_originali: |
     Jachna Laurinavičius žinomas nuo - 1485 m.
     Tuo metu burmistras Mykolas Laurinavičius.
@@ -284,7 +296,8 @@ media_all_json: |-
 - id: c-83333
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 316-317"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 316-317."
   citata_originali: |
     9. Motiejus (arba Matas) Božiminskis, iš bajorų,
     paskirtas karaliaus Zigmanto Vazos raštu,

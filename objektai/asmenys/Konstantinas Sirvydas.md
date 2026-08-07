@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8fa3e8fc01d25e009dad6e58"
+canonical_name: "Konstantinas Sirvydas (kunigas, XVII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konstantinas Sirvydas","Konstantinas Sirvydas (kunigas, XVII a.)"]
+sameAs: []
+canonical_biography: "Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“ (1620)."
 ---
 # Konstantinas Sirvydas (kunigas, XVII a.)
 
@@ -114,7 +121,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - id: c-75368
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 73-74"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 73-74."
   citata_originali: |
     Nors sporadiškai lietuviškų knygų leidimas nenutrūko per visą Ba-
     roko epochą, jų būta gerokai mažiau nei lenkiškų ar lotyniškų. Iškalbin-
@@ -135,7 +143,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - id: c-171456
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
   citata_originali: |
     Dainos.
     177
@@ -160,7 +169,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - id: c-171462
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
   citata_originali: |
     Aušra (Aussra)
     Ryto deivė.
@@ -176,7 +186,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - id: c-179173
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 346."
   citata_originali: |
     Namuose yra gyvulių prieauglio, džiaugsmo ir turto; te­
     gul jaunimas netingi pratintis prie dievobaimingumo, tegul tris

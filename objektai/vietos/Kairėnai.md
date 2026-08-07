@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4a075ee7d21b630a92da91d9"
+canonical_name: "Kairėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kairėnai"]
+sameAs: []
+canonical_biography: "Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz."
+place_authority: true
+historical_names: []
 ---
 # Kairėnai
 
@@ -50,7 +59,8 @@ Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz.
 - id: c-93861
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 83."
   citata_originali: |
     Be jų,
     R. Jablonskytė - Rimantienė pateikė duomenų apie

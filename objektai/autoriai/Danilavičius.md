@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-02614200d1941985aac6b0f9"
+canonical_name: "Danilavičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Danilavičius"]
+sameAs: []
+canonical_biography: "Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip autentišką."
 ---
 # Danilavičius
 
@@ -51,7 +58,8 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 46."
   citata_originali: |
     Kiek vėliau padary­
     tas jo nuorašas aprašo keturias antspaudas, tarp kurių pirmoje

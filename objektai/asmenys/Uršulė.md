@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15967185b2b3275fddb60923"
+canonical_name: "Uršulė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Uršulė"]
+sameAs: []
+canonical_biography: "1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai. Lietuvos metraščio pasakojime Britanijos karalaitę Uršulę, lydimą už Anglijos karaliaus sūnaus, nužudė Atila."
 ---
 # Uršulė
 
@@ -89,7 +96,8 @@ media_all_json: |-
 - id: c-83909
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 198."
   citata_originali: |
     1632. Uršulė ir Mauricijus, ignoti cognominis [nežinoma
     pavardė], iš magistrato už 4750 auksinų nupirkę tą Parulio
@@ -107,7 +115,8 @@ media_all_json: |-
 - id: c-176623
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 38."
   citata_originali: |
     O kai įplaukė į tą jūrą, tuo metu iš Britanijos buvo
     lydima karalaitė, vardu Uršulė1 0 , Įišleidžiama] už Ang­

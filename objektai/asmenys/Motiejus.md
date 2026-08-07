@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-282f048d2f3fc15bd7b44bc8"
+canonical_name: "Motiejus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus"]
+sameAs: []
+canonical_biography: "Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; priėmė Švenčiausiąjį ir pa­ skutinį patepimą."
 ---
 # Motiejus
 
@@ -60,7 +67,8 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 254."
   citata_originali: |
     Jogaila su ašaromis akyse pasižadėjo išpildyti visus Vytauto
     prašymus ir, visa iš širdies atleisdamas, priminė jam susirūpin­

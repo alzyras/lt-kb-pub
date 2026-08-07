@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eb9e9b7e40eb2d94e3cfef11"
+canonical_name: "Bonegartas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Bonegartas"]
+sameAs: []
+canonical_biography: "Narbutas nurodė Bonegarto žodyno straipsnius apie Jeronimą Prahiškį ir Kobhamą kaip naudotus šaltinius. Bonegartas buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
 ---
 # Bonegartas
 
@@ -46,7 +53,8 @@ Narbutas nurodė Bonegarto žodyno straipsnius apie Jeronimą Prahiškį ir Kobh
 - id: c-173300
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
   citata_originali: |
     Taip anot pono Foigto tyrimų.
     Tautinė senovės prūsų vėliava, kurią nešdavo karo žygiuo­

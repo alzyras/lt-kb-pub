@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4049855cb9e0ed1726ebbae3"
+canonical_name: "Rytų Sibiras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rytų Sibiras"]
+sameAs: []
+canonical_biography: "Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miestas."
+place_authority: true
+historical_names: []
 ---
 # Rytų Sibiras
 
@@ -56,7 +65,8 @@ Narbutas Nerčią mini kaip Rytų Sibiro upę, prie kurios yra Nerčinsko miesta
 - id: c-171948
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 426"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 426."
   citata_originali: |
     II priedas
     Apie N erčios upę

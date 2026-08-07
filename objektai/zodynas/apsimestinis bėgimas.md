@@ -66,7 +66,8 @@ Pagal Dlugošo kroniką, lietuvių pasitraukimas, esą, reiškęs bėgimą^25. �
 - id: c-34139
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 348."
   citata_originali: |
     susikovimo, ėmė trauktis link Seewaldo. Pagal Dlugošo kroniką,
     lietuvių pasitraukimas, esą, reiškęs bėgimą^25. Šitas «bėgimas»
@@ -84,7 +85,8 @@ Pagal Dlugošo kroniką, lietuvių pasitraukimas, esą, reiškęs bėgimą^25. �
 - id: c-34140
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 348."
   citata_originali: |
     Pagal Dlugošo kroniką,
     lietuvių pasitraukimas, esą, reiškęs bėgimą^25. Šitas «bėgimas»

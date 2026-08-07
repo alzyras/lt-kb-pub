@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-64269e440ce55c2bda940122"
+canonical_name: "Gundramas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gundramas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus, persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo pilies apylinkėse buvo."
 ---
 # Gundramas
 
@@ -54,7 +61,8 @@ Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 130
 - id: c-60930
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Kai brolis
     Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.

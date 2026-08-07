@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-540c64b6dbb2e123370782e6"
+canonical_name: "Eridanas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Eridanas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano upės, įtekančios į Šiaurės jūrą. Narbutas cituoja pasakojimą, kuriame abejojama Eridano upe, įtekančia į Šiaurės jūrą ir siejama su gintaru."
+place_authority: true
+historical_names: []
 ---
 # Eridanas
 
@@ -74,7 +83,8 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
 - id: c-175587
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
   citata_originali: |
     Bet turbūt
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
@@ -97,7 +107,8 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
 - id: c-175588
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
   citata_originali: |
     Tad šis garsus keliautojas ir objektyviausias rašytojas
     buvo priverstas atsisakyti tolesnės kelionės; jis turbūt bu­

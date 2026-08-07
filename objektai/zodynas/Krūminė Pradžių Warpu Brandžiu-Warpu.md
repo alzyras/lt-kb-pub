@@ -67,7 +67,8 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
 - id: c-179152
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 137."
   citata_originali: |
     Vaizduo­
     jami du asmenys: vyras, viena koja priklaupęs ant kelmo, duo­

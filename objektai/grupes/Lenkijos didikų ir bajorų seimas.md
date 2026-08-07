@@ -35,7 +35,7 @@ Lenkijos didikų ir bajorų seimas, nutaręs kviesti Jogailą į Lenkijos sostą
 <a id="claim-t-198909"></a>
 - t-001
   teiginys: "Lenkijos didikų ir bajorų seimas, nutaręs kviesti Jogailą į Lenkijos sostą, vyko Krokuvoje 1385 m. birželį arba liepą."
-  atnaujinta: "2026-07-12 23:01"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -46,7 +46,7 @@ Lenkijos didikų ir bajorų seimas, nutaręs kviesti Jogailą į Lenkijos sostą
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-181209
 

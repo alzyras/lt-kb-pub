@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-657a217ed42fcb4ad75aafcf"
+canonical_name: "Milonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Milonas"]
+sameAs: []
+canonical_biography: "Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo]."
 ---
 # Milonas
 
@@ -61,7 +68,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - id: c-83770
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 157."
   citata_originali: |
     Aktuota
     ir duota Vilniuje, Švč. Mergelės Ma­

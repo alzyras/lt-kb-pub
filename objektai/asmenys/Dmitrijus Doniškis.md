@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e8d7ee0220b01f86276dcab"
+canonical_name: "Dmitrijus Doniškis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dmitrijus Doniškis"]
+sameAs: []
+canonical_biography: "Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rūpesčiais dalinęsis, kovojęs su juo dar kartu prieš totorius, kur Kulikovo lauke (1380 metų rugsėjo 8-ą) prie perga­ lės daugiausia prisidėjęs, dalyvavo mūšiuose, - Skirgaila užsibuvo."
 ---
 # Dmitrijus Doniškis
 
@@ -77,7 +84,8 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
 - id: c-83631
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50-51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50-51."
   citata_originali: |
     Tasai Andrius, Jogailai pavaldaus
     Polocko kunigaikštis, Algirdo sū­
@@ -120,7 +128,8 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
 - id: c-177096
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 465"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 465."
   citata_originali: |
     458
 

@@ -97,7 +97,8 @@ Nenurodyta
 - id: c-83143
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 242."
   citata_originali: |
     Daug jų vyko
     pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­
@@ -121,7 +122,8 @@ Nenurodyta
 - id: c-83144
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 242."
   citata_originali: |
     Onos bažnyčios staty­
     mą, bet abi tos bažnyčios ir bernardinų vienuolynas buvo

@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42bcd31626456abdcb8a5772"
+canonical_name: "Punskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Punskas"]
+sameAs: []
+canonical_biography: "Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas. Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas."
+place_authority: true
+historical_names: []
 ---
 # Punskas
 
@@ -99,7 +108,8 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
 - id: c-70431
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 143."
   citata_originali: |
     Atsilaikė prieš bolševikus ir kaimynės – Lenkija, Suomija, Latvija
     ir Estija, jos taip pat apgynė savo nepriklausomybę.
@@ -125,7 +135,8 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
 - id: c-167015
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 256."
   citata_originali: |
     Ra-
     tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė

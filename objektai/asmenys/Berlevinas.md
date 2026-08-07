@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3421bc66ba3e4666840ccf08"
+canonical_name: "Berlevinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Berlevinas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo ir, drąsiai užgriuvę jų priekinius būrius, bematant."
 ---
 # Berlevinas
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
 - id: c-60879
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
   citata_originali: |
     Apie tai sužinoję, Kulmo pilies broliai pasekė
     juos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis
@@ -85,9 +93,9 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
     - t-001
 
 - id: c-184320
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 321"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 321."
   citata_originali: |
     Nu-
     jautę Kulme kryžėjai Sviatopelką netoli nuo pilies

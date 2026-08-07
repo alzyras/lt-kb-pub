@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-148c01102ff0074e9b3fbcac"
+canonical_name: "Drūsinės ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Drūsinės ežeras"]
+sameAs: []
+canonical_biography: "Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „druska“ ir sieja su kadaise sūriu vandeniu. Narbutas rašo, kad 1290 m. Christburgas buvo prie pat Drūsinės ežero, nors jo laikais nuo ežero nutolęs penkias mylias. Rytuose siena driekėsi net: iki Elbingo upės, Drūsinės ežero, paskui tiesiai palei Sirgunės upę (arba Sorge) net iki Osos, taigi Christburgo ir Rizenburgo valsčiai dar priklausė šiai provincijai."
+place_authority: true
+historical_names: []
 ---
 # Drūsinės ežeras
 
@@ -107,7 +116,8 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
 - id: c-175585
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
   citata_originali: |
     Esama neabejotinų įro­
     dymų apie tolimais amžiais šiose vietose gyvenusių žmo­
@@ -138,7 +148,8 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
 - id: c-179373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 355"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
   citata_originali: |
     Bet ši išvada nepaplito,
     nes buvo pernelyg dirbtinė. Iš šiaurės ją skalauja Aist­

@@ -32,7 +32,7 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 <a id="claim-t-169924"></a>
 - t-001
   teiginys: "Bajorai dvarininkai sudarė tik ketvirtadalį vietos bajorų luomo, o dauguma bajorų buvo mažažemiai ir bežemiai."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -59,7 +59,8 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 - id: c-25132
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 99."
   citata_originali: |
     Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų
     luomo, dauguma jų – mažažemiai ir bežemiai bajorai, kalbėję daugiausia
@@ -77,7 +78,8 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 - id: c-154605
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 100."
   citata_originali: |
     Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
     savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-

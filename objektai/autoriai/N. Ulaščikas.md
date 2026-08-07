@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e2e47044e9111096dc9f1d5d"
+canonical_name: "N. Ulaščikas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["H. Н. Улащнка","H. Улащик","N. Ulaščikas","N. Ulaščiko"]
+sameAs: []
+canonical_biography: "N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų kalbą. Prie šio leidimo jis pridėjo įvadą ir trumpų paaiškinimų apie tekste minimas vietoves, terminus ir kitas vietas."
 ---
 # N. Ulaščikas
 
@@ -40,25 +47,10 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
 
 ## Teiginiai
 
-<a id="claim-t-198527"></a>
-- t-001
-  teiginys: "N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų kalbą."
-  atnaujinta: "2026-07-12 23:00"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata apie 1966 m. vertimą į dabartinę rusų kalbą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]"
-  temporaliniai_duomenys: "įvykio data: 1966 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata apie 1966 m. vertimą į dabartinę rusų kalbą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-169798
-
 <a id="claim-t-198528"></a>
-- t-002
+- t-001
   teiginys: "N. Ulaščikas prie Bychovco kronikos vertimo pridėjo įvadą ir trumpų paaiškinimų apie vietoves, terminus bei kai kurias teksto vietas."
-  atnaujinta: "2026-07-12 23:00"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys yra aiškus sakinys apie N. Ulaščiko indėlį prie vertimo. Citata tiesiogiai palaiko įvadą ir trumpus paaiškinimus apie vietoves, terminus bei teksto vietas."
@@ -67,7 +59,7 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus sakinys apie N. Ulaščiko indėlį prie vertimo. Citata tiesiogiai palaiko įvadą ir trumpus paaiškinimus apie vietoves, terminus bei teksto vietas."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-180529
 
@@ -94,12 +86,10 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   citata_rodoma: "Siame Bychovco kronikos leidinyje iš M. Strijkovs­\nkio kronikos buvo įdėta pradžia, praleistos paraščių \npastabos apie turinį, kurias buvo perteikęs T, Narbutas. \nTekstas perteiktas tobuliau: išnašose trumpai nurodomi \natitinkamų Bychovco vietų nesutapimai su kai kurių \nkitų LDK metraščių nuorašų atitinkamomis vietomis ir \ndalinai su M. Strijkovskio Kronika.\nPagal PSRL paskelbtą tekstą Bychovco kronika buvo \ntrečią kartą paskelbta 1966 m., N. Ulaščiko išversta \nį dabartinę rusų kalbą ir išspausdinta TSRS Mokslų \nAkademijos Istorijos instituto serijoje „TSRS tautų is­\ntoriniai paminklai\" '°."
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-180529
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -126,4 +116,4 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1ab2a317d741fe5410ac346c"
+canonical_name: "Ivanas Kuncovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ivanas Kuncovičius"]
+sameAs: []
+canonical_biography: "Ankstyviausias žinomas išmarinio turto dovanojimo atvejis Kaune yra 1530 m. Žygimanto Senojo suteiktis dvarioniui Ivanui Kuncovičiui."
 ---
 # Ivanas Kuncovičius
 
@@ -49,9 +56,9 @@ Ankstyviausias žinomas išmarinio turto dovanojimo atvejis Kaune yra 1530 m. Ž
 ## Citatos
 
 - id: c-185410
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 310"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 310."
   citata_originali: |
     Toks išmarinis turtas patekda-
     vo valdovo nuosavybėn, jis juo disponuodavo ir dažniausiai atiduodavo kokiam nors

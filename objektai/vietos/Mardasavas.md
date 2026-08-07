@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5d3b5ff7176916b0fa688997"
+canonical_name: "Mardasavas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mardasavas"]
+sameAs: []
+canonical_biography: "Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto netikėtai užklupti NKVD dalinio, žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas, Tomas Kondrotas-Briedis, Adolfas BilinskasJurginas ir Martynas Navickas-Kardas."
+place_authority: true
+historical_names: []
 ---
 # Mardasavas
 
@@ -59,7 +68,8 @@ Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto neti
 - id: c-45201
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 232."
   citata_originali: |
     Prieš mūšį
     1945 m. gruodžio 5 d. prie Mardasavo

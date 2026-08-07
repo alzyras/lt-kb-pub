@@ -124,7 +124,8 @@ Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl �
 - id: c-168806
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 90-91"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 90-91."
   citata_originali: |
     Vėliau, apie 1273
     metus, Grigalius X paskelbė ją šventąja. Treniotos sū­
@@ -152,7 +153,8 @@ Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl �
 - id: c-171184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
   citata_originali: |
     Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
     jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­

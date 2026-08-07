@@ -23,6 +23,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b367389ef19f92d0c5bb5327"
+canonical_name: "Jazbutas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jazbutas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį: išsivarė daug žmonių ir išsivežė. Dusburgietis teigia, kad šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi."
 ---
 # Jazbutas
 
@@ -103,7 +110,8 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
 - id: c-60779
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Apie beveik penkių šimtų lietuvių žūtį
     Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų
@@ -122,7 +130,8 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
 - id: c-60780
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką
     Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Vis dėlto
@@ -146,7 +155,8 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
 - id: c-168079
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 164-165"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 164-165."
   citata_originali: |
     Pasivijęs jį, atsitraukiantį su dideliu grobiu,
     Jazbutas įniko persekioti už-

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a16100e1c6e307ef5bc240f3"
+canonical_name: "Kruzė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kruzė"]
+sameAs: []
+canonical_biography: "Narbutas rėmėsi Dorpato universiteto profesoriaus Kruzės nuomone apie Gotos bibliotekoje aptiktus Istachrio geografijos žemėlapius."
 ---
 # Kruzė
 
@@ -62,7 +69,8 @@ Narbutas rėmėsi Dorpato universiteto profesoriaus Kruzės nuomone apie Gotos b
 - id: c-174560
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Čia reikėtų pateikti
     nuomonę Dorpato universiteto profesoriaus pono Kruzės, kuris Gotos

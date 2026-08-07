@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87fe11d4e3f3a9e2f9f3633e"
+canonical_name: "Foigtas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Foigtas"]
+sameAs: []
+canonical_biography: "Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kraštą ir Aistmarių ploto išsiplėtimą į rytus. Narbutas IV priede rėmėsi Foigto surinktomis žiniomis apie senovės Prūsijos geografiją, statistiką ir provincijų istoriją. Iš dalies tai buvo pono Foigto studijos apie senovės Sambijos vitingus (Geschichte der Eidechsen Gesellschaft in Preussen."
 ---
 # Foigtas
 
@@ -94,7 +101,8 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
 - id: c-174227
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 344."
   citata_originali: |
     333
 
@@ -128,7 +136,8 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
 - id: c-179311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Iš dalies
     tai buvo pono Foigto studijos apie senovės Sambijos vi-

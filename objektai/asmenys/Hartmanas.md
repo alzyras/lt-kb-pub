@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5dda08192f968726c0c721a8"
+canonical_name: "Hartmanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hartmanas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis."
 ---
 # Hartmanas
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317
 - id: c-60931
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     332 (325). Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
     Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su

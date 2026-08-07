@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4fe13fafeebc7de2fa6b1f8b"
+canonical_name: "Hiegels"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hiegels"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Hiegels Kašmiro žemumoje pastebėjo paprotį prie dviejų upių santakos statyti šventoves ir garbinti upes."
 ---
 # Hiegels
 
@@ -53,7 +60,8 @@ Narbutas nurodo, kad Hiegels Kašmiro žemumoje pastebėjo paprotį prie dviejų
 - id: c-173310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Šitaip galindų tauta turėjo Rosės * 5
     šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­

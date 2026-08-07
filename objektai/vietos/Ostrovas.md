@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4e8aa0a621962e774e2869f0"
+canonical_name: "Ostrovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ostrovas"]
+sameAs: []
+canonical_biography: "5 d. atvyko Ostrovan, netoli Lydos. Jo sudarytąja su Jogaila Ostrovos sutartimi (1392) buvo padėtas ir pagrindas Lietuvos nepriklau­ somybei atstatyti^1 ). Jogaila kartu su Vytautu apleidę Ostrovą, atvyko į Vilnių."
+place_authority: true
+historical_names: []
 ---
 # Ostrovas
 
@@ -80,7 +89,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 65."
   citata_originali: |
     Painformuotas apie galutinius Vytauto žygius, Jogaila
     rugpiūčio mėn. 5 d. atvyko Ostrovan, netoli Lydos. Čia Jogai­
@@ -98,7 +108,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 67."
   citata_originali: |
     Šitų nepasitenkinusiųjų priešaky atsistojo pats
     Vytautas, Lietuvos ir jos visuomenės reikalų gynėjas, kuris

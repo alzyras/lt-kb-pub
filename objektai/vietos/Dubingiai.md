@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6f35a96a84504a84e9263f66"
+canonical_name: "Dubingiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Dubingiai"]
+sameAs: []
+canonical_biography: "Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose."
+place_authority: true
+historical_names: []
 ---
 # Dubingiai
 
@@ -132,7 +141,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 - id: c-32023
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 240."
   citata_originali: |
     1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o
     1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­
@@ -149,7 +159,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 - id: c-43416
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 210."
   citata_originali: |
     Lietuvių pajėgos negalėjo
     atsilaikyti prieš gausių lenkų pajėgų puo-
@@ -172,7 +183,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 - id: c-43417
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 210."
   citata_originali: |
     Prieš kautynes
 
@@ -196,7 +208,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 - id: c-175924
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 227."
   citata_originali: |
     Grįždamas į Vilnių, jis ne-
     pasakė tėvams tiesos, ir tėvas, netrukus miręs, nebesužinojo apie sū-

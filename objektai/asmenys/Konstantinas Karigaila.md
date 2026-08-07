@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e5bc30658ddaa38c88173cce"
+canonical_name: "Konstantinas Karigaila (kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konstantinas Karigaila","Konstantinas Karigaila (kunigaikštis)"]
+sameAs: []
+canonical_biography: "Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti galvą. Per pilies gaisrą ir puolimą žuvo kunigaikštis Konstantinas Karigaila, Jogailos brolis."
 ---
 # Konstantinas Karigaila (kunigaikštis)
 
@@ -66,7 +73,8 @@ Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti ga
 - id: c-169492
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 317."
   citata_originali: |
     Slapta padegtas medžio statinys netruko visų
     akyse pavojingai įsiliepsnoti; apsėmusi įtvirtinimų kuo­

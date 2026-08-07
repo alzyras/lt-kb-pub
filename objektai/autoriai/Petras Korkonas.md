@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c2b0356833cfb17a5b6b8233"
+canonical_name: "Petras Korkonas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Petras Korkonas"]
+sameAs: []
+canonical_biography: "Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkvietė, dar prieš 80 metų iki Jogailos viešpatavimo; o vienas medis, liepa, priešais seno­ sios bažnyčios duris, kurią pats Goš­ tautas savo rankomis buvo pasodinęs, kaip 1621 metais rašė."
 ---
 # Petras Korkonas
 
@@ -61,7 +68,8 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
 - id: c-84059
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 45-46."
   citata_originali: |
     Petro, vardui pašventė. Čia pirmiau­
     sia mūsų lietuvių tauta Dievui nu­

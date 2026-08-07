@@ -59,7 +59,8 @@ Tuo būdu Vilniuje sėdįs valdovas formaliai išlaikė pagonybę, nors jo dvare
 - id: c-94055
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 265."
   citata_originali: |
     Matyti, jis buvo įsitikinęs, jog jam priėmus
     Romos ar Bizantijos krikštą, pagonys lietuviai, kurie Algirdo

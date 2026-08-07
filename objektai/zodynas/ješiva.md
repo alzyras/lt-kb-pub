@@ -48,7 +48,7 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
 <a id="claim-t-23436"></a>
 - t-001
   teiginys: "Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
@@ -60,7 +60,8 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
 - id: c-16694
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 83."
   citata_originali: |
     Nors
     chasidai šiandien sudaro apie pusę pasaulio žydų, ir ortodoksinio rabiniz-
@@ -79,7 +80,8 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
 - id: c-69854
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 83."
   citata_originali: |
     Tai kartu paaiškina ir Vilniaus Gaono autoritetą.
     Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
@@ -96,7 +98,8 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
 - id: c-166822
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 83-84"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 83-84."
   citata_originali: |
     Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
     ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studi-

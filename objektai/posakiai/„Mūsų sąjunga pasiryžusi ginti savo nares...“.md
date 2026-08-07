@@ -64,7 +64,8 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
 - id: c-166893
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 259."
   citata_originali: |
     Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento
     Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų

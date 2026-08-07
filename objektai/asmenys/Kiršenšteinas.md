@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-861b85b3997e091f32f5006e"
+canonical_name: "Kiršenšteinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kiršenšteinas"]
+sameAs: []
+canonical_biography: "Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi pilietybę, keletą šimtmečių val­ dė Raudonės pilį."
 ---
 # Kiršenšteinas
 
@@ -49,7 +56,8 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
 - id: c-83892
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 119-120"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 119-120."
   citata_originali: |
     Anglų riteriai, ne kartą draugėj su
     kryžiuočiais ėję į kryžiaus žygius

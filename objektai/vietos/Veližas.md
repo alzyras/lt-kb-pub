@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d01754345cbcf0ebaf255b9c"
+canonical_name: "Veližas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Veližas"]
+sameAs: []
+canonical_biography: "Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti tik Didieji Lukai."
+place_authority: true
+historical_names: []
 ---
 # Veližas
 
@@ -44,7 +53,7 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 <a id="claim-t-199954"></a>
 - t-001
   teiginys: "Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,20 +68,19 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   ryšio_targeto_parinkimas: "Krasnyj Gorod: mention_match, place, gap=11"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Veližas\" parinktas kaip owner_note_path. Targetas \"Krasnyj Gorod\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-182944
 
-<a id="claim-t-199955"></a>
+<a id="claim-t-203056"></a>
 - t-002
-  teiginys: "Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą tarp Veližo ir Smolensko."
-  atnaujinta: "2026-07-12 23:04"
+  teiginys: "Pagal Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą į Rusijos teritoriją tarp Veližo ir Smolensko."
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Citata leidžia pateikti aiškesnį veiksmą ir tikslą."
   susije_objektai: "llm_object: Veližas; mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Biala; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Toropecas; llm_object: Rusija"
   semantiniai_rysiai: "[[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]] keliavo į Veližas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-182943
 
@@ -81,7 +89,8 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 - id: c-182943
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 95."
   citata_originali: |
     Pagal S. Batoro planą Lietuvos lauko etmo-
     nas Kristupas Radvila Perkūnas, iki pagrin-
@@ -98,7 +107,7 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
     teritoriją.
   citata_rodoma: "Batoro planą Lietuvos lauko etmo-\nnas Kristupas Radvila Perkūnas, iki pagrin-\ndinėms pajėgoms pradedant žygį į Pskovą,\nturėjo saugoti pasienį su Rusija ir imituoti\nįsiveržimą į Rusijos teritoriją tarp Veližo\nir Smolensko ir kuo ilgiau išlaikyti įtampą\nšiame ruože. Jis turėjo žygiuoti Veližo link,\niš ten pulti Toropeco ir Bialos pilių apy-\nlinkes, kai pagrindinės pajėgos įsiverš\nį Rusijos teritoriją šiauriau."
   statusas: verified
-  atnaujinta: "2026-07-12 23:04"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -69,12 +69,19 @@ Nenurodyta
 <a id="claim-t-62679"></a>
 - t-002
   teiginys: "Karaliaučiaus pilį, kaip ir Kroicburgo bei Bartenšteino pilis, apgulėjai apsupo trimis stipriais kuorais."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Bartenšteinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bartenšteinas: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)\" parinktas kaip owner_note_path. Targetas \"Bartenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-63419
+    - c-63421
     - c-63423
 
 <a id="claim-t-62680"></a>
@@ -124,7 +131,8 @@ Nenurodyta
 - id: c-63419
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     Viešpats tą vietą buvo pasirinkęs savo vardui garbinti ir šlovinti373, todėl, bausdamas juos
     už piktus sumanymus bei klastingas užmačias, niekais vertė viską, ko šie griebdavosi.
@@ -143,12 +151,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-63420
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
     Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas
@@ -177,7 +185,8 @@ Nenurodyta
 - id: c-63421
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo
     niekas nebeminėtų“. Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
@@ -187,14 +196,17 @@ Nenurodyta
   citata_rodoma: "„Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo\nniekas nebeminėtų“. Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė\nir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis\nstipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl\napsuptieji negalėjo nei įeiti, nei išeiti iš pilies."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-63423
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
     ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis

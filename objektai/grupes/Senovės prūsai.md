@@ -65,7 +65,8 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
 - id: c-172389
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 349."
   citata_originali: |
     Kartais, tik­
     riausiai kaip apgavikiškus monus, žmonėms rodydavo baisias
@@ -86,7 +87,8 @@ Iš girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal basi su v
 - id: c-172390
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 358"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 358."
   citata_originali: |
     Ypač slavai, mėgs­
     tantys vartoti svaiginamuosius gėrimus, savo senoviniuose pa­

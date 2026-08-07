@@ -183,7 +183,8 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
 - id: c-170712
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 49."
   citata_originali: |
     Paėmė jie daug miestų ir pargrįžo namo l3 .
     O paskui atsiuntė žinią Vykintas, pranešdamas, kad
@@ -202,7 +203,8 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
 - id: c-175235
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Tačiau jis prieštarauja sau ir savo tiksliai
     išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­
@@ -227,7 +229,8 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
 - id: c-175236
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Ka­
     ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
@@ -252,7 +255,8 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
 - id: c-175237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
   citata_originali: |
     95
     Pastabos. Mūsų mokslininkas, lietuvių istorijos tyri­
@@ -276,7 +280,8 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
 - id: c-179225
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     Po
     šešerių metų antras vadas, vardu Sekalas, užpuolė rusų

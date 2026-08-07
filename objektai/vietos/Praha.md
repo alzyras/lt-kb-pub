@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-84052c8ea0d93a909c158574"
+canonical_name: "Praha"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Praha"]
+sameAs: []
+canonical_biography: "Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatorius išsiuntė į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vadovaujamą."
+place_authority: true
+historical_names: []
 ---
 # Praha
 
@@ -157,7 +166,8 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
 - id: c-24405
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 53."
   citata_originali: |
     Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv.
     _Vaitiekus,_ arba _Adalbertas._ Jis buvo aukštos kilmės čekas.
@@ -172,7 +182,8 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
 - id: c-164993
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 118."
   citata_originali: |
     rusėnai
     skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.
@@ -192,7 +203,8 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
 - id: c-164994
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 259."
   citata_originali: |
     1999 m. balandį NATO šalių
     vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą
@@ -215,7 +227,8 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
 - id: c-166468
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 105."
   citata_originali: |
     Abu kunigaikš-
     čiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos
@@ -234,7 +247,8 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
 - id: c-167253
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 142."
   citata_originali: |
     Tos
     niautynės pagaliau baigėsi prancūzų iškvietimu kautis, jiems
@@ -256,7 +270,8 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
 - id: c-168460
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 358"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 358."
   citata_originali: |
     Mat valdovė ypač
     mylėjo lietuvius ir visada jais rūpinosi, stengėsi, kad

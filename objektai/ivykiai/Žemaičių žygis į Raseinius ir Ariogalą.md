@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184623
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 657"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 657."
   citata_originali: |
     Atėję pas Nemuną, rado 610 valčių pa­
     tiektų dėl persikėlimo. Niekados nebuvo taip didi

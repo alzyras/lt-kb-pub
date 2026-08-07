@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-766c51a84302f556c5c940fe"
+canonical_name: "Rodo sala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rodo sala"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas salas (Mart. p. 442)."
+place_authority: true
+historical_names: []
 ---
 # Rodo sala
 
@@ -43,7 +52,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - id: c-59349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
   citata_originali: |
     103. Apie tai, kaip hospitaljerai užėmė Rodo salą
 

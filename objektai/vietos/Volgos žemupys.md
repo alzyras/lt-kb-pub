@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c9eeb0d7da0a3ef5882a6f40"
+canonical_name: "Volgos žemupys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Volgos žemupys"]
+sameAs: []
+canonical_biography: "Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir apsigyveno prie Volgos žemupio."
+place_authority: true
+historical_names: []
 ---
 # Volgos žemupys
 
@@ -55,7 +64,8 @@ Narbutas teigė, kad budinai nuo Armėnijos Arakso persikėlė į vakarus ir aps
 - id: c-171969
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Tikras dalykas yra tik tai, kad Arak-
     so upė, tekėjusi senovės Armėnijoje, buvo vadinamaitoss' kaip

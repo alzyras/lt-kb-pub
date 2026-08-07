@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9f8fe928e4ea3d1955f84ba7"
+canonical_name: "Šv. Stanislovo katedra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Stanislovo katedra"]
+sameAs: []
+canonical_biography: "Stanislovo katedrą."
+place_authority: true
+historical_names: []
 ---
 # Šv. Stanislovo katedra
 
@@ -50,7 +59,8 @@ Stanislovo katedrą.
 - id: c-82298
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 246."
   citata_originali: |
     Tada Aleksandras šalia prašmatniose rogėse sėdin­
     čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi

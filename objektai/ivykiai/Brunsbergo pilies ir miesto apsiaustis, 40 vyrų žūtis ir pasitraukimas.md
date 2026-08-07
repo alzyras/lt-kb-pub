@@ -82,7 +82,8 @@ Nenurodyta
 - id: c-59920
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
     lies bei miesto paėmimą
@@ -104,7 +105,8 @@ Nenurodyta
 - id: c-59921
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
   citata_originali: |
     Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,
     kurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,

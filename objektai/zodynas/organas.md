@@ -61,7 +61,8 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
 - id: c-47244
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 658"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 658."
   citata_originali: |
     **Susivienijimas Lietuvių Rymo Katalikų
     Amerikoje** iš pradžių teturėjo vos 704 narius, o dabar turi

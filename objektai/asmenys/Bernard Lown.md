@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-361839389ee8ee4d9f383489"
+canonical_name: "Bernard Lown"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bernard Lown"]
+sameAs: []
+canonical_biography: "1926, būdamas dvejų metų su tėvais emigravęs į PAR, vėliau – į Didžiąją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas Lounas), gimęs Utenoje (kaip Boruchas Lacas."
 ---
 # Bernard Lown
 
@@ -59,7 +66,8 @@ media_all_json: |-
 - id: c-21622
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265."
   citata_originali: |
     O juk
     reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai

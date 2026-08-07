@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c80fa22ed60e59ab0a115fb5"
+canonical_name: "Johanas Severinas Fateris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. S. Faterio","Johanas Severinas Fateris","Johano Severino Faterio"]
+sameAs: []
+canonical_biography: "Įvadinis tekstas Johaną Severiną Faterį mini tarp kalbininkų, kurių darbais naudojosi T. Narbutas. Tas pats tekstas nurodo J. S. Faterio aiškinimą, kad „Signat“ reiškia „laiminti“."
 ---
 # Johanas Severinas Fateris
 
@@ -51,7 +58,8 @@ media_all_json: |-
 - id: c-170933
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 23."
   citata_originali: |
     Kaip buvo įprasta, jis
     naudojosi senaisiais rašytiniais šaltiniais, savo ir kitų moksli­

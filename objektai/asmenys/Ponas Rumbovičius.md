@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2855748d5b23503134a80aa8"
+canonical_name: "Ponas Rumbovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ponas Rumbovičius"]
+sameAs: []
+canonical_biography: "Narbutas poną Rumbovičių įvardija kaip Vilniaus gimnazijos matematikos mokytoją, pasakojusį apie Podčašinskio apžiūrėtus Vilniaus katedros varpinės ženklus."
 ---
 # Ponas Rumbovičius
 
@@ -53,7 +60,8 @@ Narbutas poną Rumbovičių įvardija kaip Vilniaus gimnazijos matematikos mokyt
 - id: c-173085
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 272."
   citata_originali: |
     Šis pastatas kilo tiesiog iš senovi­
     nio pastato griuvėsių16 17. Toji šventykla turėjo būti su kariniais

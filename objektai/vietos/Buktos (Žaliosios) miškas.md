@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-911bf2fa54eb42449462c047"
+canonical_name: "Buktos (Žaliosios) miškas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Buktos (Žaliosios) miškas"]
+sameAs: []
+canonical_biography: "Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko būriai. Remiantis KGB duomenimis, liepos 15 d., vykdant operaciją Buktos (Žaliosios) miške bei Daukšių kaime, žuvo partizanai Juozas Pūkas ir Motiejus Overa. Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško — Palių pakraštį."
+place_authority: true
+historical_names: []
 ---
 # Buktos (Žaliosios) miškas
 
@@ -66,7 +75,8 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 - id: c-43351
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 229."
   citata_originali: |
     Partizanų pajėgos
 
@@ -90,7 +100,8 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 - id: c-45046
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 230."
   citata_originali: |
     Mūšis
     tęsėsi visą savaitę. Matydamas tokią priešo

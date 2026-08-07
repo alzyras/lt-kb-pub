@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-84234
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 380-382"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 380-382."
   citata_originali: |
     Significamus tenore pra­
     esentium universis, quikus expedit praesentikus et futuris,
@@ -154,7 +155,8 @@ Nenurodyta
 - id: c-84236
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 382-383"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 382-383."
   citata_originali: |
     366
 

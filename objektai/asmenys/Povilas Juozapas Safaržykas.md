@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-93eba843b2e031a910cea9e5"
+canonical_name: "Povilas Juozapas Safaržykas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Povilas Juozapas Safaržykas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį išsamų ir visa apimantį slavų istorijos tyrinėjimą. Narbutas rašo, kad Safaržykas alanus, asus ir osetinus siejo su skandinaviškosios „Edos“ asais. Teodoro Narbuto teigimu, Povilas Juozapas Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, o kalbų skirtumus aiškino istoriniu likimu."
 ---
 # Povilas Juozapas Safaržykas
 
@@ -143,7 +150,8 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
 - id: c-173986
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 14."
   citata_originali: |
     P. J. Safaržyko veikalas buvo pirmasis išsamus, vis­
     ką apimantis slavų istorijos tyrinėjimas. Pats „Slavų se­
@@ -165,7 +173,8 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
 - id: c-173987
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 61."
   citata_originali: |
     Tai, jog alanai taip pat
     buvo vadinami asais, o rusų — ¡asais, osáis, osetinais, kurių palikuo­
@@ -187,7 +196,8 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
 - id: c-173989
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 76."
   citata_originali: |
     Galbūt todėl, kad ir bu-
     dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
@@ -214,7 +224,8 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
 - id: c-173990
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 113."
   citata_originali: |
     Pats se­
     niausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­
@@ -236,7 +247,8 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
 - id: c-175371
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 71."
   citata_originali: |
     Safaržykas iškelia hipotezę, iš kuries verta tik pasijuok­
     ti, — tas kalnas turėtų būti Minsko gubernijojell! Sis kruopštus sla­

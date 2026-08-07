@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-eaf399caa2c12efc9699b0f9"
+canonical_name: "Philippe de Mezières"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Philippe de Mezières"]
+sameAs: []
+canonical_biography: "Šitaip pirmą kartą buvo įvykdytas prancūzų riterio Philippe de Mezières siūlymas — į kryžiaus žygį prieš krikščionybės priešus pritraukti ir lietuvius^26."
 ---
 # Philippe de Mezières
 
@@ -51,7 +58,8 @@ media_all_json: |-
 - id: c-94002
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 323."
   citata_originali: |
     pavedė Krokuvos
     vyskupui skelbti kryžiaus karą. Šitaip pirmą kartą buvo įvykdytas

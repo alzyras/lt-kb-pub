@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ce3012bf418c76af27840219"
+canonical_name: "Birštono giria"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Birštono giria"]
+sameAs: []
+canonical_biography: "1528 m. Žygimantas Senasis nurodė Birštono vietininkui, kad jis leidęs Kauno pirkliui Kasperui Libnerui vienus metus nurodytame Birštono girios plote įsireng tose būdose ruošti vančosą ir klepkas bei degti pelenus."
+place_authority: true
+historical_names: []
 ---
 # Birštono giria
 
@@ -47,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185073
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 239"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 239."
   citata_originali: |
     Nedatuotoje, bet, matyt, to paties laiko,
     kaip ir minėtasis verslovininkų sąrašas, atmintinėje darbus miškuose prižiūrintiems

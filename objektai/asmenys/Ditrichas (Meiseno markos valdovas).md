@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4f254c5bc105d08d53bbc74"
+canonical_name: "Ditrichas (Meiseno markos valdovas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas (Meiseno markos valdovas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos žemėje, ir panoro, atėjus tinkamam laikui, pasigailėti savo žmonių, atvyko į Prūsiją su daugybe karių."
 ---
 # Ditrichas (Meiseno markos valdovas)
 
@@ -63,7 +70,8 @@ Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos
 - id: c-60895
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
   citata_originali: |
     133 (128). Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
     Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos

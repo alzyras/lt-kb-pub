@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b8ae8b1035acc19f52e341e5"
+canonical_name: "Paulius fon Hindenburgas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Paulius fon Hindenburgas"]
+sameAs: []
+canonical_biography: "Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) ir Ėrichas Liudendorfas (Erich Ludendorff) ir naudojo visus krašto išteklius Vokietijos kariuomenės reikalams."
 ---
 # Paulius fon Hindenburgas
 
@@ -62,7 +69,8 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
 - id: c-75373
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 131."
   citata_originali: |
     Besibrėžiantys naujos konsteliacijos kontūrai kėlė lietuvių susidomėji-
     mą, o kariaujančių pusių rezoliucijos lenkų klausimu suteikė galimybę

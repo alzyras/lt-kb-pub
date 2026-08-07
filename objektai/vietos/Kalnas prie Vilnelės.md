@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-63f48557a3aba90a49b7dc73"
+canonical_name: "Kalnas prie Vilnelės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kalnas prie Vilnelės"]
+sameAs: []
+canonical_biography: "Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės, pastačius apvalaus bokšto pavidalo paminklą, išlikusį iki [Vyskupo seminarijos fundacija iš vyskupo stalo dvaro, vadinamo Vozgėliškėmis [Vaisgėliškis]. 62 Pagal vietinį Vilniaus paprotį, Beke­ šas dėl to turėjęs būti palaidotas ant kalno už miesto, kadangi buvęs arijonas."
+place_authority: true
+historical_names: []
 ---
 # Kalnas prie Vilnelės
 
@@ -75,7 +84,8 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 - id: c-82052
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 309."
   citata_originali: |
     62
     Pagal vietinį Vilniaus paprotį, Beke­
@@ -107,7 +117,8 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 - id: c-82053
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     Pagaliau čia, Vilniuje,
     šis didis karalius, nenuilstamai rūpindamasis krašto saugu­

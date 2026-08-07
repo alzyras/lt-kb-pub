@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2244488e63a169ef91f7f2dc"
+canonical_name: "Senieji Trakai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["S. Trakai","S. Trakuose","Senieji Trakai"]
+sameAs: []
+canonical_biography: "Senieji Trakai šiame šaltinyje minimi kaip vieta, kur Vytautas įkurdino benediktinus, atkeldintus iš Mažosios Lenkijos Tynieco."
+place_authority: true
+historical_names: []
 ---
 # Senieji Trakai
 
@@ -119,7 +128,8 @@ Nenurodyta
 - id: c-05670
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 383."
   citata_originali: |
     Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
     juos iš Maž. Lenkijos (Tynieco).
@@ -136,7 +146,8 @@ Nenurodyta
 - id: c-175832
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 409"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 409."
   citata_originali: |
     Antrame
     skyde -  bėgantis lokys, nugręžtas į dešiniąją skydo pusę; tai

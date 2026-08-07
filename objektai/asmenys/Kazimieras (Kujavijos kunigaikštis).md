@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-22a1ba4c2121f01577dbf1ef"
+canonical_name: "Kazimieras (Kujavijos kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras (Kujavijos kunigaikštis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimierą275 bei Kališo kunigaikštį ir brolius ir patarė jiems traukti su kariuomene prieš Sventopelką. Dusburgietis teigia, kad apie naują Sventopelko karą ir susidūrimą prie Renzeno Kadangi žmogaus pojūčiai visados linkę į bloga ir žmogus, nors ir pasenęs, nelengvai 275 Kujavijos kunigaikštis. Dusburgietis teigia, kad galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę ir įsibrovė į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas, baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop sugrįžo."
 ---
 # Kazimieras (Kujavijos kunigaikštis)
 
@@ -67,7 +74,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 <a id="claim-t-63805"></a>
 - t-003
   teiginys: "Lietuviai, nutraukę paliaubas, nužudė kunigaikštį Kazimierą ir visus jo žmones, išskyrus vieną karį."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -78,7 +85,6 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras (Kujavijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-64744
     - c-167484
 
 <a id="claim-t-63806"></a>
@@ -116,11 +122,19 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 <a id="claim-t-63809"></a>
 - t-006
   teiginys: "Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kujavija: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sventopelkas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kujavija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Sventopelkas įsibrovė į Kujaviją."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sventopelkas puolė Kujavija (0.94); Kujavija priklausė Kazimieras (Kujavijos kunigaikštis) (0.90)"
   pagrindžia:
-    - c-64742
+    - c-64738
 
 <a id="claim-t-194498"></a>
 - t-007
@@ -186,7 +200,8 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 - id: c-64738
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę
     ir įsibrovė  į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas,
@@ -202,12 +217,14 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
+    - t-006
     - t-008
 
 - id: c-64740
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
   citata_originali: |
     Šitai išvydęs, valdovas Henrikas iš Lichtenšteino
     staiga užgriuvo priešus ir sugrąžino į pirmykštę vietą atimtą grobį. Apie tai sužinojęs,
@@ -225,7 +242,8 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 - id: c-64741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Kadangi
     klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
@@ -247,7 +265,8 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 - id: c-64742
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 88."
   citata_originali: |
     pasikvietė pas save iš Lenkijos kunigaikštį Kazimierą275 bei Kališo kunigaikštį ir brolius
     ir patarė jiems traukti su kariuomene prieš Sventopelką. Paklausę šių nurodymų, jie
@@ -267,12 +286,12 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-006
 
 - id: c-64744
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Apie Lenkijos žemės apiplėšimą
 
@@ -285,16 +304,15 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   citata_rodoma: "Apie Lenkijos žemės apiplėšimą\n\n  Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele\nkariuomene  į Lenkiją,  į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių\nnukovę bei paėmę  į nelaisvę, išdeginę bei išgrobstę, Kazimieras bei Lokietka, Lenkijos\nkunigaikščiai, nerimaudami dėl savo žmonių likimo, paprašė brolį Meinhardą, Prūsijos\nmagistrą, pagalbos. Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji\nkunigaikščiai pasileido bėgti su visais savo lenkais."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-167484
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­
     nių nužudymą bei paėmimą į nelaisvę
@@ -325,7 +343,8 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 - id: c-176945
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
   citata_originali: |
     40. Apie naują Sventopelko karą ir susidūrimą prie Renzeno
 

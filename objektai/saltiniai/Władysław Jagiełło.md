@@ -49,7 +49,8 @@ media_all_json: |-
 - id: c-33760
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 317."
   citata_originali: |
     —- (”) _Król Wladystaw Jagiełto,_ I-II, Kraków 1908.
     — (”) _Markward Salzbach,_ PH, t. 9, 1909, 12-28, 121-132 p. — Smolka,

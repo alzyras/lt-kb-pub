@@ -128,7 +128,8 @@ Nenurodyta
 - id: c-66778
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
   citata_originali: |
     Apie tai, kaip iš anksto buvo išpranašauta ši pergalė
     Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas
@@ -148,7 +149,8 @@ Nenurodyta
 - id: c-66779
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118-119"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118-119."
   citata_originali: |
     Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
     vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,
@@ -174,7 +176,8 @@ Nenurodyta
 - id: c-66780
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
   citata_originali: |
     Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų
     ginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje
@@ -193,7 +196,8 @@ Nenurodyta
 - id: c-66781
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Todėl jie nuolankiai ir gailiai kėlė
     akis į dangų, su ašaromis šaukdamiesi viešpaties pagalbos, ir viešpats jų išklausė.

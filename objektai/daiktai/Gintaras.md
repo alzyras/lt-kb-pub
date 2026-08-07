@@ -114,7 +114,8 @@ Nenurodyta
 - id: c-10247
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 180"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 180."
   citata_originali: |
     Turėjo dar taip pat už šventus aukurus, arba altorius, ant kalnų, kuriuos vadino auko kalnais,
         arba alko kalnais, ir viešpilais, ir didelius akmenis, ant kurių meldės ir dievams aukavo, arba juos
@@ -131,7 +132,8 @@ Nenurodyta
 - id: c-175284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
   citata_originali: |
     Lietuvių kalboje jis išliko žodyje
     Stiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų
@@ -157,7 +159,8 @@ Nenurodyta
 - id: c-175285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
   citata_originali: |
     153
     Gero gintaro kietumas šipina geležį, jis gražiausiai
@@ -184,7 +187,8 @@ Nenurodyta
 - id: c-175286
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
   citata_originali: |
     Apie gintaro viduje esančius vandens lašus sakoma,
     jog jie didėja ir mažėja kintant mėnuliui, bet niekada

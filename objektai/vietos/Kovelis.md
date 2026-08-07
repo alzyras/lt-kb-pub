@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bfd7df41d6480e9273a97010"
+canonical_name: "Kovelis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kovelis"]
+sameAs: []
+canonical_biography: "Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę Sanguškos (Kovelis, vėliau Slavuta),."
+place_authority: true
+historical_names: []
 ---
 # Kovelis
 
@@ -67,7 +76,8 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
 - id: c-24200
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 46."
   citata_originali: |
     laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
     naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
@@ -90,7 +100,8 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
 - id: c-74134
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 45-46."
   citata_originali: |
     Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
     išteklius. Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gy-

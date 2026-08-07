@@ -24,6 +24,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d3f4680c5b127ea0039059a0"
+canonical_name: "Thunert, E"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Thunert, E"]
+sameAs: []
+canonical_biography: "Thunert, E."
 ---
 # Thunert, E
 
@@ -56,7 +63,8 @@ Thunert, E.
 - id: c-33161
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 351."
   citata_originali: |
     Zu einem Buch von Stefan M. Kuczyński_ , ZfO, t. 22,
     1973, 475-486 p. — Stavenhagen, O. : _Livland und die Schlacht bei

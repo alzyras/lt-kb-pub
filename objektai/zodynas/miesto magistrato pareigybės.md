@@ -96,7 +96,8 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
 - id: c-82463
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 295."
   citata_originali: |
     O 1568 metų
     birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu
@@ -126,7 +127,8 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
 - id: c-82464
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 295-296"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 295-296."
   citata_originali: |
     Tai privilegijos žodžiai, verčiantys
     279
@@ -158,7 +160,8 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
 - id: c-82465
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 275."
   citata_originali: |
     Netvarka ir apsileidimas, įsitvirtinę miesto administra­
     cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat

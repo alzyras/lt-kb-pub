@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2b3086278cea14cf0fb9bc91"
+canonical_name: "Mykolas (Glinsko kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas (Glinsko kunigaikštis)"]
+sameAs: []
+canonical_biography: "Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui."
 ---
 # Mykolas (Glinsko kunigaikštis)
 
@@ -63,7 +70,8 @@ Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albe
 - id: c-83536
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 383."
   citata_originali: |
     To viso aiškiam paliudijimui mūsų antspaudas prie
     šio rašto yra prikabintas. Atlikta ir duota Vilniuje, antradie­

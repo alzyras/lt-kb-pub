@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-be1c0aa1a270008d337455ad"
+canonical_name: "Jonušas (Mazovijos vyresnysis kunigaikštis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonušas (Mazovijos vyresnysis kunigaikštis)"]
+sameAs: []
+canonical_biography: "Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­ gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną."
 ---
 # Jonušas (Mazovijos vyresnysis kunigaikštis)
 
@@ -51,7 +58,8 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
 - id: c-83714
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131."
   citata_originali: |
     Čia, krašto reikalus
     įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­

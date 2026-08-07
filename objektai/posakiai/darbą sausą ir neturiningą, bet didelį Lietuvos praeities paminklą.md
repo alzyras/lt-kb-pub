@@ -72,7 +72,8 @@ Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų 
 - id: c-175017
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 461-462"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 461-462."
   citata_originali: |
     jau ne vieną kartą cituotame laiške I. Onacevičiui
       T. Narbutas savo tyrinėjimus mitologijos srityje apibūdino kaip „darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą“3.

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f28a15f93e9726d7af2f837d"
+canonical_name: "Pilėnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pilėnai"]
+sameAs: []
+canonical_biography: "Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovaujama, nar­ siai gynėsi."
+place_authority: true
+historical_names: []
 ---
 # Pilėnai
 
@@ -60,7 +69,8 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
 - id: c-33997
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 242."
   citata_originali: |
     Kai iš Vokietijos, Austrijos ir Prancūzijos susirinko pas
     kryžiuočius už atgailą « pasižadėjusių kovoti prieš pagonis ir neti­

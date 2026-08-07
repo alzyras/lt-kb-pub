@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-98d7a9567302cd8d324b3917"
+canonical_name: "Anušauskas A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Anušauskas A"]
+sameAs: []
+canonical_biography: "Anušauskas A."
 ---
 # Anušauskas A
 
@@ -63,7 +70,8 @@ Anušauskas A.
 - id: c-20701
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
   citata_originali: |
     Anušauskas A. Teroras. 1940–1958 m. Vilnius, 2012.
   citata_rodoma: "Anušauskas A. Teroras. 1940–1958 m. Vilnius, 2012."

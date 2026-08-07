@@ -46,9 +46,9 @@ Kryžėjai tame džiaugsme užmiršo, jog antra dalis Sviatopelko kariaunos buvo
 ## Citatos
 
 - id: c-184559
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 321"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 321."
   citata_originali: |
     Atėjęs marčelga pas taborių Sviato­
     pelko puolė ant vienos dalies jo kariaunos, kuri,

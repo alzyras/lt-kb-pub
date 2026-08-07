@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f6c7530fadf87559a2de6fc8"
+canonical_name: "St. M. Kuczyński"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["St. M. Kuczyński"]
+sameAs: []
+canonical_biography: "Kuczyński, S. Kuczyński : Wielka wojna z Zakonem Krzyżackim w latach 1409-11 , Warszawa 1955, 186, 192 p. (^13) CEV, 209 p. Kuczyński, St."
 ---
 # St. M. Kuczyński
 
@@ -79,7 +86,8 @@ Kuczyński, S. Kuczyński : Wielka wojna z Zakonem Krzyżackim w latach 1409-11 
 - id: c-30880
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 330"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 330."
   citata_originali: |
     — Kuczyński, S. M. : _Antymoskiewska inicjatywa
     Litwy w drugiej połowie XIV wieku,_ Warszawa 1936. — (”) _Ziemie
@@ -97,7 +105,8 @@ Kuczyński, S. Kuczyński : Wielka wojna z Zakonem Krzyżackim w latach 1409-11 
 - id: c-33148
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 345."
   citata_originali: |
     Atskirų dalinių
     (^8) **M. Ljubavskij :** **_Litovsko-Russkij sejm,_** **Maskva 1900, 355-360 p. Plg.

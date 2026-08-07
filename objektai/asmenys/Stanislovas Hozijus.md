@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cddc34b21e698362f4f2d0da"
+canonical_name: "Stanislovas Hozijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Stanislovas Hozijus"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Stanislovas Hozijus
 

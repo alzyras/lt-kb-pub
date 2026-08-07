@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-15a7ce6a0410a41af0261363"
+canonical_name: "Aleksandras Jakovlevas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Jakovlevas"]
+sameAs: []
+canonical_biography: "LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lietuvoje rugpjūčio 11–12 dienomis."
 ---
 # Aleksandras Jakovlevas
 
@@ -50,7 +57,8 @@ LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lie
 - id: c-21561
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 236."
   citata_originali: |
     Stiprėjo Lietuvos žaliųjų
     judėjimas.

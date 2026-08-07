@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-05aa56a73053e8a20e9fd591"
+canonical_name: "Katinai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Katinai"]
+sameAs: []
+canonical_biography: "BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniūnų ir Katinų kaimus."
+place_authority: true
+historical_names: []
 ---
 # Katinai
 
@@ -78,7 +87,8 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolo
 - id: c-45125
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 182."
   citata_originali: |
     Puolimas buvo pradėtas 1919 m. ge-
     gužės 18 d. naktį. Dešinioji kolona ener-
@@ -99,7 +109,8 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolo
 - id: c-45126
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 182."
   citata_originali: |
     Juos Užkalnių kaimą ir pietinius Barklainius. pulti ir užimti Ėriškių ir Rajūnų kaimus.
     BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin.

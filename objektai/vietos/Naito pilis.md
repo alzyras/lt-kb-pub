@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09ba895fb90027efa7f1c866"
+canonical_name: "Naito pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Naito pilis"]
+sameAs: []
+canonical_biography: "Vita vudas būk tuojau naują pilį, vadinamą Naito, tarp Nemuno ir Ailibo upės gret šios dienos Karaliau čiaus įkūręs1."
+place_authority: true
+historical_names: []
 ---
 # Naito pilis
 
@@ -41,9 +50,9 @@ Vita vudas būk tuojau naują pilį, vadinamą Naito, tarp Nemuno ir Ailibo upė
 ## Citatos
 
 - id: c-184523
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 62"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 62."
   citata_originali: |
     Vitavudas, pasimylavęs su Bruteniu,
     sutarė nuo šiol niekam duoklės nei dovenų neduoti,

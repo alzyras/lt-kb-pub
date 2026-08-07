@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9977b0b55477628e8ca347f0"
+canonical_name: "St. Kutrzeba"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["St. Kutrzeba"]
+sameAs: []
+canonical_biography: ": Dzieje Wielkiego Księstwa Litewskiego za Ja­ giellonów, I, 1930, 11-51 p. — Kutrzeba, St."
 ---
 # St. Kutrzeba
 
@@ -55,7 +62,8 @@ media_all_json: |-
 - id: c-94033
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 300."
   citata_originali: |
     : _Dzieje Wielkiego Księstwa Litewskiego za Ja­
     giellonów,_ I, 1930, 11-51 p. — Kutrzeba, St. : _Unja Litwy z Polską,_

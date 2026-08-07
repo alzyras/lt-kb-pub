@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-546cf493e6f2eb8133f4a86b"
+canonical_name: "Aušros vartai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aušros vartai"]
+sameAs: []
+canonical_biography: "Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Aušros vartų."
+place_authority: true
+historical_names: []
 ---
 # Aušros vartai
 
@@ -103,7 +112,8 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
 - id: c-75104
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 250."
   citata_originali: |
     Planinės
     ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus

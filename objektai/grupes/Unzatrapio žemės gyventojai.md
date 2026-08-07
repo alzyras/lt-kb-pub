@@ -52,7 +52,8 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
 - id: c-64317
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 109."
   citata_originali: |
     76 (75). Apie vienos Notangos dalies nuniokojimą
     Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],

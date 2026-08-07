@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fe70e598adcc47189c23a3cc"
+canonical_name: "Henrikas iš Berkos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas iš Berkos"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheimo, o į pagalbininkus jam paskyrė brolį Konradą iš Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir."
 ---
 # Henrikas iš Berkos
 
@@ -70,7 +77,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - id: c-60943
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 50."
   citata_originali: |
     Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­
     ta Nesavos pilis

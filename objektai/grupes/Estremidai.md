@@ -54,7 +54,8 @@ Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo
 - id: c-175750
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 154."
   citata_originali: |
     Krašte, kurio sostinė buvo šis miestas,
     gyveno labiausiai klestėjusi prekyboje, sumani, turtinga,

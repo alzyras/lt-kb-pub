@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-340a10572cf6cfd85f519c81"
+canonical_name: "Konradas (Prūsijos magistras)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas (Prūsijos magistras)"]
+sameAs: []
+canonical_biography: "Konradas, Kojelavičiaus vadinamas magistru, įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą. Konradas, Kojelavičiaus vadinamas magistru, po žinios apie lenkų pralaimėjimą įsakė Albertui Hagenui užpulti Gardino pilį ir miestą."
 ---
 # Konradas (Prūsijos magistras)
 
@@ -76,7 +83,8 @@ Konradas, Kojelavičiaus vadinamas magistru, įsakė Albertui Hagenui staiga už
 - id: c-169488
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 182."
   citata_originali: |
     Magistras Konradas, gavęs ži­
     nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy­

@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c0e6bc44c086e90a515da7ab"
+canonical_name: "Jonas Mačiulis-Maironis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Mačiulis-Maironis"]
+sameAs: []
+canonical_biography: "Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu. Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kalba rašyta poezija."
 ---
 # Jonas Mačiulis-Maironis
 
@@ -54,7 +61,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 <a id="claim-t-63723"></a>
 - t-002
   teiginys: "Jonas Mačiulis-Maironis tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -65,7 +72,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - id: c-64675
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 168."
   citata_originali: |
     Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
     žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius po-
@@ -90,7 +98,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - id: c-64676
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 120."
   citata_originali: |
     Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
     viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
@@ -112,7 +121,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - id: c-64677
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 19."
   citata_originali: |
     O
     kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
@@ -133,7 +143,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - id: c-64678
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Lietu-
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
@@ -159,7 +170,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - id: c-64679
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Kultūros suvienodinimas
     J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros
@@ -183,7 +195,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - id: c-64680
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 9."
   citata_originali: |
     Jas įsi-
     mindami, savaime tapsite gyvais Lietuvos istorijos liudininkais ir sergėto-

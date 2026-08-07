@@ -74,7 +74,8 @@ media_all_json: |-
 - id: c-10138
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 173"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 173."
   citata_originali: |
     - status: unused
     - claim_role: new_claim
@@ -103,7 +104,8 @@ media_all_json: |-
 - id: c-10140
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 334"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 334."
   citata_originali: |
     Žemaičiai dar vėl norėjo savo Šventosios įtaką arba Palangą, kurią žuvėdai buvo sugriovę, atnaujinti, ir minavonei savo nuo jų išsiliuosavimo^1511 tenai
         naują pilį, vadinamą Marijoninę pilį (Janmarienburg), įkurti, ant ko metuose 1688 sueime gavo ir
@@ -119,7 +121,8 @@ media_all_json: |-
 - id: c-10141
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 330"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 330."
   citata_originali: |
     laiku kėlės karės su žuvėdais, maskoliais, turkais ir valakais, namuose taip pat tarp pačių netaikos
         sukilo; ant galo jezavitai^1493 sušyžino^1494 visus atskalūnus, norėdami juos į katalikus atversti.

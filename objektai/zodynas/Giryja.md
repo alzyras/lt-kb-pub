@@ -142,7 +142,8 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
 - id: c-175064
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 258."
   citata_originali: |
     Gal net lengviau būtų paaiškinti šio žodžio
     'kilmę iš lietuvių kalbos; jis turi prasmę be jokao raidžių
@@ -166,7 +167,8 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
 - id: c-175065
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 258."
   citata_originali: |
     tačiau vis dėlto Giryja, kraštas Gerrhus ir Grykija, jei ir nereiškia vie­
     no krašto, tokį pavadinimą yra gavusi iš tos pačios tautos.
@@ -183,7 +185,8 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
 - id: c-175342
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 258."
   citata_originali: |
     Reikėtų
     atsisakyti šio aiškinimo, nes paminklas daug senesnis už

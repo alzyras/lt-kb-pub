@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7f7b231e9131315decadd551"
+canonical_name: "Vaclovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaclovas"]
+sameAs: []
+canonical_biography: "Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) iki kitų metų šv. Sprendimu Vaclovo, kuris iš kryžiuočių už tai gavo keliasdešimt tūkstančių vengriškų « raudonųjų », Pra­ goję 1410.II.15 d. buvo surašytas naujas dokumentas."
 ---
 # Vaclovas
 
@@ -125,7 +132,8 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
 - id: c-28881
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 343."
   citata_originali: |
     Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m.
     rudenį (X.8) iki kitų metų šv. Jono (VI.24) buvo padarytos paliau­
@@ -141,7 +149,8 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
 - id: c-28882
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 343."
   citata_originali: |
     Sprendimu Vaclovo, kuris iš kryžiuočių
     už tai gavo keliasdešimt tūkstančių vengriškų « raudonųjų », Pra­
@@ -157,7 +166,8 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
 - id: c-168212
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 226."
   citata_originali: |
     Kadangi tyli ir metraš­
     tininkai, aišku, kad artimiausiais metais ir su kaimy­

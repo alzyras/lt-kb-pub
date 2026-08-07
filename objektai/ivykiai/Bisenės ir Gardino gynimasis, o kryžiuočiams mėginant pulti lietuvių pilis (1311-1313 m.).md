@@ -111,7 +111,8 @@ Nenurodyta
 - id: c-168915
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 189."
   citata_originali: |
     Iš tos išdavystės išėjo visai kas kita, nei vy­
     lėsi žvalgas, ji vos neužtraukė bėdos kryžiuočiams: mat,

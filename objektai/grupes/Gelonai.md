@@ -77,7 +77,7 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 <a id="claim-t-192385"></a>
 - t-003
   teiginys: "Narbutas gelonus apibūdina kaip su graikų persikėlėliais siejamą tautą, kurios kolonija buvo kairiajame Dnepro krante tarp budinų."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -265,7 +265,8 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - id: c-175157
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
     Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­
@@ -288,7 +289,8 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - id: c-175178
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 12."
   citata_originali: |
     Antras tomas be­
     veik visas yra skirtas lietuvių kilmei, lengva pasakyti —
@@ -311,7 +313,8 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - id: c-175179
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 55."
   citata_originali: |
     Galbūt šis keistas požiū­
     ris atsirado dėl to, kad tam tikrais metų laikais bado
@@ -334,7 +337,8 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - id: c-175181
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
   citata_originali: |
     Vis dėlto Herodotas turėjo daugiau žinių apie
     romėnus*, nes teigia, kad dienovidžio kryptimi į šiaurę
@@ -361,7 +365,8 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - id: c-175182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 79."
   citata_originali: |
     Tą sveiką gyvulinės kilmės
     produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
@@ -383,7 +388,8 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - id: c-175183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 80."
   citata_originali: |
     Pirmosios jų gyvenvietės turėjo būti Očekovo miesto apy­
     linkėse, nes kažkur ten buvo Gelono miestas. Herodotas
@@ -408,7 +414,8 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - id: c-175184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 80."
   citata_originali: |
     Todėl mano­
     ma, kad tai turėjo įvykti ne vėliau kaip VI amžiaus prieš
@@ -429,7 +436,8 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - id: c-175185
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 192."
   citata_originali: |
     Nors gal nėra Europoje nė
     vienos tautos, kuri; nebūtų 'dviejų arba trijų skirtingų tau­
@@ -456,7 +464,8 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
 - id: c-179220
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
   citata_originali: |
     Ta­
     čiau helenai tuos gelonus vadina, nors ir neteisingai, bu-

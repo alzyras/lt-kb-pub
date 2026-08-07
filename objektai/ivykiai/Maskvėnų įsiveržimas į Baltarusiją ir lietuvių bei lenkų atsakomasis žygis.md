@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-168982
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 716"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 716."
   citata_originali: |
     S taig a ten su­
     sirgęs, suprato, jo g n eb e p ajėg s ja u v ad o v a u ti k a riu o ­

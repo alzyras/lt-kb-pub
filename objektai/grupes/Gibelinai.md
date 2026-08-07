@@ -66,7 +66,8 @@ Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir 
 - id: c-176955
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Apie gibelinus ir gvelfus
 
@@ -85,7 +86,8 @@ Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir 
 - id: c-176956
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
   citata_originali: |
     124. Apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų
 

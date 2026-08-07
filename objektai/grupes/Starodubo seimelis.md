@@ -33,27 +33,28 @@ media_all_json: |-
 
 ## Santrauka
 
-1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius.
+1756 m. Starodubo seimelis aprašomas kaip politinių interesų konfliktų laukas: J. D. Lopacinskis jame stengėsi tarnauti Mykolo Antano Sapiegos ir Adomo Chmaros interesams, o seimelio metu kilęs konfliktas paskatino surengti dar vieną jam prieštaraujantį seimelį.
 
 ## Teiginiai
 
 <a id="claim-t-200688"></a>
 - t-001
-  teiginys: "1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius."
-  atnaujinta: "2026-07-19 16:33"
+  teiginys: "1752 m. Jonas Dominykas Lopacinskis minėjo būsimą Starodubo seimelį."
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "priklause -> Starodubas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Starodubo seimelis: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Starodubas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Starodubo seimelio pavadinimas tiesiogiai sieja seimelį su Starodubu."
+  ryšio_patikimumas: "susije_su -> Starodubas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Starodubo seimelis: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Starodubas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Starodubo seimelis\" parinktas kaip owner_note_path. Targetas \"Starodubas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1752 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Starodubo seimelio paminėjimą. Jis nepretenduoja į platesnę informaciją, kurios citata neduoda."
+  temporalinis_llm_pakomentavimas: "Išskleistas autoriaus inicialais nurodyto asmens vardas ir paliktas tik su objekto pavadinimu tiesiogiai susijęs faktas."
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
   pagrindžia:
     - c-184023
 
@@ -66,7 +67,7 @@ media_all_json: |-
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 10:44"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
 
@@ -77,4 +78,4 @@ media_all_json: |-
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 10:44"
+  atnaujinta: "2026-07-26 17:37"

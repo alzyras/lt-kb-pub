@@ -111,7 +111,8 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
 - id: c-170731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 4."
   citata_originali: |
     TEODORAS NARBUTAS IR JO
     „LIETUVIŲ TAUTOS ISTORIJA“
@@ -132,7 +133,8 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
 - id: c-170732
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 4."
   citata_originali: |
     UDK
     947.45
@@ -158,7 +160,8 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
 - id: c-170733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 4."
   citata_originali: |
     Wilno, naktadem i drukiem
     A. Marcinowskicgo, 1835.

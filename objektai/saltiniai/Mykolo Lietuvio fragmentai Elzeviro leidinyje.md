@@ -65,7 +65,8 @@ Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas i�
 - id: c-173401
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
   citata_originali: |
     Stenderis savo lat­
     vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
@@ -85,7 +86,8 @@ Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas i�
 - id: c-179148
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 159."
   citata_originali: |
     Taip pat Kaunio vardas labiau už Kūno panašesnis į pa­
     vadinimą miesto, kuris lietuviškai vadinasi Kaunu (Kaunos).

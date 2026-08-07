@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-56de2b71221fbe6d4505e95e"
+canonical_name: "Vincentas Vėlavičius (kunigas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vincentas Vėlavičius","Vincentas Vėlavičius (kunigas)"]
+sameAs: []
+canonical_biography: "1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio žurnalistams pranešė, kad lapkričio 13 dieną Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas (TTGK) (jam dar."
 ---
 # Vincentas Vėlavičius (kunigas)
 
@@ -40,7 +47,8 @@ media_all_json: |-
 - id: c-22059
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 229."
   citata_originali: |
     Tai buvo kone vienintelis leidinys, be pertraukos net 17
     metų (nors ir nereguliariai) leistas Sovietų Sąjungoje. Nors „Kronika“ skirta

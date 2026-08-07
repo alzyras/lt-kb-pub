@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5274be75155e23a14c689ae3"
+canonical_name: "J. Balys"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Balys"]
+sameAs: []
+canonical_biography: "pozicijų signatūras : J. Balys : Lithuania and Lithuanians. A selected bibliography. (Studia Lituanica II), New York 1961 (Fr. A. Praeger, Publisher)."
 ---
 # J. Balys
 
@@ -59,7 +66,8 @@ pozicijų signatūras : J. Balys : Lithuania and Lithuanians. A selected bibliog
 - id: c-32955
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 25."
   citata_originali: |
     (^18) BIBLIOGRAFINIAI RINKINIAI
     **grafijos, kuri randama Įvairiose bibliotekose, drauge dažnai nurodant ir

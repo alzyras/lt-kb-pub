@@ -50,7 +50,8 @@ Balinskiui laišką, kuriame apibūdino liūdną istorijos mokslo būklę.
 - id: c-84406
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­
     torinių dokumentų iš slaptojo Kryžiuočių Ordino archyvo, pa­

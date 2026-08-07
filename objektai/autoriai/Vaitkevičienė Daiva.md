@@ -25,8 +25,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9717093545a5139cef54883d"
+canonical_name: "Vaitkevičienė Daiva"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vaitkevičienė Daiva"]
+sameAs: []
+canonical_biography: "Daiva Vaitkevičienė 2011 m. paskelbė straipsnį „Libation in Baltic Religious Practices“ leidinyje „Archaeologia Baltica“."
 ---
 # Vaitkevičienė Daiva
+
+## Santrauka
+
+Daiva Vaitkevičienė 2011 m. paskelbė straipsnį „Libation in Baltic Religious Practices“ leidinyje „Archaeologia Baltica“.
 
 ## Santrauka
 
@@ -37,7 +48,7 @@ Daiva Vaitkevičienė 2011 m. paskelbė straipsnį „Libation in Baltic Religio
 <a id="claim-t-200741"></a>
 - t-001
   teiginys: "Daiva Vaitkevičienė 2011 m. paskelbė straipsnį „Libation in Baltic Religious Practices“ leidinyje „Archaeologia Baltica“."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,6 +67,6 @@ Daiva Vaitkevičienė 2011 m. paskelbė straipsnį „Libation in Baltic Religio
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 20."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-001

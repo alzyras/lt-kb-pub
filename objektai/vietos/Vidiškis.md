@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c27b6af602307a26d0ea44d1"
+canonical_name: "Vidiškis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vidiškis"]
+sameAs: []
+canonical_biography: "Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį. Užėmę Kurklius, lenkai veržėsi Vidiškių ir Ukmergės link."
+place_authority: true
+historical_names: []
 ---
 # Vidiškis
 
@@ -51,7 +60,8 @@ Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraiči
 - id: c-45403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 210."
   citata_originali: |
     Lietuvių pajėgos negalėjo
     atsilaikyti prieš gausių lenkų pajėgų puo-

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-78390d53f7b4b41be8033b09"
+canonical_name: "Boleslovas Švitrigaila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslovas Švitrigaila"]
+sameAs: []
+canonical_biography: "Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstančių karių, sunkiai paspruko į Kijevą. Boleslovas Švitrigaila padalijo kariuomenę į tris žygio voras ir pats įsiveržęs nuniokojo senąsias Lietuvos žemes. Po Žygimanto pašalinimo Boleslovas Švitrigaila vėl galėjo tikėtis grįžti į valdžią, nors didikai jo tebekenė ir keikė."
 ---
 # Boleslovas Švitrigaila
 
@@ -184,7 +191,8 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
 - id: c-169293
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 445"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 445."
   citata_originali: |
     Prasidėjus mūšiui, aukščiau­
     siasis lėmė, kad nugalėjo teisioji šalis. Praradęs mū­
@@ -204,7 +212,8 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
 - id: c-169294
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 447"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 447."
   citata_originali: |
     Mat karalius Jo­
     gaila, prie žemės lenkiamas ir metų, ir anksčiau patirtų
@@ -233,7 +242,8 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
 - id: c-169295
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 462"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 462."
   citata_originali: |
     Tuo tarpu rinkosi į seimą pakviesti
     didikai, ilgai nežinoję, nei ką
@@ -263,7 +273,8 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
 - id: c-178680
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 446"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 446."
   citata_originali: |
     Visi tikėjo, jog puiki pergalė atneš taiką; taip ir
     būtų atsitikę, jeigu Žygimantas, nors kovos lauke jau

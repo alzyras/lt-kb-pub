@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d928385e461465307e33619c"
+canonical_name: "Žemutinė pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žemutinė pilis"]
+sameAs: []
+canonical_biography: "Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja. Svetimšalių ataka buvo smarki, tačiau ir lietuvių gynyba iš pradžių ne mažiau nar­ si; paskui ūmai keliose vietose nežinia kaip prasiveržė lieps­ na Žemutinėje pilyje ir pagavo medinius statinius, aptva­ rus, užkardas."
+place_authority: true
+historical_names: []
 ---
 # Žemutinė pilis
 
@@ -67,7 +76,8 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 - id: c-82143
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 138."
   citata_originali: |
     Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
     kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
@@ -86,7 +96,8 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 - id: c-82144
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139."
   citata_originali: |
     O
     šeštosios dienos rytą buvo pradėtas pagrindinis puolimas iš

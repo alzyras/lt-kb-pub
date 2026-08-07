@@ -90,7 +90,8 @@ Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, gal�
 - id: c-175752
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 359."
   citata_originali: |
     Vadinasi, Varmijai priklau­
     santis krašto plotas buvo didelis, be to, ji turėjo daugiau

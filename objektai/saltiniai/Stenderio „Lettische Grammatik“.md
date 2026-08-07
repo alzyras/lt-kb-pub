@@ -158,7 +158,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - id: c-173363
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
   citata_originali: |
     Beje, labai gali būti,
     kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
@@ -179,7 +180,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - id: c-173364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 132."
   citata_originali: |
     Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
     gėlių ir vaismedžių sodas.
@@ -198,7 +200,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - id: c-173365
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
   citata_originali: |
     Barstukai (Barstuki)
     Požemio dievaičiai, nykštukai. Tą vardą Stenderis išveda
@@ -216,7 +219,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - id: c-173366
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 299."
   citata_originali: |
     Tokie žyniai, mo­
     kantys pagarsėti, pritraukia lengvatikius iš tolimesnių ir arti­
@@ -236,7 +240,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - id: c-173368
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
   citata_originali: |
     Buvo buriama
     stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.

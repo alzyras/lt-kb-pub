@@ -63,7 +63,7 @@ Nenurodyta
 <a id="claim-t-185535"></a>
 - t-002
   teiginys: "Prūsai puolė negausiai saugomą kryžiuočių stovyklą, ją paėmė pirmuoju antpuoliu ir išžudė apsaugos karius."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -75,7 +75,7 @@ Nenurodyta
 <a id="claim-t-185536"></a>
 - t-003
   teiginys: "Prūsams pasirodžius iš užnugario, prasidėjo žiaurus mūšis, kuriame krikščionys galiausiai buvo sumušti."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -141,7 +141,8 @@ Nenurodyta
 - id: c-168895
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 105."
   citata_originali: |
     Ten greitosiomis įrengę stovyklą,
     sustiprintą pylimu ir gynybiniu grioviu, jie paliko ke­
@@ -177,7 +178,8 @@ Nenurodyta
 - id: c-168896
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 105."
   citata_originali: |
     Pirmuoju antpuoliu paėmę stovyklą, išžudė apsaugai
     paliktus karius. Kovotojams buvo įsakyta susilaikyti
@@ -205,7 +207,8 @@ Nenurodyta
 - id: c-168897
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 105-106"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 105-106."
   citata_originali: |
     Žymiesiems belaisviams metus burtus,
     lemtingasis teko Hirtshalsui, Magdeburgo bajorui: jis
@@ -232,7 +235,8 @@ Nenurodyta
 - id: c-178595
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 106."
   citata_originali: |
     Kita vokie­
     čių kariuomenė, vedama grafo Barbio, niokojo Sembą

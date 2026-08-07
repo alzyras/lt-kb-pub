@@ -45,7 +45,8 @@ Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, s
 - id: c-172465
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
   citata_originali: |
     Įprastas dalykas buvo apeigos ir būrimai, susiję su ugnimi.
     Švenčiant Rasos šventę, šokinėta per degantį laužą, sukrautą

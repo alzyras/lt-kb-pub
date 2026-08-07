@@ -78,7 +78,8 @@ Nenurodyta
 - id: c-33388
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 223."
   citata_originali: |
     Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės
     (Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo

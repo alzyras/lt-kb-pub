@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0c7d902af1e653c86985427d"
+canonical_name: "Strijkovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Strijkovskis"]
+sameAs: []
+canonical_biography: "Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes turėjo Lietuvos istorijos šaltinių."
 ---
 # Strijkovskis
 

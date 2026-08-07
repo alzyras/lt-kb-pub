@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b805da1c7dc7c6e307bf99ed"
+canonical_name: "Kurtas Valdheimas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kurtas Valdheimas"]
+sameAs: []
+canonical_biography: "Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos valstybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos Demokratinės."
 ---
 # Kurtas Valdheimas
 
@@ -62,7 +69,8 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
 - id: c-21842
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos
     ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui. 1979 m.

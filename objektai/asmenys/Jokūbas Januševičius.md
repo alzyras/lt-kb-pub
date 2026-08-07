@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-76c0c6ed84dcd7c470a5513a"
+canonical_name: "Jokūbas Januševičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokūbas Januševičius"]
+sameAs: []
+canonical_biography: "Štai 1528 m. Lietuvos kariuomenės surašyme tarp Upytės pavieto bajorų randame Kauno miestietį Jokūbą Januševičių ir Janką Liachą iš Kauno."
 ---
 # Jokūbas Januševičius
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185516
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 61"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 61."
   citata_originali: |
     Štai 1528 m. Lietuvos kariuomenės surašyme tarp Upytės pavie-
     to bajorų randame Kauno miestietį Jokūbą Januševičių ir Janką Liachą iš Kauno. Abu

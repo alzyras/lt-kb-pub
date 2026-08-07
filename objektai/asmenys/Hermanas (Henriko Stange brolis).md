@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-16e9b508be4f9c5c7c903d0b"
+canonical_name: "Hermanas (Henriko Stange brolis)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hermanas (Henriko Stange brolis)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro tikras brolis, didžiai susijaudino dėl jo likimo."
 ---
 # Hermanas (Henriko Stange brolis)
 
@@ -50,7 +57,8 @@ Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro
 - id: c-167472
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 103."
   citata_originali: |
     Galop prūsai klasta jį
     apsupo ir galybe smūgių nubloškė nuo žirgo. Kai šitai išvydo, brolis Hermanas, minėtojo

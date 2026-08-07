@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9898cb132c00e4d8167d1929"
+canonical_name: "Sdubrai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sdubrai"]
+sameAs: []
+canonical_biography: "Prie Sdubrų kaimo buvo atkasti didesni kapai, o jų vietoje Narbutas mini randamas ašarinių nuolaužas."
+place_authority: true
+historical_names: []
 ---
 # Sdubrai
 
@@ -54,7 +63,8 @@ Prie Sdubrų kaimo buvo atkasti didesni kapai, o jų vietoje Narbutas mini randa
 - id: c-171952
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
   citata_originali: |
     Turėjau
     tis tokias ašarines, visas beveik vienodo dydžio, kuriose skys­

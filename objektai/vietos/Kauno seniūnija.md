@@ -23,6 +23,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-efce51715e6b956aca9eebef"
+canonical_name: "Kauno seniūnija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno seniūnija"]
+sameAs: []
+canonical_biography: "Yra išlikusių žinių, kad Kauno seniūnija dar kartą buvo atitekusi karalienei."
+place_authority: true
+historical_names: []
 ---
 # Kauno seniūnija
 
@@ -47,9 +56,9 @@ Yra išlikusių žinių, kad Kauno seniūnija dar kartą buvo atitekusi karalien
 ## Citatos
 
 - id: c-185056
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 148."
   citata_originali: |
     Valdovė negalėjo pažeisti Žygimanto Seno-
     jo pirmtakų ir jo paties nubrėžtų valdovų dalyvavimo miesto gyvenime ribų.

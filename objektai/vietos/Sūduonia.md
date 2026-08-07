@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-959d4a73270a1a1946773998"
+canonical_name: "Sūduonia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sūduonia"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad ir Tepliava) Suvalkai Sūduonia, Sūduonė, u."
+place_authority: true
+historical_names: []
 ---
 # Sūduonia
 
@@ -51,7 +60,8 @@ Dusburgietis teigia, kad ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.
 - id: c-59366
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
   citata_originali: |
     ir Tepliava)
     Suvalkai

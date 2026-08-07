@@ -100,7 +100,8 @@ Nenurodyta
 - id: c-169268
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 364."
   citata_originali: |
     Netrukus, išvedus
     Vytauto įgulas, ordino magistro kariuomenė užėmė vi­

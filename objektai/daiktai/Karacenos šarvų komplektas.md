@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-44660
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 271."
   citata_originali: |
     p. 136, XVII a. pabaigos -xvIII a. pradžios kavalerijos palašas. vDKM, Artūro Užgalio nuotr.
     p. 136, Karacenos šarvų komplektas. Abiejų Tautų Respublika, xviii a. vDKM, Artūro Užgalio

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-36ce2223ce60cf2dd3579426"
+canonical_name: "Blinkevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Blinkevičius"]
+sameAs: []
+canonical_biography: "Po kelių dienų mūsų apylinkės pirmininkas Blinkevičius nusprendė, kad reikia prašyti Pušaloto valsčiaus valdžios, kad leistų surinkti miške likusius lavonus."
 ---
 # Blinkevičius
 
@@ -51,7 +58,8 @@ Po kelių dienų mūsų apylinkės pirmininkas Blinkevičius nusprendė, kad rei
 - id: c-41872
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 225."
   citata_originali: |
     Po
     kelių dienų mūsų apylinkės pirmininkas

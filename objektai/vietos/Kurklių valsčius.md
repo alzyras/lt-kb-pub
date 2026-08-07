@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-45d95f070c7a3f6dbf268e1e"
+canonical_name: "Kurklių valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kurklių valsčius"]
+sameAs: []
+canonical_biography: "Kurklių vlsč."
+place_authority: true
+historical_names: []
 ---
 # Kurklių valsčius
 
@@ -60,7 +69,8 @@ Kurklių vlsč.
 - id: c-40302
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 241."
   citata_originali: |
     TRAKINIŲ KAUTYNĖS
     1945 m. birželio 27 d. Ukmergės apskr. Kurklių vlsč. Trakinių k. apylinkėse miške NKVD vidaus

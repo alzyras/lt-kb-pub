@@ -58,7 +58,8 @@ media_all_json: |-
 - id: c-84440
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 312."
   citata_originali: |
     Vėliau Mamoničių spaus­
     tuvė, matyt, atiteko bazilijonams.

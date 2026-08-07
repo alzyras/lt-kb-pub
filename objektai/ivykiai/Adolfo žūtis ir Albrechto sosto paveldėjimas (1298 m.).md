@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-62656
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 243."
   citata_originali: |
     85. Apie Adolfo, Romos karaliaus, žūtį
 

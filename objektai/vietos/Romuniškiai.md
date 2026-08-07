@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a57039939146a671b18a17b"
+canonical_name: "Romuniškiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Romuniškiai"]
+sameAs: []
+canonical_biography: "Narbutas, remdamasis Hartknochu, Romuniškius mini Žemaitijoje, už sienos nuo Prūsijos Romučių kaimo prie Tenenio upės."
+place_authority: true
+historical_names: []
 ---
 # Romuniškiai
 
@@ -55,7 +64,8 @@ Narbutas, remdamasis Hartknochu, Romuniškius mini Žemaitijoje, už sienos nuo 
 - id: c-171944
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Hartknochas pagal senus duomenis nurodo garsų šventąjį
     mišką, kurio vietą senovės Prūsijos žemėlapiuose pažymi prie

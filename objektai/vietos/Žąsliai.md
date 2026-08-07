@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-346401473e43b532f6f4a28b"
+canonical_name: "Žąsliai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žąsliai"]
+sameAs: []
+canonical_biography: "Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduoti Daugus bei Žąslius."
+place_authority: true
+historical_names: []
 ---
 # Žąsliai
 
@@ -83,7 +92,8 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
 - id: c-170274
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 180."
   citata_originali: |
     Lietuvos karinė vadovybė,
     atsižvelgdama į padėtį, mėgino suskubti
@@ -105,7 +115,8 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
 - id: c-170275
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 200."
   citata_originali: |
     1457.11.28 Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goš-
     laulul (Русская историческая библиотека, т. 27, 1970. p. 34).

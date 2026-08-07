@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-841cc98607c0295c2d6176eb"
+canonical_name: "Pagėgiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pagėgiai"]
+sameAs: []
+canonical_biography: "Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir Šilutės. Kalmantavičiaus-Bajoro vadovaujama grupė be pasipriešinimo užima Pagėgius, o Jakšto-Kalvaičio vadovaujama III grupė Šilutę. [0] Sausio 14 d. iš Šilutės ir Pagėgių atvyksta II ir III grupių sukilėlių dalis, pagrindinių sukilėlių pajėgų sustiprinimui."
+place_authority: true
+historical_names: []
 ---
 # Pagėgiai
 
@@ -84,7 +93,8 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 - id: c-43711
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 214."
   citata_originali: |
     Sukilėlių pajėgos
     buvo suskirstytos į tris grupes - Klaipėdos,
@@ -106,7 +116,8 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 - id: c-45254
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 215."
   citata_originali: |
     @ UM. Kalmantavičiaus-Bajoro vadovaujama
     grupė be pasipriešinimo užima Pagėgius, o
@@ -129,7 +140,8 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 - id: c-45255
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 215."
   citata_originali: |
     [0] Sausio 14 d. iš Šilutės ir Pagėgių atvyksta II ir
     III grupių sukilėlių dalis, pagrindinių sukilėlių

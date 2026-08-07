@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-61b8addd5a92f96f1cbff545"
+canonical_name: "Maskvos žemės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Maskvos žemės"]
+sameAs: []
+canonical_biography: "Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­ re Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai, ir užtat nenuostabu, kad jis labai anksti (1368 m.) pradeda dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­ vos žemes."
+place_authority: true
+historical_names: []
 ---
 # Maskvos žemės
 
@@ -64,7 +73,8 @@ Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­ re Trakuose, todėl
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 27."
   citata_originali: |
     Kiek tos kovos Kęstučio valdymo laiku padidėjo,
     rodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad

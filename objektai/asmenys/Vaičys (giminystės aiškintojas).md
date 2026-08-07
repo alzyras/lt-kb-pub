@@ -34,6 +34,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e33ca2338283b13f59bad2d3"
+canonical_name: "Vaičys (giminystės aiškintojas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaičys","Vaičys (giminystės aiškintojas)"]
+sameAs: []
+canonical_biography: "Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškinantis giminystės ryšius ir pasakojantis šeimos genealoginius pavyzdžius."
 ---
 # Vaičys (giminystės aiškintojas)
 

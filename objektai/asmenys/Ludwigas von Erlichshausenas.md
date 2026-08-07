@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2a13bcd3de13f6762a93a39d"
+canonical_name: "Ludwigas von Erlichshausenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ludwigas von Erlichshausenas"]
+sameAs: []
+canonical_biography: "1447 m. Biliaras kaip Kazimiero Jogailaičio pasiuntinys vyko kartu su Kauno seniūnu Petru Sakaičiu pas Vokiečių ordino didįjį magistrą Ludwigą von Erlichshauseną aiškintis dėl lietuvių patiriamo smurto Livonijoje."
 ---
 # Ludwigas von Erlichshausenas
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185460
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 49."
   citata_originali: |
     Biliaro
     dvarelis dar ne kartą įvairiomis aplinkybėmis bus minimas šaltiniuose. 1447 m. Biliaras

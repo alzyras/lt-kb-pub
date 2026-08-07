@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fcfe76997c80c986b3ece6e3"
+canonical_name: "Bodhidana"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bodhidana"]
+sameAs: []
+canonical_biography: "Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį, persikėlusį į Tibetą ir mirusį prie Sungo kalno 495 m."
 ---
 # Bodhidana
 
@@ -58,7 +65,8 @@ Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį
 - id: c-173018
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 280"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 280."
   citata_originali: |
     Šiaip žinoma,
     kad pirmasis budizmo patriarchas gimė Ceilone6; sukūręs reli­

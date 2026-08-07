@@ -74,7 +74,7 @@ Nenurodyta
 <a id="claim-t-185741"></a>
 - t-002
   teiginys: "1281 metais išlikę jotvingiai, pamatę lietuvių kariuomenę, atsimetė nuo lenkų ir prisidėjo prie lietuvių."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,7 +91,7 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir pakankamai tiksliai perteikia citatos faktą."
   pagrindžia:
-    - c-169101
+    - c-169102
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -130,7 +130,8 @@ Nenurodyta
 - id: c-169101
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 139."
   citata_originali: |
     Štai
     dabar Narimantas su Traideniu pirmą kartą susirūpino
@@ -158,12 +159,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-169102
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 139-140"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 139-140."
   citata_originali: |
     Išlikę jotvingiai, iš seno ne­
     kęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė
@@ -185,7 +186,8 @@ Nenurodyta
   citata_rodoma: "Išlikę jotvingiai, iš seno ne­\nkęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė\nlietuvių kariuomenę, jie at-\n1281 m e ta i\nsižadėjo krikščionių tikėjimo\nbei lenkų ir prisidėjo prie\nlietuvių. Vėliau, po netikėto puolimo užėmus lenkų bei\nmozūrų naująsias gyvenvietes, visas kraštas bemat pa­\nteko į lietuvių rankas, o patogiose, arčiau priešo esan­\nčiose vietose buvo įkurdintos įgulos; Bebro pakrantėje\nTraidenis įkūrė naują Raigardo sodybvietę, norėdamas,\nkad ši pilis gintų gyventojus nuo netolimų mozūrų bei\nprūsų. Atsidėkodamas už šį\nL ietu via i p a sta to  Po-\nryžtingą žygį, Narimantas vi­\nle k s ijo įe  R aigardą\nsą kraštą atidavė Traideniui."
   statusas: verified
   atnaujinta: "2026-07-13 00:09"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

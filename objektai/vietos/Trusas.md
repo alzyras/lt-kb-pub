@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d6ba8ba9ad4cf7dfcab17403"
+canonical_name: "Trusas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trusas"]
+sameAs: []
+canonical_biography: "42, 50, 61, 63, 67, 92, 376 Trusas (Drausensee) 111 Truska L."
+place_authority: true
+historical_names: []
 ---
 # Trusas
 
@@ -80,7 +89,8 @@ media_all_json: |-
 - id: c-175627
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
   citata_originali: |
     Ki­
     ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
@@ -103,9 +113,9 @@ media_all_json: |-
     - t-002
 
 - id: c-184459
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 48"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
   citata_originali: |
     Ten, sa­
     ko jis, Vysla, arba Ysla, yra didelė upis, vienoj pu­

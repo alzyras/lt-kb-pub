@@ -113,7 +113,8 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
 - id: c-11232
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 35."
   citata_originali: |
     Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo ma-
     šinomis sunaikina Piltenės pilį.
@@ -128,7 +129,8 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
 - id: c-11233
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 35."
   citata_originali: |
     „1329 m. [1330 m. kovo pradžioje] lietuvių karalius su didele kariuomene atvyko rygiečių
     kviestas prie Piltenės vyskupo pilies ir nuo jos su įvairiomis apgulimo mašinomis pradėjo
@@ -144,7 +146,8 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
 - id: c-167090
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 9."
   citata_originali: |
     Juose rasite papildomos
     informacijos apie to meto politinius, karinius įvykius, karybos
@@ -180,7 +183,8 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
 - id: c-179004
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
     daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir

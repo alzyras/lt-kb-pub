@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-985544e7afde01fd3ca5985b"
+canonical_name: "V. Grigaliūnas-Glovackis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Grigaliūnas-Glovackis"]
+sameAs: []
+canonical_biography: "Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną saugoti. Grigaliūnui-Glovackiui tą pačią dieną išsiųsti į Prienus viceministro karin. GrigaliūnoGlovackio vadovaujamas 2-asis pėstininkų pulkas ir spalio 28 d. į Baisogalą atvykęs 1-asis pėstininkų pulkas."
 ---
 # V. Grigaliūnas-Glovackis
 
@@ -135,7 +142,8 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
 - id: c-42282
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 176."
   citata_originali: |
     Vasario 3 d. Krašto
     apsaugos ministerijos štabo viršininkas
@@ -154,7 +162,8 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
 - id: c-42283
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 177."
   citata_originali: |
     Kariuomenės štabo virši-
     ninkas P. Liatukas vasario
@@ -177,7 +186,8 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
 - id: c-42285
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 199."
   citata_originali: |
     1920 m. liepa-rugsėjis AUGUSTAVO-SUVALKŲ OPERACIJA
 
@@ -203,7 +213,8 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
 - id: c-51459
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 195."
   citata_originali: |
     Į bermontininkų frontą karinė
     vadovybė nukreipė III, rv ir V artilerijos

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a903a17ac762b259240b5d4"
+canonical_name: "Ketleris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ketleris"]
+sameAs: []
+canonical_biography: "Teodoro Narbuto cituotame lotyniškame rankraštyje Kuršo kunigaikščiu vadinamas Ketleris 1605 m. rugsėjo 27 d. atvyko pagelbėti Chodkevičiui."
 ---
 # Ketleris
 
@@ -66,7 +73,8 @@ Teodoro Narbuto cituotame lotyniškame rankraštyje Kuršo kunigaikščiu vadina
 - id: c-174314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
   citata_originali: |
     278
 

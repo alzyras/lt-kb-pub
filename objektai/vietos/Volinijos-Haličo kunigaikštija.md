@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-28f02cb0868550f2782856e8"
+canonical_name: "Volinijos-Haličo kunigaikštija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Volinijos-Haličo kunigaikštija"]
+sameAs: []
+canonical_biography: "Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Haličo kunigaikštis, Levas (Danieliaus sūnus), pasikvietęs į svečius, Vaišvilką nužudė. Tas Vaišvilko bandy­ mas sujungti jauną Lietuvos valstybę su jo pamėgta Volinijos-Haličo kunigaikštija tebuvo labai trumpas."
+place_authority: true
+historical_names: []
 ---
 # Volinijos-Haličo kunigaikštija
 
@@ -76,7 +85,8 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
 - id: c-34100
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 206."
   citata_originali: |
     Vėl į savo vienuolišką gyvenimą sugrįžusį Vaiš­
     vilką greitai ištiko jo tėvo likimas. Keršydamas už valdžios Lietu­
@@ -97,7 +107,8 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
 - id: c-34101
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 206."
   citata_originali: |
     Tai buvo keistas ir iki
     Zigmanto Augusto mirties daugiau nepasikartojęs atvejas, kad Lie­

@@ -41,6 +41,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   [{"mediaId":"m-4ca8da6b63cb1b930e49437b","title":"Планы городов из Полного собрания законов Российской империи 339.jpg","caption":"Istorinis Tverės miesto planas, 1839 m.","originalTitle":"Планы городов из Полного собрания законов Российской империи 339.jpg","creator":"Собственная Его Императорского Величества Канцелярия","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.bibliophika.ru/index.php?id=232 , http://fotki.yandex.ru/users/andrew-wagin/album/113144/?p=0 , http://rutracker.org/forum/viewtopic.php?t=1774967 , http://45f.ru/albums/113144.html","dateDisplay":"1839","dateStart":null,"dateEnd":null,"width":3000,"height":2408,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg/1920px-%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8_339.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"City maps from the complete collection of laws of the Russian Empire","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files, uploaded by Andrew Butko from various sources (19th century)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Tver","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-RusEmpire","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Tverė.md","title":"Tverė","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T15:57:48.958835+03:00","reviewedAt":"2026-07-18T15:58:08.063860+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Viršuje aiškiai įskaitomas užrašas „Планъ Губернскому Городу Твери“; matomas detalus Tverės gatvių, kvartalų, upių ir įtvirtinimų planas.","metadataEvidence":"Kandidato apraše nurodytas 1839 m. Rusijos imperijos miestų planų leidinys, o deterministinis atitikmuo nurodo „Tver“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai ir aiškiai vaizduoja konkretų Tverės miestą kaip istorinį miesto planą.","isPrimary":1}]
+entity_id: "ent-457b5569da9ddbdc67f37834"
+canonical_name: "Tverė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tverė"]
+sameAs: []
+canonical_biography: "Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kunigaikščio savo dukterį. Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną. Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų."
+place_authority: true
+historical_names: []
 ---
 # Tverė
 
@@ -522,7 +531,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-43926
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 21."
   citata_originali: |
     1328 m. Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau-
     sioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą
@@ -541,7 +551,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-164268
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 174."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
@@ -569,7 +580,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-164271
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 21."
   citata_originali: |
     ## Puslapis 21
 
@@ -593,7 +605,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-164272
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 272."
   citata_originali: |
     Vieni jų ieškojo Lietuvos pagalbos, kiti rėmėsi Maskva.
     Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo
@@ -612,7 +625,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-164273
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
     ir lietuvių strigo (tuo metu Jogaila sto-
@@ -637,7 +651,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-164274
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 199."
   citata_originali: |
     Tačiau neparemti jie pralaimėjo, ir Kazi-
     mierui teko padaryti su Maskva amžinąją taiką (1449 m.), —
@@ -659,7 +674,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-164275
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 247."
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
     to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
@@ -683,7 +699,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 228."
   citata_originali: |
     Atvyko
     Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
@@ -709,7 +726,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 185."
   citata_originali: |
     Tai Vytautas gerai suprato ir todėl sten­
     gėsi, kad ir mažais patarnavimais, palenkti tiek lenkų, tiek ir
@@ -733,7 +751,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-164279
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 199."
   citata_originali: |
     Tad Maskva
     galėjo laisvai veikti. Pirmiausia ji privertė savo valdžiai pasi-
@@ -755,7 +774,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 282."
   citata_originali: |
     Palaikydamas labai gyvus politinius santykius
     su lenkais ir Ordinu, Vytautas turėjo visą laiką kreipti daug
@@ -779,7 +799,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 228."
   citata_originali: |
     Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
     čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
@@ -800,7 +821,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-164284
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 232."
   citata_originali: |
     Taigi
     klysta Kojelavičius ir Strij-
@@ -834,7 +856,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-164286
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 43."
   citata_originali: |
     Jau Algirdo viešpatavimo pradžioje Šv. Bazilijaus ordi­
     no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytės,
@@ -852,7 +875,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-164288
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 89."
   citata_originali: |
     Tuo metu, greta Maskvos, visų ga-
     lingiausia buvo Tverės kunigaikštystė. Kad ji nekliudytų, Gedi-
@@ -870,7 +894,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-164291
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 42-43"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42-43."
   citata_originali: |
     Strijkovskis ir Kojela-
     pasikrikštijo Jono vardu, priėmęs vidus klysta tvirtindami, esą Jaunu-
@@ -898,7 +923,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-168528
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 532"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 532."
   citata_originali: |
     Kai Tvėrėje ar dėl
     M a s k v o s
@@ -931,7 +957,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-175973
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 106."
   citata_originali: |
     Rinkdamas į savo valdžią
     centrinės Rusijos kunigaikštystes, jis irgi susidūrė su sustiprė-
@@ -950,7 +977,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-175974
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 184."
   citata_originali: |
     Valstybei pasidalinus pusiau,
     buvo aišku, kad ginčą turės išspręsti ginklas. Švitrigaila ne tik
@@ -972,7 +1000,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - id: c-175975
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 198."
   citata_originali: |
     Kipča-
     ko, arba vadinamosios Auksinės, Ordos chanai (iš Sarajaus)

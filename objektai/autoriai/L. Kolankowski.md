@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5f6fea96db0c5d2f80e1cc60"
+canonical_name: "L. Kolankowski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kol.","Kolankovskis","Kolankowski","Koliankovskis","L. Kolankowski"]
+sameAs: []
+canonical_biography: "L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo susietas su veikalais apie Lietuvos Didžiąją Kunigaikštystę ir Krymo problemą, o dabartinis šaltinis papildomai pateikia jį kaip 1930 m. veikalo „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ autorių ir kaip istoriką, aiškinusį diarchiją bei Horodlės uniją savaip."
 ---
 # L. Kolankowski
 
@@ -48,12 +55,11 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 <a id="claim-t-12253"></a>
 - t-001
   teiginys: "L. Kolankowski šiame šaltinyje bibliografiškai pateikiamas kaip veikalo „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ autorius."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-13916
-    - c-13917
 
 <a id="claim-t-12254"></a>
 - t-002
@@ -77,7 +83,8 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 11."
   citata_originali: |
     Kol. = Kolankowski, L., Dzieje Wielkiego Księstwa Litewskiego
     za Jagiełłonów. Tom I. 1377—1499. Skład główny-.
@@ -94,24 +101,24 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 223."
   citata_originali: |
     (^3) ) Žiūr. Kolankowski, L., Dzieje Wielkiego Księstwa Litewskiego za Ja­
     giellonów. Tom. 1. 1377—1490. Warszawa, 1930. Termino „diarchija“, kaip la­
     biau atitinkančio šiam reikalui už „dualizmą“ ir toliau laikysimės
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-13918
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 19."
   citata_originali: |
     (^1) ) Lenku istorikas Kolankovskis, tiesa, pareiškė nuomone (Kolan­
     kovski, 1, 8 p.), kad visa diarchijos sistema esanti ne susitarimo, o kaip tik
@@ -131,7 +138,8 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 - id: c-65344
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 300."
   citata_originali: |
     — Yla, St. : _Krikščionybės įvedimas Lietuvoje,_ Kaunas 1938.
     — Kolankowski, L. : _Dzieje Wielkiego Księstwa Litewskiego za Ja­
@@ -146,7 +154,8 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 - id: c-65345
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 330"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 330."
   citata_originali: |
     Kolankowski, L.: _Problem Krymu
     w dziejach jagiellońskich,_ KH, t. 49, 1935., 279-300 p. — Koneczny,

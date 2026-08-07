@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09077a45c675d263f53df203"
+canonical_name: "Pasijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pasijus"]
+sameAs: []
+canonical_biography: "Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu."
 ---
 # Pasijus
 
@@ -55,7 +62,8 @@ Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėj
 - id: c-174335
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 66."
   citata_originali: |
     Tai, kad tie asai, arba osetinai, priklauso tai
     pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė

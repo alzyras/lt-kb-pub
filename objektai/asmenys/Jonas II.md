@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6713767bcf759dad62e0ae4b"
+canonical_name: "Jonas II"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas II"]
+sameAs: []
+canonical_biography: "Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o 1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40 metų, 1538 m."
 ---
 # Jonas II
 
@@ -64,7 +71,8 @@ Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519
 - id: c-83697
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 208."
   citata_originali: |
     Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
     ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino

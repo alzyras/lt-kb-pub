@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-172620
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 132."
   citata_originali: |
     Gėlės Lietuvoje, kaip
     kadaise pas graikus ir romėnus, buvo ypatinga švenčių ir puo­

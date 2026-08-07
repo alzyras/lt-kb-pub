@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2f75de3ad9451658e0aff9a5"
+canonical_name: "Mažoji Podolė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mažoji Podolė"]
+sameAs: []
+canonical_biography: "Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp. Pietinių žemių (Kijevo, Mažosios Podolės ir kt.) išėmimas iš tiesioginės Aukso ordos valdžios vietiniams rusėnams, kaimyninėms Rytų Europos šalims (Lenkijai, iš dalies Moldavijai, Vengrijai) sudarė saugesnę padėtį rytuose."
+place_authority: true
+historical_names: []
 ---
 # Mažoji Podolė
 
@@ -85,7 +94,8 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
 - id: c-76751
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 47."
   citata_originali: |
     Tai buvo
     pirmas Rytų Europoje toks didelis įsiverži-
@@ -114,7 +124,8 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
 - id: c-76752
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 47."
   citata_originali: |
     Algirdo remiami Karijotaičiai,
     įsitvirtinę Mažojoje Podolėje, vietiniams
@@ -141,7 +152,8 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
 - id: c-76753
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 47."
   citata_originali: |
     Mūšio padariniai
 

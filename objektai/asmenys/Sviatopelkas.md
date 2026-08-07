@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4e16bace31899f1d7abdd229"
+canonical_name: "Sviatopelkas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sviatopelkas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų Prūsijos provincijų gyventojų kovas su kryžiuočiais. Kaip drąsiai Sviatopelkas kalbėjo, taip smurtai darė, kaipogi kariavo kryžėjus ant vandens ir že mės, grobį griedamas ir jų turtus drevėdamas. Tok sai darbas Sviatopelko drąsino dar didesniai lietu vius, kurie, norėdami būtinai nuveikti kryžeivius vokyčius, Sviatopelką paskyrė sau už karvedį."
 ---
 # Sviatopelkas
 
@@ -112,7 +119,8 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
 - id: c-173096
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
   citata_originali: |
     Moteris, suviliota
     šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
@@ -132,9 +140,9 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
     - t-001
 
 - id: c-184379
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 313"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 313."
   citata_originali: |
     Kaip drąsiai Sviatopelkas kalbėjo, taip smurtai
     darė, kaipogi kariavo kryžėjus ant vandens ir že­
@@ -155,9 +163,9 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
     - t-002
 
 - id: c-184380
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 313"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 313."
   citata_originali: |
     Tok­
     sai darbas Sviatopelko drąsino dar didesniai lietu­
@@ -179,9 +187,9 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
     - t-003
 
 - id: c-184381
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 314"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 314."
   citata_originali: |
     Barboros, sidabru aptaisytą,
     į Kulmiją parvirdė.
@@ -201,9 +209,9 @@ Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų 
     - t-004
 
 - id: c-184382
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 335"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 335."
   citata_originali: |
     Patsai rėdytojas
     kryžėjų ir kalavijonų Griuningenas iškeliavo į Teu-

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fe06f2e0ae26a5bcf6d03f2d"
+canonical_name: "Filimeras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Filimeras"]
+sameAs: []
+canonical_biography: "Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, išėjusiomis į rytus valdant Filimerui arba kiek vėliau. Narbuto aiškinimu, Filimero žygio kryptį rodo spalių kelias nuo Azovo jūros į Vakarų šalis ir vėlesnis jų judėjimas su gotais. Narbuto pasakojime kvadai, svebai, markomanai ir kitos gotų kartos daugelį metų traukė į Rytus paskui Filimerą per lietuvių tautų žemes ar jų pakraščiais."
 ---
 # Filimeras
 
@@ -97,7 +104,8 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
 - id: c-173032
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Galbūt neįsižeis slavų seno­
     vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
@@ -124,7 +132,8 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
 - id: c-173736
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
   citata_originali: |
     Apie šią tautą senovės ty­
     rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
@@ -147,7 +156,8 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
 - id: c-173737
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 86."
   citata_originali: |
     Gerai žinoma gotų ir jų kraštiečių iš Skandinavijos įtaka
     minėtoms tautoms, — tai ne sykį įrodysime šiame vei­

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b314eaff85500eae572cb07d"
+canonical_name: "Gargždai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gargždai"]
+sameAs: []
+canonical_biography: "Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. sušaudė tik žydus (vyrus) 25 km ruože Lietuvos ir Vokietijos pasienyje, Gargžduose – 201 žydą, kitą dieną Kretingoje – 214, birželio 27-ąją Palangoje 111 žydų, žudė juos ir kitose vietose."
+place_authority: true
+historical_names: []
 ---
 # Gargždai
 
@@ -38,7 +47,8 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
 - id: c-24128
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 199."
   citata_originali: |
     pereinamojo laikotarpio. Specialiosios SD grupės (Tilžės gestapo būrys)
     1941 m. birželio 24 d. sušaudė tik žydus (vyrus) 25 km ruože Lietuvos ir

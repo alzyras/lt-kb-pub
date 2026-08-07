@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2edc60bdd64b92392d30cedc"
+canonical_name: "Lietuvos Brasta"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lietuvos Brasta"]
+sameAs: []
+canonical_biography: "1435 m. gruodžio 31 d. sudaryta Bresto (Kujavy) taika tarp Lenkijos karaliaus Vladislovo Jogailaičio, Lietuvos didžiojo kunigaikščio Žygimanto Kęstutaičio ir Vokiečių-kryžiuočių ordino didžiojo magistro Rusdorfo, atstovaujančio Ordino žemėms Prūsijoje. Švedijos kariuomenė siaubė ir alino okupuotą 1657 m. švedų apsiaustą Lietuvos Brastą vaizduojanti Švedijos kariuomenės kartografo Eriko Dalbergo graviūra Urbs et Castellum Brestzie Litewski a S.R.M. Vienas paskutinių svarbių gynybos taškų liko Lietuvos Brastos miestas, prie kurio nutarta pabandyti sustabdyti Rusijos kariuomenės veržimąsi į vakarus."
+place_authority: true
+historical_names: []
 ---
 # Lietuvos Brasta
 
@@ -149,7 +158,8 @@ media_all_json: |-
 - id: c-43585
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 128."
   citata_originali: |
     Švedijos kariuomenė siaubė ir alino okupuotą
 
@@ -169,7 +179,8 @@ media_all_json: |-
 - id: c-43586
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 145."
   citata_originali: |
     Po šių nesėkmių Rusija
     kontroliavo beveik visą LDK
@@ -190,7 +201,8 @@ media_all_json: |-
 - id: c-43588
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 149."
   citata_originali: |
     Mūšio padariniai
 
@@ -210,7 +222,8 @@ media_all_json: |-
 - id: c-76604
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 71."
   citata_originali: |
     1435 m. gruodžio 31 d. sudaryta Bresto
     (Kujavy) taika tarp Lenkijos karaliaus
@@ -234,7 +247,8 @@ media_all_json: |-
 - id: c-76605
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
     ir lietuvių strigo (tuo metu Jogaila sto-

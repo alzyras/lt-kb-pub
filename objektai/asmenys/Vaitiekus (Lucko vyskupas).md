@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-62984d4237f636917d053110"
+canonical_name: "Vaitiekus (Lucko vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vaitiekus (Lucko vyskupas)"]
+sameAs: []
+canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­ vo ir vyko Melnike pirmadienį prieš Tris Karalius metais nuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­ siam Kristuje tėvui ir ponui Vaitiekui, Dievo malone."
 ---
 # Vaitiekus (Lucko vyskupas)
 
@@ -76,7 +83,8 @@ media_all_json: |-
 - id: c-83910
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 215-216"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 215-216."
   citata_originali: |
     Prie liudytojų, tuo metu su mumis buvusių:
     su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba
@@ -122,9 +130,9 @@ media_all_json: |-
     - t-001
 
 - id: c-184894
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 251"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 251."
   citata_originali: |
     1550 m. Kauno pirklys Se-
     verinas Berkmanas skundė Vaitiekų, kurį buvo pasamdęs metams dirbti laivavedžiu už

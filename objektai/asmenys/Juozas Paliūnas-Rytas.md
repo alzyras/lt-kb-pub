@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-55360b5e0aceeee352ab200f"
+canonical_name: "Juozas Paliūnas-Rytas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozas Paliūnas-Rytas"]
+sameAs: []
+canonical_biography: "Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas MorkūnasRimantas, pavaduotoju - Maironio rinktinės vadas Juozas Paliūnas-Rytas."
 ---
 # Juozas Paliūnas-Rytas
 
@@ -80,7 +87,8 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
 - id: c-44393
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 244."
   citata_originali: |
     Rusų nuostoliai nežinomi. Apygradoje
     prasidėjo reorganizacija: Prisikėlimo
@@ -101,7 +109,8 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
 - id: c-167134
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 244."
   citata_originali: |
     Žuvo LLKS tarybos pre-
     zidiumo nariai Petras Bartkus-Žadgaila

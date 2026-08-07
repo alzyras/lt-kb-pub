@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dc4b1b2ff104c6e90b4574a5"
+canonical_name: "Janas Filipovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Janas Filipovičius"]
+sameAs: []
+canonical_biography: "Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas; Lietuvos Metrikos archyvo sąraše jis minimas pardavęs karalienei Elenai sklypą Vilniaus pilyje."
 ---
 # Janas Filipovičius
 
@@ -51,7 +58,8 @@ Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas; Lietuvos Me
 - id: c-83678
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 249."
   citata_originali: |
     Bet, kai totoriai didele
     *

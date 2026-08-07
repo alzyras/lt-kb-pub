@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-294a09fc4ff162abd384f44d"
+canonical_name: "Antanas Hlebovičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Antanas Hlebovičius"]
+sameAs: []
+canonical_biography: "Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip Onacevičiaus pastabose nurodytą šaltinį svarstant senųjų Lietuvos kronikų patikimumą."
 ---
 # Antanas Hlebovičius
 
@@ -53,7 +60,8 @@ Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip Onacevičiaus pastabose
 - id: c-175307
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Todėl vieni tiesiog
     priimdavo kronikininkų geriau išdėstytas išvadas apie

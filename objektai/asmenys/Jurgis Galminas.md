@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2f38004a89e25be9ddc82d5c"
+canonical_name: "Jurgis Galminas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Galminas"]
+sameAs: []
+canonical_biography: "Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekretorius lenkas Mikalojus Sepienskis."
 ---
 # Jurgis Galminas
 
@@ -59,7 +66,8 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
 - id: c-28929
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 357."
   citata_originali: |
     Vytautas (1415.
     XI.) atsiuntė į Konstancą 60 jau pakrikštytų Žemaičių bajorų.

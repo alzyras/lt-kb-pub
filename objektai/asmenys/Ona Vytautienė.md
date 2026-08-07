@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-618f7367d0a2fe8042c74316"
+canonical_name: "Ona Vytautienė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Didžiajai Kunigaikštienei Vytautienei","kun. Ona","Ona","Ona Vytautienė","Onai","Onos","Oną","Vytautienei"]
+sameAs: []
+canonical_biography: "Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių stačiatikė, vėliau uoli katalikė; ji dalyvavo svarbiose sutartyse ir laidavo, kad Vytautas laikysis susitarimų."
 ---
 # Ona Vytautienė
 
@@ -77,7 +84,8 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - id: c-165129
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 54."
   citata_originali: |
     To garbingo karžygio palaikai Skir­
     gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-53454e31626dbe52691ef2b8"
+canonical_name: "Mantvila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mantvila"]
+sameAs: []
+canonical_biography: "Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės valdymo paliko ją valdyti savo sūnui Mantvilai. Lietuvos metraštis pasakoja, kad Mantvila, sužinojęs apie ištuštėjusią Rusų šalį, pavedė kariuomenę savo sūnui Erdvilai. Neilgai buvus Mantvila, kunigaikštis Žemaičių, sukėlęs kareivius žemaičių ir lietuvių, traukė vėl į Baltuosius Gudus."
 ---
 # Mantvila
 
@@ -111,7 +118,8 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
 - id: c-176727
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 43"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 43."
   citata_originali: |
     Ir jis sušaukė ka­
     rius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­
@@ -134,9 +142,9 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
     - t-001
 
 - id: c-184362
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 167"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 167."
   citata_originali: |
     Lietuviai ir žemaičiai vėl, norėdami atmonyti H98
     Jaroslavui teriones žemgalių, patelkę dar Polocko

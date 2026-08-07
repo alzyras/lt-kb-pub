@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f2c25a1bb16e4521d1512b86"
+canonical_name: "Aukštasis krantas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Aukštasis krantas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Aukštasis krantas
 

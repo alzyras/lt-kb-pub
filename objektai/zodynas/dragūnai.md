@@ -70,7 +70,8 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 - id: c-40515
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 125."
   citata_originali: |
     Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstinin-
     kai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti. Žygiuodami
@@ -88,7 +89,8 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 - id: c-40516
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 125."
   citata_originali: |
     Dragūnus buvo
     galima naudoti ir kaip kavaleriją, tačiau mažiau efektyvią. Pirmą
@@ -106,7 +108,8 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 - id: c-167095
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 125."
   citata_originali: |
     Regimentą sudarė kompanijos (kuopos), kurios dalijosi į vienetus
     po 5 žmones, kuriem, vadovavo kapralai.

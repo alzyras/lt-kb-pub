@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0445c9bb0cf9fc790a9d8c7b"
+canonical_name: "Ilfing (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ilfing","Ilfing (vieta)"]
+sameAs: []
+canonical_biography: "Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaičių jūrą, ant jos skardžio yra preky bos vietovė, vadinama Trusas, į kurią atkeliavęs 7 naktimis irkluodamas dieną ir naktį."
+place_authority: true
+historical_names: []
 ---
 # Ilfing (vieta)
 
@@ -46,9 +55,9 @@ Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaič
 ## Citatos
 
 - id: c-184516
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 48"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
   citata_originali: |
     Ten, sa­
     ko jis, Vysla, arba Ysla, yra didelė upis, vienoj pu­

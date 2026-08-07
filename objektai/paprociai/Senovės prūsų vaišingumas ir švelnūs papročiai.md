@@ -73,7 +73,8 @@ Nenurodyta
 - id: c-174962
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 264."
   citata_originali: |
     Tai viena gražiausių prūsų provincijų,
     esanti palankioje vietoje, tinkamoje gyvulininkystei, jai
@@ -96,7 +97,8 @@ Nenurodyta
 - id: c-175302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 264."
   citata_originali: |
     Rytuose ji ribojosi su Natangija ir Barta, pietuose — su
     Galinda ir Hokerlandija, vakaruose — su Hokerlandija

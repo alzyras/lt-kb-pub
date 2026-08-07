@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-98d1ba0f4a64eedc91a61f60"
+canonical_name: "Norvegija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Norvegija","Norvegijos"]
+sameAs: []
+canonical_biography: "Norvegija šiame šaltinyje minima kaip viena Augusto Roberto Niemio darbo vietų 1899 metais."
+place_authority: true
+historical_names: []
 ---
 # Norvegija
 
@@ -107,9 +116,9 @@ Norvegija šiame šaltinyje yra valstybė.
     - t-001
 
 - id: c-184442
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 27"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 27."
   citata_originali: |
     Nukeliavęs į vietovę, Kantium (Kanterbury) va­
     dinamą, aplankė vieną dalį Anglijos, nuo ten irkla­

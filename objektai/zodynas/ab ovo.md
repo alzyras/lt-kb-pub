@@ -143,7 +143,8 @@ Vartojama kaip termininis posakis apie pradėjimą nuo ištakų ar pradinio taš
 - id: c-175110
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 448"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 448."
   citata_originali: |
     anonimas rašė: „Autorius, norėdamas ab ovo nustatyti
     Lietuvos lizdą, privalo pereiti visą tos tautų migracijos,
@@ -162,7 +163,8 @@ Vartojama kaip termininis posakis apie pradėjimą nuo ištakų ar pradinio taš
 - id: c-175111
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 439"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 439."
   citata_originali: |
     Mano uždavinys, kaip galima spręsti iš „Mitologijos“, yra
     atskleisti praeities įvykių esmę, pradedant tautos kilmės

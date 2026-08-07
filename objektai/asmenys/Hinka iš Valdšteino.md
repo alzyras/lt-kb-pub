@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4ca8636f7e239e864b65ebb"
+canonical_name: "Hinka iš Valdšteino"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hinka iš Valdšteino"]
+sameAs: []
+canonical_biography: "Čekai, nenustoję vilties, vėl išsiuntė savo pasiuntinį Hinką iš Valdšteino, kurį Jogaila su Vytautu priėmė 1421 m. Pirmiausia pasiuntinys pasiūlė karūną Jogai­ lai, kuris atsakė, kad tuo reikalu sušauksiąs Liubline seimą."
 ---
 # Hinka iš Valdšteino
 
@@ -62,7 +69,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 153."
   citata_originali: |
     Čekai, nenustoję vilties, vėl išsiuntė
     savo pasiuntinį Hinką iš Valdšteino, kurį Jogaila su Vytautu

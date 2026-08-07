@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-20190fcde8261b8ac20813b7"
+canonical_name: "Andrius Vasila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Vasila"]
+sameAs: []
+canonical_biography: "Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakėlė Vytautą ir jo žmoną Oną į sostą."
 ---
 # Andrius Vasila
 
@@ -53,7 +60,8 @@ Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakė
 - id: c-169456
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 330"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 330."
   citata_originali: |
     Tai buvo karštos prigim­
     ties, be galo veiklus vyras;

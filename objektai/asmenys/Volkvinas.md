@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ffc14260138dbf252388c91"
+canonical_name: "Volkvinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Volkvinas"]
+sameAs: []
+canonical_biography: "„Po daugelio garsių ir laimingų kovų su netikėliais magistras Volkvinas su kariuomene žygiavo į netikėlių lietuvių kraštą kartu su Haseldorpo ir ponu Donnenbergo grafu, ir ten Saulės žemėje (terram Sauleorum) šv."
 ---
 # Volkvinas
 
@@ -70,7 +77,8 @@ media_all_json: |-
 - id: c-41480
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 25."
   citata_originali: |
     „Po daugelio garsių ir laimingų kovų su netikėliais magistras Volkvinas su kariuomene
     žygiavo į netikėlių lietuvių kraštą kartu su Haseldorpo ir ponu Donnenbergo grafu, ir
@@ -90,7 +98,8 @@ media_all_json: |-
 - id: c-167158
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 25."
   citata_originali: |
     Saulės mūšį ir jo
     pasekmes Kalavijuočių ordinui.

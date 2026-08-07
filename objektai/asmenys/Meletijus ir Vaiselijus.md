@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3096c5935f886e81346987de"
+canonical_name: "Meletijus ir Vaiselijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Meletijus ir Vaiselijus"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros."
 ---
 # Meletijus ir Vaiselijus
 
@@ -53,7 +60,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o
 - id: c-173067
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
   citata_originali: |
     103
 

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87555cb6c86d998b3f577b37"
+canonical_name: "Peitzner, J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Peitzner, J"]
+sameAs: []
+canonical_biography: "Hruševskoho, I, 1928, Kijiv, 165-168 p. — Peitzner, J."
 ---
 # Peitzner, J
 
@@ -59,7 +66,8 @@ Hruševskoho, I, 1928, Kijiv, 165-168 p. — Peitzner, J.
 - id: c-33103
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 331"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 331."
   citata_originali: |
     — Petkun’, P. : _Schidnia meža Ve-
     lykoho Knjazistva Lytovskoho v 30-ach rokach XV storiččja,_ Juvilejnyj

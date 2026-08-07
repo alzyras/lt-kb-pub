@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42ae1c2b71b3adc20cb8e646"
+canonical_name: "Šventasis Severinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šventasis Severinas"]
+sameAs: []
+canonical_biography: "Narbuto cituotame pasakojime šv. Severinas atpažino persirengusį Odoakrą ir išpranašavo, kad šis taps karaliumi. Severino šventumą, iš smalsumo aplankė jį kartu su savo riteriais."
 ---
 # Šventasis Severinas
 
@@ -66,7 +73,8 @@ Narbuto cituotame pasakojime šv. Severinas atpažino persirengusį Odoakrą ir 
 - id: c-174377
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
   citata_originali: |
     Severino šventumą,
     iš smalsumo aplankė jį kartu su savo riteriais. Norėda­

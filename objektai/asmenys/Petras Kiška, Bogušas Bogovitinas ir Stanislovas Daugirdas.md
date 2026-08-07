@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9765e528fe04039e5e553024"
+canonical_name: "Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas"]
+sameAs: []
+canonical_biography: "Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų."
 ---
 # Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas
 
@@ -54,7 +61,8 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
 - id: c-169517
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 647-648"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 647-648."
   citata_originali: |
     Vasilijus pri­
     mygtinai reikalavo, kad ka­

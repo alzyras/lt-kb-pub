@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-128b5b1d1b2081d9d6c7899d"
+canonical_name: "P. Tarasenka"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. Tarasenka"]
+sameAs: []
+canonical_biography: "Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L."
 ---
 # P. Tarasenka
 
@@ -71,7 +78,8 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 - id: c-70102
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 120."
   citata_originali: |
     Įvadas_ , Karys, 1975, 83-87 p.
     — Sadauskaitė, I. : _XII-XI1I amžių pirklio kapas Sargėnuose_ , AkMD,
@@ -97,7 +105,8 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 - id: c-70106
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 120."
   citata_originali: |
     1, 1970, 113-133 p.
     — (”) _Kalavijų ir ietigalių gamybos technologija Lietuvoje IX-XIII am­
@@ -114,9 +123,9 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - id: c-184845
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 44"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 44."
   citata_originali: |
     Vytauto privilegijos Kaunui publikacija); Tarasenka Petras. Kauno
     pilies gynimas 1362 m. Kraštotyra, Vilnius, 1963, p. 98-105; Vytautas Didysis.

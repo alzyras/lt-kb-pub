@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-347f7359fc05872ffe8ace5e"
+canonical_name: "J. Voigtas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Voigtas"]
+sameAs: []
+canonical_biography: "Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos padėtį kaimyninių kraštų atžvilgiu. Taip pat ties pie tiniu šio ežero sąsiauriu yra miestelis Anger, nusidrie- 1 Voigt."
 ---
 # J. Voigtas
 
@@ -67,7 +74,8 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
 - id: c-174766
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
   citata_originali: |
     Siame gana aiš­
     kiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad
@@ -88,7 +96,8 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
 - id: c-177276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Taip pat ties pie­
     tiniu šio ežero sąsiauriu yra miestelis Anger, nusidrie-

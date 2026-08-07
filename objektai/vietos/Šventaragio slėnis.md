@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-480c5a927397da4bb0b6e1be"
+canonical_name: "Šventaragio slėnis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šventaragio slėnis"]
+sameAs: []
+canonical_biography: "Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio ir Kojelavičiaus, Gediminas po Trakų pilies įkūrimo medžiojo Šventaragio slėnyje. Tai buvo Šventaragio slėny prie pat pilies kalno."
+place_authority: true
+historical_names: []
 ---
 # Šventaragio slėnis
 
@@ -315,7 +324,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 118."
   citata_originali: |
     Katedra, kaipo būsianti vyriausia Lietuvos bažny­
     čia, kad pabrėžtų seno lietuvių tikėjimo pakeitimą naujuoju,
@@ -334,7 +344,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
 - id: c-110178
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 34."
   citata_originali: |
     Ją saugojo ir kurstė žyniai, o jų vy­
     riausiasis Krivių Krivaitis buvo pranašas, o Lietuvos kūri­
@@ -363,7 +374,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
 - id: c-110180
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 412"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 412."
   citata_originali: |
     97, 101, 106, 148
     Šušvė 127, 332
@@ -389,7 +401,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
 - id: c-110181
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 34."
   citata_originali: |
     Čia buvo
     pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten
@@ -416,7 +429,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
 - id: c-110182
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 123."
   citata_originali: |
     Reikš­
     mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
@@ -437,7 +451,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
 - id: c-110183
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 123."
   citata_originali: |
     O pilies kalno pietų
     pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
@@ -459,7 +474,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
 - id: c-110186
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 251."
   citata_originali: |
     Gražia legenda yra apipintas Vilniuje valstybės sostinės
     įkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­
@@ -480,7 +496,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
 - id: c-110188
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 67."
   citata_originali: |
     Taigi ta vietovė, žinia, jei ji buvo parinkta to­
     kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
@@ -510,7 +527,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
 - id: c-110189
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64-65"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64-65."
   citata_originali: |
     48
 
@@ -551,7 +569,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
 - id: c-110191
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 35."
   citata_originali: |
     Many­
     čiau, kad Šventaragiu buvo vadina­
@@ -584,7 +603,8 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
 - id: c-178898
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 203."
   citata_originali: |
     Po to, dar geresnių ženklų paskatintas, Neries
     ir Vilnios santakoje padėjo pamatus kitam miestui. Ne­

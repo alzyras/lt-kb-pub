@@ -175,9 +175,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - id: c-184293
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 83"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 83."
   citata_originali: |
     Susirinkę į gėrynes, visų pirma savo dievus pa­
     garbino, kaipogi nė vienas pirma negėrė iki nenu-

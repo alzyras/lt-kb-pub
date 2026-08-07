@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-625c6c54e16054b102dfff30"
+canonical_name: "Vilkija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilkija"]
+sameAs: []
+canonical_biography: "73 Vilhelmas Habsburgas 281, 284- 286, 289 Vilhelmas Morenietis 166, 167, 180 Vilhelmas, Olandijos grafas 249 Vilija (Neris) 156 Vilikaila 162 Vilkaviškis 112 Vilkija 216 Vilkų Kampo kaimas 109 Vilnelė, upė 110, 244 Vilkolevičius, bajoras 368 Vilnius 5, 6."
+place_authority: true
+historical_names: []
 ---
 # Vilkija
 
@@ -211,7 +220,8 @@ media_all_json: |-
 - id: c-39988
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 241."
   citata_originali: |
     Kazimieraicio * : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES
     ) Leipalingis Armoniskis e OVolozynas Š 2 = AS ie
@@ -231,7 +241,8 @@ media_all_json: |-
 - id: c-171738
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
   citata_originali: |
     Man pasisekė toks tyrimas. Kairiajame Nemuno krante,
     tarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­
@@ -250,7 +261,8 @@ media_all_json: |-
 - id: c-171739
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
   citata_originali: |
     Senė, vadinama Upine, tomis apei­
     gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
@@ -268,7 +280,8 @@ media_all_json: |-
 - id: c-175542
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 327."
   citata_originali: |
     Sis didelis kraštas kiek vėliau buvo vadinamas Vilkija;
     lietuvių kalba reiškia didelį. Vyskupas Enodijus liudija,
@@ -289,7 +302,8 @@ media_all_json: |-
 - id: c-175543
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 328"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 328."
   citata_originali: |
     Veltui kai kurie istorijos tyrinėtojai šį pavadini­
     mą kildina iš slavų žodžio Wilk, nes lotynų kronikose

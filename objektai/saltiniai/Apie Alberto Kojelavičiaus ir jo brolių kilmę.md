@@ -30,12 +30,16 @@ media_all_json: |-
 
 Straipsnis „Apie Alberto Kojelavičiaus ir jo brolių kilmę“ yra anksčiau skelbto straipsnio atnaujintas ir papildytas variantas.
 
+## Santrauka
+
+Straipsnis „Apie Alberto Kojelavičiaus ir jo brolių kilmę“ yra anksčiau skelbto straipsnio atnaujintas ir papildytas variantas.
+
 ## Teiginiai
 
 <a id="claim-t-202395"></a>
 - t-001
   teiginys: "Straipsnis „Apie Alberto Kojelavičiaus ir jo brolių kilmę“ yra anksčiau skelbto straipsnio atnaujintas ir papildytas variantas."
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:30"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,11 +52,12 @@ Straipsnis „Apie Alberto Kojelavičiaus ir jo brolių kilmę“ yra anksčiau 
 ## Citatos
 
 - id: c-185742
+  autorius: "Zigmantas Kiaupa"
   šaltinis: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)"
   puslapiai: "PDF 1"
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 1."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-19 12:22"
+  atnaujinta: "2026-07-26 21:24"
   pagrindzia:
     - t-001

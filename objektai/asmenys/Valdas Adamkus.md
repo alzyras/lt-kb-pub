@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-adda6c3333182a0494e3c495"
+canonical_name: "Valdas Adamkus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Valdas Adamkus"]
+sameAs: []
+canonical_biography: "Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Adamkus, ir po 2000 m. Seimo rinkimų, kuriuose nė vienai partijai nepavyko pasiekti įtikinamos pergalės, todėl atėjo nauja koalicinių vyriausybių era. Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos saugumo aplinkoje“ metu Lietuvos Respublikos prezidentas Valdas Adamkus ir NATO Generalinis sekretorius Džordžas Robertsonas 2000 m. gegužės 19 d."
 ---
 # Valdas Adamkus
 
@@ -81,7 +88,8 @@ Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Ad
 - id: c-22046
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 250."
   citata_originali: |
     Per 1992 m. rinkimus į Sei-
     mą A. Brazausko vadovaujama LDDP gavo daugumą, o po ketverių metų
@@ -102,7 +110,8 @@ Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Ad
 - id: c-65022
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 259-260"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 259-260."
   citata_originali: |
     Bušas taip pat
     priminė, kad JAV niekada nepripažino Lietuvos okupacijos ir visada

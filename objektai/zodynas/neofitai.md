@@ -78,7 +78,8 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
 - id: c-104850
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 241-242"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 241-242."
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
     tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­
@@ -135,7 +136,8 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 285"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 285."
   citata_originali: |
     Naujai įėjusią į vakarų Europos tautų šeimą Lietuvą tik
     iš tolo tepaliečia jaudinančios visuomenę problemos. Pats svar­

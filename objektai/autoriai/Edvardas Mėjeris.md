@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b160c0a729a6387cc896702c"
+canonical_name: "Edvardas Mėjeris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Edvardas Mėjeris"]
+sameAs: []
+canonical_biography: "T. Narbutas lyginamąją mitologinę medžiagą ėmė ir iš Edvardo Mėjerio mitologinio žodyno."
 ---
 # Edvardas Mėjeris
 
@@ -53,7 +60,8 @@ T. Narbutas lyginamąją mitologinę medžiagą ėmė ir iš Edvardo Mėjerio mi
 - id: c-173208
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 25."
   citata_originali: |
     Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
     ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­

@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c83d49175425a0ead1974cdf"
+canonical_name: "Krakės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krakes","Krakių","Krakės","Krakėse","į Krakes"]
+sameAs: []
+canonical_biography: "Krakės minimos kaip vieta, iš kurios parvežama žinia apie krautuvėse atsiradusią geležį."
+place_authority: true
+historical_names: []
 ---
 # Krakės
 

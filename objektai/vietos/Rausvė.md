@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4d6e4075500c0003ef76e81"
+canonical_name: "Rausvė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rausvė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romene rytų Nadruvoje, į pietus nuo Pilkalnio (Тоерреn M., HCGP, p. 26—27 ir žemėlapis). Dusburgietis teigia, kad kita vertus, jis galvojo, jog ji galėjusi būti ir prie mūsų jau minėtos Rausvės (Мержинский А."
+place_authority: true
+historical_names: []
 ---
 # Rausvė
 
@@ -76,7 +85,8 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
 - id: c-59248
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
   citata_originali: |
     Ieškodamas centrinės baltų Romovės resp. Romuvos Nadruvoje, M. Pretorijus (1664—
     1684 m. gyvenęs Nibudžiuose, į šiaurės rytus nuo Gumbinės) rašęs, kad, jo nuomone,
@@ -96,7 +106,8 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
 - id: c-59249
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 64-65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64-65."
   citata_originali: |
     Mėginta
     sieti Priegliaus kair. intako Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen

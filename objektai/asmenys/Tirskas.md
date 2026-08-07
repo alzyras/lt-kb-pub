@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-79f2f6ac0a70c2d07aaa139c"
+canonical_name: "Tirskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tirskas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330 bei jo sūnų Maudelį331 su daugybe ginklanešių. Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies paėmimą Kadangi tas pats Tirskas gerai žinojo kelius į gretimas žemes, Karaliaučiaus komtūras 3-ame dešimtmetyje čia, greta naujosios pilies, buvo pastatyti banko rūmai (Gaerte W., Die. Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su visomis savo šeimynomis ir, krikšto."
 ---
 # Tirskas
 
@@ -96,7 +103,8 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
 - id: c-60699
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107."
   citata_originali: |
     Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
     bei jo sūnų Maudelį331 su daugybe ginklanešių. Vis dėlto štai kokios nuostabios esama
@@ -116,7 +124,8 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
 - id: c-60700
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 107-108"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107-108."
   citata_originali: |
     Apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies
                                   paėmimą
@@ -157,7 +166,8 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
 - id: c-60701
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
     1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,

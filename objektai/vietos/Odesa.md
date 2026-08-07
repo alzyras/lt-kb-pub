@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dcc0ff5c5e312ab5c399622b"
+canonical_name: "Odesa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Odesa"]
+sameAs: []
+canonical_biography: "Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV."
+place_authority: true
+historical_names: []
 ---
 # Odesa
 
@@ -58,7 +67,8 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
 - id: c-32300
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 93."
   citata_originali: |
     Jeigu patys šaltiniai, daugumoje
     paimti iš Vilniaus centrinio archyvo, buvo naudingi Lietuvos isto­

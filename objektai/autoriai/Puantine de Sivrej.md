@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cff9e7fe18e39101ae5378ff"
+canonical_name: "Puantine de Sivrej"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Puantine de Sivrej"]
+sameAs: []
+canonical_biography: "Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės rojų lokalizavo Ispanijoje prie Tago, netoli Sevilijos."
 ---
 # Puantine de Sivrej
 
@@ -53,7 +60,8 @@ Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės roj
 - id: c-174566
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
   citata_originali: |
     Pagal tas pačias taisykles
     Kur de Zebelen (Court de Gebelins) savo „Monde pri­

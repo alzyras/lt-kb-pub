@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-463cb52cff5d9dc59836c23e"
+canonical_name: "Sudervėlė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sudervėlė"]
+sameAs: []
+canonical_biography: "To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuočių kapavietė, prie Sudervėlės upe­ lio; apie pastarąjį mūšį užsimena Strijkovskis."
+place_authority: true
+historical_names: []
 ---
 # Sudervėlė
 
@@ -52,7 +61,8 @@ To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuoči
 - id: c-82219
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 68."
   citata_originali: |
     Nuo neat­
     menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­

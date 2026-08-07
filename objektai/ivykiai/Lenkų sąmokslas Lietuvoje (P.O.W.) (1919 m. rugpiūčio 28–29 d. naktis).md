@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-66855
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 572"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 572."
   citata_originali: |
     Visą Lietuvą apipynusi sąmokslininkų tinklu, P.O.W. organi-
     zacija ruošėsi sukilimui; tam tikslui ypač stengėsi patraukti savo
@@ -98,7 +99,8 @@ Nenurodyta
 - id: c-66856
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 572"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 572."
   citata_originali: |
     Bet visas planas aitais
     išėjo. Mūsų saugumo organai susekė sąmokslininkus, tą pačią
@@ -118,7 +120,8 @@ Nenurodyta
 - id: c-66858
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 572"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 572."
   citata_originali: |
     Tik vienur
     kitur tebuvo nupiauti telefono ir telegrafo laidai. Kol saugumo

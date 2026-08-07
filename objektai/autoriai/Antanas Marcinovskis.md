@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b7e65fbd5210c93fdb6bf822"
+canonical_name: "Antanas Marcinovskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Marcinovskio","A. Marcinovskis","A. Marcinowskicgo","Antanas Marcinovskis","Antanui Marcinovskiui","Marcinovskis","Marcinowski A."]
+sameAs: []
+canonical_biography: "Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve ir T. Narbuto „Lietuvių tautos istorijos“ leidyba. Įvado autorė jį apibūdina kaip literatą, redaktorių, spaustuvės savininką ir leidėją, o Narbutas jį vadina „Kurjer Litewski“ redaktoriumi ir savo veikalų leidėju."
 ---
 # Antanas Marcinovskis
 
@@ -51,20 +58,27 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 <a id="claim-t-187935"></a>
 - t-001
   teiginys: "1835 m. Vilniuje pirmasis „Dzieje starożytne narodu Litewskiego“ tomas išėjo A. Marcinovskio lėšomis ir spaustuvėje."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "gap::authors::validation_repair"
   teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Marcinovskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Marcinovskis\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   temporaliniai_duomenys: "įvykio data: 1835 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai remiasi leidinio bibliografiniu įrašu. Jame nėra interpretacinės ar legendinės kalbos, kuriai reikėtų papildomos atribucijos."
   pagrindžia:
-    - c-170746
+    - c-170745
 
 <a id="claim-t-187936"></a>
 - t-002
   teiginys: "Įvado autorė Antaną Marcinovskį apibūdina kaip Vilniaus literatą, redaktorių, spaustuvės savininką ir ryškų to meto intelektualą."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "gap::authors::validation_repair"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
@@ -77,7 +91,6 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-170925
     - c-170926
 
 <a id="claim-t-187937"></a>
@@ -172,15 +185,22 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 <a id="claim-t-190691"></a>
 - t-008
   teiginys: "Antanas Marcinovskis, „Kurjer Litewski“ redaktorius ir Narbuto veikalų leidėjas, atsiuntė Narbutui tikslią monetos piešinio kopiją."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Monetos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Marcinovskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Monetos: mention_match, thing, gap=107"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Marcinovskis\" parinktas kaip owner_note_path. Targetas \"Monetos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173572
+    - c-173573
 
 <a id="claim-t-197580"></a>
 - t-009
@@ -234,7 +254,8 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 - id: c-170744
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
   citata_originali: |
     Ant taurės išgraviruota data - „1817 m.“ R. Kli­
     mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
@@ -255,7 +276,8 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 - id: c-170745
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 4."
   citata_originali: |
     UDK
     947.45
@@ -272,14 +294,17 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   citata_rodoma: "UDK\n947.45\nNa-162\nVersta iš:\nDzicjc starožytne narodu\nLitcwskiego przcz\nTeodora Narbutta.\nTom picrwszy:\nMitologia Litcwska\nz o.šmią rycinami.\nWilno, naktadem i drukiem\nA. Marcinowskicgo, 1835."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-170746
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 254"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 254."
   citata_originali: |
     Pieši­
     nys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią
@@ -293,13 +318,13 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
 
 - id: c-170925
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 494"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 494."
   citata_originali: |
     Pasirodo, kad T. Bulgarinas (1789-1859) ją iš tik­
     rųjų buvo pasiuntęs garsiam Vilniaus literatui, re­
@@ -317,13 +342,13 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-004
 
 - id: c-170926
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 52."
   citata_originali: |
     Idėjos įkūnijimas. Savaime suprantama, viena iš svarbiau­
     sių problemų, įgyvendinant tokį sumanymą, turėjo būti leidė­
@@ -343,7 +368,8 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 - id: c-173510
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 54."
   citata_originali: |
     „Prane­
     šimo“ autoriaus įsitikinimu, LTI ypač reikšminga yra dabar,
@@ -365,7 +391,8 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 - id: c-173572
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 443"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 443."
   citata_originali: |
     Savaime suprantama, viena iš svar­
     biausių problemų, įgyvendinant tokį sumanymą, turėjo
@@ -384,12 +411,12 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
-    - t-008
 
 - id: c-173573
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 489-490"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 489-490."
   citata_originali: |
     Be jokios abejonės moneta priklauso tam kraštui ir tai tautai,
     kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nukalta
@@ -401,14 +428,17 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   citata_rodoma: "Be jokios abejonės moneta priklauso tam kraštui ir tai tautai,\nkaip pavaizduota piešinyje, tik nepalyginti meistriškiau nukalta\ntokiu pat stiliumi kaip gerais Romos cezarių laikais. Piešinys ir\ngraviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią piešinio\nkopiją atsiuntė p/onas/ Marcinovskis, „Kurjer Litewski“ redakto­\nrius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir tikriau­\nsiai pateko į Sankt Peterburgą (žr. 12 piešinį tomo gale)."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-179251
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 490"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 490."
   citata_originali: |
     Kitoje pusėje (ji yra visiškai
     tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir pran­

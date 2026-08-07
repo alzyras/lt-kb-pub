@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ec5d4dec1a4305c132d245a2"
+canonical_name: "Michał Baliński Mykolas Balinskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Michał Baliński Mykolas Balinskis"]
+sameAs: []
+canonical_biography: "Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus. Balinskis pa­ liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­ čiuose. Balinskis prisipažįsta, kad Vilniaus miesto is­ torijos pirmąjį tomą baigė rašyti 1825 metų pradžioje."
 ---
 # Michał Baliński Mykolas Balinskis
 
@@ -88,7 +95,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 <a id="claim-t-182790"></a>
 - t-004
   teiginys: "M. Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
@@ -240,7 +247,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - id: c-166194
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 493-494"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 493-494."
   citata_originali: |
     Tai vertingas informacijos šaltinis istorikams, kultūrologams ir vi­
     siems skaitytojams, besidomintiems senąja Vilniaus miesto ir bendra
@@ -274,7 +282,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - id: c-166195
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
     čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
@@ -294,7 +303,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - id: c-166196
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     Šiame darbe suregistruoti LDK miestai ir miesteliai,
     jų geografinė padėtis, trumpa istorinė apžvalga. Laiške Joachi­
@@ -314,7 +324,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - id: c-166197
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 465"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 465."
   citata_originali: |
     Anastazija, Dobrynės kunigaikštie­
     nė 69
@@ -344,7 +355,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - id: c-166198
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 10."
   citata_originali: |
     Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi. Kita vertus, pirmoje
@@ -365,7 +377,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - id: c-166199
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 221-225"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 221-225."
   citata_originali: |
     w fUUnie/,
 
@@ -434,7 +447,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - id: c-166200
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
     rinkti su miesto istorija susijusius dokumentus. M. Balinskis pa­
@@ -454,7 +468,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - id: c-166201
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 495-496"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 495-496."
   citata_originali: |
     Antologija. I knyga
     Teodoras Narbutas
@@ -504,7 +519,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - id: c-166202
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 9."
   citata_originali: |
     Šie vie­
     nuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­
@@ -527,7 +543,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - id: c-166203
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 14."
   citata_originali: |
     užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­
     džiausiai dėkojame"12.
@@ -549,7 +566,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - id: c-166204
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 5."
   citata_originali: |
     Gimęs Lenkijos-Lie­
     tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
@@ -573,7 +591,8 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - id: c-176804
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 53."
   citata_originali: |
     Sūnėnų tvirtas laidavimo žo­
     dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­

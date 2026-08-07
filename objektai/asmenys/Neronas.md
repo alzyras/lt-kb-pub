@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-590ffd45c655b25cd8c71eac"
+canonical_name: "Neronas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Neronas"]
+sameAs: []
+canonical_biography: "Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug gintaro, norėdamas Romai parodyti prašmatnų reginį. Neronas sugrįžo į Romą. 2 Vidit enim eques Romanus missus ad id compar atidų m a Ju liana curante gladiatorium mumis Neronis principis, qui haec commercis (prekybos kelio pozicijos) ei littora peragravit, tanta copia investa, ut retta arcendis feris podium protegentia succinis."
 ---
 # Neronas
 
@@ -98,7 +105,8 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
 - id: c-174100
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 174."
   citata_originali: |
     Čia ir gimė Melas pasaka apie ilgaau­
     sius žmones Satmali, Plinijaus vadintus Panotii1.
@@ -120,7 +128,8 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
 - id: c-177314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 174."
   citata_originali: |
     Solinas pabrėžia šią detalę, sakydamas, kad tas gin-
     laras buvęs tenykščio karaliaus dovanotas ir svėręs 13
@@ -144,9 +153,9 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
     - t-002
 
 - id: c-184367
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 120"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 120."
   citata_originali: |
     Paskesniuose laikuose rados ne vieni marselio-
     nys, bet ir kitos pagirtos giminės prekyba, žinan­

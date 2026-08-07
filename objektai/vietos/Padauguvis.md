@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-61150d6ff766e7a823dee71e"
+canonical_name: "Padauguvis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Padaugavio","padaugavy","Padaugavys","Padauguvis"]
+sameAs: []
+canonical_biography: "kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis vokiečių pirkliai. Į gudus išvirtę lietuviai gyvena apie Padauguvį. Padaugavyje buvo Ašradės pilis."
+place_authority: true
+historical_names: []
 ---
 # Padauguvis
 
@@ -141,7 +150,8 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 - id: c-46658
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 55."
   citata_originali: |
     **Pirmosios vokiečių kolonijos Padauguvy.** Nuo XI amž.,
     kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo
@@ -159,7 +169,8 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 - id: c-46659
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 56."
   citata_originali: |
     Pirmasis pago-
     nių krikštu susirūpino misijonierius Meinhardas, kuris
@@ -179,9 +190,9 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     - t-002
 
 - id: c-184443
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 183"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 183."
   citata_originali: |
     Mokėjo dar pasigerinti
     diduomenei, kunigaikščiams ir viešpačiams, kurie
@@ -200,9 +211,9 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     - t-003
 
 - id: c-184444
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 346"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 346."
   citata_originali: |
     Ir taip noris vokyčiai pakajų tarės įkūrę, vienok
     rusėjo širdy užslėpta karė, ir pats paviršius, ne šir­
@@ -222,9 +233,9 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     - t-004
 
 - id: c-184445
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 460"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 460."
   citata_originali: |
     Padaugavy naujasis mistras kalavijonų tuo pa­
     čiu laiku, stiprindamos pagal savo būdą, naujas pi­
@@ -244,9 +255,9 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     - t-005
 
 - id: c-184446
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 517"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 517."
   citata_originali: |
     Nemintąs Erikas, viešpats danų, re­
     gėdamas tokias neteisybes, vokyčių daromas per­

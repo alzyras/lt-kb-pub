@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f83ac523cf41335f0760ef20"
+canonical_name: "Miloslavičiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Miloslavičiai"]
+sameAs: []
+canonical_biography: "Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė."
+place_authority: true
+historical_names: []
 ---
 # Miloslavičiai
 
@@ -85,7 +94,8 @@ Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susir
 - id: c-170562
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 97."
   citata_originali: |
     O
     kunigaikščiui Skirgailai puotaujant, kaip kiti sako, tas

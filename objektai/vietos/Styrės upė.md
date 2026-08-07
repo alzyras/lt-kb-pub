@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3dd53f18d7a8d3d5dae4d629"
+canonical_name: "Styrės upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Styrės upė"]
+sameAs: []
+canonical_biography: "Narbutas, sekdamas Malte-Brunu, Styrės upę laikė stūmių gyvenamųjų vietų pavadinimo išsaugojimu."
+place_authority: true
+historical_names: []
 ---
 # Styrės upė
 
@@ -55,7 +64,8 @@ Narbutas, sekdamas Malte-Brunu, Styrės upę laikė stūmių gyvenamųjų vietų
 - id: c-175670
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     91
     Tačiau, atsižvelgdami j didžiausią tikimybę, pasirin­

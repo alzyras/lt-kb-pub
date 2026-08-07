@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-934d646923a8038d7afdd2f1"
+canonical_name: "Žemaičių jūra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rusų mare","Žemaičių jūra","Žemaičių jūroj","Žemaičių jūroje","Žemaičių jūros"]
+sameAs: []
+canonical_biography: "Žemaičių jūra per 1000 metų nuseko kelias uolektis. Į Žemaičių jūrą tekėjo šiaurinės upės."
+place_authority: true
+historical_names: []
 ---
 # Žemaičių jūra
 
@@ -85,7 +94,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 <a id="claim-t-92021"></a>
 - t-003
   teiginys: "Žemaičių jūra šiame fragmente yra konkretus jūros vardas."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
@@ -112,7 +121,8 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - id: c-10521
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 31"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 31."
   citata_originali: |
     Žuvėdai^14 turi ant savo uolų ženklus, kurie rodo, jog Žemaičių jūra
         per 1000 metų yra per kelias uolektis nusekusi.
@@ -127,7 +137,8 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - id: c-10522
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 42"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 42."
   citata_originali: |
     Taip pat lygia dalia visos upės šiaurinėj įšleitėj nuo tos gi kalvos teka į
         Žemaičių jūrą, tarp kurių didžiosios upės yra: Daugava, Nemunas, Pragaras ir Isla.
@@ -142,7 +153,8 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - id: c-10523
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 51"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 51."
   citata_originali: |
     - status: unused
     - claim_role: new_claim
@@ -172,7 +184,8 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - id: c-10524
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 309"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 309."
   citata_originali: |
     Šiaurėj, Odinui mirus, nebepasitiko tokio, kurs būt galėjęs visą šiaurę valdyti ir kurio būt klausiusios tautos, šiapus ir anapus Žemaičių jūros gyvenančios.
   statusas: verified
@@ -184,7 +197,8 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - id: c-10525
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 310-311"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 310-311."
   citata_originali: |
     Kad taip šiaurėj ir Žemaičių jūroje audras vertė kariaudami, vienok nuo pietų, nurimus tautoms kita kitą stumdyti, rados pakajus, ir prekyba vėl pradėjo plėstis.
   statusas: verified

@@ -65,7 +65,8 @@ Nenurodyta
 - id: c-02161
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 176-177"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 176-177."
   citata_originali: |
     Lietuvos bajorijos pareigos valstybei priklausydavo nuo jų val-
     domosios žemės. Taigi ir pas mus buvo maždaug tokia pat santvarka,

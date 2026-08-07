@@ -89,7 +89,8 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
 - id: c-176768
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 33."
   citata_originali: |
     Pagaliau, bene svarbiausias liudininkas Alberto Goš­
     tauto naudai yra jo paties memorialas lotynų kalba,
@@ -110,7 +111,8 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
 - id: c-178919
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 33-34"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 33-34."
   citata_originali: |
     Visa tai labai lakoniškas, bet
     neabejotinas pakartojimas to, kas apie tuos Goštautus,

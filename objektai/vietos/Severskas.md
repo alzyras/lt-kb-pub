@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b2eeca7a8c933b1c28e480d"
+canonical_name: "Severskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Severskas"]
+sameAs: []
+canonical_biography: "Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lietuvos. Levas, net nepabandęs kovoti lauke, kuo greičiausiai pabėgo į Severską. Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską."
+place_authority: true
+historical_names: []
 ---
 # Severskas
 
@@ -219,7 +228,8 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
 - id: c-82083
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 155-156"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 155-156."
   citata_originali: |
     Paminėsime tad tik
     žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
@@ -251,7 +261,8 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
 - id: c-168494
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 198."
   citata_originali: |
     Po to nuvedė pulkus prieš Levą, Lucko ku-
     Drohičiną ir Brestą, bet dabar, rodos, neteko ir karin­
@@ -281,7 +292,8 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
 - id: c-168495
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Visi luo­
     mai, išėję iš miesto, sveikino
@@ -313,7 +325,8 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
 - id: c-168496
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 338"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 338."
   citata_originali: |
     Vytautas, šitai išvy-
     S usikauna
@@ -356,7 +369,8 @@ Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lie
 - id: c-168497
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 486"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 486."
   citata_originali: |
     K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
     gužės pabaigoje, Mykolas su

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e717b1d1fe03e5adf4195835"
+canonical_name: "Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia"]
+sameAs: []
+canonical_biography: "Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia
 
@@ -67,7 +76,8 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
 - id: c-24589
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 69."
   citata_originali: |
     Vieninte-
     lis privilegijuotas visuomenės luomas – bajorai, turėję politines teises ir
@@ -89,7 +99,8 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
 - id: c-24590
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 82."
   citata_originali: |
     Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv. Kazimie-
     ro koplyčia, Vilniaus Šv. Petro ir Povilo bažnyčia ar Pažaislio vienuolyno

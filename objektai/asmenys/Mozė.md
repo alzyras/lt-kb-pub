@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e87f230402562be72f05944d"
+canonical_name: "Mozė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mozė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas."
 ---
 # Mozė
 
@@ -92,7 +99,8 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
 - id: c-61021
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
   citata_originali: |
     (Iš 17, 11) Štai skaitome apie Mozę, kad Izraelis, kai jis meldėsi, nugalėdavęs
     Amalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas. Be to, ir
@@ -110,7 +118,8 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
 - id: c-171487
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 380."
   citata_originali: |
     Šventasis Au­
     gustinas aiškiai teigia, kad egiptiečiai kryžiaus ženklu vaiz­

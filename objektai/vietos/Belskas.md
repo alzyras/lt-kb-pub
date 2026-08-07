@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-288c931e151fda4edb77029f"
+canonical_name: "Belskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Belskas"]
+sameAs: []
+canonical_biography: "Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko, Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių Ordino."
+place_authority: true
+historical_names: []
 ---
 # Belskas
 
@@ -74,7 +83,8 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 290."
   citata_originali: |
     Su pagoniškąja Lietuva pirmąsias nuolatinio karo paliau­
     bas Ordinas padarė 1379 m. Labai įdomios ir viduramžiui
@@ -95,9 +105,9 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
     - t-001
 
 - id: c-184934
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 389"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 389."
   citata_originali: |
     Tai
     antra pagal dydį suma, daugiau turėjo mokėti Vilnius - 500 kapų grašių ir dar iš-

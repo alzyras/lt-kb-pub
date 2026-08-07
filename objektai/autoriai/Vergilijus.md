@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a1a48c41047b7591f595a40a"
+canonical_name: "Vergilijus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Vergilijus"]
+sameAs: []
+canonical_biography: "Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių. Vergilijus praneša, kad Enėjo laikais virš karstų supildavo kalnus."
 ---
 # Vergilijus
 
@@ -52,7 +59,7 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
 <a id="claim-t-194676"></a>
 - t-002
   teiginys: "Vergilijus praneša, kad Enėjo laikais virš karstų supildavo kalnus."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -60,14 +67,15 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173225
+    - c-177073
 
 ## Citatos
 
 - id: c-173225
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
   citata_originali: |
     Eri-
     sichtono istorija, Dodonės ir Delfų šventieji miškai buvo gar­
@@ -82,12 +90,12 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-177073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
   citata_originali: |
     371
 
@@ -99,7 +107,8 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   citata_rodoma: "371\n\n## Puslapis 371\n\nkad sampilas būtų kuo aukščiausias“1. Vergilijus praneša, kad\nEnėjo laikais virš karstų supildavo kalnus. Tą patį Ksenofon-\ntas sako apie persus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

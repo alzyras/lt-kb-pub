@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09080b5f7d5e172bb9ad82cb"
+canonical_name: "Šarkis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Šarkis"]
+sameAs: []
+canonical_biography: "Narbutas Šarkį apibūdina kaip galingą ir narsų karžygį, gyvenusį Sarkais vadintoje šalaviečių pilyje Lietuvos pasienyje."
 ---
 # Šarkis
 
@@ -55,7 +62,8 @@ Narbutas Šarkį apibūdina kaip galingą ir narsų karžygį, gyvenusį Sarkais
 - id: c-174375
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Ponas Foigtas rado Berlyno rankraštyje vietovardį
     Raganita, ir tai žinomas pats tikriausias pavadinimas, nes

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1a531a72ad143b4cbadd3626"
+canonical_name: "Dionizas Paškevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dionizas Paškevičius"]
+sameAs: []
+canonical_biography: "Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į Raseinius, aptiko seną nudžiūstantį ąžuolą. Dionizas Paškevičius savo rinkinyje turėjo urną, panašią į Žemaitijos kapavietėse rastas urnas. Dionizas Paškevičius, tyrinėdamas herulus ir hirius, vardijo Žemaitijos vietovardžius kaip ženklus, kad ten kadaise gyveno ši lietuvių gentis."
 ---
 # Dionizas Paškevičius
 
@@ -40,7 +47,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
 <a id="claim-t-190063"></a>
 - t-001
   teiginys: "Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į Raseinius, aptiko seną nudžiūstantį ąžuolą."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,7 +63,6 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172946
-    - c-172947
 
 <a id="claim-t-190064"></a>
 - t-002
@@ -94,7 +100,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
 <a id="claim-t-190852"></a>
 - t-004
   teiginys: "Narbutas rėmėsi Kajetono Niezabitowskio straipsniu apie Dionizo Paškevičiaus Žemaitijos senienų rinkinį, paskelbtu „Dziennik Wilenski“ 1823 m."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -112,7 +118,6 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   temporalinis_llm_pakomentavimas: "Teiginys pilnai perteikia bibliografinę nuorodą apie straipsnį ir jo ryšį su Paškevičiaus rinkiniu. Nepridėta detalių, kurių nėra pateiktoje citatoje."
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
-    - c-173733
     - c-173734
 
 ## Reikšmingi paminėjimai
@@ -141,7 +146,8 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
 - id: c-172946
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
   citata_originali: |
     Apie tai papa­
     sakosime straipsnyje „Šventyklos“.
@@ -163,7 +169,8 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
 - id: c-172947
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 379."
   citata_originali: |
     Akmeniniai kirviai randami laukuose ir prie senų 1
     11
@@ -177,13 +184,13 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-173733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 505"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 505."
   citata_originali: |
     163 /Ten
     pat,
@@ -201,12 +208,12 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
 
 - id: c-173734
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 505"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 505."
   citata_originali: |
     T. Narbutas turėjo omenyje straipsnj:
     Krotki spis niektorych starožytnych zabytkow, znajdujących się w

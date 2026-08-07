@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2387290e56301b12944d9f3d"
+canonical_name: "Jedigėjus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jedigėjus"]
+sameAs: []
+canonical_biography: "Tada Lietuvos sostinėje regėdavo kupranuga­ rius, dryžuotom gūniom apdangstytus, turtingomis dovano­ mis apkrautus, iš už Volgos ateinančius, kuriuos siekdamas Vytauto draugystės iš Juodosios jūros pakrančių atsiųsdavo totorių chanas Jedigėjus76."
 ---
 # Jedigėjus
 
@@ -63,7 +70,8 @@ Tada Lietuvos sostinėje regėdavo kupranuga­ rius, dryžuotom gūniom apdangst
 - id: c-83682
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 167."
   citata_originali: |
     Vytauto
     didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios

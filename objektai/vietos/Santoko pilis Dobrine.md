@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd944261aef56f448699419b"
+canonical_name: "Santoko pilis Dobrine"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Santoko pilis Dobrine"]
+sameAs: []
+canonical_biography: "Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasienio punktai (Drezdenka ir Santoko pilis Dobrine), turį priklausyti kryžiuočiams."
+place_authority: true
+historical_names: []
 ---
 # Santoko pilis Dobrine
 
@@ -52,7 +61,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - id: c-93896
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 343."
   citata_originali: |
     buvo surašytas naujas dokumentas. Jis skelbė,
     jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasienio

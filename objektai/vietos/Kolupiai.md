@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b5fdf6da6ce7ee4abbd3396f"
+canonical_name: "Kolupiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kolupiai"]
+sameAs: []
+canonical_biography: "Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėtą, buvusią Panevėžio būrio LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pajėgi aprūpinti pirmųjų savanorių. Miške į šiaurę nuo Kolupių kaimo į nelaisvę buvo paimta 18 raudonarmiečių."
+place_authority: true
+historical_names: []
 ---
 # Kolupiai
 
@@ -72,7 +81,8 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
 - id: c-76475
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 173."
   citata_originali: |
     Turėję didelę
     mųjų Lietuvos karių skiriamųjų ig ersvara, bolševikai iš-
@@ -97,7 +107,8 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
 - id: c-176423
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 174."
   citata_originali: |
     Lietuvių sava-
     norių būriai, remiami maždaug

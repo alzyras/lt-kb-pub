@@ -59,7 +59,8 @@ Kada buvo bandoma į sąjungą (koaliciją) prieš Mindaugą ir Vykintą Įtrauk
 - id: c-33486
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 175."
   citata_originali: |
     (^75) **Kad Vykintas yra buvęs prie Saulės kautynių vadas teturime netie­
     sioginį įrodymą, randamą Ipatijaus kronikoje. Kada buvo bandoma į sąjungą

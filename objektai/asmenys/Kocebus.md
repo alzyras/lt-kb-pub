@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-861457f3f54c41c2c037d876"
+canonical_name: "Kocebus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kocebus"]
+sameAs: []
+canonical_biography: "Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir gamtos mįsle, kurią gaubia sunkiai atskleidžiamos uždangos. Teodoras Narbutas Kocebo pavartotą Cemptenbece vietovardį taisė į Lemptenburgą ir pažymėjo, kad jo padėtį tiksliai nustatyti sunku. Ligi šiol žinoma seniausia sutartis, primenanti dingu sios Sambijos dalies egzistavimą senovėje; ji esanti 1246 metų Kocebaus darbe (t."
 ---
 # Kocebus
 
@@ -116,7 +123,8 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
 - id: c-174232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
   citata_originali: |
     Lietuvių kalboje jis išliko žodyje
     Stiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų
@@ -142,7 +150,8 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
 - id: c-174233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
   citata_originali: |
     Tam, kad naujiems šio pajūrio miesto
     kolonistams būtų garantuotos pastovios valdos, teisėjų
@@ -169,7 +178,8 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
 - id: c-179332
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Ligi šiol žinoma seniausia sutartis, primenanti dingu­
     sios Sambijos dalies egzistavimą senovėje; ji esanti 1246

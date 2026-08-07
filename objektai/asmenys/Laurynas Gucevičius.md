@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-28a4eed9c229a452717e15cf"
+canonical_name: "Laurynas Gucevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Laurynas Gucevičius"]
+sameAs: []
+canonical_biography: "Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Laurynas Gucevičius (1753–1798) 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją. Gucevičius, T."
 ---
 # Laurynas Gucevičius
 
@@ -74,7 +81,8 @@ media_all_json: |-
 - id: c-21851
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 90."
   citata_originali: |
     1769 m. nugriuvo
     Vilniaus katedros bokštas, tuo pačiu metu pasviro ir Vilniaus rotušės
@@ -94,7 +102,8 @@ media_all_json: |-
 - id: c-21852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 90."
   citata_originali: |
     Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių
     meto seimo nulemtomis permainomis. Ginti Gegužės trečiosios kons-
@@ -112,7 +121,8 @@ media_all_json: |-
 - id: c-171466
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
   citata_originali: |
     Pats pavadinimas, iš­
     reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­

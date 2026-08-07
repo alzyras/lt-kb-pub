@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-172616
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 315."
   citata_originali: |
     6. Auka požemio dievams, tai yra pragaro dievybėms, nykš­
     tukams, genijams ir visoms mitinėms būtybėms, gyvenančioms
@@ -105,7 +106,8 @@ Nenurodyta
 - id: c-179081
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 315."
   citata_originali: |
     Dėl savo interesų jie laikė žmones baimėje ir, da­
     rydami įvairias intrigas, galėjo pasitelkti į pagalbą Poklių - tą

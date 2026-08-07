@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-79ef4fd45611fc62f6cb5d21"
+canonical_name: "Šv. Dvasios bažnyčia Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šv. Dvasios bažnyčia Vilniuje"]
+sameAs: []
+canonical_biography: "Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18. Dva­ sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku­ ris tik tuo metu turės, taip pat ir du kitus namelius viršuje už prieglaudos, ten pat, priešais Šv. Dvasios vienuolyno tėvais reikalai taip susi­ klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­ tus pagalbinius jos pastatus būtų galima patogiai pastatyti."
+place_authority: true
+historical_names: []
 ---
 # Šv. Dvasios bažnyčia Vilniuje
 
@@ -115,7 +124,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - id: c-177557
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Daugelis jų garsėjo su­
     manumu ir turtais, bet labiausiai buvo žinomas Onka Hrice-
@@ -136,7 +146,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - id: c-177558
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 406"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 406."
   citata_originali: |
     Dvasios vienuolyno tėvais reikalai taip susi­
     klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­
@@ -161,7 +172,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - id: c-177559
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 354."
   citata_originali: |
     Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­
     glaudos praplėtimo prie dominikonų vienuolyno Šv. Dva­
@@ -184,7 +196,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - id: c-177560
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284."
   citata_originali: |
     Suteikdamas Hozijui teisę pasta­
     tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
@@ -208,7 +221,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - id: c-177561
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 252."
   citata_originali: |
     Pa-
     49

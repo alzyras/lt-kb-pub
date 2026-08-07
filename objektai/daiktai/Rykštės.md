@@ -88,7 +88,8 @@ Nenurodyta
 - id: c-170768
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
   citata_originali: |
     1850 m. Vilniaus gimnazijoje suėmė T. Narbuto sūnų Liud­
     viką. Apkaltintas už priešvalstybinę agitaciją ir siekimą sukur­

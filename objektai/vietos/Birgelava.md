@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb3189b2b69d6a7b12fb5ad0"
+canonical_name: "Birgelava"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Birgelava"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų piktybių, ten pridarytų, paėmė Birgelavos pilį438, pagrobdami gyvulius bei visą mantą brolių ir tų žmonių, kurie buvo subėgę į pilį. Dusburgietis teigia, kad vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443."
+place_authority: true
+historical_names: []
 ---
 # Birgelava
 
@@ -84,7 +93,8 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
 - id: c-86187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
   citata_originali: |
     Apie Birgelavos pilies sugriovimą
 
@@ -108,7 +118,8 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
 - id: c-86189
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
   citata_originali: |
     į dvi dalis, kurių viena patraukė prieš Torunę, o kita prieš Kulmo miestą, žudydamos,
     imdamos į nelaisvę ir degindamos visa, ką sutikdavo pakelėje. Vakarop ji priėjo Birgelavos

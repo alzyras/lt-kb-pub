@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a97341361129881b06a79505"
+canonical_name: "Klaprotas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Klaprotas"]
+sameAs: []
+canonical_biography: "Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną, kuriame Narbutas nerado reikšmingo panašumo į lietuvių kalbą."
 ---
 # Klaprotas
 
@@ -54,7 +61,8 @@ Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną, kuria
 - id: c-174385
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
   citata_originali: |
     Juk šiandien negalima nieko įro­
     dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi

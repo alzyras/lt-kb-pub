@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2dd523975882733a0a1239c2"
+canonical_name: "Leonas (Haličo kunigaikščio sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Leonas (Haličo kunigaikščio sūnus)"]
+sameAs: []
+canonical_biography: "Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus."
 ---
 # Leonas (Haličo kunigaikščio sūnus)
 
@@ -60,7 +67,8 @@ Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pasta
 - id: c-83743
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24."
   citata_originali: |
     Poznanė dar anksčiau už Krokuvą - 1253 metais,
     Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­

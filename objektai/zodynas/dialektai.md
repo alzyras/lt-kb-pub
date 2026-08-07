@@ -109,7 +109,8 @@ Vartojama lyginamojoje kalbotyroje ir tautos kilmės argumente.
 - id: c-175030
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 33."
   citata_originali: |
     Mes pasisakome už pono Kepeno požiū-
     rį: lyginant tris svarbiausius dialektus — senovės prūsų,

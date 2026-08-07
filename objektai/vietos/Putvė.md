@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-03c1276bdf2bb3364e7901e2"
+canonical_name: "Putvė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Putvė"]
+sameAs: []
+canonical_biography: "Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, Junigėda, Putvė (« Pu­ tenicka ») ir Aukaimis (abi Karšuvos srityje). Dar žinomas tada ir trečias iki tol vis neįveiktos žemaičių pilies paėmimas, būtent, Putvės — Putenikos (prie upės Jūros)."
+place_authority: true
+historical_names: []
 ---
 # Putvė
 
@@ -69,7 +78,8 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
 - id: c-32368
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 226."
   citata_originali: |
     Dar žinomas tada ir trečias iki tol vis neįveiktos žemaičių
     pilies paėmimas, būtent, Putvės — Putenikos (prie upės Jūros).
@@ -89,7 +99,8 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
 - id: c-34017
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 225."
   citata_originali: |
     Jų didelė dalis buvo skirta naikinti Žemaičių
     sodyboms ir šturmuoti jų pilims. Po du — tris kartus buvo teriota

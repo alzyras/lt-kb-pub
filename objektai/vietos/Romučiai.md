@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ef4aa702d29e6882b7c17dc4"
+canonical_name: "Romučiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Romučiai"]
+sameAs: []
+canonical_biography: "Hartknochas Narbuto perteikime Romučių kaimo apylinkėse prie Tenenio upės lokalizavo garsų šventąjį mišką prie Žemaitijos sienos."
+place_authority: true
+historical_names: []
 ---
 # Romučiai
 
@@ -55,7 +64,8 @@ Hartknochas Narbuto perteikime Romučių kaimo apylinkėse prie Tenenio upės lo
 - id: c-171945
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Hartknochas pagal senus duomenis nurodo garsų šventąjį
     mišką, kurio vietą senovės Prūsijos žemėlapiuose pažymi prie

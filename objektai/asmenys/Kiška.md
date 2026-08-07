@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-542fdeb75b63da2c57ff32c6"
+canonical_name: "Kiška"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kiška"]
+sameAs: []
+canonical_biography: "Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuomenei vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­ kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­ nių."
 ---
 # Kiška
 
@@ -52,7 +59,8 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
 - id: c-83734
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 250."
   citata_originali: |
     Tačiau neilga buvo karaliaus vieš­
     nagė šioje pilyje, kadangi, vos dienai praėjus, pakeliui

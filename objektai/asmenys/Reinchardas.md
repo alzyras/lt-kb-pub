@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3cb398f338fd482090c5d143"
+canonical_name: "Reinchardas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Reinchardas"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Reinchardas, remdamasis Foigtu, Stavaniją laikė buvusia į pietus nuo Galindos ir Sūduvos bei priklausiusia Lenkijai."
 ---
 # Reinchardas
 
@@ -54,7 +61,8 @@ Narbutas nurodo, kad Reinchardas, remdamasis Foigtu, Stavaniją laikė buvusia �
 - id: c-174340
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 273."
   citata_originali: |
     Tačiau vokiečių senovės tyrinėtojai prira­
     šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti

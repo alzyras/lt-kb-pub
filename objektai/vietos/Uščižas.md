@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bb4b25d8a32946d6a64f0664"
+canonical_name: "Uščižas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Uščižas"]
+sameAs: []
+canonical_biography: "Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą. Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą, kai Maskvos vaivados Jakovo Zachariničiaus pajėgos priartėjo prie Briansko. Stanislovas Bartoševičius tikrino Uščižo karališkąjį dvarą, kai Maskvos vaivados pajėgos slapta priartėjo prie Briansko."
+place_authority: true
+historical_names: []
 ---
 # Uščižas
 
@@ -108,7 +117,8 @@ Stanislovas Bartoševičius tuo metu tikrino Uščižo karališkąjį dvarą. St
 - id: c-170384
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 151."
   citata_originali: |
     saikomis, kad jie, Maskvos kunigaikščio talkinami, be
     paliovos puldinės Lietuvos Didžiąją Kunigaikštystę, o

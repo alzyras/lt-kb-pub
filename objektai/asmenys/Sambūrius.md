@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb53eef08260f45090e611a0"
+canonical_name: "Sambūrius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sambūrius"]
+sameAs: []
+canonical_biography: "Narbutas venedų runų užrašą aiškino kaip lotynišką frazę „Immolavit Sambūrius dux Kracho olitori“."
 ---
 # Sambūrius
 
@@ -53,7 +60,8 @@ Narbutas venedų runų užrašą aiškino kaip lotynišką frazę „Immolavit S
 - id: c-173000
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 258."
   citata_originali: |
     Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje
     (pagal Tadą Volianskį)

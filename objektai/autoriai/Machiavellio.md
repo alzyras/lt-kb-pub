@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-41c5460d11fcfe23f401469b"
+canonical_name: "Machiavellio"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Machiavellio"]
+sameAs: []
+canonical_biography: "Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios, nesiskaitydamas su jokiomis priemonėmis (Machiavellio mokslas)."
 ---
 # Machiavellio
 
@@ -52,7 +59,8 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
 - id: c-01346
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 221."
   citata_originali: |
     **Karalienė Bona.** Kai Zigmantas jau buvo palaužtas sunkios
     valdymo naštos, valstybėje didžiausią įtaką įgijo gobši intri-

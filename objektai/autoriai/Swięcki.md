@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-46629576b5bd9f6b8e960e2e"
+canonical_name: "Swięcki"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Swięcki"]
+sameAs: []
+canonical_biography: "Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš Seversko žemės."
 ---
 # Swięcki
 
@@ -53,7 +60,8 @@ Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš 
 - id: c-173340
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 370."
   citata_originali: |
     Net buvo ap­
     23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-

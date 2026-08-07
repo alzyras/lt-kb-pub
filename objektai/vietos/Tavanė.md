@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-583e488506dba88e327eae58"
+canonical_name: "Tavanė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Tavanė"]
+sameAs: []
+canonical_biography: "1398 m. Vytautas su didelėmis pajėgomis prie Žemutinio Dniepro per keturias savaites iš molio ir akmenų pastatė pilį Tavanėje, kuriai suteiktas šv."
+place_authority: true
+historical_names: []
 ---
 # Tavanė
 
@@ -59,7 +68,8 @@ media_all_json: |-
 - id: c-40457
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     1398 m. Vytautas su didelėmis pajėgo-
     mis prie Žemutinio Dniepro per keturias

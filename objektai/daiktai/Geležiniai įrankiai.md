@@ -70,7 +70,8 @@ Nenurodyta
 - id: c-33225
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 84."
   citata_originali: |
     Lietuvoje (AkMD, t. 16, 1964, 63-80 p.), apie sidabrą kaip vertės
     matą (AkMD, t. 20, 1966, 33-45 p.), apie sidabro dirbinius ir auk­

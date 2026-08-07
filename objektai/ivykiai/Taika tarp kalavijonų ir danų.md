@@ -59,9 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184695
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 284"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 284."
   citata_originali: |
     Paskui skubiniai iškeliavo su v. Vilhelmu,
     popiežiaus siuntiniu, pas danų viešpatį, idant vei-

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4bde350ba580b54fbc75d58b"
+canonical_name: "Andrius Lactoras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Lactoras"]
+sameAs: []
+canonical_biography: "Tai liudija 1537 m. Kauno klebono Erazmo Eustachijaus Kauno pilininkui Andriui Lactorui išduotas kvitas apie pinigų gavimą."
 ---
 # Andrius Lactoras
 
@@ -49,9 +56,9 @@ Tai liudija 1537 m. Kauno klebono Erazmo Eustachijaus Kauno pilininkui Andriui L
 ## Citatos
 
 - id: c-185505
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 318"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 318."
   citata_originali: |
     Kaip ir anksčiau, pagal valdovų fundacijas Kauno klebonas kasmet iš Kauno
     seniūno gaudavo 4 kapas grašių. Tai liudija 1537 m. Kauno klebono Erazmo Eusta-

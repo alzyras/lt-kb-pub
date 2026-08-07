@@ -58,7 +58,8 @@ Dusburgietis teigia, kad tai rodo Liber censuum Daniae žemių sąrašas, sudary
 - id: c-61761
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
   citata_originali: |
     Dėl Danijos antpuolių baltiškasis pajūris,
     be kita ko, Semba ir Skalva, buvo patekęs į tam tikrą pavaldumą Danijai. Tai rodo

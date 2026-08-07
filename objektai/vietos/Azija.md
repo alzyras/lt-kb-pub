@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e3b12b20639f5e2b4012e389"
+canonical_name: "Azija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Azija"]
+sameAs: []
+canonical_biography: "Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia senovę saugančia ir permainas atmetančia dvasia. Narbutas Aziją laikė žmonių giminės lopšiu, o Europą, palyginti su Azija ir Afrika, vadino vėliau apgyvendintu ir civilizuotu naujuoju pasauliu. Narbutas kolchų tautos atsikėlimą kildino iš Azijos gilumos į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų."
+place_authority: true
+historical_names: []
 ---
 # Azija
 
@@ -88,7 +97,8 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
 - id: c-171833
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
   citata_originali: |
     Jokia laiko pažanga, jokia civilizuoto pasaulio per­
     maina nesutrikdo jų stabilios padėties: amžiais jos stovi ant
@@ -109,7 +119,8 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
 - id: c-175379
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 35."
   citata_originali: |
     Tad šį skyrių pirmiausia,
     kol imsimės tolesnių ieškojimų, skirkime seniausių epo­
@@ -132,7 +143,8 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
 - id: c-175380
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
   citata_originali: |
     20
     Apie kolchus ir Kolchidę. Šioms tolimos senovės epo­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3330ff7e4aaf884998ac5cba"
+canonical_name: "Samilis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Samilis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių, jei nebūtų spėjęs ateiti su pagalba vienas Pamedės. Dusburgietis teigia, kad šitai sužinoję, prūsai įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies, tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams, ten jis, ilgesnį laiką pasirgęs, galop pagijo."
 ---
 # Samilis
 
@@ -85,7 +92,8 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
 - id: c-60835
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
     Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
@@ -109,7 +117,8 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
 - id: c-60836
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     Visa tai plukdydami
     Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0938a14af2bd8a6f241a4a6e"
+canonical_name: "Nemunas (jūrininkas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Nemunas (jūrininkas)"]
+sameAs: []
+canonical_biography: "Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje prie Nemuno. Lietuvoje gyveno panašiai besivadinanti bajorų giminė; turim rankoje laišką, rašytą pereito amžiaus viduryje, su Kazimiero Nemunavičiaus (Niemonowicz) parašu."
 ---
 # Nemunas (jūrininkas)
 
@@ -65,7 +72,8 @@ Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip
 - id: c-172959
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Siek tiek pasistūmėję upe
     aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
@@ -88,7 +96,8 @@ Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip
 - id: c-179183
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Lietuvoje
     gyveno panašiai besivadinanti bajorų giminė; turim rankoje

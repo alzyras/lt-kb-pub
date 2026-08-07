@@ -52,7 +52,8 @@ Polski słownik biograficzny cituojamas dėl Jono Goštauto pirmojo figūravimo 
 - id: c-176774
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 287."
   citata_originali: |
     '° Jonas Goštautas pirmą kartą kaip Vilniaus vaivada figūruo­
     ja 1443.11!.23 (Polski slownik blograficzny. t. VU/4, sąs. 34. p. 297).

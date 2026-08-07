@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-880e948646959890d40f31bb"
+canonical_name: "M. Jankus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Jankus"]
+sameAs: []
+canonical_biography: "Jankus ir lietuvių draugas vokietis S."
 ---
 # M. Jankus
 
@@ -50,7 +57,8 @@ Jankus ir lietuvių draugas vokietis S.
 - id: c-01341
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 514."
   citata_originali: |
     Visi jie buvo vien informacinio pobūdžio, ir tautiškosios
     sąmonės ugdymu nesirūpino. Tik vienas Šernas savo „Lie-

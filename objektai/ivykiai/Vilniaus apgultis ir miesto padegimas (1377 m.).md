@@ -80,7 +80,8 @@ Nenurodyta
 - id: c-55659
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 47."
   citata_originali: |
     Pra­
     ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­

@@ -60,7 +60,8 @@ Dusburgietis teigia, kad historia Pomorza / Pod red. G.
 - id: c-61711
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
   citata_originali: |
     Historia Pomorza / Pod red. G. Labudy.— T. 1; do r. 1466, cz. 1.— Poznań, 1969.
   citata_rodoma: "Historia Pomorza / Pod red. G. Labudy.— T. 1; do r. 1466, cz. 1.— Poznań, 1969."

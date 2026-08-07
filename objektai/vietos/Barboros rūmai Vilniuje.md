@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f25a30c6406c66cfba3136de"
+canonical_name: "Barboros rūmai Vilniuje"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Barboros būstas","Barboros rūmai","Barboros rūmai Vilniuje","Barboros rūmų griuvėsiai","karalienės Barboros rūmai"]
+sameAs: []
+canonical_biography: "Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies. XIX a. aprašyme rūmus priminė griuvėsių sunaikinimas, tvenkinių žymės ir buvusių sodų vieta."
+place_authority: true
+historical_names: []
 ---
 # Barboros rūmai Vilniuje
 
@@ -139,7 +148,8 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 - id: c-55844
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 289."
   citata_originali: |
     Su skausmu ir pa­
     sibaisėjimu tenka pripažinti, kad
@@ -176,7 +186,8 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 - id: c-79573
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 288-289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 288-289."
   citata_originali: |
     272
 
@@ -201,7 +212,8 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 - id: c-79574
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 289."
   citata_originali: |
     31
     Dar prieš kelerius metus Vilnių puo­

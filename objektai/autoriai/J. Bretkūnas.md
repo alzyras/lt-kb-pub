@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88213cc680d940290a712844"
+canonical_name: "J. Bretkūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Bretkūnas"]
+sameAs: []
+canonical_biography: "Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą."
 ---
 # J. Bretkūnas
 
@@ -71,7 +78,8 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
 - id: c-06616
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 266."
   citata_originali: |
     Tuo pat metu protestantizmas labai uoliai buvo platinamas
     ir Mažojoje Lietuvoje. Ten buvo pradėta rūpintis liaudim, ku-
@@ -91,7 +99,8 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
 - id: c-06617
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 624"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 624."
   citata_originali: |
     1591 m. J. Bretkūno postilė.
   citata_rodoma: "1591 m. J. Bretkūno postilė."

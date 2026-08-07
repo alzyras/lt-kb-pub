@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2089ac042471a2dfd8f4f594"
+canonical_name: "Inocentas IV"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Inocentas IV"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiežiumi buvo Inocentas IV, kuris pirmaisiais savo pontifikato metais, tai yra 1243 viešpaties metais, supratęs iš garsių brolio Hermano iš Zalcos, Teutonų ordino generalinio magistro267, pareiškimų, kad naujas."
 ---
 # Inocentas IV
 
@@ -90,7 +97,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
 - id: c-60965
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
   citata_originali: |
     Pasiuntinys apaštališkojo sosto vardu
     parašė minėtajam kunigaikščiui, įsakydamas liautis persekioti tikėjimą ir tikinčiuosius.
@@ -116,9 +124,9 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
     - t-002
 
 - id: c-184347
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 336"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 336."
   citata_originali: |
     To dėjęsis, liepė visų pirma me­
     džiagą jai patiekti, paskui, sutraukęs visus mel-

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8c445b805773b16a55355721"
+canonical_name: "Biufonas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Biufonas"]
+sameAs: []
+canonical_biography: "Biufono sistema, kaip ją pateikia Narbutas, teigė, kad organinis pasaulis prasidėjo nuo ašigalių."
 ---
 # Biufonas
 

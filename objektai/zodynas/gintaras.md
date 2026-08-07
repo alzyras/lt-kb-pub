@@ -86,7 +86,8 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 - id: c-175690
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Syvai, kurie kažkada sunkėsi iš ypa­
     tingos rūšies palmės, pradingusios senovės pasaulio re­
@@ -119,7 +120,8 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 - id: c-175691
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
   citata_originali: |
     153
     Gero gintaro kietumas šipina geležį, jis gražiausiai
@@ -146,7 +148,8 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 - id: c-177298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
   citata_originali: |
     148
 

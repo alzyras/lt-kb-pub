@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-05c400fc124fb850c14de80d"
+canonical_name: "Romas Dubonis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Romas Dubonis"]
+sameAs: []
+canonical_biography: "Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo meninis redaktorius."
 ---
 # Romas Dubonis
 
@@ -79,7 +86,8 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
 - id: c-55577
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 494"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 494."
   citata_originali: |
     Mykolas Balinskis
     VILNIAUS MIESTO ISTORIJA
@@ -105,7 +113,8 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
 - id: c-78480
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 493-494"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 493-494."
   citata_originali: |
     Autorius surinko ir
     panaudojo daugybę istorijos šaltinių, kurie neišliko iki mūsų dienų.

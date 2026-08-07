@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2fbb8c5814ccf6dd569f1c26"
+canonical_name: "Petras Semaška"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Semaška"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Petras Semaška
 

@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-178612
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 176."
   citata_originali: |
     Šiek tiek vėliau Vytenis, gal bijo­
     damas, kad po jo pergalės pablogėjusi Livonijos ordino

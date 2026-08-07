@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4da2536e06bfda3dc9c50ccc"
+canonical_name: "Adomas Bremenietis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Adomas Bremenietis"]
+sameAs: []
+canonical_biography: "O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė daugiau žinių apie prūsus ir ypač."
 ---
 # Adomas Bremenietis
 
@@ -103,7 +110,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 <a id="claim-t-188393"></a>
 - t-004
   teiginys: "Narbutas Adomą Bremenietį nurodė kaip šaltinį apie prie šventyklų buvusius apeiginius šaltinius ar šulinius."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -111,7 +118,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171283
+    - c-171284
 
 <a id="claim-t-188394"></a>
 - t-005
@@ -248,7 +255,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - id: c-32896
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 123."
   citata_originali: |
     Adalberto (Vaitiekaus) biografas Canaparius, kuris
     kalbėjo apie « Pruzzorum fines ». O « Europos šiaurės Tacitas »,
@@ -271,7 +279,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - id: c-171282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
   citata_originali: |
     Tą ypatybę kronikininkai priskiria velnio galy­
     bei, manydami, kad velniai buvo garbinami toje šventykloje
@@ -294,7 +303,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - id: c-171283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
   citata_originali: |
     Apskritai reikia ma­
     nyti, kad visur, kur buvo šventyklos, augo šventieji ąžuolai,
@@ -313,12 +323,12 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
 
 - id: c-171284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 279."
   citata_originali: |
     Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
     šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame
@@ -330,14 +340,17 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   citata_rodoma: "Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji\nšuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame\napiplaudavo atnašaujamus gyvulius. Tas vanduo buvo laiko­\nmas švarinančiu, nuvalančiu nuodėmes. Pakankamai žinių apie\ntai paliko Adomas Bremenietis, o Dusburgietis24 priduria, kad\nkrikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių\nšaltinių. Toks šaltinis vadinosi šulinys (Szulnis)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-171285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 416"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 416."
   citata_originali: |
     Tautos
     šventovė buvo Upsaloje; ten, kaip Romovės šventykloje, sto­
@@ -358,7 +371,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - id: c-173561
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 92."
   citata_originali: |
     Dešinėje tos upės pusėje gotų
     jau nebuvo, todėl prūsai įėjo į estų genčių skaičių. Ado­
@@ -379,7 +393,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - id: c-173562
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
   citata_originali: |
     Tuo labiau kad jūros vadinimas Baltąja
     neprieštarauja senovės ir naujųjų laikų geografijai. Ado­
@@ -398,7 +413,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - id: c-173563
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 217."
   citata_originali: |
     Adomas Bremenietis, minėdamas Prūsijos pro­
     vincijas, kurias dėl nesuprantamų priežasčių vadina salo­

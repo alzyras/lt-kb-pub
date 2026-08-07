@@ -67,7 +67,8 @@ Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusi
 - id: c-168771
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Verčiau pasiduodant išsaugoti šiokią tokią valstybę,
     kad ir nugalėtojo valdomą, nei viską atkakliu prie­

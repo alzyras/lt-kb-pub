@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c39cd6f4fca9ba3ef3628964"
+canonical_name: "Evarikas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Evarikas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Evarikui, norėdamas pelnyti jo palankumą. Odoakras ne trukus perleido šią provinciją visigotų karaliui Evarikui, norėdamas taip pelnyti jo palankumą, o kiek anksčiau jis užmezgė draugiškus santykius su galingu Afrikos vandalų karaliumi Genseriku, iš kurio tam tikromis są lygomis gavo Siciliją."
 ---
 # Evarikas
 
@@ -92,7 +99,8 @@ Teodoras Narbutas rašo, kad Odoakras perleido Dalmatiją visigotų karaliui Eva
 - id: c-174275
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
   citata_originali: |
     Tuo
     metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą

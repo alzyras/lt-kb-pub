@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2ecaaa5d65d194956a36defb"
+canonical_name: "Sandomiras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sandomiras"]
+sameAs: []
+canonical_biography: "Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam magistrui, kviesdamas jį į savo krikšto tėvus."
+place_authority: true
+historical_names: []
 ---
 # Sandomiras
 
@@ -149,7 +158,8 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 238."
   citata_originali: |
     Paskelbti šiuo metu Lietuvai karą būtų
     per daug neapgalvotas ir neapskaičiuotas žygis, nes pati viena
@@ -171,7 +181,8 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 - id: c-121940
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 26."
   citata_originali: |
     Prie Cėsių (į šiaurę nuo Dauguvos)
     lietuviams pavyko sutriuškinti Livonijos
@@ -192,7 +203,8 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 - id: c-168489
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 152."
   citata_originali: |
     Staigiai ir be var­
     go iškilęs į valdžios viršūnes, Vytenis turėjo pamato
@@ -233,7 +245,8 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 - id: c-168490
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 275."
   citata_originali: |
     Prūsijos; atgavęs Gardino, Volkovysko bei Bresto val­
     das, užleistas jam pagal susitarimą Jogailos, jis vėl
@@ -269,7 +282,8 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 - id: c-178881
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 152."
   citata_originali: |
     Gandas apie baisų pralaimėjimą, pasiekęs Kroku­
     vą, kur tuo metu tarėsi suvažiavę didikai, paskatino

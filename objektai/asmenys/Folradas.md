@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dada24de8de73b5f8eeed87a"
+canonical_name: "Folradas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Folradas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų. Dusburgietis teigia, kad folradas slapta atidarė pilies vartus, ir broliai, ten įsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai 554 Konradas Žakas, atrodo, ne pastatė Goliubo pilį, o tik ją pritaikė kryžiuočių poreikiams (Powierski J."
 ---
 # Folradas
 
@@ -82,7 +89,8 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 - id: c-60748
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
   citata_originali: |
     Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
 

@@ -91,7 +91,8 @@ Nenurodyta
 - id: c-169052
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 673"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 673."
   citata_originali: |
     Nors Radvilų rūmai
     buvo visai netoli karaliaus
@@ -130,7 +131,8 @@ Nenurodyta
 - id: c-178550
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 674"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 674."
   citata_originali: |
     Apmaldęs lenkus, Augustas jautėsi saugesnis, be to,
     susituokęs, kaip dera tikram

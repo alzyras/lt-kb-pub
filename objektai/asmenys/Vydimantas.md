@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ab787ecd780497dfe04076df"
+canonical_name: "Vydimantas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vydimantas"]
+sameAs: []
+canonical_biography: "Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę."
 ---
 # Vydimantas
 
@@ -52,7 +59,8 @@ Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 24."
   citata_originali: |
     Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias
     šios dinastijos atstovas, kaip galingas ir labai didelis ąžuolas,

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0fb3fb0dff8f6f6a4f7106d2"
+canonical_name: "Užpelkiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Užpelkiai"]
+sameAs: []
+canonical_biography: "Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitikimas su vietos kovotojais."
+place_authority: true
+historical_names: []
 ---
 # Užpelkiai
 
@@ -59,7 +68,8 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
 - id: c-45388
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 242."
   citata_originali: |
     1949 m. rugpjūčio 10 d. iš Kęstučio apy-
     gardos atvyko Prisikėlimo apygardos

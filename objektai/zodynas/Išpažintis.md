@@ -54,7 +54,8 @@ Narbutas, remdamasis Strijkovskiu ir Grunau, išpažintį priskiria lietuvių at
 - id: c-172186
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 319."
   citata_originali: |
     Išpažintis
     Prie apeigų, atliekamų per atnašavimą, dar priklauso iš­

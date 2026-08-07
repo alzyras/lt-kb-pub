@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ad009b9f39671a07d4f9ac9c"
+canonical_name: "Zbaražas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zbaražas"]
+sameAs: []
+canonical_biography: "Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams."
+place_authority: true
+historical_names: []
 ---
 # Zbaražas
 
@@ -53,7 +62,8 @@ Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams.
 - id: c-168682
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 341."
   citata_originali: |
     Pasitenkinęs
     šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.

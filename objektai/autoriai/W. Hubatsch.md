@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee292281ff9f394794c8d1f0"
+canonical_name: "W. Hubatsch"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["W. Hubatsch"]
+sameAs: []
+canonical_biography: "Hubatsch^158."
 ---
 # W. Hubatsch
 
@@ -72,7 +79,8 @@ Hubatsch^158.
 - id: c-65467
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 97."
   citata_originali: |
     », kurio red. yra prof. Götz von Seile; tiek jis,
     tiek kiti istorikai šiame metraštyje yra davę straipsnių Lietuvos
@@ -90,7 +98,8 @@ Hubatsch^158.
 - id: c-65468
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525.— Pars
     II: Regesta privilegiorum Ordinis S. Mariae Theutonicorum / Bearbeitet unter Mitwirkung

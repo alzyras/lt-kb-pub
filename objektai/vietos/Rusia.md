@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6196aaab95248d6f05ed46b3"
+canonical_name: "Rusia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rusia"]
+sameAs: []
+canonical_biography: "Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi. 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios. Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu."
+place_authority: true
+historical_names: []
 ---
 # Rusia
 
@@ -222,7 +231,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 - id: c-81923
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 174."
   citata_originali: |
     Vytautas, vienintelio
     troškimo apimtas, sukviečia pas save įžymiausius šiaurės
@@ -254,7 +264,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 - id: c-81924
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 45-46."
   citata_originali: |
     Pranciškaus
     vienuolius, kunigus, į Vilnių tas pats
@@ -289,7 +300,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 - id: c-81925
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131-132"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131-132."
   citata_originali: |
     -- • —
     115
@@ -319,7 +331,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 - id: c-175516
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
   citata_originali: |
     Visi Šie įvykiai siejami su III amžiumi.
     235
@@ -344,7 +357,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 - id: c-175517
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
   citata_originali: |
     Karalius Frotonas, valdęs, pasak Torfėjo skaičiavimų, maž­
     daug IV amžiaus viduryje, sužinojo, kad lietuvių genties
@@ -368,7 +382,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 - id: c-176149
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 84."
   citata_originali: |
     Grėsminga tebuvo šiaurė, tačiau
     tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
@@ -396,7 +411,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 - id: c-176150
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 248."
   citata_originali: |
     Kęstutis mė­
     gino sutrukdyti, tačiau, du
@@ -428,7 +444,8 @@ Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi
 - id: c-177146
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
   citata_originali: |
     Dabar pateiksime šį lietuvių mitologijos gabalėlį.
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­

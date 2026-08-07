@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d861f921c133ba469d47cbcf"
+canonical_name: "Terespolis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Terespolis"]
+sameAs: []
+canonical_biography: "Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Terespolio) tęsėsi apie 10 km, tačiau jų metu didesnių nuostolių S."
+place_authority: true
+historical_names: []
 ---
 # Terespolis
 
@@ -116,7 +125,8 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 - id: c-106016
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 6."
   citata_originali: |
     Tai didelis jo nuopelnas.
     M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
@@ -135,7 +145,8 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 - id: c-106017
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 149."
   citata_originali: |
     Rusų kavalerija sugebėjo keliose Bugo
     brastose forsuoti upę ir ji pasileido pas-
@@ -160,7 +171,8 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 - id: c-106018
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 6."
   citata_originali: |
     Būsimo
     istoriko motina - Ona Balevičiūtė. Terespolis nebuvo Balinskių

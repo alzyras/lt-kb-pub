@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9080fa9291e40a035669aa00"
+canonical_name: "Olbija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Olbija"]
+sameAs: []
+canonical_biography: "Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodosios jūros pakrantėse virto turtingais centrais."
+place_authority: true
+historical_names: []
 ---
 # Olbija
 
@@ -55,7 +64,8 @@ Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodo
 - id: c-175616
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
   citata_originali: |
     33
     Jau labai senais laikais graikai užmezgė santykius su

@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b4daab0dd39e8921bf1e75e3"
+canonical_name: "Kauno sala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno sala"]
+sameAs: []
+canonical_biography: "Po to Kauno saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas, (1413), kuriame, neskaitant Vytauto ir Makro, dalyvavo dar Jogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir lenkų bajorai, Ordino riteriai."
+place_authority: true
+historical_names: []
 ---
 # Kauno sala
 
@@ -59,7 +68,8 @@ Po to Kauno saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas, (14
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 148."
   citata_originali: |
     Mat, Vokiečių Ordinas,
     bijodamas Vytauto įsigalėjimo Žemaitijoje, kurią buvo gavęs

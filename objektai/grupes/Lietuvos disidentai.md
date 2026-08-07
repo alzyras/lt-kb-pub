@@ -90,20 +90,8 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   pagrindžia:
     - c-22598
 
-<a id="claim-t-74670"></a>
-- t-004
-  teiginys: "Sovietinė valdžia žinomus Lietuvos disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo."
-  atnaujinta: "2026-07-24 15:57"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1978 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis ir susijęs su Lietuvos disidentais."
-  pagrindžia:
-    - c-22600
-
 <a id="claim-t-74671"></a>
-- t-005
+- t-004
   teiginys: "Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais."
   atnaujinta: "2026-06-14 10:46"
   sprendimo_priezastis: "auto"
@@ -126,7 +114,8 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 - id: c-22598
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 229."
   citata_originali: |
     Politinių tikslų
     nesiekęs Komitetas veikė penkerius metus, parengė 53 dokumentus ir kai
@@ -150,7 +139,8 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 - id: c-22599
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 229."
   citata_originali: |
     Maždaug nuo XX a. šeštojo dešimtmečio pabaigos su sovietų režimu
     ėmė kovoti ir pavieniai lietuvių inteligentai, vadinamieji disidentai – so-
@@ -172,7 +162,8 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 - id: c-22600
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 229."
   citata_originali: |
     Disidentinis judėjimas sten-
     gėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų
@@ -192,12 +183,12 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-005
 
 - id: c-22601
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Taip
     demokratiniai Vakarai sužinojo apie tikrąją padėtį, žmogaus teisių pažei-
@@ -218,7 +209,8 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 - id: c-72706
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Sovietinė valdžia represijas prieš disidentus derino su dalinių
     nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-

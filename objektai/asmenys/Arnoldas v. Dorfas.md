@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7a3a9e4b5c928c5dbdcbe582"
+canonical_name: "Arnoldas v. Dorfas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Arnoldas v. Dorfas"]
+sameAs: []
+canonical_biography: "Neuenburgą, kamendotą Altenburgo, ir Arnoldą v."
 ---
 # Arnoldas v. Dorfas
 
@@ -41,9 +48,9 @@ Neuenburgą, kamendotą Altenburgo, ir Arnoldą v.
 ## Citatos
 
 - id: c-184765
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 276"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 276."
   citata_originali: |
     Tą matančiam mistrui kryžeivių rodės tarimas
     mistro kalavijonų, arba Kristaus karėjų, dar reika­

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-31d7c1fee4fdbd550e65c457"
+canonical_name: "Bebro upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bebro upė"]
+sameAs: []
+canonical_biography: "Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseniai Mazovijos Ziemovito suda rytos taikos sutarties su kryžiuočiais atgrasinti jotvingiai pasitraukė prie Bebro upės ir Bugo žemupio, iš kur, pa dvigubinę savo jėgas, puldinėdavo kitapus."
+place_authority: true
+historical_names: []
 ---
 # Bebro upė
 
@@ -53,7 +62,8 @@ Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseni
 - id: c-177321
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 132."
   citata_originali: |
     Si sutartis buvo pasirašyta Trošine 1260 metų
     birželio 15 dieną1.

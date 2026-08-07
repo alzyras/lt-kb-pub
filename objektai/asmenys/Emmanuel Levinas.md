@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-19f93b5b9e79ea672f147188"
+canonical_name: "Emmanuel Levinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Emmanuel Levinas"]
+sameAs: []
+canonical_biography: "O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry (Romanas Gari) ar Kaune gimęs ir gimnaziją."
 ---
 # Emmanuel Levinas
 
@@ -41,7 +48,8 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
 - id: c-21660
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265."
   citata_originali: |
     PA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I
     „Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-

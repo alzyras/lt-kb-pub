@@ -34,6 +34,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7b1df160e05a346b681dc555"
+canonical_name: "Vilija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilija"]
+sameAs: []
+canonical_biography: "Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­ dangino su visu guotu į Šventaragio slėnį, už keturių mylių nuo Trakų, kur Vilnios upė įteka į Viliją. Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­ nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­ ta, saugoma aukštų sienų ir trijų bokštų."
+place_authority: true
+historical_names: []
 ---
 # Vilija
 
@@ -246,7 +255,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - id: c-158374
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 284"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 284."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA // TOMAS
     dėlto, atrodo, kad Goštautas nežinia kodėl šia karaliaus pri­
@@ -272,7 +282,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - id: c-158375
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 299-300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 299-300."
   citata_originali: |
     Nors Viklifo sekėjas buvo ekskomuni­
     kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir
@@ -321,7 +332,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - id: c-158376
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 124."
   citata_originali: |
     Šalimais jo apvalus bokštas, iš plytų
     ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai
@@ -347,7 +359,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - id: c-158377
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 160."
   citata_originali: |
     Pirmiausia jų,
     regis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi
@@ -370,7 +383,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - id: c-158378
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 291"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 291."
   citata_originali: |
     Trys į
     Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­
@@ -402,7 +416,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - id: c-158380
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 245."
   citata_originali: |
     Ta pačia privilegija, kuria Vilniui buvo
     duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­
@@ -429,7 +444,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - id: c-158381
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 288-289"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 288-289."
   citata_originali: |
     272
 
@@ -454,7 +470,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - id: c-158382
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 285-286"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 285-286."
   citata_originali: |
     Pagaliau
     karaliaus raštas ponui Abramui, iž­
@@ -530,7 +547,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - id: c-158383
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 126."
   citata_originali: |
     Čia buvo pats miesto centras - ten,
     kur dabar stovi Rotušė ir Šv. Kazimiero bažnyčia; po Aukš­
@@ -554,7 +572,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - id: c-167258
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 67."
   citata_originali: |
     Taigi ta vietovė, žinia, jei ji buvo parinkta to­
     kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
@@ -583,7 +602,8 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - id: c-167259
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 123."
   citata_originali: |
     Dar
     niūrokas tuomet, bet visais laikais kerintis gražiu krašto­

@@ -57,7 +57,7 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
 <a id="claim-t-66506"></a>
 - t-001
   teiginys: "1290 m. gegužės 12 d. Ernekė su Jonu iš Vienos ir 25 ginklanešiais laivais plaukė link Lietuvos pro Kolainių pilį."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1290 m."
@@ -116,7 +116,8 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
 - id: c-66718
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Kai jie plaukė pro jau
     minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
@@ -144,7 +145,8 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
 - id: c-66719
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
   citata_originali: |
     Kiti išbėgiojo, ir kurie
     ne kurie dykroje iš sielvarto pasikorė, o kiti ten išmirė, negaudami nei atsigerti, nei

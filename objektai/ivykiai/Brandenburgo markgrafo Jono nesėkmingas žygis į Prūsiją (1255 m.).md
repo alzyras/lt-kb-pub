@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-63529
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 109."
   citata_originali: |
     Apie Brandenburgo markgrafo atvykimą
     Tais metais, tai yra 1255 viešpaties metais339, valdovas Jonas, Brandenburgo

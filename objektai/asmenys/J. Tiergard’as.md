@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb4d3dd10e654d2121de0df7"
+canonical_name: "J. Tiergard’as"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Tiergard’as"]
+sameAs: []
+canonical_biography: "Tiergard’as reiškė tą pačią nuomonę."
 ---
 # J. Tiergard’as
 
@@ -50,7 +57,8 @@ Tiergard’as reiškė tą pačią nuomonę.
 - id: c-32740
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 364."
   citata_originali: |
     Jeigu Vytautas gautų Klaipėdą — skundėsi ma­
     gistras, — Prūsų ir Livonijos žemės liktų perskirtos, ir tai reikštų

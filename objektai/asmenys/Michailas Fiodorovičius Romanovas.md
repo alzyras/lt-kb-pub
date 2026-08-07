@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ca55003d985665a20802e21c"
+canonical_name: "Michailas Fiodorovičius Romanovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Michailas Fiodorovičius Romanovas"]
+sameAs: []
+canonical_biography: "Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Romanovas."
 ---
 # Michailas Fiodorovičius Romanovas
 
@@ -63,7 +70,8 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
 - id: c-44459
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 120."
   citata_originali: |
     Caru tapo
     1613 m. Zemskinio susirinkimo išrinktas
@@ -83,7 +91,8 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
 - id: c-167142
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 120."
   citata_originali: |
     Jiems padėti nesugebėjo net Lenkijos-
     Lietuvos valdovo apgultiesiems į pagalbą

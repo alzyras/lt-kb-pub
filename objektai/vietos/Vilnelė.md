@@ -39,6 +39,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d41e7d0014f3032bcb314c9d"
+canonical_name: "Vilnelė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilnelė","Vilnia Vilnelė"]
+sameAs: []
+canonical_biography: "Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­ jėgęs tik vyriausias žynys Lizdeika išaiškinti. 73 Vilhelmas Habsburgas 281, 284- 286, 289 Vilhelmas Morenietis 166, 167, 180 Vilhelmas, Olandijos grafas 249 Vilija (Neris) 156 Vilikaila 162 Vilkaviškis 112 Vilkija 216 Vilkų Kampo kaimas 109 Vilnelė, upė 110, 244 Vilkolevičius, bajoras 368 Vilnius 5, 6."
+place_authority: true
+historical_names: []
 ---
 # Vilnelė
 
@@ -51,13 +60,13 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 <a id="claim-t-195132"></a>
 - t-001
   teiginys: "Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Panaudota citatos dalis, kuri aiškiai susijusi su Vilnele."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-177515
+    - c-177518
 
 <a id="claim-t-195133"></a>
 - t-002
@@ -397,7 +406,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 152."
   citata_originali: |
     Iš to žodžio paimtas pa­
     vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
@@ -415,7 +425,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177512
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     Pagaliau čia, Vilniuje,
     šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
@@ -444,7 +455,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177513
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 279."
   citata_originali: |
     Iš tos versmės ištekantis upelis vadi­
     nosi Druja, nes yra miesto archyve ka­
@@ -479,7 +491,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177514
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 123."
   citata_originali: |
     Dar
     niūrokas tuomet, bet visais laikais kerintis gražiu krašto­
@@ -505,7 +518,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177515
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 35-36"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 35-36."
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
     je buvo keletas tokių šventų vieto­
@@ -537,13 +551,13 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-003
 
 - id: c-177516
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 124."
   citata_originali: |
     Tačiau nėra patikimų
     tam įrodymu.
@@ -572,7 +586,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177517
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 283."
   citata_originali: |
     Malūnas, iki mūsų laikų vadin­
     tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
@@ -598,7 +613,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177518
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 36."
   citata_originali: |
     Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­
     konams ir dominikonams, prie Vilniaus pilies pastatydino
@@ -626,14 +642,17 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   citata_rodoma: "Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­\nkonams ir dominikonams, prie Vilniaus pilies pastatydino \njiems vienuolynus ir bažnyčias, o kad krašte plistų amatai, \nleido naujai įkurtame mieste apsigyventi gausiems atėjū­\nnams iš Vokietijos ir Lenkijos\n9\nManome, kad Pilies kalnas senų se­\nnovėje buvo gerokai mažesnė kalva, \nužbaigianti virtinę kalnų, juosiančių \nVilnelės vorupę, kuri seniau toje mi­\nnėtosios kalvos pusėje įtekėjo į Vili­\nją. Gediminas, statydindamas pilį \nkaro belaisvių iš Rusios rankomis, \niškasęs Vilnelei kitą vagą, kurią da­\nbar matome, ten išraustomis žemė­\nmis paaukštino paskuoją pilies kal­\nvą ir gal ją iš karto visai vandeniu \nužtvindė, juk anuomet visas lietuvių \npilis buvo stengiamasi apsupti van­\ndeniu. Iki šiol Palenkėję tarp vieti­\nnių žmonių sklinda padavimas, esą \nsenovės laikais iš ten eidavę į Vilnių \nkalnų kasti."
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-177519
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 32."
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­
     paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
@@ -659,7 +678,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177520
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 251."
   citata_originali: |
     Gražia legenda yra apipintas Vilniuje valstybės sostinės
     įkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­
@@ -681,7 +701,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177521
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 33-34"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 33-34."
   citata_originali: |
     17
 
@@ -710,7 +731,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177522
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 64-65"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 64-65."
   citata_originali: |
     48
 
@@ -752,7 +774,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177523
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 67."
   citata_originali: |
     Taigi ta vietovė, žinia, jei ji buvo parinkta to­
     kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
@@ -784,7 +807,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177524
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 373."
   citata_originali: |
     PATS ALEKSANDRAS,
     DIEVO MALONE DIDYSIS LIETUVOS,
@@ -809,7 +833,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177525
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 123."
   citata_originali: |
     O pilies kalno pietų
     pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­

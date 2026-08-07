@@ -35,6 +35,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e2ed7e4fa29d8a8e33b8d006"
+canonical_name: "Vilniaus Žemutinė pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kreivoji pilis","objektai/vietos/Vilniaus Žemutinė pilis","Vilniaus Žemutinė pilis","Žemutinė Kre","Žemutinė pilis","Žemutinė pilis Kreivoji pilis"]
+sameAs: []
+canonical_biography: "O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją. Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus Žemutinė pilis
 
@@ -79,7 +88,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 <a id="claim-t-85903"></a>
 - t-003
   teiginys: "Žemutinė pilis taip pat vadinta Kreivąja pilimi."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   vertinimo_atnaujinta: "2026-06-13T14:21:42Z"
@@ -123,7 +132,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - id: c-81883
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 124."
   citata_originali: |
     Šalimais jo apvalus bokštas, iš plytų
     ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai
@@ -149,7 +159,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - id: c-81884
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 123."
   citata_originali: |
     Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
     nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,
@@ -174,7 +185,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - id: c-81885
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 139."
   citata_originali: |
     O
     šeštosios dienos rytą buvo pradėtas pagrindinis puolimas iš
@@ -195,7 +207,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - id: c-81886
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 217."
   citata_originali: |
     2. Žemutinė, arba Kreivoji pilis.
     3. Aukuras, amžinai deganti pagonių ugnis.
@@ -208,7 +221,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - id: c-81887
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 138."
   citata_originali: |
     Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
     kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei

@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-43b1cdf9493990e5cc2cd9d5"
+canonical_name: "Papakoda"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Papakoda"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Papakoda
 

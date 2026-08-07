@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-35f7a84c8e2bf2693954b888"
+canonical_name: "Pripetės pelkės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pripetės pelkės"]
+sameAs: []
+canonical_biography: ") baltuose ir jų san­ tykiai su kaimynais Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje vyko germanų tautų."
+place_authority: true
+historical_names: []
 ---
 # Pripetės pelkės
 
@@ -79,7 +88,8 @@ media_all_json: |-
 - id: c-93044
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 113."
   citata_originali: |
     **4. Vidurinis geležies amžius (400-800 m.) baltuose ir jų san­**
         **tykiai su kaimynais**

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6446d8121a060e1e9b6de231"
+canonical_name: "Lydos apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lydos apskritis"]
+sameAs: []
+canonical_biography: "1826 m. Lydos apskrityje, prie Ogrodnikų kaimo Šalčios pakrantės skardyje, kaimietis rado senų sidabrinių pinigų. Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su Ragučio žynių moterų pavadinimu. Narbutas Lydos apskritį priskyrė Tikrajai Lietuvai, kur, jo teigimu, nuo seniausių laikų buvo obelijomis vadintų pelenų laikymo vietų."
+place_authority: true
+historical_names: []
 ---
 # Lydos apskritis
 
@@ -103,7 +112,7 @@ media_all_json: |-
 <a id="claim-t-194739"></a>
 - t-004
   teiginys: "Vilniaus akademijos mineralogijos kabinete yra keletas kirvukų iš tokio pat akmens, šiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę rasti Lydos apskrityje."
-  atnaujinta: "2026-07-19 16:57"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -111,14 +120,15 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171791
+    - c-177135
 
 ## Citatos
 
 - id: c-171789
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 250."
   citata_originali: |
     Nematyti jokio užrašo.
     1826 metais Lydos apskrityje, netoli Ogrodnikų kaimo, Šal­
@@ -137,7 +147,8 @@ media_all_json: |-
 - id: c-171790
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 301."
   citata_originali: |
     Ragelienė (Ragutienie)
     Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­
@@ -157,7 +168,8 @@ media_all_json: |-
 - id: c-171791
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 377."
   citata_originali: |
     Vienoda jų sandara ir tokia pat radimo vieta įtikina,
     jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
@@ -174,12 +186,12 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
-    - t-004
 
 - id: c-177135
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 379."
   citata_originali: |
     Tai palikimas seniausių šios žemės gyvento­
     jų, kurie dar nemokėjo naudoti geležies. Vilniaus akademijos
@@ -190,10 +202,11 @@ media_all_json: |-
   citata_rodoma: "Tai palikimas seniausių šios žemės gyvento­\njų, kurie dar nemokėjo naudoti geležies. Vilniaus akademijos\nmineralogijos kabinete yra keletas kirvukų iš tokio pat akmens,\nšiek tiek ilgesnių, tai yra ne tiek nudilintų aštrinant; jie buvę\nrasti Lydos apskrityje. Pasitaiko taip pat ir akmeninių kaitų,\nlabai gražiai padirbtų iš titnago."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Ragutėniškiai]]

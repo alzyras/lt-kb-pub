@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf82d5071482f455c1104a9b"
+canonical_name: "Targitas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Targitas"]
+sameAs: []
+canonical_biography: "Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir pirmasis tikrųjų skitų karalius. Narbutas svarsto, kad nauja karalių dinastija, kilusi iš Targito, valdė gentis, pradėjusias garsėti skitų vardu."
 ---
 # Targitas
 
@@ -76,7 +83,8 @@ Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir 
 - id: c-174209
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 44."
   citata_originali: |
     Si tauta buvo didelė ir galinga, ją
     valdė karaliai, ji turėjo savo įstatymų, mūrinių pilių ir
@@ -101,7 +109,8 @@ Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir 
 - id: c-174210
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 44."
   citata_originali: |
     24
     Kimbrai ir skitai. Visiškai galėjo būti, kad kimbrai,

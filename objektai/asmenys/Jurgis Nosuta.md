@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9882863ae0a3c8d42c24a7a"
+canonical_name: "Jurgis Nosuta"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Nosuta"]
+sameAs: []
+canonical_biography: "Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei didikų. Būnant Kazimierui Vilniuje, Drohičino ir Melniko seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman to."
 ---
 # Jurgis Nosuta
 
@@ -67,7 +74,8 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
 - id: c-169585
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 469"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 469."
   citata_originali: |
     Argi jie pasitiki ištiki­
     mybe Baltarusijos, kuri visada ligi šiol savo jėgomis rė­
@@ -89,7 +97,8 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
 - id: c-176557
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 126."
   citata_originali: |
     O paskui didysis kunigaikštis Kazimieras atvyko
     į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,

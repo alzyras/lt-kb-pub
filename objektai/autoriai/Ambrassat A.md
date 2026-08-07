@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-78c7b3c47d8aa6892c806624"
+canonical_name: "Ambrassat A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ambrassat A"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365). Dusburgietis teigia, kad pabaigos, vėliau perstatyta ir paversta kalėjimu (GAO, p. 181; Bonk H., Die Städte..., p 107—108; Boetticher A., Die Bau..., 2, p. 180— 182; Ambrassat A., Die Provinz..., p. 330—331; CV, t. Dusburgietis teigia, kad 33, 1—2, p. 278; Ambrassat A., Die Provinz..., p. 336; Gause F., Geschichte..., 1, p. 3—15; IIP, 1, 1, p. 450, 463; Powierski J., Sambia, p. 38; MPKP, 2, p. 241; Кириллова Ю."
 ---
 # Ambrassat A
 
@@ -61,7 +68,8 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
 - id: c-65251
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
   citata_originali: |
     595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,
     3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351

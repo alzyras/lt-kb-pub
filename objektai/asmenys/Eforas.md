@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b6189da75b3413d5d33f9d65"
+canonical_name: "Eforas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eforas"]
+sameAs: []
+canonical_biography: "Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo autorius, kurio veikalai išliko fragmentais."
 ---
 # Eforas
 
@@ -62,7 +69,8 @@ Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo au
 - id: c-174380
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 408"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 408."
   citata_originali: |
     Eforas
     (Ephoros), garsus graikų istorikas, Izokrato

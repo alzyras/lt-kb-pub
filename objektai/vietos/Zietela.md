@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e6276c39bf528d1f7a541f8"
+canonical_name: "Zietela"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zietela"]
+sameAs: []
+canonical_biography: "(^126) I SKYRIUS: LIETUVOS PROISTORĖ Lietuvių ten gyventą plotą akivaizdžiai parodo į pietvakarius nuo Naugarduko Zieteloje (Zdzięciol) iki šių dienų išsilaikiusi lietuvių kalbos sala."
+place_authority: true
+historical_names: []
 ---
 # Zietela
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-34109
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 133."
   citata_originali: |
     (^126) I SKYRIUS: LIETUVOS PROISTORĖ
     Lietuvių ten gyventą plotą akivaizdžiai parodo į pietvakarius nuo

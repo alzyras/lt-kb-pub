@@ -62,7 +62,8 @@ Nenurodyta
 - id: c-172849
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 388"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 388."
   citata_originali: |
     Sis
     paprotys turėjo būti paplitęs tik Žemaitijoje, kadangi tik čia tu­

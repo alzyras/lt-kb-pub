@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-53629901bf75769e90cfe449"
+canonical_name: "Žizdra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žizdra"]
+sameAs: []
+canonical_biography: "Žizdra šiame gabale tikėtina įtraukta į vietovardžių rodyklę."
+place_authority: true
+historical_names: []
 ---
 # Žizdra
 

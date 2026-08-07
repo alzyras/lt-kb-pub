@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-70993afb2e17e542bdde13b5"
+canonical_name: "Burchardas Aremas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Burchardas Aremas"]
+sameAs: []
+canonical_biography: "Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas ir trisdešimt ordino riterių."
 ---
 # Burchardas Aremas
 
@@ -65,7 +72,8 @@ Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas i
 - id: c-169548
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 159."
   citata_originali: |
     Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
     D o b iy n ą , ž u d o k i y -

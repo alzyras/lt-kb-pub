@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-87b4561c83113b5793808a35"
+canonical_name: "Pilaitė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pilaitė"]
+sameAs: []
+canonical_biography: "Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos krante, kur pastarai­ siais metais buvo agronomijos institutas, dabar priklauso buvusiam to instituto direktoriui ponui Fričinskiui, yra vie­ na iš seniausių įtvirtintų vietovių prie."
+place_authority: true
+historical_names: []
 ---
 # Pilaitė
 
@@ -51,7 +60,8 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
 - id: c-81922
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 67-68"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 67-68."
   citata_originali: |
     51
 

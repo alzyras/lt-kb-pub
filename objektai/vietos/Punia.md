@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7d88d52231f07d163cd80d34"
+canonical_name: "Punia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Punia"]
+sameAs: []
+canonical_biography: "Trakuose, Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­ bingiuose, Utenoje, Eišiškiuose, Gardine, Liet."
+place_authority: true
+historical_names: []
 ---
 # Punia
 
@@ -60,7 +69,8 @@ Trakuose, Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­ bing
 - id: c-175664
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
   citata_originali: |
     Iš čia, tęsdami kelionę į
     vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos

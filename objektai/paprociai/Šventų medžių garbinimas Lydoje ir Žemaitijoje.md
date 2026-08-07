@@ -66,7 +66,8 @@ Nenurodyta
 - id: c-174981
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 483"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 483."
   citata_originali: |
     Žemaičiuose šventas medis buvo šermukšnis17“.
   citata_rodoma: "Žemaičiuose šventas medis buvo šermukšnis17“."

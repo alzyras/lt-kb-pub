@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f12333bc619ef5764ba42313"
+canonical_name: "Šilainiai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šilainiai"]
+sameAs: []
+canonical_biography: "X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps."
+place_authority: true
+historical_names: []
 ---
 # Šilainiai
 
@@ -59,7 +68,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - id: c-40386
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     X ŠILAINIŲ PASALA
     1945 m. vasario 15 d. Raseinių aps. Betygalos vls. Graužų-Lenčių

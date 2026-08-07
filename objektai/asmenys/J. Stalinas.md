@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae0161a04bcc06160c649901"
+canonical_name: "J. Stalinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["J. Stalinas"]
+sameAs: []
+canonical_biography: "Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSRS. Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kultūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo komunistų partija: primesta marksistinė-lenininė."
 ---
 # J. Stalinas
 
@@ -168,7 +175,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 <a id="claim-t-101646"></a>
 - t-008
   teiginys: "Stalino statulų, prikabinėta komunistinių šūkių."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1950 m."
@@ -181,7 +188,8 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 - id: c-21705
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 209."
   citata_originali: |
     Padėtis ėmė keistis 1953 m. mirus J. Stalinui, o ypač po trejų metų Ni-
     kitai Chruščiovui pasmerkus J. Stalino kultą – susilpnėjo rusinimas, val-
@@ -203,7 +211,8 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 - id: c-21706
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 210."
   citata_originali: |
     pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,
     kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
@@ -224,7 +233,8 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 - id: c-21707
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Kultūros suvienodinimas
     J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros
@@ -246,7 +256,8 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 - id: c-21708
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
     no savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-
@@ -266,7 +277,8 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 - id: c-21709
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 222."
   citata_originali: |
     Lietuvos teritorijos), gynybinis karinis kompleksas
     reikalavo kvalifikuotos darbo jėgos. Ją ruošė totaliai kontroliuojama švieti-
@@ -288,7 +300,8 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 - id: c-21710
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 228."
   citata_originali: |
     Leista veikti tik vienai kunigų seminarijai Kaune, klierikų skaičių
     mažinant. 1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko.

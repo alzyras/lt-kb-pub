@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-44672fd31b3563a9917754f6"
+canonical_name: "Jurgis Butrimas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jurgis Butrimas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Jurgis Butrimas
 

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b15cae0c9de8cf5d551329e2"
+canonical_name: "Jonas Karcanas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Karcanas"]
+sameAs: []
+canonical_biography: "Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o pas­ kui jėzuitų, apie 1580 metus klestėjo: evangelikų reformatų - Danieliaus iš Lenčicos, globojama Minsko kašteliono Jono Hlebavičiaus bei Jono Karcano69, ir Kasparo Vilkovskio."
 ---
 # Jonas Karcanas
 
@@ -58,7 +65,8 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - id: c-83702
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 312."
   citata_originali: |
     Dar prieš įžengiant karaliui Steponui į sostą, Lie­
     tuvos piliečių brolių Mamoničių namuose įsteigta spaustu­

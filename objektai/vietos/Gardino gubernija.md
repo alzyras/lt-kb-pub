@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-aedc044b4b0624b3f4c93b73"
+canonical_name: "Gardino gubernija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gardino gubernija"]
+sameAs: []
+canonical_biography: "1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pradėjusiai veikti generalgubernatoriaus institucijai. Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių, istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gubernijos šiaurinis pakraštys. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu."
+place_authority: true
+historical_names: []
 ---
 # Gardino gubernija
 
@@ -135,7 +144,8 @@ media_all_json: |-
 - id: c-24125
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 100."
   citata_originali: |
     Prieš baudžiavos
     panaikinimą Vilniaus gyventojų skaičius priartėjo prie 60 tūkst.
@@ -156,7 +166,8 @@ media_all_json: |-
 - id: c-24126
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 100."
   citata_originali: |
     1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
     Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
@@ -178,7 +189,8 @@ media_all_json: |-
 - id: c-95150
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 100."
   citata_originali: |
     Mat baltarusių šnekta pragma-
     tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius

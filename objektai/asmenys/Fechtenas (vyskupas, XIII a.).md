@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-502ef92969220d8b9276acf0"
+canonical_name: "Fechtenas (vyskupas, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Fechtenas","Fechtenas (vyskupas, XIII a.)"]
+sameAs: []
+canonical_biography: "Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1294, vienok ir naujasis ar kivyskupas Šverinas nesusitaikino su kalavijonimis ir baisesniai ėmė su jais kariauti ir sandarus su lie tuviais ir žemaičiais patvirtino ir juos į karę samdė."
 ---
 # Fechtenas (vyskupas, XIII a.)
 
@@ -54,9 +61,9 @@ Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1294, vienok ir naujasi
 ## Citatos
 
 - id: c-184763
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 488"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 488."
   citata_originali: |
     Vos buvo
     beketąs naujasis mistras Dumpeshagenas su pagal­

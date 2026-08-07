@@ -45,6 +45,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2c9856af46e949ccc96031a5"
+canonical_name: "Smolenskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Smolenskas"]
+sameAs: []
+canonical_biography: "Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos."
+place_authority: true
+historical_names: []
 ---
 # Smolenskas
 
@@ -801,7 +810,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-32434
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 319."
   citata_originali: |
     Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė
     Smolenską. Lietuvos ekspansijoje į rytus ši Dniepro aukštupio
@@ -823,7 +833,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-32436
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 326"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 326."
   citata_originali: |
     Ne mažiau Vytauto padėtis susvyravo Rusios plotuose. 1401
     vėl atkrito Smolenskas. Sukilusių miestiečių ir savo šalininkų Smo­
@@ -840,7 +851,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-32437
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 327."
   citata_originali: |
     Vytautas greit užvaldė Smolenską
     (1404.VI.27) ir jame vėl paskyrė savo vietininką^48.
@@ -856,7 +868,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 81."
   citata_originali: |
     Per dvi savaiti Vytau­
     tas vaišino savo dukterį Zofiją su vaikais Smolenske. Mas­
@@ -878,7 +891,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-46732
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 217."
   citata_originali: |
     Karas prasidėjo 1512 m. Visos Maskvos jėgos buvo nu-
     kreiptos į Smolenską. Jis buvo net 3 sykius apgultas ir pagaliau,
@@ -894,7 +908,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-46735
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 350."
   citata_originali: |
     Zigmanto Vazos laikais, kai Maskvoje siautė di-
     džioji suirutė, buvo atgautas Smolenskas (žiūr. 313 psl.), ta-
@@ -912,7 +927,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-46736
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 354."
   citata_originali: |
     Tuo
     būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
@@ -939,7 +955,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 147."
   citata_originali: |
     Tos žinios kėlė Vytauto
     garbę, aukštino jį vietinių gyventojų akyse. Ir kada Vytautas,
@@ -964,7 +981,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 79."
   citata_originali: |
     Todėl rūpinosi grei­
     čiau apsisaugoti taika iš vakarų.
@@ -988,7 +1006,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-164145
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 42."
   citata_originali: |
     Kęstutis iš Trakų, savo
     valdos sostinės, turėjęs geriausių galimybių stebėti visus
@@ -1013,7 +1032,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-164147
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 10."
   citata_originali: |
     Juk jau 1562-1582 m.
     kare su Maskva dėl Livonijos Rusija užima Polocką, o iš Polocko
@@ -1035,7 +1055,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-164148
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 54."
   citata_originali: |
     Lietuvos valdovas Vytautas,
     surinkęs didelę kariuomenę, pa-
@@ -1059,7 +1080,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-164149
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 112."
   citata_originali: |
     J. K. Chodkevičiui buvo pavesta vadovauti
     Maskvoje apsuptos lenkų ir lietuvių įgulos debloka-
@@ -1078,7 +1100,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-164151
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 300."
   citata_originali: |
     Todėl
     jis pradėjo su caru derybas. Caras jo pasiuntinius priėmė labai
@@ -1101,7 +1124,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 81."
   citata_originali: |
     Kad laimėjimas būtų tikresnis, no­
     rėjo patraukti į savo pusę ir Maskvą. Per dvi savaiti Vytau­
@@ -1122,7 +1146,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-164155
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 138."
   citata_originali: |
     Čia slėpdavo­
     si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su
@@ -1147,7 +1172,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-164156
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 60."
   citata_originali: |
     Otcem
     że jeho mnoho łaskasze i mukami pre-
@@ -1184,7 +1210,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-164159
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 232."
   citata_originali: |
     Antrasis laiškas
     yra paties Švitrigailos rašytas didžia­
@@ -1221,7 +1248,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-164160
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 184."
   citata_originali: |
     Kaip sąmokslas buvo
     ruošiamas, tikslių žinių neturime, tik žinome, kad tada nema-
@@ -1247,7 +1275,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-164162
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 216."
   citata_originali: |
     **Pirmasis karas su Maskva (1507—8 m.).** Tuo pat metu
     betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius
@@ -1268,7 +1297,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-164165
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 53."
   citata_originali: |
     Kurį laiką Padauguvio giminės net mo-
     kėjo jam duoklę — buvo pripažinusios jo valdžią. Bet jau XII
@@ -1287,7 +1317,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-164168
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 201"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 201."
   citata_originali: |
     179 psl.),
     o vėliau — Smolenskui. Smolenske buvo įsigalėjęs Lengvenio
@@ -1306,7 +1337,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-168509
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 348."
   citata_originali: |
     Mat Jurijaus
     uošvis, Riazanės kunigaikštis Olegas, regėdamas neto­
@@ -1339,7 +1371,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-168511
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 367."
   citata_originali: |
     Sutartą dieną ten atvyko
     Rumbaudas, Lietuvos maršalas, atsivedęs lietuvius ir že­
@@ -1373,7 +1406,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-168513
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 472"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 472."
   citata_originali: |
     Nenusise­
     kęs žygis smarkiai suerzino Kazimierą, mat jaunikaitis
@@ -1403,7 +1437,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-168515
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 604"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 604."
   citata_originali: |
     Mat,
     nors pakrikas priešo atsitraukimas žadėjo nesunkią per­
@@ -1430,7 +1465,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-170597
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 124."
   citata_originali: |
     APIE JOGAILOS SŪNAUS KAZIMIERO IŠRINKIMĄ LIETUVOS
     DIDŽIUOJU KUNIGAIKŠČIU
@@ -1463,7 +1499,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-175969
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 209."
   citata_originali: |
     Besirūpinant karaliaus karūna apleisti karo reikalai
     dar labiau pablogėjo. Maskvos kariuomenė net tris kartus buvo
@@ -1480,7 +1517,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-177151
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
   citata_originali: |
     Iš jos sūnūs: Manvydas
     (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
@@ -1501,7 +1539,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - id: c-178884
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 471"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 471."
   citata_originali: |
     Mat prieš jį ko­
     vojo galybė žmonių, kurie, jo galva, ilgai nejus jokių
@@ -1529,5 +1568,4 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - Užėmė Smolenską: [[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis (valdovas, XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gynė Smolenską: [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Stanislovas Kiška]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Muradas II]]
-- Turėjo priklausinį: [[objektai/grupes/Smolensko pavieto seimelis]]
 - Smolenskas priklausė [[objektai/vietos/Lietuva]], [[objektai/vietos/Rusija]]

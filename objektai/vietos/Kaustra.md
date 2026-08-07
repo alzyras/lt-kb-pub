@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cd0ecdba4681a88835769392"
+canonical_name: "Kaustra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kaustra"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258. Dusburgietis teigia, kad kaustros (D.— Caustere, Jer.— tiliz [...] Kauxtere; GAO, p. 58) krante (Boetticher A., Die Bau...., 2, p. 65; CV, t."
+place_authority: true
+historical_names: []
 ---
 # Kaustra
 
@@ -62,7 +71,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - id: c-59204
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Aukštas piliakalnis su
     pilies griuvėsiais išliko į pietus nuo miesto, deš. Kaustros (D.— Caustere, Jer.— tiliz [...]
@@ -79,7 +89,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - id: c-59205
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
     nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė

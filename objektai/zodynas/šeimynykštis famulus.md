@@ -105,7 +105,8 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
 - id: c-59517
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
   citata_originali: |
     Apie vieną nuostabų atsivertimą
 
@@ -130,7 +131,8 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
 - id: c-59518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo
     Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.

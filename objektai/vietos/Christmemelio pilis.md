@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-670907abe8b14fb0d60476a1"
+canonical_name: "Christmemelio pilis (pilis)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Christmemelio pilis","Christmemelio pilis (pilis)"]
+sameAs: []
+canonical_biography: "Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeidė ar nukovė daug pilies gynėjų."
+place_authority: true
+historical_names: []
 ---
 # Christmemelio pilis (pilis)
 
@@ -77,7 +86,8 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
 - id: c-168623
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 191."
   citata_originali: |
     Kryžiuočių kariai, atskubėję iš
     iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau­

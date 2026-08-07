@@ -79,7 +79,8 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 - id: c-78197
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 107-108"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 107-108."
   citata_originali: |
     Panašių
     pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­
@@ -117,7 +118,8 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 - id: c-167277
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
   citata_originali: |
     16. Apie Rygos miesto sugriovimą
 

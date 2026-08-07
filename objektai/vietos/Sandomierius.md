@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c52b0e0a6eb2bd75cb6fb463"
+canonical_name: "Sandomierius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sandomierius"]
+sameAs: []
+canonical_biography: "1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes. Drauge su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes, o 1307 buvo įsiveržę į Kališo sritį^5."
+place_authority: true
+historical_names: []
 ---
 # Sandomierius
 
@@ -81,7 +90,8 @@ media_all_json: |-
 - id: c-32409
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 224."
   citata_originali: |
     1296 lietuviai įsiveržė į
     Sandomieriaus ir Kujavijos žemes. 1300 jie vėl pasirodė Dobry­
@@ -99,7 +109,8 @@ media_all_json: |-
 - id: c-34032
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 224."
   citata_originali: |
     1300 jie vėl pasirodė Dobry­
     niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
@@ -118,7 +129,8 @@ media_all_json: |-
 - id: c-167764
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 224."
   citata_originali: |
     Tęsdamas tėvo nurodytą politiką, Vytenis ne mažiau
     intensyviai iki 1307 puldinėjo Lenkiją. 1296 lietuviai įsiveržė į

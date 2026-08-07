@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7781507da9790f5bb5d7f063"
+canonical_name: "Albrechtas iš Hageno"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albrechtas iš Hageno"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo. Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į. Dusburgietis teigia, kad apie vieną įvykį 1317 metais Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo."
 ---
 # Albrechtas iš Hageno
 
@@ -57,14 +64,21 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
 <a id="claim-t-60005"></a>
 - t-002
   teiginys: "1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Albrechtas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albrechtas iš Hageno: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Albrechtas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albrechtas iš Hageno\" parinktas kaip owner_note_path. Targetas \"Albrechtas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1317 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Albrechtą iš Hageno ir atitinka citatą."
   pagrindžia:
-    - c-60636
+    - c-60637
 
 <a id="claim-t-60006"></a>
 - t-003
@@ -124,7 +138,8 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
 - id: c-60636
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 213."
   citata_originali: |
     Antra
     kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
@@ -142,13 +157,13 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-003
 
 - id: c-60637
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 215."
   citata_originali: |
     Apie vieną įvykį 1317 metais
 
@@ -162,14 +177,17 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   citata_rodoma: "Apie vieną įvykį 1317 metais\n\n  Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno\nšuoliais leidosi  į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo. Kai\njis, smarkiai susitrenkęs, po kurio laiko atsigavo ir atsistojo, tai apsidairęs neišvydo nei\nsavo žirgo, nei brolių kariuomenės; be galo susikrimtęs, jis atsiduso, pakėlė akis į dangų\nir pamaldžiai pasiprašė švenčiausiosios mergelės pagalbos, o padaręs kryžiaus ženklą,\npavedė save dievo bei švenčiausiosios mergelės globai  ir tuo pat keliu, kuriuo buvo\natvykęs, patraukė  į Ragainę."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-60638
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 186"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 186."
   citata_originali: |
     Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai
     priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis

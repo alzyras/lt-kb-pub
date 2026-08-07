@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88be600bfe68f0d7d2df1993"
+canonical_name: "Perudža"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Perudža"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje, brolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių. Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 viešpaties metais Perudžoje, Italijoje, nukirto galvą vienam plėšikui, nuolankiai gerbusiam mergelę Mariją, o jo galva, jau atkirsta nuo kūno, sušuko didžiu balsu: „Atveskite man kunigą, nes švenčiausioji."
+place_authority: true
+historical_names: []
 ---
 # Perudža
 
@@ -77,7 +86,8 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 - id: c-59244
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 244."
   citata_originali: |
     Apie vieną švenčiausiosios mergelės stebuklą
 
@@ -101,7 +111,8 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 - id: c-59245
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
   citata_originali: |
     25. Apie šventos Elžbietos kanonizavimą
 

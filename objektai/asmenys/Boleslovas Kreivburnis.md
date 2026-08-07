@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb1155e5e4b7bf684a2850d4"
+canonical_name: "Boleslovas Kreivburnis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Boleslovas Kreivburnis"]
+sameAs: []
+canonical_biography: "Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo Vladislovo, Mieško, Henriko ir Kazimiero, kurie, nekakindamos tuo pa dalijimu, lig tėvui nustipus, lig sūnūs sukeršto."
 ---
 # Boleslovas Kreivburnis
 
@@ -49,9 +56,9 @@ Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo V
 ## Citatos
 
 - id: c-184762
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 161"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 161."
   citata_originali: |
     Yra raštuose randama, jog tą metą Vsevolodas,
     kunigaikštis Naugardo, kariavęs su lietuviais ir ana- 1135

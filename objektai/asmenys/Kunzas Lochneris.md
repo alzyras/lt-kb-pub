@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-051fbf2ee7c574c318b0e474"
+canonical_name: "Kunzas Lochneris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kunzas Lochneris"]
+sameAs: []
+canonical_biography: "Žygimanto Augusto paradiniai šarvai, pagaminti Niunberge meistro Kunzo Lochnerio, XVI a."
 ---
 # Kunzas Lochneris
 
@@ -50,7 +57,8 @@ media_all_json: |-
 - id: c-77392
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     buvo geriausi kariai, kuriuos tuo metu
     buvo galima surinkti. Greta didžiojo

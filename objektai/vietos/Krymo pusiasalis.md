@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f84e6a8268b407a0c1dcedfd"
+canonical_name: "Krymo pusiasalis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krymo pusiasalis"]
+sameAs: []
+canonical_biography: "Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės buveinės - Krymo pusiasalio nuošalumas nuo stiprių galios centrų, tokių kaip Lenkija, Lietuva ar Maskvos valstybė."
+place_authority: true
+historical_names: []
 ---
 # Krymo pusiasalis
 
@@ -51,7 +60,8 @@ Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės b
 - id: c-45152
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 78."
   citata_originali: |
     Totorių kariuomenė
 

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1e92fbf0f455ff40361c5080"
+canonical_name: "Haličo ir Volinijos žemės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Haličo ir Volinijos žemės"]
+sameAs: []
+canonical_biography: "Prasidėjęs kon­ fliktas dėl Haličo ir Volinijos žemių paveldėjimo nusitęsė iki Liud­ viko Anjou mirties (1382)."
+place_authority: true
+historical_names: []
 ---
 # Haličo ir Volinijos žemės
 
@@ -60,7 +69,8 @@ Prasidėjęs kon­ fliktas dėl Haličo ir Volinijos žemių paveldėjimo nusit�
 - id: c-33858
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 240."
   citata_originali: |
     anksčiau palaikomi intereso prieš bendrą priešą. Prasidėjęs kon­
     fliktas dėl Haličo ir Volinijos žemių paveldėjimo nusitęsė iki Liud­

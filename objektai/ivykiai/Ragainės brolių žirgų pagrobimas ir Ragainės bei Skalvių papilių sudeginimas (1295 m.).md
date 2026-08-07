@@ -142,7 +142,8 @@ Nenurodyta
 - id: c-63088
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
                                      sudeginimą

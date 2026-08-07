@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-766528cdd4dcbbbb5125658c"
+canonical_name: "Augustas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Augustas"]
+sameAs: []
+canonical_biography: "Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė. 1543 m. Krokuvoje Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį. Karalius B resto se im a s atvyko su sūnumi Augustu."
 ---
 # Augustas
 
@@ -37,20 +44,8 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 
 ## Teiginiai
 
-<a id="claim-t-185940"></a>
-- t-001
-  teiginys: "Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-178676
-
 <a id="claim-t-196421"></a>
-- t-002
+- t-001
   teiginys: "1543 m. Krokuvoje Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -63,7 +58,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
     - c-169301
 
 <a id="claim-t-196422"></a>
-- t-003
+- t-002
   teiginys: "Karalius B resto se im a s atvyko su sūnumi Augustu."
   atnaujinta: "2026-07-12 22:28"
   sprendimo_priezastis: "auto"
@@ -75,7 +70,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
     - c-178676
 
 <a id="claim-t-196423"></a>
-- t-004
+- t-003
   teiginys: "Ginče dėl caro titulo Augustui atsakyta, kad ciesoriumi iš pagarbos tituluojamas tik Romos imperatorius."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -92,7 +87,8 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - id: c-169301
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 671"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 671."
   citata_originali: |
     1543 m e ta i
     Ž y g im a n ta s
@@ -119,12 +115,13 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-001
 
 - id: c-169302
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 689"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 689."
   citata_originali: |
     Tuo tarpu Maskvos
     valdovas atsiuntė įgaliotus legatus neseniai sudarytoms
@@ -153,12 +150,13 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-003
 
 - id: c-178676
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 672"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 672."
   citata_originali: |
     B adas L ie tu v o je
     Prieš metus bei kelis mė­
@@ -184,5 +182,4 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-003
+    - t-002

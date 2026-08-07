@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd44ff8c8f8e1714b89dbb7c"
+canonical_name: "Jotvingija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Jotvingija"]
+sameAs: []
+canonical_biography: "Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę, jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL II, 879)."
+place_authority: true
+historical_names: []
 ---
 # Jotvingija
 
@@ -79,7 +88,8 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 152."
   citata_originali: |
     Vytautas ir Jogaila, išgirdę iš savo pasiuntinių tokį sprendimą,
     anot Dlugošo, graudžiai apsiverkė^1 ) ir tuojau pasiuntė ki­
@@ -105,7 +115,8 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
 - id: c-67714
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 144."
   citata_originali: |
     Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių
     pavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten

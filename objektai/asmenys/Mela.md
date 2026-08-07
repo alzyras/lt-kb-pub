@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-07280849f4b518fc2319a634"
+canonical_name: "Mela"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mela"]
+sameAs: []
+canonical_biography: "Narbutas gynė Melą nuo Slėcerio kaltinimų ir svarstė, kad Mela žinias apie Baltijos pakrantes galėjo perimti iš gerų senovės šaltinių."
 ---
 # Mela
 
@@ -53,7 +60,8 @@ Narbutas gynė Melą nuo Slėcerio kaltinimų ir svarstė, kad Mela žinias apie
 - id: c-174179
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
   citata_originali: |
     Taip jūros plotas vis didėjo, ir
     galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra

@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e26f347165869a08ca1f81f9"
+canonical_name: "Mikalojus Bartkevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Bartkevičius"]
+sameAs: []
+canonical_biography: "1601 m. Vilniaus pilies teisme Kauno miestietis ir pirklys Mikalojus Bartkevičius su kitais kauniečiais pirkliais prašė įrašyti į teismo aktų knygas savo pareiškimą dėl Jurui Volmenskiui priklausančio Sudervės dvaro tijūno savivalės."
 ---
 # Mikalojus Bartkevičius
 
@@ -49,9 +56,9 @@ media_all_json: |-
 ## Citatos
 
 - id: c-185476
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 223"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 223."
   citata_originali: |
     Kad taip būdavo, rodo konkrečios Kauno pirklių bylos. 1601 m. Vilniaus pilies
     teisme Kauno miestietis ir pirklys Mikalojus Bartkevičius su kitais kauniečiais pir-

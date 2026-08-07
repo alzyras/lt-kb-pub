@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cea6cae3fcb100beb7505efb"
+canonical_name: "Ditrichas iš Ezbeko"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas iš Ezbeko"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei ginklanešių, jie patraukė prie Pieštvės. Dusburgietis teigia, kad šitai matydami, netikėliai pastojo jiems kelią, o šiame laivų mūšyje krito brolis Ditrichas iš Ezbeko ir dar vienas brolis, vardu [..?] iš Feringės."
 ---
 # Ditrichas iš Ezbeko
 
@@ -91,7 +98,8 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - id: c-60738
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
   citata_originali: |
     Kas šitai valiotų padaryti, jeigu ne tas,
     kuris įsakė jūrai stovėti kaip mūras jų dešinėje ir kairėje, kad Izraelio tauta ją galėtų
@@ -113,7 +121,8 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - id: c-60739
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Vis dėlto, kai
     Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,

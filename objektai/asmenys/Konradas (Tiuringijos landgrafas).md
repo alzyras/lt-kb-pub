@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5932fa5d401a97cc03643256"
+canonical_name: "Konradas (Tiuringijos landgrafas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas (Tiuringijos landgrafas)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų šio Ordino vienuoli© apsiaustą. Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino didįjį magistrą Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis magistras, mirė liepos 24 dieną, o palaidotas Markburge. Dusburgietis teigia, kad konradas (Tiuringijos landgrafas) kreipėsi į jo šventenybę popiežių, kuriam ir išpažino visas savo nuodėmes."
 ---
 # Konradas (Tiuringijos landgrafas)
 
@@ -85,7 +92,8 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
 - id: c-60621
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Rytą, patyręs, jog anksčiau minėtuosius Hartmaną
     bei Ditrichą kamavo panašios mintys, nuėjo su jais basomis ir su ašutinėmis į švento
@@ -104,7 +112,8 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
 - id: c-60622
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su
     daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,
@@ -129,7 +138,8 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
 - id: c-60623
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
   citata_originali: |
     33. Apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino
                                                   didįjį magistrą

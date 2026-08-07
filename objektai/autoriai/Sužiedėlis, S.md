@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f3f0809e60848e95f8fe18c"
+canonical_name: "Sužiedėlis, S"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Sužiedėlis, S"]
+sameAs: []
+canonical_biography: "— Sužiedėlis, S. Sužiedėlis, S."
 ---
 # Sužiedėlis, S
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-33156
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 360"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 360."
   citata_originali: |
     Br. 1923. — Sužiedėlis, S. :
     Vytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-

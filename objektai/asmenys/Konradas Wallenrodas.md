@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5dc56b98334ad63949c01e58"
+canonical_name: "Konradas Wallenrodas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas Wallenrodas"]
+sameAs: []
+canonical_biography: "Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugsėjo 1 d. prie Kauno Nemuno saloje, pagerbdamas gausiai atsilankiusius svečius-pilgrimus, iškėlė tokią didelę puotą, kokios — pagal ordino metraščius — iki tol dar nebuvo buvę."
 ---
 # Konradas Wallenrodas
 
@@ -62,7 +69,8 @@ Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugs�
 - id: c-32775
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 314."
   citata_originali: |
     Naujasis ordino vyriausias magistras Konradas Wallenrodas,
     kuris lenkų ir lietuvių tautose yra ypač išpopuliarėjęs per Adomo

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4cbc46c896283b9b0912c6f"
+canonical_name: "Jonas Arvasevičius"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jonas Arvasevičius"]
+sameAs: []
+canonical_biography: "dr. Jonas Arvasevičius Korektorė Ieva Puluikienė Fotografė Giedrė Maksimovicz Iliustracijas rinko: Karolis Zikaras, Dalius Čižeika, Auksė Ūsienė, Tomas Čeponis Dailininkė Loreta Uzdraitė Išleido Leidykla UAB „ALIO“ Šeimyniškių 23/2, LT-09236 Vilnius tel."
 ---
 # Jonas Arvasevičius
 
@@ -50,7 +57,8 @@ dr. Jonas Arvasevičius Korektorė Ieva Puluikienė Fotografė Giedrė Maksimovi
 - id: c-44611
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 286."
   citata_originali: |
     UDK 355-48(474.5)(091)
 

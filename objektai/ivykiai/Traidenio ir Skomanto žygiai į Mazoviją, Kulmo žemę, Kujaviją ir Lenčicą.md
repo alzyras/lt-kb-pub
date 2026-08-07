@@ -109,7 +109,8 @@ Nenurodyta
 - id: c-169008
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 132."
   citata_originali: |
     Vargu ar galima patikėti, kad per
     tokį trumpą laiką po Šventaragio mirties (tai yra vos

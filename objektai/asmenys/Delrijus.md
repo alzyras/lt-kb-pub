@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2f4d504b94eb6c6d8087981a"
+canonical_name: "Delrijus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Delrijus"]
+sameAs: []
+canonical_biography: "Jono Krikštytojo šventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Delrijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi romantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo je pusėje, praktikuodavo dar kitą piromantijos rūšį."
 ---
 # Delrijus
 
@@ -46,7 +53,8 @@ Jono Krikštytojo šventės išvakarėse, šokinėjimą aplink laužą, šokimą
 - id: c-177225
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
   citata_originali: |
     Strijkovskis aiškiai
     tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės

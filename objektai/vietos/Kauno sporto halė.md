@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-070e45a9c139b5527e67709b"
+canonical_name: "Kauno sporto halė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno sporto halė"]
+sameAs: []
+canonical_biography: "Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempionais 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 177 Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias tautos kūrėjų."
+place_authority: true
+historical_names: []
 ---
 # Kauno sporto halė
 
@@ -59,7 +68,8 @@ Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą t
 - id: c-26555
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 176-177"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 176-177."
   citata_originali: |
     O sava valstybė,
     atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių,

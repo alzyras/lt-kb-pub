@@ -59,7 +59,8 @@ Politinis atšilimas ir liberalizacijos ženklai kultūriniame gyvenime nereišk
 - id: c-69371
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220-221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220-221."
   citata_originali: |
     Politinis atšilimas ir liberalizacijos ženklai kultūriniame gyvenime ne-
     reiškė esminių pokyčių, kultūrines organizacijas kibiai prižiūrėjo sovietų

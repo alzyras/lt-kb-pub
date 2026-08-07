@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bcd15a3c3bcd2cef76460b84"
+canonical_name: "Kaidanovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kaidanovas"]
+sameAs: []
+canonical_biography: "Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasitiko chano kariuomenę ir ją sumušė."
+place_authority: true
+historical_names: []
 ---
 # Kaidanovas
 
@@ -113,7 +122,8 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
 - id: c-170296
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
   citata_originali: |
     Didysis kunigaikštis Skirmantas, surinkęs visas sa­
     vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­

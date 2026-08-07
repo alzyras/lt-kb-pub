@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1166545e31f59ff0e4680a10"
+canonical_name: "Vilniaus universiteto biblioteka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus universiteto biblioteka"]
+sameAs: []
+canonical_biography: "Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galima ap­ žiūrėti Vilniaus universiteto biblio­ tekoje."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus universiteto biblioteka
 
@@ -56,7 +65,8 @@ Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galim
 - id: c-82240
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 286-287"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 286-287."
   citata_originali: |
     97,
     ten yra iš Lietuvos Metrikos paimtas

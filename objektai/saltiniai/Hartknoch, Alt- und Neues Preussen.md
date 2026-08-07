@@ -84,7 +84,8 @@ Narbutas tvirtino, kad vyriausiųjų žynių sąrašo pasmerkimas buvo paimtas i
 - id: c-173381
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 433."
   citata_originali: |
     Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
     da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
@@ -104,7 +105,8 @@ Narbutas tvirtino, kad vyriausiųjų žynių sąrašo pasmerkimas buvo paimtas i
 - id: c-179290
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 270."
   citata_originali: |
     Anot Hartknocho, sudargų iš­
     ties būta, jų atminimas gyvas šios žemės padavimuose ir

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7eca1a34b99afd773132d75c"
+canonical_name: "Vasilka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vasilka"]
+sameAs: []
+canonical_biography: "Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pakviesti Vaišvilko į Vladimirą. 1247 m. kunigaikštis Vasilka prie Drohičino pasivijo jotvingius ir, Narbuto pasakojimu, kruviname mūšyje iškovojo pergalę. Narbutas nurodė: Mūšyje su jotvingiais Vasilka liko su Ziemovitu, o Lozorius su poloviečiais laukė rezerve, kuris vėliau atvyko į jų kariuomenę."
 ---
 # Vasilka
 
@@ -140,7 +147,8 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
 - id: c-169530
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 120."
   citata_originali: |
     Leonas, kuris
     ketino daryti visai ką kita, nei buvo žadėjęs, pasiliko
@@ -172,7 +180,8 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
 - id: c-173877
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     Kai 1253 metų pradžioje susiklostė draugiški Pamario
     kunigaikščių ir kryžiuočių santykiai, kurie laidavo jiems
@@ -199,7 +208,8 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
 - id: c-173878
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
   citata_originali: |
     Vasilka pasiliko su Ziemovitu, o Lozorius lūkuriavo re­
     zerve su poloviečiais. Pastaruosius jotvingiai smarkiai puo­
@@ -219,7 +229,8 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
 - id: c-176630
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 55."
   citata_originali: |
     Neilgai trukus, Vladimiro kunigaikštis Levas atsiun­
     tė savo broliui Vasilkai [žinią], kad norįs su juo pasi­

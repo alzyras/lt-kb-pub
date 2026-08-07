@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1431eb845fa719cb2e3c81ab"
+canonical_name: "Sėlpilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sėlpilis"]
+sameAs: []
+canonical_biography: "Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pilį su apylinkėmis."
+place_authority: true
+historical_names: []
 ---
 # Sėlpilis
 
@@ -53,7 +62,8 @@ Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pil�
 - id: c-168672
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 701-702"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 701-702."
   citata_originali: |
     Seimo darbe dalyvavo ir ordino magistras Ket-
     leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus

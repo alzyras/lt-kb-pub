@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-23e7668b4b3914b3572d7cb2"
+canonical_name: "Jonas Albertas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Albertas"]
+sameAs: []
+canonical_biography: "Jonas Albertas, vadintas Olbrachtu, buvo trečiasis Kazimiero Jogailaičio sūnus ir gimė 1459 m. gruodžio 27 d. Krokuvoje."
 ---
 # Jonas Albertas
 
@@ -56,7 +63,8 @@ Jonas Albertas, vadintas Olbrachtu, buvo trečiasis Kazimiero Jogailaičio sūnu
 - id: c-176704
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 304."
   citata_originali: |
     8 Kazimiero Jogallaičio trečiasis sūnus Jonas Albertas, vadin­
     tas Olbrachtu. buvo vyresnis už brolį Aleksandra dviem metais:

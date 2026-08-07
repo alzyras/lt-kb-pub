@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-638fcb3925baff27ce7a7aff"
+canonical_name: "Donas ir Donecas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Donas ir Donecas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Doneco, o jų tėvynėje buvusi šventoji Ross upė."
+place_authority: true
+historical_names: []
 ---
 # Donas ir Donecas
 
@@ -54,7 +63,8 @@ Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Don
 - id: c-171877
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Konkrečiai dvi jos atšakos vadinosi Arhoksas (Arhox) ir
     Roksas (Rhox), prie kurių budinai buvo kurį laiką gyvenę. Pas­

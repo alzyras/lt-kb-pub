@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-41ff78525cf582a1caf163e4"
+canonical_name: "Kuldinga"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kuldinga"]
+sameAs: []
+canonical_biography: "Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu grįžtantiems žemaičiams Skuodo laukuose pastojo kelią, šie persekiotojus sumušė."
+place_authority: true
+historical_names: []
 ---
 # Kuldinga
 
@@ -50,7 +59,8 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
 - id: c-28283
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 192."
   citata_originali: |
     Kai
     narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su
@@ -69,7 +79,8 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
 - id: c-167758
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 192."
   citata_originali: |
     Paliauboms pasibaigus, jie puolė Kuršą. Kai
     narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su

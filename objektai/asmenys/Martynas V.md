@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   [{"mediaId":"m-df0b75680ba02d6830c2a5a3","title":"Martinus V. Martino V.jpg","caption":"Popiežiaus Martyno V portretas, Giovanni Battista de' Cavalieri graviūra, 1580 m.","originalTitle":"Martinus V. Martino V.jpg","creator":"Giovanni Battista de'Cavalieri","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"This file was uploaded by Biblioteca comunale di Trento .","dateDisplay":"1580 date QS:P571,+1580-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":2702,"height":3783,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMartinus_V._Martino_V.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Martinus_V._Martino_V.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Martinus_V._Martino_V.jpg/1920px-Martinus_V._Martino_V.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Martinus_V._Martino_V.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"popiežius","label":"popiežius","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Artworks with known accession number","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Artworks without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media from Biblioteca comunale di Trento","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Pontificum Romanorum effigies","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portrait engravings of Martinus V","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Portraits from Biblioteca comunale di Trento","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Martynas V.md","title":"Martynas V","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-12T00:57:13.291338+03:00","reviewedAt":"2026-07-18T14:13:53.569200+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas individualus tonsūruoto dvasininko portretas su popiežiaus insignijomis ir įrašu „MARTINVS V PAP[A] ROMANVS“.","metadataEvidence":"Pavadinimas „Martinus V. Martino V.jpg“, aprašas nurodo 1580 m. Giovanni Battista de' Cavalieri kūrinį „Pontificum Romanorum effigies“.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai ir aiškiai vaizduoja popiežių Martyną V.","isPrimary":1}]
+entity_id: "ent-1d73474fa9091da5c1b44e10"
+canonical_name: "Martynas V"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Martynas V"]
+sameAs: []
+canonical_biography: "Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko įtikinti popiežių Martyną V, kad jis sulaikytų Vytauto vainikavimą."
 ---
 # Martynas V
 
@@ -250,7 +257,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 132."
   citata_originali: |
     Popiežius Martynas V, išklausęs Vytauto ir
     paties Žemaičių vysk. Motiejaus nusiskundimų, atsiuntė bulę
@@ -269,7 +277,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 142."
   citata_originali: |
     Tačiau visi žymesni Vytauto žygiai, ku­
     rie lietė bažnytinį Lietuvos gyvenimą, buvo surišti su popiežium
@@ -290,7 +299,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 208."
   citata_originali: |
     Maža to. Vytautas su
     Jogaila išvien kovodami prieš Breslavo sprendimą, pasistengė
@@ -310,7 +320,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 142."
   citata_originali: |
     Vytautas vedė su juo labai plačią korespondenciją vi­
     sais svarbiausiais Lietuvos krikšto klausimais. Martynas V pa­
@@ -338,7 +349,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 154."
   citata_originali: |
     Iš Žemaičių krašto ir dalies
     Sūdavijos (Užnemunio) Vytautas įkūrė Žemaičių seniūniją, ku­
@@ -357,7 +369,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 - id: c-167796
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 363."
   citata_originali: |
     Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių,
     Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti
@@ -378,7 +391,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 - id: c-167797
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 227."
   citata_originali: |
     Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­
     gailos elgesiu, susirinkę Varkoje, nusprendė pirmiausia ofi­
@@ -403,7 +417,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 128."
   citata_originali: |
     Konstanci­
     jos susirikimas Vytautą padarė Livonijos vyskupų globė­
@@ -427,7 +442,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 208."
   citata_originali: |
     Lietuvių ir lenkų atstovai bendrai pareiškė
     protestą ir griežtai atmetė sprendimą^4 ). Maža to. Vytautas su
@@ -446,7 +462,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 - id: c-167800
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 173."
   citata_originali: |
     Ambicija to žmogaus buvo pašėlusi; tą senų seniau­
     siai buvo patyręs Zigmantas, o kryžiuočiai dar geriau žino­

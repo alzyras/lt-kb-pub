@@ -59,7 +59,8 @@ media_all_json: |-
 - id: c-77407
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
   citata_originali: |
     P. 225, „IŠ NKVD RAPORTO*, [orpanmunpie Boiicka CCCP. 1945-1950, MockBa, 1975. (SSRS
     pasienio kariuomenė. 1945-1950, Maskva, 1975).

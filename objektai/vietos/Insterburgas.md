@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a0541974f9bc1cfeaf31ebb9"
+canonical_name: "Insterburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Insterburgas"]
+sameAs: []
+canonical_biography: "Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokiečių maisto atsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo)."
+place_authority: true
+historical_names: []
 ---
 # Insterburgas
 
@@ -73,7 +82,8 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 28."
   citata_originali: |
     Kada Kryžiuočių Ordino maršalka
     Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir, nueida­
@@ -99,7 +109,8 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
 - id: c-175436
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
   citata_originali: |
     Kruvina šio Ordino
     politika numatė padaryti Sūduvą visiškai negyvenamą,

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7bd9e79bdeca41785cb1aad4"
+canonical_name: "Gatereris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gatereris"]
+sameAs: []
+canonical_biography: "Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo galingais dešiniojo Dnepro kranto gyventojais. Gatereris net mano, kad, kol ši tauta atkeliavo prie Baltijos jūros, ji viešėjo kažkur vidury slavų kraštų, iš kur pasisėmė slavų arba veikiau slavų-sarmatų žodžių; nepaisant to, lietuvių kalba pagal savo šaltinį yra kilusi iš kažkokios labai ¡senos, iš Trakijos kilusios kalbos."
 ---
 # Gatereris
 
@@ -75,7 +82,8 @@ Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo g
 - id: c-174151
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 60."
   citata_originali: |
     Tai, kokia buvo jų val­
     džia, kalba ir kokie papročiai, nežinoma. Gatereris1 bergž­
@@ -99,7 +107,8 @@ Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo g
 - id: c-179313
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 197."
   citata_originali: |
     Tačiau senovės
     tyrinėtojai, kurie teikėsi įsigilinti į mitologiją ir lietuvių

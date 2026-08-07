@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-695e25b9880e690eeb0b2637"
+canonical_name: "Trubčevskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trubčevskas"]
+sameAs: []
+canonical_biography: "Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379- 1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo valdą. 123 Tret’jakovas, proistorikas 159 Trojos gudrumas 304 Trubčevskas 272 Trubeckoj, kng."
+place_authority: true
+historical_names: []
 ---
 # Trubčevskas
 
@@ -62,7 +71,8 @@ Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir
 - id: c-170374
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 279"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 279."
   citata_originali: |
     Laikydamas save tikruoju tėvo sosto paveldėtoju, Andrius
     tuoj po 1377 m. virto Jogailos priešu ir sąjungon prieš jį traukė

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c9c6d37deb6cfbb89a07d3b6"
+canonical_name: "Karolis Opermanas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Karolis Opermanas"]
+sameAs: []
+canonical_biography: "Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žinias surinko inžinierius generolas Karolis Ojpermanas."
 ---
 # Karolis Opermanas
 
@@ -54,7 +61,8 @@ Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žini
 - id: c-174532
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 19."
   citata_originali: |
     Aprašęs juodkalniečių savybes, T. Narbutas nu­
     rodė ir savo žinių šaltinį, kuris, regis, susijęs su kai ku­

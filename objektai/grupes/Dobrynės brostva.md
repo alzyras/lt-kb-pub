@@ -53,9 +53,9 @@ To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Dreve
 ## Citatos
 
 - id: c-184590
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 250"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 250."
   citata_originali: |
     To vildamos, pradėjo Konra­
     das Dobrynės pilį dirbti ant skardžio upės Dre-
@@ -79,9 +79,9 @@ To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Dreve
     - t-001
 
 - id: c-184591
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 286"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 286."
   citata_originali: |
     Bet ne taip veikiai nusibengė kerštai mozūrų
     kunigaikščio Konrado su kryžėjais. Sunėrimas brost-

@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1227a4beaa36583da85881ef"
+canonical_name: "Plateliai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Plateliai"]
+sameAs: []
+canonical_biography: "md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaičių kraštas ir jo pajūris buvo vadinami Sambija ir Samland. - pagrindzia: - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą. citataoriginali: | Kiti."
+place_authority: true
+historical_names: []
 ---
 # Plateliai
 
@@ -55,7 +64,8 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
 - id: c-171934
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 173."
   citata_originali: |
     Į medį sviesdavo papjautus gaidžius, statydavo
     ant jų uždegtas žvakes. Ypač jis globojo Platelių valsčių, ku­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a677ead65be7c147c9801c63"
+canonical_name: "Reitgotija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Reitgotija"]
+sameAs: []
+canonical_biography: "Ksavero Bogušo veikaluose, Narbuto teigimu, esama įrodymų, kad herulai keliavo į Reitgotiją."
+place_authority: true
+historical_names: []
 ---
 # Reitgotija
 
@@ -55,7 +64,8 @@ Ksavero Bogušo veikaluose, Narbuto teigimu, esama įrodymų, kad herulai keliav
 - id: c-175665
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 326"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 326."
   citata_originali: |
     Tad artimiausias ir saugiausias herulų kelias vingiavo į
     Šiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš

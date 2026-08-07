@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-63c683e3f96611e05e28cfc6"
+canonical_name: "Juozapas Januškevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Juozapas Januškevičius"]
+sameAs: []
+canonical_biography: "Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo Januškevičiaus sode rastą lobį žinojo visi to krašto gyventojai. Juozapas Januškevičius buvęs garbinamas kaip dievas ir turėjęs savo šventyklą Nemunaityje, ant Nemuno kranto; panašu, kad ten, kur šiandien Trakų apskrityje yra taip besivadinąs miestelis su pylimų žymėmis ir keliais milžinkapiais."
 ---
 # Juozapas Januškevičius
 
@@ -55,7 +62,8 @@ Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo
 - id: c-173047
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Apie jį dar esama padavimo, kad jis buvęs gar­
     binamas kaip dievas ir turėjęs savo šventyklą Nemunaityje,

@@ -50,7 +50,8 @@ Jakšto lenkiškai parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur 
 - id: c-02448
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 539"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 539."
   citata_originali: |
     **„Lietuvių Balse"** **_(„Glos Litwinöw")_** buvo išdėstyta, kokiomis
     sąlygomis būtų galimas bendradarbiavimas. Pirmiausia čia pa-

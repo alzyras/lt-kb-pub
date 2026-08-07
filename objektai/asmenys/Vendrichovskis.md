@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-01f7840f39ca4913ca572223"
+canonical_name: "Vendrichovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vendrichovskis"]
+sameAs: []
+canonical_biography: "Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus šio tikėjimo apeigų vykdymas persikėlė į patį miestą ir jo centre, netoli Žuvų turgaus, pastoriai Če­ chavičius ir Vendrichovskis septynerius metus nuolat vie­ šai tas apeigas vykdė."
 ---
 # Vendrichovskis
 
@@ -59,7 +66,8 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
 - id: c-83860
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 299-300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 299-300."
   citata_originali: |
     5 pasakoja, kad
     „kapitula, gavusi žinių apie kažko­

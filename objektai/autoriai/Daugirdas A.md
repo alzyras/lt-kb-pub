@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c1bffc37d01d0cb26aed129e"
+canonical_name: "Daugirdas A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Daugirdas A"]
+sameAs: []
+canonical_biography: "257, „PAVOJAUS AKIVAIZDOJE, Daugirdas A."
 ---
 # Daugirdas A
 
@@ -62,7 +69,8 @@ media_all_json: |-
 - id: c-41668
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 269."
   citata_originali: |
     P. 257, „PAVOJAUS AKIVAIZDOJE*, Daugirdas A. Vilniaus pedagoginio universiteto
     studentų-savanorių kuopa 1991-1996 metais, Vilnius, 2011, p. 28.

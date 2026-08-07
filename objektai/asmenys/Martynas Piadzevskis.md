@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-618bbde913363b4e88f20019"
+canonical_name: "Martynas Piadzevskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Martynas Piadzevskis"]
+sameAs: []
+canonical_biography: "Kitą bylą su gėralų rinkiku Martynu Piadzevskiu Kauno miestas irgi laimėjo."
 ---
 # Martynas Piadzevskis
 
@@ -49,9 +56,9 @@ Kitą bylą su gėralų rinkiku Martynu Piadzevskiu Kauno miestas irgi laimėjo.
 ## Citatos
 
 - id: c-185474
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 314"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 314."
   citata_originali: |
     Abu teismai pripažino kauniečių argumentus ir nuo
     sūrimo mokesčio Kauno miestą atleido.

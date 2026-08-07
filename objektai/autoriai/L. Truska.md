@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8173ec0157dfd7eb75a30852"
+canonical_name: "L. Truska"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["L. Truska"]
+sameAs: []
+canonical_biography: "Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t."
 ---
 # L. Truska
 
@@ -62,7 +69,8 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
 - id: c-33016
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     S. Matulaitytė rašo apie astro­
     nomijos mokslo įvedimą Vilniaus universitete XVIII a. (AkMD,

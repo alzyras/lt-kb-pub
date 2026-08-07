@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-02093
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 112."
   citata_originali: |
     Tačiau Kęstutis, metęs derybas,
     tuojau išvyko į rytus. Jam nesant namie, kilo vilniečių są-

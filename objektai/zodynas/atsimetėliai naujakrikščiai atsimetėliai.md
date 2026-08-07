@@ -32,11 +32,18 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 <a id="claim-t-58844"></a>
 - t-001
   teiginys: "Sventopelkas paskatino Prūsijos žemės naujakrikščius atsimesti nuo tikėjimo."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baiga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "atsimetėliai naujakrikščiai atsimetėliai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Baiga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atsimetėliai naujakrikščiai atsimetėliai\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59476
+    - c-59477
 
 <a id="claim-t-58845"></a>
 - t-002
@@ -78,7 +85,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - id: c-59476
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
   citata_originali: |
     58 (57). Apie vienos pilies užkariavimą ir apie Kristburgo pilį
     Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
@@ -96,13 +104,13 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
     - t-002
 
 - id: c-59477
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
 
@@ -116,7 +124,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   citata_rodoma: "Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių\n\n  Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės\nnaujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,\nnei vandenimis — upe žemyn ir aukštyn, nebent tada, kai lydėjo stipri ginkluota palyda.\nDėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos\nbrolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,\nišžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,\nnegalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

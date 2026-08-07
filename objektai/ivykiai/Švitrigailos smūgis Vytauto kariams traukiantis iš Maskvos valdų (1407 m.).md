@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-185794"></a>
 - t-001
   teiginys: "Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -110,7 +110,8 @@ Nenurodyta
 - id: c-169155
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 368."
   citata_originali: |
     Stovėdamas su' raitija toje
     pačioje vietoje, jis kiekvieną dieną vis labiau juto mais­
@@ -142,7 +143,8 @@ Nenurodyta
 - id: c-169156
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 368."
   citata_originali: |
     Išskyrus pažadą
     ti ta ik o s

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1518c8ddaade9fc321918c90"
+canonical_name: "Rostislavas Rogvoldovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rostislavas Rogvoldovičius"]
+sameAs: []
+canonical_biography: "PIRMAS SKYRIUS ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž."
 ---
 # Rostislavas Rogvoldovičius
 
@@ -62,7 +69,8 @@ PIRMAS SKYRIUS ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž.
 - id: c-83551
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 61."
   citata_originali: |
     PIRMAS SKYRIUS
     ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž. kun. Mstis­

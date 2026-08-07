@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9cba046493e627568b6788e5"
+canonical_name: "Sturlaugas Darbštusis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Sturlaugas Darbštusis"]
+sameAs: []
+canonical_biography: "Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nužudė Ingvarą, o Ingigerdą išleido už Flamoro."
 ---
 # Sturlaugas Darbštusis
 
@@ -55,7 +62,8 @@ Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nu
 - id: c-174354
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Goterio sū­
     nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­

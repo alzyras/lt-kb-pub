@@ -47,7 +47,8 @@ Dusburgietis teigia, kad pastarojo pasakojimo pradžioje kronikininkas pažymi, 
 - id: c-59745
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 26"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
   citata_originali: |
     Kronikininkas šioje dalyje (kartais,
     beje, ir anksčiau), neturėdamas tikslesnių įvykių datų, pasakojimą grindžia geografiniu

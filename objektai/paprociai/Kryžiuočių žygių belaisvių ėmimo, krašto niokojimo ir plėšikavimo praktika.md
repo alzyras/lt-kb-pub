@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-83275
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 82."
   citata_originali: |
     1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­
     pedicija patraukė į Prūsiją. Atskirus pulkus vedė: Silezijos

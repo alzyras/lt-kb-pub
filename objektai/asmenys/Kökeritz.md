@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4295936b0c22e0ae5614b5f1"
+canonical_name: "Kökeritz"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kökeritz"]
+sameAs: []
+canonical_biography: "Nu­ puolusį (Kökeritz) karaliaus palydovai nužudė."
 ---
 # Kökeritz
 
@@ -51,7 +58,8 @@ Nu­ puolusį (Kökeritz) karaliaus palydovai nužudė.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 107."
   citata_originali: |
     Vienas riteris iš jų tarpo išsiskyrė ir patrau­
     kė tiesiog į Jogailą. Jis buvo bebandąs pulti, kai staiga Zbignie­

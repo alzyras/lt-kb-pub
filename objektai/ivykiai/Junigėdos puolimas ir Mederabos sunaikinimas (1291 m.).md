@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-33397
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 223."
   citata_originali: |
     Nors pradiniai jų smūgiai atrodė energingi, bet per dešimt­
     metį apčiuopiamų laimėjimų nebuvo pasiekta. 1291 buvo pulta,

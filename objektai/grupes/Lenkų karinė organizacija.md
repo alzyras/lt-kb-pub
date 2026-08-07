@@ -62,7 +62,8 @@ vyko įveikti destrukcijos planus – 1919 m. rugpjūtį lietuvių žvalgyba are
 - id: c-25539
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 140-141"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 140-141."
   citata_originali: |
     Namie pavyko įveikti destrukcijos
     planus – 1919 m. rugpjūtį lietuvių žvalgyba areštavo 200 Lenkų karinės

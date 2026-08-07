@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-936c1b6a696d90b84d9b1ec0"
+canonical_name: "Gurka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gurka"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Gurka
 

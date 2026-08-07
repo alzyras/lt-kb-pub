@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7872c48286ba4994204ff3f"
+canonical_name: "Andrius Važila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius Važila"]
+sameAs: []
+canonical_biography: "O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gavo popiežiaus patvirtinimą perimti Vilniaus vysku­ piją20. Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasiliono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­ gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis. Kitais metais (1397 m.) atvykęs į Lie­ tuvą, Vladislovas Jogaila, kartu su kunigaikščiu Vytautu, atlygindami Vilniaus vyskupui Andriui už tokį dorą jo pa­ sišventimą, negailint savęs ir turto, nepaisant daugybės pa­ vojų, tykančių skleidžiant krikščioniškąjį."
 ---
 # Andrius Važila
 
@@ -80,7 +87,8 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
 - id: c-83364
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 156-157"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 156-157."
   citata_originali: |
     140
 
@@ -108,7 +116,8 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
 - id: c-83365
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 133."
   citata_originali: |
     Stanislovo garbei, iškilmingai pripažinta katedra. O vys­
     kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­

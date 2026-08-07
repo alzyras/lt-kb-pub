@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1039a8f71255716e5cb695a8"
+canonical_name: "Herodotas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Herodotas"]
+sameAs: []
+canonical_biography: "Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų ir įvedė paslaptingą jų garbinimo ritualą. P. J. Safaržykas Herodoto budinus apibūdino kaip venedų tautą, kurią slavai galį laikyti savo padermės šaka. Herodotas rašė, kad tisagetai gyveno toliau į šiaurę už gelonų gyvenamą kraštą."
 ---
 # Herodotas
 
@@ -84,22 +91,27 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 <a id="claim-t-190868"></a>
 - t-003
   teiginys: "Herodotas rašė, kad tisagetai gyveno toliau į šiaurę už gelonų gyvenamą kraštą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gelonai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Herodotas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gelonai: mention_match, group, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herodotas\" parinktas kaip owner_note_path. Targetas \"Gelonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
-    - c-173752
-    - c-173759
-    - c-179323
+    - c-173750
 
 <a id="claim-t-190869"></a>
 - t-004
   teiginys: "Teodoro Narbuto vertinimu, Herodotas tik iš dalies aprašė skitų įpročius, papročius ir religiją, o svarbesnė buvo Skitijos geografija."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -113,23 +125,15 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 <a id="claim-t-190870"></a>
 - t-005
   teiginys: "Herodotas rašė, kad nuo Dnepro žiočių iki gerų krašto reikia plaukti 40 dienų, o Lelevelis tai siejo su maždaug 4000 stadijų."
-  atnaujinta: "2026-07-24 15:56"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herodotas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herodotas\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173751
-    - c-173752
 
 <a id="claim-t-190871"></a>
 - t-006
@@ -593,7 +597,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-172934
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     E Noelis mano, kad Kabi­
     rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
@@ -613,7 +618,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-173749
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 14."
   citata_originali: |
     Štai kaip P. J. Safar­
     žykas apibūdino T. Narbuto pamėgtuosius budinus: ,,<...>
@@ -634,7 +640,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-173750
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
   citata_originali: |
     Pirmykštėje žmonių visuomenėje tautos sun­
     kiai pakęsdavo šalia savęs svetimos giminės ir kalbos
@@ -648,14 +655,17 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   citata_rodoma: "Pirmykštėje žmonių visuomenėje tautos sun­\nkiai pakęsdavo šalia savęs svetimos giminės ir kalbos\nžmones, o gentainių pagalbą ir abipusę draugystę labai\nbrangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­\nmeninio gyvenimo kūdikystės lygio ir atrastų mūsų am­\nžiais. Minėtų pelazgų palikuonių turėjo būti ant kai­\nriojo Dono vidurupio kranto. Tai mini ir Herodotas*,\nteigdamas, kad tisagetai gyvenę toliau į šiaurę, už gelonų\ngyvenamo krašto."
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-173751
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
   citata_originali: |
     Tad šis kraštas turėtų
     būti Rogačiovo apylinkėse ir aukščiau. Buvo atkakliai
@@ -676,7 +686,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-173752
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
   citata_originali: |
     Tuoj už Desnos prasideda pilkapių kraš­
     tas, ir prie Rogačiovo jų yra daugiausia; jie iš dalies su­
@@ -693,14 +704,13 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-005
     - t-020
 
 - id: c-173753
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 59."
   citata_originali: |
     Manoma, kad šis pavadinimas atsirado ne iš
     itin gausios tautos, turėjusios tokį vardą, tačiau istoriš­
@@ -722,7 +732,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-173754
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 75."
   citata_originali: |
     60
     Iš Herodoto žinome, kad budinai savo žemėje turėjo
@@ -747,7 +758,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-173756
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 81."
   citata_originali: |
     Pats Herodotas, tą patį manydamas apie gelonus ir bu­
     dinus, teigia, jog jie turėję tvirtoves ir tokį nekilnojamąjį
@@ -766,7 +778,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-173757
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Priartinus mūsų tyrimus prie
     geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
@@ -787,7 +800,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-173758
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 203."
   citata_originali: |
     Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta
     nagrinėti faktus ir girdėti įrodytas tiesas. Taip ir gelonus
@@ -808,7 +822,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-173759
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 376"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 376."
   citata_originali: |
     Peržvelgėme visus mums žinomus išspausdintus ty­
     rinėjimus apie Gero upę ir kraštą, be to, stebėjome patys
@@ -826,14 +841,14 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-011
     - t-023
 
 - id: c-173760
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 378."
   citata_originali: |
     Savo ruožtu graikų boristeniečių prekybiniai santy­
     kiai su skitų žemdirbiais lėmė, jog pirmieji apsigyveno
@@ -857,7 +872,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-173761
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 384"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 384."
   citata_originali: |
     O tas, kuris buvo piktas ir
     nusikalsdavo, negaudavo jokio pilkapio, ir jį surydavo
@@ -881,7 +897,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-173762
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 388"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 388."
   citata_originali: |
     Priemonės, kurios padės visa tai paaiš­
     kinti, yra pati gamta, tautų religija su savo įvairiomis
@@ -908,7 +925,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-173763
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 388"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 388."
   citata_originali: |
     Maždaug
     500 metais prieš Kristaus gimimą klestėjo prekyba tarp
@@ -937,7 +955,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-173764
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 389"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 389."
   citata_originali: |
     Taigi naujų laikų gabumams nebūdin­
     gas praėjusių amžių tikėjimas, kuris buvo mokslinis,
@@ -971,7 +990,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-177102
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 364."
   citata_originali: |
     Šiuo po­
     žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
@@ -990,7 +1010,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-177103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 436"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 436."
   citata_originali: |
     Matoma, kad jie apsigyveno toli­
     muose Siaurės Europos rytuose seniausiai, kai tik slavų gen­
@@ -1015,7 +1036,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-179322
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
   citata_originali: |
     Anot jos, kartą saulės sūnus Fajetonas įsigeidė
     pasivažinėti po dangų tėvo arkliais, ¡bet, nesuvaldęs dan­
@@ -1038,7 +1060,8 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
 - id: c-179323
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 204."
   citata_originali: |
     Senovės amžių neurai, anot paties
     Herodoto, gyveno Dnepro vidurupio kairiojoje pakrantėje,
@@ -1057,13 +1080,13 @@ Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Pelopones
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
     - t-022
 
 - id: c-179324
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 378."
   citata_originali: |
     Tik tenykščiai graikų boristeniečiai, prekiavę šiais
     gaminiais, atkeliaujančiais į Karkinę per Pantikapą iš

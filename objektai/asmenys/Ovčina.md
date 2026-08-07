@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ff108c3519d0b22fec71e4f7"
+canonical_name: "Ovčina"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ovčina"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Ovčina
 
@@ -31,7 +38,8 @@ Nenurodyta
 - id: c-169515
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 627"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 627."
   citata_originali: |
     Tuo metu popiežiaus
     legatas Pisonas, pasiųstas iš Romos sutaikyti Žygiman­

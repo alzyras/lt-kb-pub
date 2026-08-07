@@ -36,6 +36,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2bbc4634755b85711a0a81fb"
+canonical_name: "Chełmža"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Chełmža"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos kaimo (villa) esąs ežeras: Loza cum stagno (ten pat. Nr. 182, p. 133). 1248 m. vietovė jau vadinama Culmense (UBC, 1, 1, Nr. 18, p. 7), 1251. Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433. Susirūpinęs dėl šio įvykio vyskupas susišaukė kilminguosius bei vasalus, įpareigodamas juos už nuodėmes išeiti [iš miesto] ir tiksliai sužinoti, kiek priešo. Dusburgietis teigia, kad apie daugybės Kulmenzės miestiečių žūtį Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke, miestiečiai bėgdavo nuo pjūties darbų. Kai javai."
+place_authority: true
+historical_names: []
 ---
 # Chełmža
 
@@ -48,11 +57,18 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 <a id="claim-t-58411"></a>
 - t-001
   teiginys: "Prūsų kariuomenė apsiautė Chełmžą, o vyskupas sušaukė kilminguosius ir vasalus išžvalgyti priešo kariuomenės dydį bei stiprumą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmenzė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Chełmža: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kulmenzė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chełmža\" parinktas kaip owner_note_path. Targetas \"Kulmenzė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59043
+    - c-59044
 
 <a id="claim-t-58412"></a>
 - t-002
@@ -96,11 +112,18 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 <a id="claim-t-58414"></a>
 - t-004
   teiginys: "Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango, kol Chełmžos miestiečiai išėjo pjauti javų."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kulmenzė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Chełmža: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kulmenzė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chełmža\" parinktas kaip owner_note_path. Targetas \"Kulmenzė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59043
+    - c-59047
 
 <a id="claim-t-58415"></a>
 - t-005
@@ -173,7 +196,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - id: c-59043
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
   citata_originali: |
     Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
                                 būtent: Eimsutis ir dar viena
@@ -190,14 +214,13 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-004
     - t-005
 
 - id: c-59044
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Apie Kulmenzės miesto apgulą
 
@@ -207,14 +230,17 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   citata_rodoma: "Apie Kulmenzės miesto apgulą\n\n  Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433. Susirūpinęs dėl šio\nįvykio vyskupas susišaukė kilminguosius bei vasalus, įpareigodamas juos už nuodėmes\nišeiti [iš miesto] ir tiksliai sužinoti, kiek priešo kariuomenėje karių ir kokio ji stiprumo."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-59045
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
   citata_originali: |
     Gyvenvietė minima 1222 m. dokumente
     Lozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos
@@ -236,7 +262,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - id: c-59046
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
 
@@ -259,7 +286,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - id: c-59047
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Apie daugybės Kulmenzės miestiečių žūtį
 
@@ -271,10 +299,11 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   citata_rodoma: "Apie daugybės Kulmenzės miestiečių žūtį\n\n  Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri\nvadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke,\nmiestiečiai bėgdavo nuo pjūties darbų. Kai javai buvo visiškai pribrendę ir nebegalėjo\nlauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,\nmanydami, kad svetima kariuomenė bus pasitraukusi."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Turėjo palaidotą asmenį: [[objektai/asmenys/Liudvikas iš Šipeno]]

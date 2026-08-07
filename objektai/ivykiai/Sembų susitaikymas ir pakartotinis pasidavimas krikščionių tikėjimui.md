@@ -67,7 +67,8 @@ Nenurodyta
 - id: c-63126
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
   citata_originali: |
     109 (104). Apie brolių ir sembų susitaikymą
     Šiais ir kitais smūgiais brolių bei kitų krikščionių rankomis viešpaties baudžiami

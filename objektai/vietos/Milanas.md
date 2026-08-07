@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-db7f97fce573f5501338f736"
+canonical_name: "Milanas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Milanas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metais, per tris karalius sausio 6 dieną, Henriką, Romos karalių, vainikavo prie Milano geležiniu vainiku (Ptol."
+place_authority: true
+historical_names: []
 ---
 # Milanas
 
@@ -61,7 +70,8 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
 - id: c-59338
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247."
   citata_originali: |
     107. Apie jo vainikavimą prie Milano
 

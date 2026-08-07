@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d04e89b1484354c66a638798"
+canonical_name: "Andrius (Vilniaus vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrius (Vilniaus vyskupas)"]
+sameAs: []
+canonical_biography: "Nenurodyta"
 ---
 # Andrius (Vilniaus vyskupas)
 

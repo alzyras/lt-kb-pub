@@ -69,7 +69,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 <a id="claim-t-88133"></a>
 - t-003
   teiginys: "Gediminas laiške popiežiui Jonui XXII prisistatė lietuvių ir daugelio rusėnų karaliumi."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
@@ -112,7 +112,8 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 - id: c-84110
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 112."
   citata_originali: |
     Laiškų autorius, baimindamasis, kad neišaiškė­
     tų, kaip yra iš tikrųjų, turėjo stengtis visoms dvejonėms už­
@@ -138,7 +139,8 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 - id: c-84111
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 101."
   citata_originali: |
     Jau seniai esame girdėję, kad visi krikščionių tikėjimo iš­
     pažinėjai turi paklusti tavo valiai bei tėviškai [globai] ir kad
@@ -171,7 +173,8 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 - id: c-84112
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 99-100"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 99-100."
   citata_originali: |
     Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui
     XXII, dominikonų ordinui, Mažesniesiems troliams kei Siaurės
@@ -203,7 +206,8 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 - id: c-84113
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 103-104"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 103-104."
   citata_originali: |
     Apie visa tai, garbingasis tėve, mes rašome tuo tikslu,
     kad jūs žinotumėte, kodėl mūsų senoliai mirė pagonybės ir
@@ -235,7 +239,8 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 - id: c-84114
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 99-100"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 99-100."
   citata_originali: |
     Užuot ėmę tą dalyką nagrinėti, manome esant naudinga su­
     sipažinti su to valdovo laišku popiežiui, kuriame taip pasa­

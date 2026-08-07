@@ -57,7 +57,8 @@ p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
 - id: c-43262
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
   citata_originali: |
     p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L. Karolomachija, Vilnius, 1992.
   statusas: verified

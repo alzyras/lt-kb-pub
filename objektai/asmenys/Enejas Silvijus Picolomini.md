@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cd8835e2a09e2d999f59f68e"
+canonical_name: "Enejas Silvijus Picolomini"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Enejas Silvijus Picolomini"]
+sameAs: []
+canonical_biography: "Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdiniai net patys ėjo kartis, kaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka taip pat buvo didžiausia."
 ---
 # Enejas Silvijus Picolomini
 
@@ -53,7 +60,8 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 312."
   citata_originali: |
     Ir teisingai pastebi K. Heinl: „Nei vienam jo pirmtakūnų tą pa­
     daryti nebuvo taip sunku, bet nei vienas jų taip puikiai nepasie­

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dbef56e403f1a400ddeba96e"
+canonical_name: "Treteris"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Treteris"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ąžuolo pasakojimą. Narbutas vertino Treterį kaip tiksliausiai nurodžiusį, kur ieškoti Romovės šventyklos vietos. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina 12 Treteris, Henenbergeris, Šiucas, Hartknochas."
 ---
 # Treteris
 
@@ -51,15 +58,22 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
 <a id="claim-t-190359"></a>
 - t-002
   teiginys: "Narbutas vertino Treterį kaip tiksliausiai nurodžiusį, kur ieškoti Romovės šventyklos vietos."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romovė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Treteris: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Romovė: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Treteris\" parinktas kaip owner_note_path. Targetas \"Romovė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173240
+    - c-173242
 
 <a id="claim-t-194675"></a>
 - t-003
@@ -79,7 +93,8 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
 - id: c-173240
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
   citata_originali: |
     Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
     bių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­
@@ -97,12 +112,12 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
 
 - id: c-173242
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 266."
   citata_originali: |
     Žymiausia šventykla buvo Romovėje, ku­
     rios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos
@@ -114,14 +129,17 @@ Narbutas rašo, kad Treteris neigė Boleslovo Kreivaburnio sudeginto Romovės ą
   citata_rodoma: "Žymiausia šventykla buvo Romovėje, ku­\nrios vieta tiksliai dar nenustatyta. Treteris Jono I, Varmijos\nvyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur\nreiktų jos ieškoti. Remdamasis tuo, Hartknochas senosios Prū­\nsijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bys-\nleidos upių, nors rutuliukas, turintis pažymėti vietovę, padė­\ntas ne visai tiksliai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-177072
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 239."
   citata_originali: |
     Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už
     Baublį. Netoli Vėluvos (Wehlau) miesto, kaime, kuris vadina­

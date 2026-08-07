@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-92a65fa14c493a939ec5673d"
+canonical_name: "Polocko girios"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Polocko girios"]
+sameAs: []
+canonical_biography: "Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui tol kariauti, kol neatsiims žemės ir nesutriuš kins Švitrigailos."
+place_authority: true
+historical_names: []
 ---
 # Polocko girios
 
@@ -46,7 +55,8 @@ Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui to
 - id: c-176164
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 346."
   citata_originali: |
     Tad Švitrigaila, būdamas tikras, jog ru­
     sai jam pasiduos, tyliai pa-

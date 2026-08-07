@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4454e2d546415dac7d9c45a1"
+canonical_name: "Šakūnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šakūnai"]
+sameAs: []
+canonical_biography: "Narbutas, perteikdamas Henenbergerį, rašė, kad Sakininkuose, galbūt Šakūnuose, XVI a. pabaigoje kaimiečiai slapčia melsdavosi prie didžiulės liepos."
+place_authority: true
+historical_names: []
 ---
 # Šakūnai
 
@@ -54,7 +63,8 @@ Narbutas, perteikdamas Henenbergerį, rašė, kad Sakininkuose, galbūt Šakūnu
 - id: c-171990
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 239."
   citata_originali: |
     LIEPA, Liepas. Pas senovės prūsus ji priklausė šventųjų
     medžių kategorijai. Henenbergeris tikina, kad dar jo laikais,

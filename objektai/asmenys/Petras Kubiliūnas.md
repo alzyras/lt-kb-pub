@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8df0cbe62655780daf86594a"
+canonical_name: "Petras Kubiliūnas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Kubiliūnas"]
+sameAs: []
+canonical_biography: "Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingiausias."
 ---
 # Petras Kubiliūnas
 
@@ -41,7 +48,8 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
 - id: c-21938
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 164."
   citata_originali: |
     Pagerėjo sveikatos apsauga, įsteigtos ir pastatytos ligoninės,
     parengta 1 500 medikų, sumažėjo mirtingumas, priartėjęs prie išvystytų

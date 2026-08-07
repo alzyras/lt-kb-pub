@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5e76df1d05260acb3a68c58e"
+canonical_name: "Brodnica"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Brodnica"]
+sameAs: []
+canonical_biography: "Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrįžo į Lietuvą^1 ). Toliau Vytautas prekybos reikalus gynė beveik visose su Ordinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­ rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­ (^1) ) Hirt."
+place_authority: true
+historical_names: []
 ---
 # Brodnica
 
@@ -96,7 +105,8 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 207."
   citata_originali: |
     Vytautas skubiai
     įvykdė savo pasiryžimą. Pametė Jogailą ir lenkų būrius prie
@@ -115,7 +125,8 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 269."
   citata_originali: |
     Darydamas su jais atskiras sutartis, jis didino savo iždą
     auksu, sidabru, audimais, brangiais kailiais, ką vėliau duosniai
@@ -137,7 +148,8 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
 - id: c-79613
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 86."
   citata_originali: |
     Ištisi kaimai visoje kunigaikš­
     tystėje, dešimtys bažnyčių buvo apiplėšta ir sudeginta: pa­

@@ -59,9 +59,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184628
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 460"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 460."
   citata_originali: |
     Mykolo Liubline mūro bažnyčią įkū­
     rė, kuri liig šiai dienai dar tebėra.

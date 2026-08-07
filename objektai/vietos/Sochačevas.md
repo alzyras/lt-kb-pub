@@ -18,6 +18,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f55ff90c62856745a9ccad91"
+canonical_name: "Sochačevas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Sochačevas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Sochačevas
 

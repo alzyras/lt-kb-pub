@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dfd353dbc3b93c740d67314b"
+canonical_name: "Bernardas (abatas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bernardas (abatas)"]
+sameAs: []
+canonical_biography: "Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, vengdamas savo laiškuose popiežiui surašytų krikšto pažadų."
 ---
 # Bernardas (abatas)
 
@@ -62,7 +69,8 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
 - id: c-32712
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 237."
   citata_originali: |
     Naugardu
     sudarė sutartį prieš Gediminą, kurį juodino, rašydami krikščionių

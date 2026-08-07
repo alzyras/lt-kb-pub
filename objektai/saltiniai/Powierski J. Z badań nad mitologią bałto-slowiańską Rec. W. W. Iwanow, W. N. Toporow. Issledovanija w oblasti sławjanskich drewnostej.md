@@ -51,7 +51,8 @@ Dusburgietis teigia, kad powierski J.
 - id: c-61880
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Powierski J. Z badań nad mitologią bałto-slowiańską: Rec.: W. W. Iwanow, W. N.
     Toporow. Issledovanija w oblasti sławjanskich drewnostej.— Slavia antiqua, Warszawa—

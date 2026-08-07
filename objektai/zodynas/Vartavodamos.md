@@ -62,7 +62,8 @@ Papildomos aiškios formos neišskirtos.
 - id: c-09664
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 329"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 329."
   citata_originali: |
     Veltui dar Abromaitis apskelbė raštą metuose 1595, mokydamas, kaip reikia, javais
         vartavodamos^1491 , pigiai juos pirkti, o brangiai parduoti. Tuo tarpu žemaičiai vis dar norėjo per jūrą

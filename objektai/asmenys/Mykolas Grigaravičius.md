@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dbb6857966aa492d936e781b"
+canonical_name: "Mykolas Grigaravičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas Grigaravičius"]
+sameAs: []
+canonical_biography: "23 Paveldėtojų parduodamų Svečių na­ mų pardavimo kopija: Vilniaus ar­ klininko Mykolo Grigaravičiaus 269 ## Puslapis 286 VILNIAUS MIESTO ISTORIJA // TOMAS buvo nuo mokesčių atleistas Kaune esantis Vilniaus pirklių prekių sandėlis ir leista Vilijos upe."
 ---
 # Mykolas Grigaravičius
 
@@ -47,7 +54,8 @@ media_all_json: |-
 - id: c-176903
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 285-286"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 285-286."
   citata_originali: |
     23
     Paveldėtojų parduodamų Svečių na­

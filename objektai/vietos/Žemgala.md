@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-74ccbb9d8e2f7d6b7e7b000e"
+canonical_name: "Žemgala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žemgala"]
+sameAs: []
+canonical_biography: "Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma atskira kunigaikštyste. Iš tikrųjų lai buvo žemgalių gentys."
+place_authority: true
+historical_names: []
 ---
 # Žemgala
 
@@ -67,7 +76,8 @@ Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma a
 - id: c-175576
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
   citata_originali: |
     Tačiau apie
     XIII amžių jie turėjo savo valdovą1, ir todėl ši provin­
@@ -87,7 +97,8 @@ Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma a
 - id: c-177335
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
   citata_originali: |
     Iš akivaizdžių Mituvos apskrities skirtumų nuo kitų ša­
     lies dalių reikėtų manyti, jog šiaurinėje dalyje gyveno

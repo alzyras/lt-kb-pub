@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-23bfc5e8151af45089ef8544"
+canonical_name: "Jonas Černinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Černinas"]
+sameAs: []
+canonical_biography: "Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti didelius algininkų būrius. Jonas Černinas įtaisė karo stovyklą Obolcuose."
 ---
 # Jonas Černinas
 
@@ -64,7 +71,8 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
 - id: c-169580
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 560"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
   citata_originali: |
     Nau­
     jų karių ieškojo visoje Lietuvoje. Čekui Jonui Černi-
@@ -85,7 +93,8 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
 - id: c-178732
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 560"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
   citata_originali: |
     Atvestas pas Ivaną, Konstan­
     tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­

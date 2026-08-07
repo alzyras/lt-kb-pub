@@ -65,7 +65,8 @@ Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs mil�
 - id: c-61636
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
   citata_originali: |
     Dusburgietis rašo, kad prūsai dievino griaustinį (pro deo coluerunt [...] tonitrua).
     XVI a. 1-oje pusėje S. Grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas
@@ -82,7 +83,8 @@ Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs mil�
 - id: c-61637
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 67-68"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67-68."
   citata_originali: |
     Senojoje, ikikryžiuotiškojo laikotarpio prūsų teisėje, vad. Brutenio—Videvučio (dėl
     vardo žr. Būga K. 1, p. 187—189) įstatyme, pabrėžiama, kad niekas nesikreiptų į mūsų

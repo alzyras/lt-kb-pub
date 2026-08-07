@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-965e286bc46c8ba29672110b"
+canonical_name: "Lukiškės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lukiškės"]
+sameAs: []
+canonical_biography: "5 Lukiškės pavadintos nuo lietuviškų žodžių laukas ir kišas, kadangi Lukiš­ kės yra prie Vilijos upės, tad ta vie- 108 ## Puslapis 125 Il KNYGA Iš Kreivosios pilies vedė dar du pagrindiniai keliai: vie­ nas - vakarų link, į Trakų pilį, palei kurį smėlingoj. Jo­ kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­ toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­ los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­ akalnio. Pirmiausia jų, regis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi namus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms šeimoms."
+place_authority: true
+historical_names: []
 ---
 # Lukiškės
 
@@ -76,7 +85,8 @@ media_all_json: |-
 - id: c-81824
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 126."
   citata_originali: |
     Čia buvo pats miesto centras - ten,
     kur dabar stovi Rotušė ir Šv. Kazimiero bažnyčia; po Aukš­
@@ -100,7 +110,8 @@ media_all_json: |-
 - id: c-81825
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 299-300"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 299-300."
   citata_originali: |
     Nors Viklifo sekėjas buvo ekskomuni­
     kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir

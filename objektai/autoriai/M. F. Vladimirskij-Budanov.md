@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-41be09ca4ba66bba9edcf3e3"
+canonical_name: "M. F. Vladimirskij-Budanov"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. F. Vladimirskij-Budanov"]
+sameAs: []
+canonical_biography: "Vladimirskį-Budanovą 187. Vladimirskij-Budanov : Očerki iz istorii Litovsko-russkago prava, 3 tt., Kiev 1889-1893 ; Uloženie i Litovskij Statut (Sbornik gosudarstvennych Znanii, VI, 1881) ; Formy krestjanskago zemlevladenija v Litovskorusskom gosudarstve XVI v."
 ---
 # M. F. Vladimirskij-Budanov
 
@@ -76,7 +83,8 @@ Vladimirskį-Budanovą 187. Vladimirskij-Budanov : Očerki iz istorii Litovsko-r
 - id: c-33048
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 94."
   citata_originali: |
     Užtat rusų istorikai davė ir Lietuvai pavadinimą «Litovsko —
     russkoje gosudarstvo» (Lietuviu ir rusu valstybė). Jiems rūpėjo
@@ -98,7 +106,8 @@ Vladimirskį-Budanovą 187. Vladimirskij-Budanov : Očerki iz istorii Litovsko-r
 - id: c-33049
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 94."
   citata_originali: |
     —
     Žr.LE t. 14, 465-466 p.**

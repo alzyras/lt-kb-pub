@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-62758"></a>
 - t-001
   teiginys: "Henrikui Cutsvertui pranešus apie išdavystės pavojų, magistras pasiuntė į Lietuvą žvalgus, kurie patvirtino perspėjimą."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -122,14 +122,13 @@ Nenurodyta
 <a id="claim-t-196938"></a>
 - t-005
   teiginys: "Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies, pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo."
-  atnaujinta: "2026-07-24 15:00"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-63545
     - c-63546
     - c-63548
 
@@ -161,7 +160,8 @@ Nenurodyta
 - id: c-63545
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184."
   citata_originali: |
     1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai
     rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę
@@ -179,12 +179,12 @@ Nenurodyta
   pagrindzia:
     - t-003
     - t-004
-    - t-005
 
 - id: c-63546
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Šis į tai
     tarė: „Grįžkite namo, tačiau būkite pasirengę kovai, gal jie išsigąs, matydami, jog esate
@@ -207,7 +207,8 @@ Nenurodyta
 - id: c-63547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Todėl magistras įsakė
     kariams pranešti, kad, grįždami namo, visi žygiuotų pasirengę kovai, o slaptai susišaukė
@@ -231,7 +232,8 @@ Nenurodyta
 - id: c-63548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Brolis Henrikas visa
     tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė į Lietuvos žemę žvalgus,

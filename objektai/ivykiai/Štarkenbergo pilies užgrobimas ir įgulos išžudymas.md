@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-63243
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
     Apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį
     Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.

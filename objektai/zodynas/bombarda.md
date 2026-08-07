@@ -56,7 +56,8 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
 - id: c-82563
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 119."
   citata_originali: |
     Bet Olivos metraš­
     čiai (Annales Oliv., p. 48) rašo, kad

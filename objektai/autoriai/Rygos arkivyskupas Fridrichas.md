@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d6d8540c8ab9af03a99d338a"
+canonical_name: "Rygos arkivyskupas Fridrichas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Rygos arkivyskupas Fridrichas"]
+sameAs: []
+canonical_biography: "Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą ginče su."
 ---
 # Rygos arkivyskupas Fridrichas
 
@@ -50,7 +57,8 @@ Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo
 - id: c-84022
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 104."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­

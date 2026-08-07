@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9a0277dad75522e4d3a8cd0a"
+canonical_name: "Pavija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pavija"]
+sameAs: []
+canonical_biography: "Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas atviro mūšio su Odoakro kariuomene. Pavijoje Teodorikas buvo apsuptas mieste, kuris nuo Oresto pralaimėjimo buvo nepalankus Odoakrui ir vėliau buvo sustiprintas bei atstatytas. Orestas, nedrįsęs atvirai pasiprie šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo laikoma Italijos sostine."
+place_authority: true
+historical_names: []
 ---
 # Pavija
 
@@ -88,7 +97,8 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
 - id: c-175619
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
   citata_originali: |
     Orestas, nedrįsęs atvirai pasiprie­
     šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
@@ -110,7 +120,8 @@ Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas a
 - id: c-175620
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
   citata_originali: |
     Taip pat ir rugių vadas Frederikas
     paliko gotus ir su saviškiais pasitraukė pas herulus. Teo­

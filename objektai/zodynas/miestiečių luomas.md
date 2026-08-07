@@ -83,7 +83,8 @@ media_all_json: |-
 - id: c-82417
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 315."
   citata_originali: |
     Bet jau tokia būna geni­
     jaus įtaka menkesniems protams, kad dažnai net nenoro­
@@ -112,7 +113,8 @@ media_all_json: |-
 - id: c-82418
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 170."
   citata_originali: |
     Šiaip ar taip,
     bet jokio persekiojimo miesto gyventojai dėl šito niekada ne­
@@ -144,7 +146,8 @@ media_all_json: |-
 - id: c-82419
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 168-169"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 168-169."
   citata_originali: |
     Dabar tik kai
     kuriuos miestus palyginsime su Vil­

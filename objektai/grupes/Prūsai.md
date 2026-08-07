@@ -104,15 +104,22 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 <a id="claim-t-188296"></a>
 - t-004
   teiginys: "Narbutas rašo, kad senovės prūsai mirusiųjų valdovę vadino Giltine, o jos garbinimo apeigos buvo rengiamos per laidotuves ir Vėlines."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Senovės prūsai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Senovės prūsai: mention_match, group, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsai\" parinktas kaip owner_note_path. Targetas \"Senovės prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-176979
+    - c-171189
 
 <a id="claim-t-188297"></a>
 - t-005
@@ -198,15 +205,22 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 <a id="claim-t-188302"></a>
 - t-009
   teiginys: "Narbutas rašo, kad Dybove prie Torunės buvo senovės prūsų šventasis ąžuolas arba šventykla, kurią paėmę kryžiuočiai ten įkūrė Senąją Torunę."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Šventasis ąžuolas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Šventasis ąžuolas: mention_match, thing, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsai\" parinktas kaip owner_note_path. Targetas \"Šventasis ąžuolas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171206
+    - c-171195
 
 <a id="claim-t-188303"></a>
 - t-010
@@ -224,15 +238,23 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 <a id="claim-t-188304"></a>
 - t-011
   teiginys: "Narbutas Perkūno, Patelo ir Atrimpo atvaizdus sieja su senovės prūsų vėliava."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Prūsai: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Senovės prūsų vėliava: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Daikto pavadinimas citatoje tiesiogiai sieja vėliavą su senovės prūsais."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Senovės prūsų vėliava priklausė Prūsai (0.76)"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171213
+    - c-171197
 
 <a id="claim-t-188305"></a>
 - t-012
@@ -404,7 +426,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 <a id="claim-t-188314"></a>
 - t-021
   teiginys: "Narbutas rašo, kad seni prūsai, išgirdę griaustinį, sakydavo: „Dievų karalius kalbasi su vyriausiuoju žyniu“."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -412,7 +434,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171202
+    - c-171207
 
 <a id="claim-t-188315"></a>
 - t-022
@@ -550,15 +572,22 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 <a id="claim-t-190617"></a>
 - t-029
   teiginys: "Narbutas prūsus laiko vienos kilties ir vienos genties broliais su Lietuva."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Prūsai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-176975
+    - c-173500
 
 <a id="claim-t-190618"></a>
 - t-030
@@ -734,7 +763,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 <a id="claim-t-193333"></a>
 - t-039
   teiginys: "Tuo metu kryžiuočių riterių magistras buvo Henrikas: jis pirmiausia atnaujino santarvę su Germantu, reikalaudamas, kad šis prisiektų, jog lietu viai bei žemaičiai nesikiš j prūsų karą."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -742,8 +771,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176061
-    - c-176062
-    - c-176063
 
 <a id="claim-t-193334"></a>
 - t-040
@@ -773,7 +800,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 <a id="claim-t-193336"></a>
 - t-042
   teiginys: "Kojelavičius lietuvių pralaimėjimą sieja su prūsų didikais Numa ir Derska, kurie, pabėgę iš Prūsijos, tuo metu gyveno Lietuvoje."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -782,6 +809,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-176063
+    - c-176064
 
 <a id="claim-t-193558"></a>
 - t-043
@@ -943,7 +971,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 <a id="claim-t-194345"></a>
 - t-056
   teiginys: "Apie daugybės pomeranų bei prūsų žūtį Pastačius Kristburgo pilį, sunerimo neišmintingi žmonės, naujakrikščiai ir Sventopelkas, ir susibaudę nutarė ją sunaikinti bei nušluoti, pabandžius pulti vienokiomis ar kitokiomis priemonėmis."
-  atnaujinta: "2026-07-19 17:26"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -991,7 +1019,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 <a id="claim-t-194349"></a>
 - t-060
   teiginys: "Sitai pajutę, prūsai pradėjo juos vytis ir kalavijais iškapojo visus, išskyrus du brolius."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1087,26 +1115,26 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 <a id="claim-t-194577"></a>
 - t-068
   teiginys: "Iš istorijos žinoma, kad senovės prūsai turėjo Trejybę, todėl nedvejosime priimdami Kabirus į lietuvių die vų tarpą."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171206
+    - c-176976
 
 <a id="claim-t-194578"></a>
 - t-069
   teiginys: "Labiausiai išprususi lietuvių genties tauta - senovės prūsai savo šventyklas turėdavo po šiuo me- 9 Šitaip tą medį vadina čionykščiai kaimiečiai."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-173500
+    - c-176977
 
 <a id="claim-t-194579"></a>
 - t-070
@@ -1860,7 +1888,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-170727
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
   citata_originali: |
     Prūsai (bei jotvingiai) priskiriami vakarų baltų tarmių regionui.
   citata_rodoma: "Prūsai (bei jotvingiai) priskiriami vakarų baltų tarmių regionui."
@@ -1875,7 +1904,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171186
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 95."
   citata_originali: |
     Kai pasigirsdavo griaustinis, senovės prūsai, pasak Henen-
     bergerio, prašydavo griaustinio dievo paprastai tokiais žodžiais:
@@ -1895,7 +1925,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171187
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 105."
   citata_originali: |
     Pasak kitų
     tyrinėtojų, tas stabas turėjo vaizduoti Žalčių karalių (Žalcziu
@@ -1916,7 +1947,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171189
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10
     10 Rėza. Dainos.
@@ -1930,14 +1962,17 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   citata_rodoma: "Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10\n10 Rėza. Dainos.\n130\n\n## Puslapis 130\n\n(Giltine)10. Latviai, teikdami tą pačią prasmę, vadino Welli-De-\newa. Šios deivės garbinimo apeigos buvo rengiamos per laido­\ntuves ir Vėlines."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-171190
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 132."
   citata_originali: |
     Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
     gėlių ir vaismedžių sodas.
@@ -1956,7 +1991,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171191
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Net Vokietijoje,
     kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
@@ -1982,7 +2018,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171192
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
   citata_originali: |
     4. Prūsuose, neminint kitų, yra Šventainės (Szwentejne),
     upė, įtekanti į Peise (Pissa) ties Baičių (Bajcze) kaimu; seniau
@@ -2000,7 +2037,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171194
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
   citata_originali: |
     235
 
@@ -2023,7 +2061,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171195
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
   citata_originali: |
     Tai buvo 1258 metais“ .
     Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
@@ -2034,14 +2073,17 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   citata_rodoma: "Tai buvo 1258 metais“ .\nDybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­\nlas arba šventykla, savo viduryje turėjusi neapsakomo didumo\nąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai\npaėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,\ntoje vietoje įkūrė Senąją Torunę."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
 - id: c-171196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 239."
   citata_originali: |
     LIEPA, Liepas. Pas senovės prūsus ji priklausė šventųjų
     medžių kategorijai. Henenbergeris tikina, kad dar jo laikais,
@@ -2060,7 +2102,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171197
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 257."
   citata_originali: |
     Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš
     senovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios
@@ -2068,14 +2111,17 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   citata_rodoma: "Perkūno, Patelo ir Atrimpo atvaizdai yra žinomi dar iš\nsenovės prūsų vėliavos. Žiūrėk VI lentelės 41-ąjį piešinį. Šios\nvėliavos aprašymas yra straipsnyje apie herbus."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
 - id: c-171198
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 257."
   citata_originali: |
     Raidės
     tos pačios“ (žiūrėk ten pat, piešinį 51) *.
@@ -2093,7 +2139,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 263."
   citata_originali: |
     Miškelių garbinimas buvo taip sureikšmintas, kad juose
     jokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­
@@ -2119,7 +2166,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Krikščionims iš smalsumo buvo
     draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
@@ -2141,7 +2189,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171201
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 278."
   citata_originali: |
     Todėl plačios galimybės maitintis visuomenės lengvatikiš­
     kumu leido laikyti daug žynių.
@@ -2164,7 +2213,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 286"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 286."
   citata_originali: |
     Todėl vyriausiųjų žy­
     nių sąrašo autentiškumas nekelia įtarimo. Paskutinis Prūsijos
@@ -2184,12 +2234,12 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-016
-    - t-021
 
 - id: c-171203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
   citata_originali: |
     Tie žyniai buvo išskirtinai dievo Atrimpo arba
     Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo
@@ -2212,7 +2262,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171204
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 309."
   citata_originali: |
     Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re­
     ligines apeigas. Tą tiesą patvirtino vėlesni nei Hartknocho ty­
@@ -2232,7 +2283,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171205
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
   citata_originali: |
     Tokiu atveju vieną iš pagrobtų arklių liepdavo nujodyti,
     kol kris, o tada Krivių Krivaitis, papjovęs savo ranka, sudegin­
@@ -2254,7 +2306,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171206
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
   citata_originali: |
     Hartknochas, mėgstantis viską pritempti prie germaniš­
     kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
@@ -2271,14 +2324,13 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
     - t-020
-    - t-068
 
 - id: c-171207
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 349."
   citata_originali: |
     Kartais, tik­
     riausiai kaip apgavikiškus monus, žmonėms rodydavo baisias
@@ -2290,14 +2342,17 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   citata_rodoma: "Kartais, tik­\nriausiai kaip apgavikiškus monus, žmonėms rodydavo baisias\ngyvates, slibinus, pabaisas, baidykles ir panašias baisybes. Iš­\ngirdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal­\nbasi su vyriausiuoju žyniu“5.\nBuvo ypatingos apeigos užbėgti už akių aiškiam nusikalti­\nmui ir atskleisti slaptam."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
+
 - id: c-171208
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 358"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 358."
   citata_originali: |
     Visa tai trukdavo iki vėlyvos nakties.
     Prieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­
@@ -2316,7 +2371,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171211
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 401"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 401."
   citata_originali: |
     400
 
@@ -2340,7 +2396,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171212
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 401"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 401."
   citata_originali: |
     Žiūrėk VI lentelės 42-ą piešinį.
     Kitas tautinis prūsų herbas vaizdavo dvi karališkas karū­
@@ -2359,7 +2416,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-171213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
   citata_originali: |
     Taip anot pono Foigto tyrimų.
     Tautinė senovės prūsų vėliava, kurią nešdavo karo žygiuo­
@@ -2372,13 +2430,13 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
     - t-025
 
 - id: c-171214
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 401"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 401."
   citata_originali: |
     Be
     to, pas Henenbergerį yra užrašas senovės lietuvių kalba (apie
@@ -2399,7 +2457,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-173497
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 413"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 413."
   citata_originali: |
     Vos šimtas metų buvo praėję nuo kryžiuočių atsi­
     kraustymo ir vos truputį daugiau nei keturiasdešimt metų nuo
@@ -2431,7 +2490,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-173499
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 424"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 424."
   citata_originali: |
     Kas gi
     tuo dokumentu turėjo būti panaikinta ar uždrausta, kitaip sa­
@@ -2453,7 +2513,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-173500
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
   citata_originali: |
     433
 
@@ -2474,12 +2535,13 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-069
+    - t-029
 
 - id: c-173501
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 449."
   citata_originali: |
     447
 
@@ -2512,7 +2574,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-175238
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Lietuvių bičiuliai, prūsai ir latviai, laimingiau ,ar nelai-
     1 Rotundo „Lietuvos istorijos“*.
@@ -2542,7 +2605,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-175239
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Kitą dieną priešams buvo atsiųsta pagalba —
     prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
@@ -2565,7 +2629,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-175240
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Syvai, kurie kažkada sunkėsi iš ypa­
     tingos rūšies palmės, pradingusios senovės pasaulio re­
@@ -2594,7 +2659,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-175241
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
   citata_originali: |
     Hartknochas2 pa­
     teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
@@ -2621,7 +2687,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-175242
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 262."
   citata_originali: |
     Atkreipę į tai dėmesį, paliekame savo
     skaitytojams galimybę daryti išvadas tuomet, kai bus ži­
@@ -2644,7 +2711,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-175243
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 471"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 471."
   citata_originali: |
     Žinoma, jog 1096 metais prūsai buvo tuose kraštuose ir stojo į
     mūšį su lenkais prie Goplo ežero1. Kaip tik tuomet jie galėjo pa­
@@ -2664,7 +2732,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-175244
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 508"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 508."
   citata_originali: |
     Be to, pas Henenbergerj
     yra užrašas senovės lietuvių kalba (apie naują šio užrašo aiški­
@@ -2686,7 +2755,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176059
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 104."
   citata_originali: |
     Šitaip kryžiuo­
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
@@ -2707,7 +2777,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176061
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 130."
   citata_originali: |
     Tuo metu kryžiuočių riterių magistras
     buvo Henrikas: jis pirmiausia atnaujino santarvę su
@@ -2739,7 +2810,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176062
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 130."
   citata_originali: |
     Kry­
     žiuočių riteriai, džiaugdamie­
@@ -2765,13 +2837,13 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
     - t-040
 
 - id: c-176063
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
   citata_originali: |
     Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
     įgulą, sugriovė arba sudegino visus įtvirtinimus; du
@@ -2790,14 +2862,14 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
     - t-041
     - t-042
 
 - id: c-176064
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 156."
   citata_originali: |
     Tuo tarpu keletas kitų lietuvių būrių
     niokojo Lenkijos pasienius, grįždami jie pateko į prie­
@@ -2812,14 +2884,17 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   citata_rodoma: "Tuo tarpu keletas kitų lietuvių būrių\nniokojo Lenkijos pasienius, grįždami jie pateko į prie­\nšų pasalas, ir tuo metu, kai namai, regis, buvo ranka\npasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­\ntyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,\nkurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,\nvildamiesi, jog už naują išdavystę kryžiuočiai jiems\natleis jų ankstesnį nusikaltimą. Kitų metų pradžioje\nlietuvių reikalai nė trupučio nepagerėjo, nors ir nebu­\nvo tokie blogi kaip anuomet."
   statusas: verified
   atnaujinta: "2026-07-13 01:00"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
+
 - id: c-176238
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 22."
   citata_originali: |
     Vėliau,
     I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
@@ -2838,7 +2913,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176787
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 30."
   citata_originali: |
     Iš tokio
     trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
@@ -2866,7 +2942,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176916
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
     (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
@@ -2888,7 +2965,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176917
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     3. Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
 
@@ -2910,7 +2988,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176918
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     Kunigaikštis
     ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
@@ -2930,7 +3009,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176919
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
   citata_originali: |
     Apie prūsų stabmeldystę, apeigas ir papročius
 
@@ -2952,7 +3032,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176920
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
   citata_originali: |
     Po pergalės jie
     aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
@@ -2972,7 +3053,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176921
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
   citata_originali: |
     Pagal seną paprotį, kurį
     prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną
@@ -2992,7 +3074,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176922
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 71."
   citata_originali: |
     Apie vieną stebuklą
 
@@ -3017,7 +3100,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176923
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74."
   citata_originali: |
     Mat
     ten užtiko sutelktą didžiulę prūsų kariuomenę, ginkluotą ir pasirengusią kovai. Narsiai ją
@@ -3039,7 +3123,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176924
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
   citata_originali: |
     Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė
     Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams.
@@ -3060,7 +3145,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176925
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
   citata_originali: |
     Apie žemutinių Prūsijos žemės dalių nusiaubimą
 
@@ -3086,7 +3172,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176926
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
   citata_originali: |
     Juos persekiodami,
     krikščionys daugybę išžudė, o maršalas, išskleidęs krikščionių kariuomenę, priėjo su 24
@@ -3109,7 +3196,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176927
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
   citata_originali: |
     Vis dėlto jos vadas su keliais [kariais] vargais negalais išsigelbėjo,
     pasprukdamas laivu. Šitaip sutriuškintas Sventopelkas, praradęs visą karinę galią,
@@ -3134,7 +3222,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176928
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 117"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 117."
   citata_originali: |
     Apie tai, kaip buvo palikta Heilsbergo pilis
     Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis]
@@ -3153,7 +3242,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176929
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     Viešpats tą vietą buvo pasirinkęs savo vardui garbinti ir šlovinti373, todėl, bausdamas juos
     už piktus sumanymus bei klastingas užmačias, niekais vertė viską, ko šie griebdavosi.
@@ -3175,7 +3265,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176930
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
     Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas
@@ -3201,7 +3292,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176931
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     Sitai girdėdamas,
     Miligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis. Pastebėjęs
@@ -3222,7 +3314,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176932
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     Dėl šių dviejų žūties
     prūsai labai džiūgavo, o broliai sielvartavo. Tačiau broliai sugalvojo paversti jų džiugesį
@@ -3240,7 +3333,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176933
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     120 (115). Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
     Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo,
@@ -3258,7 +3352,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176934
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
   citata_originali: |
     122 (117). Apie Vėluvos pilies puolimą
 
@@ -3279,7 +3374,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176935
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
     Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
 
@@ -3302,7 +3398,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176936
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
     150 (145). Apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį
     Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.
@@ -3320,7 +3417,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176937
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
   citata_originali: |
     Galop prūsai, iš visų pusių apsiautę pilį, pradėjo smarkiai ją pulti.
     Broliai priešindamiesi daugybę jų nukovė arba mirtinai sužeidė strėlėmis. Tada perpykę
@@ -3338,7 +3436,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176975
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
   citata_originali: |
     Be to, mano pa­
     ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
@@ -3355,13 +3454,13 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
     - t-067
 
 - id: c-176976
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 113."
   citata_originali: |
     Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
     susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
@@ -3374,14 +3473,17 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   citata_rodoma: "Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek\nsusiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.\nIndų trejybė -  Brahma, Višnus ir Siva. Egiptiečiai turėjo savo\nKamefius, japonai -  dievus Kami, pono Georgi nuomone, vi­\nsiškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką\nslavų Tryzną. Iš istorijos žinoma, kad senovės prūsai turėjo\nTrejybę, todėl nedvejosime priimdami Kabirus į lietuvių die­\nvų tarpą."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-068
+
 - id: c-176977
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
   citata_originali: |
     Jų gydomasis poveikis žinomas visiems
     kaimiečiams.
@@ -3392,14 +3494,17 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   citata_rodoma: "Jų gydomasis poveikis žinomas visiems\nkaimiečiams.\nĄŽUOLAS, Užuotas. Labiausiai išprususi lietuvių genties\ntauta -  senovės prūsai savo šventyklas turėdavo po šiuo me- 9\n9\nŠitaip tą medį vadina čionykščiai kaimiečiai."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-069
+
 - id: c-176978
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
   citata_originali: |
     Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs
     asmuo. Žymiausius laidojo ant kalnelių, greta jų namų. Net
@@ -3419,7 +3524,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-176979
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
   citata_originali: |
     Paga­
     liau atrodo, kad kai kurie iš tų pilkapių būdavo naudojami
@@ -3437,13 +3543,13 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
     - t-071
 
 - id: c-176980
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 424"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 424."
   citata_originali: |
     Būtų labai apsirikta manant, jog šitos sutarties tikslas
     buvo visiškai sunaikinti tuometinę senovinę stabmeldišką tau­
@@ -3464,7 +3570,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-178537
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 106."
   citata_originali: |
     Kita vokie­
     čių kariuomenė, vedama grafo Barbio, niokojo Sembą
@@ -3484,7 +3591,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-178539
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 155."
   citata_originali: |
     Tačiau nei viena, nei kita pergalė negalė­
     jusi, pasak metraštininkų, atsverti nuostolių, kuriuos
@@ -3514,7 +3622,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-178978
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
   citata_originali: |
     Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui
     namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką
@@ -3537,7 +3646,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-178979
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     96 (91). Apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais
     Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o
@@ -3558,7 +3668,8 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - id: c-178980
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Apie tai, kaip buvo palikta Rezlio pilis
     Rezlio pilies broliai, išgirdę, kad prūsai apsiautė Karaliaučiaus, Kroicburgo ir Bartenšteino
@@ -3579,9 +3690,9 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     - t-078
 
 - id: c-184278
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 20-21"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 20-21."
   citata_originali: |
     Sigismuntas III Augustas 1540—1572.
     7-oji dalis

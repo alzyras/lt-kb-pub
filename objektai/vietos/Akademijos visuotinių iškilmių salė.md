@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d9baca925a54867779025770"
+canonical_name: "Akademijos visuotinių iškilmių salė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Akademijos visuotinių iškilmių salė","aktų salė","ta salė"]
+sameAs: []
+canonical_biography: "Akademijos visuotinių iškilmių salė buvo pailgos formos patalpa prie bokšto arba varpinės. Aprašas ją sieja su portretais, mediniais suolais ir aukščiu, prilygintu trims aukštams."
+place_authority: true
+historical_names: []
 ---
 # Akademijos visuotinių iškilmių salė
 
@@ -106,7 +115,8 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
 - id: c-55840
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 192."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
     su Dievo Kūno arkibrolija; funduota buvo sekant Romos mon­
@@ -133,7 +143,8 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
 - id: c-55841
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 193."
   citata_originali: |
     Stanislovo Radvilos, Vilniaus vaivados Mykolo Paco,
     Jo Karališkosios Didenybės sekretoriaus Adrijano Vežbic-
@@ -153,7 +164,8 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
 - id: c-55842
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 193."
   citata_originali: |
     Nuo
     katedros palei sienas - meistrų darbo mediniai suolai, besi­
@@ -176,7 +188,8 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
 - id: c-79508
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 192."
   citata_originali: |
     C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą
     Mokyklos, Iždo, Knygyno bei kitos paskirties pastatais

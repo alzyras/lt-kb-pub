@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-384306e8af516734a8488e07"
+canonical_name: "J. I. Kraszewski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. I. Kraszewski"]
+sameAs: []
+canonical_biography: "Basanavičiaus teigimu, J. I. Kraszewski anksčiau save laikė lietuviu, nors apie Lietuvą rašė lenkiškai, o vėliau save laikė lietuviu-lenku."
 ---
 # J. I. Kraszewski
 

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0497370ac2348ea9d9a32c15"
+canonical_name: "Cipnovianas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Cipnovianas"]
+sameAs: []
+canonical_biography: "1223 m. Cipnovianas su Bojaduru vadovavo Čingischano kariuomenės būriui, pasiųstam užimti Samachos ir Derbento."
 ---
 # Cipnovianas
 
@@ -66,7 +73,8 @@ media_all_json: |-
 - id: c-174265
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 110."
   citata_originali: |
     104
     Galop dabar privalome pridurti dar vieną istorinę pa­

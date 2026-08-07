@@ -53,9 +53,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184661
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 495"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 495."
   citata_originali: |
     Ateinantį metą Lietuvoj rados zdroda: kaipogi
     Aukaimio pilės vyras, arba kamendotas, Draikis

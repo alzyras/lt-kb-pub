@@ -72,7 +72,8 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
 - id: c-61598
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
   citata_originali: |
     550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis
     Livonijoje (pietinėje Estijoje), į pietus nuo dab. Viljandžio (Tuulse A., Die Burgen..., p.
@@ -89,7 +90,8 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
 - id: c-61599
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     Kitą
       552 D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,

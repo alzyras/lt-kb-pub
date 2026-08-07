@@ -54,7 +54,8 @@ Dusburgietis teigia, kad wróblewski R.
 - id: c-62003
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 276."
   citata_originali: |
     Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248—
     1264,—Nauki humanistyczno społeczne, Łódź, 1970, z. 72, s. 3—18.

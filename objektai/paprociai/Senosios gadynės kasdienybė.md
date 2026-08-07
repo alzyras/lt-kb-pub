@@ -62,23 +62,14 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-195611"></a>
-- t-001
-  teiginys: "Toje pačioje gadynėje žmonės daug dainavo, meldėsi, dirbo, gėrė ir lėbavo."
-  atnaujinta: "2026-07-12 08:10"
-  sprendimo_priezastis: "gap::customs"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178014
-
 <a id="claim-t-195612"></a>
-- t-002
+- t-001
   teiginys: "Senojoje gadynėje Lietuvos žmonės švietėsi balanomis, avėjo vyžomis, kūlė spragilu ir gyveno dūminėse grįčiose."
-  atnaujinta: "2026-07-12 08:10"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "gap::customs"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-178014
 
@@ -106,10 +97,9 @@ Nenurodyta
     naivumo ir tragizmo.
   citata_rodoma: "Man teko būti liudininku, kaip senoji gadynė pasikeitė į naująją,\nliudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi,\nvj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo,\ndaug meldėsi, daug dirbo, daug gėrė ir lėbavo."
   statusas: verified
-  atnaujinta: "2026-07-12 08:10"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002

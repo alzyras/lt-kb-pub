@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1f1b0802c19d4cae8f459fdc"
+canonical_name: "Dumpeshagenas (vyskupas, XIII a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dumpeshagenas","Dumpeshagenas (vyskupas, XIII a.)"]
+sameAs: []
+canonical_biography: "Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal ba Tarapato vyskupo kitus vyskupus nuo reikalo arkivyskupo atskiesti, tą nujautęs arkivyskupas grobė ginklą iš visos galios ir liepė ne vien baž nyčiose melstis, idant viešpats Dievas padėtų kalavijonų."
 ---
 # Dumpeshagenas (vyskupas, XIII a.)
 
@@ -54,9 +61,9 @@ Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal ba Tarapato vyskupo ki
 ## Citatos
 
 - id: c-184757
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 488"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 488."
   citata_originali: |
     Arkivyskupas Ry­
     gos, jausdamas artimą audrą ir pavojų, stiprią pilį,

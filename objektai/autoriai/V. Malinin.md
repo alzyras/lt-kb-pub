@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b51df5ad89af51822d4eb596"
+canonical_name: "V. Malinin"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["V. Malinin"]
+sameAs: []
+canonical_biography: "Malinin: Starec Eleazarova monastyrja Filofej, Kiev 1901, Priloženija 45p.)."
 ---
 # V. Malinin
 
@@ -60,7 +67,8 @@ Malinin: Starec Eleazarova monastyrja Filofej, Kiev 1901, Priloženija 45p.).
 - id: c-33174
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 36."
   citata_originali: |
     Žr. A. Lazar :** **_Maskva_** **-** **_treci Rim,_** **žur­
     nale Božym Šlacham, 1948, 9-10 nr., 5-8 p. ; A. Ammann:** **_Abriß der ost­

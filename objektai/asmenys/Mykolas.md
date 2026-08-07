@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0f8e32fbff99ac2f8d1338e7"
+canonical_name: "Mykolas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mykolas"]
+sameAs: []
+canonical_biography: "Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų."
 ---
 # Mykolas
 
@@ -50,7 +57,8 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - id: c-42162
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     XV a. atvirose kautynėse
     artilerija neatliko svarbaus

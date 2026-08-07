@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d166582cf985835901026f21"
+canonical_name: "Eitanas Finkelšteinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eitanas Finkelšteinas"]
+sameAs: []
+canonical_biography: "Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė, poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo."
 ---
 # Eitanas Finkelšteinas
 
@@ -40,7 +47,8 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 - id: c-21658
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
     sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-

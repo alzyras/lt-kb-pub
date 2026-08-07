@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4de06b30d09e12f2921beafe"
+canonical_name: "Josifas Stalinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Josifas Stalinas"]
+sameAs: []
+canonical_biography: "Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J."
 ---
 # Josifas Stalinas
 
@@ -62,7 +69,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 <a id="claim-t-101654"></a>
 - t-002
   teiginys: "Stalino statulų, prikabinėta komunistinių šūkių."
-  atnaujinta: "2026-07-19 19:01"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1950 m."
@@ -91,7 +98,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 <a id="claim-t-101656"></a>
 - t-004
   teiginys: "Josifo Stalino valdymo metais komunistų partija kontroliavo ir cenzūravo lietuvių kultūrą, siekdama išrauti tautiškumą ir skleisti komunistinę ideologiją."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -138,7 +145,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 <a id="claim-t-101659"></a>
 - t-007
   teiginys: "Josifas Stalinas ir V. Molotovas agresyviai spaudė Lietuvą prieš spalio 10 d. pasirašant Vilniaus perdavimo ir savitarpio pagalbos su SSRS sutartis."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -238,7 +245,8 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 - id: c-21760
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 184."
   citata_originali: |
     Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
     pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
@@ -259,7 +267,8 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 - id: c-21761
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 185."
   citata_originali: |
     Lietuviai at-
     kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti
@@ -279,7 +288,8 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 - id: c-21762
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 209."
   citata_originali: |
     Padėtis ėmė keistis 1953 m. mirus J. Stalinui, o ypač po trejų metų Ni-
     kitai Chruščiovui pasmerkus J. Stalino kultą – susilpnėjo rusinimas, val-
@@ -301,7 +311,8 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 - id: c-21764
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Kultūros suvienodinimas
     J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros
@@ -323,7 +334,8 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 - id: c-21765
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 220."
   citata_originali: |
     Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
     no savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-
@@ -343,7 +355,8 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 - id: c-21766
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 222."
   citata_originali: |
     Lietuvos teritorijos), gynybinis karinis kompleksas
     reikalavo kvalifikuotos darbo jėgos. Ją ruošė totaliai kontroliuojama švieti-
@@ -365,7 +378,8 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 - id: c-21767
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 228."
   citata_originali: |
     Leista veikti tik vienai kunigų seminarijai Kaune, klierikų skaičių
     mažinant. 1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko.
@@ -386,7 +400,8 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 - id: c-95119
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 219-220"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 219-220."
   citata_originali: |
     1972 m.
     J. Botyriaus nuotrauka
@@ -415,7 +430,8 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 - id: c-95121
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 209-210"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 209-210."
   citata_originali: |
     Karas po karo – ginkluota rezistencija
     Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė

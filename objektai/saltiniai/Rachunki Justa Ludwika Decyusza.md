@@ -58,7 +58,8 @@ IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Au
 - id: c-84449
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 294."
   citata_originali: |
     Jį karalius patvirtino tų pačių metų lapkričio
     18 dieną ir vėliau miestui suteikė daug kitų naudingų dova­

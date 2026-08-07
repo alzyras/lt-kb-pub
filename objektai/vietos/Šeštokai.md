@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f036dead7220f1bacd6573ba"
+canonical_name: "Šeštokai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šeštokai"]
+sameAs: []
+canonical_biography: "Šie batalionai išsikrovė Šeštokų geležinkelio stotyje ir po žygio ilsėjosi gražioje pievoje. Iš Kauno šarvuotas traukinys nuvyko į Varėną, iš ten per Alytų į Šeštokus."
+place_authority: true
+historical_names: []
 ---
 # Šeštokai
 
@@ -66,7 +75,8 @@ media_all_json: |-
 - id: c-45458
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 204."
   citata_originali: |
     Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-
     nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
@@ -83,7 +93,8 @@ media_all_json: |-
 - id: c-45459
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 203."
   citata_originali: |
     [pulko] Pilėnų Kunigaikščio
     Margio 11 ir 11 batalionus. Šie batalionai išsikrovė Šeštokų

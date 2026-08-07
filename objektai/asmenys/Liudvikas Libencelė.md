@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a65967f9b4af63ae2c0b37c8"
+canonical_name: "Liudvikas Libencelė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas Libencelė"]
+sameAs: []
+canonical_biography: "Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukaimio įgulos vyrus, neatsargiai įžengusius į priešo žemę. Liudvikas Libencelė užėmė Lietuvoje Kimelio pilį ir sumušė su juo kovoti stojusius gardiniečius. Liudvikas Libencelė, sugrįžęs namo, rado lietuvių sudegintą Skalvių papilį ir teberūkstančią Ragainę, kurios komtūru buvo."
 ---
 # Liudvikas Libencelė
 
@@ -85,7 +92,8 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
 - id: c-169506
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 163."
   citata_originali: |
     Todėl jie priplaukė prie kranto, ketindami tą
     tariamą moterį paimti į laivą, tačiau Nodamas, staiga
@@ -113,7 +121,8 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
 - id: c-169507
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 172."
   citata_originali: |
     Šitaip atstumti, kryžiuo­
     čiai leidosi į Junigedą; kadangi vienu metu laivai bu­

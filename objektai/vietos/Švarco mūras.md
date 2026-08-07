@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a6d4aa633792e6280b733bc2"
+canonical_name: "Švarco mūras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Švarco mūras"]
+sameAs: []
+canonical_biography: "Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco, 187 ## Puslapis 204 VILNIAUS MIESTO ISTORIJA I TOMAS Valerijono bursai perleido, nuo kurios studentų dėlei kas­ met po 260 auksinų gauna, o 40 auksinų eina tam mūriniam."
+place_authority: true
+historical_names: []
 ---
 # Švarco mūras
 
@@ -59,7 +68,8 @@ Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadi
 - id: c-82111
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 203-204"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 203-204."
   citata_originali: |
     Akademijos Rektorius t. Paulius Bochenas, neturė­
     damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­

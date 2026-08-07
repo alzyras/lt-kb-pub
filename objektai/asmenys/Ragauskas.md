@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-68aeeca1980093c2db9939e9"
+canonical_name: "Ragauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ragauskas"]
+sameAs: []
+canonical_biography: "Valdant Žygimantui Augustui, Veliuonos klebonas Ragauskas priėmė Socino tikėjimą, o bažnyčia ilgai priklausė evangelikams reformatams."
 ---
 # Ragauskas
 
@@ -63,7 +70,8 @@ Valdant Žygimantui Augustui, Veliuonos klebonas Ragauskas priėmė Socino tikė
 - id: c-173089
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     1414 metais
     kunigaikštis Vytautas, gyvendamas Veliuonos pilyje, administ­

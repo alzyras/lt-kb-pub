@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ebc238c4158c6027c06be223"
+canonical_name: "Henrikas Hochbergas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Hochbergas"]
+sameAs: []
+canonical_biography: "Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis bandė pagelbėti Kęstučiui."
 ---
 # Henrikas Hochbergas
 
@@ -53,7 +60,8 @@ Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis b
 - id: c-169570
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 242."
   citata_originali: |
     Kęstutį, kuris ban­
     dė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar­

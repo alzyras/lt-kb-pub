@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0a5bf9141658bc34a677b91d"
+canonical_name: "Benediktas Choinovskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Benediktas Choinovskis"]
+sameAs: []
+canonical_biography: "Kur minėti anksčiau išvardinti ponai tarėjai šio miesto amžinai atminčiai ir garbei pagal šventą, įprastą, nuo senovės besilaikomą paproti po pirmu akmeniu, meistro mūrininko Benedikto Choinovskio tiksliai patalpintu pono vaito menės kampe, padėjo 1 auksiną."
 ---
 # Benediktas Choinovskis
 
@@ -41,9 +48,9 @@ Kur minėti anksčiau išvardinti ponai tarėjai šio miesto amžinai atminčiai
 ## Citatos
 
 - id: c-185418
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 202"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 202."
   citata_originali: |
     Panteleono dieną tarp pusinio laikrodžio 10 ir 11 valandos
     garsūs ir žymūs ponai, būtent šio Kauno miesto vaitas Jokūbas Šulcas, metinis burmistras

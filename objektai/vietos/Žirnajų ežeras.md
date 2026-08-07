@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-61692c1fe5249cb1414a1a5b"
+canonical_name: "Žirnajų ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žirnajų ežeras"]
+sameAs: []
+canonical_biography: "Švitrigailos ir Ordino pajėgos prie Žirnajų ežero judėjo vakarine pakrante, o Žygimanto kariuomenė traukė rytine ežero puse."
+place_authority: true
+historical_names: []
 ---
 # Žirnajų ežeras
 
@@ -52,7 +61,8 @@ media_all_json: |-
 - id: c-45486
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Sprendžiant iš pagrindinių istorinių
     šaltinių, Švitrigailos ir Ordino pajėgos iš

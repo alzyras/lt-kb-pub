@@ -17,6 +17,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-910d4d705c6f95a99914935e"
+canonical_name: "Katedros varpinė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Katedros varpinė"]
+sameAs: []
+canonical_biography: "Katedros varpinė pastatyta ant vieno Žemosios pilies bokšto liekanų."
+place_authority: true
+historical_names: []
 ---
 # Katedros varpinė
 

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5e992bf91720fea4e78e17e"
+canonical_name: "Adutiškis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Adutiškis"]
+sameAs: []
+canonical_biography: "liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS [7] Rugpjūčio 8 d. Augustavas © Rugpjūčio 9 d. Švenčionėliai, | Švenčionys, Adutiškis."
+place_authority: true
+historical_names: []
 ---
 # Adutiškis
 
@@ -59,7 +68,8 @@ liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS [7] Rugpjūčio 8 d. Aug
 - id: c-45017
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 199"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 199."
   citata_originali: |
     Lietuvos kariuomenės 1920 m. liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS
 

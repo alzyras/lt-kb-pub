@@ -67,7 +67,8 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
 - id: c-172381
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
   citata_originali: |
     Kad mums būtų lengviau išsemti visą naudą iš mitologijos
     skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
@@ -92,7 +93,8 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
 - id: c-176968
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 81."
   citata_originali: |
     Tačiau tiesa visuomet išliko atmintyje. Senovės isto­
     rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai,

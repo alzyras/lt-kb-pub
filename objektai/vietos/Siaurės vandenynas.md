@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-09cedf10810c088ce94f5dca"
+canonical_name: "Siaurės vandenynas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Siaurės vandenynas"]
+sameAs: []
+canonical_biography: "Be jo kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny no, gyveno ši tauta, garbinusi dangaus kūnus ."
+place_authority: true
+historical_names: []
 ---
 # Siaurės vandenynas
 
@@ -46,7 +55,8 @@ Be jo kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel džiai S
 - id: c-177168
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
   citata_originali: |
     O
     čia surinksime visokias išlikusias žinias apie dangaus kūnų su­

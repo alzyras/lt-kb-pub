@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae42983dade99edc1a742882"
+canonical_name: "Aleksandras Vyguntas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Vyguntas"]
+sameAs: []
+canonical_biography: "Pati re­ forma nepasisekė, nes Vygunto mirtis (1392 m. birželio 28 d.) suardė tuos planus."
 ---
 # Aleksandras Vyguntas
 
@@ -63,7 +70,8 @@ Pati re­ forma nepasisekė, nes Vygunto mirtis (1392 m. birželio 28 d.) suard�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 172."
   citata_originali: |
     Iš to matyt, kad Skirgaila sužinojo aukščiau
     minėtą projektą, kuriam jis skubinos užbėgti už akių. Pati re­

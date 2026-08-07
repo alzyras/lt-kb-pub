@@ -74,7 +74,8 @@ Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypa
 - id: c-172059
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 260."
   citata_originali: |
     Antikos žmonės turėjo tam tikras vietas, vadintas Hypetres
     arba Subdiales, neapsaugotas jokiomis priedangomis bei ap­
@@ -99,7 +100,8 @@ Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypa
 - id: c-172060
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
     tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-72096e6c5afe1aaf62384bd3"
+canonical_name: "Bansas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bansas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žodžiais keikė vieną sembą, vardu Bansas, Pabečių valsčiaus kamerarijų, tvirtindami, jog jis esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas. Dusburgietis teigia, kad šis Bansas norėjo viešai turėti dvi žmonas478; kadangi broliai jam šitai uždraudė, jis įniršęs beveik visus prūsus sukurstė atsimesti nuo krikščionybės."
 ---
 # Bansas
 
@@ -32,7 +39,7 @@ Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žod
 <a id="claim-t-60088"></a>
 - t-001
   teiginys: "Bansas norėjo viešai turėti dvi žmonas, o broliams tai uždraudus sukurstė beveik visus prūsus atsimesti nuo krikščionybės."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -71,7 +78,8 @@ Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žod
 - id: c-60720
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 159."
   citata_originali: |
     Konradas iš Tirbergo, magistras, ir broliai, subūrę didelę kariuomenę, įsiveržė į Pagudės
     žemę ir, išžudę nesuskaičiuojamą galybę vyrų, ugnimi nusiaubę visą žemę bei ją apiplėšę,
@@ -93,7 +101,8 @@ Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žod
 - id: c-60721
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 160."
   citata_originali: |
     kelią, užpuldavo juos ir sumušdavo, daugybę išžudydamas, o kitus išsklaidydamas; jis tiek
     kartų šitai padarė ir tiek jų išžudė, kad sūduviai daugiau nebedrįsdavo rodytis be didesnės

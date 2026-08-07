@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f78d0c9fd714d8c7885e465c"
+canonical_name: "Andrejus Kurbskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Andrejus Kurbskis"]
+sameAs: []
+canonical_biography: "Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Lietuvos pusės kunigaikščius su šeimomis ir tėvonijomis."
 ---
 # Andrejus Kurbskis
 
@@ -79,7 +86,8 @@ Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Li
 - id: c-169392
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 735"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 735."
   citata_originali: |
     Lietuvos istorija
     -737

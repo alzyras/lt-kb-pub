@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47b66578d4c3eef0b95a7532"
+canonical_name: "Kolomyja"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kolomyja"]
+sameAs: []
+canonical_biography: "Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nuo Lvovo. Moldavijos vaivada Steponas atvyko į Kolomyją tarp 1485 m. rugsėjo 6 ir 12 d. Lenkijos karalius Kazimieras 1485 m. rugpjūčio 24 d. atvyko į Kolomyją ir ten išbuvo iki rugsėjo 18 d."
+place_authority: true
+historical_names: []
 ---
 # Kolomyja
 

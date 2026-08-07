@@ -88,7 +88,8 @@ Nenurodyta
 - id: c-169187
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 165."
   citata_originali: |
     Išdėstęs vi-
     ta  u žim a  J u n ig e d ą

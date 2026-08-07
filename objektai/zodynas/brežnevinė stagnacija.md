@@ -52,7 +52,8 @@ LLL buvo paskutinė rezistencijos organizacija, kuri brežnevinės stagnacijos l
 - id: c-75114
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 233."
   citata_originali: |
     Atrodo, kad abiejų judėjimų takos-
     kyra galima laikyti ne vien jų taktikos nuostatas, bet ir skirtingas veiklos

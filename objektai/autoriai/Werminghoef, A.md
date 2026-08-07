@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7a6ec5bec11794bde844c02d"
+canonical_name: "Werminghoef, A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Werminghoef, A"]
+sameAs: []
+canonical_biography: "Werminghoef, A."
 ---
 # Werminghoef, A
 
@@ -79,7 +86,8 @@ Werminghoef, A.
 - id: c-55081
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 351."
   citata_originali: |
     — Werminghoef, A. : _Die Schlacht bei Tannenberg und ihre Be­
     deutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :

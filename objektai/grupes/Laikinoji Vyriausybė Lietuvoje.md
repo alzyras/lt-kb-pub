@@ -62,7 +62,8 @@ Lietuvoje analogišką manifestą 1863 m. vasario 1 d. paskelbė Lietuvos Provin
 - id: c-44785
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 160."
   citata_originali: |
     Varšuvoje įsikūręs sukilimo rengimo
     Nacionalinis Centro komitetas, pasiva-

@@ -82,7 +82,8 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
 - id: c-171028
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 17."
   citata_originali: |
     „Sukūrimas
     tautinės mitologijos“ beveik visose šalyse „buvo viena iš ben­

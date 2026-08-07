@@ -66,7 +66,8 @@ Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai ra�
 - id: c-172427
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 433."
   citata_originali: |
     1.
     Seniausias žinomas šito šaltinis yra Simonas Grunau,
@@ -90,7 +91,8 @@ Narbutas Simoną Grunau apibūdino kaip kronikininką, ne visuomet pagarbiai ra�
 - id: c-179074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 438"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 438."
   citata_originali: |
     Nuodugniau lyginant gyvąsias kalbas su mirusiomis, pa­
     stebėta, kad tarp jų yra skirtumas, tai yra atrastos tam tikros

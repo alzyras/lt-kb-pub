@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-42b7c7a5b34e6c4dfadecb00"
+canonical_name: "Jornandesas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Jornandesas"]
+sameAs: []
+canonical_biography: "Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vidivarii [vidivarijai], duotas Jornandeso (De geticae gentis origine ac rebus ges­ tis Cap. 5 [apie gotų genties kilmę ir karo žygius]); yra ne kokios nors vie­ nos tautos nomen gentile."
 ---
 # Jornandesas
 
@@ -51,7 +58,8 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
 - id: c-84048
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 30."
   citata_originali: |
     Kraštas, ku­
     rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­

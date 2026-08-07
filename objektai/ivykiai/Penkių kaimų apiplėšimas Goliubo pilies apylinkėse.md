@@ -49,11 +49,19 @@ Nenurodyta
 <a id="claim-t-62428"></a>
 - t-001
   teiginys: "Lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies apylinkėse apiplėšė penkis kaimus."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
+  ryšio_patikimumas: "surenge_zygi_i -> Kulmas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvių kariuomenės įsibrovimas į Kulmo žemę tiesiogiai išreiškia karinį žygį į vietą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-63052
     - c-167338
 
 <a id="claim-t-183953"></a>
@@ -80,7 +88,8 @@ Nenurodyta
 - id: c-63052
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     268 (261) Apie penkių kaimų apiplėšimą
 
@@ -94,14 +103,17 @@ Nenurodyta
   citata_rodoma: "268 (261) Apie penkių kaimų apiplėšimą\n\n  Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė\npenkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.\n\n\n\n\n   269 (262). Apie Rygos miestiečių kivirčus su Teutonų ordino broliais Livonijoje"
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-167338
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     Šis,
     bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino

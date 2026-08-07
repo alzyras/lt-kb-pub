@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-397a1f0399a1faa42ea845b4"
+canonical_name: "Astrachanas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Astrachanas"]
+sameAs: []
+canonical_biography: "Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potockio straipsnį apie kelionę į Astrachaną ir jo apylinkes."
+place_authority: true
+historical_names: []
 ---
 # Astrachanas
 
@@ -58,7 +67,8 @@ Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potocki
 - id: c-171866
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 483"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 483."
   citata_originali: |
     Šį kartą istorikas turėjo omenyje straipsnį: Podrož
     Hrabiego Jana Potockiego do Astrachanu i okolic

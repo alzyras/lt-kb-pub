@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-476fa7f8feb9d71f7e29ecba"
+canonical_name: "Aaron Klug"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aaron Klug"]
+sameAs: []
+canonical_biography: "Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron Klug (Aronas Kliugas, g."
 ---
 # Aaron Klug
 
@@ -59,7 +66,8 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
 - id: c-21538
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 265."
   citata_originali: |
     O juk
     reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai

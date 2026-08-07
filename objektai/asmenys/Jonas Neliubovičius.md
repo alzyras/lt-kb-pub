@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bb7c61c19a956b2bc31d4b9c"
+canonical_name: "Jonas Neliubovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Neliubovičius"]
+sameAs: []
+canonical_biography: "Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams."
 ---
 # Jonas Neliubovičius
 
@@ -60,7 +67,8 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
 - id: c-83707
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 196."
   citata_originali: |
     Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių
     atiteko Neliubovičiams.

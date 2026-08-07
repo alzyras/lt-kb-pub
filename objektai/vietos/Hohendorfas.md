@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6a0c7acca6594562c875cbf8"
+canonical_name: "Hohendorfas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Hohendorfas"]
+sameAs: []
+canonical_biography: "Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau link. Kai sąjungininkai sustojo stovykloj netoli Soldau Ho­ hendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­ gailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą."
+place_authority: true
+historical_names: []
 ---
 # Hohendorfas
 
@@ -51,7 +60,8 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 101."
   citata_originali: |
     Magistras tada atsakė, kad ginčą
     tarp jo ir sąjungininkų gali išspręsti tik kardas. Po to, sąjun­

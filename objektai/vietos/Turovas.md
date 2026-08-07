@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-35d4f2ae14a7f8d78256c611"
+canonical_name: "Turovas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Turovas"]
+sameAs: []
+canonical_biography: "Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų."
+place_authority: true
+historical_names: []
 ---
 # Turovas
 
@@ -61,7 +70,8 @@ Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie t
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 134."
   citata_originali: |
     Tada pats Naugarduko susirinkimas Cem­
     blaką paskyrė Kijevo metropolitu. Susirinkusieji stačiatikių

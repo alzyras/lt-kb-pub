@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4e63d7fb81c34c0015effd03"
+canonical_name: "Viktoras Gidžiūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Viktoras Gidžiūnas"]
+sameAs: []
+canonical_biography: "Chicago, 1987; Gidžiūnas Viktoras."
 ---
 # Viktoras Gidžiūnas
 
@@ -49,9 +56,9 @@ Chicago, 1987; Gidžiūnas Viktoras.
 ## Citatos
 
 - id: c-185555
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 360"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 360."
   citata_originali: |
     Chicago, 1987; Gidžiūnas Viktoras. De vita et apastala tu Fratrum Minorum Observantium
     in Lithuania saec. XV et XVI.

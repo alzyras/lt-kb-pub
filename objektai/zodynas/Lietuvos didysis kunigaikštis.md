@@ -164,7 +164,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - id: c-168735
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 328"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 328."
   citata_originali: |
     Alek­
     sandras Vytautas su žmona
@@ -201,7 +202,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - id: c-168737
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 467"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 467."
   citata_originali: |
     Štai todėl Kazimieras, pasak Lietuvos istori­
     kų, negavęs lenkų pritarimo, slaptai iškeliavęs iš San-
@@ -224,7 +226,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - id: c-168738
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 469"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 469."
   citata_originali: |
     Negi jie mano,
     kad žmonės, dabar taip ryžtingai remią į sostą pakeltą
@@ -247,7 +250,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - id: c-176104
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 155."
   citata_originali: |
     Tačiau nei viena, nei kita pergalė negalė­
     jusi, pasak metraštininkų, atsverti nuostolių, kuriuos

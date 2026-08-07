@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1532269ae23337924f1927d4"
+canonical_name: "Petras Laurinavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras Laurinavičius"]
+sameAs: []
+canonical_biography: "1538 m. sausio 25 d. Piotrkove Žygimanto Senojo privilegija Petrui Laurinavičiui patvirtino įvairius jo pirkimus."
 ---
 # Petras Laurinavičius
 
@@ -64,7 +71,8 @@ media_all_json: |-
 - id: c-174336
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 493"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 493."
   citata_originali: |
     17a Žygimanto Senojo privilegija, duota Petrui Laurinavičiui,
     Viln/iaus/ piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrko-

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-451efa73fc0db4de12e572b6"
+canonical_name: "Dusburgas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dusburgas"]
+sameAs: []
+canonical_biography: "Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Pregorą arba Lipsą. Dusburgas, pasak Narbuto, provincijų mažesnes dalis buvo pratęs vadinti teritorijomis. Tik iš įvairių žinomų darbų galime sužinoti, kad Prieg lius, tekėdamas į Aistmares, taip pat turėjo Lipze pavadi nimą; taip jis paminėtas apie vyskupijų padalijimą pas Dusburgą (p. 478): Tertiam quoque limitavimus, sicut claudit recens mare ab occidente ad."
 ---
 # Dusburgas
 
@@ -111,7 +118,8 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
 - id: c-174223
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
   citata_originali: |
     Tik iš įvairių žinomų darbų galime sužinoti, kad Prieg­
     lius, tekėdamas į Aistmares, taip pat turėjo Lipze pavadi­
@@ -135,7 +143,8 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
 - id: c-174224
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 355"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
   citata_originali: |
     Tačiau nemaža Pamedės
     dalis, ypač šiaurėje, slėniuose netoli Vyslos ir Nogato,
@@ -164,7 +173,8 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
 - id: c-179310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 355"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
   citata_originali: |
     Tačiau nemaža Pamedės
     dalis, ypač šiaurėje, slėniuose netoli Vyslos ir Nogato,

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e012f0a3f5a0d999897566b"
+canonical_name: "Petras iš Kustynės"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Petras iš Kustynės"]
+sameAs: []
+canonical_biography: "Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­ po Petro, Lvovo arkivysk. Petras — buvo Vytauto sutikti ir su dideliu didikų būriu nulydėti į Že- (^1) ) M. Taip antai, ketvirtas iš eilės Vilniaus vyskupas Petras iš Kustynės (1414—1421), kuris buvo delega­ tu Konstancijoje ir pasiuntiniu Žemaitijoje, jau minėtas pirmasis Žemaičių ir vėliau Vilniaus vysk."
 ---
 # Petras iš Kustynės
 
@@ -83,7 +90,8 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 126."
   citata_originali: |
     Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos
     ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­
@@ -101,7 +109,8 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 141."
   citata_originali: |
     Per visą savo valdymo laiką Vytautas palaikė su jais gerus
     santykius, bet kartu ir rūpinosi, kad Lietuvos vyskupais būtų

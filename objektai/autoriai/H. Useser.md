@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e80dad08225280a26b14cbb8"
+canonical_name: "H. Useser"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["H. Useser"]
+sameAs: []
+canonical_biography: "Useser, H.: Götternamen, (cap. 7 : Solmseh, F."
 ---
 # H. Useser
 
@@ -39,7 +46,8 @@ Useser, H.: Götternamen, (cap. 7 : Solmseh, F.
 - id: c-32940
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 155."
   citata_originali: |
     _Pagoniškųjų laidojimo papročių nykimas rytų Lietuvoje),_ AkMD, t. 48,
     1974, 77-90 p. ; (2. _Pagonybės liekanos Pakalniškiuose XVI-XVII am­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f3d945b3b520651222aaa69d"
+canonical_name: "Vonsdorfas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vonsdorfas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija vokiečiai Volfenbiutelis Volferštorfas Volynė Vona, Vonė Vonbžeznas Vonsdorfas (Wohenstorph, Wünsdorf; Wonsdorff, Wansdorf — Unzatrapis) Vroclavas Vundenava, Vuntenovė (žr."
+place_authority: true
+historical_names: []
 ---
 # Vonsdorfas
 
@@ -82,7 +91,8 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
 - id: c-59402
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 322."
   citata_originali: |
     Viškonys
     Višogrudas (Wischerot, Wischegrot, dab. Fordonas)

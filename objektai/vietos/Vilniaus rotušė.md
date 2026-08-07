@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-47af06151ea96a1dbc75b223"
+canonical_name: "Vilniaus rotušė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vilniaus rotušė"]
+sameAs: []
+canonical_biography: "Taip pat, kad miesto gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­ dienius darbininkus, visiems padienininkams nuo tol nu­ rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­ vyzdžiu."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus rotušė
 
@@ -59,7 +68,8 @@ Taip pat, kad miesto gyventojai savo reikmėms galėtų lengviau pasisamdyti pa�
 - id: c-82237
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 290."
   citata_originali: |
     Nepaprastas įvairaus maisto brangymetis 1547 me­
     tais Vilniuje kilo dėl čionai atvykstančių karaliaus dvariš­

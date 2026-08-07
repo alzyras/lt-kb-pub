@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4a3733b5a49ad536a77f1d3d"
+canonical_name: "Uzbeko"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Uzbeko"]
+sameAs: []
+canonical_biography: "Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva."
 ---
 # Uzbeko
 
@@ -58,7 +65,8 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
 - id: c-32816
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 248."
   citata_originali: |
     Visos Rusi­
     jos metropolito, graiko Teognosto kanceliarijos užrašai parodo, jog

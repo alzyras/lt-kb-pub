@@ -256,7 +256,8 @@ Nenurodyta
 - id: c-168849
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 192-193"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 192-193."
   citata_originali: |
     To­
     dėl ir manau, kad dingstį šitokiems svetimšalių post­
@@ -304,7 +305,8 @@ Nenurodyta
 - id: c-168850
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 193."
   citata_originali: |
     Mat jis gal dėl to, kad uoliai
     tvarkė valstybės vidaus reikalus, negalėjo atremti iš­
@@ -344,7 +346,8 @@ Nenurodyta
 - id: c-168851
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 193."
   citata_originali: |
     Vis
     dėlto nei pilies sienos, nei gynėjai neatlaikė stiprių ant­
@@ -381,7 +384,8 @@ Nenurodyta
 - id: c-168852
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 194."
   citata_originali: |
     Kai galop sutraukė visos jėgos,
     tada atvirai per Žemaitiją nužygiavo prie Žeimelės
@@ -403,7 +407,8 @@ Nenurodyta
 - id: c-168853
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 195."
   citata_originali: |
     Dėjosi skatinąs žemaičių
     narsumą, žadėdamas dovanų bei laisvių, tačiau sakėsi

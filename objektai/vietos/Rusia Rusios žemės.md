@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-78e1a157183f8100b4a17aab"
+canonical_name: "Rusia Rusios žemės"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rusia Rusios žemės"]
+sameAs: []
+canonical_biography: "Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio ekspedicijos į Rusią, kokie būdavo kruvini mūšiai su Ordi­ nu. Prekyba su Rusia ir Prū­ sija seniai nutrūkusi, nuolatinis priešo pavojus Lietuvos sos­ tinę vertė pakaitomis čia karine stovykla, čia mūšio lauku. Į Trakus (1430 metais), kur didysis kunigaikštis paprastai gyvendavo di­ džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­ gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­ vos."
+place_authority: true
+historical_names: []
 ---
 # Rusia Rusios žemės
 
@@ -95,7 +104,8 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
 - id: c-81928
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 174."
   citata_originali: |
     Vytautas, vienintelio
     troškimo apimtas, sukviečia pas save įžymiausius šiaurės
@@ -127,7 +137,8 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
 - id: c-81929
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 45-46."
   citata_originali: |
     Pranciškaus
     vienuolius, kunigus, į Vilnių tas pats
@@ -162,7 +173,8 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
 - id: c-81930
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 131-132"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 131-132."
   citata_originali: |
     -- • —
     115

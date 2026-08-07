@@ -49,7 +49,8 @@ Jono bažnyčios Apaštališkojo Sosto valia inkorporavimas į Aka­ demijos kol
 - id: c-84415
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 189."
   citata_originali: |
     1571 metų gruodžio 22 dieną. Toks parapijinės Šv. Jono
     bažnyčios Apaštališkojo Sosto valia inkorporavimas į Aka­

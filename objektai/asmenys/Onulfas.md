@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-94aa9ecb9235446e3409fb30"
+canonical_name: "Onulfas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Onulfas"]
+sameAs: []
+canonical_biography: "Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją."
 ---
 # Onulfas
 
@@ -55,7 +62,8 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
 - id: c-174185
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319."
   citata_originali: |
     Bet,
     kai tik Odoakras grįžo į Italiją, Frederikas vėl pasirodė

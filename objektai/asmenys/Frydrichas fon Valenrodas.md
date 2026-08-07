@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1c67793be8c9d373d98dc5b2"
+canonical_name: "Frydrichas fon Valenrodas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Frydrichas fon Valenrodas"]
+sameAs: []
+canonical_biography: "Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis maršalas Frydrichas fon Valenrodas, dešiniajam - didysis komtūras Kunas fon Lichtenšteinas."
 ---
 # Frydrichas fon Valenrodas
 
@@ -51,7 +58,8 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
 - id: c-167127
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 60."
   citata_originali: |
     Kronikoje pavaizduoti žymesni mūšiai, kuriuose dalyvavo šveicarų samdiniai
 

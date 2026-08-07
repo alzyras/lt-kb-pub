@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0410358d20e1e88637fcfc90"
+canonical_name: "Rizenburgas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rizenburgas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metais Albrechtas, Pamedės vyskupas, pastatė Prūsijos žemėje Rizenburgo pilį bei miestą."
+place_authority: true
+historical_names: []
 ---
 # Rizenburgas
 
@@ -52,7 +61,8 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
 - id: c-59348
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 237."
   citata_originali: |
     61. Apie Rizenburgo pilies bei miesto pastatymą
 

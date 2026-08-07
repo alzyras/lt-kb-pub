@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4128b0d9d487492d1094d5a5"
+canonical_name: "Zabluduvas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Zabluduvas"]
+sameAs: []
+canonical_biography: "Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį."
+place_authority: true
+historical_names: []
 ---
 # Zabluduvas
 
@@ -59,7 +68,8 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 - id: c-24612
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 58."
   citata_originali: |
     Tai reformacijos nulemtas įvykis. Po dešimtmečio čia pa-
     sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-

@@ -71,7 +71,8 @@ Nenurodyta
 - id: c-63414
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
   citata_originali: |
     80 (78). Dar apie tą patį
     Tas pats brolis Hermanas, kai, priimtas į Teutonų ordiną, skubėjo ton vieton, kur

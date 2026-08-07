@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-51a5999e8b58092c39b5dec4"
+canonical_name: "Mikalojus iš Moskožovo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus iš Moskožovo"]
+sameAs: []
+canonical_biography: "Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais Vytauto puolimo pastangas."
 ---
 # Mikalojus iš Moskožovo
 
@@ -54,7 +61,8 @@ Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais V
 - id: c-169511
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 317."
   citata_originali: |
     Vytautas manė, jog patirto pralai­
     mėjimo palaužti pilėnai lengvai pasiduos, todėl, apsu­

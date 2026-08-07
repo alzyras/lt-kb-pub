@@ -51,7 +51,8 @@ Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Že
 - id: c-28538
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 39."
   citata_originali: |
     Kai
     vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-

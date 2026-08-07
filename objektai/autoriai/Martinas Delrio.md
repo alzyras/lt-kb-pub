@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-914f47617e54eac4f28727c6"
+canonical_name: "Martinas Delrio"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Martinas Delrio"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnimi priskyrė piromantijai. Martinas Delrio smogia strėle į vieną kurį kalną."
 ---
 # Martinas Delrio
 
@@ -66,7 +73,8 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
 - id: c-173253
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
   citata_originali: |
     Strijkovskis aiškiai
     tvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės
@@ -93,7 +101,8 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
 - id: c-179129
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 346."
   citata_originali: |
     Šia tema Vergilijus
     taip aiškina: „Dažnai užeina audra su nepaprasta liūtimi, ūž­

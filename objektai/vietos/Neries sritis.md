@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5e176ae5d16baf2cb981d332"
+canonical_name: "Neries sritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Neries sritis"]
+sameAs: []
+canonical_biography: "Kiek tos kovos Kęstučio valdymo laiku padidėjo, rodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad 1362 m. išgriovė Kauno pilį ir pradėjo brautis vis gilyn į Lietu­ vą, pasiekdami net Vilniaus ir Neries sritis, kurių dar niekad priešai nebuvo."
+place_authority: true
+historical_names: []
 ---
 # Neries sritis
 
@@ -62,7 +71,8 @@ Kiek tos kovos Kęstučio valdymo laiku padidėjo, rodo ir ta aplinkybė, kad vo
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 27."
   citata_originali: |
     Nuo to laiko per visą savo gyvenimą, iki pat žilos senatvės,
     Kęstutis turėjo nepaliaujamai kariauti su tariamaisiais Lietuvos

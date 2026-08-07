@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-94ce1b595242bbda031ff244"
+canonical_name: "Tufą"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Tufą"]
+sameAs: []
+canonical_biography: "Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedžių, perėjo į Teodoriko pusę. Teodoriko valdžia nepatenkintas Tufą su jam patikėta kariuomene paliko Teodoriką ir vėl perėjo pas Odoakrą. Vienas se niausių jo karvedžių Tufą perėjo priešo pusėn."
 ---
 # Tufą
 
@@ -115,7 +122,8 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
 - id: c-174212
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
   citata_originali: |
     Galop Teodorikas,
     savo gotų priešakyje surengęs naują ataką, nugalėjo he-
@@ -137,7 +145,8 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
 - id: c-174213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
   citata_originali: |
     Teodoriko valdžia nepatenkintas
     Tufą su visa jam patikėta kariuomene paliko jį ir vėl

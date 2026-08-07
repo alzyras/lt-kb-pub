@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1326852e41a1ebb224c73c1c"
+canonical_name: "Racionžas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Racionžas"]
+sameAs: []
+canonical_biography: "Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu."
+place_authority: true
+historical_names: []
 ---
 # Racionžas
 
@@ -63,7 +72,8 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
 - id: c-161938
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 139."
   citata_originali: |
     Vytautui buvo svarbu turėti laisvas rankas atsi-
     metusiam Smolenskui atgauti. Todėl 1404 m. Racionže

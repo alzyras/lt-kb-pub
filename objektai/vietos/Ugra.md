@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8465c2be7b1047e98a246846"
+canonical_name: "Ugra"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ugra"]
+sameAs: []
+canonical_biography: "Vytautas karo metu niokojo kraštą prie Ugros ir Okos upių. Vytautas ir Maskvos didysis kunigaikštis susitiko prie Ugros upės."
+place_authority: true
+historical_names: []
 ---
 # Ugra
 
@@ -52,7 +61,8 @@ Vytautas karo metu niokojo kraštą prie Ugros ir Okos upių. Vytautas ir Maskvo
 - id: c-170377
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 102-103"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 102-103."
   citata_originali: |
     dausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­
     nius, kad suieškojęs nubaustų kaltininkus bei atlygintų

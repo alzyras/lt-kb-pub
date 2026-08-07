@@ -74,7 +74,8 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
 - id: c-172146
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 152."
   citata_originali: |
     Čia negalime praleisti dar vieno Vilijos upės vardo aiški­
     nimo, dominančio Lietuvos praeities požiūriu. Kunigas Sirvy­
@@ -94,7 +95,8 @@ Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia 
 - id: c-172147
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
   citata_originali: |
     Darant to­
     pografinę apžvalgą, nesunku pastebėti, kad tų upių vandens

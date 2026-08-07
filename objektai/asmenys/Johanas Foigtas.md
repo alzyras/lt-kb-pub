@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bd9d4115d4f6c2e075243dce"
+canonical_name: "Johanas Foigtas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Johanas Foigtas"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tuščiagarbio vienuolio išmone, bet šį priekaištą perėmė iš Hartknocho. Narbutas rašo, kad Johanas Foigtas, remdamasis prūsų apskaitos knygomis, nurodė 1770 m. Semboje surinktą didelį gintaro kiekį. Pasak Narbuto, Reinchardo teiginys apie Stavaniją rėmėsi Johanu Foigtu ir vietovardžiais Stabinas bei Staviškės."
 ---
 # Johanas Foigtas
 
@@ -164,7 +171,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 <a id="claim-t-190893"></a>
 - t-007
   teiginys: "Narbutas vertino, kad Johano Foigto tyrimas dėl aptariamos tvirtovės lokalizacijos prie Ząsupėnų buvo kiek klaidingas."
-  atnaujinta: "2026-07-24 15:00"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -332,7 +339,8 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 - id: c-172915
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 433."
   citata_originali: |
     Juk ponas Foigtas13 pateikia priekaištą, kad visa ta legen­
     da apie vyriausiuosius žynius esanti kažkokio tuščiagarbio vie­
@@ -351,7 +359,8 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 - id: c-173769
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 175."
   citata_originali: |
     Sis didelis gintaro kiekis nėra perdėtas, nes
     -senovėje jo daugybė galėjo pranokti bet kokią šiandienę
@@ -374,7 +383,8 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 - id: c-173770
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 273."
   citata_originali: |
     Tačiau vokiečių senovės tyrinėtojai prira­
     šė nemažai darbų, kurių daugelis tiesiog juokingi, o kiti
@@ -395,7 +405,8 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 - id: c-173771
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 275."
   citata_originali: |
     Senovės tyrinėtojai, pradedant Plinijaus kom­
     piliacijomis ir baigiant nuodugniai mąstančiu Uphage-
@@ -423,7 +434,8 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 - id: c-173772
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 344."
   citata_originali: |
     333
 
@@ -457,7 +469,8 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 - id: c-173774
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Prireikus jie vadovavo ginkluotiems žmo­
     nėms, be to, iš jų buvo renkamas vyriausias karvedys,
@@ -480,7 +493,8 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 - id: c-173775
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369-370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369-370."
   citata_originali: |
     Gar­
     siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
@@ -504,7 +518,8 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 - id: c-179327
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Iš dalies
     tai buvo pono Foigto studijos apie senovės Sambijos vi-
@@ -525,7 +540,8 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
 - id: c-179328
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Ragainė Hartknocho išleistame Dus-
     burgo veikale klaidingai pavadinta Ramige (p. III. C.

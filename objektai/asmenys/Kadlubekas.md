@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ee3fceb904e16795b22aa636"
+canonical_name: "Kadlubekas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kadlubekas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Kadlubekui priskyrė pasakojimą, kad Maslavo kariuomenėje prieš Kazimierą jotvingiai kovojo šalia mozūrų ir prūsų."
 ---
 # Kadlubekas
 
@@ -54,7 +61,8 @@ Teodoras Narbutas Kadlubekui priskyrė pasakojimą, kad Maslavo kariuomenėje pr
 - id: c-174230
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 115."
   citata_originali: |
     Lais­
     vų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­

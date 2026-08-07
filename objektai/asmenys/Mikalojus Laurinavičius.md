@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ac368bdaed5528adb4927caa"
+canonical_name: "Mikalojus Laurinavičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Laurinavičius"]
+sameAs: []
+canonical_biography: "Jo brolis Mikalojus Laurinavi­ čius ilgai buvo burmistras, o Jachnos sūnus viename 1491 metų doku­ mente yra vadinamas: Magister Ber­ nardus, Domini Jachno filius [Magist­ ras Bernardas, pono Jachnos sūnus]."
 ---
 # Mikalojus Laurinavičius
 
@@ -59,7 +66,8 @@ Jo brolis Mikalojus Laurinavi­ čius ilgai buvo burmistras, o Jachnos sūnus vi
 - id: c-83765
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 241."
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
     tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­

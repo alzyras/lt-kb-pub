@@ -81,7 +81,8 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
 - id: c-23716
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 242."
   citata_originali: |
     Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
     savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
@@ -103,7 +104,8 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
 - id: c-166743
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 242."
   citata_originali: |
     Tam reikė-
     jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje

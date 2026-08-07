@@ -77,7 +77,8 @@ Narbutas kalbinę formuluotę sieja su tėvo kilmės aiškinimu ir iš jos išve
 - id: c-175008
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 274."
   citata_originali: |
     Tomis pačiomis kalbomis posakis Isz-Tawas arba Isz-
       Tabas reiškia kilusį iš tėvo, tad Isztamany, ištavanai, ar-

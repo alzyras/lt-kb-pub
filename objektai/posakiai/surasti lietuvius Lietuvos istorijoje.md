@@ -76,7 +76,8 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
 - id: c-91788
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 74."
   citata_originali: |
     Atidavęs savo duoklę dviem straipsniais «jaunųjų istorikų bū­
     relio » rinkinyje apie Vytautą D., labiausiai Šapoka tyrinėjo valsty­

@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-71379bc8cb13d87eded6a3a5"
+canonical_name: "Kazimieras (Konrado sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kazimieras (Konrado sūnus)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes."
 ---
 # Kazimieras (Konrado sūnus)
 
@@ -64,7 +71,8 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
 - id: c-60987
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45-46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45-46."
   citata_originali: |
     Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
     kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas

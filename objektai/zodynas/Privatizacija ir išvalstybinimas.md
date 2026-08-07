@@ -69,7 +69,8 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
 - id: c-24701
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 252."
   citata_originali: |
     Nemažai čekių supirkėjų, nusipirkę anksčiau buvu-
     sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis
@@ -87,7 +88,8 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
 - id: c-166852
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 252."
   citata_originali: |
     Daugelis
     gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
@@ -106,7 +108,8 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
 - id: c-176284
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 252."
   citata_originali: |
     Tam reikėjo
     pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-

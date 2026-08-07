@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-01c6b4696a6506b9fb658640"
+canonical_name: "Vinas Rorbachas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vinas Rorbachas"]
+sameAs: []
+canonical_biography: "Pirmuoju mistru tų kalavijaus brostvių buvo Vinas Rorbachas, vyras kantrus ir sumanus, kursai iš vie no su Albertu steigė valdžią vokyčių Padaugavy tvirtinti1."
 ---
 # Vinas Rorbachas
 
@@ -41,9 +48,9 @@ Pirmuoju mistru tų kalavijaus brostvių buvo Vinas Rorbachas, vyras kantrus ir 
 ## Citatos
 
 - id: c-184760
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 187"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 187."
   citata_originali: |
     Nereikėjo
     tiems zokanykams mokytiems būti, retai didžiai

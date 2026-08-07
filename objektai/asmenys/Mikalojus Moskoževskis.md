@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-32246293296f812dcb9d0aa8"
+canonical_name: "Mikalojus Moskoževskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Moskoževskis"]
+sameAs: []
+canonical_biography: "Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet niekas neįstengė palaužti lenkų narsos ir ištvermės Moskoževskio gynybos linijose. Niekas nebuvo išleista iš akių Moskoževskiui ginant jam patikėtą pilį: atakas atgieždavo sumaniais ir ūmiais išpuoliais; priešo padarytą žalą ir išardas taip apsukriai ir išmoningai užtaisydavo, jog atrodė, kad įgula tik stiprė­ janti, vis daugiau įgaudama. Tačiau Moskoževskis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­ mas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui Vilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė Jonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­."
 ---
 # Mikalojus Moskoževskis
 
@@ -84,7 +91,8 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
 - id: c-83387
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 140-141"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 140-141."
   citata_originali: |
     Ši Karigailos žūtis buvo dauge-
     —  •  —
@@ -115,7 +123,8 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
 - id: c-83388
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 145."
   citata_originali: |
     Pamažu ėmė telktis išsisklaidę
     gyventojai ir statytis namus ant degėsių. Tačiau Moskožev-
@@ -137,7 +146,8 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
 - id: c-83389
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 141."
   citata_originali: |
     Tas šaunus karys, išvaręs iš tvir­
     tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­

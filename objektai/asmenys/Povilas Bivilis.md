@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6bfb319d449588115efb1f65"
+canonical_name: "Povilas Bivilis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Povilas Bivilis"]
+sameAs: []
+canonical_biography: "Patikrinti pareiškimo į Fredą kartu su ūkvedžiu išvyko metinis (valdantysis) burmistras Mykolas Šimkevičius, tarėjas Povilas Bivilis ir bendruomenės prisiekusieji."
 ---
 # Povilas Bivilis
 
@@ -41,9 +48,9 @@ Patikrinti pareiškimo į Fredą kartu su ūkvedžiu išvyko metinis (valdantysi
 ## Citatos
 
 - id: c-185498
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 295"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 295."
   citata_originali: |
     Kauno miesto ūkvedys Jonas Bublevskis pranešė miesto tarybai, kad
     Fredoje dedasi negeri dalykai. Patikrinti pareiškimo į Fredą kartu su ūkvedžiu iš-

@@ -58,7 +58,8 @@ Dusburgietis teigia, kad vanagas A.
 - id: c-61975
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 275."
   citata_originali: |
     Vanagas A. K. Būga — lietuvių onomastikos pradininkas.— Iš lietuvių kalbotyros
     istorijos. V., 1980, p. 7—35.

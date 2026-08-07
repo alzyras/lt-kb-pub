@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2c5ae00c550531f0478d3af7"
+canonical_name: "Justinas Hrebnickis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Justinas Hrebnickis"]
+sameAs: []
+canonical_biography: "Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­ onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­ kas."
 ---
 # Justinas Hrebnickis
 
@@ -61,7 +68,8 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
 - id: c-83725
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 8."
   citata_originali: |
     Be to,
     politiniai įvykiai kuriam laikui visiškai sustabdė istorijos leidi­

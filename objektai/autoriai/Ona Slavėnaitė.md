@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b047460ae53c739279d0dc65"
+canonical_name: "Ona Slavėnaitė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ona Slavėnaitė"]
+sameAs: []
+canonical_biography: "Ona Slavėnaitė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėjų iš lenkų kalbos į lietuvių kalbą 2007 m. leidime."
 ---
 # Ona Slavėnaitė
 
@@ -59,7 +66,8 @@ Ona Slavėnaitė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėj
 - id: c-55575
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 4."
   citata_originali: |
     UDK 947.45
     Ba237

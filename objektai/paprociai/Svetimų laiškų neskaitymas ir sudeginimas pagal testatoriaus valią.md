@@ -69,7 +69,8 @@ Nenurodyta
 - id: c-83282
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 365"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 365."
   citata_originali: |
     Onos bažnyčią Vilniuje ir
     kitos aukščiau paminėtos pareigos, be to, ir tai, kas dėl prie­

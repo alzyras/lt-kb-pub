@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-441ddf0a3aa121f24eb39927"
+canonical_name: "Kozmas Prahietis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kozmas Prahietis"]
+sameAs: []
+canonical_biography: "Narbutas Kozmui Prahiečiui priskiria šventojo Adalberto biografiją, kurioje Siggo vaizduojamas kaip prūsų minios vadas ir pirmasis žudikas."
 ---
 # Kozmas Prahietis
 
@@ -55,7 +62,8 @@ Narbutas Kozmui Prahiečiui priskiria šventojo Adalberto biografiją, kurioje S
 - id: c-173057
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
   citata_originali: |
     Tie žyniai buvo išskirtinai dievo Atrimpo arba
     Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo

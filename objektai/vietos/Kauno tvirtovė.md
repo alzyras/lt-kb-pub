@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f0f2be373285ff15faad5562"
+canonical_name: "Kauno tvirtovė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno tvirtovė"]
+sameAs: []
+canonical_biography: "Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams nusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15-ąją įžengė į Vilnių – taip senoji."
+place_authority: true
+historical_names: []
 ---
 # Kauno tvirtovė
 
@@ -38,7 +47,8 @@ Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams nusiaubus Li
 - id: c-24174
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 130."
   citata_originali: |
     Idėja skynėsi kelią ne tik Europo-
     je – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje

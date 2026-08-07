@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d14114967a46eecf8889ce52"
+canonical_name: "Gudijos plotai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gudijos plotai"]
+sameAs: []
+canonical_biography: "Šitaip per Gudijos plotus Lietuvon dar IX amž. pirmoje pusėje yra atėję eilė žodžių."
+place_authority: true
+historical_names: []
 ---
 # Gudijos plotai
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-33857
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 127."
   citata_originali: |
     Kai Dniepro baseine
     prasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos

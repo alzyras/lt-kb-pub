@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a5c19d4a1051318c95293ba5"
+canonical_name: "Laurynas Ivinskis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Laurynas Ivinskis"]
+sameAs: []
+canonical_biography: "Čia dar reikia paminėti ir lietuviškų kalendorių leidėją, žemaičių bajorą Lauryną Ivinskį (1808—1881 m.). Tuo būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio, Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.) raštų."
 ---
 # Laurynas Ivinskis
 
@@ -79,7 +86,8 @@ media_all_json: |-
 - id: c-104710
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 510"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 510."
   citata_originali: |
     Aplenkėjusi Lietuvos bajorija tuo sąjūdžiu nesidomėjo: jai
     terūpėjo savi luominiai reikalai ir kova dėl senųjų valstybinių
@@ -100,7 +108,8 @@ media_all_json: |-
 - id: c-104711
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 15."
   citata_originali: |
     Kituose Gazeta Warszawska spausdintuose straipsniuo­
     se istorikas detaliai aprašė Vilniaus Archeologinės komisijos

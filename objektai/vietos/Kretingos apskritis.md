@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-beb1ef6592e498ffff413ecb"
+canonical_name: "Kretingos apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kretingos apskritis"]
+sameAs: []
+canonical_biography: "1945 m. vadovavo Kretingos apskrities partizanų Klevo kuopai. Slapstėsi Latvijos teritorijoje, vėliau Kretingos rajone."
+place_authority: true
+historical_names: []
 ---
 # Kretingos apskritis
 
@@ -74,7 +83,8 @@ media_all_json: |-
 - id: c-40163
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 238."
   citata_originali: |
     Slapstėsi Latvijos teritorijoje,
     vėliau Kretingos rajone. 1965 m.
@@ -93,7 +103,8 @@ media_all_json: |-
 - id: c-176425
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 238."
   citata_originali: |
     1945 m.
     vadovavo Kretingos apskrities partizanų Klevo kuopai. Vienas iš Kardo

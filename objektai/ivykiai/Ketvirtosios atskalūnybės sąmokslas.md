@@ -74,7 +74,8 @@ Nenurodyta
 - id: c-167315
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174."
   citata_originali: |
     Apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama
     1286 viešpaties metais brolis Ditrichas, Sembos fogtas, galėjo taip sakyti, kaip

@@ -31,6 +31,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-27a7ebb4b4ff21f57b0c8dd4"
+canonical_name: "Šešupė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šešupė"]
+sameAs: []
+canonical_biography: "Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas)."
+place_authority: true
+historical_names: []
 ---
 # Šešupė
 
@@ -139,7 +148,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - id: c-32593
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 333"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 333."
   citata_originali: |
     Gaudamas Žemaičius iki Nevėžio, ordinas pirmą kartą išreika­
     lavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII
@@ -160,7 +170,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - id: c-32594
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 366."
   citata_originali: |
     Sūduvos dykroje toliau siena buvo nužymėta upių krantais :
     visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
@@ -181,7 +192,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 154."
   citata_originali: |
     Lenkija gavo Niešavo žemę su
     keliais sodžiais ir viena pilimi, o Lietuva — Žemaitiją ir Sūda­
@@ -206,7 +218,8 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - id: c-175989
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 135."
   citata_originali: |
     Nuo pasirašymo vie-
     tos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko už-

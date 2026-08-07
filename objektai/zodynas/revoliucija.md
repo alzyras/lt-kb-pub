@@ -49,7 +49,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
 <a id="claim-t-192234"></a>
 - t-001
   teiginys: "Teodoras Narbutas nesiliaujančias sarmatų revoliucijas pateikia kaip priežastį, dėl kurios agatirai nebegalėjo ramiai gyventi prie Marokos."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Agatirai: 0.85"
@@ -63,7 +63,6 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175080
-    - c-175349
 
 <a id="claim-t-192236"></a>
 - t-002
@@ -86,7 +85,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
 <a id="claim-t-192238"></a>
 - t-003
   teiginys: "Teodoras Narbutas rašo, kad nesiliaujančios sarmatų revoliucijos neleido agatirams ilgiau ramiai gyventi prie Marokos."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Agatirai: 0.85"
@@ -100,7 +99,6 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175080
-    - c-175349
 
 <a id="claim-t-192239"></a>
 - t-004
@@ -124,7 +122,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
 <a id="claim-t-192572"></a>
 - t-005
   teiginys: "Teodoro Narbuto pasakojime agatirai galėjo palikti Septynių miestų kraštą, kai sarmatų revoliucijos neleido jiems ramiai gyventi prie Marokos."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -139,7 +137,6 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175080
     - c-175349
 
 <a id="claim-t-192573"></a>
@@ -227,7 +224,8 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
 - id: c-175079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 305"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 305."
   citata_originali: |
     At­
     stumti, nuolat persekiojami buvo priversti ieškoti prie­
@@ -248,7 +246,8 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
 - id: c-175080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
   citata_originali: |
     O savo gyvenimą tolimame Septynių miestų krašte, kur jie buvo laiko audrų nublokšti, agatirai galėjo iš-
     keisti į gyvenvietes tarp giminingų kartų, kai nesiliau-
@@ -263,12 +262,12 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   pagrindzia:
     - t-001
     - t-003
-    - t-005
 
 - id: c-175082
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Vėliau juos pavergė alanai išvien su
     gelonais ir budinais. Laikui bėgant, kai pastarieji paju-
@@ -286,7 +285,8 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
 - id: c-175349
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
   citata_originali: |
     Tebus ir čia leista at­
     kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
@@ -305,14 +305,13 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-003
     - t-005
 
 - id: c-175350
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 305"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 305."
   citata_originali: |
     Čia turbūt ir baigėsi jų sąjunga su alanais. Vėliau jie,
     be abejo, nebūtų išvengę pražūties ar gotų vergijos, jei
@@ -339,7 +338,8 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
 - id: c-179298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Vėliau juos pavergė alanai išvien su
     gelonais ir budinais. Laikui bėgant, kai pastarieji paju­

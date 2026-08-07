@@ -142,7 +142,8 @@ Nenurodyta
 - id: c-55717
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 211."
   citata_originali: |
     Taip pat jei krikščionis sąmonin­
     gai užpultų žydą, tvirtindamas davęs savo užstatą, nors žy­
@@ -167,7 +168,8 @@ Nenurodyta
 - id: c-55718
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 211."
   citata_originali: |
     Tai savo
     priesaikoje aiškiai daugeliu atvejų jam šis užstatas buvo įpa­
@@ -188,7 +190,8 @@ Nenurodyta
 - id: c-55719
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 213-214"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 213-214."
   citata_originali: |
     Taip pat jeigu žydas paimtų iš krikščionies užstatą ir
     per visus metus laikytų, o tas užstatas tų pinigų nesiektų,
@@ -217,7 +220,8 @@ Nenurodyta
 - id: c-55720
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 214."
   citata_originali: |
     O jeigu jo liudininkai minėti ir jo
     nekaltumą atskleistų, krikščionis bausmę, kurią turėjo žy­
@@ -238,7 +242,8 @@ Nenurodyta
 - id: c-78401
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 211."
   citata_originali: |
     O jei krikščionis žydui ir jo žodžiams
     tikėjimo teikti nenorėtų, žydas prisiekęs savo ruožtu įparei­

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a6d85dd90363a0844a0b625a"
+canonical_name: "Marija (Haličo-Volinijos giminės)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Marija (Haličo-Volinijos giminės)"]
+sameAs: []
+canonical_biography: "Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus Lietuva buvo tiek daug turėjusi santykių, beliko vienintelė atžala — žuvusiųjų brolių sesuo Marija."
 ---
 # Marija (Haličo-Volinijos giminės)
 
@@ -78,7 +85,8 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
 - id: c-91952
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 247."
   citata_originali: |
     Jas pripažino Liubar­
     tui ne tik uošvis, bet ir šio brolis Levas (Leonas), drauge su An­
@@ -98,7 +106,8 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
 - id: c-91953
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 247."
   citata_originali: |
     Iš garsiosios Haličo-Volinijos Riurikaičių
     giminės, su kuria XIII amžiaus Lietuva buvo tiek daug turėjusi

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9f350a660d6da8173ac71384"
+canonical_name: "Galminas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Galminas"]
+sameAs: []
+canonical_biography: "Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­ sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­ navos pradėjo užimti sukilusį kraštą."
 ---
 # Galminas
 
@@ -59,7 +66,8 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
 - id: c-32723
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 342"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 342."
   citata_originali: |
     Grūdų sulaikymas Vytautui akivaizdžiai parodė, ką reiškė
     neturėjimas Nemuno žiočių, ir tai paskatino jį veikti. Jo pareigū­

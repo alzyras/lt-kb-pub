@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9e9b61ba7378037beb30752a"
+canonical_name: "St. Matulis"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["St. Matulis"]
+sameAs: []
+canonical_biography: "Matulis : Kun."
 ---
 # St. Matulis
 
@@ -59,7 +66,8 @@ Matulis : Kun.
 - id: c-33149
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 67."
   citata_originali: |
     Janulaičio studentai buvo paruošę rūpes­
     tingai hektografuotas skaitytų paskaitų plačias santraukas.**

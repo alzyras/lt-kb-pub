@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d5aa4bbd4977cc227d42c1fd"
+canonical_name: "Lazūnai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lazūnai"]
+sameAs: []
+canonical_biography: "Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų plote, arti Nemuno, išlikusi lietuvių kalbos sala — Lazūnai (į rytus nuo Lydos)."
+place_authority: true
+historical_names: []
 ---
 # Lazūnai
 
@@ -50,7 +59,8 @@ Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų plote, arti Nemuno,
 - id: c-33921
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 133."
   citata_originali: |
     Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino
     link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­

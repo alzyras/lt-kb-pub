@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-051329b15f0aa9264d6f10be"
+canonical_name: "Henrikas (Plocko vyskupas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas (Plocko vyskupas)"]
+sameAs: []
+canonical_biography: "Henrikas, Zemovito sūnus ir Plocko vyskupas, buvo parinktas vadovauti karaliaus pasiuntinybei pas Vytautą. Karaliaus pasiuntinybei pas Vytautą vadovauti buvo parinktas Henrikas, Mozūrų kunigaikščio Zemovito sūnus ir Plocko vyskupas."
 ---
 # Henrikas (Plocko vyskupas)
 
@@ -103,7 +110,8 @@ Henrikas, Zemovito sūnus ir Plocko vyskupas, buvo parinktas vadovauti karaliaus
 - id: c-169403
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 324-325"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 324-325."
   citata_originali: |
     Todėl ir buvo nutar­
     ta užbaigti sunkų bei ilgą karą, kuriam nei karalius,
@@ -148,7 +156,8 @@ Henrikas, Zemovito sūnus ir Plocko vyskupas, buvo parinktas vadovauti karaliaus
 - id: c-178709
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 324-325"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 324-325."
   citata_originali: |
     Todėl ir buvo nutar­
     ta užbaigti sunkų bei ilgą karą, kuriam nei karalius,

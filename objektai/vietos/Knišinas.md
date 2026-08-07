@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6fb83ce85e1f754aaa79379a"
+canonical_name: "Knišinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Knišinas"]
+sameAs: []
+canonical_biography: "Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos sostinę: užbaigti pradėtą statyti Šv. Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodžio 20 dieną, paaiškėja, 328 ## Puslapis 345 IV KNYGA jog, kai karalius Steponas, perėmęs valdžią, nuvažiavo į Knišiną, Lietuvos senatoriai, įsitikinę, kad Lietuvos Didžiosios. Pats numirė 1572 metų liepos 7 dieną Knišine, būdamas 52 metų am­ žiaus]."
+place_authority: true
+historical_names: []
 ---
 # Knišinas
 
@@ -96,7 +105,8 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
 - id: c-81999
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 348."
   citata_originali: |
     Testamentum Domini Sigismundi Augusti Regis Poloniae.
     Actum Varsaviae. Anno salutis nostrae. 1571. Mensis Maij
@@ -117,7 +127,8 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
 - id: c-82000
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 302."
   citata_originali: |
     Mir­
     damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­
@@ -137,7 +148,8 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
 - id: c-82001
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 344-345"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 344-345."
   citata_originali: |
     V-rae Aegestati aerarii totum id imputent [Tačiau, jeigu
     kas sienų saugumui atsitiktų, visa tai jūsų šviesybės priskirs

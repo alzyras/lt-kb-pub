@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-82919
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 6."
   citata_originali: |
     M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
     li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti

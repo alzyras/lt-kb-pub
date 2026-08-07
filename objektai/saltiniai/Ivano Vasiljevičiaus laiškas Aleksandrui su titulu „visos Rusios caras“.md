@@ -52,7 +52,8 @@ Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios 
 - id: c-169692
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 542-543"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 542-543."
   citata_originali: |
     Pastatęs Li-
     p a siv a d in a  v is o s  Ru-

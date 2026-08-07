@@ -109,7 +109,8 @@ Nenurodyta
 - id: c-169196
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 168."
   citata_originali: |
     Gavęs šią ži­
     nią, Vytenis su didžiulėmis jėgomis, neseniai sutelkto­

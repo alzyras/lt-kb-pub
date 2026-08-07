@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cafb11ed050b4f1b00b0e4fb"
+canonical_name: "Kremenecas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kremenecas"]
+sameAs: []
+canonical_biography: "Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m."
+place_authority: true
+historical_names: []
 ---
 # Kremenecas
 
@@ -61,7 +70,8 @@ media_all_json: |-
 - id: c-33900
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 329"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 329."
   citata_originali: |
     Net Švitrigaila, kuris iš Maskvos Vosyliaus buvo gavęs eilę žemių^59 ,
     grįžo atgal. Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys

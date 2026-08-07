@@ -46,7 +46,8 @@ Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė
 - id: c-174743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 273."
   citata_originali: |
     Julijaus Cezario laikais lietuvių var­
     das buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-85657429257a863e3b4c39bb"
+canonical_name: "Neapolis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Neapolis"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus, mirtį 1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį."
+place_authority: true
+historical_names: []
 ---
 # Neapolis
 
@@ -59,7 +68,8 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
 - id: c-59340
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232."
   citata_originali: |
     36. Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,
                                                 mirtį

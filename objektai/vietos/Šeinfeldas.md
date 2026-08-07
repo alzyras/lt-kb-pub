@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3e9bb3982540b2430a2c0c72"
+canonical_name: "Šeinfeldas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Šeinfeldas"]
+sameAs: []
+canonical_biography: "Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drabužius, 1948 m."
+place_authority: true
+historical_names: []
 ---
 # Šeinfeldas
 
@@ -62,7 +71,8 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
 - id: c-26530
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 225-226"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 225-226."
   citata_originali: |
     Dėl įvairių priežasčių tokių valstybių skaičius mažė-
     jo. LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento

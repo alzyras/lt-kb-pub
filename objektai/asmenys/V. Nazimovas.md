@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4989683c5fb4c5679c7f8429"
+canonical_name: "V. Nazimovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Nazimovas"]
+sameAs: []
+canonical_biography: "Nazimovas balandžio pabaigoje įsakė gen."
 ---
 # V. Nazimovas
 
@@ -51,7 +58,8 @@ Nazimovas balandžio pabaigoje įsakė gen.
 - id: c-44550
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 162."
   citata_originali: |
     Daugelis sukilėlių turėjo tik senus
     titnaginius arba medžioklinius šautuvus.

@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-27849b0576c12795dbe89c24"
+canonical_name: "Jokūbas Kudenekovičius Čerkaskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jokūbas Kudenekovičius Čerkaskis"]
+sameAs: []
+canonical_biography: "Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Aleksejus Michailovičius) vadovavo kunigaikštis Jokūbas Kudenekovičius Čerkaskis (iki krikšto — Uruskan-Murza), pasižymėjęs kovose su totoriais. Čerkaskis dalyvavo užimant Gardiną, Vilnių, kur sumušė J."
 ---
 # Jokūbas Kudenekovičius Čerkaskis
 
@@ -99,7 +106,8 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
 - id: c-42010
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 126."
   citata_originali: |
     J. Čerkaskis dalyvavo užimant
     Gardiną, Vilnių, kur sumušė J. Radvilos
@@ -118,7 +126,8 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
 - id: c-167131
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 126."
   citata_originali: |
     Lenkijos pagrindines
     pajėgas visiškai sukaustė jungtinės rusų ir

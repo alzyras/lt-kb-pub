@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-50f38f58931b5565ccdbbd91"
+canonical_name: "P. von"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. von"]
+sameAs: []
+canonical_biography: "Osten-Sacken, P. von : Livländisch-russische Beziehungen während der Regierungszeit des Grossfürsten Witowt von Litauen ( 1392-1430 ), MiLG, t. 20, 1910, 169- 294 p. — Paszkiewicz, H. : PaJM. — Petkun’, P. : Schidnia meža Velykoho Knjazistva Lytovskoho v."
 ---
 # P. von
 
@@ -40,7 +47,8 @@ Osten-Sacken, P. von : Livländisch-russische Beziehungen während der Regierung
 - id: c-33098
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 331"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 331."
   citata_originali: |
     — Obolenskij,
     M. : _Jarlyk kana Zolotoj Ordy Tochtamyša k pol’skomu korolju Jogaily

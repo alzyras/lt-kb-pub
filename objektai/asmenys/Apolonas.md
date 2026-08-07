@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9a737a1bddd96d88dfdcb985"
+canonical_name: "Apolonas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Apolonas"]
+sameAs: []
+canonical_biography: "Lietuvos metraštis Apoloną vadina kunigaikščiu ir pasakoja, kad jis pabėgo su Palemono būriu, pasiėmęs turtą ir penkis šimtus Romos patricijų."
 ---
 # Apolonas
 

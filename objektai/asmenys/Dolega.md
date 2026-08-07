@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7a9ae86b0cb33bce7f956d0d"
+canonical_name: "Dolega"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Dolega"]
+sameAs: []
+canonical_biography: "Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pežos-Palionio."
 ---
 # Dolega
 
@@ -50,7 +57,8 @@ Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pe�
 - id: c-41524
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Buvusi ten atėjusi Lietuvos kariuomenė, trys didžiausi pulkai. Vienas pulkas, Dolegos
     vedamas, antras kunigo Mackevičiaus, trečias kunigo Pežos-Palionio. Pirmajame visi

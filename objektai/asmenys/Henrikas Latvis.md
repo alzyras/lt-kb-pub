@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3f1866de67b6a314b1e17153"
+canonical_name: "Henrikas Latvis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas Latvis"]
+sameAs: []
+canonical_biography: "Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio, kurio valdžią pats Narbutas sieja su tuo kraštu. Narbutas abejoja, ar Henriko Latvio kronika aprėpė visą Livonijos istoriją ir visas to krašto žinias. Henrikas Latvis būdavo čiabuvių priimama."
 ---
 # Henrikas Latvis
 
@@ -52,7 +59,7 @@ Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio,
 <a id="claim-t-190101"></a>
 - t-002
   teiginys: "Narbutas abejoja, ar Henriko Latvio kronika aprėpė visą Livonijos istoriją ir visas to krašto žinias."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,7 +86,8 @@ Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio,
 - id: c-172983
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 420"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 420."
   citata_originali: |
     Taigi, jei tiek Prūsijoje, tiek ir
     Lietuvoje buvo Romovė arba daug tokių šventovių, jei iš tik­
@@ -109,7 +117,8 @@ Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio,
 - id: c-172984
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 422"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 422."
   citata_originali: |
     Kai tik ordinas už­
     kariaudavo kurią sritį, kartu joje nelikdavo nei krivių, nei ri­

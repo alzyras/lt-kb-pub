@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Adomas Mickevičius (poetas)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
 datos:
   - '1791 m.'
   - '1897 m.'
@@ -30,12 +31,19 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-658768e7a1676e6429cbb7c0"
+canonical_name: "Adomas Mickevičius (poetas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Adomas Mickevičius","Adomas Mickevičius (poetas)"]
+sameAs: []
+canonical_biography: "A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą. Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi. Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų."
 ---
 # Adomas Mickevičius (poetas)
 
 ## Santrauka
 
-lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz). Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų LDK herbas Vytis iš. Mickevičius, rašęs ir apie Tėvynę LietuAdomas Mickevičius.
+A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą. Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi. Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 
 ## Teiginiai
 
@@ -144,7 +152,8 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 - id: c-21545
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 15."
   citata_originali: |
     tuvių kalba. Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
     tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu
@@ -164,7 +173,8 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 - id: c-21546
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 17."
   citata_originali: |
     Taigi Abiejų Tautų Respublika:
     •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
@@ -201,7 +211,8 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 - id: c-21547
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     Garsiausioji ložė vadinosi „Uolusis
     lietuvis“ („Gorliwy Litwin“). Uni-
@@ -222,7 +233,8 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 - id: c-21548
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 105."
   citata_originali: |
     Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą,
     neskatinančią paklusnumo valdžiai. Caro administracija ėmėsi tyrimo,
@@ -241,7 +253,8 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 - id: c-21549
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 120."
   citata_originali: |
     Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
     viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
@@ -265,7 +278,8 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 - id: c-48583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 119-120"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 119-120."
   citata_originali: |
     Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
     tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
@@ -294,7 +308,8 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 - id: c-166911
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 104."
   citata_originali: |
     Tarp
     šių organizacijų narių buvo ir A. Mickevičius, rašęs ir apie Tėvynę Lietu-

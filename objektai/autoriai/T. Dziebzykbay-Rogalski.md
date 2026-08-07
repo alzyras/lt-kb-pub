@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b4742cb371cb6c09635235b4"
+canonical_name: "T. Dziebzykbay-Rogalski"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["T. Dziebzykbay-Rogalski"]
+sameAs: []
+canonical_biography: "Dziebzykbay-Rogalski, T."
 ---
 # T. Dziebzykbay-Rogalski
 
@@ -81,7 +88,8 @@ Dziebzykbay-Rogalski, T.
 - id: c-91708
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 129."
   citata_originali: |
     Tokių nuo Lietuvos pusiau priklausančių žemių, kurios
     sudarė plačią zoną, lietuviai nebeliesdavo. Per jas lietuviai atlik­

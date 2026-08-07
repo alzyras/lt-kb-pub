@@ -66,7 +66,8 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
 - id: c-45509
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 194-195"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 194-195."
   citata_originali: |
     Paveiksle pavaizduoti
     Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,

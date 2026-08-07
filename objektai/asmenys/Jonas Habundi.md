@@ -26,6 +26,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-868b3beefb0dd911fa34506a"
+canonical_name: "Jonas Habundi"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Habundi"]
+sameAs: []
+canonical_biography: "Be to, į Žemaičių vyskupiją pareiškė pretenzijų Rygos arkivyskupai (Gotszalk Schutte, Jonas Habundi)^3 ), remdamiesi tuo, kad prie Mindaugo Rygos arkivyskupui tarpininkaujant buvo įkurta Že­ maičių vyskupija (1251), taigi dabartinė tėra senosios atnauji­."
 ---
 # Jonas Habundi
 
@@ -59,7 +66,8 @@ Be to, į Žemaičių vyskupiją pareiškė pretenzijų Rygos arkivyskupai (Gots
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 130."
   citata_originali: |
     Vytautui reikėjo ginti apkrikštytus že­
     maičius, ir tas neapsiėjo be karo, kuris įvyko 1422 m. Be to,

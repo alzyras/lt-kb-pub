@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c487b25a3037bf573ba0e4d"
+canonical_name: "Rygos arkivyskupija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Rygos arkivyskupija"]
+sameAs: []
+canonical_biography: "Kad labiau popiežius patrauktų Vytautą į savo pusę, paskiria jį ir Rygos arcivyskupijos protektorium. Po šito fakto Zigmantas kreipiasi į Milano kunigaikštį, prašydamas jį pada­ ryt įtakos į kuriją, kad ši patvirtintų Vytauto karūnacijos su­ (^1) ) C."
+place_authority: true
+historical_names: []
 ---
 # Rygos arkivyskupija
 
@@ -50,7 +59,8 @@ Kad labiau popiežius patrauktų Vytautą į savo pusę, paskiria jį ir Rygos a
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 242."
   citata_originali: |
     Tuo pat metu
     ateina ir iš Italijos laiškų, jį atkalbinėjančių nuo karūnacijos su­

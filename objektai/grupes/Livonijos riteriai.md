@@ -106,7 +106,8 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
 - id: c-172365
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
   citata_originali: |
     Henriko Latvio kronikos prierašuose, arba pastabose, ku­
     rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias
@@ -127,7 +128,8 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
 - id: c-172366
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
   citata_originali: |
     Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
     sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
@@ -152,7 +154,8 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
 - id: c-172367
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
   citata_originali: |
     Lietuvos ponai 1316 metų sausio mėnesį
     Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš

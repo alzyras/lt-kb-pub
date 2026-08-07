@@ -79,7 +79,8 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 - id: c-172285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 455."
   citata_originali: |
     Jeronimas įtikino, kad tai apgavystė, sugriovė
     šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­
@@ -104,7 +105,8 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 - id: c-177005
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
   citata_originali: |
     Vėliau
     jis aptikęs, kad žmonės garbinę ugnį ir vadinę ją Amžinąja.
@@ -127,7 +129,8 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 - id: c-179075
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 364."
   citata_originali: |
     Neturime jokio pa­
     tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka­

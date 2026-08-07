@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-29e2fefd1ace246ec3ff5d34"
+canonical_name: "Jonas iš Vienos"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas iš Vienos"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras, išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai."
 ---
 # Jonas iš Vienos
 
@@ -71,7 +78,8 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 - id: c-60980
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
     išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f6f173b8d8fb921bc7709362"
+canonical_name: "Spa"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Spa"]
+sameAs: []
+canonical_biography: "Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa miestely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už vadinamosios Kerzono (Curzono) linijos (ją nustatė toji."
+place_authority: true
+historical_names: []
 ---
 # Spa
 
@@ -59,7 +68,8 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 - id: c-24495
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 143."
   citata_originali: |
     Maskvos sutartis turėjo ir alternatyvą. Kai lenkų daliniai, spaudžiami
     bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžio-

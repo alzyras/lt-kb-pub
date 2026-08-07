@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4b46a56ffcd0aa85bd96a46c"
+canonical_name: "Leliušas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Leliušas"]
+sameAs: []
+canonical_biography: "Lietuvos metraštyje Daugirdas kaltina Trakų vaivadą Leliušą, kad Žygimantas Trakų pilyje buvo nužudytas greičiausiai jo nurodymu."
 ---
 # Leliušas
 

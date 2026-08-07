@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f476ca63edbb4d0c2de42f94"
+canonical_name: "Laurynas Goslickis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Laurynas Goslickis"]
+sameAs: []
+canonical_biography: "Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį. 60 Laurynas Goslickis, pirmiausia ka­ raliaus Stepono sekretorius, galiau­ siai Poznanės vyskupas, išgarsėjo ypatingais sugebėjimais spręsti vie­ šuosius reikalus bei įvairiose pasiun­ tinybėse, bet labiausiai lotynų kalba parašęs puikią knygą „De optimo."
 ---
 # Laurynas Goslickis
 
@@ -80,7 +87,8 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
 - id: c-83517
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     Žr. tarp dekretų.
     60
@@ -106,7 +114,8 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
 - id: c-83518
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I I  TOMAS
     darbo asmeniškai spręsti įvairaus pobūdžio ginčus, o mies­

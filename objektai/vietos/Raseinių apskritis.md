@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-793cdcf78f3a0294495f7606"
+canonical_name: "Raseinių apskritis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Raseinių apskritis"]
+sameAs: []
+canonical_biography: "X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps."
+place_authority: true
+historical_names: []
 ---
 # Raseinių apskritis
 
@@ -78,7 +87,7 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 <a id="claim-t-188820"></a>
 - t-003
   teiginys: "Narbutas rašė, kad Raseinių ir Upytės apskrityse rasti akmenys rodė ten vykusias ateivių iš Brandenburgo atneštas religines apeigas."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -144,7 +153,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - id: c-40344
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 240."
   citata_originali: |
     X ŠILAINIŲ PASALA
     1945 m. vasario 15 d. Raseinių aps. Betygalos vls. Graužų-Lenčių
@@ -162,7 +172,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - id: c-171708
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 136."
   citata_originali: |
     Pats pavadinimas, iš­
     reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
@@ -183,7 +194,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - id: c-171709
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 143."
   citata_originali: |
     Gondu
     suteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka
@@ -206,7 +218,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - id: c-171710
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 208."
   citata_originali: |
     Rageziowan
     Kęsgailų giminės fetišas.

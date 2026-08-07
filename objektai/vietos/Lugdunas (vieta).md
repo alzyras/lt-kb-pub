@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5b35eb5489529c1f9a80798d"
+canonical_name: "Lugdunas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lugdunas","Lugdunas (vieta)"]
+sameAs: []
+canonical_biography: "Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet, no rėdamas geresniai tą reikalą permanyti, liepė abe jiems į Lugduną (Lioną) ateiti, kame pats gyveno."
+place_authority: true
+historical_names: []
 ---
 # Lugdunas (vieta)
 
@@ -46,9 +55,9 @@ Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet
 ## Citatos
 
 - id: c-184506
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 336"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 336."
   citata_originali: |
     Inocentas IV popiežius buvo jau jutęs apie ka­
     res Sviatopelko su kryžėjais, kurie, lūgodami jo

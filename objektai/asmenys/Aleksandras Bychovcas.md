@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0b26dc8b9cd84728d630c5d1"
+canonical_name: "Aleksandras Bychovcas (volkovysko apskrities teisėjas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Bychovcas","Aleksandras Bychovcas (volkovysko apskrities teisėjas)"]
+sameAs: []
+canonical_biography: "Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas šios kronikos rankraštis, o pats Bychovcas vėliau perdavė jį per Vincentą Janovskį Teodorui Narbutui."
 ---
 # Aleksandras Bychovcas (volkovysko apskrities teisėjas)
 
@@ -137,7 +144,8 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
 - id: c-169839
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 9."
   citata_originali: |
     T. Narbuto prašomas, rankraščio savininkas Alek-
     sandras Bychovcas perdavė jį istoriko pažįstamam tei-
@@ -156,7 +164,8 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
 - id: c-169840
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 3-4"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 3-4."
   citata_originali: |
     „Bychovco kronika" jis buvo pramintas XIX a.
     pagal rankraščio savininką, Gardino gubernijos Volko-
@@ -173,7 +182,8 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
 - id: c-169841
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
   citata_originali: |
     Bychovco kronikos rankraštį prieš 1830 m. Alek-
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil-

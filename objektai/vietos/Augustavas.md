@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6f91a9f16b0a4c47ffcf20b0"
+canonical_name: "Augustavas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Augustavas","Augustavo"]
+sameAs: []
+canonical_biography: "Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atžvilgiu, jie kartu puolė ir lietuvių įgulas, esančias Gardino ir Augustavo ruože. 8 d. tą Augustavo —Suvalkų—Punsko—Seinų sritį atidavė Lenkijos valdymui, ligi bus galutinai čia nustatytos sienos (lordo Kerzono linija)."
+place_authority: true
+historical_names: []
 ---
 # Augustavas
 
@@ -56,7 +65,8 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
 - id: c-72073
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 573-574"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 573-574."
   citata_originali: |
     Nepaisydami Lietuvos neutrali-
     teto pareiškimo abiejų kariaujančių pusių atžvilgiu, jie kartu

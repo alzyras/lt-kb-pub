@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7caf1fc29875fd41775705c"
+canonical_name: "Maslavas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Maslavas"]
+sameAs: []
+canonical_biography: "Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo kariuomenėje kovėsi jotvingiai, mozūrai ir prūsai."
 ---
 # Maslavas
 
@@ -55,7 +62,8 @@ Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo k
 - id: c-174177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 115."
   citata_originali: |
     Lais­
     vų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­

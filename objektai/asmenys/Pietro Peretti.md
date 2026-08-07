@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0ea063866da41156cac436b7"
+canonical_name: "Pietro Peretti"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Pietro Peretti"]
+sameAs: []
+canonical_biography: "Milano glaistytojas Pietro Peretti su padėjėju Giovanni Maria Galli paskirstė skulptūras ir apie aštuonerius metus prižiūrėjo amatininkų darbą."
 ---
 # Pietro Peretti
 

@@ -61,9 +61,9 @@ Nenurodyta
 ## Citatos
 
 - id: c-184688
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 269"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 269."
   citata_originali: |
     Gudai patys sa­
     kos, jog lietuviai ir žemaičiai niekuomet jų taip

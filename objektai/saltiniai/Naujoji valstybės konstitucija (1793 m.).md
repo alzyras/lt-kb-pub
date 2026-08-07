@@ -52,7 +52,8 @@ Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės kons
 - id: c-67383
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 451"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 451."
   citata_originali: |
     Buvo atgaivinta Nuolatinė Taryba ir
     tada veikusios karo ir iždo komisijos. Kaip ir seniau, jos buvo
@@ -69,7 +70,8 @@ Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės kons
 - id: c-67384
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 451"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 451."
   citata_originali: |
     Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai
     padaryti.

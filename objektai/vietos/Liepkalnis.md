@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ef7d731fdf12e7e3be287287"
+canonical_name: "Liepkalnis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liepkalnis"]
+sameAs: []
+canonical_biography: "Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Liepkalnyje. Mejeno karių įtvirtinimus Liepkalnyje."
+place_authority: true
+historical_names: []
 ---
 # Liepkalnis
 
@@ -73,7 +82,8 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
 - id: c-43580
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 152."
   citata_originali: |
     Gen. mjr. N. Zubovo divizija
     atakavo gen. J. Mejeno karių įtvirtini-
@@ -89,7 +99,8 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
 - id: c-45180
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 150."
   citata_originali: |
     Iš viso divizijoje buvo 876 pés-
     tininkai ir 591 raitelis (1467 kariai). Divizija

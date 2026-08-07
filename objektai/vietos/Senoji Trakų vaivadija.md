@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e23f95cf67adad776d0197bb"
+canonical_name: "Senoji Trakų vaivadija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Senoji Trakų vaivadija"]
+sameAs: []
+canonical_biography: "Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų vaivadijoje, taip pat latviai ir estai."
+place_authority: true
+historical_names: []
 ---
 # Senoji Trakų vaivadija
 
@@ -54,7 +63,8 @@ Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų
 - id: c-171954
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     127
 

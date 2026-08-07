@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-51d34e1e007443518ae4291c"
+canonical_name: "Baturlinas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Baturlinas"]
+sameAs: []
+canonical_biography: "Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė naujesnius Herodoto geografijos paaiškinimus. Baturlinas net teigia, kad Jurjevas buvo atstatytas XII amžiaus pradžioje po to, kai jį sunaikino poloviečiai."
 ---
 # Baturlinas
 
@@ -67,7 +74,8 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė nau
 - id: c-174461
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
   citata_originali: |
     Vis dėlto Herodotas turėjo daugiau žinių apie
     romėnus*, nes teigia, kad dienovidžio kryptimi į šiaurę
@@ -94,7 +102,8 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė nau
 - id: c-179253
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
   citata_originali: |
     Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
     ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­

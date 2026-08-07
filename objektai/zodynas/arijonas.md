@@ -120,7 +120,8 @@ Religinė Odoakro charakteristika šaltinyje.
 - id: c-175085
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 316."
   citata_originali: |
     Odoakras saugojo juos nuo nelaimių, atgaivino me-
     ną ir mokslus, nors pats buvo arijonas, rėmė katalikus.
@@ -137,7 +138,8 @@ Religinė Odoakro charakteristika šaltinyje.
 - id: c-175341
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 316."
   citata_originali: |
     Išsaugo­
     ję tai, ką jiems paliko jų ponai, jie galėjo tikėtis saugu­

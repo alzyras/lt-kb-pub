@@ -73,7 +73,8 @@ Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadint
 - id: c-175766
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 328"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 328."
   citata_originali: |
     Be to, pačioje Lietuvoje yra panašiai vadinamų
     valsčių ir netgi ne vienoje vietoje; lietuvių geografijoje

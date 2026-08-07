@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7fae925c7fda4b993f370d04"
+canonical_name: "Vredė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vredė"]
+sameAs: []
+canonical_biography: "Vredė buvo Karaliaučiuje miręs profesorius, kurio pastabas Narbutas pridėjo prie žinių apie Vitlandijos žemės egzistavimą."
 ---
 # Vredė
 
@@ -59,7 +66,8 @@ Vredė buvo Karaliaučiuje miręs profesorius, kurio pastabas Narbutas pridėjo 
 - id: c-174216
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 351."
   citata_originali: |
     Pagaliau iš šios sutarties reikia daryti prielaidą,
     jog čia paminėtas toje didelėje saloje buvęs miestas (Ci-

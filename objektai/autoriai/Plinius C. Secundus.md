@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4791a978752b20cf765fb86b"
+canonical_name: "Plinius C. Secundus"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Plinius C. Secundus"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad romos imperatorius Gajus Julijus Cezaris Germanikas, pramintas Kaligula, valdė 37—41 m. Plinijus Vyresnysis (23—79 m.) pateikia žinių, kad Nerono viešpatavimo metais (54—68 m.) gladiatorių kautynių organizatorius Julijus politiniais, gal ir kariniais tikslais. Dusburgietis teigia, kad dešimtmetyje) romėnai pirmą kartą tiesiogiai pasiekę Baltijos pajūrį tarp Vyslos ir Nemuno žiočių bei Sembą (Plinius C."
 ---
 # Plinius C. Secundus
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad romos imperatorius Gajus Julijus Cezaris Germanikas, pr
 - id: c-65417
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
   citata_originali: |
     Cezario vardas tapo pirmųjų Romos imperatorių garbės vardu, nuo II a. virto sosto
     įpėdinių, vėliau — Romos imperatorių titulu. Romos imperatorius Gajus Julijus Cezaris

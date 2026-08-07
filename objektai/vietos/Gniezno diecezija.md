@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cad0cbf5ef1d2f4361630e4f"
+canonical_name: "Gniezno diecezija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gniezno diecezija"]
+sameAs: []
+canonical_biography: "Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam bet ir kai kuriais padavimais ar užuominomis, kurias aptikau Vil­ niaus kapitulos ar Karaliauč."
+place_authority: true
+historical_names: []
 ---
 # Gniezno diecezija
 
@@ -52,7 +61,8 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
 - id: c-82164
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 127-128"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 127-128."
   citata_originali: |
     Karalius tuoj pat
     aprūpino ją nemenkomis pajamomis: be turtingos Klodovo

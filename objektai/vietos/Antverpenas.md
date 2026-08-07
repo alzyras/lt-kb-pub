@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-157ddd1448a8c26e9b4be593"
+canonical_name: "Antverpenas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Antverpenas"]
+sameAs: []
+canonical_biography: "Kristupas Pacas lankydavo Rubenso dirbtuvę Antverpene, keliaudamas po Italiją ir Nyderlandus bei studijuodamas meno paminklus."
+place_authority: true
+historical_names: []
 ---
 # Antverpenas
 

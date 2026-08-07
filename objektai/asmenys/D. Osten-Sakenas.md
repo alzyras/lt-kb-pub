@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0eaf48b5e97bae053241d953"
+canonical_name: "D. Osten-Sakenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["D. Osten-Sakenas"]
+sameAs: []
+canonical_biography: "Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kavaleriją. Osten-Sakeno įsakymu prasidėjo sukilėlių persekiojimas, jame dalyvavo Leibgvardijos lietuvių pėstininkų, Leibgvardijos Podolės kirasyrų, 9-ojo jėgerių pulkų kariai."
 ---
 # D. Osten-Sakenas
 
@@ -82,7 +89,8 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
 - id: c-41887
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 157"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 157."
   citata_originali: |
     Gen. ltn. D. Osten-Sakenas dešiniajame
     gynybos sparne puolimui išrikiavo ka-
@@ -99,7 +107,8 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
 - id: c-41888
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 158."
   citata_originali: |
     Distanciniame
     vamzdelyje išgręžta
@@ -133,7 +142,8 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
 - id: c-44317
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 156-157"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 156-157."
   citata_originali: |
     Pabūklo vamzdis
 

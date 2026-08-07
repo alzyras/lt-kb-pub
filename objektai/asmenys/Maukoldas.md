@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-efd457a861d64e00892597e4"
+canonical_name: "Maukoldas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Maukoldas"]
+sameAs: []
+canonical_biography: "48), liudija, kad XII amžiuje jau būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­ lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivičių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą. Vis dėlto gal po ta genealogi­ nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie­ tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas bus valdęs, bet šito nei tvirtai teigti, nei."
 ---
 # Maukoldas
 
@@ -72,7 +79,8 @@ media_all_json: |-
 - id: c-83528
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 59."
   citata_originali: |
     I. 48), liudija, kad XII amžiuje jau
     būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­
@@ -96,7 +104,8 @@ media_all_json: |-
 - id: c-176829
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 62."
   citata_originali: |
     Tačiau atsižvelgdami į tai, jog jis tikriausiai
     buvo vienuolis, menkai nutuokęs apie jam svetimo krašto

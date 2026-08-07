@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ce94316b722838f544dc1ac9"
+canonical_name: "Marcinkonys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Marcinkonys"]
+sameAs: []
+canonical_biography: "Rugsėjo 24 d. lenkai užima Marcinkonis ir atkerta atsitraukimo kelią į šiaurę. Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose ir žygiavo Marcinkonių link."
+place_authority: true
+historical_names: []
 ---
 # Marcinkonys
 
@@ -51,7 +60,8 @@ Rugsėjo 24 d. lenkai užima Marcinkonis ir atkerta atsitraukimo kelią į šiau
 - id: c-45200
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 203."
   citata_originali: |
     Rugsėjo 24 d. lenkai užima Marcinkonis ir at-
     kerta atsitraukimo kelią į šiaurę.

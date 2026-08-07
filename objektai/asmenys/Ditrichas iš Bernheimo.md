@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dccc744fe47c5cd6393b5376"
+canonical_name: "Ditrichas iš Bernheimo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ditrichas iš Bernheimo"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheimo, o į pagalbininkus jam paskyrė brolį Konradą iš Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir. Dusburgietis teigia, kad vienas jų, būtent brolis Ditrichas iš Bernheimo, buvęs maršalas ir narsus vyras (jo krūtinėje plakė Ulikso širdis, o ranka buvo ne silpnesnė nei Hektoro), bei dar keturi broliai ir dvidešimt keturi ginklanešiai naktį (1242 gruodžio 3), šventos mergelės bei. Dusburgietis teigia, kad po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius ir ginklanešius, patraukė su kitais atgal ir nugabeno šias šventas relikvijas į Kulmą."
 ---
 # Ditrichas iš Bernheimo
 
@@ -181,7 +188,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - id: c-60538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 86."
   citata_originali: |
     Vienas jų, būtent
     brolis Ditrichas iš Bernheimo, buvęs maršalas ir narsus vyras (jo krūtinėje plakė Ulikso
@@ -203,7 +211,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - id: c-60539
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
   citata_originali: |
     Apie tai sužinoję, Kulmo pilies broliai pasekė
     juos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis
@@ -224,7 +233,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - id: c-60540
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 87."
   citata_originali: |
     Jį
     pasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu
@@ -245,7 +255,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - id: c-60541
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 50."
   citata_originali: |
     Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­
     ta Nesavos pilis
@@ -272,7 +283,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - id: c-167438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 87."
   citata_originali: |
     kad jos relikvijas nusineštumėte į Prūsijos žemę, o ten jas užlaikytumėte didesnėje
     pagarboje nei čia“. Po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius
@@ -291,7 +303,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - id: c-167439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 87."
   citata_originali: |
     Galop jo nedorybė užrūstino
     dievą, kai, pasiėmęs didesnę savo kariuomenės dalį, o kitą palikęs kamuoti apsiaustimi

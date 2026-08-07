@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f20550e09b922b76e5b7b2ed"
+canonical_name: "Žalinskis Zaleskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Žalinskis Zaleskis"]
+sameAs: []
+canonical_biography: "Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zaleskį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pacifikalus, liktorius."
 ---
 # Žalinskis Zaleskis
 
@@ -49,7 +56,8 @@ media_all_json: |-
 - id: c-83879
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 361"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 361."
   citata_originali: |
     O ypač jos didenybę karalaitę Oną, jeigu čia, mūsų valsty­
     bėse, pasiliktų, prašome, kad jos didenybė visu tuo su aukš­

@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0cae1400c9c0e92891240d52"
+canonical_name: "Kučinskas, A"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Kučinskas, A"]
+sameAs: []
+canonical_biography: "Kučinskas, A."
 ---
 # Kučinskas, A
 
@@ -60,7 +67,8 @@ Kučinskas, A.
 - id: c-33011
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 223."
   citata_originali: |
     Jh. in Preusseu,_ Historische Studien, Heft 272,
     Berlin 1935. — Chodynicki, K. : _Geneza dynastii Giedymina,_ KH, t. 40,

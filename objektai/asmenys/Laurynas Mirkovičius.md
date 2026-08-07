@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-dfb2a08059b2da5f39a961fb"
+canonical_name: "Laurynas Mirkovičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Laurynas Mirkovičius"]
+sameAs: []
+canonical_biography: "Jis buvo kaltinamas mėsininko Lauryno Mirkovičiaus kerėj imu žolelėmis, kitas kaunietis Petras Šikis taip pat teigė, kad Motiejus pakišęs jam žolelių."
 ---
 # Laurynas Mirkovičius
 
@@ -49,9 +56,9 @@ Jis buvo kaltinamas mėsininko Lauryno Mirkovičiaus kerėj imu žolelėmis, kit
 ## Citatos
 
 - id: c-185473
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 187"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 187."
   citata_originali: |
     1580 m. Kaune besisukinėjantis valstietis Motiejus Juknevičius buvo atvestas pas
     Kauno miesto vaitą Petrą Pečiūgą. Jis buvo kaltinamas mėsininko Lauryno Mirko-

@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-469619da671181c33da31d6c"
+canonical_name: "Karl. May"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Karl. May"]
+sameAs: []
+canonical_biography: "2. Karl. May PER DYKUMĄ. I,II ir III tomai. Iš originalo vertė J. Vadeikis. Vertimą kalbos atžvilgiu žiūrėjo J. Talmanas."
 ---
 # Karl. May
 
@@ -43,7 +50,8 @@ media_all_json: |-
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 317."
   citata_originali: |
     2. Karl. May PER DYKUMĄ. I,_II ir III tomai. Iš originalo vertė J.
     Vadeikis. Vertimą kalbos atžvilgiu žiūrėjo J. Talmanas.

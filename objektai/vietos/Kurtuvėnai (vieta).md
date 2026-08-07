@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6ff11437df8c23a55755f2e8"
+canonical_name: "Kurtuvėnai (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kurtuvėnai","Kurtuvėnai (vieta)"]
+sameAs: []
+canonical_biography: "Antrąją svarbią Skaševskio nuosavybės dalį sudarė Kurtuvėnų miestelis, kuriame 1592 m. gyveno 33 šeimos."
+place_authority: true
+historical_names: []
 ---
 # Kurtuvėnai (vieta)
 

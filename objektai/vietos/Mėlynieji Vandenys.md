@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ded5177ebc636d370c5c2e17"
+canonical_name: "Mėlynieji Vandenys"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Mėlynieji Vandenys"]
+sameAs: []
+canonical_biography: "Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynaisiais Vandenimis ir paėmė Kijevą į savo valdžią."
+place_authority: true
+historical_names: []
 ---
 # Mėlynieji Vandenys
 
@@ -61,7 +70,8 @@ Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynai
 - id: c-156316
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 47."
   citata_originali: |
     Mėlynųjų Vandenų įvykių pagrindi-
     niai šaltiniai: žinios xv a. pirmosios pusės

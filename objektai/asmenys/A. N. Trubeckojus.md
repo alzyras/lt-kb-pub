@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7573652c179acb4269f8dc8a"
+canonical_name: "A. N. Trubeckojus"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["A. N. Trubeckojus"]
+sameAs: []
+canonical_biography: "Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. užėmus miestą visi miestiečiai buvo išžudyti) ir žygiavo į Lietuvos gilumą, Minsko link."
 ---
 # A. N. Trubeckojus
 
@@ -51,7 +58,8 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
 - id: c-44248
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 126."
   citata_originali: |
     Rusų karvedys V. B. Seremetjevas (apie
 

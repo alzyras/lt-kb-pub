@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f32617e70586fe8f63d99ab8"
+canonical_name: "Ona Lukauskaitė-Poškienė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Ona Lukauskaitė-Poškienė"]
+sameAs: []
+canonical_biography: "Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė, poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo."
 ---
 # Ona Lukauskaitė-Poškienė
 
@@ -40,7 +47,8 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 - id: c-21927
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 230."
   citata_originali: |
     Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
     sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-657e5fbf1ec4bfef1028b985"
+canonical_name: "Apulija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Apulija"]
+sameAs: []
+canonical_biography: "Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų žemių, tad didysis magistras su taryba ir persikėlė į vieną tokią dovanotąją žemę — į Apuliją (pietų Italijoj)."
+place_authority: true
+historical_names: []
 ---
 # Apulija
 
@@ -50,7 +59,8 @@ Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų ž
 - id: c-159432
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
   citata_originali: |
     Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
     Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,

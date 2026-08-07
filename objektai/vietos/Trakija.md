@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b31024586899ee7108afee66"
+canonical_name: "Trakija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Trakija"]
+sameAs: []
+canonical_biography: "Zoroastras pas persus, Kadmas ir Inachas pas grai kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu sias slaptas apeigas."
+place_authority: true
+historical_names: []
 ---
 # Trakija
 
@@ -53,7 +62,8 @@ Zoroastras pas persus, Kadmas ir Inachas pas grai kus, Orfėjas Trakijoje, Minas
 - id: c-171958
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 196."
   citata_originali: |
     Egiptiečiai visiškai nesivadina
     jų išradėjai. Zoroastras pas persus, Kadmas ir Inachas pas grai­

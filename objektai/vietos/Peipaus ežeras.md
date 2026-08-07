@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cf2b7c449d46da3122957c5e"
+canonical_name: "Peipaus ežeras"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Peipaus ežeras"]
+sameAs: []
+canonical_biography: "Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir šiuo žodžiu siejo juos su dabartine Ukmergės apskritimi."
+place_authority: true
+historical_names: []
 ---
 # Peipaus ežeras
 
@@ -55,7 +64,8 @@ Pasak Narbuto, prie Peipaus ežero gyvenę estai lietuvius vadino Litalain ir š
 - id: c-175662
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
   citata_originali: |
     Sutiksime net
     ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-

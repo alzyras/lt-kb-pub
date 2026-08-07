@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e34d99c839b1643dc01b25a6"
+canonical_name: "Felicija Osčiluvna"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Felicija Osčiluvna"]
+sameAs: []
+canonical_biography: "Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai: Jonas Stančikavičius, Stanislovas Milinavičius, Stanislovas Piotrasavičius, Motiejus su broliu Kasparu JanušeVičiai, Aleksandras Baltramiejevičius, našlė Felicija Osčiluvna, Povilas."
 ---
 # Felicija Osčiluvna
 
@@ -50,7 +57,8 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 - id: c-83647
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 262-263"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 262-263."
   citata_originali: |
     —
     Item Omnes Homines Subditos Ecclesiae, Quicunque ab

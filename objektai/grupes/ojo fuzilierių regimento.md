@@ -60,7 +60,8 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
 - id: c-77349
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 150."
   citata_originali: |
     Sukilimo tikslas buvo atsikratyti oku-
     pantų, atkurti valstybę su 1772 m. sie-

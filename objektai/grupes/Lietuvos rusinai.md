@@ -138,7 +138,8 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
 - id: c-172360
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     Slavai garbino tą pačią dievybę, vadindami įvairiais tar­
     miškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,
@@ -159,7 +160,8 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
 - id: c-172361
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 141-142"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 141-142."
   citata_originali: |
     141
 
@@ -184,7 +186,8 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
 - id: c-172362
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
   citata_originali: |
     Ant apvalaus 10 colių skersmens duonos kepalo, apvy­
     nioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai
@@ -208,7 +211,8 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
 - id: c-172363
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
   citata_originali: |
     Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
     pagrindą ištisai sudaro indų padavimai. Saulė ir mėnuo, du
@@ -228,7 +232,8 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
 - id: c-172364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Lasickis apie senovines apeigas sako: „Į tam tikrą šventę
     pakviestas aukotojas maldomis ir užkeikimais sušaukia nami­
@@ -249,7 +254,8 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
 - id: c-179069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
     tinkame mūsų kaimiečių padavimuose. Turiu jį savajame se­

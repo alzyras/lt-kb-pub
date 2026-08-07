@@ -88,11 +88,19 @@ Nenurodyta
 <a id="claim-t-89396"></a>
 - t-003
   teiginys: "Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Rinava: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rinava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių; iš leistinų kandidatų veikėjas yra sembai."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sembai puolė Rinava (0.88)"
   pagrindžia:
-    - c-85352
+    - c-85356
 
 <a id="claim-t-89397"></a>
 - t-004
@@ -128,7 +136,8 @@ Nenurodyta
 - id: c-85352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
     Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė
@@ -144,13 +153,13 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-003
     - t-005
 
 - id: c-85354
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
   citata_originali: |
     110 (105). Apie Rinavos valsčiaus sembų naują atskalūnybę
     Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
@@ -170,7 +179,8 @@ Nenurodyta
 - id: c-85356
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
 
@@ -186,7 +196,8 @@ Nenurodyta
   citata_rodoma: "111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį\n\n  Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė\nkariuomenę  ir, įsibrovę  į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su\nvisu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion\nsugrįžo anksčiau čia viešpatavusi taika.\n\n\n\n\n 112 (107)."
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

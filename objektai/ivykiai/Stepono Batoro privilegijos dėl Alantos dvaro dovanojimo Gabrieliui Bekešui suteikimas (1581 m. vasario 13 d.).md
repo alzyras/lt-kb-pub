@@ -109,7 +109,8 @@ Nenurodyta
 - id: c-82868
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 439"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 439."
   citata_originali: |
     Ir bus leista minėtam po­
     nui Gabrieliui Bekešui ir po jo abiejų lyčių vaikams ir vi­
@@ -145,7 +146,8 @@ Nenurodyta
 - id: c-82869
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 436"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 436."
   citata_originali: |
     (Kopija iš originalo, esančio Radvilų archyve)
     Steponas, Dievo Malone Lenkijos karalius, Didysis Lie­
@@ -180,7 +182,8 @@ Nenurodyta
 - id: c-82870
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 439-442"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 439-442."
   citata_originali: |
     Rašytas ir duotas Varšuvoje, didžiajame visuotiniame seime.
     — • —

@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-82925
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 38."
   citata_originali: |
     Pirmąjį Vilniaus paminėjimą, pirmą autentišką
     paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be

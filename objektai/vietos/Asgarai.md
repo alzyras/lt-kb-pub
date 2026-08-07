@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-818335933f291592e89824ab"
+canonical_name: "Asgarai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Asgarai"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asgardu. Narbutas rašo, kad pats Asgarų kaimo neaplankė, bet girdėjo apie piliavietės liekanas ir kapus su skandinavų senovės iškasenomis. Ji savo ruožtu įteka į Minijos upę, o prie jos žiočių yra kaimas, šiandien vadinamas Asgarais; čia neabejotinai buvo senovės Asgardas."
+place_authority: true
+historical_names: []
 ---
 # Asgarai
 
@@ -99,7 +108,8 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
 - id: c-175578
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 221."
   citata_originali: |
     Antroji šiandien vadinama Ašva; ji prasideda taip
     pat Raseinių apskrityje, plaukia pietų link, įteka į Veivir­
@@ -120,7 +130,8 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
 - id: c-175579
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 221."
   citata_originali: |
     Beje, skandinavams priklau­
     sančių ir jų pastatytų Asgardų ¡galėjo būti ir-daugiau, —
@@ -141,7 +152,8 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
 - id: c-179361
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 221."
   citata_originali: |
     Antroji šiandien vadinama Ašva; ji prasideda taip
     pat Raseinių apskrityje, plaukia pietų link, įteka į Veivir­

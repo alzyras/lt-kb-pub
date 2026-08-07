@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8e3cac85ffe8184212787853"
+canonical_name: "Uralas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Uralas"]
+sameAs: []
+canonical_biography: "21, 125, 159, 198, 213, 225, 239-242, 263-266, 313, 321 ; Tverės kautynės 184 ; Tverės metraščiai 168 (^408) VARDYNAS Tveriškė Julijona, Algirdo žmona 259 Tvirbutas, bajoras 368 Ugra, upė 321, 322 Ugros taika 371 Ukmergė, ir pilis 197, 233, 245, 289, 307, 340."
+place_authority: true
+historical_names: []
 ---
 # Uralas
 
@@ -55,7 +64,8 @@ media_all_json: |-
 - id: c-175678
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
   citata_originali: |
     Tai buvo
     didelė, plačiai pasklidusi tauta, nes jos kolonijos driekė­

@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f302cfcb71b12c80c383560a"
+canonical_name: "Parčevas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Parčevas"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Parčevas
 

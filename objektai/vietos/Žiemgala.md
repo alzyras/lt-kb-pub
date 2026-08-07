@@ -32,6 +32,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-bf11819cae0664b44b8937c7"
+canonical_name: "Žiemgala"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Žiemgala"]
+sameAs: []
+canonical_biography: "Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam nepasisekė visiškai nugalėti ordino."
+place_authority: true
+historical_names: []
 ---
 # Žiemgala
 
@@ -153,7 +162,8 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 - id: c-32613
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 190."
   citata_originali: |
     Per trumpą laiką (nuo 1253 m.) kryžiuočiai Žemaičiuose ir jų
     pasienyje beveik kasmet turėjo naujų teritorinių laimėjimų ir aplink
@@ -176,7 +186,8 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 - id: c-93856
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 87."
   citata_originali: |
     Juk val­
     dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
@@ -210,7 +221,8 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 - id: c-93857
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 190."
   citata_originali: |
     Tolimesnėse kovose prieš pagonis jos
     ėmė megzti dar artimesnius sąlyčius, tikėdamos pagaliau visai susi­
@@ -232,7 +244,8 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 - id: c-166502
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 75."
   citata_originali: |
     Todėl jį
     rėmė ir jo klausė net žemaičių kunigaikščiai. Jam buvo pa-

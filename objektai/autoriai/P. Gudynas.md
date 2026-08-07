@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b65031db0776e9a8f5b9d44e"
+canonical_name: "P. Gudynas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. Gudynas"]
+sameAs: []
+canonical_biography: "Gudynas."
 ---
 # P. Gudynas
 
@@ -60,7 +67,8 @@ Gudynas.
 - id: c-22184
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Vilnius, 2009; Lietuvos tapyba. Sud. P. Gudynas. Vilnius, 1976; Millennium of Lithuania:
     Millennium Lithuaniae.

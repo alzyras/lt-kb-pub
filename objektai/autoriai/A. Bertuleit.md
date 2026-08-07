@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e34fb80e18446094b60e20b3"
+canonical_name: "A. Bertuleit"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Bertuleit"]
+sameAs: []
+canonical_biography: "Bertuleit, A."
 ---
 # A. Bertuleit
 
@@ -52,7 +59,8 @@ Bertuleit, A.
 - id: c-32863
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 153."
   citata_originali: |
     — (”) _Tautosaka apie dangų,_ Sodus, Mich. 1951. — Ber-
     tuleit, A. : _Das Religionswesen der alten Preussen mit lettisch-litauischen

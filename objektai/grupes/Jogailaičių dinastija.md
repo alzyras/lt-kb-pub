@@ -127,7 +127,8 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 - id: c-31079
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 38."
   citata_originali: |
     Ne mažiau jų davė ir santykiai su Lenkija. Rytų Europos
     tolimesniam vystymuisi yra laikoma labai stambiu įvykiu^12 , kad
@@ -146,7 +147,8 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 - id: c-166260
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 220."
   citata_originali: |
     Vienas jo anūkų (Kazi­
     mieras) pasiekė altorių garbės ir tapo Lietuvos Globėju, kuris, kaip
@@ -165,7 +167,8 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 - id: c-166522
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 35."
   citata_originali: |
     Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
     tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
@@ -183,7 +186,8 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 - id: c-176218
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 264."
   citata_originali: |
     Okupacijos ir aneksijos, tremtys, genocidai ir
     Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-
@@ -202,9 +206,9 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
     - t-004
 
 - id: c-184824
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 288"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 288."
   citata_originali: |
     Kaip atrodo, tai,
     kad valdovas Kauno miesto vaitu skirdavo Kauno miestietį, buvo įsisenėjęs paprotys,

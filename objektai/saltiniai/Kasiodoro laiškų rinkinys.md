@@ -53,7 +53,8 @@ Teodoras Narbutas nurodo, kad jo minimi dokumentai yra Kasiodoro laiškų rinkin
 - id: c-174668
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319."
   citata_originali: |
     Ostrogaias reiškia rytų galą.
     3 Šie dokumentai yra Kasiodoro laiškų rinkinyje.

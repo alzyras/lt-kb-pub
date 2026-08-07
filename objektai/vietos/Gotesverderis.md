@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-df95acd12bc3890f91a56553"
+canonical_name: "Gotesverderis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gotesverderis"]
+sameAs: []
+canonical_biography: "Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr."
+place_authority: true
+historical_names: []
 ---
 # Gotesverderis
 
@@ -50,7 +59,8 @@ media_all_json: |-
 - id: c-02698
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 614"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 614."
   citata_originali: |
     Lietuvos vaka-
     ruose susidarė ištisa kryžiuočių pilių virtinė, — pradedant Klaipė-

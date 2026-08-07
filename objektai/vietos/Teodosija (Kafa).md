@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-9710662a064ced517508cf53"
+canonical_name: "Teodosija (Kafa)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Teodosija (Kafa)"]
+sameAs: []
+canonical_biography: "Nenurodyta"
+place_authority: true
+historical_names: []
 ---
 # Teodosija (Kafa)
 

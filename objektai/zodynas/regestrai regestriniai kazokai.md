@@ -50,7 +50,8 @@ Tų sričių ponai savo dvaruose laikė ištisus kariuomenės pulkus, tačiau ne
 - id: c-72116
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 336."
   citata_originali: |
     Tų
     sričių ponai savo dvaruose laikė ištisus kariuomenės pulkus,

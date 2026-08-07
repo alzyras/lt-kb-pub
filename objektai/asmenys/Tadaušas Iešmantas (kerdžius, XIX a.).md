@@ -40,6 +40,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5dc4a41578fddfe8d4992ad5"
+canonical_name: "Tadaušas Iešmantas (kerdžius, XIX a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Iešmantas","kerdžius Iešmantas","Tadaušas Iešmantas","Tadaušas Iešmantas (kerdžius, XIX a.)"]
+sameAs: []
+canonical_biography: "Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš piemens tapęs gyvulių bandos prižiūrėtoju, gerai valdęs trimitą ir dainavęs savo komponuotas dainas."
 ---
 # Tadaušas Iešmantas (kerdžius, XIX a.)
 

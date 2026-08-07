@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-49b556c5b735d6f726cbe197"
+canonical_name: "Vladislovas (Mykolo Balinskio sūnus)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Vladislovas (Mykolo Balinskio sūnus)"]
+sameAs: []
+canonical_biography: "Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare."
 ---
 # Vladislovas (Mykolo Balinskio sūnus)
 
@@ -60,7 +67,8 @@ Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare.
 - id: c-83864
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 12."
   citata_originali: |
     1848 m. M. Balinskis sugrįžta į Lietuvą ir apsigyvena savo
     Jašiūnų dvare. Sugrįžimą pagreitino nelaimės šeimoje: sūnaus

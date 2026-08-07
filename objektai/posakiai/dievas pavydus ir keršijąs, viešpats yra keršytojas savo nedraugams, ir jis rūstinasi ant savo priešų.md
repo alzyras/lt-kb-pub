@@ -32,7 +32,8 @@ Dusburgietis teigia, kad vis dėlto dievas, būdamas ir geras, ir pakantus, ir g
 - id: c-59721
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
   citata_originali: |
     Todėl, kai vengrai
     grįždami įėjo į šį mišką, mūsų jau minėti kaimiečiai pajudino medžius, o tie, griūdami

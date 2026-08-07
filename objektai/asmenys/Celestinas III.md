@@ -23,6 +23,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-04004c79e21eea383630c722"
+canonical_name: "Celestinas III"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Celestinas III"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai. Dusburgietis teigia, kad štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
 ---
 # Celestinas III
 
@@ -95,7 +102,8 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - id: c-60856
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
     žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies
@@ -117,7 +125,8 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - id: c-60857
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
   citata_originali: |
     Štai šis popiežius Celestinas
     III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
@@ -143,9 +152,9 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
     - t-003
 
 - id: c-184324
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 179"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 179."
   citata_originali: |
     Tuo tarpu Bertoldas, vyskupas Pa-
     daugavio, kaip viršiaus minavojau, skatino Teutoni-

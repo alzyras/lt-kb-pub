@@ -81,7 +81,8 @@ Nenurodyta
 - id: c-83081
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 207."
   citata_originali: |
     7. Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų
     menų magistras, buvo vyskupu nuo 1453 m. iki 1462 m. Ant­

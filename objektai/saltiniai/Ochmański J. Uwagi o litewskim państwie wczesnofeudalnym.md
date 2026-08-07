@@ -51,7 +51,8 @@ Dusburgietis teigia, kad ochmański J.
 - id: c-61833
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     Ochmański J. Uwagi o litewskim państwie wczesnofeudalnym.—Roczniki historyczne,
     1961, 27, s. 143—160.

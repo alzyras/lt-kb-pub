@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-88e9d1e4171b25f834ef7ed3"
+canonical_name: "Giovanni Villani"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Giovanni Villani"]
+sameAs: []
+canonical_biography: "Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų ant vežimų, kurios, svaidydamosios ugnies išmetamomis ma­ žomis geležies kulkomis, baisaus trenksmo lydimomis, daugiau buvo tinkamos žirgams gąsdinti."
 ---
 # Giovanni Villani
 
@@ -62,7 +69,8 @@ Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų
 - id: c-84036
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 119."
   citata_originali: |
     Ži­
     nome iš metraštininkų pasakojimų,

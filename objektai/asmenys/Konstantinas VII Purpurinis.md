@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4e7ea516247d84da964a6736"
+canonical_name: "Konstantinas VII Purpurinis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konstantinas VII Purpurinis"]
+sameAs: []
+canonical_biography: "Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas aptariamos tautos padalijimą į dvi puses. Pasak Narbuto cituojamo Purpurinio, Charoboe pečenegų ordos sostinė buvo Belotzebo, slaviškai vadinta Belaja Cerkove."
 ---
 # Konstantinas VII Purpurinis
 
@@ -74,7 +81,8 @@ Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas
 - id: c-174234
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     Pažiūrėkime į šio pavadinimo ištakas, rem­
     damiesi savo žiniomis. Anot anuometinio istoriko Kons­
@@ -94,7 +102,8 @@ Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas
 - id: c-174235
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 107."
   citata_originali: |
     100
     Geografija. Viena dešiniojoje Dnepro pakrantėje gy­

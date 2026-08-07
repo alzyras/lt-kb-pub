@@ -17,6 +17,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d849139dc2f623d9dbe141ca"
+canonical_name: "Konradas Turingenas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas Turingenas"]
+sameAs: []
+canonical_biography: "Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiajam mistrui Konradui Turingenui, kas nutiko tarp zokano ir Sviatopelko; tame daikte kryžėjai rados didžiame pavojuj, kaipogi pats popiežius buvo ant jų įbingęs, jog jie daugiaus ciesoriaus nei jo klausė."
 ---
 # Konradas Turingenas
 
@@ -41,9 +48,9 @@ Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiajam mistrui Konradui Tu
 ## Citatos
 
 - id: c-184770
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 311"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 311."
   citata_originali: |
     Urėdas kry­
     žėjų, supykęs ant jo, išvadino jį paikintoju per­

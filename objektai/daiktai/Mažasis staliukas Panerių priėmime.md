@@ -30,7 +30,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1751 m. Paneriuose Juozapas Antanas Solohubas ir Antanas Solohubas be ceremonijų pakvietė Joną Dominyką Lopacinskį prie mažojo staliuko.
+1751 m. Paneriuose mažasis staliukas minimas kaip priėmimo aplinkos detalė, prie kurios Jonas Dominykas Lopacinskis buvo pakviestas priimti tribunolo maršalą Juozapą Antaną Solohubą ir LDK artilerijos generolą Antaną Solohubą.
 
 ## Pavadinimai šaltiniuose
 
@@ -57,7 +57,7 @@ Nenurodyta
 <a id="claim-t-200668"></a>
 - t-001
   teiginys: "1751 m. Paneriuose Juozapas Antanas Solohubas ir Antanas Solohubas be ceremonijų pakvietė Joną Dominyką Lopacinskį prie mažojo staliuko."
-  atnaujinta: "2026-07-14 11:41"
+  atnaujinta: "2026-07-26 17:50"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Antanas Solohubas (LDK artilerijos generolas, XVIII a.): 0.83"
@@ -70,7 +70,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   temporaliniai_duomenys: "įvykio data: 1751 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleisti kvietimo dalyviai ir vieta, pašalinta perteklinė priėmimo interpretacija. Kortų lošimas nepridėtas kaip faktas, nes citatoje jis pažymėtas klaustuku."
+  temporalinis_llm_pakomentavimas: "Sakinys turi aiškius veikėjus, laiką, vietą ir veiksmą, tiesiogiai susijusį su užrašo objektu. Neįtraukta neaiški citatos pastaba apie galimą lošimą kortomis."
   vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183940
@@ -100,6 +100,6 @@ Nenurodyta
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 11:39"
+  atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001

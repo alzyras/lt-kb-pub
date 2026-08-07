@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0b023523c38c1aa253aa10ea"
+canonical_name: "Focijus (Maskvos „visos Rusijos“ metropolitas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Focijus (Maskvos „visos Rusijos“ metropolitas)"]
+sameAs: []
+canonical_biography: "Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metropolitu paskyrė Maskvos kandidatą graiką Focijų (1408), kuriam, kaip Maskvos metropolitui, pavesti buvo visos Rusijos ir Lietuvos stačiatikių reikalai. Lietuvos stačiatikiai vys­ kupai apskundė jį Vytautui, kad smunka bažnyčios gyvenimas, kad Focijus išveža į Maskvą bažnytinius turtus. Focijus skaitė save tikruoju Kijevo metropolitu, o Cemblaką — uzurpatorium. Lietuvos stačiatikiams Focijus bu­ vo išsiuntinėjęs raštus, kuriuose kaltino Cemblaką, skelbė jį nuo Rytų Bažnyčios esant atskirtą, reikalavo jį iš Lietuvos visai iš­ tremti."
 ---
 # Focijus (Maskvos „visos Rusijos“ metropolitas)
 
@@ -203,7 +210,8 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 133."
   citata_originali: |
     Todėl Vytauto kandidatas liko nepatvirtintas. Jo
     vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs
@@ -225,7 +233,8 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 135."
   citata_originali: |
     Focijus skaitė save tikruoju Kijevo metropolitu, o
     Cemblaką — uzurpatorium. Lietuvos stačiatikiams Focijus bu­
@@ -249,7 +258,8 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 306"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 306."
   citata_originali: |
     Patriarcho tas metropolitas buvo iškeiktas, bet iš­
     silaikė savo soste iki mirties. Jam mirus, Vytautas susitaikino su
@@ -271,7 +281,8 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 133."
   citata_originali: |
     Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­
     triarchui Eufimėjui pristatė Polocko vysk. Teodozijų, kaipo kan­
@@ -297,7 +308,8 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 133."
   citata_originali: |
     Tad Vytautas pastatė Focijui sąlygą, kad apsigy­
     ventų Kijeve, bet šis savo rezidencija pasirinko Maskvą, į Lietu­
@@ -323,7 +335,8 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 136."
   citata_originali: |
     Tokiose sąlygose, aišku, nebebuvo galima mąstyti apie Va­
 

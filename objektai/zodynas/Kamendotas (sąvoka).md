@@ -70,9 +70,9 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
 ## Citatos
 
 - id: c-184533
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 339"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 339."
   citata_originali: |
     Tą matydamas,
     Botelis, marčelga kryžėjų, norėjo savo kariauną
@@ -92,9 +92,9 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
     - t-001
 
 - id: c-184534
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 424"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 424."
   citata_originali: |
     Lietuviai, apmaudingi ant tos naujos savo
     liuosybės kalinyčios ir numanydami jos sykį, arba
@@ -117,9 +117,9 @@ Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų br
     - t-002
 
 - id: c-184535
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 565"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 565."
   citata_originali: |
     Jurgio konventą padės nau­
     ją įkurti ir 30 sieksnių mūrų savo pilės išgriaus bei

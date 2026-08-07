@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5c786218d19a99802585f388"
+canonical_name: "Bandkė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bandkė"]
+sameAs: []
+canonical_biography: "Narbutas nurodo, kad Bandkė savo Lenkijos istorijoje lietuvių Gurko tapatino su slavų Gurovidu."
 ---
 # Bandkė
 
@@ -53,7 +60,8 @@ Narbutas nurodo, kad Bandkė savo Lenkijos istorijoje lietuvių Gurko tapatino s
 - id: c-173016
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
   citata_originali: |
     Ypač
     jis buvo gerbtinas kaip žemdirbių dievas.

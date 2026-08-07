@@ -56,7 +56,8 @@ Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami 
 - id: c-82856
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 89."
   citata_originali: |
     Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų
     raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­

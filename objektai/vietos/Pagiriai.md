@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fb020e035ef085c849ac4514"
+canonical_name: "Pagiriai"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Pagiriai"]
+sameAs: []
+canonical_biography: "25“ LIETUVIAI SUTINKA SAVO KARIUOMENĘ 2-ojo pėstininkų pulko I bataliono puskarininkis Antanas Šukys prisimena bataliono sustojimą Pagirių kaime žygiuojant į Panevėžio frontą. „I...] Pagirį pasiekėme 12 00 valandą, pamaldoms besibaigiant. @ Tuo pat metu lenkų kavalerijos brigada užima Pagirius, jų judėjimą seka ir kolonas atakuoja lietuvių karo lėktuvai."
+place_authority: true
+historical_names: []
 ---
 # Pagiriai
 
@@ -88,7 +97,8 @@ media_all_json: |-
 - id: c-45251
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 183."
   citata_originali: |
     III. 25“
 
@@ -111,7 +121,8 @@ media_all_json: |-
 - id: c-45252
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 211."
   citata_originali: |
     @ Tuo pat metu lenkų kavalerijos brigada užima Pagirius, jų judėjimą seka
     ir kolonas atakuoja lietuvių karo lėktuvai. Naktį lenkai priartėja prie

@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a9a67084eeb28e537cea6378"
+canonical_name: "Subačiaus priemiestis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Subačiaus priemiestis"]
+sameAs: []
+canonical_biography: "Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus gaisras siejamas su Subačiaus priemiesčiu ir Gregoravičiaus dvareliu."
+place_authority: true
+historical_names: []
 ---
 # Subačiaus priemiestis
 
@@ -64,7 +73,8 @@ Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus g
 - id: c-171957
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 149."
   citata_originali: |
     Niech twoja Neris (a) i bogam oznami,
     Pod ktorych wladzą są morskie zamęty,

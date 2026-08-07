@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-766521c7dace8855bf55d1c5"
+canonical_name: "P. Šmits"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["P. Šmits"]
+sameAs: []
+canonical_biography: "— Šmits, P."
 ---
 # P. Šmits
 
@@ -54,7 +61,8 @@ media_all_json: |-
 - id: c-33101
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 155."
   citata_originali: |
     — Straubergs, K. : _Latvju sakrālā
     pasaule,_ Latvju kultura, 1948. — Šmits, P. : _Latviešu mitologija,_ Riga

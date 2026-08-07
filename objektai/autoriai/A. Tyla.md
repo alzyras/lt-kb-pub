@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-3189eecdd52a7f38938abf70"
+canonical_name: "A. Tyla"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Tyla"]
+sameAs: []
+canonical_biography: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­ kienė: 1905-1907 metų revoliucija Lietuvoje (1955). A. Tyla taip pat svarstė tos revoliucijos klausimus^122 ; jis davė pastabų ir dėl lietuviškos knygos istorijos (BBK, t. 7, 1969, 191-199 p.) ir."
 ---
 # A. Tyla
 
@@ -61,7 +68,8 @@ media_all_json: |-
 - id: c-32892
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 87."
   citata_originali: |
     Augustavo gubernijoje (AkMD, t. 19, 1965, 143-
     166 p.), apie sukilėlių antspaudus (AkMD, t. 22, 1966, 121-131 p.)^119 ;

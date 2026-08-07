@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-713ce107163253953d628ae9"
+canonical_name: "J. Huizinga"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Huizinga"]
+sameAs: []
+canonical_biography: "Huizinga) yra labai platus objektas."
 ---
 # J. Huizinga
 
@@ -61,7 +68,8 @@ Huizinga) yra labai platus objektas.
 - id: c-94025
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 14."
   citata_originali: |
     J. A. Sabalį suorganizavo
     man techninę pagalbą, kai 1970 m. rudenį atsiuntė pareigingą

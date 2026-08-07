@@ -58,7 +58,8 @@ Algirdas dėl didelių gabumų iškėlė Vaidilą iš kepėjo sūnaus iki rūmų
 - id: c-82616
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 49-50"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 49-50."
   citata_originali: |
     33
 

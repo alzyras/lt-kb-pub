@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-de2da352af0cec071f177e6a"
+canonical_name: "Alfonsas Eidintas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["A. Eidinto","Alfonsas Eidintas","Eidintas A.","prof. Alfonsas Eidintas"]
+sameAs: []
+canonical_biography: "Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių; šiame įraše iš šaltinio fiksuojamas bibliografinis jo darbas."
 ---
 # Alfonsas Eidintas
 
@@ -143,7 +150,8 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 - id: c-26846
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 4-5"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 4-5."
   citata_originali: |
     Redakcinė kolegija:
     Prof. dr. Raimundas Lopata – pirmininkas
@@ -187,7 +195,8 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 - id: c-26847
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 11-12"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 11-12."
   citata_originali: |
     Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams
     istorinis pasakojimas pasirodys vienodai priimtinas bei darnus, primin-
@@ -224,7 +233,8 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 - id: c-154566
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 269."
   citata_originali: |
     Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio
     „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsienio reikalų

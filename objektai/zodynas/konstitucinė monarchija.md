@@ -50,7 +50,8 @@ Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąs
 - id: c-18645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 136."
   citata_originali: |
     Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
     cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,

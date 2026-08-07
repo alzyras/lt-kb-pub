@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-109fe582802c7c7f39f1caf2"
+canonical_name: "Anykščių valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Anykščių valsčius"]
+sameAs: []
+canonical_biography: "Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d. atvedė čekistus prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiaus, Butkiškio vienkiemio Jovaišų sodyboje."
+place_authority: true
+historical_names: []
 ---
 # Anykščių valsčius
 
@@ -59,7 +68,8 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
 - id: c-45025
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 245."
   citata_originali: |
     1949 m. spalio 24 d. MGB agentui V. Kučiui
     panaudojus spec. preparatus „Neptun-20“,

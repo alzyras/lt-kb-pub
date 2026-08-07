@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-54e609c9b174a591463116ba"
+canonical_name: "Krakių valsčius"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krakių valsčius"]
+sameAs: []
+canonical_biography: "Krakių vlsč."
+place_authority: true
+historical_names: []
 ---
 # Krakių valsčius
 
@@ -59,7 +68,8 @@ Krakių vlsč.
 - id: c-40296
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 241."
   citata_originali: |
     LENČIŲ KAUTYNES
     \ aa 5 1unai > =) * A 5

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5488909e40fe6a8038ecfa3f"
+canonical_name: "Liudvikas (Brandenburgo markgrafas)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas (Brandenburgo markgrafas)"]
+sameAs: []
+canonical_biography: "Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine kariuomene atvyko į Prūsiją. Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine kariuomene atvyko į Prūsiją, kai kryžiuočiai rengė naują žygį į Lietuvą."
 ---
 # Liudvikas (Brandenburgo markgrafas)
 
@@ -66,7 +73,8 @@ Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine
 - id: c-169595
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 241."
   citata_originali: |
     Kry­
     žiuočiams, perėjusiems Lietuvos sienas, nepasiprieši­

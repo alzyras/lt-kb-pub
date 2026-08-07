@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5a6407840d80b8ab27ec3c70"
+canonical_name: "J. Eretas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Eretas"]
+sameAs: []
+canonical_biography: "Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių."
 ---
 # J. Eretas
 
@@ -76,7 +83,8 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
 - id: c-30556
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 418."
   citata_originali: |
     J. Eretas, Kazys Pakštas. Tautinio Šauklio Odisėja,
     XVI-384 psl., Roma 1970. 14 dol.
@@ -91,7 +99,8 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
 - id: c-32960
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 418."
   citata_originali: |
     8 dol.
     J. Eretas, Valančiaus šviesa už marių. Pranciškaus Juro

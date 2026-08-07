@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0508fac61ca60a2e5530524f"
+canonical_name: "Lukoševičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Lukoševičius"]
+sameAs: []
+canonical_biography: "Šalia jo stovėjęs skyrininkas Lukoševičius komisarą nudūrė."
 ---
 # Lukoševičius
 
@@ -50,7 +57,8 @@ media_all_json: |-
 - id: c-42107
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 189."
   citata_originali: |
     Leitenantas Barkauskas puolė į bolševikų štabą, kur miegojo aštuoni komisarai. Kai
     pašvietė lempute ir įsakė stoti ir kelti rankas aukštyn, tai vienas komisarų, gulėjęs prie

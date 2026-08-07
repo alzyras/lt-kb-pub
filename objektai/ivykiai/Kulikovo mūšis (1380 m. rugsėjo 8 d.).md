@@ -79,7 +79,8 @@ Nenurodyta
 - id: c-82933
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 50-51"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 50-51."
   citata_originali: |
     Tasai Andrius, Jogailai pavaldaus
     Polocko kunigaikštis, Algirdo sū­

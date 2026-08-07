@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0b1b4c7ae3d53c652d95018f"
+canonical_name: "Krivičių žemė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Krivičių žemė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su visa savo kariuomene į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų 569 D. Dusburgietis teigia, kad krivičių žeme Dusburgietis vadina Naugarduko žemę Nemuno aukštupyje."
+place_authority: true
+historical_names: []
 ---
 # Krivičių žemė
 
@@ -77,7 +86,8 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
 - id: c-59210
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     322 (315). Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
     Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su
@@ -96,7 +106,8 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
 - id: c-59211
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 211."
   citata_originali: |
     571 D.— Criwicie, Jer.— Kriwitzin, in daz lant Kriwitzin. Krivičių žeme Dusburgietis
     vadina Naugarduko žemę Nemuno aukštupyje. Naugarduko regioną krivičiai apgyvendino

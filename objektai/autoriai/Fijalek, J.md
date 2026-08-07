@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ef2a10ecd6c1d2d2a26f690c"
+canonical_name: "Fijalek, J"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Fijalek, J"]
+sameAs: []
+canonical_biography: "Fijalek, J."
 ---
 # Fijalek, J
 
@@ -39,7 +46,8 @@ Fijalek, J.
 - id: c-32924
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 231."
   citata_originali: |
     Kn. Litovskogo do upadku udel'noj sistemy v litovskoj
     Rusi,_ Tarnopol 1887. — Chodynicki, K. : _Ze studiów nad dziejopisarst­

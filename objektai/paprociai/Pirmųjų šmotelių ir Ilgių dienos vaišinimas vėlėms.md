@@ -50,7 +50,8 @@ Nenurodyta
 - id: c-09956
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  puslapiai: "PDF 152"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 152."
   citata_originali: |
     Tą žinodami, kalnėnai ir žemaičiai didžiai rūpinęsi likumu
         savo dūšių atenčio je^701 , todėl mirdami liuobėję^702 įsakyti gentims visus apsiėjimus^703

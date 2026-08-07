@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d4a398bceb44770be7998d28"
+canonical_name: "Viazma"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Viazma"]
+sameAs: []
+canonical_biography: "Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos. Vytautas, pasiuntęs belaisvį Hlebą į Krokuvą, užėmė Smolensko leną Viazmą ir naujai prijungtose žemėse paskyrė vietininkus. Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo."
+place_authority: true
+historical_names: []
 ---
 # Viazma
 
@@ -160,7 +169,8 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
 - id: c-32520
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 328"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 328."
   citata_originali: |
     Maskviečiai gi be sėkmės buvo apgulę Viazmą. Ten abi kariuo­
     menės prastovėjo kelias dienas, ir pagaliau Vosylius su Vytautu
@@ -179,7 +189,8 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 84."
   citata_originali: |
     Viazmos
     kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo.
@@ -197,7 +208,8 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
 - id: c-68864
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 320."
   citata_originali: |
     Remdamasis giminyste,
     Vytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė
@@ -220,7 +232,8 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 84."
   citata_originali: |
     Sunaikinęs apylinkes, vėl atsitraukė. Viazmos
     kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo.
@@ -237,7 +250,8 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
 - id: c-167771
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 328"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 328."
   citata_originali: |
     Vy­
     tauto būriai užėmė tolimą Odojevą, Lengvenis — Vorotinską52 53 54 55 56.
@@ -255,7 +269,8 @@ Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos pal
 - id: c-170610
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 306"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 306."
   citata_originali: |
     Išskyrus ViaznuĮ. visi aukščiau išvardytieji LDK rytų pasienio
     miestai, kaip maskvėnų užimti, y ra minimi Aleksandro 1492.IX 27

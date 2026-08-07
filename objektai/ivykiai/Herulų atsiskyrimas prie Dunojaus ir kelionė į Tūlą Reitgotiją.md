@@ -122,7 +122,8 @@ Nenurodyta
 - id: c-173925
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 325"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 325."
   citata_originali: |
     Nedaug herulų, gal išlikusių kažkur Rytų valsty­
     bės provincijose po to, kai prieš keturiasdešimt metų bu­
@@ -146,7 +147,8 @@ Nenurodyta
 - id: c-173926
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 326"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 326."
   citata_originali: |
     Slavai visuomet buvo svetingi, daug jų kartų
     buvo taikių, vertėsi žemdirbyste, ypač tos, kurios gyveno

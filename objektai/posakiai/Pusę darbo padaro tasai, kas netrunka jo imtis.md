@@ -75,7 +75,8 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
 - id: c-59790
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49-50"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49-50."
   citata_originali: |
     Jie ir paprašė minėtąjį kunigaikštį pastatydinti
     jiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to,

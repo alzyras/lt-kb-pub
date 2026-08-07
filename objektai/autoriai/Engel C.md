@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f77976d435caa283d45e8ff0"
+canonical_name: "Engel C"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Engel C"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad greičiausiai čia ir buvo centrinė Kresmenos (Skomanto) pilis (Engel C., Zwei spätheidnische Silberfunde..., p. 69, 76; Kamiński A., Jaćwież, p. 102; MGP, p. 55 Nr. 17, 16)."
 ---
 # Engel C
 
@@ -49,7 +56,8 @@ Dusburgietis teigia, kad greičiausiai čia ir buvo centrinė Kresmenos (Skomant
 - id: c-61328
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     502 D. — habitacionem [...] redegit in favillam. Skomanto ežero pietinėje pakrantėje
     buvo žinomas piliakalnis, vadintas Skomanto pilimi — Skomantburg,  į šiaurės rytus

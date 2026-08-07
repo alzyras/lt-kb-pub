@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-32c393538605bf2fb0a67e4f"
+canonical_name: "Varka"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Varka"]
+sameAs: []
+canonical_biography: "Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­ gailos elgesiu, susirinkę Varkoje, nusprendė pirmiausia ofi­ cialiai nusiųsti pas jį pasiuntinius, kurie pareikalautų išlais­ vinti karalių, o jeigu tai nieko neduotų, - surengti žygį į Lietuvą."
+place_authority: true
+historical_names: []
 ---
 # Varka
 
@@ -50,7 +59,8 @@ Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­ gailos elgesiu, su
 - id: c-82227
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 227."
   citata_originali: |
     Tačiau kai ši jo nelaisvė gana ilgai užsi­
     tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse

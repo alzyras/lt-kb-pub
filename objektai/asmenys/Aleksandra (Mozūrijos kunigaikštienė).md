@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae86b15d7a9972e47d604854"
+canonical_name: "Aleksandra (Mozūrijos kunigaikštienė)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandra (Mozūrijos kunigaikštienė)"]
+sameAs: []
+canonical_biography: "To siekė ir Jogaila, tarpininkaujant abiejų seseriai, Mozūrijos kunigaikštienei Aleksandrai."
 ---
 # Aleksandra (Mozūrijos kunigaikštienė)
 
@@ -61,7 +68,8 @@ To siekė ir Jogaila, tarpininkaujant abiejų seseriai, Mozūrijos kunigaikštie
 - id: c-44263
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     Tuo tarpu Bazelio
     bažnytinis susirinkimas dar 1431 m. pa-

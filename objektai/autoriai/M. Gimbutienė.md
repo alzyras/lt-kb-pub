@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-69325119ebfeda13ab04fce8"
+canonical_name: "M. Gimbutienė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["M. Gimbutienė"]
+sameAs: []
+canonical_biography: "Gimbutienė (Gimbutas), M. Gimbutienė, M."
 ---
 # M. Gimbutienė
 
@@ -56,7 +63,7 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
 <a id="claim-t-30831"></a>
 - t-002
   teiginys: "M. Gimbutienė paskelbė darbą apie bronzos amžiaus kultūrą pietryčių Baltijos regione."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
@@ -67,7 +74,8 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
 - id: c-33051
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 115."
   citata_originali: |
     1950. — Gimbutienė, M. : _Vidurinis geležies amžius_ , LE, t. 15, 282-285 p.
     — Jankevičienė, A. : _Poškaluvkos pilkapiai,_ AkMD, t. 5, 1958, 37-50 p.
@@ -90,7 +98,8 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
 - id: c-33052
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 112."
   citata_originali: |
     — Gaerte, W. : _Die steinzeitliche Keramik in Ostpreus-
     sen,_ Königsberg 1927. — Gimbutienė (Gimbutas), M. : _A Survey of the

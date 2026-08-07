@@ -31,7 +31,8 @@ Nenurodyta
 - id: c-168809
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 733"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 733."
   citata_originali: |
     P asiu n tin iai tu rė jo p areik šti štai ką.
     N o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n ­

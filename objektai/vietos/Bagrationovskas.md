@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-5b839df62b28d56d0a678f0c"
+canonical_name: "Bagrationovskas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Bagrationovskas"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv."
+place_authority: true
+historical_names: []
 ---
 # Bagrationovskas
 
@@ -32,7 +41,8 @@ Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.
 - id: c-59318
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 308."
   citata_originali: |
     Bačkininkėliai
     Bagrationovskas (buv. Pr. Ylava)

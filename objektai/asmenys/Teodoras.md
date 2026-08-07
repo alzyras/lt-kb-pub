@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1b42dfac02b538a56430f0c3"
+canonical_name: "Teodoras"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Teodoras"]
+sameAs: []
+canonical_biography: "Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi pasibaigė Kalitos dinastija. 1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve. Algirdas Podolę atidavė Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui, iš kurių buvo sulaukęs pagalbos kare su totoriais."
 ---
 # Teodoras
 
@@ -88,7 +95,8 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
 - id: c-76272
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 37."
   citata_originali: |
     Prie krūtinšarvio pritvirtintos lapo formos pečių
     apsaugos. Rankoje raitininkas laiko pusantros rankos
@@ -111,7 +119,8 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
 - id: c-76275
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 303."
   citata_originali: |
     su Lietuva, tačiau jam jau nebeteko kariauti, nes netrukus
     (1584 m.) jis mirė. Po jo, 15 metų buvo caru jokiems dideliems
@@ -130,7 +139,8 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
 - id: c-178789
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 220"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 220."
   citata_originali: |
     Tie, kuriems pavyko
     P o d o lės

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6e1784416cf8bb3bffc64d1e"
+canonical_name: "V. Vainauskas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["V. Vainauskas"]
+sameAs: []
+canonical_biography: "Vainauską ir P. Vainauskas, vyresniojo padėjėju — P."
 ---
 # V. Vainauskas
 
@@ -66,7 +73,8 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
 - id: c-44552
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 174."
   citata_originali: |
     Prieš vakarą į pagalbą lietu-
     viams atvyko vokiečių batalionas, gink-
@@ -91,7 +99,8 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
 - id: c-44553
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 174."
   citata_originali: |
     miestą, raudonarmiečiai nusprendė apeiti
     kimą keliu Kėdainiai-Kaunas ir nutraukti

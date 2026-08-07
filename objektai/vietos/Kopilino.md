@@ -25,6 +25,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-fd848363721501d08935fe12"
+canonical_name: "Kopilino"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kopilino"]
+sameAs: []
+canonical_biography: "Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, Dubrovnos apylinkes, o atsakydami į tai lietuviai nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje."
+place_authority: true
+historical_names: []
 ---
 # Kopilino
 
@@ -52,7 +61,8 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
 - id: c-176449
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 88."
   citata_originali: |
     Kol tarp Maskvos ir Lietuvos
     didžiųjų kunigaikštysčių galiojo

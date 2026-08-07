@@ -50,7 +50,8 @@ Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­ gaikščio
 - id: c-34132
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 250."
   citata_originali: |
     Keli jo paties sūnūs
     (Narimantas-Hlebas, Jaunutis-Jonas, Karijotas-Mykolas, Liubartas-

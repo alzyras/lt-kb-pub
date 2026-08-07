@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-485e32a1226f625c3946fb14"
+canonical_name: "Kapitolinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kapitolinas"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas rašė, kad Naruševičius, remdamasis Kapitolinu, šią tautą vadino Cestobochy."
 ---
 # Kapitolinas
 
@@ -54,7 +61,8 @@ Teodoras Narbutas rašė, kad Naruševičius, remdamasis Kapitolinu, šią taut�
 - id: c-174383
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 111."
   citata_originali: |
     Gal todėl,
     kad jotvingiai laikėsi lietuvių, kurie garbino nesuskai­

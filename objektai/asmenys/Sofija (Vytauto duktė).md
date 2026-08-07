@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-95dbbfbe4a5ac5d5a5311493"
+canonical_name: "Sofija (Vytauto duktė)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Maskvos kunigaikštienė Sofija","Sofija","Sofija (Vytauto duktė)","Sofiją","Vytauto dukters Sofijos","Vytauto dukterį Sofiją","Zofija"]
+sameAs: []
+canonical_biography: "Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. Šaltiniai ją sieja su Vosyliaus vedybų planu, Vytauto ryšiais su Maskva, protestu dėl Žemaitijos ir nepilnamečio sūnaus globos klausimu."
 ---
 # Sofija (Vytauto duktė)
 
@@ -147,7 +154,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 156."
   citata_originali: |
     Vytautas ruošėsi gerai juos nubausti. Bet dar Minske jį sutiko
     duktė Sofija, Maskvos kunigaikštienė su nepilnamečiu savo
@@ -165,7 +173,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 149."
   citata_originali: |
     Ordino pasiuntinys, žinoma, jo nepriėmė.
     Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto
@@ -186,7 +195,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 149."
   citata_originali: |
     Ordino gi pasiuntiniui, kuris dar kaltino Vytautą, kad jis nebeiš­
     duoda Torne žadėto rašto apie Žemaitijos grąžinimą po savo ir
@@ -209,7 +219,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 54."
   citata_originali: |
     Bet ir tokio fakto akivaizdoj, Vytautas dar kartą pareika­
     lavo iš Jogailos ištesėti savo pažadus. Tai buvo paskutinis Vy­
@@ -234,7 +245,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 53."
   citata_originali: |
     Pabaigoj
     1387 m. apsilankė jis Vytauto dvare Lucke. Čia jie padarė su­
@@ -255,7 +267,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 - id: c-168191
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 324-325"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 324-325."
   citata_originali: |
     Priėmus nutarimą, ieškota žmogaus, kuriam be
     pavojaus galima būtų patikėti šią slaptą užduotį, mat jis

@@ -76,7 +76,8 @@ Nenurodyta
 - id: c-83175
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 89."
   citata_originali: |
     Toms bažnyčioms prašytume dar šiais metais
     ketverto vienuolių, mokančių lenkų, prūsų ir žemgalių kal­

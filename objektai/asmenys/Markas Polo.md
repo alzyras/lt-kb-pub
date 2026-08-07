@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d2a9830353fdb2ad1cb946bf"
+canonical_name: "Markas Polo"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Markas Polo"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas rašo, kad Marko Polo žinios apie Kiniją ilgai buvo išjuokiamos, bet Barovas jas vėliau siejo su jėzuitų aprašymais."
 ---
 # Markas Polo
 
@@ -53,7 +60,8 @@ Teodoras Narbutas rašo, kad Marko Polo žinios apie Kiniją ilgai buvo išjuoki
 - id: c-174324
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Spėjama, kad šališkas jo aiškin­
     tojas Strabonas daug ką jam priskyrė svetimo. Dažnai

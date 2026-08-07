@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-7144a61050f935aad41c43dd"
+canonical_name: "Kauno įgulos bažnyčia"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kauno įgulos bažnyčia"]
+sameAs: []
+canonical_biography: "Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pritaikytos uždarytos bažnyčios: Šv."
+place_authority: true
+historical_names: []
 ---
 # Kauno įgulos bažnyčia
 
@@ -49,7 +58,8 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 - id: c-24175
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 221."
   citata_originali: |
     Už-
     darytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pri-

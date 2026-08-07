@@ -22,6 +22,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e77a7bc790ef0f8876d06ffc"
+canonical_name: "Ilona Bučinskytė"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Ilona Bučinskytė"]
+sameAs: []
+canonical_biography: "Svarbiausia literatūra: Bučinskytė Ilona."
 ---
 # Ilona Bučinskytė
 
@@ -46,9 +53,9 @@ Svarbiausia literatūra: Bučinskytė Ilona.
 ## Citatos
 
 - id: c-185574
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 126."
   citata_originali: |
     Svarbiausia
     literatūra: Bučinskytė Ilona. Kauno miestiečiai ir Lietuvos bernardinų

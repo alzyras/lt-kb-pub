@@ -27,6 +27,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-a75aeb37d65bc836d81b4ecb"
+canonical_name: "Konradas Ciolneris Rotenšteinas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Konradas Ciolneris Rotenšteinas"]
+sameAs: []
+canonical_biography: "Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­ kos sėkmingos, didysis magistras Konradas Ciolneris Rotenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų rugpjūtį ties Kaunu. Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino maršalo Engelhardo Rabės22, kadangi didysis magistras Konradas Ciolneris gu­ lėjo pakirstas sunkios ligos. 22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s klysta sakyda­ mi, esą žygio vadovavimas buvo pa­ vestas Konradui Valenrodui, kurį jau tuo metu vadina didžiuoju ma­ gistru, kai Konradas Valenrodas 1382 metais, sekmadienį prieš Šv."
 ---
 # Konradas Ciolneris Rotenšteinas
 
@@ -95,7 +102,8 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 - id: c-83418
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 56-57"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 56-57."
   citata_originali: |
     40
 
@@ -123,7 +131,8 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 - id: c-83419
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135."
   citata_originali: |
     Dabartinis
     iš tiesų visiškai skiriasi nuo pirmes-
@@ -166,7 +175,8 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
 - id: c-83420
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 135."
   citata_originali: |
     Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
     vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar

@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2cedc28e555152a6ac549aa9"
+canonical_name: "Adrian Balbi"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Adrian Balbi"]
+sameAs: []
+canonical_biography: "Adrianas Balbi suskaičiavo 860 tuo metu žinomų kalbų, kuriose, Narbuto perteikimu, buvo galima atsekti mažiausiai 5 tūkstančius dialektų."
 ---
 # Adrian Balbi
 
@@ -48,7 +55,8 @@ Adrianas Balbi suskaičiavo 860 tuo metu žinomų kalbų, kuriose, Narbuto perte
 - id: c-174485
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 514."
   citata_originali: |
     196 /P.
     366, 3

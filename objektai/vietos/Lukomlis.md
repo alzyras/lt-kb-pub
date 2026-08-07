@@ -28,6 +28,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c6ac1796a6c440c7cd99219"
+canonical_name: "Lukomlis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lukomlis"]
+sameAs: []
+canonical_biography: "Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą."
+place_authority: true
+historical_names: []
 ---
 # Lukomlis
 
@@ -79,7 +88,8 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
 - id: c-43606
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 70."
   citata_originali: |
     Švitrigailos
     rėmėjų kariuomenėje kilo arklių maras,
@@ -102,7 +112,8 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
 - id: c-68114
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 294."
   citata_originali: |
     Vykdamu Lietuvon malšinti sukilimo, jiedu
     turėjo raštu pažadėti, pareikalavus, atgal sugrįžti.

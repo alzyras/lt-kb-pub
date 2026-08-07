@@ -116,7 +116,8 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
 - id: c-169747
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 207."
   citata_originali: |
     Pagal
     Ipatijų, keturi Traidenio broliai (Borza, Sirputis, Lesis, Svilkenis)

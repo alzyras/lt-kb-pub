@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d3d72b5381208ef5a4e9cb15"
+canonical_name: "Juodelių sodyba"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Juodelių sodyba"]
+sameAs: []
+canonical_biography: "Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris prasiveržė per apsupimo žiedą ir atbėgo į Pamaleišio kaimo Juodelių sodybą."
+place_authority: true
+historical_names: []
 ---
 # Juodelių sodyba
 
@@ -59,7 +68,8 @@ Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris pr
 - id: c-45115
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 247."
   citata_originali: |
     Kautynių metu iš bunkerio pavyko išsiveržti
     Juozui Kemekliui-Rokui, kuris prasiveržė

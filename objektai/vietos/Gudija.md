@@ -30,6 +30,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-82b4a5b5fab577881427a1c5"
+canonical_name: "Gudija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gudija"]
+sameAs: []
+canonical_biography: "Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas."
+place_authority: true
+historical_names: []
 ---
 # Gudija
 
@@ -63,7 +72,8 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
 - id: c-32067
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 189."
   citata_originali: |
     (^182) II SKYRIUS: VALSTYBĖS IŠKILIMAS
     krūvos. Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas

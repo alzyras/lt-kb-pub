@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e4c6410688f88e9fa8661ba2"
+canonical_name: "Zaberezinskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zaberezinskis"]
+sameAs: []
+canonical_biography: "Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos atmušė."
 ---
 # Zaberezinskis
 
@@ -52,7 +59,8 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
 - id: c-44579
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 80."
   citata_originali: |
     Buvo suformuotos dvi
     kolonos, kurios turėjo pulti Krasnystavo

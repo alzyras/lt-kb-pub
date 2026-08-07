@@ -22,6 +22,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2b17e85e3573238ec7c4fe44"
+canonical_name: "Gercikė (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Gercikė","Gercikė (vieta)"]
+sameAs: []
+canonical_biography: "Tuo Gercikps grobiu meldžionys nekakinos, kai pogi žinodami vietovėj Gercikėj daug gėrybių dar esant, kurių gobėdamos kamendotas Kuoknesės Meinhardas traukė vėl į Gercikę ant Visvaldžio kuni gaikščio, kursai, tą išgirdęs, patelkė lietuvius ir že maičius."
+place_authority: true
+historical_names: []
 ---
 # Gercikė (vieta)
 
@@ -46,9 +55,9 @@ Tuo Gercikps grobiu meldžionys nekakinos, kai pogi žinodami vietovėj Gercikė
 ## Citatos
 
 - id: c-184486
-  autorius: "Simonas Daukantas"
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
-  indeksas: "Simonas Daukantas, Daukantas, Istorija žemaitiška, t.1, 1995."
+  puslapiai: "PDF 223"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995, PDF 223."
   citata_originali: |
     Kitoj pusėj meldžionys kariavo su igumiais, kru­
     vinose ir baisiose karėse pjaudamos iki paskuojo.

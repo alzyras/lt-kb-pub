@@ -51,7 +51,8 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 - id: c-22781
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 91."
   citata_originali: |
     Nors Seimui pirmininkauti
     turi karalius, jo įstatymų leidybos galios yra ribotos, o karaliaus vaidmuo
@@ -73,7 +74,8 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 - id: c-166575
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 91."
   citata_originali: |
     Atšaukiama karalių renkamumo tvarka,
     dėl kurios Lenkija ir Lietuva nusirito į anarchijos liūną, valstybė skelbia-

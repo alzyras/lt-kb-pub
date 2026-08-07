@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4171c91a2392457e3ae87c65"
+canonical_name: "Henrikas (kryžiuočių magistras)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Henrikas (kryžiuočių magistras)"]
+sameAs: []
+canonical_biography: "Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas priesaikos nesikišti į prūsų karą. Magistras Henrikas, įkurdinęs stiprią įgulą Gotesverderio pilyje prie Kauno, su likusia kariuomene niokojo kraštą. Mūšyje kryžiuočiai neteko ordino magistro Henriko ir dvidešimt šešių kilmingųjų ordino riterių."
 ---
 # Henrikas (kryžiuočių magistras)
 
@@ -152,7 +159,8 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
 - id: c-169363
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 130."
   citata_originali: |
     Atrodė, jog kryžiuočiams šį
     5*
@@ -191,7 +199,8 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
 - id: c-169364
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 249."
   citata_originali: |
     Šią naują
     pilį, esančią per vieną mylią nuo Kauno, pavadino
@@ -218,7 +227,8 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
 - id: c-169365
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 251."
   citata_originali: |
     Prasidėjo iš tie­
     sų žiaurus mūšis: ir vieni, ir

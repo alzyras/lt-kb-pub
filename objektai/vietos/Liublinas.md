@@ -33,6 +33,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-cb2a49eb5c564b0f3602766e"
+canonical_name: "Liublinas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Liublinas"]
+sameAs: []
+canonical_biography: "Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos karaliumi vieta, ir kaip 1569 m. erdvė, kur galutinai nustatyti abiejų tautų valstybiniai santykiai. Šiame šaltinyje Liublino unija taip pat žymi naujo Lietuvos istorijos laikotarpio pradžią."
+place_authority: true
+historical_names: []
 ---
 # Liublinas
 
@@ -45,7 +54,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 <a id="claim-t-173688"></a>
 - t-001
   teiginys: "1569 m. Liubline lenkai reikalavo visiško Lietuvos ir Lenkijos sujungimo, o lietuviai siekė abiejų valstybių savarankiškumo."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -60,12 +69,12 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir aiškiau susietas su Liublinu."
   pagrindžia:
     - c-157971
-    - c-182285
+    - c-186112
 
 <a id="claim-t-173691"></a>
 - t-002
   teiginys: "Liublino seimas unijos klausimui spręsti susirinko 1569 m. sausio 10 d."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Liublino seimas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,12 +90,11 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-157972
-    - c-182282
 
 <a id="claim-t-173694"></a>
 - t-003
   teiginys: "Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -96,36 +104,14 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liublinas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-157963
-    - c-182287
-
-<a id="claim-t-173695"></a>
-- t-004
-  teiginys: "1569 m. Liubline galutinai nustatyti abiejų tautų tarpusavio valstybiniai santykiai."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liublinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liublinas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Liubliną ir remiasi citata."
-  pagrindžia:
-    - c-157970
-    - c-182283
-    - c-182284
 
 <a id="claim-t-173696"></a>
-- t-005
+- t-004
   teiginys: "1432 m. pradžioje, stringant lenkų ir lietuvių deryboms, Jogaila stovėjo Liubline, o Švitrigaila su kryžiuočių atstovais buvo Brastoje."
-  atnaujinta: "2026-07-19 16:46"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Liublinas: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -139,14 +125,15 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   temporaliniai_duomenys: "įvykio data: 1432 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Perrašyta pašalinant skliaustus ir paverčiant teiginį sklandžiu sakiniu."
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-157965
     - c-182286
 
 <a id="claim-t-185020"></a>
-- t-006
+- t-005
   teiginys: "Lenkai ginklu siekė atsiimti iš rusų Liubliną, kurio, pasak Kojelavičiaus, buvo netekę prieš penkiasdešimt septynerius metus."
-  atnaujinta: "2026-07-13 01:28"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -168,9 +155,9 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - c-168381
 
 <a id="claim-t-199532"></a>
-- t-007
+- t-006
   teiginys: "1386 m. Jogaila nuvyko į Liubliną ir ten buvo išrinktas Lenkijos karaliumi."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
   susije_objektai: "llm_object: Liublinas; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Valkaviskas"
@@ -186,13 +173,14 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   ryšio_targeto_parinkimas: "Liublinas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Claim tiesiogiai nurodo Jogailos nuvykimą į Liubliną."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-05658
 
 <a id="claim-t-199533"></a>
-- t-008
+- t-007
   teiginys: "Iš Liublino seimo į Vilnių atvykęs karalius ėmėsi reikalų su totoriais."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -200,13 +188,14 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   sudarymo_pagrindimas: "Reikia pašalinti neaiškų žodžių junginį ir išlaikyti citatos faktą."
   susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Krymas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-182279
 
 <a id="claim-t-199537"></a>
-- t-009
+- t-008
   teiginys: "Karalius Olbrachtas su broliu karalaičiu Zigmantu išvyko į Liubliną prieš abiejų šalių ponų suvažiavimą Parčeve."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -221,14 +210,29 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   ryšio_targeto_parinkimas: "Parčevas: mention_match, place, gap=45"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liublinas\" parinktas kaip owner_note_path. Targetas \"Parčevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-182280
+
+<a id="claim-t-199538"></a>
+- t-009
+  teiginys: "1569 m. Liubline galutinai nustatyti abiejų tautų tarpusavio valstybiniai santykiai."
+  atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas sakinys apie Liubliną ir remiasi citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva"
+  temporaliniai_duomenys: "įvykio data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Liubliną ir remiasi citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-182283
 
 <a id="claim-t-199539"></a>
 - t-010
   teiginys: "Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys tiksliai perteikia Liublino teisės gavimo faktą."
   susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Haličas; mentioned_place: Krokuva; mentioned_place: Lvovas; mentioned_place: Poznanė; mentioned_place: Sandomiras"
@@ -243,44 +247,48 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   ryšio_targeto_parinkimas: "Liublinas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "„Stovėjo Liubline“ rodo laikiną buvimą vietoje, bet nėra tiesioginis gyvenimo faktas."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-182278
 
 <a id="claim-t-199541"></a>
 - t-011
   teiginys: "Vasarį stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad pinigai būtų išsiųsti į Leipcigą."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Citata palaiko konkretų veiksmą Liubline, pradiniame teiginyje yra OCR triukšmo."
   susije_objektai: "mentioned_place: Leipcigas; mentioned_person: [[objektai/asmenys/Mlodyčius|Mlodyčius]]; mentioned_person: [[objektai/asmenys/Plockis|Plockis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182281
 
 <a id="claim-t-199542"></a>
 - t-012
   teiginys: "Krokuvos ir Liublino gatvės buvo siejamos su gotikos rūmais ir aukštomis sienomis."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Krokuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-182289
 
 <a id="claim-t-199543"></a>
 - t-013
   teiginys: "Liubline stovyklininkas Pavlikas keitė lietuviškas monetas į lenkiškas, kad pinigai būtų pasiųsti į Leipcigą."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Leipcigas; mentioned_person: [[objektai/asmenys/Mlodyčius|Mlodyčius]]; mentioned_person: [[objektai/asmenys/Plockis|Plockis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182281
 
 <a id="claim-t-199544"></a>
 - t-014
   teiginys: "XIV a. Liublino gatvės buvo siejamos su gotikos rūmais, apsuptais aukštų sienų."
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Citata palaiko tik bendrą palyginamąjį faktą apie Liubliną."
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Krokuva"
@@ -292,6 +300,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liublinas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182289
 
@@ -348,7 +357,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 - id: c-05658
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 293."
   citata_originali: |
     Valkaviske Lenkijos pasiuntinių sutiktas (1386.I.12), Jogaila
     nuvyko į kilmingųjų seimą Liubline, kur buvo išrinktas Lenkijos
@@ -359,12 +369,13 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
 
 - id: c-157963
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 55."
   citata_originali: |
     Tad Koja­
     lavičiui, kuris iš esmės terašė gražia, klasikine lotynų kalba pasi­
@@ -384,7 +395,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 - id: c-157965
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
     ir lietuvių strigo (tuo metu Jogaila sto-
@@ -396,12 +408,13 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-157970
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 12."
   citata_originali: |
     1569 metais Liubline « abiejų tautų » galutinai nustatyti tarpu­
     saviai valstybiniai santykiai, lygiai kaip ir įkandin prasidedąs
@@ -413,16 +426,15 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     ir netikėtinumų.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-
 - id: c-157971
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 236."
   citata_originali: |
     Dėl to bajorija ir toliau reikalavo išspręsti unijos klausimą ir
     sušaukti tam reikalui specialų seimą, kurs pagaliau susirinko
@@ -446,7 +458,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 - id: c-157972
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 236."
   citata_originali: |
     Bet vis dėlto pasiliko svar-
     biausias į uniją traukiąs veiksnys — nebaigtas karas su Maskva.
@@ -500,12 +513,13 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-005
 
 - id: c-182278
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 24."
   citata_originali: |
     Tad jau
     nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
@@ -529,7 +543,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 - id: c-182279
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 248-249"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 248-249."
   citata_originali: |
     Atrodo, kad tais metais bu­
     vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­
@@ -552,7 +567,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
 
 - id: c-182280
   autorius: "Anoniminis metraštininkas"
@@ -582,12 +597,13 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-008
 
 - id: c-182281
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 459-460"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 459-460."
   citata_originali: |
     Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
     aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad
@@ -600,7 +616,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     Plockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į
     lenkiškas, pridėjau 1310 flor. (23 fl.: 88) (6) 9 den.
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -611,7 +627,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 - id: c-182282
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 236."
   citata_originali: |
     Bet vis dėlto pasiliko svar-
     biausias į uniją traukiąs veiksnys — nebaigtas karas su Maskva.
@@ -625,16 +642,15 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   citata_rodoma: "**Liublino seimo eiga ir unijos aktas.** Kaip Varšuvos seime\n(1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-\ntybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,\nkad abidvi valstybės pasiliktų savarankiškos."
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
 - id: c-182283
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 12."
   citata_originali: |
     1569 metais Liubline « abiejų tautų » galutinai nustatyti tarpu­
     saviai valstybiniai santykiai, lygiai kaip ir įkandin prasidedąs
@@ -650,12 +666,13 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-009
 
 - id: c-182284
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 12."
   citata_originali: |
     1569 metais Liubline « abiejų tautų » galutinai nustatyti tarpu­
     saviai valstybiniai santykiai, lygiai kaip ir įkandin prasidedąs
@@ -666,17 +683,16 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     Tai buvo ilgametis procesas nuo Vazų dinastijos laikų, be šuolių
     ir netikėtinumų.
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-28 14:17"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-
 - id: c-182285
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 236."
   citata_originali: |
     Dėl to bajorija ir toliau reikalavo išspręsti unijos klausimą ir
     sušaukti tam reikalui specialų seimą, kurs pagaliau susirinko
@@ -690,17 +706,16 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     1 d.).
   citata_rodoma: "** Kaip Varšuvos seime\n(1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-\ntybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,\nkad abidvi valstybės pasiliktų savarankiškos. Po ilgokų derybų,\nper kurias vienų kitiems buvo pasakyta daug karčių žodžių,\nlietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo\n1 d."
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:11"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
 - id: c-182286
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 68."
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
     ir lietuvių strigo (tuo metu Jogaila sto-
@@ -712,12 +727,13 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-004
 
 - id: c-182287
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 55."
   citata_originali: |
     Tad Koja­
     lavičiui, kuris iš esmės terašė gražia, klasikine lotynų kalba pasi­
@@ -728,16 +744,15 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     gerokai buvo niveliavęsi^31.
   statusas: verified
   atnaujinta: "2026-07-12 23:03"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
 - id: c-182289
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 126."
   citata_originali: |
     Visi tie pastatai, at­
     skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais
@@ -756,13 +771,43 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     juosta statinių tvoromis.
   citata_rodoma: "Lietuvai, ilgai nuo krikščio­\nniškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių\nantpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­\nkos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios,\nnors ir siauros Krokuvos ar Liublino gatvės, nei tokie, tam\nlaikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės\nprekybos namai, statydinti Kazimiero Didžiojo. Vilniuje, vi­\ndur namų samplaikos, iškilesnėje vietovėje nei Šventaragio\nslėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­\ntuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­\njuosta statinių tvoromis."
   statusas: verified
-  atnaujinta: "2026-07-12 23:03"
+  atnaujinta: "2026-07-29 11:11"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-012
     - t-014
+
+- id: c-186112
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Po šitų reformų Lietuvos valstybės aparatas pasidarė jau
+    toks pat, koks jis buvo ir Lenkijoje, ir Lietuvos bajorijos tei-
+    sės buvo visiškai sulygintos su Lenkijos bajorų teisėmis. Su-
+    vienodinus valstybes, iš vienos pusės, unijos klausimas turėjo
+    palengvėti, nes dvi vienodai organizuotas valstybes yra lengviau
+    sujungti; iš kitos pusės, gavus visas teises, sumažėjo Lietuvos
+    bajorijos noras susijungti su Lenkija, nes unija tuo atžvilgiu
+    jau nebegalėjo nieko naujo duoti. Bet vis dėlto pasiliko svar-
+    biausias į uniją traukiąs veiksnys — nebaigtas karas su Maskva.
+    Dėl to bajorija ir toliau reikalavo išspręsti unijos klausimą ir
+    sušaukti tam reikalui specialų seimą, kurs pagaliau susirinko
+    1569 m. sausio 10 d.
+    **Liublino seimo eiga ir unijos aktas.** Kaip Varšuvos seime
+    (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
+    tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
+    kad abidvi valstybės pasiliktų savarankiškos.
+  citata_rodoma: "Po šitų reformų Lietuvos valstybės aparatas pasidarė jau\ntoks pat, koks jis buvo ir Lenkijoje, ir Lietuvos bajorijos tei-\nsės buvo visiškai sulygintos su Lenkijos bajorų teisėmis. Su-\nvienodinus valstybes, iš vienos pusės, unijos klausimas turėjo\npalengvėti, nes dvi vienodai organizuotas valstybes yra lengviau\nsujungti; iš kitos pusės, gavus visas teises, sumažėjo Lietuvos\nbajorijos noras susijungti su Lenkija, nes unija tuo atžvilgiu\njau nebegalėjo nieko naujo duoti. Bet vis dėlto pasiliko svar-\nbiausias į uniją traukiąs veiksnys — nebaigtas karas su Maskva.\nDėl to bajorija ir toliau reikalavo išspręsti unijos klausimą ir\nsušaukti tam reikalui specialų seimą, kurs pagaliau susirinko\n1569 m. sausio 10 d.\n**Liublino seimo eiga ir unijos aktas.** Kaip Varšuvos seime\n(1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-\ntybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,\nkad abidvi valstybės pasiliktų savarankiškos."
+  statusas: verified
+  atnaujinta: "2026-07-29 11:11"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
 
 ## Ryšiai
 - Puolė Liubliną: [[objektai/grupes/Lietuviai]]

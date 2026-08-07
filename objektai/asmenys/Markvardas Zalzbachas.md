@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c5dd34fc9f723720cbc8ec3b"
+canonical_name: "Markvardas Zalzbachas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Markvardas Zalzbachas"]
+sameAs: []
+canonical_biography: "Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komtūro Markvardo."
 ---
 # Markvardas Zalzbachas
 
@@ -50,7 +57,8 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
 - id: c-41194
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 55."
   citata_originali: |
     Čia buvo ir
     Tochtamišo totoriai (keli tūkstančiai), 400

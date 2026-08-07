@@ -98,7 +98,8 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
 - id: c-55773
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 366."
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS
     posakį: Ab alio expectes alteri quod feceris [Tai, ką padarei vie­

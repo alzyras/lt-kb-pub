@@ -29,6 +29,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-124ee126f585145f942d0076"
+canonical_name: "Kuršo gubernija"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Kuršo gubernija"]
+sameAs: []
+canonical_biography: "Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena. Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno gubernijos kaimai."
+place_authority: true
+historical_names: []
 ---
 # Kuršo gubernija
 
@@ -73,7 +82,8 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
 - id: c-43554
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 161."
   citata_originali: |
     Tuomet žygiuoti carinės kariuomenės
     tvirtovės Daugpilio link ir padedant ten
@@ -101,7 +111,8 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
 - id: c-175942
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 591-592"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 591-592."
   citata_originali: |
     **2. Lietuvos Latvijos sienos nustatymas**
 

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8204a9c414509cce0b61bbd7"
+canonical_name: "Mikalojus Sapienskis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Mikalojus Sapienskis"]
+sameAs: []
+canonical_biography: "Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapienskis, Vytauto atstovas, lenkų didikų susirinkime pasa­ kė: „Nalega na pana mojego, ksiąźecia Witolda“, Zygmunt Jego Miłość król Rzymski, prośba, radą i namową, ażeby z książęcej dozwoli!"
 ---
 # Mikalojus Sapienskis
 
@@ -67,7 +74,8 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 229."
   citata_originali: |
     Nors buvo jau vakaras, Zigmantas
     aplankė Vytautą. Rado čia ir Vytauto sekretorių ar kanclerį
@@ -86,7 +94,8 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 230."
   citata_originali: |
     (^1) ) C. ep. V. 816 p. (^2) ) T. p.
     (^3) ) M. Sapienskis, Vytauto atstovas, lenkų didikų susirinkime pasa­

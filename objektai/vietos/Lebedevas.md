@@ -19,6 +19,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-748a8a60626ed04416ad59b8"
+canonical_name: "Lebedevas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Lebedevas"]
+sameAs: []
+canonical_biography: "Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą."
+place_authority: true
+historical_names: []
 ---
 # Lebedevas
 
@@ -51,7 +60,8 @@ Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.
 - id: c-170309
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 311."
   citata_originali: |
     “  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus
     vyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede-

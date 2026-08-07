@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-07348a000b110b50af6d9c0d"
+canonical_name: "Selma Lagerlöf"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Selma Lagerlöf"]
+sameAs: []
+canonical_biography: "Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI."
 ---
 # Selma Lagerlöf
 
@@ -44,7 +51,8 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 317."
   citata_originali: |
     3. Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­
     JIMAI. Vertė J. T.

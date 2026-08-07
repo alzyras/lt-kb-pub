@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c4a54cc1a8a5e2e2cb8097d8"
+canonical_name: "Bendoraitis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Bendoraitis"]
+sameAs: []
+canonical_biography: "Bendoraitis apsisuko kelis kartus ore ir nukrito."
 ---
 # Bendoraitis
 
@@ -50,7 +57,8 @@ Bendoraitis apsisuko kelis kartus ore ir nukrito.
 - id: c-44309
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 196."
   citata_originali: |
     Vienas sviedinys sprogo po
     skyrininku Bendoraičiu ir išmetė jį aukščiau telefono stulpų.

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-66a197320d0a20c75bd80d8f"
+canonical_name: "Skurda"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Skurda"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517."
 ---
 # Skurda
 
@@ -67,7 +74,8 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
 - id: c-61068
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 172"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 172."
   citata_originali: |
     Tačiau Skurdą516,
     kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į

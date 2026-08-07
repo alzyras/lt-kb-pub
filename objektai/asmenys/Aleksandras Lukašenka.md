@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-680d3fc919f42ffdada0430e"
+canonical_name: "Aleksandras Lukašenka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aleksandras Lukašenka"]
+sameAs: []
+canonical_biography: "Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lukašenkos diktatūrinis valdymas."
 ---
 # Aleksandras Lukašenka
 
@@ -63,7 +70,8 @@ Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prez
 - id: c-20456
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 258"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 258."
   citata_originali: |
     bendradarbiavimo ir dėl valstybės sienos. Gerai klostėsi ekonominiai san-
     tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-

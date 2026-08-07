@@ -59,7 +59,8 @@ Tų anuomet garsių vaišių parengi­ mas ir žygio išlaidos, pasak kai kurių
 - id: c-82591
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 146-147"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 146-147."
   citata_originali: |
     130
 

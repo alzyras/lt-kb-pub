@@ -19,6 +19,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-855cab8203de481350b011a9"
+canonical_name: "Brantas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Brantas"]
+sameAs: []
+canonical_biography: "Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latvišką maldos „Tėve mūsų“ tekstą."
 ---
 # Brantas
 
@@ -54,7 +61,8 @@ Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latv
 - id: c-173301
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 448"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 448."
   citata_originali: |
     Musu denisze majse dut mums szoden; pamate
     mums musu grakie, kas mes pamat musu paraduken; ne wede

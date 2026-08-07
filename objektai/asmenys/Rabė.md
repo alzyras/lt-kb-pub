@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae88160c8cf56d419b384678"
+canonical_name: "Rabė"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Rabė"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis."
 ---
 # Rabė
 
@@ -58,7 +65,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir p
 - id: c-61054
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
   citata_originali: |
     45(44). Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis
     Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop

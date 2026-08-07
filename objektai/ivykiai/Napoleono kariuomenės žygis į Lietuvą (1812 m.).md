@@ -68,7 +68,8 @@ Nenurodyta
 - id: c-66924
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 459"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 459."
   citata_originali: |
     Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau
     sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-

@@ -26,6 +26,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-2e65bcee1751b58912ca9d53"
+canonical_name: "Protvos upė"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Protvos upė"]
+sameAs: []
+canonical_biography: "Yra įrodyta, jog « Goliad’ » buvo toliausiai į rytus įsiterpusi baltiš­ kos kilties atplaiša, kuri, pasėkoje rytinių slavų ekspansijos į vaka­ rus, paliko prie Protvos upės atkirsta asimiliacijai (M."
+place_authority: true
+historical_names: []
 ---
 # Protvos upė
 
@@ -58,7 +67,8 @@ Yra įrodyta, jog « Goliad’ » buvo toliausiai į rytus įsiterpusi baltiš­
 - id: c-34009
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 123."
   citata_originali: |
     Su jau Ptolomėjaus minimais galindais yra tapatinama Ipati­
     jaus kronikoje du kartu (1058 ir 1147 m.) minimi «ljudi Goliad’ ».

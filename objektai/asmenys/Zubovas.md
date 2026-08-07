@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-d95a4f298ca3987786bd2b09"
+canonical_name: "Zubovas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Zubovas"]
+sameAs: []
+canonical_biography: "Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, pradėjo ją tvarky­ ti, norėdamas grąžinti senovinį gotikinį vaizdą, bet nebai­ gęs mirė."
 ---
 # Zubovas
 
@@ -50,7 +57,8 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
 - id: c-83874
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 120."
   citata_originali: |
     Po to ji perėjo Olendzkių nuosavybėn, jie
     čia gyveno apie 30 metų. Pagaliau kunigaikštis Zubovas, ku­

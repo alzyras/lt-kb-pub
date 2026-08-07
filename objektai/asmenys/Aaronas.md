@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-31d04d6b93f71a0db3ee1d94"
+canonical_name: "Aaronas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Aaronas"]
+sameAs: []
+canonical_biography: "Aaronas, pirmasis Tyneco abatas, o vė­ liau septintasis iš eilės Krokuvos vyskupas ir paskutinysis jų prancū­ zų kilmės, turėjo Prancūzijoje būda­ mas herbą, labai paplitusį - trijų karališkų karūnų, aukso spalvos, baltame fone, ant kario skydo."
 ---
 # Aaronas
 
@@ -61,7 +68,8 @@ Aaronas, pirmasis Tyneco abatas, o vė­ liau septintasis iš eilės Krokuvos vy
 - id: c-83583
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 206."
   citata_originali: |
     Aaro-
     nas, pirmasis Tyneco abatas, o vė­

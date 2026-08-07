@@ -21,6 +21,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-8eb9694a3603c0dde9d19701"
+canonical_name: "Feletėjas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Feletėjas"]
+sameAs: []
+canonical_biography: "Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo."
 ---
 # Feletėjas
 
@@ -57,7 +64,8 @@ Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo
 - id: c-169561
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 53."
   citata_originali: |
     Žygiuodamas toliau su kariuomene,
     jis užėmė Romą ir, nukėlęs

@@ -120,7 +120,8 @@ Nenurodyta
 - id: c-63750
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111."
   citata_originali: |
     Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno
     Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas

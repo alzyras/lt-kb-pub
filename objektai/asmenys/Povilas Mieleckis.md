@@ -28,6 +28,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4c33397803cba30cace9801b"
+canonical_name: "Povilas Mieleckis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Povilas Mieleckis"]
+sameAs: []
+canonical_biography: "Po Rotundo Vilniaus vaitu tapo ir 1561 metais valdė Po­ vilas Mieleckis, kaip patvirtina tų pačių vaitų sąrašas, išlikęs miesto ar­ chyve."
 ---
 # Povilas Mieleckis
 
@@ -61,7 +68,8 @@ Po Rotundo Vilniaus vaitu tapo ir 1561 metais valdė Po­ vilas Mieleckis, kaip 
 - id: c-83579
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 298."
   citata_originali: |
     Po Rotundo Vilniaus
     vaitu tapo ir 1561 metais valdė Po­

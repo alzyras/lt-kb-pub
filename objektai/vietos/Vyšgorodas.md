@@ -27,6 +27,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-abe96fca7a6f24a0f21bc6bf"
+canonical_name: "Vyšgorodas"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Vyšgorodas"]
+sameAs: []
+canonical_biography: "Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvykių į vakarus nuo Lietuvos analizė rodo, kad Lietuvai palankiausia situacija buvo 1325-1326 m."
+place_authority: true
+historical_names: []
 ---
 # Vyšgorodas
 
@@ -60,7 +69,8 @@ Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvyk
 - id: c-45444
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 36."
   citata_originali: |
     vijo totorius ir Kijevą paėmė į savo valdžią.
     Gedimino valdžią tuo metu pripa-

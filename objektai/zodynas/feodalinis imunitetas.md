@@ -62,7 +62,8 @@ media_all_json: |-
 - id: c-168745
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 30."
   citata_originali: |
     Žymesnieji buržuazinės istoriografijos atstovai, lai­
     kydamiesi tokios didžiavalstybinės pažiūros, vadino

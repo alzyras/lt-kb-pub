@@ -35,12 +35,16 @@ media_all_json: |-
 
 „Kochać“ yra Krystynos Dlugosz-Kurczabowos tekstas, 2008 m. paskelbtas leidinyje „Wielki słownik etymologiczno-historyczny języka polskiego“.
 
+## Santrauka
+
+„Kochać“ yra Krystynos Dlugosz-Kurczabowos tekstas, 2008 m. paskelbtas leidinyje „Wielki słownik etymologiczno-historyczny języka polskiego“.
+
 ## Teiginiai
 
 <a id="claim-t-200752"></a>
 - t-001
   teiginys: "„Kochać“ yra Krystynos Dlugosz-Kurczabowos tekstas, 2008 m. paskelbtas leidinyje „Wielki słownik etymologiczno-historyczny języka polskiego“."
-  atnaujinta: "2026-07-14 18:18"
+  atnaujinta: "2026-07-26 20:37"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,6 +63,6 @@ media_all_json: |-
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 18."
   citatos_rezimas: "indeksas"
   statusas: verified
-  atnaujinta: "2026-07-14 18:15"
+  atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-001

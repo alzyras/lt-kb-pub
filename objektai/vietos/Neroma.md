@@ -20,6 +20,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-0cd81e66af5a9dd6f7758ba0"
+canonical_name: "Neroma"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Neroma"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos kraštą ir jos vardą kildino iš Neries upės. Narbutas Nerivani arba Neromani vardus siejo su sena geografijos ištrauka, kurioje jie minimi tarp Šiaurės Europos genčių."
+place_authority: true
+historical_names: []
 ---
 # Neroma
 
@@ -74,7 +83,8 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
 - id: c-175595
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 278."
   citata_originali: |
     Taip pat
     ir Žemaitija nuo senų seniausių laikų plytėjo tarp Balti­
@@ -98,7 +108,8 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
 - id: c-175596
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 278."
   citata_originali: |
     Tačiau Nestoras IX amžiuje žinojo šį taip
     vadintą kraštą, jo gyventojus, kuriuos jis priskirdavo prie

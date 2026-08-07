@@ -33,6 +33,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ce1b9037b87ed847b4e30fcc"
+canonical_name: "Jonas XXII (arkivyskupas, XIV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas XXII","Jonas XXII (arkivyskupas, XIV a.)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­ čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo. Dusburgietis teigia, kad apie popiežių Joną XXII ir išrinktus [karalius] 1316 viešpaties metais valdė Jonas XXII, popiežius, ir šie du per nesantarvę išrinkti karaliai."
 ---
 # Jonas XXII (arkivyskupas, XIV a.)
 
@@ -100,7 +107,8 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 - id: c-166938
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 32"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 32."
   citata_originali: |
     Gediminas kūrė stačiatikių metro-
     poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
@@ -120,7 +128,8 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 - id: c-167225
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 96."
   citata_originali: |
     Įrodė, jog daugiausia kaltinimų anaiptol ne Ordinui ten­
     ka, jis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali
@@ -147,7 +156,8 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 - id: c-167479
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
   citata_originali: |
     356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
     čionių 1324 metais
@@ -173,7 +183,8 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 - id: c-167480
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249."
   citata_originali: |
     118. Apie popiežių Joną XXII ir išrinktus [karalius]
 

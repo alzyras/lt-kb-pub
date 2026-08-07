@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-1d4699bb33a770e6076ea9f7"
+canonical_name: "Hennanno de Wartberges"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Hennanno de Wartberges"]
+sameAs: []
+canonical_biography: "Vokiečių ordino XIV amž. kronikose (Wartberge, Wigand) yra minimi ištisi žirgy­ nai (« Equireae »). Kronikos nuolat mini per karus didelius skaičius iš lietuvių sodybų pagrobiamų arklių ir raguočių ; ypač daug būdavę išvaroma arklių."
 ---
 # Hennanno de Wartberges
 
@@ -50,7 +57,8 @@ Vokiečių ordino XIV amž. kronikose (Wartberge, Wigand) yra minimi ištisi ži
 - id: c-32942
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 143."
   citata_originali: |
     Daug buvo auginama arklių. Vokiečių ordino
     XIV amž. kronikose (Wartberge, Wigand) yra minimi ištisi žirgy­

@@ -31,6 +31,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4e9d2589f332fde9751600ca"
+canonical_name: "Goštautas (vyskupas, XV a.)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Goštautas","Goštautas (vyskupas, XV a.)"]
+sameAs: []
+canonical_biography: "Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos. Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių. Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną."
 ---
 # Goštautas (vyskupas, XV a.)
 
@@ -227,7 +234,8 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
 - id: c-104969
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 231."
   citata_originali: |
     Tačiau šį sumanymą ir slaptus pasitarimus su Žygiman­
     tu sugebėta išlaikyti gilioje paslaptyje. Jogaila, kad greičiau
@@ -259,7 +267,8 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 114."
   citata_originali: |
     Mindaugo krikštas ir kitų didžiųjų Lietuvos kunigaikščių,
     kaip Gedimino, Algirdo ir Kęstučio mėginimai įvesti Lietuvoje
@@ -280,7 +289,8 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
 - id: c-104972
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 231-232"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 231-232."
   citata_originali: |
     Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
     rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
@@ -337,7 +347,8 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
 - id: c-104973
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 205-206"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 205-206."
   citata_originali: |
     Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
     tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
@@ -367,7 +378,8 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
 - id: c-168068
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 374"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 374."
   citata_originali: |
     Vis dėlto buvo pamato būgštauti, kad jie gali
     nepaisyti teisėto susitarimo iš palankumo žmonėms, su
@@ -395,7 +407,8 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
 - id: c-168069
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
   citata_originali: |
     jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
     siryžęs pasiekti. Vytautui išėjus, senatas kuo rimčiau­
@@ -424,7 +437,8 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
 - id: c-168070
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 488"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 488."
   citata_originali: |
     Mirus Konstantinui Karijotaičiui, Podolės kuni­
     gaikščiui, į jo vietą Algirdas paskyręs Teodorą, jo brolį.

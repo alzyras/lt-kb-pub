@@ -77,7 +77,8 @@ Nenurodyta
 - id: c-33395
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 12."
   citata_originali: |
     Galima sakyti jau nuo XIV amžiaus pirmos pusės į Gedimino
     sostinės Vilniaus ir į Jono Kalitos tvirtovės Kremliaus pamatus

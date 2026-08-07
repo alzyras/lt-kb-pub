@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-52b06a44eeb9a1db9acaac7c"
+canonical_name: "Eduardas Vilkas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Eduardas Vilkas"]
+sameAs: []
+canonical_biography: "Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi."
 ---
 # Eduardas Vilkas
 
@@ -69,7 +76,8 @@ media_all_json: |-
 - id: c-21655
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 235."
   citata_originali: |
     Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
@@ -90,7 +98,8 @@ media_all_json: |-
 - id: c-166923
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 235."
   citata_originali: |
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
     ekonomikai. Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazi-

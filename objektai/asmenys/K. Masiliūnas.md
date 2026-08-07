@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-6a156986fdab7dc1cdf189c4"
+canonical_name: "K. Masiliūnas (viceministeris)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["K. Masiliūnas","K. Masiliūnas (viceministeris)","K. Masiliūno"]
+sameAs: []
+canonical_biography: "K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių sutelkimu ir jo rengimo parama."
 ---
 # K. Masiliūnas (viceministeris)
 
@@ -89,7 +96,8 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 - id: c-00117
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 3."
   citata_originali: |
     |
   citata_rodoma: "|"
@@ -102,7 +110,8 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 - id: c-00118
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 4."
   citata_originali: |
     |
   citata_rodoma: "|"
@@ -115,7 +124,8 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 - id: c-176296
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 9."
   citata_originali: |
     Kartais juos
     inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty-

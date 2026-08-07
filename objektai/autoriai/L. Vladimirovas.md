@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b26aafa3e9b65ee7d371a36b"
+canonical_name: "L. Vladimirovas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["L. Vladimirovas"]
+sameAs: []
+canonical_biography: "Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu (BBK, t."
 ---
 # L. Vladimirovas
 
@@ -62,7 +69,8 @@ Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje 
 - id: c-33017
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 88."
   citata_originali: |
     — Pažymėtini čia ir L. Vladimirovo straipsniai:** **_Caro vyriausybės politika
     kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu_** **(BBK, t. 3, 1964,

@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-f7b40b859af6b9f63c5f6884"
+canonical_name: "Gotardas Ketleris"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Gotardas Ketleris"]
+sameAs: []
+canonical_biography: "Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas. 1579 m. Vilniuje Steponas Batoras priėmė Gotardą Ketlerį, Kuršo kunigaikštį. Kojelavičiaus pasakojime ordino magistras Ketleris dalyvavo seime, kuriame Livonijos atstovai nutarė dėl sąjungos su Lietuva."
 ---
 # Gotardas Ketleris
 
@@ -95,7 +102,8 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
 - id: c-83483
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 308."
   citata_originali: |
     Būdamas arčiausiai karo židinio, Stepono Batoro laikais
     Vilnius virto pagrindine kariuomenių susibūrimo vieta; la­
@@ -121,7 +129,8 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
 - id: c-83484
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 340-341"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 340-341."
   citata_originali: |
     Et si autem ipsi quoq.
     in ea sententia extitimus, omni ratione, ut nobis providendum
@@ -159,7 +168,8 @@ Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui 
 - id: c-178705
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 701"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 701."
   citata_originali: |
     Visi vieningai nutarė, kad karalius, paėmęs Livoniją į
     savo globą, sudarytų savo nuožiūra su šiuo kraštu to­

@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-e00cce2e04101e03813d70b2"
+canonical_name: "J. Gasiūnas"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["J. Gasiūnas"]
+sameAs: []
+canonical_biography: "Gasiūnas, Vysk."
 ---
 # J. Gasiūnas
 
@@ -50,7 +57,8 @@ Gasiūnas, Vysk.
 - id: c-32962
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 418."
   citata_originali: |
     J. Eretas, Valančiaus šviesa už marių. Pranciškaus Juro
     ir jo bendrininkų gyvenimas bei veikla, paruošta spaudai.

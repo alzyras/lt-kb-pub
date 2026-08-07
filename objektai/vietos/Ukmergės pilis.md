@@ -21,6 +21,15 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-b63c0277591083a4dfd80542"
+canonical_name: "Ukmergės pilis"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Ukmergės pilis"]
+sameAs: []
+canonical_biography: "Kelias suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės pilį."
+place_authority: true
+historical_names: []
 ---
 # Ukmergės pilis
 
@@ -51,7 +60,8 @@ Kelias suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs 
 - id: c-82088
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 124."
   citata_originali: |
     Iš Žemutinės pilies vakarinių var­
     tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­

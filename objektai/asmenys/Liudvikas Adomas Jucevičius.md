@@ -29,6 +29,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ae6ccafdaa16346571671910"
+canonical_name: "Liudvikas Adomas Jucevičius"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Liudvikas Adomas Jucevičius"]
+sameAs: []
+canonical_biography: "Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė tą figūrą. Jucevičiumi, re gis, taip pat nebūta glaudesnių kontaktų; laiškų neliko, o 1 Šautai."
 ---
 # Liudvikas Adomas Jucevičius
 
@@ -68,7 +75,8 @@ Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui,
 - id: c-177313
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
   citata_originali: |
     1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
     Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu
@@ -94,7 +102,8 @@ Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui,
 - id: c-179333
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 458"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 458."
   citata_originali: |
     Dau­
     gumai ten išdėstytų faktų istorikas pritarė; jis mėgdavo

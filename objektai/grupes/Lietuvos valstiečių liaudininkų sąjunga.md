@@ -61,7 +61,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 <a id="claim-t-101467"></a>
 - t-002
   teiginys: "Krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos parengimo."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -105,7 +105,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 <a id="claim-t-101470"></a>
 - t-005
   teiginys: "Priėmus Lenkijos ultimatumą valstiečių liaudininkų ir krikščionių demokratų lyderiai pradėjo tartis dėl bendros programos."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -165,7 +165,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 <a id="claim-t-101474"></a>
 - t-009
   teiginys: "Priėmus Lenkijos ultimatumą prasidėjo krikščionių demokratų ir valstiečių liaudininkų lyderių pasitarimai dėl bendros programos."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
@@ -187,18 +187,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   pagrindžia:
     - c-22645
 
-<a id="claim-t-101476"></a>
-- t-011
-  teiginys: "Po Klaipėdos atplėšimo liaudininkai Jono Černiaus „vieningo darbo“ vyriausybėje gavo dvi ministrų vietas."
-  atnaujinta: "2026-07-24 15:00"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-22645
-    - c-22646
-
 <a id="claim-t-183166"></a>
-- t-012
+- t-011
   teiginys: "1926 m. birželį valstiečiai liaudininkai ir socialdemokratai sudarė naują valdančiąją koaliciją, prie kurios prisidėjo septyni tautinių mažumų atstovai."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -217,7 +207,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 - id: c-22643
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 148."
   citata_originali: |
     Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-
     se, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos:
@@ -241,7 +232,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 - id: c-22644
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     O čia dar po kie-
     toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
@@ -262,7 +254,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 - id: c-22645
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 156"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 156."
   citata_originali: |
     diktatoriumi, tačiau netrukus pasiūlė šį savo postą pirmajam Lietuvos
     valstybės prezidentui A. Smetonai. Šis sutiko, nes karininkai įvykdė jo
@@ -278,12 +271,12 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
-    - t-011
 
 - id: c-22646
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 166."
   citata_originali: |
     sąjungą (LTS), kuriai A. Smetona neleido persitvarkyti į partiją, o tik
     remti jo režimą – iš pirmo žvilgsnio opozicinių partijų veiklos lyg ir ne-
@@ -301,12 +294,12 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   pagrindzia:
     - t-006
     - t-007
-    - t-011
 
 - id: c-22647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 179."
   citata_originali: |
     Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
@@ -326,7 +319,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 - id: c-22648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 182."
   citata_originali: |
     Lietuvos
     teritorijos ir 5 proc. gyventojų, prarasta trečdalis ekonomikos, o 70 proc.
@@ -345,7 +339,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 - id: c-22649
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 187"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 187."
   citata_originali: |
     Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
     ar priešintis okupacijai, ar priimti ultimatumą. Ginkluoto pasipriešinimo
@@ -367,7 +362,8 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 - id: c-166553
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 154."
   citata_originali: |
     Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
     valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
@@ -384,4 +380,4 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - t-002
     - t-005
     - t-009
-    - t-012
+    - t-011

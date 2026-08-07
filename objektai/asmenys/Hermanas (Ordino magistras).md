@@ -30,6 +30,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-4201f5693f02189e37ef3e5a"
+canonical_name: "Hermanas (Ordino magistras)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Hermanas (Ordino magistras)"]
+sameAs: []
+canonical_biography: "Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra senoji pilis223. Dusburgietis teigia, kad apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae Mariae] pastatymą Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir. Dusburgietis teigia, kad apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo 229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo 1202 m.."
 ---
 # Hermanas (Ordino magistras)
 
@@ -84,7 +91,8 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
 - id: c-60661
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
   citata_originali: |
     Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
     pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
@@ -102,7 +110,8 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
 - id: c-60662
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 73."
   citata_originali: |
     9. Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae
                                     Mariae] pastatymą

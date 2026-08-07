@@ -72,7 +72,8 @@ Dusburgietis teigia, kad milthaler F.
 - id: c-61814
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     2: wiek XIV i XV,—Warszawa, 1896.
     Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg

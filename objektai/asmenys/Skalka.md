@@ -20,6 +20,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-db55a08e33faff603ef4fdab"
+canonical_name: "Skalka"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Skalka"]
+sameAs: []
+canonical_biography: "Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko įsiveržimo Skalka žuvo mūšyje, o jo kraštas atiteko priešams."
 ---
 # Skalka
 
@@ -54,7 +61,8 @@ Teodoras Narbutas Skalką vadino venedų karaliumi ir rašė, kad po Jarmeriko �
 - id: c-174347
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
   citata_originali: |
     Pakviestas į pagal­
     bą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti

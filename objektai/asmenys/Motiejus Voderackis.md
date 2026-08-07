@@ -25,6 +25,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-ea7800956a067de7a8fcad2c"
+canonical_name: "Motiejus Voderackis"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Motiejus Voderackis"]
+sameAs: []
+canonical_biography: "Vėliau 1643 m. Vladislovas Vaza sprendė Kauno miestiečių bylą su Gegužinės dvaro prie Neries savininku Motiejumi Voderackiu."
 ---
 # Motiejus Voderackis
 
@@ -49,9 +56,9 @@ Vėliau 1643 m. Vladislovas Vaza sprendė Kauno miestiečių bylą su Gegužinė
 ## Citatos
 
 - id: c-185496
-  autorius: "Zigmantas Kiaupa"
-  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
-  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  puslapiai: "PDF 223"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.), PDF 223."
   citata_originali: |
     Šis užpuolęs prie Saidžių kaimo Suder-
     vės valdoje sustojusias 5 Kauno pirklių vytines ir kaip kranto mokestį pagrobęs iš

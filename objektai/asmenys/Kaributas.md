@@ -32,6 +32,13 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+entity_id: "ent-c86e51ee554d135bf6d9bf9e"
+canonical_name: "Kaributas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Kaributas"]
+sameAs: []
+canonical_biography: "Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti iš savo kunigaikštijų). Kaip tik tuo metu, kada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį sukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kaributas. Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas."
 ---
 # Kaributas
 
@@ -167,7 +174,8 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 - id: c-91944
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 52."
   citata_originali: |
     Vilniui grėsė naujas
     pavojus. Ir Lietuvos sostinė ilgai netvėrė Kęstučio valdžioje;
@@ -189,7 +197,8 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 290."
   citata_originali: |
     Dar didesnio Lietuvos nuovargio liudijimas yra 1382 mt.,
     po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­
@@ -213,7 +222,8 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
   šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 105."
   citata_originali: |
     Karaliui buvo parinkta saugi vieta,
     iš kur jis galėjo matyti visą kovos lauką, o jo niekas nematė, ir
@@ -233,7 +243,8 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 - id: c-91949
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 695"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 695."
   citata_originali: |
     Lentelėse duodamieji pavyzdžiai:
     4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;
@@ -254,7 +265,8 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 - id: c-91950
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.), PDF 283."
   citata_originali: |
     Kaip kita­
     dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
@@ -280,7 +292,8 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 - id: c-91951
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 112."
   citata_originali: |
     Kęstutį iš pradžių pripažino visi. Jis, maža tekreipdamas dėme-
     sio į rytus, pradėjo kovas su kryžiuočiais. Kaip tik tuo metu,
